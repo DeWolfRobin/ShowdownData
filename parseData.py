@@ -1,4 +1,9 @@
 from os import walk
+from itertools import islice
+
+def take(n, iterable):
+    "Return first n items of the iterable as a list"
+    return list(islice(iterable, n))
 
 class Battle:
     def __init__(self):
@@ -51,8 +56,16 @@ def detectPokemonAndPlayers(l, b):
     elif (len(l) > 1 and l[1].strip() == "switch"):
         s = l[2].split(":")
         p = l[3].split(",")
-        if "-" in p[0]:
-            p[0] = p[0].split("-")[0]+"-*"
+        if "Urshifu-" in p[0]:
+            p[0] = "Urshifu-*"
+        if "Silvally-" in p[0]:
+            p[0] = "Silvally-*"
+        if "-Mega" in p[0]:
+            p[0] = p[0].split("-")[0]
+        if "Gourgeist" in p[0]:
+            p[0] = "Gourgeist-*"
+        if "Mimikyu" in p[0]:
+            p[0] = "Mimikyu"
         if "p1" in s[0]:
             b.p1.team[p[0]].nickname = s[1]
         if "p2" in s[0]:
@@ -98,8 +111,16 @@ def turnParser(l, b):
                     if (len(l) >= 3 and l[1].strip() == "switch"):
                         s = l[2].split(":")
                         p = l[3].split(",")
-                        if "-" in p[0]:
-                            p[0] = p[0].split("-")[0]+"-*"
+                        if "Urshifu-" in p[0]:
+                            p[0] = "Urshifu-*"
+                        if "Silvally-" in p[0]:
+                            p[0] = "Silvally-*"
+                        if "-Mega" in p[0]:
+                            p[0] = p[0].split("-")[0]
+                        if "Gourgeist" in p[0]:
+                            p[0] = "Gourgeist-*"
+                        if "Mimikyu" in p[0]:
+                            p[0] = "Mimikyu"
                         if "p1" in s[0]:
                             b.p1.turnactions[turn].append(line)
                         elif "p2" in s[0]:
@@ -107,8 +128,16 @@ def turnParser(l, b):
                     elif (len(l) >= 3 and l[1].strip() == "move"):
                         s = l[2].split(":")
                         p = l[3].split(",")
-                        if "-" in p[0]:
-                            p[0] = p[0].split("-")[0]+"-*"
+                        if "Urshifu-" in p[0]:
+                            p[0] = "Urshifu-*"
+                        if "Silvally-" in p[0]:
+                            p[0] = "Silvally-*"
+                        if "-Mega" in p[0]:
+                            p[0] = p[0].split("-")[0]
+                        if "Gourgeist" in p[0]:
+                            p[0] = "Gourgeist-*"
+                        if "Mimikyu" in p[0]:
+                            p[0] = "Mimikyu"
                         if "p1" in s[0]:
                             b.p1.turnactions[turn].append(line)
                         elif "p2" in s[0]:
@@ -131,8 +160,16 @@ def turnParser(l, b):
                 if (len(l) > 1 and l[1].strip() == "switch"):
                     s = l[2].split(":")
                     p = l[3].split(",")
-                    if "-" in p[0]:
-                        p[0] = p[0].split("-")[0]+"-*"
+                    if "Urshifu-" in p[0]:
+                        p[0] = "Urshifu-*"
+                    if "Silvally-" in p[0]:
+                        p[0] = "Silvally-*"
+                    if "-Mega" in p[0]:
+                        p[0] = p[0].split("-")[0]
+                    if "Gourgeist" in p[0]:
+                        p[0] = "Gourgeist-*"
+                    if "Mimikyu" in p[0]:
+                        p[0] = "Mimikyu"
                     if "p1" in s[0]:
                         b.p1.turnactions.append(line)
                     elif "p2" in s[0]:
@@ -146,14 +183,53 @@ def searchWonWithPokemon(l, pokemonName=False):
                 if pokemonName:
                     for p in player.team:
                         if p == pokemonName:
-                            out.append(player.team)
+                            out.append(b)
                 else:
-                    out.append(player.team)
+                    out.append(b)
     return out
+
+def getAllPokemonNames(l):
+    out = list()
+    for b in l:
+        for player in b.getPlayers():
+            for p in player.team:
+                if p not in out:
+                    out.append(p)
+    return out
+
+def getMostWonPokemon(parsed):
+    pokemon = getAllPokemonNames(parsed)
+    mapped = dict()
+
+    for p in pokemon:
+        mapped[p] = len(searchWonWithPokemon(parsed, p))
+
+    return {k: v for k, v in sorted(mapped.items(), key=lambda item: item[1], reverse=True)}
+
+def getMostWonMovesets(parsed, p):
+    allmoves = dict()
+
+    for b in searchWonWithPokemon(parsed, p):
+        for player in b.getPlayers():
+            if player.won:
+                for move in player.team[p].moves:
+                    if move in allmoves:
+                        allmoves[move] = allmoves[move] +1
+                    else:
+                        allmoves[move] = 1
+    return {k: v for k, v in sorted(allmoves.items(), key=lambda item: item[1], reverse=True)}
+
 
 filenames = next(walk("data/"), (None, None, []))[2]
 parsed = list()
 for battle in filenames:
     parsed.append(parseBattle("data/"+battle))
 
-print(len(searchWonWithPokemon(parsed, "Urshifu-*")))
+champs = take(6, getMostWonPokemon(parsed).keys())
+
+team = dict()
+
+for champ in champs:
+    team[champ] = take(4, getMostWonMovesets(parsed, champ).keys())
+
+print(team)
