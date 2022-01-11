@@ -1,0 +1,367 @@
+|j|☆Boink Bonk!
+|j|☆Immagamer
+|t:|1641776623
+|gametype|singles
+|player|p1|Boink Bonk!|clown|1305
+|player|p2|Immagamer|169|1407
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Zarude-Dada|
+|poke|p1|Incineroar, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Mew|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Nidoking, M|
+|poke|p2|Zeraora|
+|poke|p2|Tangrowth, M|
+|poke|p2|Chansey, F|
+|poke|p2|Tapu Fini|
+|teampreview
+|
+|t:|1641776648
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|turn|1
+|
+|t:|1641776663
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Mew|Thunderbolt|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|19/100
+|-damage|p1a: Mew|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Tapu Fini|25/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641776674
+|move|p1a: Mew|Thunderbolt|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|-damage|p1a: Mew|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641776686
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|3
+|
+|t:|1641776692
+|move|p2a: Zeraora|Plasma Fists|p1a: Mew
+|-damage|p1a: Mew|16/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p1a: Mew|Stealth Rock|p2a: Zeraora
+|-sidestart|p2: Immagamer|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641776699
+|switch|p1a: Incineroar|Incineroar, F|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|move|p2a: Zeraora|Plasma Fists|p1a: Incineroar
+|-damage|p1a: Incineroar|52/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|
+|upkeep
+|turn|5
+|
+|t:|1641776710
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|-damage|p2a: Crawdaunt|88/100|[from] Stealth Rock
+|move|p1a: Incineroar|Knock Off|p2a: Crawdaunt
+|-resisted|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|54/100
+|-enditem|p2a: Crawdaunt|Life Orb|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641776717
+|switch|p1a: Zarude|Zarude-Dada|100/100
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Zarude
+|-resisted|p1a: Zarude
+|-damage|p1a: Zarude|88/100
+|
+|-heal|p1a: Zarude|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641776721
+|switch|p2a: Tangrowth|Tangrowth, M|100/100
+|-damage|p2a: Tangrowth|88/100|[from] Stealth Rock
+|move|p1a: Zarude|Bulk Up|p1a: Zarude
+|-boost|p1a: Zarude|atk|1
+|-boost|p1a: Zarude|def|1
+|
+|-heal|p1a: Zarude|99/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641776728
+|move|p1a: Zarude|Darkest Lariat|p2a: Tangrowth
+|-damage|p2a: Tangrowth|51/100
+|-damage|p1a: Zarude|83/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|move|p2a: Tangrowth|Focus Blast|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|33/100
+|
+|-heal|p1a: Zarude|39/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641776736
+|move|p1a: Zarude|Drain Punch|p2a: Tangrowth
+|-damage|p2a: Tangrowth|30/100
+|-heal|p1a: Zarude|50/100|[from] drain|[of] p2a: Tangrowth
+|-damage|p1a: Zarude|34/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|move|p2a: Tangrowth|Focus Blast|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|upkeep
+|
+|t:|1641776740
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|10
+|
+|t:|1641776748
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|-damage|p2a: Nidoking|95/100|[from] Stealth Rock
+|move|p1a: Slowking|Ice Beam|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|13/100
+|-status|p2a: Nidoking|frz
+|
+|upkeep
+|turn|11
+|
+|t:|1641776753
+|cant|p2a: Nidoking|frz
+|move|p1a: Slowking|Sludge Bomb|p2a: Nidoking
+|-resisted|p2a: Nidoking
+|-damage|p2a: Nidoking|0 fnt
+|faint|p2a: Nidoking
+|
+|upkeep
+|
+|t:|1641776756
+|switch|p2a: Crawdaunt|Crawdaunt, M|54/100
+|-damage|p2a: Crawdaunt|42/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641776762
+|switch|p1a: Incineroar|Incineroar, F|52/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Crawdaunt|atk|1
+|move|p2a: Crawdaunt|Crabhammer|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1641776765
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|13
+|
+|t:|1641776771
+|switch|p2a: Chansey|Chansey, F|100/100
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Moonblast|p2a: Chansey
+|-damage|p2a: Chansey|76/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641776776
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Chansey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|69/100
+|
+|-heal|p1a: Tapu Fini|75/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641776784
+|switch|p2a: Zeraora|Zeraora|100/100
+|-damage|p2a: Zeraora|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Moonblast|p2a: Zeraora
+|-damage|p2a: Zeraora|11/100
+|-unboost|p2a: Zeraora|spa|1
+|
+|-heal|p1a: Tapu Fini|81/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641776791
+|move|p2a: Zeraora|Plasma Fists|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641776795
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|17
+|
+|t:|1641776800
+|move|p2a: Zeraora|Plasma Fists|p1a: Dragonite
+|-damage|p1a: Dragonite|68/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Zeraora
+|-resisted|p2a: Zeraora
+|-crit|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|-hitcount|p2: Zeraora|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641776809
+|switch|p2a: Chansey|Chansey, F|76/100
+|-damage|p2a: Chansey|64/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641776814
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Chansey|Toxic|p1a: Dragonite|[miss]
+|-miss|p2a: Chansey|p1a: Dragonite
+|
+|upkeep
+|turn|19
+|
+|t:|1641776820
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Chansey|Toxic|p1a: Dragonite
+|-status|p1a: Dragonite|tox
+|
+|-damage|p1a: Dragonite|94/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641776823
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Chansey
+|-damage|p2a: Chansey|43/100
+|-damage|p2a: Chansey|22/100
+|-hitcount|p2a: Chansey|2
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|72/100
+|
+|-damage|p1a: Dragonite|82/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641776828
+|move|p1a: Dragonite|Heal Bell|p1a: Dragonite
+|-activate|p1a: Dragonite|move: Heal Bell
+|-curestatus|p1a: Dragonite|tox|[msg]
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|100/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641776836
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Tangrowth|Tangrowth, M|64/100
+|-damage|p2a: Tangrowth|51/100|[from] Stealth Rock
+|
+|upkeep
+|turn|23
+|
+|t:|1641776840
+|switch|p2a: Chansey|Chansey, F|100/100
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|move|p1a: Slowking|Sludge Bomb|p2a: Chansey
+|-damage|p2a: Chansey|75/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641776847
+|switch|p2a: Crawdaunt|Crawdaunt, M|42/100
+|-damage|p2a: Crawdaunt|30/100|[from] Stealth Rock
+|move|p1a: Slowking|Psyshock|p2a: Crawdaunt
+|-immune|p2a: Crawdaunt
+|
+|upkeep
+|turn|25
+|
+|t:|1641776853
+|switch|p1a: Dragonite|Dragonite, F|82/100
+|move|p2a: Crawdaunt|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|14/100
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Crawdaunt
+|
+|upkeep
+|turn|26
+|
+|t:|1641776859
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641776862
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|turn|27
+|
+|t:|1641776865
+|move|p2a: Crawdaunt|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1641776866
+|switch|p1a: Mew|Mew|16/100
+|turn|28
+|
+|t:|1641776870
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|win|Immagamer
+|raw|Boink Bonk!'s rating: 1305 &rarr; <strong>1291</strong><br />(-14 for losing)
+|raw|Immagamer's rating: 1407 &rarr; <strong>1421</strong><br />(+14 for winning)
+|l|☆Boink Bonk!

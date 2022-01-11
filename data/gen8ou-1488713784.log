@@ -1,0 +1,133 @@
+|j|☆ooskks
+|j|☆Deadpool6190
+|t:|1641808514
+|gametype|singles
+|player|p1|ooskks|caitlin|
+|player|p2|Deadpool6190|benga|
+|teamsize|p1|3
+|teamsize|p2|3
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Lombre, M|
+|poke|p1|Seismitoad, M|
+|poke|p1|Natu, M|
+|poke|p2|Tentacruel, F|
+|poke|p2|Amaura, F|
+|poke|p2|Cofagrigus, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ooskks)
+|j|*Lady Monita ❄
+|
+|t:|1641808529
+|start
+|switch|p1a: Natu|Natu, M|100/100
+|switch|p2a: Cofagrigus|Cofagrigus, M|100/100
+|turn|1
+|
+|t:|1641808535
+|move|p1a: Natu|Thunder Wave|p2a: Cofagrigus
+|-status|p2a: Cofagrigus|par
+|move|p2a: Cofagrigus|Calm Mind|p2a: Cofagrigus
+|-boost|p2a: Cofagrigus|spa|1
+|-boost|p2a: Cofagrigus|spd|1
+|
+|upkeep
+|turn|2
+|j| TheRamsWay
+|
+|t:|1641808546
+|move|p1a: Natu|Rain Dance|p1a: Natu
+|-weather|RainDance
+|move|p2a: Cofagrigus|Calm Mind|p2a: Cofagrigus
+|-boost|p2a: Cofagrigus|spa|1
+|-boost|p2a: Cofagrigus|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641808553
+|move|p1a: Natu|Wish|p1a: Natu
+|cant|p2a: Cofagrigus|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|l| TheRamsWay
+|j| IgonnaSmashToga
+|
+|t:|1641808556
+|move|p2a: Cofagrigus|Dark Pulse|p1a: Natu
+|-supereffective|p1a: Natu
+|-damage|p1a: Natu|0 fnt
+|faint|p1a: Natu
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641808561
+|switch|p1a: Seismitoad|Seismitoad, M, shiny|100/100
+|turn|5
+|
+|t:|1641808565
+|move|p1a: Seismitoad|Liquidation|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|43/100 par
+|-activate|p2a: Cofagrigus|ability: Mummy|Swift Swim|[of] p1a: Seismitoad
+|-damage|p1a: Seismitoad|91/100|[from] item: Life Orb
+|cant|p2a: Cofagrigus|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Cofagrigus|49/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|l| IgonnaSmashToga
+|
+|t:|1641808578
+|move|p1a: Seismitoad|Liquidation|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|0 fnt
+|faint|p2a: Cofagrigus
+|-damage|p1a: Seismitoad|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641808581
+|switch|p2a: Tentacruel|Tentacruel, F|100/100
+|turn|7
+|
+|t:|1641808585
+|move|p1a: Seismitoad|Earthquake|p2a: Tentacruel
+|-supereffective|p2a: Tentacruel
+|-damage|p2a: Tentacruel|0 fnt
+|faint|p2a: Tentacruel
+|-damage|p1a: Seismitoad|71/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641808588
+|switch|p2a: Amaura|Amaura, F|100/100
+|turn|8
+|
+|t:|1641808592
+|move|p1a: Seismitoad|Earthquake|p2a: Amaura
+|-supereffective|p2a: Amaura
+|-damage|p2a: Amaura|0 fnt
+|faint|p2a: Amaura
+|-damage|p1a: Seismitoad|61/100|[from] item: Life Orb
+|
+|win|ooskks
+|l|*Lady Monita ❄
+|l|☆Deadpool6190
+|l|☆ooskks
+|j|☆ooskks
+|player|p1|ooskks|caitlin
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ooskks)

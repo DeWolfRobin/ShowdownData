@@ -1,0 +1,279 @@
+|j|☆Diavolo_Crison
+|j|☆YousuckIampro
+|t:|1641794758
+|gametype|singles
+|player|p1|Diavolo_Crison|2|1512
+|player|p2|YousuckIampro|101|1611
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Jirachi|
+|poke|p1|Regieleki|
+|poke|p1|Dragonite, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Volcarona, F|
+|poke|p1|Bisharp, F|
+|poke|p2|Torkoal, M|
+|poke|p2|Venusaur, M|
+|poke|p2|Scizor, M|
+|poke|p2|Melmetal|
+|poke|p2|Blacephalon|
+|poke|p2|Heatran, F|
+|teampreview
+|
+|t:|1641794783
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: froppy|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: froppy
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by YousuckIampro)
+|
+|t:|1641794786
+|move|p1a: Garchomp|Earthquake|p2a: froppy
+|-supereffective|p2a: froppy
+|-damage|p2a: froppy|0 fnt
+|faint|p2a: froppy
+|-damage|p1a: Garchomp|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641794811
+|switch|p2a: Shigaraki|Venusaur, M, shiny|100/100
+|turn|2
+|
+|t:|1641794817
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Shigaraki|Solar Beam||[still]
+|-prepare|p2a: Shigaraki|Solar Beam
+|-anim|p2a: Shigaraki|Solar Beam|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|91/100
+|-damage|p2a: Shigaraki|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641794834
+|switch|p2a: All might|Melmetal|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641794839
+|move|p1a: Dragonite|Earthquake|p2a: All might
+|-supereffective|p2a: All might
+|-damage|p2a: All might|46/100
+|move|p2a: All might|Double Iron Bash|p1a: Dragonite
+|-damage|p1a: Dragonite|40/100
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-hitcount|p1: Dragonite|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641794842
+|switch|p1a: Garchomp|Garchomp, F|91/100
+|turn|5
+|
+|t:|1641794845
+|switch|p2a: endeavor|Heatran, F, shiny|100/100
+|-item|p2a: endeavor|Air Balloon
+|move|p1a: Garchomp|Earthquake|p2a: endeavor
+|-immune|p2a: endeavor
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641794848
+|move|p1a: Garchomp|Aqua Tail|p2a: endeavor
+|-supereffective|p2a: endeavor
+|-damage|p2a: endeavor|59/100
+|-enditem|p2a: endeavor|Air Balloon
+|-damage|p1a: Garchomp|81/100|[from] item: Life Orb
+|move|p2a: endeavor|Magma Storm|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|36/100
+|-activate|p1a: Garchomp|move: Magma Storm|[of] p2a: endeavor
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Garchomp|23/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1641794856
+|switch|p2a: All might|Melmetal|46/100
+|move|p1a: Garchomp|Earthquake|p2a: All might
+|-supereffective|p2a: All might
+|-damage|p2a: All might|0 fnt
+|faint|p2a: All might
+|-damage|p1a: Garchomp|13/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Garchomp|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641794861
+|switch|p2a: Shigaraki|Venusaur, M, shiny|91/100
+|turn|8
+|
+|t:|1641794862
+|move|p2a: Shigaraki|Solar Beam||[still]
+|-prepare|p2a: Shigaraki|Solar Beam
+|-anim|p2a: Shigaraki|Solar Beam|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-damage|p2a: Shigaraki|81/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641794870
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|turn|9
+|
+|t:|1641794878
+|move|p2a: Shigaraki|Earth Power|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|-damage|p2a: Shigaraki|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641794881
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|turn|10
+|
+|t:|1641794884
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Shigaraki|Sludge Bomb|p1a: Volcarona
+|-damage|p1a: Volcarona|58/100
+|-damage|p2a: Shigaraki|61/100|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|
+|t:|1641794891
+|switch|p2a: endeavor|Heatran, F, shiny|59/100
+|move|p1a: Volcarona|Psychic|p2a: endeavor
+|-resisted|p2a: endeavor
+|-damage|p2a: endeavor|34/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641794893
+|move|p1a: Volcarona|Psychic|p2a: endeavor
+|-resisted|p2a: endeavor
+|-damage|p2a: endeavor|9/100
+|move|p2a: endeavor|Magma Storm|p1a: Volcarona|[miss]
+|-miss|p2a: endeavor|p1a: Volcarona
+|
+|upkeep
+|turn|13
+|
+|t:|1641794896
+|move|p1a: Volcarona|Psychic|p2a: endeavor
+|-resisted|p2a: endeavor
+|-damage|p2a: endeavor|0 fnt
+|faint|p2a: endeavor
+|
+|upkeep
+|
+|t:|1641794899
+|switch|p2a: todoroki|Blacephalon|100/100
+|turn|14
+|
+|t:|1641794902
+|move|p2a: todoroki|Overheat|p1a: Volcarona
+|-damage|p1a: Volcarona|2/100
+|-unboost|p2a: todoroki|spa|2
+|move|p1a: Volcarona|Psychic|p2a: todoroki
+|-damage|p2a: todoroki|18/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641794906
+|move|p2a: todoroki|Overheat|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|-unboost|p2a: todoroki|spa|2
+|faint|p1a: Volcarona
+|-ability|p2a: todoroki|Beast Boost|boost
+|-boost|p2a: todoroki|spa|1
+|
+|upkeep
+|
+|t:|1641794908
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|16
+|
+|t:|1641794913
+|switch|p2a: Shigaraki|Venusaur, M, shiny|61/100
+|move|p1a: Regieleki|Electro Ball|p2a: Shigaraki
+|-resisted|p2a: Shigaraki
+|-damage|p2a: Shigaraki|13/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641794916
+|move|p1a: Regieleki|Electro Ball|p2a: Shigaraki
+|-resisted|p2a: Shigaraki
+|-crit|p2a: Shigaraki
+|-damage|p2a: Shigaraki|0 fnt
+|faint|p2a: Shigaraki
+|
+|upkeep
+|
+|t:|1641794924
+|switch|p2a: todoroki|Blacephalon|18/100
+|turn|18
+|
+|t:|1641794928
+|move|p1a: Regieleki|Electro Ball|p2a: todoroki
+|-damage|p2a: todoroki|0 fnt
+|faint|p2a: todoroki
+|
+|upkeep
+|
+|t:|1641794930
+|switch|p2a: Deku|Scizor, M, shiny|100/100
+|turn|19
+|
+|t:|1641794934
+|move|p2a: Deku|Bullet Punch|p1a: Regieleki
+|-resisted|p1a: Regieleki
+|-damage|p1a: Regieleki|56/100
+|-damage|p2a: Deku|91/100|[from] item: Life Orb
+|move|p1a: Regieleki|Electro Ball|p2a: Deku
+|-damage|p2a: Deku|0 fnt
+|faint|p2a: Deku
+|
+|win|Diavolo_Crison
+|raw|Diavolo_Crison's rating: 1512 &rarr; <strong>1538</strong><br />(+26 for winning)
+|raw|YousuckIampro's rating: 1611 &rarr; <strong>1585</strong><br />(-26 for losing)
+|l|☆YousuckIampro

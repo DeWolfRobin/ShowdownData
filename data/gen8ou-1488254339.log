@@ -1,0 +1,287 @@
+|j|☆NightMare090797
+|j|☆P0KESHOW
+|t:|1641741829
+|gametype|singles
+|player|p1|NightMare090797|101|1093
+|player|p2|P0KESHOW|battlegirl-gen4|1030
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blaziken, F|
+|poke|p1|Porygon-Z|
+|poke|p1|Suicune|
+|poke|p1|Salamence, F|
+|poke|p1|Skarmory, M|
+|poke|p1|Scizor, F|
+|poke|p2|Gyarados, M|
+|poke|p2|Latios, M|
+|poke|p2|Shuckle, F|
+|poke|p2|Blissey, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by P0KESHOW)
+|
+|t:|1641741838
+|start
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|switch|p2a: Shuckle|Shuckle, F|100/100
+|turn|1
+|
+|t:|1641741846
+|move|p1a: Skarmory|Tailwind|p1a: Skarmory
+|-sidestart|p1: NightMare090797|move: Tailwind
+|move|p2a: Shuckle|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: NightMare090797|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641741850
+|move|p1a: Skarmory|Stealth Rock|p2a: Shuckle
+|-sidestart|p2: P0KESHOW|move: Stealth Rock
+|move|p2a: Shuckle|Sticky Web|p1a: Skarmory
+|-sidestart|p1: NightMare090797|move: Sticky Web
+|
+|upkeep
+|turn|3
+|
+|t:|1641741854
+|move|p1a: Skarmory|Spikes|p2a: Shuckle
+|-sidestart|p2: P0KESHOW|Spikes
+|move|p2a: Shuckle|Knock Off|p1a: Skarmory
+|-damage|p1a: Skarmory|97/100
+|-enditem|p1a: Skarmory|Leftovers|[from] move: Knock Off|[of] p2a: Shuckle
+|
+|upkeep
+|turn|4
+|
+|t:|1641741861
+|move|p1a: Skarmory|Spikes|p2a: Shuckle
+|-sidestart|p2: P0KESHOW|Spikes
+|move|p2a: Shuckle|Final Gambit|p1a: Skarmory
+|-damage|p1a: Skarmory|20/100
+|faint|p2a: Shuckle
+|
+|-sideend|p1: NightMare090797|move: Tailwind
+|upkeep
+|
+|t:|1641741865
+|switch|p2a: Latios|Latios, M|100/100
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641741871
+|move|p2a: Latios|Reflect|p2a: Latios
+|-sidestart|p2: P0KESHOW|Reflect
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|70/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1641741877
+|move|p2a: Latios|Light Screen|p2a: Latios
+|-sidestart|p2: P0KESHOW|move: Light Screen
+|move|p1a: Skarmory|Tailwind|p1a: Skarmory
+|-sidestart|p1: NightMare090797|move: Tailwind
+|
+|upkeep
+|turn|7
+|
+|t:|1641741882
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|move|p2a: Latios|Tailwind|p2a: Latios
+|-sidestart|p2: P0KESHOW|move: Tailwind
+|
+|upkeep
+|turn|8
+|
+|t:|1641741889
+|move|p2a: Latios|Memento|p1a: Skarmory
+|-unboost|p1a: Skarmory|atk|2
+|-unboost|p1a: Skarmory|spa|2
+|faint|p2a: Latios
+|move|p1a: Skarmory|Spikes|p2: Latios
+|-sidestart|p2: P0KESHOW|Spikes
+|
+|upkeep
+|
+|t:|1641741894
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|-damage|p2a: Gyarados|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641741898
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Skarmory|Tailwind||[still]
+|-fail|p1a: Skarmory
+|
+|-sideend|p2: P0KESHOW|Reflect
+|-sideend|p1: NightMare090797|move: Tailwind
+|upkeep
+|turn|10
+|
+|t:|1641741908
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Skarmory|Tailwind|p1a: Skarmory
+|-sidestart|p1: NightMare090797|move: Tailwind
+|
+|-sideend|p2: P0KESHOW|move: Light Screen
+|-sideend|p2: P0KESHOW|move: Tailwind
+|upkeep
+|turn|11
+|
+|t:|1641741915
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Skarmory|Stealth Rock||[still]
+|-fail|p1a: Skarmory
+|
+|upkeep
+|turn|12
+|
+|t:|1641741925
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Skarmory|Roost||[still]
+|-fail|p1a: Skarmory|heal
+|
+|upkeep
+|turn|13
+|
+|t:|1641741930
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Skarmory|Spikes||[still]
+|-fail|p1a: Skarmory
+|
+|-sideend|p1: NightMare090797|move: Tailwind
+|upkeep
+|turn|14
+|
+|t:|1641741935
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Skarmory|Tailwind|p1a: Skarmory
+|-sidestart|p1: NightMare090797|move: Tailwind
+|
+|upkeep
+|turn|15
+|
+|t:|1641741946
+|switch|p1a: Scizor|Scizor, F|100/100
+|-activate|p1a: Scizor|move: Sticky Web
+|-unboost|p1a: Scizor|spe|1
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|move|p2a: Gyarados|Waterfall|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641741954
+|switch|p1a: Porygon-Z|Porygon-Z|100/100
+|-activate|p1a: Porygon-Z|move: Sticky Web
+|-unboost|p1a: Porygon-Z|spe|1
+|-damage|p1a: Porygon-Z|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641741959
+|move|p2a: Gyarados|Waterfall|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|0 fnt
+|faint|p1a: Porygon-Z
+|
+|upkeep
+|
+|t:|1641741973
+|switch|p1a: Suicune|Suicune|100/100
+|-activate|p1a: Suicune|move: Sticky Web
+|-unboost|p1a: Suicune|spe|1
+|-damage|p1a: Suicune|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641741978
+|move|p2a: Gyarados|Power Whip|p1a: Suicune
+|-supereffective|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|faint|p1a: Suicune
+|
+|-sideend|p1: NightMare090797|move: Tailwind
+|upkeep
+|
+|t:|1641741984
+|switch|p1a: Salamence|Salamence, F|100/100
+|-damage|p1a: Salamence|76/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641741999
+|move|p2a: Gyarados|Waterfall|p1a: Salamence
+|-resisted|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|upkeep
+|
+|t:|1641742008
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|-activate|p1a: Blaziken|move: Sticky Web
+|-unboost|p1a: Blaziken|spe|1
+|-damage|p1a: Blaziken|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641742014
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Gyarados|Waterfall|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|20
+|
+|t:|1641742022
+|move|p2a: Gyarados|Waterfall|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-crit|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1641742026
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641742033
+|move|p2a: Gyarados|Waterfall|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|win|P0KESHOW
+|raw|NightMare090797's rating: 1093 &rarr; <strong>1065</strong><br />(-28 for losing)
+|raw|P0KESHOW's rating: 1030 &rarr; <strong>1072</strong><br />(+42 for winning)
+|c|☆NightMare090797|gg

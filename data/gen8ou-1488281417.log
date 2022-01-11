@@ -1,0 +1,186 @@
+|j|☆Birbirb
+|j|☆TheArnazingMirror
+|t:|1641745645
+|gametype|singles
+|player|p1|Birbirb|pokemaniac|1302
+|player|p2|TheArnazingMirror|hilbert|1252
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zeraora|
+|poke|p1|Heatran, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Rillaboom, F|
+|poke|p2|Tapu Lele|
+|poke|p2|Victini|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|poke|p2|Melmetal|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TheArnazingMirror)
+|c|☆TheArnazingMirror|Glhf
+|c|☆Birbirb|glhf
+|
+|t:|1641745674
+|start
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|1
+|
+|t:|1641745679
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Melmetal|Thunder Punch|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|79/100
+|
+|-heal|p1a: Rillaboom|85/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|c|☆TheArnazingMirror|ty
+|
+|t:|1641745702
+|move|p1a: Rillaboom|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|78/100
+|-enditem|p2a: Melmetal|Assault Vest|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|75/100|[from] item: Life Orb
+|move|p2a: Melmetal|Superpower|p1a: Rillaboom
+|-damage|p1a: Rillaboom|18/100
+|-unboost|p2a: Melmetal|atk|1
+|-unboost|p2a: Melmetal|def|1
+|
+|-heal|p1a: Rillaboom|24/100|[from] Grassy Terrain
+|-heal|p2a: Melmetal|84/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|l|☆TheArnazingMirror
+|inactive|TheArnazingMirror disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆TheArnazingMirror
+|inactive|TheArnazingMirror reconnected and has 115 seconds left.
+|player|p2|TheArnazingMirror|hilbert
+|
+|t:|1641745748
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641745756
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Dragapult|U-turn|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-crit|p1a: Hawlucha
+|-damage|p1a: Hawlucha|91/100
+|
+|t:|1641745762
+|switch|p2a: Melmetal|Melmetal|84/100|[from]move: U-turn
+|
+|-heal|p2a: Melmetal|90/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641745764
+|move|p1a: Hawlucha|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Melmetal
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641745773
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hawlucha|atk|1
+|turn|6
+|
+|t:|1641745777
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Landorus|Smack Down|p1a: Hawlucha
+|-damage|p1a: Hawlucha|58/100
+|-start|p1a: Hawlucha|Smack Down
+|
+|upkeep
+|turn|7
+|
+|t:|1641745781
+|move|p1a: Hawlucha|Acrobatics|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641745786
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|8
+|
+|t:|1641745790
+|move|p1a: Hawlucha|Acrobatics|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641745795
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|9
+|
+|t:|1641745802
+|move|p1a: Hawlucha|Acrobatics|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641745805
+|switch|p2a: Kartana|Kartana|100/100
+|turn|10
+|c|☆TheArnazingMirror|gg
+|
+|t:|1641745813
+|move|p1a: Hawlucha|Close Combat|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Kartana
+|
+|upkeep
+|c|☆Birbirb|gg
+|
+|t:|1641745816
+|switch|p2a: Victini|Victini|100/100
+|turn|11
+|
+|t:|1641745820
+|move|p1a: Hawlucha|Acrobatics|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|win|Birbirb
+|raw|Birbirb's rating: 1302 &rarr; <strong>1319</strong><br />(+17 for winning)
+|raw|TheArnazingMirror's rating: 1252 &rarr; <strong>1231</strong><br />(-21 for losing)
+|l|☆Birbirb

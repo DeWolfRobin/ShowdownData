@@ -1,0 +1,442 @@
+|j|☆DoodlesHungry
+|j|☆M1chael82
+|t:|1641700969
+|gametype|singles
+|player|p1|DoodlesHungry|scientist-gen3|1256
+|player|p2|M1chael82|archer|1408
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Togekiss, M|
+|poke|p1|Kartana|
+|poke|p1|Volcarona, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Zeraora|
+|poke|p2|Glastrier|
+|poke|p2|Stakataka|
+|poke|p2|Slowbro, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Tapu Lele|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DoodlesHungry)
+|
+|t:|1641700986
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|1
+|
+|t:|1641700991
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|move|p2a: Garchomp|Fire Blast|p1a: Landorus
+|-damage|p1a: Landorus|72/100
+|
+|-heal|p1a: Landorus|78/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641700994
+|move|p2a: Garchomp|Stealth Rock|p1a: Landorus
+|-sidestart|p1: DoodlesHungry|move: Stealth Rock
+|move|p1a: Landorus|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: M1chael82|move: Stealth Rock
+|
+|-heal|p1a: Landorus|84/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641700997
+|move|p1a: Landorus|Toxic|p2a: Garchomp
+|-status|p2a: Garchomp|tox
+|move|p2a: Garchomp|Dragon Tail|p1a: Landorus
+|-damage|p1a: Landorus|63/100
+|drag|p1a: Zeraora|Zeraora|100/100
+|-damage|p1a: Zeraora|88/100|[from] Stealth Rock
+|
+|-damage|p2a: Garchomp|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641701009
+|switch|p1a: Landorus|Landorus-Therian, M|63/100
+|-damage|p1a: Landorus|51/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|move|p2a: Garchomp|Dragon Tail|p1a: Landorus
+|-damage|p1a: Landorus|37/100
+|drag|p1a: Dragonite|Dragonite, M|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Garchomp|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|88/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641701033
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|switch|p1a: Landorus|Landorus-Therian, M|37/100
+|-damage|p1a: Landorus|24/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowbro|atk|1
+|
+|-heal|p1a: Landorus|30/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641701044
+|move|p1a: Landorus|Toxic|p2a: Slowbro
+|-status|p2a: Slowbro|tox
+|move|p2a: Slowbro|Trick Room|p2a: Slowbro
+|-fieldstart|move: Trick Room|[of] p2a: Slowbro
+|
+|-heal|p1a: Landorus|36/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|82/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641701047
+|move|p1a: Landorus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|54/100 tox
+|-damage|p1a: Landorus|20/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|c|☆DoodlesHungry|What
+|c|☆DoodlesHungry|Oh
+|
+|t:|1641701060
+|switch|p1a: Dragonite|Dragonite, M|76/100|[from]move: U-turn
+|-damage|p1a: Dragonite|51/100|[from] Stealth Rock
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641701073
+|switch|p2a: Stakataka|Stakataka|100/100|[from]move: Teleport
+|-damage|p2a: Stakataka|94/100|[from] Stealth Rock
+|-item|p2a: Stakataka|Air Balloon
+|
+|upkeep
+|turn|8
+|
+|t:|1641701077
+|move|p2a: Stakataka|Heavy Slam|p1a: Dragonite
+|-damage|p1a: Dragonite|4/100
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Stakataka
+|-resisted|p2a: Stakataka
+|-damage|p2a: Stakataka|92/100
+|-enditem|p2a: Stakataka|Air Balloon
+|-resisted|p2a: Stakataka
+|-damage|p2a: Stakataka|89/100
+|-hitcount|p2a: Stakataka|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641701092
+|move|p2a: Stakataka|Body Press|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-ability|p2a: Stakataka|Beast Boost|boost
+|-boost|p2a: Stakataka|def|1
+|
+|upkeep
+|
+|t:|1641701113
+|switch|p1a: Landorus|Landorus-Therian, M|20/100
+|-damage|p1a: Landorus|7/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Stakataka|atk|1
+|turn|10
+|
+|t:|1641701119
+|move|p2a: Stakataka|Heavy Slam|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-ability|p2a: Stakataka|Beast Boost|boost
+|-boost|p2a: Stakataka|def|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641701123
+|switch|p1a: Kartana|Kartana|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641701130
+|move|p1a: Kartana|Sacred Sword|p2a: Stakataka
+|-supereffective|p2a: Stakataka
+|-damage|p2a: Stakataka|4/100
+|move|p2a: Stakataka|Body Press|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|-ability|p2a: Stakataka|Beast Boost|boost
+|-boost|p2a: Stakataka|def|1
+|
+|upkeep
+|
+|t:|1641701136
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|turn|12
+|
+|t:|1641701141
+|move|p1a: Volcarona|Flamethrower|p2a: Stakataka
+|-damage|p2a: Stakataka|0 fnt
+|faint|p2a: Stakataka
+|
+|upkeep
+|
+|t:|1641701164
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p2a: Tornadus|76/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641701170
+|move|p2a: Tornadus|Hurricane|p1a: Volcarona|[miss]
+|-miss|p2a: Tornadus|p1a: Volcarona
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641701175
+|move|p1a: Volcarona|Flamethrower|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1641701185
+|switch|p2a: Garchomp|Garchomp, F|88/100 tox
+|-damage|p2a: Garchomp|82/100 tox|[from] Stealth Rock
+|turn|15
+|
+|t:|1641701196
+|move|p1a: Volcarona|Bug Buzz|p2a: Garchomp
+|-damage|p2a: Garchomp|3/100 tox
+|move|p2a: Garchomp|Dragon Tail|p1a: Volcarona
+|-damage|p1a: Volcarona|57/100
+|drag|p1a: Togekiss|Togekiss, M|100/100
+|-damage|p1a: Togekiss|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Garchomp|10/100 tox|[from] item: Leftovers
+|-heal|p1a: Togekiss|82/100|[from] item: Leftovers
+|-damage|p2a: Garchomp|3/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641701217
+|move|p2a: Garchomp|Fire Blast|p1a: Togekiss
+|-damage|p1a: Togekiss|69/100
+|move|p1a: Togekiss|Air Slash|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-heal|p1a: Togekiss|75/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641701232
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|17
+|
+|t:|1641701237
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|move|p1a: Togekiss|Thunder Wave|p2a: Tapu Lele
+|-status|p2a: Tapu Lele|par
+|
+|-heal|p1a: Togekiss|81/100|[from] item: Leftovers
+|-heal|p2a: Tapu Lele|94/100 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641701248
+|move|p1a: Togekiss|Defog|p2a: Tapu Lele
+|-unboost|p2a: Tapu Lele|evasion|1
+|-sideend|p2: M1chael82|Stealth Rock|[from] move: Defog|[of] p1a: Togekiss
+|-sideend|p1: DoodlesHungry|Stealth Rock|[from] move: Defog|[of] p1a: Togekiss
+|-fieldend|move: Psychic Terrain
+|cant|p2a: Tapu Lele|par
+|
+|-heal|p1a: Togekiss|87/100|[from] item: Leftovers
+|-heal|p2a: Tapu Lele|99/100 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641701254
+|move|p1a: Togekiss|Air Slash|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|77/100 par
+|cant|p2a: Tapu Lele|flinch
+|
+|-heal|p1a: Togekiss|93/100|[from] item: Leftovers
+|-heal|p2a: Tapu Lele|83/100 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641701258
+|move|p1a: Togekiss|Air Slash|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|63/100 par
+|cant|p2a: Tapu Lele|flinch
+|
+|-heal|p1a: Togekiss|99/100|[from] item: Leftovers
+|-heal|p2a: Tapu Lele|69/100 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641701266
+|move|p1a: Togekiss|Air Slash|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|48/100 par
+|cant|p2a: Tapu Lele|flinch
+|
+|-heal|p1a: Togekiss|100/100|[from] item: Leftovers
+|-heal|p2a: Tapu Lele|54/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641701268
+|move|p1a: Togekiss|Air Slash|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|30/100 par
+|cant|p2a: Tapu Lele|flinch
+|
+|-heal|p2a: Tapu Lele|36/100 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641701274
+|move|p1a: Togekiss|Air Slash|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|15/100 par
+|cant|p2a: Tapu Lele|flinch
+|
+|-heal|p2a: Tapu Lele|21/100 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641701279
+|move|p1a: Togekiss|Air Slash|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641701285
+|switch|p2a: Slowbro|Slowbro, F|87/100 tox
+|turn|25
+|
+|t:|1641701288
+|move|p1a: Togekiss|Air Slash|p2a: Slowbro
+|-damage|p2a: Slowbro|53/100 tox
+|cant|p2a: Slowbro|flinch
+|
+|-damage|p2a: Slowbro|47/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641701292
+|move|p1a: Togekiss|Air Slash|p2a: Slowbro
+|-damage|p2a: Slowbro|17/100 tox
+|move|p2a: Slowbro|Trick Room|p2a: Slowbro
+|-fieldstart|move: Trick Room|[of] p2a: Slowbro
+|
+|-damage|p2a: Slowbro|5/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641701307
+|move|p2a: Slowbro|Scald|p1a: Togekiss
+|-damage|p1a: Togekiss|83/100
+|move|p1a: Togekiss|Roost|p1a: Togekiss
+|-heal|p1a: Togekiss|100/100
+|-singleturn|p1a: Togekiss|move: Roost
+|
+|-damage|p2a: Slowbro|0 fnt|[from] psn
+|faint|p2a: Slowbro
+|upkeep
+|
+|t:|1641701313
+|switch|p2a: Glastrier|Glastrier|100/100
+|turn|28
+|
+|t:|1641701324
+|switch|p1a: Zeraora|Zeraora|88/100
+|move|p2a: Glastrier|Swords Dance|p2a: Glastrier
+|-boost|p2a: Glastrier|atk|2
+|
+|upkeep
+|turn|29
+|
+|t:|1641701331
+|switch|p1a: Togekiss|Togekiss, M|100/100
+|move|p2a: Glastrier|High Horsepower|p1a: Togekiss
+|-immune|p1a: Togekiss
+|
+|upkeep
+|turn|30
+|
+|t:|1641701336
+|move|p2a: Glastrier|Icicle Crash|p1a: Togekiss
+|-supereffective|p1a: Togekiss
+|-damage|p1a: Togekiss|0 fnt
+|faint|p1a: Togekiss
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641701339
+|switch|p1a: Zeraora|Zeraora|88/100
+|turn|31
+|
+|t:|1641701343
+|move|p1a: Zeraora|Close Combat|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|50/100
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|move|p2a: Glastrier|High Horsepower|p1a: Zeraora
+|-supereffective|p1a: Zeraora
+|-enditem|p1a: Zeraora|Shuca Berry|[eat]
+|-enditem|p1a: Zeraora|Shuca Berry|[weaken]
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1641701346
+|switch|p1a: Volcarona|Volcarona, F|57/100
+|turn|32
+|c|☆M1chael82|gg
+|c|☆DoodlesHungry|gg
+|
+|t:|1641701359
+|move|p1a: Volcarona|Flamethrower|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|
+|win|DoodlesHungry
+|raw|DoodlesHungry's rating: 1256 &rarr; <strong>1291</strong><br />(+35 for winning)
+|raw|M1chael82's rating: 1408 &rarr; <strong>1380</strong><br />(-28 for losing)
+|l|☆M1chael82

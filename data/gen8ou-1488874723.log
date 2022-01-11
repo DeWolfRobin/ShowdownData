@@ -1,0 +1,373 @@
+|j|☆Tetedebois
+|j|☆lapt1
+|t:|1641831865
+|gametype|singles
+|player|p1|Tetedebois|1|1278
+|player|p2|lapt1|red-gen7|1316
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Bisharp, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Melmetal|
+|poke|p1|Dragapult, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Rillaboom, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Gengar, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragonite, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lapt1)
+|
+|t:|1641831891
+|start
+|switch|p1a: Melmetal|Melmetal, shiny|100/100
+|switch|p2a: Rotom|Rotom-Wash, shiny|100/100
+|turn|1
+|
+|t:|1641831899
+|move|p2a: Rotom|Will-O-Wisp|p1a: Melmetal
+|-status|p1a: Melmetal|brn
+|move|p1a: Melmetal|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|94/100 tox|[from] psn
+|-damage|p1a: Melmetal|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641831910
+|move|p2a: Rotom|Hydro Pump|p1a: Melmetal
+|-damage|p1a: Melmetal|69/100 brn
+|move|p1a: Melmetal|Double Iron Bash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|90/100 tox
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|85/100 tox
+|-hitcount|p2a: Rotom|2
+|
+|-heal|p2a: Rotom|92/100 tox|[from] item: Leftovers
+|-heal|p1a: Melmetal|76/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|79/100 tox|[from] psn
+|-damage|p1a: Melmetal|69/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641831924
+|move|p1a: Melmetal|Protect|p1a: Melmetal
+|-singleturn|p1a: Melmetal|Protect
+|move|p2a: Rotom|Volt Switch|p1a: Melmetal
+|-activate|p1a: Melmetal|move: Protect
+|
+|-heal|p2a: Rotom|85/100 tox|[from] item: Leftovers
+|-heal|p1a: Melmetal|76/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|67/100 tox|[from] psn
+|-damage|p1a: Melmetal|69/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641831937
+|move|p2a: Rotom|Hydro Pump|p1a: Melmetal
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|31/100 brn
+|move|p1a: Melmetal|Double Iron Bash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|62/100 tox
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|57/100 tox
+|-hitcount|p2a: Rotom|2
+|
+|-heal|p2a: Rotom|64/100 tox|[from] item: Leftovers
+|-heal|p1a: Melmetal|37/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|39/100 tox|[from] psn
+|-damage|p1a: Melmetal|31/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641831957
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Melmetal|Protect||[still]
+|-fail|p1a: Melmetal
+|
+|-heal|p1a: Melmetal|37/100 brn|[from] item: Leftovers
+|-damage|p1a: Melmetal|31/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641831970
+|move|p2a: Urshifu|Surging Strikes|p1a: Melmetal
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|16/100 brn
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|3/100 brn
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|-hitcount|p1: Melmetal|3
+|-damage|p2a: Urshifu|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641831980
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|7
+|
+|t:|1641831989
+|switch|p2a: Mandibuzz|Mandibuzz, F, shiny|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|87/100
+|-enditem|p2a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|upkeep
+|turn|8
+|
+|t:|1641832002
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Mandibuzz|Toxic|p1a: Dragapult
+|-status|p1a: Dragapult|tox
+|
+|-damage|p1a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641832015
+|move|p1a: Dragapult|U-turn|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|78/100
+|
+|t:|1641832025
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100|[from]move: U-turn
+|move|p2a: Mandibuzz|Knock Off|p1a: Rillaboom
+|-damage|p1a: Rillaboom|76/100
+|-enditem|p1a: Rillaboom|Choice Band|[from] move: Knock Off|[of] p2a: Mandibuzz
+|
+|-heal|p1a: Rillaboom|82/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641832035
+|move|p1a: Rillaboom|Superpower|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|54/100
+|-unboost|p1a: Rillaboom|atk|1
+|-unboost|p1a: Rillaboom|def|1
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|-heal|p1a: Rillaboom|88/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641832047
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Mandibuzz|Knock Off|p1a: Volcarona
+|-damage|p1a: Volcarona|63/100
+|-enditem|p1a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Mandibuzz
+|
+|-heal|p1a: Volcarona|69/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641832056
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Mandibuzz|Toxic|p1a: Volcarona
+|-status|p1a: Volcarona|tox
+|
+|-damage|p1a: Volcarona|63/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641832067
+|move|p1a: Volcarona|Fire Blast|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|24/100
+|move|p2a: Mandibuzz|Knock Off|p1a: Volcarona
+|-damage|p1a: Volcarona|37/100 tox
+|
+|-damage|p1a: Volcarona|25/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641832085
+|switch|p2a: Rotom|Rotom-Wash, shiny|39/100 tox
+|move|p1a: Volcarona|Fire Blast|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-damage|p1a: Volcarona|7/100 tox|[from] psn
+|upkeep
+|
+|t:|1641832103
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|91/100
+|turn|15
+|
+|t:|1641832107
+|move|p2a: Urshifu|Aqua Jet|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: Urshifu|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641832124
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|88/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|16
+|
+|t:|1641832132
+|switch|p2a: Gengar|Gengar, F, shiny|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Gengar
+|-resisted|p2a: Gengar
+|-damage|p2a: Gengar|58/100
+|
+|-heal|p2a: Gengar|64/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|94/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1641832143
+|move|p2a: Gengar|Sludge Bomb|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Gengar|70/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641832155
+|switch|p1a: Dragapult|Dragapult, M|95/100 tox
+|turn|18
+|
+|t:|1641832160
+|switch|p2a: Hatterene|Hatterene, F, shiny|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|-heal|p1a: Dragapult|100/100 tox|[from] Grassy Terrain
+|-damage|p1a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|
+|t:|1641832170
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|19
+|
+|t:|1641832175
+|move|p1a: Dragapult|Shadow Ball|p2a: Dragonite
+|-damage|p2a: Dragonite|72/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-heal|p1a: Dragapult|100/100 tox|[from] Grassy Terrain
+|-damage|p1a: Dragapult|89/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641832189
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1641832200
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Landorus|[miss]
+|-miss|p2a: Dragonite|p1a: Landorus
+|move|p1a: Landorus|Stealth Rock|p2a: Dragonite
+|-sidestart|p2: lapt1|move: Stealth Rock
+|
+|upkeep
+|turn|22
+|
+|t:|1641832207
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|52/100
+|-damage|p2a: Dragonite|56/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|-damage|p1a: Landorus|22/100
+|-damage|p2a: Dragonite|40/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|-hitcount|p1a: Landorus|2
+|move|p1a: Landorus|U-turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|28/100
+|
+|t:|1641832217
+|switch|p1a: Bisharp|Bisharp, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|23
+|
+|t:|1641832222
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|24
+|
+|t:|1641832228
+|move|p2a: Dragonite|Earthquake|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|upkeep
+|
+|t:|1641832234
+|switch|p1a: Dragapult|Dragapult, M|89/100 tox
+|turn|25
+|
+|t:|1641832240
+|move|p2a: Dragonite|Dragon Claw|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641832246
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|22/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|turn|26
+|
+|t:|1641832250
+|move|p2a: Dragonite|Dragon Claw|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Dragonite|12/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|win|lapt1
+|raw|Tetedebois's rating: 1278 &rarr; <strong>1256</strong><br />(-22 for losing)
+|raw|lapt1's rating: 1316 &rarr; <strong>1334</strong><br />(+18 for winning)
+|c|☆lapt1|dude if not for that dual miss
+|l|☆Tetedebois
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

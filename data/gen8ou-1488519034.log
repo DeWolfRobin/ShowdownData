@@ -1,0 +1,290 @@
+|j|☆56dgfgad23
+|j|☆joe3743
+|t:|1641776070
+|gametype|singles
+|player|p1|56dgfgad23|169|1000
+|player|p2|joe3743|riley|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Dragapult, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Kartana|
+|poke|p2|Garchomp, M|
+|poke|p2|Flygon, M|
+|poke|p2|Zeraora|
+|poke|p2|Tapu Koko|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Togekiss, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by joe3743)
+|inactive|joe3743 has 120 seconds left.
+|
+|t:|1641776103
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|
+|t:|1641776121
+|move|p2a: Garchomp|Stealth Rock|p1a: Tapu Lele
+|-sidestart|p1: 56dgfgad23|move: Stealth Rock
+|move|p1a: Tapu Lele|Psychic|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641776129
+|switch|p2a: Togekiss|Togekiss, F|100/100
+|turn|2
+|
+|t:|1641776152
+|move|p1a: Tapu Lele|Psychic|p2a: Togekiss
+|-damage|p2a: Togekiss|18/100
+|-enditem|p2a: Togekiss|Aguav Berry|[eat]
+|-heal|p2a: Togekiss|50/100|[from] item: Aguav Berry
+|move|p2a: Togekiss|Thunder Wave|p1a: Tapu Lele
+|-status|p1a: Tapu Lele|par
+|
+|upkeep
+|turn|3
+|
+|t:|1641776161
+|move|p2a: Togekiss|Air Slash|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|62/100 par
+|cant|p1a: Tapu Lele|flinch
+|
+|upkeep
+|turn|4
+|
+|t:|1641776165
+|move|p2a: Togekiss|Air Slash|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|21/100 par
+|move|p1a: Tapu Lele|Psychic|p2a: Togekiss
+|-damage|p2a: Togekiss|0 fnt
+|faint|p2a: Togekiss
+|
+|upkeep
+|
+|t:|1641776180
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|5
+|
+|t:|1641776192
+|move|p2a: Urshifu|Aqua Jet|p1a: Tapu Lele
+|-activate|p1a: Tapu Lele|move: Psychic Terrain
+|move|p1a: Tapu Lele|Psychic|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641776200
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|6
+|
+|t:|1641776204
+|move|p2a: Tapu Koko|U-turn|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|t:|1641776208
+|switch|p2a: Zeraora|Zeraora|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641776216
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|7
+|
+|t:|1641776226
+|move|p2a: Zeraora|Knock Off|p1a: Rillaboom
+|-damage|p1a: Rillaboom|57/100
+|-enditem|p1a: Rillaboom|Choice Band|[from] move: Knock Off|[of] p2a: Zeraora
+|move|p1a: Rillaboom|U-turn|p2a: Zeraora
+|-damage|p2a: Zeraora|65/100
+|
+|t:|1641776238
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from]move: U-turn
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Zeraora|71/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|94/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|inactive|joe3743 has 120 seconds left.
+|inactive|joe3743 has 90 seconds left.
+|inactive|joe3743 has 60 seconds left.
+|inactive|joe3743 has 30 seconds left.
+|inactive|joe3743 has 20 seconds left.
+|inactive|joe3743 has 15 seconds left.
+|inactive|joe3743 has 10 seconds left.
+|inactive|joe3743 has 5 seconds left.
+|
+|t:|1641776387
+|move|p2a: Zeraora|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|34/100
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Zeraora
+|move|p1a: Slowking|Future Sight|p2a: Zeraora
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Zeraora|77/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|40/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|inactive|joe3743 has 15 seconds left this turn.
+|inactive|joe3743 has 10 seconds left.
+|
+|t:|1641776416
+|move|p2a: Zeraora|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-heal|p2a: Zeraora|83/100|[from] Grassy Terrain
+|upkeep
+|inactive|joe3743 has 15 seconds left this turn.
+|inactive|56dgfgad23 has 120 seconds left.
+|
+|t:|1641776429
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|10
+|inactive|joe3743 has 25 seconds left this turn.
+|inactive|joe3743 has 20 seconds left.
+|
+|t:|1641776434
+|move|p2a: Zeraora|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-enditem|p1a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p2a: Zeraora
+|faint|p1a: Dragapult
+|
+|-end|p2a: Zeraora|move: Future Sight
+|-damage|p2a: Zeraora|19/100
+|-heal|p2a: Zeraora|25/100|[from] Grassy Terrain
+|upkeep
+|inactive|joe3743 has 25 seconds left this turn.
+|
+|t:|1641776443
+|switch|p1a: Rillaboom|Rillaboom, F|57/100
+|-damage|p1a: Rillaboom|45/100|[from] Stealth Rock
+|turn|11
+|inactive|joe3743 has 30 seconds left.
+|
+|t:|1641776450
+|move|p1a: Rillaboom|Grassy Glide|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|-heal|p1a: Rillaboom|51/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|joe3743 has 30 seconds left.
+|
+|t:|1641776457
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|12
+|
+|t:|1641776462
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Rillaboom
+|-damage|p1a: Rillaboom|4/100
+|move|p1a: Rillaboom|Knock Off|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|76/100
+|-enditem|p2a: Tapu Koko|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|upkeep
+|turn|13
+|
+|t:|1641776480
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1641776489
+|switch|p1a: Kartana|Kartana|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641776505
+|move|p2a: Tapu Koko|U-turn|p1a: Kartana
+|-damage|p1a: Kartana|76/100
+|
+|t:|1641776509
+|switch|p2a: Flygon|Flygon, M|100/100|[from]move: U-turn
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|upkeep
+|turn|15
+|inactive|joe3743 has 60 seconds left.
+|
+|t:|1641776529
+|move|p2a: Flygon|Earthquake|p1a: Kartana
+|-damage|p1a: Kartana|27/100
+|move|p1a: Kartana|Leaf Blade|p2a: Flygon
+|-crit|p2a: Flygon
+|-damage|p2a: Flygon|0 fnt
+|faint|p2a: Flygon
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|17/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|joe3743 has 60 seconds left.
+|
+|t:|1641776537
+|switch|p2a: Tapu Koko|Tapu Koko|76/100
+|turn|16
+|inactive|56dgfgad23 has 120 seconds left.
+|
+|t:|1641776565
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641776570
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641776577
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-crit|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|win|joe3743
+|raw|56dgfgad23's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|joe3743's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|☆56dgfgad23

@@ -1,0 +1,276 @@
+|j|☆Xtrainer22
+|j|☆Ichtos
+|t:|1641757033
+|gametype|singles
+|player|p1|Xtrainer22|lass-gen4dp|1313
+|player|p2|Ichtos|265|1368
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Tapu Fini|
+|poke|p1|Celesteela|
+|poke|p1|Garchomp, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Kartana|
+|poke|p2|Pelipper, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Zapdos|
+|poke|p2|Crawdaunt, F|
+|teampreview
+|
+|t:|1641757045
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641757052
+|move|p1a: Garchomp|Stone Edge|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|33/100
+|-damage|p1a: Garchomp|91/100|[from] item: Life Orb
+|move|p2a: Pelipper|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|53/100
+|-start|p1a: Garchomp|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641757060
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: Ichtos|move: Stealth Rock
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|83/100
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641757068
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Pelipper|Defog|p1a: Garchomp
+|-unboost|p1a: Garchomp|evasion|1
+|-sideend|p2: Ichtos|Stealth Rock|[from] move: Defog|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ichtos)
+|
+|t:|1641757085
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Stone Edge|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|66/100
+|-damage|p1a: Garchomp|44/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|72/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641757099
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|-damage|p1a: Garchomp|34/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641757102
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|6
+|
+|t:|1641757108
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Barraskewda|Flip Turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|67/100
+|
+|t:|1641757118
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Tapu Fini|73/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641757124
+|move|p2a: Zapdos|Hurricane|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|27/100
+|move|p1a: Tapu Fini|Scald|p2a: Zapdos
+|-damage|p2a: Zapdos|54/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Tapu Fini|33/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641757133
+|switch|p1a: Mew|Mew|100/100
+|move|p2a: Zapdos|Thunder|p1a: Mew
+|-damage|p1a: Mew|49/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641757140
+|switch|p2a: Pelipper|Pelipper, F|83/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Mew|Ice Beam|p2a: Pelipper
+|-damage|p2a: Pelipper|48/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641757146
+|move|p1a: Mew|Psychic|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641757150
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|11
+|
+|t:|1641757157
+|switch|p1a: Tapu Fini|Tapu Fini|33/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Barraskewda|Flip Turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|t:|1641757172
+|switch|p2a: Zapdos|Zapdos|54/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641757194
+|switch|p1a: Garchomp|Garchomp, F|34/100
+|turn|12
+|
+|t:|1641757212
+|move|p1a: Garchomp|Stone Edge|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Garchomp|24/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641757216
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|13
+|
+|t:|1641757229
+|switch|p1a: Mew|Mew|49/100
+|move|p2a: Barraskewda|Liquidation|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641757241
+|switch|p1a: Kartana|Kartana|100/100
+|turn|14
+|
+|t:|1641757247
+|move|p2a: Barraskewda|Liquidation|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|50/100
+|move|p1a: Kartana|Leaf Blade|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641757255
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|15
+|
+|t:|1641757264
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Misty Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Misty Seed
+|move|p2a: Garchomp|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|16
+|
+|t:|1641757268
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1641757270
+|move|p1a: Hawlucha|Acrobatics|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Hawlucha|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641757275
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|turn|18
+|
+|t:|1641757279
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Hawlucha
+|-damage|p1a: Hawlucha|28/100
+|-damage|p2a: Crawdaunt|91/100|[from] item: Life Orb
+|move|p1a: Hawlucha|Close Combat|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Crawdaunt
+|
+|win|Xtrainer22
+|raw|Xtrainer22's rating: 1313 &rarr; <strong>1336</strong><br />(+23 for winning)
+|raw|Ichtos's rating: 1368 &rarr; <strong>1345</strong><br />(-23 for losing)
+|l|☆Ichtos
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

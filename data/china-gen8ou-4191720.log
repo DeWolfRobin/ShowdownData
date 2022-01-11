@@ -1,0 +1,215 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC KFC嫩牛五方
+|j|☆dragonitenb
+|t:|1641824284
+|gametype|singles
+|player|p1|SL21CC KFC嫩牛五方|baker|1299
+|player|p2|dragonitenb|feida.png|1347
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Cresselia, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Porygon2|
+|poke|p1|Marowak-Alola, M|
+|poke|p2|Nihilego|
+|poke|p2|Celesteela|
+|poke|p2|Garchomp, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Tapu Fini|
+|poke|p2|Kartana|
+|teampreview
+|j| SL21CC tangkeke
+|
+|t:|1641824295
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Nihilego|Nihilego|100/100
+|turn|1
+|j| sl21cc ryekie
+|
+|t:|1641824325
+|move|p2a: Nihilego|Meteor Beam||[still]
+|-prepare|p2a: Nihilego|Meteor Beam
+|-boost|p2a: Nihilego|spa|1
+|-enditem|p2a: Nihilego|Power Herb
+|-anim|p2a: Nihilego|Meteor Beam|p1a: Hatterene
+|-damage|p1a: Hatterene|7/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|2
+|j| solitary dream
+|j| adreamew
+|
+|t:|1641824354
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|move|p2a: Nihilego|Power Gem|p1: Hatterene|[notarget]
+|-fail|p2a: Nihilego
+|
+|upkeep
+|
+|t:|1641824365
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|3
+|j|♚Master Origami♕
+|
+|t:|1641824388
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Garchomp
+|-damage|p2a: Garchomp|61/100
+|-damage|p1a: Melmetal|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Melmetal|71/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|-damage|p2a: Garchomp|17/100
+|-damage|p1a: Melmetal|59/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Melmetal|42/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|-hitcount|p2a: Garchomp|2
+|
+|upkeep
+|turn|4
+|j| sl21cckhl
+|
+|t:|1641824392
+|move|p1a: Melmetal|Double Iron Bash|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Melmetal|30/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Melmetal|13/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|-hitcount|p2: Garchomp|1
+|
+|upkeep
+|
+|t:|1641824446
+|switch|p2a: Celesteela|Celesteela|100/100
+|turn|5
+|
+|t:|1641824471
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|move|p2a: Celesteela|Meteor Beam||[still]
+|-prepare|p2a: Celesteela|Meteor Beam
+|-boost|p2a: Celesteela|spa|1
+|-enditem|p2a: Celesteela|Power Herb
+|-anim|p2a: Celesteela|Meteor Beam|p1a: Porygon2
+|-damage|p1a: Porygon2|62/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641824481
+|move|p2a: Celesteela|Fire Blast|p1a: Porygon2
+|-damage|p1a: Porygon2|28/100
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|upkeep
+|turn|7
+|
+|t:|1641824495
+|move|p1a: Porygon2|Thunderbolt|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|13/100
+|move|p2a: Celesteela|Air Slash|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|upkeep
+|
+|t:|1641824497
+|switch|p1a: Melmetal|Melmetal|13/100
+|-heal|p1a: Melmetal|100/100|[from] move: Healing Wish
+|turn|8
+|
+|t:|1641824514
+|move|p1a: Melmetal|Double Iron Bash|p2a: Celesteela
+|-resisted|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|-hitcount|p2: Celesteela|1
+|
+|upkeep
+|
+|t:|1641824517
+|switch|p2a: Kartana|Kartana|100/100
+|turn|9
+|
+|t:|1641824523
+|move|p1a: Melmetal|Double Iron Bash|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|67/100
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|30/100
+|-hitcount|p2a: Kartana|2
+|cant|p2a: Kartana|flinch
+|
+|upkeep
+|turn|10
+|j| jiokopg_fkok43
+|
+|t:|1641824568
+|move|p1a: Melmetal|Double Iron Bash|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|-hitcount|p2: Kartana|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641824571
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|11
+|
+|t:|1641824591
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|move|p2a: Zapdos|Close Combat|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|80/100
+|-unboost|p2a: Zapdos|def|1
+|-unboost|p2a: Zapdos|spd|1
+|
+|upkeep
+|turn|12
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC KFC嫩牛五方)
+|inactive|dragonitenb has 120 seconds left.
+|inactive|dragonitenb has 90 seconds left.
+|inactive|dragonitenb has 60 seconds left.
+|
+|t:|1641824762
+|move|p2a: Zapdos|Close Combat|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|59/100
+|-unboost|p2a: Zapdos|def|1
+|-unboost|p2a: Zapdos|spd|1
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|upkeep
+|turn|13
+|-message|dragonitenb forfeited.
+|
+|win|SL21CC KFC嫩牛五方
+|raw|SL21CC KFC嫩牛五方's rating: 1297 &rarr; <strong>1316</strong><br />(+19 for winning)
+|raw|dragonitenb's rating: 1347 &rarr; <strong>1328</strong><br />(-19 for losing)
+|l|☆dragonitenb
+|l| SL21CC tangkeke
+|l|☆SL21CC KFC嫩牛五方
+|l| jiokopg_fkok43

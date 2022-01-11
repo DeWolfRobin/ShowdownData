@@ -1,0 +1,427 @@
+|j|☆ayevon
+|j|☆imchokingrn
+|t:|1641782841
+|gametype|singles
+|player|p1|ayevon|102|1753
+|player|p2|imchokingrn|backpacker|1796
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Kartana|
+|poke|p1|Zapdos|
+|poke|p1|Toxapex, F|
+|poke|p2|Weavile, F|
+|poke|p2|Tapu Lele|
+|poke|p2|Heatran, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zapdos|
+|teampreview
+|j| GGeorgie
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ayevon)
+|
+|t:|1641782929
+|start
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|
+|t:|1641782936
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Tapu Lele|Psychic|p1a: Tyranitar
+|-immune|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tapu Lele|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|inactive|imchokingrn has 120 seconds left.
+|
+|t:|1641782970
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|move|p1a: Tyranitar|Stealth Rock|p2a: Landorus
+|-sidestart|p2: imchokingrn|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641782980
+|move|p2a: Landorus|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|63/100
+|
+|t:|1641782982
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Tyranitar|Toxic|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|70/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|ayevon has 120 seconds left.
+|j| paullaup
+|
+|t:|1641783039
+|switch|p1a: Kartana|Kartana|100/100
+|move|p2a: Ferrothorn|Spikes|p1a: Kartana
+|-sidestart|p1: ayevon|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|l| paullaup
+|inactive|ayevon has 90 seconds left.
+|
+|t:|1641783057
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641783067
+|move|p1a: Kartana|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|19/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Kartana
+|-damage|p1a: Kartana|91/100|[from] item: Life Orb
+|move|p2a: Zapdos|Hurricane|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641783070
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-damage|p1a: Garchomp|88/100|[from] Spikes
+|turn|7
+|inactive|imchokingrn has 120 seconds left.
+|j| 4seulgi
+|
+|t:|1641783117
+|switch|p2a: Tapu Lele|Tapu Lele|94/100
+|-damage|p2a: Tapu Lele|82/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Garchomp|Scale Shot|p2a: Tapu Lele
+|-immune|p2a: Tapu Lele
+|
+|-heal|p1a: Garchomp|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|ayevon has 120 seconds left.
+|
+|t:|1641783127
+|move|p2a: Tapu Lele|Moonblast|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641783129
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|88/100|[from] Spikes
+|turn|9
+|
+|t:|1641783140
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641783147
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|76/100
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|imchokingrn has 120 seconds left.
+|
+|t:|1641783160
+|move|p1a: Zapdos|Hurricane|p2a: Landorus
+|-damage|p2a: Landorus|52/100
+|-start|p2a: Landorus|confusion
+|-activate|p2a: Landorus|confusion
+|move|p2a: Landorus|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: ayevon|move: Stealth Rock
+|
+|-heal|p2a: Landorus|58/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|12
+|inactive|imchokingrn has 120 seconds left.
+|
+|t:|1641783168
+|switch|p2a: Zapdos|Zapdos|19/100
+|-damage|p2a: Zapdos|0 fnt|[from] Stealth Rock
+|faint|p2a: Zapdos
+|move|p1a: Zapdos|Hurricane|p2: Zapdos|[notarget]
+|-fail|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641783171
+|switch|p2a: Weavile|Weavile, F|100/100
+|-damage|p2a: Weavile|76/100|[from] Stealth Rock
+|-ability|p2a: Weavile|Pressure
+|turn|13
+|
+|t:|1641783176
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|-damage|p1a: Toxapex|76/100|[from] Spikes
+|move|p2a: Weavile|Triple Axel|p1a: Toxapex|[miss]
+|-miss|p2a: Weavile|p1a: Toxapex
+|
+|upkeep
+|turn|14
+|
+|t:|1641783189
+|switch|p2a: Tapu Lele|Tapu Lele|82/100
+|-damage|p2a: Tapu Lele|70/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Toxapex|Toxic Spikes|p2a: Tapu Lele
+|-sidestart|p2: imchokingrn|move: Toxic Spikes
+|
+|upkeep
+|turn|15
+|
+|t:|1641783193
+|switch|p1a: Tyranitar|Tyranitar, F|70/100
+|-damage|p1a: Tyranitar|57/100|[from] Spikes
+|-damage|p1a: Tyranitar|45/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Tapu Lele|Psychic|p1a: Tyranitar
+|-immune|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tapu Lele|63/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|51/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641783204
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|switch|p1a: Zapdos|Zapdos|76/100
+|-ability|p1a: Zapdos|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|69/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641783210
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|71/100
+|-start|p2a: Heatran|confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|63/100|[from] Sandstorm
+|-heal|p2a: Heatran|77/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641783213
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|38/100
+|-activate|p2a: Heatran|confusion
+|-damage|p2a: Heatran|70/100|[from] confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|32/100|[from] Sandstorm
+|-heal|p2a: Heatran|77/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|19
+|
+|t:|1641783215
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|82/100
+|-singleturn|p1a: Zapdos|move: Roost
+|-activate|p2a: Heatran|confusion
+|move|p2a: Heatran|Taunt|p1a: Zapdos
+|-start|p1a: Zapdos|move: Taunt
+|
+|-weather|none
+|-heal|p2a: Heatran|83/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641783220
+|move|p1a: Zapdos|Discharge|p2a: Heatran
+|-damage|p2a: Heatran|57/100
+|-activate|p2a: Heatran|confusion
+|-damage|p2a: Heatran|50/100|[from] confusion
+|
+|-heal|p2a: Heatran|56/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641783224
+|move|p1a: Zapdos|Discharge|p2a: Heatran
+|-damage|p2a: Heatran|33/100
+|-activate|p2a: Heatran|confusion
+|-damage|p2a: Heatran|25/100|[from] confusion
+|
+|-heal|p2a: Heatran|32/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641783227
+|move|p1a: Zapdos|Discharge|p2a: Heatran
+|-damage|p2a: Heatran|5/100
+|-end|p2a: Heatran|confusion
+|move|p2a: Heatran|Magma Storm|p1a: Zapdos|[miss]
+|-miss|p2a: Heatran|p1a: Zapdos
+|
+|-heal|p2a: Heatran|11/100|[from] item: Leftovers
+|-end|p1a: Zapdos|move: Taunt
+|upkeep
+|turn|23
+|
+|t:|1641783230
+|move|p1a: Zapdos|Discharge|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641783236
+|switch|p2a: Weavile|Weavile, F|76/100
+|-status|p2a: Weavile|psn
+|-damage|p2a: Weavile|51/100 psn|[from] Stealth Rock
+|-ability|p2a: Weavile|Pressure
+|turn|24
+|
+|t:|1641783244
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|-damage|p1a: Toxapex|76/100|[from] Spikes
+|move|p2a: Weavile|Triple Axel|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|71/100
+|-damage|p2a: Weavile|34/100 psn|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|62/100
+|-damage|p2a: Weavile|18/100 psn|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|49/100
+|-damage|p2a: Weavile|2/100 psn|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-hitcount|p1a: Toxapex|3
+|
+|-damage|p2a: Weavile|0 fnt|[from] psn
+|faint|p2a: Weavile
+|upkeep
+|
+|t:|1641783248
+|switch|p2a: Tapu Lele|Tapu Lele|63/100
+|-status|p2a: Tapu Lele|psn
+|-damage|p2a: Tapu Lele|51/100 psn|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|25
+|
+|t:|1641783254
+|move|p2a: Tapu Lele|Psychic|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-damage|p2a: Tapu Lele|39/100 psn|[from] psn
+|upkeep
+|
+|t:|1641783258
+|switch|p1a: Excadrill|Excadrill, M|88/100
+|-damage|p1a: Excadrill|76/100|[from] Spikes
+|-damage|p1a: Excadrill|73/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641783262
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Excadrill|Rapid Spin|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|89/100
+|-boost|p1a: Excadrill|spe|1
+|-damage|p1a: Excadrill|60/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-sideend|p1: ayevon|Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|-sideend|p1: ayevon|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|-heal|p1a: Excadrill|66/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|95/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641783285
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|move|p2a: Ferrothorn|Leech Seed|p1a: Excadrill|[miss]
+|-miss|p2a: Ferrothorn|p1a: Excadrill
+|
+|-heal|p1a: Excadrill|72/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641783289
+|move|p1a: Excadrill|Earthquake|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|11/100
+|move|p2a: Ferrothorn|Body Press|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-heal|p2a: Ferrothorn|17/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641783294
+|switch|p1a: Zapdos|Zapdos|82/100
+|-ability|p1a: Zapdos|Pressure
+|turn|29
+|-message|imchokingrn forfeited.
+|
+|win|ayevon
+|raw|ayevon's rating: 1753 &rarr; <strong>1775</strong><br />(+22 for winning)
+|raw|imchokingrn's rating: 1796 &rarr; <strong>1774</strong><br />(-22 for losing)
+|l|☆imchokingrn
+|l| GGeorgie

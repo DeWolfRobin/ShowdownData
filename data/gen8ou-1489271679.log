@@ -1,0 +1,239 @@
+|j|☆waterser
+|j|☆Killingn
+|t:|1641881203
+|gametype|singles
+|player|p1|waterser|pokekid|1407
+|player|p2|Killingn|170|1391
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Garchomp, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Tapu Lele|
+|poke|p2|Kartana|
+|poke|p2|Skarmory, F|
+|poke|p2|Swampert, M|
+|poke|p2|Ditto|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by waterser)
+|
+|t:|1641881213
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: 坐便器|Swampert, M|100/100
+|turn|1
+|
+|t:|1641881227
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: 坐便器|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|52/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641881244
+|move|p1a: Dragapult|Shadow Ball|p2a: 坐便器
+|-damage|p2a: 坐便器|68/100
+|move|p2a: 坐便器|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641881250
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|3
+|
+|t:|1641881256
+|move|p1a: Tapu Lele|Psychic|p2a: 坐便器
+|-damage|p2a: 坐便器|5/100
+|-enditem|p2a: 坐便器|Aguav Berry|[eat]
+|-heal|p2a: 坐便器|38/100|[from] item: Aguav Berry
+|move|p2a: 坐便器|Stealth Rock|p1a: Tapu Lele
+|-sidestart|p1: waterser|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641881259
+|move|p1a: Tapu Lele|Psychic|p2a: 坐便器
+|-damage|p2a: 坐便器|0 fnt
+|faint|p2a: 坐便器
+|
+|upkeep
+|
+|t:|1641881263
+|switch|p2a: 你不能走|Skarmory, F|100/100
+|turn|5
+|
+|t:|1641881266
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: 你不能走|Spikes|p1a: Tornadus
+|-sidestart|p1: waterser|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1641881270
+|move|p1a: Tornadus|Defog|p2a: 你不能走
+|-unboost|p2a: 你不能走|evasion|1
+|-sideend|p1: waterser|Spikes|[from] move: Defog|[of] p1a: Tornadus
+|-sideend|p1: waterser|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|-fieldend|move: Psychic Terrain
+|move|p2a: 你不能走|Taunt|p1a: Tornadus
+|-start|p1a: Tornadus|move: Taunt
+|
+|upkeep
+|turn|7
+|
+|t:|1641881282
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: 你不能走|Spikes|p1a: Heatran
+|-sidestart|p1: waterser|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1641881290
+|move|p2a: 你不能走|Spikes|p1a: Heatran
+|-sidestart|p1: waterser|Spikes
+|move|p1a: Heatran|Magma Storm|p2a: 你不能走
+|-supereffective|p2a: 你不能走
+|-ability|p2a: 你不能走|Sturdy
+|-damage|p2a: 你不能走|1/100
+|-activate|p2a: 你不能走|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: 你不能走|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p2a: 你不能走
+|upkeep
+|
+|t:|1641881296
+|switch|p2a: 你的很大，但是现在|Ditto|100/100
+|-transform|p2a: 你的很大，但是现在|p1a: Heatran|[from] ability: Imposter
+|turn|9
+|
+|t:|1641881300
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|move|p2a: 你的很大，但是现在|Earth Power|p1a: Slowbro
+|-damage|p1a: Slowbro|75/100
+|-unboost|p1a: Slowbro|spd|1
+|
+|upkeep
+|turn|10
+|-activate|p2a: 你的很大，但是现在|item: Quick Claw
+|
+|t:|1641881304
+|move|p2a: 你的很大，但是现在|Toxic|p1a: Slowbro
+|-status|p1a: Slowbro|tox
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641881314
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from]move: Teleport
+|-damage|p1a: Garchomp|84/100|[from] Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1641881319
+|switch|p2a: 催逝员|Zapdos|100/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|12
+|
+|t:|1641881322
+|move|p1a: Garchomp|Scale Shot|p2a: 催逝员|[miss]
+|-miss|p1a: Garchomp|p2a: 催逝员
+|move|p2a: 催逝员|Swagger|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|-start|p1a: Garchomp|confusion
+|
+|upkeep
+|turn|13
+|
+|t:|1641881334
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Scale Shot|p2a: 催逝员
+|-damage|p2a: 催逝员|73/100
+|-damage|p2a: 催逝员|47/100
+|-damage|p2a: 催逝员|18/100
+|-hitcount|p2a: 催逝员|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: 催逝员|Tailwind|p2a: 催逝员
+|-sidestart|p2: Killingn|move: Tailwind
+|
+|upkeep
+|turn|14
+|-enditem|p2a: 催逝员|Custap Berry|[eat]
+|-activate|p2a: 催逝员|item: Custap Berry|[consumed]
+|
+|t:|1641881345
+|move|p2a: 催逝员|Swagger|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Scale Shot|p2a: 催逝员
+|-damage|p2a: 催逝员|0 fnt
+|faint|p2a: 催逝员
+|-hitcount|p2: 催逝员|1
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1641881349
+|switch|p2a: 你的很大，但是现在|Ditto|100/100
+|-transform|p2a: 你的很大，但是现在|p1a: Garchomp|[from] ability: Imposter
+|turn|15
+|-activate|p2a: 你的很大，但是现在|item: Quick Claw
+|
+|t:|1641881354
+|move|p2a: 你的很大，但是现在|Scale Shot|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-hitcount|p1: Garchomp|1
+|-unboost|p2a: 你的很大，但是现在|def|1
+|-boost|p2a: 你的很大，但是现在|spe|1
+|
+|upkeep
+|
+|t:|1641881359
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|16
+|
+|t:|1641881363
+|move|p2a: 你的很大，但是现在|Scale Shot|p1a: Tornadus
+|-damage|p1a: Tornadus|42/100
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|-hitcount|p1: Tornadus|2
+|-unboost|p2a: 你的很大，但是现在|def|1
+|-boost|p2a: 你的很大，但是现在|spe|1
+|
+|-sideend|p2: Killingn|move: Tailwind
+|upkeep
+|-message|waterser forfeited.
+|
+|win|Killingn
+|raw|waterser's rating: 1407 &rarr; <strong>1386</strong><br />(-21 for losing)
+|raw|Killingn's rating: 1391 &rarr; <strong>1412</strong><br />(+21 for winning)
+|l|☆waterser

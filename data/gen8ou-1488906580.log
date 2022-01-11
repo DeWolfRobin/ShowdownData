@@ -1,0 +1,225 @@
+|j|☆Yellowpanda483
+|j|☆cuzzi4k
+|t:|1641835255
+|gametype|singles
+|player|p1|Yellowpanda483|266|1197
+|player|p2|cuzzi4k|chuck|1190
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Tyrantrum, F|
+|poke|p1|Nidoking, M|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Mimikyu, F|
+|poke|p1|Rotom|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Clefable, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cuzzi4k)
+|
+|t:|1641835271
+|start
+|switch|p1a: Tyrantrum|Tyrantrum, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tyrantrum|atk|1
+|turn|1
+|
+|t:|1641835287
+|move|p2a: Landorus|Stealth Rock|p1a: Tyrantrum
+|-sidestart|p1: Yellowpanda483|move: Stealth Rock
+|move|p1a: Tyrantrum|Stealth Rock|p2a: Landorus
+|-sidestart|p2: cuzzi4k|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641835293
+|move|p2a: Landorus|Earthquake|p1a: Tyrantrum
+|-supereffective|p1a: Tyrantrum
+|-damage|p1a: Tyrantrum|26/100
+|move|p1a: Tyrantrum|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-heal|p1a: Tyrantrum|32/100|[from] item: Leftovers
+|-damage|p2a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641835306
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|-damage|p1a: Nidoking|94/100|[from] Stealth Rock
+|-item|p1a: Nidoking|Air Balloon
+|move|p2a: Landorus|Toxic|p1a: Nidoking
+|-immune|p1a: Nidoking
+|
+|-heal|p2a: Landorus|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|88/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641835317
+|move|p2a: Landorus|U-turn|p1a: Nidoking
+|-resisted|p1a: Nidoking
+|-damage|p1a: Nidoking|81/100
+|-enditem|p1a: Nidoking|Air Balloon
+|
+|t:|1641835324
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Nidoking|Ice Beam|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|71/100
+|
+|-heal|p2a: Ferrothorn|77/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641835337
+|move|p1a: Nidoking|Fire Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641835344
+|switch|p2a: Landorus|Landorus-Therian, M|88/100 tox
+|-damage|p2a: Landorus|76/100 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Nidoking|atk|1
+|turn|6
+|
+|t:|1641835354
+|switch|p1a: Rotom|Rotom|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Rotom
+|-immune|p1a: Rotom|[from] ability: Levitate
+|
+|-heal|p2a: Landorus|82/100 tox|[from] item: Leftovers
+|-heal|p1a: Rotom|94/100|[from] item: Leftovers
+|-damage|p2a: Landorus|76/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641835366
+|move|p2a: Landorus|Toxic|p1a: Rotom
+|-status|p1a: Rotom|tox
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|
+|-heal|p2a: Landorus|82/100 tox|[from] item: Leftovers
+|-heal|p1a: Rotom|99/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|70/100 tox|[from] psn
+|-damage|p1a: Rotom|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641835379
+|move|p2a: Landorus|U-turn|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|79/100 tox
+|
+|t:|1641835387
+|switch|p2a: Hippowdon|Hippowdon, M|100/100|[from]move: U-turn
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Rotom|Dark Pulse|p2a: Hippowdon
+|-damage|p2a: Hippowdon|49/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|73/100 tox|[from] Sandstorm
+|-heal|p1a: Rotom|79/100 tox|[from] item: Leftovers
+|-heal|p2a: Hippowdon|55/100|[from] item: Leftovers
+|-damage|p1a: Rotom|67/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641835403
+|move|p1a: Rotom|Dark Pulse|p2a: Hippowdon
+|-damage|p2a: Hippowdon|12/100
+|move|p2a: Hippowdon|Whirlwind|p1a: Rotom
+|drag|p1a: Nidoking|Nidoking, M|81/100
+|-damage|p1a: Nidoking|74/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|19/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641835417
+|move|p1a: Nidoking|Earth Power|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641835431
+|switch|p2a: Landorus|Landorus-Therian, M|70/100 tox
+|-damage|p2a: Landorus|58/100 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Nidoking|atk|1
+|turn|11
+|
+|t:|1641835437
+|switch|p1a: Rotom|Rotom|67/100 tox
+|-damage|p1a: Rotom|55/100 tox|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|39/100 tox
+|
+|t:|1641835447
+|switch|p2a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|94/100|[from] Sandstorm
+|-damage|p1a: Rotom|33/100 tox|[from] Sandstorm
+|-heal|p1a: Rotom|39/100 tox|[from] item: Leftovers
+|-damage|p1a: Rotom|33/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641835461
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1641835473
+|move|p2a: Weavile|Ice Shard|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|79/100
+|move|p1a: Urshifu|Drain Punch|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-heal|p1a: Urshifu|100/100|[from] drain|[of] p2a: Weavile
+|faint|p2a: Weavile
+|-damage|p1a: Urshifu|91/100|[from] item: Life Orb
+|
+|upkeep
+|-message|cuzzi4k forfeited.
+|
+|win|Yellowpanda483
+|raw|Yellowpanda483's rating: 1197 &rarr; <strong>1221</strong><br />(+24 for winning)
+|raw|cuzzi4k's rating: 1190 &rarr; <strong>1166</strong><br />(-24 for losing)
+|l|☆cuzzi4k

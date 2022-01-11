@@ -1,0 +1,304 @@
+|j|☆Diavolo_Crison
+|j|☆azrak
+|t:|1641780591
+|gametype|singles
+|player|p1|Diavolo_Crison|101|1443
+|player|p2|azrak|266|1508
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Jirachi|
+|poke|p1|Regieleki|
+|poke|p1|Dragonite, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Bisharp, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Magnezone|
+|poke|p2|Hawlucha, M|
+|poke|p2|Kartana|
+|poke|p2|Toxapex, M|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by azrak)
+|inactive|azrak has 120 seconds left.
+|c|☆azrak|glhf
+|
+|t:|1641780627
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1641780643
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|76/100
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rillaboom
+|-damage|p2a: Rillaboom|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|97/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1641780663
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641780666
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|4
+|
+|t:|1641780669
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Toxapex|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|95/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641780671
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641780675
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Toxapex|Toxic Spikes|p1a: Dragonite
+|-sidestart|p1: Diavolo_Crison|move: Toxic Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641780678
+|move|p1a: Dragonite|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|33/100
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|8
+|
+|t:|1641780688
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641780689
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Corviknight|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|57/100
+|-damage|p2a: Corviknight|90/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|96/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641780691
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Corviknight|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|81/100
+|-damage|p2a: Corviknight|91/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|97/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641780696
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Corviknight|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|72/100
+|
+|t:|1641780714
+|switch|p2a: Toxapex|Toxapex, M|66/100|[from]move: U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1641780717
+|switch|p2a: Corviknight|Corviknight, F|97/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragonite|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641780725
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Corviknight|Roost||[still]
+|-fail|p2a: Corviknight|heal
+|
+|upkeep
+|turn|14
+|
+|t:|1641780731
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Corviknight|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|81/100
+|-damage|p2a: Corviknight|95/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641780735
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Corviknight|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|41/100
+|-damage|p2a: Corviknight|90/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|96/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641780738
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|91/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1641780741
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Corviknight|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|48/100
+|-damage|p2a: Corviknight|89/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|95/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641780744
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|98/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|19
+|
+|t:|1641780746
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Corviknight|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|81/100
+|-damage|p2a: Corviknight|95/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641780749
+|move|p1a: Dragonite|Ice Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|20/100
+|move|p2a: Corviknight|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|38/100
+|-damage|p2a: Corviknight|9/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|15/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641780755
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|88/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Corviknight|Brave Bird|p1a: Dragonite
+|-damage|p1a: Dragonite|44/100
+|-damage|p2a: Corviknight|3/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|10/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641780763
+|move|p1a: Dragonite|Ice Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641780770
+|switch|p2a: Rillaboom|Rillaboom, F|97/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|23
+|
+|t:|1641780771
+|move|p2a: Rillaboom|Grassy Glide|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|27/100
+|-damage|p2a: Rillaboom|87/100|[from] item: Life Orb
+|move|p1a: Dragonite|Ice Punch|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|-message|azrak forfeited.
+|
+|win|Diavolo_Crison
+|raw|Diavolo_Crison's rating: 1443 &rarr; <strong>1467</strong><br />(+24 for winning)
+|raw|azrak's rating: 1508 &rarr; <strong>1484</strong><br />(-24 for losing)
+|l|☆azrak

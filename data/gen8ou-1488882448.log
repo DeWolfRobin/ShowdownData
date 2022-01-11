@@ -1,0 +1,118 @@
+|j|☆F1refli
+|j|☆Cumpet
+|t:|1641832699
+|gametype|singles
+|player|p1|F1refli|170|1026
+|player|p2|Cumpet|drayden|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Kartana|
+|poke|p1|Magnezone|
+|poke|p1|Corviknight, M|
+|poke|p2|Gardevoir, M|
+|poke|p2|Metagross|
+|poke|p2|Dragapult, M|
+|poke|p2|Porygon2|
+|poke|p2|Shuckle, M|
+|poke|p2|Jellicent, F|
+|teampreview
+|
+|t:|1641832726
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragapult|atk|1
+|turn|1
+|
+|t:|1641832735
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|move|p1a: Landorus|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: Cumpet|move: Stealth Rock
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641832743
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Landorus
+|-status|p1a: Landorus|brn
+|move|p1a: Landorus|Earthquake|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|-damage|p1a: Landorus|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641832750
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|63/100
+|move|p1a: Landorus|U-turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-activate|p2a: Dragapult|move: Substitute|[damage]
+|
+|t:|1641832764
+|switch|p1a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|
+|-heal|p2a: Dragapult|69/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641832768
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Magnezone
+|-status|p1a: Magnezone|brn
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|
+|-heal|p2a: Dragapult|75/100|[from] item: Leftovers
+|-damage|p1a: Magnezone|94/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641832774
+|move|p2a: Dragapult|Hex|p1a: Magnezone
+|-damage|p1a: Magnezone|51/100 brn
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|
+|-heal|p2a: Dragapult|81/100|[from] item: Leftovers
+|-heal|p1a: Magnezone|57/100 brn|[from] item: Leftovers
+|-damage|p1a: Magnezone|51/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641832784
+|move|p2a: Dragapult|Hex|p1a: Magnezone
+|-damage|p1a: Magnezone|6/100 brn
+|move|p1a: Magnezone|Body Press|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|-heal|p2a: Dragapult|87/100|[from] item: Leftovers
+|-heal|p1a: Magnezone|12/100 brn|[from] item: Leftovers
+|-damage|p1a: Magnezone|6/100 brn|[from] brn
+|upkeep
+|turn|7
+|-message|F1refli forfeited.
+|
+|win|Cumpet
+|raw|F1refli's rating: 1026 &rarr; <strong>1011</strong><br />(-15 for losing)
+|raw|Cumpet's rating: 1000 &rarr; <strong>1043</strong><br />(+43 for winning)
+|l|☆F1refli

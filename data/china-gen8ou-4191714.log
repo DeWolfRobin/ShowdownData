@@ -1,0 +1,215 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC KFC嫩牛五方
+|j|☆sl21cc ryekie
+|t:|1641823926
+|gametype|singles
+|player|p1|SL21CC KFC嫩牛五方|baker|1284
+|player|p2|sl21cc ryekie|erika|1289
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Cresselia, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Porygon2|
+|poke|p1|Marowak-Alola, F|
+|poke|p2|Mew|
+|poke|p2|Blacephalon|
+|poke|p2|Dragonite, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Celesteela|
+|poke|p2|Garchomp, F|
+|teampreview
+|j| sl21cc ap
+|
+|t:|1641823953
+|start
+|switch|p1a: Knocked|Crawdaunt, M, shiny|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|j| solitary dream
+|j| adreamew
+|j|♚Master Origami♕
+|j| sl21cckhl
+|
+|t:|1641823987
+|move|p2a: Mew|Thunder Wave|p1a: Knocked
+|-status|p1a: Knocked|par
+|move|p1a: Knocked|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|-enditem|p2a: Mew|Red Card|[from] move: Knock Off|[of] p1a: Knocked
+|faint|p2a: Mew
+|-damage|p1a: Knocked|90/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641823996
+|switch|p2a: Celesteela|Celesteela|100/100
+|turn|2
+|j|+dragonitenb
+|j| sl21cc vogut
+|
+|t:|1641824041
+|move|p2a: Celesteela|Meteor Beam||[still]
+|-prepare|p2a: Celesteela|Meteor Beam
+|-boost|p2a: Celesteela|spa|1
+|-enditem|p2a: Celesteela|Power Herb
+|-anim|p2a: Celesteela|Meteor Beam|p1a: Knocked
+|-damage|p1a: Knocked|0 fnt
+|faint|p1a: Knocked
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|upkeep
+|
+|t:|1641824046
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|turn|3
+|
+|t:|1641824050
+|move|p2a: Celesteela|Air Slash|p1a: Hatterene
+|-damage|p1a: Hatterene|19/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|4
+|j| SL21CCC徐坤
+|
+|t:|1641824064
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|move|p2a: Celesteela|Air Slash|p1: Hatterene|[notarget]
+|-fail|p2a: Celesteela
+|
+|upkeep
+|
+|t:|1641824066
+|switch|p1a: Marowak|Marowak-Alola, F|100/100
+|turn|5
+|
+|t:|1641824070
+|move|p1a: Marowak|Flare Blitz|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|
+|upkeep
+|
+|t:|1641824074
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|6
+|
+|t:|1641824097
+|move|p1a: Marowak|Poltergeist|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Poltergeist|Roseli Berry
+|-damage|p2a: Garchomp|3/100
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641824103
+|move|p1a: Marowak|Flare Blitz|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Marowak|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-fieldend|move: Trick Room
+|upkeep
+|c|☆sl21cc ryekie|这不上美梦吗
+|
+|t:|1641824115
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|8
+|
+|t:|1641824123
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|move|p1a: Marowak|Flare Blitz|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641824127
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|9
+|j| Tokyo EZ
+|l| Tokyo EZ
+|
+|t:|1641824145
+|move|p2a: Blacephalon|Mind Blown|p1a: Marowak
+|-resisted|p1a: Marowak
+|-crit|p1a: Marowak
+|-damage|p1a: Marowak|0 fnt
+|-damage|p2a: Blacephalon|50/100|[from] mindblown
+|faint|p1a: Marowak
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641824148
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|10
+|
+|t:|1641824153
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|upkeep
+|turn|11
+|l| SL21CCC徐坤
+|l|+dragonitenb
+|
+|t:|1641824171
+|move|p1a: Cresselia|Lunar Dance|p1a: Cresselia
+|faint|p1a: Cresselia
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|
+|t:|1641824172
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|12
+|j| SL21CC sadfrog
+|
+|t:|1641824174
+|move|p1a: Melmetal|Double Iron Bash|p2a: Dragonite
+|-damage|p2a: Dragonite|63/100
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-hitcount|p2: Dragonite|2
+|
+|upkeep
+|
+|t:|1641824178
+|switch|p2a: Blacephalon|Blacephalon|50/100
+|turn|13
+|c|☆sl21cc ryekie|gg
+|-message|sl21cc ryekie forfeited.
+|
+|win|SL21CC KFC嫩牛五方
+|raw|SL21CC KFC嫩牛五方's rating: 1269 &rarr; <strong>1287</strong><br />(+18 for winning)
+|raw|sl21cc ryekie's rating: 1312 &rarr; <strong>1294</strong><br />(-18 for losing)
+|l| sl21cckhl
+|l| sl21cc vogut

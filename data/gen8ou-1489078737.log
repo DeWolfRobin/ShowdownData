@@ -1,0 +1,169 @@
+|j|☆Bunnyhop 54
+|j|☆ELF-1018
+|t:|1641853930
+|gametype|singles
+|player|p1|Bunnyhop 54|lyra|1080
+|player|p2|ELF-1018|pokemonrangerf|1121
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Celesteela|
+|poke|p1|Regieleki|
+|poke|p1|Blissey, F|
+|poke|p1|Primarina, F|
+|poke|p1|Dragapult, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxtricity, F|
+|poke|p2|Skarmory, F|
+|poke|p2|Galvantula, M|
+|poke|p2|Cloyster, M|
+|poke|p2|Azumarill, M|
+|teampreview
+|
+|t:|1641853934
+|start
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Galvantula|Galvantula, M|100/100
+|turn|1
+|
+|t:|1641853941
+|move|p2a: Galvantula|Thunder Wave|p1a: Blissey
+|-status|p1a: Blissey|par
+|cant|p1a: Blissey|par
+|
+|upkeep
+|turn|2
+|
+|t:|1641853947
+|move|p2a: Galvantula|Sticky Web|p1a: Blissey
+|-sidestart|p1: Bunnyhop 54|move: Sticky Web
+|move|p1a: Blissey|Stealth Rock|p2a: Galvantula
+|-sidestart|p2: ELF-1018|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641853953
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blissey|atk|1
+|cant|p1a: Blissey|par
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641853964
+|-curestatus|p1a: Blissey|par|[from] ability: Natural Cure
+|switch|p1a: Primarina|Primarina, F|100/100
+|-activate|p1a: Primarina|move: Sticky Web
+|-unboost|p1a: Primarina|spe|1
+|move|p2a: Landorus|Substitute|p2a: Landorus
+|-start|p2a: Landorus|Substitute
+|-damage|p2a: Landorus|69/100
+|
+|-heal|p2a: Landorus|75/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641853974
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|move|p1a: Primarina|Perish Song|p1a: Primarina
+|-start|p1a: Primarina|perish3|[silent]
+|-start|p2a: Landorus|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|
+|-heal|p2a: Landorus|81/100|[from] item: Leftovers
+|-start|p2a: Landorus|perish3
+|-start|p1a: Primarina|perish3
+|upkeep
+|turn|6
+|
+|t:|1641853986
+|switch|p1a: Celesteela|Celesteela|100/100
+|move|p2a: Landorus|Earthquake|p1a: Celesteela
+|-immune|p1a: Celesteela
+|
+|-heal|p2a: Landorus|87/100|[from] item: Leftovers
+|-start|p2a: Landorus|perish2
+|upkeep
+|turn|7
+|
+|t:|1641853997
+|move|p2a: Landorus|Rock Tomb|p1a: Celesteela
+|-damage|p1a: Celesteela|66/100
+|-unboost|p1a: Celesteela|spe|1
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|-heal|p2a: Landorus|93/100|[from] item: Leftovers
+|-start|p2a: Landorus|perish1
+|upkeep
+|turn|8
+|
+|t:|1641854015
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|upkeep
+|turn|9
+|
+|t:|1641854024
+|move|p1a: Celesteela|Meteor Beam||[still]
+|-prepare|p1a: Celesteela|Meteor Beam
+|-boost|p1a: Celesteela|spa|1
+|-enditem|p1a: Celesteela|Power Herb
+|-anim|p1a: Celesteela|Meteor Beam|p2a: Skarmory
+|-damage|p2a: Skarmory|12/100
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|upkeep
+|turn|10
+|
+|t:|1641854033
+|move|p1a: Celesteela|Flamethrower|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|-ability|p1a: Celesteela|Beast Boost|boost
+|-boost|p1a: Celesteela|spa|1
+|
+|upkeep
+|
+|t:|1641854043
+|switch|p2a: Galvantula|Galvantula, M|100/100
+|-damage|p2a: Galvantula|76/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641854048
+|move|p1a: Celesteela|Air Slash|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|-ability|p1a: Celesteela|Beast Boost|boost
+|-boost|p1a: Celesteela|spa|1
+|
+|upkeep
+|-message|ELF-1018 forfeited.
+|
+|win|Bunnyhop 54
+|raw|Bunnyhop 54's rating: 1080 &rarr; <strong>1111</strong><br />(+31 for winning)
+|raw|ELF-1018's rating: 1121 &rarr; <strong>1093</strong><br />(-28 for losing)
+|l|☆ELF-1018

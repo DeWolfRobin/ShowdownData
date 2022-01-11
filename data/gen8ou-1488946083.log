@@ -1,0 +1,247 @@
+|j|☆GeektorSenpai
+|j|☆Haxxhatred
+|t:|1641839363
+|gametype|singles
+|player|p1|GeektorSenpai|2|1365
+|player|p2|Haxxhatred|170|1326
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Buzzwole|
+|poke|p1|Pelipper, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Zapdos|
+|poke|p2|Salazzle, F|
+|poke|p2|Latios, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Hydreigon, M|
+|poke|p2|Moltres|
+|teampreview
+|
+|t:|1641839387
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|turn|1
+|
+|t:|1641839401
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|move|p1a: Dragapult|U-turn|p2a: Bisharp
+|-damage|p2a: Bisharp|82/100
+|
+|t:|1641839409
+|switch|p1a: Buzzwole|Buzzwole|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641839419
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|switch|p2a: Moltres|Moltres|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641839437
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|move|p1a: Pelipper|Scald|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|76/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641839448
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Hydreigon|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|63/100
+|-unboost|p2a: Hydreigon|spa|2
+|-damage|p2a: Hydreigon|66/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641839459
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|move|p2a: Hydreigon|Outrage|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|-damage|p2a: Hydreigon|56/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641839467
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|6
+|
+|t:|1641839476
+|move|p1a: Zapdos|Volt Switch|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|34/100
+|
+|t:|1641839481
+|switch|p1a: Slowking|Slowking-Galar, F|97/100|[from]move: Volt Switch
+|move|p2a: Hydreigon|Outrage|p1a: Slowking|[from]lockedmove
+|-damage|p1a: Slowking|18/100
+|-damage|p2a: Hydreigon|24/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641839491
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Hydreigon|Outrage|p1a: Buzzwole|[from]lockedmove
+|-damage|p1a: Buzzwole|49/100
+|-damage|p2a: Hydreigon|7/100|[from] item: Rocky Helmet|[of] p1a: Buzzwole
+|-damage|p2a: Hydreigon|0 fnt|[from] item: Life Orb
+|faint|p2a: Hydreigon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641839515
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|8
+|
+|t:|1641839526
+|move|p2a: Tapu Koko|Thunder|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|-damage|p2a: Tapu Koko|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641839539
+|switch|p1a: Slowking|Slowking-Galar, F|52/100
+|turn|9
+|
+|t:|1641839546
+|switch|p2a: Bisharp|Bisharp, M|82/100
+|move|p1a: Slowking|Scald|p2a: Bisharp
+|-damage|p2a: Bisharp|36/100
+|
+|-weather|none
+|upkeep
+|turn|10
+|
+|t:|1641839554
+|move|p2a: Bisharp|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Bisharp
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1641839561
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|11
+|
+|t:|1641839566
+|move|p2a: Bisharp|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: GeektorSenpai|move: Stealth Rock
+|move|p1a: Pelipper|Scald|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641839575
+|switch|p2a: Salazzle|Salazzle, F|100/100
+|turn|12
+|
+|t:|1641839582
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Pelipper|Scald|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|79/100
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|13
+|
+|t:|1641839591
+|move|p2a: Latios|Draco Meteor|p1a: Pelipper
+|-damage|p1a: Pelipper|8/100
+|-unboost|p2a: Latios|spa|2
+|move|p1a: Pelipper|U-turn|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|58/100
+|
+|t:|1641839601
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641839614
+|switch|p2a: Tapu Koko|Tapu Koko|91/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Zapdos|Hurricane|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|50/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641839623
+|move|p1a: Zapdos|Hurricane|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|10/100
+|move|p2a: Tapu Koko|Thunder|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Tapu Koko|0 fnt|[from] item: Life Orb
+|faint|p2a: Tapu Koko
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641839636
+|switch|p2a: Latios|Latios, M|58/100
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|16
+|
+|t:|1641839642
+|move|p2a: Latios|Draco Meteor|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-unboost|p2a: Latios|spa|2
+|faint|p1a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|GeektorSenpai forfeited.
+|
+|win|Haxxhatred
+|raw|GeektorSenpai's rating: 1365 &rarr; <strong>1343</strong><br />(-22 for losing)
+|raw|Haxxhatred's rating: 1326 &rarr; <strong>1348</strong><br />(+22 for winning)
+|l|☆GeektorSenpai
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,404 @@
+|j|☆Gounginguy
+|j|☆yopierredropwlr
+|t:|1641817377
+|gametype|singles
+|player|p1|Gounginguy|101|1079
+|player|p2|yopierredropwlr|1|1082
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Nidoking, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Heatran, M|
+|poke|p1|Kartana|
+|poke|p1|Tapu Fini|
+|poke|p2|Sandslash-Alola, F|
+|poke|p2|Magnezone|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Swampert, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gounginguy)
+|
+|t:|1641817389
+|start
+|switch|p1a: dinhausaure|Nidoking, M|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|1
+|
+|t:|1641817396
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Swampert|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: Gounginguy|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641817414
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Magnezone
+|-sidestart|p2: yopierredropwlr|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641817422
+|move|p2a: Magnezone|Substitute|p2a: Magnezone
+|-start|p2a: Magnezone|Substitute
+|-damage|p2a: Magnezone|76/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Magnezone
+|-activate|p2a: Magnezone|move: Substitute|[damage]
+|
+|-heal|p2a: Magnezone|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641817431
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|move|p1a: Ferrothorn|Knock Off|p2a: Magnezone
+|-crit|p2a: Magnezone
+|-end|p2a: Magnezone|Substitute
+|
+|-heal|p2a: Magnezone|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641817456
+|move|p2a: Magnezone|Substitute|p2a: Magnezone
+|-start|p2a: Magnezone|Substitute
+|-damage|p2a: Magnezone|63/100
+|move|p1a: Ferrothorn|Spikes|p2a: Magnezone
+|-sidestart|p2: yopierredropwlr|Spikes
+|
+|-heal|p2a: Magnezone|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|Gounginguy has 120 seconds left.
+|
+|t:|1641817472
+|move|p2a: Magnezone|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|31/100
+|-damage|p2a: Magnezone|56/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Knock Off|p2a: Magnezone
+|-activate|p2a: Magnezone|move: Substitute|[damage]
+|
+|-heal|p2a: Magnezone|62/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|37/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Gounginguy has 120 seconds left.
+|
+|t:|1641817486
+|move|p2a: Magnezone|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Magnezone|50/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Magnezone|56/100|[from] item: Leftovers
+|upkeep
+|inactive|Gounginguy has 120 seconds left.
+|
+|t:|1641817496
+|switch|p1a: dinhausaure|Nidoking, M|100/100
+|-damage|p1a: dinhausaure|95/100|[from] Stealth Rock
+|turn|8
+|inactive|Gounginguy has 120 seconds left.
+|inactive|yopierredropwlr has 120 seconds left.
+|
+|t:|1641817526
+|move|p1a: dinhausaure|Flamethrower|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-end|p2a: Magnezone|Substitute
+|move|p2a: Magnezone|Body Press|p1a: dinhausaure
+|-resisted|p1a: dinhausaure
+|-damage|p1a: dinhausaure|56/100
+|
+|-heal|p2a: Magnezone|62/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|yopierredropwlr has 120 seconds left.
+|
+|t:|1641817538
+|move|p1a: dinhausaure|Sludge Wave|p2a: Magnezone
+|-immune|p2a: Magnezone
+|move|p2a: Magnezone|Body Press|p1a: dinhausaure
+|-resisted|p1a: dinhausaure
+|-damage|p1a: dinhausaure|19/100
+|
+|-heal|p2a: Magnezone|68/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641817548
+|move|p1a: dinhausaure|Flamethrower|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|inactive|yopierredropwlr has 120 seconds left.
+|
+|t:|1641817568
+|switch|p2a: Swampert|Swampert, M|100/100
+|-damage|p2a: Swampert|84/100|[from] Spikes
+|turn|11
+|inactive|yopierredropwlr has 120 seconds left.
+|inactive|Gounginguy has 120 seconds left.
+|
+|t:|1641817584
+|switch|p1a: wataféri|Tapu Fini|100/100
+|-damage|p1a: wataféri|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: wataféri
+|move|p2a: Swampert|Earthquake|p1a: wataféri
+|-damage|p1a: wataféri|61/100
+|
+|-heal|p1a: wataféri|67/100|[from] item: Leftovers
+|-heal|p2a: Swampert|90/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|yopierredropwlr has 120 seconds left.
+|inactive|Gounginguy has 120 seconds left.
+|
+|t:|1641817597
+|move|p1a: wataféri|Calm Mind|p1a: wataféri
+|-boost|p1a: wataféri|spa|1
+|-boost|p1a: wataféri|spd|1
+|move|p2a: Swampert|Flip Turn|p1a: wataféri
+|-resisted|p1a: wataféri
+|-damage|p1a: wataféri|59/100
+|
+|t:|1641817607
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100|[from]move: Flip Turn
+|-damage|p2a: Ninetales|84/100|[from] Spikes
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: wataféri|53/100|[from] Hail
+|-heal|p1a: wataféri|59/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|yopierredropwlr has 120 seconds left.
+|
+|t:|1641817627
+|move|p2a: Ninetales|Freeze-Dry|p1a: wataféri
+|-supereffective|p1a: wataféri
+|-damage|p1a: wataféri|31/100
+|move|p1a: wataféri|Taunt|p2a: Ninetales
+|-start|p2a: Ninetales|move: Taunt
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: wataféri|25/100|[from] Hail
+|-heal|p1a: wataféri|31/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Gounginguy has 120 seconds left.
+|
+|t:|1641817643
+|move|p2a: Ninetales|Freeze-Dry|p1a: wataféri
+|-supereffective|p1a: wataféri
+|-damage|p1a: wataféri|1/100
+|move|p1a: wataféri|Calm Mind|p1a: wataféri
+|-boost|p1a: wataféri|spa|1
+|-boost|p1a: wataféri|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: wataféri|0 fnt|[from] Hail
+|faint|p1a: wataféri
+|upkeep
+|inactive|Gounginguy has 120 seconds left.
+|
+|t:|1641817657
+|switch|p1a: coupefesse|Kartana|100/100
+|-damage|p1a: coupefesse|94/100|[from] Stealth Rock
+|turn|15
+|inactive|Gounginguy has 120 seconds left.
+|inactive|yopierredropwlr has 120 seconds left.
+|
+|t:|1641817677
+|move|p1a: coupefesse|Knock Off|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|45/100
+|-enditem|p2a: Ninetales|Icy Rock|[from] move: Knock Off|[of] p1a: coupefesse
+|-damage|p1a: coupefesse|85/100|[from] item: Life Orb
+|move|p2a: Ninetales|Freeze-Dry|p1a: coupefesse
+|-damage|p1a: coupefesse|0 fnt
+|faint|p1a: coupefesse
+|
+|-weather|Hail|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641817695
+|switch|p1a: pas d'inspi2|Heatran, M|100/100
+|-damage|p1a: pas d'inspi2|88/100|[from] Stealth Rock
+|turn|16
+|inactive|yopierredropwlr has 120 seconds left.
+|
+|t:|1641817724
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: pas d'inspi2|Magma Storm|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|63/100
+|-activate|p2a: Mandibuzz|move: Magma Storm|[of] p1a: pas d'inspi2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: pas d'inspi2|82/100|[from] Hail
+|-heal|p1a: pas d'inspi2|88/100|[from] item: Leftovers
+|-damage|p2a: Mandibuzz|50/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1641817747
+|move|p2a: Mandibuzz|Foul Play|p1a: pas d'inspi2
+|-damage|p1a: pas d'inspi2|63/100
+|move|p1a: pas d'inspi2|Toxic|p2a: Mandibuzz
+|-status|p2a: Mandibuzz|tox
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: pas d'inspi2|57/100|[from] Hail
+|-heal|p1a: pas d'inspi2|63/100|[from] item: Leftovers
+|-damage|p2a: Mandibuzz|44/100 tox|[from] psn
+|-damage|p2a: Mandibuzz|32/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|18
+|
+|t:|1641817761
+|move|p1a: pas d'inspi2|Protect|p1a: pas d'inspi2
+|-singleturn|p1a: pas d'inspi2|Protect
+|move|p2a: Mandibuzz|U-turn|p1a: pas d'inspi2
+|-activate|p1a: pas d'inspi2|move: Protect
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: pas d'inspi2|57/100|[from] Hail
+|-heal|p1a: pas d'inspi2|63/100|[from] item: Leftovers
+|-damage|p2a: Mandibuzz|20/100 tox|[from] psn
+|-damage|p2a: Mandibuzz|7/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1641817776
+|move|p2a: Mandibuzz|Foul Play|p1a: pas d'inspi2
+|-damage|p1a: pas d'inspi2|40/100
+|move|p1a: pas d'inspi2|Toxic|p2a: Mandibuzz
+|-fail|p2a: Mandibuzz|tox
+|
+|-weather|none
+|-heal|p1a: pas d'inspi2|46/100|[from] item: Leftovers
+|-damage|p2a: Mandibuzz|0 fnt|[from] psn
+|faint|p2a: Mandibuzz
+|upkeep
+|inactive|yopierredropwlr has 90 seconds left.
+|
+|t:|1641817806
+|switch|p2a: Swampert|Swampert, M|90/100
+|-damage|p2a: Swampert|74/100|[from] Spikes
+|turn|20
+|inactive|Gounginguy has 90 seconds left.
+|
+|t:|1641817827
+|switch|p1a: dinhausaure|Nidoking, M|19/100
+|-damage|p1a: dinhausaure|13/100|[from] Stealth Rock
+|move|p2a: Swampert|Flip Turn|p1a: dinhausaure
+|-supereffective|p1a: dinhausaure
+|-damage|p1a: dinhausaure|0 fnt
+|faint|p1a: dinhausaure
+|
+|t:|1641817836
+|switch|p2a: Ninetales|Ninetales-Alola, M|45/100|[from]move: Flip Turn
+|-damage|p2a: Ninetales|29/100|[from] Spikes
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641817844
+|switch|p1a: pas d'inspi2|Heatran, M|46/100
+|-damage|p1a: pas d'inspi2|33/100|[from] Stealth Rock
+|turn|21
+|inactive|yopierredropwlr has 90 seconds left.
+|
+|t:|1641817853
+|switch|p2a: Swampert|Swampert, M|74/100
+|-damage|p2a: Swampert|57/100|[from] Spikes
+|move|p1a: pas d'inspi2|Magma Storm|p2a: Swampert|[miss]
+|-miss|p1a: pas d'inspi2|p2a: Swampert
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: pas d'inspi2|27/100|[from] Hail
+|-damage|p2a: Swampert|51/100|[from] Hail
+|-heal|p1a: pas d'inspi2|33/100|[from] item: Leftovers
+|-heal|p2a: Swampert|57/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|yopierredropwlr has 90 seconds left.
+|
+|t:|1641817866
+|move|p1a: pas d'inspi2|Protect|p1a: pas d'inspi2
+|-singleturn|p1a: pas d'inspi2|Protect
+|move|p2a: Swampert|Flip Turn|p1a: pas d'inspi2
+|-activate|p1a: pas d'inspi2|move: Protect
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: pas d'inspi2|27/100|[from] Hail
+|-damage|p2a: Swampert|51/100|[from] Hail
+|-heal|p1a: pas d'inspi2|33/100|[from] item: Leftovers
+|-heal|p2a: Swampert|57/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|Gounginguy has 90 seconds left.
+|
+|t:|1641817886
+|move|p1a: pas d'inspi2|Magma Storm|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|42/100
+|-activate|p2a: Swampert|move: Magma Storm|[of] p1a: pas d'inspi2
+|move|p2a: Swampert|Flip Turn|p1a: pas d'inspi2
+|-supereffective|p1a: pas d'inspi2
+|-damage|p1a: pas d'inspi2|0 fnt
+|faint|p1a: pas d'inspi2
+|
+|t:|1641817896
+|switch|p2a: Sandslash|Sandslash-Alola, F|100/100|[from]move: Flip Turn
+|-damage|p2a: Sandslash|84/100|[from] Spikes
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641817903
+|switch|p1a: zinzin|Landorus-Therian, M|100/100
+|-damage|p1a: zinzin|88/100|[from] Stealth Rock
+|-ability|p1a: zinzin|Intimidate|boost
+|-unboost|p2a: Sandslash|atk|1
+|turn|24
+|
+|t:|1641817913
+|move|p2a: Sandslash|Triple Axel|p1a: zinzin
+|-supereffective|p1a: zinzin
+|-damage|p1a: zinzin|61/100
+|-supereffective|p1a: zinzin
+|-damage|p1a: zinzin|3/100
+|-supereffective|p1a: zinzin
+|-damage|p1a: zinzin|0 fnt
+|faint|p1a: zinzin
+|-hitcount|p1: zinzin|3
+|
+|win|yopierredropwlr
+|raw|Gounginguy's rating: 1079 &rarr; <strong>1057</strong><br />(-22 for losing)
+|raw|yopierredropwlr's rating: 1082 &rarr; <strong>1109</strong><br />(+27 for winning)
+|l|☆Gounginguy
+|n|☆yopierredropwlr|yopierredropwlr
+|c|☆yopierredropwlr|gg

@@ -1,0 +1,722 @@
+|j|☆SL21CC Crawdaunt
+|j|☆sl21cc jialing
+|t:|1641728668
+|gametype|singles
+|player|p1|SL21CC Crawdaunt|169|1264
+|player|p2|sl21cc jialing|bellelba|1310
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Crawdaunt, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Buzzwole|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Ferrothorn, F|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Arctozolt|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|j|&starmind
+|
+|t:|1641728678
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1641728687
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ferrothorn|atk|1
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Landorus
+|-sidestart|p2: sl21cc jialing|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Landorus|94/100|[from] Hail
+|-damage|p1a: Ferrothorn|94/100|[from] Hail
+|-heal|p2a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|j| SL22CC 蜜雪冰城
+|
+|t:|1641728697
+|move|p2a: Landorus|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: sl21cc jialing|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|move|p1a: Ferrothorn|Leech Seed|p2a: Landorus
+|-start|p2a: Landorus|move: Leech Seed
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Landorus|94/100|[from] Hail
+|-damage|p1a: Ferrothorn|88/100|[from] Hail
+|-heal|p2a: Landorus|100/100|[from] item: Leftovers
+|-damage|p2a: Landorus|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|3
+|
+|t:|1641728713
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Urshifu
+|-sidestart|p2: sl21cc jialing|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Urshifu|94/100|[from] Hail
+|-damage|p1a: Ferrothorn|94/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641728722
+|move|p2a: Urshifu|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|72/100
+|-damage|p2a: Urshifu|82/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Urshifu|66/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|t:|1641728726
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100|[from]move: U-turn
+|-damage|p2a: Tornadus|76/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Power Whip|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|63/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tornadus|57/100|[from] Hail
+|-damage|p1a: Ferrothorn|66/100|[from] Hail
+|upkeep
+|turn|5
+|j| rffydsdhh
+|l| rffydsdhh
+|
+|t:|1641728740
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|move|p2a: Tornadus|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|88/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tornadus|51/100|[from] Hail
+|-damage|p1a: Landorus|82/100|[from] Hail
+|upkeep
+|turn|6
+|j| SL21CC Winona
+|l| SL21CC Winona
+|
+|t:|1641728751
+|move|p2a: Tornadus|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|46/100
+|-start|p1a: Landorus|confusion
+|-activate|p1a: Landorus|confusion
+|move|p1a: Landorus|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tornadus|45/100 tox|[from] Hail
+|-damage|p1a: Landorus|40/100|[from] Hail
+|-damage|p2a: Tornadus|39/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641728763
+|move|p2a: Tornadus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|35/100
+|j| SL21CC Winona
+|
+|t:|1641728766
+|switch|p2a: Landorus|Landorus-Therian, M|88/100|[from]move: U-turn
+|-damage|p2a: Landorus|76/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|-activate|p1a: Landorus|confusion
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|69/100
+|l| SL21CC Winona
+|
+|t:|1641728775
+|switch|p1a: Ferrothorn|Ferrothorn, F|66/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Landorus|63/100|[from] Hail
+|-damage|p1a: Ferrothorn|60/100|[from] Hail
+|-heal|p2a: Landorus|69/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641728783
+|move|p2a: Landorus|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: sl21cc jialing|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|move|p1a: Ferrothorn|Leech Seed|p2a: Landorus
+|-start|p2a: Landorus|move: Leech Seed
+|
+|-weather|none
+|-heal|p2a: Landorus|75/100|[from] item: Leftovers
+|-damage|p2a: Landorus|63/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|73/100|[silent]
+|upkeep
+|turn|9
+|
+|t:|1641728793
+|switch|p2a: Tornadus|Tornadus-Therian, M|72/100 tox
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: sl21cc jialing|move: Stealth Rock
+|
+|-damage|p2a: Tornadus|66/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641728802
+|switch|p1a: Landorus|Landorus-Therian, M|35/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|move|p2a: Tornadus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|30/100
+|j| SL21CC Winona
+|
+|t:|1641728804
+|switch|p2a: Landorus|Landorus-Therian, M|63/100|[from]move: U-turn
+|-damage|p2a: Landorus|51/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|
+|-heal|p2a: Landorus|57/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|l| SL21CC Winona
+|
+|t:|1641728816
+|move|p1a: Landorus|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|move|p2a: Landorus|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p2: sl21cc jialing|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|
+|-heal|p2a: Landorus|63/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|57/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641728826
+|switch|p1a: Ferrothorn|Ferrothorn, F|73/100
+|move|p2a: Landorus|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|60/100
+|-damage|p2a: Landorus|44/100 tox|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Landorus|28/100 tox|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|t:|1641728834
+|switch|p2a: Tornadus|Tornadus-Therian, M|99/100 tox|[from]move: U-turn
+|
+|-damage|p2a: Tornadus|93/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641728853
+|move|p2a: Tornadus|Heat Wave|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-damage|p2a: Tornadus|81/100 tox|[from] psn
+|upkeep
+|
+|t:|1641728868
+|switch|p1a: Landorus|Landorus-Therian, M|30/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|turn|14
+|
+|t:|1641728873
+|move|p2a: Tornadus|Hurricane|p1a: Landorus|[miss]
+|-miss|p2a: Tornadus|p1a: Landorus
+|move|p1a: Landorus|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-crit|p2a: Tornadus
+|-damage|p2a: Tornadus|63/100 tox
+|
+|t:|1641728887
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: U-turn
+|
+|-damage|p2a: Tornadus|45/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641728904
+|move|p1a: Dragapult|Shadow Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|9/100 tox
+|move|p2a: Tornadus|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|61/100
+|-enditem|p1a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|-damage|p2a: Tornadus|0 fnt|[from] psn
+|faint|p2a: Tornadus
+|upkeep
+|
+|t:|1641728913
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|16
+|
+|t:|1641728919
+|move|p1a: Dragapult|U-turn|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|89/100
+|
+|t:|1641728922
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from]move: U-turn
+|move|p2a: Ninetales|Blizzard|p1a: Slowking
+|-damage|p1a: Slowking|84/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|78/100|[from] Hail
+|upkeep
+|turn|17
+|
+|t:|1641728931
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Slowking|Future Sight|p2a: Slowking
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|72/100|[from] Hail
+|-damage|p2a: Slowking|94/100|[from] Hail
+|upkeep
+|turn|18
+|
+|t:|1641728944
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641728952
+|switch|p2a: Ninetales|Ninetales-Alola, M|89/100|[from]move: Teleport
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Buzzwole|94/100|[from] Hail
+|upkeep
+|turn|19
+|
+|t:|1641728961
+|switch|p2a: Slowking|Slowking, F|100/100
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|94/100|[from] Hail
+|-damage|p2a: Slowking|94/100|[from] Hail
+|-end|p2a: Slowking|move: Future Sight
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|76/100
+|upkeep
+|turn|20
+|
+|t:|1641728971
+|move|p2a: Slowking|Future Sight|p1a: Slowking
+|-start|p2a: Slowking|move: Future Sight
+|move|p1a: Slowking|Future Sight|p2a: Slowking
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowking|70/100|[from] Hail
+|-damage|p1a: Slowking|88/100|[from] Hail
+|upkeep
+|turn|21
+|
+|t:|1641728979
+|switch|p1a: Buzzwole|Buzzwole|94/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641728995
+|switch|p2a: Ninetales|Ninetales-Alola, M|89/100|[from]move: Teleport
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Buzzwole|88/100|[from] Hail
+|upkeep
+|turn|22
+|
+|t:|1641729002
+|switch|p2a: Slowking|Slowking, F|100/100
+|switch|p1a: Crawdaunt|Crawdaunt, F|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Crawdaunt|95/100|[from] Hail
+|-damage|p2a: Slowking|94/100|[from] Hail
+|-end|p1a: Crawdaunt|move: Future Sight
+|-immune|p1a: Crawdaunt
+|-end|p2a: Slowking|move: Future Sight
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|76/100
+|upkeep
+|turn|23
+|
+|t:|1641729015
+|switch|p2a: Landorus|Landorus-Therian, M|28/100 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Crawdaunt|atk|1
+|move|p1a: Crawdaunt|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Crawdaunt
+|faint|p2a: Landorus
+|
+|-weather|none
+|upkeep
+|
+|t:|1641729030
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|66/100
+|turn|24
+|
+|t:|1641729039
+|switch|p1a: Landorus|Landorus-Therian, M|30/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Urshifu|atk|1
+|move|p2a: Urshifu|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|18/100
+|
+|t:|1641729042
+|switch|p2a: Ninetales|Ninetales-Alola, M|89/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Landorus|11/100|[from] Hail
+|upkeep
+|turn|25
+|
+|t:|1641729054
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|94/100|[from] Hail
+|upkeep
+|turn|26
+|
+|t:|1641729063
+|move|p2a: Arctozolt|Bolt Beak|p1a: Slowking
+|-damage|p1a: Slowking|19/100
+|move|p1a: Slowking|Future Sight|p2a: Arctozolt
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|13/100|[from] Hail
+|upkeep
+|turn|27
+|j| Metallica126
+|l| Metallica126
+|
+|t:|1641729097
+|switch|p1a: Landorus|Landorus-Therian, M|11/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Arctozolt|atk|1
+|move|p2a: Arctozolt|Blizzard|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641729108
+|switch|p1a: Buzzwole|Buzzwole|88/100
+|turn|28
+|j| SL21VX baozi
+|
+|t:|1641729156
+|switch|p2a: Slowking|Slowking, F|100/100
+|switch|p1a: Crawdaunt|Crawdaunt, F|95/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Crawdaunt|89/100|[from] Hail
+|-damage|p2a: Slowking|94/100|[from] Hail
+|-end|p2a: Slowking|move: Future Sight
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|78/100
+|upkeep
+|turn|29
+|l| SL21VX baozi
+|
+|t:|1641729174
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|66/100
+|move|p1a: Crawdaunt|Knock Off|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|15/100
+|-enditem|p2a: Urshifu|Choice Band|[from] move: Knock Off|[of] p1a: Crawdaunt
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Urshifu|8/100|[from] Hail
+|-damage|p1a: Crawdaunt|83/100|[from] Hail
+|upkeep
+|turn|30
+|
+|t:|1641729186
+|switch|p1a: Dragapult|Dragapult, M|61/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|48/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|33/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|20/100
+|-hitcount|p1a: Dragapult|3
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Dragapult|14/100|[from] Hail
+|-damage|p2a: Urshifu|2/100|[from] Hail
+|upkeep
+|turn|31
+|
+|t:|1641729211
+|switch|p1a: Slowking|Slowking-Galar, M|46/100
+|switch|p2a: Slowking|Slowking, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|32
+|
+|t:|1641729218
+|switch|p1a: Crawdaunt|Crawdaunt, F|83/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641729220
+|switch|p2a: Ninetales|Ninetales-Alola, M|89/100|[from]move: Teleport
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Crawdaunt|77/100|[from] Hail
+|upkeep
+|turn|33
+|
+|t:|1641729237
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|switch|p1a: Slowking|Slowking-Galar, M|79/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|73/100|[from] Hail
+|upkeep
+|turn|34
+|
+|t:|1641729246
+|switch|p1a: Dragapult|Dragapult, M|14/100
+|move|p2a: Arctozolt|Bolt Beak|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641729267
+|switch|p1a: Buzzwole|Buzzwole|88/100
+|turn|35
+|
+|t:|1641729325
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Buzzwole|Drain Punch|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|88/100
+|-heal|p1a: Buzzwole|94/100|[from] drain|[of] p2a: Slowking
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Buzzwole|88/100|[from] Hail
+|-damage|p2a: Slowking|81/100|[from] Hail
+|upkeep
+|turn|36
+|
+|t:|1641729343
+|move|p1a: Buzzwole|Bulk Up|p1a: Buzzwole
+|-boost|p1a: Buzzwole|atk|1
+|-boost|p1a: Buzzwole|def|1
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641729352
+|switch|p2a: Ninetales|Ninetales-Alola, M|89/100|[from]move: Teleport
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Buzzwole|82/100|[from] Hail
+|upkeep
+|turn|37
+|
+|t:|1641729366
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Ninetales|Moonblast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|93/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|87/100|[from] Hail
+|upkeep
+|turn|38
+|
+|t:|1641729381
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Slowking|Sludge Wave|p2a: Slowking
+|-damage|p2a: Slowking|72/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowking|66/100|[from] Hail
+|-damage|p1a: Slowking|81/100|[from] Hail
+|upkeep
+|turn|39
+|j| Rame10
+|
+|t:|1641729406
+|move|p2a: Slowking|Scald|p1a: Slowking
+|-damage|p1a: Slowking|69/100
+|move|p1a: Slowking|Future Sight|p2a: Slowking
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|none
+|upkeep
+|turn|40
+|
+|t:|1641729418
+|switch|p1a: Crawdaunt|Crawdaunt, F|77/100
+|move|p2a: Slowking|Scald|p1a: Crawdaunt
+|-resisted|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|49/100
+|
+|upkeep
+|turn|41
+|
+|t:|1641729427
+|move|p1a: Crawdaunt|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Crawdaunt
+|faint|p2a: Slowking
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1641729431
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|turn|42
+|
+|t:|1641729442
+|move|p2a: Arctozolt|Bolt Beak|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1641729447
+|switch|p1a: Buzzwole|Buzzwole|82/100
+|turn|43
+|
+|t:|1641729473
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|2/100
+|move|p1a: Buzzwole|Drain Punch|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|-heal|p1a: Buzzwole|83/100|[from] drain|[of] p2a: Urshifu
+|faint|p2a: Urshifu
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641729475
+|switch|p2a: Ninetales|Ninetales-Alola, M|89/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|44
+|
+|t:|1641729496
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Ninetales|Blizzard|p1a: Slowking
+|-damage|p1a: Slowking|85/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|78/100|[from] Hail
+|upkeep
+|turn|45
+|j| water GH0ST
+|
+|t:|1641729512
+|move|p2a: Ninetales|Blizzard|p1a: Slowking
+|-damage|p1a: Slowking|62/100
+|move|p1a: Slowking|Sludge Wave|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|2/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|56/100|[from] Hail
+|upkeep
+|turn|46
+|
+|t:|1641729522
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|move|p1a: Slowking|Future Sight|p2a: Arctozolt
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|50/100|[from] Hail
+|upkeep
+|turn|47
+|
+|t:|1641729531
+|move|p2a: Arctozolt|Bolt Beak|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641729537
+|switch|p1a: Buzzwole|Buzzwole|83/100
+|turn|48
+|
+|t:|1641729547
+|move|p2a: Arctozolt|Bolt Beak|p1a: Buzzwole
+|-damage|p1a: Buzzwole|38/100
+|move|p1a: Buzzwole|Drain Punch|p2a: Arctozolt
+|-supereffective|p2a: Arctozolt
+|-damage|p2a: Arctozolt|18/100
+|-heal|p1a: Buzzwole|70/100|[from] drain|[of] p2a: Arctozolt
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Buzzwole|64/100|[from] Hail
+|-end|p2a: Arctozolt|move: Future Sight
+|-damage|p2a: Arctozolt|0 fnt
+|faint|p2a: Arctozolt
+|upkeep
+|
+|t:|1641729550
+|switch|p2a: Ninetales|Ninetales-Alola, M|2/100
+|turn|49
+|
+|t:|1641729565
+|move|p2a: Ninetales|Moonblast|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|win|sl21cc jialing
+|raw|SL21CC Crawdaunt's rating: 1264 &rarr; <strong>1250</strong><br />(-14 for losing)
+|raw|sl21cc jialing's rating: 1310 &rarr; <strong>1324</strong><br />(+14 for winning)
+|j| tianyutulongwu
+|l|&starmind
+|l|☆SL21CC Crawdaunt
+|l| water GH0ST
+|l| tianyutulongwu
+|j| lxytxhlyhkstbxh
+|j| adreamew

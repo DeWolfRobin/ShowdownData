@@ -1,0 +1,305 @@
+|j|☆Vichente Fox
+|j|☆Brow jack
+|t:|1641767271
+|gametype|singles
+|player|p1|Vichente Fox|170|1270
+|player|p2|Brow jack|tuber|1303
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Torkoal, F|
+|poke|p1|Venusaur, M|
+|poke|p1|Swampert, M|
+|poke|p1|Metagross|
+|poke|p1|Grimmsnarl, M|
+|poke|p2|Diggersby, F|
+|poke|p2|Necrozma|
+|poke|p2|Aegislash, F|
+|poke|p2|Porygon-Z|
+|poke|p2|Diancie|
+|poke|p2|Crawdaunt, M|
+|teampreview
+|
+|t:|1641767281
+|start
+|switch|p1a: Chupacabra|Grimmsnarl, M|100/100
+|switch|p2a: Diancie|Diancie|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Brow jack)
+|
+|t:|1641767290
+|move|p1a: Chupacabra|Light Screen|p1a: Chupacabra
+|-sidestart|p1: Vichente Fox|move: Light Screen
+|move|p2a: Diancie|Diamond Storm|p1a: Chupacabra
+|-damage|p1a: Chupacabra|43/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641767300
+|switch|p1a: Peacemaker|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Peacemaker
+|move|p2a: Diancie|Stealth Rock|p1a: Peacemaker
+|-sidestart|p1: Vichente Fox|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641767308
+|move|p2a: Diancie|Diamond Storm|p1a: Peacemaker
+|-supereffective|p1a: Peacemaker
+|-damage|p1a: Peacemaker|42/100
+|-boost|p2a: Diancie|def|2
+|move|p1a: Peacemaker|Yawn|p2a: Diancie
+|-start|p2a: Diancie|move: Yawn|[of] p1a: Peacemaker
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641767323
+|switch|p2a: Necrozma|Necrozma|100/100
+|move|p1a: Peacemaker|Stealth Rock|p2a: Necrozma
+|-sidestart|p2: Brow jack|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641767332
+|switch|p1a: Chupacabra|Grimmsnarl, M|43/100
+|-damage|p1a: Chupacabra|31/100|[from] Stealth Rock
+|move|p2a: Necrozma|Meteor Beam||[still]
+|-prepare|p2a: Necrozma|Meteor Beam
+|-boost|p2a: Necrozma|spa|1
+|-enditem|p2a: Necrozma|Power Herb
+|-anim|p2a: Necrozma|Meteor Beam|p1a: Chupacabra
+|-damage|p1a: Chupacabra|6/100
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p1: Vichente Fox|move: Light Screen
+|upkeep
+|turn|6
+|
+|t:|1641767348
+|move|p1a: Chupacabra|Trick|p2a: Necrozma
+|-activate|p1a: Chupacabra|move: Trick|[of] p2a: Necrozma
+|-item|p2a: Necrozma|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Chupacabra|Choice Scarf|[silent]|[from] move: Trick
+|move|p2a: Necrozma|Heat Wave|p1a: Chupacabra
+|-damage|p1a: Chupacabra|0 fnt
+|faint|p1a: Chupacabra
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641767359
+|switch|p1a: Infanticide|Dragapult, M|100/100
+|-damage|p1a: Infanticide|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641767370
+|move|p1a: Infanticide|Hydro Pump|p2a: Necrozma
+|-damage|p2a: Necrozma|76/100
+|move|p2a: Necrozma|Heat Wave|p1a: Infanticide
+|-resisted|p1a: Infanticide
+|-damage|p1a: Infanticide|37/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641767379
+|switch|p1a: Leg Day|Swampert, M|100/100
+|-damage|p1a: Leg Day|94/100|[from] Stealth Rock
+|move|p2a: Necrozma|Heat Wave|p1a: Leg Day
+|-resisted|p1a: Leg Day
+|-damage|p1a: Leg Day|69/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Leg Day|75/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641767399
+|move|p2a: Necrozma|Heat Wave|p1a: Leg Day
+|-resisted|p1a: Leg Day
+|-damage|p1a: Leg Day|50/100
+|move|p1a: Leg Day|Earthquake|p2a: Necrozma
+|-damage|p2a: Necrozma|45/100
+|
+|-weather|none
+|-heal|p1a: Leg Day|56/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641767409
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|-damage|p2a: Crawdaunt|88/100|[from] Stealth Rock
+|move|p1a: Leg Day|Earthquake|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|47/100
+|
+|-heal|p1a: Leg Day|62/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641767427
+|move|p1a: Leg Day|Earthquake|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|-heal|p1a: Leg Day|68/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641767438
+|switch|p2a: Necrozma|Necrozma|45/100
+|-damage|p2a: Necrozma|33/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641767443
+|move|p2a: Necrozma|Photon Geyser|p1a: Leg Day
+|-damage|p1a: Leg Day|28/100
+|move|p1a: Leg Day|Earthquake|p2a: Necrozma
+|-damage|p2a: Necrozma|1/100
+|
+|-heal|p1a: Leg Day|34/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641767454
+|move|p2a: Necrozma|Photon Geyser|p1a: Leg Day
+|-damage|p1a: Leg Day|1/100
+|move|p1a: Leg Day|Flip Turn|p2a: Necrozma
+|-damage|p2a: Necrozma|0 fnt
+|faint|p2a: Necrozma
+|
+|t:|1641767463
+|switch|p1a: Peacemaker|Torkoal, F|42/100|[from]move: Flip Turn
+|-damage|p1a: Peacemaker|17/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Peacemaker
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641767472
+|switch|p2a: Diancie|Diancie|100/100
+|-damage|p2a: Diancie|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641767480
+|move|p2a: Diancie|Diamond Storm|p1a: Peacemaker
+|-supereffective|p1a: Peacemaker
+|-damage|p1a: Peacemaker|0 fnt
+|-boost|p2a: Diancie|def|2
+|faint|p1a: Peacemaker
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641767488
+|switch|p1a: Don V|Venusaur, M|100/100
+|-damage|p1a: Don V|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641767498
+|move|p1a: Don V|Growth|p1a: Don V
+|-boost|p1a: Don V|atk|2
+|-boost|p1a: Don V|spa|2
+|move|p2a: Diancie|Explosion|p1a: Don V
+|-damage|p1a: Don V|0 fnt
+|faint|p2a: Diancie
+|faint|p1a: Don V
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641767510
+|switch|p1a: Witcher|Metagross, shiny|100/100
+|switch|p2a: Aegislash|Aegislash, F|100/100
+|-damage|p1a: Witcher|95/100|[from] Stealth Rock
+|-damage|p2a: Aegislash|94/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641767517
+|move|p1a: Witcher|Earthquake|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|faint|p2a: Aegislash
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641767524
+|switch|p2a: Porygon-Z|Porygon-Z|100/100
+|-damage|p2a: Porygon-Z|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641767528
+|move|p2a: Porygon-Z|Shadow Ball|p1a: Witcher
+|-supereffective|p1a: Witcher
+|-damage|p1a: Witcher|14/100
+|move|p1a: Witcher|Earthquake|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641767538
+|switch|p2a: Diggersby|Diggersby, F|100/100
+|-damage|p2a: Diggersby|94/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641767563
+|move|p2a: Diggersby|Agility|p2a: Diggersby
+|-boost|p2a: Diggersby|spe|2
+|move|p1a: Witcher|Earthquake|p2a: Diggersby
+|-damage|p2a: Diggersby|11/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641767583
+|move|p2a: Diggersby|Earthquake|p1a: Witcher
+|-supereffective|p1a: Witcher
+|-damage|p1a: Witcher|0 fnt
+|faint|p1a: Witcher
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641767590
+|switch|p1a: Infanticide|Dragapult, M|37/100
+|-damage|p1a: Infanticide|25/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641767595
+|move|p2a: Diggersby|Earthquake|p1a: Infanticide
+|-damage|p1a: Infanticide|0 fnt
+|faint|p1a: Infanticide
+|
+|-weather|none
+|upkeep
+|
+|t:|1641767607
+|switch|p1a: Leg Day|Swampert, M|1/100
+|-damage|p1a: Leg Day|0 fnt|[from] Stealth Rock
+|faint|p1a: Leg Day
+|
+|win|Brow jack
+|raw|Vichente Fox's rating: 1270 &rarr; <strong>1247</strong><br />(-23 for losing)
+|raw|Brow jack's rating: 1303 &rarr; <strong>1321</strong><br />(+18 for winning)
+|l|☆Vichente Fox

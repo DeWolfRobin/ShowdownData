@@ -1,0 +1,199 @@
+|j|☆Wwweter
+|j|☆Juanita Trainer
+|t:|1641845741
+|gametype|singles
+|player|p1|Wwweter|swimmerf|1289
+|player|p2|Juanita Trainer|dawn|1318
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dhelmise|
+|poke|p1|Pelipper, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Jolteon, F|
+|poke|p1|Alakazam, F|
+|poke|p1|Weavile, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Zapdos|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zeraora|
+|poke|p2|Blacephalon|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Wwweter)
+|
+|t:|1641845759
+|start
+|switch|p1a: Weavile|Weavile, M|100/100
+|switch|p2a: Don Candela|Ferrothorn, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1641845768
+|switch|p1a: Alakazam|Alakazam, F, shiny|100/100
+|move|p2a: Don Candela|Protect||[still]
+|-fail|p2a: Don Candela
+|
+|upkeep
+|turn|2
+|
+|t:|1641845776
+|move|p1a: Alakazam|Psychic|p2a: Don Candela
+|-resisted|p2a: Don Candela
+|-damage|p2a: Don Candela|75/100
+|-unboost|p2a: Don Candela|spd|1
+|move|p2a: Don Candela|Knock Off|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|-enditem|p1a: Alakazam|Life Orb|[from] move: Knock Off|[of] p2a: Don Candela
+|faint|p1a: Alakazam
+|
+|-heal|p2a: Don Candela|81/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641845781
+|switch|p1a: Pelipper|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|3
+|
+|t:|1641845792
+|move|p1a: Pelipper|U-turn|p2a: Don Candela
+|-damage|p2a: Don Candela|76/100
+|-damage|p1a: Pelipper|88/100|[from] ability: Iron Barbs|[of] p2a: Don Candela
+|
+|t:|1641845804
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|100/100|[from]move: U-turn
+|move|p2a: Don Candela|Stealth Rock|p1a: Barraskewda
+|-sidestart|p1: Wwweter|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Don Candela|83/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641845814
+|move|p2a: Don Candela|Protect|p2a: Don Candela
+|-singleturn|p2a: Don Candela|Protect
+|move|p1a: Barraskewda|Close Combat|p2a: Don Candela
+|-activate|p2a: Don Candela|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Don Candela|89/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641845825
+|switch|p2a: Impedance|Zapdos|100/100
+|move|p1a: Barraskewda|Close Combat|p2a: Impedance
+|-resisted|p2a: Impedance
+|-crit|p2a: Impedance
+|-damage|p2a: Impedance|78/100
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641845836
+|move|p1a: Barraskewda|Waterfall|p2a: Impedance
+|-damage|p2a: Impedance|34/100
+|move|p2a: Impedance|Volt Switch|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|t:|1641845855
+|switch|p2a: Don Candela|Ferrothorn, M|89/100|[from]move: Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Don Candela|95/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641845863
+|switch|p1a: Pelipper|Pelipper, F, shiny|88/100
+|-damage|p1a: Pelipper|63/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641845884
+|move|p1a: Pelipper|Defog|p2a: Don Candela
+|-unboost|p2a: Don Candela|evasion|1
+|-sideend|p1: Wwweter|Stealth Rock|[from] move: Defog|[of] p1a: Pelipper
+|move|p2a: Don Candela|Knock Off|p1a: Pelipper
+|-crit|p1a: Pelipper
+|-damage|p1a: Pelipper|38/100
+|-enditem|p1a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p2a: Don Candela
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Don Candela|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641845894
+|move|p1a: Pelipper|U-turn|p2a: Don Candela
+|-damage|p2a: Don Candela|96/100
+|-damage|p1a: Pelipper|26/100|[from] ability: Iron Barbs|[of] p2a: Don Candela
+|
+|t:|1641845899
+|switch|p1a: Dhelmise|Dhelmise, shiny|100/100|[from]move: U-turn
+|move|p2a: Don Candela|Stealth Rock|p1a: Dhelmise
+|-sidestart|p1: Wwweter|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Don Candela|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641845908
+|move|p2a: Don Candela|Knock Off|p1a: Dhelmise
+|-supereffective|p1a: Dhelmise
+|-damage|p1a: Dhelmise|59/100
+|-enditem|p1a: Dhelmise|Lagging Tail|[from] move: Knock Off|[of] p2a: Don Candela
+|move|p1a: Dhelmise|Poltergeist|p2a: Don Candela
+|-activate|p2a: Don Candela|move: Poltergeist|Leftovers
+|-damage|p2a: Don Candela|66/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Don Candela|73/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641845920
+|move|p1a: Dhelmise|Switcheroo|p2a: Don Candela
+|-activate|p1a: Dhelmise|move: Trick|[of] p2a: Don Candela
+|-enditem|p2a: Don Candela|Leftovers|[silent]|[from] move: Switcheroo
+|-item|p1a: Dhelmise|Leftovers|[from] move: Switcheroo
+|move|p2a: Don Candela|Knock Off|p1a: Dhelmise
+|-supereffective|p1a: Dhelmise
+|-damage|p1a: Dhelmise|14/100
+|-enditem|p1a: Dhelmise|Leftovers|[from] move: Knock Off|[of] p2a: Don Candela
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1641845930
+|move|p1a: Dhelmise|Poltergeist||[still]
+|-fail|p1a: Dhelmise
+|move|p2a: Don Candela|Knock Off|p1a: Dhelmise
+|-supereffective|p1a: Dhelmise
+|-damage|p1a: Dhelmise|0 fnt
+|faint|p1a: Dhelmise
+|
+|upkeep
+|-message|Wwweter forfeited.
+|
+|win|Juanita Trainer
+|raw|Wwweter's rating: 1289 &rarr; <strong>1266</strong><br />(-23 for losing)
+|raw|Juanita Trainer's rating: 1318 &rarr; <strong>1336</strong><br />(+18 for winning)
+|l|☆Wwweter

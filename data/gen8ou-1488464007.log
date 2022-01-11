@@ -1,0 +1,180 @@
+|j|☆NicPichu
+|j|☆SumStarGum
+|t:|1641768588
+|gametype|singles
+|player|p1|NicPichu|shauntal|1093
+|player|p2|SumStarGum|169|1121
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Politoed, F|
+|poke|p1|Heliolisk, F|
+|poke|p1|Sigilyph, M|
+|poke|p1|Swampert, F|
+|poke|p1|Cloyster, F|
+|poke|p1|Archeops, F|
+|poke|p2|Mimikyu, F|
+|poke|p2|Zeraora|
+|poke|p2|Victini|
+|poke|p2|Umbreon, F|
+|poke|p2|Heracross, M|
+|poke|p2|Porygon-Z|
+|teampreview
+|
+|t:|1641768593
+|start
+|switch|p1a: Politoed|Politoed, F|100/100
+|switch|p2a: Mimikyu|Mimikyu, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|1
+|
+|t:|1641768599
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Politoed|Toxic|p2a: Mimikyu
+|-status|p2a: Mimikyu|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Mimikyu|95/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641768608
+|move|p2a: Mimikyu|Giga Drain|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|82/100
+|-heal|p2a: Mimikyu|100/100 tox|[from] drain|[of] p1a: Politoed
+|move|p1a: Politoed|Encore|p2a: Mimikyu
+|-start|p2a: Mimikyu|Encore
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Mimikyu|89/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641768620
+|switch|p2a: Umbreon|Umbreon, F|100/100
+|switch|p1a: Cloyster|Cloyster, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641768625
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: Umbreon|Heal Bell|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Heal Bell
+|-curestatus|p2: Mimikyu|tox|[msg]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641768638
+|switch|p2a: Mimikyu|Mimikyu, F|89/100
+|move|p1a: Cloyster|Icicle Spear|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|89/100
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, F
+|-damage|p2a: Mimikyu|76/100|[from] pokemon: Mimikyu-Busted
+|-damage|p2a: Mimikyu|39/100
+|-damage|p2a: Mimikyu|4/100
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|-hitcount|p2: Mimikyu|4
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641768652
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|6
+|
+|t:|1641768662
+|move|p1a: Cloyster|Icicle Spear|p2a: Zeraora
+|-damage|p2a: Zeraora|70/100
+|-damage|p2a: Zeraora|40/100
+|-damage|p2a: Zeraora|7/100
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|-hitcount|p2: Zeraora|4
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641768671
+|switch|p2a: Porygon-Z|Porygon-Z|100/100
+|turn|7
+|
+|t:|1641768675
+|move|p1a: Cloyster|Icicle Spear|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|64/100
+|-damage|p2a: Porygon-Z|32/100
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|-hitcount|p2: Porygon-Z|3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641768682
+|switch|p2a: Victini|Victini|100/100
+|turn|8
+|
+|t:|1641768686
+|move|p1a: Cloyster|Liquidation|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|-weather|none
+|upkeep
+|
+|t:|1641768691
+|switch|p2a: Umbreon|Umbreon, F|100/100
+|turn|9
+|
+|t:|1641768696
+|move|p1a: Cloyster|Icicle Spear|p2a: Umbreon
+|-damage|p2a: Umbreon|81/100
+|-damage|p2a: Umbreon|62/100
+|-damage|p2a: Umbreon|43/100
+|-damage|p2a: Umbreon|23/100
+|-crit|p2a: Umbreon
+|-damage|p2a: Umbreon|0 fnt
+|faint|p2a: Umbreon
+|-hitcount|p2: Umbreon|5
+|
+|upkeep
+|
+|t:|1641768705
+|switch|p2a: Heracross|Heracross, M|100/100
+|turn|10
+|
+|t:|1641768712
+|move|p1a: Cloyster|Icicle Spear|p2a: Heracross
+|-damage|p2a: Heracross|67/100
+|-damage|p2a: Heracross|32/100
+|-damage|p2a: Heracross|0 fnt
+|faint|p2a: Heracross
+|-hitcount|p2: Heracross|3
+|
+|win|NicPichu
+|raw|NicPichu's rating: 1093 &rarr; <strong>1121</strong><br />(+28 for winning)
+|raw|SumStarGum's rating: 1121 &rarr; <strong>1094</strong><br />(-27 for losing)
+|c|☆NicPichu|gg

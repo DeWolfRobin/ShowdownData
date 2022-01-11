@@ -1,0 +1,882 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641743328
+|gametype|singles
+|player|p1|mncmt|#splxiiicryonicles|
+|player|p2|Corazan|bellelba|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Weavile, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Zapdos|
+|poke|p1|Tapu Fini|
+|poke|p1|Blacephalon|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Heatran, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Slowbro, F|
+|teampreview
+|c|☆mncmt|hf
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|mncmt has 270 seconds left.
+|inactive|Corazan has 270 seconds left.
+|inactive|Corazan has 240 seconds left.
+|inactive|Corazan has 210 seconds left.
+|
+|t:|1641743425
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|turn|1
+|inactive|Corazan has 270 seconds left.
+|
+|t:|1641743442
+|move|p1a: Zapdos|Hurricane|p2a: Landorus
+|-damage|p2a: Landorus|37/100
+|move|p2a: Landorus|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: mncmt|move: Stealth Rock
+|
+|-heal|p2a: Landorus|43/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|Corazan has 270 seconds left.
+|inactive|mncmt has 270 seconds left.
+|inactive|Corazan has 240 seconds left.
+|inactive|Corazan has 210 seconds left.
+|
+|t:|1641743519
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Tornadus
+|-damage|p2a: Tornadus|5/100
+|-start|p2a: Tornadus|confusion
+|
+|upkeep
+|turn|3
+|inactive|mncmt has 240 seconds left.
+|
+|t:|1641743547
+|switch|p2a: Heatran|Heatran, M|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Corazan has 210 seconds left.
+|inactive|Corazan has 180 seconds left.
+|
+|t:|1641743603
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Landorus|Defog|p2a: Slowbro
+|-unboost|p2a: Slowbro|evasion|1
+|-sideend|p1: mncmt|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|mncmt has 240 seconds left.
+|
+|t:|1641743612
+|move|p1a: Landorus|Stealth Rock|p2a: Slowbro
+|-sidestart|p2: Corazan|move: Stealth Rock
+|move|p2a: Slowbro|Future Sight|p1a: Landorus
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-heal|p1a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|Corazan has 180 seconds left.
+|
+|t:|1641743625
+|move|p1a: Landorus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|75/100
+|
+|t:|1641743632
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|inactive|Corazan has 180 seconds left.
+|inactive|Corazan has 150 seconds left.
+|
+|t:|1641743679
+|switch|p2a: Heatran|Heatran, M|100/100|[from]move: Teleport
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641743691
+|switch|p2a: Landorus|Landorus-Therian, M|43/100
+|-damage|p2a: Landorus|30/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Volt Switch|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-end|p1a: Zapdos|move: Future Sight
+|-damage|p1a: Zapdos|57/100
+|-heal|p2a: Landorus|36/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641743700
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Landorus|Stealth Rock|p1a: Weavile
+|-sidestart|p1: mncmt|move: Stealth Rock
+|
+|-heal|p2a: Landorus|42/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Corazan has 150 seconds left.
+|inactive|Corazan has 120 seconds left.
+|
+|t:|1641743762
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|-damage|p2a: Bisharp|95/100|[from] Stealth Rock
+|move|p1a: Weavile|Knock Off|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|52/100
+|-enditem|p2a: Bisharp|Choice Band|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|10
+|inactive|Corazan has 120 seconds left.
+|
+|t:|1641743785
+|move|p1a: Weavile|Knock Off|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|21/100
+|move|p2a: Bisharp|Knock Off|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|55/100
+|-enditem|p1a: Weavile|Choice Band|[from] move: Knock Off|[of] p2a: Bisharp
+|
+|upkeep
+|turn|11
+|inactive|Corazan has 120 seconds left.
+|
+|t:|1641743816
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Weavile|Triple Axel|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|85/100
+|-hitcount|p2a: Slowbro|1
+|
+|upkeep
+|turn|12
+|inactive|mncmt has 240 seconds left.
+|
+|t:|1641743831
+|move|p1a: Weavile|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-enditem|p2a: Slowbro|Colbur Berry|[eat]
+|-enditem|p2a: Slowbro|Colbur Berry|[weaken]
+|-damage|p2a: Slowbro|55/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641743836
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: Teleport
+|-damage|p2a: Urshifu|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|13
+|inactive|mncmt has 240 seconds left.
+|
+|t:|1641743856
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|95/100|[from] Stealth Rock
+|move|p2a: Urshifu|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|79/100
+|-damage|p2a: Urshifu|82/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Urshifu|66/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|t:|1641743865
+|switch|p2a: Tornadus|Tornadus-Therian, M|38/100|[from]move: U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1641743872
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tornadus|atk|1
+|move|p2a: Tornadus|Heat Wave|p1a: Landorus
+|-damage|p1a: Landorus|70/100
+|
+|-heal|p1a: Landorus|76/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|Corazan has 120 seconds left.
+|
+|t:|1641743904
+|move|p2a: Tornadus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-crit|p2a: Tornadus
+|-damage|p2a: Tornadus|22/100
+|inactive|mncmt has 240 seconds left.
+|
+|t:|1641743919
+|switch|p1a: Weavile|Weavile, M|55/100|[from]move: U-turn
+|-damage|p1a: Weavile|30/100|[from] Stealth Rock
+|-ability|p1a: Weavile|Pressure
+|
+|upkeep
+|turn|16
+|inactive|Corazan has 90 seconds left.
+|inactive|Corazan has 60 seconds left.
+|
+|t:|1641743977
+|switch|p2a: Bisharp|Bisharp, M|21/100
+|-damage|p2a: Bisharp|15/100|[from] Stealth Rock
+|move|p1a: Weavile|Knock Off|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|inactive|Corazan has 60 seconds left.
+|
+|t:|1641743987
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|66/100
+|-damage|p2a: Urshifu|59/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641743997
+|switch|p1a: Landorus|Landorus-Therian, M|76/100 tox
+|-damage|p1a: Landorus|63/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Urshifu|atk|1
+|move|p2a: Urshifu|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|56/100 tox
+|
+|t:|1641744006
+|switch|p2a: Slowbro|Slowbro, F|88/100|[from]move: U-turn
+|-damage|p2a: Slowbro|76/100|[from] Stealth Rock
+|
+|-heal|p1a: Landorus|62/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|56/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641744010
+|move|p1a: Landorus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|48/100
+|
+|t:|1641744012
+|switch|p1a: Ferrothorn|Ferrothorn, M|79/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|73/100|[from] Stealth Rock
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641744024
+|switch|p2a: Heatran|Heatran, M|94/100|[from]move: Teleport
+|-damage|p2a: Heatran|82/100|[from] Stealth Rock
+|
+|-heal|p2a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641744037
+|switch|p1a: Landorus|Landorus-Therian, M|56/100 tox
+|-damage|p1a: Landorus|43/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Landorus
+|-damage|p1a: Landorus|12/100 tox
+|-activate|p1a: Landorus|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Landorus|18/100 tox|[from] item: Leftovers
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|-damage|p1a: Landorus|12/100 tox|[from] psn
+|-damage|p1a: Landorus|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p1a: Landorus
+|upkeep
+|
+|t:|1641744040
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|20
+|inactive|Corazan has 90 seconds left.
+|inactive|Corazan has 60 seconds left.
+|
+|t:|1641744101
+|switch|p2a: Tornadus|Tornadus-Therian, M|56/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641744107
+|move|p2a: Tornadus|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|89/100
+|
+|t:|1641744109
+|switch|p2a: Slowbro|Slowbro, F|82/100|[from]move: U-turn
+|-damage|p2a: Slowbro|69/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Surf|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|46/100
+|
+|-heal|p1a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|Corazan has 60 seconds left.
+|
+|t:|1641744127
+|switch|p2a: Heatran|Heatran, M|94/100
+|-damage|p2a: Heatran|82/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|-heal|p2a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641744133
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Tapu Fini|Surf|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|Corazan has 60 seconds left.
+|
+|t:|1641744163
+|switch|p2a: Tornadus|Tornadus-Therian, M|89/100
+|move|p1a: Tapu Fini|Surf|p2a: Tornadus
+|-damage|p2a: Tornadus|20/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|25
+|inactive|mncmt has 270 seconds left.
+|inactive|mncmt has 240 seconds left.
+|
+|t:|1641744248
+|switch|p1a: Zapdos|Zapdos|57/100
+|-damage|p1a: Zapdos|32/100|[from] Stealth Rock
+|move|p2a: Tornadus|Toxic|p1a: Zapdos|[miss]
+|-miss|p2a: Tornadus|p1a: Zapdos
+|
+|upkeep
+|turn|26
+|c|☆Corazan|f
+|inactive|mncmt has 210 seconds left.
+|inactive|Corazan has 30 seconds left.
+|
+|t:|1641744287
+|switch|p2a: Heatran|Heatran, M|94/100
+|-damage|p2a: Heatran|82/100|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Heatran|[miss]
+|-miss|p1a: Zapdos|p2a: Heatran
+|
+|-heal|p2a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|Corazan has 30 seconds left.
+|
+|t:|1641744296
+|move|p1a: Zapdos|Hurricane|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|64/100
+|move|p2a: Heatran|Magma Storm|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-heal|p2a: Heatran|71/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641744300
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|28
+|inactive|Corazan has 30 seconds left.
+|inactive|Corazan has 20 seconds left.
+|
+|t:|1641744325
+|switch|p2a: Tornadus|Tornadus-Therian, M|54/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|Corazan has 30 seconds left this turn.
+|
+|t:|1641744330
+|move|p2a: Tornadus|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|89/100
+|
+|t:|1641744332
+|switch|p2a: Slowbro|Slowbro, F|79/100|[from]move: U-turn
+|-damage|p2a: Slowbro|67/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641744343
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641744349
+|move|p1a: Tapu Fini|Taunt|p2a: Slowbro
+|-start|p2a: Slowbro|move: Taunt
+|cant|p2a: Slowbro|move: Taunt|Slack Off
+|
+|upkeep
+|turn|32
+|inactive|Corazan has 30 seconds left.
+|
+|t:|1641744380
+|switch|p2a: Landorus|Landorus-Therian, M|42/100
+|-damage|p2a: Landorus|30/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Fini|atk|1
+|move|p1a: Tapu Fini|Surf|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641744382
+|switch|p2a: Tornadus|Tornadus-Therian, M|87/100
+|turn|33
+|inactive|mncmt has 270 seconds left.
+|inactive|mncmt has 240 seconds left.
+|
+|t:|1641744424
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|move|p2a: Tornadus|Toxic|p1a: Blacephalon
+|-status|p1a: Blacephalon|tox
+|
+|-damage|p1a: Blacephalon|70/100 tox|[from] psn
+|upkeep
+|turn|34
+|inactive|mncmt has 240 seconds left.
+|inactive|Corazan has 30 seconds left.
+|
+|t:|1641744459
+|move|p1a: Blacephalon|Trick|p2a: Tornadus
+|-activate|p1a: Blacephalon|move: Trick|[of] p2a: Tornadus
+|-item|p2a: Tornadus|Choice Scarf|[from] move: Trick
+|-item|p1a: Blacephalon|Heavy-Duty Boots|[from] move: Trick
+|move|p2a: Tornadus|U-turn|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|62/100 tox
+|inactive|Corazan has 30 seconds left this turn.
+|inactive|Corazan has 20 seconds left.
+|inactive|Corazan has 15 seconds left.
+|inactive|Corazan has 10 seconds left.
+|
+|t:|1641744480
+|switch|p2a: Heatran|Heatran, M|71/100|[from]move: U-turn
+|-damage|p2a: Heatran|58/100|[from] Stealth Rock
+|
+|-heal|p2a: Heatran|64/100|[from] item: Leftovers
+|-damage|p1a: Blacephalon|49/100 tox|[from] psn
+|upkeep
+|turn|35
+|inactive|Corazan has 20 seconds left this turn.
+|inactive|Corazan has 15 seconds left.
+|inactive|mncmt has 240 seconds left.
+|
+|t:|1641744502
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|21/100
+|move|p2a: Heatran|Earth Power|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|-heal|p2a: Heatran|27/100|[from] item: Leftovers
+|upkeep
+|inactive|Corazan has 20 seconds left this turn.
+|
+|t:|1641744509
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|36
+|inactive|Corazan has 30 seconds left this turn.
+|
+|t:|1641744515
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Heatran|Heavy Slam|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|65/100
+|
+|-heal|p1a: Tapu Fini|71/100|[from] item: Leftovers
+|-heal|p2a: Heatran|33/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|inactive|Corazan has 30 seconds left.
+|
+|t:|1641744529
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|77/100|[from] item: Leftovers
+|-heal|p2a: Heatran|40/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641744536
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Surf|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|58/100
+|
+|-heal|p1a: Tapu Fini|83/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641744548
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p2a: Tornadus|76/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Taunt|p2a: Tornadus
+|-start|p2a: Tornadus|move: Taunt
+|
+|-heal|p1a: Tapu Fini|89/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1641744552
+|move|p2a: Tornadus|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|84/100
+|
+|t:|1641744555
+|switch|p2a: Slowbro|Slowbro, F|91/100|[from]move: U-turn
+|-damage|p2a: Slowbro|79/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Surf|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|49/100
+|
+|-heal|p1a: Tapu Fini|90/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|41
+|
+|t:|1641744568
+|move|p1a: Tapu Fini|Taunt|p2a: Slowbro
+|-start|p2a: Slowbro|move: Taunt
+|move|p2a: Slowbro|Future Sight|p1a: Tapu Fini
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-heal|p1a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|inactive|Corazan has 30 seconds left.
+|inactive|Corazan has 20 seconds left.
+|
+|t:|1641744609
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p2a: Tornadus|76/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Surf|p2a: Tornadus
+|-damage|p2a: Tornadus|15/100
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|inactive|Corazan has 30 seconds left this turn.
+|inactive|Corazan has 20 seconds left.
+|inactive|Corazan has 15 seconds left.
+|inactive|Corazan has 10 seconds left.
+|inactive|mncmt has 270 seconds left.
+|inactive|Corazan has 5 seconds left.
+|c|☆Corazan|test
+|
+|t:|1641744650
+|switch|p1a: Ferrothorn|Ferrothorn, M|73/100
+|-damage|p1a: Ferrothorn|67/100|[from] Stealth Rock
+|move|p2a: Tornadus|Heat Wave|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|inactive|Corazan has 10 seconds left this turn.
+|
+|t:|1641744651
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|44
+|inactive|Corazan has 20 seconds left this turn.
+|inactive|Corazan has 15 seconds left.
+|
+|t:|1641744659
+|switch|p2a: Slowbro|Slowbro, F|82/100
+|-damage|p2a: Slowbro|70/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|inactive|Corazan has 25 seconds left this turn.
+|inactive|Corazan has 20 seconds left.
+|
+|t:|1641744665
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Slowbro|Future Sight|p1a: Tapu Fini
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|inactive|Corazan has 30 seconds left this turn.
+|
+|t:|1641744672
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|inactive|Corazan has 30 seconds left this turn.
+|inactive|Corazan has 20 seconds left.
+|
+|t:|1641744683
+|switch|p2a: Heatran|Heatran, M|40/100|[from]move: Teleport
+|-damage|p2a: Heatran|27/100|[from] Stealth Rock
+|
+|-heal|p2a: Heatran|33/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|inactive|Corazan has 30 seconds left this turn.
+|
+|t:|1641744686
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-end|p1a: Tapu Fini|move: Future Sight
+|-damage|p1a: Tapu Fini|90/100
+|-heal|p1a: Tapu Fini|96/100|[from] item: Leftovers
+|-heal|p2a: Heatran|40/100|[from] item: Leftovers
+|upkeep
+|turn|48
+|inactive|Corazan has 30 seconds left.
+|
+|t:|1641744702
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|59/100
+|-damage|p2a: Urshifu|53/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Surf|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|inactive|Corazan has 30 seconds left this turn.
+|
+|t:|1641744704
+|switch|p2a: Tornadus|Tornadus-Therian, M|48/100
+|-damage|p2a: Tornadus|23/100|[from] Stealth Rock
+|turn|49
+|
+|t:|1641744711
+|switch|p1a: Weavile|Weavile, M|30/100
+|-damage|p1a: Weavile|5/100|[from] Stealth Rock
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Tornadus|Toxic|p1a: Weavile
+|-status|p1a: Weavile|tox
+|
+|-damage|p1a: Weavile|0 fnt|[from] psn
+|faint|p1a: Weavile
+|upkeep
+|
+|t:|1641744718
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|50
+|
+|t:|1641744720
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1641744723
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Slowbro|Future Sight|p1a: Tapu Fini
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1641744724
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641744726
+|switch|p2a: Heatran|Heatran, M|40/100|[from]move: Teleport
+|-damage|p2a: Heatran|27/100|[from] Stealth Rock
+|
+|-heal|p2a: Heatran|33/100|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1641744732
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-end|p1a: Tapu Fini|move: Future Sight
+|-damage|p1a: Tapu Fini|89/100
+|-heal|p1a: Tapu Fini|95/100|[from] item: Leftovers
+|-heal|p2a: Heatran|40/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|inactive|Corazan has 90 seconds left.
+|
+|t:|1641744756
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Surf|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|39/100
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|55
+|
+|t:|1641744764
+|switch|p2a: Heatran|Heatran, M|40/100
+|-damage|p2a: Heatran|27/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Surf|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641744765
+|switch|p2a: Tornadus|Tornadus-Therian, M|56/100
+|-damage|p2a: Tornadus|32/100|[from] Stealth Rock
+|turn|56
+|
+|t:|1641744769
+|move|p2a: Tornadus|Toxic|p1a: Tapu Fini
+|-status|p1a: Tapu Fini|tox
+|move|p1a: Tapu Fini|Surf|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|-damage|p1a: Tapu Fini|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641744771
+|switch|p2a: Slowbro|Slowbro, F|73/100
+|-damage|p2a: Slowbro|60/100|[from] Stealth Rock
+|turn|57
+|
+|t:|1641744773
+|move|p1a: Tapu Fini|Taunt|p2a: Slowbro
+|-start|p2a: Slowbro|move: Taunt
+|move|p2a: Slowbro|Body Press|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|84/100 tox
+|
+|-heal|p1a: Tapu Fini|90/100 tox|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|78/100 tox|[from] psn
+|upkeep
+|turn|58
+|
+|t:|1641744775
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Slowbro
+|-damage|p2a: Slowbro|6/100
+|-heal|p1a: Tapu Fini|100/100 tox|[from] drain|[of] p2a: Slowbro
+|move|p2a: Slowbro|Body Press|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|90/100 tox
+|
+|-heal|p1a: Tapu Fini|96/100 tox|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|78/100 tox|[from] psn
+|upkeep
+|turn|59
+|
+|t:|1641744777
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|-heal|p1a: Tapu Fini|83/100 tox|[from] drain|[of] p2a: Slowbro
+|faint|p2a: Slowbro
+|
+|win|mncmt
+|c|☆Corazan|gg
+|c|☆mncmt|gg

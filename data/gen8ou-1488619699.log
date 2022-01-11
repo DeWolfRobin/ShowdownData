@@ -1,0 +1,365 @@
+|j|☆ReconAparition
+|j|☆RuparajanT
+|t:|1641790545
+|gametype|singles
+|player|p1|ReconAparition|clair|1327
+|player|p2|RuparajanT|lance|1369
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Melmetal|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Toxapex, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Dragapult, M|
+|poke|p2|Kartana|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RuparajanT)
+|inactive|ReconAparition also wants the timer to be on.
+|inactive|ReconAparition has 120 seconds left.
+|inactive|RuparajanT has 120 seconds left.
+|
+|t:|1641790594
+|start
+|switch|p1a: Melmetal|Melmetal, shiny|100/100
+|switch|p2a: Speed|Dragapult, M|100/100
+|turn|1
+|
+|t:|1641790602
+|move|p2a: Speed|Shadow Ball|p1a: Melmetal
+|-damage|p1a: Melmetal|37/100
+|move|p1a: Melmetal|Ice Punch|p2a: Speed
+|-supereffective|p2a: Speed
+|-damage|p2a: Speed|0 fnt
+|faint|p2a: Speed
+|
+|upkeep
+|
+|t:|1641790611
+|switch|p2a: Cutter|Kartana|100/100
+|turn|2
+|
+|t:|1641790615
+|move|p2a: Cutter|Sacred Sword|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|-ability|p2a: Cutter|Beast Boost|boost
+|-boost|p2a: Cutter|atk|1
+|-damage|p2a: Cutter|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641790622
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|turn|3
+|
+|t:|1641790626
+|move|p2a: Cutter|Leaf Blade|p1a: Toxapex
+|-damage|p1a: Toxapex|30/100
+|-damage|p2a: Cutter|81/100|[from] item: Life Orb
+|move|p1a: Toxapex|Scald|p2a: Cutter
+|-resisted|p2a: Cutter
+|-damage|p2a: Cutter|57/100
+|
+|-heal|p1a: Toxapex|36/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641790636
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Cutter|Knock Off|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-heal|p1a: Toxapex|43/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1641790642
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cutter|atk|1
+|move|p2a: Cutter|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|23/100
+|-damage|p2a: Cutter|47/100|[from] item: Life Orb
+|
+|-heal|p1a: Landorus|29/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641790653
+|switch|p1a: Toxapex|Toxapex, F, shiny|76/100
+|move|p2a: Cutter|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|42/100
+|-enditem|p1a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p2a: Cutter
+|-damage|p2a: Cutter|38/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1641790664
+|switch|p2a: Devil|Ferrothorn, F|100/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|92/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641790669
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p2a: Devil|Leech Seed|p1a: Urshifu
+|-start|p1a: Urshifu|move: Leech Seed
+|
+|-damage|p1a: Urshifu|88/100|[from] Leech Seed|[of] p2a: Devil
+|upkeep
+|turn|9
+|
+|t:|1641790676
+|switch|p2a: Utilize|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Utilize
+|move|p1a: Urshifu|Close Combat|p2a: Utilize
+|-resisted|p2a: Utilize
+|-damage|p2a: Utilize|56/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|-damage|p1a: Urshifu|76/100|[from] Leech Seed|[of] p2a: Utilize
+|-heal|p2a: Utilize|70/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641790687
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|move|p2a: Utilize|Trick|p1a: Toxapex
+|-activate|p2a: Utilize|move: Trick|[of] p1a: Toxapex
+|-item|p1a: Toxapex|Choice Scarf|[from] move: Trick
+|-enditem|p2a: Utilize|Choice Scarf|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|11
+|
+|t:|1641790697
+|switch|p2a: Cutter|Kartana|38/100
+|move|p1a: Toxapex|Scald|p2a: Cutter
+|-resisted|p2a: Cutter
+|-damage|p2a: Cutter|10/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641790703
+|move|p2a: Cutter|Leaf Blade|p1a: Toxapex
+|-damage|p1a: Toxapex|49/100
+|-damage|p2a: Cutter|0 fnt|[from] item: Life Orb
+|faint|p2a: Cutter
+|move|p1a: Toxapex|Scald|p2: Cutter|[notarget]
+|-fail|p1a: Toxapex
+|
+|upkeep
+|
+|t:|1641790714
+|switch|p2a: Utilize|Tapu Fini|70/100
+|turn|13
+|
+|t:|1641790717
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|29/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Utilize|atk|1
+|move|p2a: Utilize|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641790728
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|14
+|
+|t:|1641790733
+|switch|p2a: Devil|Ferrothorn, F|100/100
+|move|p1a: Tapu Koko|U-turn|p2a: Devil
+|-crit|p2a: Devil
+|-damage|p2a: Devil|87/100
+|-damage|p1a: Tapu Koko|88/100|[from] ability: Iron Barbs|[of] p2a: Devil
+|
+|t:|1641790739
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|76/100|[from]move: U-turn
+|
+|-heal|p2a: Devil|93/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641790745
+|switch|p2a: Utilize|Tapu Fini|70/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Utilize
+|move|p1a: Urshifu|Close Combat|p2a: Utilize
+|-resisted|p2a: Utilize
+|-damage|p2a: Utilize|20/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641790754
+|move|p1a: Urshifu|Close Combat|p2a: Utilize
+|-resisted|p2a: Utilize
+|-damage|p2a: Utilize|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Utilize
+|
+|upkeep
+|
+|t:|1641790760
+|switch|p2a: No time|Zapdos-Galar|100/100
+|turn|17
+|
+|t:|1641790764
+|switch|p1a: Toxapex|Toxapex, F, shiny|82/100
+|move|p2a: No time|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|29/100
+|-damage|p2a: No time|84/100|[from] Recoil
+|
+|upkeep
+|turn|18
+|
+|t:|1641790771
+|move|p2a: No time|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-damage|p2a: No time|75/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641790783
+|switch|p1a: Blacephalon|Blacephalon, shiny|100/100
+|turn|19
+|
+|t:|1641790788
+|switch|p2a: P.def king|Landorus-Therian, M|100/100
+|-ability|p2a: P.def king|Intimidate|boost
+|-unboost|p1a: Blacephalon|atk|1
+|move|p1a: Blacephalon|Shadow Ball|p2a: P.def king
+|-damage|p2a: P.def king|64/100
+|
+|-heal|p2a: P.def king|70/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|20
+|
+|t:|1641790801
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|76/100
+|move|p2a: P.def king|Earthquake|p1a: Urshifu
+|-damage|p1a: Urshifu|30/100
+|
+|-heal|p2a: P.def king|76/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641790808
+|switch|p2a: Devil|Ferrothorn, F|93/100
+|move|p1a: Urshifu|Close Combat|p2a: Devil
+|-supereffective|p2a: Devil
+|-damage|p2a: Devil|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|-damage|p1a: Urshifu|18/100|[from] ability: Iron Barbs|[of] p2a: Devil
+|faint|p2a: Devil
+|
+|upkeep
+|
+|t:|1641790817
+|switch|p2a: No time|Zapdos-Galar|75/100
+|turn|22
+|
+|t:|1641790820
+|move|p2a: No time|Brave Bird|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-crit|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-damage|p2a: No time|69/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641790832
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|88/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|23
+|
+|t:|1641790836
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: No time
+|-supereffective|p2a: No time
+|-damage|p2a: No time|0 fnt
+|faint|p2a: No time
+|
+|upkeep
+|
+|t:|1641790840
+|switch|p2a: P.def king|Landorus-Therian, M|76/100
+|-ability|p2a: P.def king|Intimidate|boost
+|-unboost|p1a: Tapu Koko|atk|1
+|turn|24
+|
+|t:|1641790844
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: P.def king
+|-damage|p2a: P.def king|52/100
+|move|p2a: P.def king|Earthquake|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|-heal|p2a: P.def king|58/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641790853
+|switch|p1a: Blacephalon|Blacephalon, shiny|100/100
+|turn|25
+|
+|t:|1641790856
+|move|p1a: Blacephalon|Mind Blown|p2a: P.def king
+|-damage|p2a: P.def king|0 fnt
+|-damage|p1a: Blacephalon|50/100|[from] mindblown
+|faint|p2a: P.def king
+|
+|win|ReconAparition
+|raw|ReconAparition's rating: 1327 &rarr; <strong>1349</strong><br />(+22 for winning)
+|raw|RuparajanT's rating: 1369 &rarr; <strong>1347</strong><br />(-22 for losing)
+|c|☆RuparajanT|wtf
+|c|☆RuparajanT|gg
+|c|☆ReconAparition|mind blown is crazy
+|c|☆RuparajanT|yah
+|c|☆RuparajanT|but gg
+|c|☆ReconAparition|yah gg
+|c|☆RuparajanT|was expecting to win
+|c|☆ReconAparition|it be like that
+|c|☆RuparajanT|true
+|j| Kyurem
+|j| arnavgupta
+|l|☆RuparajanT
+|j| I Suck Smh
+|l| Kyurem
+|j| Kyurem
+|l| I Suck Smh
+|l| Kyurem
+|l| arnavgupta

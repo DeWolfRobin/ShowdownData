@@ -1,0 +1,264 @@
+|j|☆arkanixxx
+|j|☆Smart Falcon
+|t:|1641807105
+|gametype|singles
+|player|p1|arkanixxx|parasollady|1200
+|player|p2|Smart Falcon|shauntal|1205
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Cofagrigus, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Salazzle, F|
+|poke|p1|Shuckle, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Clefable, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|poke|p2|Cloyster, M|
+|teampreview
+|
+|t:|1641807116
+|start
+|switch|p1a: mommy|Cofagrigus, F|100/100
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|turn|1
+|
+|t:|1641807120
+|move|p2a: Cloyster|Icicle Spear|p1a: mommy
+|-damage|p1a: mommy|92/100
+|-damage|p1a: mommy|83/100
+|-damage|p1a: mommy|73/100
+|-damage|p1a: mommy|64/100
+|-damage|p1a: mommy|55/100
+|-hitcount|p1a: mommy|5
+|move|p1a: mommy|Trick|p2a: Cloyster
+|-activate|p1a: mommy|move: Trick|[of] p2a: Cloyster
+|-item|p2a: Cloyster|Choice Scarf|[from] move: Trick
+|-item|p1a: mommy|Focus Sash|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1641807125
+|move|p2a: Cloyster|Icicle Spear|p1a: mommy
+|-crit|p1a: mommy
+|-damage|p1a: mommy|43/100
+|-damage|p1a: mommy|34/100
+|-damage|p1a: mommy|26/100
+|-damage|p1a: mommy|16/100
+|-damage|p1a: mommy|8/100
+|-hitcount|p1a: mommy|5
+|move|p1a: mommy|Toxic Spikes|p2a: Cloyster
+|-sidestart|p2: Smart Falcon|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641807137
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|move|p1a: mommy|Toxic Spikes|p2a: Excadrill
+|-sidestart|p2: Smart Falcon|move: Toxic Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1641807142
+|move|p2a: Excadrill|Iron Head|p1a: mommy
+|-damage|p1a: mommy|0 fnt
+|-activate|p1a: mommy|ability: Mummy|Sand Rush|[of] p2a: Excadrill
+|faint|p1a: mommy
+|-damage|p2a: Excadrill|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641807148
+|switch|p1a: no gimmick|Salazzle, F|100/100
+|turn|5
+|
+|t:|1641807151
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-status|p2a: Tyranitar|tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: no gimmick|Fake Out|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|98/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: no gimmick|94/100|[from] Sandstorm
+|-damage|p2a: Tyranitar|92/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641807162
+|switch|p1a: you already know|Shuckle, M|100/100
+|move|p2a: Tyranitar|Stone Edge|p1a: you already know|[miss]
+|-miss|p2a: Tyranitar|p1a: you already know
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|79/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641807167
+|move|p2a: Tyranitar|Heavy Slam|p1a: you already know
+|-supereffective|p1a: you already know
+|-damage|p1a: you already know|54/100
+|move|p1a: you already know|Power Split|p2a: Tyranitar
+|-activate|p1a: you already know|move: Power Split|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: you already know|60/100|[from] item: Leftovers
+|-damage|p2a: Tyranitar|61/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641807178
+|switch|p2a: Excadrill|Excadrill, M|91/100
+|move|p1a: you already know|Sticky Web|p2a: Excadrill
+|-sidestart|p2: Smart Falcon|move: Sticky Web
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: you already know|66/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641807184
+|move|p2a: Excadrill|Rapid Spin|p1a: you already know
+|-resisted|p1a: you already know
+|-damage|p1a: you already know|57/100
+|-boost|p2a: Excadrill|spe|1
+|-sideend|p2: Smart Falcon|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Excadrill
+|-sideend|p2: Smart Falcon|Sticky Web|[from] move: Rapid Spin|[of] p2a: Excadrill
+|-damage|p2a: Excadrill|81/100|[from] item: Life Orb
+|move|p1a: you already know|Encore|p2a: Excadrill
+|-start|p2a: Excadrill|Encore
+|
+|-weather|none
+|-heal|p1a: you already know|63/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641807195
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|switch|p1a: Drill me|Excadrill, M|100/100
+|-ability|p1a: Drill me|Mold Breaker
+|
+|upkeep
+|turn|11
+|
+|t:|1641807204
+|move|p2a: Cloyster|Surf|p1a: Drill me
+|-supereffective|p1a: Drill me
+|-damage|p1a: Drill me|24/100
+|move|p1a: Drill me|Iron Head|p2a: Cloyster
+|-damage|p2a: Cloyster|55/100
+|-damage|p1a: Drill me|14/100|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1641807212
+|switch|p2a: Zapdos|Zapdos|100/100
+|switch|p1a: cancer incarnate|Toxapex, M|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641807215
+|move|p1a: cancer incarnate|Baneful Bunker|p1a: cancer incarnate
+|-singleturn|p1a: cancer incarnate|move: Protect
+|move|p2a: Zapdos|Volt Switch|p1a: cancer incarnate
+|-activate|p1a: cancer incarnate|move: Protect
+|
+|upkeep
+|turn|14
+|
+|t:|1641807220
+|move|p2a: Zapdos|Volt Switch|p1a: cancer incarnate
+|-supereffective|p1a: cancer incarnate
+|-crit|p1a: cancer incarnate
+|-damage|p1a: cancer incarnate|25/100
+|
+|t:|1641807222
+|switch|p2a: Cloyster|Cloyster, M|55/100|[from]move: Volt Switch
+|move|p1a: cancer incarnate|Recover|p1a: cancer incarnate
+|-heal|p1a: cancer incarnate|75/100
+|
+|-heal|p1a: cancer incarnate|81/100|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1641807245
+|move|p2a: Cloyster|Rock Blast|p1a: cancer incarnate
+|-damage|p1a: cancer incarnate|77/100
+|-damage|p1a: cancer incarnate|72/100
+|-damage|p1a: cancer incarnate|68/100
+|-damage|p1a: cancer incarnate|64/100
+|-damage|p1a: cancer incarnate|59/100
+|-hitcount|p1a: cancer incarnate|5
+|move|p1a: cancer incarnate|Poison Jab|p2a: Cloyster
+|-damage|p2a: Cloyster|40/100
+|
+|-heal|p1a: cancer incarnate|66/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|t:|1641807251
+|switch|p2a: Excadrill|Excadrill, M|81/100
+|move|p1a: cancer incarnate|Poison Jab|p2a: Excadrill
+|-immune|p2a: Excadrill
+|
+|-heal|p1a: cancer incarnate|72/100|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|t:|1641807255
+|switch|p1a: flying cancer|Mandibuzz, F|100/100
+|move|p2a: Excadrill|Rapid Spin|p1a: flying cancer
+|-damage|p1a: flying cancer|86/100
+|-boost|p2a: Excadrill|spe|1
+|-damage|p2a: Excadrill|71/100|[from] item: Life Orb
+|
+|-heal|p1a: flying cancer|92/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641807265
+|switch|p1a: you already know|Shuckle, M|63/100
+|move|p2a: Excadrill|Rock Slide|p1a: you already know
+|-supereffective|p1a: you already know
+|-damage|p1a: you already know|10/100
+|-damage|p2a: Excadrill|61/100|[from] item: Life Orb
+|
+|-heal|p1a: you already know|16/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641807269
+|move|p2a: Excadrill|Rock Slide|p1a: you already know
+|-supereffective|p1a: you already know
+|-damage|p1a: you already know|0 fnt
+|faint|p1a: you already know
+|-damage|p2a: Excadrill|51/100|[from] item: Life Orb
+|
+|upkeep
+|-message|arkanixxx forfeited.
+|
+|win|Smart Falcon
+|raw|arkanixxx's rating: 1200 &rarr; <strong>1175</strong><br />(-25 for losing)
+|raw|Smart Falcon's rating: 1205 &rarr; <strong>1230</strong><br />(+25 for winning)
+|l|☆arkanixxx

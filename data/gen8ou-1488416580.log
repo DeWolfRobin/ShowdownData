@@ -1,0 +1,406 @@
+|j|☆T-Kizuki_Doma
+|j|☆Esmo el esmo
+|t:|1641762620
+|gametype|singles
+|player|p1|T-Kizuki_Doma|caitlin|1067
+|player|p2|Esmo el esmo|102|1075
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slurpuff, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Heatran, M|
+|poke|p1|Blissey, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Weavile, M|
+|poke|p2|Kartana|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Hydreigon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Esmo el esmo)
+|
+|t:|1641762630
+|start
+|switch|p1a: Hello there :3|Slurpuff, F, shiny|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1641762640
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Esmo el esmo|move: Aurora Veil
+|move|p1a: Hello there :3|Belly Drum|p1a: Hello there :3
+|-damage|p1a: Hello there :3|50/100
+|-setboost|p1a: Hello there :3|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Hello there :3|Sitrus Berry|[eat]
+|-heal|p1a: Hello there :3|75/100|[from] item: Sitrus Berry
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hello there :3|69/100|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641762656
+|move|p1a: Hello there :3|Drain Punch|p2a: Ninetales
+|-damage|p2a: Ninetales|41/100
+|-heal|p1a: Hello there :3|97/100|[from] drain|[of] p2a: Ninetales
+|move|p2a: Ninetales|Blizzard|p1a: Hello there :3
+|-damage|p1a: Hello there :3|36/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hello there :3|30/100|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1641762663
+|move|p1a: Hello there :3|Drain Punch|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|-heal|p1a: Hello there :3|49/100|[from] drain|[of] p2a: Ninetales
+|faint|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hello there :3|43/100|[from] Hail
+|upkeep
+|
+|t:|1641762670
+|switch|p2a: Kartana|Kartana|100/100
+|turn|4
+|
+|t:|1641762679
+|move|p1a: Hello there :3|Drain Punch|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|13/100
+|-heal|p1a: Hello there :3|80/100|[from] drain|[of] p2a: Kartana
+|move|p2a: Kartana|Smart Strike|p1a: Hello there :3
+|-supereffective|p1a: Hello there :3
+|-damage|p1a: Hello there :3|0 fnt
+|faint|p1a: Hello there :3
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Kartana|7/100|[from] Hail
+|upkeep
+|
+|t:|1641762688
+|switch|p1a: Sneuhaze|Weavile, M|100/100
+|-ability|p1a: Sneuhaze|Pressure
+|turn|5
+|
+|t:|1641762695
+|move|p1a: Sneuhaze|Fake Out|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|3/100
+|-damage|p1a: Sneuhaze|91/100|[from] item: Life Orb
+|cant|p2a: Kartana|flinch
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641762706
+|move|p1a: Sneuhaze|Knock Off|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|-enditem|p2a: Kartana|Muscle Band|[from] move: Knock Off|[of] p1a: Sneuhaze
+|faint|p2a: Kartana
+|-damage|p1a: Sneuhaze|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641762713
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|7
+|
+|t:|1641762721
+|switch|p1a: PomNoisettes|Heatran, M, shiny|100/100
+|move|p2a: Volcarona|Fiery Dance|p1a: PomNoisettes
+|-start|p1a: PomNoisettes|ability: Flash Fire
+|
+|upkeep
+|turn|8
+|
+|t:|1641762733
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: PomNoisettes|Magma Storm|p2a: Urshifu|[miss]
+|-miss|p1a: PomNoisettes|p2a: Urshifu
+|
+|-sideend|p2: Esmo el esmo|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1641762745
+|-end|p1a: PomNoisettes|ability: Flash Fire|[silent]
+|switch|p1a: Pô|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Pô
+|-resisted|p1a: Pô
+|-crit|p1a: Pô
+|-damage|p1a: Pô|91/100
+|-resisted|p1a: Pô
+|-crit|p1a: Pô
+|-damage|p1a: Pô|80/100
+|-resisted|p1a: Pô
+|-crit|p1a: Pô
+|-damage|p1a: Pô|70/100
+|-hitcount|p1a: Pô|3
+|
+|upkeep
+|turn|10
+|
+|t:|1641762759
+|move|p1a: Pô|Surging Strikes|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-crit|p2a: Urshifu
+|-damage|p2a: Urshifu|86/100
+|-resisted|p2a: Urshifu
+|-crit|p2a: Urshifu
+|-damage|p2a: Urshifu|71/100
+|-resisted|p2a: Urshifu
+|-crit|p2a: Urshifu
+|-damage|p2a: Urshifu|56/100
+|-hitcount|p2a: Urshifu|3
+|move|p2a: Urshifu|Close Combat|p1a: Pô
+|-damage|p1a: Pô|0 fnt
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|faint|p1a: Pô
+|
+|upkeep
+|
+|t:|1641762772
+|switch|p1a: Hiroshima|Dragapult, M, shiny|100/100
+|turn|11
+|
+|t:|1641762777
+|move|p1a: Hiroshima|Draco Meteor|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|-unboost|p1a: Hiroshima|spa|2
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1641762784
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hiroshima|atk|1
+|turn|12
+|
+|t:|1641762792
+|switch|p1a: Nightmare|Blissey, F, shiny|100/100
+|move|p2a: Landorus|Fly||[still]
+|-prepare|p2a: Landorus|Fly
+|
+|upkeep
+|turn|13
+|
+|t:|1641762803
+|move|p2a: Landorus|Fly|p1a: Nightmare|[from]lockedmove
+|-damage|p1a: Nightmare|49/100
+|move|p1a: Nightmare|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-heal|p1a: Nightmare|55/100|[from] item: Leftovers
+|-damage|p2a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641762813
+|move|p2a: Landorus|Earthquake|p1a: Nightmare
+|-damage|p1a: Nightmare|1/100
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|51/100
+|
+|-heal|p1a: Nightmare|57/100|[from] item: Leftovers
+|-damage|p2a: Landorus|82/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641762830
+|move|p2a: Landorus|Earthquake|p1a: Nightmare
+|-damage|p1a: Nightmare|4/100
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|54/100
+|
+|-heal|p1a: Nightmare|60/100|[from] item: Leftovers
+|-damage|p2a: Landorus|63/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641762843
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|100/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641762854
+|move|p2a: Volcarona|Fiery Dance|p1a: Nightmare
+|-damage|p1a: Nightmare|83/100
+|-boost|p2a: Volcarona|spa|1
+|move|p1a: Nightmare|Toxic|p2a: Volcarona
+|-status|p2a: Volcarona|tox
+|
+|-heal|p1a: Nightmare|89/100|[from] item: Leftovers
+|-damage|p2a: Volcarona|94/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641762860
+|move|p2a: Volcarona|Fiery Dance|p1a: Nightmare
+|-damage|p1a: Nightmare|64/100
+|move|p1a: Nightmare|Stealth Rock|p2a: Volcarona
+|-sidestart|p2: Esmo el esmo|move: Stealth Rock
+|
+|-heal|p1a: Nightmare|70/100|[from] item: Leftovers
+|-damage|p2a: Volcarona|82/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641762866
+|move|p2a: Volcarona|Fiery Dance|p1a: Nightmare
+|-damage|p1a: Nightmare|45/100
+|-boost|p2a: Volcarona|spa|1
+|move|p1a: Nightmare|Seismic Toss|p2a: Volcarona
+|-damage|p2a: Volcarona|50/100 tox
+|-status|p1a: Nightmare|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|
+|-heal|p1a: Nightmare|51/100 brn|[from] item: Leftovers
+|-damage|p2a: Volcarona|32/100 tox|[from] psn
+|-damage|p1a: Nightmare|45/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641762875
+|move|p2a: Volcarona|Defog|p1a: Nightmare
+|-unboost|p1a: Nightmare|evasion|1
+|-sideend|p2: Esmo el esmo|Stealth Rock|[from] move: Defog|[of] p2a: Volcarona
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|95/100 brn
+|
+|-heal|p1a: Nightmare|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Volcarona|7/100 tox|[from] psn
+|-damage|p1a: Nightmare|94/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641762881
+|move|p2a: Volcarona|Fiery Dance|p1a: Nightmare
+|-damage|p1a: Nightmare|61/100 brn
+|move|p1a: Nightmare|Stealth Rock|p2a: Volcarona
+|-sidestart|p2: Esmo el esmo|move: Stealth Rock
+|
+|-heal|p1a: Nightmare|67/100 brn|[from] item: Leftovers
+|-damage|p2a: Volcarona|0 fnt|[from] psn
+|faint|p2a: Volcarona
+|-damage|p1a: Nightmare|61/100 brn|[from] brn
+|upkeep
+|
+|t:|1641762887
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641762896
+|move|p2a: Hydreigon|Dragon Pulse|p1a: Nightmare
+|-damage|p1a: Nightmare|44/100 brn
+|move|p1a: Nightmare|Toxic|p2a: Hydreigon
+|-status|p2a: Hydreigon|tox
+|
+|-heal|p1a: Nightmare|50/100 brn|[from] item: Leftovers
+|-damage|p2a: Hydreigon|82/100 tox|[from] psn
+|-damage|p1a: Nightmare|44/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641762905
+|move|p2a: Hydreigon|Flash Cannon|p1a: Nightmare
+|-damage|p1a: Nightmare|33/100 brn
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|83/100 brn
+|
+|-heal|p1a: Nightmare|89/100 brn|[from] item: Leftovers
+|-damage|p2a: Hydreigon|70/100 tox|[from] psn
+|-damage|p1a: Nightmare|83/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641762910
+|switch|p2a: Landorus|Landorus-Therian, M|63/100 tox
+|-damage|p2a: Landorus|50/100 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Nightmare|atk|1
+|move|p1a: Nightmare|Seismic Toss|p2a: Landorus
+|-damage|p2a: Landorus|19/100 tox
+|
+|-heal|p1a: Nightmare|89/100 brn|[from] item: Leftovers
+|-damage|p2a: Landorus|13/100 tox|[from] psn
+|-damage|p1a: Nightmare|83/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641762921
+|move|p2a: Landorus|Earthquake|p1a: Nightmare
+|-damage|p1a: Nightmare|28/100 brn
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|78/100 brn
+|
+|-heal|p1a: Nightmare|84/100 brn|[from] item: Leftovers
+|-damage|p2a: Landorus|0 fnt|[from] psn
+|faint|p2a: Landorus
+|-damage|p1a: Nightmare|78/100 brn|[from] brn
+|upkeep
+|
+|t:|1641762927
+|switch|p2a: Hydreigon|Hydreigon, F|70/100 tox
+|-damage|p2a: Hydreigon|58/100 tox|[from] Stealth Rock
+|turn|26
+|
+|t:|1641762936
+|move|p2a: Hydreigon|Dragon Pulse|p1a: Nightmare
+|-damage|p1a: Nightmare|61/100 brn
+|move|p1a: Nightmare|Seismic Toss|p2a: Hydreigon
+|-damage|p2a: Hydreigon|27/100 tox
+|
+|-heal|p1a: Nightmare|67/100 brn|[from] item: Leftovers
+|-damage|p2a: Hydreigon|21/100 tox|[from] psn
+|-damage|p1a: Nightmare|61/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641762943
+|move|p2a: Hydreigon|Dragon Pulse|p1a: Nightmare
+|-damage|p1a: Nightmare|44/100 brn
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|94/100 brn
+|
+|-heal|p1a: Nightmare|99/100 brn|[from] item: Leftovers
+|-damage|p2a: Hydreigon|8/100 tox|[from] psn
+|-damage|p1a: Nightmare|94/100 brn|[from] brn
+|upkeep
+|turn|28
+|c|☆T-Kizuki_Doma|Gg
+|
+|t:|1641762952
+|move|p2a: Hydreigon|Flamethrower|p1a: Nightmare
+|-damage|p1a: Nightmare|82/100 brn
+|move|p1a: Nightmare|Seismic Toss|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|win|T-Kizuki_Doma
+|raw|T-Kizuki_Doma's rating: 1067 &rarr; <strong>1098</strong><br />(+31 for winning)
+|raw|Esmo el esmo's rating: 1075 &rarr; <strong>1053</strong><br />(-22 for losing)
+|l|☆Esmo el esmo

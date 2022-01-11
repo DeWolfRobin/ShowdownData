@@ -1,0 +1,358 @@
+|j|☆toxicshucklejuice
+|j|☆eeveeleon154
+|t:|1641768718
+|gametype|singles
+|player|p1|toxicshucklejuice|lillie-z|
+|player|p2|eeveeleon154|ethan-pokeathlon|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Zeraora|
+|poke|p1|Kartana|
+|poke|p1|Regieleki|
+|poke|p1|Tapu Lele|
+|poke|p2|Incineroar, M|
+|poke|p2|Krookodile, M|
+|poke|p2|Regieleki|
+|poke|p2|Shuckle, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Barraskewda, M|
+|teampreview
+|
+|t:|1641768729
+|start
+|switch|p1a: landtiger|Landorus-Therian, M|100/100
+|switch|p2a: Shuckle|Shuckle, M|100/100
+|-ability|p1a: landtiger|Intimidate|boost
+|-unboost|p2a: Shuckle|atk|1
+|turn|1
+|
+|t:|1641768741
+|move|p1a: landtiger|Body Slam|p2a: Shuckle
+|-resisted|p2a: Shuckle
+|-damage|p2a: Shuckle|86/100
+|move|p2a: Shuckle|Sticky Web|p1a: landtiger
+|-sidestart|p1: toxicshucklejuice|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1641768750
+|move|p1a: landtiger|Body Slam|p2a: Shuckle
+|-resisted|p2a: Shuckle
+|-damage|p2a: Shuckle|68/100
+|move|p2a: Shuckle|Stealth Rock|p1a: landtiger
+|-sidestart|p1: toxicshucklejuice|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641768759
+|switch|p1a: tapu siren|Tapu Fini|100/100
+|-activate|p1a: tapu siren|move: Sticky Web
+|-unboost|p1a: tapu siren|spe|1
+|-damage|p1a: tapu siren|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: tapu siren
+|move|p2a: Shuckle|Toxic|p1a: tapu siren
+|-activate|p1a: tapu siren|move: Misty Terrain
+|
+|upkeep
+|turn|4
+|
+|t:|1641768773
+|move|p1a: tapu siren|Trick|p2a: Shuckle
+|-activate|p1a: tapu siren|move: Trick|[of] p2a: Shuckle
+|-item|p2a: Shuckle|Choice Scarf|[from] move: Trick
+|-item|p1a: tapu siren|Sitrus Berry|[from] move: Trick
+|move|p2a: Shuckle|Infestation|p1a: tapu siren
+|-resisted|p1a: tapu siren
+|-damage|p1a: tapu siren|87/100
+|-activate|p1a: tapu siren|move: Infestation|[of] p2a: Shuckle
+|
+|-damage|p1a: tapu siren|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1641768788
+|switch|p2a: Regieleki|Regieleki|100/100
+|move|p1a: tapu siren|Moonblast|p2a: Regieleki
+|-damage|p2a: Regieleki|49/100
+|
+|-end|p1a: tapu siren|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641768796
+|move|p2a: Regieleki|Light Screen|p2a: Regieleki
+|-sidestart|p2: eeveeleon154|move: Light Screen
+|move|p1a: tapu siren|Trick|p2a: Regieleki
+|-activate|p1a: tapu siren|move: Trick|[of] p2a: Regieleki
+|-item|p2a: Regieleki|Sitrus Berry|[from] move: Trick
+|-item|p1a: tapu siren|Light Clay|[from] move: Trick
+|-enditem|p2a: Regieleki|Sitrus Berry|[eat]
+|-heal|p2a: Regieleki|74/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|7
+|
+|t:|1641768807
+|move|p2a: Regieleki|Light Screen||[still]
+|-fail|p2a: Regieleki
+|move|p1a: tapu siren|Trick|p2a: Regieleki
+|-activate|p1a: tapu siren|move: Trick|[of] p2a: Regieleki
+|-item|p2a: Regieleki|Light Clay|[from] move: Trick
+|-enditem|p1a: tapu siren|Light Clay|[silent]|[from] move: Trick
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|8
+|
+|t:|1641768818
+|move|p2a: Regieleki|Reflect|p2a: Regieleki
+|-sidestart|p2: eeveeleon154|Reflect
+|move|p1a: tapu siren|Scald|p2a: Regieleki
+|-damage|p2a: Regieleki|53/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641768826
+|move|p2a: Regieleki|Explosion|p1a: tapu siren
+|-damage|p1a: tapu siren|22/100
+|faint|p2a: Regieleki
+|move|p1a: tapu siren|Moonblast|p2: Regieleki|[notarget]
+|-fail|p1a: tapu siren
+|
+|upkeep
+|
+|t:|1641768833
+|switch|p2a: Incineroar|Incineroar, M|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: tapu siren|atk|1
+|turn|10
+|
+|t:|1641768839
+|switch|p1a: tapu fly|Tapu Lele|100/100
+|-activate|p1a: tapu fly|move: Sticky Web
+|-unboost|p1a: tapu fly|spe|1
+|-damage|p1a: tapu fly|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: tapu fly
+|move|p2a: Incineroar|Bulk Up|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|1
+|-boost|p2a: Incineroar|def|1
+|
+|-heal|p1a: tapu fly|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641768848
+|move|p2a: Incineroar|Flame Charge|p1a: tapu fly
+|-crit|p1a: tapu fly
+|-damage|p1a: tapu fly|40/100
+|-boost|p2a: Incineroar|spe|1
+|move|p1a: tapu fly|Light Screen|p1a: tapu fly
+|-sidestart|p1: toxicshucklejuice|move: Light Screen
+|
+|-heal|p1a: tapu fly|46/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641768859
+|move|p2a: Incineroar|Bulk Up|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|1
+|-boost|p2a: Incineroar|def|1
+|move|p1a: tapu fly|Reflect|p1a: tapu fly
+|-sidestart|p1: toxicshucklejuice|Reflect
+|
+|-heal|p1a: tapu fly|52/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641768868
+|switch|p1a: electric delcaty|Zeraora, shiny|100/100
+|move|p2a: Incineroar|Bulk Up|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|1
+|-boost|p2a: Incineroar|def|1
+|
+|-sideend|p2: eeveeleon154|move: Light Screen
+|upkeep
+|turn|14
+|
+|t:|1641768874
+|move|p1a: electric delcaty|Bulk Up|p1a: electric delcaty
+|-boost|p1a: electric delcaty|atk|1
+|-boost|p1a: electric delcaty|def|1
+|move|p2a: Incineroar|Flame Charge|p1a: electric delcaty
+|-damage|p1a: electric delcaty|77/100
+|-boost|p2a: Incineroar|spe|1
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|15
+|
+|t:|1641768887
+|move|p1a: electric delcaty|Bulk Up|p1a: electric delcaty
+|-boost|p1a: electric delcaty|atk|1
+|-boost|p1a: electric delcaty|def|1
+|move|p2a: Incineroar|Bulk Up|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|1
+|-boost|p2a: Incineroar|def|1
+|
+|-sideend|p2: eeveeleon154|Reflect
+|-sideend|p1: toxicshucklejuice|move: Light Screen
+|upkeep
+|turn|16
+|
+|t:|1641768895
+|move|p1a: electric delcaty|Bulk Up|p1a: electric delcaty
+|-boost|p1a: electric delcaty|atk|1
+|-boost|p1a: electric delcaty|def|1
+|move|p2a: Incineroar|Flame Charge|p1a: electric delcaty
+|-damage|p1a: electric delcaty|60/100
+|-boost|p2a: Incineroar|spe|1
+|
+|-sideend|p1: toxicshucklejuice|Reflect
+|upkeep
+|turn|17
+|
+|t:|1641768901
+|move|p2a: Incineroar|Flame Charge|p1a: electric delcaty
+|-damage|p1a: electric delcaty|25/100
+|-boost|p2a: Incineroar|spe|1
+|move|p1a: electric delcaty|Bulk Up|p1a: electric delcaty
+|-boost|p1a: electric delcaty|atk|1
+|-boost|p1a: electric delcaty|def|1
+|
+|upkeep
+|turn|18
+|
+|t:|1641768911
+|move|p2a: Incineroar|Power Trip|p1a: electric delcaty
+|-damage|p1a: electric delcaty|0 fnt
+|faint|p1a: electric delcaty
+|
+|upkeep
+|
+|t:|1641768919
+|switch|p1a: ash's regieleki|Regieleki|100/100
+|-damage|p1a: ash's regieleki|88/100|[from] Stealth Rock
+|-activate|p1a: ash's regieleki|move: Sticky Web
+|-unboost|p1a: ash's regieleki|spe|1
+|turn|19
+|
+|t:|1641768930
+|move|p2a: Incineroar|Drain Punch|p1a: ash's regieleki
+|-damage|p1a: ash's regieleki|0 fnt
+|faint|p1a: ash's regieleki
+|
+|upkeep
+|
+|t:|1641768936
+|switch|p1a: SACRED SWORD|Kartana|100/100
+|-damage|p1a: SACRED SWORD|94/100|[from] Stealth Rock
+|-activate|p1a: SACRED SWORD|move: Sticky Web
+|-unboost|p1a: SACRED SWORD|spe|1
+|turn|20
+|
+|t:|1641768943
+|move|p2a: Incineroar|Bulk Up|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|1
+|-boost|p2a: Incineroar|def|1
+|move|p1a: SACRED SWORD|Swords Dance|p1a: SACRED SWORD
+|-boost|p1a: SACRED SWORD|atk|2
+|
+|upkeep
+|turn|21
+|
+|t:|1641768948
+|move|p2a: Incineroar|Bulk Up|p2a: Incineroar
+|-boost|p2a: Incineroar|atk|1
+|-boost|p2a: Incineroar|def|1
+|move|p1a: SACRED SWORD|Swords Dance|p1a: SACRED SWORD
+|-boost|p1a: SACRED SWORD|atk|2
+|
+|upkeep
+|turn|22
+|
+|t:|1641768956
+|move|p2a: Incineroar|Flame Charge|p1a: SACRED SWORD
+|-supereffective|p1a: SACRED SWORD
+|-damage|p1a: SACRED SWORD|0 fnt
+|-boost|p2a: Incineroar|spe|1
+|faint|p1a: SACRED SWORD
+|
+|upkeep
+|
+|t:|1641768960
+|switch|p1a: landtiger|Landorus-Therian, M|100/100
+|-damage|p1a: landtiger|88/100|[from] Stealth Rock
+|-ability|p1a: landtiger|Intimidate|boost
+|-unboost|p2a: Incineroar|atk|1
+|turn|23
+|
+|t:|1641768966
+|move|p2a: Incineroar|Flame Charge|p1a: landtiger
+|-damage|p1a: landtiger|7/100
+|-boost|p2a: Incineroar|spe|1
+|move|p1a: landtiger|Brick Break|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|83/100
+|-enditem|p2a: Incineroar|Weakness Policy
+|-boost|p2a: Incineroar|atk|1|[from] item: Weakness Policy
+|-boost|p2a: Incineroar|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|24
+|
+|t:|1641768978
+|move|p2a: Incineroar|Power Trip|p1a: landtiger
+|-damage|p1a: landtiger|0 fnt
+|faint|p1a: landtiger
+|
+|upkeep
+|
+|t:|1641768983
+|switch|p1a: tapu siren|Tapu Fini|22/100
+|-damage|p1a: tapu siren|10/100|[from] Stealth Rock
+|-activate|p1a: tapu siren|move: Sticky Web
+|-unboost|p1a: tapu siren|spe|1
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: tapu siren
+|turn|25
+|
+|t:|1641768993
+|move|p2a: Incineroar|Power Trip|p1a: tapu siren
+|-resisted|p1a: tapu siren
+|-damage|p1a: tapu siren|0 fnt
+|faint|p1a: tapu siren
+|
+|upkeep
+|
+|t:|1641769000
+|switch|p1a: tapu fly|Tapu Lele|52/100
+|-activate|p1a: tapu fly|move: Sticky Web
+|-unboost|p1a: tapu fly|spe|1
+|-damage|p1a: tapu fly|39/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: tapu fly
+|turn|26
+|
+|t:|1641769006
+|move|p2a: Incineroar|Power Trip|p1a: tapu fly
+|-damage|p1a: tapu fly|0 fnt
+|faint|p1a: tapu fly
+|
+|win|eeveeleon154
+|l|☆eeveeleon154
+|l|☆toxicshucklejuice
+|j|☆eeveeleon154
+|player|p2|eeveeleon154|ethan-pokeathlon

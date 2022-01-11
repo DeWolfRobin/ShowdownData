@@ -1,0 +1,574 @@
+|j|☆xaviane
+|j|☆frxstyyy
+|t:|1641841842
+|gametype|singles
+|player|p1|xaviane|jogger|1198
+|player|p2|frxstyyy|266|1219
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Quagsire, M|
+|poke|p1|Corsola-Galar, M|
+|poke|p1|Audino, F|
+|poke|p1|Lurantis, M|
+|poke|p1|Avalugg, M|
+|poke|p1|Weezing, M|
+|poke|p2|Blissey, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Melmetal|
+|poke|p2|Blacephalon|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by frxstyyy)
+|inactive|xaviane also wants the timer to be on.
+|
+|t:|1641841852
+|start
+|switch|p1a: Corsola|Corsola-Galar, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Corsola|atk|1
+|turn|1
+|
+|t:|1641841858
+|move|p2a: Landorus|Toxic|p1a: Corsola
+|-status|p1a: Corsola|tox
+|move|p1a: Corsola|Will-O-Wisp|p2a: Landorus
+|-status|p2a: Landorus|brn
+|
+|-damage|p1a: Corsola|94/100 tox|[from] psn
+|-damage|p2a: Landorus|95/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641841866
+|move|p2a: Landorus|Stealth Rock|p1a: Corsola
+|-sidestart|p1: xaviane|move: Stealth Rock
+|move|p1a: Corsola|Stealth Rock|p2a: Landorus
+|-sidestart|p2: frxstyyy|move: Stealth Rock
+|
+|-heal|p2a: Landorus|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Corsola|82/100 tox|[from] psn
+|-damage|p2a: Landorus|95/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641841875
+|switch|p1a: Avalugg|Avalugg, M|100/100
+|move|p2a: Landorus|U-turn|p1a: Avalugg
+|-damage|p1a: Avalugg|95/100
+|
+|t:|1641841879
+|switch|p2a: Melmetal|Melmetal|100/100|[from]move: U-turn
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641841884
+|move|p2a: Melmetal|Double Iron Bash|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|65/100
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|38/100
+|-hitcount|p1a: Avalugg|2
+|cant|p1a: Avalugg|flinch
+|
+|upkeep
+|turn|5
+|
+|t:|1641841904
+|switch|p1a: Weezing|Weezing, M|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|-damage|p1a: Weezing|88/100|[from] Stealth Rock
+|move|p2a: Melmetal|Double Iron Bash|p1a: Weezing
+|-damage|p1a: Weezing|67/100
+|-damage|p1a: Weezing|47/100
+|-hitcount|p1a: Weezing|2
+|
+|-heal|p1a: Weezing|53/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|inactive|frxstyyy has 120 seconds left.
+|
+|t:|1641841938
+|move|p1a: Weezing|Will-O-Wisp|p2a: Melmetal|[miss]
+|-miss|p1a: Weezing|p2a: Melmetal
+|move|p2a: Melmetal|Earthquake|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|8/100
+|
+|-heal|p1a: Weezing|14/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1641841947
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|-damage|p2a: Blacephalon|76/100|[from] Stealth Rock
+|move|p1a: Weezing|Pain Split|p2a: Blacephalon
+|-sethp|p2a: Blacephalon|47/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Weezing|35/100|[from] move: Pain Split
+|
+|-heal|p1a: Weezing|41/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1641841960
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Audino|Audino, F|100/100
+|-damage|p1a: Audino|88/100|[from] Stealth Rock
+|move|p2a: Blacephalon|Shadow Ball|p1a: Audino
+|-immune|p1a: Audino
+|
+|-heal|p1a: Audino|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|frxstyyy has 120 seconds left.
+|
+|t:|1641841988
+|switch|p2a: Melmetal|Melmetal|94/100
+|-damage|p2a: Melmetal|88/100|[from] Stealth Rock
+|move|p1a: Audino|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|80/100
+|-enditem|p2a: Melmetal|Assault Vest|[from] move: Knock Off|[of] p1a: Audino
+|
+|-heal|p1a: Audino|99/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641842022
+|move|p1a: Audino|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|75/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Audino
+|-damage|p1a: Audino|67/100
+|-damage|p1a: Audino|34/100
+|-hitcount|p1a: Audino|2
+|
+|-heal|p1a: Audino|40/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641842038
+|switch|p1a: Quagsire|Quagsire, M|100/100
+|-damage|p1a: Quagsire|94/100|[from] Stealth Rock
+|move|p2a: Melmetal|Double Iron Bash|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|83/100
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|71/100
+|-hitcount|p1a: Quagsire|2
+|
+|-heal|p1a: Quagsire|77/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641842049
+|move|p2a: Melmetal|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|52/100
+|move|p1a: Quagsire|Scald|p2a: Melmetal
+|-damage|p2a: Melmetal|61/100
+|
+|-heal|p1a: Quagsire|58/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641842055
+|move|p2a: Melmetal|Earthquake|p1a: Quagsire
+|-damage|p1a: Quagsire|32/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|82/100
+|
+|-heal|p1a: Quagsire|88/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641842065
+|switch|p2a: Landorus|Landorus-Therian, M|95/100 brn
+|-damage|p2a: Landorus|82/100 brn|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Quagsire|atk|1
+|move|p1a: Quagsire|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|29/100 brn
+|
+|-heal|p2a: Landorus|35/100 brn|[from] item: Leftovers
+|-heal|p1a: Quagsire|94/100|[from] item: Leftovers
+|-damage|p2a: Landorus|29/100 brn|[from] brn
+|upkeep
+|turn|15
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641842078
+|move|p2a: Landorus|Toxic|p1a: Quagsire
+|-status|p1a: Quagsire|tox
+|move|p1a: Quagsire|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-heal|p1a: Quagsire|99/100 tox|[from] item: Leftovers
+|-damage|p1a: Quagsire|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641842090
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641842095
+|move|p2a: Dragapult|Draco Meteor|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Quagsire
+|
+|upkeep
+|
+|t:|1641842102
+|switch|p1a: Audino|Audino, F|74/100
+|-damage|p1a: Audino|61/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641842108
+|switch|p2a: Melmetal|Melmetal|61/100
+|-damage|p2a: Melmetal|55/100|[from] Stealth Rock
+|move|p1a: Audino|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|50/100
+|
+|-heal|p1a: Audino|67/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641842116
+|move|p1a: Audino|Protect|p1a: Audino
+|-singleturn|p1a: Audino|Protect
+|move|p2a: Melmetal|Double Iron Bash|p1a: Audino
+|-activate|p1a: Audino|move: Protect
+|
+|-heal|p1a: Audino|73/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641842123
+|move|p1a: Audino|Wish|p1a: Audino
+|move|p2a: Melmetal|Double Iron Bash|p1a: Audino
+|-damage|p1a: Audino|42/100
+|-damage|p1a: Audino|7/100
+|-hitcount|p1a: Audino|2
+|
+|-heal|p1a: Audino|13/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641842133
+|switch|p1a: Avalugg|Avalugg, M|38/100
+|move|p2a: Melmetal|Earthquake|p1a: Avalugg
+|-damage|p1a: Avalugg|25/100
+|
+|-heal|p1a: Avalugg|77/100|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|21
+|
+|t:|1641842141
+|move|p2a: Melmetal|Double Iron Bash|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|49/100
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|18/100
+|-hitcount|p1a: Avalugg|2
+|move|p1a: Avalugg|Rapid Spin|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|46/100
+|-boost|p1a: Avalugg|spe|1
+|-sideend|p1: xaviane|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Avalugg
+|
+|upkeep
+|turn|22
+|c|☆frxstyyy|oops
+|
+|t:|1641842150
+|move|p1a: Avalugg|Body Press|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|2/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Avalugg
+|-supereffective|p1a: Avalugg
+|-damage|p1a: Avalugg|0 fnt
+|faint|p1a: Avalugg
+|-hitcount|p1: Avalugg|1
+|
+|upkeep
+|c|☆frxstyyy|im out of iron bash
+|
+|t:|1641842159
+|switch|p1a: Lurantis|Lurantis, M|100/100
+|turn|23
+|
+|t:|1641842168
+|move|p1a: Lurantis|Superpower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-boost|p1a: Lurantis|atk|1
+|-boost|p1a: Lurantis|def|1
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641842173
+|switch|p2a: Dragapult|Dragapult, M|88/100
+|-damage|p2a: Dragapult|76/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641842177
+|move|p2a: Dragapult|Draco Meteor|p1a: Lurantis
+|-damage|p1a: Lurantis|3/100
+|-unboost|p2a: Dragapult|spa|2
+|move|p1a: Lurantis|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-heal|p1a: Lurantis|10/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|70/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641842187
+|switch|p1a: Audino|Audino, F|46/100
+|move|p2a: Dragapult|Draco Meteor|p1a: Audino
+|-damage|p1a: Audino|17/100
+|-unboost|p2a: Dragapult|spa|2
+|
+|-heal|p1a: Audino|23/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|58/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641842197
+|switch|p2a: Blacephalon|Blacephalon|47/100
+|-damage|p2a: Blacephalon|22/100|[from] Stealth Rock
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|-heal|p1a: Audino|29/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641842205
+|move|p1a: Audino|Protect|p1a: Audino
+|-singleturn|p1a: Audino|Protect
+|move|p2a: Blacephalon|Flamethrower|p1a: Audino
+|-activate|p1a: Audino|move: Protect
+|
+|-heal|p1a: Audino|79/100|[from] move: Wish|[wisher] Audino
+|-heal|p1a: Audino|85/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641842212
+|move|p2a: Blacephalon|Flamethrower|p1a: Audino
+|-damage|p1a: Audino|49/100
+|move|p1a: Audino|Knock Off|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|-enditem|p2a: Blacephalon|Choice Scarf|[from] move: Knock Off|[of] p1a: Audino
+|faint|p2a: Blacephalon
+|
+|-heal|p1a: Audino|55/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641842222
+|switch|p2a: Dragapult|Dragapult, M|58/100 tox
+|-damage|p2a: Dragapult|46/100 tox|[from] Stealth Rock
+|turn|29
+|
+|t:|1641842226
+|move|p1a: Audino|Protect|p1a: Audino
+|-singleturn|p1a: Audino|Protect
+|move|p2a: Dragapult|Draco Meteor|p1a: Audino
+|-activate|p1a: Audino|move: Protect
+|
+|-heal|p1a: Audino|61/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|40/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641842235
+|switch|p1a: Weezing|Weezing, M|41/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Dragapult|Draco Meteor|p1a: Weezing
+|-crit|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|-damage|p2a: Dragapult|28/100 tox|[from] psn
+|upkeep
+|
+|t:|1641842246
+|switch|p1a: Audino|Audino, F|94/100
+|turn|31
+|
+|t:|1641842250
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|-heal|p1a: Audino|100/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641842257
+|switch|p1a: Lurantis|Lurantis, M|10/100
+|move|p2a: Toxapex|Baneful Bunker||[still]
+|-fail|p2a: Toxapex
+|
+|-heal|p1a: Lurantis|69/100|[from] move: Wish|[wisher] Audino
+|-heal|p1a: Lurantis|75/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641842268
+|switch|p1a: Audino|Audino, F|100/100
+|move|p2a: Toxapex|Knock Off|p1a: Audino
+|-damage|p1a: Audino|87/100
+|-enditem|p1a: Audino|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|34
+|
+|t:|1641842274
+|move|p1a: Audino|Heal Bell|p1a: Audino
+|-activate|p1a: Audino|move: Heal Bell
+|-curestatus|p1: Corsola|tox|[msg]
+|move|p2a: Toxapex|Scald|p1a: Audino
+|-damage|p1a: Audino|77/100
+|
+|upkeep
+|turn|35
+|
+|t:|1641842281
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Audino|Knock Off|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|-status|p1a: Audino|psn
+|
+|-damage|p1a: Audino|64/100 psn|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641842292
+|move|p1a: Audino|Wish|p1a: Audino
+|move|p2a: Toxapex|Scald|p1a: Audino
+|-damage|p1a: Audino|54/100 psn
+|
+|-damage|p1a: Audino|41/100 psn|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641842299
+|move|p1a: Audino|Heal Bell|p1a: Audino
+|-activate|p1a: Audino|move: Heal Bell
+|-curestatus|p1a: Audino|psn|[msg]
+|move|p2a: Toxapex|Scald|p1a: Audino
+|-damage|p1a: Audino|32/100
+|
+|-heal|p1a: Audino|82/100|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|38
+|
+|t:|1641842311
+|move|p1a: Audino|Wish|p1a: Audino
+|move|p2a: Toxapex|Scald|p1a: Audino
+|-damage|p1a: Audino|72/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641842315
+|switch|p1a: Lurantis|Lurantis, M|75/100
+|move|p2a: Toxapex|Scald|p1a: Lurantis
+|-resisted|p1a: Lurantis
+|-damage|p1a: Lurantis|66/100
+|
+|-heal|p1a: Lurantis|100/100|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|40
+|
+|t:|1641842324
+|move|p1a: Lurantis|Leaf Storm|p2a: Toxapex
+|-damage|p2a: Toxapex|58/100
+|-boost|p1a: Lurantis|spa|2
+|move|p2a: Toxapex|Scald|p1a: Lurantis
+|-resisted|p1a: Lurantis
+|-damage|p1a: Lurantis|93/100
+|-status|p1a: Lurantis|brn
+|
+|-heal|p1a: Lurantis|99/100 brn|[from] item: Leftovers
+|-damage|p1a: Lurantis|93/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1641842334
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Lurantis|Leaf Storm|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p1a: Lurantis|99/100 brn|[from] item: Leftovers
+|-damage|p1a: Lurantis|93/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1641842342
+|move|p1a: Lurantis|Leaf Storm|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|-boost|p1a: Lurantis|spa|2
+|faint|p2a: Toxapex
+|
+|-heal|p1a: Lurantis|99/100 brn|[from] item: Leftovers
+|-damage|p1a: Lurantis|93/100 brn|[from] brn
+|upkeep
+|
+|t:|1641842345
+|switch|p2a: Dragapult|Dragapult, M|28/100 tox
+|-damage|p2a: Dragapult|15/100 tox|[from] Stealth Rock
+|turn|43
+|
+|t:|1641842352
+|switch|p1a: Audino|Audino, F|100/100
+|move|p2a: Dragapult|Draco Meteor|p1a: Audino|[miss]
+|-miss|p2a: Dragapult|p1a: Audino
+|
+|-damage|p2a: Dragapult|9/100 tox|[from] psn
+|upkeep
+|turn|44
+|n|!frxstyyy|frxstyyy
+|
+|t:|1641842360
+|move|p2a: Dragapult|Draco Meteor|p1a: Audino
+|-damage|p1a: Audino|42/100
+|-unboost|p2a: Dragapult|spa|2
+|move|p1a: Audino|Wish|p1a: Audino
+|
+|-damage|p2a: Dragapult|0 fnt|[from] psn
+|faint|p2a: Dragapult
+|upkeep
+|-message|frxstyyy forfeited.
+|
+|win|xaviane
+|raw|xaviane's rating: 1198 &rarr; <strong>1225</strong><br />(+27 for winning)
+|raw|frxstyyy's rating: 1219 &rarr; <strong>1192</strong><br />(-27 for losing)
+|l|!frxstyyy
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

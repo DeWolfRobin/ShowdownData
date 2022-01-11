@@ -1,0 +1,547 @@
+|j|☆SL21CC Pichiu
+|j|☆SL21CC 东方不败
+|t:|1641736660
+|gametype|singles
+|player|p1|SL21CC Pichiu|elesa|1261
+|player|p2|SL21CC 东方不败|cheryl|1155
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Volcanion|
+|poke|p1|Melmetal|
+|poke|p1|Dragonite, M|
+|poke|p1|Seismitoad, M|
+|poke|p2|Ditto|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, M|
+|poke|p2|Aegislash, M|
+|poke|p2|Toxapex, F|
+|teampreview
+|
+|t:|1641736677
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|
+|t:|1641736692
+|move|p2a: Tornadus|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|89/100
+|-enditem|p1a: Melmetal|Assault Vest|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Melmetal|Double Iron Bash|p2a: Tornadus
+|-damage|p2a: Tornadus|65/100
+|-damage|p2a: Tornadus|29/100
+|-hitcount|p2a: Tornadus|2
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC 东方不败)
+|
+|t:|1641736705
+|move|p2a: Tornadus|U-turn|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|85/100
+|
+|t:|1641736707
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melmetal|atk|1
+|move|p1a: Melmetal|Thunder Punch|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|3
+|
+|t:|1641736710
+|move|p2a: Landorus|Stealth Rock|p1a: Melmetal
+|-sidestart|p1: SL21CC Pichiu|move: Stealth Rock
+|move|p1a: Melmetal|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|16/100
+|
+|-heal|p2a: Landorus|22/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641736714
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-damage|p1a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Landorus|U-turn|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|67/100
+|
+|t:|1641736717
+|switch|p2a: Tornadus|Tornadus-Therian, M|63/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641736720
+|switch|p1a: Melmetal|Melmetal|85/100
+|-damage|p1a: Melmetal|79/100|[from] Stealth Rock
+|move|p2a: Tornadus|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|72/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|j| Rame10
+|j| adreamew
+|
+|t:|1641736732
+|switch|p1a: Seismitoad|Seismitoad, M|100/100
+|-damage|p1a: Seismitoad|94/100|[from] Stealth Rock
+|move|p2a: Tornadus|U-turn|p1a: Seismitoad
+|-damage|p1a: Seismitoad|77/100
+|
+|t:|1641736737
+|switch|p2a: Ditto|Ditto|100/100|[from]move: U-turn
+|-transform|p2a: Ditto|p1a: Seismitoad|[from] ability: Imposter
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641736747
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Ditto|Weather Ball|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|84/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641736755
+|switch|p2a: Tornadus|Tornadus-Therian, M|96/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641736757
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Tornadus
+|-damage|p2a: Tornadus|66/100
+|-damage|p2a: Tornadus|31/100
+|-hitcount|p2a: Tornadus|2
+|move|p2a: Tornadus|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|76/100
+|
+|t:|1641736762
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641736765
+|switch|p1a: Melmetal|Melmetal|72/100
+|-damage|p1a: Melmetal|66/100|[from] Stealth Rock
+|move|p2a: Weavile|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|48/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641736771
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|90/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|78/100
+|-hitcount|p2a: Toxapex|2
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641736776
+|switch|p2a: Landorus|Landorus-Therian, M|22/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melmetal|atk|1
+|move|p1a: Melmetal|Double Iron Bash|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|1
+|
+|upkeep
+|
+|t:|1641736781
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|turn|13
+|
+|t:|1641736789
+|switch|p1a: Dragonite|Dragonite, M|76/100
+|move|p2a: Aegislash|Substitute|p2a: Aegislash
+|-start|p2a: Aegislash|Substitute
+|-damage|p2a: Aegislash|76/100
+|
+|-heal|p2a: Aegislash|82/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641736792
+|move|p1a: Dragonite|Earthquake|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-end|p2a: Aegislash|Substitute
+|move|p2a: Aegislash|Toxic|p1a: Dragonite
+|-status|p1a: Dragonite|tox
+|
+|-heal|p2a: Aegislash|88/100|[from] item: Leftovers
+|-damage|p1a: Dragonite|70/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641736800
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-heal|p2a: Aegislash|94/100|[from] item: Leftovers
+|-damage|p1a: Dragonite|58/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641736809
+|switch|p2a: Ditto|Ditto|100/100
+|-transform|p2a: Ditto|p1a: Dragonite|[from] ability: Imposter
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Ditto
+|-damage|p2a: Ditto|81/100
+|-damage|p2a: Ditto|46/100
+|-hitcount|p2a: Ditto|2
+|
+|-damage|p1a: Dragonite|39/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641736817
+|move|p2a: Ditto|Dual Wingbeat|p1a: Dragonite
+|-damage|p1a: Dragonite|5/100 tox
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-hitcount|p1: Dragonite|2
+|
+|upkeep
+|
+|t:|1641736822
+|switch|p1a: Melmetal|Melmetal|48/100
+|-damage|p1a: Melmetal|42/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641736829
+|switch|p2a: Aegislash|Aegislash, M|94/100
+|move|p1a: Melmetal|Thunder Punch|p2a: Aegislash
+|-damage|p2a: Aegislash|72/100
+|
+|-heal|p2a: Aegislash|78/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641736836
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Melmetal|Double Iron Bash|p2a: Aegislash
+|-activate|p2a: Aegislash|move: Protect
+|-unboost|p1a: Melmetal|atk|1
+|
+|-heal|p2a: Aegislash|84/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641736840
+|switch|p1a: Pelipper|Pelipper, F|67/100
+|-damage|p1a: Pelipper|42/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Aegislash|Substitute|p2a: Aegislash
+|-start|p2a: Aegislash|Substitute
+|-damage|p2a: Aegislash|59/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Aegislash|66/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641736843
+|move|p1a: Pelipper|Defog|p2a: Aegislash
+|-sideend|p1: SL21CC Pichiu|Stealth Rock|[from] move: Defog|[of] p1a: Pelipper
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Aegislash|72/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641736847
+|switch|p1a: Volcanion|Volcanion|100/100
+|turn|22
+|j| jingtianlangtaosha
+|
+|t:|1641736849
+|-formechange|p2a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Volcanion|Steam Eruption|p2a: Aegislash
+|-activate|p2a: Aegislash|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Aegislash|78/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641736855
+|move|p1a: Volcanion|Steam Eruption|p2a: Aegislash
+|-end|p2a: Aegislash|Substitute
+|move|p2a: Aegislash|Toxic|p1a: Volcanion
+|-status|p1a: Volcanion|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Aegislash|84/100|[from] item: Leftovers
+|-damage|p1a: Volcanion|95/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641736860
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Volcanion|Steam Eruption|p2a: Aegislash
+|-activate|p2a: Aegislash|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Aegislash|90/100|[from] item: Leftovers
+|-damage|p1a: Volcanion|83/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641736862
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Volcanion|Steam Eruption|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|47/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|65/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641736866
+|switch|p2a: Ditto|Ditto|46/100
+|-transform|p2a: Ditto|p1a: Volcanion|[from] ability: Imposter
+|move|p1a: Volcanion|Steam Eruption|p2a: Ditto
+|-heal|p2a: Ditto|70/100|[from] ability: Water Absorb|[of] p1a: Volcanion
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|41/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641736876
+|switch|p1a: Melmetal|Melmetal|42/100
+|move|p2a: Ditto|Earth Power|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|-weather|none
+|upkeep
+|
+|t:|1641736880
+|switch|p1a: Seismitoad|Seismitoad, M|77/100
+|turn|28
+|
+|t:|1641736886
+|switch|p2a: Tornadus|Tornadus-Therian, M|65/100
+|move|p1a: Seismitoad|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: SL21CC 东方不败|move: Stealth Rock
+|
+|upkeep
+|turn|29
+|
+|t:|1641736891
+|switch|p1a: Volcanion|Volcanion|41/100 tox
+|move|p2a: Tornadus|Defog|p1a: Volcanion
+|-unboost|p1a: Volcanion|evasion|1
+|-sideend|p2: SL21CC 东方不败|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|
+|-damage|p1a: Volcanion|35/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641736895
+|move|p2a: Tornadus|U-turn|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|27/100 tox
+|
+|t:|1641736899
+|switch|p2a: Toxapex|Toxapex, F|80/100|[from]move: U-turn
+|move|p1a: Volcanion|Flamethrower|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|56/100
+|-status|p2a: Toxapex|brn
+|
+|-damage|p1a: Volcanion|15/100 tox|[from] psn
+|-damage|p2a: Toxapex|50/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641736903
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|99/100 brn
+|
+|-damage|p2a: Toxapex|93/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641736907
+|move|p1a: Barraskewda|Psychic Fangs|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|29/100 brn
+|move|p2a: Toxapex|Knock Off|p1a: Barraskewda
+|-damage|p1a: Barraskewda|86/100
+|-enditem|p1a: Barraskewda|Choice Band|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-damage|p2a: Toxapex|23/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1641736912
+|switch|p2a: Tornadus|Tornadus-Therian, M|98/100
+|move|p1a: Barraskewda|Liquidation|p2a: Tornadus
+|-damage|p2a: Tornadus|46/100
+|-unboost|p2a: Tornadus|def|1
+|
+|upkeep
+|turn|34
+|
+|t:|1641736919
+|switch|p2a: Aegislash|Aegislash, M|90/100
+|move|p1a: Barraskewda|Liquidation|p2a: Aegislash
+|-damage|p2a: Aegislash|52/100
+|
+|-heal|p2a: Aegislash|58/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641736926
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Barraskewda|Flip Turn|p2a: Aegislash
+|-activate|p2a: Aegislash|move: Protect
+|-unboost|p1a: Barraskewda|atk|1
+|
+|-heal|p2a: Aegislash|64/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641736929
+|move|p1a: Barraskewda|Flip Turn|p2a: Aegislash
+|-damage|p2a: Aegislash|45/100
+|
+|t:|1641736931
+|switch|p1a: Volcanion|Volcanion|15/100 tox|[from]move: Flip Turn
+|move|p2a: Aegislash|Substitute|p2a: Aegislash
+|-start|p2a: Aegislash|Substitute
+|-damage|p2a: Aegislash|21/100
+|
+|-heal|p2a: Aegislash|27/100|[from] item: Leftovers
+|-damage|p1a: Volcanion|9/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641736934
+|switch|p1a: Seismitoad|Seismitoad, M|77/100
+|move|p2a: Aegislash|King's Shield||[still]
+|-fail|p2a: Aegislash
+|
+|-heal|p2a: Aegislash|33/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641736941
+|move|p1a: Seismitoad|Earth Power|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-end|p2a: Aegislash|Substitute
+|-damage|p1a: Seismitoad|67/100|[from] item: Life Orb
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Seismitoad
+|-damage|p1a: Seismitoad|20/100
+|
+|-heal|p2a: Aegislash|39/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641736950
+|switch|p2a: Tornadus|Tornadus-Therian, M|80/100
+|move|p1a: Seismitoad|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: SL21CC 东方不败|move: Stealth Rock
+|
+|upkeep
+|turn|40
+|
+|t:|1641736955
+|switch|p1a: Barraskewda|Barraskewda, F|86/100
+|move|p2a: Tornadus|Defog|p1a: Barraskewda
+|-unboost|p1a: Barraskewda|evasion|1
+|-sideend|p2: SL21CC 东方不败|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|
+|upkeep
+|turn|41
+|
+|t:|1641736958
+|move|p1a: Barraskewda|Liquidation|p2a: Tornadus
+|-damage|p2a: Tornadus|32/100
+|move|p2a: Tornadus|U-turn|p1a: Barraskewda
+|-damage|p1a: Barraskewda|59/100
+|
+|t:|1641736962
+|switch|p2a: Ditto|Ditto|70/100|[from]move: U-turn
+|-transform|p2a: Ditto|p1a: Barraskewda|[from] ability: Imposter
+|
+|upkeep
+|turn|42
+|
+|t:|1641736972
+|move|p2a: Ditto|Close Combat|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|-unboost|p2a: Ditto|def|1
+|-unboost|p2a: Ditto|spd|1
+|faint|p1a: Barraskewda
+|
+|upkeep
+|-message|SL21CC Pichiu forfeited.
+|
+|win|SL21CC 东方不败
+|raw|SL21CC Pichiu's rating: 1261 &rarr; <strong>1241</strong><br />(-20 for losing)
+|raw|SL21CC 东方不败's rating: 1155 &rarr; <strong>1193</strong><br />(+38 for winning)
+|l|☆SL21CC Pichiu
+|l|☆SL21CC 东方不败
+|j| SL21CC Mcdonald's
+|l| jingtianlangtaosha
+|j|♚aro nova
+|l|♚aro nova
+|l| SL21CC Mcdonald's

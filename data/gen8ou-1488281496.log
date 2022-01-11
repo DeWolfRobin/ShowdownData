@@ -1,0 +1,113 @@
+|j|☆imantipoetic
+|j|☆Rallpalacios12
+|t:|1641745657
+|gametype|singles
+|player|p1|imantipoetic|volkner|1381
+|player|p2|Rallpalacios12|169|1325
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Chansey, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Skarmory, M|
+|poke|p2|Nidoking, M|
+|poke|p2|Salamence, M|
+|poke|p2|Heatran, F|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|poke|p2|Lycanroc-Dusk, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rallpalacios12)
+|inactive|imantipoetic also wants the timer to be on.
+|
+|t:|1641745672
+|start
+|switch|p1a: Skarmory|Skarmory, M, shiny|100/100
+|switch|p2a: ugly|Heatran, F|100/100
+|-item|p2a: ugly|Air Balloon
+|turn|1
+|
+|t:|1641745682
+|switch|p1a: Chansey|Chansey, F, shiny|100/100
+|move|p2a: ugly|Eruption|p1a: Chansey
+|-damage|p1a: Chansey|76/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641745689
+|move|p2a: ugly|Stealth Rock|p1a: Chansey
+|-sidestart|p1: imantipoetic|move: Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: ugly
+|-damage|p2a: ugly|71/100
+|-enditem|p2a: ugly|Air Balloon
+|
+|upkeep
+|turn|3
+|
+|t:|1641745694
+|switch|p2a: beak|Zapdos|100/100
+|move|p1a: Chansey|Seismic Toss|p2a: beak
+|-damage|p2a: beak|74/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641745698
+|move|p2a: beak|Discharge|p1a: Chansey
+|-damage|p1a: Chansey|65/100
+|move|p1a: Chansey|Toxic|p2a: beak
+|-status|p2a: beak|tox
+|
+|-damage|p2a: beak|68/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641745703
+|move|p2a: beak|Discharge|p1a: Chansey
+|-damage|p1a: Chansey|53/100
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|-damage|p2a: beak|56/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641745706
+|switch|p2a: kite|Kartana|100/100
+|move|p1a: Chansey|Seismic Toss|p2a: kite
+|-damage|p2a: kite|62/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641745710
+|switch|p1a: Skarmory|Skarmory, M, shiny|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|move|p2a: kite|Leaf Blade|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|77/100
+|-damage|p2a: kite|45/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-damage|p2a: kite|36/100|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|-message|Rallpalacios12 forfeited.
+|
+|win|imantipoetic
+|raw|imantipoetic's rating: 1381 &rarr; <strong>1398</strong><br />(+17 for winning)
+|raw|Rallpalacios12's rating: 1325 &rarr; <strong>1308</strong><br />(-17 for losing)
+|l|☆Rallpalacios12

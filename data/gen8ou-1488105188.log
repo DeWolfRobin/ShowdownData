@@ -1,0 +1,545 @@
+|j|☆cattoungue2681
+|j|☆86thesweetpotato
+|t:|1641712487
+|gametype|singles
+|player|p1|cattoungue2681|hilbert|1263
+|player|p2|86thesweetpotato|1|1322
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Salamence, M|
+|poke|p1|Nidoking, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Heatran, F|
+|poke|p2|Reuniclus, M|
+|poke|p2|Bronzong|
+|poke|p2|Comfey, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Runerigus, M|
+|teampreview
+|
+|t:|1641712500
+|start
+|switch|p1a: Heatran|Heatran, F|100/100
+|switch|p2a: Toxaflex|Toxapex, M, shiny|100/100
+|turn|1
+|
+|t:|1641712503
+|move|p1a: Heatran|Taunt|p2a: Toxaflex
+|-start|p2a: Toxaflex|move: Taunt
+|move|p2a: Toxaflex|Liquidation|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|21/100
+|
+|-heal|p1a: Heatran|27/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641712515
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Toxaflex|Liquidation|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|40/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641712522
+|switch|p2a: the GOOD China|Runerigus, M|100/100
+|move|p1a: Tapu Koko|Thunderbolt|p2a: the GOOD China
+|-immune|p2a: the GOOD China
+|
+|upkeep
+|turn|4
+|
+|t:|1641712526
+|move|p1a: Tapu Koko|U-turn|p2a: the GOOD China
+|-resisted|p2a: the GOOD China
+|-damage|p2a: the GOOD China|96/100
+|-activate|p2a: the GOOD China|ability: Wandering Spirit|Electric Surge|Wandering Spirit|[of] p1a: Tapu Koko
+|
+|t:|1641712534
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from]move: U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: the GOOD China|Trick Room|p2a: the GOOD China
+|-fieldstart|move: Trick Room|[of] p2a: the GOOD China
+|
+|-heal|p2a: the GOOD China|100/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641712542
+|move|p1a: Rillaboom|Grassy Glide|p2a: the GOOD China
+|-supereffective|p2a: the GOOD China
+|-damage|p2a: the GOOD China|27/100
+|-enditem|p2a: the GOOD China|Weakness Policy
+|-boost|p2a: the GOOD China|atk|2|[from] item: Weakness Policy
+|-boost|p2a: the GOOD China|spa|2|[from] item: Weakness Policy
+|-damage|p1a: Rillaboom|91/100|[from] item: Life Orb
+|move|p2a: the GOOD China|Poltergeist|p1a: Rillaboom|[miss]
+|-miss|p2a: the GOOD China|p1a: Rillaboom
+|
+|-heal|p2a: the GOOD China|34/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|97/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641712550
+|move|p1a: Rillaboom|Grassy Glide|p2a: the GOOD China
+|-supereffective|p2a: the GOOD China
+|-damage|p2a: the GOOD China|0 fnt
+|faint|p2a: the GOOD China
+|-damage|p1a: Rillaboom|87/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641712570
+|switch|p2a: Crunchwrap|Bronzong|100/100
+|turn|7
+|
+|t:|1641712601
+|move|p2a: Crunchwrap|Gyro Ball|p1a: Rillaboom
+|-damage|p1a: Rillaboom|42/100
+|move|p1a: Rillaboom|Knock Off|p2a: Crunchwrap
+|-supereffective|p2a: Crunchwrap
+|-enditem|p2a: Crunchwrap|Colbur Berry|[eat]
+|-enditem|p2a: Crunchwrap|Colbur Berry|[weaken]
+|-damage|p2a: Crunchwrap|48/100
+|-damage|p1a: Rillaboom|32/100|[from] item: Life Orb
+|
+|-heal|p2a: Crunchwrap|55/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|39/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641712621
+|switch|p1a: Heatran|Heatran, F|27/100
+|move|p2a: Crunchwrap|Stealth Rock|p1a: Heatran
+|-sidestart|p1: cattoungue2681|move: Stealth Rock
+|
+|-heal|p2a: Crunchwrap|61/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|33/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|39/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1641712629
+|move|p1a: Heatran|Magma Storm|p2a: Crunchwrap
+|-supereffective|p2a: Crunchwrap
+|-damage|p2a: Crunchwrap|13/100
+|-activate|p2a: Crunchwrap|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Crunchwrap|Trick Room|p2a: Crunchwrap
+|-fieldstart|move: Trick Room|[of] p2a: Crunchwrap
+|
+|-heal|p1a: Heatran|46/100|[from] item: Leftovers
+|-damage|p2a: Crunchwrap|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p2a: Crunchwrap
+|upkeep
+|
+|t:|1641712648
+|switch|p2a: Toxaflex|Toxapex, M, shiny|100/100
+|turn|10
+|
+|t:|1641712657
+|switch|p1a: Rillaboom|Rillaboom, M|39/100
+|-damage|p1a: Rillaboom|26/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Toxaflex|Liquidation|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|3/100
+|
+|-heal|p1a: Rillaboom|10/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641712661
+|move|p1a: Rillaboom|Grassy Glide|p2a: Toxaflex
+|-damage|p2a: Toxaflex|37/100
+|-damage|p1a: Rillaboom|0 fnt|[from] item: Life Orb
+|faint|p1a: Rillaboom
+|move|p2a: Toxaflex|Liquidation|p1: Rillaboom|[notarget]
+|-fail|p2a: Toxaflex
+|
+|-heal|p2a: Toxaflex|43/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641712673
+|switch|p1a: Salamence|Salamence, M|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Toxaflex|atk|1
+|turn|12
+|
+|t:|1641712681
+|switch|p2a: Slay|Comfey, F, shiny|100/100
+|move|p1a: Salamence|Draco Meteor|p2a: Slay
+|-immune|p2a: Slay
+|
+|upkeep
+|turn|13
+|
+|t:|1641712686
+|switch|p1a: Heatran|Heatran, F|46/100
+|-damage|p1a: Heatran|33/100|[from] Stealth Rock
+|move|p2a: Slay|Calm Mind|p2a: Slay
+|-boost|p2a: Slay|spa|1
+|-boost|p2a: Slay|spd|1
+|
+|-heal|p1a: Heatran|39/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|46/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|14
+|
+|t:|1641712692
+|move|p1a: Heatran|Flash Cannon|p2a: Slay
+|-supereffective|p2a: Slay
+|-damage|p2a: Slay|39/100
+|move|p2a: Slay|Calm Mind|p2a: Slay
+|-boost|p2a: Slay|spa|1
+|-boost|p2a: Slay|spd|1
+|
+|-heal|p1a: Heatran|52/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|58/100|[from] item: Leftovers
+|-heal|p2a: Slay|45/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641712698
+|move|p2a: Slay|Draining Kiss|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|49/100
+|-heal|p2a: Slay|59/100|[from] drain|[of] p1a: Heatran
+|move|p1a: Heatran|Magma Storm|p2a: Slay
+|-damage|p2a: Slay|26/100
+|-activate|p2a: Slay|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|55/100|[from] item: Leftovers
+|-damage|p2a: Slay|13/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1641712706
+|move|p2a: Slay|Draining Kiss|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|47/100
+|-heal|p2a: Slay|26/100|[from] drain|[of] p1a: Heatran
+|move|p1a: Heatran|Flash Cannon|p2a: Slay
+|-supereffective|p2a: Slay
+|-damage|p2a: Slay|0 fnt
+|faint|p2a: Slay
+|
+|-heal|p1a: Heatran|54/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641712716
+|switch|p2a: Toxaflex|Toxapex, M, shiny|76/100
+|turn|17
+|
+|t:|1641712719
+|move|p1a: Heatran|Earth Power|p2a: Toxaflex
+|-supereffective|p2a: Toxaflex
+|-damage|p2a: Toxaflex|22/100
+|move|p2a: Toxaflex|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|22/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Toxaflex
+|
+|upkeep
+|turn|18
+|
+|t:|1641712726
+|switch|p2a: Sacred|Volcarona, M|100/100
+|move|p1a: Heatran|Earth Power|p2a: Sacred
+|-damage|p2a: Sacred|68/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641712735
+|move|p2a: Sacred|Roost|p2a: Sacred
+|-heal|p2a: Sacred|100/100
+|-singleturn|p2a: Sacred|move: Roost
+|move|p1a: Heatran|Magma Storm|p2a: Sacred|[miss]
+|-miss|p1a: Heatran|p2a: Sacred
+|
+|upkeep
+|turn|20
+|
+|t:|1641712739
+|move|p2a: Sacred|Quiver Dance|p2a: Sacred
+|-boost|p2a: Sacred|spa|1
+|-boost|p2a: Sacred|spd|1
+|-boost|p2a: Sacred|spe|1
+|move|p1a: Heatran|Magma Storm|p2a: Sacred
+|-damage|p2a: Sacred|67/100
+|-activate|p2a: Sacred|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Sacred|54/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|21
+|
+|t:|1641712744
+|move|p2a: Sacred|Quiver Dance|p2a: Sacred
+|-boost|p2a: Sacred|spa|1
+|-boost|p2a: Sacred|spd|1
+|-boost|p2a: Sacred|spe|1
+|move|p1a: Heatran|Taunt|p2a: Sacred
+|-start|p2a: Sacred|move: Taunt
+|
+|-damage|p2a: Sacred|42/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|22
+|
+|t:|1641712748
+|move|p2a: Sacred|Bug Buzz|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|1/100
+|move|p1a: Heatran|Magma Storm|p2a: Sacred
+|-crit|p2a: Sacred
+|-damage|p2a: Sacred|0 fnt
+|faint|p2a: Sacred
+|
+|upkeep
+|
+|t:|1641712782
+|switch|p2a: Toxaflex|Toxapex, M, shiny|55/100
+|turn|23
+|
+|t:|1641712801
+|move|p1a: Heatran|Earth Power|p2a: Toxaflex
+|-supereffective|p2a: Toxaflex
+|-damage|p2a: Toxaflex|0 fnt
+|faint|p2a: Toxaflex
+|
+|upkeep
+|
+|t:|1641712804
+|switch|p2a: Plasma|Reuniclus, M, shiny|100/100
+|turn|24
+|
+|t:|1641712810
+|move|p1a: Heatran|Taunt|p2a: Plasma
+|-start|p2a: Plasma|move: Taunt
+|cant|p2a: Plasma|move: Taunt|Calm Mind
+|
+|upkeep
+|turn|25
+|
+|t:|1641712824
+|move|p1a: Heatran|Magma Storm|p2a: Plasma
+|-damage|p2a: Plasma|61/100
+|-activate|p2a: Plasma|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Plasma|Stored Power|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-end|p2a: Plasma|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641712831
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641712834
+|move|p1a: Dragapult|Substitute|p1a: Dragapult
+|-start|p1a: Dragapult|Substitute
+|-damage|p1a: Dragapult|63/100
+|move|p2a: Plasma|Stored Power|p1a: Dragapult
+|-activate|p1a: Dragapult|move: Substitute|[damage]
+|
+|-heal|p1a: Dragapult|69/100|[from] item: Leftovers
+|-end|p2a: Plasma|move: Taunt
+|upkeep
+|turn|27
+|
+|t:|1641712841
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Plasma|Recover|p2a: Plasma
+|-heal|p2a: Plasma|100/100
+|
+|-heal|p1a: Dragapult|75/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641712845
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Plasma|Stored Power|p1a: Dragapult
+|-activate|p1a: Dragapult|move: Substitute|[damage]
+|
+|-heal|p1a: Dragapult|81/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641712850
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Plasma|Acid Armor|p2a: Plasma
+|-boost|p2a: Plasma|def|2
+|
+|-heal|p1a: Dragapult|87/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641712854
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Plasma|Acid Armor|p2a: Plasma
+|-boost|p2a: Plasma|def|2
+|
+|-heal|p1a: Dragapult|93/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641712858
+|move|p1a: Dragapult|Phantom Force|p2a: Plasma|[from]lockedmove
+|-supereffective|p2a: Plasma
+|-damage|p2a: Plasma|49/100
+|-enditem|p2a: Plasma|Weakness Policy
+|-boost|p2a: Plasma|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Plasma|spa|2|[from] item: Weakness Policy
+|move|p2a: Plasma|Recover|p2a: Plasma
+|-heal|p2a: Plasma|99/100
+|
+|-heal|p1a: Dragapult|99/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641712868
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Plasma|Acid Armor|p2a: Plasma
+|-boost|p2a: Plasma|def|2
+|
+|-heal|p1a: Dragapult|100/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641712872
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|upkeep
+|turn|34
+|
+|t:|1641712877
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Plasma|Stored Power|p1a: Dragapult
+|-end|p1a: Dragapult|Substitute
+|
+|upkeep
+|turn|35
+|
+|t:|1641712884
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|upkeep
+|turn|36
+|
+|t:|1641712888
+|move|p1a: Dragapult|Phantom Force|p2a: Plasma|[from]lockedmove
+|-supereffective|p2a: Plasma
+|-damage|p2a: Plasma|30/100
+|move|p2a: Plasma|Stored Power|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641712897
+|switch|p1a: Tapu Koko|Tapu Koko|40/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|37
+|
+|t:|1641712903
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Plasma
+|-damage|p2a: Plasma|9/100
+|move|p2a: Plasma|Recover|p2a: Plasma
+|-heal|p2a: Plasma|59/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641712908
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Plasma
+|-damage|p2a: Plasma|40/100
+|move|p2a: Plasma|Recover|p2a: Plasma
+|-heal|p2a: Plasma|90/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641712913
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Plasma
+|-damage|p2a: Plasma|69/100
+|move|p2a: Plasma|Stored Power|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641712918
+|switch|p1a: Nidoking|Nidoking, M, shiny|100/100
+|-damage|p1a: Nidoking|95/100|[from] Stealth Rock
+|turn|40
+|
+|t:|1641712920
+|move|p1a: Nidoking|Sludge Wave|p2a: Plasma
+|-damage|p2a: Plasma|41/100
+|move|p2a: Plasma|Recover|p2a: Plasma
+|-heal|p2a: Plasma|91/100
+|
+|upkeep
+|turn|41
+|
+|t:|1641712925
+|move|p1a: Nidoking|Sludge Wave|p2a: Plasma
+|-damage|p2a: Plasma|64/100
+|move|p2a: Plasma|Stored Power|p1a: Nidoking
+|-supereffective|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|faint|p1a: Nidoking
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|c|☆86thesweetpotato|damn
+|c|☆86thesweetpotato|gg
+|-message|cattoungue2681 forfeited.
+|
+|win|86thesweetpotato
+|raw|cattoungue2681's rating: 1263 &rarr; <strong>1242</strong><br />(-21 for losing)
+|raw|86thesweetpotato's rating: 1322 &rarr; <strong>1339</strong><br />(+17 for winning)
+|l|☆cattoungue2681

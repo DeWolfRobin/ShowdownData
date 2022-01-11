@@ -1,0 +1,237 @@
+|j|☆amino lean baby
+|j|☆GoldenTTRex1
+|t:|1641863585
+|gametype|singles
+|player|p1|amino lean baby|101|1422
+|player|p2|GoldenTTRex1|hilbert-wonderlauncher|1473
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Nidoking, M|
+|poke|p1|Blacephalon|
+|poke|p1|Buzzwole|
+|poke|p1|Melmetal|
+|poke|p1|Heatran, M|
+|poke|p1|Dragonite, M|
+|poke|p2|Hawlucha, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Seismitoad, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Kingdra, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GoldenTTRex1)
+|
+|t:|1641863591
+|start
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|1
+|
+|t:|1641863615
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Nidoking|Sludge Wave|p2a: Pelipper
+|-damage|p2a: Pelipper|32/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641863623
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Nidoking|Sludge Wave|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641863637
+|move|p1a: Nidoking|Flamethrower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|31/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Nidoking
+|-sidestart|p1: amino lean baby|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|37/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641863647
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Nidoking|Flamethrower|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|44/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641863661
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p1a: Nidoking|Sludge Wave|p2a: Hawlucha
+|-damage|p2a: Hawlucha|1/100
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|inactive|amino lean baby has 120 seconds left.
+|inactive|amino lean baby has 90 seconds left.
+|
+|t:|1641863738
+|move|p2a: Hawlucha|Drain Punch|p1a: Nidoking
+|-resisted|p1a: Nidoking
+|-damage|p1a: Nidoking|75/100
+|-heal|p2a: Hawlucha|13/100|[from] drain|[of] p1a: Nidoking
+|move|p1a: Nidoking|Thunderbolt|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641863744
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|turn|7
+|
+|t:|1641863761
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|move|p2a: Seismitoad|Weather Ball|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|35/100
+|-damage|p2a: Seismitoad|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|inactive|amino lean baby has 60 seconds left.
+|
+|t:|1641863788
+|move|p2a: Seismitoad|Weather Ball|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: Seismitoad|81/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|inactive|amino lean baby has 60 seconds left.
+|
+|t:|1641863809
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641863813
+|switch|p2a: Pelipper|Pelipper, F|32/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Blacephalon|Shadow Ball|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641863815
+|switch|p2a: Kingdra|Kingdra, M|100/100
+|turn|10
+|inactive|amino lean baby has 60 seconds left.
+|
+|t:|1641863837
+|move|p2a: Kingdra|Surf|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641863842
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641863863
+|move|p2a: Kingdra|Surf|p1a: Melmetal
+|-damage|p1a: Melmetal|40/100
+|move|p1a: Melmetal|Earthquake|p2a: Kingdra
+|-damage|p2a: Kingdra|57/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|inactive|amino lean baby has 60 seconds left.
+|
+|t:|1641863870
+|move|p2a: Kingdra|Surf|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|amino lean baby has 60 seconds left.
+|
+|t:|1641863878
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|turn|13
+|inactive|amino lean baby has 60 seconds left.
+|
+|t:|1641863889
+|move|p2a: Kingdra|Surf|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|amino lean baby has 60 seconds left.
+|
+|t:|1641863894
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|-damage|p1a: Buzzwole|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641863898
+|move|p2a: Kingdra|Surf|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641863903
+|switch|p1a: Nidoking|Nidoking, M|75/100
+|-damage|p1a: Nidoking|69/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641863909
+|move|p2a: Kingdra|Surf|p1a: Nidoking
+|-supereffective|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|faint|p1a: Nidoking
+|
+|win|GoldenTTRex1
+|raw|amino lean baby's rating: 1422 &rarr; <strong>1405</strong><br />(-17 for losing)
+|raw|GoldenTTRex1's rating: 1473 &rarr; <strong>1490</strong><br />(+17 for winning)

@@ -1,0 +1,517 @@
+|j|☆illegalamigo1
+|j|‽DBgaming
+|t:|1641726626
+|gametype|singles
+|player|p1|illegalamigo1|swimmer-gen4|1129
+|player|p2|DBgaming|benga|1255
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales, M|
+|poke|p1|Diggersby, M|
+|poke|p1|Venusaur, F|
+|poke|p1|Slowbro-Galar, M|
+|poke|p1|Zapdos|
+|poke|p1|Mienshao, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Milotic, M|
+|poke|p2|Weavile, F|
+|poke|p2|Corsola-Galar, M|
+|poke|p2|Dracozolt|
+|poke|p2|Skarmory, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DBgaming)
+|
+|t:|1641726638
+|start
+|switch|p1a: Feta|Ninetales, M|100/100
+|switch|p2a: Weavile|Weavile, F, shiny|100/100
+|-ability|p2a: Weavile|Pressure
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Feta
+|turn|1
+|
+|t:|1641726652
+|move|p2a: Weavile|Fake Out|p1a: Feta
+|-damage|p1a: Feta|79/100
+|cant|p1a: Feta|flinch
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641726665
+|move|p2a: Weavile|Taunt|p1a: Feta
+|-start|p1a: Feta|move: Taunt
+|cant|p1a: Feta|move: Taunt|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641726671
+|move|p2a: Weavile|Knock Off|p1a: Feta
+|-damage|p1a: Feta|7/100
+|-enditem|p1a: Feta|Heat Rock|[from] move: Knock Off|[of] p2a: Weavile
+|move|p1a: Feta|Flamethrower|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-enditem|p2a: Weavile|Focus Sash
+|-damage|p2a: Weavile|1/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641726687
+|move|p2a: Weavile|Ice Shard|p1a: Feta
+|-resisted|p1a: Feta
+|-damage|p1a: Feta|0 fnt
+|faint|p1a: Feta
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641726701
+|switch|p1a: Mienshao|Mienshao, M|100/100
+|turn|5
+|
+|t:|1641726723
+|switch|p2a: Corsola|Corsola-Galar, M|100/100
+|move|p1a: Mienshao|Fake Out|p2a: Corsola
+|-immune|p2a: Corsola
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641726731
+|move|p1a: Mienshao|Knock Off|p2a: Corsola
+|-supereffective|p2a: Corsola
+|-crit|p2a: Corsola
+|-damage|p2a: Corsola|46/100
+|-start|p1a: Mienshao|Disable|Knock Off|[from] ability: Cursed Body|[of] p2a: Corsola
+|-enditem|p2a: Corsola|Eviolite|[from] move: Knock Off|[of] p1a: Mienshao
+|move|p2a: Corsola|Will-O-Wisp|p1a: Mienshao
+|-status|p1a: Mienshao|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Mienshao|94/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641726744
+|move|p1a: Mienshao|U-turn|p2a: Corsola
+|-resisted|p2a: Corsola
+|-damage|p2a: Corsola|41/100
+|
+|t:|1641726754
+|switch|p1a: Diggersby|Diggersby, M|100/100|[from]move: U-turn
+|move|p2a: Corsola|Strength Sap|p1a: Diggersby
+|-unboost|p1a: Diggersby|atk|1
+|-heal|p2a: Corsola|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641726763
+|switch|p1a: Mienshao|Mienshao, M|100/100 brn
+|move|p2a: Corsola|Will-O-Wisp|p1a: Mienshao
+|-fail|p1a: Mienshao|brn
+|
+|-weather|none
+|-damage|p1a: Mienshao|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641726772
+|move|p1a: Mienshao|Knock Off|p2a: Corsola
+|-supereffective|p2a: Corsola
+|-damage|p2a: Corsola|83/100
+|-start|p1a: Mienshao|Disable|Knock Off|[from] ability: Cursed Body|[of] p2a: Corsola
+|move|p2a: Corsola|Strength Sap|p1a: Mienshao
+|-unboost|p1a: Mienshao|atk|1
+|-heal|p2a: Corsola|100/100
+|
+|-damage|p1a: Mienshao|88/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641726782
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Corsola|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: illegalamigo1|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1641726789
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|76/100
+|move|p2a: Corsola|Will-O-Wisp||[still]
+|-fail|p2a: Corsola
+|
+|-heal|p1a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641726797
+|move|p1a: Zapdos|Toxic|p2a: Corsola
+|-status|p2a: Corsola|tox
+|move|p2a: Corsola|Night Shade|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-heal|p1a: Zapdos|88/100|[from] item: Leftovers
+|-damage|p2a: Corsola|94/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641726822
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|63/100
+|
+|-heal|p1a: Zapdos|69/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|DBgaming has 120 seconds left.
+|
+|t:|1641726850
+|move|p1a: Zapdos|Thunderbolt|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|30/100
+|-enditem|p2a: Skarmory|Maranga Berry|[eat]
+|-boost|p2a: Skarmory|spd|1|[from] item: Maranga Berry
+|move|p2a: Skarmory|Whirlwind|p1a: Zapdos
+|drag|p1a: Venusaur|Venusaur, F|100/100
+|-damage|p1a: Venusaur|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1641726861
+|move|p1a: Venusaur|Leech Seed|p2a: Skarmory
+|-start|p2a: Skarmory|move: Leech Seed
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|80/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-damage|p2a: Skarmory|68/100|[from] Leech Seed|[of] p1a: Venusaur
+|-heal|p1a: Venusaur|100/100|[silent]
+|upkeep
+|turn|16
+|inactive|DBgaming has 120 seconds left.
+|
+|t:|1641726869
+|move|p1a: Venusaur|Giga Drain|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|63/100
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|100/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-damage|p2a: Skarmory|88/100|[from] Leech Seed|[of] p1a: Venusaur
+|upkeep
+|turn|17
+|inactive|DBgaming has 120 seconds left.
+|
+|t:|1641726886
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Venusaur|Weather Ball|p2a: Hatterene
+|-damage|p2a: Hatterene|84/100
+|
+|upkeep
+|turn|18
+|inactive|DBgaming has 120 seconds left.
+|
+|t:|1641726895
+|move|p1a: Venusaur|Sludge Bomb|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|inactive|DBgaming has 120 seconds left.
+|
+|t:|1641726903
+|switch|p2a: Milotic|Milotic, M|100/100
+|turn|19
+|
+|t:|1641726909
+|move|p1a: Venusaur|Giga Drain|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-damage|p2a: Milotic|54/100
+|move|p2a: Milotic|Icy Wind|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|72/100
+|-unboost|p1a: Venusaur|spe|1
+|
+|-status|p2a: Milotic|brn|[from] item: Flame Orb
+|upkeep
+|turn|20
+|
+|t:|1641726919
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|100/100 brn
+|move|p1a: Venusaur|Giga Drain|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-damage|p2a: Milotic|49/100 brn
+|-heal|p1a: Venusaur|100/100|[from] drain|[of] p2a: Milotic
+|
+|-damage|p2a: Milotic|43/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641726928
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|93/100 brn
+|move|p1a: Venusaur|Giga Drain|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-damage|p2a: Milotic|41/100 brn
+|
+|-damage|p2a: Milotic|35/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641726940
+|switch|p2a: Skarmory|Skarmory, M|88/100
+|move|p1a: Venusaur|Giga Drain|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|80/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641726948
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|move|p1a: Venusaur|Leech Seed|p2a: Skarmory
+|-start|p2a: Skarmory|move: Leech Seed
+|
+|-damage|p2a: Skarmory|68/100|[from] Leech Seed|[of] p1a: Venusaur
+|upkeep
+|turn|24
+|
+|t:|1641726962
+|switch|p1a: Zapdos|Zapdos|69/100
+|-damage|p1a: Zapdos|44/100|[from] Stealth Rock
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|-heal|p1a: Zapdos|50/100|[from] item: Leftovers
+|-damage|p2a: Skarmory|55/100|[from] Leech Seed|[of] p1a: Zapdos
+|-heal|p1a: Zapdos|62/100|[silent]
+|upkeep
+|turn|25
+|
+|t:|1641726972
+|switch|p2a: Dracozolt|Dracozolt, shiny|100/100
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|37/100
+|
+|-heal|p1a: Zapdos|43/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641726980
+|move|p2a: Dracozolt|Rock Tomb|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|move|p1a: Zapdos|Toxic|p2a: Dracozolt
+|-status|p2a: Dracozolt|tox
+|
+|-heal|p1a: Zapdos|49/100|[from] item: Leftovers
+|-damage|p2a: Dracozolt|94/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641726991
+|switch|p1a: Diggersby|Diggersby, M|100/100
+|-damage|p1a: Diggersby|94/100|[from] Stealth Rock
+|move|p2a: Dracozolt|Rock Tomb|p1a: Diggersby
+|-resisted|p1a: Diggersby
+|-damage|p1a: Diggersby|82/100
+|-unboost|p1a: Diggersby|spe|1
+|
+|-damage|p2a: Dracozolt|82/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641727006
+|switch|p2a: Corsola|Corsola-Galar, M|94/100 tox
+|move|p1a: Diggersby|Ice Punch|p2a: Corsola
+|-damage|p2a: Corsola|60/100 tox
+|-start|p1a: Diggersby|Disable|Ice Punch|[from] ability: Cursed Body|[of] p2a: Corsola
+|-damage|p1a: Diggersby|72/100|[from] item: Life Orb
+|
+|-damage|p2a: Corsola|54/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641727016
+|move|p1a: Diggersby|Earthquake|p2a: Corsola
+|-damage|p2a: Corsola|0 fnt
+|faint|p2a: Corsola
+|-damage|p1a: Diggersby|62/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641727024
+|switch|p2a: Milotic|Milotic, M|35/100 brn
+|turn|30
+|
+|t:|1641727027
+|move|p1a: Diggersby|Quick Attack|p2a: Milotic
+|-damage|p2a: Milotic|8/100 brn
+|-damage|p1a: Diggersby|52/100|[from] item: Life Orb
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|58/100 brn
+|
+|-damage|p2a: Milotic|52/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641727040
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|100/100 brn
+|move|p1a: Diggersby|Earthquake|p2a: Milotic
+|-damage|p2a: Milotic|44/100 brn
+|-damage|p1a: Diggersby|42/100|[from] item: Life Orb
+|
+|-damage|p2a: Milotic|38/100 brn|[from] brn
+|-end|p1a: Diggersby|Disable
+|upkeep
+|turn|32
+|
+|t:|1641727052
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|88/100 brn
+|move|p1a: Diggersby|U-turn|p2a: Milotic
+|-damage|p2a: Milotic|58/100 brn
+|-damage|p1a: Diggersby|32/100|[from] item: Life Orb
+|
+|t:|1641727057
+|switch|p1a: Venusaur|Venusaur, F|100/100|[from]move: U-turn
+|-damage|p1a: Venusaur|88/100|[from] Stealth Rock
+|
+|-damage|p2a: Milotic|52/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1641727072
+|switch|p2a: Dracozolt|Dracozolt, shiny|82/100 tox
+|move|p1a: Venusaur|Leech Seed|p2a: Dracozolt
+|-start|p2a: Dracozolt|move: Leech Seed
+|
+|-damage|p2a: Dracozolt|69/100 tox|[from] Leech Seed|[of] p1a: Venusaur
+|-heal|p1a: Venusaur|100/100|[silent]
+|-damage|p2a: Dracozolt|63/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641727086
+|switch|p1a: Diggersby|Diggersby, M|32/100
+|-damage|p1a: Diggersby|26/100|[from] Stealth Rock
+|move|p2a: Dracozolt|Outrage|p1a: Diggersby
+|-damage|p1a: Diggersby|0 fnt
+|faint|p1a: Diggersby
+|
+|-damage|p2a: Dracozolt|51/100 tox|[from] psn
+|upkeep
+|
+|t:|1641727102
+|switch|p1a: Cotija|Slowbro-Galar, M|100/100
+|-damage|p1a: Cotija|88/100|[from] Stealth Rock
+|turn|35
+|-activate|p1a: Cotija|ability: Quick Draw
+|
+|t:|1641727109
+|move|p1a: Cotija|Ice Beam|p2a: Dracozolt
+|-supereffective|p2a: Dracozolt
+|-damage|p2a: Dracozolt|0 fnt
+|faint|p2a: Dracozolt
+|
+|upkeep
+|
+|t:|1641727116
+|switch|p2a: Weavile|Weavile, F, shiny|1/100
+|-ability|p2a: Weavile|Pressure
+|turn|36
+|
+|t:|1641727122
+|switch|p1a: Mienshao|Mienshao, M|100/100 brn
+|-damage|p1a: Mienshao|94/100 brn|[from] Stealth Rock
+|move|p2a: Weavile|Fake Out|p1a: Mienshao
+|-damage|p1a: Mienshao|68/100 brn
+|
+|-damage|p1a: Mienshao|62/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641727132
+|switch|p2a: Skarmory|Skarmory, M|55/100
+|move|p1a: Mienshao|U-turn|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|53/100
+|-ability|p2a: Skarmory|Weak Armor|boost
+|-unboost|p2a: Skarmory|def|1
+|-boost|p2a: Skarmory|spe|2
+|
+|t:|1641727141
+|switch|p1a: Cotija|Slowbro-Galar, M|88/100|[from]move: U-turn
+|-damage|p1a: Cotija|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|38
+|
+|t:|1641727150
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|100/100
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Cotija|Flamethrower|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|51/100
+|
+|upkeep
+|turn|39
+|-activate|p1a: Cotija|ability: Quick Draw
+|
+|t:|1641727158
+|move|p1a: Cotija|Flamethrower|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|2/100
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|upkeep
+|turn|40
+|
+|t:|1641727166
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|52/100
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Cotija|Flamethrower|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-crit|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|
+|upkeep
+|-message|DBgaming forfeited.
+|
+|win|illegalamigo1
+|raw|illegalamigo1's rating: 1129 &rarr; <strong>1163</strong><br />(+34 for winning)
+|raw|DBgaming's rating: 1255 &rarr; <strong>1221</strong><br />(-34 for losing)
+|l|‽DBgaming

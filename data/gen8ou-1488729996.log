@@ -1,0 +1,193 @@
+|j|☆kuhrii
+|j|☆Indignation17
+|t:|1641811695
+|gametype|singles
+|player|p1|kuhrii|hugh|1127
+|player|p2|Indignation17|ethan|1158
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Slurpuff, F|
+|poke|p1|Espeon, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Lucario, M|
+|poke|p1|Quagsire, M|
+|poke|p2|Weavile, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1641811702
+|start
+|switch|p1a: Espeon|Espeon, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Espeon|atk|1
+|turn|1
+|
+|t:|1641811714
+|move|p1a: Espeon|Reflect|p1a: Espeon
+|-sidestart|p1: kuhrii|Reflect
+|move|p2a: Landorus|Knock Off|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|47/100
+|-enditem|p1a: Espeon|Light Clay|[from] move: Knock Off|[of] p2a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1641811721
+|move|p1a: Espeon|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|move|p2a: Landorus|U-turn|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|10/100
+|
+|t:|1641811727
+|switch|p2a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1641811739
+|move|p2a: Weavile|Knock Off|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|
+|upkeep
+|
+|t:|1641811754
+|switch|p1a: Slurpuff|Slurpuff, F|100/100
+|turn|4
+|
+|t:|1641811761
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Slurpuff|Substitute|p1a: Slurpuff
+|-start|p1a: Slurpuff|Substitute
+|-damage|p1a: Slurpuff|76/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641811768
+|move|p1a: Slurpuff|Belly Drum|p1a: Slurpuff
+|-damage|p1a: Slurpuff|26/100
+|-setboost|p1a: Slurpuff|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Slurpuff|Sitrus Berry|[eat]
+|-heal|p1a: Slurpuff|50/100|[from] item: Sitrus Berry
+|move|p2a: Heatran|Magma Storm|p1a: Slurpuff
+|-end|p1a: Slurpuff|Substitute
+|
+|upkeep
+|turn|6
+|
+|t:|1641811783
+|move|p1a: Slurpuff|Drain Punch|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-heal|p1a: Slurpuff|100/100|[from] drain|[of] p2a: Heatran
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641811819
+|switch|p2a: Landorus|Landorus-Therian, M|100/100 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Slurpuff|atk|1
+|turn|7
+|
+|t:|1641811825
+|move|p1a: Slurpuff|Play Rough|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641811831
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|8
+|
+|t:|1641811837
+|move|p2a: Rillaboom|Grassy Glide|p1a: Slurpuff
+|-damage|p1a: Slurpuff|60/100
+|-damage|p2a: Rillaboom|91/100|[from] item: Life Orb
+|move|p1a: Slurpuff|Play Rough|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Slurpuff|67/100|[from] Grassy Terrain
+|-sideend|p1: kuhrii|Reflect
+|upkeep
+|
+|t:|1641811847
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|9
+|
+|t:|1641811858
+|move|p1a: Slurpuff|Drain Punch|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-heal|p1a: Slurpuff|100/100|[from] drain|[of] p2a: Weavile
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641811867
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|turn|10
+|
+|t:|1641811872
+|move|p1a: Slurpuff|Play Rough|p2a: Slowbro
+|-damage|p2a: Slowbro|20/100
+|move|p2a: Slowbro|Scald|p1a: Slurpuff
+|-damage|p1a: Slurpuff|59/100
+|-status|p1a: Slurpuff|brn
+|
+|-heal|p1a: Slurpuff|65/100 brn|[from] Grassy Terrain
+|-heal|p2a: Slowbro|26/100|[from] Grassy Terrain
+|-heal|p2a: Slowbro|32/100|[from] item: Leftovers
+|-damage|p1a: Slurpuff|59/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641811885
+|move|p1a: Slurpuff|Play Rough|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|-heal|p1a: Slurpuff|65/100 brn|[from] Grassy Terrain
+|-damage|p1a: Slurpuff|59/100 brn|[from] brn
+|upkeep
+|
+|t:|1641811892
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|12
+|
+|t:|1641811907
+|move|p1a: Slurpuff|Play Rough|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|win|kuhrii
+|raw|kuhrii's rating: 1127 &rarr; <strong>1154</strong><br />(+27 for winning)
+|raw|Indignation17's rating: 1158 &rarr; <strong>1131</strong><br />(-27 for losing)
+|c|☆Indignation17|gg

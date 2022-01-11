@@ -1,0 +1,989 @@
+|j|☆Sir Timothe
+|j|☆ekoue
+|t:|1641759537
+|gametype|singles
+|player|p1|Sir Timothe|2|1402
+|player|p2|ekoue|erika|1376
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Melmetal|
+|poke|p1|Zapdos|
+|poke|p1|Dragapult, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Blissey, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Toxapex, F|
+|poke|p2|Kartana|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ekoue)
+|
+|t:|1641759547
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragapult|atk|1
+|turn|1
+|
+|t:|1641759556
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Dragapult|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|96/100
+|
+|t:|1641759561
+|switch|p2a: Toxapex|Toxapex, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641759564
+|move|p1a: Toxapex|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|92/100
+|-enditem|p2a: Toxapex|Shed Shell|[from] move: Knock Off|[of] p1a: Toxapex
+|move|p2a: Toxapex|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100
+|-enditem|p1a: Toxapex|Shed Shell|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|3
+|
+|t:|1641759572
+|move|p1a: Toxapex|Toxic Spikes|p2a: Toxapex
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|move|p2a: Toxapex|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|78/100
+|-status|p1a: Toxapex|brn
+|
+|-damage|p1a: Toxapex|72/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641759578
+|move|p1a: Toxapex|Toxic Spikes|p2a: Toxapex
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|move|p2a: Toxapex|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|64/100 brn
+|
+|-damage|p1a: Toxapex|58/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641759586
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|6
+|
+|t:|1641759603
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-sideend|p2: ekoue|move: Toxic Spikes|[of] p2a: Toxapex
+|move|p1a: Zapdos|Heat Wave|p2a: Toxapex|[miss]
+|-miss|p1a: Zapdos|p2a: Toxapex
+|
+|upkeep
+|turn|7
+|
+|t:|1641759609
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|89/100
+|
+|t:|1641759617
+|switch|p1a: Melmetal|Melmetal|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|8
+|
+|t:|1641759622
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|89/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|76/100
+|-hitcount|p2a: Toxapex|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641759641
+|move|p1a: Melmetal|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|31/100
+|move|p2a: Toxapex|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|94/100
+|-enditem|p1a: Melmetal|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|10
+|
+|t:|1641759662
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|11
+|
+|t:|1641759668
+|switch|p2a: Blissey|Blissey, F|89/100
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|77/100
+|
+|t:|1641759682
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|12
+|
+|t:|1641759694
+|move|p1a: Dragapult|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|61/100
+|
+|t:|1641759701
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Blissey|atk|1
+|move|p2a: Blissey|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641759710
+|move|p1a: Landorus|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|42/100
+|
+|t:|1641759715
+|switch|p1a: Melmetal|Melmetal|94/100|[from]move: U-turn
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|upkeep
+|turn|14
+|
+|t:|1641759727
+|move|p2a: Blissey|Protect|p2a: Blissey
+|-singleturn|p2a: Blissey|Protect
+|move|p1a: Melmetal|Earthquake|p2a: Blissey
+|-activate|p2a: Blissey|move: Protect
+|
+|-heal|p2a: Blissey|92/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|15
+|
+|t:|1641759734
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Melmetal|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|16
+|
+|t:|1641759740
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Corviknight|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|86/100
+|-status|p2a: Corviknight|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|upkeep
+|turn|17
+|
+|t:|1641759749
+|switch|p2a: Blissey|Blissey, F|92/100
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|81/100
+|
+|t:|1641759757
+|switch|p1a: Toxapex|Toxapex, F|91/100 brn|[from]move: Volt Switch
+|
+|-damage|p1a: Toxapex|85/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641759761
+|switch|p2a: Toxapex|Toxapex, F|65/100
+|move|p1a: Toxapex|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|62/100
+|
+|-damage|p1a: Toxapex|79/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641759768
+|switch|p2a: Blissey|Blissey, F|81/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Blissey
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|
+|-damage|p1a: Toxapex|73/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641759777
+|switch|p2a: Toxapex|Toxapex, F|95/100
+|-sideend|p2: ekoue|move: Toxic Spikes|[of] p2a: Toxapex
+|move|p1a: Toxapex|Toxic Spikes|p2a: Toxapex
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|
+|-damage|p1a: Toxapex|66/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641759784
+|move|p1a: Toxapex|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|92/100
+|move|p2a: Toxapex|Knock Off|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|55/100 brn
+|
+|-damage|p1a: Toxapex|49/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641759790
+|switch|p1a: Zapdos|Zapdos|86/100
+|switch|p2a: Corviknight|Corviknight, M|100/100 par
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|23
+|
+|t:|1641759798
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-sideend|p2: ekoue|move: Toxic Spikes|[of] p2a: Toxapex
+|move|p1a: Zapdos|Volt Switch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|54/100
+|inactive|Sir Timothe has 120 seconds left.
+|
+|t:|1641759832
+|switch|p1a: Landorus|Landorus-Therian, M|94/100 tox|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|
+|-heal|p1a: Landorus|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641759837
+|switch|p2a: Corviknight|Corviknight, M|100/100 par
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: ekoue|move: Stealth Rock
+|
+|-heal|p1a: Landorus|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|88/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641759844
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|97/100 par
+|-damage|p1a: Landorus|72/100 tox|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641759848
+|switch|p1a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|move|p2a: Corviknight|Defog|p1a: Blacephalon
+|-unboost|p1a: Blacephalon|evasion|1
+|-sideend|p2: ekoue|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|26
+|
+|t:|1641759860
+|switch|p2a: Toxapex|Toxapex, F|88/100
+|move|p1a: Blacephalon|Trick|p2a: Toxapex
+|-activate|p1a: Blacephalon|move: Trick|[of] p2a: Toxapex
+|-item|p2a: Toxapex|Choice Specs|[from] move: Trick
+|-enditem|p1a: Blacephalon|Choice Specs|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|27
+|
+|t:|1641759871
+|switch|p1a: Toxapex|Toxapex, F|82/100 brn
+|move|p2a: Toxapex|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|75/100 brn
+|
+|-damage|p1a: Toxapex|68/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641759877
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Kartana
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|
+|-damage|p1a: Toxapex|62/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641759887
+|switch|p1a: Zapdos|Zapdos|86/100
+|move|p2a: Kartana|Leaf Blade|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|52/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641759912
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-sideend|p2: ekoue|move: Toxic Spikes|[of] p2a: Toxapex
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|31
+|
+|t:|1641759918
+|move|p1a: Zapdos|Volt Switch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|51/100
+|
+|t:|1641759930
+|switch|p1a: Toxapex|Toxapex, F|95/100 brn|[from]move: Volt Switch
+|move|p2a: Toxapex|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|87/100 brn
+|
+|-damage|p1a: Toxapex|81/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641759945
+|switch|p2a: Blissey|Blissey, F|81/100
+|move|p1a: Toxapex|Scald|p2a: Blissey
+|-damage|p2a: Blissey|75/100
+|
+|-damage|p1a: Toxapex|75/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1641759955
+|switch|p2a: Toxapex|Toxapex, F|84/100
+|move|p1a: Toxapex|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|80/100
+|-enditem|p2a: Toxapex|Choice Specs|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|-damage|p1a: Toxapex|68/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1641759973
+|move|p1a: Toxapex|Scald|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|73/100
+|-status|p2a: Toxapex|brn
+|move|p2a: Toxapex|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|63/100 brn
+|
+|-damage|p1a: Toxapex|57/100 brn|[from] brn
+|-damage|p2a: Toxapex|66/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1641759978
+|switch|p2a: Blissey|Blissey, F|75/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Blissey
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|
+|-damage|p1a: Toxapex|51/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641759984
+|move|p2a: Blissey|Wish|p2a: Blissey
+|move|p1a: Toxapex|Toxic Spikes|p2a: Blissey
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|
+|-damage|p1a: Toxapex|45/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641759993
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Blissey|Protect||[still]
+|-fail|p2a: Blissey
+|
+|-heal|p2a: Blissey|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|38
+|
+|t:|1641760003
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|83/100
+|
+|t:|1641760010
+|switch|p1a: Melmetal|Melmetal|94/100|[from]move: Volt Switch
+|move|p2a: Blissey|Toxic|p1a: Melmetal
+|-immune|p1a: Melmetal
+|
+|upkeep
+|turn|39
+|
+|t:|1641760018
+|switch|p2a: Corviknight|Corviknight, M|97/100 par
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Melmetal|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|40
+|
+|t:|1641760025
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Corviknight|Defog|p1a: Dragapult
+|-unboost|p1a: Dragapult|evasion|1
+|-sideend|p2: ekoue|Toxic Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|41
+|
+|t:|1641760032
+|switch|p2a: Toxapex|Toxapex, F|99/100 brn
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100 brn
+|
+|-damage|p2a: Toxapex|51/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1641760042
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|46/100 brn
+|
+|t:|1641760046
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|move|p2a: Toxapex|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|95/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-damage|p2a: Toxapex|39/100 brn|[from] brn
+|upkeep
+|turn|43
+|
+|t:|1641760058
+|switch|p2a: Blissey|Blissey, F|83/100
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|73/100
+|
+|t:|1641760066
+|switch|p1a: Melmetal|Melmetal|94/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|44
+|
+|t:|1641760077
+|switch|p2a: Corviknight|Corviknight, M|97/100 par
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Melmetal|Ice Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|78/100 par
+|-damage|p1a: Melmetal|77/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|45
+|
+|t:|1641760086
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: Corviknight|Brave Bird|p1a: Blacephalon
+|-damage|p1a: Blacephalon|21/100
+|-damage|p2a: Corviknight|61/100 par|[from] Recoil
+|
+|upkeep
+|turn|46
+|
+|t:|1641760101
+|switch|p2a: Blissey|Blissey, F|73/100
+|move|p1a: Blacephalon|Flamethrower|p2a: Blissey
+|-damage|p2a: Blissey|53/100
+|
+|upkeep
+|turn|47
+|
+|t:|1641760109
+|move|p1a: Blacephalon|Trick|p2a: Blissey
+|-activate|p1a: Blacephalon|move: Trick|[of] p2a: Blissey
+|-enditem|p2a: Blissey|Heavy-Duty Boots|[silent]|[from] move: Trick
+|-item|p1a: Blacephalon|Heavy-Duty Boots|[from] move: Trick
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|upkeep
+|turn|48
+|
+|t:|1641760123
+|switch|p1a: Toxapex|Toxapex, F|78/100 brn
+|move|p2a: Blissey|Toxic||[still]
+|-fail|p2a: Blissey
+|
+|-heal|p2a: Blissey|100/100|[from] move: Wish|[wisher] Blissey
+|-damage|p1a: Toxapex|72/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1641760128
+|switch|p2a: Toxapex|Toxapex, F|73/100 brn
+|move|p1a: Toxapex|Scald|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|66/100 brn
+|
+|-damage|p1a: Toxapex|65/100 brn|[from] brn
+|-damage|p2a: Toxapex|60/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1641760135
+|switch|p2a: Corviknight|Corviknight, M|61/100 par
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Toxapex|Toxic Spikes|p2a: Corviknight
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|
+|-damage|p1a: Toxapex|59/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1641760140
+|move|p1a: Toxapex|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|45/100 par
+|cant|p2a: Corviknight|par
+|
+|-damage|p1a: Toxapex|53/100 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1641760150
+|switch|p1a: Zapdos|Zapdos|95/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|95/100 par
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|53
+|
+|t:|1641760156
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|33/100 par
+|
+|t:|1641760163
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: Volt Switch
+|move|p2a: Corviknight|Defog|p1a: Dragapult
+|-unboost|p1a: Dragapult|evasion|1
+|-sideend|p2: ekoue|Toxic Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|54
+|
+|t:|1641760174
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Dragapult|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|85/100
+|
+|t:|1641760185
+|switch|p1a: Melmetal|Melmetal|77/100|[from]move: U-turn
+|
+|upkeep
+|turn|55
+|inactive|ekoue has 120 seconds left.
+|
+|t:|1641760218
+|switch|p1a: Zapdos|Zapdos|95/100
+|move|p2a: Blissey|Protect||[still]
+|-fail|p2a: Blissey
+|
+|upkeep
+|turn|56
+|
+|t:|1641760229
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|74/100
+|
+|t:|1641760232
+|switch|p1a: Toxapex|Toxapex, F|86/100 brn|[from]move: Volt Switch
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-damage|p1a: Toxapex|80/100 brn|[from] brn
+|upkeep
+|turn|57
+|
+|t:|1641760236
+|switch|p2a: Corviknight|Corviknight, M|33/100 par
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Toxapex|Toxic Spikes|p2a: Corviknight
+|-sidestart|p2: ekoue|move: Toxic Spikes
+|
+|-heal|p2a: Corviknight|100/100 par|[from] move: Wish|[wisher] Blissey
+|-damage|p1a: Toxapex|74/100 brn|[from] brn
+|upkeep
+|turn|58
+|
+|t:|1641760245
+|move|p1a: Toxapex|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|96/100 par
+|-damage|p1a: Toxapex|57/100 brn|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-enditem|p2a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p1a: Toxapex
+|cant|p2a: Corviknight|par
+|
+|-damage|p1a: Toxapex|51/100 brn|[from] brn
+|upkeep
+|turn|59
+|
+|t:|1641760255
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|cant|p2a: Corviknight|par
+|
+|upkeep
+|turn|60
+|
+|t:|1641760274
+|switch|p2a: Toxapex|Toxapex, F|93/100 brn
+|-sideend|p2: ekoue|move: Toxic Spikes|[of] p2a: Toxapex
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100 brn
+|
+|-damage|p2a: Toxapex|42/100 brn|[from] brn
+|upkeep
+|turn|61
+|
+|t:|1641760288
+|switch|p2a: Blissey|Blissey, F|74/100
+|move|p1a: Dragapult|Hex|p2a: Blissey
+|-immune|p2a: Blissey
+|
+|upkeep
+|turn|62
+|
+|t:|1641760294
+|move|p1a: Dragapult|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|57/100
+|
+|t:|1641760300
+|switch|p1a: Toxapex|Toxapex, F|84/100 brn|[from]move: U-turn
+|move|p2a: Blissey|Seismic Toss|p1a: Toxapex
+|-damage|p1a: Toxapex|51/100 brn
+|
+|-damage|p1a: Toxapex|45/100 brn|[from] brn
+|upkeep
+|turn|63
+|
+|t:|1641760308
+|switch|p1a: Zapdos|Zapdos|95/100
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|upkeep
+|turn|64
+|
+|t:|1641760317
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|46/100
+|
+|t:|1641760325
+|switch|p1a: Toxapex|Toxapex, F|78/100 brn|[from]move: Volt Switch
+|move|p2a: Blissey|Seismic Toss|p1a: Toxapex
+|-damage|p1a: Toxapex|45/100 brn
+|
+|-heal|p2a: Blissey|96/100|[from] move: Wish|[wisher] Blissey
+|-damage|p1a: Toxapex|39/100 brn|[from] brn
+|upkeep
+|turn|65
+|
+|t:|1641760335
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Blissey|Seismic Toss|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|upkeep
+|turn|66
+|inactive|ekoue has 120 seconds left.
+|
+|t:|1641760393
+|move|p1a: Dragapult|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|78/100
+|
+|t:|1641760398
+|switch|p1a: Melmetal|Melmetal|77/100|[from]move: U-turn
+|move|p2a: Blissey|Toxic|p1a: Melmetal
+|-immune|p1a: Melmetal
+|
+|upkeep
+|turn|67
+|inactive|ekoue has 90 seconds left.
+|
+|t:|1641760420
+|switch|p2a: Corviknight|Corviknight, M|96/100 par
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Zapdos|Zapdos|95/100
+|
+|upkeep
+|turn|68
+|
+|t:|1641760428
+|switch|p2a: Blissey|Blissey, F|78/100
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|68/100
+|
+|t:|1641760445
+|switch|p1a: Melmetal|Melmetal|77/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|69
+|
+|t:|1641760462
+|move|p2a: Blissey|Protect|p2a: Blissey
+|-singleturn|p2a: Blissey|Protect
+|move|p1a: Melmetal|Ice Punch|p2a: Blissey
+|-activate|p2a: Blissey|move: Protect
+|
+|upkeep
+|turn|70
+|
+|t:|1641760468
+|switch|p2a: Corviknight|Corviknight, M|96/100 par
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Zapdos|Zapdos|95/100
+|
+|upkeep
+|turn|71
+|inactive|ekoue has 90 seconds left.
+|
+|t:|1641760496
+|switch|p2a: Toxapex|Toxapex, F|75/100 brn
+|move|p1a: Zapdos|Volt Switch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|31/100 brn
+|
+|t:|1641760502
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: Volt Switch
+|
+|-damage|p2a: Toxapex|25/100 brn|[from] brn
+|upkeep
+|turn|72
+|
+|t:|1641760508
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|19/100 brn
+|
+|t:|1641760513
+|switch|p1a: Zapdos|Zapdos|95/100|[from]move: U-turn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|69/100 brn
+|
+|-damage|p2a: Toxapex|63/100 brn|[from] brn
+|upkeep
+|turn|73
+|
+|t:|1641760527
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Zapdos|Volt Switch|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|81/100
+|
+|t:|1641760546
+|switch|p1a: Melmetal|Melmetal|77/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|74
+|
+|t:|1641760555
+|move|p2a: Dragapult|Flamethrower|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641760559
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|75
+|inactive|ekoue has 120 seconds left.
+|
+|t:|1641760571
+|switch|p2a: Blissey|Blissey, F|68/100
+|move|p1a: Dragapult|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|53/100
+|
+|t:|1641760579
+|switch|p1a: Landorus|Landorus-Therian, M|72/100 tox|[from]move: U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Blissey|atk|1
+|
+|-heal|p1a: Landorus|78/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|72/100 tox|[from] psn
+|upkeep
+|turn|76
+|inactive|ekoue has 120 seconds left.
+|
+|t:|1641760597
+|move|p1a: Landorus|Stealth Rock|p2a: Blissey
+|-sidestart|p2: ekoue|move: Stealth Rock
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p1a: Landorus|78/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|66/100 tox|[from] psn
+|upkeep
+|turn|77
+|
+|t:|1641760604
+|move|p1a: Landorus|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|34/100
+|
+|t:|1641760617
+|switch|p1a: Toxapex|Toxapex, F|72/100 brn|[from]move: U-turn
+|move|p2a: Blissey|Seismic Toss|p1a: Toxapex
+|-damage|p1a: Toxapex|39/100 brn
+|
+|-heal|p2a: Blissey|84/100|[from] move: Wish|[wisher] Blissey
+|-damage|p1a: Toxapex|33/100 brn|[from] brn
+|upkeep
+|turn|78
+|
+|t:|1641760627
+|switch|p1a: Blacephalon|Blacephalon|21/100
+|move|p2a: Blissey|Toxic|p1a: Blacephalon
+|-status|p1a: Blacephalon|tox
+|
+|-damage|p1a: Blacephalon|15/100 tox|[from] psn
+|upkeep
+|turn|79
+|
+|t:|1641760636
+|move|p1a: Blacephalon|Overheat|p2a: Blissey
+|-damage|p2a: Blissey|55/100
+|-unboost|p1a: Blacephalon|spa|2
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-damage|p1a: Blacephalon|3/100 tox|[from] psn
+|upkeep
+|turn|80
+|inactive|ekoue has 120 seconds left.
+|
+|t:|1641760656
+|move|p1a: Blacephalon|Overheat|p2a: Blissey
+|-damage|p2a: Blissey|39/100
+|-unboost|p1a: Blacephalon|spa|2
+|move|p2a: Blissey|Seismic Toss|p1a: Blacephalon
+|-immune|p1a: Blacephalon
+|
+|-heal|p2a: Blissey|89/100|[from] move: Wish|[wisher] Blissey
+|-damage|p1a: Blacephalon|0 fnt|[from] psn
+|faint|p1a: Blacephalon
+|upkeep
+|
+|t:|1641760667
+|switch|p1a: Landorus|Landorus-Therian, M|66/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Blissey|atk|1
+|turn|81
+|
+|t:|1641760676
+|move|p1a: Landorus|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|72/100
+|
+|t:|1641760680
+|switch|p1a: Zapdos|Zapdos|95/100|[from]move: U-turn
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|69/100
+|
+|upkeep
+|turn|82
+|
+|t:|1641760683
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|60/100
+|
+|t:|1641760687
+|switch|p1a: Landorus|Landorus-Therian, M|66/100 tox|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Blissey|atk|1
+|move|p2a: Blissey|Seismic Toss|p1a: Landorus
+|-damage|p1a: Landorus|40/100 tox
+|
+|-heal|p1a: Landorus|46/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|40/100 tox|[from] psn
+|upkeep
+|turn|83
+|
+|t:|1641760690
+|move|p1a: Landorus|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|21/100
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p1a: Landorus|46/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|34/100 tox|[from] psn
+|upkeep
+|turn|84
+|
+|t:|1641760694
+|move|p1a: Landorus|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|4/100
+|
+|t:|1641760701
+|switch|p1a: Zapdos|Zapdos|69/100|[from]move: U-turn
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|43/100
+|
+|-heal|p2a: Blissey|54/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|85
+|
+|t:|1641760707
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|93/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-damage|p1a: Zapdos|87/100 tox|[from] psn
+|upkeep
+|turn|86
+|
+|t:|1641760710
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|43/100
+|
+|t:|1641760714
+|switch|p1a: Landorus|Landorus-Therian, M|34/100 tox|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Blissey|atk|1
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-heal|p1a: Landorus|40/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|34/100 tox|[from] psn
+|upkeep
+|turn|87
+|n|!Sir Timothe|sirtimothe
+|-message|Sir Timothe forfeited.
+|
+|win|ekoue
+|raw|Sir Timothe's rating: 1402 &rarr; <strong>1381</strong><br />(-21 for losing)
+|raw|ekoue's rating: 1376 &rarr; <strong>1397</strong><br />(+21 for winning)
+|l|!Sir Timothe
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

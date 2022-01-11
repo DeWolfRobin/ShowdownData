@@ -1,0 +1,265 @@
+|j|☆cruzjay188
+|j|☆hanserzsh2001
+|t:|1641752810
+|gametype|singles
+|player|p1|cruzjay188|101|1205
+|player|p2|hanserzsh2001|dawn|1271
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scizor, M|
+|poke|p1|Zapdos|
+|poke|p1|Slowbro, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Zeraora|
+|poke|p2|Pelipper, F|
+|poke|p2|Volcanion|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Blastoise, M|
+|teampreview
+|
+|t:|1641752836
+|start
+|switch|p1a: Zeraora|Zeraora|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hanserzsh2001)
+|
+|t:|1641752843
+|move|p1a: Zeraora|Blaze Kick|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|6/100
+|-status|p2a: Ferrothorn|brn
+|-damage|p1a: Zeraora|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Zeraora|78/100|[from] item: Life Orb
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Zeraora
+|-sidestart|p1: cruzjay188|move: Stealth Rock
+|
+|-heal|p2a: Ferrothorn|12/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|6/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641752853
+|move|p1a: Zeraora|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|-damage|p1a: Zeraora|69/100|[from] item: Life Orb
+|
+|t:|1641752859
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: Volt Switch
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|
+|-heal|p1a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641752863
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|turn|3
+|
+|t:|1641752875
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|move|p1a: Zapdos|Extrasensory|p2a: Thundurus
+|-damage|p2a: Thundurus|68/100
+|
+|-heal|p1a: Zapdos|88/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641752878
+|move|p2a: Thundurus|Thunder|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641752887
+|switch|p1a: Scizor|Scizor, M|100/100
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641752905
+|move|p1a: Scizor|Bullet Punch|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|41/100
+|move|p2a: Thundurus|Thunder|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641752911
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Thundurus|atk|1
+|turn|6
+|
+|t:|1641752921
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Landorus|Knock Off|p2a: Pelipper
+|-damage|p2a: Pelipper|74/100
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641752932
+|move|p1a: Landorus|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: hanserzsh2001|move: Stealth Rock
+|move|p2a: Pelipper|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|84/100
+|-damage|p2a: Pelipper|57/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1641752936
+|switch|p2a: Barraskewda|Barraskewda, F|100/100|[from]move: U-turn
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641752942
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|-damage|p1a: Slowbro|88/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Flip Turn|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|73/100
+|
+|t:|1641752950
+|switch|p2a: Thundurus|Thundurus-Therian, M|41/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Slowbro|79/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641752959
+|move|p2a: Thundurus|Thunder|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641752961
+|switch|p1a: Landorus|Landorus-Therian, M|84/100
+|-damage|p1a: Landorus|71/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Thundurus|atk|1
+|turn|10
+|
+|t:|1641752965
+|move|p2a: Thundurus|Weather Ball|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641752972
+|switch|p1a: Zeraora|Zeraora|69/100
+|-damage|p1a: Zeraora|56/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641752976
+|move|p1a: Zeraora|Fake Out|p2a: Thundurus
+|-damage|p2a: Thundurus|17/100
+|-damage|p1a: Zeraora|47/100|[from] item: Life Orb
+|cant|p2a: Thundurus|flinch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641752983
+|move|p1a: Zeraora|Play Rough|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|-damage|p1a: Zeraora|37/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641752987
+|switch|p2a: Barraskewda|Barraskewda, F|88/100
+|-damage|p2a: Barraskewda|76/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641752991
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Flip Turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|70/100
+|
+|t:|1641752998
+|switch|p2a: Blastoise|Blastoise, M|100/100|[from]move: Flip Turn
+|-damage|p2a: Blastoise|88/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Toxapex|76/100|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1641753003
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|move|p1a: Toxapex|Poison Jab|p2a: Blastoise
+|-damage|p2a: Blastoise|59/100
+|
+|-heal|p1a: Toxapex|83/100|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1641753012
+|move|p2a: Blastoise|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|19/100
+|move|p1a: Toxapex|Poison Jab|p2a: Blastoise
+|-damage|p2a: Blastoise|31/100
+|
+|-heal|p1a: Toxapex|25/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|t:|1641753018
+|move|p2a: Blastoise|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|upkeep
+|-message|cruzjay188 forfeited.
+|
+|win|hanserzsh2001
+|raw|cruzjay188's rating: 1205 &rarr; <strong>1185</strong><br />(-20 for losing)
+|raw|hanserzsh2001's rating: 1271 &rarr; <strong>1291</strong><br />(+20 for winning)
+|l|☆cruzjay188
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

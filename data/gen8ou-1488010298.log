@@ -1,0 +1,280 @@
+|j|☆yes bruh moment
+|j|☆Dude974
+|t:|1641696992
+|gametype|singles
+|player|p1|yes bruh moment|169|1161
+|player|p2|Dude974|marlon|1185
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Incineroar, M|
+|poke|p1|Hippowdon, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Sandslash, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Dracozolt|
+|poke|p2|Dragapult, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Urshifu-*, F|
+|teampreview
+|
+|t:|1641696998
+|start
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|switch|p2a: PatriceQuarterton|Urshifu-Rapid-Strike, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641697007
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: PatriceQuarterton|Surging Strikes|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|76/100
+|-damage|p2a: PatriceQuarterton|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: PatriceQuarterton|72/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|51/100
+|-damage|p2a: PatriceQuarterton|59/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: PatriceQuarterton|43/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|26/100
+|-damage|p2a: PatriceQuarterton|31/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: PatriceQuarterton|14/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|-hitcount|p1a: Garchomp|3
+|-damage|p2a: PatriceQuarterton|4/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: PatriceQuarterton|0 fnt|[from] Sandstorm
+|faint|p2a: PatriceQuarterton
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yes bruh moment)
+|
+|t:|1641697029
+|switch|p2a: Amsterix|Landorus-Therian, M|100/100
+|-ability|p2a: Amsterix|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|2
+|
+|t:|1641697044
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Amsterix|Earthquake|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|44/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Fini|38/100|[from] Sandstorm
+|-heal|p1a: Tapu Fini|44/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641697055
+|move|p2a: Amsterix|Earthquake|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|yes bruh moment has 120 seconds left.
+|
+|t:|1641697080
+|switch|p1a: Incineroar|Incineroar, M|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Amsterix|atk|1
+|turn|4
+|
+|t:|1641697088
+|switch|p2a: Poisonnerie|Toxapex, F|100/100
+|move|p1a: Incineroar|Fake Out|p2a: Poisonnerie
+|-damage|p2a: Poisonnerie|91/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Incineroar|94/100|[from] Sandstorm
+|-damage|p2a: Poisonnerie|85/100|[from] Sandstorm
+|-heal|p1a: Incineroar|100/100|[from] item: Leftovers
+|-heal|p2a: Poisonnerie|91/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1641697099
+|move|p1a: Incineroar|Knock Off|p2a: Poisonnerie
+|-damage|p2a: Poisonnerie|52/100
+|-enditem|p2a: Poisonnerie|Black Sludge|[from] move: Knock Off|[of] p1a: Incineroar
+|move|p2a: Poisonnerie|Toxic|p1a: Incineroar
+|-activate|p1a: Incineroar|move: Misty Terrain
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Incineroar|94/100|[from] Sandstorm
+|-damage|p2a: Poisonnerie|46/100|[from] Sandstorm
+|-heal|p1a: Incineroar|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641697113
+|move|p1a: Incineroar|Parting Shot|p2a: Poisonnerie
+|-unboost|p2a: Poisonnerie|atk|1
+|-unboost|p2a: Poisonnerie|spa|1
+|
+|t:|1641697120
+|switch|p1a: Sandslash|Sandslash, M|100/100|[from]move: Parting Shot
+|move|p2a: Poisonnerie|Knock Off|p1a: Sandslash
+|-damage|p1a: Sandslash|91/100
+|-enditem|p1a: Sandslash|Leftovers|[from] move: Knock Off|[of] p2a: Poisonnerie
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Poisonnerie|40/100|[from] Sandstorm
+|-fieldend|Misty Terrain
+|upkeep
+|turn|7
+|
+|t:|1641697134
+|switch|p2a: Amsterix|Landorus-Therian, M|100/100
+|-ability|p2a: Amsterix|Intimidate|boost
+|-unboost|p1a: Sandslash|atk|1
+|move|p1a: Sandslash|Substitute|p1a: Sandslash
+|-start|p1a: Sandslash|Substitute
+|-damage|p1a: Sandslash|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641697157
+|move|p1a: Sandslash|Spikes|p2a: Amsterix
+|-sidestart|p2: Dude974|Spikes
+|move|p2a: Amsterix|Stealth Rock|p1a: Sandslash
+|-sidestart|p1: yes bruh moment|move: Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641697168
+|switch|p2a: BernardLavilliers|Rillaboom, M|100/100
+|-damage|p2a: BernardLavilliers|88/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: BernardLavilliers
+|move|p1a: Sandslash|Spikes|p2a: BernardLavilliers
+|-sidestart|p2: Dude974|Spikes
+|
+|-heal|p2a: BernardLavilliers|94/100|[from] Grassy Terrain
+|-heal|p1a: Sandslash|72/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641697180
+|move|p2a: BernardLavilliers|Grassy Glide|p1a: Sandslash
+|-supereffective|p1a: Sandslash
+|-end|p1a: Sandslash|Substitute
+|move|p1a: Sandslash|Rapid Spin|p2a: BernardLavilliers
+|-damage|p2a: BernardLavilliers|86/100
+|-boost|p1a: Sandslash|spe|1
+|-sideend|p1: yes bruh moment|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Sandslash
+|
+|-heal|p1a: Sandslash|78/100|[from] Grassy Terrain
+|-heal|p2a: BernardLavilliers|93/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641697192
+|switch|p1a: Incineroar|Incineroar, M|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: BernardLavilliers|atk|1
+|move|p2a: BernardLavilliers|Grassy Glide|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|76/100
+|
+|-heal|p2a: BernardLavilliers|99/100|[from] Grassy Terrain
+|-heal|p1a: Incineroar|82/100|[from] Grassy Terrain
+|-heal|p1a: Incineroar|88/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641697209
+|switch|p2a: Amsterix|Landorus-Therian, M|100/100
+|-ability|p2a: Amsterix|Intimidate|boost
+|-unboost|p1a: Incineroar|atk|1
+|move|p1a: Incineroar|Fake Out|p2a: Amsterix
+|-crit|p2a: Amsterix
+|-damage|p2a: Amsterix|77/100
+|
+|-heal|p1a: Incineroar|94/100|[from] Grassy Terrain
+|-heal|p1a: Incineroar|99/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641697226
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Amsterix|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|85/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|91/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641697239
+|switch|p2a: Poisonnerie|Toxapex, F|73/100
+|-damage|p2a: Poisonnerie|56/100|[from] Spikes
+|move|p1a: Hippowdon|Stealth Rock|p2a: Poisonnerie
+|-sidestart|p2: Dude974|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Poisonnerie|50/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641697250
+|move|p1a: Hippowdon|Earthquake|p2a: Poisonnerie
+|-supereffective|p2a: Poisonnerie
+|-damage|p2a: Poisonnerie|0 fnt
+|faint|p2a: Poisonnerie
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641697259
+|switch|p2a: BernardLavilliers|Rillaboom, M|99/100
+|-damage|p2a: BernardLavilliers|86/100|[from] Stealth Rock
+|-damage|p2a: BernardLavilliers|70/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: BernardLavilliers
+|turn|16
+|
+|t:|1641697266
+|switch|p1a: Incineroar|Incineroar, M|99/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: BernardLavilliers|atk|1
+|move|p2a: BernardLavilliers|Grassy Glide|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: BernardLavilliers|64/100|[from] Sandstorm
+|-damage|p1a: Incineroar|69/100|[from] Sandstorm
+|-heal|p2a: BernardLavilliers|70/100|[from] Grassy Terrain
+|-heal|p1a: Incineroar|75/100|[from] Grassy Terrain
+|-heal|p1a: Incineroar|81/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|-message|Dude974 forfeited.
+|
+|win|yes bruh moment
+|raw|yes bruh moment's rating: 1161 &rarr; <strong>1188</strong><br />(+27 for winning)
+|raw|Dude974's rating: 1185 &rarr; <strong>1158</strong><br />(-27 for losing)
+|l|☆Dude974
+|l|☆yes bruh moment
+|j|☆yes bruh moment
+|player|p1|yes bruh moment|169

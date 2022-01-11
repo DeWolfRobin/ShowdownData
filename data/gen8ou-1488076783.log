@@ -1,0 +1,258 @@
+|j|☆nutsack42069
+|j|‽testingbot42o
+|t:|1641707219
+|gametype|singles
+|player|p1|nutsack42069|170|1446
+|player|p2|testingbot42o|102|1413
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Zapdos-Galar|
+|poke|p2|Clefable, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Hippowdon, M|
+|poke|p2|Excadrill, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingbot42o)
+|inactive|nutsack42069 has 120 seconds left.
+|
+|t:|1641707268
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1641707275
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Garchomp|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641707285
+|move|p1a: Garchomp|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: testingbot42o|move: Stealth Rock
+|move|p2a: Hippowdon|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: nutsack42069|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641707297
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p2a: Hippowdon|82/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641707307
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: testingbot42o|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641707314
+|move|p2a: Clefable|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|3/100
+|-status|p1a: Ferrothorn|brn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Clefable
+|-start|p2a: Clefable|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|9/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|3/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641707327
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641707342
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|turn|7
+|
+|t:|1641707347
+|move|p1a: Volcarona|Fiery Dance|p2a: Clefable
+|-damage|p2a: Clefable|63/100
+|-boost|p1a: Volcarona|spa|1
+|move|p2a: Clefable|Thunderbolt|p1a: Volcarona
+|-damage|p1a: Volcarona|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Volcarona|64/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641707357
+|switch|p2a: Hippowdon|Hippowdon, M|82/100 tox
+|-damage|p2a: Hippowdon|70/100 tox|[from] Spikes
+|-damage|p2a: Hippowdon|63/100 tox|[from] Stealth Rock
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-weather|none
+|-damage|p2a: Hippowdon|57/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641707370
+|move|p1a: Volcarona|Fiery Dance|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|upkeep
+|
+|t:|1641707371
+|switch|p2a: Clefable|Clefable, M|63/100
+|turn|10
+|
+|t:|1641707380
+|move|p1a: Volcarona|Fiery Dance|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641707380
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641707390
+|move|p1a: Volcarona|Roost|p1a: Volcarona
+|-heal|p1a: Volcarona|100/100
+|-singleturn|p1a: Volcarona|move: Roost
+|move|p2a: Hydreigon|Dark Pulse|p1a: Volcarona
+|-damage|p1a: Volcarona|79/100
+|
+|-heal|p2a: Hydreigon|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641707398
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Hydreigon|Dark Pulse|p1a: Volcarona
+|-damage|p1a: Volcarona|61/100
+|
+|-heal|p2a: Hydreigon|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641707408
+|move|p1a: Volcarona|Roost|p1a: Volcarona
+|-heal|p1a: Volcarona|100/100
+|-singleturn|p1a: Volcarona|move: Roost
+|move|p2a: Hydreigon|Dark Pulse|p1a: Volcarona
+|-damage|p1a: Volcarona|83/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641707415
+|move|p1a: Volcarona|Fiery Dance|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|35/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Volcarona
+|-damage|p1a: Volcarona|65/100
+|
+|-heal|p2a: Hydreigon|41/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641707423
+|move|p1a: Volcarona|Fiery Dance|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1641707424
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-damage|p2a: Rotom|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641707432
+|move|p1a: Volcarona|Psychic|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1641707433
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|17
+|
+|t:|1641707440
+|move|p1a: Volcarona|Fiery Dance|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641707441
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-damage|p2a: Excadrill|88/100|[from] Spikes
+|-damage|p2a: Excadrill|85/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641707449
+|move|p1a: Volcarona|Fiery Dance|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|win|nutsack42069
+|raw|nutsack42069's rating: 1446 &rarr; <strong>1464</strong><br />(+18 for winning)
+|raw|testingbot42o's rating: 1413 &rarr; <strong>1395</strong><br />(-18 for losing)
+|l|‽testingbot42o
+|c|☆nutsack42069|gg
+|player|p1|nutsack42069|170

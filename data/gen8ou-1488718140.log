@@ -1,0 +1,468 @@
+|j|☆weidoggy
+|j|☆InitiateDog
+|t:|1641809416
+|gametype|singles
+|player|p1|weidoggy|steven|1251
+|player|p2|InitiateDog|marlon|1251
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Zapdos|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Weavile, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by weidoggy)
+|
+|t:|1641809424
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|turn|1
+|
+|t:|1641809430
+|move|p1a: Zapdos|Hurricane|p2a: Landorus|[miss]
+|-miss|p1a: Zapdos|p2a: Landorus
+|move|p2a: Landorus|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: weidoggy|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641809434
+|move|p1a: Zapdos|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p1: weidoggy|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Landorus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|93/100
+|
+|t:|1641809441
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641809445
+|move|p1a: Zapdos|Discharge|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|80/100
+|-status|p2a: Slowking|par
+|move|p2a: Slowking|Future Sight|p1a: Zapdos
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|4
+|
+|t:|1641809454
+|move|p1a: Zapdos|Discharge|p2a: Slowking
+|-damage|p2a: Slowking|66/100 par
+|move|p2a: Slowking|Ice Beam|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|47/100
+|
+|upkeep
+|turn|5
+|c|☆InitiateDog|Crit and paralyzed me
+|c|☆InitiateDog|What rotten luck
+|
+|t:|1641809468
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|97/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Slowking|Ice Beam|p1a: Zapdos
+|-damage|p1a: Zapdos|70/100
+|
+|-end|p1a: Zapdos|move: Future Sight
+|-damage|p1a: Zapdos|23/100
+|upkeep
+|turn|6
+|
+|t:|1641809479
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|73/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Slowking|Future Sight|p1a: Zapdos
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|7
+|
+|t:|1641809489
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Slowking|Ice Beam|p1a: Zapdos
+|-damage|p1a: Zapdos|74/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641809517
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|
+|-end|p1a: Ferrothorn|move: Future Sight
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|85/100
+|-heal|p1a: Ferrothorn|91/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641809526
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ferrothorn|atk|1
+|move|p1a: Ferrothorn|Spikes|p2a: Landorus
+|-sidestart|p2: InitiateDog|Spikes
+|
+|-heal|p1a: Ferrothorn|98/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641809539
+|move|p2a: Landorus|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: weidoggy|move: Stealth Rock
+|move|p1a: Ferrothorn|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|89/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641809558
+|move|p2a: Landorus|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|66/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Landorus
+|-start|p2a: Landorus|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|72/100|[from] item: Leftovers
+|-damage|p2a: Landorus|77/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|86/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641809567
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|88/100|[from] Spikes
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|85/100
+|-damage|p1a: Ferrothorn|73/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|91/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|79/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641809573
+|move|p2a: Ferrothorn|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|33/100
+|-damage|p2a: Ferrothorn|78/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|70/100
+|-damage|p1a: Ferrothorn|21/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|27/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641809583
+|switch|p1a: Zapdos|Zapdos|74/100
+|move|p2a: Ferrothorn|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|65/100
+|-status|p2a: Ferrothorn|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|upkeep
+|turn|15
+|
+|t:|1641809591
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|cant|p2a: Ferrothorn|par
+|
+|upkeep
+|turn|16
+|
+|t:|1641809597
+|move|p1a: Zapdos|Hurricane|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|34/100 par
+|move|p2a: Ferrothorn|Leech Seed|p1a: Zapdos
+|-start|p1a: Zapdos|move: Leech Seed
+|
+|-damage|p1a: Zapdos|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|47/100 par|[silent]
+|upkeep
+|turn|17
+|
+|t:|1641809607
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-damage|p1a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Ferrothorn|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|46/100
+|-enditem|p1a: Pelipper|Choice Specs|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641809620
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|99/100 par
+|-damage|p2a: Slowking|87/100 par|[from] Spikes
+|move|p1a: Pelipper|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|65/100 par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641809627
+|move|p1a: Pelipper|Weather Ball|p2a: Slowking
+|-damage|p2a: Slowking|33/100 par
+|cant|p2a: Slowking|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641809639
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p2a: Urshifu|88/100|[from] Spikes
+|move|p1a: Pelipper|Weather Ball|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-crit|p2a: Urshifu
+|-damage|p2a: Urshifu|5/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1641809652
+|switch|p1a: Ferrothorn|Ferrothorn, F|27/100
+|-damage|p1a: Ferrothorn|21/100|[from] Stealth Rock
+|move|p2a: Urshifu|Surging Strikes|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|3/100
+|-damage|p2a: Urshifu|0 fnt|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p2a: Urshifu
+|-hitcount|p1a: Ferrothorn|1
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|9/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641809660
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|22
+|
+|t:|1641809669
+|move|p2a: Weavile|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Weavile|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641809674
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|23
+|
+|t:|1641809685
+|move|p1a: Tapu Lele|Moonblast|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641809690
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|66/100 par
+|-damage|p2a: Slowking|54/100 par|[from] Spikes
+|turn|24
+|
+|t:|1641809695
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|move|p2a: Slowking|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|13/100
+|-status|p1a: Landorus|frz
+|
+|-heal|p1a: Landorus|19/100 frz|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641809708
+|-curestatus|p1a: Landorus|frz|[msg]
+|move|p1a: Landorus|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-heal|p1a: Landorus|25/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641809716
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|26
+|
+|t:|1641809719
+|move|p2a: Tornadus|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641809722
+|switch|p1a: Zapdos|Zapdos|88/100
+|turn|27
+|
+|t:|1641809729
+|move|p2a: Tornadus|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|73/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Zapdos|Discharge|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|33/100
+|-status|p2a: Tornadus|par
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|28
+|
+|t:|1641809739
+|switch|p2a: Landorus|Landorus-Therian, M|77/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p2: InitiateDog|Spikes|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: weidoggy|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|upkeep
+|turn|29
+|
+|t:|1641809743
+|switch|p1a: Pelipper|Pelipper, M|46/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Landorus|Toxic|p1a: Pelipper
+|-status|p1a: Pelipper|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|40/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641809749
+|switch|p2a: Ferrothorn|Ferrothorn, M|47/100 par
+|move|p1a: Pelipper|Weather Ball|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|21/100 par
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|28/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641809762
+|move|p1a: Pelipper|Hurricane|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|9/100 tox|[from] psn
+|upkeep
+|
+|t:|1641809768
+|switch|p2a: Landorus|Landorus-Therian, M|77/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Pelipper|atk|1
+|turn|32
+|
+|t:|1641809772
+|switch|p1a: Tapu Lele|Tapu Lele|88/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Landorus|U-turn|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|53/100
+|
+|t:|1641809776
+|switch|p2a: Tornadus|Tornadus-Therian, M|66/100 par|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1641809781
+|move|p1a: Tapu Lele|Psyshock|p2a: Tornadus
+|-damage|p2a: Tornadus|1/100 par
+|move|p2a: Tornadus|Hurricane|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|6/100
+|
+|-weather|none
+|upkeep
+|turn|34
+|
+|t:|1641809793
+|switch|p2a: Landorus|Landorus-Therian, M|77/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Lele|atk|1
+|move|p1a: Tapu Lele|Psyshock|p2a: Landorus
+|-damage|p2a: Landorus|35/100
+|
+|upkeep
+|turn|35
+|
+|t:|1641809801
+|move|p1a: Tapu Lele|Psyshock|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641809804
+|switch|p2a: Tornadus|Tornadus-Therian, M|34/100 par
+|turn|36
+|
+|t:|1641809810
+|move|p1a: Tapu Lele|Psyshock|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|win|weidoggy
+|raw|weidoggy's rating: 1251 &rarr; <strong>1276</strong><br />(+25 for winning)
+|raw|InitiateDog's rating: 1251 &rarr; <strong>1226</strong><br />(-25 for losing)
+|l|☆weidoggy

@@ -1,0 +1,358 @@
+|j|☆Pks BloodEagle
+|j|☆Lufox01
+|t:|1641870824
+|gametype|singles
+|player|p1|Pks BloodEagle|101|1203
+|player|p2|Lufox01|giovanni|1169
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Nidoking, M|
+|poke|p1|Moltres|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Blissey, F|
+|poke|p1|Clefable, M|
+|poke|p2|Nidoking, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Zeraora|
+|poke|p2|Blacephalon|
+|teampreview
+|
+|t:|1641870843
+|start
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Nidoking|Nidoking, M, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Lufox01)
+|
+|t:|1641870869
+|move|p2a: Nidoking|Ice Beam|p1a: Nidoking
+|-supereffective|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|faint|p1a: Nidoking
+|
+|upkeep
+|
+|t:|1641870877
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|2
+|
+|t:|1641870895
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Urshifu|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|60/100
+|-damage|p1a: Urshifu|84/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|t:|1641870901
+|switch|p1a: Blissey|Blissey, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641870922
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Blissey|Toxic|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|upkeep
+|turn|4
+|
+|t:|1641870930
+|move|p1a: Blissey|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: Lufox01|move: Stealth Rock
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Blissey
+|-sidestart|p1: Pks BloodEagle|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1641870937
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Moltres
+|-start|p1a: Moltres|move: Leech Seed
+|
+|-damage|p1a: Moltres|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|6
+|
+|t:|1641870947
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Moltres|U-turn|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-damage|p1a: Moltres|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|7
+|inactive|Lufox01 has 120 seconds left.
+|
+|t:|1641870978
+|switch|p2a: Slowbro|Slowbro, M|93/100
+|-damage|p2a: Slowbro|81/100|[from] Stealth Rock
+|move|p1a: Moltres|Flamethrower|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|62/100
+|
+|-damage|p1a: Moltres|64/100|[from] Leech Seed|[of] p2a: Slowbro
+|-heal|p2a: Slowbro|74/100|[silent]
+|upkeep
+|turn|8
+|inactive|Lufox01 has 120 seconds left.
+|
+|t:|1641870990
+|move|p1a: Moltres|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|56/100
+|-damage|p1a: Moltres|47/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|t:|1641870995
+|switch|p1a: Clefable|Clefable, M|100/100|[from]move: U-turn
+|move|p2a: Slowbro|Future Sight|p1a: Clefable
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|9
+|inactive|Lufox01 has 120 seconds left.
+|
+|t:|1641871020
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641871026
+|switch|p2a: Nidoking|Nidoking, M, shiny|100/100|[from]move: Teleport
+|-damage|p2a: Nidoking|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|10
+|inactive|Lufox01 has 120 seconds left.
+|
+|t:|1641871032
+|move|p2a: Nidoking|Sludge Wave|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|29/100
+|move|p1a: Clefable|Stored Power|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|23/100
+|
+|-end|p1a: Clefable|move: Future Sight
+|-damage|p1a: Clefable|5/100
+|upkeep
+|turn|11
+|inactive|Lufox01 has 120 seconds left.
+|
+|t:|1641871048
+|move|p2a: Nidoking|Sludge Wave|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641871059
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641871067
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|switch|p1a: Moltres|Moltres|47/100
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641871077
+|switch|p2a: Slowbro|Slowbro, M|89/100
+|-damage|p2a: Slowbro|77/100|[from] Stealth Rock
+|move|p1a: Moltres|Roost|p1a: Moltres
+|-heal|p1a: Moltres|97/100
+|-singleturn|p1a: Moltres|move: Roost
+|
+|upkeep
+|turn|14
+|
+|t:|1641871088
+|move|p1a: Moltres|Defog|p2a: Slowbro
+|-unboost|p2a: Slowbro|evasion|1
+|-sideend|p2: Lufox01|Stealth Rock|[from] move: Defog|[of] p1a: Moltres
+|-sideend|p1: Pks BloodEagle|Stealth Rock|[from] move: Defog|[of] p1a: Moltres
+|move|p2a: Slowbro|Future Sight|p1a: Moltres
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|15
+|
+|t:|1641871102
+|move|p1a: Moltres|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|59/100
+|-damage|p1a: Moltres|81/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|t:|1641871107
+|switch|p1a: Blissey|Blissey, F|88/100|[from]move: U-turn
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641871125
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100|[from]move: Teleport
+|
+|-heal|p1a: Blissey|94/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|Lufox01 has 120 seconds left.
+|
+|t:|1641871143
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Blissey|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: Lufox01|move: Stealth Rock
+|
+|-end|p1a: Blissey|move: Future Sight
+|-damage|p1a: Blissey|80/100
+|-heal|p1a: Blissey|86/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|Lufox01 has 120 seconds left.
+|
+|t:|1641871153
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: Pks BloodEagle|move: Stealth Rock
+|
+|upkeep
+|turn|18
+|inactive|Lufox01 has 120 seconds left.
+|inactive|Lufox01 has 90 seconds left.
+|
+|t:|1641871196
+|move|p1a: Dragapult|Substitute|p1a: Dragapult
+|-start|p1a: Dragapult|Substitute
+|-damage|p1a: Dragapult|76/100
+|move|p2a: Ferrothorn|Leech Seed||[still]
+|-fail|p2a: Ferrothorn
+|
+|upkeep
+|turn|19
+|
+|t:|1641871203
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Dragapult
+|-end|p1a: Dragapult|Substitute
+|
+|upkeep
+|turn|20
+|
+|t:|1641871210
+|move|p1a: Dragapult|Substitute|p1a: Dragapult
+|-start|p1a: Dragapult|Substitute
+|-damage|p1a: Dragapult|51/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Dragapult
+|-end|p1a: Dragapult|Substitute
+|
+|upkeep
+|turn|21
+|
+|t:|1641871223
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641871230
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|84/100
+|-damage|p1a: Urshifu|78/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641871237
+|move|p1a: Urshifu|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|-damage|p1a: Urshifu|66/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|inactive|Lufox01 has 90 seconds left.
+|
+|t:|1641871286
+|switch|p2a: Zeraora|Zeraora|100/100
+|-damage|p2a: Zeraora|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641871293
+|switch|p1a: Blissey|Blissey, F|86/100
+|-damage|p1a: Blissey|73/100|[from] Stealth Rock
+|move|p2a: Zeraora|Plasma Fists|p1a: Blissey
+|-damage|p1a: Blissey|15/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|
+|-heal|p1a: Blissey|22/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|Lufox01 has 90 seconds left.
+|
+|t:|1641871306
+|move|p2a: Zeraora|Plasma Fists|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Blissey
+|
+|upkeep
+|
+|t:|1641871313
+|switch|p1a: Moltres|Moltres|81/100
+|turn|25
+|
+|t:|1641871317
+|move|p2a: Zeraora|Plasma Fists|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1641871324
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|66/100
+|-damage|p1a: Urshifu|59/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641871329
+|move|p1a: Urshifu|Aqua Jet|p2a: Zeraora
+|-damage|p2a: Zeraora|44/100
+|move|p2a: Zeraora|Plasma Fists|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Urshifu
+|
+|win|Lufox01
+|raw|Pks BloodEagle's rating: 1203 &rarr; <strong>1176</strong><br />(-27 for losing)
+|raw|Lufox01's rating: 1169 &rarr; <strong>1196</strong><br />(+27 for winning)
+|l|☆Pks BloodEagle

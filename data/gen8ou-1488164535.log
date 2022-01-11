@@ -1,0 +1,274 @@
+|j|☆kyysg
+|j|☆jimbonagga
+|t:|1641725553
+|gametype|singles
+|player|p1|kyysg|2|1591
+|player|p2|jimbonagga|1|1605
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Kartana|
+|poke|p1|Tapu Koko|
+|poke|p1|Garchomp, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Kommo-o, M|
+|poke|p2|Togedemaru, M|
+|poke|p2|Blacephalon|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Toxtricity, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Druddigon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kyysg)
+|j| Regeileki is bet
+|
+|t:|1641725567
+|start
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|100/100
+|switch|p2a: Toxtricity|Toxtricity, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|
+|t:|1641725572
+|move|p2a: Toxtricity|Sludge Wave|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641725576
+|switch|p1a: Kartana|Kartana|100/100
+|turn|2
+|
+|t:|1641725582
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641725585
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|move|p2a: Landorus|Earthquake|p1a: Kartana
+|-damage|p1a: Kartana|64/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641725595
+|switch|p2a: Druddigon|Druddigon, M|100/100
+|move|p1a: Kartana|Knock Off|p2a: Druddigon
+|-damage|p2a: Druddigon|38/100
+|-damage|p1a: Kartana|51/100|[from] ability: Rough Skin|[of] p2a: Druddigon
+|-damage|p1a: Kartana|35/100|[from] item: Rocky Helmet|[of] p2a: Druddigon
+|-enditem|p2a: Druddigon|Rocky Helmet|[from] move: Knock Off|[of] p1a: Kartana
+|
+|upkeep
+|turn|5
+|
+|t:|1641725606
+|move|p1a: Kartana|Knock Off|p2a: Druddigon
+|-damage|p2a: Druddigon|0 fnt
+|-damage|p1a: Kartana|23/100|[from] ability: Rough Skin|[of] p2a: Druddigon
+|faint|p2a: Druddigon
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|spe|1
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641725617
+|switch|p2a: Conkeldurr|Conkeldurr, F|100/100
+|turn|6
+|
+|t:|1641725620
+|move|p2a: Conkeldurr|Mach Punch|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1641725622
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|turn|7
+|
+|t:|1641725632
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hawlucha|atk|1
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1641725645
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Landorus|U-turn|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|94/100
+|
+|t:|1641725653
+|switch|p2a: Toxtricity|Toxtricity, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1641725655
+|move|p2a: Toxtricity|Overdrive|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1641725658
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|10
+|
+|t:|1641725676
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1641725681
+|move|p1a: Garchomp|Scale Shot|p2a: Landorus
+|-damage|p2a: Landorus|84/100
+|-damage|p2a: Landorus|65/100
+|-hitcount|p2a: Landorus|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Landorus|Earthquake|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Landorus|71/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641725685
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|turn|12
+|
+|t:|1641725687
+|move|p1a: Kommo-o|Belly Drum|p1a: Kommo-o
+|-damage|p1a: Kommo-o|50/100
+|-setboost|p1a: Kommo-o|atk|6|[from] move: Belly Drum
+|move|p2a: Landorus|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|4/100
+|-enditem|p1a: Kommo-o|Salac Berry|[eat]
+|-boost|p1a: Kommo-o|spe|1|[from] item: Salac Berry
+|
+|-heal|p2a: Landorus|77/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641725695
+|move|p1a: Kommo-o|Drain Punch|p2a: Landorus
+|-resisted|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-heal|p1a: Kommo-o|52/100|[from] drain|[of] p2a: Landorus
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641725701
+|switch|p2a: Togedemaru|Togedemaru, M|100/100
+|turn|14
+|
+|t:|1641725721
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|27/100
+|move|p2a: Togedemaru|Reversal|p1a: Kommo-o
+|-activate|p1a: Kommo-o|move: Substitute|[damage]
+|
+|upkeep
+|turn|15
+|
+|t:|1641725728
+|move|p1a: Kommo-o|Drain Punch|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-ability|p2a: Togedemaru|Sturdy
+|-damage|p2a: Togedemaru|1/100
+|-heal|p1a: Kommo-o|72/100|[from] drain|[of] p2a: Togedemaru
+|-enditem|p2a: Togedemaru|Weakness Policy
+|-boost|p2a: Togedemaru|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Togedemaru|spa|2|[from] item: Weakness Policy
+|move|p2a: Togedemaru|Iron Head|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|
+|upkeep
+|turn|16
+|
+|t:|1641725731
+|move|p1a: Kommo-o|Drain Punch|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-damage|p2a: Togedemaru|0 fnt
+|-heal|p1a: Kommo-o|72/100|[from] drain|[of] p2a: Togedemaru
+|faint|p2a: Togedemaru
+|
+|upkeep
+|
+|t:|1641725735
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|17
+|
+|t:|1641725738
+|move|p1a: Kommo-o|Thunder Punch|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|upkeep
+|
+|t:|1641725742
+|switch|p2a: Toxtricity|Toxtricity, M|100/100
+|turn|18
+|
+|t:|1641725744
+|move|p1a: Kommo-o|Drain Punch|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|0 fnt
+|-heal|p1a: Kommo-o|100/100|[from] drain|[of] p2a: Toxtricity
+|faint|p2a: Toxtricity
+|
+|upkeep
+|
+|t:|1641725748
+|switch|p2a: Conkeldurr|Conkeldurr, F|100/100 brn
+|turn|19
+|
+|t:|1641725750
+|move|p1a: Kommo-o|Drain Punch|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|win|kyysg
+|raw|kyysg's rating: 1574 &rarr; <strong>1596</strong><br />(+22 for winning)
+|raw|jimbonagga's rating: 1605 &rarr; <strong>1583</strong><br />(-22 for losing)
+|l|☆jimbonagga

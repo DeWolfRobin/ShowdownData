@@ -1,0 +1,258 @@
+|j|☆IzunaTheBot
+|j|☆newtensei
+|t:|1641702581
+|gametype|singles
+|player|p1|IzunaTheBot|102|1215
+|player|p2|newtensei|iris|1228
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Heatran, F|
+|poke|p1|Ditto|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Gengar, F|
+|poke|p1|Hippowdon, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Heatran, M|
+|poke|p2|Tangrowth, F|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Tapu Lele|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by newtensei)
+|
+|t:|1641702589
+|start
+|switch|p1a: Heatran|Heatran, F|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|1
+|
+|t:|1641702596
+|move|p2a: Urshifu|Surging Strikes|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|49/100
+|-enditem|p1a: Heatran|Air Balloon
+|-supereffective|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-hitcount|p1: Heatran|2
+|
+|upkeep
+|
+|t:|1641702607
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: Urshifu|[from] ability: Imposter
+|turn|2
+|
+|t:|1641702617
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|move|p1a: Ditto|Surging Strikes|p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-crit|p2a: Tangrowth
+|-damage|p2a: Tangrowth|95/100
+|-damage|p1a: Ditto|84/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-crit|p2a: Tangrowth
+|-damage|p2a: Tangrowth|90/100
+|-damage|p1a: Ditto|68/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-crit|p2a: Tangrowth
+|-damage|p2a: Tangrowth|85/100
+|-damage|p1a: Ditto|51/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|-hitcount|p2a: Tangrowth|3
+|
+|upkeep
+|turn|3
+|
+|t:|1641702638
+|switch|p1a: Gengar|Gengar, F|100/100
+|move|p2a: Tangrowth|Knock Off|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|11/100
+|-enditem|p1a: Gengar|Choice Specs|[from] move: Knock Off|[of] p2a: Tangrowth
+|
+|upkeep
+|turn|4
+|
+|t:|1641702651
+|move|p1a: Gengar|Sludge Bomb|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|0 fnt
+|faint|p2a: Tangrowth
+|
+|upkeep
+|
+|t:|1641702665
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|5
+|
+|t:|1641702671
+|move|p2a: Dragapult|Shadow Ball|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|-start|p2a: Dragapult|Disable|Shadow Ball|[from] ability: Cursed Body|[of] p1a: Gengar
+|faint|p1a: Gengar
+|
+|upkeep
+|
+|t:|1641702676
+|switch|p1a: Dragapult|Dragapult, F, shiny|100/100
+|turn|6
+|
+|t:|1641702682
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Dragapult|Dragon Darts|p2a: Tapu Lele
+|-immune|p2a: Tapu Lele
+|
+|upkeep
+|turn|7
+|
+|t:|1641702698
+|move|p1a: Dragapult|Shadow Ball|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|36/100
+|-unboost|p2a: Tapu Lele|spd|1
+|move|p2a: Tapu Lele|Moonblast|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-enditem|p1a: Dragapult|Focus Sash
+|-damage|p1a: Dragapult|1/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641702715
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Urshifu
+|-damage|p2a: Urshifu|61/100
+|-unboost|p2a: Urshifu|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641702724
+|move|p2a: Urshifu|Aqua Jet|p1a: Dragapult
+|-activate|p1a: Dragapult|move: Psychic Terrain
+|move|p1a: Dragapult|Dragon Darts|p2a: Urshifu
+|-damage|p2a: Urshifu|35/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Urshifu
+|-damage|p2a: Urshifu|9/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641702739
+|switch|p2a: Tapu Lele|Tapu Lele|36/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641702745
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|9/100
+|turn|11
+|
+|t:|1641702757
+|switch|p1a: Ditto|Ditto|51/100
+|-transform|p1a: Ditto|p2a: Urshifu|[from] ability: Imposter
+|move|p2a: Urshifu|Aqua Jet|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|34/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641702776
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Ditto|Surging Strikes|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|87/100
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|74/100
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|60/100
+|-hitcount|p2a: Dragapult|3
+|
+|upkeep
+|turn|13
+|inactive|newtensei has 120 seconds left.
+|
+|t:|1641702802
+|move|p1a: Ditto|Surging Strikes|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|47/100
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|33/100
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|19/100
+|-hitcount|p2a: Dragapult|3
+|move|p2a: Dragapult|U-turn|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|25/100
+|inactive|newtensei has 120 seconds left.
+|
+|t:|1641702813
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|9/100|[from]move: U-turn
+|
+|upkeep
+|turn|14
+|inactive|newtensei has 120 seconds left.
+|
+|t:|1641702828
+|move|p1a: Ditto|Surging Strikes|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-crit|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|-hitcount|p2: Urshifu|1
+|
+|upkeep
+|
+|t:|1641702844
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|15
+|
+|t:|1641702851
+|move|p1a: Ditto|Surging Strikes|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|64/100
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|27/100
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-hitcount|p2: Heatran|3
+|
+|upkeep
+|-message|newtensei forfeited.
+|
+|win|IzunaTheBot
+|raw|IzunaTheBot's rating: 1215 &rarr; <strong>1241</strong><br />(+26 for winning)
+|raw|newtensei's rating: 1228 &rarr; <strong>1202</strong><br />(-26 for losing)
+|l|☆newtensei

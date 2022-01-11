@@ -1,0 +1,313 @@
+|j|☆randombloak
+|j|☆Hidregion
+|t:|1641745660
+|gametype|singles
+|player|p1|randombloak|169|1027
+|player|p2|Hidregion|1|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mimikyu, F|
+|poke|p1|Omastar, F|
+|poke|p1|Shuckle, F|
+|poke|p1|Magnezone|
+|poke|p1|Slowbro-Galar, F|
+|poke|p1|Blacephalon|
+|poke|p2|Hydreigon, M|
+|poke|p2|Charizard, F|
+|poke|p2|Chansey, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Aggron, M|
+|poke|p2|Mew|
+|teampreview
+|c|☆randombloak|gl hf
+|
+|t:|1641745672
+|start
+|switch|p1a: Shuckle|Shuckle, F|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|1
+|
+|t:|1641745679
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Shuckle|Knock Off|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|-status|p1a: Shuckle|psn
+|
+|-damage|p1a: Shuckle|88/100 psn|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641745688
+|move|p2a: Toxapex|Protect|p2a: Toxapex
+|-singleturn|p2a: Toxapex|Protect
+|move|p1a: Shuckle|Knock Off|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p1a: Shuckle|94/100 psn|[from] item: Leftovers
+|-damage|p1a: Shuckle|82/100 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641745695
+|move|p2a: Toxapex|Substitute|p2a: Toxapex
+|-start|p2a: Toxapex|Substitute
+|-damage|p2a: Toxapex|76/100
+|move|p1a: Shuckle|Knock Off|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Substitute|[damage]
+|
+|-heal|p1a: Shuckle|88/100 psn|[from] item: Leftovers
+|-damage|p1a: Shuckle|76/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641745715
+|move|p2a: Toxapex|Toxic||[still]
+|-fail|p2a: Toxapex
+|move|p1a: Shuckle|Sticky Web|p2a: Toxapex
+|-sidestart|p2: Hidregion|move: Sticky Web
+|
+|-heal|p1a: Shuckle|82/100 psn|[from] item: Leftovers
+|-damage|p1a: Shuckle|70/100 psn|[from] psn
+|upkeep
+|turn|5
+|c|☆randombloak|protect baneful bunker dont work
+|
+|t:|1641745727
+|switch|p2a: Charizard|Charizard, F|100/100
+|move|p1a: Shuckle|Stealth Rock|p2a: Charizard
+|-sidestart|p2: Hidregion|move: Stealth Rock
+|
+|-heal|p1a: Shuckle|76/100 psn|[from] item: Leftovers
+|-damage|p1a: Shuckle|63/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641745736
+|move|p2a: Charizard|Flare Blitz|p1a: Shuckle
+|-damage|p1a: Shuckle|26/100 psn
+|-damage|p2a: Charizard|90/100|[from] Recoil
+|move|p1a: Shuckle|Knock Off|p2a: Charizard
+|-damage|p2a: Charizard|84/100
+|-enditem|p2a: Charizard|Leftovers|[from] move: Knock Off|[of] p1a: Shuckle
+|
+|-heal|p1a: Shuckle|33/100 psn|[from] item: Leftovers
+|-damage|p1a: Shuckle|20/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641745749
+|move|p2a: Charizard|Dragon Dance|p2a: Charizard
+|-boost|p2a: Charizard|atk|1
+|-boost|p2a: Charizard|spe|1
+|move|p1a: Shuckle|Infestation|p2a: Charizard
+|-resisted|p2a: Charizard
+|-damage|p2a: Charizard|83/100
+|-activate|p2a: Charizard|move: Infestation|[of] p1a: Shuckle
+|
+|-heal|p1a: Shuckle|26/100 psn|[from] item: Leftovers
+|-damage|p1a: Shuckle|14/100 psn|[from] psn
+|-damage|p2a: Charizard|71/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641745761
+|move|p2a: Charizard|Dragon Dance|p2a: Charizard
+|-boost|p2a: Charizard|atk|1
+|-boost|p2a: Charizard|spe|1
+|move|p1a: Shuckle|Knock Off|p2a: Charizard
+|-damage|p2a: Charizard|67/100
+|
+|-heal|p1a: Shuckle|20/100 psn|[from] item: Leftovers
+|-damage|p1a: Shuckle|8/100 psn|[from] psn
+|-damage|p2a: Charizard|54/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641745785
+|move|p2a: Charizard|Dragon Dance|p2a: Charizard
+|-boost|p2a: Charizard|atk|1
+|-boost|p2a: Charizard|spe|1
+|move|p1a: Shuckle|Infestation|p2a: Charizard
+|-resisted|p2a: Charizard
+|-crit|p2a: Charizard
+|-damage|p2a: Charizard|53/100
+|
+|-heal|p1a: Shuckle|14/100 psn|[from] item: Leftovers
+|-damage|p1a: Shuckle|2/100 psn|[from] psn
+|-damage|p2a: Charizard|41/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1641745795
+|move|p2a: Charizard|Flare Blitz|p1a: Shuckle
+|-damage|p1a: Shuckle|0 fnt
+|faint|p1a: Shuckle
+|-damage|p2a: Charizard|40/100|[from] Recoil
+|
+|-end|p2a: Charizard|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641745804
+|switch|p1a: Doppelgengar|Mimikyu, F|100/100
+|turn|11
+|
+|t:|1641745809
+|move|p2a: Charizard|Outrage|p1a: Doppelgengar
+|-immune|p1a: Doppelgengar
+|move|p1a: Doppelgengar|Swords Dance|p1a: Doppelgengar
+|-boost|p1a: Doppelgengar|atk|2
+|
+|upkeep
+|turn|12
+|c|☆randombloak|lol
+|
+|t:|1641745815
+|move|p2a: Charizard|Outrage|p1a: Doppelgengar
+|-immune|p1a: Doppelgengar
+|move|p1a: Doppelgengar|Swords Dance|p1a: Doppelgengar
+|-boost|p1a: Doppelgengar|atk|2
+|
+|upkeep
+|turn|13
+|
+|t:|1641745821
+|move|p2a: Charizard|Earthquake|p1a: Doppelgengar
+|-activate|p1a: Doppelgengar|ability: Disguise
+|-damage|p1a: Doppelgengar|100/100
+|detailschange|p1a: Doppelgengar|Mimikyu-Busted, F
+|-damage|p1a: Doppelgengar|88/100|[from] pokemon: Mimikyu-Busted
+|-enditem|p1a: Doppelgengar|Red Card|[of] p2a: Charizard
+|drag|p2a: Hydreigon|Hydreigon, M|100/100
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|move|p1a: Doppelgengar|Swords Dance|p1a: Doppelgengar
+|-boost|p1a: Doppelgengar|atk|2
+|
+|upkeep
+|turn|14
+|c|☆randombloak|gaming
+|
+|t:|1641745838
+|move|p1a: Doppelgengar|Play Rough|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1641745843
+|switch|p2a: Chansey|Chansey, F|100/100
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|-activate|p2a: Chansey|move: Sticky Web
+|-unboost|p2a: Chansey|spe|1
+|turn|15
+|
+|t:|1641745849
+|move|p1a: Doppelgengar|Play Rough|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|
+|upkeep
+|
+|t:|1641745857
+|switch|p2a: Charizard|Charizard, F|40/100
+|-damage|p2a: Charizard|0 fnt|[from] Stealth Rock
+|faint|p2a: Charizard
+|
+|t:|1641745863
+|switch|p2a: Toxapex|Toxapex, M|76/100
+|-activate|p2a: Toxapex|move: Sticky Web
+|-unboost|p2a: Toxapex|spe|1
+|-damage|p2a: Toxapex|63/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641745869
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Doppelgengar|Shadow Claw|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|-status|p1a: Doppelgengar|psn
+|
+|-damage|p1a: Doppelgengar|76/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641745878
+|move|p2a: Toxapex|Protect|p2a: Toxapex
+|-singleturn|p2a: Toxapex|Protect
+|move|p1a: Doppelgengar|Shadow Claw|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-damage|p1a: Doppelgengar|63/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641745885
+|move|p2a: Toxapex|Baneful Bunker||[still]
+|-fail|p2a: Toxapex
+|move|p1a: Doppelgengar|Shadow Claw|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|-damage|p1a: Doppelgengar|51/100 psn|[from] psn
+|upkeep
+|c|☆randombloak|told ya
+|
+|t:|1641745895
+|switch|p2a: Mew|Mew|100/100
+|-activate|p2a: Mew|move: Sticky Web
+|-unboost|p2a: Mew|spe|1
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|turn|19
+|c|☆randombloak|!weakness mew
+|c| randombloak|/raw <div class="infobox">Mew (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Bug, Dark, Ghost<br /><span class="message-effect-resist">Resistances</span>: Fighting, Psychic<br /><span class="message-effect-immune">Immunities</span>: <font color=#999999>None</font></div>
+|
+|t:|1641745906
+|move|p1a: Doppelgengar|Shadow Claw|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|-damage|p1a: Doppelgengar|39/100 psn|[from] psn
+|upkeep
+|
+|t:|1641745913
+|switch|p2a: Aggron|Aggron, M|100/100
+|-activate|p2a: Aggron|move: Sticky Web
+|-unboost|p2a: Aggron|spe|1
+|-damage|p2a: Aggron|94/100|[from] Stealth Rock
+|turn|20
+|c|☆randombloak|!weakness Aggron
+|c| randombloak|/raw <div class="infobox">Aggron (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: <b>Fighting</b>, <b>Ground</b>, Water<br /><span class="message-effect-resist">Resistances</span>: Bug, Dragon, Fairy, <b>Flying</b>, Ice, <b>Normal</b>, Psychic, Rock<br /><span class="message-effect-immune">Immunities</span>: Poison, Sandstorm damage, Toxic</div>
+|
+|t:|1641745924
+|move|p1a: Doppelgengar|Shadow Claw|p2a: Aggron
+|-damage|p2a: Aggron|24/100
+|move|p2a: Aggron|Double-Edge|p1a: Doppelgengar
+|-immune|p1a: Doppelgengar
+|
+|-damage|p1a: Doppelgengar|26/100 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641745935
+|move|p1a: Doppelgengar|Shadow Claw|p2a: Aggron
+|-damage|p2a: Aggron|0 fnt
+|faint|p2a: Aggron
+|
+|win|randombloak
+|raw|randombloak's rating: 1027 &rarr; <strong>1060</strong><br />(+33 for winning)
+|raw|Hidregion's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Hidregion
+|c|☆randombloak|gg wp

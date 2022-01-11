@@ -1,0 +1,267 @@
+|j|☆mymotherhatesme
+|j|☆Creased AF1s
+|t:|1641703522
+|gametype|singles
+|player|p1|mymotherhatesme|169|1212
+|player|p2|Creased AF1s|petrel|1227
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Arcanine, F|
+|poke|p1|Conkeldurr, M|
+|poke|p1|Swampert, F|
+|poke|p1|Heliolisk, M|
+|poke|p1|Crobat, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Zeraora|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Swampert, M|
+|poke|p2|Clefable, M|
+|teampreview
+|
+|t:|1641703534
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|1
+|
+|t:|1641703548
+|move|p2a: Corviknight|U-turn|p1a: Conkeldurr
+|-resisted|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|94/100
+|
+|t:|1641703553
+|switch|p2a: Swampert|Swampert, M|100/100|[from]move: U-turn
+|move|p1a: Conkeldurr|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|75/100
+|-enditem|p2a: Swampert|Leftovers|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1641703575
+|move|p2a: Swampert|Stealth Rock|p1a: Conkeldurr
+|-sidestart|p1: mymotherhatesme|move: Stealth Rock
+|move|p1a: Conkeldurr|Drain Punch|p2a: Swampert
+|-damage|p2a: Swampert|31/100
+|-heal|p1a: Conkeldurr|100/100 brn|[from] drain|[of] p2a: Swampert
+|
+|-damage|p1a: Conkeldurr|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641703584
+|move|p1a: Conkeldurr|Mach Punch|p2a: Swampert
+|-damage|p2a: Swampert|6/100
+|move|p2a: Swampert|Flip Turn|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|67/100 brn
+|
+|t:|1641703594
+|switch|p2a: Clefable|Clefable, M|100/100|[from]move: Flip Turn
+|
+|-damage|p1a: Conkeldurr|61/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641703604
+|move|p2a: Clefable|Moonblast|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|
+|t:|1641703610
+|switch|p1a: Crobat|Crobat, M|100/100
+|turn|5
+|
+|t:|1641703614
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Crobat|Defog|p2a: Corviknight
+|-unboost|p2a: Corviknight|evasion|1
+|-sideend|p1: mymotherhatesme|Stealth Rock|[from] move: Defog|[of] p1a: Crobat
+|
+|upkeep
+|turn|6
+|
+|t:|1641703627
+|move|p1a: Crobat|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|98/100
+|-damage|p1a: Crobat|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641703634
+|switch|p1a: Heliolisk|Heliolisk, M|100/100|[from]move: U-turn
+|move|p2a: Corviknight|U-turn|p1a: Heliolisk
+|-damage|p1a: Heliolisk|70/100
+|
+|t:|1641703649
+|switch|p2a: Zeraora|Zeraora|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1641703694
+|move|p2a: Zeraora|Close Combat|p1a: Heliolisk
+|-supereffective|p1a: Heliolisk
+|-damage|p1a: Heliolisk|0 fnt
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|faint|p1a: Heliolisk
+|
+|upkeep
+|
+|t:|1641703703
+|switch|p1a: Arcanine|Arcanine, F|100/100
+|-ability|p1a: Arcanine|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|turn|8
+|
+|t:|1641703713
+|switch|p2a: Swampert|Swampert, M|6/100
+|move|p1a: Arcanine|Extreme Speed|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-damage|p1a: Arcanine|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641703733
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|9
+|
+|t:|1641703747
+|move|p2a: Zapdos|Thunderous Kick|p1a: Arcanine
+|-damage|p1a: Arcanine|30/100
+|-unboost|p1a: Arcanine|def|1
+|move|p1a: Arcanine|Flare Blitz|p2a: Zapdos
+|-damage|p2a: Zapdos|22/100
+|-damage|p1a: Arcanine|5/100|[from] Recoil
+|-damage|p1a: Arcanine|0 fnt|[from] item: Life Orb
+|faint|p1a: Arcanine
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Creased AF1s)
+|
+|t:|1641703763
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|10
+|
+|t:|1641703771
+|switch|p2a: Corviknight|Corviknight, F|98/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragapult|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|44/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641703779
+|move|p1a: Dragapult|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641703781
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|12
+|inactive|mymotherhatesme has 120 seconds left.
+|
+|t:|1641703832
+|switch|p1a: Crobat|Crobat, M|84/100
+|move|p2a: Clefable|Moonblast|p1a: Crobat
+|-resisted|p1a: Crobat
+|-damage|p1a: Crobat|64/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641703840
+|switch|p2a: Zapdos|Zapdos-Galar|22/100
+|move|p1a: Crobat|Dual Wingbeat|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-hitcount|p2: Zapdos|1
+|
+|upkeep
+|
+|t:|1641703844
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|14
+|
+|t:|1641703851
+|switch|p1a: Swampert|Swampert, F|100/100
+|move|p2a: Zeraora|Knock Off|p1a: Swampert
+|-damage|p1a: Swampert|71/100
+|-enditem|p1a: Swampert|Assault Vest|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|15
+|inactive|mymotherhatesme has 120 seconds left.
+|
+|t:|1641703860
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Swampert|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|47/100
+|
+|-heal|p2a: Clefable|53/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641703868
+|move|p2a: Clefable|Moonblast|p1a: Swampert
+|-damage|p1a: Swampert|44/100
+|move|p1a: Swampert|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641703878
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|17
+|
+|t:|1641703887
+|move|p1a: Swampert|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1641703890
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|18
+|c|☆Creased AF1s|I love you
+|n|!Creased AF1s|creasedaf1s
+|c|☆mymotherhatesme|ok
+|
+|t:|1641703919
+|move|p2a: Zeraora|Knock Off|p1a: Swampert
+|-damage|p1a: Swampert|26/100
+|move|p1a: Swampert|Earthquake|p2a: Zeraora
+|-supereffective|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|win|mymotherhatesme
+|raw|mymotherhatesme's rating: 1212 &rarr; <strong>1238</strong><br />(+26 for winning)
+|raw|Creased AF1s's rating: 1227 &rarr; <strong>1201</strong><br />(-26 for losing)
+|l|!Creased AF1s

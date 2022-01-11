@@ -1,0 +1,287 @@
+|j|☆Laharl-chan
+|j|☆super_hot_flame
+|t:|1641768200
+|gametype|singles
+|player|p1|Laharl-chan|marley|1055
+|player|p2|super_hot_flame|266|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Umbreon, F|
+|poke|p1|Hydreigon, M|
+|poke|p1|Silvally-*|
+|poke|p1|Lycanroc-Midnight, M|
+|poke|p1|Lucario, F|
+|poke|p1|Porygon-Z|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Arctozolt|
+|poke|p2|Arctovish|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Moltres|
+|poke|p2|Zeraora|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by super_hot_flame)
+|
+|t:|1641768213
+|start
+|switch|p1a: Porygon-Z|Porygon-Z|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|1
+|
+|t:|1641768227
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Porygon-Z|Trick|p2a: Slowking
+|-activate|p1a: Porygon-Z|move: Trick|[of] p2a: Slowking
+|-item|p2a: Slowking|Lagging Tail|[from] move: Trick
+|-item|p1a: Porygon-Z|Assault Vest|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1641768238
+|move|p1a: Porygon-Z|Tri Attack|p2a: Slowking
+|-damage|p2a: Slowking|74/100
+|move|p2a: Slowking|Future Sight|p1a: Porygon-Z
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1641768252
+|move|p1a: Porygon-Z|Tri Attack|p2a: Slowking
+|-damage|p2a: Slowking|45/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|65/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641768263
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Porygon-Z|Tri Attack|p2a: Ninetales
+|-damage|p2a: Ninetales|46/100
+|-status|p2a: Ninetales|brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Porygon-Z|59/100|[from] Hail
+|-end|p1a: Porygon-Z|move: Future Sight
+|-crit|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|0 fnt
+|faint|p1a: Porygon-Z
+|-damage|p2a: Ninetales|40/100 brn|[from] brn
+|upkeep
+|
+|t:|1641768278
+|switch|p1a: Lucario|Lucario, F|100/100
+|turn|5
+|
+|t:|1641768287
+|switch|p2a: Moltres|Moltres|100/100
+|move|p1a: Lucario|Drain Punch|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|85/100
+|-status|p1a: Lucario|brn|[from] ability: Flame Body|[of] p2a: Moltres
+|-damage|p1a: Lucario|91/100 brn|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Lucario|84/100 brn|[from] Hail
+|-damage|p2a: Moltres|79/100|[from] Hail
+|-damage|p1a: Lucario|78/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641768301
+|move|p1a: Lucario|Dark Pulse|p2a: Moltres
+|-damage|p2a: Moltres|45/100
+|-damage|p1a: Lucario|68/100 brn|[from] item: Life Orb
+|move|p2a: Moltres|Mystical Fire|p1a: Lucario
+|-supereffective|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Moltres|39/100|[from] Hail
+|upkeep
+|
+|t:|1641768316
+|switch|p1a: Lycanroc|Lycanroc-Midnight, M, shiny|100/100
+|turn|7
+|
+|t:|1641768323
+|switch|p2a: Slowking|Slowking-Galar, M|79/100
+|move|p1a: Lycanroc|Stone Edge|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|8/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Lycanroc|94/100|[from] Hail
+|-damage|p2a: Slowking|2/100|[from] Hail
+|upkeep
+|turn|8
+|
+|t:|1641768334
+|move|p1a: Lycanroc|Throat Chop|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Lycanroc|88/100|[from] Hail
+|upkeep
+|
+|t:|1641768339
+|switch|p2a: Arctovish|Arctovish|100/100
+|turn|9
+|
+|t:|1641768347
+|move|p2a: Arctovish|Fishious Rend|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|faint|p1a: Lycanroc
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641768360
+|switch|p1a: Silvally|Silvally-Ghost|100/100
+|turn|10
+|
+|t:|1641768364
+|move|p2a: Arctovish|Fishious Rend|p1a: Silvally
+|-damage|p1a: Silvally|0 fnt
+|faint|p1a: Silvally
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|c|☆Laharl-chan|Gg
+|
+|t:|1641768373
+|switch|p1a: Umbreon|Umbreon, F|100/100
+|turn|11
+|
+|t:|1641768378
+|move|p2a: Arctovish|Fishious Rend|p1a: Umbreon
+|-damage|p1a: Umbreon|10/100
+|move|p1a: Umbreon|Dark Pulse|p2a: Arctovish
+|-damage|p2a: Arctovish|49/100
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641768386
+|switch|p2a: Ninetales|Ninetales-Alola, M|40/100 brn
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Umbreon|Dark Pulse|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|19/100 brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Umbreon|4/100|[from] Hail
+|-damage|p2a: Ninetales|13/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641768397
+|move|p2a: Ninetales|Freeze-Dry|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Ninetales|7/100 brn|[from] brn
+|upkeep
+|
+|t:|1641768404
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|turn|14
+|
+|t:|1641768407
+|move|p2a: Ninetales|Freeze-Dry|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|45/100
+|move|p1a: Hydreigon|Dragon Dance|p1a: Hydreigon
+|-boost|p1a: Hydreigon|atk|1
+|-boost|p1a: Hydreigon|spe|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hydreigon|39/100|[from] Hail
+|-damage|p2a: Ninetales|1/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641768419
+|move|p1a: Hydreigon|Crunch|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hydreigon|33/100|[from] Hail
+|upkeep
+|
+|t:|1641768439
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|turn|16
+|
+|t:|1641768443
+|move|p1a: Hydreigon|Earthquake|p2a: Arctozolt
+|-supereffective|p2a: Arctozolt
+|-damage|p2a: Arctozolt|0 fnt
+|faint|p2a: Arctozolt
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hydreigon|27/100|[from] Hail
+|upkeep
+|
+|t:|1641768450
+|switch|p2a: Moltres|Moltres|39/100
+|turn|17
+|
+|t:|1641768457
+|move|p1a: Hydreigon|Draco Meteor|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|-unboost|p1a: Hydreigon|spa|2
+|faint|p2a: Moltres
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hydreigon|20/100|[from] Hail
+|upkeep
+|
+|t:|1641768467
+|switch|p2a: Arctovish|Arctovish|49/100
+|turn|18
+|
+|t:|1641768472
+|move|p1a: Hydreigon|Crunch|p2a: Arctovish
+|-damage|p2a: Arctovish|0 fnt
+|faint|p2a: Arctovish
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hydreigon|14/100|[from] Hail
+|upkeep
+|
+|t:|1641768478
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|19
+|
+|t:|1641768482
+|move|p1a: Hydreigon|Earthquake|p2a: Zeraora
+|-supereffective|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|win|Laharl-chan
+|raw|Laharl-chan's rating: 1055 &rarr; <strong>1082</strong><br />(+27 for winning)
+|raw|super_hot_flame's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆super_hot_flame

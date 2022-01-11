@@ -1,0 +1,464 @@
+|j|☆bees_puke_honey
+|j|☆hchw90
+|t:|1641823865
+|gametype|singles
+|player|p1|bees_puke_honey|sailor|1384
+|player|p2|hchw90|102|1396
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hippowdon, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Dracozolt|
+|poke|p1|Palossand, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Slowking-Galar, M|
+|poke|p2|Chansey, F|
+|poke|p2|Heatran, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragapult, F|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bees_puke_honey)
+|
+|t:|1641823895
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641823906
+|switch|p1a: Dracozolt|Dracozolt|100/100
+|move|p2a: Rotom|Trick|p1a: Dracozolt
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Dracozolt
+|-item|p1a: Dracozolt|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Lum Berry|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641823918
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641823922
+|move|p2a: Landorus|Stealth Rock|p1a: Slowking
+|-sidestart|p1: bees_puke_honey|move: Stealth Rock
+|move|p1a: Slowking|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641823943
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|turn|4
+|
+|t:|1641823951
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Heatran|Lava Plume|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|78/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Fini|72/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641823971
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Tapu Fini|Trick|p2a: Zapdos
+|-activate|p1a: Tapu Fini|move: Trick|[of] p2a: Zapdos
+|-item|p2a: Zapdos|Choice Scarf|[from] move: Trick
+|-item|p1a: Tapu Fini|Leftovers|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|-damage|p1a: Tapu Fini|66/100|[from] Sandstorm
+|-heal|p1a: Tapu Fini|72/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641823981
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|move|p2a: Zapdos|Toxic|p1a: Slowking|[miss]
+|-miss|p2a: Zapdos|p1a: Slowking
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|88/100|[from] Sandstorm
+|-damage|p1a: Slowking|82/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641823999
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Slowking|Psychic|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|85/100
+|-enditem|p2a: Heatran|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|76/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641824008
+|switch|p1a: Tapu Fini|Tapu Fini|72/100
+|-damage|p1a: Tapu Fini|59/100|[from] Stealth Rock
+|move|p2a: Heatran|Earth Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|44/100
+|-unboost|p1a: Tapu Fini|spd|1
+|
+|-weather|none
+|-heal|p1a: Tapu Fini|50/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|9
+|
+|t:|1641824014
+|switch|p2a: Chansey|Chansey, F|100/100
+|move|p1a: Tapu Fini|Whirlpool|p2a: Chansey
+|-damage|p2a: Chansey|97/100
+|-activate|p2a: Chansey|move: Whirlpool|[of] p1a: Tapu Fini
+|
+|-heal|p1a: Tapu Fini|56/100|[from] item: Leftovers
+|-damage|p2a: Chansey|85/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1641824023
+|move|p1a: Tapu Fini|Defog|p2a: Chansey
+|-unboost|p2a: Chansey|evasion|1
+|-sideend|p1: bees_puke_honey|Stealth Rock|[from] move: Defog|[of] p1a: Tapu Fini
+|move|p2a: Chansey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|27/100
+|
+|-heal|p1a: Tapu Fini|33/100|[from] item: Leftovers
+|-damage|p2a: Chansey|72/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1641824030
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Chansey
+|-damage|p2a: Chansey|36/100
+|move|p2a: Chansey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|4/100
+|
+|-heal|p1a: Tapu Fini|10/100|[from] item: Leftovers
+|-damage|p2a: Chansey|24/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1641824039
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Chansey
+|-damage|p2a: Chansey|12/100
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|62/100
+|
+|-heal|p1a: Tapu Fini|16/100|[from] item: Leftovers
+|-damage|p2a: Chansey|50/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|13
+|
+|t:|1641824047
+|switch|p1a: Palossand|Palossand, M|100/100
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|99/100
+|
+|-end|p2a: Chansey|Whirlpool|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1641824067
+|switch|p2a: Rotom|Rotom-Wash|94/100
+|move|p1a: Palossand|Stealth Rock|p2a: Rotom
+|-sidestart|p2: hchw90|move: Stealth Rock
+|
+|upkeep
+|turn|15
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641824094
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Rotom|Hydro Pump|p1a: Slowking
+|-damage|p1a: Slowking|74/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641824104
+|move|p2a: Rotom|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|56/100
+|
+|t:|1641824106
+|switch|p2a: Heatran|Heatran, M|85/100|[from]move: Volt Switch
+|-damage|p2a: Heatran|73/100|[from] Stealth Rock
+|move|p1a: Slowking|Psychic|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|58/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641824116
+|switch|p1a: Tapu Fini|Tapu Fini|16/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Heatran|Stealth Rock|p1a: Tapu Fini
+|-sidestart|p1: bees_puke_honey|move: Stealth Rock
+|
+|-heal|p1a: Tapu Fini|23/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641824130
+|move|p1a: Tapu Fini|Whirlpool|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|44/100
+|-activate|p2a: Heatran|move: Whirlpool|[of] p1a: Tapu Fini
+|move|p2a: Heatran|Earth Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|7/100
+|
+|-heal|p1a: Tapu Fini|13/100|[from] item: Leftovers
+|-damage|p2a: Heatran|32/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1641824143
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Heatran
+|-damage|p2a: Heatran|16/100
+|move|p2a: Heatran|Earth Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|-end|p2a: Heatran|Whirlpool|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641824155
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|20
+|
+|t:|1641824171
+|switch|p2a: Chansey|Chansey, F|99/100
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|move|p1a: Dragonite|Earthquake|p2a: Chansey
+|-damage|p2a: Chansey|61/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641824187
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chansey|94/100|[from] Sandstorm
+|-fieldend|Misty Terrain
+|upkeep
+|turn|22
+|
+|t:|1641824196
+|switch|p1a: Dracozolt|Dracozolt|100/100
+|-damage|p1a: Dracozolt|88/100|[from] Stealth Rock
+|move|p2a: Chansey|Seismic Toss|p1a: Dracozolt
+|-damage|p1a: Dracozolt|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chansey|88/100|[from] Sandstorm
+|upkeep
+|turn|23
+|
+|t:|1641824222
+|switch|p2a: Heatran|Heatran, M|16/100
+|-damage|p2a: Heatran|4/100|[from] Stealth Rock
+|move|p1a: Dracozolt|Bolt Beak|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641824224
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641824238
+|switch|p1a: Palossand|Palossand, M|100/100
+|-damage|p1a: Palossand|94/100|[from] Stealth Rock
+|move|p2a: Dragapult|Dragon Darts|p1a: Palossand
+|-damage|p1a: Palossand|77/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Palossand
+|-damage|p1a: Palossand|61/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|82/100|[from] Sandstorm
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641824245
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|82/100|[from] Sandstorm
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641824251
+|move|p2a: Dragapult|Phantom Force|p1a: Palossand|[from]lockedmove
+|-supereffective|p1a: Palossand
+|-damage|p1a: Palossand|36/100
+|-damage|p2a: Dragapult|72/100|[from] item: Rocky Helmet|[of] p1a: Palossand
+|move|p1a: Palossand|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|66/100 tox|[from] Sandstorm
+|-heal|p2a: Dragapult|72/100 tox|[from] item: Leftovers
+|-damage|p2a: Dragapult|66/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641824275
+|switch|p2a: Chansey|Chansey, F|88/100
+|-damage|p2a: Chansey|76/100|[from] Stealth Rock
+|move|p1a: Palossand|Shore Up|p1a: Palossand
+|-heal|p1a: Palossand|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chansey|70/100|[from] Sandstorm
+|upkeep
+|turn|28
+|
+|t:|1641824283
+|switch|p1a: Dracozolt|Dracozolt|60/100
+|-damage|p1a: Dracozolt|48/100|[from] Stealth Rock
+|move|p2a: Chansey|Aromatherapy|p2a: Chansey
+|-activate|p2a: Chansey|move: Aromatherapy
+|-curestatus|p2: Dragapult|tox|[msg]
+|
+|-weather|none
+|upkeep
+|turn|29
+|
+|t:|1641824297
+|move|p1a: Dracozolt|Substitute|p1a: Dracozolt
+|-start|p1a: Dracozolt|Substitute
+|-damage|p1a: Dracozolt|23/100
+|move|p2a: Chansey|Seismic Toss|p1a: Dracozolt
+|-end|p1a: Dracozolt|Substitute
+|
+|upkeep
+|turn|30
+|
+|t:|1641824310
+|switch|p1a: Palossand|Palossand, M|100/100
+|-damage|p1a: Palossand|94/100|[from] Stealth Rock
+|move|p2a: Chansey|Seismic Toss|p1a: Palossand
+|-immune|p1a: Palossand
+|
+|upkeep
+|turn|31
+|
+|t:|1641824324
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|100/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641824329
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Chansey|Thunder Wave|p1a: Dragonite
+|-status|p1a: Dragonite|par
+|
+|upkeep
+|turn|33
+|
+|t:|1641824336
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Chansey|Seismic Toss|p1a: Dragonite
+|-damage|p1a: Dragonite|70/100 par
+|
+|upkeep
+|turn|34
+|
+|t:|1641824344
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Chansey|Seismic Toss|p1a: Dragonite
+|-damage|p1a: Dragonite|39/100 par
+|
+|upkeep
+|turn|35
+|
+|t:|1641824350
+|cant|p1a: Dragonite|par
+|move|p2a: Chansey|Seismic Toss|p1a: Dragonite
+|-damage|p1a: Dragonite|8/100 par
+|
+|upkeep
+|turn|36
+|
+|t:|1641824354
+|cant|p1a: Dragonite|par
+|move|p2a: Chansey|Seismic Toss|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641824357
+|switch|p1a: Hippowdon|Hippowdon, M|94/100
+|-damage|p1a: Hippowdon|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|37
+|-message|bees_puke_honey forfeited.
+|
+|win|hchw90
+|raw|bees_puke_honey's rating: 1384 &rarr; <strong>1365</strong><br />(-19 for losing)
+|raw|hchw90's rating: 1396 &rarr; <strong>1415</strong><br />(+19 for winning)
+|l|☆bees_puke_honey

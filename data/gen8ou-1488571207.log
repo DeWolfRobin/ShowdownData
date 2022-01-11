@@ -1,0 +1,55 @@
+|j|☆ahhh i c
+|j|☆John Number 2
+|t:|1641783359
+|gametype|singles
+|player|p1|ahhh i c|170|1360
+|player|p2|John Number 2|169|1331
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Magnezone|
+|poke|p1|Xatu, F|
+|poke|p1|Seismitoad, M|
+|poke|p1|Kingdra, F|
+|poke|p1|Kabutops, M|
+|poke|p2|Seismitoad, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Dracozolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ahhh i c)
+|
+|t:|1641783380
+|start
+|switch|p1a: Kabutops|Kabutops, M|100/100
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|turn|1
+|
+|t:|1641783387
+|move|p1a: Kabutops|Flip Turn|p2a: Seismitoad
+|-immune|p2a: Seismitoad|[from] ability: Water Absorb
+|move|p2a: Seismitoad|Earthquake|p1a: Kabutops
+|-supereffective|p1a: Kabutops
+|-damage|p1a: Kabutops|24/100
+|
+|upkeep
+|turn|2
+|-message|ahhh i c forfeited.
+|
+|win|John Number 2
+|raw|ahhh i c's rating: 1360 &rarr; <strong>1338</strong><br />(-22 for losing)
+|raw|John Number 2's rating: 1331 &rarr; <strong>1353</strong><br />(+22 for winning)
+|l|☆ahhh i c

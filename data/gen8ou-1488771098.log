@@ -1,0 +1,266 @@
+|j|☆Didikachu
+|j|☆jojj4
+|t:|1641819070
+|gametype|singles
+|player|p1|Didikachu|169|1000
+|player|p2|jojj4|169|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Heatran, M|
+|poke|p1|Blissey, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Toxapex, M|
+|poke|p2|Lycanroc-Dusk, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Incineroar, M|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Magnezone|
+|teampreview
+|
+|t:|1641819105
+|start
+|switch|p1a: Kikoojap|Urshifu-Rapid-Strike, F|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|turn|1
+|
+|t:|1641819114
+|move|p1a: Kikoojap|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|53/100
+|-unboost|p1a: Kikoojap|def|1
+|-unboost|p1a: Kikoojap|spd|1
+|-damage|p1a: Kikoojap|91/100|[from] item: Life Orb
+|move|p2a: Corviknight|Brave Bird|p1a: Kikoojap
+|-supereffective|p1a: Kikoojap
+|-damage|p1a: Kikoojap|0 fnt
+|faint|p1a: Kikoojap
+|-damage|p2a: Corviknight|27/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641819131
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|2
+|
+|t:|1641819137
+|switch|p2a: Incineroar|Incineroar, M|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Eruption|p2a: Incineroar
+|-resisted|p2a: Incineroar
+|-damage|p2a: Incineroar|80/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641819150
+|move|p1a: Heatran|Toxic|p2a: Incineroar
+|-status|p2a: Incineroar|tox
+|move|p2a: Incineroar|Cross Chop|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|41/100
+|
+|-damage|p2a: Incineroar|74/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641819167
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Incineroar|Cross Chop|p1a: Garchomp
+|-damage|p1a: Garchomp|68/100
+|-damage|p2a: Incineroar|61/100 tox|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-damage|p2a: Incineroar|49/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641819179
+|move|p1a: Garchomp|Earthquake|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|
+|upkeep
+|
+|t:|1641819185
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|6
+|
+|t:|1641819198
+|switch|p1a: Blissey|Blissey, F, shiny|100/100
+|move|p2a: Rillaboom|Drum Beating|p1a: Blissey
+|-damage|p1a: Blissey|45/100
+|-unboost|p1a: Blissey|spe|1
+|
+|-heal|p1a: Blissey|51/100|[from] Grassy Terrain
+|-heal|p1a: Blissey|57/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641819212
+|move|p2a: Rillaboom|Drain Punch|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|10/100
+|move|p1a: Blissey|Rest|p1a: Blissey
+|-status|p1a: Blissey|slp|[from] move: Rest
+|-heal|p1a: Blissey|100/100 slp|[silent]
+|
+|upkeep
+|turn|8
+|
+|t:|1641819222
+|move|p2a: Rillaboom|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|68/100 slp
+|-enditem|p1a: Blissey|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|cant|p1a: Blissey|slp
+|move|p1a: Blissey|Sleep Talk|p1a: Blissey
+|move|p1a: Blissey|Dazzling Gleam|p2a: Rillaboom|[from]move: Sleep Talk
+|-damage|p2a: Rillaboom|89/100
+|
+|-heal|p2a: Rillaboom|96/100|[from] Grassy Terrain
+|-heal|p1a: Blissey|74/100 slp|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1641819240
+|move|p2a: Rillaboom|Drain Punch|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|23/100 slp
+|-heal|p2a: Rillaboom|100/100|[from] drain|[of] p1a: Blissey
+|cant|p1a: Blissey|slp
+|move|p1a: Blissey|Sleep Talk|p1a: Blissey
+|move|p1a: Blissey|Rest||[from]move: Sleep Talk|[still]
+|-fail|p1a: Blissey
+|
+|-heal|p1a: Blissey|29/100 slp|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641819257
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|-curestatus|p1a: Blissey|slp|[msg]
+|move|p1a: Blissey|Rest|p1a: Blissey
+|-status|p1a: Blissey|slp|[from] move: Rest
+|-heal|p1a: Blissey|100/100 slp|[silent]
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641819271
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|cant|p1a: Blissey|slp
+|move|p1a: Blissey|Sleep Talk|p1a: Blissey
+|move|p1a: Blissey|Dazzling Gleam|p2a: Crawdaunt|[from]move: Sleep Talk
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|45/100
+|
+|-heal|p2a: Crawdaunt|51/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641819289
+|move|p2a: Crawdaunt|Dragon Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|1
+|-boost|p2a: Crawdaunt|spe|1
+|cant|p1a: Blissey|slp
+|move|p1a: Blissey|Sleep Talk|p1a: Blissey
+|move|p1a: Blissey|Rest||[from]move: Sleep Talk|[still]
+|-fail|p1a: Blissey
+|
+|-heal|p2a: Crawdaunt|57/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641819301
+|move|p2a: Crawdaunt|Crabhammer|p1a: Blissey
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-heal|p2a: Crawdaunt|63/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641819313
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|turn|14
+|
+|t:|1641819318
+|move|p2a: Crawdaunt|Crunch|p1a: Toxapex
+|-damage|p1a: Toxapex|35/100
+|move|p1a: Toxapex|Gunk Shot|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|15/100
+|
+|-heal|p2a: Crawdaunt|21/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|41/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641819332
+|move|p2a: Crawdaunt|Crunch|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-heal|p2a: Crawdaunt|27/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641819341
+|switch|p1a: Garchomp|Garchomp, M|68/100
+|turn|16
+|
+|t:|1641819348
+|move|p2a: Crawdaunt|Crabhammer|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Crawdaunt|15/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Crawdaunt|21/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641819358
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-fail|p2a: Crawdaunt|unboost|Attack|[from] ability: Hyper Cutter|[of] p2a: Crawdaunt
+|turn|17
+|
+|t:|1641819371
+|move|p2a: Crawdaunt|Crabhammer|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Crawdaunt|5/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|-heal|p2a: Crawdaunt|11/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641819380
+|switch|p1a: Heatran|Heatran, M|41/100
+|turn|18
+|
+|t:|1641819383
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|win|jojj4
+|raw|Didikachu's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|jojj4's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|☆Didikachu

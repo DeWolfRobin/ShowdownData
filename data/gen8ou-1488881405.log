@@ -1,0 +1,311 @@
+|j|☆dragonmaster441
+|j|☆Atheist 4 Jesus
+|t:|1641832587
+|gametype|singles
+|player|p1|dragonmaster441|elesa|1132
+|player|p2|Atheist 4 Jesus|supernerd|1118
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heliolisk, F|
+|poke|p1|Pelipper, M|
+|poke|p1|Barraskewda, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Volcanion|
+|poke|p1|Inteleon, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Mimikyu, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Primarina, F|
+|poke|p2|Dusclops, F|
+|poke|p2|Blaziken, F|
+|teampreview
+|c|☆dragonmaster441|hf!;nice team
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dragonmaster441)
+|
+|t:|1641832609
+|start
+|switch|p1a: Heliolisk|Heliolisk, F, shiny|100/100
+|switch|p2a: Dusclops|Dusclops, F|100/100
+|-ability|p2a: Dusclops|Pressure
+|turn|1
+|c|☆Atheist 4 Jesus|ty it is random generated
+|
+|t:|1641832619
+|move|p1a: Heliolisk|Glare|p2a: Dusclops
+|-status|p2a: Dusclops|par
+|move|p2a: Dusclops|Toxic|p1a: Heliolisk
+|-status|p1a: Heliolisk|tox
+|
+|-damage|p1a: Heliolisk|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641832628
+|move|p1a: Heliolisk|Glare|p2a: Dusclops
+|-fail|p2a: Dusclops|par
+|move|p2a: Dusclops|Infestation|p1a: Heliolisk
+|-damage|p1a: Heliolisk|90/100 tox
+|-activate|p1a: Heliolisk|move: Infestation|[of] p2a: Dusclops
+|
+|-damage|p1a: Heliolisk|77/100 tox|[from] psn
+|-damage|p1a: Heliolisk|65/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1641832635
+|move|p1a: Heliolisk|Glare|p2a: Dusclops
+|-fail|p2a: Dusclops|par
+|cant|p2a: Dusclops|par
+|
+|-damage|p1a: Heliolisk|47/100 tox|[from] psn
+|-damage|p1a: Heliolisk|34/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1641832641
+|move|p1a: Heliolisk|Glare|p2a: Dusclops
+|-fail|p2a: Dusclops|par
+|move|p2a: Dusclops|Infestation|p1a: Heliolisk
+|-damage|p1a: Heliolisk|30/100 tox
+|
+|-damage|p1a: Heliolisk|6/100 tox|[from] psn
+|-damage|p1a: Heliolisk|0 fnt|[from] move: Infestation|[partiallytrapped]
+|faint|p1a: Heliolisk
+|upkeep
+|
+|t:|1641832649
+|switch|p1a: Pelipper|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|5
+|
+|t:|1641832652
+|move|p1a: Pelipper|Knock Off|p2a: Dusclops
+|-supereffective|p2a: Dusclops
+|-damage|p2a: Dusclops|83/100 par
+|-enditem|p2a: Dusclops|Eviolite|[from] move: Knock Off|[of] p1a: Pelipper
+|move|p2a: Dusclops|Toxic|p1a: Pelipper
+|-status|p1a: Pelipper|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641832658
+|move|p1a: Pelipper|U-turn|p2a: Dusclops
+|-resisted|p2a: Dusclops
+|-damage|p2a: Dusclops|78/100 par
+|
+|t:|1641832662
+|switch|p1a: Volcanion|Volcanion|100/100|[from]move: U-turn
+|move|p2a: Dusclops|Infestation|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|99/100
+|-activate|p1a: Volcanion|move: Infestation|[of] p2a: Dusclops
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|86/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1641832669
+|move|p1a: Volcanion|Steam Eruption|p2a: Dusclops
+|-damage|p2a: Dusclops|10/100 par
+|move|p2a: Dusclops|Toxic|p1a: Volcanion
+|-status|p1a: Volcanion|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|80/100 tox|[from] psn
+|-damage|p1a: Volcanion|68/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641832676
+|move|p1a: Volcanion|Steam Eruption|p2a: Dusclops
+|-damage|p2a: Dusclops|0 fnt
+|faint|p2a: Dusclops
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|56/100 tox|[from] psn
+|-end|p1a: Volcanion|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641832688
+|switch|p2a: Primarina|Primarina, F|100/100
+|turn|9
+|
+|t:|1641832695
+|move|p1a: Volcanion|Steam Eruption|p2a: Primarina
+|-resisted|p2a: Primarina
+|-crit|p2a: Primarina
+|-damage|p2a: Primarina|34/100
+|move|p2a: Primarina|Surf|p1a: Volcanion
+|-heal|p1a: Volcanion|81/100 tox|[from] ability: Water Absorb|[of] p2a: Primarina
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|63/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641832701
+|move|p1a: Volcanion|Steam Eruption|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|39/100 tox|[from] psn
+|upkeep
+|
+|t:|1641832704
+|switch|p2a: Dragapult|Dragapult, F, shiny|100/100
+|turn|11
+|
+|t:|1641832712
+|move|p1a: Volcanion|Steam Eruption|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|56/100
+|-status|p2a: Dragapult|brn
+|move|p2a: Dragapult|Psychic Fangs|p1a: Volcanion
+|-damage|p1a: Volcanion|24/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Volcanion|0 fnt|[from] psn
+|faint|p1a: Volcanion
+|-damage|p2a: Dragapult|50/100 brn|[from] brn
+|upkeep
+|
+|t:|1641832723
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|100/100
+|turn|12
+|
+|t:|1641832729
+|move|p2a: Dragapult|Sucker Punch|p1a: Barraskewda
+|-damage|p1a: Barraskewda|74/100
+|move|p1a: Barraskewda|Flip Turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|9/100 brn
+|
+|t:|1641832736
+|switch|p1a: Inteleon|Inteleon, F, shiny|100/100|[from]move: Flip Turn
+|
+|-weather|none
+|-damage|p2a: Dragapult|3/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641832744
+|move|p1a: Inteleon|Ice Beam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641832751
+|switch|p2a: Mimikyu|Mimikyu, F|100/100
+|turn|14
+|
+|t:|1641832756
+|move|p1a: Inteleon|U-turn|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|100/100
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, F
+|-damage|p2a: Mimikyu|88/100|[from] pokemon: Mimikyu-Busted
+|
+|t:|1641832761
+|switch|p1a: Pelipper|Pelipper, M, shiny|94/100 tox|[from]move: U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Mimikyu|Wood Hammer|p1a: Pelipper
+|-damage|p1a: Pelipper|70/100 tox
+|-damage|p2a: Mimikyu|78/100|[from] Recoil
+|-heal|p2a: Mimikyu|82/100|[from] item: Shell Bell|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|64/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641832769
+|move|p2a: Mimikyu|Play Rough|p1a: Pelipper
+|-damage|p1a: Pelipper|36/100 tox
+|-heal|p2a: Mimikyu|86/100|[from] item: Shell Bell|[of] p1a: Pelipper
+|move|p1a: Pelipper|U-turn|p2a: Mimikyu
+|-resisted|p2a: Mimikyu
+|-damage|p2a: Mimikyu|82/100
+|
+|t:|1641832775
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641832782
+|move|p1a: Tornadus|Nasty Plot|p1a: Tornadus
+|-boost|p1a: Tornadus|spa|2
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1641832786
+|move|p1a: Tornadus|Hurricane|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641832790
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|18
+|
+|t:|1641832796
+|move|p1a: Tornadus|Focus Blast|p2a: Ferrothorn|[miss]
+|-miss|p1a: Tornadus|p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Tornadus
+|-start|p1a: Tornadus|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Tornadus|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|19
+|
+|t:|1641832807
+|move|p1a: Tornadus|Focus Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641832810
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|turn|20
+|
+|t:|1641832816
+|move|p1a: Tornadus|Hurricane|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|win|dragonmaster441
+|raw|dragonmaster441's rating: 1132 &rarr; <strong>1156</strong><br />(+24 for winning)
+|raw|Atheist 4 Jesus's rating: 1118 &rarr; <strong>1094</strong><br />(-24 for losing)
+|c|☆dragonmaster441|gg!wp
+|c|☆Atheist 4 Jesus|gg

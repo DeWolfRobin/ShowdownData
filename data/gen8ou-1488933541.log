@@ -1,0 +1,432 @@
+|j|☆DumbLick1337
+|j|☆Plexis
+|t:|1641838075
+|gametype|singles
+|player|p1|DumbLick1337|102|1306
+|player|p2|Plexis|roughneck|1337
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Hydreigon, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Hippowdon, F|
+|poke|p1|Excadrill, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Buzzwole|
+|poke|p2|Zapdos|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Tyranitar, M|
+|teampreview
+|
+|t:|1641838079
+|start
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|switch|p2a: Get Scared By Me|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Get Scared By Me
+|turn|1
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|c|☆Plexis|u to
+|
+|t:|1641838087
+|move|p2a: Get Scared By Me|Stealth Rock|p1a: Hippowdon
+|-sidestart|p1: DumbLick1337|move: Stealth Rock
+|move|p1a: Hippowdon|Earthquake|p2a: Get Scared By Me
+|-supereffective|p2a: Get Scared By Me
+|-damage|p2a: Get Scared By Me|47/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641838094
+|move|p2a: Get Scared By Me|Blizzard|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|44/100
+|move|p1a: Hippowdon|Stealth Rock|p2a: Get Scared By Me
+|-sidestart|p2: Plexis|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641838100
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Get Scared By Me|Blizzard|p1a: Corviknight
+|-damage|p1a: Corviknight|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|66/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641838111
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Get Scared By Me|Flamethrower|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|66/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641838119
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Get Scared By Me|Flamethrower|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|56/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|62/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641838128
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Get Scared By Me|Flamethrower|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|66/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641838137
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Get Scared By Me|Flamethrower|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641838146
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Get Scared By Me|Flamethrower|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|57/100
+|
+|-weather|none
+|-heal|p1a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641838156
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Get Scared By Me|Flamethrower|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|56/100
+|
+|-heal|p1a: Corviknight|62/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641838166
+|switch|p2a: Fortuneteller|Slowking-Galar, M|100/100
+|-damage|p2a: Fortuneteller|88/100|[from] Stealth Rock
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1641838182
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|move|p2a: Fortuneteller|Future Sight|p1a: Corviknight
+|-start|p2a: Fortuneteller|move: Future Sight
+|
+|upkeep
+|turn|12
+|
+|t:|1641838190
+|switch|p2a: Hedgehog|Zapdos|100/100
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|
+|upkeep
+|turn|13
+|
+|t:|1641838199
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|move|p2a: Hedgehog|Discharge|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|64/100
+|
+|-end|p1a: Hydreigon|move: Future Sight
+|-immune|p1a: Hydreigon
+|-heal|p1a: Hydreigon|70/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641838220
+|move|p1a: Hydreigon|Nasty Plot|p1a: Hydreigon
+|-boost|p1a: Hydreigon|spa|2
+|move|p2a: Hedgehog|Volt Switch|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-crit|p1a: Hydreigon
+|-damage|p1a: Hydreigon|34/100
+|
+|t:|1641838227
+|switch|p2a: Get Scared By Me|Tyranitar, M|47/100|[from]move: Volt Switch
+|-damage|p2a: Get Scared By Me|35/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Get Scared By Me
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydreigon|28/100|[from] Sandstorm
+|-heal|p1a: Hydreigon|34/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641838236
+|move|p1a: Hydreigon|Substitute|p1a: Hydreigon
+|-start|p1a: Hydreigon|Substitute
+|-damage|p1a: Hydreigon|9/100
+|move|p2a: Get Scared By Me|Blizzard|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-end|p1a: Hydreigon|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydreigon|3/100|[from] Sandstorm
+|-heal|p1a: Hydreigon|9/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641838247
+|move|p1a: Hydreigon|Dark Pulse|p2a: Get Scared By Me
+|-resisted|p2a: Get Scared By Me
+|-damage|p2a: Get Scared By Me|14/100
+|move|p2a: Get Scared By Me|Dark Pulse|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641838247
+|switch|p1a: rotomwash|Rotom-Wash|100/100
+|-damage|p1a: rotomwash|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641838264
+|switch|p2a: Fortuneteller|Slowking-Galar, M|100/100
+|-damage|p2a: Fortuneteller|88/100|[from] Stealth Rock
+|move|p1a: rotomwash|Hydro Pump|p2a: Fortuneteller
+|-damage|p2a: Fortuneteller|63/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: rotomwash|82/100|[from] Sandstorm
+|-damage|p2a: Fortuneteller|57/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1641838274
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Fortuneteller|Future Sight|p1a: Corviknight
+|-start|p2a: Fortuneteller|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Fortuneteller|51/100|[from] Sandstorm
+|-heal|p1a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641838284
+|switch|p2a: Hedgehog|Zapdos|100/100
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hedgehog|94/100|[from] Sandstorm
+|-heal|p1a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641838293
+|move|p1a: Corviknight|Roost||[still]
+|-fail|p1a: Corviknight|heal
+|move|p2a: Hedgehog|Discharge|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|12/100
+|-status|p1a: Corviknight|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hedgehog|88/100|[from] Sandstorm
+|-end|p1a: Corviknight|move: Future Sight
+|-resisted|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|upkeep
+|
+|t:|1641838293
+|switch|p1a: Hippowdon|Hippowdon, F|44/100
+|-damage|p1a: Hippowdon|38/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641838307
+|move|p2a: Hedgehog|Heat Wave|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|none
+|upkeep
+|
+|t:|1641838307
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641838314
+|switch|p1a: rotomwash|Rotom-Wash|82/100
+|-damage|p1a: rotomwash|70/100|[from] Stealth Rock
+|move|p2a: Hedgehog|Heat Wave|p1a: rotomwash
+|-resisted|p1a: rotomwash
+|-damage|p1a: rotomwash|49/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641838322
+|move|p1a: rotomwash|Volt Switch|p2a: Hedgehog
+|-damage|p2a: Hedgehog|54/100
+|
+|t:|1641838322
+|switch|p1a: Excadrill|Excadrill, M|97/100|[from]move: Volt Switch
+|-damage|p1a: Excadrill|94/100|[from] Stealth Rock
+|move|p2a: Hedgehog|Volt Switch|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|24
+|
+|t:|1641838331
+|move|p1a: Excadrill|Earthquake|p2a: Hedgehog
+|-immune|p2a: Hedgehog
+|move|p2a: Hedgehog|Heat Wave|p1a: Excadrill|[miss]
+|-miss|p2a: Hedgehog|p1a: Excadrill
+|
+|upkeep
+|turn|25
+|
+|t:|1641838342
+|move|p1a: Excadrill|Earthquake|p2a: Hedgehog
+|-immune|p2a: Hedgehog
+|move|p2a: Hedgehog|Heat Wave|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|4/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641838348
+|move|p1a: Excadrill|Iron Head|p2a: Hedgehog
+|-resisted|p2a: Hedgehog
+|-damage|p2a: Hedgehog|29/100
+|-damage|p1a: Excadrill|0 fnt|[from] item: Life Orb
+|faint|p1a: Excadrill
+|move|p2a: Hedgehog|Extrasensory|p1: Excadrill|[notarget]
+|-fail|p2a: Hedgehog
+|
+|upkeep
+|
+|t:|1641838348
+|switch|p1a: rotomwash|Rotom-Wash|49/100
+|-damage|p1a: rotomwash|36/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1641838367
+|move|p1a: rotomwash|Hydro Pump|p2a: Hedgehog
+|-damage|p2a: Hedgehog|0 fnt
+|faint|p2a: Hedgehog
+|
+|upkeep
+|
+|t:|1641838373
+|switch|p2a: Get Scared By Me|Tyranitar, M|14/100
+|-damage|p2a: Get Scared By Me|1/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Get Scared By Me
+|turn|28
+|
+|t:|1641838381
+|move|p1a: rotomwash|Hydro Pump|p2a: Get Scared By Me
+|-supereffective|p2a: Get Scared By Me
+|-crit|p2a: Get Scared By Me
+|-damage|p2a: Get Scared By Me|0 fnt
+|faint|p2a: Get Scared By Me
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: rotomwash|30/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641838392
+|switch|p2a: Terminator|Excadrill, M|100/100
+|-damage|p2a: Terminator|97/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641838402
+|move|p2a: Terminator|Rapid Spin|p1a: rotomwash
+|-damage|p1a: rotomwash|6/100
+|-boost|p2a: Terminator|spe|1
+|-sideend|p2: Plexis|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Terminator
+|move|p1a: rotomwash|Hydro Pump|p2a: Terminator|[miss]
+|-miss|p1a: rotomwash|p2a: Terminator
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: rotomwash|0 fnt|[from] Sandstorm
+|faint|p1a: rotomwash
+|upkeep
+|
+|t:|1641838403
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|30
+|
+|t:|1641838415
+|move|p2a: Terminator|Iron Head|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|win|Plexis
+|raw|DumbLick1337's rating: 1306 &rarr; <strong>1288</strong><br />(-18 for losing)
+|raw|Plexis's rating: 1337 &rarr; <strong>1355</strong><br />(+18 for winning)
+|c|☆DumbLick1337|gg

@@ -1,0 +1,734 @@
+|j|☆cowboy cracker boy
+|j|☆cxd55d
+|t:|1641715782
+|gametype|singles
+|player|p1|cowboy cracker boy|doctor|1130
+|player|p2|cxd55d|veteran|1089
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Swampert, F|
+|poke|p1|Jirachi|
+|poke|p1|Snorlax, M|
+|poke|p1|Latios, M|
+|poke|p1|Lucario, F|
+|poke|p1|Volcarona, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Skarmory, M|
+|poke|p2|Azumarill, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1641715793
+|start
+|switch|p1a: Swampert|Swampert, F|100/100
+|switch|p2a: Skarmory|Skarmory, M, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cxd55d)
+|inactive|cowboy cracker boy has 120 seconds left.
+|
+|t:|1641715863
+|move|p2a: Skarmory|Stealth Rock|p1a: Swampert
+|-sidestart|p1: cowboy cracker boy|move: Stealth Rock
+|move|p1a: Swampert|Stealth Rock|p2a: Skarmory
+|-sidestart|p2: cxd55d|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641715872
+|move|p2a: Skarmory|Spikes|p1a: Swampert
+|-sidestart|p1: cowboy cracker boy|Spikes
+|move|p1a: Swampert|Ice Punch|p2a: Skarmory
+|-damage|p2a: Skarmory|86/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641715879
+|move|p2a: Skarmory|Spikes|p1a: Swampert
+|-sidestart|p1: cowboy cracker boy|Spikes
+|move|p1a: Swampert|Waterfall|p2a: Skarmory
+|-damage|p2a: Skarmory|62/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641715885
+|move|p2a: Skarmory|Spikes|p1a: Swampert
+|-sidestart|p1: cowboy cracker boy|Spikes
+|move|p1a: Swampert|Waterfall|p2a: Skarmory
+|-damage|p2a: Skarmory|39/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641715892
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|89/100
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Swampert|Waterfall|p2a: Skarmory
+|-damage|p2a: Skarmory|66/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641715901
+|move|p1a: Swampert|Waterfall|p2a: Skarmory
+|-damage|p2a: Skarmory|43/100
+|move|p2a: Skarmory|Whirlwind|p1a: Swampert
+|drag|p1a: Snorlax|Snorlax, M, shiny|100/100
+|-damage|p1a: Snorlax|75/100|[from] Spikes
+|-damage|p1a: Snorlax|63/100|[from] Stealth Rock
+|
+|-heal|p1a: Snorlax|69/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641715912
+|move|p1a: Snorlax|Body Slam|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|30/100
+|move|p2a: Skarmory|Whirlwind|p1a: Snorlax
+|drag|p1a: Lucario|Lucario, F|100/100
+|-damage|p1a: Lucario|76/100|[from] Spikes
+|-damage|p1a: Lucario|73/100|[from] Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1641715923
+|move|p1a: Lucario|Drain Punch|p2a: Skarmory
+|-damage|p2a: Skarmory|8/100
+|-heal|p1a: Lucario|86/100|[from] drain|[of] p2a: Skarmory
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|58/100
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|9
+|
+|t:|1641715932
+|move|p1a: Lucario|Drain Punch|p2a: Skarmory
+|-damage|p2a: Skarmory|36/100
+|-heal|p1a: Lucario|99/100|[from] drain|[of] p2a: Skarmory
+|move|p2a: Skarmory|Whirlwind|p1a: Lucario
+|drag|p1a: Jirachi|Jirachi|100/100
+|-damage|p1a: Jirachi|75/100|[from] Spikes
+|-damage|p1a: Jirachi|69/100|[from] Stealth Rock
+|
+|-heal|p1a: Jirachi|75/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641715944
+|move|p1a: Jirachi|Body Slam|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|31/100
+|-status|p2a: Skarmory|par
+|cant|p2a: Skarmory|par
+|
+|-heal|p1a: Jirachi|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641715953
+|move|p1a: Jirachi|Substitute|p1a: Jirachi
+|-start|p1a: Jirachi|Substitute
+|-damage|p1a: Jirachi|57/100
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|81/100 par
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|-heal|p1a: Jirachi|63/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641715958
+|move|p1a: Jirachi|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|73/100 par
+|cant|p2a: Skarmory|par
+|
+|-heal|p1a: Jirachi|69/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641715966
+|move|p1a: Jirachi|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|65/100 par
+|cant|p2a: Skarmory|flinch
+|
+|-heal|p1a: Jirachi|75/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641715976
+|move|p1a: Jirachi|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|57/100 par
+|cant|p2a: Skarmory|flinch
+|
+|-heal|p1a: Jirachi|81/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641715988
+|move|p1a: Jirachi|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|49/100 par
+|cant|p2a: Skarmory|flinch
+|
+|-heal|p1a: Jirachi|88/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641715995
+|move|p1a: Jirachi|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|41/100 par
+|cant|p2a: Skarmory|par
+|
+|-heal|p1a: Jirachi|94/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641716002
+|move|p1a: Jirachi|Iron Head|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|32/100 par
+|move|p2a: Skarmory|Whirlwind|p1a: Jirachi
+|drag|p1a: Lucario|Lucario, F|99/100
+|-damage|p1a: Lucario|96/100|[from] Stealth Rock
+|-damage|p1a: Lucario|71/100|[from] Spikes
+|
+|upkeep
+|turn|18
+|
+|t:|1641716014
+|move|p1a: Lucario|Swords Dance|p1a: Lucario
+|-boost|p1a: Lucario|atk|2
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|82/100 par
+|-singleturn|p2a: Skarmory|move: Roost
+|
+|upkeep
+|turn|19
+|
+|t:|1641716020
+|move|p1a: Lucario|Drain Punch|p2a: Skarmory
+|-damage|p2a: Skarmory|40/100 par
+|-heal|p1a: Lucario|96/100|[from] drain|[of] p2a: Skarmory
+|move|p2a: Skarmory|Whirlwind|p1a: Lucario
+|drag|p1a: Volcarona|Volcarona, F|100/100
+|-damage|p1a: Volcarona|76/100|[from] Spikes
+|-damage|p1a: Volcarona|26/100|[from] Stealth Rock
+|
+|-heal|p1a: Volcarona|32/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641716031
+|move|p1a: Volcarona|Fiery Dance|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Skarmory
+|
+|-heal|p1a: Volcarona|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716034
+|switch|p2a: Rotom|Rotom-Heat, shiny|100/100
+|-damage|p2a: Rotom|76/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641716052
+|move|p2a: Rotom|Volt Switch|p1a: Volcarona
+|-damage|p1a: Volcarona|6/100
+|
+|t:|1641716057
+|switch|p2a: Excadrill|Excadrill, M, shiny|100/100|[from]move: Volt Switch
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|move|p1a: Volcarona|Fiery Dance|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-heal|p1a: Volcarona|12/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716069
+|switch|p2a: Azumarill|Azumarill, M, shiny|100/100
+|-damage|p2a: Azumarill|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641716073
+|move|p1a: Volcarona|Giga Drain|p2a: Azumarill
+|-ability|p2a: Azumarill|Sap Sipper|boost
+|-boost|p2a: Azumarill|atk|1
+|move|p2a: Azumarill|Knock Off|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|-enditem|p1a: Volcarona|Leftovers|[from] move: Knock Off|[of] p2a: Azumarill
+|faint|p1a: Volcarona
+|
+|-heal|p2a: Azumarill|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716085
+|switch|p1a: Jirachi|Jirachi|94/100
+|-damage|p1a: Jirachi|69/100|[from] Spikes
+|-damage|p1a: Jirachi|63/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641716093
+|move|p1a: Jirachi|Body Slam|p2a: Azumarill
+|-damage|p2a: Azumarill|76/100
+|move|p2a: Azumarill|Knock Off|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|28/100
+|-enditem|p1a: Jirachi|Leftovers|[from] move: Knock Off|[of] p2a: Azumarill
+|
+|-heal|p2a: Azumarill|82/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641716101
+|move|p1a: Jirachi|Body Slam|p2a: Azumarill
+|-damage|p2a: Azumarill|64/100
+|-status|p2a: Azumarill|par
+|move|p2a: Azumarill|Knock Off|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|6/100
+|
+|-heal|p2a: Azumarill|70/100 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641716110
+|move|p1a: Jirachi|Iron Head|p2a: Azumarill
+|-damage|p2a: Azumarill|41/100 par
+|cant|p2a: Azumarill|flinch
+|
+|-heal|p2a: Azumarill|47/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641716118
+|move|p1a: Jirachi|Iron Head|p2a: Azumarill
+|-damage|p2a: Azumarill|21/100 par
+|cant|p2a: Azumarill|par
+|
+|-heal|p2a: Azumarill|27/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641716125
+|move|p1a: Jirachi|Iron Head|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1641716135
+|switch|p2a: Rotom|Rotom-Heat, shiny|76/100
+|-damage|p2a: Rotom|51/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641716140
+|move|p2a: Rotom|Volt Switch|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|t:|1641716144
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100|[from]move: Volt Switch
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641716155
+|switch|p1a: Swampert|Swampert, F|100/100
+|-damage|p1a: Swampert|75/100|[from] Spikes
+|-damage|p1a: Swampert|69/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641716159
+|move|p1a: Swampert|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|25/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|75/100
+|
+|-heal|p1a: Swampert|75/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641716170
+|move|p1a: Swampert|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|11/100
+|move|p2a: Toxapex|Sludge Bomb|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|67/100
+|
+|-heal|p1a: Swampert|73/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641716177
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Swampert|Earthquake|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p1a: Swampert|79/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641716185
+|switch|p2a: Rotom|Rotom-Heat, shiny|51/100
+|-damage|p2a: Rotom|26/100|[from] Stealth Rock
+|move|p1a: Swampert|Earthquake|p2a: Rotom
+|-immune|p2a: Rotom|[from] ability: Levitate
+|
+|-heal|p1a: Swampert|85/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641716193
+|move|p2a: Rotom|Trick|p1a: Swampert
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Swampert
+|-item|p1a: Swampert|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Leftovers|[from] move: Trick
+|move|p1a: Swampert|Earthquake|p2a: Rotom
+|-immune|p2a: Rotom|[from] ability: Levitate
+|
+|-heal|p2a: Rotom|32/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641716203
+|switch|p1a: Snorlax|Snorlax, M, shiny|69/100
+|-damage|p1a: Snorlax|44/100|[from] Spikes
+|-damage|p1a: Snorlax|32/100|[from] Stealth Rock
+|move|p2a: Rotom|Overheat|p1a: Snorlax
+|-damage|p1a: Snorlax|13/100
+|-unboost|p2a: Rotom|spa|2
+|
+|-heal|p2a: Rotom|38/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|19/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641716213
+|move|p2a: Rotom|Volt Switch|p1a: Snorlax
+|-damage|p1a: Snorlax|10/100
+|
+|t:|1641716216
+|switch|p2a: Heatran|Heatran, M, shiny|100/100|[from]move: Volt Switch
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|100/100 slp|[silent]
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641716228
+|move|p2a: Heatran|Will-O-Wisp||[still]
+|-fail|p2a: Heatran
+|cant|p1a: Snorlax|slp
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641716232
+|move|p2a: Heatran|Magma Storm|p1a: Snorlax
+|-damage|p1a: Snorlax|87/100 slp
+|-activate|p1a: Snorlax|move: Magma Storm|[of] p2a: Heatran
+|cant|p1a: Snorlax|slp
+|
+|-heal|p1a: Snorlax|93/100 slp|[from] item: Leftovers
+|-damage|p1a: Snorlax|81/100 slp|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|38
+|
+|t:|1641716240
+|move|p2a: Heatran|Magma Storm|p1a: Snorlax
+|-damage|p1a: Snorlax|67/100 slp
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|81/100
+|-status|p2a: Heatran|par
+|
+|-heal|p1a: Snorlax|73/100|[from] item: Leftovers
+|-heal|p2a: Heatran|87/100 par|[from] item: Leftovers
+|-damage|p1a: Snorlax|61/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|39
+|
+|t:|1641716246
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|move|p2a: Heatran|Will-O-Wisp|p1a: Snorlax
+|-status|p1a: Snorlax|brn
+|
+|-heal|p2a: Heatran|93/100 par|[from] item: Leftovers
+|-heal|p1a: Snorlax|67/100 brn|[from] item: Leftovers
+|-damage|p1a: Snorlax|61/100 brn|[from] brn
+|-damage|p1a: Snorlax|48/100 brn|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|40
+|
+|t:|1641716254
+|cant|p2a: Heatran|par
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p2a: Heatran|99/100 par|[from] item: Leftovers
+|-heal|p1a: Snorlax|55/100 brn|[from] item: Leftovers
+|-damage|p1a: Snorlax|48/100 brn|[from] brn
+|-damage|p1a: Snorlax|36/100 brn|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|41
+|
+|t:|1641716258
+|cant|p2a: Heatran|par
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|100/100 slp|[silent]
+|
+|-heal|p2a: Heatran|100/100 par|[from] item: Leftovers
+|-damage|p1a: Snorlax|88/100 slp|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|42
+|
+|t:|1641716266
+|move|p2a: Heatran|Magma Storm|p1a: Snorlax
+|-damage|p1a: Snorlax|74/100 slp
+|cant|p1a: Snorlax|slp
+|
+|-heal|p1a: Snorlax|80/100 slp|[from] item: Leftovers
+|-end|p1a: Snorlax|Magma Storm|[partiallytrapped]
+|upkeep
+|turn|43
+|
+|t:|1641716272
+|move|p2a: Heatran|Magma Storm|p1a: Snorlax
+|-damage|p1a: Snorlax|68/100 slp
+|-activate|p1a: Snorlax|move: Magma Storm|[of] p2a: Heatran
+|cant|p1a: Snorlax|slp
+|
+|-heal|p1a: Snorlax|74/100 slp|[from] item: Leftovers
+|-damage|p1a: Snorlax|62/100 slp|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|44
+|
+|t:|1641716280
+|move|p2a: Heatran|Magma Storm|p1a: Snorlax
+|-damage|p1a: Snorlax|49/100 slp
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Crunch|p2a: Heatran
+|-damage|p2a: Heatran|56/100 par
+|-unboost|p2a: Heatran|def|1
+|
+|-heal|p2a: Heatran|62/100 par|[from] item: Leftovers
+|-heal|p1a: Snorlax|55/100|[from] item: Leftovers
+|-damage|p1a: Snorlax|43/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|45
+|
+|t:|1641716291
+|move|p2a: Heatran|Will-O-Wisp|p1a: Snorlax
+|-status|p1a: Snorlax|brn
+|move|p1a: Snorlax|Crunch|p2a: Heatran
+|-damage|p2a: Heatran|30/100 par
+|
+|-heal|p2a: Heatran|37/100 par|[from] item: Leftovers
+|-heal|p1a: Snorlax|49/100 brn|[from] item: Leftovers
+|-damage|p1a: Snorlax|43/100 brn|[from] brn
+|-damage|p1a: Snorlax|31/100 brn|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|46
+|
+|t:|1641716302
+|cant|p2a: Heatran|par
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|100/100 slp|[silent]
+|
+|-heal|p2a: Heatran|43/100 par|[from] item: Leftovers
+|-damage|p1a: Snorlax|88/100 slp|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|47
+|
+|t:|1641716312
+|switch|p2a: Toxapex|Toxapex, F, shiny|44/100
+|-damage|p2a: Toxapex|32/100|[from] Stealth Rock
+|cant|p1a: Snorlax|slp
+|
+|-heal|p1a: Snorlax|94/100 slp|[from] item: Leftovers
+|-end|p1a: Snorlax|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|48
+|
+|t:|1641716316
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|82/100
+|cant|p1a: Snorlax|slp
+|
+|-heal|p1a: Snorlax|99/100 slp|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1641716322
+|move|p2a: Toxapex|Toxic Spikes|p1a: Snorlax
+|-sidestart|p1: cowboy cracker boy|move: Toxic Spikes
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Toxapex
+|-damage|p2a: Toxapex|34/100
+|-damage|p1a: Snorlax|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|
+|-heal|p1a: Snorlax|90/100|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1641716329
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|84/100
+|move|p1a: Snorlax|Body Slam|p2a: Toxapex
+|-damage|p2a: Toxapex|33/100
+|-damage|p1a: Snorlax|73/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|
+|-heal|p1a: Snorlax|79/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1641716337
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|83/100
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|85/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1641716343
+|move|p2a: Toxapex|Sludge Bomb|p1a: Snorlax
+|-damage|p1a: Snorlax|74/100
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|80/100|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1641716348
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Snorlax|Body Slam|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|-status|p1a: Snorlax|psn
+|
+|-heal|p1a: Snorlax|86/100 psn|[from] item: Leftovers
+|-damage|p1a: Snorlax|74/100 psn|[from] psn
+|upkeep
+|turn|54
+|
+|t:|1641716355
+|move|p2a: Toxapex|Toxic Spikes|p1a: Snorlax
+|-sidestart|p1: cowboy cracker boy|move: Toxic Spikes
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|80/100 psn|[from] item: Leftovers
+|-damage|p1a: Snorlax|67/100 psn|[from] psn
+|upkeep
+|turn|55
+|
+|t:|1641716364
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|74/100 psn|[from] item: Leftovers
+|-damage|p1a: Snorlax|61/100 psn|[from] psn
+|upkeep
+|turn|56
+|
+|t:|1641716371
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|100/100 slp|[silent]
+|
+|upkeep
+|turn|57
+|
+|t:|1641716379
+|move|p2a: Toxapex|Sludge Bomb|p1a: Snorlax
+|-damage|p1a: Snorlax|88/100 slp
+|cant|p1a: Snorlax|slp
+|
+|-heal|p1a: Snorlax|95/100 slp|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1641716384
+|move|p2a: Toxapex|Sludge Bomb|p1a: Snorlax
+|-damage|p1a: Snorlax|82/100 slp
+|cant|p1a: Snorlax|slp
+|
+|-heal|p1a: Snorlax|88/100 slp|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1641716390
+|move|p2a: Toxapex|Sludge Bomb|p1a: Snorlax
+|-damage|p1a: Snorlax|77/100 slp
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|-damage|p1a: Snorlax|60/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|faint|p2a: Toxapex
+|
+|-heal|p1a: Snorlax|67/100|[from] item: Leftovers
+|upkeep
+|-message|cxd55d forfeited.
+|
+|win|cowboy cracker boy
+|raw|cowboy cracker boy's rating: 1130 &rarr; <strong>1152</strong><br />(+22 for winning)
+|raw|cxd55d's rating: 1089 &rarr; <strong>1068</strong><br />(-21 for losing)
+|l|☆cxd55d
+|c|☆cowboy cracker boy|ggs

@@ -1,0 +1,861 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641724490
+|gametype|singles
+|player|p1|1 True Lycan|#splxiiicryonicles|
+|player|p2|Trosko|#splxiiiwolfpack|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Clefable, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Tapu Fini|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Magnezone|
+|poke|p2|Clefable, M|
+|teampreview
+|c|☆Trosko|hf bro
+|c|☆1 True Lycan|u2
+|c|+ilesaural|troskoo!!
+|inactive|1 True Lycan has 270 seconds left.
+|inactive|Trosko has 270 seconds left.
+|inactive|Trosko has 240 seconds left.
+|
+|t:|1641724566
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: IMPERMANENCE|Tornadus-Therian, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1641724585
+|switch|p2a: ANIMALS|Landorus-Therian, M|100/100
+|-ability|p2a: ANIMALS|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|move|p1a: Tyranitar|Stealth Rock|p2a: ANIMALS
+|-sidestart|p2: Trosko|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|inactive|Trosko has 270 seconds left.
+|
+|t:|1641724607
+|move|p2a: ANIMALS|Stealth Rock|p1a: Tyranitar
+|-sidestart|p1: 1 True Lycan|move: Stealth Rock
+|move|p1a: Tyranitar|Toxic|p2a: ANIMALS|[miss]
+|-miss|p1a: Tyranitar|p2a: ANIMALS
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641724616
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: ANIMALS|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|91/100
+|-damage|p2a: ANIMALS|84/100|[from] item: Rocky Helmet|[of] p1a: Clefable
+|
+|t:|1641724622
+|switch|p2a: GIVING BLOOD|Magnezone|100/100|[from]move: U-turn
+|-damage|p2a: GIVING BLOOD|94/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|
+|t:|1641724633
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p1a: Ferrothorn|95/100|[from] Stealth Rock
+|move|p2a: GIVING BLOOD|Volt Switch|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|73/100
+|
+|t:|1641724643
+|switch|p2a: IMPERMANENCE|Tornadus-Therian, M|100/100|[from]move: Volt Switch
+|-damage|p2a: IMPERMANENCE|76/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: IMPERMANENCE|70/100|[from] Sandstorm
+|-heal|p1a: Ferrothorn|79/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641724660
+|switch|p1a: Clefable|Clefable, M|91/100
+|move|p2a: IMPERMANENCE|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|83/100
+|-damage|p2a: IMPERMANENCE|53/100|[from] item: Rocky Helmet|[of] p1a: Clefable
+|-enditem|p1a: Clefable|Rocky Helmet|[from] move: Knock Off|[of] p2a: IMPERMANENCE
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641724667
+|move|p2a: IMPERMANENCE|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|77/100
+|
+|t:|1641724681
+|switch|p2a: LIBERTINE|Tapu Fini|100/100|[from]move: U-turn
+|-damage|p2a: LIBERTINE|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: LIBERTINE
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641724705
+|move|p2a: LIBERTINE|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|69/100
+|move|p1a: Clefable|Moonblast|p2a: LIBERTINE
+|-damage|p2a: LIBERTINE|62/100
+|-unboost|p2a: LIBERTINE|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641724712
+|switch|p2a: METEOR|Ferrothorn, M|100/100
+|-damage|p2a: METEOR|94/100|[from] Stealth Rock
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|-heal|p2a: METEOR|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Trosko has 270 seconds left.
+|inactive|1 True Lycan has 270 seconds left.
+|
+|t:|1641724753
+|switch|p2a: LITTLE WONDER|Clefable, M|100/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641724763
+|switch|p2a: GIVING BLOOD|Magnezone|94/100
+|-damage|p2a: GIVING BLOOD|88/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: GIVING BLOOD
+|-resisted|p2a: GIVING BLOOD
+|-damage|p2a: GIVING BLOOD|57/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|11
+|
+|t:|1641724772
+|switch|p1a: Ferrothorn|Ferrothorn, F|79/100
+|-damage|p1a: Ferrothorn|73/100|[from] Stealth Rock
+|move|p2a: GIVING BLOOD|Volt Switch|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|53/100
+|
+|t:|1641724775
+|switch|p2a: IMPERMANENCE|Tornadus-Therian, M|86/100|[from]move: Volt Switch
+|-damage|p2a: IMPERMANENCE|61/100|[from] Stealth Rock
+|
+|-heal|p1a: Ferrothorn|59/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641724789
+|move|p2a: IMPERMANENCE|Heat Wave|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|inactive|1 True Lycan has 270 seconds left.
+|
+|t:|1641724843
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|13
+|
+|t:|1641724855
+|move|p2a: IMPERMANENCE|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|95/100
+|
+|t:|1641724858
+|switch|p2a: GIVING BLOOD|Magnezone|57/100|[from]move: U-turn
+|-damage|p2a: GIVING BLOOD|51/100|[from] Stealth Rock
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641724864
+|move|p2a: GIVING BLOOD|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|26/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|76/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641724881
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: GIVING BLOOD|Flash Cannon|p1a: Dragonite
+|-damage|p1a: Dragonite|70/100
+|
+|upkeep
+|turn|16
+|inactive|Trosko has 270 seconds left.
+|
+|t:|1641724916
+|switch|p2a: LIBERTINE|Tapu Fini|62/100
+|-damage|p2a: LIBERTINE|50/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: LIBERTINE
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|17
+|inactive|1 True Lycan has 240 seconds left.
+|
+|t:|1641724961
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: LIBERTINE|Trick|p1a: Tyranitar
+|-activate|p2a: LIBERTINE|move: Trick|[of] p1a: Tyranitar
+|-item|p1a: Tyranitar|Choice Scarf|[from] move: Trick
+|-item|p2a: LIBERTINE|Leftovers|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: LIBERTINE|44/100|[from] Sandstorm
+|-heal|p2a: LIBERTINE|50/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|Trosko has 270 seconds left.
+|
+|t:|1641724994
+|switch|p2a: LITTLE WONDER|Clefable, M|100/100
+|move|p1a: Tyranitar|Stone Edge|p2a: LITTLE WONDER
+|-crit|p2a: LITTLE WONDER
+|-damage|p2a: LITTLE WONDER|48/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: LITTLE WONDER|55/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|Trosko has 270 seconds left.
+|inactive|1 True Lycan has 210 seconds left.
+|inactive|1 True Lycan has 180 seconds left.
+|
+|t:|1641725064
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: LITTLE WONDER|atk|1
+|move|p2a: LITTLE WONDER|Soft-Boiled|p2a: LITTLE WONDER
+|-heal|p2a: LITTLE WONDER|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|Trosko has 270 seconds left.
+|inactive|Trosko has 240 seconds left.
+|inactive|Trosko has 210 seconds left.
+|
+|t:|1641725148
+|move|p1a: Landorus|Bulk Up|p1a: Landorus
+|-boost|p1a: Landorus|atk|1
+|-boost|p1a: Landorus|def|1
+|move|p2a: LITTLE WONDER|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|63/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|69/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|21
+|inactive|Trosko has 180 seconds left.
+|
+|t:|1641725185
+|switch|p2a: IMPERMANENCE|Tornadus-Therian, M|94/100
+|-damage|p2a: IMPERMANENCE|70/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: IMPERMANENCE
+|-immune|p2a: IMPERMANENCE
+|
+|-weather|none
+|-heal|p1a: Landorus|75/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|1 True Lycan has 150 seconds left.
+|
+|t:|1641725212
+|move|p2a: IMPERMANENCE|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|39/100
+|move|p1a: Landorus|Smack Down|p2a: IMPERMANENCE
+|-supereffective|p2a: IMPERMANENCE
+|-damage|p2a: IMPERMANENCE|18/100
+|-start|p2a: IMPERMANENCE|Smack Down
+|
+|-heal|p1a: Landorus|45/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|Trosko has 150 seconds left.
+|inactive|Trosko has 120 seconds left.
+|inactive|Trosko has 90 seconds left.
+|inactive|Trosko has 60 seconds left.
+|
+|t:|1641725328
+|move|p2a: IMPERMANENCE|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|31/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: IMPERMANENCE
+|move|p1a: Landorus|Smack Down|p2a: IMPERMANENCE
+|-supereffective|p2a: IMPERMANENCE
+|-damage|p2a: IMPERMANENCE|0 fnt
+|faint|p2a: IMPERMANENCE
+|
+|upkeep
+|inactive|Trosko has 30 seconds left.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|
+|t:|1641725370
+|switch|p2a: LITTLE WONDER|Clefable, M|100/100
+|turn|24
+|inactive|Trosko has 25 seconds left this turn.
+|
+|t:|1641725377
+|move|p1a: Landorus|Earthquake|p2a: LITTLE WONDER
+|-damage|p2a: LITTLE WONDER|39/100
+|move|p2a: LITTLE WONDER|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|2/100
+|
+|-heal|p2a: LITTLE WONDER|45/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Trosko has 30 seconds left.
+|
+|t:|1641725387
+|switch|p2a: ANIMALS|Landorus-Therian, M|84/100
+|-damage|p2a: ANIMALS|71/100|[from] Stealth Rock
+|-ability|p2a: ANIMALS|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Earthquake|p2a: ANIMALS
+|-immune|p2a: ANIMALS
+|
+|-heal|p2a: ANIMALS|78/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641725396
+|move|p1a: Landorus|Smack Down|p2a: ANIMALS
+|-damage|p2a: ANIMALS|61/100
+|-start|p2a: ANIMALS|Smack Down
+|move|p2a: ANIMALS|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|inactive|Trosko has 30 seconds left.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|
+|t:|1641725424
+|switch|p2a: LITTLE WONDER|Clefable, M|45/100|[from]move: U-turn
+|
+|-heal|p2a: LITTLE WONDER|51/100|[from] item: Leftovers
+|upkeep
+|inactive|Trosko has 20 seconds left this turn.
+|inactive|1 True Lycan has 180 seconds left.
+|
+|t:|1641725430
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|27
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|
+|t:|1641725441
+|switch|p2a: METEOR|Ferrothorn, M|100/100
+|-damage|p2a: METEOR|94/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Trick|p2a: METEOR
+|-activate|p1a: Tapu Fini|move: Trick|[of] p2a: METEOR
+|-item|p2a: METEOR|Choice Scarf|[from] move: Trick
+|-item|p1a: Tapu Fini|Leftovers|[from] move: Trick
+|
+|-heal|p1a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|inactive|1 True Lycan has 180 seconds left.
+|
+|t:|1641725463
+|move|p1a: Tapu Fini|Hydro Pump|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|76/100
+|move|p2a: METEOR|Leech Seed|p1a: Tapu Fini
+|-start|p1a: Tapu Fini|move: Leech Seed
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|88/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|87/100|[silent]
+|upkeep
+|turn|29
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|
+|t:|1641725476
+|move|p1a: Tapu Fini|Hydro Pump|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|68/100
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|94/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|82/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|79/100|[silent]
+|upkeep
+|turn|30
+|inactive|Trosko has 30 seconds left this turn.
+|
+|t:|1641725486
+|move|p1a: Tapu Fini|Hydro Pump|p2a: METEOR
+|-resisted|p2a: METEOR
+|-crit|p2a: METEOR
+|-damage|p2a: METEOR|53/100
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|88/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|76/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|64/100|[silent]
+|upkeep
+|turn|31
+|inactive|Trosko has 30 seconds left.
+|
+|t:|1641725494
+|move|p1a: Tapu Fini|Hydro Pump|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|44/100
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|82/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|69/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|54/100|[silent]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|32
+|
+|t:|1641725503
+|switch|p1a: Clefable|Clefable, M|76/100
+|move|p2a: METEOR|Leech Seed|p1a: Clefable
+|-start|p1a: Clefable|move: Leech Seed
+|
+|upkeep
+|turn|33
+|inactive|1 True Lycan has 210 seconds left.
+|inactive|Trosko has 30 seconds left.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|inactive|1 True Lycan has 180 seconds left.
+|inactive|Trosko has 10 seconds left.
+|
+|t:|1641725555
+|switch|p2a: GIVING BLOOD|Magnezone|51/100
+|-damage|p2a: GIVING BLOOD|45/100|[from] Stealth Rock
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|34
+|inactive|Trosko has 20 seconds left this turn.
+|inactive|Trosko has 15 seconds left.
+|
+|t:|1641725576
+|move|p2a: GIVING BLOOD|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|inactive|Trosko has 20 seconds left this turn.
+|
+|t:|1641725579
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|35
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|inactive|Trosko has 10 seconds left.
+|
+|t:|1641725600
+|switch|p2a: ANIMALS|Landorus-Therian, M|61/100
+|-damage|p2a: ANIMALS|49/100|[from] Stealth Rock
+|-ability|p2a: ANIMALS|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|move|p1a: Dragonite|Dual Wingbeat|p2a: ANIMALS
+|-damage|p2a: ANIMALS|35/100
+|-damage|p2a: ANIMALS|22/100
+|-hitcount|p2a: ANIMALS|2
+|
+|-heal|p2a: ANIMALS|28/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|inactive|Trosko has 20 seconds left this turn.
+|inactive|1 True Lycan has 150 seconds left.
+|inactive|Trosko has 15 seconds left.
+|
+|t:|1641725651
+|switch|p1a: Tapu Fini|Tapu Fini|69/100
+|-damage|p1a: Tapu Fini|57/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: ANIMALS|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|45/100
+|inactive|Trosko has 20 seconds left this turn.
+|inactive|Trosko has 15 seconds left.
+|inactive|Trosko has 10 seconds left.
+|
+|t:|1641725662
+|switch|p2a: METEOR|Ferrothorn, M|54/100|[from]move: U-turn
+|-damage|p2a: METEOR|48/100|[from] Stealth Rock
+|
+|-heal|p1a: Tapu Fini|51/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|inactive|Trosko has 20 seconds left this turn.
+|
+|t:|1641725677
+|move|p1a: Tapu Fini|Hydro Pump|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|30/100
+|move|p2a: METEOR|Leech Seed|p1a: Tapu Fini
+|-start|p1a: Tapu Fini|move: Leech Seed
+|
+|-heal|p1a: Tapu Fini|58/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|45/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|41/100|[silent]
+|upkeep
+|turn|38
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|
+|t:|1641725691
+|move|p1a: Tapu Fini|Moonblast|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|26/100
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|51/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|39/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|37/100|[silent]
+|upkeep
+|turn|39
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|
+|t:|1641725701
+|move|p1a: Tapu Fini|Hydro Pump|p2a: METEOR|[miss]
+|-miss|p1a: Tapu Fini|p2a: METEOR
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|45/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|33/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|48/100|[silent]
+|upkeep
+|turn|40
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|
+|t:|1641725713
+|move|p1a: Tapu Fini|Moonblast|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|32/100
+|-unboost|p2a: METEOR|spa|1
+|move|p2a: METEOR|Leech Seed|p1a: Tapu Fini|[miss]
+|-miss|p2a: METEOR|p1a: Tapu Fini
+|
+|-heal|p1a: Tapu Fini|39/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|26/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|43/100|[silent]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|41
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|
+|t:|1641725724
+|move|p1a: Tapu Fini|Moonblast|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|26/100
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|33/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|20/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|37/100|[silent]
+|upkeep
+|turn|42
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|
+|t:|1641725736
+|move|p1a: Tapu Fini|Moonblast|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|22/100
+|-unboost|p2a: METEOR|spa|1
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|26/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|14/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|33/100|[silent]
+|upkeep
+|turn|43
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|1 True Lycan has 180 seconds left.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|
+|t:|1641725754
+|move|p1a: Tapu Fini|Moonblast|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|16/100
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|20/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|8/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|27/100|[silent]
+|upkeep
+|turn|44
+|inactive|Trosko has 25 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|inactive|1 True Lycan has 180 seconds left.
+|
+|t:|1641725767
+|switch|p2a: LIBERTINE|Tapu Fini|50/100
+|-damage|p2a: LIBERTINE|38/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: LIBERTINE
+|move|p1a: Tapu Fini|Hydro Pump|p2a: LIBERTINE
+|-resisted|p2a: LIBERTINE
+|-damage|p2a: LIBERTINE|20/100
+|
+|-heal|p1a: Tapu Fini|14/100|[from] item: Leftovers
+|-heal|p2a: LIBERTINE|26/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|1/100|[from] Leech Seed|[of] p2a: LIBERTINE
+|-heal|p2a: LIBERTINE|38/100|[silent]
+|upkeep
+|turn|45
+|inactive|Trosko has 30 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|inactive|Trosko has 10 seconds left.
+|
+|t:|1641725788
+|move|p2a: LIBERTINE|Defog|p1a: Tapu Fini
+|-unboost|p1a: Tapu Fini|evasion|1
+|-sideend|p1: 1 True Lycan|Stealth Rock|[from] move: Defog|[of] p2a: LIBERTINE
+|-sideend|p2: Trosko|Stealth Rock|[from] move: Defog|[of] p2a: LIBERTINE
+|-fieldend|Misty Terrain
+|move|p1a: Tapu Fini|Moonblast|p2a: LIBERTINE
+|-crit|p2a: LIBERTINE
+|-damage|p2a: LIBERTINE|0 fnt
+|faint|p2a: LIBERTINE
+|
+|-heal|p1a: Tapu Fini|8/100|[from] item: Leftovers
+|upkeep
+|inactive|Trosko has 15 seconds left this turn.
+|inactive|Trosko has 10 seconds left.
+|inactive|Trosko has 5 seconds left.
+|
+|t:|1641725800
+|switch|p2a: METEOR|Ferrothorn, M|27/100
+|turn|46
+|inactive|Trosko has 15 seconds left this turn.
+|
+|t:|1641725805
+|move|p1a: Tapu Fini|Moonblast|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|10/100
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|14/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|1/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|21/100|[silent]
+|upkeep
+|turn|47
+|inactive|Trosko has 25 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|c|☆1 True Lycan|rly missing that toxic rn
+|inactive|1 True Lycan has 180 seconds left.
+|c|☆Trosko|that couldve changed things yea
+|inactive|1 True Lycan has 150 seconds left.
+|
+|t:|1641725870
+|move|p1a: Tapu Fini|Moonblast|p2a: METEOR
+|-resisted|p2a: METEOR
+|-damage|p2a: METEOR|4/100
+|move|p2a: METEOR|Leech Seed||[still]
+|-fail|p2a: METEOR
+|
+|-heal|p1a: Tapu Fini|8/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|0 fnt|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|11/100|[silent]
+|faint|p1a: Tapu Fini
+|upkeep
+|inactive|Trosko has 25 seconds left this turn.
+|
+|t:|1641725886
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|48
+|inactive|Trosko has 30 seconds left.
+|inactive|1 True Lycan has 120 seconds left.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|inactive|Trosko has 10 seconds left.
+|
+|t:|1641725928
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: METEOR|Leech Seed|p1a: Dragonite
+|-start|p1a: Dragonite|move: Leech Seed
+|
+|-damage|p1a: Dragonite|88/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|22/100|[silent]
+|upkeep
+|turn|49
+|inactive|Trosko has 20 seconds left this turn.
+|inactive|Trosko has 15 seconds left.
+|
+|t:|1641725937
+|switch|p2a: ANIMALS|Landorus-Therian, M|28/100
+|-ability|p2a: ANIMALS|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-heal|p2a: ANIMALS|34/100|[from] item: Leftovers
+|-damage|p1a: Dragonite|76/100|[from] Leech Seed|[of] p2a: ANIMALS
+|-heal|p2a: ANIMALS|45/100|[silent]
+|upkeep
+|turn|50
+|inactive|Trosko has 25 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|inactive|Trosko has 10 seconds left.
+|inactive|Trosko has 5 seconds left.
+|
+|t:|1641725966
+|move|p1a: Dragonite|Dual Wingbeat|p2a: ANIMALS
+|-damage|p2a: ANIMALS|14/100
+|-damage|p2a: ANIMALS|0 fnt
+|faint|p2a: ANIMALS
+|-hitcount|p2: ANIMALS|2
+|
+|upkeep
+|inactive|Trosko has 10 seconds left this turn.
+|inactive|Trosko has 5 seconds left.
+|
+|t:|1641725975
+|switch|p2a: LITTLE WONDER|Clefable, M|51/100
+|turn|51
+|inactive|Trosko has 15 seconds left this turn.
+|
+|t:|1641725984
+|switch|p2a: METEOR|Ferrothorn, M|22/100
+|move|p1a: Dragonite|Dual Wingbeat|p2a: METEOR|[miss]
+|-miss|p1a: Dragonite|p2a: METEOR
+|
+|-damage|p1a: Dragonite|64/100|[from] Leech Seed|[of] p2a: METEOR
+|-heal|p2a: METEOR|34/100|[silent]
+|upkeep
+|turn|52
+|inactive|Trosko has 25 seconds left this turn.
+|inactive|Trosko has 20 seconds left.
+|inactive|Trosko has 15 seconds left.
+|inactive|Trosko has 10 seconds left.
+|inactive|Trosko has 5 seconds left.
+|c|☆Trosko|f
+|inactive|1 True Lycan has 90 seconds left.
+|c|☆1 True Lycan|that was ur chance
+|inactive|1 True Lycan has 60 seconds left.
+|
+|t:|1641726042
+|switch|p2a: GIVING BLOOD|Magnezone|45/100
+|move|p1a: Dragonite|Dual Wingbeat|p2a: GIVING BLOOD|[miss]
+|-miss|p1a: Dragonite|p2a: GIVING BLOOD
+|
+|-damage|p1a: Dragonite|51/100|[from] Leech Seed|[of] p2a: GIVING BLOOD
+|-heal|p2a: GIVING BLOOD|60/100|[silent]
+|upkeep
+|turn|53
+|inactive|Trosko has 15 seconds left this turn.
+|inactive|Trosko has 10 seconds left.
+|inactive|Trosko has 5 seconds left.
+|
+|t:|1641726055
+|move|p1a: Dragonite|Earthquake|p2a: GIVING BLOOD
+|-supereffective|p2a: GIVING BLOOD
+|-damage|p2a: GIVING BLOOD|0 fnt
+|faint|p2a: GIVING BLOOD
+|
+|upkeep
+|inactive|Trosko has 10 seconds left this turn.
+|
+|t:|1641726060
+|switch|p2a: LITTLE WONDER|Clefable, M|51/100
+|turn|54
+|inactive|Trosko has 20 seconds left this turn.
+|inactive|Trosko has 15 seconds left.
+|inactive|Trosko has 10 seconds left.
+|inactive|Trosko has 5 seconds left.
+|
+|t:|1641726078
+|move|p1a: Dragonite|Dual Wingbeat|p2a: LITTLE WONDER
+|-crit|p2a: LITTLE WONDER
+|-damage|p2a: LITTLE WONDER|13/100
+|-damage|p2a: LITTLE WONDER|0 fnt
+|faint|p2a: LITTLE WONDER
+|-hitcount|p2: LITTLE WONDER|2
+|
+|upkeep
+|inactive|Trosko has 10 seconds left this turn.
+|c|☆Trosko|gg
+|inactive|Trosko has 5 seconds left.
+|-message|Trosko forfeited.
+|
+|win|1 True Lycan
+|inactive|Trosko has 10 seconds left this turn.
+|c|☆1 True Lycan|gg

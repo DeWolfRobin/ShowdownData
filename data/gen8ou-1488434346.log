@@ -1,0 +1,97 @@
+|j|☆TheBoopening
+|j|☆surufulloflove
+|t:|1641764814
+|gametype|singles
+|player|p1|TheBoopening|schoolkidf|1183
+|player|p2|surufulloflove|iris-gen5bw2|1137
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Quagsire, F|
+|poke|p1|Celesteela|
+|poke|p1|Nihilego|
+|poke|p1|Mew|
+|poke|p1|Klefki, M|
+|poke|p1|Cresselia, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Swampert, M|
+|poke|p2|Zapdos|
+|poke|p2|Rillaboom, F|
+|teampreview
+|
+|t:|1641764827
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|1
+|
+|t:|1641764832
+|switch|p1a: Klefki|Klefki, M|100/100
+|move|p2a: Swampert|Stealth Rock|p1a: Klefki
+|-sidestart|p1: TheBoopening|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641764838
+|move|p1a: Klefki|Switcheroo|p2a: Swampert
+|-activate|p1a: Klefki|move: Trick|[of] p2a: Swampert
+|-item|p2a: Swampert|Toxic Orb|[from] move: Switcheroo
+|-item|p1a: Klefki|Sitrus Berry|[from] move: Switcheroo
+|move|p2a: Swampert|Yawn|p1a: Klefki
+|-start|p1a: Klefki|move: Yawn|[of] p2a: Swampert
+|
+|-status|p2a: Swampert|tox|[from] item: Toxic Orb
+|upkeep
+|turn|3
+|
+|t:|1641764850
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|-damage|p1a: Cresselia|88/100|[from] Stealth Rock
+|move|p2a: Swampert|Flip Turn|p1a: Cresselia
+|-damage|p1a: Cresselia|71/100
+|
+|t:|1641764858
+|switch|p2a: Volcarona|Volcarona, M|100/100|[from]move: Flip Turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641764863
+|switch|p1a: Nihilego|Nihilego|100/100
+|-damage|p1a: Nihilego|88/100|[from] Stealth Rock
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641764871
+|move|p1a: Nihilego|Power Gem|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spa|1
+|
+|upkeep
+|-message|surufulloflove forfeited.
+|
+|win|TheBoopening
+|raw|TheBoopening's rating: 1183 &rarr; <strong>1205</strong><br />(+22 for winning)
+|raw|surufulloflove's rating: 1137 &rarr; <strong>1115</strong><br />(-22 for losing)
+|l|☆surufulloflove

@@ -1,0 +1,416 @@
+|j|☆I Have A Plan
+|j|☆clapfest
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641799779
+|gametype|singles
+|player|p1|I Have A Plan|teamrocket|
+|player|p2|clapfest|169|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Shuckle, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Nihilego|
+|poke|p1|Rillaboom, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Kartana|
+|poke|p2|Dragapult, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Zapdos|
+|poke|p2|Tangrowth, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Weavile, F|
+|teampreview
+|inactive|I Have A Plan also wants the timer to be on.
+|j| JPEG-Manny
+|
+|t:|1641799787
+|start
+|switch|p1a: Shuckle|Shuckle, F, shiny|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|1
+|
+|t:|1641799792
+|move|p2a: Weavile|Icicle Crash|p1a: Shuckle
+|-damage|p1a: Shuckle|57/100
+|move|p1a: Shuckle|Encore|p2a: Weavile
+|-start|p2a: Weavile|Encore
+|
+|upkeep
+|turn|2
+|j| RTSG 2
+|j| Bao Zhilan
+|j| Zaza Bitchulia
+|
+|t:|1641799802
+|move|p2a: Weavile|Icicle Crash|p1a: Shuckle
+|-damage|p1a: Shuckle|9/100
+|move|p1a: Shuckle|Stealth Rock|p2a: Weavile
+|-sidestart|p2: clapfest|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|j|%Mimikyu Stardust
+|j| Serp IV
+|
+|t:|1641799807
+|move|p2a: Weavile|Icicle Crash|p1a: Shuckle
+|-damage|p1a: Shuckle|0 fnt
+|faint|p1a: Shuckle
+|
+|upkeep
+|
+|t:|1641799809
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|turn|4
+|
+|t:|1641799829
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641799832
+|move|p2a: Zapdos|Heat Wave|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|upkeep
+|j| DvsnDvsnUltra
+|
+|t:|1641799835
+|switch|p1a: Nihilego|Nihilego|100/100
+|turn|6
+|c|☆clapfest|mb
+|
+|t:|1641799839
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Nihilego|Power Gem|p2a: Hippowdon
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|79/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|85/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641799842
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Hippowdon|Stealth Rock|p1a: Rillaboom
+|-sidestart|p1: I Have A Plan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rillaboom|94/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|-heal|p2a: Hippowdon|91/100|[from] Grassy Terrain
+|-heal|p2a: Hippowdon|97/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641799849
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|-damage|p1a: Rillaboom|94/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|j| VanillaTwilight23
+|j| Anonymous43567
+|inactive|clapfest has 120 seconds left.
+|
+|t:|1641799892
+|move|p2a: Zapdos|Heat Wave|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|28/100
+|move|p1a: Rillaboom|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|18/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|18/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|12/100|[from] Sandstorm
+|-damage|p1a: Rillaboom|12/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|18/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641799897
+|move|p1a: Rillaboom|Grassy Glide|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Rillaboom|8/100|[from] item: Life Orb
+|
+|-weather|none
+|-heal|p1a: Rillaboom|14/100|[from] Grassy Terrain
+|upkeep
+|inactive|clapfest has 120 seconds left.
+|
+|t:|1641799905
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|-damage|p2a: Tangrowth|88/100|[from] Stealth Rock
+|turn|11
+|j| d18l
+|
+|t:|1641799934
+|move|p1a: Rillaboom|Knock Off|p2a: Tangrowth
+|-damage|p2a: Tangrowth|41/100
+|-damage|p1a: Rillaboom|0 fnt|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|faint|p1a: Rillaboom
+|move|p2a: Tangrowth|Knock Off|p1: Rillaboom|[notarget]
+|-fail|p2a: Tangrowth
+|
+|-heal|p2a: Tangrowth|47/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|I Have A Plan has 120 seconds left.
+|
+|t:|1641799950
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|12
+|inactive|I Have A Plan has 120 seconds left.
+|inactive|clapfest has 120 seconds left.
+|
+|t:|1641799980
+|move|p1a: Dragapult|Flamethrower|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|0 fnt
+|faint|p2a: Tangrowth
+|
+|upkeep
+|
+|t:|1641799983
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|13
+|l|%Mimikyu Stardust
+|inactive|I Have A Plan has 120 seconds left.
+|
+|t:|1641800007
+|switch|p1a: Nihilego|Nihilego|100/100
+|-damage|p1a: Nihilego|88/100|[from] Stealth Rock
+|move|p2a: Dragapult|Shadow Ball|p1a: Nihilego
+|-damage|p1a: Nihilego|46/100
+|-unboost|p1a: Nihilego|spd|1
+|
+|upkeep
+|turn|14
+|inactive|I Have A Plan has 120 seconds left.
+|c|☆clapfest|mbb again
+|
+|t:|1641800019
+|move|p2a: Dragapult|Shadow Ball|p1a: Nihilego
+|-damage|p1a: Nihilego|0 fnt
+|faint|p1a: Nihilego
+|
+|upkeep
+|
+|t:|1641800036
+|switch|p1a: Dragapult|Dragapult, M|88/100
+|-damage|p1a: Dragapult|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641800046
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Dragapult|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|52/100
+|
+|-heal|p2a: Toxapex|59/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|t:|1641800050
+|move|p1a: Dragapult|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|25/100
+|-unboost|p2a: Toxapex|spd|1
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|75/100
+|
+|-heal|p2a: Toxapex|81/100|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|t:|1641800054
+|move|p1a: Dragapult|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|26/100
+|move|p2a: Toxapex|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|34/100
+|-enditem|p1a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-heal|p2a: Toxapex|33/100|[from] item: Black Sludge
+|upkeep
+|turn|18
+|j|%Mimikyu Stardust
+|
+|t:|1641800062
+|switch|p2a: Hippowdon|Hippowdon, F|97/100
+|-damage|p2a: Hippowdon|91/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Dragapult|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|28/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|74/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641800068
+|move|p1a: Dragapult|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|49/100
+|move|p2a: Hippowdon|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|55/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641800072
+|switch|p1a: Kartana|Kartana|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641800080
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|move|p2a: Hippowdon|Earthquake|p1a: Kartana
+|-damage|p1a: Kartana|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|61/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641800084
+|move|p1a: Kartana|Leaf Blade|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|l| Bao Zhilan
+|
+|t:|1641800095
+|switch|p2a: Toxapex|Toxapex, F|66/100
+|-damage|p2a: Toxapex|53/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641800100
+|switch|p2a: Dragapult|Dragapult, F|88/100
+|-damage|p2a: Dragapult|76/100|[from] Stealth Rock
+|move|p1a: Kartana|Leaf Blade|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|spe|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1641800104
+|switch|p2a: Toxapex|Toxapex, F|87/100
+|-damage|p2a: Toxapex|74/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641800109
+|move|p1a: Kartana|Leaf Blade|p2a: Toxapex
+|-damage|p2a: Toxapex|8/100
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|14/100|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1641800120
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|21/100|[from] item: Black Sludge
+|upkeep
+|turn|25
+|l| RTSG 2
+|
+|t:|1641800144
+|switch|p2a: Weavile|Weavile, F|100/100
+|-damage|p2a: Weavile|76/100|[from] Stealth Rock
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Kartana|Leaf Blade|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|spe|1
+|
+|upkeep
+|
+|t:|1641800151
+|switch|p2a: Toxapex|Toxapex, F|54/100
+|-damage|p2a: Toxapex|41/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641800153
+|move|p1a: Kartana|Leaf Blade|p2a: Toxapex
+|-damage|p2a: Toxapex|6/100
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|12/100|[from] item: Black Sludge
+|upkeep
+|turn|27
+|j| RTSG 2
+|c|☆clapfest|wow
+|c|☆clapfest|gg
+|c|☆I Have A Plan|gg
+|
+|t:|1641800161
+|move|p1a: Kartana|Leaf Blade|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|win|I Have A Plan
+|n|☆I Have A Plan|ihaveaplan
+|n|☆clapfest|clapfest
+|n| JPEG-Manny|jpegmanny
+|n| Zaza Bitchulia|zazabitchulia
+|n| Serp IV|serpiv
+|n| DvsnDvsnUltra|dvsndvsnultra
+|n| VanillaTwilight23|vanillatwilight23
+|n| Anonymous43567|anonymous43567
+|n| d18l|d18l
+|n| Mimikyu Stardust|mimikyustardust
+|n| RTSG 2|rtsg2

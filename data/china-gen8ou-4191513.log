@@ -1,0 +1,440 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC 东方不败
+|j|☆SL21CC Leviathan
+|t:|1641821316
+|gametype|singles
+|player|p1|SL21CC 东方不败|cheryl|1198
+|player|p2|SL21CC Leviathan|guitarist|1199
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Slowking, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Weavile, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Regieleki|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Clefable, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1641821348
+|start
+|switch|p1a: Weavile|Weavile, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1641821358
+|move|p1a: Weavile|Triple Axel|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|82/100
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|43/100
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-hitcount|p2: Tornadus|3
+|
+|upkeep
+|
+|t:|1641821371
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|2
+|
+|t:|1641821377
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|88/100
+|-activate|p1a: Slowking|move: Magma Storm|[of] p2a: Heatran
+|
+|-damage|p1a: Slowking|76/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1641821382
+|move|p2a: Heatran|Taunt|p1a: Slowking
+|-start|p1a: Slowking|move: Taunt
+|move|p1a: Slowking|Scald|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|65/100
+|
+|-heal|p2a: Heatran|71/100|[from] item: Leftovers
+|-damage|p1a: Slowking|63/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1641821385
+|move|p2a: Heatran|Toxic|p1a: Slowking
+|-status|p1a: Slowking|tox
+|move|p1a: Slowking|Scald|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|38/100
+|
+|-heal|p2a: Heatran|44/100|[from] item: Leftovers
+|-damage|p1a: Slowking|57/100 tox|[from] psn
+|-damage|p1a: Slowking|45/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1641821390
+|move|p2a: Heatran|Earth Power|p1a: Slowking
+|-damage|p1a: Slowking|29/100 tox
+|move|p1a: Slowking|Scald|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|8/100
+|
+|-heal|p2a: Heatran|14/100|[from] item: Leftovers
+|-damage|p1a: Slowking|17/100 tox|[from] psn
+|-damage|p1a: Slowking|4/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|-end|p1a: Slowking|move: Taunt
+|upkeep
+|turn|6
+|
+|t:|1641821395
+|move|p2a: Heatran|Earth Power|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-heal|p2a: Heatran|20/100|[from] item: Leftovers
+|upkeep
+|j| Metallica126
+|
+|t:|1641821403
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|7
+|l| Metallica126
+|
+|t:|1641821409
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Weavile|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|43/100
+|-damage|p1a: Weavile|84/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|-enditem|p2a: Slowbro|Rocky Helmet|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|8
+|
+|t:|1641821420
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Weavile|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|69/100
+|-damage|p1a: Weavile|72/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|9
+|
+|t:|1641821427
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Zapdos
+|-start|p1a: Zapdos|move: Leech Seed
+|
+|-damage|p1a: Zapdos|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|81/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641821434
+|move|p1a: Zapdos|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|58/100
+|-damage|p1a: Zapdos|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|t:|1641821436
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Ferrothorn
+|-immune|p1a: Ferrothorn
+|
+|upkeep
+|turn|11
+|
+|t:|1641821439
+|move|p1a: Ferrothorn|Spikes|p2a: Ferrothorn
+|-sidestart|p2: SL21CC Leviathan|Spikes
+|move|p2a: Ferrothorn|Leech Seed|p1a: Ferrothorn
+|-immune|p1a: Ferrothorn
+|
+|upkeep
+|turn|12
+|
+|t:|1641821443
+|move|p1a: Ferrothorn|Body Press|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|17/100
+|-damage|p1a: Ferrothorn|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Ferrothorn
+|-immune|p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641821449
+|move|p1a: Ferrothorn|Body Press|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Ferrothorn|82/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641821451
+|switch|p2a: Heatran|Heatran, M|20/100
+|-damage|p2a: Heatran|8/100|[from] Spikes
+|turn|14
+|
+|t:|1641821456
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Landorus
+|-damage|p1a: Landorus|63/100
+|-activate|p1a: Landorus|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Landorus|69/100|[from] item: Leftovers
+|-heal|p2a: Heatran|14/100|[from] item: Leftovers
+|-damage|p1a: Landorus|56/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1641821459
+|move|p1a: Landorus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|10/100
+|
+|t:|1641821463
+|switch|p1a: Zapdos|Zapdos-Galar|76/100|[from]move: U-turn
+|move|p2a: Heatran|Magma Storm|p1a: Zapdos
+|-damage|p1a: Zapdos|28/100
+|-activate|p1a: Zapdos|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|16/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|15/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1641821471
+|switch|p2a: Slowbro|Slowbro, M|76/100
+|-damage|p2a: Slowbro|63/100|[from] Spikes
+|move|p1a: Zapdos|Drill Peck|p2a: Slowbro
+|-damage|p2a: Slowbro|28/100
+|
+|-end|p1a: Zapdos|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|17
+|
+|t:|1641821478
+|switch|p2a: Heatran|Heatran, M|16/100
+|-damage|p2a: Heatran|4/100|[from] Spikes
+|move|p1a: Zapdos|Drill Peck|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641821484
+|switch|p2a: Slowbro|Slowbro, M|62/100
+|-damage|p2a: Slowbro|49/100|[from] Spikes
+|turn|18
+|
+|t:|1641821488
+|switch|p1a: Ferrothorn|Ferrothorn, M|88/100
+|move|p2a: Slowbro|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|76/100
+|
+|-heal|p1a: Ferrothorn|82/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641821494
+|move|p2a: Slowbro|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|71/100
+|move|p1a: Ferrothorn|Spikes|p2a: Slowbro
+|-sidestart|p2: SL21CC Leviathan|Spikes
+|
+|-heal|p1a: Ferrothorn|77/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641821496
+|move|p2a: Slowbro|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|64/100
+|move|p1a: Ferrothorn|Spikes|p2a: Slowbro
+|-sidestart|p2: SL21CC Leviathan|Spikes
+|
+|-heal|p1a: Ferrothorn|70/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641821502
+|move|p2a: Slowbro|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|58/100
+|move|p1a: Ferrothorn|Power Whip|p2a: Slowbro|[miss]
+|-miss|p1a: Ferrothorn|p2a: Slowbro
+|
+|-heal|p1a: Ferrothorn|64/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641821504
+|move|p2a: Slowbro|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|53/100
+|move|p1a: Ferrothorn|Power Whip|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|5/100
+|
+|-heal|p1a: Ferrothorn|59/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641821506
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ferrothorn|atk|1
+|move|p1a: Ferrothorn|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|89/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|65/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641821513
+|switch|p1a: Landorus|Landorus-Therian, M|56/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-heal|p1a: Landorus|62/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|56/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641821516
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: SL21CC 东方不败|move: Stealth Rock
+|move|p1a: Landorus|Stealth Rock|p2a: Landorus
+|-sidestart|p2: SL21CC Leviathan|move: Stealth Rock
+|
+|-heal|p1a: Landorus|62/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|50/100 tox|[from] psn
+|upkeep
+|turn|26
+|j| adreamew
+|
+|t:|1641821524
+|move|p2a: Landorus|Stealth Rock||[still]
+|-fail|p2a: Landorus
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|82/100
+|
+|t:|1641821528
+|switch|p1a: Weavile|Weavile, M|72/100|[from]move: U-turn
+|-ability|p1a: Weavile|Pressure
+|
+|upkeep
+|turn|27
+|
+|t:|1641821537
+|switch|p2a: Slowbro|Slowbro, M|38/100
+|-damage|p2a: Slowbro|13/100|[from] Spikes
+|-damage|p2a: Slowbro|1/100|[from] Stealth Rock
+|move|p1a: Weavile|Triple Axel|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|-hitcount|p2: Slowbro|1
+|
+|upkeep
+|
+|t:|1641821538
+|switch|p2a: Clefable|Clefable, F|100/100
+|-damage|p2a: Clefable|88/100|[from] Stealth Rock
+|-damage|p2a: Clefable|63/100|[from] Spikes
+|turn|28
+|
+|t:|1641821545
+|move|p1a: Weavile|Triple Axel|p2a: Clefable
+|-damage|p2a: Clefable|54/100
+|-damage|p2a: Clefable|36/100
+|-start|p1a: Weavile|Attract|[from] ability: Cute Charm|[of] p2a: Clefable
+|-damage|p2a: Clefable|11/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|61/100
+|
+|upkeep
+|turn|29
+|c|☆SL21CC 东方不败|？
+|c|☆SL21CC Leviathan|别问我，我也不知道这是什么特性
+|c|☆SL21CC 东方不败|迷人之躯
+|
+|t:|1641821594
+|switch|p1a: Landorus|Landorus-Therian, M|50/100 tox
+|-damage|p1a: Landorus|38/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|-heal|p1a: Landorus|44/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|38/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641821597
+|move|p1a: Landorus|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p1a: Landorus|44/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|32/100 tox|[from] psn
+|-damage|p2a: Clefable|94/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641821603
+|move|p1a: Landorus|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|49/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Clefable|40/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Clefable|27/100 tox|[from] psn
+|upkeep
+|-message|SL21CC Leviathan forfeited.
+|
+|win|SL21CC 东方不败
+|raw|SL21CC 东方不败's rating: 1198 &rarr; <strong>1223</strong><br />(+25 for winning)
+|raw|SL21CC Leviathan's rating: 1199 &rarr; <strong>1174</strong><br />(-25 for losing)
+|l|☆SL21CC Leviathan
+|l|☆SL21CC 东方不败

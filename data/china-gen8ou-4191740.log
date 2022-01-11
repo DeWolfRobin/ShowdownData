@@ -1,0 +1,380 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC KFC嫩牛五方
+|j|☆SL21CC 91舒先生
+|t:|1641824807
+|gametype|singles
+|player|p1|SL21CC KFC嫩牛五方|baker|1300
+|player|p2|SL21CC 91舒先生|chickwayne.gif|1407
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Cresselia, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Porygon2|
+|poke|p1|Marowak-Alola, M|
+|poke|p2|Hippowdon, F|
+|poke|p2|Slowking, M|
+|poke|p2|Clefable, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Volcarona, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC 91舒先生)
+|j| sl21cc ryekie
+|j| SL21CCC徐坤
+|
+|t:|1641824819
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Slowking|Slowking, M|100/100
+|turn|1
+|j| jiokopg_fkok43
+|j| Tokyo EZ
+|j| SL21CC tangkeke
+|j| SL21CC姐ISthequeen
+|j|+dragonitenb
+|inactive|SL21CC KFC嫩牛五方 has 120 seconds left.
+|
+|t:|1641824849
+|move|p2a: Slowking|Scald|p1a: Hatterene
+|-damage|p1a: Hatterene|71/100
+|-status|p1a: Hatterene|brn
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|-damage|p1a: Hatterene|65/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641824858
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641824862
+|switch|p2a: Clefable|Clefable, F, shiny|100/100|[from]move: Teleport
+|
+|upkeep
+|j| adreamew
+|inactive|SL21CC KFC嫩牛五方 has 120 seconds left.
+|j| sl21cc vogut
+|
+|t:|1641824899
+|switch|p1a: Marowak|Marowak-Alola, M|100/100
+|turn|3
+|
+|t:|1641824904
+|move|p1a: Marowak|Swords Dance|p1a: Marowak
+|-boost|p1a: Marowak|atk|2
+|move|p2a: Clefable|Toxic|p1a: Marowak
+|-status|p1a: Marowak|tox
+|
+|-damage|p1a: Marowak|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|j| solitary dream
+|inactive|SL21CC KFC嫩牛五方 has 120 seconds left.
+|j| sl21cckhl
+|j| eastnovel
+|inactive|SL21CC 91舒先生 has 120 seconds left.
+|j|♚Master Origami♕
+|inactive|SL21CC 91舒先生 has 90 seconds left.
+|
+|t:|1641824967
+|move|p1a: Marowak|Poltergeist|p2a: Clefable
+|-activate|p2a: Clefable|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Clefable|32/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|82/100
+|
+|-damage|p1a: Marowak|82/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641824974
+|switch|p2a: Hippowdon|Hippowdon, F, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Marowak|Flare Blitz|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Marowak|76/100 tox|[from] Sandstorm
+|-damage|p1a: Marowak|57/100 tox|[from] psn
+|-fieldend|move: Trick Room
+|upkeep
+|inactive|SL21CC 91舒先生 has 90 seconds left.
+|
+|t:|1641824991
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|6
+|
+|t:|1641825001
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|move|p2a: Tornadus|Hurricane|p1a: Porygon2
+|-damage|p1a: Porygon2|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|94/100|[from] Sandstorm
+|-damage|p1a: Porygon2|64/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641825007
+|move|p2a: Tornadus|Taunt|p1a: Porygon2
+|-start|p1a: Porygon2|move: Taunt
+|cant|p1a: Porygon2|move: Taunt|Trick Room
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|88/100|[from] Sandstorm
+|-damage|p1a: Porygon2|57/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641825015
+|move|p2a: Tornadus|Knock Off|p1a: Porygon2
+|-damage|p1a: Porygon2|45/100
+|-enditem|p1a: Porygon2|Eviolite|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Porygon2|Ice Beam|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|21/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|15/100|[from] Sandstorm
+|-damage|p1a: Porygon2|39/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1641825020
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Porygon2|Thunderbolt|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|87/100
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|94/100|[from] item: Leftovers
+|-end|p1a: Porygon2|move: Taunt
+|upkeep
+|turn|10
+|
+|t:|1641825023
+|switch|p1a: Marowak|Marowak-Alola, M|57/100 tox
+|-heal|p1a: Marowak|100/100|[from] move: Healing Wish
+|move|p2a: Ferrothorn|Spikes|p1a: Marowak
+|-sidestart|p1: SL21CC KFC嫩牛五方|Spikes
+|
+|-heal|p2a: Ferrothorn|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|SL21CC 91舒先生 has 120 seconds left.
+|
+|t:|1641825039
+|switch|p2a: Clefable|Clefable, F, shiny|82/100
+|move|p1a: Marowak|Flare Blitz|p2a: Clefable
+|-damage|p2a: Clefable|5/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641825046
+|move|p2a: Clefable|Moonblast|p1a: Marowak
+|-resisted|p1a: Marowak
+|-damage|p1a: Marowak|80/100
+|move|p1a: Marowak|Flare Blitz|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641825050
+|switch|p2a: Tornadus|Tornadus-Therian, M|48/100
+|turn|13
+|
+|t:|1641825051
+|move|p2a: Tornadus|Knock Off|p1a: Marowak
+|-supereffective|p1a: Marowak
+|-damage|p1a: Marowak|41/100
+|-enditem|p1a: Marowak|Thick Club|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Marowak|Flare Blitz|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1641825059
+|switch|p2a: Slowking|Slowking, M|100/100
+|turn|14
+|
+|t:|1641825065
+|move|p1a: Marowak|Poltergeist|p2a: Slowking
+|-activate|p2a: Slowking|move: Poltergeist|Heavy-Duty Boots
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|9/100
+|move|p2a: Slowking|Scald|p1a: Marowak
+|-supereffective|p1a: Marowak
+|-damage|p1a: Marowak|0 fnt
+|faint|p1a: Marowak
+|
+|upkeep
+|
+|t:|1641825073
+|switch|p1a: Knocked|Crawdaunt, M, shiny|100/100
+|-damage|p1a: Knocked|88/100|[from] Spikes
+|turn|15
+|
+|t:|1641825080
+|move|p1a: Knocked|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Knocked
+|faint|p2a: Slowking
+|-damage|p1a: Knocked|78/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641825082
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|turn|16
+|
+|t:|1641825087
+|move|p1a: Knocked|Aqua Jet|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|35/100
+|-damage|p1a: Knocked|68/100|[from] item: Life Orb
+|move|p2a: Volcarona|Bug Buzz|p1a: Knocked
+|-supereffective|p1a: Knocked
+|-damage|p1a: Knocked|0 fnt
+|faint|p1a: Knocked
+|
+|upkeep
+|
+|t:|1641825093
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|17
+|
+|t:|1641825095
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|85/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|upkeep
+|turn|18
+|
+|t:|1641825107
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|88/100|[from] Spikes
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|100/100
+|-singleturn|p2a: Volcarona|move: Roost
+|
+|upkeep
+|turn|19
+|j|♚Jqlove
+|
+|t:|1641825118
+|switch|p2a: Ferrothorn|Ferrothorn, M|99/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|82/100
+|-damage|p1a: Melmetal|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|61/100
+|-damage|p1a: Melmetal|63/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-hitcount|p2a: Ferrothorn|2
+|
+|-heal|p2a: Ferrothorn|67/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641825122
+|move|p1a: Melmetal|Double Iron Bash|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|49/100
+|-damage|p1a: Melmetal|51/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|30/100
+|-damage|p1a: Melmetal|38/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-hitcount|p2a: Ferrothorn|2
+|move|p2a: Ferrothorn|Leech Seed|p1a: Melmetal
+|-start|p1a: Melmetal|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|36/100|[from] item: Leftovers
+|-damage|p1a: Melmetal|26/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|53/100|[silent]
+|upkeep
+|turn|21
+|
+|t:|1641825129
+|switch|p1a: Porygon2|Porygon2|39/100
+|-damage|p1a: Porygon2|27/100|[from] Spikes
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|move|p2a: Ferrothorn|Leech Seed|p1a: Porygon2
+|-start|p1a: Porygon2|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|59/100|[from] item: Leftovers
+|-damage|p1a: Porygon2|14/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|72/100|[silent]
+|-fieldend|move: Trick Room
+|upkeep
+|turn|22
+|
+|t:|1641825134
+|move|p1a: Porygon2|Ice Beam|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|34/100
+|move|p2a: Ferrothorn|Body Press|p1a: Porygon2
+|-supereffective|p1a: Porygon2
+|-crit|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|
+|-heal|p2a: Ferrothorn|41/100|[from] item: Leftovers
+|upkeep
+|l| sl21cc vogut
+|
+|t:|1641825140
+|switch|p1a: Melmetal|Melmetal|26/100
+|-damage|p1a: Melmetal|13/100|[from] Spikes
+|turn|23
+|
+|t:|1641825150
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Cresselia
+|-start|p1a: Cresselia|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|47/100|[from] item: Leftovers
+|-damage|p1a: Cresselia|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|62/100|[silent]
+|upkeep
+|turn|24
+|-message|SL21CC KFC嫩牛五方 forfeited.
+|
+|win|SL21CC 91舒先生
+|raw|SL21CC KFC嫩牛五方's rating: 1313 &rarr; <strong>1302</strong><br />(-11 for losing)
+|raw|SL21CC 91舒先生's rating: 1407 &rarr; <strong>1422</strong><br />(+15 for winning)
+|l|☆SL21CC KFC嫩牛五方
+|l|☆SL21CC 91舒先生
+|l| solitary dream
+|l| SL21CC姐ISthequeen
+|l| eastnovel
+|l| SL21CCC徐坤
+|l|+dragonitenb
+|l|♚Jqlove
+|l| jiokopg_fkok43
+|l| Tokyo EZ

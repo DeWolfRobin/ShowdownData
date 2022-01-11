@@ -1,0 +1,495 @@
+|j|☆Diavolo7722
+|j|☆WakoTH
+|t:|1641825401
+|gametype|singles
+|player|p1|Diavolo7722|265|1177
+|player|p2|WakoTH|twins-gen4dp|1176
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Dracozolt|
+|poke|p1|Excadrill, F|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Quagsire, M|
+|poke|p2|Blaziken, F|
+|poke|p2|Slowbro, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Zapdos|
+|teampreview
+|
+|t:|1641825413
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|turn|1
+|
+|t:|1641825437
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Hydreigon|Flamethrower|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|65/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641825451
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Mandibuzz|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|98/100
+|-damage|p1a: Mandibuzz|48/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641825462
+|switch|p1a: Dracozolt|Dracozolt|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641825468
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Dracozolt|Fire Fang|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|37/100
+|-damage|p1a: Dracozolt|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Dracozolt|78/100|[from] item: Life Orb
+|
+|-heal|p2a: Ferrothorn|43/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641825488
+|move|p1a: Dracozolt|Bolt Beak|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|12/100
+|-damage|p1a: Dracozolt|66/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Dracozolt|56/100|[from] item: Life Orb
+|move|p2a: Ferrothorn|Leech Seed|p1a: Dracozolt
+|-start|p1a: Dracozolt|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|18/100|[from] item: Leftovers
+|-damage|p1a: Dracozolt|43/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|29/100|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641825501
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|move|p1a: Dracozolt|Bolt Beak|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|43/100
+|-damage|p1a: Dracozolt|33/100|[from] item: Life Orb
+|
+|-damage|p1a: Dracozolt|21/100|[from] Leech Seed|[of] p2a: Hydreigon
+|-heal|p2a: Hydreigon|55/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641825520
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Hydreigon|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|74/100
+|
+|t:|1641825527
+|switch|p2a: Blaziken|Blaziken, F|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blaziken|95/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641825537
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Tyranitar|Rock Blast|p2a: Blaziken
+|-damage|p2a: Blaziken|72/100
+|-damage|p2a: Blaziken|48/100
+|-damage|p2a: Blaziken|26/100
+|-damage|p2a: Blaziken|1/100
+|-hitcount|p2a: Blaziken|4
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blaziken|0 fnt|[from] Sandstorm
+|faint|p2a: Blaziken
+|upkeep
+|
+|t:|1641825544
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|turn|8
+|
+|t:|1641825556
+|move|p1a: Tyranitar|Crunch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|50/100
+|move|p2a: Slowbro|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|35/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowbro|44/100|[from] Sandstorm
+|-heal|p2a: Slowbro|50/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641825567
+|switch|p2a: Corviknight|Corviknight, M|98/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tyranitar|Crunch|p2a: Corviknight
+|-damage|p2a: Corviknight|70/100
+|-damage|p1a: Tyranitar|18/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641825577
+|move|p1a: Tyranitar|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|move|p2a: Corviknight|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|t:|1641825585
+|switch|p2a: Ferrothorn|Ferrothorn, F|29/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Ferrothorn|36/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641825593
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|turn|11
+|
+|t:|1641825600
+|move|p1a: Excadrill|Drill Run|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Excadrill|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641825608
+|switch|p2a: Slowbro|Slowbro, M|83/100
+|turn|12
+|
+|t:|1641825613
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Slowbro|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowbro|77/100|[from] Sandstorm
+|-heal|p2a: Slowbro|83/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641825625
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Slowbro
+|-sidestart|p2: WakoTH|move: Stealth Rock
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641825636
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: Teleport
+|-ability|p2a: Zapdos|Pressure
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|t:|1641825645
+|switch|p1a: Quagsire|Quagsire, M|100/100
+|move|p2a: Zapdos|Defog|p1a: Quagsire
+|-unboost|p1a: Quagsire|evasion|1
+|-sideend|p2: WakoTH|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|upkeep
+|turn|15
+|
+|t:|1641825664
+|switch|p2a: Corviknight|Corviknight, M|70/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Quagsire|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|16
+|
+|t:|1641825679
+|switch|p1a: Mandibuzz|Mandibuzz, F|48/100
+|move|p2a: Corviknight|Brave Bird|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|14/100
+|-damage|p2a: Corviknight|59/100|[from] Recoil
+|
+|upkeep
+|turn|17
+|
+|t:|1641825691
+|move|p1a: Mandibuzz|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|-damage|p1a: Mandibuzz|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Mandibuzz
+|move|p2a: Corviknight|Brave Bird|p1: Mandibuzz|[notarget]
+|-fail|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641825699
+|switch|p1a: Dracozolt|Dracozolt|21/100
+|turn|18
+|
+|t:|1641825718
+|move|p1a: Dracozolt|Bolt Beak|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-damage|p1a: Dracozolt|4/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|-damage|p1a: Dracozolt|0 fnt|[from] item: Life Orb
+|faint|p1a: Dracozolt
+|
+|upkeep
+|
+|t:|1641825733
+|switch|p1a: Excadrill|Excadrill, F|88/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p2a: Zapdos|Pressure
+|turn|19
+|l|☆Diavolo7722
+|player|p1|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by WakoTH)
+|inactive|Diavolo7722 has 30 seconds to reconnect!
+|inactive|Diavolo7722 has 20 seconds to reconnect!
+|inactive|Diavolo7722 has 15 seconds to reconnect!
+|inactive|Diavolo7722 has 10 seconds to reconnect!
+|inactive|Diavolo7722 has 5 seconds to reconnect!
+|j|☆Diavolo7722
+|inactive|Diavolo7722 reconnected and has 95 seconds left.
+|player|p1|Diavolo7722|265
+|inactive|Diavolo7722 has 90 seconds left.
+|
+|t:|1641825844
+|move|p1a: Excadrill|Rapid Spin|p2a: Zapdos
+|-damage|p2a: Zapdos|75/100
+|-boost|p1a: Excadrill|spe|1
+|move|p2a: Zapdos|Heat Wave|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|18/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641825856
+|switch|p1a: Quagsire|Quagsire, M|100/100
+|move|p2a: Zapdos|Heat Wave|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|83/100
+|
+|-heal|p1a: Quagsire|90/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641825867
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Quagsire|Toxic|p2a: Slowbro
+|-status|p2a: Slowbro|tox
+|
+|-heal|p1a: Quagsire|96/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641825878
+|move|p1a: Quagsire|Substitute|p1a: Quagsire
+|-start|p1a: Quagsire|Substitute
+|-damage|p1a: Quagsire|71/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641825885
+|switch|p2a: Hydreigon|Hydreigon, M|55/100|[from]move: Teleport
+|
+|-heal|p1a: Quagsire|77/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641825891
+|move|p2a: Hydreigon|U-turn|p1a: Quagsire
+|-activate|p1a: Quagsire|move: Substitute|[damage]
+|
+|t:|1641825894
+|switch|p2a: Slowbro|Slowbro, M|100/100 tox|[from]move: U-turn
+|move|p1a: Quagsire|Toxic|p2a: Slowbro
+|-fail|p2a: Slowbro|tox
+|
+|-heal|p1a: Quagsire|83/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641825905
+|move|p1a: Quagsire|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|84/100 tox
+|move|p2a: Slowbro|Scald|p1a: Quagsire
+|-heal|p1a: Quagsire|100/100|[from] ability: Water Absorb|[of] p2a: Slowbro
+|
+|-heal|p2a: Slowbro|91/100 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|78/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641825922
+|move|p1a: Quagsire|Toxic|p2a: Slowbro|[miss]
+|-miss|p1a: Quagsire|p2a: Slowbro
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100 tox
+|
+|-damage|p2a: Slowbro|82/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641825932
+|move|p1a: Quagsire|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|71/100 tox
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641825935
+|switch|p2a: Zapdos|Zapdos|75/100|[from]move: Teleport
+|-ability|p2a: Zapdos|Pressure
+|
+|upkeep
+|turn|27
+|
+|t:|1641825944
+|switch|p2a: Slowbro|Slowbro, M|100/100 tox
+|move|p1a: Quagsire|Toxic|p2a: Slowbro
+|-fail|p2a: Slowbro|tox
+|
+|-damage|p2a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641825955
+|switch|p1a: Ferrothorn|Ferrothorn, M|89/100
+|move|p2a: Slowbro|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|78/100
+|
+|-heal|p2a: Slowbro|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Slowbro|88/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641825966
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Slowbro
+|-sidestart|p2: WakoTH|move: Stealth Rock
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641825969
+|switch|p2a: Zapdos|Zapdos|75/100|[from]move: Teleport
+|-ability|p2a: Zapdos|Pressure
+|
+|upkeep
+|turn|30
+|
+|t:|1641825976
+|move|p2a: Zapdos|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: WakoTH|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|move|p1a: Ferrothorn|Body Press|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|63/100
+|
+|upkeep
+|turn|31
+|
+|t:|1641825984
+|switch|p1a: Quagsire|Quagsire, M|100/100
+|move|p2a: Zapdos|Heat Wave|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|85/100
+|
+|-heal|p1a: Quagsire|91/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641825995
+|switch|p2a: Slowbro|Slowbro, M|100/100 tox
+|move|p1a: Quagsire|Substitute|p1a: Quagsire
+|-start|p1a: Quagsire|Substitute
+|-damage|p1a: Quagsire|66/100
+|
+|-heal|p1a: Quagsire|72/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641826015
+|move|p1a: Quagsire|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|84/100 tox
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100 tox
+|
+|-heal|p1a: Quagsire|78/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|88/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641826032
+|switch|p1a: Ferrothorn|Ferrothorn, M|78/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641826036
+|switch|p2a: Zapdos|Zapdos|63/100|[from]move: Teleport
+|-ability|p2a: Zapdos|Pressure
+|
+|upkeep
+|turn|35
+|
+|t:|1641826044
+|move|p2a: Zapdos|Heat Wave|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641826051
+|switch|p1a: Quagsire|Quagsire, M|78/100
+|turn|36
+|
+|t:|1641826058
+|switch|p2a: Slowbro|Slowbro, M|100/100 tox
+|move|p1a: Quagsire|Toxic|p2a: Slowbro
+|-fail|p2a: Slowbro|tox
+|
+|-heal|p1a: Quagsire|84/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|37
+|-message|Diavolo7722 forfeited.
+|
+|win|WakoTH
+|raw|Diavolo7722's rating: 1177 &rarr; <strong>1152</strong><br />(-25 for losing)
+|raw|WakoTH's rating: 1176 &rarr; <strong>1201</strong><br />(+25 for winning)
+|l|☆Diavolo7722
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

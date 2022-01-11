@@ -1,0 +1,403 @@
+|j|☆LauriFor3
+|j|☆Windsom
+|t:|1641854476
+|gametype|singles
+|player|p1|LauriFor3|265|1497
+|player|p2|Windsom|hilbert|1567
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Zapdos-Galar|
+|poke|p2|Tapu Fini|
+|poke|p2|Hawlucha, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Mew|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1641854485
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Mikazuki|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Mikazuki
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Windsom)
+|
+|t:|1641854491
+|move|p2a: Mikazuki|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|cant|p1a: Ferrothorn|move: Taunt|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641854501
+|switch|p2a: Onimaru|Hawlucha, F|100/100
+|-enditem|p2a: Onimaru|Misty Seed
+|-boost|p2a: Onimaru|spd|1|[from] item: Misty Seed
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Onimaru
+|-damage|p2a: Onimaru|25/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641854512
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|move|p2a: Onimaru|Close Combat|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|82/100
+|-unboost|p2a: Onimaru|def|1
+|-unboost|p2a: Onimaru|spd|1
+|
+|-heal|p1a: Tapu Fini|88/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641854520
+|move|p2a: Onimaru|Acrobatics|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|51/100
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Onimaru
+|-supereffective|p2a: Onimaru
+|-damage|p2a: Onimaru|0 fnt
+|-heal|p1a: Tapu Fini|66/100|[from] drain|[of] p2a: Onimaru
+|faint|p2a: Onimaru
+|
+|-heal|p1a: Tapu Fini|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641854535
+|switch|p2a: Musashi|Landorus-Therian, M|100/100
+|-ability|p2a: Musashi|Intimidate|boost
+|-unboost|p1a: Tapu Fini|atk|1
+|turn|5
+|
+|t:|1641854538
+|move|p2a: Musashi|Stealth Rock|p1a: Tapu Fini
+|-sidestart|p1: LauriFor3|move: Stealth Rock
+|move|p1a: Tapu Fini|Scald|p2a: Musashi
+|-supereffective|p2a: Musashi
+|-crit|p2a: Musashi
+|-damage|p2a: Musashi|1/100
+|
+|-heal|p1a: Tapu Fini|79/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641854547
+|move|p2a: Musashi|Explosion|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|6/100
+|faint|p2a: Musashi
+|move|p1a: Tapu Fini|Knock Off|p2: Musashi|[notarget]
+|-fail|p1a: Tapu Fini
+|
+|-heal|p1a: Tapu Fini|12/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641854563
+|switch|p2a: Odenta|Mew|100/100
+|turn|7
+|
+|t:|1641854566
+|move|p2a: Odenta|Cosmic Power|p2a: Odenta
+|-boost|p2a: Odenta|def|1
+|-boost|p2a: Odenta|spd|1
+|move|p1a: Tapu Fini|Knock Off|p2a: Odenta
+|-supereffective|p2a: Odenta
+|-damage|p2a: Odenta|87/100
+|-enditem|p2a: Odenta|Weakness Policy
+|-boost|p2a: Odenta|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Odenta|spa|2|[from] item: Weakness Policy
+|
+|-heal|p1a: Tapu Fini|18/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641854571
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Odenta|Cosmic Power|p2a: Odenta
+|-boost|p2a: Odenta|def|1
+|-boost|p2a: Odenta|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641854579
+|move|p1a: Dragapult|Shadow Ball|p2a: Odenta
+|-supereffective|p2a: Odenta
+|-damage|p2a: Odenta|45/100
+|-unboost|p2a: Odenta|spd|1
+|move|p2a: Odenta|Stored Power|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641854590
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641854596
+|move|p2a: Odenta|Soft-Boiled|p2a: Odenta
+|-heal|p2a: Odenta|95/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Odenta
+|-start|p2a: Odenta|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p2a: Odenta|83/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|11
+|
+|t:|1641854606
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Odenta|atk|1
+|move|p2a: Odenta|Cosmic Power|p2a: Odenta
+|-boost|p2a: Odenta|def|1
+|-boost|p2a: Odenta|spd|1
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|-damage|p2a: Odenta|71/100|[from] Leech Seed|[of] p1a: Landorus
+|-heal|p1a: Landorus|100/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641854614
+|move|p2a: Odenta|Stored Power|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641854618
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|-damage|p1a: Zapdos|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641854621
+|move|p1a: Zapdos|U-turn|p2a: Odenta
+|-supereffective|p2a: Odenta
+|-damage|p2a: Odenta|52/100
+|
+|t:|1641854624
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Odenta|Stored Power|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|41/100
+|
+|-heal|p1a: Ferrothorn|48/100|[from] item: Leftovers
+|-damage|p2a: Odenta|40/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|62/100|[silent]
+|upkeep
+|turn|14
+|
+|t:|1641854635
+|switch|p1a: Zapdos|Zapdos-Galar|88/100
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|move|p2a: Odenta|Cosmic Power|p2a: Odenta
+|-boost|p2a: Odenta|def|1
+|-boost|p2a: Odenta|spd|1
+|
+|-damage|p2a: Odenta|27/100|[from] Leech Seed|[of] p1a: Zapdos
+|-heal|p1a: Zapdos|91/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641854643
+|move|p1a: Zapdos|U-turn|p2a: Odenta
+|-supereffective|p2a: Odenta
+|-damage|p2a: Odenta|11/100
+|
+|t:|1641854646
+|switch|p1a: Ferrothorn|Ferrothorn, F|62/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|55/100|[from] Stealth Rock
+|move|p2a: Odenta|Soft-Boiled|p2a: Odenta
+|-heal|p2a: Odenta|61/100
+|
+|-heal|p1a: Ferrothorn|62/100|[from] item: Leftovers
+|-damage|p2a: Odenta|48/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|75/100|[silent]
+|upkeep
+|turn|16
+|
+|t:|1641854656
+|move|p2a: Odenta|Soft-Boiled|p2a: Odenta
+|-heal|p2a: Odenta|98/100
+|move|p1a: Ferrothorn|Spikes|p2a: Odenta
+|-sidestart|p2: Windsom|Spikes
+|
+|-heal|p1a: Ferrothorn|82/100|[from] item: Leftovers
+|-damage|p2a: Odenta|86/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|96/100|[silent]
+|upkeep
+|turn|17
+|
+|t:|1641854663
+|move|p2a: Odenta|Cosmic Power|p2a: Odenta
+|-boost|p2a: Odenta|def|1
+|-boost|p2a: Odenta|spd|1
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Odenta
+|-damage|p2a: Odenta|74/100
+|
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p2a: Odenta|62/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|18
+|
+|t:|1641854668
+|move|p2a: Odenta|Stored Power|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|21/100
+|move|p1a: Ferrothorn|Spikes|p2a: Odenta
+|-sidestart|p2: Windsom|Spikes
+|
+|-heal|p1a: Ferrothorn|27/100|[from] item: Leftovers
+|-damage|p2a: Odenta|49/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|41/100|[silent]
+|upkeep
+|turn|19
+|
+|t:|1641854674
+|move|p2a: Odenta|Soft-Boiled|p2a: Odenta
+|-heal|p2a: Odenta|99/100
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Odenta
+|-crit|p2a: Odenta
+|-damage|p2a: Odenta|37/100
+|
+|-heal|p1a: Ferrothorn|47/100|[from] item: Leftovers
+|-damage|p2a: Odenta|24/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|61/100|[silent]
+|upkeep
+|turn|20
+|
+|t:|1641854683
+|switch|p1a: Zapdos|Zapdos-Galar|91/100
+|-damage|p1a: Zapdos|78/100|[from] Stealth Rock
+|move|p2a: Odenta|Soft-Boiled|p2a: Odenta
+|-heal|p2a: Odenta|75/100
+|
+|-damage|p2a: Odenta|62/100|[from] Leech Seed|[of] p1a: Zapdos
+|-heal|p1a: Zapdos|94/100|[silent]
+|upkeep
+|turn|21
+|
+|t:|1641854692
+|move|p1a: Zapdos|U-turn|p2a: Odenta
+|-supereffective|p2a: Odenta
+|-damage|p2a: Odenta|49/100
+|
+|t:|1641854694
+|switch|p1a: Ferrothorn|Ferrothorn, F|61/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|55/100|[from] Stealth Rock
+|move|p2a: Odenta|Soft-Boiled|p2a: Odenta
+|-heal|p2a: Odenta|99/100
+|
+|-heal|p1a: Ferrothorn|61/100|[from] item: Leftovers
+|-damage|p2a: Odenta|87/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|75/100|[silent]
+|upkeep
+|turn|22
+|
+|t:|1641854698
+|move|p2a: Odenta|Stored Power|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641854702
+|switch|p1a: Zapdos|Zapdos-Galar|94/100
+|-damage|p1a: Zapdos|81/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641854706
+|move|p1a: Zapdos|U-turn|p2a: Odenta
+|-supereffective|p2a: Odenta
+|-damage|p2a: Odenta|73/100
+|
+|t:|1641854708
+|switch|p1a: Tapu Fini|Tapu Fini|18/100|[from]move: U-turn
+|-damage|p1a: Tapu Fini|6/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Odenta|Stored Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641854710
+|switch|p1a: Zapdos|Zapdos-Galar|81/100
+|-damage|p1a: Zapdos|69/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641854719
+|move|p1a: Zapdos|U-turn|p2a: Odenta
+|-supereffective|p2a: Odenta
+|-damage|p2a: Odenta|60/100
+|
+|t:|1641854721
+|switch|p1a: Tyranitar|Tyranitar, F|100/100|[from]move: U-turn
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Odenta|Stored Power|p1a: Tyranitar
+|-immune|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Odenta|54/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|94/100|[from] item: Leftovers
+|-damage|p2a: Odenta|42/100|[from] Leech Seed|[of] p1a: Tyranitar
+|-heal|p1a: Tyranitar|100/100|[silent]
+|upkeep
+|turn|25
+|
+|t:|1641854723
+|move|p2a: Odenta|Body Press|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Odenta|36/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641854725
+|switch|p1a: Zapdos|Zapdos-Galar|69/100
+|-damage|p1a: Zapdos|56/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641854732
+|move|p1a: Zapdos|Brave Bird|p2a: Odenta
+|-damage|p2a: Odenta|19/100
+|-damage|p1a: Zapdos|49/100|[from] Recoil
+|move|p2a: Odenta|Stored Power|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|Windsom
+|raw|LauriFor3's rating: 1497 &rarr; <strong>1481</strong><br />(-16 for losing)
+|raw|Windsom's rating: 1567 &rarr; <strong>1583</strong><br />(+16 for winning)
+|l|☆LauriFor3
+|c|☆Windsom|gg
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

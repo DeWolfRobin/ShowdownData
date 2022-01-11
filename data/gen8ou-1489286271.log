@@ -1,0 +1,131 @@
+|j|☆Adam Fathalo
+|j|☆bvlat
+|t:|1641883910
+|gametype|singles
+|player|p1|Adam Fathalo|gambler|1088
+|player|p2|bvlat|lady|1160
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Charizard, M|
+|poke|p1|Zoroark, M|
+|poke|p1|Metagross|
+|poke|p1|Articuno|
+|poke|p1|Drapion, M|
+|poke|p1|Garchomp, M|
+|poke|p2|Metagross|
+|poke|p2|Clefable, F|
+|poke|p2|Kommo-o, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Rillaboom, M|
+|poke|p2|Blaziken, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Adam Fathalo)
+|
+|t:|1641883923
+|start
+|switch|p1a: Drapion|Drapion, M|100/100
+|switch|p2a: Kommo-o|Kommo-o, M, shiny|100/100
+|turn|1
+|
+|t:|1641883931
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|75/100
+|move|p1a: Drapion|Toxic Spikes|p2a: Kommo-o
+|-sidestart|p2: bvlat|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641883937
+|move|p2a: Kommo-o|Belly Drum|p2a: Kommo-o
+|-damage|p2a: Kommo-o|25/100
+|-setboost|p2a: Kommo-o|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Kommo-o|Salac Berry|[eat]
+|-boost|p2a: Kommo-o|spe|1|[from] item: Salac Berry
+|move|p1a: Drapion|Knock Off|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-activate|p2a: Kommo-o|move: Substitute|[damage]
+|
+|upkeep
+|turn|3
+|
+|t:|1641883947
+|move|p2a: Kommo-o|Drain Punch|p1a: Drapion
+|-damage|p1a: Drapion|0 fnt
+|-heal|p2a: Kommo-o|74/100|[from] drain|[of] p1a: Drapion
+|faint|p1a: Drapion
+|
+|upkeep
+|
+|t:|1641883951
+|switch|p1a: Charizard|Charizard, M|100/100
+|turn|4
+|
+|t:|1641883954
+|move|p2a: Kommo-o|Ice Punch|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|
+|upkeep
+|
+|t:|1641883960
+|switch|p1a: Articuno|Articuno|100/100
+|-ability|p1a: Articuno|Pressure
+|turn|5
+|
+|t:|1641883964
+|move|p2a: Kommo-o|Drain Punch|p1a: Articuno
+|-damage|p1a: Articuno|0 fnt
+|-heal|p2a: Kommo-o|100/100|[from] drain|[of] p1a: Articuno
+|faint|p1a: Articuno
+|
+|upkeep
+|
+|t:|1641883969
+|switch|p1a: Metagross|Metagross, shiny|100/100
+|turn|6
+|
+|t:|1641883972
+|move|p2a: Kommo-o|Drain Punch|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|upkeep
+|
+|t:|1641883987
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|7
+|
+|t:|1641883990
+|move|p2a: Kommo-o|Ice Punch|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Kommo-o|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|upkeep
+|l|☆Adam Fathalo
+|inactive|Adam Fathalo disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|Adam Fathalo has 30 seconds to reconnect!
+|inactive|Adam Fathalo has 20 seconds to reconnect!
+|inactive|Adam Fathalo has 15 seconds to reconnect!
+|inactive|Adam Fathalo has 10 seconds to reconnect!
+|inactive|Adam Fathalo has 5 seconds to reconnect!
+|-message|Adam Fathalo lost due to inactivity.
+|
+|win|bvlat
+|raw|Adam Fathalo's rating: 1088 &rarr; <strong>1070</strong><br />(-18 for losing)
+|raw|bvlat's rating: 1160 &rarr; <strong>1180</strong><br />(+20 for winning)

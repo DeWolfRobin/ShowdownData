@@ -1,0 +1,194 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc ryekie
+|j|☆SL21CC 91影先生
+|t:|1641823826
+|gametype|singles
+|player|p1|sl21cc ryekie|erika|1289
+|player|p2|SL21CC 91影先生|chickwayne.gif|1462
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Blacephalon|
+|poke|p1|Dragonite, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Celesteela|
+|poke|p1|Garchomp, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Blissey, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Swampert, M|
+|teampreview
+|c|☆SL21CC 91影先生|老婆
+|c|☆sl21cc ryekie|不想排你来着
+|c|☆SL21CC 91影先生|亲亲1
+|c|☆sl21cc ryekie|佛了
+|j| solitary dream
+|c|☆sl21cc ryekie|不给亲
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC 91影先生)
+|j| sl21cc vogut
+|
+|t:|1641823860
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|1
+|j| SL21CC Leviathan
+|
+|t:|1641823873
+|move|p1a: Mew|Taunt|p2a: Swampert
+|-start|p2a: Swampert|move: Taunt
+|move|p2a: Swampert|Flip Turn|p1a: Mew
+|-damage|p1a: Mew|81/100
+|-enditem|p1a: Mew|Red Card|[of] p2a: Swampert
+|drag|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|upkeep
+|turn|2
+|j| SL21CC sadfrog
+|
+|t:|1641823884
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|move|p1a: Mew|Stealth Rock|p2a: Bisharp
+|-sidestart|p2: SL21CC 91影先生|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641823900
+|move|p1a: Mew|Spikes|p2a: Bisharp
+|-sidestart|p2: SL21CC 91影先生|Spikes
+|move|p2a: Bisharp|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641823911
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|turn|4
+|
+|t:|1641823917
+|switch|p2a: Swampert|Swampert, M|100/100
+|-damage|p2a: Swampert|94/100|[from] Stealth Rock
+|-damage|p2a: Swampert|82/100|[from] Spikes
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-heal|p2a: Swampert|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641823925
+|move|p1a: Garchomp|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|22/100
+|move|p2a: Swampert|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|21/100
+|
+|-heal|p2a: Swampert|28/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641823935
+|move|p1a: Garchomp|Scale Shot|p2a: Swampert
+|-damage|p2a: Swampert|12/100
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-hitcount|p2: Swampert|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|j| SL21CCC徐坤
+|
+|t:|1641823960
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|88/100|[from] Spikes
+|-damage|p2a: Ferrothorn|82/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641823965
+|move|p1a: Garchomp|Fire Fang|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Garchomp|9/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641823968
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|8
+|j| sl21cckhl
+|j| adreamew
+|
+|t:|1641823973
+|move|p1a: Garchomp|Scale Shot|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|39/100
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-hitcount|p2: Dragonite|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1641823977
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|9
+|c|☆SL21CC 91影先生|老队还是不行
+|
+|t:|1641824003
+|move|p1a: Garchomp|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|5/100
+|move|p2a: Blissey|Seismic Toss|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Blissey|0 fnt|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1641824013
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|10
+|
+|t:|1641824017
+|move|p1a: Blacephalon|Mind Blown|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|-damage|p1a: Blacephalon|50/100|[from] mindblown
+|faint|p2a: Tapu Koko
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|-message|SL21CC 91影先生 forfeited.
+|
+|win|sl21cc ryekie
+|raw|sl21cc ryekie's rating: 1289 &rarr; <strong>1312</strong><br />(+23 for winning)
+|raw|SL21CC 91影先生's rating: 1462 &rarr; <strong>1433</strong><br />(-29 for losing)
+|l|☆SL21CC 91影先生
+|l| SL21CCC徐坤
+|l| sl21cc vogut
+|l|☆sl21cc ryekie
+|l| sl21cckhl
+|l| SL21CC sadfrog
+|j|♚Master Origami♕

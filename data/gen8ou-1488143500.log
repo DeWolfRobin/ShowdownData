@@ -1,0 +1,645 @@
+|j|☆Ik4RU5
+|j|☆C6H5COOC2H5
+|t:|1641720967
+|gametype|singles
+|player|p1|Ik4RU5|proton|1134
+|player|p2|C6H5COOC2H5|caitlin|1151
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Arcanine, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Blissey, F|
+|poke|p1|Scizor, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Rotom-Wash|
+|poke|p2|Kartana|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Regieleki|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Tapu Lele|
+|teampreview
+|
+|t:|1641720971
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|turn|1
+|
+|t:|1641720983
+|move|p2a: Kartana|Leaf Blade|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641721000
+|switch|p1a: Arcanine|Arcanine, M|100/100
+|turn|2
+|
+|t:|1641721005
+|move|p2a: Kartana|Sacred Sword|p1a: Arcanine
+|-damage|p1a: Arcanine|27/100
+|move|p1a: Arcanine|Flare Blitz|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-enditem|p2a: Kartana|Focus Sash
+|-damage|p2a: Kartana|1/100
+|-damage|p1a: Arcanine|1/100|[from] Recoil
+|-damage|p1a: Arcanine|0 fnt|[from] item: Life Orb
+|faint|p1a: Arcanine
+|
+|upkeep
+|
+|t:|1641721015
+|switch|p1a: Scizor|Scizor, M|100/100
+|turn|3
+|
+|t:|1641721022
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Scizor|Bullet Punch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|91/100
+|-damage|p1a: Scizor|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|97/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641721033
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Scizor
+|-sidestart|p1: Ik4RU5|move: Stealth Rock
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641721039
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Scizor
+|-status|p1a: Scizor|par
+|
+|upkeep
+|turn|6
+|
+|t:|1641721046
+|cant|p1a: Scizor|par
+|move|p2a: Ferrothorn|Spikes|p1a: Scizor
+|-sidestart|p1: Ik4RU5|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641721050
+|cant|p1a: Scizor|par
+|move|p2a: Ferrothorn|Spikes|p1a: Scizor
+|-sidestart|p1: Ik4RU5|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1641721054
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|move|p2a: Ferrothorn|Spikes|p1a: Scizor
+|-sidestart|p1: Ik4RU5|Spikes
+|
+|upkeep
+|turn|9
+|
+|t:|1641721059
+|move|p1a: Scizor|Brick Break|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Scizor|76/100 par|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641721068
+|switch|p2a: Kartana|Kartana|1/100
+|turn|10
+|
+|t:|1641721074
+|cant|p1a: Scizor|par
+|move|p2a: Kartana|Knock Off|p1a: Scizor
+|-damage|p1a: Scizor|30/100 par
+|-enditem|p1a: Scizor|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kartana
+|
+|upkeep
+|turn|11
+|
+|t:|1641721084
+|move|p1a: Scizor|Bullet Punch|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641721092
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|12
+|
+|t:|1641721097
+|move|p1a: Scizor|Bullet Punch|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-crit|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|upkeep
+|
+|t:|1641721102
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|13
+|
+|t:|1641721107
+|move|p1a: Scizor|Bullet Punch|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|24/100
+|move|p2a: Pelipper|Hurricane|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|30/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641721121
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|95/100|[from] Stealth Rock
+|-damage|p1a: Ferrothorn|70/100|[from] Spikes
+|turn|14
+|
+|t:|1641721129
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|80/100
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|62/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|68/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|76/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641721143
+|move|p2a: Pelipper|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|31/100
+|move|p1a: Ferrothorn|Toxic|p2a: Pelipper
+|-status|p2a: Pelipper|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|74/100 tox|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|37/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|68/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641721155
+|move|p2a: Pelipper|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|74/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|62/100 tox|[from] psn
+|upkeep
+|
+|t:|1641721167
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|-damage|p1a: Blissey|63/100|[from] Spikes
+|turn|17
+|
+|t:|1641721172
+|move|p2a: Pelipper|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|55/100
+|
+|t:|1641721179
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-weather|none
+|upkeep
+|turn|18
+|
+|t:|1641721190
+|move|p2a: Tapu Lele|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|75/100
+|move|p1a: Blissey|Toxic|p2a: Tapu Lele
+|-status|p2a: Tapu Lele|tox
+|
+|-heal|p1a: Blissey|81/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|94/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641721200
+|move|p2a: Tapu Lele|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|55/100
+|move|p1a: Blissey|Fire Blast|p2a: Tapu Lele|[miss]
+|-miss|p1a: Blissey|p2a: Tapu Lele
+|
+|-heal|p1a: Blissey|61/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|82/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641721210
+|switch|p2a: Pelipper|Pelipper, M|62/100 tox
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|68/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|62/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641721225
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|-damage|p1a: Garchomp|69/100|[from] Spikes
+|move|p2a: Pelipper|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|19/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|68/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|55/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|22
+|
+|t:|1641721238
+|switch|p2a: Tapu Lele|Tapu Lele|82/100 tox
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Garchomp|Stone Edge|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|17/100 tox
+|-damage|p1a: Garchomp|9/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Tapu Lele|10/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641721248
+|move|p1a: Garchomp|Earthquake|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|-damage|p1a: Garchomp|0 fnt|[from] item: Life Orb
+|faint|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641721256
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Pelipper|Pelipper, M|55/100 tox
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|-damage|p1a: Blissey|63/100|[from] Spikes
+|turn|24
+|
+|t:|1641721264
+|move|p2a: Pelipper|Tailwind|p2a: Pelipper
+|-sidestart|p2: C6H5COOC2H5|move: Tailwind
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-weather|none
+|-heal|p2a: Pelipper|62/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|55/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641721274
+|move|p2a: Pelipper|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|82/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-heal|p2a: Pelipper|62/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|49/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641721283
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|99/100 tox
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Blissey|Aromatherapy||[still]
+|-activate|p1a: Blissey|move: Aromatherapy
+|-fail|p1a: Blissey
+|
+|-heal|p2a: Pelipper|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|82/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|27
+|
+|t:|1641721293
+|move|p2a: Pelipper|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|93/100
+|
+|t:|1641721296
+|switch|p2a: Regieleki|Regieleki|100/100|[from]move: U-turn
+|move|p1a: Blissey|Aromatherapy||[still]
+|-activate|p1a: Blissey|move: Aromatherapy
+|-fail|p1a: Blissey
+|
+|-heal|p1a: Blissey|99/100|[from] item: Leftovers
+|-sideend|p2: C6H5COOC2H5|move: Tailwind
+|upkeep
+|turn|28
+|
+|t:|1641721305
+|move|p2a: Regieleki|Electro Ball|p1a: Blissey
+|-damage|p1a: Blissey|57/100
+|move|p1a: Blissey|Toxic|p2a: Regieleki
+|-status|p2a: Regieleki|tox
+|
+|-heal|p1a: Blissey|63/100|[from] item: Leftovers
+|-damage|p2a: Regieleki|95/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641721314
+|move|p2a: Regieleki|Volt Switch|p1a: Blissey
+|-damage|p1a: Blissey|42/100
+|
+|t:|1641721317
+|switch|p2a: Pelipper|Pelipper, M|82/100 tox|[from]move: Volt Switch
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|92/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|88/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|98/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|82/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641721329
+|move|p2a: Pelipper|Tailwind|p2a: Pelipper
+|-sidestart|p2: C6H5COOC2H5|move: Tailwind
+|move|p1a: Blissey|Fire Blast|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|75/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|81/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|100/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|68/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641721342
+|move|p2a: Pelipper|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|80/100
+|move|p1a: Blissey|Aromatherapy||[still]
+|-activate|p1a: Blissey|move: Aromatherapy
+|-fail|p1a: Blissey
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|75/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|86/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|56/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641721352
+|move|p2a: Pelipper|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|79/100
+|
+|t:|1641721356
+|switch|p2a: Regieleki|Regieleki|95/100 tox|[from]move: U-turn
+|move|p1a: Blissey|Fire Blast|p2a: Regieleki
+|-damage|p2a: Regieleki|77/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Blissey|85/100|[from] item: Leftovers
+|-damage|p2a: Regieleki|71/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641721365
+|move|p2a: Regieleki|Volt Switch|p1a: Blissey
+|-damage|p1a: Blissey|64/100
+|
+|t:|1641721368
+|switch|p2a: Pelipper|Pelipper, M|56/100 tox|[from]move: Volt Switch
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-weather|none
+|-heal|p2a: Pelipper|62/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|56/100 tox|[from] psn
+|-sideend|p2: C6H5COOC2H5|move: Tailwind
+|upkeep
+|turn|34
+|
+|t:|1641721377
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100 tox
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Blissey|Aromatherapy||[still]
+|-activate|p1a: Blissey|move: Aromatherapy
+|-fail|p1a: Blissey
+|
+|-damage|p2a: Pelipper|88/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641721386
+|move|p2a: Pelipper|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|93/100
+|
+|t:|1641721389
+|switch|p2a: Regieleki|Regieleki|71/100 tox|[from]move: U-turn
+|move|p1a: Blissey|Toxic|p2a: Regieleki
+|-fail|p2a: Regieleki|tox
+|
+|-heal|p1a: Blissey|99/100|[from] item: Leftovers
+|-damage|p2a: Regieleki|65/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641721398
+|move|p2a: Regieleki|Thunderbolt|p1a: Blissey
+|-damage|p1a: Blissey|72/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-damage|p2a: Regieleki|53/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641721408
+|move|p2a: Regieleki|Electro Ball|p1a: Blissey
+|-damage|p1a: Blissey|56/100
+|move|p1a: Blissey|Fire Blast|p2a: Regieleki
+|-damage|p2a: Regieleki|11/100 tox
+|
+|-heal|p1a: Blissey|62/100|[from] item: Leftovers
+|-damage|p2a: Regieleki|0 fnt|[from] psn
+|faint|p2a: Regieleki
+|upkeep
+|
+|t:|1641721416
+|switch|p2a: Pelipper|Pelipper, M|88/100 tox
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|38
+|
+|t:|1641721422
+|move|p2a: Pelipper|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|43/100
+|-start|p1a: Blissey|confusion
+|-activate|p1a: Blissey|confusion
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|93/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|94/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|99/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|88/100 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1641721434
+|move|p2a: Pelipper|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|79/100
+|-activate|p1a: Blissey|confusion
+|move|p1a: Blissey|Aromatherapy||[still]
+|-activate|p1a: Blissey|move: Aromatherapy
+|-fail|p1a: Blissey
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|94/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|86/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|82/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641721444
+|move|p2a: Pelipper|Hurricane|p1a: Blissey
+|-crit|p1a: Blissey
+|-damage|p1a: Blissey|58/100
+|-end|p1a: Blissey|confusion
+|move|p1a: Blissey|Toxic|p2a: Pelipper
+|-fail|p2a: Pelipper|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|88/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|65/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|70/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1641721456
+|move|p2a: Pelipper|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|47/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|97/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|76/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|100/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|51/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641721466
+|move|p2a: Pelipper|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|82/100
+|-start|p1a: Blissey|confusion
+|-activate|p1a: Blissey|confusion
+|move|p1a: Blissey|Fire Blast|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|44/100 tox
+|
+|-weather|none
+|-heal|p2a: Pelipper|50/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|89/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|19/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1641721478
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|69/100 tox
+|-singleturn|p2a: Pelipper|move: Roost
+|-end|p1a: Blissey|confusion
+|move|p1a: Blissey|Fire Blast|p2a: Pelipper|[miss]
+|-miss|p1a: Blissey|p2a: Pelipper
+|
+|-heal|p2a: Pelipper|75/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|95/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|38/100 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1641721490
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|88/100 tox
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Blissey|Toxic|p2a: Pelipper
+|-fail|p2a: Pelipper|tox
+|
+|-heal|p2a: Pelipper|95/100 tox|[from] item: Leftovers
+|-heal|p1a: Blissey|100/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|51/100 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1641721500
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|100/100 tox
+|-singleturn|p2a: Pelipper|move: Roost
+|move|p1a: Blissey|Toxic|p2a: Pelipper
+|-fail|p2a: Pelipper|tox
+|
+|-damage|p2a: Pelipper|51/100 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1641721510
+|move|p2a: Pelipper|Hurricane|p1a: Blissey|[miss]
+|-miss|p2a: Pelipper|p1a: Blissey
+|move|p1a: Blissey|Fire Blast|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|36/100 tox
+|
+|-heal|p2a: Pelipper|42/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|0 fnt|[from] psn
+|faint|p2a: Pelipper
+|
+|win|Ik4RU5
+|upkeep
+|raw|Ik4RU5's rating: 1134 &rarr; <strong>1160</strong><br />(+26 for winning)
+|raw|C6H5COOC2H5's rating: 1151 &rarr; <strong>1125</strong><br />(-26 for losing)
+|l|☆C6H5COOC2H5
+|c|☆Ik4RU5|gg

@@ -1,0 +1,89 @@
+|j|☆dawdaddaw
+|j|☆Hi I'm God's dad
+|t:|1641787024
+|gametype|singles
+|player|p1|dawdaddaw|1|1055
+|player|p2|Hi I'm God's dad|swimmerf-gen4|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pikachu-Alola, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Ribombee, M|
+|poke|p1|Alakazam, F|
+|poke|p1|Ninetales-Alola, M|
+|poke|p2|Latios, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Regieleki|
+|poke|p2|Mew|
+|poke|p2|Urshifu-*, F|
+|teampreview
+|
+|t:|1641787063
+|start
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|
+|t:|1641787072
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Blaziken|Close Combat|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|47/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|-damage|p1a: Blaziken|91/100|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1641787086
+|move|p1a: Blaziken|Close Combat|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Latios
+|-damage|p1a: Blaziken|81/100|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641787100
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|3
+|
+|t:|1641787110
+|move|p2a: Regieleki|Extreme Speed|p1a: Blaziken
+|-damage|p1a: Blaziken|13/100
+|move|p1a: Blaziken|Earthquake|p2a: Regieleki
+|-supereffective|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|-damage|p1a: Blaziken|3/100|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|c|☆dawdaddaw|lol
+|-message|Hi I'm God's dad forfeited.
+|
+|win|dawdaddaw
+|raw|dawdaddaw's rating: 1055 &rarr; <strong>1082</strong><br />(+27 for winning)
+|raw|Hi I&apos;m God&apos;s dad's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Hi I'm God's dad

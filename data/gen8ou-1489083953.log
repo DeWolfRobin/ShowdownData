@@ -1,0 +1,272 @@
+|j|☆BogSot
+|j|☆lol_hoho
+|t:|1641854567
+|gametype|singles
+|player|p1|BogSot|giovanni|1002
+|player|p2|lol_hoho|265|1049
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Galvantula, M|
+|poke|p1|Malamar, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Salamence, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Toxapex, F|
+|poke|p2|Kartana|
+|poke|p2|Garchomp, M|
+|poke|p2|Cloyster, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Clefable, F|
+|teampreview
+|
+|t:|1641854571
+|start
+|switch|p1a: Galvantula|Galvantula, M, shiny|100/100
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|turn|1
+|
+|t:|1641854580
+|move|p1a: Galvantula|Sticky Web|p2a: Excadrill
+|-sidestart|p2: lol_hoho|move: Sticky Web
+|move|p2a: Excadrill|Stealth Rock|p1a: Galvantula
+|-sidestart|p1: BogSot|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641854593
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Excadrill|Rock Blast|p1a: Toxapex|[miss]
+|-miss|p2a: Excadrill|p1a: Toxapex
+|
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1641854607
+|switch|p2a: Kartana|Kartana|100/100
+|-activate|p2a: Kartana|move: Sticky Web
+|-unboost|p2a: Kartana|spe|1
+|move|p1a: Toxapex|Toxic Spikes|p2a: Kartana
+|-sidestart|p2: lol_hoho|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641854614
+|move|p2a: Kartana|Swords Dance|p2a: Kartana
+|-boost|p2a: Kartana|atk|2
+|move|p1a: Toxapex|Toxic Spikes|p2a: Kartana
+|-sidestart|p2: lol_hoho|move: Toxic Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1641854623
+|move|p2a: Kartana|Leaf Blade|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641854628
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|-damage|p1a: Blaziken|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641854633
+|move|p1a: Blaziken|Flare Blitz|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-enditem|p2a: Kartana|Focus Sash
+|-damage|p2a: Kartana|1/100
+|-damage|p1a: Blaziken|60/100|[from] Recoil
+|-damage|p1a: Blaziken|50/100|[from] item: Life Orb
+|move|p2a: Kartana|Sacred Sword|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641854639
+|switch|p1a: Salamence|Salamence, M, shiny|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|turn|7
+|
+|t:|1641854652
+|move|p1a: Salamence|Flamethrower|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641854663
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-status|p2a: Garchomp|tox
+|-activate|p2a: Garchomp|move: Sticky Web
+|-unboost|p2a: Garchomp|spe|1
+|turn|8
+|
+|t:|1641854669
+|move|p1a: Salamence|Draco Meteor|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-unboost|p1a: Salamence|spa|2
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641854678
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-activate|p2a: Dragapult|move: Sticky Web
+|-unboost|p2a: Dragapult|spe|1
+|-status|p2a: Dragapult|tox
+|turn|9
+|
+|t:|1641854685
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Dragapult|Dragon Darts|p1a: Tyranitar
+|-damage|p1a: Tyranitar|64/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Tyranitar
+|-damage|p1a: Tyranitar|40/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|95/100 tox|[from] Sandstorm
+|-heal|p2a: Dragapult|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641854698
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Tyranitar|Ice Punch|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641854710
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-activate|p2a: Excadrill|move: Sticky Web
+|-unboost|p2a: Excadrill|spe|1
+|turn|11
+|
+|t:|1641854716
+|move|p1a: Tyranitar|Ice Punch|p2a: Excadrill
+|-damage|p2a: Excadrill|36/100
+|-status|p2a: Excadrill|frz
+|cant|p2a: Excadrill|frz
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641854725
+|move|p1a: Tyranitar|Ice Punch|p2a: Excadrill
+|-crit|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641854737
+|switch|p2a: Clefable|Clefable, F|100/100
+|-activate|p2a: Clefable|move: Sticky Web
+|-unboost|p2a: Clefable|spe|1
+|-status|p2a: Clefable|tox
+|turn|13
+|
+|t:|1641854744
+|switch|p1a: Malamar|Malamar, M|100/100
+|-damage|p1a: Malamar|88/100|[from] Stealth Rock
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-weather|none
+|-heal|p1a: Malamar|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641854755
+|move|p1a: Malamar|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|84/100 tox
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Malamar
+|move|p2a: Clefable|Moonblast|p1a: Malamar
+|-supereffective|p1a: Malamar
+|-damage|p1a: Malamar|0 fnt
+|faint|p1a: Malamar
+|
+|upkeep
+|
+|t:|1641854761
+|switch|p1a: Tyranitar|Tyranitar, M|40/100
+|-damage|p1a: Tyranitar|27/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|15
+|
+|t:|1641854767
+|move|p1a: Tyranitar|Stone Edge|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641854771
+|switch|p2a: Cloyster|Cloyster, F|100/100
+|-activate|p2a: Cloyster|move: Sticky Web
+|-unboost|p2a: Cloyster|spe|1
+|-status|p2a: Cloyster|tox
+|turn|16
+|
+|t:|1641854777
+|move|p1a: Tyranitar|Stone Edge|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-enditem|p2a: Cloyster|Focus Sash
+|-damage|p2a: Cloyster|1/100 tox
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cloyster|0 fnt|[from] Sandstorm
+|faint|p2a: Cloyster
+|
+|win|BogSot
+|upkeep
+|raw|BogSot's rating: 1002 &rarr; <strong>1047</strong><br />(+45 for winning)
+|raw|lol_hoho's rating: 1049 &rarr; <strong>1029</strong><br />(-20 for losing)
+|l|☆lol_hoho
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,389 @@
+|j|☆comradesquidwar
+|j|☆HOF69
+|t:|1641855637
+|gametype|singles
+|player|p1|comradesquidwar|janitor|1637
+|player|p2|HOF69|red|1771
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Gengar, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Garchomp, M|
+|poke|p2|Blacephalon|
+|poke|p2|Gengar, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Krookodile, M|
+|poke|p2|Kartana|
+|poke|p2|Tapu Lele|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by comradesquidwar)
+|
+|t:|1641855654
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|switch|p2a: Krookodile|Krookodile, M|100/100
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|turn|1
+|
+|t:|1641855677
+|move|p1a: Tornadus|Taunt|p2a: Krookodile
+|-start|p2a: Krookodile|move: Taunt
+|cant|p2a: Krookodile|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641855679
+|move|p1a: Tornadus|Hurricane|p2a: Krookodile
+|-damage|p2a: Krookodile|42/100
+|move|p2a: Krookodile|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|57/100
+|-enditem|p1a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Krookodile
+|
+|upkeep
+|turn|3
+|
+|t:|1641855683
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|move|p1a: Tornadus|Hurricane|p2a: Landorus|[miss]
+|-miss|p1a: Tornadus|p2a: Landorus
+|
+|upkeep
+|turn|4
+|
+|t:|1641855688
+|switch|p1a: Slowbro|Slowbro, M, shiny|100/100
+|move|p2a: Landorus|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|70/100
+|
+|t:|1641855692
+|switch|p2a: Krookodile|Krookodile, M|42/100|[from]move: U-turn
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Slowbro|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641855695
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|91/100
+|move|p2a: Krookodile|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1641855697
+|move|p1a: Tornadus|Defog|p2a: Krookodile
+|-unboost|p2a: Krookodile|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|move|p2a: Krookodile|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|60/100
+|
+|upkeep
+|turn|7
+|j| Zombini62
+|
+|t:|1641855702
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|move|p1a: Tornadus|Hurricane|p2a: Landorus
+|-damage|p2a: Landorus|74/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641855708
+|move|p1a: Tornadus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|70/100
+|
+|t:|1641855710
+|switch|p1a: Slowbro|Slowbro, M, shiny|100/100|[from]move: U-turn
+|move|p2a: Landorus|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|70/100
+|
+|t:|1641855712
+|switch|p2a: Krookodile|Krookodile, M|42/100|[from]move: U-turn
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Slowbro|atk|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641855716
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|93/100
+|move|p2a: Krookodile|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|j| srthdghk
+|
+|t:|1641855733
+|switch|p2a: Landorus|Landorus-Therian, M|70/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|move|p1a: Tornadus|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|
+|upkeep
+|turn|11
+|
+|t:|1641855737
+|switch|p1a: Toxapex|Toxapex, M, shiny|100/100
+|move|p2a: Landorus|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|78/100
+|-damage|p2a: Landorus|53/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-enditem|p1a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p2a: Landorus
+|
+|upkeep
+|turn|12
+|
+|t:|1641855743
+|move|p2a: Landorus|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|13/100
+|move|p1a: Toxapex|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|33/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641855749
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p2a: Landorus|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|87/100
+|
+|t:|1641855754
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|upkeep
+|turn|14
+|
+|t:|1641855759
+|switch|p1a: Slowbro|Slowbro, M, shiny|100/100
+|move|p2a: Tapu Lele|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|66/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641855767
+|move|p2a: Tapu Lele|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|30/100
+|-unboost|p1a: Slowbro|spa|1
+|move|p1a: Slowbro|Future Sight|p2a: Tapu Lele
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|16
+|
+|t:|1641855775
+|switch|p1a: Toxapex|Toxapex, M, shiny|46/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|upkeep
+|
+|t:|1641855779
+|switch|p1a: Gengar|Gengar, F|100/100
+|turn|17
+|j| NerdZigue
+|
+|t:|1641855792
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|33/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|
+|-end|p2a: Landorus|move: Future Sight
+|-damage|p2a: Landorus|1/100
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|18
+|
+|t:|1641855799
+|move|p1a: Tornadus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|t:|1641855810
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641855817
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|19
+|l| NerdZigue
+|inactive|comradesquidwar has 120 seconds left.
+|
+|t:|1641855856
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p2a: Tapu Lele|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|40/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641855863
+|move|p1a: Tornadus|U-turn|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|78/100
+|
+|t:|1641855865
+|switch|p1a: Slowbro|Slowbro, M, shiny|63/100|[from]move: U-turn
+|move|p2a: Tapu Lele|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|28/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641855874
+|move|p2a: Tapu Lele|Psyshock|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|9/100
+|move|p1a: Slowbro|Future Sight|p2a: Tapu Lele
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|22
+|
+|t:|1641855877
+|move|p2a: Tapu Lele|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1641855879
+|switch|p1a: Gengar|Gengar, F|100/100
+|turn|23
+|
+|t:|1641855889
+|switch|p2a: Krookodile|Krookodile, M|42/100
+|-ability|p2a: Krookodile|Intimidate|boost
+|-unboost|p1a: Gengar|atk|1
+|move|p1a: Gengar|Sludge Wave|p2a: Krookodile
+|-resisted|p2a: Krookodile
+|-damage|p2a: Krookodile|8/100
+|
+|-end|p2a: Krookodile|move: Future Sight
+|-immune|p2a: Krookodile
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|24
+|
+|t:|1641855898
+|move|p1a: Gengar|Sludge Wave|p2a: Krookodile
+|-resisted|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|faint|p2a: Krookodile
+|
+|upkeep
+|
+|t:|1641855900
+|switch|p2a: Gengar|Gengar, M, shiny|100/100
+|turn|25
+|
+|t:|1641855909
+|switch|p1a: Clefable|Clefable, M, shiny|100/100
+|move|p2a: Gengar|Shadow Ball|p1a: Clefable
+|-damage|p1a: Clefable|61/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641855915
+|move|p2a: Gengar|Sludge Wave|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641855918
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|turn|27
+|
+|t:|1641855920
+|move|p2a: Gengar|Shadow Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|49/100
+|move|p1a: Garchomp|Earthquake|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-enditem|p2a: Gengar|Focus Sash
+|-damage|p2a: Gengar|1/100
+|-start|p1a: Garchomp|Disable|Earthquake|[from] ability: Cursed Body|[of] p2a: Gengar
+|-damage|p1a: Garchomp|39/100|[from] item: Life Orb
+|
+|upkeep
+|turn|28
+|inactive|comradesquidwar has 120 seconds left.
+|j| 32cows
+|
+|t:|1641855961
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|74/100
+|move|p2a: Gengar|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|29/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641855966
+|move|p1a: Tornadus|U-turn|p2a: Gengar
+|-resisted|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|inactive|comradesquidwar has 120 seconds left.
+|
+|t:|1641855972
+|switch|p1a: Gengar|Gengar, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641855974
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|30
+|
+|t:|1641855976
+|move|p1a: Gengar|Shadow Ball|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|upkeep
+|-message|HOF69 forfeited.
+|
+|win|comradesquidwar
+|raw|comradesquidwar's rating: 1637 &rarr; <strong>1664</strong><br />(+27 for winning)
+|raw|HOF69's rating: 1771 &rarr; <strong>1744</strong><br />(-27 for losing)
+|l|☆HOF69
+|c|☆comradesquidwar|gg

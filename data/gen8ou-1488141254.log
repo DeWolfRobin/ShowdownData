@@ -1,0 +1,506 @@
+|j|☆Xandes
+|j|☆lulu qlf
+|t:|1641720469
+|gametype|singles
+|player|p1|Xandes|266|
+|player|p2|lulu qlf|schoolkid|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Victini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Excadrill, F|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Heatran, M|
+|poke|p2|Kartana|
+|poke|p2|Weavile, M|
+|teampreview
+|c|☆lulu qlf|hf !
+|c|☆Xandes|hf !
+|c|☆Xandes|/log Xandes made this room public.
+|j| F430 Lover
+|
+|t:|1641720592
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|1
+|j| Nael222
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lulu qlf)
+|
+|t:|1641720618
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Weavile|Knock Off|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|85/100
+|-enditem|p1a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|2
+|
+|t:|1641720637
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Tapu Fini|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|86/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641720644
+|move|p1a: Tapu Fini|Taunt|p2a: Slowbro
+|-start|p2a: Slowbro|move: Taunt
+|cant|p2a: Slowbro|move: Taunt|Teleport
+|
+|upkeep
+|turn|4
+|
+|t:|1641720669
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Slowbro|Scald|p1a: Tornadus
+|-damage|p1a: Tornadus|71/100
+|-status|p1a: Tornadus|brn
+|
+|-damage|p1a: Tornadus|65/100 brn|[from] brn
+|upkeep
+|turn|5
+|l| F430 Lover
+|
+|t:|1641720680
+|move|p1a: Tornadus|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-enditem|p2a: Slowbro|Colbur Berry|[eat]
+|-enditem|p2a: Slowbro|Colbur Berry|[weaken]
+|-damage|p2a: Slowbro|80/100
+|move|p2a: Slowbro|Ice Beam|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|21/100 brn
+|
+|-damage|p1a: Tornadus|15/100 brn|[from] brn
+|-end|p2a: Slowbro|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641720687
+|move|p1a: Tornadus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|72/100
+|j| F430 Lover
+|l| Nael222
+|j| Nael222
+|inactive|Xandes has 270 seconds left.
+|
+|t:|1641720712
+|switch|p1a: Tapu Fini|Tapu Fini|85/100|[from]move: U-turn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641720724
+|switch|p2a: Kartana|Kartana|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|7
+|inactive|Xandes has 270 seconds left.
+|
+|t:|1641720743
+|switch|p1a: Victini|Victini|100/100
+|move|p2a: Kartana|Leaf Blade|p1a: Victini
+|-resisted|p1a: Victini
+|-damage|p1a: Victini|68/100
+|
+|upkeep
+|turn|8
+|inactive|Xandes has 270 seconds left.
+|l| Nael222
+|j| Nael222
+|inactive|lulu qlf has 270 seconds left.
+|l| Nael222
+|
+|t:|1641720794
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Victini|Blue Flare|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|69/100
+|
+|upkeep
+|turn|9
+|j| Nael222
+|inactive|lulu qlf has 240 seconds left.
+|inactive|Xandes has 240 seconds left.
+|inactive|lulu qlf has 210 seconds left.
+|l| F430 Lover
+|l| Nael222
+|j| Nael222
+|
+|t:|1641720863
+|move|p1a: Victini|Thunder|p2a: Slowbro|[miss]
+|-miss|p1a: Victini|p2a: Slowbro
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641720876
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: Teleport
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|10
+|
+|t:|1641720887
+|switch|p2a: Kartana|Kartana|100/100
+|switch|p1a: Tapu Fini|Tapu Fini|85/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|11
+|j| F430 Lover
+|inactive|Xandes has 210 seconds left.
+|l| F430 Lover
+|
+|t:|1641720934
+|move|p2a: Kartana|Leaf Blade|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-crit|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641720947
+|switch|p1a: Victini|Victini|68/100
+|turn|12
+|
+|t:|1641720952
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Victini|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|98/100
+|
+|t:|1641720957
+|switch|p1a: Excadrill|Excadrill, F|100/100|[from]move: U-turn
+|-ability|p1a: Excadrill|Mold Breaker
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|j| F430 Lover
+|l| F430 Lover
+|l| Nael222
+|j| Nael222
+|
+|t:|1641720973
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|
+|upkeep
+|turn|14
+|j| F430 Lover
+|
+|t:|1641720980
+|move|p1a: Landorus|Toxic|p2a: Slowbro
+|-status|p2a: Slowbro|tox
+|move|p2a: Slowbro|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|55/100
+|
+|-heal|p1a: Landorus|61/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641720984
+|move|p1a: Landorus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|67/100 tox
+|
+|t:|1641720988
+|switch|p1a: Tornadus|Tornadus-Therian, M|48/100 brn|[from]move: U-turn
+|move|p2a: Slowbro|Scald|p1a: Tornadus
+|-damage|p1a: Tornadus|18/100 brn
+|
+|-damage|p2a: Slowbro|55/100 tox|[from] psn
+|-damage|p1a: Tornadus|12/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641720993
+|move|p1a: Tornadus|Hurricane|p2a: Slowbro
+|-damage|p2a: Slowbro|13/100 tox
+|-start|p2a: Slowbro|confusion
+|-activate|p2a: Slowbro|confusion
+|-damage|p2a: Slowbro|9/100 tox|[from] confusion
+|
+|-damage|p2a: Slowbro|0 fnt|[from] psn
+|faint|p2a: Slowbro
+|-damage|p1a: Tornadus|6/100 brn|[from] brn
+|upkeep
+|inactive|lulu qlf has 270 seconds left.
+|
+|t:|1641720998
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|17
+|
+|t:|1641721003
+|move|p2a: Weavile|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|-enditem|p1a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Tornadus
+|
+|upkeep
+|l| F430 Lover
+|
+|t:|1641721015
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|18
+|
+|t:|1641721020
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|70/100
+|
+|-heal|p2a: Heatran|76/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|j| F430 Lover
+|inactive|Xandes has 240 seconds left.
+|
+|t:|1641721031
+|switch|p1a: Landorus|Landorus-Therian, M|61/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Stealth Rock|p1a: Landorus
+|-sidestart|p1: Xandes|move: Stealth Rock
+|
+|-heal|p1a: Landorus|67/100|[from] item: Leftovers
+|-heal|p2a: Heatran|83/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641721047
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Stealth Rock|p2a: Landorus
+|-sidestart|p2: lulu qlf|move: Stealth Rock
+|
+|-heal|p1a: Landorus|73/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|l| Nael222
+|
+|t:|1641721052
+|move|p2a: Landorus|Toxic|p1a: Landorus|[miss]
+|-miss|p2a: Landorus|p1a: Landorus
+|move|p1a: Landorus|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-heal|p1a: Landorus|79/100|[from] item: Leftovers
+|-damage|p2a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|22
+|c| F430 Lover|Bon
+|j| Nael222
+|inactive|Xandes has 240 seconds left.
+|l| F430 Lover
+|
+|t:|1641721093
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|78/100 tox
+|j| F430 Lover
+|l| Nael222
+|j| Nael222
+|inactive|Xandes has 210 seconds left.
+|l| Nael222
+|j| Nael222
+|inactive|Xandes has 180 seconds left.
+|j| PepeDuce
+|inactive|Xandes has 150 seconds left.
+|
+|t:|1641721173
+|switch|p1a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Landorus|84/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|72/100 tox|[from] psn
+|upkeep
+|turn|23
+|l| PepeDuce
+|l| Nael222
+|
+|t:|1641721181
+|switch|p1a: Landorus|Landorus-Therian, M|79/100 tox
+|-damage|p1a: Landorus|67/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p2a: Landorus|78/100 tox|[from] item: Leftovers
+|-heal|p1a: Landorus|73/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|60/100 tox|[from] psn
+|-damage|p1a: Landorus|67/100 tox|[from] psn
+|upkeep
+|turn|24
+|j| PepeDuce
+|j| asefutipo
+|
+|t:|1641721191
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|59/100 tox
+|
+|t:|1641721195
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Landorus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|89/100
+|l| F430 Lover
+|
+|t:|1641721204
+|switch|p1a: Victini|Victini|68/100|[from]move: U-turn
+|
+|upkeep
+|turn|25
+|
+|t:|1641721211
+|move|p1a: Victini|Blue Flare|p2a: Zapdos|[miss]
+|-miss|p1a: Victini|p2a: Zapdos
+|move|p2a: Zapdos|Thunderbolt|p1a: Victini
+|-damage|p1a: Victini|24/100
+|
+|upkeep
+|turn|26
+|j| F430 Lover
+|j| Nael222
+|inactive|Xandes has 150 seconds left.
+|
+|t:|1641721243
+|move|p2a: Zapdos|Thunderbolt|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|upkeep
+|inactive|Xandes has 150 seconds left.
+|
+|t:|1641721249
+|switch|p1a: Landorus|Landorus-Therian, M|59/100 tox
+|-damage|p1a: Landorus|47/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|27
+|
+|t:|1641721259
+|move|p2a: Zapdos|Hurricane|p1a: Landorus|[miss]
+|-miss|p2a: Zapdos|p1a: Landorus
+|move|p1a: Landorus|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-heal|p1a: Landorus|53/100 tox|[from] item: Leftovers
+|-damage|p2a: Zapdos|83/100 tox|[from] psn
+|-damage|p1a: Landorus|47/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641721264
+|move|p2a: Zapdos|Hurricane|p1a: Landorus|[miss]
+|-miss|p2a: Zapdos|p1a: Landorus
+|move|p1a: Landorus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|71/100 tox
+|l| Nael222
+|inactive|Xandes has 150 seconds left.
+|
+|t:|1641721289
+|switch|p1a: Blacephalon|Blacephalon|76/100|[from]move: U-turn
+|-damage|p1a: Blacephalon|51/100|[from] Stealth Rock
+|
+|-damage|p2a: Zapdos|59/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641721308
+|move|p1a: Blacephalon|Shadow Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|2/100 tox
+|move|p2a: Zapdos|Thunderbolt|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|-damage|p2a: Zapdos|0 fnt|[from] psn
+|faint|p2a: Zapdos
+|upkeep
+|j| Nael222
+|l| F430 Lover
+|l| PepeDuce
+|inactive|lulu qlf has 270 seconds left.
+|
+|t:|1641721333
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|30
+|l| Nael222
+|j| F430 Lover
+|
+|t:|1641721340
+|move|p2a: Kartana|Leaf Blade|p1a: Excadrill
+|-damage|p1a: Excadrill|10/100
+|move|p1a: Excadrill|Earthquake|p2a: Kartana
+|-damage|p2a: Kartana|36/100
+|
+|-heal|p1a: Excadrill|16/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|j| Nael222
+|c|☆lulu qlf|gg
+|c|☆Xandes|gg
+|
+|t:|1641721349
+|move|p2a: Kartana|Leaf Blade|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641721351
+|switch|p1a: Landorus|Landorus-Therian, M|47/100 tox
+|-damage|p1a: Landorus|35/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|turn|32
+|l| F430 Lover
+|
+|t:|1641721354
+|move|p2a: Kartana|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|win|lulu qlf

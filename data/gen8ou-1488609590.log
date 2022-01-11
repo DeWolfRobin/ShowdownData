@@ -1,0 +1,116 @@
+|j|☆Pindustry
+|j|☆Kingsugar101
+|t:|1641788924
+|gametype|singles
+|player|p1|Pindustry|candice|1188
+|player|p2|Kingsugar101|266|1183
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Tapu Fini|
+|poke|p1|Hawlucha, M|
+|poke|p1|Heatran, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Victini|
+|poke|p2|Dragonite, M|
+|poke|p2|Kartana|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Scizor, F|
+|poke|p2|Clefable, F|
+|teampreview
+|
+|t:|1641788938
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|
+|t:|1641788945
+|move|p1a: Tapu Lele|Moonblast|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|22/100
+|-unboost|p2a: Dragonite|spa|1
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641789002
+|move|p2a: Dragonite|Thunder Punch|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|28/100
+|move|p1a: Tapu Lele|Moonblast|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641789014
+|switch|p2a: Kartana|Kartana|100/100
+|turn|3
+|
+|t:|1641789022
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Kartana|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|62/100
+|-enditem|p1a: Heatran|Assault Vest|[from] move: Knock Off|[of] p2a: Kartana
+|
+|upkeep
+|turn|4
+|
+|t:|1641789034
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Clefable
+|-damage|p2a: Clefable|61/100
+|-activate|p2a: Clefable|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Clefable|67/100|[from] item: Leftovers
+|-damage|p2a: Clefable|55/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1641789048
+|move|p1a: Heatran|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641789061
+|switch|p2a: Kartana|Kartana|100/100
+|turn|6
+|
+|t:|1641789067
+|move|p2a: Kartana|Psycho Cut|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|47/100
+|move|p1a: Heatran|Magma Storm|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|-message|Kingsugar101 forfeited.
+|
+|win|Pindustry
+|raw|Pindustry's rating: 1188 &rarr; <strong>1213</strong><br />(+25 for winning)
+|raw|Kingsugar101's rating: 1183 &rarr; <strong>1158</strong><br />(-25 for losing)
+|l|☆Kingsugar101
+|player|p1|Pindustry|candice

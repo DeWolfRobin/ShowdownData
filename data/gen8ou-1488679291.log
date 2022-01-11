@@ -1,0 +1,932 @@
+|j|☆lolshh
+|j|☆Cheff cepe
+|t:|1641801516
+|gametype|singles
+|player|p1|lolshh|169|1461
+|player|p2|Cheff cepe|265|1435
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pangoro, M|
+|poke|p1|Chansey, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Zeraora|
+|poke|p1|Krookodile, F|
+|poke|p2|Kartana|
+|poke|p2|Volcarona, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Slowbro, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|j| hxhdhdd
+|
+|t:|1641801536
+|start
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|switch|p2a: Lewis 7|Landorus-Therian, M|100/100
+|-ability|p2a: Lewis 7|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|turn|1
+|
+|t:|1641801544
+|move|p2a: Lewis 7|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|97/100
+|
+|t:|1641801555
+|switch|p2a: Vettel|Slowbro, F|100/100|[from]move: U-turn
+|move|p1a: Dragonite|Ice Beam|p2a: Vettel
+|-resisted|p2a: Vettel
+|-damage|p2a: Vettel|93/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641801570
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Vettel|Teleport|p2a: Vettel
+|
+|t:|1641801577
+|switch|p2a: Verstapen|Kartana|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|3
+|
+|t:|1641801584
+|switch|p1a: Dragonite|Dragonite, M|97/100
+|move|p2a: Verstapen|Leaf Blade|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|87/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641801596
+|switch|p2a: Lewis 7|Landorus-Therian, M|100/100
+|-ability|p2a: Lewis 7|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1641801602
+|move|p2a: Lewis 7|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|97/100
+|
+|t:|1641801607
+|switch|p2a: Vettel|Slowbro, F|100/100|[from]move: U-turn
+|move|p1a: Dragonite|Ice Beam|p2a: Vettel
+|-resisted|p2a: Vettel
+|-damage|p2a: Vettel|93/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641801618
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Vettel|Teleport|p2a: Vettel
+|
+|t:|1641801635
+|switch|p2a: Lewis 7|Landorus-Therian, M|100/100|[from]move: Teleport
+|-ability|p2a: Lewis 7|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|7
+|
+|t:|1641801653
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Lewis 7|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|92/100
+|l| hxhdhdd
+|
+|t:|1641801662
+|switch|p2a: Verstapen|Kartana|100/100|[from]move: U-turn
+|
+|-heal|p1a: Tapu Fini|98/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641801674
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Verstapen|Leaf Blade|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|95/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641801688
+|switch|p2a: Vettel|Slowbro, F|100/100
+|move|p1a: Dragonite|Ice Beam|p2a: Vettel
+|-resisted|p2a: Vettel
+|-damage|p2a: Vettel|93/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641801697
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: Vettel|Future Sight|p1a: Chansey
+|-start|p2a: Vettel|move: Future Sight
+|
+|upkeep
+|turn|11
+|
+|t:|1641801704
+|move|p1a: Chansey|Wish|p1a: Chansey
+|move|p2a: Vettel|Teleport|p2a: Vettel
+|
+|t:|1641801709
+|switch|p2a: Lewis 7|Landorus-Therian, M|100/100|[from]move: Teleport
+|-ability|p2a: Lewis 7|Intimidate|boost
+|-unboost|p1a: Chansey|atk|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|12
+|
+|t:|1641801717
+|switch|p1a: Krookodile|Krookodile, F|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Lewis 7|atk|1
+|move|p2a: Lewis 7|Knock Off|p1a: Krookodile
+|-resisted|p1a: Krookodile
+|-damage|p1a: Krookodile|89/100
+|-enditem|p1a: Krookodile|Leftovers|[from] move: Knock Off|[of] p2a: Lewis 7
+|
+|-end|p1a: Krookodile|move: Future Sight
+|-immune|p1a: Krookodile
+|-heal|p1a: Krookodile|100/100|[from] move: Wish|[wisher] Chansey
+|upkeep
+|turn|13
+|
+|t:|1641801731
+|move|p1a: Krookodile|Toxic|p2a: Lewis 7
+|-status|p2a: Lewis 7|tox
+|move|p2a: Lewis 7|U-turn|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|62/100
+|
+|t:|1641801736
+|switch|p2a: Gasly|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1641801751
+|move|p1a: Krookodile|Stealth Rock|p2a: Gasly
+|-sidestart|p2: Cheff cepe|move: Stealth Rock
+|move|p2a: Gasly|Stealth Rock|p1a: Krookodile
+|-sidestart|p1: lolshh|move: Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1641801759
+|switch|p1a: Dragonite|Dragonite, M|95/100
+|move|p2a: Gasly|Leech Seed|p1a: Dragonite
+|-start|p1a: Dragonite|move: Leech Seed
+|
+|-damage|p1a: Dragonite|83/100|[from] Leech Seed|[of] p2a: Gasly
+|upkeep
+|turn|16
+|
+|t:|1641801766
+|switch|p2a: Vettel|Slowbro, F|100/100
+|move|p1a: Dragonite|Flamethrower|p2a: Vettel
+|-resisted|p2a: Vettel
+|-damage|p2a: Vettel|93/100
+|
+|-damage|p1a: Dragonite|70/100|[from] Leech Seed|[of] p2a: Vettel
+|-heal|p2a: Vettel|100/100|[silent]
+|upkeep
+|turn|17
+|
+|t:|1641801777
+|switch|p1a: Tapu Fini|Tapu Fini|98/100
+|-damage|p1a: Tapu Fini|86/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Vettel|Teleport|p2a: Vettel
+|
+|t:|1641801784
+|switch|p2a: Verstapen|Kartana|100/100|[from]move: Teleport
+|-damage|p2a: Verstapen|94/100|[from] Stealth Rock
+|
+|-heal|p1a: Tapu Fini|92/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641801792
+|switch|p1a: Dragonite|Dragonite, M|70/100
+|move|p2a: Verstapen|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|39/100
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Verstapen
+|
+|upkeep
+|turn|19
+|
+|t:|1641801800
+|switch|p2a: Vettel|Slowbro, F|100/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|89/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|20
+|
+|t:|1641801810
+|move|p1a: Dragonite|Defog|p2a: Vettel
+|-unboost|p2a: Vettel|evasion|1
+|-sideend|p2: Cheff cepe|Stealth Rock|[from] move: Defog|[of] p1a: Dragonite
+|-sideend|p1: lolshh|Stealth Rock|[from] move: Defog|[of] p1a: Dragonite
+|-fieldend|Misty Terrain
+|move|p2a: Vettel|Teleport|p2a: Vettel
+|
+|t:|1641801816
+|switch|p2a: Raikonen|Garchomp, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|21
+|
+|t:|1641801822
+|switch|p1a: Tapu Fini|Tapu Fini|92/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Raikonen|Stone Edge|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|60/100
+|-damage|p2a: Raikonen|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Tapu Fini|66/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641801838
+|switch|p2a: Vettel|Slowbro, F|100/100
+|move|p1a: Tapu Fini|Moonblast|p2a: Vettel
+|-damage|p2a: Vettel|77/100
+|
+|-heal|p1a: Tapu Fini|72/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641801843
+|move|p1a: Tapu Fini|Taunt|p2a: Vettel
+|-start|p2a: Vettel|move: Taunt
+|cant|p2a: Vettel|move: Taunt|Teleport
+|
+|-heal|p1a: Tapu Fini|78/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641801847
+|move|p1a: Tapu Fini|Knock Off|p2a: Vettel
+|-supereffective|p2a: Vettel
+|-damage|p2a: Vettel|52/100
+|-enditem|p2a: Vettel|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tapu Fini
+|move|p2a: Vettel|Future Sight|p1a: Tapu Fini
+|-start|p2a: Vettel|move: Future Sight
+|
+|-heal|p1a: Tapu Fini|84/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641801854
+|move|p1a: Tapu Fini|Knock Off|p2a: Vettel
+|-supereffective|p2a: Vettel
+|-damage|p2a: Vettel|34/100
+|move|p2a: Vettel|Scald|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|73/100
+|
+|-heal|p1a: Tapu Fini|79/100|[from] item: Leftovers
+|-end|p2a: Vettel|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|26
+|
+|t:|1641801862
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: Vettel|Scald|p1a: Chansey
+|-crit|p1a: Chansey
+|-damage|p1a: Chansey|88/100
+|-status|p1a: Chansey|brn
+|
+|-end|p1a: Chansey|move: Future Sight
+|-damage|p1a: Chansey|76/100 brn
+|-damage|p1a: Chansey|69/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641801874
+|switch|p2a: Gasly|Ferrothorn, M|100/100
+|move|p1a: Chansey|Wish|p1a: Chansey
+|
+|-damage|p1a: Chansey|63/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641801883
+|-curestatus|p1a: Chansey|brn|[from] ability: Natural Cure
+|switch|p1a: Krookodile|Krookodile, F|62/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Gasly|atk|1
+|move|p2a: Gasly|Thunder Wave|p1a: Krookodile
+|-immune|p1a: Krookodile
+|
+|-heal|p1a: Krookodile|100/100|[from] move: Wish|[wisher] Chansey
+|upkeep
+|turn|29
+|
+|t:|1641801891
+|move|p1a: Krookodile|Stealth Rock|p2a: Gasly
+|-sidestart|p2: Cheff cepe|move: Stealth Rock
+|move|p2a: Gasly|Stealth Rock|p1a: Krookodile
+|-sidestart|p1: lolshh|move: Stealth Rock
+|
+|upkeep
+|turn|30
+|
+|t:|1641801896
+|move|p1a: Krookodile|Earthquake|p2a: Gasly
+|-damage|p2a: Gasly|71/100
+|move|p2a: Gasly|Leech Seed|p1a: Krookodile
+|-start|p1a: Krookodile|move: Leech Seed
+|
+|-heal|p2a: Gasly|77/100|[from] item: Leftovers
+|-damage|p1a: Krookodile|88/100|[from] Leech Seed|[of] p2a: Gasly
+|-heal|p2a: Gasly|89/100|[silent]
+|upkeep
+|turn|31
+|
+|t:|1641801907
+|switch|p1a: Dragonite|Dragonite, M|89/100
+|-damage|p1a: Dragonite|64/100|[from] Stealth Rock
+|switch|p2a: Lewis 7|Landorus-Therian, M|100/100 tox
+|-damage|p2a: Lewis 7|88/100 tox|[from] Stealth Rock
+|-ability|p2a: Lewis 7|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|
+|-heal|p2a: Lewis 7|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Lewis 7|88/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641801920
+|move|p2a: Lewis 7|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|56/100
+|
+|t:|1641801926
+|switch|p2a: Vettel|Slowbro, F|68/100|[from]move: U-turn
+|-damage|p2a: Vettel|55/100|[from] Stealth Rock
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|33
+|
+|t:|1641801932
+|switch|p1a: Pangoro|Pangoro, M|100/100
+|-damage|p1a: Pangoro|94/100|[from] Stealth Rock
+|move|p2a: Vettel|Yawn|p1a: Pangoro
+|-start|p1a: Pangoro|move: Yawn|[of] p2a: Vettel
+|
+|upkeep
+|turn|34
+|
+|t:|1641801946
+|switch|p1a: Tapu Fini|Tapu Fini|79/100
+|-damage|p1a: Tapu Fini|67/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Vettel|Teleport|p2a: Vettel
+|
+|t:|1641801955
+|switch|p2a: Verstapen|Kartana|94/100|[from]move: Teleport
+|-damage|p2a: Verstapen|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Tapu Fini|73/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641801965
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|move|p2a: Verstapen|Smart Strike|p1a: Dragonite
+|-damage|p1a: Dragonite|40/100
+|
+|upkeep
+|turn|36
+|
+|t:|1641801977
+|switch|p2a: Raikonen|Garchomp, F|91/100
+|-damage|p2a: Raikonen|85/100|[from] Stealth Rock
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|90/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|37
+|
+|t:|1641801987
+|switch|p1a: Krookodile|Krookodile, F|88/100
+|-damage|p1a: Krookodile|82/100|[from] Stealth Rock
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Raikonen|atk|1
+|move|p2a: Raikonen|Stone Edge|p1a: Krookodile
+|-resisted|p1a: Krookodile
+|-damage|p1a: Krookodile|63/100
+|-damage|p2a: Raikonen|75/100|[from] item: Life Orb
+|
+|upkeep
+|turn|38
+|
+|t:|1641802000
+|switch|p2a: Lewis 7|Landorus-Therian, M|88/100 tox
+|-damage|p2a: Lewis 7|76/100 tox|[from] Stealth Rock
+|-ability|p2a: Lewis 7|Intimidate|boost
+|-unboost|p1a: Krookodile|atk|1
+|move|p1a: Krookodile|Toxic|p2a: Lewis 7
+|-fail|p2a: Lewis 7|tox
+|
+|-heal|p2a: Lewis 7|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Lewis 7|76/100 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|39
+|
+|t:|1641802014
+|switch|p1a: Dragonite|Dragonite, M|90/100
+|-damage|p1a: Dragonite|66/100|[from] Stealth Rock
+|move|p2a: Lewis 7|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|59/100
+|
+|t:|1641802024
+|switch|p2a: Raikonen|Garchomp, F|75/100|[from]move: U-turn
+|-damage|p2a: Raikonen|69/100|[from] Stealth Rock
+|
+|upkeep
+|turn|40
+|
+|t:|1641802033
+|move|p2a: Raikonen|Stone Edge|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: Raikonen|59/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641802040
+|switch|p1a: Tapu Fini|Tapu Fini|73/100
+|-damage|p1a: Tapu Fini|60/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|41
+|
+|t:|1641802050
+|switch|p2a: Gasly|Ferrothorn, M|89/100
+|-damage|p2a: Gasly|83/100|[from] Stealth Rock
+|switch|p1a: Pangoro|Pangoro, M|94/100
+|-damage|p1a: Pangoro|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Gasly|89/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641802056
+|switch|p2a: Lewis 7|Landorus-Therian, M|76/100 tox
+|-damage|p2a: Lewis 7|63/100 tox|[from] Stealth Rock
+|-ability|p2a: Lewis 7|Intimidate|boost
+|-fail|p1a: Pangoro|unboost|Attack|[from] ability: Scrappy|[of] p1a: Pangoro
+|move|p1a: Pangoro|Knock Off|p2a: Lewis 7
+|-damage|p2a: Lewis 7|0 fnt
+|-enditem|p2a: Lewis 7|Leftovers|[from] move: Knock Off|[of] p1a: Pangoro
+|faint|p2a: Lewis 7
+|
+|upkeep
+|
+|t:|1641802071
+|switch|p2a: Gasly|Ferrothorn, M|89/100
+|-damage|p2a: Gasly|83/100|[from] Stealth Rock
+|turn|43
+|
+|t:|1641802085
+|move|p1a: Pangoro|Knock Off|p2a: Gasly
+|-damage|p2a: Gasly|33/100
+|-damage|p1a: Pangoro|76/100|[from] ability: Iron Barbs|[of] p2a: Gasly
+|-enditem|p2a: Gasly|Leftovers|[from] move: Knock Off|[of] p1a: Pangoro
+|move|p2a: Gasly|Leech Seed|p1a: Pangoro
+|-start|p1a: Pangoro|move: Leech Seed
+|
+|-damage|p1a: Pangoro|64/100|[from] Leech Seed|[of] p2a: Gasly
+|-heal|p2a: Gasly|45/100|[silent]
+|upkeep
+|turn|44
+|
+|t:|1641802099
+|switch|p1a: Chansey|Chansey, F|63/100
+|-damage|p1a: Chansey|51/100|[from] Stealth Rock
+|move|p2a: Gasly|Leech Seed|p1a: Chansey
+|-start|p1a: Chansey|move: Leech Seed
+|
+|-damage|p1a: Chansey|39/100|[from] Leech Seed|[of] p2a: Gasly
+|-heal|p2a: Gasly|70/100|[silent]
+|upkeep
+|turn|45
+|
+|t:|1641802107
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|89/100
+|move|p2a: Gasly|Body Press|p1a: Chansey
+|-supereffective|p1a: Chansey
+|-damage|p1a: Chansey|50/100
+|
+|-damage|p1a: Chansey|37/100|[from] Leech Seed|[of] p2a: Gasly
+|-heal|p2a: Gasly|94/100|[silent]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|46
+|
+|t:|1641802121
+|switch|p1a: Tapu Fini|Tapu Fini|60/100
+|-damage|p1a: Tapu Fini|48/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Gasly|Thunder Wave|p1a: Tapu Fini
+|-activate|p1a: Tapu Fini|move: Misty Terrain
+|
+|-heal|p1a: Tapu Fini|54/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1641802129
+|move|p1a: Tapu Fini|Taunt|p2a: Gasly
+|-start|p2a: Gasly|move: Taunt
+|cant|p2a: Gasly|move: Taunt|Leech Seed
+|
+|-heal|p1a: Tapu Fini|60/100|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1641802140
+|switch|p2a: Vettel|Slowbro, F|88/100
+|-damage|p2a: Vettel|76/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Moonblast|p2a: Vettel
+|-damage|p2a: Vettel|55/100
+|
+|-heal|p1a: Tapu Fini|66/100|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1641802149
+|switch|p2a: Gasly|Ferrothorn, M|94/100
+|-damage|p2a: Gasly|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Taunt|p2a: Gasly
+|-start|p2a: Gasly|move: Taunt
+|
+|-heal|p1a: Tapu Fini|72/100|[from] item: Leftovers
+|upkeep
+|turn|50
+|
+|t:|1641802159
+|switch|p2a: Sainz|Volcarona, F|100/100
+|move|p1a: Tapu Fini|Knock Off|p2a: Sainz
+|-crit|p2a: Sainz
+|-damage|p2a: Sainz|79/100
+|-enditem|p2a: Sainz|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tapu Fini
+|
+|-heal|p1a: Tapu Fini|78/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|51
+|
+|t:|1641802178
+|move|p2a: Sainz|Roost|p2a: Sainz
+|-heal|p2a: Sainz|100/100
+|-singleturn|p2a: Sainz|move: Roost
+|move|p1a: Tapu Fini|Scald|p2a: Sainz
+|-supereffective|p2a: Sainz
+|-damage|p2a: Sainz|55/100
+|
+|-heal|p1a: Tapu Fini|85/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1641802189
+|switch|p1a: Chansey|Chansey, F|37/100
+|-damage|p1a: Chansey|25/100|[from] Stealth Rock
+|move|p2a: Sainz|Quiver Dance|p2a: Sainz
+|-boost|p2a: Sainz|spa|1
+|-boost|p2a: Sainz|spd|1
+|-boost|p2a: Sainz|spe|1
+|
+|upkeep
+|turn|53
+|
+|t:|1641802191
+|move|p2a: Sainz|Roost|p2a: Sainz
+|-heal|p2a: Sainz|100/100
+|-singleturn|p2a: Sainz|move: Roost
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|75/100
+|
+|upkeep
+|turn|54
+|
+|t:|1641802200
+|switch|p2a: Gasly|Ferrothorn, M|88/100
+|-damage|p2a: Gasly|82/100|[from] Stealth Rock
+|move|p1a: Chansey|Toxic|p2a: Gasly
+|-immune|p2a: Gasly
+|
+|upkeep
+|turn|55
+|
+|t:|1641802213
+|switch|p2a: Verstapen|Kartana|88/100
+|-damage|p2a: Verstapen|82/100|[from] Stealth Rock
+|move|p1a: Chansey|Wish|p1a: Chansey
+|
+|upkeep
+|turn|56
+|
+|t:|1641802225
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Verstapen|Leaf Blade|p1a: Zeraora
+|-damage|p1a: Zeraora|8/100
+|
+|-heal|p1a: Zeraora|100/100|[from] move: Wish|[wisher] Chansey
+|upkeep
+|turn|57
+|
+|t:|1641802238
+|switch|p2a: Gasly|Ferrothorn, M|82/100
+|-damage|p2a: Gasly|75/100|[from] Stealth Rock
+|move|p1a: Zeraora|Bulk Up|p1a: Zeraora
+|-boost|p1a: Zeraora|atk|1
+|-boost|p1a: Zeraora|def|1
+|
+|upkeep
+|turn|58
+|
+|t:|1641802244
+|move|p1a: Zeraora|Close Combat|p2a: Gasly
+|-supereffective|p2a: Gasly
+|-damage|p2a: Gasly|11/100
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|-damage|p1a: Zeraora|88/100|[from] ability: Iron Barbs|[of] p2a: Gasly
+|move|p2a: Gasly|Leech Seed|p1a: Zeraora
+|-start|p1a: Zeraora|move: Leech Seed
+|
+|-damage|p1a: Zeraora|76/100|[from] Leech Seed|[of] p2a: Gasly
+|-heal|p2a: Gasly|22/100|[silent]
+|upkeep
+|turn|59
+|
+|t:|1641802263
+|move|p1a: Zeraora|Knock Off|p2a: Gasly
+|-damage|p2a: Gasly|4/100
+|-damage|p1a: Zeraora|64/100|[from] ability: Iron Barbs|[of] p2a: Gasly
+|move|p2a: Gasly|Body Press|p1a: Zeraora
+|-damage|p1a: Zeraora|23/100
+|
+|-damage|p1a: Zeraora|11/100|[from] Leech Seed|[of] p2a: Gasly
+|-heal|p2a: Gasly|15/100|[silent]
+|upkeep
+|turn|60
+|
+|t:|1641802280
+|move|p1a: Zeraora|Plasma Fists|p2a: Gasly
+|-resisted|p2a: Gasly
+|-damage|p2a: Gasly|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p1a: Zeraora|0 fnt|[from] ability: Iron Barbs|[of] p2a: Gasly
+|faint|p2a: Gasly
+|faint|p1a: Zeraora
+|
+|upkeep
+|
+|t:|1641802292
+|switch|p1a: Pangoro|Pangoro, M|64/100
+|switch|p2a: Verstapen|Kartana|82/100
+|-damage|p2a: Verstapen|76/100|[from] Stealth Rock
+|-damage|p1a: Pangoro|58/100|[from] Stealth Rock
+|turn|61
+|
+|t:|1641802300
+|switch|p1a: Tapu Fini|Tapu Fini|85/100
+|-damage|p1a: Tapu Fini|72/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Verstapen|Sacred Sword|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|56/100
+|
+|-heal|p1a: Tapu Fini|62/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|t:|1641802313
+|switch|p2a: Vettel|Slowbro, F|88/100
+|-damage|p2a: Vettel|75/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Moonblast|p2a: Vettel
+|-damage|p2a: Vettel|54/100
+|
+|-heal|p1a: Tapu Fini|68/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|t:|1641802321
+|move|p1a: Tapu Fini|Moonblast|p2a: Vettel
+|-damage|p2a: Vettel|30/100
+|-unboost|p2a: Vettel|spa|1
+|move|p2a: Vettel|Future Sight|p1a: Tapu Fini
+|-start|p2a: Vettel|move: Future Sight
+|
+|-heal|p1a: Tapu Fini|74/100|[from] item: Leftovers
+|upkeep
+|turn|64
+|
+|t:|1641802330
+|move|p1a: Tapu Fini|Taunt|p2a: Vettel
+|-start|p2a: Vettel|move: Taunt
+|move|p2a: Vettel|Scald|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|67/100
+|
+|-heal|p1a: Tapu Fini|73/100|[from] item: Leftovers
+|upkeep
+|turn|65
+|
+|t:|1641802339
+|switch|p1a: Chansey|Chansey, F|75/100
+|-damage|p1a: Chansey|63/100|[from] Stealth Rock
+|move|p2a: Vettel|Scald|p1a: Chansey
+|-damage|p1a: Chansey|57/100
+|
+|-end|p1a: Chansey|move: Future Sight
+|-damage|p1a: Chansey|48/100
+|-fieldend|Misty Terrain
+|upkeep
+|turn|66
+|
+|t:|1641802350
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|98/100
+|move|p2a: Vettel|Future Sight|p1a: Chansey
+|-start|p2a: Vettel|move: Future Sight
+|
+|-end|p2a: Vettel|move: Taunt
+|upkeep
+|turn|67
+|
+|t:|1641802359
+|move|p1a: Chansey|Wish|p1a: Chansey
+|move|p2a: Vettel|Teleport|p2a: Vettel
+|
+|t:|1641802373
+|switch|p2a: Verstapen|Kartana|76/100|[from]move: Teleport
+|-damage|p2a: Verstapen|70/100|[from] Stealth Rock
+|
+|upkeep
+|turn|68
+|
+|t:|1641802378
+|move|p2a: Verstapen|Sacred Sword|p1a: Chansey
+|-supereffective|p1a: Chansey
+|-damage|p1a: Chansey|46/100
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|96/100
+|
+|-end|p1a: Chansey|move: Future Sight
+|-damage|p1a: Chansey|84/100
+|-heal|p1a: Chansey|100/100|[from] move: Wish|[wisher] Chansey
+|upkeep
+|turn|69
+|
+|t:|1641802385
+|switch|p1a: Tapu Fini|Tapu Fini|73/100
+|-damage|p1a: Tapu Fini|60/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Verstapen|Sacred Sword|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|44/100
+|
+|-heal|p1a: Tapu Fini|50/100|[from] item: Leftovers
+|upkeep
+|turn|70
+|
+|t:|1641802404
+|switch|p2a: Vettel|Slowbro, F|63/100
+|-damage|p2a: Vettel|51/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Moonblast|p2a: Vettel
+|-damage|p2a: Vettel|30/100
+|
+|-heal|p1a: Tapu Fini|56/100|[from] item: Leftovers
+|upkeep
+|turn|71
+|
+|t:|1641802421
+|move|p1a: Tapu Fini|Taunt|p2a: Vettel
+|-start|p2a: Vettel|move: Taunt
+|cant|p2a: Vettel|move: Taunt|Teleport
+|
+|-heal|p1a: Tapu Fini|62/100|[from] item: Leftovers
+|upkeep
+|turn|72
+|
+|t:|1641802429
+|switch|p1a: Chansey|Chansey, F|100/100
+|-damage|p1a: Chansey|88/100|[from] Stealth Rock
+|move|p2a: Vettel|Scald|p1a: Chansey
+|-damage|p1a: Chansey|80/100
+|
+|upkeep
+|turn|73
+|
+|t:|1641802432
+|move|p1a: Chansey|Wish|p1a: Chansey
+|move|p2a: Vettel|Future Sight|p1a: Chansey
+|-start|p2a: Vettel|move: Future Sight
+|
+|-end|p2a: Vettel|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|74
+|
+|t:|1641802436
+|move|p1a: Chansey|Toxic|p2a: Vettel
+|-status|p2a: Vettel|tox
+|move|p2a: Vettel|Teleport|p2a: Vettel
+|
+|t:|1641802443
+|switch|p2a: Raikonen|Garchomp, F|59/100|[from]move: Teleport
+|-damage|p2a: Raikonen|53/100|[from] Stealth Rock
+|
+|-heal|p1a: Chansey|100/100|[from] move: Wish|[wisher] Chansey
+|upkeep
+|turn|75
+|
+|t:|1641802452
+|switch|p1a: Krookodile|Krookodile, F|63/100
+|-damage|p1a: Krookodile|57/100|[from] Stealth Rock
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Raikonen|atk|1
+|move|p2a: Raikonen|Swords Dance|p2a: Raikonen
+|-boost|p2a: Raikonen|atk|2
+|
+|-end|p1a: Krookodile|move: Future Sight
+|-immune|p1a: Krookodile
+|upkeep
+|turn|76
+|
+|t:|1641802468
+|move|p2a: Raikonen|Earthquake|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|-damage|p2a: Raikonen|43/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641802470
+|switch|p1a: Tapu Fini|Tapu Fini|62/100
+|-damage|p1a: Tapu Fini|49/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|77
+|
+|t:|1641802475
+|move|p2a: Raikonen|Earthquake|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|-damage|p2a: Raikonen|33/100|[from] item: Life Orb
+|
+|upkeep
+|-message|lolshh forfeited.
+|
+|win|Cheff cepe
+|raw|lolshh's rating: 1461 &rarr; <strong>1440</strong><br />(-21 for losing)
+|raw|Cheff cepe's rating: 1435 &rarr; <strong>1456</strong><br />(+21 for winning)
+|l|☆lolshh

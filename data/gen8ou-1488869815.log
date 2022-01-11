@@ -1,0 +1,512 @@
+|j|☆Oxicodona
+|j|☆fdsfdsfsdfss
+|t:|1641831333
+|gametype|singles
+|player|p1|Oxicodona|169|1097
+|player|p2|fdsfdsfsdfss|101|1045
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Cloyster, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Corviknight, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Excadrill, M|
+|poke|p2|Lanturn, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Kingdra, F|
+|poke|p2|Scizor, F|
+|poke|p2|Tangrowth, M|
+|poke|p2|Tapu Lele|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Oxicodona)
+|
+|t:|1641831343
+|start
+|switch|p1a: Impaler|Excadrill, M, shiny|100/100
+|switch|p2a: Lanturn|Lanturn, F|100/100
+|-ability|p1a: Impaler|Mold Breaker
+|turn|1
+|
+|t:|1641831354
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Impaler|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: fdsfdsfsdfss|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641831370
+|switch|p1a: Quintessa|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Quintessa
+|move|p2a: Pelipper|U-turn|p1a: Quintessa
+|-resisted|p1a: Quintessa
+|-damage|p1a: Quintessa|95/100
+|
+|t:|1641831381
+|switch|p2a: Scizor|Scizor, F|100/100|[from]move: U-turn
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Scizor|94/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641831393
+|move|p1a: Quintessa|Thunderbolt|p2a: Scizor
+|-damage|p2a: Scizor|54/100
+|-status|p2a: Scizor|par
+|move|p2a: Scizor|Defog|p1a: Quintessa
+|-unboost|p1a: Quintessa|evasion|1
+|-sideend|p2: fdsfdsfsdfss|Stealth Rock|[from] move: Defog|[of] p2a: Scizor
+|-fieldend|move: Electric Terrain
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Scizor|60/100 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641831400
+|move|p1a: Quintessa|U-turn|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|51/100 par
+|
+|t:|1641831404
+|switch|p1a: Impaler|Excadrill, M, shiny|100/100|[from]move: U-turn
+|-ability|p1a: Impaler|Mold Breaker
+|move|p2a: Scizor|U-turn|p1a: Impaler
+|-resisted|p1a: Impaler
+|-crit|p1a: Impaler
+|-damage|p1a: Impaler|69/100
+|
+|t:|1641831410
+|switch|p2a: Kingdra|Kingdra, F|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641831421
+|switch|p1a: Spike|Cloyster, M, shiny|100/100
+|move|p2a: Kingdra|Hurricane|p1a: Spike
+|-enditem|p1a: Spike|Focus Sash
+|-damage|p1a: Spike|1/100
+|-damage|p2a: Kingdra|91/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641831428
+|switch|p2a: Scizor|Scizor, F|51/100 par
+|move|p1a: Spike|Ice Shard|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|41/100 par
+|
+|-heal|p2a: Scizor|48/100 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641831437
+|switch|p1a: Impaler|Excadrill, M, shiny|69/100
+|-ability|p1a: Impaler|Mold Breaker
+|move|p2a: Scizor|Roost|p2a: Scizor
+|-heal|p2a: Scizor|98/100 par
+|-singleturn|p2a: Scizor|move: Roost
+|
+|-heal|p2a: Scizor|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641831445
+|move|p1a: Impaler|Stealth Rock|p2a: Scizor
+|-sidestart|p2: fdsfdsfsdfss|move: Stealth Rock
+|cant|p2a: Scizor|par
+|
+|upkeep
+|turn|9
+|
+|t:|1641831458
+|move|p1a: Impaler|Earthquake|p2a: Scizor
+|-damage|p2a: Scizor|43/100 par
+|move|p2a: Scizor|Defog|p1a: Impaler
+|-unboost|p1a: Impaler|evasion|1
+|-sideend|p2: fdsfdsfsdfss|Stealth Rock|[from] move: Defog|[of] p2a: Scizor
+|
+|-heal|p2a: Scizor|49/100 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641831463
+|move|p1a: Impaler|Earthquake|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1641831480
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|11
+|
+|t:|1641831490
+|switch|p1a: Quintessa|Tapu Koko, shiny|95/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Quintessa
+|move|p2a: Pelipper|Scald|p1a: Quintessa
+|-damage|p1a: Quintessa|30/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641831496
+|switch|p2a: Lanturn|Lanturn, F|100/100
+|move|p1a: Quintessa|Thunderbolt|p2a: Lanturn
+|-immune|p2a: Lanturn|[from] ability: Volt Absorb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641831514
+|move|p1a: Quintessa|Roost|p1a: Quintessa
+|-heal|p1a: Quintessa|80/100
+|-singleturn|p1a: Quintessa|move: Roost
+|move|p2a: Lanturn|Thunder|p1a: Quintessa
+|-resisted|p1a: Quintessa
+|-damage|p1a: Quintessa|18/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|inactive|Oxicodona has 120 seconds left.
+|
+|t:|1641831562
+|move|p1a: Quintessa|U-turn|p2a: Lanturn
+|-damage|p2a: Lanturn|81/100
+|
+|t:|1641831565
+|switch|p1a: Impaler|Excadrill, M, shiny|69/100|[from]move: U-turn
+|-ability|p1a: Impaler|Mold Breaker
+|move|p2a: Lanturn|Thunder|p1a: Impaler
+|-immune|p1a: Impaler
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641831568
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|move|p1a: Impaler|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: fdsfdsfsdfss|move: Stealth Rock
+|
+|-weather|none
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|16
+|
+|t:|1641831576
+|move|p1a: Impaler|Iron Head|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|83/100
+|move|p2a: Pelipper|Scald|p1a: Impaler
+|-supereffective|p1a: Impaler
+|-damage|p1a: Impaler|2/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641831582
+|switch|p1a: Quintessa|Tapu Koko, shiny|18/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Quintessa
+|move|p2a: Pelipper|U-turn|p1a: Quintessa
+|-resisted|p1a: Quintessa
+|-damage|p1a: Quintessa|12/100
+|
+|t:|1641831590
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|upkeep
+|turn|18
+|
+|t:|1641831601
+|move|p2a: Tapu Lele|Moonblast|p1a: Quintessa
+|-damage|p1a: Quintessa|0 fnt
+|faint|p1a: Quintessa
+|
+|upkeep
+|
+|t:|1641831607
+|switch|p1a: Enigma|Corviknight, M, shiny|100/100
+|turn|19
+|
+|t:|1641831611
+|switch|p2a: Pelipper|Pelipper, M|83/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Enigma|Agility|p1a: Enigma
+|-boost|p1a: Enigma|spe|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641831618
+|move|p1a: Enigma|Bulk Up|p1a: Enigma
+|-boost|p1a: Enigma|atk|1
+|-boost|p1a: Enigma|def|1
+|move|p2a: Pelipper|U-turn|p1a: Enigma
+|-resisted|p1a: Enigma
+|-crit|p1a: Enigma
+|-damage|p1a: Enigma|98/100
+|
+|t:|1641831620
+|switch|p2a: Lanturn|Lanturn, F|81/100|[from]move: U-turn
+|-damage|p2a: Lanturn|69/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1641831624
+|move|p1a: Enigma|Bulk Up|p1a: Enigma
+|-boost|p1a: Enigma|atk|1
+|-boost|p1a: Enigma|def|1
+|move|p2a: Lanturn|Hydro Pump|p1a: Enigma
+|-damage|p1a: Enigma|32/100
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|22
+|
+|t:|1641831630
+|move|p1a: Enigma|Power Trip|p2a: Lanturn
+|-damage|p2a: Lanturn|8/100
+|move|p2a: Lanturn|Hydro Pump|p1a: Enigma|[miss]
+|-miss|p2a: Lanturn|p1a: Enigma
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641831634
+|move|p1a: Enigma|Power Trip|p2a: Lanturn
+|-damage|p2a: Lanturn|0 fnt
+|faint|p2a: Lanturn
+|
+|-weather|none
+|upkeep
+|
+|t:|1641831639
+|switch|p2a: Tapu Lele|Tapu Lele|88/100
+|-damage|p2a: Tapu Lele|76/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|24
+|c|☆Oxicodona|nice speed w/ rain
+|c|☆Oxicodona|HAAHAHAHAHA
+|
+|t:|1641831648
+|move|p2a: Tapu Lele|Thunderbolt|p1a: Enigma
+|-supereffective|p1a: Enigma
+|-damage|p1a: Enigma|0 fnt
+|faint|p1a: Enigma
+|
+|upkeep
+|
+|t:|1641831657
+|switch|p1a: Impaler|Excadrill, M, shiny|2/100
+|-ability|p1a: Impaler|Mold Breaker
+|turn|25
+|
+|t:|1641831661
+|switch|p2a: Tangrowth|Tangrowth, M|100/100
+|-damage|p2a: Tangrowth|88/100|[from] Stealth Rock
+|move|p1a: Impaler|Iron Head|p2a: Tangrowth
+|-damage|p2a: Tangrowth|66/100
+|
+|-heal|p2a: Tangrowth|72/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641831672
+|move|p1a: Impaler|Earthquake|p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-crit|p2a: Tangrowth
+|-damage|p2a: Tangrowth|50/100
+|move|p2a: Tangrowth|Knock Off|p1a: Impaler
+|-damage|p1a: Impaler|0 fnt
+|-enditem|p1a: Impaler|Focus Sash|[from] move: Knock Off|[of] p2a: Tangrowth
+|faint|p1a: Impaler
+|
+|-heal|p2a: Tangrowth|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641831677
+|switch|p1a: Spike|Cloyster, M, shiny|1/100
+|turn|27
+|
+|t:|1641831682
+|move|p1a: Spike|Icicle Spear|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|43/100
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|29/100
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|17/100
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|4/100
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|0 fnt
+|faint|p2a: Tangrowth
+|-hitcount|p2: Tangrowth|5
+|
+|upkeep
+|
+|t:|1641831692
+|switch|p2a: Pelipper|Pelipper, M|83/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|28
+|
+|t:|1641831698
+|move|p1a: Spike|Ice Shard|p2a: Pelipper
+|-hint|Psychic Terrain doesn't affect Pokémon immune to Ground.
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|63/100
+|move|p2a: Pelipper|U-turn|p1a: Spike
+|-damage|p1a: Spike|0 fnt
+|faint|p1a: Spike
+|
+|t:|1641831715
+|switch|p2a: Kingdra|Kingdra, F|91/100|[from]move: U-turn
+|-damage|p2a: Kingdra|78/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641831735
+|switch|p1a: Leviathan|Dragonite, M, shiny|100/100
+|turn|29
+|
+|t:|1641831738
+|move|p2a: Kingdra|Draco Meteor|p1a: Leviathan
+|-supereffective|p1a: Leviathan
+|-damage|p1a: Leviathan|16/100
+|-unboost|p2a: Kingdra|spa|2
+|-damage|p2a: Kingdra|68/100|[from] item: Life Orb
+|move|p1a: Leviathan|Dragon Dance|p1a: Leviathan
+|-boost|p1a: Leviathan|atk|1
+|-boost|p1a: Leviathan|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1641831765
+|move|p2a: Kingdra|Draco Meteor|p1a: Leviathan
+|-supereffective|p1a: Leviathan
+|-crit|p1a: Leviathan
+|-damage|p1a: Leviathan|0 fnt
+|-unboost|p2a: Kingdra|spa|2
+|faint|p1a: Leviathan
+|-damage|p2a: Kingdra|58/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641831767
+|switch|p1a: Yami|Moltres-Galar|100/100
+|turn|31
+|
+|t:|1641831770
+|move|p2a: Kingdra|Flip Turn|p1a: Yami
+|-damage|p1a: Yami|64/100
+|-damage|p2a: Kingdra|48/100|[from] item: Life Orb
+|
+|t:|1641831773
+|switch|p2a: Pelipper|Pelipper, M|63/100|[from]move: Flip Turn
+|move|p1a: Yami|Agility|p1a: Yami
+|-boost|p1a: Yami|spe|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|32
+|
+|t:|1641831783
+|move|p1a: Yami|Nasty Plot|p1a: Yami
+|-boost|p1a: Yami|spa|2
+|move|p2a: Pelipper|Hurricane|p1a: Yami
+|-damage|p1a: Yami|35/100
+|-ability|p1a: Yami|Berserk|boost
+|-boost|p1a: Yami|spa|1
+|
+|-weather|none
+|upkeep
+|turn|33
+|
+|t:|1641831790
+|switch|p2a: Tapu Lele|Tapu Lele|76/100
+|-damage|p2a: Tapu Lele|63/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Yami|Fiery Wrath|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641831797
+|switch|p2a: Pelipper|Pelipper, M|63/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|34
+|
+|t:|1641831807
+|move|p1a: Yami|Fiery Wrath|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641831810
+|switch|p2a: Kingdra|Kingdra, F|48/100
+|-damage|p2a: Kingdra|36/100|[from] Stealth Rock
+|turn|35
+|c|☆Oxicodona|you win
+|c|☆Oxicodona|ggwp
+|
+|t:|1641831818
+|move|p2a: Kingdra|Hurricane|p1a: Yami
+|-damage|p1a: Yami|1/100
+|-start|p1a: Yami|confusion
+|-damage|p2a: Kingdra|26/100|[from] item: Life Orb
+|-activate|p1a: Yami|confusion
+|move|p1a: Yami|Hurricane|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|faint|p2a: Kingdra
+|
+|win|Oxicodona
+|raw|Oxicodona's rating: 1097 &rarr; <strong>1119</strong><br />(+22 for winning)
+|raw|fdsfdsfsdfss's rating: 1045 &rarr; <strong>1031</strong><br />(-14 for losing)
+|c|☆Oxicodona|OMFG
+|c|☆Oxicodona|HAX
+|c|☆Oxicodona|DUOÇWDHDFWUOFWDHFWDFWD
+|c|☆Oxicodona|WFLÇJPWDGHFWDBUOFGWDUOFWDGHFWDBWDF
+|c|☆Oxicodona|OMFGGGG
+|c|☆Oxicodona|gg
+|l|☆fdsfdsfsdfss
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,486 @@
+|j|☆AmethystRemnant
+|j|☆overrein
+|t:|1641875239
+|gametype|singles
+|player|p1|AmethystRemnant|pokemonbreeder-gen4|
+|player|p2|overrein|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Zygarde-10%|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Archeops, M|
+|poke|p1|Magmortar, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Whimsicott, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Tsareena, F|
+|poke|p2|Nihilego|
+|poke|p2|Rotom-Heat|
+|teampreview
+|c|☆overrein|so i have a doubles team
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AmethystRemnant)
+|c|☆overrein|And im just now realizing
+|c|☆overrein|its singles
+|c|☆AmethystRemnant|do you wanna redo moves?
+|
+|t:|1641875268
+|start
+|switch|p1a: Archeops|Archeops, M|100/100
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|turn|1
+|
+|t:|1641875281
+|move|p1a: Archeops|Rock Slide|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|15/100
+|cant|p2a: Rotom|flinch
+|
+|upkeep
+|turn|2
+|c|☆overrein|doesnt matter much i think
+|c|☆overrein|i thnk i just lose regardless
+|
+|t:|1641875298
+|switch|p2a: Nihilego|Nihilego|100/100
+|move|p1a: Archeops|Acrobatics|p2a: Nihilego
+|-resisted|p2a: Nihilego
+|-damage|p2a: Nihilego|75/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641875309
+|move|p1a: Archeops|U-turn|p2a: Nihilego
+|-resisted|p2a: Nihilego
+|-damage|p2a: Nihilego|53/100
+|
+|t:|1641875318
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|move|p2a: Nihilego|Meteor Beam||[still]
+|-prepare|p2a: Nihilego|Meteor Beam
+|-boost|p2a: Nihilego|spa|1
+|-enditem|p2a: Nihilego|Power Herb
+|-anim|p2a: Nihilego|Meteor Beam|p1a: Ferrothorn|[miss]
+|-miss|p2a: Nihilego|p1a: Ferrothorn
+|
+|upkeep
+|turn|4
+|
+|t:|1641875339
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Urshifu
+|-sidestart|p2: overrein|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1641875350
+|switch|p1a: Magmortar|Magmortar, M|100/100
+|move|p2a: Urshifu|Close Combat|p1a: Magmortar
+|-damage|p1a: Magmortar|7/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|-status|p2a: Urshifu|brn|[from] ability: Flame Body|[of] p1a: Magmortar
+|
+|-damage|p2a: Urshifu|94/100 brn|[from] brn
+|upkeep
+|turn|6
+|c|☆AmethystRemnant|yoo
+|c|☆AmethystRemnant|flame body pog
+|inactive|AmethystRemnant has 270 seconds left.
+|c|☆overrein|lol
+|
+|t:|1641875381
+|move|p2a: Urshifu|Close Combat|p1a: Magmortar
+|-damage|p1a: Magmortar|0 fnt
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|faint|p1a: Magmortar
+|
+|-damage|p2a: Urshifu|88/100 brn|[from] brn
+|upkeep
+|
+|t:|1641875405
+|switch|p1a: Archeops|Archeops, M|100/100
+|turn|7
+|
+|t:|1641875414
+|switch|p2a: Nihilego|Nihilego|53/100
+|-damage|p2a: Nihilego|41/100|[from] Spikes
+|move|p1a: Archeops|Acrobatics|p2a: Nihilego
+|-resisted|p2a: Nihilego
+|-damage|p2a: Nihilego|13/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641875434
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Nihilego|Sludge Wave|p1a: Blissey
+|-damage|p1a: Blissey|85/100
+|
+|-heal|p1a: Blissey|91/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641875442
+|move|p2a: Nihilego|Acid Spray|p1a: Blissey
+|-damage|p1a: Blissey|84/100
+|-unboost|p1a: Blissey|spd|2
+|move|p1a: Blissey|Stealth Rock|p2a: Nihilego
+|-sidestart|p2: overrein|move: Stealth Rock
+|
+|-heal|p1a: Blissey|91/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641875462
+|move|p2a: Nihilego|Sludge Wave|p1a: Blissey
+|-damage|p1a: Blissey|59/100
+|move|p1a: Blissey|Shadow Ball|p2a: Nihilego
+|-damage|p2a: Nihilego|2/100
+|
+|-heal|p1a: Blissey|66/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641875474
+|move|p2a: Nihilego|Sludge Wave|p1a: Blissey
+|-damage|p1a: Blissey|35/100
+|move|p1a: Blissey|Wish|p1a: Blissey
+|
+|-heal|p1a: Blissey|41/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641875481
+|move|p2a: Nihilego|Sludge Wave|p1a: Blissey
+|-damage|p1a: Blissey|10/100
+|move|p1a: Blissey|Shadow Ball|p2a: Nihilego
+|-damage|p2a: Nihilego|0 fnt
+|faint|p2a: Nihilego
+|
+|-heal|p1a: Blissey|60/100|[from] move: Wish|[wisher] Blissey
+|-heal|p1a: Blissey|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641875493
+|switch|p2a: Tsareena|Tsareena, F|100/100
+|-damage|p2a: Tsareena|88/100|[from] Stealth Rock
+|-damage|p2a: Tsareena|76/100|[from] Spikes
+|turn|13
+|
+|t:|1641875501
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Tsareena|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|81/100
+|-damage|p2a: Tsareena|63/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Tsareena|47/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p2a: Tsareena
+|
+|upkeep
+|turn|14
+|inactive|AmethystRemnant has 270 seconds left.
+|
+|t:|1641875525
+|move|p2a: Tsareena|High Jump Kick|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|25/100
+|-damage|p2a: Tsareena|34/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Tsareena
+|-sidestart|p2: overrein|Spikes
+|
+|upkeep
+|turn|15
+|inactive|AmethystRemnant has 270 seconds left.
+|
+|t:|1641875544
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Tsareena|High Jump Kick|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|92/100
+|
+|-heal|p1a: Weezing|98/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|inactive|AmethystRemnant has 270 seconds left.
+|
+|t:|1641875556
+|move|p2a: Tsareena|Knock Off|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|87/100
+|-enditem|p1a: Weezing|Black Sludge|[from] move: Knock Off|[of] p2a: Tsareena
+|move|p1a: Weezing|Will-O-Wisp|p2a: Tsareena
+|-status|p2a: Tsareena|brn
+|
+|-damage|p2a: Tsareena|28/100 brn|[from] brn
+|upkeep
+|turn|17
+|inactive|AmethystRemnant has 270 seconds left.
+|
+|t:|1641875569
+|move|p2a: Tsareena|Triple Axel|p1a: Weezing
+|-damage|p1a: Weezing|84/100
+|-damage|p1a: Weezing|80/100
+|-damage|p1a: Weezing|73/100
+|-hitcount|p1a: Weezing|3
+|move|p1a: Weezing|Sludge Bomb|p2a: Tsareena
+|-supereffective|p2a: Tsareena
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|
+|upkeep
+|
+|t:|1641875587
+|switch|p2a: Rotom|Rotom-Heat|15/100
+|turn|18
+|inactive|AmethystRemnant has 270 seconds left.
+|
+|t:|1641875608
+|move|p2a: Rotom|Pain Split|p1a: Weezing
+|-sethp|p1a: Weezing|43/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|47/100|[from] move: Pain Split
+|move|p1a: Weezing|Strange Steam|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|34/100
+|
+|upkeep
+|turn|19
+|c|☆overrein|whims literally has no offensive moes cause i thought it was doubles
+|inactive|AmethystRemnant has 270 seconds left.
+|c|☆overrein|yikes
+|
+|t:|1641875626
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Zygarde|Zygarde-10%|100/100
+|-ability|p1a: Zygarde|Aura Break
+|move|p2a: Rotom|Overheat|p1a: Zygarde
+|-resisted|p1a: Zygarde
+|-damage|p1a: Zygarde|50/100
+|-unboost|p2a: Rotom|spa|2
+|
+|upkeep
+|turn|20
+|inactive|AmethystRemnant has 270 seconds left.
+|c|☆AmethystRemnant|oop
+|
+|t:|1641875657
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|84/100|[from] Spikes
+|-damage|p2a: Tapu Lele|72/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Zygarde|Thousand Arrows|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|8/100
+|
+|upkeep
+|turn|21
+|inactive|AmethystRemnant has 240 seconds left.
+|
+|t:|1641875675
+|move|p1a: Zygarde|Extreme Speed|p2a: Tapu Lele
+|-activate|p2a: Tapu Lele|move: Psychic Terrain
+|move|p2a: Tapu Lele|Psychic|p1a: Zygarde
+|-damage|p1a: Zygarde|0 fnt
+|faint|p1a: Zygarde
+|
+|upkeep
+|inactive|AmethystRemnant has 240 seconds left.
+|c|☆AmethystRemnant|oh my god
+|c|☆AmethystRemnant|i forgot whihc terrain it was
+|c|☆overrein|no prio moves
+|c|☆AmethystRemnant|yeah
+|c|☆AmethystRemnant|oop
+|
+|t:|1641875704
+|switch|p1a: Archeops|Archeops, M|100/100
+|turn|22
+|
+|t:|1641875709
+|move|p1a: Archeops|Acrobatics|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641875714
+|switch|p2a: Whimsicott|Whimsicott, M|100/100
+|-damage|p2a: Whimsicott|88/100|[from] Stealth Rock
+|-damage|p2a: Whimsicott|71/100|[from] Spikes
+|turn|23
+|
+|t:|1641875722
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: overrein|move: Tailwind
+|move|p1a: Archeops|Acrobatics|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|18/100
+|
+|upkeep
+|turn|24
+|inactive|AmethystRemnant has 240 seconds left.
+|
+|t:|1641875729
+|move|p2a: Whimsicott|Dazzling Gleam|p1a: Archeops
+|-damage|p1a: Archeops|61/100
+|move|p1a: Archeops|Acrobatics|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641875736
+|switch|p2a: Rotom|Rotom-Heat|34/100
+|turn|25
+|c|☆AmethystRemnant|wait you said it had no offensive moves
+|inactive|AmethystRemnant has 240 seconds left.
+|c|☆overrein|forgot it had DG
+|
+|t:|1641875753
+|move|p2a: Rotom|Electroweb|p1a: Archeops
+|-supereffective|p1a: Archeops
+|-damage|p1a: Archeops|0 fnt
+|faint|p1a: Archeops
+|
+|upkeep
+|inactive|AmethystRemnant has 240 seconds left.
+|c|☆overrein|its tailwind protect helping hand
+|
+|t:|1641875761
+|switch|p1a: Blissey|Blissey, F|66/100
+|turn|26
+|c|☆overrein|lol
+|
+|t:|1641875765
+|move|p2a: Rotom|Pain Split|p1a: Blissey
+|-sethp|p1a: Blissey|40/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|94/100|[from] move: Pain Split
+|move|p1a: Blissey|Wish|p1a: Blissey
+|
+|-heal|p1a: Blissey|46/100|[from] item: Leftovers
+|-sideend|p2: overrein|move: Tailwind
+|upkeep
+|turn|27
+|
+|t:|1641875775
+|switch|p1a: Weezing|Weezing-Galar, F|43/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Rotom|Will-O-Wisp|p1a: Weezing|[miss]
+|-miss|p2a: Rotom|p1a: Weezing
+|
+|-heal|p1a: Weezing|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|28
+|
+|t:|1641875789
+|move|p2a: Rotom|Will-O-Wisp|p1a: Weezing
+|-status|p1a: Weezing|brn
+|move|p1a: Weezing|Sludge Bomb|p2a: Rotom
+|-damage|p2a: Rotom|66/100
+|
+|-damage|p1a: Weezing|95/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641875797
+|move|p2a: Rotom|Electroweb|p1a: Weezing|[miss]
+|-miss|p2a: Rotom|p1a: Weezing
+|move|p1a: Weezing|Sludge Bomb|p2a: Rotom
+|-damage|p2a: Rotom|39/100
+|
+|-damage|p1a: Weezing|89/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641875807
+|move|p2a: Rotom|Pain Split|p1a: Weezing
+|-sethp|p1a: Weezing|62/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|68/100|[from] move: Pain Split
+|move|p1a: Weezing|Strange Steam|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|54/100
+|-start|p2a: Rotom|confusion
+|
+|-damage|p1a: Weezing|56/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641875816
+|-activate|p2a: Rotom|confusion
+|move|p2a: Rotom|Pain Split|p1a: Weezing
+|-sethp|p1a: Weezing|53/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|58/100|[from] move: Pain Split
+|move|p1a: Weezing|Sludge Bomb|p2a: Rotom
+|-damage|p2a: Rotom|29/100
+|
+|-damage|p1a: Weezing|47/100 brn|[from] brn
+|upkeep
+|turn|32
+|inactive|AmethystRemnant has 270 seconds left.
+|
+|t:|1641875831
+|-activate|p2a: Rotom|confusion
+|-damage|p2a: Rotom|24/100|[from] confusion
+|move|p1a: Weezing|Sludge Bomb|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-damage|p1a: Weezing|41/100 brn|[from] brn
+|upkeep
+|
+|t:|1641875835
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|88/100 brn
+|-damage|p2a: Urshifu|82/100 brn|[from] Stealth Rock
+|-damage|p2a: Urshifu|66/100 brn|[from] Spikes
+|turn|33
+|inactive|AmethystRemnant has 270 seconds left.
+|
+|t:|1641875852
+|move|p2a: Urshifu|Ice Punch|p1a: Weezing
+|-damage|p1a: Weezing|33/100 brn
+|move|p1a: Weezing|Pain Split|p2a: Urshifu
+|-sethp|p2a: Urshifu|49/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p1a: Weezing|50/100 brn|[from] move: Pain Split
+|
+|-damage|p2a: Urshifu|42/100 brn|[from] brn
+|-damage|p1a: Weezing|44/100 brn|[from] brn
+|upkeep
+|turn|34
+|inactive|AmethystRemnant has 270 seconds left.
+|
+|t:|1641875865
+|move|p2a: Urshifu|Ice Punch|p1a: Weezing
+|-damage|p1a: Weezing|36/100 brn
+|move|p1a: Weezing|Sludge Bomb|p2a: Urshifu
+|-damage|p2a: Urshifu|5/100 brn
+|
+|-damage|p2a: Urshifu|0 fnt|[from] brn
+|faint|p2a: Urshifu
+|
+|win|AmethystRemnant
+|upkeep
+|c|☆AmethystRemnant|damn, gg
+|c|☆AmethystRemnant|was close
+|c|☆overrein|not really
+|c|☆overrein|lol
+|c|☆overrein|i shouldda read it better
+|c|☆AmethystRemnant|i was clenching at the end ngl
+|c|☆overrein|Wasnt close at all lol
+|c|☆overrein|theres like, no way i can win with what i have drafted
+|c|☆AmethystRemnant|i believe
+|c|☆AmethystRemnant|ill get the replay to whoabear
+|c|☆overrein|GG tho, Gl in future rounds

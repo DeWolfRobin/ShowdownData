@@ -1,0 +1,295 @@
+|j|☆dumadummster
+|j|☆Zorostrat
+|t:|1641728306
+|gametype|singles
+|player|p1|dumadummster|bugcatcher-gen4dp|1340
+|player|p2|Zorostrat|plasmagrunt|1466
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Blaziken, F|
+|poke|p1|Weavile, F|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Latios, M|
+|poke|p1|Starmie|
+|poke|p2|Zeraora|
+|poke|p2|Blastoise, M|
+|poke|p2|Heatran, F|
+|poke|p2|Terrakion|
+|poke|p2|Dragapult, F|
+|poke|p2|Ferrothorn, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dumadummster)
+|inactive|Zorostrat also wants the timer to be on.
+|
+|t:|1641728337
+|start
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|switch|p2a: Pierre-Matthéo|Dragapult, F|100/100
+|turn|1
+|
+|t:|1641728344
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Pierre-Matthéo|Draco Meteor|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1641728358
+|switch|p1a: Magnezone|Magnezone|100/100
+|move|p2a: Pierre-Matthéo|Draco Meteor|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|57/100
+|-unboost|p2a: Pierre-Matthéo|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641728366
+|switch|p2a: Bertrand|Ferrothorn, M|100/100
+|move|p1a: Magnezone|Volt Switch|p2a: Bertrand
+|-resisted|p2a: Bertrand
+|-damage|p2a: Bertrand|69/100
+|
+|t:|1641728382
+|switch|p1a: Blaziken|Blaziken, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|4
+|
+|t:|1641728391
+|move|p1a: Blaziken|Close Combat|p2a: Bertrand
+|-supereffective|p2a: Bertrand
+|-damage|p2a: Bertrand|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|-damage|p1a: Blaziken|88/100|[from] ability: Iron Barbs|[of] p2a: Bertrand
+|-damage|p1a: Blaziken|72/100|[from] item: Rocky Helmet|[of] p2a: Bertrand
+|faint|p2a: Bertrand
+|
+|-heal|p1a: Blaziken|78/100|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641728403
+|switch|p2a: Raphaël|Blastoise, M|100/100
+|turn|5
+|
+|t:|1641728409
+|switch|p1a: Starmie|Starmie|100/100
+|move|p2a: Raphaël|Hydro Pump|p1a: Starmie
+|-resisted|p1a: Starmie
+|-damage|p1a: Starmie|63/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641728419
+|switch|p2a: Pierre-Matthéo|Dragapult, F|100/100
+|move|p1a: Starmie|Thunderbolt|p2a: Pierre-Matthéo
+|-resisted|p2a: Pierre-Matthéo
+|-damage|p2a: Pierre-Matthéo|71/100
+|-damage|p1a: Starmie|53/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1641728431
+|move|p2a: Pierre-Matthéo|Shadow Ball|p1a: Starmie
+|-supereffective|p1a: Starmie
+|-damage|p1a: Starmie|0 fnt
+|faint|p1a: Starmie
+|
+|upkeep
+|
+|t:|1641728439
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|8
+|
+|t:|1641728446
+|switch|p2a: Mathéa|Heatran, F|100/100
+|move|p1a: Weavile|Ice Shard|p2a: Mathéa
+|-resisted|p2a: Mathéa
+|-damage|p2a: Mathéa|95/100
+|-damage|p1a: Weavile|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Mathéa|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641728460
+|switch|p1a: Blaziken|Blaziken, F|78/100
+|move|p2a: Mathéa|Toxic|p1a: Blaziken
+|-status|p1a: Blaziken|tox
+|
+|-heal|p1a: Blaziken|84/100 tox|[from] item: Leftovers
+|-damage|p1a: Blaziken|78/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641728468
+|move|p2a: Mathéa|Protect|p2a: Mathéa
+|-singleturn|p2a: Mathéa|Protect
+|move|p1a: Blaziken|Earthquake|p2a: Mathéa
+|-activate|p2a: Mathéa|move: Protect
+|
+|-heal|p1a: Blaziken|84/100 tox|[from] item: Leftovers
+|-damage|p1a: Blaziken|72/100 tox|[from] psn
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|11
+|
+|t:|1641728477
+|switch|p2a: Pierre-Matthéo|Dragapult, F|71/100
+|move|p1a: Blaziken|Earthquake|p2a: Pierre-Matthéo
+|-damage|p2a: Pierre-Matthéo|24/100
+|
+|-heal|p1a: Blaziken|78/100 tox|[from] item: Leftovers
+|-damage|p1a: Blaziken|60/100 tox|[from] psn
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|12
+|
+|t:|1641728486
+|move|p1a: Blaziken|Earthquake|p2a: Pierre-Matthéo
+|-damage|p2a: Pierre-Matthéo|0 fnt
+|faint|p2a: Pierre-Matthéo
+|
+|-heal|p1a: Blaziken|66/100 tox|[from] item: Leftovers
+|-damage|p1a: Blaziken|42/100 tox|[from] psn
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641728492
+|switch|p2a: Mathéa|Heatran, F|100/100
+|turn|13
+|
+|t:|1641728503
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p2a: Mathéa|Magma Storm|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|71/100
+|-activate|p1a: Urshifu|move: Magma Storm|[of] p2a: Mathéa
+|
+|-damage|p1a: Urshifu|58/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1641728515
+|move|p1a: Urshifu|Surging Strikes|p2a: Mathéa
+|-supereffective|p2a: Mathéa
+|-crit|p2a: Mathéa
+|-damage|p2a: Mathéa|49/100
+|-supereffective|p2a: Mathéa
+|-crit|p2a: Mathéa
+|-damage|p2a: Mathéa|0 fnt
+|faint|p2a: Mathéa
+|-hitcount|p2: Mathéa|2
+|
+|-end|p1a: Urshifu|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641728524
+|switch|p2a: Raphaël|Blastoise, M|100/100
+|turn|15
+|
+|t:|1641728533
+|switch|p1a: Weavile|Weavile, F|91/100
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Raphaël|Shell Smash|p2a: Raphaël
+|-unboost|p2a: Raphaël|def|1
+|-unboost|p2a: Raphaël|spd|1
+|-boost|p2a: Raphaël|atk|2
+|-boost|p2a: Raphaël|spa|2
+|-boost|p2a: Raphaël|spe|2
+|-enditem|p2a: Raphaël|White Herb
+|-clearnegativeboost|p2a: Raphaël|[silent]
+|
+|upkeep
+|turn|16
+|
+|t:|1641728549
+|move|p2a: Raphaël|Aura Sphere|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1641728563
+|switch|p1a: Latios|Latios, M|100/100
+|turn|17
+|
+|t:|1641728569
+|move|p2a: Raphaël|Ice Beam|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1641728583
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|58/100
+|turn|18
+|inactive|Zorostrat has 120 seconds left.
+|
+|t:|1641728616
+|move|p2a: Raphaël|Aura Sphere|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641728628
+|switch|p1a: Blaziken|Blaziken, F|42/100 tox
+|turn|19
+|
+|t:|1641728635
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Raphaël|Aura Sphere|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-heal|p1a: Blaziken|48/100 tox|[from] item: Leftovers
+|-damage|p1a: Blaziken|42/100 tox|[from] psn
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|20
+|
+|t:|1641728645
+|move|p2a: Raphaël|Aura Sphere|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1641728650
+|switch|p1a: Magnezone|Magnezone|57/100
+|turn|21
+|-message|dumadummster forfeited.
+|
+|win|Zorostrat
+|raw|dumadummster's rating: 1340 &rarr; <strong>1327</strong><br />(-13 for losing)
+|raw|Zorostrat's rating: 1466 &rarr; <strong>1479</strong><br />(+13 for winning)
+|l|☆dumadummster

@@ -1,0 +1,268 @@
+|j|☆Ilikedinonuggies
+|j|☆Didikachu
+|t:|1641820578
+|gametype|singles
+|player|p1|Ilikedinonuggies|preschooler|1043
+|player|p2|Didikachu|169|1025
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Gallade, M|
+|poke|p1|Rotom-Mow|
+|poke|p1|Inteleon, M|
+|poke|p1|Obstagoon, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Blissey, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Toxapex, M|
+|teampreview
+|
+|t:|1641820599
+|start
+|switch|p1a: Gallade|Gallade, M|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|1
+|
+|t:|1641820608
+|move|p1a: Gallade|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|22/100
+|move|p2a: Toxapex|Gunk Shot|p1a: Gallade|[miss]
+|-miss|p2a: Toxapex|p1a: Gallade
+|
+|-heal|p2a: Toxapex|28/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641820632
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Gallade|atk|1
+|move|p1a: Gallade|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|3
+|
+|t:|1641820652
+|switch|p1a: Inteleon|Inteleon, M|100/100
+|move|p2a: Landorus|U-turn|p1a: Inteleon
+|-damage|p1a: Inteleon|60/100
+|
+|t:|1641820666
+|switch|p2a: Kikoojap|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641820678
+|move|p1a: Inteleon|Air Slash|p2a: Kikoojap
+|-supereffective|p2a: Kikoojap
+|-damage|p2a: Kikoojap|40/100
+|move|p2a: Kikoojap|Poison Jab|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|faint|p1a: Inteleon
+|-damage|p2a: Kikoojap|31/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641820688
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|5
+|
+|t:|1641820710
+|move|p1a: Dragapult|Dragon Darts|p2a: Kikoojap
+|-damage|p2a: Kikoojap|0 fnt
+|faint|p2a: Kikoojap
+|
+|upkeep
+|
+|t:|1641820719
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|6
+|
+|t:|1641820726
+|move|p1a: Dragapult|Dragon Darts|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|37/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641820745
+|switch|p2a: Blissey|Blissey, F, shiny|100/100
+|turn|7
+|
+|t:|1641820769
+|move|p1a: Dragapult|Dragon Darts|p2a: Blissey
+|-damage|p2a: Blissey|65/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|18/100
+|move|p2a: Blissey|Dazzling Gleam|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|61/100
+|
+|-heal|p2a: Blissey|24/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641820780
+|move|p1a: Dragapult|Dragon Darts|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1641820789
+|switch|p2a: Toxapex|Toxapex, M|28/100
+|turn|9
+|
+|t:|1641820795
+|move|p1a: Dragapult|Dragon Darts|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641820802
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|10
+|
+|t:|1641820812
+|move|p1a: Dragapult|Dragon Darts|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|85/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|71/100
+|move|p2a: Heatran|Magma Storm|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|29/100
+|-activate|p1a: Dragapult|move: Magma Storm|[of] p2a: Heatran
+|
+|-damage|p1a: Dragapult|17/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1641820824
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Heatran|Eruption|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1641820835
+|switch|p1a: Obstagoon|Obstagoon, F|100/100
+|turn|12
+|
+|t:|1641820840
+|move|p1a: Obstagoon|Close Combat|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|22/100
+|-unboost|p1a: Obstagoon|def|1
+|-unboost|p1a: Obstagoon|spd|1
+|-enditem|p2a: Heatran|Aguav Berry|[eat]
+|-heal|p2a: Heatran|55/100|[from] item: Aguav Berry
+|move|p2a: Heatran|Eruption|p1a: Obstagoon
+|-damage|p1a: Obstagoon|25/100
+|
+|-status|p1a: Obstagoon|brn|[from] item: Flame Orb
+|upkeep
+|turn|13
+|
+|t:|1641820857
+|move|p1a: Obstagoon|Facade|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|22/100
+|move|p2a: Heatran|Magma Storm|p1a: Obstagoon
+|-damage|p1a: Obstagoon|0 fnt
+|faint|p1a: Obstagoon
+|
+|upkeep
+|
+|t:|1641820861
+|switch|p1a: Gallade|Gallade, M|100/100
+|turn|14
+|
+|t:|1641820876
+|move|p1a: Gallade|Drain Punch|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641820882
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Gallade|atk|1
+|turn|15
+|
+|t:|1641820897
+|switch|p1a: Rotom|Rotom-Mow|100/100
+|move|p2a: Landorus|U-turn|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|50/100
+|
+|-heal|p1a: Rotom|56/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641820912
+|move|p2a: Landorus|U-turn|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|5/100
+|move|p1a: Rotom|Leaf Storm|p2a: Landorus
+|-damage|p2a: Landorus|44/100
+|-unboost|p1a: Rotom|spa|2
+|
+|-heal|p2a: Landorus|50/100|[from] item: Leftovers
+|-heal|p1a: Rotom|12/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641820927
+|move|p2a: Landorus|U-turn|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-heal|p2a: Landorus|57/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820931
+|switch|p1a: Dragapult|Dragapult, M|17/100
+|turn|18
+|
+|t:|1641820940
+|move|p1a: Dragapult|Dragon Darts|p2a: Landorus
+|-damage|p2a: Landorus|22/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|win|Ilikedinonuggies
+|raw|Ilikedinonuggies's rating: 1043 &rarr; <strong>1075</strong><br />(+32 for winning)
+|raw|Didikachu's rating: 1025 &rarr; <strong>1012</strong><br />(-13 for losing)
+|l|☆Didikachu

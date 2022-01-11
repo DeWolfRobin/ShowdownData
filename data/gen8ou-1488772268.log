@@ -1,0 +1,296 @@
+|j|☆mthree3
+|j|☆Ilikedinonuggies
+|t:|1641819255
+|gametype|singles
+|player|p1|mthree3|cynthia-gen4|1017
+|player|p2|Ilikedinonuggies|preschooler|1089
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Melmetal|
+|poke|p1|Blaziken, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Rillaboom, M|
+|poke|p1|Weavile, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Alcremie, F|
+|poke|p2|Rotom-Mow|
+|poke|p2|Inteleon, M|
+|poke|p2|Braviary, M|
+|teampreview
+|
+|t:|1641819280
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Rotom|Rotom-Mow|100/100
+|turn|1
+|
+|t:|1641819291
+|move|p2a: Rotom|Will-O-Wisp|p1a: Melmetal|[miss]
+|-miss|p2a: Rotom|p1a: Melmetal
+|move|p1a: Melmetal|Double Iron Bash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|79/100
+|-resisted|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|44/100
+|-hitcount|p2a: Rotom|2
+|
+|-heal|p2a: Rotom|50/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641819330
+|switch|p2a: Alcremie|Alcremie, F|100/100
+|move|p1a: Melmetal|Ice Punch|p2a: Alcremie
+|-damage|p2a: Alcremie|54/100
+|
+|-heal|p2a: Alcremie|60/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641819339
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Melmetal|Double Iron Bash|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|69/100
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|35/100
+|-hitcount|p2a: Excadrill|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641819349
+|move|p2a: Excadrill|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|43/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|1/100
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|-hitcount|p2: Excadrill|2
+|
+|upkeep
+|
+|t:|1641819354
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|5
+|
+|t:|1641819360
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Melmetal|Ice Punch|p2a: Dragapult|[miss]
+|-miss|p1a: Melmetal|p2a: Dragapult
+|
+|upkeep
+|turn|6
+|
+|t:|1641819369
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Dragapult|Phantom Force|p1a: Weavile|[from]lockedmove
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|44/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641819383
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Weavile|Foul Play|p2a: Dragapult|[miss]
+|-miss|p1a: Weavile|p2a: Dragapult
+|
+|upkeep
+|turn|8
+|
+|t:|1641819391
+|move|p2a: Dragapult|Phantom Force|p1a: Weavile|[from]lockedmove
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1641819396
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|9
+|
+|t:|1641819404
+|switch|p2a: Alcremie|Alcremie, F|60/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-heal|p2a: Alcremie|66/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641819413
+|move|p1a: Garchomp|Iron Head|p2a: Alcremie
+|-supereffective|p2a: Alcremie
+|-damage|p2a: Alcremie|0 fnt
+|faint|p2a: Alcremie
+|-damage|p1a: Garchomp|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641819420
+|switch|p2a: Inteleon|Inteleon, M|100/100
+|turn|11
+|
+|t:|1641819426
+|move|p2a: Inteleon|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641819431
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|12
+|
+|t:|1641819438
+|move|p2a: Inteleon|Ice Beam|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|20/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p1a: Rillaboom|26/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641819449
+|move|p1a: Rillaboom|Grassy Glide|p2a: Inteleon
+|-supereffective|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|faint|p2a: Inteleon
+|
+|-heal|p1a: Rillaboom|32/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641819451
+|switch|p2a: Braviary|Braviary, M|100/100
+|turn|14
+|
+|t:|1641819459
+|move|p2a: Braviary|Brave Bird|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-damage|p2a: Braviary|90/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641819465
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|15
+|
+|t:|1641819480
+|switch|p2a: Rotom|Rotom-Mow|50/100
+|move|p1a: Tapu Fini|Ice Beam|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1641819484
+|switch|p2a: Braviary|Braviary, M|90/100
+|turn|16
+|
+|t:|1641819492
+|move|p2a: Braviary|Brave Bird|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|31/100
+|-damage|p2a: Braviary|71/100|[from] Recoil
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1641819504
+|switch|p1a: Melmetal|Melmetal|43/100
+|move|p2a: Braviary|Brave Bird|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|27/100
+|-damage|p2a: Braviary|64/100|[from] Recoil
+|
+|upkeep
+|turn|18
+|
+|t:|1641819515
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Melmetal|Ice Punch|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|5/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641819525
+|move|p2a: Dragapult|Steel Wing|p1a: Melmetal|[miss]
+|-miss|p2a: Dragapult|p1a: Melmetal
+|move|p1a: Melmetal|Ice Punch|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641819528
+|switch|p2a: Braviary|Braviary, M|64/100
+|turn|20
+|
+|t:|1641819534
+|move|p2a: Braviary|Close Combat|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|-unboost|p2a: Braviary|def|1
+|-unboost|p2a: Braviary|spd|1
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641819547
+|switch|p1a: Tapu Fini|Tapu Fini|31/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|21
+|
+|t:|1641819554
+|move|p2a: Braviary|Close Combat|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|9/100
+|-unboost|p2a: Braviary|def|1
+|-unboost|p2a: Braviary|spd|1
+|move|p1a: Tapu Fini|Ice Beam|p2a: Braviary
+|-supereffective|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|faint|p2a: Braviary
+|
+|win|mthree3
+|raw|mthree3's rating: 1017 &rarr; <strong>1062</strong><br />(+45 for winning)
+|raw|Ilikedinonuggies's rating: 1089 &rarr; <strong>1061</strong><br />(-28 for losing)
+|l|☆Ilikedinonuggies
+|c|☆mthree3|gg

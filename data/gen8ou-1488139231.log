@@ -1,0 +1,738 @@
+|j|☆alpharius20
+|j|☆Ik4RU5
+|t:|1641720005
+|gametype|singles
+|player|p1|alpharius20|unknown|1172
+|player|p2|Ik4RU5|proton|1126
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Regirock|
+|poke|p1|Celebi|
+|poke|p1|Raikou|
+|poke|p1|Mantine, F|
+|poke|p1|Latios, M|
+|poke|p2|Arcanine, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Blissey, F|
+|poke|p2|Scizor, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Rotom-Wash|
+|teampreview
+|j| avelxennit
+|
+|t:|1641720013
+|start
+|switch|p1a: Raikou|Raikou|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-ability|p1a: Raikou|Pressure
+|turn|1
+|
+|t:|1641720021
+|move|p1a: Raikou|Light Screen|p1a: Raikou
+|-sidestart|p1: alpharius20|move: Light Screen
+|move|p2a: Rotom|Will-O-Wisp|p1a: Raikou
+|-status|p1a: Raikou|brn
+|
+|-damage|p1a: Raikou|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641720029
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Raikou|Reflect|p1a: Raikou
+|-sidestart|p1: alpharius20|Reflect
+|
+|-damage|p1a: Raikou|88/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641720052
+|switch|p1a: Regirock|Regirock|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Regirock
+|-sidestart|p1: alpharius20|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641720063
+|move|p1a: Regirock|Block|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|trapped
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|90/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641720070
+|move|p1a: Regirock|Curse|p1a: Regirock
+|-unboost|p1a: Regirock|spe|1
+|-boost|p1a: Regirock|atk|1
+|-boost|p1a: Regirock|def|1
+|move|p2a: Ferrothorn|Spikes|p1a: Regirock
+|-sidestart|p1: alpharius20|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1641720077
+|move|p1a: Regirock|Curse|p1a: Regirock
+|-unboost|p1a: Regirock|spe|1
+|-boost|p1a: Regirock|atk|1
+|-boost|p1a: Regirock|def|1
+|move|p2a: Ferrothorn|Toxic|p1a: Regirock
+|-status|p1a: Regirock|tox
+|
+|-damage|p1a: Regirock|83/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641720091
+|move|p1a: Regirock|Curse|p1a: Regirock
+|-unboost|p1a: Regirock|spe|1
+|-boost|p1a: Regirock|atk|1
+|-boost|p1a: Regirock|def|1
+|move|p2a: Ferrothorn|Spikes|p1a: Regirock
+|-sidestart|p1: alpharius20|Spikes
+|
+|-damage|p1a: Regirock|71/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641720101
+|move|p1a: Regirock|Curse|p1a: Regirock
+|-unboost|p1a: Regirock|spe|1
+|-boost|p1a: Regirock|atk|1
+|-boost|p1a: Regirock|def|1
+|move|p2a: Ferrothorn|Spikes|p1a: Regirock
+|-sidestart|p1: alpharius20|Spikes
+|
+|-damage|p1a: Regirock|53/100 tox|[from] psn
+|-sideend|p1: alpharius20|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1641720111
+|move|p1a: Regirock|Rest|p1a: Regirock
+|-status|p1a: Regirock|slp|[from] move: Rest
+|-heal|p1a: Regirock|100/100 slp|[silent]
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|99/100 slp
+|
+|-sideend|p1: alpharius20|Reflect
+|upkeep
+|turn|10
+|
+|t:|1641720127
+|cant|p1a: Regirock|slp
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|96/100 slp
+|
+|upkeep
+|turn|11
+|
+|t:|1641720136
+|cant|p1a: Regirock|slp
+|move|p2a: Ferrothorn|Toxic||[still]
+|-fail|p2a: Ferrothorn
+|
+|upkeep
+|turn|12
+|
+|t:|1641720142
+|-curestatus|p1a: Regirock|slp|[msg]
+|move|p1a: Regirock|Curse|p1a: Regirock
+|-unboost|p1a: Regirock|spe|1
+|-boost|p1a: Regirock|atk|1
+|-boost|p1a: Regirock|def|1
+|move|p2a: Ferrothorn|Toxic|p1a: Regirock
+|-status|p1a: Regirock|tox
+|
+|-damage|p1a: Regirock|90/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641720154
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|87/100 tox
+|move|p1a: Regirock|Rock Blast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|92/100
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|83/100
+|-hitcount|p2a: Ferrothorn|2
+|
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|-damage|p1a: Regirock|75/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641720165
+|move|p2a: Ferrothorn|Toxic|p1a: Regirock
+|-fail|p1a: Regirock|tox
+|move|p1a: Regirock|Rock Blast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|79/100
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|68/100
+|-hitcount|p2a: Ferrothorn|2
+|
+|-heal|p2a: Ferrothorn|74/100|[from] item: Leftovers
+|-damage|p1a: Regirock|57/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641720176
+|move|p2a: Ferrothorn|Toxic|p1a: Regirock
+|-fail|p1a: Regirock|tox
+|move|p1a: Regirock|Rock Blast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|61/100
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|50/100
+|-hitcount|p2a: Ferrothorn|2
+|
+|-heal|p2a: Ferrothorn|55/100|[from] item: Leftovers
+|-damage|p1a: Regirock|33/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641720191
+|move|p2a: Ferrothorn|Toxic|p1a: Regirock
+|-fail|p1a: Regirock|tox
+|move|p1a: Regirock|Rest|p1a: Regirock
+|-status|p1a: Regirock|slp|[from] move: Rest
+|-heal|p1a: Regirock|100/100 slp|[silent]
+|
+|-heal|p2a: Ferrothorn|61/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641720201
+|move|p2a: Ferrothorn|Stealth Rock||[still]
+|-fail|p2a: Ferrothorn
+|cant|p1a: Regirock|slp
+|
+|-heal|p2a: Ferrothorn|67/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641720207
+|move|p2a: Ferrothorn|Stealth Rock||[still]
+|-fail|p2a: Ferrothorn
+|cant|p1a: Regirock|slp
+|
+|-heal|p2a: Ferrothorn|73/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641720213
+|move|p2a: Ferrothorn|Stealth Rock||[still]
+|-fail|p2a: Ferrothorn
+|-curestatus|p1a: Regirock|slp|[msg]
+|move|p1a: Regirock|Curse|p1a: Regirock
+|-unboost|p1a: Regirock|spe|1
+|-boost|p1a: Regirock|atk|1
+|-boost|p1a: Regirock|def|1
+|
+|-heal|p2a: Ferrothorn|79/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641720222
+|move|p2a: Ferrothorn|Toxic|p1a: Regirock
+|-status|p1a: Regirock|tox
+|move|p1a: Regirock|Rock Blast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|65/100
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|55/100
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|45/100
+|-hitcount|p2a: Ferrothorn|3
+|
+|-heal|p2a: Ferrothorn|51/100|[from] item: Leftovers
+|-damage|p1a: Regirock|94/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641720236
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|93/100 tox
+|move|p1a: Regirock|Rock Blast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|38/100
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|25/100
+|-hitcount|p2a: Ferrothorn|2
+|
+|-heal|p2a: Ferrothorn|31/100|[from] item: Leftovers
+|-damage|p1a: Regirock|81/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641720246
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|79/100 tox
+|move|p1a: Regirock|Rock Blast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|16/100
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|2/100
+|-hitcount|p2a: Ferrothorn|2
+|
+|-heal|p2a: Ferrothorn|8/100|[from] item: Leftovers
+|-damage|p1a: Regirock|61/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641720258
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|59/100 tox
+|move|p1a: Regirock|Rest|p1a: Regirock
+|-status|p1a: Regirock|slp|[from] move: Rest
+|-heal|p1a: Regirock|100/100 slp|[silent]
+|
+|-heal|p2a: Ferrothorn|14/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641720267
+|move|p2a: Ferrothorn|Stealth Rock||[still]
+|-fail|p2a: Ferrothorn
+|cant|p1a: Regirock|slp
+|
+|-heal|p2a: Ferrothorn|20/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641720274
+|move|p2a: Ferrothorn|Stealth Rock||[still]
+|-fail|p2a: Ferrothorn
+|cant|p1a: Regirock|slp
+|
+|-heal|p2a: Ferrothorn|26/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641720280
+|move|p2a: Ferrothorn|Toxic||[still]
+|-fail|p2a: Ferrothorn
+|-curestatus|p1a: Regirock|slp|[msg]
+|move|p1a: Regirock|Rock Blast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|15/100
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|5/100
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|-hitcount|p2: Ferrothorn|3
+|
+|upkeep
+|
+|t:|1641720291
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|27
+|
+|t:|1641720294
+|move|p2a: Rotom|Hydro Pump|p1a: Regirock
+|-supereffective|p1a: Regirock
+|-damage|p1a: Regirock|0 fnt
+|faint|p1a: Regirock
+|-damage|p2a: Rotom|91/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆Ik4RU5|nice
+|
+|t:|1641720312
+|switch|p1a: Celebi|Celebi|100/100
+|-damage|p1a: Celebi|76/100|[from] Spikes
+|-damage|p1a: Celebi|63/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641720319
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Celebi|Leaf Storm|p2a: Blissey
+|-damage|p2a: Blissey|80/100
+|-unboost|p1a: Celebi|spa|2
+|
+|-heal|p2a: Blissey|86/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641720328
+|move|p1a: Celebi|Recover|p1a: Celebi
+|-heal|p1a: Celebi|100/100
+|move|p2a: Blissey|Toxic|p1a: Celebi
+|-status|p1a: Celebi|tox
+|
+|-heal|p2a: Blissey|93/100|[from] item: Leftovers
+|-damage|p1a: Celebi|94/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641720337
+|-curestatus|p1a: Celebi|tox|[from] ability: Natural Cure
+|switch|p1a: Latios|Latios, M|100/100
+|-damage|p1a: Latios|88/100|[from] Stealth Rock
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|
+|upkeep
+|turn|31
+|
+|t:|1641720347
+|switch|p2a: Blissey|Blissey, F|93/100
+|move|p1a: Latios|Defog|p2a: Blissey
+|-unboost|p2a: Blissey|evasion|1
+|-sideend|p1: alpharius20|Spikes|[from] move: Defog|[of] p1a: Latios
+|-sideend|p1: alpharius20|Stealth Rock|[from] move: Defog|[of] p1a: Latios
+|
+|-heal|p2a: Blissey|99/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641720359
+|switch|p1a: Celebi|Celebi|94/100
+|move|p2a: Blissey|Toxic|p1a: Celebi
+|-status|p1a: Celebi|tox
+|
+|-heal|p2a: Blissey|100/100|[from] item: Leftovers
+|-damage|p1a: Celebi|88/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641720367
+|move|p1a: Celebi|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|85/100
+|
+|t:|1641720371
+|-curestatus|p1a: Celebi|tox|[from] ability: Natural Cure
+|switch|p1a: Latios|Latios, M|88/100|[from]move: U-turn
+|move|p2a: Blissey|Fire Blast|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|79/100
+|-status|p1a: Latios|brn
+|
+|-heal|p2a: Blissey|92/100|[from] item: Leftovers
+|-damage|p1a: Latios|73/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1641720385
+|move|p1a: Latios|Trick|p2a: Blissey
+|-activate|p1a: Latios|move: Trick|[of] p2a: Blissey
+|-item|p2a: Blissey|Choice Scarf|[from] move: Trick
+|-item|p1a: Latios|Leftovers|[from] move: Trick
+|move|p2a: Blissey|Toxic||[still]
+|-fail|p2a: Blissey
+|
+|-heal|p1a: Latios|79/100 brn|[from] item: Leftovers
+|-damage|p1a: Latios|73/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1641720410
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Latios|Psyshock|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|83/100
+|
+|-heal|p1a: Latios|79/100 brn|[from] item: Leftovers
+|-damage|p1a: Latios|73/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641720438
+|switch|p1a: Raikou|Raikou|88/100 brn
+|-ability|p1a: Raikou|Pressure
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-damage|p1a: Raikou|82/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641720452
+|move|p2a: Scizor|Bullet Punch|p1a: Raikou
+|-resisted|p1a: Raikou
+|-damage|p1a: Raikou|39/100 brn
+|move|p1a: Raikou|Reflect|p1a: Raikou
+|-sidestart|p1: alpharius20|Reflect
+|
+|-damage|p1a: Raikou|33/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1641720459
+|move|p1a: Raikou|Wild Charge|p2a: Scizor
+|-damage|p2a: Scizor|66/100
+|-damage|p1a: Raikou|29/100 brn|[from] Recoil
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-damage|p1a: Raikou|22/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1641720468
+|switch|p1a: Celebi|Celebi|88/100
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|upkeep
+|turn|40
+|
+|t:|1641720474
+|move|p2a: Scizor|Bullet Punch|p1a: Celebi
+|-damage|p1a: Celebi|15/100
+|move|p1a: Celebi|Perish Song|p1a: Celebi
+|-start|p1a: Celebi|perish3|[silent]
+|-start|p2a: Scizor|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|
+|-start|p1a: Celebi|perish3
+|-start|p2a: Scizor|perish3
+|upkeep
+|turn|41
+|
+|t:|1641720482
+|move|p2a: Scizor|Bullet Punch|p1a: Celebi
+|-damage|p1a: Celebi|0 fnt
+|faint|p1a: Celebi
+|
+|-start|p2a: Scizor|perish2
+|upkeep
+|
+|t:|1641720489
+|switch|p1a: Raikou|Raikou|22/100 brn
+|-ability|p1a: Raikou|Pressure
+|turn|42
+|
+|t:|1641720493
+|move|p2a: Scizor|Bullet Punch|p1a: Raikou
+|-resisted|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|-start|p2a: Scizor|perish1
+|upkeep
+|
+|t:|1641720501
+|switch|p1a: Latios|Latios, M|73/100 brn
+|turn|43
+|
+|t:|1641720506
+|switch|p2a: Blissey|Blissey, F|92/100
+|move|p1a: Latios|Psyshock|p2a: Blissey
+|-damage|p2a: Blissey|63/100
+|
+|-heal|p1a: Latios|79/100 brn|[from] item: Leftovers
+|-damage|p1a: Latios|73/100 brn|[from] brn
+|upkeep
+|turn|44
+|
+|t:|1641720515
+|switch|p1a: Mew|Mew|100/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|-sideend|p1: alpharius20|Reflect
+|upkeep
+|turn|45
+|
+|t:|1641720523
+|switch|p2a: Rotom|Rotom-Wash|91/100
+|move|p1a: Mew|Block|p2a: Rotom
+|-activate|p2a: Rotom|trapped
+|
+|upkeep
+|turn|46
+|
+|t:|1641720529
+|move|p2a: Rotom|Will-O-Wisp|p1a: Mew|[miss]
+|-miss|p2a: Rotom|p1a: Mew
+|move|p1a: Mew|Calm Mind|p1a: Mew
+|-boost|p1a: Mew|spa|1
+|-boost|p1a: Mew|spd|1
+|
+|upkeep
+|turn|47
+|
+|t:|1641720535
+|move|p2a: Rotom|Will-O-Wisp|p1a: Mew
+|-status|p1a: Mew|brn
+|-activate|p1a: Mew|ability: Synchronize
+|-status|p2a: Rotom|brn
+|move|p1a: Mew|Calm Mind|p1a: Mew
+|-boost|p1a: Mew|spa|1
+|-boost|p1a: Mew|spd|1
+|
+|-damage|p2a: Rotom|84/100 brn|[from] brn
+|-damage|p1a: Mew|94/100 brn|[from] brn
+|upkeep
+|turn|48
+|
+|t:|1641720552
+|move|p2a: Rotom|Hydro Pump|p1a: Mew
+|-damage|p1a: Mew|65/100 brn
+|-damage|p2a: Rotom|74/100 brn|[from] item: Life Orb
+|move|p1a: Mew|Calm Mind|p1a: Mew
+|-boost|p1a: Mew|spa|1
+|-boost|p1a: Mew|spd|1
+|
+|-heal|p1a: Mew|71/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|68/100 brn|[from] brn
+|-damage|p1a: Mew|65/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1641720562
+|move|p2a: Rotom|Hydro Pump|p1a: Mew
+|-damage|p1a: Mew|44/100 brn
+|-damage|p2a: Rotom|58/100 brn|[from] item: Life Orb
+|move|p1a: Mew|Calm Mind|p1a: Mew
+|-boost|p1a: Mew|spa|1
+|-boost|p1a: Mew|spd|1
+|
+|-heal|p1a: Mew|50/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|52/100 brn|[from] brn
+|-damage|p1a: Mew|44/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1641720572
+|move|p2a: Rotom|Hydro Pump|p1a: Mew
+|-damage|p1a: Mew|26/100 brn
+|-damage|p2a: Rotom|42/100 brn|[from] item: Life Orb
+|move|p1a: Mew|Soft-Boiled|p1a: Mew
+|-heal|p1a: Mew|76/100 brn
+|
+|-heal|p1a: Mew|83/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|36/100 brn|[from] brn
+|-damage|p1a: Mew|76/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1641720581
+|move|p2a: Rotom|Hydro Pump|p1a: Mew
+|-damage|p1a: Mew|58/100 brn
+|-damage|p2a: Rotom|26/100 brn|[from] item: Life Orb
+|move|p1a: Mew|Calm Mind|p1a: Mew
+|-boost|p1a: Mew|spa|1
+|-boost|p1a: Mew|spd|1
+|
+|-heal|p1a: Mew|64/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|20/100 brn|[from] brn
+|-damage|p1a: Mew|58/100 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1641720592
+|move|p2a: Rotom|Hydro Pump|p1a: Mew
+|-damage|p1a: Mew|43/100 brn
+|-damage|p2a: Rotom|10/100 brn|[from] item: Life Orb
+|move|p1a: Mew|Calm Mind|p1a: Mew
+|-boost|p1a: Mew|spa|1
+|-boost|p1a: Mew|spd|1
+|
+|-heal|p1a: Mew|49/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|3/100 brn|[from] brn
+|-damage|p1a: Mew|43/100 brn|[from] brn
+|upkeep
+|turn|53
+|
+|t:|1641720601
+|move|p2a: Rotom|Hydro Pump|p1a: Mew|[miss]
+|-miss|p2a: Rotom|p1a: Mew
+|move|p1a: Mew|Soft-Boiled|p1a: Mew
+|-heal|p1a: Mew|93/100 brn
+|
+|-heal|p1a: Mew|99/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|0 fnt|[from] brn
+|faint|p2a: Rotom
+|-damage|p1a: Mew|93/100 brn|[from] brn
+|upkeep
+|
+|t:|1641720616
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|54
+|
+|t:|1641720621
+|move|p1a: Mew|Stored Power|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|-heal|p1a: Mew|99/100 brn|[from] item: Leftovers
+|-damage|p1a: Mew|93/100 brn|[from] brn
+|upkeep
+|
+|t:|1641720630
+|switch|p2a: Arcanine|Arcanine, M|100/100
+|turn|55
+|
+|t:|1641720634
+|move|p2a: Arcanine|Extreme Speed|p1a: Mew
+|-damage|p1a: Mew|74/100 brn
+|-damage|p2a: Arcanine|91/100|[from] item: Life Orb
+|move|p1a: Mew|Stored Power|p2a: Arcanine
+|-damage|p2a: Arcanine|0 fnt
+|faint|p2a: Arcanine
+|
+|-heal|p1a: Mew|80/100 brn|[from] item: Leftovers
+|-damage|p1a: Mew|74/100 brn|[from] brn
+|upkeep
+|
+|t:|1641720644
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|56
+|
+|t:|1641720649
+|move|p2a: Garchomp|Outrage|p1a: Mew
+|-damage|p1a: Mew|25/100 brn
+|-damage|p2a: Garchomp|91/100|[from] item: Life Orb
+|move|p1a: Mew|Stored Power|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-heal|p1a: Mew|31/100 brn|[from] item: Leftovers
+|-damage|p1a: Mew|25/100 brn|[from] brn
+|upkeep
+|
+|t:|1641720659
+|switch|p2a: Scizor|Scizor, M|66/100
+|turn|57
+|
+|t:|1641720662
+|move|p2a: Scizor|Bullet Punch|p1a: Mew
+|-damage|p1a: Mew|2/100 brn
+|move|p1a: Mew|Stored Power|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|win|alpharius20
+|raw|alpharius20's rating: 1172 &rarr; <strong>1194</strong><br />(+22 for winning)
+|raw|Ik4RU5's rating: 1126 &rarr; <strong>1104</strong><br />(-22 for losing)
+|l|☆Ik4RU5
+|c|☆alpharius20|gg

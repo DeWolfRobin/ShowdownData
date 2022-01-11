@@ -1,0 +1,682 @@
+|j|‽testingbot42o
+|j|☆pokemon loser lol
+|t:|1641696112
+|gametype|singles
+|player|p1|testingbot42o|102|1217
+|player|p2|pokemon loser lol|brycenman|1239
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Hydreigon, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Hippowdon, M|
+|poke|p1|Excadrill, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Seismitoad, F|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Bisharp, F|
+|poke|p2|Magnezone|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingbot42o)
+|
+|t:|1641696116
+|start
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|switch|p2a: Epic & Original|Landorus-Therian, M|100/100
+|-ability|p2a: Epic & Original|Intimidate|boost
+|-unboost|p1a: Corviknight|atk|1
+|-ability|p1a: Corviknight|Pressure
+|turn|1
+|
+|t:|1641696125
+|move|p2a: Epic & Original|Smack Down|p1a: Corviknight
+|-damage|p1a: Corviknight|84/100
+|-start|p1a: Corviknight|Smack Down
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|
+|-heal|p1a: Corviknight|90/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641696134
+|move|p2a: Epic & Original|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: testingbot42o|move: Stealth Rock
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|
+|-heal|p1a: Corviknight|97/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641696142
+|move|p2a: Epic & Original|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|47/100
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|22/100
+|
+|-heal|p1a: Corviknight|29/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641696151
+|move|p2a: Epic & Original|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|78/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641696161
+|move|p2a: Epic & Original|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|37/100
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|
+|-heal|p1a: Corviknight|43/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641696170
+|move|p2a: Epic & Original|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|5/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|55/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|61/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641696180
+|move|p2a: Epic & Original|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|22/100
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-fail|p1a: Corviknight|move: Substitute|[weak]
+|
+|-heal|p1a: Corviknight|29/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641696189
+|switch|p2a: Needed Special|Magnezone|100/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|78/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641696198
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|60/100
+|move|p2a: Needed Special|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|66/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641696208
+|switch|p2a: Epic & Original|Landorus-Therian, M|100/100
+|-ability|p2a: Epic & Original|Intimidate|boost
+|-unboost|p1a: Corviknight|atk|1
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|41/100
+|
+|-heal|p1a: Corviknight|47/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641696218
+|move|p2a: Epic & Original|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|97/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641696228
+|move|p2a: Epic & Original|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|65/100
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|40/100
+|
+|-heal|p1a: Corviknight|47/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641696236
+|move|p2a: Epic & Original|Earthquake|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|97/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641696247
+|switch|p2a: Needed Special|Magnezone|100/100
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|75/100
+|
+|-heal|p1a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641696255
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Needed Special|Volt Switch|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|t:|1641696263
+|switch|p2a: Epic & Original|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p2a: Epic & Original|Intimidate|boost
+|-unboost|p1a: Corviknight|atk|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641696271
+|switch|p2a: Needed Special|Magnezone|100/100
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|75/100
+|
+|-heal|p1a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641696279
+|move|p1a: Corviknight|Brave Bird|p2a: Needed Special
+|-resisted|p2a: Needed Special
+|-damage|p2a: Needed Special|92/100
+|-damage|p1a: Corviknight|79/100|[from] Recoil
+|move|p2a: Needed Special|Volt Switch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|t:|1641696287
+|switch|p2a: Epic & Original|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p2a: Epic & Original|Intimidate|boost
+|-unboost|p1a: Corviknight|atk|1
+|
+|-heal|p1a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641696294
+|switch|p2a: Needed Special|Magnezone|92/100
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|60/100
+|
+|-heal|p1a: Corviknight|67/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641696303
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|move|p2a: Needed Special|Volt Switch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|t:|1641696310
+|switch|p2a: Epic & Original|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p2a: Epic & Original|Intimidate|boost
+|-unboost|p1a: Corviknight|atk|1
+|
+|-heal|p1a: Corviknight|73/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641696317
+|switch|p2a: Needed Special|Magnezone|92/100
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|48/100
+|
+|-heal|p1a: Corviknight|54/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641696325
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Needed Special|Thunderbolt|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|upkeep
+|turn|22
+|
+|t:|1641696333
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|75/100
+|move|p2a: Needed Special|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641696342
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|57/100
+|move|p2a: Needed Special|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641696350
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|38/100
+|move|p2a: Needed Special|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|44/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641696359
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|19/100
+|move|p2a: Needed Special|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|25/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641696367
+|move|p1a: Corviknight|Brave Bird|p2a: Needed Special
+|-resisted|p2a: Needed Special
+|-damage|p2a: Needed Special|87/100
+|-damage|p1a: Corviknight|24/100|[from] Recoil
+|move|p2a: Needed Special|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1641696368
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|27
+|c|☆pokemon loser lol|What were you trying to achieve
+|
+|t:|1641696383
+|switch|p2a: Epic & Original|Landorus-Therian, M|100/100
+|-ability|p2a: Epic & Original|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Earthquake|p2a: Epic & Original
+|-immune|p2a: Epic & Original
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1641696392
+|move|p2a: Epic & Original|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|80/100
+|
+|t:|1641696395
+|switch|p2a: Pillarman|Conkeldurr, F|100/100|[from]move: U-turn
+|move|p1a: Hippowdon|Stealth Rock|p2a: Pillarman
+|-sidestart|p2: pokemon loser lol|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pillarman|94/100|[from] Sandstorm
+|-status|p2a: Pillarman|brn|[from] item: Flame Orb
+|upkeep
+|turn|29
+|
+|t:|1641696404
+|move|p1a: Hippowdon|Earthquake|p2a: Pillarman
+|-damage|p2a: Pillarman|72/100 brn
+|move|p2a: Pillarman|Ice Punch|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|33/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pillarman|66/100 brn|[from] Sandstorm
+|-damage|p2a: Pillarman|60/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641696415
+|switch|p2a: El Escoba|Hawlucha, F|100/100
+|-damage|p2a: El Escoba|88/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|83/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: El Escoba|82/100|[from] Sandstorm
+|upkeep
+|turn|31
+|
+|t:|1641696424
+|move|p2a: El Escoba|Swords Dance|p2a: El Escoba
+|-boost|p2a: El Escoba|atk|2
+|move|p1a: Hippowdon|Earthquake|p2a: El Escoba
+|-immune|p2a: El Escoba
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: El Escoba|76/100|[from] Sandstorm
+|upkeep
+|turn|32
+|
+|t:|1641696432
+|move|p2a: El Escoba|Sky Attack||[still]
+|-prepare|p2a: El Escoba|Sky Attack
+|-enditem|p2a: El Escoba|Power Herb
+|-anim|p2a: El Escoba|Sky Attack|p1a: Hippowdon
+|-damage|p1a: Hippowdon|16/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: El Escoba|70/100|[from] Sandstorm
+|upkeep
+|turn|33
+|
+|t:|1641696442
+|move|p2a: El Escoba|Close Combat|p1a: Hippowdon
+|-damage|p1a: Hippowdon|13/100
+|-unboost|p2a: El Escoba|def|1
+|-unboost|p2a: El Escoba|spd|1
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|63/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: El Escoba|64/100|[from] Sandstorm
+|upkeep
+|turn|34
+|
+|t:|1641696452
+|move|p2a: El Escoba|Swords Dance|p2a: El Escoba
+|-boost|p2a: El Escoba|atk|2
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|none
+|upkeep
+|turn|35
+|
+|t:|1641696460
+|move|p2a: El Escoba|Swords Dance|p2a: El Escoba
+|-boost|p2a: El Escoba|atk|2
+|move|p1a: Hippowdon|Whirlwind|p2a: El Escoba
+|drag|p2a: Kremit|Seismitoad, F|100/100
+|-damage|p2a: Kremit|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|36
+|
+|t:|1641696468
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|move|p2a: Kremit|Power Whip|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1641696468
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|turn|37
+|
+|t:|1641696480
+|move|p1a: Hydreigon|Dark Pulse|p2a: Kremit
+|-damage|p2a: Kremit|67/100
+|move|p2a: Kremit|Ice Punch|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|35/100
+|
+|-heal|p1a: Hydreigon|41/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641696489
+|move|p1a: Hydreigon|Dark Pulse|p2a: Kremit
+|-damage|p2a: Kremit|39/100
+|move|p2a: Kremit|Ice Punch|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|upkeep
+|
+|t:|1641696489
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|turn|39
+|
+|t:|1641696500
+|move|p1a: Excadrill|Earthquake|p2a: Kremit
+|-damage|p2a: Kremit|0 fnt
+|faint|p2a: Kremit
+|-damage|p1a: Excadrill|87/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641696507
+|switch|p2a: Epic & Original|Landorus-Therian, M|100/100
+|-damage|p2a: Epic & Original|88/100|[from] Stealth Rock
+|-ability|p2a: Epic & Original|Intimidate|boost
+|-unboost|p1a: Excadrill|atk|1
+|turn|40
+|
+|t:|1641696516
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Epic & Original|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|81/100
+|
+|t:|1641696532
+|switch|p2a: El Escoba|Hawlucha, F|64/100|[from]move: U-turn
+|-damage|p2a: El Escoba|51/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: El Escoba|45/100|[from] Sandstorm
+|upkeep
+|turn|41
+|
+|t:|1641696540
+|move|p2a: El Escoba|Swords Dance|p2a: El Escoba
+|-boost|p2a: El Escoba|atk|2
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: El Escoba|39/100|[from] Sandstorm
+|upkeep
+|turn|42
+|
+|t:|1641696548
+|move|p2a: El Escoba|Close Combat|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|13/100
+|-unboost|p2a: El Escoba|def|1
+|-unboost|p2a: El Escoba|spd|1
+|move|p1a: Hippowdon|Whirlwind|p2a: El Escoba
+|drag|p2a: Pillarman|Conkeldurr, F|60/100 brn
+|-damage|p2a: Pillarman|54/100 brn|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pillarman|48/100 brn|[from] Sandstorm
+|-damage|p2a: Pillarman|42/100 brn|[from] brn
+|upkeep
+|turn|43
+|
+|t:|1641696561
+|move|p2a: Pillarman|Mach Punch|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Pillarman|36/100 brn|[from] Sandstorm
+|-damage|p2a: Pillarman|30/100 brn|[from] brn
+|upkeep
+|
+|t:|1641696561
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|44
+|
+|t:|1641696572
+|switch|p2a: Needed Special|Magnezone|87/100
+|-damage|p2a: Needed Special|81/100|[from] Stealth Rock
+|move|p1a: Clefable|Flamethrower|p2a: Needed Special
+|-supereffective|p2a: Needed Special
+|-damage|p2a: Needed Special|4/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|45
+|
+|t:|1641696582
+|switch|p1a: Excadrill|Excadrill, F|87/100
+|-damage|p1a: Excadrill|84/100|[from] Stealth Rock
+|move|p2a: Needed Special|Flash Cannon|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|23/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|46
+|
+|t:|1641696591
+|switch|p2a: Epic & Original|Landorus-Therian, M|88/100
+|-damage|p2a: Epic & Original|76/100|[from] Stealth Rock
+|-ability|p2a: Epic & Original|Intimidate|boost
+|-unboost|p1a: Excadrill|atk|1
+|move|p1a: Excadrill|Earthquake|p2a: Epic & Original
+|-immune|p2a: Epic & Original
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|47
+|
+|t:|1641696601
+|move|p1a: Excadrill|Iron Head|p2a: Epic & Original
+|-damage|p2a: Epic & Original|35/100
+|-damage|p1a: Excadrill|7/100|[from] item: Rocky Helmet|[of] p2a: Epic & Original
+|-damage|p1a: Excadrill|0 fnt|[from] item: Life Orb
+|faint|p1a: Excadrill
+|cant|p2a: Epic & Original|flinch
+|
+|-weather|none
+|upkeep
+|
+|t:|1641696601
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|48
+|c|☆pokemon loser lol|LOL
+|
+|t:|1641696616
+|move|p2a: Epic & Original|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|83/100
+|
+|t:|1641696630
+|switch|p2a: Needed Special|Magnezone|4/100|[from]move: U-turn
+|-damage|p2a: Needed Special|0 fnt|[from] Stealth Rock
+|faint|p2a: Needed Special
+|move|p1a: Clefable|Moonblast|p2: Needed Special|[notarget]
+|-fail|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641696639
+|switch|p2a: El Escoba|Hawlucha, F|39/100
+|-damage|p2a: El Escoba|27/100|[from] Stealth Rock
+|turn|49
+|
+|t:|1641696644
+|move|p2a: El Escoba|Acrobatics|p1a: Clefable
+|-damage|p1a: Clefable|18/100
+|move|p1a: Clefable|Moonblast|p2a: El Escoba
+|-supereffective|p2a: El Escoba
+|-damage|p2a: El Escoba|0 fnt
+|faint|p2a: El Escoba
+|
+|upkeep
+|
+|t:|1641696654
+|switch|p2a: Fourze|Bisharp, F|100/100
+|-damage|p2a: Fourze|95/100|[from] Stealth Rock
+|turn|50
+|c|☆pokemon loser lol|So annoying and you still lose lol get better strategies
+|
+|t:|1641696668
+|move|p2a: Fourze|Iron Head|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-damage|p2a: Fourze|85/100|[from] item: Life Orb
+|
+|win|pokemon loser lol
+|raw|testingbot42o's rating: 1217 &rarr; <strong>1194</strong><br />(-23 for losing)
+|raw|pokemon loser lol's rating: 1239 &rarr; <strong>1262</strong><br />(+23 for winning)
+|l|‽testingbot42o
+|c|☆pokemon loser lol|bg

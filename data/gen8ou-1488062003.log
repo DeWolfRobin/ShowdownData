@@ -1,0 +1,95 @@
+|j|☆Oh yeh im bad
+|j|☆techtophia
+|t:|1641704738
+|gametype|singles
+|player|p1|Oh yeh im bad|harlequin|1277
+|player|p2|techtophia|101|1238
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Heatran, M|
+|poke|p1|Latias, F|
+|poke|p1|Skarmory, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Zeraora|
+|poke|p2|Porygon2|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Oh yeh im bad)
+|
+|t:|1641704745
+|start
+|switch|p1a: Latias|Latias, F, shiny|100/100
+|switch|p2a: Porygon2|Porygon2|100/100
+|-ability|p2a: Porygon2|Levitate|[from] ability: Trace|[of] p1a: Latias
+|turn|1
+|
+|t:|1641704754
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Porygon2|Thunder Wave|p1a: Latias
+|-status|p1a: Latias|par
+|
+|upkeep
+|turn|2
+|
+|t:|1641704760
+|cant|p1a: Latias|par
+|move|p2a: Porygon2|Ice Beam|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|75/100 par
+|-enditem|p1a: Latias|Weakness Policy
+|-boost|p1a: Latias|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Latias|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|3
+|
+|t:|1641704768
+|move|p1a: Latias|Agility|p1a: Latias
+|-boost|p1a: Latias|spe|2
+|move|p2a: Porygon2|Ice Beam|p1a: Latias
+|-supereffective|p1a: Latias
+|-crit|p1a: Latias
+|-damage|p1a: Latias|15/100 par
+|
+|upkeep
+|turn|4
+|c|☆Oh yeh im bad|Crit
+|c|☆techtophia|crit happens
+|n|!Oh yeh im bad|ohyehimbad
+|c|☆techtophia|ur just trying to setup lmao
+|inactive|Oh yeh im bad has 120 seconds left.
+|
+|t:|1641704802
+|move|p1a: Latias|Stored Power|p2a: Porygon2
+|-damage|p2a: Porygon2|7/100
+|move|p2a: Porygon2|Ice Beam|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|upkeep
+|-message|Oh yeh im bad forfeited.
+|
+|win|techtophia
+|raw|Oh yeh im bad's rating: 1277 &rarr; <strong>1249</strong><br />(-28 for losing)
+|raw|techtophia's rating: 1238 &rarr; <strong>1266</strong><br />(+28 for winning)
+|l|!Oh yeh im bad
+|c|☆techtophia|gg

@@ -1,0 +1,251 @@
+|j|☆Aap ka do
+|j|☆Ninja Devank
+|t:|1641812378
+|gametype|singles
+|player|p1|Aap ka do|170|
+|player|p2|Ninja Devank|169|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Barraskewda, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Zeraora|
+|poke|p1|Weavile, M|
+|poke|p1|Mew|
+|poke|p2|Corviknight, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Weavile, M|
+|poke|p2|Blissey, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Zeraora|
+|teampreview
+|
+|t:|1641812392
+|start
+|switch|p1a: Zeraora|Zeraora|100/100
+|switch|p2a: Slowbro|Slowbro, M, shiny|100/100
+|-item|p1a: Zeraora|Air Balloon
+|turn|1
+|
+|t:|1641812403
+|move|p1a: Zeraora|Plasma Fists|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|13/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p2a: Slowbro|Toxic|p1a: Zeraora
+|-status|p1a: Zeraora|tox
+|
+|-damage|p1a: Zeraora|95/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641812413
+|move|p1a: Zeraora|Plasma Fists|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Slowbro
+|
+|-damage|p1a: Zeraora|83/100 tox|[from] psn
+|upkeep
+|
+|t:|1641812423
+|switch|p2a: Garchomp|Garchomp, M, shiny|100/100
+|turn|3
+|
+|t:|1641812431
+|move|p1a: Zeraora|Close Combat|p2a: Garchomp
+|-damage|p2a: Garchomp|60/100
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|-damage|p1a: Zeraora|70/100 tox|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p2a: Garchomp|Toxic|p1a: Zeraora
+|-fail|p1a: Zeraora|tox
+|
+|-damage|p1a: Zeraora|52/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641812442
+|move|p1a: Zeraora|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|25/100
+|-damage|p1a: Zeraora|40/100 tox|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Dragon Fang|[from] move: Knock Off|[of] p1a: Zeraora
+|move|p2a: Garchomp|Crunch|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|-enditem|p1a: Zeraora|Air Balloon
+|faint|p1a: Zeraora
+|
+|upkeep
+|
+|t:|1641812456
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|5
+|
+|t:|1641812467
+|move|p2a: Garchomp|Crunch|p1a: Rillaboom
+|-damage|p1a: Rillaboom|69/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p2a: Garchomp|31/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|76/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641812471
+|move|p1a: Rillaboom|Grassy Glide|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Rillaboom|63/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|-damage|p1a: Rillaboom|53/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|59/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641812484
+|switch|p2a: Weavile|Weavile, M|100/100
+|turn|7
+|
+|t:|1641812505
+|move|p2a: Weavile|Calm Mind|p2a: Weavile
+|-boost|p2a: Weavile|spa|1
+|-boost|p2a: Weavile|spd|1
+|move|p1a: Rillaboom|Superpower|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-unboost|p1a: Rillaboom|atk|1
+|-unboost|p1a: Rillaboom|def|1
+|faint|p2a: Weavile
+|-damage|p1a: Rillaboom|49/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|56/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641812512
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Unnerve
+|turn|8
+|
+|t:|1641812522
+|move|p1a: Rillaboom|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|50/100
+|-enditem|p2a: Corviknight|Scope Lens|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|46/100|[from] item: Life Orb
+|move|p2a: Corviknight|Brave Bird|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-damage|p2a: Corviknight|37/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641812535
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|9
+|
+|t:|1641812544
+|move|p1a: Barraskewda|Liquidation|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-damage|p1a: Barraskewda|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Barraskewda|97/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641812558
+|switch|p2a: Zeraora|Zeraora, shiny|100/100
+|turn|10
+|
+|t:|1641812565
+|move|p2a: Zeraora|Plasma Fists|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Barraskewda
+|
+|upkeep
+|
+|t:|1641812582
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|11
+|
+|t:|1641812588
+|move|p2a: Zeraora|Toxic|p1a: Dragapult
+|-status|p1a: Dragapult|tox
+|move|p1a: Dragapult|Dragon Darts|p2a: Zeraora
+|-damage|p2a: Zeraora|60/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Zeraora
+|-damage|p2a: Zeraora|16/100
+|
+|-damage|p1a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641812596
+|move|p2a: Zeraora|Discharge|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|64/100 tox
+|move|p1a: Dragapult|Dragon Darts|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|-heal|p1a: Dragapult|70/100 tox|[from] item: Leftovers
+|-damage|p1a: Dragapult|58/100 tox|[from] psn
+|upkeep
+|
+|t:|1641812600
+|switch|p2a: Blissey|Blissey, F, shiny|100/100
+|turn|13
+|
+|t:|1641812607
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Blissey|Flamethrower|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|48/100 tox
+|
+|-heal|p1a: Dragapult|54/100 tox|[from] item: Leftovers
+|-damage|p1a: Dragapult|36/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641812617
+|move|p1a: Dragapult|Dragon Darts|p2a: Blissey
+|-damage|p2a: Blissey|65/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Blissey
+|-damage|p2a: Blissey|32/100
+|-enditem|p2a: Blissey|Oran Berry|[eat]
+|-heal|p2a: Blissey|33/100|[from] item: Oran Berry
+|move|p2a: Blissey|Calm Mind|p2a: Blissey
+|-boost|p2a: Blissey|spa|1
+|-boost|p2a: Blissey|spd|1
+|
+|-heal|p1a: Dragapult|42/100 tox|[from] item: Leftovers
+|-damage|p1a: Dragapult|18/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641812624
+|move|p1a: Dragapult|Dragon Darts|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|win|Aap ka do

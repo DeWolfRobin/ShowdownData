@@ -1,0 +1,458 @@
+|j|☆TheRandomChaos
+|j|☆Chinoo2910
+|t:|1641823976
+|gametype|singles
+|player|p1|TheRandomChaos|marley|1000
+|player|p2|Chinoo2910|silver|1049
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Crobat, M|
+|poke|p1|Tentacruel, F|
+|poke|p1|Magnezone|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Quagsire, M|
+|poke|p1|Volcarona, M|
+|poke|p2|Raichu, M|
+|poke|p2|Unfezant, M|
+|poke|p2|Drifblim, F|
+|poke|p2|Golduck, M|
+|poke|p2|Morpeko, M|
+|poke|p2|Perrserker, M|
+|teampreview
+|
+|t:|1641823996
+|start
+|switch|p1a: Crobat|Crobat, M|100/100
+|switch|p2a: Perrserker|Perrserker, M|100/100
+|turn|1
+|
+|t:|1641824005
+|move|p1a: Crobat|Rain Dance|p1a: Crobat
+|-weather|RainDance
+|move|p2a: Perrserker|Swords Dance|p2a: Perrserker
+|-boost|p2a: Perrserker|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641824013
+|move|p1a: Crobat|Haze|p1a: Crobat
+|-clearallboost
+|move|p2a: Perrserker|Iron Head|p1a: Crobat
+|-damage|p1a: Crobat|19/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641824021
+|move|p1a: Crobat|U-turn|p2a: Perrserker
+|-resisted|p2a: Perrserker
+|-damage|p2a: Perrserker|91/100
+|
+|t:|1641824027
+|switch|p1a: Quagsire|Quagsire, M|100/100|[from]move: U-turn
+|move|p2a: Perrserker|Swords Dance|p2a: Perrserker
+|-boost|p2a: Perrserker|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641824037
+|move|p2a: Perrserker|Body Slam|p1a: Quagsire
+|-damage|p1a: Quagsire|80/100
+|-status|p1a: Quagsire|par
+|move|p1a: Quagsire|Earth Power|p2a: Perrserker
+|-supereffective|p2a: Perrserker
+|-damage|p2a: Perrserker|31/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Quagsire|86/100 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641824049
+|move|p2a: Perrserker|Body Slam|p1a: Quagsire
+|-damage|p1a: Quagsire|65/100 par
+|move|p1a: Quagsire|Earth Power|p2a: Perrserker
+|-supereffective|p2a: Perrserker
+|-damage|p2a: Perrserker|0 fnt
+|faint|p2a: Perrserker
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Quagsire|71/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1641824070
+|switch|p2a: Drifblim|Drifblim, F|100/100
+|turn|6
+|
+|t:|1641824075
+|move|p2a: Drifblim|Calm Mind|p2a: Drifblim
+|-boost|p2a: Drifblim|spa|1
+|-boost|p2a: Drifblim|spd|1
+|move|p1a: Quagsire|Yawn|p2a: Drifblim
+|-start|p2a: Drifblim|move: Yawn|[of] p1a: Quagsire
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Quagsire|77/100 par|[from] item: Leftovers
+|-status|p2a: Drifblim|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|
+|t:|1641824095
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Drifblim|Shadow Ball|p1a: Volcarona
+|-damage|p1a: Volcarona|23/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Drifblim|94/100 brn|[from] brn
+|-end|p2a: Drifblim|move: Yawn|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641824106
+|move|p1a: Volcarona|Protect|p1a: Volcarona
+|-singleturn|p1a: Volcarona|Protect
+|move|p2a: Drifblim|Shadow Ball|p1a: Volcarona
+|-activate|p1a: Volcarona|move: Protect
+|
+|-weather|none
+|-damage|p2a: Drifblim|88/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641824124
+|switch|p1a: Quagsire|Quagsire, M|77/100 par
+|move|p2a: Drifblim|Shadow Ball|p1a: Quagsire
+|-damage|p1a: Quagsire|20/100 par
+|
+|-heal|p1a: Quagsire|26/100 par|[from] item: Leftovers
+|-damage|p2a: Drifblim|82/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641824138
+|switch|p1a: Magnezone|Magnezone|100/100
+|-item|p1a: Magnezone|Air Balloon
+|move|p2a: Drifblim|Shadow Ball|p1a: Magnezone
+|-damage|p1a: Magnezone|23/100
+|-enditem|p1a: Magnezone|Air Balloon
+|
+|-damage|p2a: Drifblim|76/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641824152
+|move|p2a: Drifblim|Shadow Ball|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|-damage|p2a: Drifblim|70/100 brn|[from] brn
+|upkeep
+|
+|t:|1641824160
+|switch|p1a: Crobat|Crobat, M|19/100
+|turn|12
+|
+|t:|1641824167
+|move|p1a: Crobat|Rain Dance|p1a: Crobat
+|-weather|RainDance
+|move|p2a: Drifblim|Strength Sap|p1a: Crobat
+|-unboost|p1a: Crobat|atk|1
+|-heal|p2a: Drifblim|100/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Drifblim|94/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641824178
+|move|p1a: Crobat|Haze|p1a: Crobat
+|-clearallboost
+|move|p2a: Drifblim|Shadow Ball|p1a: Crobat
+|-damage|p1a: Crobat|0 fnt
+|faint|p1a: Crobat
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Drifblim|88/100 brn|[from] brn
+|upkeep
+|
+|t:|1641824189
+|switch|p1a: Tentacruel|Tentacruel, F|100/100
+|turn|14
+|
+|t:|1641824197
+|move|p1a: Tentacruel|Toxic Spikes|p2a: Drifblim
+|-sidestart|p2: Chinoo2910|move: Toxic Spikes
+|move|p2a: Drifblim|Calm Mind|p2a: Drifblim
+|-boost|p2a: Drifblim|spa|1
+|-boost|p2a: Drifblim|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Drifblim|82/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641824213
+|move|p1a: Tentacruel|Scald|p2a: Drifblim
+|-damage|p2a: Drifblim|47/100 brn
+|move|p2a: Drifblim|Calm Mind|p2a: Drifblim
+|-boost|p2a: Drifblim|spa|1
+|-boost|p2a: Drifblim|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Drifblim|40/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641824225
+|move|p1a: Tentacruel|Protect|p1a: Tentacruel
+|-singleturn|p1a: Tentacruel|Protect
+|move|p2a: Drifblim|Strength Sap|p1a: Tentacruel
+|-activate|p1a: Tentacruel|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Drifblim|34/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641824234
+|move|p1a: Tentacruel|Scald|p2a: Drifblim
+|-damage|p2a: Drifblim|8/100 brn
+|move|p2a: Drifblim|Strength Sap|p1a: Tentacruel
+|-unboost|p1a: Tentacruel|atk|1
+|-heal|p2a: Drifblim|37/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Drifblim|31/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641824245
+|move|p1a: Tentacruel|Scald|p2a: Drifblim
+|-damage|p2a: Drifblim|0 fnt
+|faint|p2a: Drifblim
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641824253
+|switch|p2a: Morpeko|Morpeko, M|100/100
+|-status|p2a: Morpeko|psn
+|turn|19
+|
+|t:|1641824260
+|move|p1a: Tentacruel|Toxic Spikes|p2a: Morpeko
+|-sidestart|p2: Chinoo2910|move: Toxic Spikes
+|move|p2a: Morpeko|Rapid Spin|p1a: Tentacruel
+|-damage|p1a: Tentacruel|79/100
+|-boost|p2a: Morpeko|spe|1
+|-sideend|p2: Chinoo2910|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Morpeko
+|
+|-weather|none
+|-heal|p1a: Tentacruel|85/100|[from] item: Black Sludge
+|-damage|p2a: Morpeko|88/100 psn|[from] psn
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|20
+|
+|t:|1641824275
+|move|p2a: Morpeko|Aura Wheel|p1a: Tentacruel
+|-damage|p1a: Tentacruel|6/100
+|-boost|p2a: Morpeko|spe|1
+|move|p1a: Tentacruel|Scald|p2a: Morpeko
+|-damage|p2a: Morpeko|50/100 psn
+|
+|-heal|p1a: Tentacruel|12/100|[from] item: Black Sludge
+|-damage|p2a: Morpeko|37/100 psn|[from] psn
+|-formechange|p2a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|21
+|
+|t:|1641824292
+|switch|p1a: Quagsire|Quagsire, M|26/100 par
+|move|p2a: Morpeko|Rapid Spin|p1a: Quagsire
+|-damage|p1a: Quagsire|16/100 par
+|-boost|p2a: Morpeko|spe|1
+|
+|-heal|p1a: Quagsire|22/100 par|[from] item: Leftovers
+|-damage|p2a: Morpeko|25/100 psn|[from] psn
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|22
+|
+|t:|1641824305
+|move|p2a: Morpeko|Aura Wheel|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|-boost|p2a: Morpeko|spe|1
+|faint|p1a: Quagsire
+|
+|-damage|p2a: Morpeko|12/100 psn|[from] psn
+|-formechange|p2a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|
+|t:|1641824315
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|23
+|
+|t:|1641824321
+|move|p2a: Morpeko|Dark Pulse|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|85/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Morpeko
+|-sidestart|p2: Chinoo2910|move: Stealth Rock
+|
+|-damage|p2a: Morpeko|0 fnt|[from] psn
+|faint|p2a: Morpeko
+|upkeep
+|
+|t:|1641824333
+|switch|p2a: Raichu|Raichu, M|100/100
+|-damage|p2a: Raichu|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641824340
+|move|p2a: Raichu|Calm Mind|p2a: Raichu
+|-boost|p2a: Raichu|spa|1
+|-boost|p2a: Raichu|spd|1
+|move|p1a: Ferrothorn|Leech Seed|p2a: Raichu
+|-start|p2a: Raichu|move: Leech Seed
+|
+|-damage|p2a: Raichu|76/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|94/100|[silent]
+|upkeep
+|turn|25
+|
+|t:|1641824350
+|move|p2a: Raichu|Calm Mind|p2a: Raichu
+|-boost|p2a: Raichu|spa|1
+|-boost|p2a: Raichu|spd|1
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Raichu
+|-resisted|p2a: Raichu
+|-damage|p2a: Raichu|22/100
+|
+|-damage|p2a: Raichu|10/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|26
+|
+|t:|1641824363
+|switch|p1a: Tentacruel|Tentacruel, F|12/100
+|move|p2a: Raichu|Focus Blast|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|0 fnt
+|faint|p1a: Tentacruel
+|
+|upkeep
+|
+|t:|1641824372
+|switch|p1a: Volcarona|Volcarona, M|23/100
+|turn|27
+|
+|t:|1641824376
+|move|p1a: Volcarona|Protect|p1a: Volcarona
+|-singleturn|p1a: Volcarona|Protect
+|move|p2a: Raichu|Surf|p1a: Volcarona
+|-activate|p1a: Volcarona|move: Protect
+|
+|-damage|p2a: Raichu|0 fnt|[from] Leech Seed|[of] p1a: Volcarona
+|-heal|p1a: Volcarona|31/100|[silent]
+|faint|p2a: Raichu
+|upkeep
+|
+|t:|1641824386
+|switch|p2a: Golduck|Golduck, M|100/100
+|-damage|p2a: Golduck|88/100|[from] Stealth Rock
+|-ability|p2a: Golduck|Cloud Nine
+|turn|28
+|
+|t:|1641824395
+|move|p1a: Volcarona|Bug Buzz|p2a: Golduck
+|-damage|p2a: Golduck|16/100
+|move|p2a: Golduck|Calm Mind|p2a: Golduck
+|-boost|p2a: Golduck|spa|1
+|-boost|p2a: Golduck|spd|1
+|
+|-heal|p2a: Golduck|22/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641824404
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Golduck|Scald|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|-heal|p2a: Golduck|28/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641824415
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|30
+|
+|t:|1641824423
+|move|p2a: Golduck|Ice Beam|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|75/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Golduck
+|-start|p2a: Golduck|move: Leech Seed
+|
+|-heal|p2a: Golduck|34/100|[from] item: Leftovers
+|-damage|p2a: Golduck|22/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|86/100|[silent]
+|upkeep
+|turn|31
+|
+|t:|1641824434
+|move|p2a: Golduck|Ice Beam|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|59/100
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Golduck
+|-resisted|p2a: Golduck
+|-damage|p2a: Golduck|0 fnt
+|faint|p2a: Golduck
+|
+|upkeep
+|
+|t:|1641824442
+|switch|p2a: Unfezant|Unfezant, M|100/100
+|-damage|p2a: Unfezant|76/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1641824450
+|move|p2a: Unfezant|Focus Energy|p2a: Unfezant
+|-start|p2a: Unfezant|move: Focus Energy
+|move|p1a: Ferrothorn|Leech Seed|p2a: Unfezant
+|-start|p2a: Unfezant|move: Leech Seed
+|
+|-damage|p2a: Unfezant|63/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|69/100|[silent]
+|upkeep
+|turn|33
+|
+|t:|1641824460
+|move|p2a: Unfezant|Dual Wingbeat|p1a: Ferrothorn|[miss]
+|-miss|p2a: Unfezant|p1a: Ferrothorn
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Unfezant
+|-damage|p2a: Unfezant|0 fnt
+|faint|p2a: Unfezant
+|
+|win|TheRandomChaos
+|raw|TheRandomChaos's rating: 1000 &rarr; <strong>1046</strong><br />(+46 for winning)
+|raw|Chinoo2910's rating: 1049 &rarr; <strong>1029</strong><br />(-20 for losing)
+|l|☆Chinoo2910

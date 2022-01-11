@@ -1,0 +1,208 @@
+|j|☆Maui8
+|j|☆Magorrrrr
+|t:|1641850882
+|gametype|singles
+|player|p1|Maui8|170|1062
+|player|p2|Magorrrrr|bellelba|1083
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Weezing, F|
+|poke|p2|Clefable, M|
+|poke|p2|Gyarados, F|
+|poke|p2|Vileplume, M|
+|poke|p2|Dragonite, F|
+|teampreview
+|
+|t:|1641850906
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|turn|1
+|
+|t:|1641850915
+|move|p1a: Landorus|Stealth Rock|p2a: Clefable
+|-sidestart|p2: Magorrrrr|move: Stealth Rock
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641850922
+|move|p1a: Landorus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|91/100
+|
+|t:|1641850934
+|switch|p1a: Corviknight|Corviknight, F|100/100|[from]move: U-turn
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|97/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641850956
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|-heal|p2a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641850965
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Blissey|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|
+|upkeep
+|turn|5
+|
+|t:|1641850973
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Blissey|Light Screen|p1a: Blissey
+|-sidestart|p1: Maui8|move: Light Screen
+|
+|upkeep
+|turn|6
+|
+|t:|1641850980
+|move|p1a: Blissey|Protect|p1a: Blissey
+|-singleturn|p1a: Blissey|Protect
+|move|p2a: Clefable|Stored Power|p1a: Blissey
+|-activate|p1a: Blissey|move: Protect
+|
+|upkeep
+|turn|7
+|
+|t:|1641850988
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Blissey|Soft-Boiled||[still]
+|-fail|p1a: Blissey|heal
+|
+|upkeep
+|turn|8
+|
+|t:|1641850994
+|move|p1a: Blissey|Protect|p1a: Blissey
+|-singleturn|p1a: Blissey|Protect
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641851007
+|move|p2a: Clefable|Stored Power|p1a: Blissey
+|-damage|p1a: Blissey|93/100
+|move|p1a: Blissey|Light Screen||[still]
+|-fail|p1a: Blissey
+|
+|-heal|p1a: Blissey|99/100|[from] item: Leftovers
+|-sideend|p1: Maui8|move: Light Screen
+|upkeep
+|turn|10
+|c|☆Magorrrrr|Hoo boy
+|
+|t:|1641851017
+|move|p1a: Blissey|Protect|p1a: Blissey
+|-singleturn|p1a: Blissey|Protect
+|move|p2a: Clefable|Stored Power|p1a: Blissey
+|-activate|p1a: Blissey|move: Protect
+|
+|-heal|p1a: Blissey|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641851035
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Stored Power|p1a: Landorus
+|-damage|p1a: Landorus|28/100
+|
+|-heal|p1a: Landorus|34/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641851046
+|move|p1a: Landorus|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|83/100 tox
+|move|p2a: Clefable|Stored Power|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-heal|p2a: Clefable|90/100 tox|[from] item: Leftovers
+|upkeep
+|
+|t:|1641851053
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|13
+|
+|t:|1641851060
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Clefable|Stored Power|p1a: Dragapult
+|-damage|p1a: Dragapult|16/100
+|
+|-heal|p2a: Clefable|96/100 tox|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641851067
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Clefable|Stored Power|p1a: Dragapult|[miss]
+|-miss|p2a: Clefable|p1a: Dragapult
+|
+|-heal|p2a: Clefable|100/100 tox|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641851076
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Dragapult|Phantom Force|p2a: Clefable|[from]lockedmove
+|-activate|p2a: Clefable|move: Phantom Force|[broken]
+|-damage|p2a: Clefable|76/100 tox
+|-damage|p1a: Dragapult|6/100|[from] item: Life Orb
+|
+|-heal|p2a: Clefable|82/100 tox|[from] item: Leftovers
+|upkeep
+|turn|16
+|-message|Maui8 forfeited.
+|
+|win|Magorrrrr
+|raw|Maui8's rating: 1062 &rarr; <strong>1044</strong><br />(-18 for losing)
+|raw|Magorrrrr's rating: 1083 &rarr; <strong>1109</strong><br />(+26 for winning)
+|l|☆Maui8

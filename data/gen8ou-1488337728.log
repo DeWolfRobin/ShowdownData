@@ -1,0 +1,165 @@
+|j|☆Immagamer
+|j|☆totoros neighbor
+|t:|1641752892
+|gametype|singles
+|player|p1|Immagamer|1|1118
+|player|p2|totoros neighbor|palmer|1073
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Crawdaunt, M|
+|poke|p1|Nidoking, M|
+|poke|p1|Zeraora|
+|poke|p1|Tangrowth, F|
+|poke|p1|Chansey, F|
+|poke|p1|Skarmory, F|
+|poke|p2|Victini|
+|poke|p2|Dragonite, M|
+|poke|p2|Scizor, M|
+|poke|p2|Zapdos|
+|poke|p2|Blaziken, M|
+|poke|p2|Latios, M|
+|teampreview
+|
+|t:|1641752917
+|start
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|1
+|
+|t:|1641752920
+|move|p2a: Scizor|Bullet Punch|p1a: Nidoking
+|-damage|p1a: Nidoking|28/100
+|move|p1a: Nidoking|Flamethrower|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1641752924
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|2
+|
+|t:|1641752926
+|move|p1a: Nidoking|Ice Beam|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|18/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641752933
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|move|p2a: Dragonite|Ice Punch|p1a: Skarmory
+|-damage|p1a: Skarmory|75/100
+|-damage|p2a: Dragonite|2/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|upkeep
+|turn|4
+|
+|t:|1641752951
+|move|p2a: Dragonite|Ice Punch|p1a: Skarmory
+|-damage|p1a: Skarmory|49/100
+|-damage|p2a: Dragonite|0 fnt|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|faint|p2a: Dragonite
+|move|p1a: Skarmory|Whirlwind|p2: Dragonite|[notarget]
+|-fail|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1641752956
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Immagamer)
+|
+|t:|1641752979
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Zapdos|Heat Wave|p1a: Zeraora
+|-damage|p1a: Zeraora|61/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641752990
+|move|p1a: Zeraora|Plasma Fists|p2a: Zapdos
+|-damage|p2a: Zapdos|10/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p2a: Zapdos|Heat Wave|p1a: Zeraora
+|-damage|p1a: Zeraora|21/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641753004
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Zeraora|Plasma Fists|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|53/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|
+|upkeep
+|turn|8
+|
+|t:|1641753008
+|move|p1a: Zeraora|Plasma Fists|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|2/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p2a: Latios|Psychic|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|
+|upkeep
+|
+|t:|1641753012
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|turn|9
+|
+|t:|1641753032
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|-damage|p1a: Crawdaunt|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641753035
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|turn|10
+|
+|t:|1641753038
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|-damage|p1a: Crawdaunt|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641753042
+|switch|p2a: Victini|Victini|100/100
+|turn|11
+|-message|totoros neighbor forfeited.
+|
+|win|Immagamer
+|raw|Immagamer's rating: 1118 &rarr; <strong>1140</strong><br />(+22 for winning)
+|raw|totoros neighbor's rating: 1073 &rarr; <strong>1055</strong><br />(-18 for losing)
+|l|☆totoros neighbor

@@ -1,0 +1,424 @@
+|j|☆Omari P
+|j|☆mkyn
+|t:|1641823517
+|gametype|singles
+|player|p1|Omari P|pokemonrangerf|1638
+|player|p2|mkyn|morty|1566
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Victini|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Terrakion|
+|poke|p1|Nidoking, M|
+|poke|p1|Latios, M|
+|poke|p1|Reuniclus, M|
+|poke|p2|Sigilyph, M|
+|poke|p2|Krookodile, M|
+|poke|p2|Buzzwole|
+|poke|p2|Blissey, F|
+|poke|p2|Heatran, F|
+|poke|p2|Toxapex, F|
+|teampreview
+|j| Boanerges
+|j| Shirkan1499
+|l| Shirkan1499
+|
+|t:|1641823562
+|start
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Omari P)
+|
+|t:|1641823591
+|move|p1a: Nidoking|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|21/100
+|move|p2a: Toxapex|Liquidation|p1a: Nidoking
+|-supereffective|p1a: Nidoking
+|-enditem|p1a: Nidoking|Focus Sash
+|-damage|p1a: Nidoking|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641823605
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Nidoking|Stealth Rock|p2a: Blissey
+|-sidestart|p2: mkyn|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641823611
+|switch|p1a: Terrakion|Terrakion|100/100
+|move|p2a: Blissey|Shadow Ball|p1a: Terrakion
+|-damage|p1a: Terrakion|84/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641823615
+|move|p1a: Terrakion|Swords Dance|p1a: Terrakion
+|-boost|p1a: Terrakion|atk|2
+|move|p2a: Blissey|Thunder Wave|p1a: Terrakion|[miss]
+|-miss|p2a: Blissey|p1a: Terrakion
+|
+|upkeep
+|turn|5
+|
+|t:|1641823618
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-damage|p2a: Buzzwole|88/100|[from] Stealth Rock
+|move|p1a: Terrakion|Close Combat|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-crit|p2a: Buzzwole
+|-damage|p2a: Buzzwole|36/100
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|-damage|p1a: Terrakion|67/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-damage|p1a: Terrakion|57/100|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|
+|t:|1641823621
+|move|p1a: Terrakion|Close Combat|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|-damage|p1a: Terrakion|41/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|faint|p2a: Buzzwole
+|-damage|p1a: Terrakion|31/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641823625
+|switch|p2a: Krookodile|Krookodile, M|100/100
+|-damage|p2a: Krookodile|94/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641823628
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|100/100
+|move|p2a: Krookodile|Knock Off|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|79/100
+|-damage|p2a: Krookodile|78/100|[from] item: Rocky Helmet|[of] p1a: Mandibuzz
+|-enditem|p1a: Mandibuzz|Rocky Helmet|[from] move: Knock Off|[of] p2a: Krookodile
+|
+|upkeep
+|turn|8
+|
+|t:|1641823632
+|switch|p2a: Toxapex|Toxapex, F|55/100
+|-damage|p2a: Toxapex|42/100|[from] Stealth Rock
+|switch|p1a: Terrakion|Terrakion|31/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641823635
+|move|p1a: Terrakion|Stone Edge|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-damage|p1a: Terrakion|21/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641823638
+|switch|p2a: Krookodile|Krookodile, M|78/100
+|-damage|p2a: Krookodile|72/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641823641
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|79/100
+|move|p2a: Krookodile|Stealth Rock|p1a: Mandibuzz
+|-sidestart|p1: Omari P|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1641823644
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Mandibuzz|Defog|p2a: Heatran
+|-unboost|p2a: Heatran|evasion|1
+|-sideend|p2: mkyn|Stealth Rock|[from] move: Defog|[of] p1a: Mandibuzz
+|-sideend|p1: Omari P|Stealth Rock|[from] move: Defog|[of] p1a: Mandibuzz
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641823647
+|switch|p1a: Victini|Victini|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Victini
+|-resisted|p1a: Victini
+|-damage|p1a: Victini|82/100
+|-activate|p1a: Victini|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-damage|p1a: Victini|69/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|13
+|
+|t:|1641823651
+|move|p1a: Victini|Focus Blast|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|34/100
+|move|p2a: Heatran|Earth Power|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|26/100
+|
+|-heal|p2a: Heatran|40/100|[from] item: Leftovers
+|-damage|p1a: Victini|14/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1641823655
+|switch|p2a: Sigilyph|Sigilyph, M|100/100
+|move|p1a: Victini|Focus Blast|p2a: Sigilyph|[miss]
+|-miss|p1a: Victini|p2a: Sigilyph
+|
+|-end|p1a: Victini|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641823657
+|move|p1a: Victini|Blue Flare|p2a: Sigilyph
+|-damage|p2a: Sigilyph|16/100
+|move|p2a: Sigilyph|Psyshock|p1a: Victini
+|-resisted|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|upkeep
+|
+|t:|1641823663
+|switch|p1a: Terrakion|Terrakion|21/100
+|turn|16
+|
+|t:|1641823666
+|move|p1a: Terrakion|Close Combat|p2a: Sigilyph
+|-resisted|p2a: Sigilyph
+|-damage|p2a: Sigilyph|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|faint|p2a: Sigilyph
+|-damage|p1a: Terrakion|11/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641823668
+|switch|p2a: Krookodile|Krookodile, M|72/100
+|turn|17
+|
+|t:|1641823670
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|79/100
+|move|p2a: Krookodile|Stone Edge|p1a: Mandibuzz|[miss]
+|-miss|p2a: Krookodile|p1a: Mandibuzz
+|
+|upkeep
+|turn|18
+|
+|t:|1641823672
+|switch|p1a: Terrakion|Terrakion|11/100
+|move|p2a: Krookodile|Stone Edge|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|faint|p1a: Terrakion
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1641823677
+|switch|p1a: Latios|Latios, M|100/100
+|turn|19
+|
+|t:|1641823680
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Latios|Draco Meteor|p2a: Blissey
+|-damage|p2a: Blissey|77/100
+|-unboost|p1a: Latios|spa|2
+|
+|upkeep
+|turn|20
+|
+|t:|1641823683
+|switch|p1a: Reuniclus|Reuniclus, M, shiny|100/100
+|move|p2a: Blissey|Thunder Wave|p1a: Reuniclus
+|-status|p1a: Reuniclus|par
+|
+|upkeep
+|turn|21
+|
+|t:|1641823686
+|cant|p1a: Reuniclus|par
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641823687
+|switch|p2a: Heatran|Heatran, F|40/100|[from]move: Teleport
+|
+|-heal|p2a: Heatran|47/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641823689
+|move|p2a: Heatran|Magma Storm|p1a: Reuniclus
+|-damage|p1a: Reuniclus|52/100 par
+|-activate|p1a: Reuniclus|move: Magma Storm|[of] p2a: Heatran
+|cant|p1a: Reuniclus|par
+|
+|-heal|p2a: Heatran|53/100|[from] item: Leftovers
+|-heal|p1a: Reuniclus|58/100 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641823693
+|move|p2a: Heatran|Taunt|p1a: Reuniclus
+|-start|p1a: Reuniclus|move: Taunt
+|move|p1a: Reuniclus|Focus Blast|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Reuniclus|64/100 par|[from] item: Leftovers
+|-end|p1a: Reuniclus|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641823696
+|switch|p2a: Krookodile|Krookodile, M|72/100
+|turn|24
+|
+|t:|1641823700
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|79/100
+|move|p2a: Krookodile|Stone Edge|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|39/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641823706
+|switch|p1a: Nidoking|Nidoking, M|1/100
+|move|p2a: Krookodile|Stone Edge|p1a: Nidoking
+|-resisted|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|faint|p1a: Nidoking
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1641823709
+|switch|p1a: Latios|Latios, M|100/100
+|turn|26
+|
+|t:|1641823712
+|move|p1a: Latios|Draco Meteor|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|-unboost|p1a: Latios|spa|2
+|faint|p2a: Krookodile
+|
+|upkeep
+|
+|t:|1641823714
+|switch|p2a: Blissey|Blissey, F|77/100
+|turn|27
+|
+|t:|1641823718
+|switch|p1a: Reuniclus|Reuniclus, M, shiny|64/100 par
+|move|p2a: Blissey|Thunder Wave|p1a: Reuniclus
+|-fail|p1a: Reuniclus|par
+|
+|-heal|p1a: Reuniclus|70/100 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641823721
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: Blissey|Shadow Ball|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|70/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641823724
+|move|p1a: Latios|Trick|p2a: Blissey
+|-activate|p1a: Latios|move: Trick|[of] p2a: Blissey
+|-item|p2a: Blissey|Choice Scarf|[from] move: Trick
+|-item|p1a: Latios|Heavy-Duty Boots|[from] move: Trick
+|move|p2a: Blissey|Shadow Ball|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|42/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641823728
+|move|p1a: Latios|Psyshock|p2a: Blissey
+|-damage|p2a: Blissey|44/100
+|move|p2a: Blissey|Shadow Ball|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|12/100
+|
+|upkeep
+|turn|31
+|
+|t:|1641823732
+|move|p1a: Latios|Psyshock|p2a: Blissey
+|-damage|p2a: Blissey|8/100
+|move|p2a: Blissey|Shadow Ball|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1641823735
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|39/100
+|turn|32
+|
+|t:|1641823737
+|move|p2a: Blissey|Shadow Ball|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|33/100
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|83/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|upkeep
+|turn|33
+|
+|t:|1641823739
+|move|p2a: Blissey|Shadow Ball|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|77/100
+|move|p1a: Mandibuzz|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|
+|-damage|p2a: Blissey|2/100 tox|[from] psn
+|upkeep
+|turn|34
+|-message|mkyn forfeited.
+|
+|win|Omari P
+|raw|Omari P's rating: 1638 &rarr; <strong>1654</strong><br />(+16 for winning)
+|raw|mkyn's rating: 1566 &rarr; <strong>1550</strong><br />(-16 for losing)
+|l|☆mkyn
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

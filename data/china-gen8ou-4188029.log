@@ -1,0 +1,477 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆jingtianlangtaosha
+|j|☆SL21CC Pichiu
+|t:|1641737372
+|gametype|singles
+|player|p1|jingtianlangtaosha|crasherwake|1311
+|player|p2|SL21CC Pichiu|elesa|1228
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Blissey, F|
+|poke|p1|Urshifu-*, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Volcanion|
+|poke|p2|Melmetal|
+|poke|p2|Dragonite, F|
+|poke|p2|Seismitoad, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jingtianlangtaosha)
+|j| adreamew
+|
+|t:|1641737385
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Pelipper|atk|1
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641737390
+|move|p1a: Landorus|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: SL21CC Pichiu|move: Stealth Rock
+|move|p2a: Pelipper|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|98/100
+|
+|t:|1641737393
+|switch|p2a: Barraskewda|Barraskewda, F|100/100|[from]move: U-turn
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641737401
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Barraskewda|Liquidation|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|70/100
+|-damage|p2a: Barraskewda|76/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|76/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641737414
+|move|p2a: Barraskewda|Liquidation|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|47/100
+|-damage|p2a: Barraskewda|64/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Barraskewda
+|-sidestart|p2: SL21CC Pichiu|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|53/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641737437
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Body Press|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|65/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|59/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641737442
+|move|p2a: Pelipper|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: SL21CC Pichiu|Spikes|[from] move: Defog|[of] p2a: Pelipper
+|-sideend|p2: SL21CC Pichiu|Stealth Rock|[from] move: Defog|[of] p2a: Pelipper
+|move|p1a: Ferrothorn|Spikes|p2a: Pelipper
+|-sidestart|p2: SL21CC Pichiu|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|65/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641737447
+|switch|p2a: Volcanion|Volcanion|100/100
+|-damage|p2a: Volcanion|88/100|[from] Spikes
+|move|p1a: Ferrothorn|Spikes|p2a: Volcanion
+|-sidestart|p2: SL21CC Pichiu|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|71/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|j| SL21CCxiaomiaomiao
+|
+|t:|1641737455
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|17/100
+|-status|p1a: Dragapult|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Dragapult|11/100 brn|[from] brn
+|upkeep
+|turn|8
+|j| shandianxuanfengpi
+|
+|t:|1641737465
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|84/100|[from] Spikes
+|move|p1a: Dragapult|Draco Meteor|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|64/100
+|-unboost|p1a: Dragapult|spa|2
+|
+|-weather|none
+|-damage|p1a: Dragapult|5/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641737470
+|move|p1a: Dragapult|Draco Meteor|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|53/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Melmetal|Double Iron Bash|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-hitcount|p1: Dragapult|1
+|
+|upkeep
+|
+|t:|1641737473
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|10
+|
+|t:|1641737498
+|move|p1a: Urshifu|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641737501
+|switch|p2a: Pelipper|Pelipper, F|65/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|11
+|
+|t:|1641737505
+|switch|p1a: Ferrothorn|Ferrothorn, M|71/100
+|move|p2a: Pelipper|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|65/100
+|-damage|p2a: Pelipper|52/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641737507
+|switch|p2a: Volcanion|Volcanion|88/100|[from]move: U-turn
+|-damage|p2a: Volcanion|72/100|[from] Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|71/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641737517
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Blissey
+|-damage|p1a: Blissey|53/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641737523
+|move|p2a: Volcanion|Steam Eruption|p1a: Blissey
+|-damage|p1a: Blissey|5/100
+|-status|p1a: Blissey|brn
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|55/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Blissey|49/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641737530
+|move|p2a: Volcanion|Steam Eruption|p1a: Blissey
+|-damage|p1a: Blissey|1/100 brn
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641737536
+|-curestatus|p1a: Blissey|brn|[from] ability: Natural Cure
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: Teleport
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641737548
+|switch|p2a: Barraskewda|Barraskewda, F|64/100
+|-damage|p2a: Barraskewda|48/100|[from] Spikes
+|move|p1a: Urshifu|U-turn|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|t:|1641737552
+|switch|p1a: Ferrothorn|Ferrothorn, M|71/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641737557
+|switch|p2a: Volcanion|Volcanion|72/100
+|-damage|p2a: Volcanion|55/100|[from] Spikes
+|turn|16
+|
+|t:|1641737559
+|switch|p1a: Blissey|Blissey, F|1/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641737561
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|17
+|
+|t:|1641737567
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|move|p1a: Urshifu|Close Combat|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|73/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641737574
+|switch|p1a: Ferrothorn|Ferrothorn, M|77/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|83/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641737578
+|switch|p2a: Pelipper|Pelipper, F|52/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Ferrothorn|Leech Seed|p2a: Pelipper
+|-start|p2a: Pelipper|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|89/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|40/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|20
+|
+|t:|1641737582
+|switch|p1a: Landorus|Landorus-Therian, M|98/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Pelipper|atk|1
+|move|p2a: Pelipper|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p2: SL21CC Pichiu|Spikes|[from] move: Defog|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|27/100|[from] Leech Seed|[of] p1a: Landorus
+|-heal|p1a: Landorus|100/100|[silent]
+|upkeep
+|turn|21
+|
+|t:|1641737586
+|switch|p2a: Volcanion|Volcanion|55/100
+|move|p1a: Landorus|Stealth Rock|p2a: Volcanion
+|-sidestart|p2: SL21CC Pichiu|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1641737594
+|switch|p1a: Bisharp|Bisharp, M, shiny|100/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641737595
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|23
+|
+|t:|1641737600
+|move|p1a: Urshifu|Close Combat|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Volcanion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641737601
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|-damage|p2a: Seismitoad|94/100|[from] Stealth Rock
+|turn|24
+|j|♚aro nova
+|
+|t:|1641737610
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Seismitoad|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|61/100
+|-damage|p2a: Seismitoad|84/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|67/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641737616
+|move|p2a: Seismitoad|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|27/100
+|-unboost|p1a: Ferrothorn|spd|1
+|-damage|p2a: Seismitoad|74/100|[from] item: Life Orb
+|move|p1a: Ferrothorn|Leech Seed|p2a: Seismitoad|[miss]
+|-miss|p1a: Ferrothorn|p2a: Seismitoad
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|33/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641737630
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Seismitoad|Weather Ball|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|42/100
+|-damage|p2a: Seismitoad|64/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|27
+|
+|t:|1641737635
+|switch|p2a: Pelipper|Pelipper, F|27/100
+|-damage|p2a: Pelipper|3/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Urshifu|Surging Strikes|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-hitcount|p2: Pelipper|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641737637
+|switch|p2a: Seismitoad|Seismitoad, F|64/100
+|-damage|p2a: Seismitoad|58/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641737650
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Seismitoad|atk|1
+|move|p2a: Seismitoad|Weather Ball|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Seismitoad|48/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641737652
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|42/100
+|turn|29
+|
+|t:|1641737655
+|move|p1a: Urshifu|Aqua Jet|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641737658
+|switch|p2a: Dragonite|Dragonite, F|73/100
+|turn|30
+|inactive|SL21CC Pichiu has 120 seconds left.
+|inactive|SL21CC Pichiu has 90 seconds left.
+|inactive|jingtianlangtaosha has 120 seconds left.
+|
+|t:|1641737744
+|switch|p1a: Ferrothorn|Ferrothorn, M|33/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|39/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641737750
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|20/100
+|-damage|p2a: Dragonite|60/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|2/100
+|-damage|p2a: Dragonite|48/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-hitcount|p1a: Ferrothorn|2
+|move|p1a: Ferrothorn|Leech Seed|p2a: Dragonite
+|-start|p2a: Dragonite|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|8/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|35/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|19/100|[silent]
+|upkeep
+|turn|32
+|inactive|jingtianlangtaosha has 120 seconds left.
+|
+|t:|1641737763
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Ferrothorn|[miss]
+|-miss|p2a: Dragonite|p1a: Ferrothorn
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|win|jingtianlangtaosha
+|raw|jingtianlangtaosha's rating: 1311 &rarr; <strong>1323</strong><br />(+12 for winning)
+|raw|SL21CC Pichiu's rating: 1228 &rarr; <strong>1216</strong><br />(-12 for losing)
+|l|☆jingtianlangtaosha
+|c|☆SL21CC Pichiu|wtf?
+|l|☆SL21CC Pichiu
+|l| SL21CCxiaomiaomiao

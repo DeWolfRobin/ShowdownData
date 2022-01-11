@@ -1,0 +1,291 @@
+|j|☆Nico Nico Nidoking
+|j|☆CoolLoserTheLoser
+|t:|1641869199
+|gametype|singles
+|player|p1|Nico Nico Nidoking|lass|1063
+|player|p2|CoolLoserTheLoser|ethan|1060
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Skarmory, F|
+|poke|p1|Heatran, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Tapu Lele|
+|poke|p1|Dragapult, F|
+|poke|p2|Gengar, M|
+|poke|p2|Zoroark, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Scizor, M|
+|poke|p2|Chansey, F|
+|poke|p2|Avalugg, M|
+|teampreview
+|j| AdminGalaxie
+|c|☆Nico Nico Nidoking|hey spectator
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Nico Nico Nidoking)
+|
+|t:|1641869237
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: titanic is no more|Avalugg, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: titanic is no more|atk|1
+|turn|1
+|
+|t:|1641869248
+|move|p2a: titanic is no more|Nasty Plot|p2a: titanic is no more
+|-boost|p2a: titanic is no more|spa|2
+|move|p1a: Landorus|Knock Off|p2a: titanic is no more
+|-resisted|p2a: titanic is no more
+|-damage|p2a: titanic is no more|68/100
+|replace|p2a: Jebaited|Zoroark, M, shiny
+|-end|p2a: Jebaited|Illusion
+|-enditem|p2a: Jebaited|Life Orb|[from] move: Knock Off|[of] p1a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1641869257
+|move|p2a: Jebaited|Dark Pulse|p1a: Landorus
+|-damage|p1a: Landorus|44/100
+|cant|p1a: Landorus|flinch
+|
+|-heal|p1a: Landorus|50/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641869264
+|switch|p1a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Jebaited|Dark Pulse|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|41/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641869277
+|move|p2a: Jebaited|Sludge Bomb|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641869280
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|5
+|
+|t:|1641869288
+|move|p1a: Dragapult|Draco Meteor|p2a: Jebaited|[miss]
+|-miss|p1a: Dragapult|p2a: Jebaited
+|move|p2a: Jebaited|Dark Pulse|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|c|☆CoolLoserTheLoser|oof
+|c|☆Nico Nico Nidoking|astonishing luck
+|
+|t:|1641869297
+|switch|p1a: Rotom|Rotom-Wash, shiny|100/100
+|turn|6
+|
+|t:|1641869301
+|move|p1a: Rotom|Hydro Pump|p2a: Jebaited
+|-damage|p2a: Jebaited|0 fnt
+|faint|p2a: Jebaited
+|
+|upkeep
+|
+|t:|1641869309
+|switch|p2a: Gengster|Gengar, M, shiny|100/100
+|turn|7
+|
+|t:|1641869313
+|move|p1a: Rotom|Hydro Pump|p2a: Gengster
+|-damage|p2a: Gengster|37/100
+|move|p2a: Gengster|Giga Drain|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|15/100
+|-heal|p2a: Gengster|87/100|[from] drain|[of] p1a: Rotom
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|8
+|
+|t:|1641869321
+|move|p1a: Rotom|Hydro Pump|p2a: Gengster
+|-damage|p2a: Gengster|23/100
+|move|p2a: Gengster|Giga Drain|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|-heal|p2a: Gengster|32/100|[from] drain|[of] p1a: Rotom
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1641869335
+|switch|p1a: Heatran|Heatran, F, shiny|100/100
+|turn|9
+|
+|t:|1641869339
+|switch|p2a: is floatin|Landorus-Therian, M|100/100
+|-ability|p2a: is floatin|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Earth Power|p2a: is floatin
+|-immune|p2a: is floatin
+|
+|upkeep
+|turn|10
+|c|☆Nico Nico Nidoking|not my game...
+|
+|t:|1641869350
+|move|p2a: is floatin|Stealth Rock|p1a: Heatran
+|-sidestart|p1: Nico Nico Nidoking|move: Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: is floatin|[miss]
+|-miss|p1a: Heatran|p2a: is floatin
+|
+|upkeep
+|turn|11
+|c|☆Nico Nico Nidoking|yeah
+|c|☆Nico Nico Nidoking|my luck
+|
+|t:|1641869368
+|move|p2a: is floatin|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641869372
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|turn|12
+|c|☆CoolLoserTheLoser|rng screws us all
+|
+|t:|1641869380
+|move|p2a: is floatin|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|85/100
+|-damage|p2a: is floatin|84/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|t:|1641869391
+|switch|p2a: titanic is no more|Avalugg, M, shiny|100/100|[from]move: U-turn
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|13
+|
+|t:|1641869398
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|move|p2a: titanic is no more|Icy Wind|p1a: Skarmory
+|-damage|p1a: Skarmory|88/100
+|-unboost|p1a: Skarmory|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641869405
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|move|p2a: titanic is no more|Icy Wind|p1a: Skarmory
+|-damage|p1a: Skarmory|75/100
+|-unboost|p1a: Skarmory|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641869413
+|move|p2a: titanic is no more|Icy Wind|p1a: Skarmory
+|-damage|p1a: Skarmory|61/100
+|-unboost|p1a: Skarmory|spe|1
+|move|p1a: Skarmory|Body Press|p2a: titanic is no more
+|-supereffective|p2a: titanic is no more
+|-damage|p2a: titanic is no more|12/100
+|
+|-heal|p2a: titanic is no more|18/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641869424
+|move|p2a: titanic is no more|Icy Wind|p1a: Skarmory
+|-damage|p1a: Skarmory|47/100
+|-unboost|p1a: Skarmory|spe|1
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|97/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-heal|p2a: titanic is no more|25/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641869433
+|move|p2a: titanic is no more|Icy Wind|p1a: Skarmory|[miss]
+|-miss|p2a: titanic is no more|p1a: Skarmory
+|move|p1a: Skarmory|Body Press|p2a: titanic is no more
+|-supereffective|p2a: titanic is no more
+|-damage|p2a: titanic is no more|0 fnt
+|faint|p2a: titanic is no more
+|
+|upkeep
+|
+|t:|1641869440
+|switch|p2a: Gengster|Gengar, M, shiny|32/100
+|turn|18
+|
+|t:|1641869446
+|move|p2a: Gengster|Shadow Ball|p1a: Skarmory
+|-damage|p1a: Skarmory|12/100
+|-unboost|p1a: Skarmory|spd|1
+|move|p1a: Skarmory|Spikes|p2a: Gengster
+|-sidestart|p2: CoolLoserTheLoser|Spikes
+|
+|upkeep
+|turn|19
+|
+|t:|1641869452
+|move|p2a: Gengster|Shadow Ball|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1641869454
+|switch|p1a: Landorus|Landorus-Therian, M|50/100
+|-damage|p1a: Landorus|37/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Gengster|atk|1
+|turn|20
+|
+|t:|1641869460
+|move|p2a: Gengster|Shadow Ball|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|win|CoolLoserTheLoser
+|raw|Nico Nico Nidoking's rating: 1063 &rarr; <strong>1043</strong><br />(-20 for losing)
+|raw|CoolLoserTheLoser's rating: 1060 &rarr; <strong>1091</strong><br />(+31 for winning)
+|c|☆CoolLoserTheLoser|gg
+|c|☆Nico Nico Nidoking|i would say gg but rngesus fed you the win like a mama bird
+|c|☆CoolLoserTheLoser|i missed icy wind
+|c|☆Nico Nico Nidoking|once
+|c|☆CoolLoserTheLoser|xd
+|c|☆Nico Nico Nidoking|im gonna not play this game for like a week now
+|c|☆Nico Nico Nidoking|adios
+|c|☆CoolLoserTheLoser|yea man i don't get to choose whether or not rng feeds me
+|l|☆Nico Nico Nidoking

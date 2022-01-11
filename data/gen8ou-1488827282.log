@@ -1,0 +1,72 @@
+|j|☆cayhe
+|j|☆Knobility
+|t:|1641826531
+|gametype|singles
+|player|p1|cayhe|youngster-gen4dp|1031
+|player|p2|Knobility|265|1000
+|teamsize|p1|6
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Cramorant, F|
+|poke|p1|Zeraora|
+|poke|p1|Registeel|
+|poke|p1|Regirock|
+|poke|p1|Dracozolt|
+|poke|p1|Duraludon, M|
+|poke|p2|Kommo-o, F|
+|teampreview
+|
+|t:|1641826536
+|start
+|switch|p1a: Cramorant|Cramorant, F|100/100
+|switch|p2a: Kommo-o|Kommo-o, F, shiny|100/100
+|turn|1
+|
+|t:|1641826544
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|75/100
+|move|p1a: Cramorant|Surf|p2a: Kommo-o
+|-formechange|p1a: Cramorant|Cramorant-Gulping|
+|-resisted|p2a: Kommo-o
+|-activate|p2a: Kommo-o|move: Substitute|[damage]
+|
+|upkeep
+|turn|2
+|
+|t:|1641826555
+|move|p2a: Kommo-o|Belly Drum|p2a: Kommo-o
+|-damage|p2a: Kommo-o|25/100
+|-setboost|p2a: Kommo-o|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Kommo-o|Salac Berry|[eat]
+|-boost|p2a: Kommo-o|spe|1|[from] item: Salac Berry
+|move|p1a: Cramorant|Drill Peck|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|upkeep
+|turn|3
+|
+|t:|1641826565
+|move|p2a: Kommo-o|Thunder Punch|p1a: Cramorant
+|-supereffective|p1a: Cramorant
+|-damage|p1a: Cramorant|0 fnt
+|-damage|p2a: Kommo-o|0 fnt|[from] ability: Gulp Missile|[of] p1a: Cramorant
+|-formechange|p1a: Cramorant|Cramorant|
+|faint|p1a: Cramorant
+|faint|p2a: Kommo-o
+|
+|win|cayhe
+|raw|cayhe's rating: 1031 &rarr; <strong>1063</strong><br />(+32 for winning)
+|raw|Knobility's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆cayhe

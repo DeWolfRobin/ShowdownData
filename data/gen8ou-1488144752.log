@@ -1,0 +1,363 @@
+|j|☆Yeah Star
+|j|☆Fred Bluntstone
+|t:|1641721246
+|gametype|singles
+|player|p1|Yeah Star|candice|1092
+|player|p2|Fred Bluntstone|2|1126
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Mimikyu, M|
+|poke|p2|Cobalion|
+|poke|p2|Orbeetle, M|
+|poke|p2|Azumarill, M|
+|poke|p2|Seismitoad, F|
+|poke|p2|Talonflame, F|
+|poke|p2|Toxtricity, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yeah Star)
+|
+|t:|1641721256
+|start
+|switch|p1a: Kitsu|Ninetales-Alola, F, shiny|100/100
+|switch|p2a: Talonflame|Talonflame, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Kitsu
+|turn|1
+|
+|t:|1641721269
+|switch|p2a: Orbeetle|Orbeetle, M|100/100
+|-item|p1a: Kitsu|Light Clay|[from] ability: Frisk|[of] p2a: Orbeetle|[identify]
+|move|p1a: Kitsu|Aurora Veil|p1a: Kitsu
+|-sidestart|p1: Yeah Star|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Orbeetle|94/100|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641721281
+|move|p1a: Kitsu|Freeze-Dry|p2a: Orbeetle
+|-damage|p2a: Orbeetle|77/100
+|move|p2a: Orbeetle|Light Screen|p2a: Orbeetle
+|-sidestart|p2: Fred Bluntstone|move: Light Screen
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Orbeetle|71/100|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1641721290
+|switch|p1a: Flailheart|Ferrothorn, M|100/100
+|move|p2a: Orbeetle|Sticky Web|p1a: Flailheart
+|-sidestart|p1: Yeah Star|move: Sticky Web
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Orbeetle|65/100|[from] Hail
+|-damage|p1a: Flailheart|94/100|[from] Hail
+|-heal|p1a: Flailheart|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641721298
+|move|p2a: Orbeetle|Reflect|p2a: Orbeetle
+|-sidestart|p2: Fred Bluntstone|Reflect
+|move|p1a: Flailheart|Stealth Rock|p2a: Orbeetle
+|-sidestart|p2: Fred Bluntstone|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Orbeetle|59/100|[from] Hail
+|-damage|p1a: Flailheart|94/100|[from] Hail
+|-heal|p1a: Flailheart|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641721308
+|switch|p2a: Talonflame|Talonflame, F|100/100
+|move|p1a: Flailheart|Knock Off|p2a: Talonflame
+|-damage|p2a: Talonflame|83/100
+|-enditem|p2a: Talonflame|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Flailheart
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641721329
+|move|p2a: Talonflame|Flare Blitz|p1a: Flailheart
+|-supereffective|p1a: Flailheart
+|-damage|p1a: Flailheart|33/100
+|-damage|p2a: Talonflame|71/100|[from] ability: Iron Barbs|[of] p1a: Flailheart
+|-damage|p2a: Talonflame|45/100|[from] Recoil
+|move|p1a: Flailheart|Gyro Ball|p2a: Talonflame
+|-resisted|p2a: Talonflame
+|-damage|p2a: Talonflame|26/100
+|
+|-heal|p1a: Flailheart|40/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641721342
+|switch|p2a: Toxtricity|Toxtricity, F|100/100
+|-damage|p2a: Toxtricity|88/100|[from] Stealth Rock
+|switch|p1a: Tarmiel|Toxapex, F|100/100
+|-activate|p1a: Tarmiel|move: Sticky Web
+|-unboost|p1a: Tarmiel|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641721363
+|move|p2a: Toxtricity|Volt Switch|p1a: Tarmiel
+|-supereffective|p1a: Tarmiel
+|-damage|p1a: Tarmiel|54/100
+|
+|t:|1641721376
+|switch|p2a: Cobalion|Cobalion|100/100|[from]move: Volt Switch
+|-damage|p2a: Cobalion|97/100|[from] Stealth Rock
+|move|p1a: Tarmiel|Scald|p2a: Cobalion
+|-damage|p2a: Cobalion|85/100
+|
+|-heal|p1a: Tarmiel|60/100|[from] item: Black Sludge
+|-sideend|p1: Yeah Star|move: Aurora Veil
+|upkeep
+|turn|9
+|inactive|Fred Bluntstone has 120 seconds left.
+|inactive|Yeah Star has 120 seconds left.
+|
+|t:|1641721402
+|switch|p2a: Toxtricity|Toxtricity, F|88/100
+|-damage|p2a: Toxtricity|76/100|[from] Stealth Rock
+|move|p1a: Tarmiel|Recover|p1a: Tarmiel
+|-heal|p1a: Tarmiel|100/100
+|
+|-sideend|p2: Fred Bluntstone|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641721411
+|move|p2a: Toxtricity|Overdrive|p1a: Tarmiel
+|-supereffective|p1a: Tarmiel
+|-damage|p1a: Tarmiel|0 fnt
+|faint|p1a: Tarmiel
+|
+|upkeep
+|inactive|Yeah Star has 120 seconds left.
+|
+|t:|1641721439
+|switch|p1a: B-15|Dragapult, F|100/100
+|-activate|p1a: B-15|move: Sticky Web
+|-unboost|p1a: B-15|spe|1
+|turn|11
+|
+|t:|1641721459
+|switch|p2a: Orbeetle|Orbeetle, M|59/100
+|-damage|p2a: Orbeetle|34/100|[from] Stealth Rock
+|-item|p1a: B-15|Expert Belt|[from] ability: Frisk|[of] p2a: Orbeetle|[identify]
+|move|p1a: B-15|Fire Blast|p2a: Orbeetle
+|-supereffective|p2a: Orbeetle
+|-damage|p2a: Orbeetle|0 fnt
+|faint|p2a: Orbeetle
+|
+|-sideend|p2: Fred Bluntstone|Reflect
+|upkeep
+|inactive|Fred Bluntstone has 120 seconds left.
+|
+|t:|1641721471
+|switch|p2a: Azumarill|Azumarill, M|100/100
+|-damage|p2a: Azumarill|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641721477
+|move|p1a: B-15|Thunderbolt|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|8/100
+|-status|p2a: Azumarill|par
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|33/100 par|[from] item: Sitrus Berry
+|move|p2a: Azumarill|Knock Off|p1a: B-15
+|-supereffective|p1a: B-15
+|-damage|p1a: B-15|0 fnt
+|-enditem|p1a: B-15|Expert Belt|[from] move: Knock Off|[of] p2a: Azumarill
+|faint|p1a: B-15
+|
+|upkeep
+|
+|t:|1641721494
+|switch|p1a: Crimson Boar|Mimikyu, M, shiny|100/100
+|-activate|p1a: Crimson Boar|move: Sticky Web
+|-unboost|p1a: Crimson Boar|spe|1
+|turn|13
+|
+|t:|1641721499
+|move|p1a: Crimson Boar|Shadow Sneak|p2a: Azumarill
+|-crit|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|-damage|p1a: Crimson Boar|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641721508
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|-damage|p2a: Seismitoad|94/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641721521
+|move|p1a: Crimson Boar|Swords Dance|p1a: Crimson Boar
+|-boost|p1a: Crimson Boar|atk|2
+|move|p2a: Seismitoad|Liquidation|p1a: Crimson Boar
+|-activate|p1a: Crimson Boar|ability: Disguise
+|-damage|p1a: Crimson Boar|91/100
+|-status|p1a: Crimson Boar|psn|[from] ability: Poison Touch|[of] p2a: Seismitoad
+|detailschange|p1a: Crimson Boar|Mimikyu-Busted, M, shiny
+|-damage|p1a: Crimson Boar|78/100 psn|[from] pokemon: Mimikyu-Busted
+|
+|-damage|p1a: Crimson Boar|66/100 psn|[from] psn
+|upkeep
+|turn|15
+|inactive|Yeah Star has 90 seconds left.
+|
+|t:|1641721551
+|move|p1a: Crimson Boar|Play Rough|p2a: Seismitoad
+|-damage|p2a: Seismitoad|17/100
+|-damage|p1a: Crimson Boar|50/100 psn|[from] item: Rocky Helmet|[of] p2a: Seismitoad
+|-damage|p1a: Crimson Boar|40/100 psn|[from] item: Life Orb
+|move|p2a: Seismitoad|Liquidation|p1a: Crimson Boar
+|-damage|p1a: Crimson Boar|0 fnt
+|faint|p1a: Crimson Boar
+|
+|upkeep
+|
+|t:|1641721562
+|switch|p1a: Kitsu|Ninetales-Alola, F, shiny|100/100
+|-activate|p1a: Kitsu|move: Sticky Web
+|-unboost|p1a: Kitsu|spe|1
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Kitsu
+|turn|16
+|
+|t:|1641721570
+|move|p1a: Kitsu|Freeze-Dry|p2a: Seismitoad
+|-supereffective|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641721575
+|switch|p2a: Talonflame|Talonflame, F|26/100
+|-damage|p2a: Talonflame|0 fnt|[from] Stealth Rock
+|faint|p2a: Talonflame
+|
+|t:|1641721586
+|switch|p2a: Cobalion|Cobalion|85/100
+|-damage|p2a: Cobalion|82/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641721610
+|move|p2a: Cobalion|Stone Edge|p1a: Kitsu
+|-supereffective|p1a: Kitsu
+|-damage|p1a: Kitsu|27/100
+|move|p1a: Kitsu|Aurora Veil|p1a: Kitsu
+|-sidestart|p1: Yeah Star|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Cobalion|76/100|[from] Hail
+|upkeep
+|turn|18
+|inactive|Yeah Star has 90 seconds left.
+|
+|t:|1641721633
+|move|p2a: Cobalion|Stone Edge|p1a: Kitsu
+|-supereffective|p1a: Kitsu
+|-damage|p1a: Kitsu|0 fnt
+|faint|p1a: Kitsu
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Cobalion|70/100|[from] Hail
+|upkeep
+|inactive|Yeah Star has 90 seconds left.
+|
+|t:|1641721641
+|switch|p1a: Flailheart|Ferrothorn, M|40/100
+|-activate|p1a: Flailheart|move: Sticky Web
+|-unboost|p1a: Flailheart|spe|1
+|turn|19
+|
+|t:|1641721656
+|move|p2a: Cobalion|Close Combat|p1a: Flailheart
+|-supereffective|p1a: Flailheart
+|-damage|p1a: Flailheart|4/100
+|-unboost|p2a: Cobalion|def|1
+|-unboost|p2a: Cobalion|spd|1
+|-damage|p2a: Cobalion|57/100|[from] ability: Iron Barbs|[of] p1a: Flailheart
+|move|p1a: Flailheart|Knock Off|p2a: Cobalion
+|-resisted|p2a: Cobalion
+|-damage|p2a: Cobalion|44/100
+|-ability|p2a: Cobalion|Justified|boost
+|-boost|p2a: Cobalion|atk|1
+|-enditem|p2a: Cobalion|Shuca Berry|[from] move: Knock Off|[of] p1a: Flailheart
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Cobalion|38/100|[from] Hail
+|-damage|p1a: Flailheart|0 fnt|[from] Hail
+|faint|p1a: Flailheart
+|upkeep
+|inactive|Yeah Star has 90 seconds left.
+|
+|t:|1641721670
+|switch|p1a: Bone Zone|Magnezone|100/100
+|-activate|p1a: Bone Zone|move: Sticky Web
+|-unboost|p1a: Bone Zone|spe|1
+|turn|20
+|inactive|Yeah Star has 90 seconds left.
+|
+|t:|1641721684
+|move|p2a: Cobalion|Close Combat|p1a: Bone Zone
+|-supereffective|p1a: Bone Zone
+|-damage|p1a: Bone Zone|36/100
+|-unboost|p2a: Cobalion|def|1
+|-unboost|p2a: Cobalion|spd|1
+|-enditem|p1a: Bone Zone|Weakness Policy
+|-boost|p1a: Bone Zone|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Bone Zone|spa|2|[from] item: Weakness Policy
+|move|p1a: Bone Zone|Thunder|p2a: Cobalion
+|-damage|p2a: Cobalion|0 fnt
+|faint|p2a: Cobalion
+|
+|-weather|none
+|upkeep
+|
+|t:|1641721695
+|switch|p2a: Toxtricity|Toxtricity, F|76/100
+|-damage|p2a: Toxtricity|63/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641721705
+|move|p2a: Toxtricity|Boomburst|p1a: Bone Zone
+|-resisted|p1a: Bone Zone
+|-damage|p1a: Bone Zone|12/100
+|move|p1a: Bone Zone|Steel Beam|p2a: Toxtricity|[miss]
+|-miss|p1a: Bone Zone|p2a: Toxtricity
+|-damage|p1a: Bone Zone|0 fnt|[from] steelbeam
+|faint|p1a: Bone Zone
+|
+|win|Fred Bluntstone
+|raw|Yeah Star's rating: 1092 &rarr; <strong>1071</strong><br />(-21 for losing)
+|raw|Fred Bluntstone's rating: 1126 &rarr; <strong>1149</strong><br />(+23 for winning)
+|c|☆Yeah Star|GG!
+|c|☆Fred Bluntstone|gg

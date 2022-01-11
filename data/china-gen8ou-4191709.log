@@ -1,0 +1,995 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Leviathan
+|j|☆sl21cc buhuiying
+|t:|1641823869
+|gametype|singles
+|player|p1|SL21CC Leviathan|guitarist|1223
+|player|p2|sl21cc buhuiying|YZII.jpg|1167
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowking, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Clefable, M|
+|poke|p1|Buzzwole|
+|poke|p1|Zapdos|
+|poke|p2|Gastrodon-East, M|
+|poke|p2|Reuniclus, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Buzzwole|
+|teampreview
+|j| SL21CC sadfrog
+|
+|t:|1641823889
+|start
+|switch|p1a: Slowking|Slowking, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|1
+|
+|t:|1641823897
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Slowking|Scald|p2a: Tornadus
+|-damage|p2a: Tornadus|73/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641823901
+|move|p2a: Tornadus|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|64/100
+|-enditem|p1a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Slowking|Scald|p2a: Tornadus
+|-damage|p2a: Tornadus|46/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641823905
+|move|p2a: Tornadus|U-turn|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|37/100
+|
+|t:|1641823908
+|switch|p2a: Gastrodon|Gastrodon-East, M|100/100|[from]move: U-turn
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641823912
+|switch|p1a: Clefable|Clefable, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|4
+|
+|t:|1641823918
+|switch|p2a: Reuniclus|Reuniclus, F|100/100
+|move|p1a: Clefable|Trick|p2a: Reuniclus
+|-activate|p1a: Clefable|move: Trick|[of] p2a: Reuniclus
+|-item|p2a: Reuniclus|Sticky Barb|[from] move: Trick
+|-item|p1a: Clefable|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|5
+|
+|t:|1641823926
+|switch|p1a: Slowking|Slowking, F|70/100
+|move|p2a: Reuniclus|Thunder|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|32/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641823936
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Reuniclus|Thunder|p1a: Clefable
+|-damage|p1a: Clefable|77/100
+|-status|p1a: Clefable|par
+|
+|-heal|p1a: Clefable|83/100 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641823945
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1a: Clefable|par|[msg]
+|
+|-heal|p1a: Clefable|89/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641823953
+|move|p1a: Clefable|Moonblast|p2a: Reuniclus
+|-damage|p2a: Reuniclus|80/100
+|move|p2a: Reuniclus|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|46/100
+|
+|-heal|p1a: Clefable|52/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641823960
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641823965
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|move|p2a: Reuniclus|Thunder|p1a: Excadrill
+|-immune|p1a: Excadrill
+|
+|upkeep
+|turn|11
+|j| adreamew
+|
+|t:|1641823971
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Excadrill|Iron Head|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|81/100
+|
+|-heal|p2a: Corviknight|87/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641823984
+|switch|p2a: Tornadus|Tornadus-Therian, M|79/100
+|move|p1a: Excadrill|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: sl21cc buhuiying|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1641823994
+|switch|p1a: Slowking|Slowking, F|65/100
+|move|p2a: Tornadus|Defog|p1a: Slowking
+|-unboost|p1a: Slowking|evasion|1
+|-sideend|p2: sl21cc buhuiying|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|
+|upkeep
+|turn|14
+|
+|t:|1641824001
+|move|p2a: Tornadus|Hurricane|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|25/100
+|-start|p1a: Slowking|confusion
+|-activate|p1a: Slowking|confusion
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824019
+|switch|p1a: Tyranitar|Tyranitar, F|100/100|[from]move: Teleport
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|73/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641824028
+|move|p2a: Tornadus|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|71/100
+|
+|t:|1641824034
+|switch|p2a: Corviknight|Corviknight, F|87/100|[from]move: U-turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tyranitar|Rock Blast|p2a: Corviknight
+|-damage|p2a: Corviknight|68/100
+|-damage|p2a: Corviknight|52/100
+|-damage|p2a: Corviknight|34/100
+|-hitcount|p2a: Corviknight|3
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Corviknight|40/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641824039
+|move|p1a: Tyranitar|Rock Blast|p2a: Corviknight
+|-damage|p2a: Corviknight|23/100
+|-damage|p2a: Corviknight|5/100
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-hitcount|p2: Corviknight|3
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641824044
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|17
+|
+|t:|1641824065
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Buzzwole|Drain Punch|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|86/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|94/100|[from] Sandstorm
+|-heal|p1a: Clefable|92/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641824071
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Clefable|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|96/100
+|
+|-weather|none
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-heal|p1a: Clefable|98/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641824082
+|switch|p1a: Tyranitar|Tyranitar, F|71/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Heatran|Stealth Rock|p1a: Tyranitar
+|-sidestart|p1: SL21CC Leviathan|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641824087
+|switch|p2a: Buzzwole|Buzzwole|94/100
+|move|p1a: Tyranitar|Rock Blast|p2a: Buzzwole
+|-damage|p2a: Buzzwole|83/100
+|-damage|p2a: Buzzwole|72/100
+|-damage|p2a: Buzzwole|61/100
+|-hitcount|p2a: Buzzwole|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|55/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1641824093
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|100/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|94/100|[from] Sandstorm
+|-damage|p2a: Buzzwole|94/100|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1641824098
+|switch|p2a: Gastrodon|Gastrodon-East, M|100/100
+|move|p1a: Zapdos|Defog|p2a: Gastrodon
+|-unboost|p2a: Gastrodon|evasion|1
+|-sideend|p1: SL21CC Leviathan|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|88/100|[from] Sandstorm
+|upkeep
+|turn|23
+|
+|t:|1641824105
+|switch|p1a: Slowking|Slowking, F|58/100
+|move|p2a: Gastrodon|Scald|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|51/100
+|
+|-weather|none
+|upkeep
+|turn|24
+|
+|t:|1641824113
+|switch|p2a: Buzzwole|Buzzwole|94/100
+|move|p1a: Slowking|Future Sight|p2a: Buzzwole
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|25
+|
+|t:|1641824121
+|switch|p1a: Zapdos|Zapdos|88/100
+|move|p2a: Buzzwole|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-damage|p1a: Zapdos|82/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641824129
+|switch|p1a: Tyranitar|Tyranitar, F|71/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|switch|p2a: Heatran|Heatran, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p2a: Heatran|move: Future Sight
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|87/100
+|-heal|p2a: Heatran|93/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641824135
+|switch|p2a: Buzzwole|Buzzwole|94/100
+|switch|p1a: Slowking|Slowking, F|84/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|88/100|[from] Sandstorm
+|-damage|p1a: Slowking|78/100|[from] Sandstorm
+|upkeep
+|turn|28
+|
+|t:|1641824142
+|switch|p2a: Gastrodon|Gastrodon-East, M|100/100
+|move|p1a: Slowking|Future Sight|p2a: Gastrodon
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowking|72/100|[from] Sandstorm
+|upkeep
+|turn|29
+|
+|t:|1641824148
+|move|p2a: Gastrodon|Scald|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|65/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824152
+|switch|p1a: Tyranitar|Tyranitar, F|71/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1641824159
+|move|p1a: Tyranitar|Crunch|p2a: Gastrodon
+|-damage|p2a: Gastrodon|27/100
+|-unboost|p2a: Gastrodon|def|1
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|77/100
+|
+|-weather|none
+|-end|p2a: Gastrodon|move: Future Sight
+|-damage|p2a: Gastrodon|48/100
+|upkeep
+|turn|31
+|
+|t:|1641824171
+|switch|p2a: Buzzwole|Buzzwole|88/100
+|move|p1a: Tyranitar|Crunch|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|69/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641824174
+|switch|p2a: Gastrodon|Gastrodon-East, M|48/100
+|switch|p1a: Slowking|Slowking, F|98/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641824177
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|98/100
+|move|p1a: Slowking|Future Sight|p2a: Gastrodon
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|34
+|
+|t:|1641824181
+|switch|p2a: Buzzwole|Buzzwole|69/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824190
+|switch|p1a: Excadrill|Excadrill, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|35
+|
+|t:|1641824196
+|switch|p2a: Reuniclus|Reuniclus, F|80/100
+|move|p1a: Excadrill|Stealth Rock|p2a: Reuniclus
+|-sidestart|p2: sl21cc buhuiying|move: Stealth Rock
+|
+|-end|p2a: Reuniclus|move: Future Sight
+|-resisted|p2a: Reuniclus
+|-damage|p2a: Reuniclus|60/100
+|upkeep
+|turn|36
+|
+|t:|1641824201
+|move|p1a: Excadrill|Iron Head|p2a: Reuniclus
+|-damage|p2a: Reuniclus|28/100
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|78/100
+|
+|upkeep
+|turn|37
+|
+|t:|1641824205
+|switch|p2a: Buzzwole|Buzzwole|69/100
+|move|p1a: Excadrill|Iron Head|p2a: Buzzwole
+|-damage|p2a: Buzzwole|46/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641824208
+|move|p1a: Excadrill|Toxic|p2a: Buzzwole|[miss]
+|-miss|p1a: Excadrill|p2a: Buzzwole
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|96/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|upkeep
+|turn|39
+|
+|t:|1641824216
+|switch|p1a: Slowking|Slowking, F|100/100
+|switch|p2a: Reuniclus|Reuniclus, F|78/100
+|
+|upkeep
+|turn|40
+|
+|t:|1641824220
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824230
+|switch|p1a: Tyranitar|Tyranitar, F|71/100|[from]move: Teleport
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|94/100|[from] Sandstorm
+|upkeep
+|turn|41
+|
+|t:|1641824234
+|move|p2a: Tornadus|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|45/100
+|
+|t:|1641824237
+|switch|p2a: Buzzwole|Buzzwole|96/100|[from]move: U-turn
+|move|p1a: Tyranitar|Rock Blast|p2a: Buzzwole|[miss]
+|-miss|p1a: Tyranitar|p2a: Buzzwole
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|90/100|[from] Sandstorm
+|upkeep
+|turn|42
+|
+|t:|1641824241
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Buzzwole|Ice Punch|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|90/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|84/100|[from] Sandstorm
+|-damage|p1a: Slowking|84/100|[from] Sandstorm
+|upkeep
+|turn|43
+|
+|t:|1641824246
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Slowking|Future Sight|p2a: Tornadus
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|94/100|[from] Sandstorm
+|-damage|p1a: Slowking|78/100|[from] Sandstorm
+|upkeep
+|turn|44
+|
+|t:|1641824254
+|move|p2a: Tornadus|Defog|p1a: Slowking
+|-unboost|p1a: Slowking|evasion|1
+|-sideend|p2: sl21cc buhuiying|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824266
+|switch|p1a: Tyranitar|Tyranitar, F|45/100|[from]move: Teleport
+|
+|-weather|none
+|upkeep
+|turn|45
+|
+|t:|1641824291
+|move|p2a: Tornadus|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|19/100
+|
+|t:|1641824294
+|switch|p2a: Heatran|Heatran, M|93/100|[from]move: U-turn
+|move|p1a: Tyranitar|Crunch|p2a: Heatran
+|-damage|p2a: Heatran|36/100
+|
+|-end|p2a: Heatran|move: Future Sight
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|21/100
+|-heal|p2a: Heatran|28/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1641824303
+|switch|p2a: Buzzwole|Buzzwole|84/100
+|move|p1a: Tyranitar|Crunch|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|66/100
+|
+|upkeep
+|turn|47
+|
+|t:|1641824310
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|100/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|upkeep
+|turn|48
+|
+|t:|1641824317
+|move|p2a: Buzzwole|Toxic|p1a: Slowking
+|-status|p1a: Slowking|tox
+|move|p1a: Slowking|Scald|p2a: Buzzwole
+|-damage|p2a: Buzzwole|65/100
+|
+|-damage|p1a: Slowking|94/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1641824323
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824330
+|switch|p1a: Excadrill|Excadrill, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|50
+|
+|t:|1641824334
+|move|p2a: Tornadus|Knock Off|p1a: Excadrill
+|-damage|p1a: Excadrill|70/100
+|-enditem|p1a: Excadrill|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Excadrill|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|51
+|
+|t:|1641824338
+|switch|p1a: Slowking|Slowking, F|100/100 tox
+|move|p2a: Tornadus|U-turn|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|72/100 tox
+|
+|t:|1641824343
+|switch|p2a: Buzzwole|Buzzwole|65/100|[from]move: U-turn
+|
+|-damage|p1a: Slowking|65/100 tox|[from] psn
+|upkeep
+|turn|52
+|
+|t:|1641824353
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|100/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|move|p1a: Slowking|Future Sight|p2a: Buzzwole
+|-start|p1a: Slowking|move: Future Sight
+|
+|-damage|p1a: Slowking|53/100 tox|[from] psn
+|upkeep
+|turn|53
+|
+|t:|1641824355
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824359
+|switch|p1a: Excadrill|Excadrill, M|70/100|[from]move: Teleport
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|54
+|
+|t:|1641824362
+|move|p2a: Tornadus|U-turn|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-crit|p1a: Excadrill
+|-damage|p1a: Excadrill|55/100
+|
+|t:|1641824365
+|switch|p2a: Reuniclus|Reuniclus, F|78/100|[from]move: U-turn
+|move|p1a: Excadrill|Stealth Rock|p2a: Reuniclus
+|-sidestart|p2: sl21cc buhuiying|move: Stealth Rock
+|
+|-end|p2a: Reuniclus|move: Future Sight
+|-resisted|p2a: Reuniclus
+|-damage|p2a: Reuniclus|59/100
+|upkeep
+|turn|55
+|
+|t:|1641824367
+|move|p1a: Excadrill|Earthquake|p2a: Reuniclus
+|-damage|p2a: Reuniclus|13/100
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|63/100
+|
+|upkeep
+|turn|56
+|
+|t:|1641824370
+|move|p1a: Excadrill|Iron Head|p2a: Reuniclus
+|-damage|p2a: Reuniclus|30/100
+|cant|p2a: Reuniclus|flinch
+|
+|-damage|p1a: Excadrill|43/100|[from] item: Sticky Barb
+|upkeep
+|turn|57
+|
+|t:|1641824378
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Excadrill|Iron Head|p2a: Buzzwole
+|-damage|p2a: Buzzwole|78/100
+|
+|-damage|p1a: Excadrill|30/100|[from] item: Sticky Barb
+|upkeep
+|turn|58
+|
+|t:|1641824384
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p1a: Excadrill|Toxic|p2a: Tornadus
+|-fail|p2a: Tornadus|tox
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|-damage|p1a: Excadrill|18/100|[from] item: Sticky Barb
+|upkeep
+|turn|59
+|
+|t:|1641824402
+|switch|p1a: Clefable|Clefable, M|98/100
+|move|p2a: Tornadus|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|89/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|-damage|p2a: Tornadus|82/100 tox|[from] psn
+|upkeep
+|turn|60
+|
+|t:|1641824409
+|move|p2a: Tornadus|Defog|p1a: Clefable
+|-unboost|p1a: Clefable|evasion|1
+|-sideend|p2: sl21cc buhuiying|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1: Slowking|tox|[msg]
+|-curestatus|p1: Zapdos|tox|[msg]
+|
+|-damage|p2a: Tornadus|64/100 tox|[from] psn
+|upkeep
+|turn|61
+|
+|t:|1641824417
+|switch|p1a: Slowking|Slowking, F|87/100
+|move|p2a: Tornadus|U-turn|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|57/100
+|
+|t:|1641824423
+|switch|p2a: Reuniclus|Reuniclus, F|30/100|[from]move: U-turn
+|
+|upkeep
+|turn|62
+|
+|t:|1641824439
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|80/100
+|move|p1a: Slowking|Future Sight|p2a: Reuniclus
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|63
+|
+|t:|1641824442
+|switch|p2a: Tornadus|Tornadus-Therian, M|97/100 tox
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824448
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-damage|p2a: Tornadus|91/100 tox|[from] psn
+|upkeep
+|turn|64
+|
+|t:|1641824458
+|switch|p2a: Gastrodon|Gastrodon-East, M|98/100
+|move|p1a: Zapdos|Discharge|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|
+|-end|p2a: Gastrodon|move: Future Sight
+|-damage|p2a: Gastrodon|72/100
+|upkeep
+|turn|65
+|
+|t:|1641824464
+|switch|p1a: Slowking|Slowking, F|90/100
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|100/100
+|
+|upkeep
+|turn|66
+|
+|t:|1641824475
+|move|p2a: Gastrodon|Scald|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|83/100
+|move|p1a: Slowking|Future Sight|p2a: Gastrodon
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|67
+|
+|t:|1641824480
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824484
+|switch|p1a: Clefable|Clefable, M|89/100|[from]move: Teleport
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|68
+|
+|t:|1641824489
+|move|p2a: Tornadus|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|82/100
+|
+|t:|1641824493
+|switch|p2a: Reuniclus|Reuniclus, F|80/100|[from]move: U-turn
+|move|p1a: Clefable|Moonblast|p2a: Reuniclus
+|-damage|p2a: Reuniclus|50/100
+|
+|-end|p2a: Reuniclus|move: Future Sight
+|-resisted|p2a: Reuniclus
+|-damage|p2a: Reuniclus|31/100
+|upkeep
+|turn|69
+|
+|t:|1641824499
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|82/100
+|
+|upkeep
+|turn|70
+|
+|t:|1641824511
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|100/100
+|move|p1a: Slowking|Scald|p2a: Reuniclus
+|-damage|p2a: Reuniclus|75/100
+|-status|p2a: Reuniclus|brn
+|
+|upkeep
+|turn|71
+|
+|t:|1641824516
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|100/100 brn
+|move|p1a: Slowking|Future Sight|p2a: Reuniclus
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|72
+|
+|t:|1641824519
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824521
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|73
+|
+|t:|1641824532
+|switch|p2a: Gastrodon|Gastrodon-East, M|100/100
+|switch|p1a: Slowking|Slowking, F|100/100
+|
+|-end|p2a: Gastrodon|move: Future Sight
+|-damage|p2a: Gastrodon|73/100
+|upkeep
+|turn|74
+|
+|t:|1641824541
+|switch|p1a: Excadrill|Excadrill, M|18/100
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|100/100
+|
+|-damage|p1a: Excadrill|5/100|[from] item: Sticky Barb
+|upkeep
+|turn|75
+|
+|t:|1641824546
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p1a: Excadrill|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: sl21cc buhuiying|move: Stealth Rock
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|-damage|p1a: Excadrill|0 fnt|[from] item: Sticky Barb
+|faint|p1a: Excadrill
+|upkeep
+|
+|t:|1641824548
+|switch|p1a: Zapdos|Zapdos|82/100
+|turn|76
+|
+|t:|1641824552
+|switch|p2a: Gastrodon|Gastrodon-East, M|100/100
+|move|p1a: Zapdos|Discharge|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|
+|upkeep
+|turn|77
+|
+|t:|1641824556
+|move|p1a: Zapdos|Discharge|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|move|p2a: Gastrodon|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|60/100
+|-status|p1a: Zapdos|brn
+|
+|-damage|p1a: Zapdos|54/100 brn|[from] brn
+|upkeep
+|turn|78
+|
+|t:|1641824559
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Gastrodon|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|73/100 brn
+|
+|-damage|p1a: Zapdos|67/100 brn|[from] brn
+|upkeep
+|turn|79
+|
+|t:|1641824563
+|move|p1a: Zapdos|Discharge|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|move|p2a: Gastrodon|Earth Power|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-damage|p1a: Zapdos|61/100 brn|[from] brn
+|upkeep
+|turn|80
+|
+|t:|1641824566
+|move|p1a: Zapdos|Discharge|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|move|p2a: Gastrodon|Earth Power|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-damage|p1a: Zapdos|55/100 brn|[from] brn
+|upkeep
+|turn|81
+|
+|t:|1641824568
+|move|p1a: Zapdos|Discharge|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|move|p2a: Gastrodon|Earth Power|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-damage|p1a: Zapdos|49/100 brn|[from] brn
+|upkeep
+|turn|82
+|
+|t:|1641824570
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|99/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Gastrodon|Earth Power|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|44/100 brn
+|
+|-damage|p1a: Zapdos|38/100 brn|[from] brn
+|upkeep
+|turn|83
+|
+|t:|1641824572
+|move|p1a: Zapdos|Discharge|p2a: Gastrodon
+|-immune|p2a: Gastrodon
+|move|p2a: Gastrodon|Earth Power|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-damage|p1a: Zapdos|32/100 brn|[from] brn
+|upkeep
+|turn|84
+|
+|t:|1641824575
+|switch|p1a: Clefable|Clefable, M|82/100
+|move|p2a: Gastrodon|Earth Power|p1a: Clefable
+|-damage|p1a: Clefable|59/100
+|
+|upkeep
+|turn|85
+|
+|t:|1641824579
+|switch|p1a: Zapdos|Zapdos|32/100 brn
+|move|p2a: Gastrodon|Clear Smog|p1a: Zapdos
+|-damage|p1a: Zapdos|22/100 brn
+|-clearboost|p1a: Zapdos
+|
+|-damage|p1a: Zapdos|16/100 brn|[from] brn
+|upkeep
+|turn|86
+|
+|t:|1641824585
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Gastrodon|Earth Power|p1a: Slowking
+|-damage|p1a: Slowking|81/100
+|
+|upkeep
+|turn|87
+|
+|t:|1641824589
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641824591
+|switch|p1a: Zapdos|Zapdos|16/100 brn|[from]move: Teleport
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|-damage|p1a: Zapdos|10/100 brn|[from] brn
+|upkeep
+|turn|88
+|
+|t:|1641824594
+|move|p2a: Tornadus|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|faint|p1a: Zapdos
+|
+|-damage|p2a: Tornadus|82/100 tox|[from] psn
+|upkeep
+|-message|SL21CC Leviathan forfeited.
+|
+|win|sl21cc buhuiying
+|raw|SL21CC Leviathan's rating: 1223 &rarr; <strong>1204</strong><br />(-19 for losing)
+|raw|sl21cc buhuiying's rating: 1167 &rarr; <strong>1200</strong><br />(+33 for winning)
+|l|☆SL21CC Leviathan
+|l|☆sl21cc buhuiying

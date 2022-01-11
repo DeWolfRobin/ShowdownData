@@ -1,0 +1,266 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc vogut
+|j|☆SL21CC ginko
+|t:|1641815074
+|gametype|singles
+|player|p1|sl21cc vogut|psychic-gen4|1314
+|player|p2|SL21CC ginko|evelyn|1298
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Pelipper, F|
+|poke|p1|Seismitoad, M|
+|poke|p1|Volcanion|
+|poke|p1|Barraskewda, M|
+|poke|p1|Dragonite, F|
+|poke|p2|Blissey, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|j| SL21CC Winona
+|j|+dragonitenb
+|j| Water gh0st
+|
+|t:|1641815093
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|j| SL21CC KFC
+|
+|t:|1641815104
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Weavile|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|70/100
+|-enditem|p1a: Melmetal|Assault Vest|[from] move: Knock Off|[of] p2a: Weavile
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|j| suicidu
+|
+|t:|1641815114
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|switch|p1a: Volcanion|Volcanion|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641815125
+|move|p1a: Volcanion|Steam Eruption|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|56/100
+|move|p2a: Toxapex|Light Screen|p2a: Toxapex
+|-sidestart|p2: SL21CC ginko|move: Light Screen
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC ginko)
+|
+|t:|1641815136
+|switch|p1a: Seismitoad|Seismitoad, M|100/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641815141
+|move|p1a: Seismitoad|Stealth Rock|p2a: Toxapex
+|-sidestart|p2: SL21CC ginko|move: Stealth Rock
+|move|p2a: Toxapex|Poison Jab|p1a: Seismitoad
+|-resisted|p1a: Seismitoad
+|-damage|p1a: Seismitoad|89/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641815145
+|move|p1a: Seismitoad|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|63/100
+|-unboost|p2a: Toxapex|spd|1
+|-damage|p1a: Seismitoad|79/100|[from] item: Life Orb
+|move|p2a: Toxapex|Poison Jab|p1a: Seismitoad
+|-resisted|p1a: Seismitoad
+|-damage|p1a: Seismitoad|67/100
+|-status|p1a: Seismitoad|psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Seismitoad|55/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641815152
+|switch|p1a: Volcanion|Volcanion|100/100
+|switch|p2a: Blissey|Blissey, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: SL21CC ginko|move: Light Screen
+|upkeep
+|turn|8
+|j| rffydsdhh
+|
+|t:|1641815157
+|move|p1a: Volcanion|Steam Eruption|p2a: Blissey
+|-damage|p2a: Blissey|49/100
+|-status|p2a: Blissey|brn
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641815161
+|-curestatus|p2a: Blissey|brn|[from] ability: Natural Cure
+|switch|p2a: Toxapex|Toxapex, F|97/100|[from]move: Teleport
+|-damage|p2a: Toxapex|84/100|[from] Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|9
+|l| rffydsdhh
+|j| Renwu
+|
+|t:|1641815185
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Toxapex|Light Screen|p2a: Toxapex
+|-sidestart|p2: SL21CC ginko|move: Light Screen
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641815189
+|move|p1a: Pelipper|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|81/100
+|-damage|p1a: Pelipper|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|
+|t:|1641815192
+|switch|p1a: Seismitoad|Seismitoad, M|55/100 psn|[from]move: U-turn
+|move|p2a: Toxapex|Poison Jab|p1a: Seismitoad
+|-resisted|p1a: Seismitoad
+|-damage|p1a: Seismitoad|43/100 psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Seismitoad|30/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641815196
+|switch|p2a: Blissey|Blissey, F|49/100
+|move|p1a: Seismitoad|Earth Power|p2a: Blissey
+|-damage|p2a: Blissey|39/100
+|-damage|p1a: Seismitoad|20/100 psn|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Seismitoad|8/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641815200
+|move|p1a: Seismitoad|Focus Blast|p2a: Blissey|[miss]
+|-miss|p1a: Seismitoad|p2a: Blissey
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|89/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Seismitoad|0 fnt|[from] psn
+|faint|p1a: Seismitoad
+|upkeep
+|
+|t:|1641815205
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|13
+|j| adreamew
+|
+|t:|1641815208
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641815214
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: Teleport
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|-sideend|p2: SL21CC ginko|move: Light Screen
+|upkeep
+|turn|14
+|
+|t:|1641815217
+|move|p1a: Dragonite|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|12/100
+|move|p2a: Landorus|Toxic|p1a: Dragonite
+|-status|p1a: Dragonite|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|18/100|[from] item: Leftovers
+|-damage|p1a: Dragonite|94/100 tox|[from] psn
+|upkeep
+|turn|15
+|j| SL21CCxiaomiaomiao
+|
+|t:|1641815224
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragonite|Ice Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|71/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Dragonite|82/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641815227
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Corviknight|Defog|p1a: Volcanion
+|-unboost|p1a: Volcanion|evasion|1
+|-sideend|p2: SL21CC ginko|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-weather|none
+|upkeep
+|turn|17
+|-message|sl21cc vogut forfeited.
+|
+|win|SL21CC ginko
+|raw|sl21cc vogut's rating: 1314 &rarr; <strong>1297</strong><br />(-17 for losing)
+|raw|SL21CC ginko's rating: 1298 &rarr; <strong>1315</strong><br />(+17 for winning)
+|l|☆sl21cc vogut
+|l|☆SL21CC ginko
+|j| SL21CC姐ISthequeen
+|l| suicidu
+|l| SL21CCxiaomiaomiao
+|l| Renwu
+|l|+dragonitenb
+|l| SL21CC KFC
+|j| SL21CC tangkeke
+|l| SL21CC tangkeke
+|l| SL21CC姐ISthequeen
+|l| Water gh0st
+|j| rffydsdhh
+|l| rffydsdhh

@@ -1,0 +1,532 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC KFC嫩牛五方
+|j|☆SL21CC姐ISthequeen
+|t:|1641823733
+|gametype|singles
+|player|p1|SL21CC KFC嫩牛五方|baker|1299
+|player|p2|SL21CC姐ISthequeen|daretolovexkh.png|1313
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Cresselia, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Porygon2|
+|poke|p1|Marowak-Alola, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Heatran, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, M|
+|teampreview
+|j| sl21cc ryekie
+|c|☆SL21CC姐ISthequeen|四大买
+|c|☆SL21CC姐ISthequeen|你好！
+|j| solitary dream
+|c|☆SL21CC KFC嫩牛五方|nihao
+|
+|t:|1641823771
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|j| SL21CC tangkeke
+|j| adreamew
+|j| sl21cckhl
+|j| Tokyo EZ
+|l| solitary dream
+|j| SL21CC 91影先生
+|
+|t:|1641823812
+|move|p2a: Hippowdon|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|68/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hatterene|62/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641823817
+|move|p1a: Hatterene|Healing Wish|p1a: Hatterene
+|faint|p1a: Hatterene
+|move|p2a: Hippowdon|Stealth Rock|p1: Hatterene
+|-sidestart|p1: SL21CC KFC嫩牛五方|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641823821
+|switch|p1a: Knocked|Crawdaunt, M, shiny|100/100
+|-damage|p1a: Knocked|88/100|[from] Stealth Rock
+|turn|3
+|
+|t:|1641823827
+|move|p1a: Knocked|Swords Dance|p1a: Knocked
+|-boost|p1a: Knocked|atk|2
+|move|p2a: Hippowdon|Earthquake|p1a: Knocked
+|-damage|p1a: Knocked|41/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Knocked|35/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641823845
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Knocked|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|7/100
+|-enditem|p2a: Clefable|Life Orb|[from] move: Knock Off|[of] p1a: Knocked
+|-damage|p1a: Knocked|25/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Knocked|19/100|[from] Sandstorm
+|upkeep
+|turn|5
+|j| jiokopg_fkok43
+|
+|t:|1641823854
+|move|p1a: Knocked|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-damage|p1a: Knocked|9/100|[from] item: Life Orb
+|
+|-weather|none
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641823856
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|6
+|
+|t:|1641823865
+|switch|p1a: Porygon2|Porygon2|100/100
+|-damage|p1a: Porygon2|88/100|[from] Stealth Rock
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|move|p2a: Tornadus|Hurricane|p1a: Porygon2
+|-damage|p1a: Porygon2|64/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641823869
+|move|p2a: Tornadus|Taunt|p1a: Porygon2
+|-start|p1a: Porygon2|move: Taunt
+|cant|p1a: Porygon2|move: Taunt|Trick Room
+|
+|upkeep
+|turn|8
+|
+|t:|1641823879
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|move|p1a: Porygon2|Ice Beam|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|j| SL21CC sadfrog
+|
+|t:|1641823886
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|9
+|
+|t:|1641823893
+|move|p2a: Heatran|Magma Storm|p1a: Porygon2
+|-damage|p1a: Porygon2|35/100
+|-activate|p1a: Porygon2|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Porygon2|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|71/100
+|
+|-heal|p2a: Heatran|77/100|[from] item: Leftovers
+|-damage|p1a: Porygon2|22/100|[from] move: Magma Storm|[partiallytrapped]
+|-end|p1a: Porygon2|move: Taunt
+|upkeep
+|turn|10
+|
+|t:|1641823899
+|move|p2a: Heatran|Taunt|p1a: Porygon2
+|-start|p1a: Porygon2|move: Taunt
+|cant|p1a: Porygon2|move: Taunt|Trick Room
+|
+|-heal|p2a: Heatran|84/100|[from] item: Leftovers
+|-damage|p1a: Porygon2|10/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1641823903
+|move|p2a: Heatran|Earth Power|p1a: Porygon2
+|-crit|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|
+|-heal|p2a: Heatran|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641823905
+|switch|p1a: Knocked|Crawdaunt, M, shiny|9/100
+|-heal|p1a: Knocked|100/100|[from] move: Healing Wish
+|-damage|p1a: Knocked|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641823922
+|move|p2a: Heatran|Will-O-Wisp|p1a: Knocked
+|-status|p1a: Knocked|brn
+|move|p1a: Knocked|Swords Dance|p1a: Knocked
+|-boost|p1a: Knocked|atk|2
+|
+|-heal|p2a: Heatran|96/100|[from] item: Leftovers
+|-damage|p1a: Knocked|82/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641823928
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Knocked|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|45/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Knocked
+|-damage|p1a: Knocked|72/100 brn|[from] item: Life Orb
+|
+|-damage|p1a: Knocked|66/100 brn|[from] brn
+|upkeep
+|turn|14
+|l| sl21cc ryekie
+|
+|t:|1641823940
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|-damage|p1a: Cresselia|88/100|[from] Stealth Rock
+|move|p2a: Corviknight|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|82/100
+|
+|upkeep
+|turn|15
+|j|+dragonitenb
+|
+|t:|1641823943
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|95/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|upkeep
+|turn|16
+|
+|t:|1641823950
+|switch|p1a: Marowak|Marowak-Alola, F|100/100
+|-damage|p1a: Marowak|76/100|[from] Stealth Rock
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641823960
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Marowak|Swords Dance|p1a: Marowak
+|-boost|p1a: Marowak|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Marowak|70/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1641823965
+|move|p1a: Marowak|Flare Blitz|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Marowak|63/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641823968
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|19
+|j| solitary dream
+|
+|t:|1641823971
+|switch|p2a: Corviknight|Corviknight, F|95/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Marowak|Bonemerang|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Marowak|57/100|[from] Sandstorm
+|-fieldend|move: Trick Room
+|upkeep
+|turn|20
+|
+|t:|1641823974
+|switch|p2a: Heatran|Heatran, F|96/100
+|move|p1a: Marowak|Poltergeist|p2a: Heatran
+|-activate|p2a: Heatran|move: Poltergeist|Leftovers
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Marowak|51/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641823979
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|21
+|
+|t:|1641823982
+|move|p2a: Toxapex|Knock Off|p1a: Marowak
+|-supereffective|p1a: Marowak
+|-damage|p1a: Marowak|21/100
+|-enditem|p1a: Marowak|Thick Club|[from] move: Knock Off|[of] p2a: Toxapex
+|move|p1a: Marowak|Bonemerang|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|66/100
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|26/100
+|-hitcount|p2a: Toxapex|2
+|
+|-weather|none
+|upkeep
+|turn|22
+|
+|t:|1641823988
+|move|p2a: Toxapex|Knock Off|p1a: Marowak
+|-supereffective|p1a: Marowak
+|-damage|p1a: Marowak|0 fnt
+|faint|p1a: Marowak
+|
+|upkeep
+|
+|t:|1641823990
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641823994
+|move|p2a: Toxapex|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|86/100
+|-enditem|p1a: Melmetal|Choice Band|[from] move: Knock Off|[of] p2a: Toxapex
+|move|p1a: Melmetal|Thunder Punch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641823996
+|switch|p2a: Corviknight|Corviknight, F|95/100
+|-ability|p2a: Corviknight|Pressure
+|turn|24
+|
+|t:|1641824002
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Melmetal|Thunder Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641824004
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Melmetal|Thunder Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|56/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641824008
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|move|p1a: Melmetal|Ice Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|50/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641824010
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|99/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Melmetal|Ice Punch|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|97/100
+|
+|upkeep
+|turn|28
+|
+|t:|1641824015
+|move|p2a: Corviknight|Body Press|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641824017
+|switch|p1a: Cresselia|Cresselia, F|82/100
+|-damage|p1a: Cresselia|70/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641824019
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|0
+|move|p1a: Cresselia|Ice Beam|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|76/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641824023
+|move|p2a: Corviknight|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|46/100
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|96/100
+|
+|upkeep
+|turn|31
+|
+|t:|1641824029
+|move|p2a: Corviknight|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|71/100
+|move|p1a: Cresselia|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|60/100
+|
+|upkeep
+|turn|32
+|n| SL21CC 91舒先生|sl21cc91
+|
+|t:|1641824033
+|move|p2a: Corviknight|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|48/100
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|upkeep
+|turn|33
+|
+|t:|1641824040
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|98/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|34
+|
+|t:|1641824051
+|move|p1a: Cresselia|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|0
+|
+|upkeep
+|turn|35
+|
+|t:|1641824063
+|move|p1a: Cresselia|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|70/100
+|-status|p2a: Corviknight|frz
+|-curestatus|p2a: Corviknight|frz|[msg]
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|0
+|
+|upkeep
+|turn|36
+|
+|t:|1641824070
+|move|p1a: Cresselia|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|56/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|37
+|
+|t:|1641824073
+|move|p2a: Corviknight|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|75/100
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|upkeep
+|turn|38
+|
+|t:|1641824078
+|move|p1a: Cresselia|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100
+|move|p2a: Corviknight|Body Press|p1a: Cresselia
+|-resisted|p1a: Cresselia
+|-damage|p1a: Cresselia|49/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641824083
+|move|p1a: Cresselia|Moonlight|p1a: Cresselia
+|-heal|p1a: Cresselia|99/100
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|0
+|
+|upkeep
+|turn|40
+|
+|t:|1641824085
+|move|p1a: Cresselia|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|70/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|41
+|
+|t:|1641824088
+|move|p1a: Cresselia|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|87/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|42
+|-message|SL21CC KFC嫩牛五方 forfeited.
+|
+|win|SL21CC姐ISthequeen
+|raw|SL21CC KFC嫩牛五方's rating: 1284 &rarr; <strong>1269</strong><br />(-15 for losing)
+|raw|SL21CC姐ISthequeen's rating: 1313 &rarr; <strong>1328</strong><br />(+15 for winning)
+|l|☆SL21CC KFC嫩牛五方
+|l|☆SL21CC姐ISthequeen
+|l| SL21CC tangkeke

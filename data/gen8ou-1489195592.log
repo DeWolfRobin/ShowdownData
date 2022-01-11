@@ -1,0 +1,228 @@
+|j|☆Little Twix0628
+|j|☆Saryx
+|t:|1641869463
+|gametype|singles
+|player|p1|Little Twix0628|benga|1107
+|player|p2|Saryx|roxie|1057
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Celebi|
+|poke|p1|Garchomp, M|
+|poke|p1|Shuckle, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Turtonator, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Cloyster, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Scizor, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Toxapex, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Saryx)
+|
+|t:|1641869478
+|start
+|switch|p1a: Twix1|Tyranitar, M|100/100
+|switch|p2a: Seiya|Grimmsnarl, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Twix1
+|turn|1
+|
+|t:|1641869493
+|move|p2a: Seiya|Reflect|p2a: Seiya
+|-sidestart|p2: Saryx|Reflect
+|move|p1a: Twix1|Dragon Dance|p1a: Twix1
+|-boost|p1a: Twix1|atk|1
+|-boost|p1a: Twix1|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Seiya|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641869499
+|move|p1a: Twix1|Dragon Dance|p1a: Twix1
+|-boost|p1a: Twix1|atk|1
+|-boost|p1a: Twix1|spe|1
+|move|p2a: Seiya|Spirit Break|p1a: Twix1
+|-supereffective|p1a: Twix1
+|-damage|p1a: Twix1|44/100
+|-unboost|p1a: Twix1|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Seiya|88/100|[from] Sandstorm
+|-heal|p1a: Twix1|50/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641869506
+|move|p1a: Twix1|Earthquake|p2a: Seiya
+|-damage|p2a: Seiya|42/100
+|move|p2a: Seiya|Spirit Break|p1a: Twix1
+|-supereffective|p1a: Twix1
+|-damage|p1a: Twix1|0 fnt
+|faint|p1a: Twix1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Seiya|36/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641869509
+|switch|p1a: Twix2|Celebi|100/100
+|turn|4
+|
+|t:|1641869516
+|move|p2a: Seiya|Light Screen|p2a: Seiya
+|-sidestart|p2: Saryx|move: Light Screen
+|move|p1a: Twix2|Toxic|p2a: Seiya
+|-status|p2a: Seiya|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Twix2|94/100|[from] Sandstorm
+|-damage|p2a: Seiya|30/100 tox|[from] Sandstorm
+|-heal|p1a: Twix2|100/100|[from] item: Leftovers
+|-damage|p2a: Seiya|24/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641869520
+|move|p2a: Seiya|Taunt|p1a: Twix2
+|-start|p1a: Twix2|move: Taunt
+|cant|p1a: Twix2|move: Taunt|Leech Seed
+|
+|-weather|none
+|-damage|p2a: Seiya|11/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641869528
+|move|p1a: Twix2|Giga Drain|p2a: Seiya
+|-damage|p2a: Seiya|0 fnt
+|faint|p2a: Seiya
+|
+|upkeep
+|
+|t:|1641869534
+|switch|p2a: Moister than a|Cloyster, F, shiny|100/100
+|turn|7
+|
+|t:|1641869539
+|move|p1a: Twix2|Giga Drain|p2a: Moister than a
+|-supereffective|p2a: Moister than a
+|-damage|p2a: Moister than a|1/100
+|move|p2a: Moister than a|Shell Smash|p2a: Moister than a
+|-unboost|p2a: Moister than a|def|1
+|-unboost|p2a: Moister than a|spd|1
+|-boost|p2a: Moister than a|atk|2
+|-boost|p2a: Moister than a|spa|2
+|-boost|p2a: Moister than a|spe|2
+|-enditem|p2a: Moister than a|White Herb
+|-clearnegativeboost|p2a: Moister than a|[silent]
+|
+|-end|p1a: Twix2|move: Taunt
+|upkeep
+|turn|8
+|
+|t:|1641869549
+|move|p2a: Moister than a|Icicle Spear|p1a: Twix2
+|-supereffective|p1a: Twix2
+|-damage|p1a: Twix2|55/100
+|-supereffective|p1a: Twix2
+|-damage|p1a: Twix2|4/100
+|-supereffective|p1a: Twix2
+|-damage|p1a: Twix2|0 fnt
+|faint|p1a: Twix2
+|-hitcount|p1: Twix2|3
+|
+|-sideend|p2: Saryx|Reflect
+|upkeep
+|
+|t:|1641869563
+|switch|p1a: Twix3|Garchomp, M|100/100
+|turn|9
+|
+|t:|1641869569
+|move|p2a: Moister than a|Icicle Spear|p1a: Twix3
+|-supereffective|p1a: Twix3
+|-damage|p1a: Twix3|0 fnt
+|faint|p1a: Twix3
+|-hitcount|p1: Twix3|1
+|
+|upkeep
+|
+|t:|1641869574
+|switch|p1a: How many Twixs are|Volcarona, M|100/100
+|turn|10
+|
+|t:|1641869578
+|move|p2a: Moister than a|Rock Blast|p1a: How many Twixs are
+|-supereffective|p1a: How many Twixs are
+|-damage|p1a: How many Twixs are|10/100
+|-supereffective|p1a: How many Twixs are
+|-damage|p1a: How many Twixs are|0 fnt
+|faint|p1a: How many Twixs are
+|-hitcount|p1: How many Twixs are|2
+|
+|upkeep
+|
+|t:|1641869584
+|switch|p1a: In my store|Turtonator, M|100/100
+|turn|11
+|
+|t:|1641869597
+|move|p2a: Moister than a|Rock Blast|p1a: In my store
+|-supereffective|p1a: In my store
+|-damage|p1a: In my store|76/100
+|-supereffective|p1a: In my store
+|-damage|p1a: In my store|51/100
+|-supereffective|p1a: In my store
+|-damage|p1a: In my store|25/100
+|-supereffective|p1a: In my store
+|-damage|p1a: In my store|1/100
+|-supereffective|p1a: In my store
+|-damage|p1a: In my store|0 fnt
+|faint|p1a: In my store
+|-hitcount|p1: In my store|5
+|
+|-sideend|p2: Saryx|move: Light Screen
+|upkeep
+|
+|t:|1641869605
+|switch|p1a: Twix4|Shuckle, F|100/100
+|turn|12
+|
+|t:|1641869610
+|move|p2a: Moister than a|Icicle Spear|p1a: Twix4
+|-damage|p1a: Twix4|84/100
+|-damage|p1a: Twix4|68/100
+|-damage|p1a: Twix4|51/100
+|-damage|p1a: Twix4|33/100
+|-damage|p1a: Twix4|15/100
+|-hitcount|p1a: Twix4|5
+|move|p1a: Twix4|Iron Defense|p1a: Twix4
+|-boost|p1a: Twix4|def|2
+|
+|upkeep
+|turn|13
+|
+|t:|1641869621
+|move|p2a: Moister than a|Icicle Spear|p1a: Twix4
+|-damage|p1a: Twix4|6/100
+|-damage|p1a: Twix4|0 fnt
+|faint|p1a: Twix4
+|-hitcount|p1: Twix4|2
+|
+|win|Saryx
+|raw|Little Twix0628's rating: 1107 &rarr; <strong>1078</strong><br />(-29 for losing)
+|raw|Saryx's rating: 1057 &rarr; <strong>1093</strong><br />(+36 for winning)

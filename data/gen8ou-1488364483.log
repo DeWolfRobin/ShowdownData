@@ -1,0 +1,436 @@
+|j|☆Sir Quary
+|j|☆TrivagoGuy
+|t:|1641756218
+|gametype|singles
+|player|p1|Sir Quary|1|1413
+|player|p2|TrivagoGuy|ruinmaniac|1459
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Sirfetch’d, M|
+|poke|p1|Clefable, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Zapdos|
+|poke|p1|Gyarados, M|
+|poke|p1|Blacephalon|
+|poke|p2|Skarmory, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Marowak-Alola, F|
+|poke|p2|Seismitoad, M|
+|poke|p2|Alakazam, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Sir Quary)
+|
+|t:|1641756226
+|start
+|switch|p1a: Sirfetch’d|Sirfetch’d, M|100/100
+|switch|p2a: Propeller|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Propeller
+|turn|1
+|
+|t:|1641756236
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Propeller|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|64/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Clefable|70/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641756242
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641756248
+|switch|p1a: Sirfetch’d|Sirfetch’d, M|100/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sirfetch’d|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641756253
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|move|p1a: Sirfetch’d|Close Combat|p2a: Skarmory
+|-damage|p2a: Skarmory|34/100
+|-unboost|p1a: Sirfetch’d|def|1
+|-unboost|p1a: Sirfetch’d|spd|1
+|-damage|p1a: Sirfetch’d|78/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sirfetch’d|71/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641756262
+|switch|p2a: Propeller|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Propeller
+|move|p1a: Sirfetch’d|Close Combat|p2a: Propeller
+|-resisted|p2a: Propeller
+|-damage|p2a: Propeller|44/100
+|-unboost|p1a: Sirfetch’d|def|1
+|-unboost|p1a: Sirfetch’d|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641756273
+|switch|p1a: Clefable|Clefable, F|70/100
+|move|p2a: Propeller|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|35/100
+|-start|p1a: Clefable|confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Clefable|41/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641756287
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Propeller|Weather Ball|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|73/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|79/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641756295
+|switch|p2a: Skarmory|Skarmory, M|34/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Skarmory
+|-sidestart|p2: TrivagoGuy|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|86/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641756299
+|move|p2a: Skarmory|Roost|p2a: Skarmory
+|-heal|p2a: Skarmory|84/100
+|-singleturn|p2a: Skarmory|move: Roost
+|move|p1a: Ferrothorn|Leech Seed|p2a: Skarmory|[miss]
+|-miss|p1a: Ferrothorn|p2a: Skarmory
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|92/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641756304
+|move|p2a: Skarmory|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|57/100
+|-damage|p2a: Skarmory|72/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Skarmory
+|-status|p2a: Skarmory|par
+|
+|-heal|p1a: Ferrothorn|64/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641756311
+|switch|p2a: Propeller|Pelipper, M|44/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Propeller
+|switch|p1a: Clefable|Clefable, F|41/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Clefable|47/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641756313
+|move|p2a: Propeller|Defog|p1a: Clefable
+|-unboost|p1a: Clefable|evasion|1
+|-sideend|p2: TrivagoGuy|Stealth Rock|[from] move: Defog|[of] p2a: Propeller
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Clefable|53/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641756322
+|move|p1a: Clefable|Protect|p1a: Clefable
+|-singleturn|p1a: Clefable|Protect
+|move|p2a: Propeller|Hurricane|p1a: Clefable
+|-activate|p1a: Clefable|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Clefable|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|13
+|
+|t:|1641756325
+|move|p2a: Propeller|Weather Ball|p1a: Clefable
+|-damage|p1a: Clefable|57/100
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Clefable|63/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641756333
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Clefable|Protect||[still]
+|-fail|p1a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Clefable|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|15
+|
+|t:|1641756342
+|move|p1a: Clefable|Protect|p1a: Clefable
+|-singleturn|p1a: Clefable|Protect
+|move|p2a: Tyranitar|Rock Tomb|p1a: Clefable
+|-activate|p1a: Clefable|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641756345
+|move|p2a: Tyranitar|Rock Tomb|p1a: Clefable
+|-damage|p1a: Clefable|62/100
+|-unboost|p1a: Clefable|spe|1
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Clefable|68/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641756352
+|switch|p1a: Ferrothorn|Ferrothorn, F|64/100
+|move|p2a: Tyranitar|Rock Tomb|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|54/100
+|-unboost|p1a: Ferrothorn|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|18
+|
+|t:|1641756359
+|switch|p2a: Marowak|Marowak-Alola, F|100/100
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Marowak
+|-resisted|p2a: Marowak
+|-damage|p2a: Marowak|81/100
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1641756366
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Marowak|Poltergeist|p1a: Zapdos
+|-activate|p1a: Zapdos|move: Poltergeist|Heavy-Duty Boots
+|-damage|p1a: Zapdos|31/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641756376
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|81/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Marowak|Poltergeist|p1a: Zapdos
+|-activate|p1a: Zapdos|move: Poltergeist|Heavy-Duty Boots
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641756382
+|switch|p1a: Sirfetch’d|Sirfetch’d, M|71/100
+|turn|21
+|
+|t:|1641756392
+|switch|p2a: Skarmory|Skarmory, M|72/100 par
+|move|p1a: Sirfetch’d|Close Combat|p2a: Skarmory
+|-damage|p2a: Skarmory|11/100 par
+|-unboost|p1a: Sirfetch’d|def|1
+|-unboost|p1a: Sirfetch’d|spd|1
+|-damage|p1a: Sirfetch’d|55/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|
+|upkeep
+|turn|22
+|
+|t:|1641756394
+|move|p1a: Sirfetch’d|Close Combat|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|-unboost|p1a: Sirfetch’d|def|1
+|-unboost|p1a: Sirfetch’d|spd|1
+|-damage|p1a: Sirfetch’d|38/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|faint|p2a: Skarmory
+|
+|upkeep
+|
+|t:|1641756397
+|switch|p2a: King Bach|Alakazam, M|100/100
+|turn|23
+|
+|t:|1641756403
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: King Bach|Nasty Plot|p2a: King Bach
+|-boost|p2a: King Bach|spa|2
+|
+|upkeep
+|turn|24
+|
+|t:|1641756407
+|move|p2a: King Bach|Focus Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641756416
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|25
+|
+|t:|1641756427
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Blacephalon|Shadow Ball|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|91/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|94/100|[from] Sandstorm
+|upkeep
+|turn|26
+|
+|t:|1641756438
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|move|p2a: Tyranitar|Heavy Slam|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|91/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gyarados|85/100|[from] Sandstorm
+|-heal|p1a: Gyarados|91/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641756444
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Tyranitar|Rock Tomb|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641756449
+|switch|p1a: Clefable|Clefable, F|68/100
+|turn|28
+|
+|t:|1641756455
+|move|p2a: Tyranitar|Heavy Slam|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641756461
+|switch|p1a: Sirfetch’d|Sirfetch’d, M|38/100
+|turn|29
+|
+|t:|1641756465
+|switch|p2a: Propeller|Pelipper, M|44/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Propeller
+|move|p1a: Sirfetch’d|Close Combat|p2a: Propeller
+|-resisted|p2a: Propeller
+|-damage|p2a: Propeller|0 fnt
+|-unboost|p1a: Sirfetch’d|def|1
+|-unboost|p1a: Sirfetch’d|spd|1
+|faint|p2a: Propeller
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641756470
+|switch|p2a: King Bach|Alakazam, M|100/100
+|turn|30
+|
+|t:|1641756472
+|move|p2a: King Bach|Psychic|p1a: Sirfetch’d
+|-supereffective|p1a: Sirfetch’d
+|-damage|p1a: Sirfetch’d|0 fnt
+|faint|p1a: Sirfetch’d
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641756475
+|switch|p1a: Blacephalon|Blacephalon|94/100
+|turn|31
+|
+|t:|1641756485
+|move|p1a: Blacephalon|Shadow Ball|p2a: King Bach
+|-supereffective|p2a: King Bach
+|-enditem|p2a: King Bach|Focus Sash
+|-damage|p2a: King Bach|1/100
+|move|p2a: King Bach|Psychic|p1a: Blacephalon
+|-damage|p1a: Blacephalon|8/100
+|-unboost|p1a: Blacephalon|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|32
+|
+|t:|1641756492
+|switch|p2a: Tyranitar|Tyranitar, M|91/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Blacephalon|Shadow Ball|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|83/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|2/100|[from] Sandstorm
+|upkeep
+|turn|33
+|
+|t:|1641756499
+|move|p1a: Blacephalon|Shadow Ball|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|74/100
+|move|p2a: Tyranitar|Ice Beam|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|win|TrivagoGuy
+|raw|Sir Quary's rating: 1413 &rarr; <strong>1396</strong><br />(-17 for losing)
+|raw|TrivagoGuy's rating: 1459 &rarr; <strong>1476</strong><br />(+17 for winning)
+|c|☆Sir Quary|what a terrible team
+|c|☆TrivagoGuy|Gg
+|l|☆Sir Quary
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

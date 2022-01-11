@@ -1,0 +1,366 @@
+|j|☆Moulesy
+|j|☆Envied
+|t:|1641710252
+|gametype|singles
+|player|p1|Moulesy|102|1622
+|player|p2|Envied|102|1630
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Swampert, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Entei|
+|poke|p1|Weezing-Galar, M|
+|poke|p1|Magnezone|
+|poke|p2|Clefable, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Melmetal|
+|poke|p2|Crawdaunt, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Moulesy)
+|j| Lanvadiep
+|j| Blareglare
+|
+|t:|1641710271
+|start
+|switch|p1a: Swampert|Swampert, F|100/100
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|turn|1
+|
+|t:|1641710278
+|switch|p1a: Weezing|Weezing-Galar, M|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Crawdaunt|Crabhammer|p1a: Weezing
+|-damage|p1a: Weezing|28/100
+|
+|-heal|p1a: Weezing|34/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1641710286
+|move|p2a: Crawdaunt|Crabhammer|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1641710289
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|3
+|
+|t:|1641710292
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Rillaboom|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|94/100
+|-damage|p1a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641710295
+|switch|p1a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641710311
+|move|p1a: Magnezone|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641710318
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|5
+|
+|t:|1641710327
+|switch|p1a: Swampert|Swampert, F|100/100
+|move|p2a: Hippowdon|Toxic|p1a: Swampert|[miss]
+|-miss|p2a: Hippowdon|p1a: Swampert
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641710338
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|move|p1a: Swampert|Toxic|p2a: Crawdaunt
+|-status|p2a: Crawdaunt|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Crawdaunt|94/100 tox|[from] Sandstorm
+|-heal|p2a: Crawdaunt|100/100 tox|[from] Grassy Terrain
+|-damage|p2a: Crawdaunt|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641710343
+|move|p2a: Crawdaunt|Knock Off|p1a: Swampert
+|-damage|p1a: Swampert|1/100
+|-enditem|p1a: Swampert|Leftovers|[from] move: Knock Off|[of] p2a: Crawdaunt
+|move|p1a: Swampert|Stealth Rock|p2a: Crawdaunt
+|-sidestart|p2: Envied|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Crawdaunt|88/100 tox|[from] Sandstorm
+|-heal|p2a: Crawdaunt|94/100 tox|[from] Grassy Terrain
+|-heal|p1a: Swampert|8/100|[from] Grassy Terrain
+|-damage|p2a: Crawdaunt|82/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641710346
+|move|p2a: Crawdaunt|Knock Off|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Crawdaunt|76/100 tox|[from] Sandstorm
+|-damage|p2a: Crawdaunt|57/100 tox|[from] psn
+|upkeep
+|
+|t:|1641710357
+|switch|p1a: Rillaboom|Rillaboom, F|84/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|9
+|
+|t:|1641710362
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Rillaboom|U-turn|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|84/100
+|
+|t:|1641710365
+|switch|p1a: Entei|Entei|100/100|[from]move: U-turn
+|
+|-weather|none
+|-heal|p2a: Melmetal|90/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641710369
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Entei|Sacred Fire|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|66/100
+|
+|-heal|p2a: Slowbro|72/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641710377
+|move|p1a: Entei|Sacred Fire|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|51/100
+|move|p2a: Slowbro|Trick Room|p2a: Slowbro
+|-fieldstart|move: Trick Room|[of] p2a: Slowbro
+|
+|-heal|p2a: Slowbro|57/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641710389
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641710398
+|switch|p2a: Clefable|Clefable, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|13
+|
+|t:|1641710411
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2: Crawdaunt|tox|[msg]
+|move|p1a: Corviknight|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|93/100
+|-damage|p1a: Corviknight|84/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|
+|t:|1641710413
+|switch|p1a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|
+|-heal|p2a: Clefable|99/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641710426
+|move|p1a: Magnezone|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|69/100
+|move|p2a: Clefable|Teleport|p2a: Clefable
+|
+|t:|1641710441
+|switch|p2a: Hippowdon|Hippowdon, F|100/100|[from]move: Teleport
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641710446
+|switch|p1a: Rillaboom|Rillaboom, F|84/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Hippowdon|Stealth Rock|p1a: Rillaboom
+|-sidestart|p1: Moulesy|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rillaboom|78/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|84/100|[from] Grassy Terrain
+|-fieldend|move: Trick Room
+|upkeep
+|turn|16
+|inactive|Envied has 120 seconds left.
+|l|☆Envied
+|inactive|Envied disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|Envied has 30 seconds to reconnect!
+|j|☆Envied
+|inactive|Envied reconnected and has 65 seconds left.
+|player|p2|Envied|102
+|inactive|Envied has 60 seconds left.
+|
+|t:|1641710540
+|switch|p2a: Melmetal|Melmetal|90/100
+|-damage|p2a: Melmetal|84/100|[from] Stealth Rock
+|move|p1a: Rillaboom|Wood Hammer|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|48/100
+|-damage|p1a: Rillaboom|68/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rillaboom|62/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|68/100|[from] Grassy Terrain
+|-heal|p2a: Melmetal|55/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1641710549
+|switch|p1a: Magnezone|Magnezone|100/100
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|move|p2a: Melmetal|Superpower|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|-unboost|p2a: Melmetal|atk|1
+|-unboost|p2a: Melmetal|def|1
+|faint|p1a: Magnezone
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Melmetal|61/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641710554
+|switch|p1a: Rillaboom|Rillaboom, F|68/100
+|-damage|p1a: Rillaboom|56/100|[from] Stealth Rock
+|turn|18
+|l| Lanvadiep
+|
+|t:|1641710567
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|move|p1a: Rillaboom|Wood Hammer|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|-damage|p1a: Rillaboom|39/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|faint|p2a: Hippowdon
+|-damage|p1a: Rillaboom|1/100|[from] Recoil
+|
+|-weather|none
+|-heal|p1a: Rillaboom|7/100|[from] Grassy Terrain
+|upkeep
+|inactive|Envied has 60 seconds left.
+|
+|t:|1641710586
+|switch|p2a: Crawdaunt|Crawdaunt, F|57/100
+|-damage|p2a: Crawdaunt|45/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641710612
+|switch|p1a: Corviknight|Corviknight, F|84/100
+|-damage|p1a: Corviknight|71/100|[from] Stealth Rock
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Corviknight
+|-damage|p1a: Corviknight|41/100
+|-damage|p2a: Crawdaunt|28/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-heal|p2a: Crawdaunt|34/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1641710624
+|switch|p2a: Slowbro|Slowbro, F|91/100
+|-damage|p2a: Slowbro|78/100|[from] Stealth Rock
+|move|p1a: Corviknight|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|61/100
+|-damage|p1a: Corviknight|24/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|t:|1641710627
+|switch|p1a: Entei|Entei|100/100|[from]move: U-turn
+|-damage|p1a: Entei|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|21
+|
+|t:|1641710635
+|switch|p1a: Corviknight|Corviknight, F|24/100
+|-damage|p1a: Corviknight|12/100|[from] Stealth Rock
+|move|p2a: Slowbro|Trick Room|p2a: Slowbro
+|-fieldstart|move: Trick Room|[of] p2a: Slowbro
+|
+|upkeep
+|turn|22
+|
+|t:|1641710638
+|move|p2a: Slowbro|Scald|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1641710639
+|switch|p1a: Rillaboom|Rillaboom, F|7/100
+|-damage|p1a: Rillaboom|0 fnt|[from] Stealth Rock
+|faint|p1a: Rillaboom
+|
+|t:|1641710640
+|switch|p1a: Entei|Entei|76/100
+|-damage|p1a: Entei|51/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641710642
+|move|p2a: Slowbro|Scald|p1a: Entei
+|-supereffective|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|win|Envied
+|raw|Moulesy's rating: 1622 &rarr; <strong>1602</strong><br />(-20 for losing)
+|raw|Envied's rating: 1630 &rarr; <strong>1650</strong><br />(+20 for winning)
+|l|☆Moulesy
+|l|☆Envied
+|l| Blareglare
+|j| Blareglare

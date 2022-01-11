@@ -1,0 +1,243 @@
+|j|☆GialloN
+|j|☆Smart Falcon
+|t:|1641856447
+|gametype|singles
+|player|p1|GialloN|karen|1285
+|player|p2|Smart Falcon|shauntal|1317
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Latias, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Gengar, F|
+|poke|p1|Magnezone|
+|poke|p1|Blissey, F|
+|poke|p1|Barraskewda, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Clefable, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|poke|p2|Cloyster, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GialloN)
+|
+|t:|1641856458
+|start
+|switch|p1a: Bernstein|Latias, F|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|1
+|
+|t:|1641856461
+|move|p1a: Bernstein|Calm Mind|p1a: Bernstein
+|-boost|p1a: Bernstein|spa|1
+|-boost|p1a: Bernstein|spd|1
+|move|p2a: Zapdos|Volt Switch|p1a: Bernstein
+|-resisted|p1a: Bernstein
+|-damage|p1a: Bernstein|91/100
+|
+|t:|1641856464
+|switch|p2a: Tyranitar|Tyranitar, M|100/100|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bernstein|85/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641856472
+|move|p1a: Bernstein|Calm Mind|p1a: Bernstein
+|-boost|p1a: Bernstein|spa|1
+|-boost|p1a: Bernstein|spd|1
+|move|p2a: Tyranitar|Stone Edge|p1a: Bernstein
+|-damage|p1a: Bernstein|26/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bernstein|20/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641856477
+|move|p1a: Bernstein|Aura Sphere|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|47/100
+|move|p2a: Tyranitar|Crunch|p1a: Bernstein
+|-supereffective|p1a: Bernstein
+|-damage|p1a: Bernstein|0 fnt
+|faint|p1a: Bernstein
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641856484
+|switch|p1a: Fish|Barraskewda, M, shiny|100/100
+|turn|4
+|
+|t:|1641856487
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Fish|Flip Turn|p2a: Zapdos
+|-damage|p2a: Zapdos|67/100
+|-status|p1a: Fish|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|t:|1641856499
+|switch|p1a: Magnut|Magnezone, shiny|100/100|[from]move: Flip Turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|60/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641856502
+|move|p2a: Zapdos|Volt Switch|p1a: Magnut
+|-resisted|p1a: Magnut
+|-damage|p1a: Magnut|86/100
+|
+|t:|1641856504
+|switch|p2a: Tyranitar|Tyranitar, M|47/100|[from]move: Volt Switch
+|move|p1a: Magnut|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|30/100
+|
+|t:|1641856511
+|switch|p1a: State of Blissey|Blissey, F, shiny|100/100|[from]move: Volt Switch
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641856514
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: State of Blissey|Seismic Toss|p2a: Kartana
+|-damage|p2a: Kartana|62/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641856521
+|move|p2a: Kartana|Swords Dance|p2a: Kartana
+|-boost|p2a: Kartana|atk|2
+|move|p1a: State of Blissey|Teleport|p1a: State of Blissey
+|
+|t:|1641856524
+|switch|p1a: Gimmeahug|Ferrothorn, F, shiny|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|8
+|
+|t:|1641856527
+|move|p2a: Kartana|Sacred Sword|p1a: Gimmeahug
+|-supereffective|p1a: Gimmeahug
+|-damage|p1a: Gimmeahug|0 fnt
+|-damage|p2a: Kartana|50/100|[from] ability: Iron Barbs|[of] p1a: Gimmeahug
+|-damage|p2a: Kartana|33/100|[from] item: Rocky Helmet|[of] p1a: Gimmeahug
+|faint|p1a: Gimmeahug
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|-damage|p2a: Kartana|23/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641856535
+|switch|p1a: :)|Gengar, F, shiny|100/100
+|turn|9
+|
+|t:|1641856540
+|switch|p2a: Tyranitar|Tyranitar, M|30/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: :)|Shadow Ball|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|25/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: :)|94/100|[from] Sandstorm
+|-heal|p1a: :)|100/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1641856547
+|move|p1a: :)|Dazzling Gleam|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|9/100
+|move|p2a: Tyranitar|Stone Edge|p1a: :)
+|-damage|p1a: :)|12/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: :)|5/100|[from] Sandstorm
+|-heal|p1a: :)|12/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1641856549
+|move|p1a: :)|Dazzling Gleam|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: :)|5/100|[from] Sandstorm
+|-heal|p1a: :)|12/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1641856551
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|turn|12
+|
+|t:|1641856556
+|move|p2a: Excadrill|Earthquake|p1a: :)
+|-supereffective|p1a: :)
+|-damage|p1a: :)|0 fnt
+|faint|p1a: :)
+|-damage|p2a: Excadrill|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641856561
+|switch|p1a: Fish|Barraskewda, M, shiny|100/100 par
+|turn|13
+|
+|t:|1641856567
+|move|p2a: Excadrill|Earthquake|p1a: Fish
+|-damage|p1a: Fish|0 fnt
+|faint|p1a: Fish
+|-damage|p2a: Excadrill|81/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641856573
+|switch|p1a: State of Blissey|Blissey, F, shiny|100/100
+|turn|14
+|
+|t:|1641856580
+|move|p2a: Excadrill|Earthquake|p1a: State of Blissey
+|-damage|p1a: State of Blissey|29/100
+|-damage|p2a: Excadrill|71/100|[from] item: Life Orb
+|move|p1a: State of Blissey|Seismic Toss|p2a: Excadrill
+|-damage|p2a: Excadrill|43/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641856585
+|move|p2a: Excadrill|Earthquake|p1a: State of Blissey
+|-damage|p1a: State of Blissey|0 fnt
+|faint|p1a: State of Blissey
+|-damage|p2a: Excadrill|33/100|[from] item: Life Orb
+|
+|upkeep
+|-message|GialloN forfeited.
+|
+|win|Smart Falcon
+|raw|GialloN's rating: 1285 &rarr; <strong>1262</strong><br />(-23 for losing)
+|raw|Smart Falcon's rating: 1317 &rarr; <strong>1335</strong><br />(+18 for winning)
+|l|☆GialloN

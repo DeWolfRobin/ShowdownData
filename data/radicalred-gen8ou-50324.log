@@ -1,0 +1,376 @@
+|j|☆BL153
+|j|☆Clublazy test
+|t:|1641748620
+|gametype|singles
+|player|p1|BL153|nate|1194
+|player|p2|Clublazy test|1|1094
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|rule|Z-Move Clause: Z-Moves are banned
+|clearpoke
+|poke|p1|Jirachi|
+|poke|p1|Clefable, F|
+|poke|p1|Medicham, M|
+|poke|p1|Drapion, M|
+|poke|p1|Hippowdon, M|
+|poke|p1|Mantine, M|
+|poke|p2|Magnezone|
+|poke|p2|Ribombee, M|
+|poke|p2|Kingler, M|
+|poke|p2|Donphan, M|
+|poke|p2|Zangoose, F|
+|poke|p2|Mismagius, F|
+|teampreview
+|c|☆BL153|hf
+|c|☆BL153|o..o
+|c|☆BL153|hi
+|j| V1king64
+|c|☆Clublazy test|Hey
+|c|☆Clublazy test|cool team
+|c|☆BL153|ty
+|
+|t:|1641748676
+|start
+|switch|p1a: Medicham|Medicham, M|100/100
+|switch|p2a: Ribombee|Ribombee, M|100/100
+|turn|1
+|
+|t:|1641748689
+|switch|p2a: Mismagius|Mismagius, F|100/100
+|detailschange|p1a: Medicham|Medicham-Mega, M
+|-mega|p1a: Medicham|Medicham|Medichamite
+|move|p1a: Medicham|Triple Axel|p2a: Mismagius
+|-damage|p2a: Mismagius|82/100
+|-damage|p2a: Mismagius|41/100
+|-hitcount|p2a: Mismagius|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641748710
+|move|p1a: Medicham|Bullet Punch|p2a: Mismagius
+|-supereffective|p2a: Mismagius
+|-damage|p2a: Mismagius|0 fnt
+|faint|p2a: Mismagius
+|
+|upkeep
+|
+|t:|1641748722
+|switch|p2a: Zangoose|Zangoose, F|100/100
+|turn|3
+|
+|t:|1641748742
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Zangoose|Fake Out|p1a: Hippowdon
+|-damage|p1a: Hippowdon|90/100
+|-damage|p2a: Zangoose|84/100|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zangoose|78/100|[from] Sandstorm
+|-status|p2a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1641748765
+|switch|p2a: Donphan|Donphan, M|100/100
+|move|p1a: Hippowdon|Earthquake|p2a: Donphan
+|-damage|p2a: Donphan|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641748772
+|move|p2a: Donphan|Ice Shard|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|64/100
+|move|p1a: Hippowdon|Toxic|p2a: Donphan
+|-status|p2a: Donphan|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Donphan|64/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641748778
+|move|p2a: Donphan|Bonemerang|p1a: Hippowdon
+|-damage|p1a: Hippowdon|40/100
+|-damage|p1a: Hippowdon|15/100
+|-hitcount|p1a: Hippowdon|2
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|65/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Donphan|52/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641748786
+|switch|p2a: Ribombee|Ribombee, M|100/100
+|switch|p1a: Mantine|Mantine, M|100/100
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1641748794
+|move|p2a: Ribombee|U-turn|p1a: Mantine
+|-resisted|p1a: Mantine
+|-damage|p1a: Mantine|92/100
+|
+|t:|1641748797
+|switch|p2a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|move|p1a: Mantine|Scald|p2a: Magnezone
+|-damage|p2a: Magnezone|67/100
+|-status|p2a: Magnezone|brn
+|
+|-damage|p2a: Magnezone|61/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641748877
+|switch|p2a: Kingler|Kingler, M|100/100
+|switch|p1a: Hippowdon|Hippowdon, M|65/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kingler|95/100|[from] Sandstorm
+|upkeep
+|turn|10
+|c|☆BL153|good double
+|
+|t:|1641748889
+|switch|p1a: Mantine|Mantine, M|92/100
+|detailschange|p2a: Kingler|Kingler-Mega, M
+|-mega|p2a: Kingler|Kingler|Kinglerite
+|move|p2a: Kingler|Crabhammer|p1a: Mantine
+|-heal|p1a: Mantine|100/100|[from] ability: Water Absorb|[of] p2a: Kingler
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mantine|94/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1641748903
+|switch|p2a: Magnezone|Magnezone|61/100 brn
+|move|p1a: Mantine|Scald|p2a: Magnezone
+|-damage|p2a: Magnezone|24/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mantine|88/100|[from] Sandstorm
+|-damage|p2a: Magnezone|18/100 brn|[from] brn
+|upkeep
+|turn|12
+|c|☆BL153|Thank everything holy Kingler doesnt get Thunderpunch
+|
+|t:|1641748926
+|switch|p1a: Hippowdon|Hippowdon, M|65/100
+|move|p2a: Magnezone|Volt Switch|p1a: Hippowdon
+|-immune|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Magnezone|12/100 brn|[from] brn
+|upkeep
+|turn|13
+|c|☆Clublazy test|Does he learn it?
+|c|☆Clublazy test|lol
+|c|☆BL153|NO lol
+|c|☆BL153|he wishes
+|c|☆Clublazy test|That’d be sick
+|
+|t:|1641748967
+|switch|p2a: Ribombee|Ribombee, M|100/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|none
+|upkeep
+|turn|14
+|c|☆BL153|Itd be OP
+|
+|t:|1641748987
+|switch|p1a: Drapion|Drapion, M|100/100
+|move|p2a: Ribombee|Moonblast|p1a: Drapion
+|-damage|p1a: Drapion|38/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641748994
+|move|p1a: Drapion|Poison Jab|p2a: Ribombee
+|-supereffective|p2a: Ribombee
+|-enditem|p2a: Ribombee|Focus Sash
+|-damage|p2a: Ribombee|1/100
+|move|p2a: Ribombee|Moonblast|p1a: Drapion
+|-damage|p1a: Drapion|0 fnt
+|faint|p1a: Drapion
+|
+|upkeep
+|
+|t:|1641749001
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|16
+|
+|t:|1641749037
+|move|p2a: Ribombee|Moonblast|p1a: Hippowdon
+|-damage|p1a: Hippowdon|62/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ribombee|0 fnt|[from] Sandstorm
+|faint|p2a: Ribombee
+|upkeep
+|
+|t:|1641749056
+|switch|p2a: Kingler|Kingler-Mega, M|95/100
+|turn|17
+|
+|t:|1641749073
+|switch|p2a: Zangoose|Zangoose, F|78/100 tox
+|switch|p1a: Mantine|Mantine, M|88/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zangoose|72/100 tox|[from] Sandstorm
+|-damage|p1a: Mantine|82/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1641749089
+|move|p2a: Zangoose|Knock Off|p1a: Mantine
+|-damage|p1a: Mantine|32/100
+|-enditem|p1a: Mantine|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Zangoose
+|move|p1a: Mantine|Body Press|p2a: Zangoose
+|-supereffective|p2a: Zangoose
+|-damage|p2a: Zangoose|22/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zangoose|16/100 tox|[from] Sandstorm
+|-damage|p1a: Mantine|26/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1641749097
+|move|p2a: Zangoose|Knock Off|p1a: Mantine
+|-damage|p1a: Mantine|0 fnt
+|faint|p1a: Mantine
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zangoose|10/100 tox|[from] Sandstorm
+|upkeep
+|
+|t:|1641749101
+|switch|p1a: Medicham|Medicham-Mega, M|100/100
+|turn|20
+|
+|t:|1641749116
+|switch|p2a: Kingler|Kingler-Mega, M|95/100
+|move|p1a: Medicham|Bullet Punch|p2a: Kingler
+|-resisted|p2a: Kingler
+|-damage|p2a: Kingler|88/100
+|
+|-weather|none
+|upkeep
+|turn|21
+|
+|t:|1641749158
+|move|p2a: Kingler|Crabhammer|p1a: Medicham
+|-damage|p1a: Medicham|0 fnt
+|faint|p1a: Medicham
+|
+|upkeep
+|c|☆Clublazy test|Tough game 
+|
+|t:|1641749163
+|switch|p1a: Jirachi|Jirachi|100/100
+|turn|22
+|c|☆Clublazy test|I think I still got the win
+|c|☆Clublazy test|but the mantine gone helps so much lol
+|
+|t:|1641749197
+|switch|p2a: Magnezone|Magnezone|12/100 brn
+|move|p1a: Jirachi|Aura Sphere|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1641749199
+|switch|p2a: Donphan|Donphan, M|52/100 tox
+|turn|23
+|
+|t:|1641749206
+|switch|p1a: Clefable|Clefable, F, shiny|100/100
+|move|p2a: Donphan|Bonemerang|p1a: Clefable
+|-damage|p1a: Clefable|65/100
+|-damage|p1a: Clefable|31/100
+|-hitcount|p1a: Clefable|2
+|
+|-heal|p1a: Clefable|37/100|[from] item: Leftovers
+|-damage|p2a: Donphan|46/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641749213
+|move|p1a: Clefable|Stealth Rock|p2a: Donphan
+|-sidestart|p2: Clublazy test|move: Stealth Rock
+|move|p2a: Donphan|Bonemerang|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-hitcount|p1: Clefable|1
+|
+|-damage|p2a: Donphan|34/100 tox|[from] psn
+|upkeep
+|
+|t:|1641749222
+|switch|p1a: Jirachi|Jirachi|100/100
+|turn|25
+|
+|t:|1641749227
+|move|p1a: Jirachi|Flash Cannon|p2a: Donphan
+|-damage|p2a: Donphan|0 fnt
+|faint|p2a: Donphan
+|
+|upkeep
+|
+|t:|1641749235
+|switch|p2a: Kingler|Kingler-Mega, M|88/100
+|-damage|p2a: Kingler|82/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641749258
+|move|p2a: Kingler|Crabhammer|p1a: Jirachi
+|-damage|p1a: Jirachi|34/100
+|move|p1a: Jirachi|Aura Sphere|p2a: Kingler
+|-supereffective|p2a: Kingler
+|-damage|p2a: Kingler|0 fnt
+|faint|p2a: Kingler
+|
+|upkeep
+|c|☆Clublazy test|I meant
+|c|☆Clublazy test|u still got the win lol
+|c|☆Clublazy test|autocorrect
+|c|☆BL153|gg bro
+|
+|t:|1641749277
+|switch|p2a: Zangoose|Zangoose, F|10/100 tox
+|-damage|p2a: Zangoose|0 fnt|[from] Stealth Rock
+|faint|p2a: Zangoose
+|
+|win|BL153
+|raw|BL153's rating: 1194 &rarr; <strong>1213</strong><br />(+19 for winning)
+|raw|Clublazy test's rating: 1094 &rarr; <strong>1084</strong><br />(-10 for losing)
+|c|☆Clublazy test|Gg

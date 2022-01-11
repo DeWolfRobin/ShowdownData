@@ -1,0 +1,247 @@
+|j|☆Taske
+|j|☆rareold
+|t:|1641853385
+|gametype|singles
+|player|p1|Taske|swimmerf|1377
+|player|p2|rareold|cynthia-gen4|1379
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Chansey, F|
+|poke|p1|Weavile, M|
+|poke|p1|Scolipede, M|
+|poke|p1|Celesteela|
+|poke|p1|Latios, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Melmetal|
+|teampreview
+|
+|t:|1641853416
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Rotom|Rotom-Wash, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Taske)
+|
+|t:|1641853450
+|move|p1a: Garchomp|Stealth Rock|p2a: Rotom
+|-sidestart|p2: rareold|move: Stealth Rock
+|move|p2a: Rotom|Will-O-Wisp|p1a: Garchomp
+|-status|p1a: Garchomp|brn
+|
+|-damage|p1a: Garchomp|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641853456
+|move|p2a: Rotom|Trick|p1a: Garchomp
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Garchomp
+|-item|p1a: Garchomp|Utility Umbrella|[from] move: Trick
+|-item|p2a: Rotom|Rocky Helmet|[from] move: Trick
+|move|p1a: Garchomp|Dragon Tail|p2a: Rotom
+|-damage|p2a: Rotom|89/100
+|-damage|p1a: Garchomp|78/100 brn|[from] item: Rocky Helmet|[of] p2a: Rotom
+|drag|p2a: Slowking|Slowking-Galar, M, shiny|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|
+|-damage|p1a: Garchomp|72/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641853481
+|move|p1a: Garchomp|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|47/100
+|move|p2a: Slowking|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|inactive|Taske has 120 seconds left.
+|
+|t:|1641853501
+|switch|p1a: Weavile|Weavile, M|100/100
+|turn|4
+|
+|t:|1641853509
+|switch|p2a: Rotom|Rotom-Wash, shiny|89/100
+|-damage|p2a: Rotom|76/100|[from] Stealth Rock
+|move|p1a: Weavile|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|16/100
+|-damage|p1a: Weavile|84/100|[from] item: Rocky Helmet|[of] p2a: Rotom
+|-enditem|p2a: Rotom|Rocky Helmet|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|5
+|
+|t:|1641853518
+|move|p1a: Weavile|Knock Off|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1641853522
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Weavile|atk|1
+|turn|6
+|
+|t:|1641853531
+|switch|p1a: Celesteela|Celesteela|100/100
+|move|p2a: Landorus|U-turn|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|95/100
+|
+|t:|1641853536
+|switch|p2a: Slowking|Slowking-Galar, M, shiny|80/100|[from]move: U-turn
+|-damage|p2a: Slowking|68/100|[from] Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1641853546
+|move|p1a: Celesteela|Air Slash|p2a: Slowking
+|-damage|p2a: Slowking|47/100
+|-damage|p1a: Celesteela|85/100|[from] item: Life Orb
+|move|p2a: Slowking|Flamethrower|p1a: Celesteela
+|-supereffective|p1a: Celesteela
+|-damage|p1a: Celesteela|44/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641853561
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: Slowking|Future Sight|p1a: Latios
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|9
+|
+|t:|1641853571
+|move|p1a: Latios|Psyshock|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1641853575
+|switch|p2a: Landorus|Landorus-Therian, M|88/100
+|-damage|p2a: Landorus|76/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Latios|atk|1
+|turn|10
+|
+|t:|1641853582
+|switch|p1a: Weavile|Weavile, M|84/100
+|move|p2a: Landorus|U-turn|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|t:|1641853589
+|switch|p2a: Tyranitar|Tyranitar, F, shiny|100/100|[from]move: U-turn
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-hint|Future Sight did not hit because the target is fainted.
+|-heal|p2a: Tyranitar|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641853615
+|switch|p1a: Chansey|Chansey, F|100/100
+|turn|11
+|
+|t:|1641853619
+|move|p2a: Tyranitar|Stealth Rock|p1a: Chansey
+|-sidestart|p1: Taske|move: Stealth Rock
+|move|p1a: Chansey|Toxic|p2a: Tyranitar
+|-status|p2a: Tyranitar|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Chansey|94/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|Taske has 120 seconds left.
+|
+|t:|1641853657
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Chansey|Wish|p1a: Chansey
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Chansey|88/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641853663
+|switch|p1a: Celesteela|Celesteela|44/100
+|-damage|p1a: Celesteela|31/100|[from] Stealth Rock
+|move|p2a: Melmetal|Double Iron Bash|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|1/100
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|-hitcount|p1: Celesteela|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641853677
+|switch|p1a: Chansey|Chansey, F|88/100
+|-damage|p1a: Chansey|76/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641853680
+|move|p2a: Melmetal|Double Iron Bash|p1a: Chansey
+|-damage|p1a: Chansey|31/100
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|-hitcount|p1: Chansey|2
+|
+|-weather|none
+|upkeep
+|inactive|Taske has 120 seconds left.
+|
+|t:|1641853690
+|switch|p1a: Scolipede|Scolipede, M|100/100
+|-damage|p1a: Scolipede|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641853697
+|move|p1a: Scolipede|Swords Dance|p1a: Scolipede
+|-boost|p1a: Scolipede|atk|2
+|move|p2a: Melmetal|Double Iron Bash|p1a: Scolipede
+|-damage|p1a: Scolipede|0 fnt
+|faint|p1a: Scolipede
+|-hitcount|p1: Scolipede|1
+|
+|upkeep
+|-message|Taske forfeited.
+|
+|win|rareold
+|raw|Taske's rating: 1377 &rarr; <strong>1357</strong><br />(-20 for losing)
+|raw|rareold's rating: 1379 &rarr; <strong>1399</strong><br />(+20 for winning)
+|l|☆Taske

@@ -1,0 +1,104 @@
+|j|☆Espitia_29
+|j|☆BL153
+|t:|1641778806
+|gametype|singles
+|player|p1|Espitia_29|rr-electrode|1103
+|player|p2|BL153|nate|1119
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|rule|Z-Move Clause: Z-Moves are banned
+|clearpoke
+|poke|p1|Bisharp, M|
+|poke|p1|Infernape, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Feraligatr, M|
+|poke|p1|Aegislash, M|
+|poke|p1|Garbodor, M|
+|poke|p2|Clefable, F|
+|poke|p2|Duraludon, M|
+|poke|p2|Tauros, M|
+|poke|p2|Darmanitan, M|
+|poke|p2|Gyarados, M|
+|poke|p2|Venusaur, M|
+|teampreview
+|c|☆BL153|hf
+|j| Goitmel
+|
+|t:|1641778819
+|start
+|switch|p1a: Bisharp|Bisharp, M, shiny|100/100
+|switch|p2a: Clefable|Clefable, F, shiny|100/100
+|turn|1
+|
+|t:|1641778832
+|move|p1a: Bisharp|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|8/100
+|move|p2a: Clefable|Fire Blast|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-enditem|p1a: Bisharp|Focus Sash
+|-damage|p1a: Bisharp|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641778843
+|move|p1a: Bisharp|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-enditem|p2a: Clefable|Life Orb|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641778847
+|switch|p2a: Duraludon|Duraludon, M|100/100
+|turn|3
+|
+|t:|1641778852
+|move|p2a: Duraludon|Flash Cannon|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|upkeep
+|
+|t:|1641778858
+|switch|p1a: Infernape|Infernape, M|100/100
+|turn|4
+|
+|t:|1641778866
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|-ability|p2a: Gyarados|Intimidate|boost
+|-unboost|p1a: Infernape|atk|1
+|move|p1a: Infernape|Brick Break|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-damage|p2a: Gyarados|91/100
+|
+|-heal|p2a: Gyarados|97/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|l|☆Espitia_29
+|player|p1|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by BL153)
+|l| Goitmel
+|inactive|Espitia_29 has 30 seconds to reconnect!
+|inactive|Espitia_29 has 20 seconds to reconnect!
+|inactive|Espitia_29 has 15 seconds to reconnect!
+|inactive|Espitia_29 has 10 seconds to reconnect!
+|inactive|Espitia_29 has 5 seconds to reconnect!
+|-message|Espitia_29 lost due to inactivity.
+|
+|win|BL153
+|raw|Espitia_29's rating: 1103 &rarr; <strong>1089</strong><br />(-14 for losing)
+|raw|BL153's rating: 1119 &rarr; <strong>1151</strong><br />(+32 for winning)

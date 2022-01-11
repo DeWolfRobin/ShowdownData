@@ -1,0 +1,320 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC 东方不败
+|j|☆lxytxhlyhkstbxh
+|t:|1641821104
+|gametype|singles
+|player|p1|SL21CC 东方不败|cheryl|1179
+|player|p2|lxytxhlyhkstbxh|bellelba|1065
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Heatran, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Clefable, F|
+|poke|p1|Regieleki|
+|poke|p2|Buzzwole|
+|poke|p2|Slowbro, F|
+|poke|p2|Nidoking, M|
+|poke|p2|Weavile, M|
+|poke|p2|Blissey, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|j| nzjsh
+|
+|t:|1641821124
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Buzzwole|atk|1
+|turn|1
+|j| rffydsdhh
+|
+|t:|1641821135
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|2
+|j| jiokopg_fkok43
+|l| rffydsdhh
+|
+|t:|1641821139
+|move|p1a: Clefable|Thunder|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|48/100
+|move|p2a: Corviknight|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|95/100
+|
+|t:|1641821143
+|switch|p2a: Nidoking|Nidoking, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641821155
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Nidoking|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: SL21CC 东方不败|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|l| nzjsh
+|
+|t:|1641821165
+|switch|p2a: Corviknight|Corviknight, F|48/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: lxytxhlyhkstbxh|move: Stealth Rock
+|
+|-heal|p2a: Corviknight|54/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641821168
+|switch|p1a: Regieleki|Regieleki|100/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1641821181
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Regieleki|Rapid Spin|p2a: Blissey
+|-damage|p2a: Blissey|91/100
+|-boost|p1a: Regieleki|spe|1
+|-sideend|p1: SL21CC 东方不败|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Regieleki
+|
+|upkeep
+|turn|7
+|
+|t:|1641821191
+|move|p1a: Regieleki|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|73/100
+|
+|t:|1641821196
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: Volt Switch
+|move|p2a: Blissey|Seismic Toss|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|72/100
+|-damage|p2a: Blissey|61/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|78/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|j|♚Jqlove
+|
+|t:|1641821203
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Body Press|p2a: Corviknight
+|-damage|p2a: Corviknight|69/100
+|
+|-heal|p2a: Corviknight|75/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|85/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641821210
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Corviknight|Brave Bird|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|85/100
+|-damage|p2a: Corviknight|70/100|[from] Recoil
+|
+|-heal|p1a: Heatran|91/100|[from] item: Leftovers
+|-heal|p2a: Corviknight|77/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641821222
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: Slowbro|[miss]
+|-miss|p1a: Heatran|p2a: Slowbro
+|
+|-heal|p1a: Heatran|97/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|j| adreamew
+|
+|t:|1641821229
+|switch|p1a: Clefable|Clefable, F|95/100
+|move|p2a: Slowbro|Future Sight|p1a: Clefable
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|12
+|
+|t:|1641821237
+|switch|p2a: Blissey|Blissey, F|61/100
+|move|p1a: Clefable|Ice Beam|p2a: Blissey
+|-damage|p2a: Blissey|52/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641821240
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|-end|p1a: Clefable|move: Future Sight
+|-damage|p1a: Clefable|68/100
+|upkeep
+|turn|14
+|
+|t:|1641821245
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|-damage|p2a: Nidoking|95/100|[from] Stealth Rock
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641821247
+|move|p2a: Nidoking|Sludge Wave|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|6/100
+|move|p1a: Clefable|Ice Beam|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|0 fnt
+|faint|p2a: Nidoking
+|
+|upkeep
+|
+|t:|1641821256
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|16
+|
+|t:|1641821261
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Buzzwole|Ice Punch|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|90/100
+|
+|-heal|p1a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641821268
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641821271
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Blissey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|71/100
+|
+|-heal|p1a: Tapu Fini|77/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641821277
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Blissey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|48/100
+|
+|-heal|p1a: Tapu Fini|54/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641821280
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Slowbro
+|-damage|p2a: Slowbro|48/100
+|-heal|p1a: Tapu Fini|89/100|[from] drain|[of] p2a: Slowbro
+|-damage|p1a: Tapu Fini|72/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|-heal|p1a: Tapu Fini|78/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|21
+|
+|t:|1641821284
+|move|p1a: Tapu Fini|Taunt|p2a: Slowbro
+|-start|p2a: Slowbro|move: Taunt
+|cant|p2a: Slowbro|move: Taunt|Teleport
+|
+|-heal|p1a: Tapu Fini|84/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641821288
+|switch|p2a: Corviknight|Corviknight, F|77/100
+|-damage|p2a: Corviknight|64/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|90/100|[from] item: Leftovers
+|-heal|p2a: Corviknight|70/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641821292
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Corviknight|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|86/100
+|
+|t:|1641821295
+|switch|p2a: Buzzwole|Buzzwole|100/100|[from]move: U-turn
+|
+|-heal|p1a: Tapu Fini|92/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641821298
+|move|p2a: Buzzwole|Thunder Punch|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|55/100
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|-heal|p1a: Tapu Fini|100/100|[from] drain|[of] p2a: Buzzwole
+|faint|p2a: Buzzwole
+|
+|upkeep
+|-message|lxytxhlyhkstbxh forfeited.
+|
+|win|SL21CC 东方不败
+|raw|SL21CC 东方不败's rating: 1179 &rarr; <strong>1198</strong><br />(+19 for winning)
+|raw|lxytxhlyhkstbxh's rating: 1065 &rarr; <strong>1058</strong><br />(-7 for losing)
+|l|☆lxytxhlyhkstbxh
+|l|☆SL21CC 东方不败

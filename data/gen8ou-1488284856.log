@@ -1,0 +1,215 @@
+|j|☆NotZamper
+|j|☆tangorine
+|t:|1641746109
+|gametype|singles
+|player|p1|NotZamper|gambler|1059
+|player|p2|tangorine|erika|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Regieleki|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Uxie|
+|poke|p1|Blacephalon|
+|poke|p2|Tapu Fini|
+|poke|p2|Kartana|
+|poke|p2|Arcanine, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Latios, M|
+|poke|p2|Mamoswine, F|
+|teampreview
+|
+|t:|1641746115
+|start
+|switch|p1a: Rip Bozo|Uxie|100/100
+|switch|p2a: Mamoswine|Mamoswine, F|100/100
+|turn|1
+|
+|t:|1641746124
+|move|p1a: Rip Bozo|Trick|p2a: Mamoswine
+|-activate|p1a: Rip Bozo|move: Trick|[of] p2a: Mamoswine
+|-item|p2a: Mamoswine|Choice Scarf|[from] move: Trick
+|-item|p1a: Rip Bozo|Assault Vest|[from] move: Trick
+|move|p2a: Mamoswine|Knock Off|p1a: Rip Bozo
+|-supereffective|p1a: Rip Bozo
+|-damage|p1a: Rip Bozo|44/100
+|-enditem|p1a: Rip Bozo|Assault Vest|[from] move: Knock Off|[of] p2a: Mamoswine
+|
+|upkeep
+|turn|2
+|
+|t:|1641746137
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Rip Bozo|Memento|p2a: Tornadus
+|-unboost|p2a: Tornadus|atk|2
+|-unboost|p2a: Tornadus|spa|2
+|faint|p1a: Rip Bozo
+|
+|upkeep
+|
+|t:|1641746143
+|switch|p1a: Regieleki|Regieleki, shiny|100/100
+|turn|3
+|
+|t:|1641746159
+|switch|p2a: Latios|Latios, M|100/100
+|move|p1a: Regieleki|Volt Switch|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|58/100
+|
+|t:|1641746166
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100|[from]move: Volt Switch
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Latios|52/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641746177
+|move|p2a: Latios|Mystical Fire|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|25/100
+|-unboost|p1a: Ninetales|spa|1
+|-damage|p2a: Latios|42/100|[from] item: Life Orb
+|move|p1a: Ninetales|Moonblast|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641746199
+|switch|p2a: Kartana|Kartana|100/100
+|turn|5
+|
+|t:|1641746208
+|switch|p1a: Underated|Blacephalon|100/100
+|move|p2a: Kartana|Knock Off|p1a: Underated
+|-supereffective|p1a: Underated
+|-damage|p1a: Underated|0 fnt
+|-enditem|p1a: Underated|Life Orb|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Underated
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Kartana|94/100|[from] Hail
+|upkeep
+|
+|t:|1641746214
+|switch|p1a: Regieleki|Regieleki, shiny|100/100
+|turn|6
+|
+|t:|1641746220
+|switch|p2a: Mamoswine|Mamoswine, F|100/100
+|move|p1a: Regieleki|Thunder Cage|p2a: Mamoswine
+|-immune|p2a: Mamoswine
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Regieleki|94/100|[from] Hail
+|upkeep
+|turn|7
+|
+|t:|1641746227
+|move|p1a: Regieleki|Thunder Cage|p2a: Mamoswine
+|-immune|p2a: Mamoswine
+|move|p2a: Mamoswine|Icicle Crash|p1a: Regieleki
+|-damage|p1a: Regieleki|4/100
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1641746232
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Mamoswine|Icicle Crash|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641746234
+|switch|p1a: UwU anime bait|Landorus-Therian, M|100/100
+|-ability|p1a: UwU anime bait|Intimidate|boost
+|-unboost|p2a: Mamoswine|atk|1
+|turn|9
+|
+|t:|1641746238
+|move|p2a: Mamoswine|Icicle Crash|p1a: UwU anime bait
+|-supereffective|p1a: UwU anime bait
+|-damage|p1a: UwU anime bait|0 fnt
+|faint|p1a: UwU anime bait
+|
+|upkeep
+|c|☆tangorine|gg
+|
+|t:|1641746244
+|switch|p1a: Ninetales|Ninetales-Alola, F|25/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|10
+|
+|t:|1641746246
+|move|p2a: Mamoswine|Icicle Crash|p1a: Ninetales|[miss]
+|-miss|p2a: Mamoswine|p1a: Ninetales
+|move|p1a: Ninetales|Blizzard|p2a: Mamoswine
+|-damage|p2a: Mamoswine|66/100
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641746261
+|move|p2a: Mamoswine|Icicle Crash|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|4/100
+|cant|p1a: Ninetales|flinch
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641746265
+|move|p2a: Mamoswine|Icicle Crash|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641746267
+|switch|p1a: Regieleki|Regieleki, shiny|4/100
+|turn|13
+|
+|t:|1641746269
+|move|p1a: Regieleki|Rapid Spin|p2a: Mamoswine
+|-crit|p2a: Mamoswine
+|-damage|p2a: Mamoswine|47/100
+|-boost|p1a: Regieleki|spe|1
+|move|p2a: Mamoswine|Icicle Crash|p1a: Regieleki|[miss]
+|-miss|p2a: Mamoswine|p1a: Regieleki
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Regieleki|0 fnt|[from] Hail
+|faint|p1a: Regieleki
+|
+|win|tangorine
+|upkeep
+|raw|NotZamper's rating: 1059 &rarr; <strong>1037</strong><br />(-22 for losing)
+|raw|tangorine's rating: 1000 &rarr; <strong>1047</strong><br />(+47 for winning)
+|l|☆NotZamper

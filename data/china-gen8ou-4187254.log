@@ -1,0 +1,464 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc ap
+|j|☆adreamew
+|t:|1641728091
+|gametype|singles
+|player|p1|sl21cc ap|amethystpupil.png|1252
+|player|p2|adreamew|2|1193
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Heatran, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Cloyster, F|
+|poke|p1|Scizor, M|
+|poke|p2|Mew|
+|poke|p2|Zeraora|
+|poke|p2|Clefable, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1641728115
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641728126
+|move|p1a: Ninetales|Hypnosis|p2a: Clefable
+|-status|p2a: Clefable|slp|[from] move: Hypnosis
+|cant|p2a: Clefable|slp
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641728134
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|-curestatus|p2a: Clefable|slp|[msg]
+|move|p2a: Clefable|Trick|p1a: Heatran
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Heatran
+|-item|p1a: Heatran|Sticky Barb|[from] move: Trick
+|-item|p2a: Clefable|Air Balloon
+|-item|p2a: Clefable|Air Balloon|[from] move: Trick
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|94/100|[from] Hail
+|-damage|p1a: Heatran|82/100|[from] item: Sticky Barb
+|upkeep
+|turn|3
+|
+|t:|1641728143
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|91/100
+|-activate|p2a: Dragonite|move: Magma Storm|[of] p1a: Heatran
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|76/100|[from] Hail
+|-damage|p2a: Dragonite|85/100|[from] Hail
+|-damage|p2a: Dragonite|73/100|[from] move: Magma Storm|[partiallytrapped]
+|-damage|p1a: Heatran|63/100|[from] item: Sticky Barb
+|upkeep
+|turn|4
+|
+|t:|1641728164
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|move|p2a: Dragonite|Earthquake|p1a: Ninetales
+|-damage|p1a: Ninetales|62/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Dragonite|66/100|[from] Hail
+|-end|p2a: Dragonite|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641728176
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: sl21cc ap|move: Aurora Veil
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641728192
+|switch|p2a: Clefable|Clefable, M|100/100
+|-item|p2a: Clefable|Air Balloon
+|move|p1a: Ninetales|Hypnosis|p2a: Clefable
+|-status|p2a: Clefable|slp|[from] move: Hypnosis
+|
+|upkeep
+|turn|7
+|
+|t:|1641728197
+|switch|p1a: Scizor|Scizor, M|100/100
+|switch|p2a: Mew|Mew|100/100
+|
+|upkeep
+|turn|8
+|j| rffydsdhh
+|l| rffydsdhh
+|
+|t:|1641728202
+|move|p2a: Mew|Will-O-Wisp|p1a: Scizor
+|-status|p1a: Scizor|brn
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-damage|p1a: Scizor|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641728206
+|move|p2a: Mew|Taunt|p1a: Scizor
+|-start|p1a: Scizor|move: Taunt
+|cant|p1a: Scizor|move: Taunt|Swords Dance
+|
+|-heal|p1a: Scizor|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Scizor|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641728209
+|move|p2a: Mew|Night Shade|p1a: Scizor
+|-damage|p1a: Scizor|65/100 brn
+|move|p1a: Scizor|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|43/100
+|-enditem|p2a: Mew|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|
+|-heal|p1a: Scizor|71/100 brn|[from] item: Leftovers
+|-damage|p1a: Scizor|65/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641728220
+|switch|p1a: Ninetales|Ninetales-Alola, F|62/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|93/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Mew|87/100|[from] Hail
+|upkeep
+|turn|12
+|j| tianyutulongwu
+|
+|t:|1641728226
+|move|p1a: Ninetales|Encore|p2a: Mew
+|-start|p2a: Mew|Encore
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|100/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Mew|94/100|[from] Hail
+|-sideend|p1: sl21cc ap|move: Aurora Veil
+|upkeep
+|turn|13
+|
+|t:|1641728234
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: sl21cc ap|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|95/100|[from] Hail
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1641728249
+|switch|p1a: Heatran|Heatran, F|63/100
+|move|p2a: Toxapex|Toxic|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|57/100|[from] Hail
+|-damage|p2a: Toxapex|95/100|[from] Hail
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Heatran|44/100|[from] item: Sticky Barb
+|upkeep
+|turn|15
+|
+|t:|1641728275
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Dragonite|Dragonite, M|66/100
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1641728283
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641728295
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|upkeep
+|turn|18
+|
+|t:|1641728305
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|upkeep
+|turn|19
+|
+|t:|1641728308
+|move|p1a: Garchomp|Aqua Tail|p2a: Corviknight
+|-damage|p2a: Corviknight|77/100
+|move|p2a: Corviknight|Iron Defense|p2a: Corviknight
+|-boost|p2a: Corviknight|def|2
+|
+|-heal|p2a: Corviknight|83/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641728311
+|move|p1a: Garchomp|Aqua Tail|p2a: Corviknight
+|-damage|p2a: Corviknight|65/100
+|move|p2a: Corviknight|Body Press|p1a: Garchomp
+|-damage|p1a: Garchomp|44/100
+|-damage|p2a: Corviknight|53/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-heal|p1a: Garchomp|51/100|[from] item: Leftovers
+|-heal|p2a: Corviknight|59/100|[from] item: Leftovers
+|-sideend|p1: sl21cc ap|move: Aurora Veil
+|upkeep
+|turn|21
+|
+|t:|1641728317
+|move|p1a: Garchomp|Aqua Tail|p2a: Corviknight
+|-damage|p2a: Corviknight|41/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|91/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Garchomp|57/100|[from] item: Leftovers
+|-heal|p2a: Corviknight|97/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641728325
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Corviknight|Body Press|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641728334
+|switch|p1a: Ninetales|Ninetales-Alola, F|62/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|95/100|[from] Hail
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1641728342
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: sl21cc ap|move: Aurora Veil
+|move|p2a: Toxapex|Toxic|p1a: Ninetales
+|-status|p1a: Ninetales|tox
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|95/100|[from] Hail
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Ninetales|56/100 tox|[from] psn
+|upkeep
+|turn|25
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by adreamew)
+|
+|t:|1641728371
+|switch|p1a: Heatran|Heatran, F|44/100
+|move|p2a: Toxapex|Toxic|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|38/100|[from] Hail
+|-damage|p2a: Toxapex|95/100|[from] Hail
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Heatran|26/100|[from] item: Sticky Barb
+|upkeep
+|turn|26
+|
+|t:|1641728391
+|switch|p2a: Dragonite|Dragonite, M|66/100
+|move|p1a: Heatran|Stealth Rock|p2a: Dragonite
+|-sidestart|p2: adreamew|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|19/100|[from] Hail
+|-damage|p2a: Dragonite|60/100|[from] Hail
+|-damage|p1a: Heatran|7/100|[from] item: Sticky Barb
+|upkeep
+|turn|27
+|
+|t:|1641728395
+|move|p1a: Heatran|Taunt|p2a: Dragonite
+|-start|p2a: Dragonite|move: Taunt
+|cant|p2a: Dragonite|move: Taunt|Roost
+|
+|-weather|none
+|-damage|p1a: Heatran|0 fnt|[from] item: Sticky Barb
+|faint|p1a: Heatran
+|upkeep
+|
+|t:|1641728419
+|switch|p1a: Garchomp|Garchomp, M|57/100
+|turn|28
+|
+|t:|1641728427
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641728435
+|move|p1a: Dragapult|Dragon Darts|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|75/100
+|move|p2a: Corviknight|Defog|p1a: Dragapult
+|-fail|p1a: Dragapult|unboost|[from] ability: Clear Body|[of] p1a: Dragapult
+|-sideend|p1: sl21cc ap|move: Aurora Veil
+|-sideend|p2: adreamew|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p2a: Corviknight|81/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641728442
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|
+|upkeep
+|turn|31
+|
+|t:|1641728447
+|move|p1a: Dragapult|Dragon Darts|p2a: Toxapex
+|-damage|p2a: Toxapex|67/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Toxapex
+|-damage|p2a: Toxapex|34/100
+|move|p2a: Toxapex|Toxic|p1a: Dragapult
+|-status|p1a: Dragapult|tox
+|
+|-heal|p2a: Toxapex|40/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|94/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641728453
+|switch|p2a: Clefable|Clefable, M|100/100 slp
+|-item|p2a: Clefable|Air Balloon
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|-damage|p1a: Dragapult|82/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641728463
+|switch|p2a: Toxapex|Toxapex, M|74/100
+|move|p1a: Dragapult|Phantom Force|p2a: Toxapex|[from]lockedmove
+|-damage|p2a: Toxapex|25/100
+|
+|-heal|p2a: Toxapex|31/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|64/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641728479
+|switch|p2a: Clefable|Clefable, M|100/100 slp
+|-item|p2a: Clefable|Air Balloon
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|-damage|p1a: Dragapult|40/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641728492
+|move|p1a: Dragapult|Phantom Force|p2a: Clefable|[from]lockedmove
+|-damage|p2a: Clefable|30/100 slp
+|-enditem|p2a: Clefable|Air Balloon
+|cant|p2a: Clefable|slp
+|
+|-damage|p1a: Dragapult|10/100 tox|[from] psn
+|upkeep
+|turn|36
+|j| SL21CC tangkeke
+|
+|t:|1641728503
+|move|p1a: Dragapult|Flamethrower|p2a: Clefable
+|-damage|p2a: Clefable|13/100 slp
+|-curestatus|p2a: Clefable|slp|[msg]
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|64/100
+|
+|-damage|p1a: Dragapult|0 fnt|[from] psn
+|faint|p1a: Dragapult
+|upkeep
+|
+|t:|1641728515
+|switch|p1a: Garchomp|Garchomp, M|57/100
+|turn|37
+|
+|t:|1641728519
+|move|p1a: Garchomp|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|17/100
+|move|p2a: Clefable|Moonblast|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|-message|sl21cc ap forfeited.
+|
+|win|adreamew
+|raw|sl21cc ap's rating: 1252 &rarr; <strong>1233</strong><br />(-19 for losing)
+|raw|adreamew's rating: 1193 &rarr; <strong>1223</strong><br />(+30 for winning)
+|l|☆sl21cc ap

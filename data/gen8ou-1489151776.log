@@ -1,0 +1,134 @@
+|j|☆mistborn1371
+|j|☆Not_P_u_Sher
+|t:|1641863523
+|gametype|singles
+|player|p1|mistborn1371|265|1264
+|player|p2|Not_P_u_Sher|elesa|1349
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Buzzwole|
+|poke|p1|Dragonite, F|
+|poke|p1|Bisharp, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Blacephalon|
+|poke|p2|Hatterene, F|
+|poke|p2|Marowak-Alola, M|
+|poke|p2|Porygon2|
+|poke|p2|Melmetal|
+|poke|p2|Cresselia, F|
+|poke|p2|Crawdaunt, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mistborn1371)
+|
+|t:|1641863539
+|start
+|switch|p1a: Tapu Lele|Tapu Lele, shiny|100/100
+|switch|p2a: Porygon2|Porygon2|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|-ability|p2a: Porygon2|Psychic Surge|[from] ability: Trace|[of] p1a: Tapu Lele
+|turn|1
+|
+|t:|1641863556
+|move|p1a: Tapu Lele|Focus Blast|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|38/100
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|2
+|
+|t:|1641863576
+|switch|p2a: Marowak|Marowak-Alola, M, shiny|100/100
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641863585
+|move|p2a: Marowak|Poltergeist|p1a: Dragonite
+|-activate|p1a: Dragonite|move: Poltergeist|Heavy-Duty Boots
+|-damage|p1a: Dragonite|59/100
+|move|p1a: Dragonite|Earthquake|p2a: Marowak
+|-supereffective|p2a: Marowak
+|-damage|p2a: Marowak|42/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641863605
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cresselia|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641863618
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-fail|p2a: Cresselia|heal
+|move|p1a: Landorus|Toxic|p2a: Cresselia
+|-status|p2a: Cresselia|tox
+|
+|-damage|p2a: Cresselia|94/100 tox|[from] psn
+|-fieldend|move: Trick Room
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641863626
+|move|p1a: Landorus|Stealth Rock|p2a: Cresselia
+|-sidestart|p2: Not_P_u_Sher|move: Stealth Rock
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|-heal|p2a: Cresselia|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Cresselia|88/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641863633
+|switch|p2a: Crawdaunt|Crawdaunt, F, shiny|100/100
+|-damage|p2a: Crawdaunt|88/100|[from] Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|35/100
+|
+|t:|1641863647
+|switch|p1a: Buzzwole|Buzzwole|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1641863675
+|move|p2a: Crawdaunt|Close Combat|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|82/100
+|-unboost|p2a: Crawdaunt|def|1
+|-unboost|p2a: Crawdaunt|spd|1
+|move|p1a: Buzzwole|Substitute|p1a: Buzzwole
+|-start|p1a: Buzzwole|Substitute
+|-damage|p1a: Buzzwole|57/100
+|
+|-heal|p1a: Buzzwole|64/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|-message|Not_P_u_Sher forfeited.
+|
+|win|mistborn1371
+|raw|mistborn1371's rating: 1233 &rarr; <strong>1266</strong><br />(+33 for winning)
+|raw|Not_P_u_Sher's rating: 1349 &rarr; <strong>1323</strong><br />(-26 for losing)
+|l|☆Not_P_u_Sher

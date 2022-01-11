@@ -1,0 +1,184 @@
+|j|☆sword x soul
+|j|☆Kyerndo
+|t:|1641866608
+|gametype|singles
+|player|p1|sword x soul|dawn-gen4pt|1422
+|player|p2|Kyerndo|2|1404
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Magnezone|
+|poke|p1|Dragapult, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Heatran, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Volcarona, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Thundurus, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sword x soul)
+|
+|t:|1641866625
+|start
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|turn|1
+|
+|t:|1641866627
+|move|p2a: Thundurus|Superpower|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-unboost|p2a: Thundurus|atk|1
+|-unboost|p2a: Thundurus|def|1
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1641866631
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|2
+|
+|t:|1641866639
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|71/100
+|
+|-heal|p2a: Heatran|77/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641866643
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Heatran|Toxic|p1a: Tyranitar
+|-status|p1a: Tyranitar|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Heatran|83/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641866665
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Fini|94/100|[from] Sandstorm
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641866675
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|move|p1a: Tapu Fini|Whirlpool|p2a: Thundurus
+|-damage|p2a: Thundurus|83/100
+|-activate|p2a: Thundurus|move: Whirlpool|[of] p1a: Tapu Fini
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Thundurus|77/100|[from] Sandstorm
+|-damage|p1a: Tapu Fini|94/100|[from] Sandstorm
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|-damage|p2a: Thundurus|65/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1641866687
+|move|p2a: Thundurus|Knock Off|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|85/100
+|-enditem|p1a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p2a: Thundurus
+|move|p1a: Tapu Fini|Moonblast|p2a: Thundurus
+|-crit|p2a: Thundurus
+|-damage|p2a: Thundurus|2/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Thundurus|0 fnt|[from] Sandstorm
+|-damage|p1a: Tapu Fini|78/100|[from] Sandstorm
+|faint|p2a: Thundurus
+|upkeep
+|
+|t:|1641866700
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|7
+|
+|t:|1641866703
+|move|p2a: Bisharp|Iron Head|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|34/100
+|-damage|p2a: Bisharp|91/100|[from] item: Life Orb
+|move|p1a: Tapu Fini|Moonblast|p2a: Bisharp
+|-damage|p2a: Bisharp|41/100
+|-unboost|p2a: Bisharp|spa|1
+|-ability|p2a: Bisharp|Defiant
+|-boost|p2a: Bisharp|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Fini|28/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641866712
+|move|p2a: Bisharp|Iron Head|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|-damage|p2a: Bisharp|31/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641866716
+|switch|p1a: Magnezone|Magnezone|100/100
+|turn|9
+|
+|t:|1641866718
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|move|p2a: Bisharp|Knock Off|p1a: Magnezone
+|-damage|p1a: Magnezone|34/100
+|-enditem|p1a: Magnezone|Leftovers|[from] move: Knock Off|[of] p2a: Bisharp
+|-damage|p2a: Bisharp|22/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641866729
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|move|p2a: Bisharp|Knock Off|p1a: Magnezone
+|-damage|p1a: Magnezone|7/100
+|-damage|p2a: Bisharp|12/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1641866733
+|move|p2a: Bisharp|Sucker Punch|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|-damage|p2a: Bisharp|2/100|[from] item: Life Orb
+|
+|upkeep
+|-message|sword x soul forfeited.
+|
+|win|Kyerndo
+|raw|sword x soul's rating: 1422 &rarr; <strong>1401</strong><br />(-21 for losing)
+|raw|Kyerndo's rating: 1404 &rarr; <strong>1425</strong><br />(+21 for winning)
+|l|☆sword x soul

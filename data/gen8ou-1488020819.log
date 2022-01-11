@@ -1,0 +1,103 @@
+|j|☆Omnipotentsquirrel
+|j|☆SugarInFurs
+|t:|1641698483
+|gametype|singles
+|player|p1|Omnipotentsquirrel|bugcatcher|1102
+|player|p2|SugarInFurs|170|1095
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Pelipper, F|
+|poke|p1|Regieleki|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Urshifu-*, F|
+|poke|p2|Azumarill, M|
+|poke|p2|Lucario, F|
+|poke|p2|Weavile, M|
+|poke|p2|Mimikyu, M|
+|poke|p2|Golisopod, F|
+|poke|p2|Polteageist|
+|teampreview
+|
+|t:|1641698497
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Azumarill|Azumarill, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Azumarill|atk|1
+|turn|1
+|
+|t:|1641698509
+|move|p1a: Landorus|Stealth Rock|p2a: Azumarill
+|-sidestart|p2: SugarInFurs|move: Stealth Rock
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|50/100
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|75/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|2
+|
+|t:|1641698529
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Azumarill|Aqua Jet|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|43/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641698537
+|move|p2a: Azumarill|Aqua Jet|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641698542
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|4
+|
+|t:|1641698546
+|move|p2a: Azumarill|Aqua Jet|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641698559
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|5
+|
+|t:|1641698562
+|move|p2a: Azumarill|Aqua Jet|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|Omnipotentsquirrel forfeited.
+|
+|win|SugarInFurs
+|raw|Omnipotentsquirrel's rating: 1102 &rarr; <strong>1076</strong><br />(-26 for losing)
+|raw|SugarInFurs's rating: 1095 &rarr; <strong>1121</strong><br />(+26 for winning)
+|l|☆Omnipotentsquirrel

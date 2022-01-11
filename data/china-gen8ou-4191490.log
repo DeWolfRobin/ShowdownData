@@ -1,0 +1,254 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc ryekie
+|j|☆SL21CC Mcdonald's
+|t:|1641821004
+|gametype|singles
+|player|p1|sl21cc ryekie|erika|1273
+|player|p2|SL21CC Mcdonald's|101|1260
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Heatran, F|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Weavile, M|
+|poke|p2|Mew|
+|poke|p2|Latios, M|
+|poke|p2|Melmetal|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Mcdonald's)
+|j| adreamew
+|j| SL21CC Burger King
+|j| SL22CC 蜜雪冰城
+|j| sl21cckhl
+|
+|t:|1641821039
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|j| xxxxxxs
+|
+|t:|1641821049
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Lele|atk|1
+|move|p1a: Tapu Lele|Psychic|p2a: Landorus
+|-damage|p2a: Landorus|48/100
+|
+|upkeep
+|turn|2
+|c| xxxxxxs|wc
+|
+|t:|1641821056
+|move|p1a: Tapu Lele|Psychic|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|l| SL21CC Burger King
+|
+|t:|1641821058
+|switch|p2a: Mew|Mew|100/100
+|turn|3
+|c| xxxxxxs|这
+|c| xxxxxxs|..
+|c| xxxxxxs|全是神啊
+|
+|t:|1641821067
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: Mew|Nasty Plot|p2a: Mew
+|-boost|p2a: Mew|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641821074
+|switch|p1a: Weavile|Weavile, M|100/100
+|move|p2a: Mew|Thunderbolt|p1a: Weavile
+|-damage|p1a: Weavile|28/100
+|
+|upkeep
+|turn|5
+|j|♚Jqlove
+|l| xxxxxxs
+|
+|t:|1641821080
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Weavile|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|51/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Weavile
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641821085
+|move|p1a: Weavile|Triple Axel|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|33/100
+|-status|p1a: Weavile|par|[from] ability: Static|[of] p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-hitcount|p2: Zapdos|2
+|
+|upkeep
+|
+|t:|1641821087
+|switch|p2a: Mew|Mew|100/100
+|turn|7
+|
+|t:|1641821091
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Mew|Vacuum Wave|p1a: Tapu Lele
+|-activate|p1a: Tapu Lele|move: Psychic Terrain
+|
+|upkeep
+|turn|8
+|
+|t:|1641821094
+|move|p1a: Tapu Lele|Moonblast|p2a: Mew
+|-damage|p2a: Mew|33/100
+|move|p2a: Mew|Nasty Plot|p2a: Mew
+|-boost|p2a: Mew|spa|2
+|
+|upkeep
+|turn|9
+|j| rffydsdhh
+|l| rffydsdhh
+|
+|t:|1641821101
+|move|p1a: Tapu Lele|Moonblast|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|upkeep
+|
+|t:|1641821103
+|switch|p2a: Kartana|Kartana|100/100
+|turn|10
+|
+|t:|1641821105
+|move|p2a: Kartana|Leaf Blade|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|12/100
+|-damage|p2a: Kartana|91/100|[from] item: Life Orb
+|move|p1a: Tapu Lele|Moonblast|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641821113
+|switch|p2a: Latios|Latios, M|100/100
+|turn|11
+|c|♚Jqlove|咦
+|
+|t:|1641821118
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: Latios|Surf|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|79/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|12
+|c|♚Jqlove|不是围巾蝶蝶
+|
+|t:|1641821124
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641821130
+|switch|p1a: Tapu Lele|Tapu Lele|12/100|[from]move: Teleport
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|13
+|-activate|p2a: Melmetal|item: Quick Claw
+|
+|t:|1641821154
+|move|p2a: Melmetal|Double Iron Bash|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|-hitcount|p1: Tapu Lele|1
+|
+|upkeep
+|c|☆sl21cc ryekie|不要脸了是吧
+|
+|t:|1641821165
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|14
+|
+|t:|1641821166
+|move|p1a: Heatran|Lava Plume|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641821168
+|switch|p2a: Latios|Latios, M|100/100
+|turn|15
+|
+|t:|1641821172
+|move|p2a: Latios|Surf|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|39/100
+|move|p1a: Heatran|Heavy Slam|p2a: Latios
+|-damage|p2a: Latios|53/100
+|
+|-heal|p1a: Heatran|45/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|c|♚Jqlove|卧槽。开始了开始了
+|
+|t:|1641821178
+|switch|p1a: Weavile|Weavile, M|28/100 par
+|move|p2a: Latios|Surf|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641821188
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|17
+|l| SL22CC 蜜雪冰城
+|
+|t:|1641821191
+|move|p1a: Urshifu|U-turn|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|win|sl21cc ryekie
+|raw|sl21cc ryekie's rating: 1273 &rarr; <strong>1289</strong><br />(+16 for winning)
+|raw|SL21CC Mcdonald&apos;s's rating: 1260 &rarr; <strong>1244</strong><br />(-16 for losing)
+|l|☆SL21CC Mcdonald's
+|l|♚Jqlove
+|l|☆sl21cc ryekie
+|j| wandebucuo玩得不错
+|l| wandebucuo玩得不错

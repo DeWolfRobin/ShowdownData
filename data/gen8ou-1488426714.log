@@ -1,0 +1,332 @@
+|j|☆imafurryx3
+|j|☆Lags
+|t:|1641763873
+|gametype|singles
+|player|p1|imafurryx3|pokekid|1074
+|player|p2|Lags|boarder|1121
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mimikyu, F|
+|poke|p1|Melmetal|
+|poke|p1|Volcarona, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Regieleki|
+|poke|p2|Bisharp, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Kartana|
+|poke|p2|Nihilego|
+|poke|p2|Clefable, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by imafurryx3)
+|
+|t:|1641763878
+|start
+|switch|p1a: Melted simp bones|Melmetal|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melted simp bones|atk|1
+|turn|1
+|c|☆imafurryx3|Glhf
+|
+|t:|1641763886
+|move|p2a: Landorus|Earthquake|p1a: Melted simp bones
+|-supereffective|p1a: Melted simp bones
+|-damage|p1a: Melted simp bones|49/100
+|move|p1a: Melted simp bones|Double Iron Bash|p2a: Landorus
+|-damage|p2a: Landorus|59/100
+|-damage|p2a: Landorus|21/100
+|-hitcount|p2a: Landorus|2
+|
+|-heal|p2a: Landorus|27/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641763892
+|move|p2a: Landorus|Earthquake|p1a: Melted simp bones
+|-supereffective|p1a: Melted simp bones
+|-damage|p1a: Melted simp bones|0 fnt
+|faint|p1a: Melted simp bones
+|
+|-heal|p2a: Landorus|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641763896
+|switch|p1a: Can't see me|Ninetales-Alola, M, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Can't see me
+|turn|3
+|
+|t:|1641763906
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Can't see me|Blizzard|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|84/100
+|-status|p2a: Toxapex|frz
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|77/100 frz|[from] Hail
+|-heal|p2a: Toxapex|84/100 frz|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641763910
+|move|p1a: Can't see me|Aurora Veil|p1a: Can't see me
+|-sidestart|p1: imafurryx3|move: Aurora Veil
+|cant|p2a: Toxapex|frz
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|77/100 frz|[from] Hail
+|-heal|p2a: Toxapex|84/100 frz|[from] item: Black Sludge
+|upkeep
+|turn|5
+|c|☆imafurryx3|Pft-
+|
+|t:|1641763915
+|move|p1a: Can't see me|Freeze-Dry|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|38/100 frz
+|-curestatus|p2a: Toxapex|frz|[from] move: Scald
+|move|p2a: Toxapex|Scald|p1a: Can't see me
+|-damage|p1a: Can't see me|91/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|32/100|[from] Hail
+|-heal|p2a: Toxapex|38/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|c|☆Lags|lol
+|
+|t:|1641763923
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Can't see me|Freeze-Dry|p2a: Kartana
+|-damage|p2a: Kartana|12/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Kartana|6/100|[from] Hail
+|upkeep
+|turn|7
+|c|☆imafurryx3|Lucky freeze
+|
+|t:|1641763945
+|move|p2a: Kartana|Smart Strike|p1a: Can't see me
+|-supereffective|p1a: Can't see me
+|-damage|p1a: Can't see me|0 fnt
+|faint|p1a: Can't see me
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1641763952
+|switch|p1a: Nope|Mimikyu, F, shiny|100/100
+|turn|8
+|
+|t:|1641763955
+|move|p2a: Kartana|Smart Strike|p1a: Nope
+|-activate|p1a: Nope|ability: Disguise
+|-damage|p1a: Nope|100/100
+|detailschange|p1a: Nope|Mimikyu-Busted, F, shiny
+|-damage|p1a: Nope|88/100|[from] pokemon: Mimikyu-Busted
+|-enditem|p1a: Nope|Red Card|[of] p2a: Kartana
+|drag|p2a: Nihilego|Nihilego|100/100
+|move|p1a: Nope|Swords Dance|p1a: Nope
+|-boost|p1a: Nope|atk|2
+|
+|upkeep
+|turn|9
+|c|☆imafurryx3|Nope
+|c|☆imafurryx3|Observation...this is a great opportunity for slaughter
+|inactive|Lags has 120 seconds left.
+|
+|t:|1641764004
+|move|p2a: Nihilego|Power Gem|p1a: Nope
+|-damage|p1a: Nope|46/100
+|move|p1a: Nope|Drain Punch|p2a: Nihilego
+|-damage|p2a: Nihilego|28/100
+|-heal|p1a: Nope|98/100|[from] drain|[of] p2a: Nihilego
+|
+|upkeep
+|turn|10
+|
+|t:|1641764011
+|switch|p2a: Landorus|Landorus-Therian, M|33/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Nope|atk|1
+|move|p1a: Nope|Drain Punch|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|19/100
+|-heal|p1a: Nope|100/100|[from] drain|[of] p2a: Landorus
+|
+|-heal|p2a: Landorus|25/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641764017
+|move|p1a: Nope|Swords Dance|p1a: Nope
+|-boost|p1a: Nope|atk|2
+|move|p2a: Landorus|Toxic|p1a: Nope
+|-status|p1a: Nope|tox
+|
+|-heal|p2a: Landorus|31/100|[from] item: Leftovers
+|-damage|p1a: Nope|95/100 tox|[from] psn
+|-sideend|p1: imafurryx3|move: Aurora Veil
+|upkeep
+|turn|12
+|
+|t:|1641764025
+|move|p1a: Nope|Play Rough|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-damage|p1a: Nope|83/100 tox|[from] psn
+|upkeep
+|
+|t:|1641764028
+|switch|p2a: Toxapex|Toxapex, F|72/100
+|turn|13
+|
+|t:|1641764035
+|move|p1a: Nope|Swords Dance|p1a: Nope
+|-boost|p1a: Nope|atk|2
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-damage|p1a: Nope|65/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641764042
+|move|p1a: Nope|Drain Punch|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|77/100
+|-heal|p1a: Nope|79/100 tox|[from] drain|[of] p2a: Toxapex
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|83/100|[from] item: Black Sludge
+|-damage|p1a: Nope|55/100 tox|[from] psn
+|upkeep
+|turn|15
+|c|☆imafurryx3|Haze
+|c|☆imafurryx3|Whyyyy
+|
+|t:|1641764058
+|move|p1a: Nope|Play Rough|p2a: Toxapex|[miss]
+|-miss|p1a: Nope|p2a: Toxapex
+|move|p2a: Toxapex|Scald|p1a: Nope
+|-damage|p1a: Nope|32/100 tox
+|
+|-heal|p2a: Toxapex|90/100|[from] item: Black Sludge
+|-damage|p1a: Nope|2/100 tox|[from] psn
+|upkeep
+|turn|16
+|c|☆Lags|you said you were going to what?
+|c|☆Lags|slaughter?
+|
+|t:|1641764075
+|move|p1a: Nope|Play Rough|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|73/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Nope
+|-sidestart|p1: imafurryx3|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|79/100|[from] item: Black Sludge
+|-damage|p1a: Nope|0 fnt|[from] psn
+|faint|p1a: Nope
+|upkeep
+|
+|t:|1641764079
+|switch|p1a: Owo buh bai|Toxapex, F, shiny|100/100
+|-sideend|p1: imafurryx3|move: Toxic Spikes|[of] p1a: Owo buh bai
+|turn|17
+|c|☆imafurryx3|Yerp
+|
+|t:|1641764086
+|switch|p1a: Leki for deki|Regieleki, shiny|100/100
+|switch|p2a: Kartana|Kartana|6/100
+|
+|upkeep
+|turn|18
+|c|☆imafurryx3|I didn't say with which mon tho
+|c|☆imafurryx3|;)
+|
+|t:|1641764111
+|move|p1a: Leki for deki|Electro Ball|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641764114
+|switch|p2a: Nihilego|Nihilego|28/100
+|turn|19
+|
+|t:|1641764122
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Leki for deki|Electro Ball|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641764126
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|20
+|
+|t:|1641764129
+|move|p1a: Leki for deki|Electro Ball|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641764132
+|switch|p2a: Nihilego|Nihilego|28/100
+|turn|21
+|
+|t:|1641764136
+|move|p1a: Leki for deki|Electro Ball|p2a: Nihilego
+|-damage|p2a: Nihilego|0 fnt
+|faint|p2a: Nihilego
+|
+|upkeep
+|
+|t:|1641764139
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|22
+|c|☆imafurryx3|You where saying
+|
+|t:|1641764143
+|move|p1a: Leki for deki|Electro Ball|p2a: Clefable
+|-damage|p2a: Clefable|16/100
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|22/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|-message|Lags forfeited.
+|
+|win|imafurryx3
+|raw|imafurryx3's rating: 1074 &rarr; <strong>1107</strong><br />(+33 for winning)
+|raw|Lags's rating: 1121 &rarr; <strong>1093</strong><br />(-28 for losing)
+|l|☆Lags
+|c|☆imafurryx3|Ggs
+|c|☆imafurryx3|XDD

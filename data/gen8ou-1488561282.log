@@ -1,0 +1,314 @@
+|j|☆Estratega Pokemon
+|j|☆Jaburb
+|t:|1641781999
+|gametype|singles
+|player|p1|Estratega Pokemon|acetrainer-gen4dp|1010
+|player|p2|Jaburb|101|1000
+|teamsize|p1|5
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heliolisk, F|
+|poke|p1|Noctowl, F|
+|poke|p1|Arctovish|
+|poke|p1|Perrserker, M|
+|poke|p1|Blaziken, F|
+|poke|p2|Mew|
+|teampreview
+|
+|t:|1641782012
+|start
+|switch|p1a: Heliolisk|Heliolisk, F|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|
+|t:|1641782026
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|82/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641782040
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|69/100
+|-status|p2a: Mew|par
+|-activate|p2a: Mew|ability: Synchronize
+|-immune|p1a: Heliolisk
+|
+|upkeep
+|turn|3
+|
+|t:|1641782067
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|56/100 par
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641782078
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|45/100 par
+|cant|p2a: Mew|par
+|
+|upkeep
+|turn|5
+|
+|t:|1641782092
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|34/100 par
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|84/100 par
+|-singleturn|p2a: Mew|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1641782103
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|72/100 par
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641782120
+|switch|p1a: Perrserker|Perrserker, M|100/100
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641782131
+|move|p1a: Perrserker|Fake Out|p2a: Mew
+|-damage|p2a: Mew|69/100 par
+|cant|p2a: Mew|flinch
+|
+|upkeep
+|turn|9
+|
+|t:|1641782144
+|cant|p2a: Mew|par
+|move|p1a: Perrserker|Iron Tail|p2a: Mew
+|-damage|p2a: Mew|54/100 par
+|
+|upkeep
+|turn|10
+|
+|t:|1641782152
+|cant|p2a: Mew|par
+|move|p1a: Perrserker|Iron Tail|p2a: Mew
+|-damage|p2a: Mew|39/100 par
+|
+|upkeep
+|turn|11
+|
+|t:|1641782161
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|89/100 par
+|-singleturn|p2a: Mew|move: Roost
+|move|p1a: Perrserker|Iron Head|p2a: Mew
+|-damage|p2a: Mew|79/100 par
+|
+|upkeep
+|turn|12
+|
+|t:|1641782171
+|move|p2a: Mew|Stored Power|p1a: Perrserker
+|-resisted|p1a: Perrserker
+|-damage|p1a: Perrserker|65/100
+|move|p1a: Perrserker|Iron Head|p2a: Mew
+|-damage|p2a: Mew|68/100 par
+|
+|upkeep
+|turn|13
+|
+|t:|1641782179
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|move|p1a: Perrserker|Iron Head|p2a: Mew
+|-damage|p2a: Mew|58/100 par
+|
+|upkeep
+|turn|14
+|
+|t:|1641782188
+|move|p2a: Mew|Stored Power|p1a: Perrserker
+|-resisted|p1a: Perrserker
+|-damage|p1a: Perrserker|28/100
+|move|p1a: Perrserker|Iron Tail|p2a: Mew
+|-damage|p2a: Mew|47/100 par
+|
+|upkeep
+|turn|15
+|
+|t:|1641782204
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|cant|p2a: Mew|par
+|
+|upkeep
+|turn|16
+|
+|t:|1641782219
+|move|p1a: Blaziken|Blaze Kick|p2a: Mew
+|-damage|p2a: Mew|38/100 par
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|88/100 par
+|-singleturn|p2a: Mew|move: Roost
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|17
+|
+|t:|1641782233
+|move|p1a: Blaziken|Earthquake|p2a: Mew
+|-damage|p2a: Mew|82/100 par
+|move|p2a: Mew|Body Press|p1a: Blaziken
+|-crit|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1641782244
+|switch|p1a: Arctovish|Arctovish|100/100
+|turn|18
+|
+|t:|1641782254
+|move|p2a: Mew|Body Press|p1a: Arctovish
+|-supereffective|p1a: Arctovish
+|-damage|p1a: Arctovish|0 fnt
+|faint|p1a: Arctovish
+|
+|upkeep
+|
+|t:|1641782283
+|switch|p1a: Heliolisk|Heliolisk, F|100/100
+|turn|19
+|
+|t:|1641782289
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|75/100 par
+|cant|p2a: Mew|par
+|
+|upkeep
+|turn|20
+|
+|t:|1641782310
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|69/100 par
+|cant|p2a: Mew|par
+|
+|upkeep
+|turn|21
+|
+|t:|1641782319
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|61/100 par
+|cant|p2a: Mew|par
+|
+|upkeep
+|turn|22
+|
+|t:|1641782327
+|move|p1a: Heliolisk|Discharge|p2a: Mew
+|-damage|p2a: Mew|54/100 par
+|move|p2a: Mew|Body Press|p1a: Heliolisk
+|-supereffective|p1a: Heliolisk
+|-crit|p1a: Heliolisk
+|-damage|p1a: Heliolisk|0 fnt
+|faint|p1a: Heliolisk
+|
+|upkeep
+|
+|t:|1641782338
+|switch|p1a: Noctowl|Noctowl, F, shiny|100/100
+|turn|23
+|
+|t:|1641782346
+|move|p1a: Noctowl|Air Slash|p2a: Mew
+|-damage|p2a: Mew|49/100 par
+|cant|p2a: Mew|flinch
+|
+|upkeep
+|turn|24
+|
+|t:|1641782364
+|move|p1a: Noctowl|Air Slash|p2a: Mew
+|-damage|p2a: Mew|45/100 par
+|cant|p2a: Mew|par
+|
+|upkeep
+|turn|25
+|
+|t:|1641782374
+|move|p1a: Noctowl|Extrasensory|p2a: Mew
+|-resisted|p2a: Mew
+|-damage|p2a: Mew|42/100 par
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|92/100 par
+|-singleturn|p2a: Mew|move: Roost
+|
+|upkeep
+|turn|26
+|
+|t:|1641782386
+|move|p1a: Noctowl|Sky Attack||[still]
+|-prepare|p1a: Noctowl|Sky Attack
+|move|p2a: Mew|Body Press|p1a: Noctowl
+|-damage|p1a: Noctowl|0 fnt
+|faint|p1a: Noctowl
+|
+|upkeep
+|c|☆Jaburb|Gg
+|
+|t:|1641782398
+|switch|p1a: Perrserker|Perrserker, M|28/100
+|turn|27
+|c|☆Jaburb|Ez
+|
+|t:|1641782413
+|move|p1a: Perrserker|Fake Out|p2a: Mew
+|-damage|p2a: Mew|88/100 par
+|cant|p2a: Mew|flinch
+|
+|upkeep
+|turn|28
+|
+|t:|1641782420
+|move|p2a: Mew|Body Press|p1a: Perrserker
+|-supereffective|p1a: Perrserker
+|-damage|p1a: Perrserker|0 fnt
+|faint|p1a: Perrserker
+|
+|win|Jaburb
+|raw|Estratega Pokemon's rating: 1010 &rarr; <strong>1000</strong><br />(-10 for losing)
+|raw|Jaburb's rating: 1000 &rarr; <strong>1041</strong><br />(+41 for winning)
+|l|☆Jaburb
+|l|☆Estratega Pokemon
+|j|☆Jaburb
+|player|p2|Jaburb|101

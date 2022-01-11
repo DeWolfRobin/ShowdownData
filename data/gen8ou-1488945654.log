@@ -1,0 +1,394 @@
+|j|☆TheBoopening
+|j|☆Anish2410
+|t:|1641839320
+|gametype|singles
+|player|p1|TheBoopening|schoolkidf|1090
+|player|p2|Anish2410|hugh|1093
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Quagsire, F|
+|poke|p1|Nihilego|
+|poke|p1|Mew|
+|poke|p1|Klefki, F|
+|poke|p1|Reuniclus, F|
+|poke|p1|Sirfetch’d, F|
+|poke|p2|Sawk, M|
+|poke|p2|Aegislash, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Shuckle, M|
+|poke|p2|Porygon-Z|
+|poke|p2|Krookodile, M|
+|teampreview
+|
+|t:|1641839328
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641839334
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|move|p2a: Pelipper|Tailwind|p2a: Pelipper
+|-sidestart|p2: Anish2410|move: Tailwind
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641839347
+|move|p2a: Pelipper|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|74/100
+|-enditem|p1a: Mew|Expert Belt|[from] move: Knock Off|[of] p2a: Pelipper
+|move|p1a: Mew|Ice Beam|p2a: Pelipper
+|-damage|p2a: Pelipper|36/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641839359
+|switch|p2a: Krookodile|Krookodile, M|100/100
+|move|p1a: Mew|Psyshock|p2a: Krookodile
+|-immune|p2a: Krookodile
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641839367
+|move|p2a: Krookodile|Crunch|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: Anish2410|move: Tailwind
+|upkeep
+|
+|t:|1641839373
+|switch|p1a: Sirfetch’d|Sirfetch’d, F|100/100
+|turn|5
+|
+|t:|1641839378
+|move|p1a: Sirfetch’d|First Impression|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-crit|p2a: Krookodile
+|-damage|p2a: Krookodile|0 fnt
+|faint|p2a: Krookodile
+|
+|-weather|none
+|upkeep
+|
+|t:|1641839384
+|switch|p2a: Pelipper|Pelipper, M|36/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|6
+|
+|t:|1641839400
+|switch|p1a: Klefki|Klefki, F|100/100
+|move|p2a: Pelipper|Tailwind|p2a: Pelipper
+|-sidestart|p2: Anish2410|move: Tailwind
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641839408
+|move|p1a: Klefki|Thunder Wave|p2a: Pelipper
+|-status|p2a: Pelipper|par
+|move|p2a: Pelipper|Scald|p1a: Klefki
+|-damage|p1a: Klefki|57/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641839416
+|switch|p2a: Porygon-Z|Porygon-Z|100/100
+|move|p1a: Klefki|Foul Play|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|83/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641839423
+|move|p1a: Klefki|Switcheroo|p2a: Porygon-Z
+|-activate|p1a: Klefki|move: Trick|[of] p2a: Porygon-Z
+|-item|p2a: Porygon-Z|Toxic Orb|[from] move: Switcheroo
+|-item|p1a: Klefki|Focus Sash|[from] move: Switcheroo
+|move|p2a: Porygon-Z|Tri Attack|p1a: Klefki
+|-resisted|p1a: Klefki
+|-damage|p1a: Klefki|28/100
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p2: Anish2410|move: Tailwind
+|-status|p2a: Porygon-Z|tox|[from] item: Toxic Orb
+|upkeep
+|turn|10
+|
+|t:|1641839434
+|move|p1a: Klefki|Switcheroo|p2a: Porygon-Z
+|-activate|p1a: Klefki|move: Trick|[of] p2a: Porygon-Z
+|-item|p2a: Porygon-Z|Focus Sash|[from] move: Switcheroo
+|-item|p1a: Klefki|Toxic Orb|[from] move: Switcheroo
+|move|p2a: Porygon-Z|Nasty Plot|p2a: Porygon-Z
+|-boost|p2a: Porygon-Z|spa|2
+|
+|-weather|none
+|-damage|p2a: Porygon-Z|77/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641839441
+|switch|p1a: Quagsire|Quagsire, F|100/100
+|move|p2a: Porygon-Z|Tri Attack|p1a: Quagsire
+|-damage|p1a: Quagsire|44/100
+|
+|-heal|p1a: Quagsire|50/100|[from] item: Leftovers
+|-damage|p2a: Porygon-Z|65/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641839461
+|move|p2a: Porygon-Z|Tri Attack|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|-damage|p2a: Porygon-Z|47/100 tox|[from] psn
+|upkeep
+|
+|t:|1641839467
+|switch|p1a: Nihilego|Nihilego|100/100
+|turn|13
+|
+|t:|1641839471
+|move|p1a: Nihilego|Power Gem|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1641839479
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|-item|p2a: Aegislash|Air Balloon
+|turn|14
+|
+|t:|1641839490
+|move|p1a: Nihilego|Power Gem|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|71/100
+|-enditem|p2a: Aegislash|Air Balloon
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Flash Cannon|p1a: Nihilego
+|-supereffective|p1a: Nihilego
+|-damage|p1a: Nihilego|37/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641839498
+|move|p1a: Nihilego|Power Gem|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|10/100
+|move|p2a: Aegislash|Flash Cannon|p1a: Nihilego
+|-supereffective|p1a: Nihilego
+|-damage|p1a: Nihilego|0 fnt
+|faint|p1a: Nihilego
+|
+|upkeep
+|
+|t:|1641839505
+|switch|p1a: Sirfetch’d|Sirfetch’d, F|100/100
+|turn|16
+|
+|t:|1641839509
+|-formechange|p2a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Sirfetch’d|First Impression|p2a: Aegislash
+|-activate|p2a: Aegislash|move: Protect
+|-unboost|p1a: Sirfetch’d|atk|1
+|
+|upkeep
+|turn|17
+|
+|t:|1641839520
+|switch|p1a: Klefki|Klefki, F|28/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|upkeep
+|
+|t:|1641839528
+|switch|p1a: Sirfetch’d|Sirfetch’d, F|100/100
+|turn|18
+|
+|t:|1641839531
+|-formechange|p2a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Sirfetch’d|Substitute|p1a: Sirfetch’d
+|-start|p1a: Sirfetch’d|Substitute
+|-damage|p1a: Sirfetch’d|76/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641839539
+|move|p1a: Sirfetch’d|Meteor Assault|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|-mustrecharge|p1a: Sirfetch’d
+|faint|p2a: Aegislash
+|
+|upkeep
+|
+|t:|1641839545
+|switch|p2a: Shuckle|Shuckle, M|100/100
+|turn|20
+|
+|t:|1641839548
+|cant|p1a: Sirfetch’d|recharge
+|move|p2a: Shuckle|Sticky Web|p1a: Sirfetch’d
+|-sidestart|p1: TheBoopening|move: Sticky Web
+|
+|upkeep
+|turn|21
+|
+|t:|1641839551
+|move|p1a: Sirfetch’d|Swords Dance|p1a: Sirfetch’d
+|-boost|p1a: Sirfetch’d|atk|2
+|move|p2a: Shuckle|Stealth Rock|p1a: Sirfetch’d
+|-sidestart|p1: TheBoopening|move: Stealth Rock
+|
+|upkeep
+|turn|22
+|
+|t:|1641839558
+|move|p1a: Sirfetch’d|Meteor Assault|p2a: Shuckle
+|-ability|p2a: Shuckle|Sturdy
+|-damage|p2a: Shuckle|1/100
+|-mustrecharge|p1a: Sirfetch’d
+|move|p2a: Shuckle|Toxic||[still]
+|-fail|p2a: Shuckle
+|
+|-heal|p2a: Shuckle|7/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641839566
+|cant|p1a: Sirfetch’d|recharge
+|move|p2a: Shuckle|Toxic||[still]
+|-fail|p2a: Shuckle
+|
+|-heal|p2a: Shuckle|13/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641839571
+|move|p2a: Shuckle|Protect|p2a: Shuckle
+|-singleturn|p2a: Shuckle|Protect
+|move|p1a: Sirfetch’d|Meteor Assault|p2a: Shuckle
+|-activate|p2a: Shuckle|move: Protect
+|
+|-heal|p2a: Shuckle|19/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641839583
+|move|p1a: Sirfetch’d|Meteor Assault|p2a: Shuckle
+|-damage|p2a: Shuckle|0 fnt
+|-mustrecharge|p1a: Sirfetch’d
+|faint|p2a: Shuckle
+|
+|upkeep
+|
+|t:|1641839588
+|switch|p2a: Sawk|Sawk, M|100/100
+|turn|26
+|
+|t:|1641839593
+|cant|p1a: Sirfetch’d|recharge
+|move|p2a: Sawk|Pain Split||[still]
+|-fail|p2a: Sawk
+|
+|upkeep
+|turn|27
+|
+|t:|1641839598
+|move|p1a: Sirfetch’d|Meteor Assault|p2a: Sawk
+|-ability|p2a: Sawk|Sturdy
+|-damage|p2a: Sawk|1/100
+|-mustrecharge|p1a: Sirfetch’d
+|move|p2a: Sawk|Pain Split||[still]
+|-fail|p2a: Sawk
+|
+|upkeep
+|turn|28
+|
+|t:|1641839605
+|cant|p1a: Sirfetch’d|recharge
+|move|p2a: Sawk|Pain Split||[still]
+|-fail|p2a: Sawk
+|
+|upkeep
+|turn|29
+|
+|t:|1641839610
+|move|p1a: Sirfetch’d|Meteor Assault|p2a: Sawk
+|-damage|p2a: Sawk|0 fnt
+|-mustrecharge|p1a: Sirfetch’d
+|faint|p2a: Sawk
+|
+|upkeep
+|
+|t:|1641839615
+|switch|p2a: Pelipper|Pelipper, M|36/100 par
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|30
+|
+|t:|1641839621
+|cant|p1a: Sirfetch’d|recharge
+|move|p2a: Pelipper|Knock Off|p1a: Sirfetch’d
+|-resisted|p1a: Sirfetch’d
+|-activate|p1a: Sirfetch’d|move: Substitute|[damage]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|31
+|-activate|p2a: Pelipper|item: Quick Claw
+|
+|t:|1641839627
+|move|p2a: Pelipper|Scald|p1a: Sirfetch’d
+|-end|p1a: Sirfetch’d|Substitute
+|move|p1a: Sirfetch’d|Meteor Assault|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-mustrecharge|p1a: Sirfetch’d
+|faint|p2a: Pelipper
+|
+|win|TheBoopening
+|raw|TheBoopening's rating: 1090 &rarr; <strong>1117</strong><br />(+27 for winning)
+|raw|Anish2410's rating: 1093 &rarr; <strong>1069</strong><br />(-24 for losing)
+|l|☆Anish2410

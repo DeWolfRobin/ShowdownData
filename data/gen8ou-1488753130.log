@@ -1,0 +1,142 @@
+|j|☆EnemyDark
+|j|☆DumbLick1337
+|t:|1641816038
+|gametype|singles
+|player|p1|EnemyDark|170|1000
+|player|p2|DumbLick1337|102|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Urshifu-*, M|
+|poke|p1|Gigalith, M|
+|poke|p1|Golisopod, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Flygon, M|
+|poke|p1|Raichu-Alola, M|
+|poke|p2|Seismitoad, M|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Hippowdon, F|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641816048
+|start
+|switch|p1a: Gigalith|Gigalith, M, shiny|100/100
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|1
+|
+|t:|1641816054
+|move|p2a: rotomheat|Volt Switch|p1a: Gigalith
+|-damage|p1a: Gigalith|63/100
+|
+|t:|1641816055
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from]move: Volt Switch
+|move|p1a: Gigalith|Weather Ball|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|2
+|
+|t:|1641816065
+|move|p2a: Dragapult|Draco Meteor|p1a: Gigalith
+|-damage|p1a: Gigalith|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Gigalith
+|
+|upkeep
+|
+|t:|1641816071
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|turn|3
+|
+|t:|1641816077
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641816085
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: Hippowdon|Stealth Rock|p1a: Bisharp
+|-sidestart|p1: EnemyDark|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641816088
+|move|p1a: Bisharp|Lash Out|p2a: Hippowdon
+|-damage|p2a: Hippowdon|77/100
+|-damage|p1a: Bisharp|84/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Earthquake|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|8/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641816096
+|move|p1a: Bisharp|Power-Up Punch|p2a: Hippowdon
+|-damage|p2a: Hippowdon|70/100
+|-boost|p1a: Bisharp|atk|1
+|-damage|p1a: Bisharp|0 fnt|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|faint|p1a: Bisharp
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641816104
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641816110
+|move|p1a: Urshifu|Surging Strikes|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|79/100
+|-damage|p1a: Urshifu|78/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|55/100
+|-damage|p1a: Urshifu|61/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|32/100
+|-damage|p1a: Urshifu|45/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|-hitcount|p2a: Hippowdon|3
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|82/100
+|
+|-weather|none
+|upkeep
+|turn|8
+|-message|EnemyDark forfeited.
+|
+|win|DumbLick1337
+|raw|EnemyDark's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|DumbLick1337's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|c|☆DumbLick1337|gg
+|l|☆EnemyDark

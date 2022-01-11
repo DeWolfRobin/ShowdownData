@@ -1,0 +1,333 @@
+|j|☆Team Rocket 01010
+|j|☆lightskinquadgod
+|t:|1641880199
+|gametype|singles
+|player|p1|Team Rocket 01010|266|1138
+|player|p2|lightskinquadgod|hoopster|1112
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mimikyu, F|
+|poke|p1|Thundurus, M|
+|poke|p1|Scizor, F|
+|poke|p1|Heatran, F|
+|poke|p1|Torkoal, M|
+|poke|p1|Dragonite, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Melmetal|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Urshifu-*, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Team Rocket 01010)
+|
+|t:|1641880227
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1641880236
+|move|p2a: Dragapult|U-turn|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|95/100
+|
+|t:|1641880242
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|move|p1a: Torkoal|Stealth Rock|p2a: Urshifu
+|-sidestart|p2: lightskinquadgod|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641880251
+|move|p2a: Urshifu|Surging Strikes|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|84/100
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|72/100
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|60/100
+|-hitcount|p1a: Torkoal|3
+|move|p1a: Torkoal|Body Press|p2a: Urshifu
+|-damage|p2a: Urshifu|70/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|c|☆lightskinquadgod|wtf
+|
+|t:|1641880264
+|move|p2a: Urshifu|Surging Strikes|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|49/100
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|38/100
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|26/100
+|-hitcount|p1a: Torkoal|3
+|move|p1a: Torkoal|Body Press|p2a: Urshifu
+|-damage|p2a: Urshifu|37/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641880277
+|move|p2a: Urshifu|Surging Strikes|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|15/100
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|3/100
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|-hitcount|p1: Torkoal|3
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641880286
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|turn|5
+|
+|t:|1641880295
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Thundurus|Volt Switch|p2a: Melmetal
+|-damage|p2a: Melmetal|79/100
+|
+|t:|1641880300
+|switch|p1a: Heatran|Heatran, F|100/100|[from]move: Volt Switch
+|-item|p1a: Heatran|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641880308
+|move|p1a: Heatran|Fire Blast|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641880313
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|turn|7
+|
+|t:|1641880322
+|move|p2a: Landorus|Stone Edge|p1a: Heatran
+|-damage|p1a: Heatran|67/100
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Solar Beam||[still]
+|-prepare|p1a: Heatran|Solar Beam
+|-anim|p1a: Heatran|Solar Beam|p2a: Landorus
+|-damage|p2a: Landorus|34/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Landorus|40/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641880336
+|move|p2a: Landorus|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|none
+|-heal|p2a: Landorus|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641880340
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|9
+|
+|t:|1641880349
+|move|p2a: Landorus|Stone Edge|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|61/100
+|-enditem|p1a: Dragonite|Weakness Policy
+|-boost|p1a: Dragonite|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Dragonite|spa|2|[from] item: Weakness Policy
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-heal|p2a: Landorus|52/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641880360
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|1
+|
+|upkeep
+|
+|t:|1641880368
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|11
+|
+|t:|1641880378
+|move|p2a: Rillaboom|Grassy Glide|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|44/100
+|-damage|p2a: Rillaboom|78/100|[from] item: Life Orb
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-hitcount|p2: Rillaboom|1
+|
+|upkeep
+|
+|t:|1641880391
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|37/100
+|-damage|p2a: Urshifu|31/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641880395
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Urshifu|[miss]
+|-miss|p1a: Dragonite|p2a: Urshifu
+|move|p2a: Urshifu|Surging Strikes|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|32/100
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|20/100
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|9/100
+|-hitcount|p1a: Dragonite|3
+|
+|-heal|p2a: Urshifu|37/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641880408
+|move|p2a: Urshifu|Aqua Jet|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Urshifu|43/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641880415
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|turn|14
+|inactive|lightskinquadgod has 120 seconds left.
+|
+|t:|1641880448
+|move|p2a: Urshifu|Aqua Jet|p1a: Thundurus
+|-damage|p1a: Thundurus|76/100
+|move|p1a: Thundurus|Volt Switch|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|t:|1641880455
+|switch|p1a: Scizor|Scizor, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|inactive|lightskinquadgod has 120 seconds left.
+|
+|t:|1641880476
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641880479
+|move|p2a: Dragapult|Fire Blast|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-heal|p2a: Dragapult|94/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641880483
+|switch|p1a: Thundurus|Thundurus, M|76/100
+|turn|16
+|
+|t:|1641880488
+|move|p2a: Dragapult|Fire Blast|p1a: Thundurus
+|-damage|p1a: Thundurus|16/100
+|move|p1a: Thundurus|Volt Switch|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|74/100
+|
+|t:|1641880494
+|switch|p1a: Mimikyu|Mimikyu, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|17
+|
+|t:|1641880498
+|move|p2a: Dragapult|Fire Blast|p1a: Mimikyu|[miss]
+|-miss|p2a: Dragapult|p1a: Mimikyu
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1641880504
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641880509
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|turn|19
+|
+|t:|1641880517
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|move|p1a: Mimikyu|Play Rough|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|win|Team Rocket 01010
+|raw|Team Rocket 01010's rating: 1138 &rarr; <strong>1161</strong><br />(+23 for winning)
+|raw|lightskinquadgod's rating: 1112 &rarr; <strong>1089</strong><br />(-23 for losing)
+|c|☆Team Rocket 01010|gg
+|c|☆lightskinquadgod|oof
+|c|☆lightskinquadgod|gg

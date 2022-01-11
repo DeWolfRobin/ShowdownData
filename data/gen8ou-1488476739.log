@@ -1,0 +1,605 @@
+|j|☆pokjbb
+|j|☆xaviane
+|t:|1641770290
+|gametype|singles
+|player|p1|pokjbb|170|1143
+|player|p2|xaviane|jogger|1103
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Alakazam, M|
+|poke|p1|Golisopod, M|
+|poke|p1|Steelix, F|
+|poke|p1|Morpeko, M|
+|poke|p1|Flapple, F|
+|poke|p1|Togekiss, M|
+|poke|p2|Quagsire, F|
+|poke|p2|Corsola-Galar, M|
+|poke|p2|Audino, M|
+|poke|p2|Mesprit|
+|poke|p2|Avalugg, F|
+|poke|p2|Weezing, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by xaviane)
+|
+|t:|1641770299
+|start
+|switch|p1a: Togekiss|Togekiss, M|100/100
+|switch|p2a: Corsola|Corsola-Galar, M|100/100
+|turn|1
+|
+|t:|1641770306
+|move|p1a: Togekiss|Thunder Wave|p2a: Corsola
+|-status|p2a: Corsola|par
+|move|p2a: Corsola|Will-O-Wisp|p1a: Togekiss
+|-status|p1a: Togekiss|brn
+|
+|-damage|p1a: Togekiss|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641770341
+|move|p1a: Togekiss|Air Slash|p2a: Corsola
+|-damage|p2a: Corsola|79/100 par
+|cant|p2a: Corsola|flinch
+|
+|-damage|p1a: Togekiss|88/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641770348
+|move|p1a: Togekiss|Air Slash|p2a: Corsola
+|-damage|p2a: Corsola|57/100 par
+|cant|p2a: Corsola|flinch
+|
+|-damage|p1a: Togekiss|82/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641770355
+|move|p1a: Togekiss|Air Slash|p2a: Corsola
+|-crit|p2a: Corsola
+|-damage|p2a: Corsola|23/100 par
+|-start|p1a: Togekiss|Disable|Air Slash|[from] ability: Cursed Body|[of] p2a: Corsola
+|cant|p2a: Corsola|flinch
+|
+|-damage|p1a: Togekiss|76/100 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641770376
+|switch|p2a: Audino|Audino, M|100/100
+|move|p1a: Togekiss|Thunder Wave|p2a: Audino
+|-status|p2a: Audino|par
+|
+|-damage|p1a: Togekiss|70/100 brn|[from] brn
+|upkeep
+|turn|6
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641770385
+|switch|p1a: Steelix|Steelix, F|100/100
+|move|p2a: Audino|Heal Bell|p2a: Audino
+|-activate|p2a: Audino|move: Heal Bell
+|-curestatus|p2a: Audino|par|[msg]
+|-curestatus|p2: Corsola|par|[msg]
+|
+|upkeep
+|turn|7
+|
+|t:|1641770394
+|move|p2a: Audino|Knock Off|p1a: Steelix
+|-damage|p1a: Steelix|94/100
+|-enditem|p1a: Steelix|Leftovers|[from] move: Knock Off|[of] p2a: Audino
+|move|p1a: Steelix|Body Press|p2a: Audino
+|-supereffective|p2a: Audino
+|-damage|p2a: Audino|26/100
+|
+|-heal|p2a: Audino|32/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641770404
+|switch|p2a: Corsola|Corsola-Galar, M|23/100
+|move|p1a: Steelix|Earthquake|p2a: Corsola
+|-damage|p2a: Corsola|7/100
+|-start|p1a: Steelix|Disable|Earthquake|[from] ability: Cursed Body|[of] p2a: Corsola
+|
+|upkeep
+|turn|9
+|
+|t:|1641770413
+|switch|p1a: Togekiss|Togekiss, M|70/100 brn
+|move|p2a: Corsola|Strength Sap|p1a: Togekiss
+|-unboost|p1a: Togekiss|atk|1
+|-heal|p2a: Corsola|36/100
+|
+|-damage|p1a: Togekiss|64/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641770422
+|move|p1a: Togekiss|Air Slash|p2a: Corsola
+|-damage|p2a: Corsola|13/100
+|cant|p2a: Corsola|flinch
+|
+|-damage|p1a: Togekiss|57/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641770430
+|switch|p2a: Audino|Audino, M|65/100
+|move|p1a: Togekiss|Air Slash|p2a: Audino
+|-damage|p2a: Audino|46/100
+|
+|-heal|p2a: Audino|52/100|[from] item: Leftovers
+|-damage|p1a: Togekiss|51/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1641770438
+|move|p1a: Togekiss|Thunder Wave|p2a: Audino
+|-status|p2a: Audino|par
+|cant|p2a: Audino|par
+|
+|-heal|p2a: Audino|58/100 par|[from] item: Leftovers
+|-damage|p1a: Togekiss|45/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641770445
+|move|p1a: Togekiss|Air Slash|p2a: Audino
+|-damage|p2a: Audino|40/100 par
+|cant|p2a: Audino|flinch
+|
+|-heal|p2a: Audino|46/100 par|[from] item: Leftovers
+|-damage|p1a: Togekiss|39/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641770452
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Togekiss|Air Slash|p2a: Audino
+|-activate|p2a: Audino|move: Protect
+|
+|-heal|p2a: Audino|52/100 par|[from] item: Leftovers
+|-damage|p1a: Togekiss|33/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641770459
+|move|p1a: Togekiss|Air Slash|p2a: Audino
+|-damage|p2a: Audino|31/100 par
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|-heal|p2a: Audino|37/100 par|[from] item: Leftovers
+|-damage|p1a: Togekiss|27/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641770465
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Togekiss|Roost|p1a: Togekiss
+|-heal|p1a: Togekiss|77/100 brn
+|-singleturn|p1a: Togekiss|move: Roost
+|
+|-heal|p2a: Audino|87/100 par|[from] move: Wish|[wisher] Audino
+|-heal|p2a: Audino|93/100 par|[from] item: Leftovers
+|-damage|p1a: Togekiss|71/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641770476
+|move|p1a: Togekiss|Air Slash|p2a: Audino
+|-damage|p2a: Audino|74/100 par
+|cant|p2a: Audino|flinch
+|
+|-heal|p2a: Audino|80/100 par|[from] item: Leftovers
+|-damage|p1a: Togekiss|64/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641770483
+|move|p1a: Togekiss|Air Slash|p2a: Audino
+|-damage|p2a: Audino|59/100 par
+|cant|p2a: Audino|flinch
+|
+|-heal|p2a: Audino|65/100 par|[from] item: Leftovers
+|-damage|p1a: Togekiss|58/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641770489
+|cant|p2a: Audino|par
+|move|p1a: Togekiss|Air Slash|p2a: Audino
+|-damage|p2a: Audino|47/100 par
+|
+|-heal|p2a: Audino|53/100 par|[from] item: Leftovers
+|-damage|p1a: Togekiss|52/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641770496
+|switch|p1a: Steelix|Steelix, F|94/100
+|move|p2a: Audino|Protect||[still]
+|-fail|p2a: Audino
+|
+|-heal|p2a: Audino|59/100 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641770505
+|switch|p2a: Quagsire|Quagsire, F|100/100
+|move|p1a: Steelix|Earthquake|p2a: Quagsire
+|-damage|p2a: Quagsire|80/100
+|
+|-heal|p2a: Quagsire|86/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641770514
+|move|p1a: Steelix|Toxic|p2a: Quagsire
+|-status|p2a: Quagsire|tox
+|move|p2a: Quagsire|Scald|p1a: Steelix
+|-supereffective|p1a: Steelix
+|-damage|p1a: Steelix|38/100
+|-status|p1a: Steelix|brn
+|
+|-heal|p2a: Quagsire|92/100 tox|[from] item: Leftovers
+|-damage|p2a: Quagsire|86/100 tox|[from] psn
+|-damage|p1a: Steelix|32/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641770524
+|move|p1a: Steelix|Body Press|p2a: Quagsire
+|-damage|p2a: Quagsire|72/100 tox
+|move|p2a: Quagsire|Scald|p1a: Steelix
+|-supereffective|p1a: Steelix
+|-damage|p1a: Steelix|0 fnt
+|faint|p1a: Steelix
+|
+|-heal|p2a: Quagsire|78/100 tox|[from] item: Leftovers
+|-damage|p2a: Quagsire|66/100 tox|[from] psn
+|upkeep
+|
+|t:|1641770536
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|turn|24
+|
+|t:|1641770543
+|switch|p2a: Audino|Audino, M|92/100 par
+|move|p1a: Alakazam|Calm Mind|p1a: Alakazam
+|-boost|p1a: Alakazam|spa|1
+|-boost|p1a: Alakazam|spd|1
+|
+|-heal|p2a: Audino|98/100 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641770553
+|move|p1a: Alakazam|Psychic|p2a: Audino
+|-crit|p2a: Audino
+|-damage|p2a: Audino|28/100 par
+|move|p2a: Audino|Knock Off|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-damage|p1a: Alakazam|24/100
+|-enditem|p1a: Alakazam|Focus Sash|[from] move: Knock Off|[of] p2a: Audino
+|
+|-heal|p2a: Audino|34/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641770561
+|move|p2a: Audino|Protect|p2a: Audino
+|-singleturn|p2a: Audino|Protect
+|move|p1a: Alakazam|Psychic|p2a: Audino
+|-activate|p2a: Audino|move: Protect
+|
+|-heal|p2a: Audino|41/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641770574
+|move|p1a: Alakazam|Psychic|p2a: Audino
+|-damage|p2a: Audino|0 fnt
+|faint|p2a: Audino
+|
+|upkeep
+|
+|t:|1641770584
+|switch|p2a: Mesprit|Mesprit|100/100
+|turn|28
+|
+|t:|1641770590
+|switch|p1a: Togekiss|Togekiss, M|52/100 brn
+|move|p2a: Mesprit|Shadow Ball|p1a: Togekiss
+|-damage|p1a: Togekiss|34/100 brn
+|
+|-damage|p1a: Togekiss|28/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641770598
+|move|p2a: Mesprit|Psychic|p1a: Togekiss
+|-damage|p1a: Togekiss|0 fnt
+|faint|p1a: Togekiss
+|
+|upkeep
+|
+|t:|1641770604
+|switch|p1a: Morpeko|Morpeko, M|100/100
+|turn|30
+|
+|t:|1641770609
+|switch|p2a: Quagsire|Quagsire, F|66/100 tox
+|move|p1a: Morpeko|Aura Wheel|p2a: Quagsire
+|-immune|p2a: Quagsire
+|
+|-heal|p2a: Quagsire|72/100 tox|[from] item: Leftovers
+|-damage|p2a: Quagsire|66/100 tox|[from] psn
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|31
+|
+|t:|1641770620
+|move|p1a: Morpeko|Protect|p1a: Morpeko
+|-singleturn|p1a: Morpeko|Protect
+|move|p2a: Quagsire|Earthquake|p1a: Morpeko
+|-activate|p1a: Morpeko|move: Protect
+|
+|-heal|p2a: Quagsire|72/100 tox|[from] item: Leftovers
+|-damage|p2a: Quagsire|60/100 tox|[from] psn
+|-formechange|p1a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|32
+|
+|t:|1641770629
+|switch|p1a: Golisopod|Golisopod, M|100/100
+|move|p2a: Quagsire|Recover|p2a: Quagsire
+|-heal|p2a: Quagsire|100/100 tox
+|
+|-damage|p2a: Quagsire|82/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641770637
+|switch|p2a: Avalugg|Avalugg, F|100/100
+|move|p1a: Golisopod|Knock Off|p2a: Avalugg
+|-damage|p2a: Avalugg|86/100
+|-enditem|p2a: Avalugg|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Golisopod
+|
+|upkeep
+|turn|34
+|
+|t:|1641770647
+|move|p1a: Golisopod|Leech Life|p2a: Avalugg
+|-damage|p2a: Avalugg|67/100
+|move|p2a: Avalugg|Avalanche|p1a: Golisopod
+|-resisted|p1a: Golisopod
+|-damage|p1a: Golisopod|84/100
+|
+|upkeep
+|turn|35
+|
+|t:|1641770654
+|move|p1a: Golisopod|Liquidation|p2a: Avalugg
+|-damage|p2a: Avalugg|49/100
+|move|p2a: Avalugg|Body Press|p1a: Golisopod
+|-resisted|p1a: Golisopod
+|-damage|p1a: Golisopod|69/100
+|
+|upkeep
+|turn|36
+|
+|t:|1641770662
+|move|p1a: Golisopod|Liquidation|p2a: Avalugg
+|-damage|p2a: Avalugg|30/100
+|-unboost|p2a: Avalugg|def|1
+|move|p2a: Avalugg|Recover|p2a: Avalugg
+|-heal|p2a: Avalugg|80/100
+|
+|upkeep
+|turn|37
+|
+|t:|1641770673
+|switch|p2a: Quagsire|Quagsire, F|82/100 tox
+|move|p1a: Golisopod|Leech Life|p2a: Quagsire
+|-damage|p2a: Quagsire|50/100 tox
+|-heal|p1a: Golisopod|87/100|[from] drain|[of] p2a: Quagsire
+|
+|-heal|p2a: Quagsire|56/100 tox|[from] item: Leftovers
+|-damage|p2a: Quagsire|50/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1641770682
+|move|p1a: Golisopod|Leech Life|p2a: Quagsire
+|-damage|p2a: Quagsire|17/100 tox
+|-heal|p1a: Golisopod|100/100|[from] drain|[of] p2a: Quagsire
+|move|p2a: Quagsire|Toxic|p1a: Golisopod
+|-status|p1a: Golisopod|tox
+|
+|-heal|p2a: Quagsire|23/100 tox|[from] item: Leftovers
+|-damage|p1a: Golisopod|94/100 tox|[from] psn
+|-damage|p2a: Quagsire|11/100 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1641770694
+|switch|p2a: Weezing|Weezing, M|100/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|move|p1a: Golisopod|Leech Life|p2a: Weezing
+|-resisted|p2a: Weezing
+|-damage|p2a: Weezing|85/100
+|-heal|p1a: Golisopod|100/100 tox|[from] drain|[of] p2a: Weezing
+|
+|-heal|p2a: Weezing|91/100|[from] item: Black Sludge
+|-damage|p1a: Golisopod|88/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641770705
+|move|p2a: Weezing|Toxic Spikes|p1a: Golisopod
+|-sidestart|p1: pokjbb|move: Toxic Spikes
+|move|p1a: Golisopod|Knock Off|p2a: Weezing
+|-damage|p2a: Weezing|67/100
+|-enditem|p2a: Weezing|Black Sludge|[from] move: Knock Off|[of] p1a: Golisopod
+|
+|-damage|p1a: Golisopod|69/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1641770722
+|move|p2a: Weezing|Toxic Spikes|p1a: Golisopod
+|-sidestart|p1: pokjbb|move: Toxic Spikes
+|move|p1a: Golisopod|Liquidation|p2a: Weezing
+|-damage|p2a: Weezing|33/100
+|-unboost|p2a: Weezing|def|1
+|
+|-damage|p1a: Golisopod|45/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641770733
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|switch|p2a: Avalugg|Avalugg, F|80/100
+|move|p1a: Golisopod|Liquidation|p2a: Avalugg
+|-damage|p2a: Avalugg|60/100
+|-unboost|p2a: Avalugg|def|1
+|
+|-damage|p1a: Golisopod|13/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1641770741
+|move|p1a: Golisopod|Liquidation|p2a: Avalugg
+|-damage|p2a: Avalugg|30/100
+|move|p2a: Avalugg|Recover|p2a: Avalugg
+|-heal|p2a: Avalugg|80/100
+|
+|-damage|p1a: Golisopod|0 fnt|[from] psn
+|faint|p1a: Golisopod
+|upkeep
+|
+|t:|1641770748
+|switch|p1a: Alakazam|Alakazam, M|24/100
+|-status|p1a: Alakazam|tox
+|turn|44
+|
+|t:|1641770756
+|switch|p2a: Mesprit|Mesprit|100/100
+|move|p1a: Alakazam|Psychic|p2a: Mesprit
+|-resisted|p2a: Mesprit
+|-damage|p2a: Mesprit|73/100
+|
+|upkeep
+|turn|45
+|
+|t:|1641770769
+|switch|p1a: Flapple|Flapple, F|100/100
+|-status|p1a: Flapple|tox
+|move|p2a: Mesprit|Shadow Ball|p1a: Flapple
+|-damage|p1a: Flapple|55/100 tox
+|
+|-damage|p1a: Flapple|49/100 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1641770777
+|move|p1a: Flapple|Outrage|p2a: Mesprit
+|-damage|p2a: Mesprit|14/100
+|move|p2a: Mesprit|Dazzling Gleam|p1a: Flapple
+|-supereffective|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|upkeep
+|
+|t:|1641770801
+|switch|p1a: Alakazam|Alakazam, M|24/100 tox
+|turn|47
+|
+|t:|1641770804
+|move|p1a: Alakazam|Psychic|p2a: Mesprit
+|-resisted|p2a: Mesprit
+|-damage|p2a: Mesprit|0 fnt
+|faint|p2a: Mesprit
+|
+|upkeep
+|
+|t:|1641770818
+|switch|p2a: Avalugg|Avalugg, F|80/100
+|turn|48
+|
+|t:|1641770821
+|move|p1a: Alakazam|Psychic|p2a: Avalugg
+|-damage|p2a: Avalugg|4/100
+|move|p2a: Avalugg|Recover|p2a: Avalugg
+|-heal|p2a: Avalugg|54/100
+|
+|upkeep
+|turn|49
+|
+|t:|1641770834
+|move|p1a: Alakazam|Psychic|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|faint|p2a: Avalugg
+|
+|upkeep
+|
+|t:|1641770842
+|switch|p2a: Quagsire|Quagsire, F|11/100 tox
+|turn|50
+|
+|t:|1641770856
+|move|p1a: Alakazam|Energy Ball|p2a: Quagsire
+|-supereffective|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|
+|upkeep
+|inactive|xaviane has 120 seconds left.
+|
+|t:|1641770898
+|switch|p2a: Weezing|Weezing, M|33/100
+|-ability|p2a: Weezing|Neutralizing Gas
+|turn|51
+|
+|t:|1641770911
+|move|p1a: Alakazam|Psychic|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|-end|p2a: Weezing|ability: Neutralizing Gas
+|
+|upkeep
+|
+|t:|1641770915
+|switch|p2a: Corsola|Corsola-Galar, M|13/100
+|turn|52
+|
+|t:|1641770920
+|move|p1a: Alakazam|Psychic|p2a: Corsola
+|-damage|p2a: Corsola|0 fnt
+|faint|p2a: Corsola
+|
+|win|pokjbb
+|raw|pokjbb's rating: 1143 &rarr; <strong>1165</strong><br />(+22 for winning)
+|raw|xaviane's rating: 1103 &rarr; <strong>1081</strong><br />(-22 for losing)
+|l|☆xaviane

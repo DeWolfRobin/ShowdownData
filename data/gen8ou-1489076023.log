@@ -1,0 +1,1323 @@
+|j|☆comradesquidwar
+|j|☆6IX9INESHOODA
+|t:|1641853604
+|gametype|singles
+|player|p1|comradesquidwar|janitor|1618
+|player|p2|6IX9INESHOODA|2|1588
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Gengar, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Garchomp, F|
+|poke|p2|Magnezone|
+|poke|p2|Clefable, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Salazzle, F|
+|poke|p2|Appletun, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by comradesquidwar)
+|j| Tweety McTweet
+|j| Venture Laddering
+|
+|t:|1641853616
+|start
+|switch|p1a: Garchomp|Garchomp, F, shiny|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|
+|t:|1641853620
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: Garchomp|Fire Blast|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|80/100
+|-damage|p1a: Garchomp|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1641853627
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|move|p2a: Mandibuzz|Foul Play|p1a: Toxapex
+|-damage|p1a: Toxapex|85/100
+|-damage|p2a: Mandibuzz|63/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|upkeep
+|turn|3
+|
+|t:|1641853636
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|move|p1a: Toxapex|Knock Off|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|95/100
+|-enditem|p2a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|upkeep
+|turn|4
+|
+|t:|1641853644
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Toxapex|Knock Off|p2a: Magnezone
+|-damage|p2a: Magnezone|88/100
+|-enditem|p2a: Magnezone|Leftovers|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|upkeep
+|turn|5
+|
+|t:|1641853653
+|switch|p2a: Clefable|Clefable, M|100/100
+|switch|p1a: Slowbro|Slowbro, F, shiny|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641853658
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Slowbro|Whirlpool|p2a: Clefable
+|-damage|p2a: Clefable|90/100
+|-activate|p2a: Clefable|move: Whirlpool|[of] p1a: Slowbro
+|
+|-heal|p2a: Clefable|96/100|[from] item: Leftovers
+|-damage|p2a: Clefable|84/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1641853661
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|77/100
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Clefable|100/100|[from] move: Wish|[wisher] Clefable
+|-damage|p2a: Clefable|88/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641853666
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|57/100
+|move|p1a: Slowbro|Ice Beam|p2a: Clefable
+|-damage|p2a: Clefable|71/100
+|
+|-heal|p2a: Clefable|77/100|[from] item: Leftovers
+|-damage|p2a: Clefable|64/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641853670
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Slowbro|Ice Beam|p2a: Clefable
+|-damage|p2a: Clefable|47/100
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|17/100
+|-heal|p2a: Clefable|23/100|[from] item: Leftovers
+|-damage|p2a: Clefable|11/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1641853675
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Clefable|61/100|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Clefable|67/100|[from] item: Leftovers
+|-end|p2a: Clefable|Whirlpool|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1641853677
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Slowbro|Whirlpool|p2a: Clefable
+|-damage|p2a: Clefable|57/100
+|-activate|p2a: Clefable|move: Whirlpool|[of] p1a: Slowbro
+|
+|-heal|p2a: Clefable|63/100|[from] item: Leftovers
+|-damage|p2a: Clefable|50/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1641853679
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Slowbro|Ice Beam|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|20/100
+|-heal|p2a: Clefable|70/100|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Clefable|76/100|[from] item: Leftovers
+|-damage|p2a: Clefable|64/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|13
+|
+|t:|1641853685
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Clefable|70/100|[from] item: Leftovers
+|-damage|p2a: Clefable|57/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1641853688
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|33/100
+|-unboost|p1a: Slowbro|spa|1
+|move|p1a: Slowbro|Ice Beam|p2a: Clefable
+|-damage|p2a: Clefable|41/100
+|
+|-heal|p2a: Clefable|91/100|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Clefable|97/100|[from] item: Leftovers
+|-damage|p2a: Clefable|85/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1641853696
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|move|p2a: Clefable|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|88/100
+|-unboost|p1a: Toxapex|spa|1
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|51/100
+|-heal|p2a: Clefable|57/100|[from] item: Leftovers
+|-end|p2a: Clefable|Whirlpool|[partiallytrapped]|[silent]
+|upkeep
+|turn|16
+|
+|t:|1641853699
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Toxapex|Knock Off|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-heal|p2a: Clefable|63/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641853702
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Toxapex|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|56/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|upkeep
+|turn|18
+|
+|t:|1641853705
+|switch|p1a: Slowbro|Slowbro, F, shiny|67/100
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|45/100
+|
+|-heal|p2a: Clefable|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|19
+|
+|t:|1641853710
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Slowbro|Future Sight|p2a: Ferrothorn
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|20
+|
+|t:|1641853714
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|21
+|
+|t:|1641853717
+|move|p1a: Tornadus|Taunt|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|move: Taunt
+|move|p2a: Ferrothorn|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|81/100
+|-enditem|p1a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|83/100
+|-heal|p2a: Ferrothorn|90/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641853722
+|switch|p2a: Magnezone|Magnezone|88/100
+|move|p1a: Tornadus|Defog|p2a: Magnezone
+|-unboost|p2a: Magnezone|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|
+|upkeep
+|turn|23
+|
+|t:|1641853728
+|move|p1a: Tornadus|U-turn|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|82/100
+|
+|t:|1641853731
+|switch|p1a: Slowbro|Slowbro, F, shiny|78/100|[from]move: U-turn
+|move|p2a: Magnezone|Volt Switch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|37/100
+|
+|t:|1641853739
+|switch|p2a: Ferrothorn|Ferrothorn, M|90/100|[from]move: Volt Switch
+|
+|-heal|p2a: Ferrothorn|96/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641853743
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641853746
+|switch|p2a: Magnezone|Magnezone|82/100
+|move|p1a: Tornadus|Defog|p2a: Magnezone
+|-unboost|p2a: Magnezone|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|
+|upkeep
+|turn|26
+|
+|t:|1641853752
+|move|p1a: Tornadus|U-turn|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|75/100
+|
+|t:|1641853755
+|switch|p1a: Garchomp|Garchomp, F, shiny|91/100|[from]move: U-turn
+|move|p2a: Magnezone|Body Press|p1a: Garchomp
+|-damage|p1a: Garchomp|69/100
+|-damage|p2a: Magnezone|62/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|upkeep
+|turn|27
+|
+|t:|1641853759
+|switch|p2a: Mandibuzz|Mandibuzz, F|95/100
+|move|p1a: Garchomp|Stealth Rock|p2a: Mandibuzz
+|-sidestart|p2: 6IX9INESHOODA|move: Stealth Rock
+|
+|upkeep
+|turn|28
+|
+|t:|1641853768
+|switch|p1a: Clefable|Clefable, F, shiny|100/100
+|move|p2a: Mandibuzz|Defog|p1a: Clefable
+|-unboost|p1a: Clefable|evasion|1
+|-sideend|p2: 6IX9INESHOODA|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|
+|upkeep
+|turn|29
+|
+|t:|1641853777
+|move|p2a: Mandibuzz|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|96/100
+|
+|t:|1641853780
+|switch|p2a: Salazzle|Salazzle, F|100/100|[from]move: U-turn
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|30
+|
+|t:|1641853784
+|move|p2a: Salazzle|Toxic|p1a: Clefable
+|-status|p1a: Clefable|tox
+|move|p1a: Clefable|Moonblast|p2a: Salazzle
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|77/100
+|-unboost|p2a: Salazzle|spa|1
+|
+|-heal|p2a: Salazzle|83/100|[from] item: Black Sludge
+|upkeep
+|turn|31
+|
+|t:|1641853789
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|49/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641853793
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|upkeep
+|turn|33
+|
+|t:|1641853795
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|17/100
+|-unboost|p2a: Clefable|spa|1
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|34
+|
+|t:|1641853798
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|67/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|35
+|
+|t:|1641853801
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|33/100
+|
+|upkeep
+|turn|36
+|
+|t:|1641853804
+|switch|p1a: Gengar|Gengar, M|100/100
+|move|p2a: Clefable|Wish||[still]
+|-fail|p2a: Clefable
+|
+|-heal|p2a: Clefable|83/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|37
+|
+|t:|1641853813
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Gengar|Trick|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|upkeep
+|turn|38
+|
+|t:|1641853824
+|switch|p2a: Magnezone|Magnezone|62/100
+|move|p1a: Gengar|Trick|p2a: Magnezone
+|-activate|p1a: Gengar|move: Trick|[of] p2a: Magnezone
+|-item|p2a: Magnezone|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Gengar|Choice Scarf|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|39
+|
+|t:|1641853830
+|switch|p1a: Slowbro|Slowbro, F, shiny|70/100
+|move|p2a: Magnezone|Volt Switch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|29/100
+|
+|t:|1641853834
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|40
+|
+|t:|1641853838
+|switch|p1a: Garchomp|Garchomp, F, shiny|69/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|41
+|
+|t:|1641853842
+|switch|p2a: Mandibuzz|Mandibuzz, F|95/100
+|move|p1a: Garchomp|Fire Blast|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|73/100
+|-damage|p1a: Garchomp|60/100|[from] item: Life Orb
+|
+|upkeep
+|turn|42
+|
+|t:|1641853847
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Mandibuzz|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|85/100
+|-damage|p2a: Mandibuzz|57/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|t:|1641853857
+|switch|p2a: Clefable|Clefable, M|83/100|[from]move: U-turn
+|
+|upkeep
+|turn|43
+|
+|t:|1641853864
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|44
+|
+|t:|1641853868
+|switch|p2a: Magnezone|Magnezone|62/100
+|move|p1a: Tornadus|Defog|p2a: Magnezone
+|-unboost|p2a: Magnezone|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|
+|-heal|p2a: Magnezone|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|45
+|
+|t:|1641853873
+|switch|p1a: Slowbro|Slowbro, F, shiny|63/100
+|move|p2a: Magnezone|Volt Switch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|19/100
+|
+|t:|1641853876
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|46
+|
+|t:|1641853880
+|switch|p1a: Clefable|Clefable, F, shiny|96/100 tox
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Clefable
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|47
+|
+|t:|1641853886
+|switch|p2a: Clefable|Clefable, M|83/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|48
+|
+|t:|1641853889
+|switch|p1a: Gengar|Gengar, M|100/100
+|-damage|p1a: Gengar|88/100|[from] Stealth Rock
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|49
+|
+|t:|1641853893
+|switch|p2a: Mandibuzz|Mandibuzz, F|57/100
+|move|p1a: Gengar|Nasty Plot|p1a: Gengar
+|-boost|p1a: Gengar|spa|2
+|
+|-heal|p2a: Mandibuzz|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|50
+|
+|t:|1641853911
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: Mandibuzz|Foul Play|p1a: Tornadus
+|-damage|p1a: Tornadus|46/100
+|
+|upkeep
+|turn|51
+|
+|t:|1641853916
+|move|p1a: Tornadus|Defog|p2a: Mandibuzz
+|-unboost|p2a: Mandibuzz|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|move|p2a: Mandibuzz|Foul Play|p1a: Tornadus
+|-damage|p1a: Tornadus|19/100
+|
+|upkeep
+|turn|52
+|
+|t:|1641853918
+|move|p1a: Tornadus|U-turn|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|90/100
+|
+|t:|1641853920
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100|[from]move: U-turn
+|move|p2a: Mandibuzz|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|97/100
+|-damage|p2a: Mandibuzz|73/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|t:|1641853923
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|53
+|
+|t:|1641853928
+|switch|p1a: Garchomp|Garchomp, F, shiny|60/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|54
+|
+|t:|1641853931
+|switch|p2a: Salazzle|Salazzle, F|83/100
+|move|p1a: Garchomp|Stealth Rock|p2a: Salazzle
+|-sidestart|p2: 6IX9INESHOODA|move: Stealth Rock
+|
+|-heal|p2a: Salazzle|89/100|[from] item: Black Sludge
+|upkeep
+|turn|55
+|
+|t:|1641853935
+|switch|p2a: Mandibuzz|Mandibuzz, F|73/100
+|-damage|p2a: Mandibuzz|48/100|[from] Stealth Rock
+|move|p1a: Garchomp|Earthquake|p2a: Mandibuzz
+|-immune|p2a: Mandibuzz
+|
+|upkeep
+|turn|56
+|
+|t:|1641853938
+|move|p1a: Garchomp|Draco Meteor|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|6/100
+|-unboost|p1a: Garchomp|spa|2
+|-damage|p1a: Garchomp|50/100|[from] item: Life Orb
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|57/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|upkeep
+|turn|57
+|
+|t:|1641853947
+|switch|p1a: Clefable|Clefable, F, shiny|96/100 tox
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|upkeep
+|turn|58
+|
+|t:|1641853952
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Mandibuzz|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100
+|-damage|p2a: Mandibuzz|84/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|t:|1641853970
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1641853974
+|move|p2a: Ferrothorn|Leech Seed|p1a: Toxapex
+|-start|p1a: Toxapex|move: Leech Seed
+|move|p1a: Toxapex|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|92/100
+|-damage|p1a: Toxapex|72/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|-damage|p1a: Toxapex|59/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|60
+|
+|t:|1641853977
+|switch|p1a: Clefable|Clefable, F, shiny|96/100 tox
+|move|p2a: Ferrothorn|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|88/100 tox
+|-enditem|p1a: Clefable|Life Orb|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|61
+|
+|t:|1641853983
+|switch|p2a: Clefable|Clefable, M|83/100
+|-damage|p2a: Clefable|71/100|[from] Stealth Rock
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|62
+|
+|t:|1641853987
+|switch|p1a: Slowbro|Slowbro, F, shiny|53/100
+|-damage|p1a: Slowbro|40/100|[from] Stealth Rock
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|63
+|
+|t:|1641853991
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|19/100
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Clefable|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|64
+|
+|t:|1641853995
+|switch|p1a: Toxapex|Toxapex, F, shiny|93/100
+|-damage|p1a: Toxapex|80/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|68/100
+|
+|upkeep
+|turn|65
+|
+|t:|1641853997
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Toxapex|Scald|p2a: Clefable
+|-damage|p2a: Clefable|88/100
+|-status|p2a: Clefable|brn
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|56/100 brn
+|-damage|p2a: Clefable|49/100 brn|[from] brn
+|upkeep
+|turn|66
+|
+|t:|1641854002
+|switch|p1a: Slowbro|Slowbro, F, shiny|53/100
+|-damage|p1a: Slowbro|40/100|[from] Stealth Rock
+|move|p2a: Clefable|Heal Bell|p2a: Clefable
+|-activate|p2a: Clefable|move: Heal Bell
+|-curestatus|p2a: Clefable|brn|[msg]
+|
+|-heal|p2a: Clefable|99/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|67
+|
+|t:|1641854005
+|switch|p2a: Magnezone|Magnezone|100/100
+|-damage|p2a: Magnezone|94/100|[from] Stealth Rock
+|move|p1a: Slowbro|Future Sight|p2a: Magnezone
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|68
+|
+|t:|1641854009
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Magnezone|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|44/100
+|
+|t:|1641854013
+|switch|p2a: Mandibuzz|Mandibuzz, F|84/100|[from]move: Volt Switch
+|-damage|p2a: Mandibuzz|59/100|[from] Stealth Rock
+|
+|upkeep
+|turn|69
+|
+|t:|1641854017
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100
+|-singleturn|p2a: Mandibuzz|move: Roost
+|move|p1a: Toxapex|Scald|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|90/100
+|-status|p2a: Mandibuzz|brn
+|
+|-end|p2a: Mandibuzz|move: Future Sight
+|-immune|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|83/100 brn|[from] brn
+|upkeep
+|turn|70
+|
+|t:|1641854022
+|switch|p1a: Clefable|Clefable, F, shiny|88/100 tox
+|move|p2a: Mandibuzz|Defog|p1a: Clefable
+|-unboost|p1a: Clefable|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|-sideend|p2: 6IX9INESHOODA|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|
+|-damage|p2a: Mandibuzz|77/100 brn|[from] brn
+|upkeep
+|turn|71
+|
+|t:|1641854027
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|52/100
+|move|p2a: Mandibuzz|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|49/100
+|
+|t:|1641854030
+|switch|p2a: Magnezone|Magnezone|94/100|[from]move: U-turn
+|
+|upkeep
+|turn|72
+|
+|t:|1641854035
+|switch|p1a: Garchomp|Garchomp, F, shiny|50/100
+|move|p2a: Magnezone|Volt Switch|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|upkeep
+|turn|73
+|
+|t:|1641854039
+|switch|p2a: Mandibuzz|Mandibuzz, F|77/100 brn
+|move|p1a: Garchomp|Stealth Rock|p2a: Mandibuzz
+|-sidestart|p2: 6IX9INESHOODA|move: Stealth Rock
+|
+|-damage|p2a: Mandibuzz|71/100 brn|[from] brn
+|upkeep
+|turn|74
+|
+|t:|1641854042
+|move|p1a: Garchomp|Draco Meteor|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|33/100 brn
+|-unboost|p1a: Garchomp|spa|2
+|-damage|p1a: Garchomp|40/100|[from] item: Life Orb
+|move|p2a: Mandibuzz|Defog|p1a: Garchomp
+|-unboost|p1a: Garchomp|evasion|1
+|-sideend|p2: 6IX9INESHOODA|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|
+|-damage|p2a: Mandibuzz|27/100 brn|[from] brn
+|upkeep
+|turn|75
+|
+|t:|1641854046
+|move|p1a: Garchomp|Fire Blast|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|15/100 brn
+|-damage|p1a: Garchomp|30/100|[from] item: Life Orb
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|66/100 brn
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|-damage|p2a: Mandibuzz|59/100 brn|[from] brn
+|upkeep
+|turn|76
+|
+|t:|1641854050
+|move|p1a: Garchomp|Stealth Rock|p2a: Mandibuzz
+|-sidestart|p2: 6IX9INESHOODA|move: Stealth Rock
+|move|p2a: Mandibuzz|Roost|p2a: Mandibuzz
+|-heal|p2a: Mandibuzz|100/100 brn
+|-singleturn|p2a: Mandibuzz|move: Roost
+|
+|-damage|p2a: Mandibuzz|94/100 brn|[from] brn
+|upkeep
+|turn|77
+|
+|t:|1641854053
+|switch|p1a: Slowbro|Slowbro, F, shiny|74/100
+|move|p2a: Mandibuzz|Defog|p1a: Slowbro
+|-unboost|p1a: Slowbro|evasion|1
+|-sideend|p2: 6IX9INESHOODA|Stealth Rock|[from] move: Defog|[of] p2a: Mandibuzz
+|
+|-damage|p2a: Mandibuzz|88/100 brn|[from] brn
+|upkeep
+|turn|78
+|
+|t:|1641854056
+|move|p2a: Mandibuzz|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|67/100
+|
+|t:|1641854057
+|switch|p2a: Magnezone|Magnezone|94/100|[from]move: U-turn
+|move|p1a: Slowbro|Whirlpool|p2a: Magnezone
+|-damage|p2a: Magnezone|84/100
+|-activate|p2a: Magnezone|move: Whirlpool|[of] p1a: Slowbro
+|
+|-damage|p2a: Magnezone|72/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|79
+|
+|t:|1641854062
+|move|p2a: Magnezone|Volt Switch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|25/100
+|
+|t:|1641854064
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: Volt Switch
+|move|p1a: Slowbro|Body Press|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|68/100
+|-damage|p1a: Slowbro|13/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|80
+|
+|t:|1641854068
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|83/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|81
+|
+|t:|1641854074
+|move|p1a: Tornadus|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|move|p2a: Ferrothorn|Leech Seed|p1a: Tornadus
+|-start|p1a: Tornadus|move: Leech Seed
+|
+|-damage|p1a: Tornadus|70/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|79/100|[silent]
+|upkeep
+|turn|82
+|
+|t:|1641854078
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Tornadus|Taunt|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-damage|p1a: Tornadus|58/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|91/100|[silent]
+|upkeep
+|turn|83
+|
+|t:|1641854083
+|switch|p2a: Magnezone|Magnezone|72/100
+|move|p1a: Tornadus|Taunt|p2a: Magnezone
+|-start|p2a: Magnezone|move: Taunt
+|
+|-damage|p1a: Tornadus|45/100|[from] Leech Seed|[of] p2a: Magnezone
+|-heal|p2a: Magnezone|84/100|[silent]
+|upkeep
+|turn|84
+|
+|t:|1641854086
+|switch|p1a: Toxapex|Toxapex, F, shiny|77/100
+|move|p2a: Magnezone|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|31/100
+|
+|t:|1641854092
+|switch|p2a: Ferrothorn|Ferrothorn, M|91/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|85
+|
+|t:|1641854096
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|79/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|86
+|
+|t:|1641854100
+|move|p1a: Tornadus|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: comradesquidwar|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|move|p2a: Ferrothorn|Leech Seed|p1a: Tornadus
+|-start|p1a: Tornadus|move: Leech Seed
+|
+|-damage|p1a: Tornadus|66/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|87
+|
+|t:|1641854103
+|switch|p2a: Magnezone|Magnezone|84/100
+|move|p1a: Tornadus|Taunt|p2a: Magnezone
+|-start|p2a: Magnezone|move: Taunt
+|
+|-damage|p1a: Tornadus|54/100|[from] Leech Seed|[of] p2a: Magnezone
+|-heal|p2a: Magnezone|96/100|[silent]
+|upkeep
+|turn|88
+|
+|t:|1641854107
+|switch|p1a: Toxapex|Toxapex, F, shiny|64/100
+|move|p2a: Magnezone|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|18/100
+|
+|t:|1641854119
+|switch|p2a: Appletun|Appletun, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|89
+|
+|t:|1641854122
+|switch|p1a: Clefable|Clefable, F, shiny|88/100 tox
+|move|p2a: Appletun|Dragon Pulse|p1a: Clefable
+|-immune|p1a: Clefable
+|
+|upkeep
+|turn|90
+|
+|t:|1641854126
+|switch|p2a: Clefable|Clefable, M|99/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|91
+|
+|t:|1641854133
+|switch|p1a: Gengar|Gengar, M|88/100
+|move|p2a: Clefable|Moonblast|p1a: Gengar
+|-resisted|p1a: Gengar
+|-damage|p1a: Gengar|63/100
+|
+|upkeep
+|turn|92
+|
+|t:|1641854137
+|switch|p2a: Mandibuzz|Mandibuzz, F|88/100 brn
+|move|p1a: Gengar|Nasty Plot|p1a: Gengar
+|-boost|p1a: Gengar|spa|2
+|
+|-damage|p2a: Mandibuzz|82/100 brn|[from] brn
+|upkeep
+|turn|93
+|
+|t:|1641854140
+|move|p1a: Gengar|Sludge Wave|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|25/100 brn
+|move|p2a: Mandibuzz|Foul Play|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|30/100
+|-start|p2a: Mandibuzz|Disable|Foul Play|[from] ability: Cursed Body|[of] p1a: Gengar
+|
+|-damage|p2a: Mandibuzz|19/100 brn|[from] brn
+|upkeep
+|turn|94
+|
+|t:|1641854146
+|switch|p2a: Magnezone|Magnezone|96/100
+|move|p1a: Gengar|Nasty Plot|p1a: Gengar
+|-boost|p1a: Gengar|spa|2
+|
+|upkeep
+|turn|95
+|
+|t:|1641854149
+|switch|p1a: Garchomp|Garchomp, F, shiny|30/100
+|move|p2a: Magnezone|Volt Switch|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|upkeep
+|turn|96
+|
+|t:|1641854157
+|switch|p2a: Clefable|Clefable, M|99/100
+|move|p1a: Garchomp|Stealth Rock|p2a: Clefable
+|-sidestart|p2: 6IX9INESHOODA|move: Stealth Rock
+|
+|upkeep
+|turn|97
+|
+|t:|1641854166
+|switch|p1a: Toxapex|Toxapex, F, shiny|51/100
+|move|p2a: Clefable|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|39/100
+|-unboost|p1a: Toxapex|spa|1
+|
+|upkeep
+|turn|98
+|
+|t:|1641854170
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|89/100
+|
+|upkeep
+|turn|99
+|
+|t:|1641854173
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|90/100
+|
+|upkeep
+|turn|100
+|
+|t:|1641854176
+|move|p2a: Ferrothorn|Leech Seed|p1a: Toxapex
+|-start|p1a: Toxapex|move: Leech Seed
+|move|p1a: Toxapex|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|85/100
+|
+|-damage|p1a: Toxapex|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|96/100|[silent]
+|upkeep
+|turn|101
+|
+|t:|1641854179
+|move|p2a: Ferrothorn|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|63/100
+|-damage|p2a: Ferrothorn|79/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-enditem|p1a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p2a: Ferrothorn
+|move|p1a: Toxapex|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|74/100
+|
+|-damage|p1a: Toxapex|50/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|85/100|[silent]
+|upkeep
+|turn|102
+|
+|t:|1641854183
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-damage|p1a: Toxapex|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|96/100|[silent]
+|upkeep
+|turn|103
+|
+|t:|1641854196
+|move|p2a: Ferrothorn|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|78/100
+|move|p1a: Toxapex|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|92/100
+|
+|-damage|p1a: Toxapex|66/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|104
+|
+|t:|1641854199
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Toxapex|Scald|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-damage|p1a: Toxapex|53/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|105
+|
+|t:|1641854209
+|switch|p2a: Appletun|Appletun, M|100/100
+|-damage|p2a: Appletun|88/100|[from] Stealth Rock
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-heal|p2a: Appletun|94/100|[from] item: Leftovers
+|-damage|p1a: Toxapex|88/100|[from] Leech Seed|[of] p2a: Appletun
+|-heal|p2a: Appletun|100/100|[silent]
+|upkeep
+|turn|106
+|
+|t:|1641854213
+|move|p2a: Appletun|Apple Acid|p1a: Toxapex
+|-damage|p1a: Toxapex|67/100
+|-unboost|p1a: Toxapex|spd|1
+|move|p1a: Toxapex|Scald|p2a: Appletun
+|-resisted|p2a: Appletun
+|-damage|p2a: Appletun|98/100
+|-status|p2a: Appletun|brn
+|
+|-heal|p2a: Appletun|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Toxapex|55/100|[from] Leech Seed|[of] p2a: Appletun
+|-damage|p2a: Appletun|94/100 brn|[from] brn
+|upkeep
+|turn|107
+|
+|t:|1641854216
+|switch|p1a: Clefable|Clefable, F, shiny|88/100 tox
+|move|p2a: Appletun|Apple Acid|p1a: Clefable
+|-damage|p1a: Clefable|64/100 tox
+|-unboost|p1a: Clefable|spd|1
+|
+|-heal|p2a: Appletun|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Appletun|94/100 brn|[from] brn
+|upkeep
+|turn|108
+|
+|t:|1641854229
+|switch|p2a: Magnezone|Magnezone|96/100
+|-damage|p2a: Magnezone|89/100|[from] Stealth Rock
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100 tox
+|
+|upkeep
+|turn|109
+|
+|t:|1641854235
+|switch|p1a: Toxapex|Toxapex, F, shiny|88/100
+|-damage|p1a: Toxapex|75/100|[from] Stealth Rock
+|move|p2a: Magnezone|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|32/100
+|
+|t:|1641854240
+|switch|p2a: Appletun|Appletun, M|94/100 brn|[from]move: Volt Switch
+|-damage|p2a: Appletun|82/100 brn|[from] Stealth Rock
+|
+|-heal|p2a: Appletun|88/100 brn|[from] item: Leftovers
+|-damage|p2a: Appletun|82/100 brn|[from] brn
+|upkeep
+|turn|110
+|
+|t:|1641854245
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|87/100
+|-damage|p1a: Tornadus|62/100|[from] Stealth Rock
+|move|p2a: Appletun|Apple Acid|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|47/100
+|-unboost|p1a: Tornadus|spd|1
+|
+|-heal|p2a: Appletun|88/100 brn|[from] item: Leftovers
+|-damage|p2a: Appletun|82/100 brn|[from] brn
+|upkeep
+|turn|111
+|
+|t:|1641854251
+|move|p1a: Tornadus|U-turn|p2a: Appletun
+|-supereffective|p2a: Appletun
+|-damage|p2a: Appletun|63/100 brn
+|
+|t:|1641854255
+|switch|p1a: Clefable|Clefable, F, shiny|100/100 tox|[from]move: U-turn
+|move|p2a: Appletun|Dragon Pulse|p1a: Clefable
+|-immune|p1a: Clefable
+|
+|-heal|p2a: Appletun|69/100 brn|[from] item: Leftovers
+|-damage|p2a: Appletun|63/100 brn|[from] brn
+|upkeep
+|turn|112
+|
+|t:|1641854258
+|switch|p2a: Clefable|Clefable, M|99/100
+|-damage|p2a: Clefable|87/100|[from] Stealth Rock
+|move|p1a: Clefable|Focus Blast|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|77/100
+|
+|upkeep
+|turn|113
+|
+|t:|1641854264
+|switch|p1a: Slowbro|Slowbro, F, shiny|46/100
+|-damage|p1a: Slowbro|34/100|[from] Stealth Rock
+|move|p2a: Clefable|Wish|p2a: Clefable
+|
+|upkeep
+|turn|114
+|
+|t:|1641854284
+|switch|p2a: Appletun|Appletun, M|63/100 brn
+|-damage|p2a: Appletun|50/100 brn|[from] Stealth Rock
+|move|p1a: Slowbro|Future Sight|p2a: Appletun
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Appletun|96/100 brn|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Appletun|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Appletun|94/100 brn|[from] brn
+|upkeep
+|turn|115
+|
+|t:|1641854291
+|switch|p1a: Clefable|Clefable, F, shiny|100/100 tox
+|move|p2a: Appletun|Leech Seed|p1a: Clefable|[miss]
+|-miss|p2a: Appletun|p1a: Clefable
+|
+|-heal|p2a: Appletun|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Appletun|94/100 brn|[from] brn
+|upkeep
+|turn|116
+|
+|t:|1641854298
+|switch|p2a: Clefable|Clefable, M|77/100
+|-damage|p2a: Clefable|65/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|42/100
+|-unboost|p2a: Clefable|spa|1
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|11/100
+|upkeep
+|turn|117
+|
+|t:|1641854303
+|move|p2a: Clefable|Wish|p2a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641854306
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|turn|118
+|
+|t:|1641854308
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Ferrothorn|Leech Seed|p1a: Clefable
+|-start|p1a: Clefable|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|100/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|119
+|
+|t:|1641854311
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Ferrothorn|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|96/100 tox
+|
+|upkeep
+|turn|120
+|-message|6IX9INESHOODA forfeited.
+|
+|win|comradesquidwar
+|raw|comradesquidwar's rating: 1618 &rarr; <strong>1636</strong><br />(+18 for winning)
+|raw|6IX9INESHOODA's rating: 1588 &rarr; <strong>1570</strong><br />(-18 for losing)
+|l|☆6IX9INESHOODA
+|c|☆comradesquidwar|gg

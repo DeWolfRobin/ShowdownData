@@ -1,0 +1,180 @@
+|j|☆TheJestofJesters
+|j|☆ThatGumnutGuy
+|t:|1641804921
+|gametype|singles
+|player|p1|TheJestofJesters|lucas|1279
+|player|p2|ThatGumnutGuy|blackbelt-gen4|1191
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Glastrier|
+|poke|p1|Stakataka|
+|poke|p1|Necrozma|
+|poke|p1|Porygon2|
+|poke|p1|Hatterene, F|
+|poke|p1|Marowak-Alola, M|
+|poke|p2|Galvantula, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Blacephalon|
+|poke|p2|Corviknight, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ThatGumnutGuy)
+|inactive|TheJestofJesters has 120 seconds left.
+|
+|t:|1641804957
+|start
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|switch|p2a: Australia|Galvantula, F|100/100
+|turn|1
+|
+|t:|1641804978
+|move|p2a: Australia|Bug Buzz|p1a: Hatterene
+|-damage|p1a: Hatterene|62/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1641804984
+|move|p1a: Hatterene|Mystical Fire|p2a: Australia
+|-supereffective|p2a: Australia
+|-damage|p2a: Australia|18/100
+|-unboost|p2a: Australia|spa|1
+|move|p2a: Australia|Thunder|p1a: Hatterene
+|-damage|p1a: Hatterene|27/100
+|
+|upkeep
+|turn|3
+|inactive|TheJestofJesters has 120 seconds left.
+|
+|t:|1641805030
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|atk|1
+|move|p2a: Australia|Bug Buzz|p1a: Porygon2
+|-damage|p1a: Porygon2|84/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641805044
+|move|p1a: Porygon2|Ice Beam|p2a: Australia
+|-damage|p2a: Australia|0 fnt
+|faint|p2a: Australia
+|
+|upkeep
+|
+|t:|1641805059
+|switch|p2a: Paddy the Pelican|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Paddy the Pelican
+|turn|5
+|
+|t:|1641805079
+|move|p1a: Porygon2|Thunderbolt|p2a: Paddy the Pelican
+|-supereffective|p2a: Paddy the Pelican
+|-damage|p2a: Paddy the Pelican|0 fnt
+|faint|p2a: Paddy the Pelican
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641805090
+|switch|p2a: Barry Skewda|Barraskewda, M|100/100
+|turn|6
+|inactive|ThatGumnutGuy has 120 seconds left.
+|
+|t:|1641805122
+|switch|p1a: Hatterene|Hatterene, F|27/100
+|move|p2a: Barry Skewda|Crunch|p1a: Hatterene
+|-damage|p1a: Hatterene|2/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641805131
+|move|p2a: Barry Skewda|Aqua Jet|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641805142
+|switch|p1a: Porygon2|Porygon2|84/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|8
+|
+|t:|1641805147
+|move|p2a: Barry Skewda|Crunch|p1a: Porygon2
+|-damage|p1a: Porygon2|65/100
+|move|p1a: Porygon2|Thunderbolt|p2a: Barry Skewda
+|-supereffective|p2a: Barry Skewda
+|-enditem|p2a: Barry Skewda|Focus Sash
+|-damage|p2a: Barry Skewda|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|inactive|TheJestofJesters has 120 seconds left.
+|
+|t:|1641805154
+|move|p2a: Barry Skewda|Ice Fang|p1a: Porygon2
+|-damage|p1a: Porygon2|49/100
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641805159
+|move|p2a: Barry Skewda|Aqua Jet|p1a: Porygon2
+|-damage|p1a: Porygon2|27/100
+|move|p1a: Porygon2|Thunderbolt|p2a: Barry Skewda
+|-supereffective|p2a: Barry Skewda
+|-damage|p2a: Barry Skewda|0 fnt
+|faint|p2a: Barry Skewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641805181
+|switch|p2a: ur not safe|Dragapult, M|100/100
+|turn|11
+|
+|t:|1641805184
+|move|p2a: ur not safe|Sucker Punch|p1a: Porygon2
+|-damage|p1a: Porygon2|13/100
+|move|p1a: Porygon2|Ice Beam|p2a: ur not safe
+|-supereffective|p2a: ur not safe
+|-damage|p2a: ur not safe|0 fnt
+|faint|p2a: ur not safe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641805189
+|switch|p2a: Metal Bird!|Corviknight, M|100/100
+|turn|12
+|-message|ThatGumnutGuy forfeited.
+|
+|win|TheJestofJesters
+|raw|TheJestofJesters's rating: 1279 &rarr; <strong>1298</strong><br />(+19 for winning)
+|raw|ThatGumnutGuy's rating: 1191 &rarr; <strong>1172</strong><br />(-19 for losing)
+|l|☆ThatGumnutGuy

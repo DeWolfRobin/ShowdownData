@@ -1,0 +1,815 @@
+|j|☆M0n0T3st3r
+|j|☆DumbLick1337
+|t:|1641823986
+|gametype|singles
+|player|p1|M0n0T3st3r|acetrainer-gen4dp|1309
+|player|p2|DumbLick1337|102|1250
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Whimsicott, F|
+|poke|p1|Heatran, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Chansey, F|
+|poke|p1|Jirachi|
+|poke|p1|Toxapex, M|
+|poke|p2|Seismitoad, M|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Hippowdon, F|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641823997
+|start
+|switch|p1a: E|Jirachi|100/100
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1641824001
+|move|p1a: E|Iron Head|p2a: Hippowdon
+|-damage|p2a: Hippowdon|82/100
+|-damage|p1a: E|84/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Earthquake|p1a: E
+|-supereffective|p1a: E
+|-damage|p1a: E|13/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: E|19/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641824013
+|move|p1a: E|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: DumbLick1337|move: Stealth Rock
+|move|p2a: Hippowdon|Earthquake|p1a: E
+|-supereffective|p1a: E
+|-damage|p1a: E|0 fnt
+|faint|p1a: E
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641824025
+|switch|p1a: O|Corviknight, F|100/100
+|turn|3
+|
+|t:|1641824028
+|move|p1a: O|Agility|p1a: O
+|-boost|p1a: O|spe|2
+|move|p2a: Hippowdon|Stealth Rock|p1a: O
+|-sidestart|p1: M0n0T3st3r|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641824041
+|move|p1a: O|Bulk Up|p1a: O
+|-boost|p1a: O|atk|1
+|-boost|p1a: O|def|1
+|move|p2a: Hippowdon|Whirlwind|p1a: O
+|drag|p1a: I|Whimsicott, F|100/100
+|-damage|p1a: I|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: I|82/100|[from] Sandstorm
+|-heal|p1a: I|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641824046
+|move|p1a: I|Leech Seed|p2a: Hippowdon
+|-start|p2a: Hippowdon|move: Leech Seed
+|move|p2a: Hippowdon|Whirlwind|p1a: I
+|drag|p1a: U|Toxapex, M|100/100
+|-damage|p1a: U|88/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p1a: U|94/100|[from] item: Black Sludge
+|-damage|p2a: Hippowdon|69/100|[from] Leech Seed|[of] p1a: U
+|-heal|p1a: U|100/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641824057
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-damage|p2a: Hatterene|88/100|[from] Stealth Rock
+|move|p1a: U|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|71/100
+|-enditem|p2a: Hatterene|Assault Vest|[from] move: Knock Off|[of] p1a: U
+|
+|upkeep
+|turn|7
+|
+|t:|1641824065
+|move|p1a: U|Scald|p2a: Hatterene
+|-damage|p2a: Hatterene|57/100
+|-status|p2a: Hatterene|brn
+|move|p2a: Hatterene|Nuzzle|p1a: U
+|-supereffective|p1a: U
+|-damage|p1a: U|98/100
+|-status|p1a: U|par
+|
+|-heal|p1a: U|100/100 par|[from] item: Black Sludge
+|-damage|p2a: Hatterene|51/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641824077
+|move|p2a: Hatterene|Nuzzle|p1a: U
+|-supereffective|p1a: U
+|-damage|p1a: U|98/100 par
+|cant|p1a: U|par
+|
+|-heal|p1a: U|100/100 par|[from] item: Black Sludge
+|-damage|p2a: Hatterene|45/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641824085
+|move|p2a: Hatterene|Nuzzle|p1a: U
+|-supereffective|p1a: U
+|-damage|p1a: U|98/100 par
+|move|p1a: U|Scald|p2a: Hatterene
+|-damage|p2a: Hatterene|31/100 brn
+|
+|-heal|p1a: U|100/100 par|[from] item: Black Sludge
+|-damage|p2a: Hatterene|25/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641824098
+|move|p2a: Hatterene|Psychic|p1a: U
+|-supereffective|p1a: U
+|-damage|p1a: U|22/100 par
+|move|p1a: U|Scald|p2a: Hatterene
+|-damage|p2a: Hatterene|12/100 brn
+|
+|-heal|p1a: U|28/100 par|[from] item: Black Sludge
+|-damage|p2a: Hatterene|6/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641824107
+|switch|p2a: Hippowdon|Hippowdon, F|69/100
+|-damage|p2a: Hippowdon|63/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|switch|p1a: V|Chansey, F|100/100
+|-damage|p1a: V|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: V|82/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1641824110
+|move|p1a: V|Wish|p1a: V
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: V|75/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641824113
+|move|p1a: V|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|move|p2a: Hippowdon|Earthquake|p1a: V
+|-damage|p1a: V|53/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: V|47/100|[from] Sandstorm
+|-heal|p1a: V|97/100|[from] move: Wish|[wisher] V
+|-damage|p2a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641824122
+|move|p1a: V|Wish|p1a: V
+|move|p2a: Hippowdon|Earthquake|p1a: V
+|-damage|p1a: V|71/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: V|64/100|[from] Sandstorm
+|-damage|p2a: Hippowdon|82/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641824134
+|move|p1a: V|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|58/100 tox
+|-damage|p1a: V|48/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Earthquake|p1a: V
+|-damage|p1a: V|24/100
+|
+|-weather|none
+|-heal|p1a: V|74/100|[from] move: Wish|[wisher] V
+|-damage|p2a: Hippowdon|40/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641824143
+|move|p1a: V|Wish|p1a: V
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|90/100 tox
+|
+|-damage|p2a: Hippowdon|65/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641824150
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|-damage|p2a: Seismitoad|95/100|[from] Stealth Rock
+|move|p1a: V|Seismic Toss|p2a: Seismitoad
+|-damage|p2a: Seismitoad|66/100
+|
+|-heal|p1a: V|100/100|[from] move: Wish|[wisher] V
+|upkeep
+|turn|18
+|
+|t:|1641824159
+|move|p2a: Seismitoad|Liquidation|p1a: V
+|-damage|p1a: V|61/100
+|move|p1a: V|Wish|p1a: V
+|
+|upkeep
+|turn|19
+|
+|t:|1641824163
+|move|p2a: Seismitoad|Liquidation|p1a: V
+|-damage|p1a: V|23/100
+|move|p1a: V|Seismic Toss|p2a: Seismitoad
+|-damage|p2a: Seismitoad|38/100
+|
+|-heal|p1a: V|73/100|[from] move: Wish|[wisher] V
+|upkeep
+|turn|20
+|
+|t:|1641824171
+|move|p2a: Seismitoad|Liquidation|p1a: V
+|-damage|p1a: V|32/100
+|move|p1a: V|Wish|p1a: V
+|
+|upkeep
+|turn|21
+|
+|t:|1641824175
+|move|p1a: V|Protect|p1a: V
+|-singleturn|p1a: V|Protect
+|move|p2a: Seismitoad|Liquidation|p1a: V
+|-activate|p1a: V|move: Protect
+|
+|-heal|p1a: V|82/100|[from] move: Wish|[wisher] V
+|upkeep
+|turn|22
+|
+|t:|1641824183
+|move|p2a: Seismitoad|Liquidation|p1a: V
+|-damage|p1a: V|48/100
+|move|p1a: V|Toxic|p2a: Seismitoad
+|-status|p2a: Seismitoad|tox
+|
+|-damage|p2a: Seismitoad|32/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641824189
+|move|p1a: V|Protect|p1a: V
+|-singleturn|p1a: V|Protect
+|move|p2a: Seismitoad|Liquidation|p1a: V
+|-activate|p1a: V|move: Protect
+|
+|-damage|p2a: Seismitoad|20/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641824196
+|switch|p2a: Hippowdon|Hippowdon, F|65/100 tox
+|-damage|p2a: Hippowdon|59/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: V|Wish|p1a: V
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: V|42/100|[from] Sandstorm
+|-damage|p2a: Hippowdon|52/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641824202
+|move|p1a: V|Seismic Toss|p2a: Hippowdon
+|-damage|p2a: Hippowdon|29/100 tox
+|-damage|p1a: V|25/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|79/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: V|19/100|[from] Sandstorm
+|-heal|p1a: V|69/100|[from] move: Wish|[wisher] V
+|-damage|p2a: Hippowdon|66/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641824212
+|move|p1a: V|Wish|p1a: V
+|move|p2a: Hippowdon|Earthquake|p1a: V
+|-damage|p1a: V|46/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: V|39/100|[from] Sandstorm
+|-damage|p2a: Hippowdon|48/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641824220
+|move|p1a: V|Protect|p1a: V
+|-singleturn|p1a: V|Protect
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|98/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: V|33/100|[from] Sandstorm
+|-heal|p1a: V|83/100|[from] move: Wish|[wisher] V
+|-damage|p2a: Hippowdon|73/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641824229
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: V|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-weather|none
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641824236
+|switch|p1a: I|Whimsicott, F|88/100
+|-damage|p1a: I|76/100|[from] Stealth Rock
+|move|p2a: Corviknight|Iron Head|p1a: I
+|-supereffective|p1a: I
+|-damage|p1a: I|31/100
+|
+|-heal|p1a: I|37/100|[from] item: Leftovers
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641824240
+|move|p1a: I|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|move|p2a: Corviknight|Iron Head|p1a: I
+|-supereffective|p1a: I
+|-damage|p1a: I|0 fnt
+|faint|p1a: I
+|
+|upkeep
+|
+|t:|1641824244
+|switch|p1a: L|Heatran, F|100/100
+|-damage|p1a: L|88/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1641824249
+|move|p1a: L|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|move|p2a: Corviknight|U-turn|p1a: L
+|-resisted|p1a: L
+|-damage|p1a: L|85/100
+|
+|t:|1641824249
+|switch|p2a: Seismitoad|Seismitoad, M|20/100 tox|[from]move: U-turn
+|-damage|p2a: Seismitoad|14/100 tox|[from] Stealth Rock
+|
+|-heal|p1a: L|91/100|[from] item: Leftovers
+|-damage|p2a: Seismitoad|8/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641824256
+|switch|p1a: U|Toxapex, M|61/100 par
+|-damage|p1a: U|49/100 par|[from] Stealth Rock
+|move|p2a: Seismitoad|Liquidation|p1a: U
+|-resisted|p1a: U
+|-damage|p1a: U|31/100 par
+|
+|-heal|p1a: U|37/100 par|[from] item: Black Sludge
+|-damage|p2a: Seismitoad|0 fnt|[from] psn
+|faint|p2a: Seismitoad
+|upkeep
+|
+|t:|1641824256
+|switch|p2a: Hippowdon|Hippowdon, F|73/100 tox
+|-damage|p2a: Hippowdon|67/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|33
+|
+|t:|1641824263
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100 tox
+|move|p1a: U|Recover|p1a: U
+|-heal|p1a: U|87/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: U|81/100 par|[from] Sandstorm
+|-heal|p1a: U|87/100 par|[from] item: Black Sludge
+|-damage|p2a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641824272
+|switch|p1a: O|Corviknight, F|100/100
+|-damage|p1a: O|88/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Earthquake|p1a: O
+|-immune|p1a: O
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|82/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641824282
+|move|p1a: O|Power Trip|p2a: Hippowdon
+|-damage|p2a: Hippowdon|80/100 tox
+|-damage|p1a: O|72/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Whirlwind|p1a: O
+|drag|p1a: U|Toxapex, M|100/100 par
+|-damage|p1a: U|88/100 par|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: U|82/100 par|[from] Sandstorm
+|-heal|p1a: U|88/100 par|[from] item: Black Sludge
+|-damage|p2a: Hippowdon|61/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641824296
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: U|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: U|82/100 par|[from] Sandstorm
+|-heal|p2a: Corviknight|82/100|[from] item: Leftovers
+|-heal|p1a: U|88/100 par|[from] item: Black Sludge
+|upkeep
+|turn|37
+|
+|t:|1641824307
+|move|p2a: Corviknight|Defog|p1a: U
+|-unboost|p1a: U|evasion|1
+|-sideend|p1: M0n0T3st3r|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: DumbLick1337|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: U|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|68/100
+|-status|p2a: Corviknight|brn
+|
+|-weather|none
+|-heal|p2a: Corviknight|74/100 brn|[from] item: Leftovers
+|-heal|p1a: U|94/100 par|[from] item: Black Sludge
+|-damage|p2a: Corviknight|68/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1641824322
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: U|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|90/100 brn
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: U
+|
+|-heal|p1a: U|100/100 par|[from] item: Black Sludge
+|-damage|p2a: Corviknight|84/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1641824333
+|switch|p2a: Hippowdon|Hippowdon, F|61/100 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: U|Scald|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|30/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: U|94/100 par|[from] Sandstorm
+|-heal|p1a: U|100/100 par|[from] item: Black Sludge
+|-damage|p2a: Hippowdon|24/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641824344
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|74/100 tox
+|cant|p1a: U|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: U|94/100 par|[from] Sandstorm
+|-heal|p1a: U|100/100 par|[from] item: Black Sludge
+|-damage|p2a: Hippowdon|62/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1641824352
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100 tox
+|move|p1a: U|Scald|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|66/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: U|94/100 par|[from] Sandstorm
+|-heal|p1a: U|100/100 par|[from] item: Black Sludge
+|-damage|p2a: Hippowdon|48/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641824362
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|98/100 tox
+|move|p1a: U|Scald|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|63/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: U|94/100 par|[from] Sandstorm
+|-heal|p1a: U|100/100 par|[from] item: Black Sludge
+|-damage|p2a: Hippowdon|39/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1641824375
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|89/100 tox
+|move|p1a: U|Scald|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|57/100 tox
+|
+|-weather|none
+|-damage|p2a: Hippowdon|26/100 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1641824383
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|76/100 tox
+|move|p1a: U|Scald|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|46/100 tox
+|
+|-damage|p2a: Hippowdon|9/100 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1641824390
+|move|p2a: Hippowdon|Stealth Rock|p1a: U
+|-sidestart|p1: M0n0T3st3r|move: Stealth Rock
+|move|p1a: U|Scald|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|upkeep
+|
+|t:|1641824391
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|46
+|
+|t:|1641824398
+|move|p2a: Dragapult|Draco Meteor|p1a: U
+|-damage|p1a: U|26/100 par
+|-unboost|p2a: Dragapult|spa|2
+|move|p1a: U|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|60/100
+|-enditem|p2a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p1a: U
+|
+|-heal|p1a: U|33/100 par|[from] item: Black Sludge
+|upkeep
+|turn|47
+|
+|t:|1641824408
+|move|p2a: Dragapult|Shadow Ball|p1a: U
+|-damage|p1a: U|18/100 par
+|cant|p1a: U|par
+|
+|-heal|p1a: U|24/100 par|[from] item: Black Sludge
+|upkeep
+|turn|48
+|
+|t:|1641824414
+|move|p2a: Dragapult|Draco Meteor|p1a: U
+|-damage|p1a: U|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: U
+|
+|upkeep
+|
+|t:|1641824422
+|switch|p1a: L|Heatran, F|91/100
+|-damage|p1a: L|79/100|[from] Stealth Rock
+|turn|49
+|
+|t:|1641824426
+|move|p2a: Dragapult|U-turn|p1a: L
+|-resisted|p1a: L
+|-damage|p1a: L|76/100
+|
+|t:|1641824426
+|switch|p2a: rotomheat|Rotom-Heat|100/100|[from]move: U-turn
+|move|p1a: L|Toxic|p2a: rotomheat
+|-status|p2a: rotomheat|tox
+|
+|-heal|p1a: L|82/100|[from] item: Leftovers
+|-damage|p2a: rotomheat|94/100 tox|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1641824437
+|move|p2a: rotomheat|Volt Switch|p1a: L
+|-damage|p1a: L|61/100
+|
+|t:|1641824437
+|switch|p2a: Dragapult|Dragapult, F|60/100|[from]move: Volt Switch
+|move|p1a: L|Magma Storm|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|30/100
+|-activate|p2a: Dragapult|move: Magma Storm|[of] p1a: L
+|
+|-heal|p1a: L|67/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|18/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|51
+|
+|t:|1641824447
+|move|p2a: Dragapult|Shadow Ball|p1a: L
+|-damage|p1a: L|42/100
+|-unboost|p1a: L|spd|1
+|move|p1a: L|Earth Power|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: L|48/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641824447
+|switch|p2a: rotomheat|Rotom-Heat|94/100 tox
+|turn|52
+|
+|t:|1641824458
+|move|p2a: rotomheat|Trick|p1a: L
+|-activate|p2a: rotomheat|move: Trick|[of] p1a: L
+|-item|p1a: L|Choice Scarf|[from] move: Trick
+|-item|p2a: rotomheat|Leftovers|[from] move: Trick
+|move|p1a: L|Magma Storm|p2a: rotomheat
+|-resisted|p2a: rotomheat
+|-damage|p2a: rotomheat|64/100 tox
+|-activate|p2a: rotomheat|move: Magma Storm|[of] p1a: L
+|
+|-heal|p2a: rotomheat|70/100 tox|[from] item: Leftovers
+|-damage|p2a: rotomheat|64/100 tox|[from] psn
+|-damage|p2a: rotomheat|51/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|53
+|
+|t:|1641824468
+|move|p2a: rotomheat|Volt Switch|p1a: L
+|-damage|p1a: L|19/100
+|
+|t:|1641824468
+|switch|p2a: Hatterene|Hatterene, F|6/100 brn|[from]move: Volt Switch
+|move|p1a: L|Magma Storm|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1641824469
+|switch|p2a: rotomheat|Rotom-Heat|51/100 tox
+|turn|54
+|
+|t:|1641824478
+|move|p2a: rotomheat|Volt Switch|p1a: L
+|-damage|p1a: L|0 fnt
+|faint|p1a: L
+|
+|t:|1641824479
+|switch|p2a: Corviknight|Corviknight, M|84/100 brn|[from]move: Volt Switch
+|-ability|p2a: Corviknight|Pressure
+|
+|-damage|p2a: Corviknight|78/100 brn|[from] brn
+|upkeep
+|
+|t:|1641824489
+|switch|p1a: O|Corviknight, F|72/100
+|-damage|p1a: O|59/100|[from] Stealth Rock
+|turn|55
+|
+|t:|1641824493
+|move|p1a: O|Agility|p1a: O
+|-boost|p1a: O|spe|2
+|move|p2a: Corviknight|U-turn|p1a: O
+|-resisted|p1a: O
+|-damage|p1a: O|58/100
+|
+|t:|1641824493
+|switch|p2a: rotomheat|Rotom-Heat|51/100 tox|[from]move: U-turn
+|
+|-heal|p2a: rotomheat|57/100 tox|[from] item: Leftovers
+|-damage|p2a: rotomheat|51/100 tox|[from] psn
+|upkeep
+|turn|56
+|
+|t:|1641824503
+|move|p1a: O|Roost|p1a: O
+|-heal|p1a: O|100/100
+|-singleturn|p1a: O|move: Roost
+|move|p2a: rotomheat|Overheat|p1a: O
+|-supereffective|p1a: O
+|-damage|p1a: O|25/100
+|-unboost|p2a: rotomheat|spa|2
+|-enditem|p1a: O|Weakness Policy
+|-boost|p1a: O|atk|2|[from] item: Weakness Policy
+|-boost|p1a: O|spa|2|[from] item: Weakness Policy
+|
+|-heal|p2a: rotomheat|57/100 tox|[from] item: Leftovers
+|-damage|p2a: rotomheat|45/100 tox|[from] psn
+|upkeep
+|turn|57
+|
+|t:|1641824515
+|move|p1a: O|Power Trip|p2a: rotomheat
+|-damage|p2a: rotomheat|0 fnt
+|faint|p2a: rotomheat
+|
+|upkeep
+|
+|t:|1641824515
+|switch|p2a: Corviknight|Corviknight, M|78/100 brn
+|-ability|p2a: Corviknight|Pressure
+|turn|58
+|
+|t:|1641824522
+|move|p1a: O|Roost|p1a: O
+|-heal|p1a: O|75/100
+|-singleturn|p1a: O|move: Roost
+|move|p2a: Corviknight|Iron Head|p1a: O
+|-resisted|p1a: O
+|-damage|p1a: O|70/100
+|
+|-damage|p2a: Corviknight|72/100 brn|[from] brn
+|upkeep
+|turn|59
+|
+|t:|1641824530
+|move|p1a: O|Bulk Up|p1a: O
+|-boost|p1a: O|atk|1
+|-boost|p1a: O|def|1
+|move|p2a: Corviknight|U-turn|p1a: O
+|-resisted|p1a: O
+|-damage|p1a: O|69/100
+|
+|-damage|p2a: Corviknight|65/100 brn|[from] brn
+|upkeep
+|turn|60
+|
+|t:|1641824537
+|move|p1a: O|Power Trip|p2a: Corviknight
+|-damage|p2a: Corviknight|8/100 brn
+|move|p2a: Corviknight|U-turn|p1a: O
+|-resisted|p1a: O
+|-damage|p1a: O|68/100
+|
+|-damage|p2a: Corviknight|2/100 brn|[from] brn
+|upkeep
+|turn|61
+|
+|t:|1641824545
+|move|p1a: O|Power Trip|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|win|M0n0T3st3r
+|raw|M0n0T3st3r's rating: 1309 &rarr; <strong>1326</strong><br />(+17 for winning)
+|raw|DumbLick1337's rating: 1250 &rarr; <strong>1229</strong><br />(-21 for losing)
+|c|☆DumbLick1337|gg

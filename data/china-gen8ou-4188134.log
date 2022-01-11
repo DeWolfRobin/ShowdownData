@@ -1,0 +1,483 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Pichiu
+|j|☆lxytxhlyhkstbxh
+|t:|1641741010
+|gametype|singles
+|player|p1|SL21CC Pichiu|elesa|1210
+|player|p2|lxytxhlyhkstbxh|bellelba|1108
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Toxapex, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Weavile, M|
+|poke|p1|Melmetal|
+|poke|p2|Tapu Lele|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Blacephalon|
+|teampreview
+|j| adreamew
+|
+|t:|1641741036
+|start
+|switch|p1a: Weavile|Weavile, M|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-ability|p1a: Weavile|Pressure
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|
+|t:|1641741055
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641741061
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|move|p1a: Slowking|Future Sight|p2a: Landorus
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1641741069
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Landorus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|88/100
+|-status|p2a: Landorus|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|t:|1641741083
+|switch|p2a: Melmetal|Melmetal|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641741090
+|move|p1a: Zapdos|Volt Switch|p2a: Melmetal
+|-damage|p2a: Melmetal|82/100
+|
+|t:|1641741092
+|switch|p1a: Toxapex|Toxapex, F|100/100|[from]move: Volt Switch
+|move|p2a: Melmetal|Double Iron Bash|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|89/100
+|-damage|p2a: Melmetal|66/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|76/100
+|-damage|p2a: Melmetal|49/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-hitcount|p1a: Toxapex|2
+|
+|-end|p2a: Melmetal|move: Future Sight
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|32/100
+|upkeep
+|turn|5
+|
+|t:|1641741103
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|switch|p1a: Zapdos|Zapdos|88/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641741111
+|move|p1a: Zapdos|Hurricane|p2a: Toxapex
+|-damage|p2a: Toxapex|58/100
+|-enditem|p2a: Toxapex|Eject Button
+|
+|t:|1641741118
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|upkeep
+|turn|7
+|
+|t:|1641741124
+|move|p1a: Zapdos|Volt Switch|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|63/100
+|
+|t:|1641741126
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from]move: Volt Switch
+|move|p2a: Tapu Lele|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|22/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641741134
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|
+|upkeep
+|turn|9
+|
+|t:|1641741139
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Blacephalon|Expanding Force|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641741144
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|10
+|
+|t:|1641741149
+|switch|p2a: Melmetal|Melmetal|32/100
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|11
+|
+|t:|1641741152
+|move|p1a: Weavile|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-enditem|p2a: Melmetal|Assault Vest|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641741155
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|12
+|
+|t:|1641741163
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Blacephalon|atk|1
+|move|p2a: Blacephalon|Flamethrower|p1a: Landorus
+|-damage|p1a: Landorus|61/100
+|
+|-heal|p1a: Landorus|67/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641741167
+|switch|p2a: Landorus|Landorus-Therian, M|100/100 par
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Stealth Rock|p2a: Landorus
+|-sidestart|p2: lxytxhlyhkstbxh|move: Stealth Rock
+|
+|-heal|p1a: Landorus|73/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641741172
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|94/100 par
+|
+|t:|1641741181
+|switch|p1a: Slowking|Slowking-Galar, M|55/100|[from]move: U-turn
+|move|p2a: Landorus|Defog|p1a: Slowking
+|-unboost|p1a: Slowking|evasion|1
+|-sideend|p2: lxytxhlyhkstbxh|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|
+|-heal|p2a: Landorus|99/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641741184
+|switch|p1a: Landorus|Landorus-Therian, M|73/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p1a: Landorus|79/100|[from] item: Leftovers
+|-heal|p2a: Landorus|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641741187
+|move|p1a: Landorus|Stealth Rock|p2a: Landorus
+|-sidestart|p2: lxytxhlyhkstbxh|move: Stealth Rock
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-heal|p1a: Landorus|85/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|79/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641741190
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|92/100 par
+|
+|t:|1641741192
+|switch|p1a: Zapdos|Zapdos|88/100|[from]move: U-turn
+|move|p2a: Landorus|Defog|p1a: Zapdos
+|-unboost|p1a: Zapdos|evasion|1
+|-sideend|p2: lxytxhlyhkstbxh|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|
+|-heal|p2a: Landorus|98/100 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641741195
+|move|p1a: Zapdos|Hurricane|p2a: Landorus|[miss]
+|-miss|p1a: Zapdos|p2a: Landorus
+|move|p2a: Landorus|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-heal|p2a: Landorus|100/100 par|[from] item: Leftovers
+|-damage|p1a: Zapdos|81/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641741198
+|move|p1a: Zapdos|Hurricane|p2a: Landorus|[miss]
+|-miss|p1a: Zapdos|p2a: Landorus
+|move|p2a: Landorus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|72/100 tox
+|
+|t:|1641741203
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from]move: U-turn
+|
+|-damage|p1a: Zapdos|60/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641741207
+|move|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|12/100 tox
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641741209
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|21
+|
+|t:|1641741216
+|switch|p2a: Landorus|Landorus-Therian, M|100/100 par
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melmetal|atk|1
+|move|p1a: Melmetal|Double Iron Bash|p2a: Landorus
+|-damage|p2a: Landorus|77/100 par
+|-damage|p2a: Landorus|55/100 par
+|-hitcount|p2a: Landorus|2
+|
+|-heal|p2a: Landorus|61/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641741218
+|move|p1a: Melmetal|Double Iron Bash|p2a: Landorus
+|-damage|p2a: Landorus|38/100 par
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|2
+|
+|upkeep
+|
+|t:|1641741227
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|23
+|
+|t:|1641741230
+|switch|p1a: Slowking|Slowking-Galar, M|88/100
+|move|p2a: Blacephalon|Flamethrower|p1a: Slowking
+|-damage|p1a: Slowking|66/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641741243
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Slowking|Future Sight|p2a: Dragapult
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|25
+|
+|t:|1641741249
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|89/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|78/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641741255
+|move|p2a: Dragapult|Dragon Darts|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|67/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|56/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Dragapult
+|-damage|p2a: Dragapult|44/100
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-hitcount|p2: Dragapult|2
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1641741258
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|27
+|
+|t:|1641741262
+|switch|p1a: Landorus|Landorus-Therian, M|79/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Blacephalon|atk|1
+|move|p2a: Blacephalon|Shadow Ball|p1a: Landorus
+|-damage|p1a: Landorus|41/100 tox
+|
+|-heal|p1a: Landorus|47/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|41/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641741266
+|move|p2a: Blacephalon|Shadow Ball|p1a: Landorus
+|-damage|p1a: Landorus|8/100 tox
+|move|p1a: Landorus|Earthquake|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-heal|p1a: Landorus|14/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|2/100 tox|[from] psn
+|upkeep
+|
+|t:|1641741270
+|switch|p2a: Toxapex|Toxapex, M|91/100
+|turn|29
+|
+|t:|1641741273
+|move|p1a: Landorus|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|84/100
+|
+|t:|1641741274
+|switch|p1a: Slowking|Slowking-Galar, M|99/100|[from]move: U-turn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641741278
+|move|p2a: Toxapex|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|72/100
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Toxapex
+|move|p1a: Slowking|Future Sight|p2a: Toxapex
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|31
+|
+|t:|1641741285
+|move|p2a: Toxapex|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|54/100
+|move|p1a: Slowking|Scald|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|92/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641741293
+|switch|p2a: Tapu Lele|Tapu Lele|63/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Slowking|Scald|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|36/100
+|
+|-end|p2a: Tapu Lele|move: Future Sight
+|-resisted|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|upkeep
+|
+|t:|1641741296
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|33
+|
+|t:|1641741300
+|move|p2a: Toxapex|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|36/100
+|move|p1a: Slowking|Future Sight|p2a: Toxapex
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|34
+|
+|t:|1641741304
+|switch|p1a: Landorus|Landorus-Therian, M|2/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|move|p2a: Toxapex|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641741307
+|switch|p1a: Melmetal|Melmetal|56/100
+|turn|35
+|j| Bird of belief ❀
+|
+|t:|1641741309
+|move|p1a: Melmetal|Thunder Punch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|54/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-end|p2a: Toxapex|move: Future Sight
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|win|SL21CC Pichiu
+|upkeep
+|raw|SL21CC Pichiu's rating: 1210 &rarr; <strong>1222</strong><br />(+12 for winning)
+|raw|lxytxhlyhkstbxh's rating: 1108 &rarr; <strong>1096</strong><br />(-12 for losing)
+|l| Bird of belief ❀
+|l|☆SL21CC Pichiu
+|l|☆lxytxhlyhkstbxh

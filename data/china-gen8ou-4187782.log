@@ -1,0 +1,322 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc jialing
+|j|☆SL21CC Leviathan
+|t:|1641733245
+|gametype|singles
+|player|p1|sl21cc jialing|bellelba|1304
+|player|p2|SL21CC Leviathan|guitarist|1202
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Arctozolt|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowking, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Heatran, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Kartana|
+|poke|p2|Magnezone|
+|teampreview
+|j| tianyutulongwu
+|j|&starmind
+|j| water GH0ST
+|j| SL21CCxiaomiaomiao
+|j| sl21cc ryekie
+|j| adreamew
+|j| noobzhan233
+|
+|t:|1641733294
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641733301
+|move|p2a: Tapu Fini|Trick|p1a: Ninetales
+|-activate|p2a: Tapu Fini|move: Trick|[of] p1a: Ninetales
+|-item|p1a: Ninetales|Choice Scarf|[from] move: Trick
+|-item|p2a: Tapu Fini|Icy Rock|[from] move: Trick
+|move|p1a: Ninetales|Freeze-Dry|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|57/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tapu Fini|51/100|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641733313
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: pOlyPHeMuS|Magnezone, shiny|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tornadus|94/100|[from] Hail
+|-damage|p2a: pOlyPHeMuS|94/100|[from] Hail
+|upkeep
+|turn|3
+|j| Suta Pulachina
+|j|♚cscl
+|
+|t:|1641733333
+|move|p1a: Tornadus|Heat Wave|p2a: pOlyPHeMuS|[miss]
+|-miss|p1a: Tornadus|p2a: pOlyPHeMuS
+|move|p2a: pOlyPHeMuS|Discharge|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|50/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tornadus|44/100|[from] Hail
+|-damage|p2a: pOlyPHeMuS|88/100|[from] Hail
+|upkeep
+|turn|4
+|j| sl21cckhl
+|j| SL21CC tangkeke
+|j| SL21CC姐ISthequeen
+|l| SL21CC姐ISthequeen
+|
+|t:|1641733347
+|move|p1a: Tornadus|U-turn|p2a: pOlyPHeMuS
+|-resisted|p2a: pOlyPHeMuS
+|-damage|p2a: pOlyPHeMuS|83/100
+|
+|t:|1641733350
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: pOlyPHeMuS|atk|1
+|move|p2a: pOlyPHeMuS|Discharge|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Landorus|94/100|[from] Hail
+|-damage|p2a: pOlyPHeMuS|77/100|[from] Hail
+|-heal|p1a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641733359
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|95/100
+|
+|t:|1641733364
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Urshifu|94/100|[from] Hail
+|-damage|p2a: Landorus|89/100|[from] Hail
+|-heal|p2a: Landorus|95/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641733384
+|move|p1a: Urshifu|Surging Strikes|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|57/100
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|16/100
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|3
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Urshifu|88/100|[from] Hail
+|upkeep
+|
+|t:|1641733388
+|switch|p2a: STEPHEN FLORIDA|Kartana|100/100
+|turn|7
+|
+|t:|1641733399
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: STEPHEN FLORIDA|atk|1
+|move|p2a: STEPHEN FLORIDA|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|46/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: STEPHEN FLORIDA|94/100|[from] Hail
+|-damage|p1a: Landorus|40/100|[from] Hail
+|-heal|p1a: Landorus|46/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641733408
+|switch|p1a: Tornadus|Tornadus-Therian, M|77/100
+|move|p2a: STEPHEN FLORIDA|Leaf Blade|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|44/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641733421
+|move|p1a: Tornadus|U-turn|p2a: STEPHEN FLORIDA
+|-damage|p2a: STEPHEN FLORIDA|80/100
+|
+|t:|1641733426
+|switch|p1a: Landorus|Landorus-Therian, M|46/100|[from]move: U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: STEPHEN FLORIDA|atk|1
+|move|p2a: STEPHEN FLORIDA|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|3/100
+|
+|-heal|p1a: Landorus|9/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641733429
+|switch|p1a: Tornadus|Tornadus-Therian, M|78/100
+|move|p2a: STEPHEN FLORIDA|Leaf Blade|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|55/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641733451
+|move|p1a: Tornadus|Heat Wave|p2a: STEPHEN FLORIDA
+|-supereffective|p2a: STEPHEN FLORIDA
+|-damage|p2a: STEPHEN FLORIDA|0 fnt
+|faint|p2a: STEPHEN FLORIDA
+|
+|upkeep
+|
+|t:|1641733461
+|switch|p2a: Tapu Fini|Tapu Fini|51/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|12
+|
+|t:|1641733471
+|move|p1a: Tornadus|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|44/100
+|
+|t:|1641733477
+|switch|p1a: Slowking|Slowking, M|100/100|[from]move: U-turn
+|move|p2a: Tapu Fini|Trick|p1a: Slowking
+|-activate|p2a: Tapu Fini|move: Trick|[of] p1a: Slowking
+|-item|p1a: Slowking|Icy Rock|[from] move: Trick
+|-item|p2a: Tapu Fini|Heavy-Duty Boots|[from] move: Trick
+|
+|upkeep
+|turn|13
+|
+|t:|1641733490
+|switch|p2a: the kid|Heatran, M|100/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641733493
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|88/100|[from]move: Teleport
+|
+|upkeep
+|turn|14
+|
+|t:|1641733497
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|92/100
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|77/100
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|60/100
+|-hitcount|p2a: Dragonite|3
+|
+|upkeep
+|turn|15
+|
+|t:|1641733509
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Dragonite|94/100|[from] Hail
+|upkeep
+|turn|16
+|
+|t:|1641733517
+|move|p1a: Ninetales|Blizzard|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-weather|Hail|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641733520
+|switch|p2a: the kid|Heatran, M|100/100
+|turn|17
+|
+|t:|1641733525
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: the kid|Magma Storm|p1a: Slowking|[miss]
+|-miss|p2a: the kid|p1a: Slowking
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: the kid|94/100|[from] Hail
+|-damage|p1a: Slowking|94/100|[from] Hail
+|-heal|p2a: the kid|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641733529
+|move|p2a: the kid|Magma Storm|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|78/100
+|-activate|p1a: Slowking|move: Magma Storm|[of] p2a: the kid
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641733532
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|88/100|[from]move: Teleport
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Urshifu|82/100|[from] Hail
+|-damage|p2a: the kid|94/100|[from] Hail
+|-heal|p2a: the kid|100/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|-message|SL21CC Leviathan forfeited.
+|
+|win|sl21cc jialing
+|raw|sl21cc jialing's rating: 1304 &rarr; <strong>1315</strong><br />(+11 for winning)
+|raw|SL21CC Leviathan's rating: 1202 &rarr; <strong>1190</strong><br />(-12 for losing)
+|l|☆SL21CC Leviathan
+|l| Suta Pulachina
+|l|☆sl21cc jialing
+|l| sl21cckhl
+|l| SL21CCxiaomiaomiao
+|l| SL21CC tangkeke
+|l|♚cscl
+|j|♚cscl

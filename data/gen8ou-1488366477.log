@@ -1,0 +1,286 @@
+|j|☆Ik4RU5
+|j|☆Ibaiblaziken07
+|t:|1641756471
+|gametype|singles
+|player|p1|Ik4RU5|proton|1131
+|player|p2|Ibaiblaziken07|red|1119
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Arcanine, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Blissey, F|
+|poke|p1|Scizor, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Aegislash, F|
+|poke|p2|Blaziken, M|
+|poke|p2|Swampert, M|
+|poke|p2|Venusaur, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Hydreigon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ibaiblaziken07)
+|
+|t:|1641756481
+|start
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|1
+|
+|t:|1641756505
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|move|p2a: Swampert|Earthquake|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|2/100
+|
+|-heal|p1a: Aegislash|8/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641756518
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Sneak|p2a: Swampert
+|-damage|p2a: Swampert|61/100
+|move|p2a: Swampert|Earthquake|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|
+|upkeep
+|
+|t:|1641756525
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|3
+|
+|t:|1641756531
+|move|p1a: Garchomp|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-damage|p1a: Garchomp|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641756539
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|4
+|
+|t:|1641756545
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Blissey
+|-damage|p1a: Blissey|81/100
+|
+|-heal|p1a: Blissey|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641756551
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|move|p1a: Blissey|Toxic|p2a: Blaziken
+|-status|p2a: Blaziken|tox
+|
+|-heal|p1a: Blissey|94/100|[from] item: Leftovers
+|-damage|p2a: Blaziken|95/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641756566
+|switch|p1a: Garchomp|Garchomp, M|91/100
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|
+|-damage|p2a: Blaziken|83/100 tox|[from] psn
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|7
+|
+|t:|1641756576
+|move|p2a: Blaziken|Close Combat|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|-damage|p2a: Blaziken|70/100 tox|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-damage|p2a: Blaziken|52/100 tox|[from] psn
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641756593
+|switch|p1a: Scizor|Scizor, M|100/100
+|turn|8
+|
+|t:|1641756599
+|switch|p1a: Arcanine|Arcanine, M|100/100
+|move|p2a: Blaziken|Flare Blitz|p1a: Arcanine
+|-start|p1a: Arcanine|ability: Flash Fire
+|
+|-damage|p2a: Blaziken|29/100 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|9
+|
+|t:|1641756608
+|move|p1a: Arcanine|Extreme Speed|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|-damage|p1a: Arcanine|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641756613
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|turn|10
+|
+|t:|1641756617
+|move|p1a: Arcanine|Outrage|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|-damage|p1a: Arcanine|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641756620
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|turn|11
+|
+|t:|1641756625
+|move|p1a: Arcanine|Outrage|p2a: Corviknight|[from]lockedmove
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|87/100
+|-damage|p1a: Arcanine|64/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Arcanine|54/100|[from] item: Life Orb
+|move|p2a: Corviknight|Iron Head|p1a: Arcanine
+|-resisted|p1a: Arcanine
+|-damage|p1a: Arcanine|40/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641756634
+|move|p1a: Arcanine|Outrage|p2a: Corviknight|[from]lockedmove
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|-damage|p1a: Arcanine|23/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Arcanine|13/100|[from] item: Life Orb
+|-start|p1a: Arcanine|confusion|[fatigue]
+|move|p2a: Corviknight|Brave Bird|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|faint|p1a: Arcanine
+|-damage|p2a: Corviknight|69/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641756652
+|switch|p1a: Scizor|Scizor, M|100/100
+|turn|13
+|
+|t:|1641756662
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641756672
+|move|p2a: Corviknight|Iron Head|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|88/100
+|cant|p1a: Scizor|flinch
+|
+|upkeep
+|turn|15
+|
+|t:|1641756677
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1641756684
+|move|p1a: Scizor|Bullet Punch|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641756687
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|turn|17
+|
+|t:|1641756691
+|move|p1a: Scizor|Bullet Punch|p2a: Venusaur
+|-damage|p2a: Venusaur|21/100
+|move|p2a: Venusaur|Leech Seed|p1a: Scizor
+|-start|p1a: Scizor|move: Leech Seed
+|
+|-heal|p2a: Venusaur|27/100|[from] item: Leftovers
+|-damage|p1a: Scizor|76/100|[from] Leech Seed|[of] p2a: Venusaur
+|-heal|p2a: Venusaur|38/100|[silent]
+|upkeep
+|turn|18
+|
+|t:|1641756699
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|move|p1a: Scizor|Bullet Punch|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|-damage|p1a: Scizor|59/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-damage|p1a: Scizor|47/100|[from] Leech Seed|[of] p2a: Corviknight
+|-heal|p2a: Corviknight|82/100|[silent]
+|upkeep
+|turn|19
+|
+|t:|1641756710
+|switch|p1a: Blissey|Blissey, F|94/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Blissey|99/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|20
+|
+|t:|1641756718
+|move|p2a: Corviknight|Brave Bird|p1a: Blissey
+|-damage|p1a: Blissey|71/100
+|-damage|p2a: Corviknight|83/100|[from] Recoil
+|move|p1a: Blissey|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|44/100
+|
+|-heal|p1a: Blissey|77/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|-message|Ibaiblaziken07 forfeited.
+|
+|win|Ik4RU5
+|raw|Ik4RU5's rating: 1131 &rarr; <strong>1155</strong><br />(+24 for winning)
+|raw|Ibaiblaziken07's rating: 1119 &rarr; <strong>1095</strong><br />(-24 for losing)
+|l|☆Ibaiblaziken07
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

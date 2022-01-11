@@ -1,0 +1,88 @@
+|j|☆jetpackpotatoes
+|j|☆ShimAAzu
+|t:|1641761697
+|gametype|singles
+|player|p1|jetpackpotatoes|hilbert-wonderlauncher|1327
+|player|p2|ShimAAzu|veteran|1369
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Hippowdon, F|
+|poke|p1|Magnezone|
+|poke|p1|Tapu Koko|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Hawlucha, M|
+|poke|p2|Regieleki|
+|poke|p2|Hydreigon, M|
+|poke|p2|Azumarill, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ShimAAzu)
+|
+|t:|1641761722
+|start
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|switch|p2a: Lancelot|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Lancelot|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|turn|1
+|
+|t:|1641761742
+|move|p2a: Lancelot|Stealth Rock|p1a: Hippowdon
+|-sidestart|p1: jetpackpotatoes|move: Stealth Rock
+|move|p1a: Hippowdon|Stealth Rock|p2a: Lancelot
+|-sidestart|p2: ShimAAzu|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641761756
+|move|p2a: Lancelot|Swords Dance|p2a: Lancelot
+|-boost|p2a: Lancelot|atk|2
+|move|p1a: Hippowdon|Toxic|p2a: Lancelot
+|-status|p2a: Lancelot|tox
+|
+|-damage|p2a: Lancelot|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641761771
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Lancelot|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-damage|p2a: Lancelot|82/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641761795
+|move|p2a: Lancelot|Explosion|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|29/100
+|faint|p2a: Lancelot
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|78/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|-message|ShimAAzu forfeited.
+|
+|win|jetpackpotatoes
+|raw|jetpackpotatoes's rating: 1327 &rarr; <strong>1349</strong><br />(+22 for winning)
+|raw|ShimAAzu's rating: 1369 &rarr; <strong>1347</strong><br />(-22 for losing)
+|l|☆ShimAAzu

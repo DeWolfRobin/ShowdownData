@@ -1,0 +1,239 @@
+|j|☆Vectorthehop
+|j|☆Porygun2
+|t:|1641766864
+|gametype|singles
+|player|p1|Vectorthehop|unknownf|1014
+|player|p2|Porygun2|265|1010
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blaziken, F|
+|poke|p1|Gengar, M|
+|poke|p1|Togekiss, M|
+|poke|p1|Scizor, F|
+|poke|p1|Shuckle, F|
+|poke|p1|Haxorus, M|
+|poke|p2|Togekiss, F|
+|poke|p2|Exploud, F|
+|poke|p2|Primarina, F|
+|poke|p2|Sylveon, F|
+|poke|p2|Persian, F|
+|poke|p2|Noctowl, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Porygun2)
+|c|☆Vectorthehop|hi uh
+|c|☆Vectorthehop|im new
+|c|☆Vectorthehop|glhf
+|
+|t:|1641766875
+|start
+|switch|p1a: Shuckle|Shuckle, F|100/100
+|switch|p2a: Persian|Persian, F|100/100
+|turn|1
+|
+|t:|1641766882
+|move|p2a: Persian|Fake Out|p1a: Shuckle
+|-resisted|p1a: Shuckle
+|-damage|p1a: Shuckle|94/100
+|-damage|p2a: Persian|84/100|[from] item: Rocky Helmet|[of] p1a: Shuckle
+|cant|p1a: Shuckle|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1641766888
+|move|p2a: Persian|Taunt|p1a: Shuckle
+|-start|p1a: Shuckle|move: Taunt
+|cant|p1a: Shuckle|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641766900
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Persian|Echoed Voice|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|91/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641766910
+|move|p2a: Persian|Echoed Voice|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|78/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641766927
+|move|p2a: Persian|Echoed Voice|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|61/100
+|move|p1a: Scizor|Brick Break|p2a: Persian
+|-supereffective|p2a: Persian
+|-damage|p2a: Persian|0 fnt
+|faint|p2a: Persian
+|
+|upkeep
+|
+|t:|1641766937
+|switch|p2a: Noctowl|Noctowl, M|100/100
+|turn|6
+|
+|t:|1641766942
+|move|p2a: Noctowl|Echoed Voice|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641766964
+|switch|p1a: Shuckle|Shuckle, F|94/100
+|turn|7
+|
+|t:|1641766971
+|move|p2a: Noctowl|Echoed Voice|p1a: Shuckle
+|-resisted|p1a: Shuckle
+|-damage|p1a: Shuckle|46/100
+|move|p1a: Shuckle|Stealth Rock|p2a: Noctowl
+|-sidestart|p2: Porygun2|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1641766984
+|switch|p1a: Gengar|Gengar, M|100/100
+|move|p2a: Noctowl|Echoed Voice|p1a: Gengar
+|-immune|p1a: Gengar
+|
+|upkeep
+|turn|9
+|
+|t:|1641766991
+|switch|p1a: Shuckle|Shuckle, F|46/100
+|move|p2a: Noctowl|Echoed Voice|p1a: Shuckle
+|-resisted|p1a: Shuckle
+|-damage|p1a: Shuckle|0 fnt
+|faint|p1a: Shuckle
+|
+|upkeep
+|
+|t:|1641767021
+|switch|p1a: Gengar|Gengar, M|100/100
+|turn|10
+|
+|t:|1641767030
+|move|p2a: Noctowl|Echoed Voice|p1a: Gengar
+|-immune|p1a: Gengar
+|move|p1a: Gengar|Sludge Wave|p2a: Noctowl
+|-damage|p2a: Noctowl|45/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641767038
+|move|p2a: Noctowl|Echoed Voice|p1a: Gengar
+|-immune|p1a: Gengar
+|move|p1a: Gengar|Sludge Wave|p2a: Noctowl
+|-damage|p2a: Noctowl|0 fnt
+|faint|p2a: Noctowl
+|
+|upkeep
+|
+|t:|1641767042
+|switch|p2a: Exploud|Exploud, F|100/100
+|-damage|p2a: Exploud|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641767067
+|switch|p1a: Haxorus|Haxorus, M|100/100
+|-ability|p1a: Haxorus|Mold Breaker
+|move|p2a: Exploud|Echoed Voice|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|faint|p1a: Haxorus
+|
+|upkeep
+|
+|t:|1641767074
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|turn|13
+|
+|t:|1641767080
+|move|p2a: Exploud|Echoed Voice|p1a: Blaziken
+|-enditem|p1a: Blaziken|Focus Sash
+|-damage|p1a: Blaziken|1/100
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|14
+|
+|t:|1641767089
+|move|p1a: Blaziken|Reversal|p2a: Exploud
+|-supereffective|p2a: Exploud
+|-damage|p2a: Exploud|0 fnt
+|faint|p2a: Exploud
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641767094
+|switch|p2a: Primarina|Primarina, F|100/100
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641767099
+|move|p1a: Blaziken|Acrobatics|p2a: Primarina
+|-damage|p2a: Primarina|0 fnt
+|faint|p2a: Primarina
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641767102
+|switch|p2a: Sylveon|Sylveon, F|100/100
+|-damage|p2a: Sylveon|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641767108
+|move|p1a: Blaziken|Acrobatics|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641767111
+|switch|p2a: Togekiss|Togekiss, F|100/100
+|-damage|p2a: Togekiss|76/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641767116
+|move|p1a: Blaziken|Acrobatics|p2a: Togekiss
+|-damage|p2a: Togekiss|0 fnt
+|faint|p2a: Togekiss
+|
+|win|Vectorthehop
+|raw|Vectorthehop's rating: 1014 &rarr; <strong>1051</strong><br />(+37 for winning)
+|raw|Porygun2's rating: 1010 &rarr; <strong>1000</strong><br />(-10 for losing)
+|l|☆Porygun2
+|c|☆Vectorthehop|Gg

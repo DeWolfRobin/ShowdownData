@@ -1,0 +1,175 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆solitary dream
+|j|☆SL21CC KFC嫩牛五方
+|t:|1641823631
+|gametype|singles
+|player|p1|solitary dream|solitarydream.jpg|1255
+|player|p2|SL21CC KFC嫩牛五方|baker|1284
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro-Galar, M|
+|poke|p1|Seismitoad, F|
+|poke|p1|Mew|
+|poke|p1|Melmetal|
+|poke|p1|Clefable, F|
+|poke|p1|Zapdos|
+|poke|p2|Melmetal|
+|poke|p2|Cresselia, F|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Porygon2|
+|poke|p2|Marowak-Alola, M|
+|teampreview
+|j| sl21cc ryekie
+|
+|t:|1641823643
+|start
+|switch|p1a: Seismitoad|Seismitoad, F|100/100
+|switch|p2a: Marowak|Marowak-Alola, M|100/100
+|turn|1
+|j| SL21CC姐ISthequeen
+|
+|t:|1641823651
+|move|p1a: Seismitoad|Stealth Rock|p2a: Marowak
+|-sidestart|p2: SL21CC KFC嫩牛五方|move: Stealth Rock
+|move|p2a: Marowak|Poltergeist|p1a: Seismitoad
+|-activate|p1a: Seismitoad|move: Poltergeist|Leftovers
+|-damage|p1a: Seismitoad|3/100
+|
+|-heal|p1a: Seismitoad|9/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641823655
+|move|p1a: Seismitoad|Earthquake|p2a: Marowak
+|-supereffective|p2a: Marowak
+|-damage|p2a: Marowak|39/100
+|move|p2a: Marowak|Flare Blitz|p1a: Seismitoad
+|-resisted|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|faint|p1a: Seismitoad
+|
+|upkeep
+|
+|t:|1641823661
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|3
+|j| adreamew
+|
+|t:|1641823664
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|-damage|p2a: Cresselia|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|60/100
+|
+|upkeep
+|turn|4
+|j|+dragonitenb
+|
+|t:|1641823672
+|switch|p1a: Slowbro|Slowbro-Galar, M|100/100
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|5
+|
+|t:|1641823675
+|move|p1a: Slowbro|Nasty Plot|p1a: Slowbro
+|-boost|p1a: Slowbro|spa|2
+|move|p2a: Cresselia|Lunar Dance|p2a: Cresselia
+|faint|p2a: Cresselia
+|
+|upkeep
+|
+|t:|1641823676
+|switch|p2a: Marowak|Marowak-Alola, M|39/100
+|-heal|p2a: Marowak|100/100|[from] move: Lunar Dance
+|-damage|p2a: Marowak|76/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641823679
+|move|p2a: Marowak|Poltergeist|p1a: Slowbro
+|-activate|p1a: Slowbro|move: Poltergeist|Quick Claw
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1641823683
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|7
+|
+|t:|1641823685
+|move|p2a: Marowak|Flare Blitz|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641823689
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|8
+|
+|t:|1641823692
+|move|p2a: Marowak|Flare Blitz|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641823695
+|switch|p1a: Mew|Mew|100/100
+|turn|9
+|j| jiokopg_fkok43
+|
+|t:|1641823701
+|move|p1a: Mew|Dragon Dance|p1a: Mew
+|-boost|p1a: Mew|atk|1
+|-boost|p1a: Mew|spe|1
+|move|p2a: Marowak|Poltergeist|p1a: Mew
+|-activate|p1a: Mew|move: Poltergeist|Leftovers
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641823702
+|switch|p1a: Clefable|Clefable, F|100/100
+|turn|10
+|
+|t:|1641823705
+|move|p1a: Clefable|Thunder|p2a: Marowak
+|-damage|p2a: Marowak|28/100
+|move|p2a: Marowak|Flare Blitz|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|win|SL21CC KFC嫩牛五方
+|raw|solitary dream's rating: 1255 &rarr; <strong>1240</strong><br />(-15 for losing)
+|raw|SL21CC KFC嫩牛五方's rating: 1284 &rarr; <strong>1299</strong><br />(+15 for winning)
+|l|☆SL21CC KFC嫩牛五方
+|j| SL21CCC徐坤
+|l|☆solitary dream
+|l| SL21CCC徐坤
+|j| SL21CC tangkeke
+|l| SL21CC tangkeke
+|j| SL21CC tangkeke
+|l| SL21CC tangkeke
+|j| wandebucuo玩得不错
+|l| wandebucuo玩得不错

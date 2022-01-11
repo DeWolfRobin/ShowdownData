@@ -1,0 +1,315 @@
+|j|☆shea_rp15
+|j|☆EatMyBuss
+|t:|1641788666
+|gametype|singles
+|player|p1|shea_rp15|giovanni|
+|player|p2|EatMyBuss|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Azelf|
+|poke|p1|Uxie|
+|poke|p1|Mesprit|
+|poke|p1|Jirachi|
+|poke|p1|Celebi|
+|poke|p2|Mew|
+|poke|p2|Mesprit|
+|poke|p2|Jirachi|
+|poke|p2|Azelf|
+|poke|p2|Uxie|
+|poke|p2|Celebi|
+|teampreview
+|
+|t:|1641788689
+|start
+|switch|p1a: Mew|Mew, shiny|100/100
+|switch|p2a: Dicks|Mew, shiny|100/100
+|turn|1
+|
+|t:|1641788697
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Icicle Spear|p1a: Mew|[from]move: Metronome
+|-damage|p1a: Mew|96/100
+|-damage|p1a: Mew|91/100
+|-hitcount|p1a: Mew|2
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Present|p2a: Dicks|[from]move: Metronome
+|-damage|p2a: Dicks|86/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641788708
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Super Fang|p2a: Dicks|[from]move: Metronome|[miss]
+|-miss|p1a: Mew|p2a: Dicks
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Teatime|p2a: Dicks|[from]move: Metronome
+|-enditem|p1a: Mew|Iapapa Berry|[eat]
+|-heal|p1a: Mew|100/100|[from] item: Iapapa Berry|[of] p2a: Dicks
+|-enditem|p2a: Dicks|Iapapa Berry|[eat]
+|-heal|p2a: Dicks|100/100|[from] item: Iapapa Berry
+|
+|upkeep
+|turn|3
+|
+|t:|1641788720
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Blizzard|p2a: Dicks|[from]move: Metronome
+|-crit|p2a: Dicks
+|-damage|p2a: Dicks|65/100
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Phantom Force||[from]move: Metronome|[still]
+|-prepare|p2a: Dicks|Phantom Force
+|
+|upkeep
+|turn|4
+|
+|t:|1641788734
+|move|p2a: Dicks|Phantom Force|p1a: Mew|[from]lockedmove
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|68/100
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Baby-Doll Eyes|p2a: Dicks|[from]move: Metronome
+|-unboost|p2a: Dicks|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641788743
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Ice Beam|p1a: Mew|[from]move: Metronome
+|-damage|p1a: Mew|49/100
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Aurora Beam|p2a: Dicks|[from]move: Metronome
+|-damage|p2a: Dicks|49/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641788752
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Burning Jealousy|p1a: Mew|[from]move: Metronome
+|-damage|p1a: Mew|34/100
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Spikes|p2a: Dicks|[from]move: Metronome
+|-sidestart|p2: EatMyBuss|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641788761
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Blast Burn|p1a: Mew|[from]move: Metronome|[miss]
+|-miss|p2a: Dicks|p1a: Mew
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Crunch|p2a: Dicks|[from]move: Metronome
+|-supereffective|p2a: Dicks
+|-damage|p2a: Dicks|22/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641788771
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Light Screen|p1a: Mew|[from]move: Metronome
+|-sidestart|p1: shea_rp15|move: Light Screen
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Swagger|p1a: Mew|[from]move: Metronome
+|-boost|p1a: Mew|atk|2
+|-start|p1a: Mew|confusion
+|
+|upkeep
+|turn|9
+|
+|t:|1641788780
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Recycle|p2a: Dicks|[from]move: Metronome
+|-item|p2a: Dicks|Iapapa Berry|[from] move: Recycle
+|-enditem|p2a: Dicks|Iapapa Berry|[eat]
+|-heal|p2a: Dicks|54/100|[from] item: Iapapa Berry
+|-activate|p1a: Mew|confusion
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Lick|p2a: Dicks|[from]move: Metronome
+|-supereffective|p2a: Dicks
+|-damage|p2a: Dicks|31/100
+|-status|p2a: Dicks|par
+|-activate|p2a: Dicks|ability: Synchronize
+|-status|p1a: Mew|par
+|-activate|p1a: Mew|ability: Synchronize
+|-fail|p2a: Dicks|par
+|
+|upkeep
+|turn|10
+|
+|t:|1641788797
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Misty Terrain|p2a: Dicks|[from]move: Metronome
+|-fieldstart|move: Misty Terrain
+|-activate|p1a: Mew|confusion
+|-damage|p1a: Mew|19/100 par|[from] confusion
+|
+|upkeep
+|turn|11
+|
+|t:|1641788804
+|-activate|p1a: Mew|confusion
+|move|p1a: Mew|Metronome|p1a: Mew
+|move|p1a: Mew|Uproar|p2a: Dicks|[from]move: Metronome
+|-damage|p2a: Dicks|12/100 par
+|-start|p1a: Mew|Uproar
+|move|p2a: Dicks|Metronome|p2a: Dicks
+|move|p2a: Dicks|Power Swap|p1a: Mew|[from]move: Metronome
+|-swapboost|p2a: Dicks|p1a: Mew|atk, spa|[from] move: Power Swap
+|
+|-start|p1a: Mew|Uproar|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641788817
+|-end|p1a: Mew|confusion
+|move|p1a: Mew|Uproar|p2a: Dicks|[from]lockedmove
+|-damage|p2a: Dicks|0 fnt
+|faint|p2a: Dicks
+|
+|-sideend|p1: shea_rp15|move: Light Screen
+|-start|p1a: Mew|Uproar|[upkeep]
+|upkeep
+|
+|t:|1641788827
+|switch|p2a: Virgin Dick|Celebi, shiny|100/100
+|-damage|p2a: Virgin Dick|88/100|[from] Spikes
+|turn|13
+|
+|t:|1641788831
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Purify|p1a: Mew|[from]move: Metronome
+|-curestatus|p1a: Mew|par|[msg]
+|-heal|p2a: Virgin Dick|100/100
+|move|p1a: Mew|Uproar|p2a: Virgin Dick|[from]lockedmove
+|-damage|p2a: Virgin Dick|78/100
+|
+|-end|p1a: Mew|Uproar
+|upkeep
+|turn|14
+|
+|t:|1641788842
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Brine|p1a: Mew|[from]move: Metronome
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641788853
+|switch|p1a: Azelf|Azelf, shiny|100/100
+|turn|15
+|
+|t:|1641788857
+|move|p1a: Azelf|Metronome|p1a: Azelf
+|move|p1a: Azelf|High Jump Kick|p2a: Virgin Dick|[from]move: Metronome
+|-resisted|p2a: Virgin Dick
+|-damage|p2a: Virgin Dick|60/100
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Moonblast|p1a: Azelf|[from]move: Metronome
+|-damage|p1a: Azelf|67/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641788867
+|move|p1a: Azelf|Metronome|p1a: Azelf
+|move|p1a: Azelf|Submission|p2a: Virgin Dick|[from]move: Metronome
+|-resisted|p2a: Virgin Dick
+|-damage|p2a: Virgin Dick|50/100
+|-damage|p1a: Azelf|64/100|[from] Recoil
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Reversal|p1a: Azelf|[from]move: Metronome
+|-resisted|p1a: Azelf
+|-damage|p1a: Azelf|57/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641788878
+|move|p1a: Azelf|Metronome|p1a: Azelf
+|move|p1a: Azelf|Recycle||[from]move: Metronome|[still]
+|-fail|p1a: Azelf
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Hammer Arm|p1a: Azelf|[from]move: Metronome
+|-resisted|p1a: Azelf
+|-damage|p1a: Azelf|40/100
+|-unboost|p2a: Virgin Dick|spe|1
+|
+|upkeep
+|turn|18
+|
+|t:|1641788889
+|move|p1a: Azelf|Metronome|p1a: Azelf
+|move|p1a: Azelf|Sucker Punch||[from]move: Metronome|[still]
+|-fail|p1a: Azelf
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Fusion Flare|p1a: Azelf|[from]move: Metronome
+|-damage|p1a: Azelf|6/100
+|-enditem|p1a: Azelf|Iapapa Berry|[eat]
+|-heal|p1a: Azelf|39/100|[from] item: Iapapa Berry
+|
+|upkeep
+|turn|19
+|
+|t:|1641788900
+|move|p1a: Azelf|Metronome|p1a: Azelf
+|move|p1a: Azelf|Retaliate|p2a: Virgin Dick|[from]move: Metronome
+|-crit|p2a: Virgin Dick
+|-damage|p2a: Virgin Dick|22/100
+|-enditem|p2a: Virgin Dick|Iapapa Berry|[eat]
+|-heal|p2a: Virgin Dick|55/100|[from] item: Iapapa Berry
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Incinerate|p1a: Azelf|[from]move: Metronome
+|-damage|p1a: Azelf|16/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641788912
+|move|p1a: Azelf|Metronome|p1a: Azelf
+|move|p1a: Azelf|Fake Tears|p2a: Virgin Dick|[from]move: Metronome
+|-unboost|p2a: Virgin Dick|spd|2
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Fire Punch|p1a: Azelf|[from]move: Metronome
+|-damage|p1a: Azelf|0 fnt
+|faint|p1a: Azelf
+|
+|upkeep
+|
+|t:|1641788923
+|switch|p1a: Celebi|Celebi, shiny|100/100
+|turn|21
+|
+|t:|1641788926
+|move|p1a: Celebi|Metronome|p1a: Celebi
+|move|p1a: Celebi|Gravity|p1a: Celebi|[from]move: Metronome
+|-fieldstart|move: Gravity
+|move|p2a: Virgin Dick|Metronome|p2a: Virgin Dick
+|move|p2a: Virgin Dick|Ice Punch|p1a: Celebi|[from]move: Metronome
+|-supereffective|p1a: Celebi
+|-damage|p1a: Celebi|67/100
+|-status|p1a: Celebi|frz
+|
+|upkeep
+|turn|22
+|-message|shea_rp15 forfeited.
+|
+|win|EatMyBuss
+|l|☆shea_rp15

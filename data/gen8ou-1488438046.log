@@ -1,0 +1,164 @@
+|j|☆Varbas
+|j|☆Whoisfrank
+|t:|1641765252
+|gametype|singles
+|player|p1|Varbas|102|1196
+|player|p2|Whoisfrank|265|1205
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Kingdra, F|
+|poke|p1|Scizor, F|
+|poke|p1|Ludicolo, M|
+|poke|p1|Gyarados, F|
+|poke|p1|Rotom-Wash|
+|poke|p2|Scyther, M|
+|poke|p2|Chansey, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Dracozolt|
+|poke|p2|Hippowdon, F|
+|poke|p2|Keldeo-Resolute|
+|teampreview
+|
+|t:|1641765287
+|start
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1641765304
+|move|p1a: Pelipper|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|50/100
+|-start|p2a: Hippowdon|confusion
+|-activate|p2a: Hippowdon|confusion
+|move|p2a: Hippowdon|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: Varbas|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pelipper|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641765314
+|switch|p2a: Dracozolt|Dracozolt|100/100
+|move|p1a: Pelipper|U-turn|p2a: Dracozolt
+|-damage|p2a: Dracozolt|91/100
+|
+|t:|1641765324
+|switch|p1a: Kingdra|Kingdra, F, shiny|100/100|[from]move: U-turn
+|-damage|p1a: Kingdra|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kingdra|82/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641765327
+|switch|p1a: Pelipper|Pelipper, M|94/100
+|-damage|p1a: Pelipper|70/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Dracozolt|Bolt Beak|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641765333
+|switch|p1a: Kingdra|Kingdra, F, shiny|82/100
+|-damage|p1a: Kingdra|70/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1641765341
+|switch|p2a: Hippowdon|Hippowdon, F|50/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Kingdra|Dragon Pulse|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kingdra|64/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641765346
+|switch|p2a: Dracozolt|Dracozolt|91/100
+|turn|5
+|
+|t:|1641765352
+|move|p2a: Dracozolt|Bolt Beak|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641765358
+|switch|p1a: Ludicolo|Ludicolo, M|100/100
+|-damage|p1a: Ludicolo|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641765362
+|move|p1a: Ludicolo|Fake Out|p2a: Dracozolt
+|-damage|p2a: Dracozolt|81/100
+|-damage|p1a: Ludicolo|78/100|[from] item: Life Orb
+|cant|p2a: Dracozolt|flinch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ludicolo|72/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641765369
+|move|p2a: Dracozolt|Bolt Beak|p1a: Ludicolo
+|-damage|p1a: Ludicolo|0 fnt
+|faint|p1a: Ludicolo
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641765378
+|switch|p1a: Scizor|Scizor, F|100/100
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641765381
+|move|p2a: Dracozolt|Bolt Beak|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641765402
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641765405
+|move|p2a: Dracozolt|Bolt Beak|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|Varbas forfeited.
+|
+|win|Whoisfrank
+|raw|Varbas's rating: 1196 &rarr; <strong>1172</strong><br />(-24 for losing)
+|raw|Whoisfrank's rating: 1205 &rarr; <strong>1229</strong><br />(+24 for winning)
+|l|☆Varbas
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

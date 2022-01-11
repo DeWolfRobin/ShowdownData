@@ -1,0 +1,130 @@
+|j|☆Immagamer
+|j|☆csanch32
+|t:|1641765937
+|gametype|singles
+|player|p1|Immagamer|169|1169
+|player|p2|csanch32|170|1125
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Crawdaunt, M|
+|poke|p1|Nidoking, M|
+|poke|p1|Zeraora|
+|poke|p1|Chansey, F|
+|poke|p1|Tangrowth, M|
+|poke|p1|Tapu Fini|
+|poke|p2|Slowbro-Galar, F|
+|poke|p2|Ribombee, M|
+|poke|p2|Uxie|
+|poke|p2|Mew|
+|poke|p2|Victini|
+|poke|p2|Crawdaunt, F|
+|teampreview
+|j| ronankelsey
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by csanch32)
+|
+|t:|1641765952
+|start
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Victini|Victini|100/100
+|turn|1
+|
+|t:|1641765972
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Victini|Trick|p1a: Tapu Fini
+|-activate|p2a: Victini|move: Trick|[of] p1a: Tapu Fini
+|-item|p1a: Tapu Fini|Choice Scarf|[from] move: Trick
+|-item|p2a: Victini|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1641765988
+|move|p2a: Victini|Bolt Strike|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-crit|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|44/100
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Victini
+|-damage|p2a: Victini|51/100
+|
+|-heal|p2a: Victini|57/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641766006
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Victini|Energy Ball|p1a: Zeraora
+|-damage|p1a: Zeraora|68/100
+|
+|-heal|p2a: Victini|63/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641766014
+|move|p1a: Zeraora|Plasma Fists|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Victini
+|
+|upkeep
+|
+|t:|1641766019
+|switch|p2a: Uxie|Uxie|100/100
+|turn|5
+|
+|t:|1641766030
+|move|p1a: Zeraora|Plasma Fists|p2a: Uxie
+|-damage|p2a: Uxie|43/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p2a: Uxie|Stealth Rock|p1a: Zeraora
+|-sidestart|p1: Immagamer|move: Stealth Rock
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641766036
+|move|p1a: Zeraora|Plasma Fists|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Uxie
+|
+|upkeep
+|
+|t:|1641766041
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|turn|7
+|
+|t:|1641766045
+|move|p1a: Zeraora|Plasma Fists|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-enditem|p2a: Crawdaunt|Focus Sash
+|-damage|p2a: Crawdaunt|1/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p2a: Crawdaunt|Knock Off|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|-enditem|p1a: Zeraora|Choice Band|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: Zeraora
+|
+|upkeep
+|-message|csanch32 forfeited.
+|
+|win|Immagamer
+|raw|Immagamer's rating: 1192 &rarr; <strong>1212</strong><br />(+20 for winning)
+|raw|csanch32's rating: 1125 &rarr; <strong>1105</strong><br />(-20 for losing)
+|l|☆csanch32

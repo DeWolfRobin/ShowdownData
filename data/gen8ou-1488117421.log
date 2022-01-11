@@ -1,0 +1,173 @@
+|j|☆Diavolo_Crison
+|j|☆taxime
+|t:|1641715082
+|gametype|singles
+|player|p1|Diavolo_Crison|169|1373
+|player|p2|taxime|elesa|1398
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Jirachi|
+|poke|p1|Regieleki|
+|poke|p1|Dragonite, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Bisharp, M|
+|poke|p2|Blacephalon|
+|poke|p2|Slowbro, M|
+|poke|p2|Hippowdon, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Hydreigon, F|
+|poke|p2|Urshifu-*, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by taxime)
+|
+|t:|1641715091
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Blacephalon|Blacephalon, shiny|100/100
+|turn|1
+|
+|t:|1641715103
+|switch|p1a: Jirachi|Jirachi|100/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641715107
+|move|p1a: Jirachi|Trick|p2a: Hippowdon
+|-activate|p1a: Jirachi|move: Trick|[of] p2a: Hippowdon
+|-item|p2a: Hippowdon|Ring Target|[from] move: Trick
+|-item|p1a: Jirachi|Leftovers|[from] move: Trick
+|move|p2a: Hippowdon|Earthquake|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|28/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Jirachi|34/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641715119
+|move|p1a: Jirachi|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: taxime|move: Stealth Rock
+|move|p2a: Hippowdon|Stealth Rock|p1a: Jirachi
+|-sidestart|p1: Diavolo_Crison|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Jirachi|40/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641715124
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Hippowdon|Earthquake|p1a: Dragonite
+|-immune|p1a: Dragonite
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragonite|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641715128
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Hippowdon|Toxic|p1a: Dragonite
+|-status|p1a: Dragonite|tox
+|
+|-weather|none
+|-damage|p1a: Dragonite|88/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641715138
+|switch|p2a: Corviknight|Corviknight, F, shiny|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragonite|Ice Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|65/100
+|-damage|p1a: Dragonite|72/100 tox|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-damage|p1a: Dragonite|59/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641715142
+|switch|p1a: Regieleki|Regieleki|100/100
+|-damage|p1a: Regieleki|88/100|[from] Stealth Rock
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|8
+|
+|t:|1641715152
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Regieleki|Thunderbolt|p2a: Hippowdon
+|-damage|p2a: Hippowdon|36/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|82/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1641715164
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|move|p1a: Regieleki|Thunderbolt|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|44/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|76/100|[from] Sandstorm
+|-damage|p2a: Hydreigon|38/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|44/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641715172
+|move|p1a: Regieleki|Thunderbolt|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|70/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641715184
+|switch|p2a: Blacephalon|Blacephalon, shiny|100/100
+|-damage|p2a: Blacephalon|75/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641715190
+|move|p1a: Regieleki|Thunderbolt|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|64/100|[from] Sandstorm
+|upkeep
+|-message|taxime forfeited.
+|
+|win|Diavolo_Crison
+|raw|Diavolo_Crison's rating: 1373 &rarr; <strong>1394</strong><br />(+21 for winning)
+|raw|taxime's rating: 1398 &rarr; <strong>1377</strong><br />(-21 for losing)
+|l|☆taxime

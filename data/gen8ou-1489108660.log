@@ -1,0 +1,454 @@
+|j|☆Winsy Tinsy
+|j|☆Js1000
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641857727
+|gametype|singles
+|player|p1|Winsy Tinsy|clown|
+|player|p2|Js1000|crasherwake|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Skarmory, F|
+|poke|p1|Heatran, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Tapu Lele|
+|poke|p1|Dragapult, F|
+|poke|p2|Swampert, M|
+|poke|p2|Buzzwole|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|teampreview
+|j|*Lady Monita ❄
+|c|☆Winsy Tinsy|I just won by 2% health
+|c|☆Winsy Tinsy|on a low roll
+|c|☆Winsy Tinsy|you have no chance
+|c|☆Winsy Tinsy|:
+|
+|t:|1641857748
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Grimmjow|Swampert, M|100/100
+|turn|1
+|
+|t:|1641857767
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Grimmjow|Flip Turn|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|91/100
+|inactive|Js1000 has 120 seconds left.
+|c|☆Js1000|Ok see that
+|
+|t:|1641857807
+|switch|p2a: Itchigo|Dragapult, M|100/100|[from]move: Flip Turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641857815
+|move|p2a: Itchigo|Dragon Dance|p2a: Itchigo
+|-boost|p2a: Itchigo|atk|1
+|-boost|p2a: Itchigo|spe|1
+|move|p1a: Rotom|Volt Switch|p2a: Itchigo
+|-resisted|p2a: Itchigo
+|-damage|p2a: Itchigo|82/100
+|
+|t:|1641857821
+|switch|p1a: Tapu Lele|Tapu Lele|100/100|[from]move: Volt Switch
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|3
+|
+|t:|1641857824
+|move|p2a: Itchigo|Phantom Force||[still]
+|-prepare|p2a: Itchigo|Phantom Force
+|move|p1a: Tapu Lele|Moonblast|p2a: Itchigo|[miss]
+|-miss|p1a: Tapu Lele|p2a: Itchigo
+|
+|upkeep
+|turn|4
+|
+|t:|1641857839
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|move|p2a: Itchigo|Phantom Force|p1a: Skarmory|[from]lockedmove
+|-damage|p1a: Skarmory|55/100
+|-damage|p2a: Itchigo|66/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-damage|p2a: Itchigo|56/100|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1641857847
+|move|p2a: Itchigo|Dragon Dance|p2a: Itchigo
+|-boost|p2a: Itchigo|atk|1
+|-boost|p2a: Itchigo|spe|1
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1641857852
+|move|p2a: Itchigo|Dragon Dance|p2a: Itchigo
+|-boost|p2a: Itchigo|atk|1
+|-boost|p2a: Itchigo|spe|1
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|7
+|
+|t:|1641857859
+|switch|p2a: Kenpachi|Heatran, M|100/100
+|move|p1a: Skarmory|Spikes|p2a: Kenpachi
+|-sidestart|p2: Js1000|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1641857865
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kenpachi|atk|1
+|move|p2a: Kenpachi|Magma Storm|p1a: Landorus|[miss]
+|-miss|p2a: Kenpachi|p1a: Landorus
+|
+|upkeep
+|turn|9
+|
+|t:|1641857873
+|switch|p2a: Kisuke|Tornadus-Therian, M|100/100
+|move|p1a: Landorus|Knock Off|p2a: Kisuke
+|-damage|p2a: Kisuke|63/100
+|-enditem|p2a: Kisuke|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Landorus
+|
+|upkeep
+|turn|10
+|
+|t:|1641857879
+|switch|p1a: Rotom|Rotom-Wash|91/100
+|move|p2a: Kisuke|Defog|p1a: Rotom
+|-unboost|p1a: Rotom|evasion|1
+|-sideend|p2: Js1000|Spikes|[from] move: Defog|[of] p2a: Kisuke
+|
+|upkeep
+|turn|11
+|
+|t:|1641857884
+|move|p1a: Rotom|Hydro Pump|p2a: Kisuke
+|-damage|p2a: Kisuke|25/100
+|move|p2a: Kisuke|U-turn|p1a: Rotom
+|-damage|p1a: Rotom|78/100
+|
+|t:|1641857892
+|switch|p2a: Itchigo|Dragapult, M|56/100|[from]move: U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1641857899
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Itchigo|atk|1
+|move|p2a: Itchigo|Phantom Force||[still]
+|-prepare|p2a: Itchigo|Phantom Force
+|
+|upkeep
+|turn|13
+|
+|t:|1641857903
+|move|p2a: Itchigo|Phantom Force|p1a: Landorus|[from]lockedmove
+|-damage|p1a: Landorus|63/100
+|-damage|p2a: Itchigo|46/100|[from] item: Life Orb
+|move|p1a: Landorus|Knock Off|p2a: Itchigo
+|-supereffective|p2a: Itchigo
+|-damage|p2a: Itchigo|0 fnt
+|-enditem|p2a: Itchigo|Life Orb|[from] move: Knock Off|[of] p1a: Landorus
+|faint|p2a: Itchigo
+|
+|-heal|p1a: Landorus|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641857909
+|switch|p2a: Grimmjow|Swampert, M|100/100
+|turn|14
+|
+|t:|1641857923
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|move|p2a: Grimmjow|Flip Turn|p1a: Skarmory
+|-damage|p1a: Skarmory|86/100
+|-damage|p2a: Grimmjow|84/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|t:|1641857931
+|switch|p2a: Kenpachi|Heatran, M|100/100|[from]move: Flip Turn
+|
+|upkeep
+|turn|15
+|
+|t:|1641857934
+|switch|p1a: Rotom|Rotom-Wash|78/100
+|move|p2a: Kenpachi|Magma Storm|p1a: Rotom|[miss]
+|-miss|p2a: Kenpachi|p1a: Rotom
+|
+|upkeep
+|turn|16
+|c|☆Js1000|Really
+|
+|t:|1641857951
+|switch|p2a: Grimmjow|Swampert, M|84/100
+|move|p1a: Rotom|Hydro Pump|p2a: Grimmjow
+|-damage|p2a: Grimmjow|59/100
+|
+|-heal|p2a: Grimmjow|65/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641857961
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Grimmjow|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: Winsy Tinsy|move: Stealth Rock
+|
+|-heal|p2a: Grimmjow|72/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641857969
+|switch|p2a: Kenpachi|Heatran, M|100/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Kenpachi|[miss]
+|-miss|p1a: Dragapult|p2a: Kenpachi
+|
+|upkeep
+|turn|19
+|
+|t:|1641857976
+|switch|p1a: Landorus|Landorus-Therian, M|69/100
+|-damage|p1a: Landorus|57/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kenpachi|atk|1
+|move|p2a: Kenpachi|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-heal|p1a: Landorus|63/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|57/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641857982
+|switch|p2a: Hachigen|Buzzwole|100/100
+|move|p1a: Landorus|Defog|p2a: Hachigen
+|-unboost|p2a: Hachigen|evasion|1
+|-sideend|p1: Winsy Tinsy|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|63/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|50/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641857990
+|move|p1a: Landorus|U-turn|p2a: Hachigen
+|-resisted|p2a: Hachigen
+|-damage|p2a: Hachigen|95/100
+|-damage|p1a: Landorus|34/100 tox|[from] item: Rocky Helmet|[of] p2a: Hachigen
+|
+|t:|1641857995
+|switch|p1a: Dragapult|Dragapult, F|100/100|[from]move: U-turn
+|move|p2a: Hachigen|Drain Punch|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|upkeep
+|turn|22
+|
+|t:|1641857999
+|switch|p2a: Kenpachi|Heatran, M|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Kenpachi
+|-damage|p2a: Kenpachi|48/100
+|
+|-heal|p2a: Kenpachi|54/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641858009
+|move|p1a: Dragapult|Shadow Ball|p2a: Kenpachi
+|-damage|p2a: Kenpachi|6/100
+|move|p2a: Kenpachi|Magma Storm|p1a: Dragapult|[miss]
+|-miss|p2a: Kenpachi|p1a: Dragapult
+|
+|-heal|p2a: Kenpachi|12/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆Winsy Tinsy|rip
+|c|☆Js1000|IS fucking joke 3 miss
+|c|☆Winsy Tinsy|i told you
+|c|☆Winsy Tinsy|the power of rnjesus is on my side
+|inactive|Js1000 has 120 seconds left.
+|n|!Js1000|js1000
+|inactive|Js1000 has 90 seconds left.
+|
+|t:|1641858071
+|switch|p2a: Grimmjow|Swampert, M|72/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Grimmjow
+|-damage|p2a: Grimmjow|34/100
+|
+|-heal|p2a: Grimmjow|41/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Js1000 has 90 seconds left.
+|
+|t:|1641858082
+|move|p1a: Dragapult|Shadow Ball|p2a: Grimmjow
+|-damage|p2a: Grimmjow|5/100
+|move|p2a: Grimmjow|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|52/100
+|
+|-heal|p2a: Grimmjow|11/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|inactive|Js1000 has 90 seconds left.
+|
+|t:|1641858093
+|move|p1a: Dragapult|Shadow Ball|p2a: Grimmjow
+|-damage|p2a: Grimmjow|0 fnt
+|faint|p2a: Grimmjow
+|
+|upkeep
+|
+|t:|1641858095
+|switch|p2a: Byakuya|Landorus-Therian, M|100/100
+|-ability|p2a: Byakuya|Intimidate|boost
+|-unboost|p1a: Dragapult|atk|1
+|turn|27
+|
+|t:|1641858102
+|move|p1a: Dragapult|Shadow Ball|p2a: Byakuya
+|-damage|p2a: Byakuya|33/100
+|move|p2a: Byakuya|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-enditem|p1a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p2a: Byakuya
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641858107
+|switch|p1a: Rotom|Rotom-Wash|78/100
+|turn|28
+|j| wh1skzin
+|l| wh1skzin
+|c|☆Winsy Tinsy|gg
+|
+|t:|1641858115
+|switch|p2a: Kisuke|Tornadus-Therian, M|58/100
+|move|p1a: Rotom|Hydro Pump|p2a: Kisuke
+|-damage|p2a: Kisuke|18/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641858119
+|move|p1a: Rotom|Hydro Pump|p2a: Kisuke
+|-damage|p2a: Kisuke|0 fnt
+|faint|p2a: Kisuke
+|
+|upkeep
+|
+|t:|1641858123
+|switch|p2a: Byakuya|Landorus-Therian, M|33/100
+|-ability|p2a: Byakuya|Intimidate|boost
+|-unboost|p1a: Rotom|atk|1
+|turn|30
+|c|☆Winsy Tinsy|im not going to miss one
+|c|☆Winsy Tinsy|mark my words
+|
+|t:|1641858130
+|move|p2a: Byakuya|Stone Edge|p1a: Rotom
+|-damage|p1a: Rotom|39/100
+|move|p1a: Rotom|Hydro Pump|p2a: Byakuya|[miss]
+|-miss|p1a: Rotom|p2a: Byakuya
+|
+|upkeep
+|turn|31
+|
+|t:|1641858136
+|move|p2a: Byakuya|Stone Edge|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|c|☆Winsy Tinsy|Nevermind...
+|
+|t:|1641858142
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|32
+|inactive|Js1000 has 120 seconds left.
+|
+|t:|1641858184
+|move|p2a: Byakuya|Stone Edge|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|39/100
+|move|p1a: Tapu Lele|Psyshock|p2a: Byakuya
+|-damage|p2a: Byakuya|0 fnt
+|faint|p2a: Byakuya
+|
+|upkeep
+|
+|t:|1641858191
+|switch|p2a: Kenpachi|Heatran, M|12/100
+|turn|33
+|
+|t:|1641858219
+|move|p1a: Tapu Lele|Psyshock|p2a: Kenpachi
+|-resisted|p2a: Kenpachi
+|-damage|p2a: Kenpachi|0 fnt
+|faint|p2a: Kenpachi
+|
+|upkeep
+|
+|t:|1641858222
+|switch|p2a: Hachigen|Buzzwole|95/100
+|turn|34
+|
+|t:|1641858226
+|move|p1a: Tapu Lele|Psyshock|p2a: Hachigen
+|-supereffective|p2a: Hachigen
+|-damage|p2a: Hachigen|41/100
+|move|p2a: Hachigen|Leech Life|p1a: Tapu Lele
+|-crit|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|-heal|p2a: Hachigen|55/100|[from] drain|[of] p1a: Tapu Lele
+|faint|p1a: Tapu Lele
+|-ability|p2a: Hachigen|Beast Boost|boost
+|-boost|p2a: Hachigen|def|1
+|
+|upkeep
+|
+|t:|1641858233
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|35
+|
+|t:|1641858249
+|move|p2a: Hachigen|Drain Punch|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|42/100
+|-heal|p2a: Hachigen|81/100|[from] drain|[of] p1a: Heatran
+|move|p1a: Heatran|Magma Storm|p2a: Hachigen
+|-supereffective|p2a: Hachigen
+|-damage|p2a: Hachigen|0 fnt
+|faint|p2a: Hachigen
+|
+|win|Winsy Tinsy

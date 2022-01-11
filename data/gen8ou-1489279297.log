@@ -1,0 +1,256 @@
+|j|☆cebollaconpan
+|j|☆zerophos
+|t:|1641882583
+|gametype|singles
+|player|p1|cebollaconpan|clown|1049
+|player|p2|zerophos|linebacker|1095
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninjask, M|
+|poke|p1|Togedemaru, F|
+|poke|p1|Volcanion|
+|poke|p1|Roserade, F|
+|poke|p1|Snorlax, F|
+|poke|p1|Swampert, M|
+|poke|p2|Jellicent, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Mienshao, F|
+|poke|p2|Sylveon, M|
+|poke|p2|Drapion, F|
+|poke|p2|Volcarona, F|
+|teampreview
+|
+|t:|1641882601
+|start
+|switch|p1a: Roserade|Roserade, F|100/100
+|switch|p2a: Mienshao|Mienshao, F|100/100
+|turn|1
+|
+|t:|1641882617
+|move|p2a: Mienshao|Fake Out|p1a: Roserade
+|-damage|p1a: Roserade|69/100
+|-damage|p2a: Mienshao|91/100|[from] item: Life Orb
+|cant|p1a: Roserade|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1641882627
+|move|p2a: Mienshao|U-turn|p1a: Roserade
+|-damage|p1a: Roserade|12/100
+|-damage|p2a: Mienshao|81/100|[from] item: Life Orb
+|
+|t:|1641882631
+|switch|p2a: Volcarona|Volcarona, F|100/100|[from]move: U-turn
+|move|p1a: Roserade|Sleep Powder|p2a: Volcarona
+|-status|p2a: Volcarona|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|3
+|
+|t:|1641882637
+|move|p1a: Roserade|Spikes|p2a: Volcarona
+|-sidestart|p2: zerophos|Spikes
+|cant|p2a: Volcarona|slp
+|
+|upkeep
+|turn|4
+|
+|t:|1641882645
+|move|p1a: Roserade|Toxic Spikes|p2a: Volcarona
+|-sidestart|p2: zerophos|move: Toxic Spikes
+|cant|p2a: Volcarona|slp
+|
+|upkeep
+|turn|5
+|
+|t:|1641882658
+|switch|p1a: Swampert|Swampert, M|100/100
+|cant|p2a: Volcarona|slp
+|
+|upkeep
+|turn|6
+|
+|t:|1641882664
+|-curestatus|p2a: Volcarona|slp|[msg]
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Swampert|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|63/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641882675
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Swampert|Stealth Rock|p2a: Volcarona
+|-sidestart|p2: zerophos|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1641882681
+|move|p2a: Volcarona|Mystical Fire|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|67/100
+|-unboost|p1a: Swampert|spa|1
+|move|p1a: Swampert|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|45/100
+|
+|-heal|p1a: Swampert|73/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641882690
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|95/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Swampert|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|77/100
+|
+|-heal|p1a: Swampert|79/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zerophos)
+|
+|t:|1641882724
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Swampert|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|62/100
+|
+|-heal|p1a: Swampert|86/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641882737
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|100/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Swampert|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|87/100
+|
+|-heal|p1a: Swampert|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|c|☆cebollaconpan|xupame el pico
+|
+|t:|1641882758
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Swampert|Earth Power|p2a: Volcarona
+|-damage|p2a: Volcarona|80/100
+|
+|-heal|p1a: Swampert|98/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641882774
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Swampert|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|69/100
+|
+|-heal|p1a: Swampert|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641882779
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Swampert|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|61/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641882787
+|move|p2a: Volcarona|Defog|p1a: Swampert
+|-unboost|p1a: Swampert|evasion|1
+|-sideend|p2: zerophos|Spikes|[from] move: Defog|[of] p2a: Volcarona
+|-sideend|p2: zerophos|Toxic Spikes|[from] move: Defog|[of] p2a: Volcarona
+|-sideend|p2: zerophos|Stealth Rock|[from] move: Defog|[of] p2a: Volcarona
+|move|p1a: Swampert|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|52/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641882798
+|switch|p1a: Snorlax|Snorlax, F|100/100
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|100/100
+|-singleturn|p2a: Volcarona|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1641882802
+|move|p2a: Volcarona|Mystical Fire|p1a: Snorlax
+|-damage|p1a: Snorlax|19/100
+|-unboost|p1a: Snorlax|spa|1
+|move|p1a: Snorlax|Earthquake|p2a: Volcarona
+|-damage|p2a: Volcarona|75/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641882813
+|move|p2a: Volcarona|Mystical Fire|p1a: Snorlax
+|-damage|p1a: Snorlax|0 fnt
+|faint|p1a: Snorlax
+|
+|upkeep
+|
+|t:|1641882820
+|switch|p1a: Volcanion|Volcanion|100/100
+|turn|19
+|
+|t:|1641882823
+|move|p2a: Volcarona|Mystical Fire|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|63/100
+|-unboost|p1a: Volcanion|spa|1
+|move|p1a: Volcanion|Sludge Bomb|p2a: Volcarona
+|-damage|p2a: Volcarona|70/100
+|
+|upkeep
+|turn|20
+|-message|cebollaconpan forfeited.
+|
+|win|zerophos
+|raw|cebollaconpan's rating: 1049 &rarr; <strong>1034</strong><br />(-15 for losing)
+|raw|zerophos's rating: 1095 &rarr; <strong>1117</strong><br />(+22 for winning)
+|l|☆cebollaconpan

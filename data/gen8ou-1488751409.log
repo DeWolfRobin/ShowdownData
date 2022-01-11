@@ -1,0 +1,296 @@
+|j|☆C6H5COOC2H5
+|j|☆kuhrii
+|t:|1641815727
+|gametype|singles
+|player|p1|C6H5COOC2H5|caitlin|1121
+|player|p2|kuhrii|hugh|1149
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Weavile, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Galvantula, F|
+|poke|p2|Shuckle, F|
+|poke|p2|Scrafty, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Mew|
+|poke|p2|Quagsire, F|
+|poke|p2|Chandelure, M|
+|teampreview
+|
+|t:|1641815732
+|start
+|switch|p1a: Galvantula|Galvantula, F|100/100
+|switch|p2a: Shuckle|Shuckle, F|100/100
+|turn|1
+|
+|t:|1641815740
+|move|p1a: Galvantula|Sticky Web|p2a: Shuckle
+|-sidestart|p2: kuhrii|move: Sticky Web
+|move|p2a: Shuckle|Sticky Web|p1a: Galvantula
+|-sidestart|p1: C6H5COOC2H5|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1641815748
+|move|p1a: Galvantula|Thunder|p2a: Shuckle|[miss]
+|-miss|p1a: Galvantula|p2a: Shuckle
+|move|p2a: Shuckle|Toxic|p1a: Galvantula
+|-status|p1a: Galvantula|tox
+|
+|-damage|p1a: Galvantula|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641815758
+|move|p1a: Galvantula|Thunder|p2a: Shuckle
+|-damage|p2a: Shuckle|73/100
+|-status|p2a: Shuckle|par
+|cant|p2a: Shuckle|par
+|
+|-heal|p1a: Galvantula|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Galvantula|88/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641815769
+|switch|p2a: Quagsire|Quagsire, F|100/100
+|-activate|p2a: Quagsire|move: Sticky Web
+|-unboost|p2a: Quagsire|spe|1
+|move|p1a: Galvantula|Volt Switch|p2a: Quagsire
+|-immune|p2a: Quagsire
+|
+|-heal|p1a: Galvantula|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Galvantula|76/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641815791
+|switch|p1a: Kartana|Kartana|100/100
+|-activate|p1a: Kartana|move: Sticky Web
+|-unboost|p1a: Kartana|spe|1
+|move|p2a: Quagsire|Earthquake|p1a: Kartana
+|-damage|p1a: Kartana|71/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641815800
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-activate|p2a: Ferrothorn|move: Sticky Web
+|-unboost|p2a: Ferrothorn|spe|1
+|move|p1a: Kartana|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|77/100
+|-damage|p1a: Kartana|59/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Kartana|42/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p1a: Kartana
+|
+|upkeep
+|turn|7
+|
+|t:|1641815817
+|switch|p2a: Chandelure|Chandelure, M|100/100
+|-item|p2a: Chandelure|Air Balloon
+|move|p1a: Kartana|Sacred Sword|p2a: Chandelure
+|-immune|p2a: Chandelure
+|
+|upkeep
+|turn|8
+|
+|t:|1641815829
+|move|p2a: Chandelure|Flamethrower|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641815837
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|-activate|p1a: Urshifu|move: Sticky Web
+|-unboost|p1a: Urshifu|spe|1
+|turn|9
+|
+|t:|1641815844
+|switch|p2a: Ferrothorn|Ferrothorn, M|77/100
+|-activate|p2a: Ferrothorn|move: Sticky Web
+|-unboost|p2a: Ferrothorn|spe|1
+|move|p1a: Urshifu|Surging Strikes|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|71/100
+|-damage|p1a: Urshifu|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|65/100
+|-damage|p1a: Urshifu|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|59/100
+|-damage|p1a: Urshifu|64/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-hitcount|p2a: Ferrothorn|3
+|
+|upkeep
+|turn|10
+|
+|t:|1641815860
+|move|p1a: Urshifu|Surging Strikes|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|54/100
+|-damage|p1a: Urshifu|51/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|48/100
+|-damage|p1a: Urshifu|39/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|42/100
+|-damage|p1a: Urshifu|27/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-hitcount|p2a: Ferrothorn|3
+|move|p2a: Ferrothorn|Leech Seed|p1a: Urshifu
+|-start|p1a: Urshifu|move: Leech Seed
+|
+|-damage|p1a: Urshifu|14/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|54/100|[silent]
+|upkeep
+|turn|11
+|
+|t:|1641815879
+|move|p1a: Urshifu|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|-damage|p1a: Urshifu|2/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641815911
+|switch|p2a: Chandelure|Chandelure, M|100/100
+|-item|p2a: Chandelure|Air Balloon
+|turn|12
+|
+|t:|1641815924
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-activate|p1a: Dragapult|move: Sticky Web
+|-unboost|p1a: Dragapult|spe|1
+|move|p2a: Chandelure|Shadow Ball|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641815937
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-activate|p1a: Ferrothorn|move: Sticky Web
+|-unboost|p1a: Ferrothorn|spe|1
+|turn|13
+|
+|t:|1641815944
+|move|p2a: Chandelure|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641815949
+|switch|p1a: Weavile|Weavile, F|100/100
+|-activate|p1a: Weavile|move: Sticky Web
+|-unboost|p1a: Weavile|spe|1
+|-ability|p1a: Weavile|Pressure
+|turn|14
+|
+|t:|1641815971
+|switch|p2a: Shuckle|Shuckle, F|73/100 par
+|-activate|p2a: Shuckle|move: Sticky Web
+|-unboost|p2a: Shuckle|spe|1
+|move|p1a: Weavile|Knock Off|p2a: Shuckle
+|-damage|p2a: Shuckle|41/100 par
+|-enditem|p2a: Shuckle|Aguav Berry|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|15
+|
+|t:|1641815984
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|move|p2a: Shuckle|Toxic|p1a: Weavile
+|-status|p1a: Weavile|tox
+|
+|-damage|p1a: Weavile|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641815994
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|move|p2a: Shuckle|Power Split|p1a: Weavile
+|-activate|p2a: Shuckle|move: Power Split|[of] p1a: Weavile
+|
+|-damage|p1a: Weavile|82/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641816002
+|move|p1a: Weavile|Triple Axel|p2a: Shuckle
+|-damage|p2a: Shuckle|30/100 par
+|-damage|p2a: Shuckle|10/100 par
+|-damage|p2a: Shuckle|0 fnt
+|faint|p2a: Shuckle
+|-hitcount|p2: Shuckle|3
+|
+|-damage|p1a: Weavile|64/100 tox|[from] psn
+|upkeep
+|
+|t:|1641816012
+|switch|p2a: Quagsire|Quagsire, F|100/100
+|-activate|p2a: Quagsire|move: Sticky Web
+|-unboost|p2a: Quagsire|spe|1
+|turn|18
+|
+|t:|1641816021
+|move|p1a: Weavile|Knock Off|p2a: Quagsire
+|-damage|p2a: Quagsire|84/100
+|-enditem|p2a: Quagsire|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Quagsire|Haze|p2a: Quagsire
+|-clearallboost
+|
+|-damage|p1a: Weavile|40/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641816032
+|move|p1a: Weavile|Triple Axel|p2a: Quagsire
+|-damage|p2a: Quagsire|80/100
+|-hitcount|p2a: Quagsire|1
+|move|p2a: Quagsire|Recover|p2a: Quagsire
+|-heal|p2a: Quagsire|100/100
+|
+|-damage|p1a: Weavile|10/100 tox|[from] psn
+|upkeep
+|turn|20
+|-message|C6H5COOC2H5 forfeited.
+|
+|win|kuhrii
+|raw|C6H5COOC2H5's rating: 1121 &rarr; <strong>1098</strong><br />(-23 for losing)
+|raw|kuhrii's rating: 1149 &rarr; <strong>1172</strong><br />(+23 for winning)
+|l|☆C6H5COOC2H5

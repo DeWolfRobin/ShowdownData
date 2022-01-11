@@ -1,0 +1,233 @@
+|j|☆Pkmnallrounder
+|j|☆arniels gaze
+|t:|1641743209
+|gametype|singles
+|player|p1|Pkmnallrounder|101|1107
+|player|p2|arniels gaze|furisodegirl-black|1092
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Charizard, M|
+|poke|p1|Ninetales, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Venusaur, M|
+|poke|p1|Zeraora|
+|poke|p1|Slowking-Galar, M|
+|poke|p2|Regieleki|
+|poke|p2|Tapu Koko|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Heatran, M|
+|poke|p2|Melmetal|
+|poke|p2|Excadrill, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by arniels gaze)
+|
+|t:|1641743234
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Regieleki|Regieleki|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641743244
+|move|p2a: Regieleki|Ancient Power|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|28/100
+|move|p1a: Ninetales|Scorching Sands|p2a: Regieleki
+|-supereffective|p2a: Regieleki
+|-damage|p2a: Regieleki|35/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641743254
+|move|p2a: Regieleki|Ancient Power|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641743268
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|turn|3
+|
+|t:|1641743275
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Venusaur|Giga Drain|p2a: Heatran
+|-resisted|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|83/100
+|-enditem|p2a: Heatran|Air Balloon
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641743287
+|move|p1a: Venusaur|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-damage|p1a: Venusaur|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641743290
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|5
+|
+|t:|1641743298
+|move|p1a: Venusaur|Weather Ball|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|-damage|p1a: Venusaur|71/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641743300
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|6
+|
+|t:|1641743314
+|move|p1a: Venusaur|Earth Power|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-enditem|p2a: Slowking|Shuca Berry|[eat]
+|-enditem|p2a: Slowking|Shuca Berry|[weaken]
+|-damage|p2a: Slowking|71/100
+|-damage|p1a: Venusaur|61/100|[from] item: Life Orb
+|move|p2a: Slowking|Flamethrower|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641743332
+|switch|p1a: Charizard|Charizard, M|100/100
+|turn|7
+|
+|t:|1641743344
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Charizard|Scorching Sands|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|32/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard|88/100|[from] ability: Solar Power|[of] p1a: Charizard
+|upkeep
+|turn|8
+|
+|t:|1641743360
+|move|p1a: Charizard|Flamethrower|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|none
+|upkeep
+|
+|t:|1641743363
+|switch|p2a: Regieleki|Regieleki|35/100
+|turn|9
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641743392
+|move|p2a: Regieleki|Ancient Power|p1a: Charizard
+|-supereffective|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|
+|upkeep
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641743397
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|10
+|
+|t:|1641743404
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Garchomp|Earthquake|p2a: Tapu Koko
+|-supereffective|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641743407
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|11
+|
+|t:|1641743417
+|move|p1a: Garchomp|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|1/100
+|move|p2a: Slowking|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641743445
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|turn|12
+|
+|t:|1641743452
+|move|p1a: Slowking|Future Sight|p2a: Slowking
+|-start|p1a: Slowking|move: Future Sight
+|move|p2a: Slowking|Sludge Bomb|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|89/100
+|
+|upkeep
+|turn|13
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641743462
+|move|p1a: Slowking|Sludge Bomb|p2a: Slowking
+|-resisted|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1641743469
+|switch|p2a: Regieleki|Regieleki|35/100
+|turn|14
+|
+|t:|1641743477
+|move|p2a: Regieleki|Rising Voltage|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|-end|p2a: Regieleki|move: Future Sight
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|win|Pkmnallrounder
+|upkeep
+|raw|Pkmnallrounder's rating: 1107 &rarr; <strong>1133</strong><br />(+26 for winning)
+|raw|arniels gaze's rating: 1115 &rarr; <strong>1089</strong><br />(-26 for losing)

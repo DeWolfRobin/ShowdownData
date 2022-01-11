@@ -1,0 +1,101 @@
+|j|☆AFlyingMermaid
+|j|☆greystaple
+|t:|1641774941
+|gametype|singles
+|player|p1|AFlyingMermaid|guitarist|1603
+|player|p2|greystaple|hilbert-wonderlauncher|1709
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Rillaboom, F|
+|poke|p1|Hawlucha, M|
+|poke|p1|Rhyperior, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Urshifu-*, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Hippowdon, M|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Koko|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AFlyingMermaid)
+|
+|t:|1641774956
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1641774964
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Rillaboom|U-turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|87/100
+|
+|t:|1641774970
+|switch|p1a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|2
+|
+|t:|1641774992
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Tapu Lele|Moonblast|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|79/100
+|-unboost|p2a: Ferrothorn|spa|1
+|
+|-heal|p2a: Ferrothorn|85/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641774999
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|
+|upkeep
+|turn|4
+|c|☆AFlyingMermaid|sand force?
+|c|☆AFlyingMermaid|oh because dnite
+|c|☆AFlyingMermaid|that's kinda sick
+|
+|t:|1641775020
+|move|p1a: Urshifu|Surging Strikes|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|59/100
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|16/100
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|-hitcount|p2: Hippowdon|3
+|
+|upkeep
+|c|☆greystaple|yeah
+|c|☆greystaple|anyways I'm gonna lose this and I have a bad match up so no hard feelings but
+|c|☆greystaple|I'm a forfeeit rn
+|inactive|greystaple has 120 seconds left.
+|-message|greystaple forfeited.
+|
+|win|AFlyingMermaid
+|raw|AFlyingMermaid's rating: 1603 &rarr; <strong>1629</strong><br />(+26 for winning)
+|raw|greystaple's rating: 1709 &rarr; <strong>1683</strong><br />(-26 for losing)

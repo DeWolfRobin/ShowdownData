@@ -1,0 +1,232 @@
+|j|☆yesusermane
+|j|☆FlowingJellyfishes
+|t:|1641800968
+|gametype|singles
+|player|p1|yesusermane|2|1297
+|player|p2|FlowingJellyfishes|red|1359
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kommo-o, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Zapdos|
+|poke|p1|Melmetal|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Azumarill, M|
+|poke|p2|Victini|
+|poke|p2|Dragonite, M|
+|poke|p2|Gengar, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Blastoise, M|
+|teampreview
+|
+|t:|1641800987
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Gengar|Gengar, M|100/100
+|turn|1
+|
+|t:|1641800996
+|move|p1a: Dragapult|Shadow Ball|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-enditem|p2a: Gengar|Focus Sash
+|-damage|p2a: Gengar|1/100
+|-unboost|p2a: Gengar|spd|1
+|move|p2a: Gengar|Hypnosis|p1a: Dragapult|[miss]
+|-miss|p2a: Gengar|p1a: Dragapult
+|
+|upkeep
+|turn|2
+|
+|t:|1641801012
+|switch|p2a: Azumarill|Azumarill, M|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Azumarill
+|-damage|p2a: Azumarill|51/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641801017
+|move|p1a: Dragapult|Shadow Ball|p2a: Azumarill
+|-crit|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1641801032
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|4
+|
+|t:|1641801042
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641801051
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Melmetal|Ice Punch|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|41/100
+|-enditem|p2a: Dragonite|Weakness Policy
+|-boost|p2a: Dragonite|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Dragonite|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|6
+|
+|t:|1641801057
+|move|p2a: Dragonite|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641801070
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|turn|7
+|
+|t:|1641801080
+|move|p2a: Dragonite|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641801097
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|8
+|
+|t:|1641801111
+|move|p2a: Dragonite|Ice Punch|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641801113
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|9
+|c|☆yesusermane|gg
+|
+|t:|1641801122
+|move|p1a: Dragapult|Draco Meteor|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641801129
+|switch|p2a: Victini|Victini|100/100
+|turn|10
+|
+|t:|1641801135
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Victini|V-create|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|faint|p1a: Volcarona
+|
+|upkeep
+|
+|t:|1641801137
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|11
+|
+|t:|1641801153
+|move|p1a: Dragapult|Shadow Ball|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|upkeep
+|
+|t:|1641801162
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|turn|12
+|
+|t:|1641801194
+|move|p1a: Dragapult|Shadow Ball|p2a: Blastoise
+|-damage|p2a: Blastoise|40/100
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1641801208
+|move|p2a: Blastoise|Hydro Cannon|p1a: Dragapult|[miss]
+|-miss|p2a: Blastoise|p1a: Dragapult
+|move|p1a: Dragapult|Shadow Ball|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|upkeep
+|
+|t:|1641801215
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|turn|14
+|
+|t:|1641801220
+|move|p1a: Dragapult|Shadow Ball|p2a: Blaziken
+|-damage|p2a: Blaziken|28/100
+|move|p2a: Blaziken|Bulk Up|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|1
+|-boost|p2a: Blaziken|def|1
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1641801224
+|move|p1a: Dragapult|Shadow Ball|p2a: Blaziken
+|-crit|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1641801226
+|switch|p2a: Gengar|Gengar, M|1/100
+|turn|16
+|
+|t:|1641801227
+|move|p1a: Dragapult|Shadow Ball|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|win|yesusermane
+|raw|yesusermane's rating: 1297 &rarr; <strong>1326</strong><br />(+29 for winning)
+|raw|FlowingJellyfishes's rating: 1359 &rarr; <strong>1335</strong><br />(-24 for losing)

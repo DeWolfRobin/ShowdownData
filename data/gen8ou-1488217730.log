@@ -1,0 +1,247 @@
+|j|☆Moth.o
+|j|☆MoaJ'mPaLaCorrida
+|t:|1641736006
+|gametype|singles
+|player|p1|Moth.o|roxie|1196
+|player|p2|MoaJ'mPaLaCorrida|pokemaniac|1169
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Sylveon, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Scolipede, F|
+|poke|p1|Moltres|
+|poke|p1|Krookodile, F|
+|poke|p1|Lurantis, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Diggersby, M|
+|poke|p2|Scizor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MoaJ'mPaLaCorrida)
+|inactive|Moth.o has 120 seconds left.
+|
+|t:|1641736042
+|start
+|switch|p1a: TransLivesMatter|Sylveon, M|100/100
+|switch|p2a: Wall 1|Ferrothorn, F|100/100
+|turn|1
+|
+|t:|1641736049
+|move|p1a: TransLivesMatter|Mystical Fire|p2a: Wall 1
+|-supereffective|p2a: Wall 1
+|-crit|p2a: Wall 1
+|-damage|p2a: Wall 1|0 fnt
+|faint|p2a: Wall 1
+|
+|upkeep
+|
+|t:|1641736052
+|switch|p2a: Niiiiiiiion|Dragapult, F|100/100
+|turn|2
+|
+|t:|1641736058
+|move|p2a: Niiiiiiiion|Shadow Ball|p1a: TransLivesMatter
+|-damage|p1a: TransLivesMatter|59/100
+|-unboost|p1a: TransLivesMatter|spd|1
+|move|p1a: TransLivesMatter|Hyper Voice|p2a: Niiiiiiiion
+|-supereffective|p2a: Niiiiiiiion
+|-damage|p2a: Niiiiiiiion|0 fnt
+|faint|p2a: Niiiiiiiion
+|-enditem|p1a: TransLivesMatter|Throat Spray
+|-boost|p1a: TransLivesMatter|spa|1|[from] item: Throat Spray
+|
+|upkeep
+|
+|t:|1641736073
+|switch|p2a: Cocorico|Zapdos-Galar|100/100
+|turn|3
+|
+|t:|1641736077
+|switch|p1a: Perséfone|Moltres|100/100
+|move|p2a: Cocorico|Brave Bird|p1a: Perséfone
+|-damage|p1a: Perséfone|31/100
+|-damage|p2a: Cocorico|75/100|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1641736089
+|move|p2a: Cocorico|Brave Bird|p1a: Perséfone
+|-damage|p1a: Perséfone|0 fnt
+|faint|p1a: Perséfone
+|-damage|p2a: Cocorico|63/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641736095
+|switch|p1a: Aerodynamo|Dragapult, M|100/100
+|turn|5
+|
+|t:|1641736099
+|move|p1a: Aerodynamo|U-turn|p2a: Cocorico
+|-resisted|p2a: Cocorico
+|-damage|p2a: Cocorico|59/100
+|
+|t:|1641736105
+|switch|p1a: TransLivesMatter|Sylveon, M|59/100|[from]move: U-turn
+|move|p2a: Cocorico|Brave Bird|p1a: TransLivesMatter
+|-damage|p1a: TransLivesMatter|0 fnt
+|faint|p1a: TransLivesMatter
+|-damage|p2a: Cocorico|39/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641736124
+|switch|p1a: Lagartera|Krookodile, F, shiny|100/100
+|turn|6
+|
+|t:|1641736128
+|move|p2a: Cocorico|Brave Bird|p1a: Lagartera
+|-damage|p1a: Lagartera|0 fnt
+|faint|p1a: Lagartera
+|-damage|p2a: Cocorico|5/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641736134
+|switch|p1a: Aerodynamo|Dragapult, M|100/100
+|turn|7
+|
+|t:|1641736140
+|switch|p2a: Wall 2|Toxapex, M|100/100
+|move|p1a: Aerodynamo|U-turn|p2a: Wall 2
+|-resisted|p2a: Wall 2
+|-damage|p2a: Wall 2|96/100
+|-damage|p1a: Aerodynamo|84/100|[from] item: Rocky Helmet|[of] p2a: Wall 2
+|
+|t:|1641736147
+|switch|p1a: Guillot|Lurantis, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1641736152
+|switch|p2a: Maréchal|Scizor, M|100/100
+|move|p1a: Guillot|Substitute|p1a: Guillot
+|-start|p1a: Guillot|Substitute
+|-damage|p1a: Guillot|76/100
+|
+|-heal|p1a: Guillot|82/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641736160
+|move|p2a: Maréchal|Swords Dance|p2a: Maréchal
+|-boost|p2a: Maréchal|atk|2
+|move|p1a: Guillot|Superpower|p2a: Maréchal
+|-damage|p2a: Maréchal|74/100
+|-boost|p1a: Guillot|atk|1
+|-boost|p1a: Guillot|def|1
+|
+|-heal|p1a: Guillot|88/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641736171
+|move|p2a: Maréchal|Bullet Punch|p1a: Guillot
+|-end|p1a: Guillot|Substitute
+|move|p1a: Guillot|Superpower|p2a: Maréchal
+|-damage|p2a: Maréchal|36/100
+|-boost|p1a: Guillot|atk|1
+|-boost|p1a: Guillot|def|1
+|
+|-heal|p1a: Guillot|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641736182
+|move|p2a: Maréchal|Bullet Punch|p1a: Guillot
+|-damage|p1a: Guillot|63/100
+|move|p1a: Guillot|Superpower|p2a: Maréchal
+|-damage|p2a: Maréchal|0 fnt
+|-boost|p1a: Guillot|atk|1
+|-boost|p1a: Guillot|def|1
+|faint|p2a: Maréchal
+|
+|-heal|p1a: Guillot|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641736188
+|switch|p2a: Cocorico|Zapdos-Galar|5/100
+|turn|12
+|
+|t:|1641736216
+|switch|p1a: Ophelia|Scolipede, F, shiny|100/100
+|move|p2a: Cocorico|Brave Bird|p1a: Ophelia
+|-supereffective|p1a: Ophelia
+|-damage|p1a: Ophelia|0 fnt
+|faint|p1a: Ophelia
+|-damage|p2a: Cocorico|0 fnt|[from] Recoil
+|faint|p2a: Cocorico
+|
+|upkeep
+|
+|t:|1641736227
+|switch|p2a: Wall 2|Toxapex, M|100/100
+|switch|p1a: Guillot|Lurantis, M|69/100
+|turn|13
+|
+|t:|1641736234
+|switch|p2a: Je mapel bob|Diggersby, M|100/100
+|move|p1a: Guillot|Substitute|p1a: Guillot
+|-start|p1a: Guillot|Substitute
+|-damage|p1a: Guillot|45/100
+|
+|-heal|p1a: Guillot|50/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641736242
+|move|p2a: Je mapel bob|Earthquake|p1a: Guillot
+|-resisted|p1a: Guillot
+|-end|p1a: Guillot|Substitute
+|-damage|p2a: Je mapel bob|91/100|[from] item: Life Orb
+|move|p1a: Guillot|Leaf Storm|p2a: Je mapel bob
+|-supereffective|p2a: Je mapel bob
+|-damage|p2a: Je mapel bob|0 fnt
+|-boost|p1a: Guillot|spa|2
+|faint|p2a: Je mapel bob
+|
+|-heal|p1a: Guillot|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641736247
+|switch|p2a: Wall 2|Toxapex, M|100/100
+|turn|15
+|c|☆MoaJ'mPaLaCorrida|kedvhfhsfio:qlu, gbzzs<e!-è(-yt(yt-yt-uyuèth
+|l|☆MoaJ'mPaLaCorrida
+|inactive|MoaJ'mPaLaCorrida disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|MoaJ'mPaLaCorrida has 30 seconds to reconnect!
+|inactive|MoaJ'mPaLaCorrida has 20 seconds to reconnect!
+|inactive|MoaJ'mPaLaCorrida has 15 seconds to reconnect!
+|l|☆Moth.o
+|inactive|Moth.o disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|MoaJ'mPaLaCorrida has 10 seconds to reconnect!
+|inactive|MoaJ'mPaLaCorrida has 5 seconds to reconnect!
+|-message|MoaJ'mPaLaCorrida lost due to inactivity.
+|
+|win|Moth.o
+|raw|Moth.o's rating: 1196 &rarr; <strong>1219</strong><br />(+23 for winning)
+|raw|MoaJ&apos;mPaLaCorrida's rating: 1169 &rarr; <strong>1146</strong><br />(-23 for losing)
+|j|☆Moth.o
+|player|p1|Moth.o|roxie

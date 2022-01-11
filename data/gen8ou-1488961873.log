@@ -1,0 +1,355 @@
+|j|☆dieguin o mito
+|j|☆Seven heartz
+|t:|1641840984
+|gametype|singles
+|player|p1|dieguin o mito|caitlin|
+|player|p2|Seven heartz|shadowtriad|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Kartana|
+|poke|p1|Corviknight, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Blissey, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragapult, M|
+|poke|p2|Scizor, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ditto|
+|poke|p2|Bisharp, M|
+|teampreview
+|
+|t:|1641841010
+|start
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|1
+|
+|t:|1641841021
+|move|p2a: Dragapult|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|84/100
+|
+|t:|1641841028
+|switch|p2a: Bisharp|Bisharp, M|100/100|[from]move: U-turn
+|move|p1a: Slowking|Ice Beam|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|80/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641841040
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Bisharp|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|45/100
+|-damage|p2a: Bisharp|64/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-enditem|p1a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p2a: Bisharp
+|
+|upkeep
+|turn|3
+|
+|t:|1641841051
+|move|p2a: Bisharp|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|10/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|60/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641841057
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641841064
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Rotom|Volt Switch|p1a: Blissey
+|-damage|p1a: Blissey|92/100
+|
+|t:|1641841073
+|switch|p2a: Bisharp|Bisharp, M|64/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|6
+|
+|t:|1641841078
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Bisharp|Beat Up|p1a: Toxapex
+|-damage|p1a: Toxapex|91/100
+|-damage|p1a: Toxapex|84/100
+|-damage|p1a: Toxapex|74/100
+|-damage|p1a: Toxapex|63/100
+|-damage|p1a: Toxapex|58/100
+|-damage|p1a: Toxapex|49/100
+|-hitcount|p1a: Toxapex|6
+|
+|upkeep
+|turn|7
+|
+|t:|1641841091
+|move|p2a: Bisharp|Beat Up|p1a: Toxapex
+|-damage|p1a: Toxapex|39/100
+|-damage|p1a: Toxapex|33/100
+|-damage|p1a: Toxapex|22/100
+|-damage|p1a: Toxapex|12/100
+|-damage|p1a: Toxapex|7/100
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-hitcount|p1: Toxapex|6
+|
+|upkeep
+|
+|t:|1641841101
+|switch|p1a: Kartana|Kartana|100/100
+|turn|8
+|
+|t:|1641841108
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|move|p1a: Kartana|Sacred Sword|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|85/100
+|-damage|p1a: Kartana|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Landorus|91/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641841126
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Landorus|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|97/100
+|
+|t:|1641841135
+|switch|p2a: Rotom|Rotom-Wash|100/100|[from]move: U-turn
+|
+|-heal|p1a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Seven heartz)
+|
+|t:|1641841158
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Rotom|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|90/100
+|
+|t:|1641841165
+|switch|p2a: Bisharp|Bisharp, M|64/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|11
+|
+|t:|1641841178
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Bisharp|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|49/100
+|-enditem|p1a: Corviknight|Leftovers|[from] move: Knock Off|[of] p2a: Bisharp
+|
+|upkeep
+|turn|12
+|
+|t:|1641841187
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Corviknight|Body Press|p2a: Rotom
+|-damage|p2a: Rotom|75/100
+|
+|-heal|p2a: Rotom|81/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641841196
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Rotom|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|90/100
+|
+|t:|1641841203
+|switch|p2a: Bisharp|Bisharp, M|64/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|14
+|
+|t:|1641841209
+|switch|p1a: Corviknight|Corviknight, F|49/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Bisharp|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|16/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641841221
+|move|p2a: Bisharp|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1641841224
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|16
+|
+|t:|1641841233
+|switch|p2a: Ditto|Ditto|100/100
+|-transform|p2a: Ditto|p1a: Tapu Lele|[from] ability: Imposter
+|move|p1a: Tapu Lele|Moonblast|p2a: Ditto
+|-damage|p2a: Ditto|32/100
+|-unboost|p2a: Ditto|spa|1
+|
+|upkeep
+|turn|17
+|
+|t:|1641841249
+|move|p2a: Ditto|Moonblast|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|67/100
+|move|p1a: Tapu Lele|Moonblast|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|
+|upkeep
+|
+|t:|1641841259
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|18
+|
+|t:|1641841263
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Scizor|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|71/100
+|
+|t:|1641841271
+|switch|p2a: Bisharp|Bisharp, M|64/100|[from]move: U-turn
+|
+|upkeep
+|turn|19
+|
+|t:|1641841287
+|move|p2a: Bisharp|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Bisharp
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1641841291
+|switch|p1a: Tapu Lele|Tapu Lele|67/100
+|turn|20
+|
+|t:|1641841304
+|switch|p2a: Rotom|Rotom-Wash|81/100
+|move|p1a: Tapu Lele|Thunderbolt|p2a: Rotom
+|-damage|p2a: Rotom|44/100
+|
+|-heal|p2a: Rotom|50/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|21
+|
+|t:|1641841315
+|move|p1a: Tapu Lele|Thunderbolt|p2a: Rotom
+|-damage|p2a: Rotom|13/100
+|move|p2a: Rotom|Volt Switch|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|42/100
+|
+|t:|1641841336
+|switch|p2a: Landorus|Landorus-Therian, M|91/100|[from]move: Volt Switch
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Lele|atk|1
+|
+|-heal|p2a: Landorus|97/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641841341
+|move|p1a: Tapu Lele|Thunderbolt|p2a: Landorus
+|-immune|p2a: Landorus
+|move|p2a: Landorus|U-turn|p1a: Tapu Lele
+|-crit|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|t:|1641841352
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641841356
+|switch|p1a: Blissey|Blissey, F|92/100
+|turn|23
+|
+|t:|1641841362
+|move|p2a: Dragapult|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|77/100
+|
+|t:|1641841371
+|switch|p2a: Bisharp|Bisharp, M|64/100|[from]move: U-turn
+|move|p1a: Blissey|Seismic Toss|p2a: Bisharp
+|-damage|p2a: Bisharp|27/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641841377
+|move|p2a: Bisharp|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|7/100
+|-enditem|p1a: Blissey|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Bisharp
+|move|p1a: Blissey|Seismic Toss|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641841386
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|25
+|
+|t:|1641841392
+|switch|p1a: Kartana|Kartana|91/100
+|move|p2a: Scizor|U-turn|p1a: Kartana
+|-damage|p1a: Kartana|60/100
+|
+|t:|1641841398
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|26
+|
+|t:|1641841403
+|move|p2a: Dragapult|Flamethrower|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641841407
+|switch|p1a: Blissey|Blissey, F|7/100
+|turn|27
+|
+|t:|1641841411
+|move|p2a: Dragapult|Flamethrower|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|win|Seven heartz
+|l|☆dieguin o mito

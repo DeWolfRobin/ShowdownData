@@ -1,0 +1,176 @@
+|j|☆Oxicodona
+|j|☆Jayta01
+|t:|1641769622
+|gametype|singles
+|player|p1|Oxicodona|169|1134
+|player|p2|Jayta01|red|1102
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Cloyster, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Corviknight, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Excadrill, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Zeraora|
+|poke|p2|Magnezone|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jayta01)
+|
+|t:|1641769641
+|start
+|switch|p1a: Impaler|Excadrill, M, shiny|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|-ability|p1a: Impaler|Mold Breaker
+|turn|1
+|
+|t:|1641769648
+|move|p2a: Zeraora|Close Combat|p1a: Impaler
+|-supereffective|p1a: Impaler
+|-enditem|p1a: Impaler|Focus Sash
+|-damage|p1a: Impaler|1/100
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|move|p1a: Impaler|Stealth Rock|p2a: Zeraora
+|-sidestart|p2: Jayta01|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641769660
+|switch|p1a: Leviathan|Dragonite, M, shiny|100/100
+|move|p2a: Zeraora|Close Combat|p1a: Leviathan
+|-resisted|p1a: Leviathan
+|-damage|p1a: Leviathan|85/100
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641769669
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Leviathan|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|71/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641769689
+|move|p1a: Leviathan|Dragon Dance|p1a: Leviathan
+|-boost|p1a: Leviathan|atk|1
+|-boost|p1a: Leviathan|spe|1
+|move|p2a: Ferrothorn|Toxic|p1a: Leviathan
+|-status|p1a: Leviathan|tox
+|
+|-damage|p1a: Leviathan|79/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641769699
+|move|p1a: Leviathan|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|34/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Leviathan
+|-sidestart|p1: Oxicodona|move: Stealth Rock
+|
+|-damage|p1a: Leviathan|67/100 tox|[from] psn
+|upkeep
+|turn|6
+|inactive|Oxicodona has 120 seconds left.
+|
+|t:|1641769733
+|move|p1a: Leviathan|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-damage|p1a: Leviathan|49/100 tox|[from] psn
+|upkeep
+|inactive|Jayta01 has 120 seconds left.
+|
+|t:|1641769775
+|switch|p2a: Magnezone|Magnezone|100/100
+|-damage|p2a: Magnezone|94/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641769784
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|move|p1a: Leviathan|Earthquake|p2a: Dragonite
+|-immune|p2a: Dragonite
+|
+|-damage|p1a: Leviathan|25/100 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|Jayta01 has 120 seconds left.
+|
+|t:|1641769794
+|switch|p2a: Magnezone|Magnezone|94/100
+|-damage|p2a: Magnezone|88/100|[from] Stealth Rock
+|move|p1a: Leviathan|Ice Punch|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|70/100
+|
+|-damage|p1a: Leviathan|0 fnt|[from] psn
+|faint|p1a: Leviathan
+|upkeep
+|inactive|Oxicodona has 120 seconds left.
+|
+|t:|1641769840
+|switch|p1a: Quintessa|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Quintessa
+|turn|9
+|
+|t:|1641769845
+|move|p1a: Quintessa|Dazzling Gleam|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|59/100
+|move|p2a: Magnezone|Flash Cannon|p1a: Quintessa
+|-damage|p1a: Quintessa|4/100
+|
+|upkeep
+|turn|10
+|inactive|Oxicodona has 90 seconds left.
+|inactive|Oxicodona has 60 seconds left.
+|
+|t:|1641769916
+|move|p1a: Quintessa|U-turn|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-crit|p2a: Magnezone
+|-damage|p2a: Magnezone|49/100
+|
+|t:|1641769919
+|switch|p1a: Yami|Moltres-Galar|100/100|[from]move: U-turn
+|move|p2a: Magnezone|Discharge|p1a: Yami
+|-supereffective|p1a: Yami
+|-damage|p1a: Yami|0 fnt
+|faint|p1a: Yami
+|
+|upkeep
+|
+|t:|1641769921
+|switch|p1a: Impaler|Excadrill, M, shiny|1/100
+|-damage|p1a: Impaler|0 fnt|[from] Stealth Rock
+|faint|p1a: Impaler
+|-message|Oxicodona forfeited.
+|
+|win|Jayta01
+|raw|Oxicodona's rating: 1134 &rarr; <strong>1107</strong><br />(-27 for losing)
+|raw|Jayta01's rating: 1102 &rarr; <strong>1129</strong><br />(+27 for winning)
+|l|☆Oxicodona
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

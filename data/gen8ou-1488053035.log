@@ -1,0 +1,314 @@
+|j|☆deeznuts sama1
+|j|☆Auto rom Bisharp
+|t:|1641703303
+|gametype|singles
+|player|p1|deeznuts sama1|volkner|1455
+|player|p2|Auto rom Bisharp|101|1619
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Weavile, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Melmetal|
+|poke|p1|Tapu Fini|
+|poke|p1|Victini|
+|poke|p2|Hydreigon, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Blacephalon|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by deeznuts sama1)
+|
+|t:|1641703318
+|start
+|switch|p1a: Zap'ed|Zapdos|100/100
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|1
+|
+|t:|1641703323
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Zap'ed|Hurricane|p2a: Hydreigon
+|-damage|p2a: Hydreigon|37/100
+|-start|p2a: Hydreigon|confusion
+|
+|upkeep
+|turn|2
+|
+|t:|1641703350
+|-activate|p2a: Hydreigon|confusion
+|move|p2a: Hydreigon|Draco Meteor|p1a: Zap'ed
+|-damage|p1a: Zap'ed|0 fnt
+|-unboost|p2a: Hydreigon|spa|2
+|faint|p1a: Zap'ed
+|-damage|p2a: Hydreigon|27/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641703355
+|switch|p1a: Water|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Water
+|turn|3
+|
+|t:|1641703359
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Water|Moonblast|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|92/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641703372
+|switch|p1a: Bolt|Melmetal|100/100
+|move|p2a: Slowking|Flamethrower|p1a: Bolt
+|-supereffective|p1a: Bolt
+|-damage|p1a: Bolt|74/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641703380
+|switch|p1a: V|Victini|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|6
+|
+|t:|1641703387
+|switch|p2a: Hydreigon|Hydreigon, F|27/100
+|move|p1a: V|U-turn|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|t:|1641703393
+|switch|p1a: Spiky Boi|Ferrothorn, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641703398
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|7
+|
+|t:|1641703400
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|switch|p1a: Water|Tapu Fini, shiny|100/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|8
+|
+|t:|1641703406
+|move|p1a: Water|Trick|p2a: Slowking
+|-activate|p1a: Water|move: Trick|[of] p2a: Slowking
+|-item|p2a: Slowking|Choice Scarf|[from] move: Trick
+|-item|p1a: Water|Assault Vest|[from] move: Trick
+|move|p2a: Slowking|Scald|p1a: Water
+|-resisted|p1a: Water
+|-damage|p1a: Water|93/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641703413
+|switch|p1a: Spiky Boi|Ferrothorn, F|100/100
+|move|p2a: Slowking|Scald|p1a: Spiky Boi
+|-resisted|p1a: Spiky Boi
+|-damage|p1a: Spiky Boi|91/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641703419
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Spiky Boi|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Auto rom Bisharp|move: Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1641703433
+|switch|p1a: V|Victini|100/100
+|move|p2a: Corviknight|Defog|p1a: V
+|-unboost|p1a: V|evasion|1
+|-sideend|p2: Auto rom Bisharp|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|12
+|
+|t:|1641703449
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|move|p1a: V|V-create|p2a: Hippowdon
+|-damage|p2a: Hippowdon|42/100
+|-unboost|p1a: V|spe|1
+|-unboost|p1a: V|def|1
+|-unboost|p1a: V|spd|1
+|
+|-heal|p2a: Hippowdon|48/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641703457
+|move|p1a: V|V-create|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|-unboost|p1a: V|spe|1
+|-unboost|p1a: V|def|1
+|-unboost|p1a: V|spd|1
+|faint|p2a: Hippowdon
+|
+|upkeep
+|
+|t:|1641703467
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|14
+|
+|t:|1641703473
+|switch|p1a: Spiky Boi|Ferrothorn, F|91/100
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|-heal|p1a: Spiky Boi|97/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641703479
+|move|p2a: Rillaboom|Superpower|p1a: Spiky Boi
+|-supereffective|p1a: Spiky Boi
+|-damage|p1a: Spiky Boi|0 fnt
+|-unboost|p2a: Rillaboom|atk|1
+|-unboost|p2a: Rillaboom|def|1
+|-damage|p2a: Rillaboom|88/100|[from] ability: Iron Barbs|[of] p1a: Spiky Boi
+|-damage|p2a: Rillaboom|72/100|[from] item: Rocky Helmet|[of] p1a: Spiky Boi
+|faint|p1a: Spiky Boi
+|-damage|p2a: Rillaboom|62/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641703487
+|switch|p1a: shadow|Weavile, M|100/100
+|-ability|p1a: shadow|Pressure
+|turn|16
+|
+|t:|1641703491
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: shadow|Ice Shard|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641703500
+|switch|p1a: V|Victini|100/100
+|move|p2a: Corviknight|U-turn|p1a: V
+|-damage|p1a: V|83/100
+|
+|t:|1641703503
+|switch|p2a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|
+|-heal|p1a: V|89/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1641703518
+|switch|p1a: Water|Tapu Fini, shiny|93/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Water
+|move|p2a: Blacephalon|Shadow Ball|p1a: Water
+|-damage|p1a: Water|61/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641703526
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Water|Surf|p2a: Slowking
+|-damage|p2a: Slowking|73/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641703534
+|move|p1a: Water|Surf|p2a: Slowking
+|-damage|p2a: Slowking|45/100
+|move|p2a: Slowking|Flamethrower|p1a: Water
+|-resisted|p1a: Water
+|-damage|p1a: Water|52/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641703539
+|move|p1a: Water|Surf|p2a: Slowking
+|-damage|p2a: Slowking|21/100
+|move|p2a: Slowking|Flamethrower|p1a: Water
+|-resisted|p1a: Water
+|-damage|p1a: Water|43/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641703541
+|switch|p2a: Rillaboom|Rillaboom, F|68/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Water|Surf|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|44/100
+|
+|-heal|p1a: Water|49/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|50/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1641703557
+|move|p1a: Water|Moonblast|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Water|55/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641703560
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|24
+|
+|t:|1641703578
+|move|p2a: Blacephalon|Shadow Ball|p1a: Water
+|-damage|p1a: Water|24/100
+|move|p1a: Water|Surf|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-heal|p1a: Water|30/100|[from] Grassy Terrain
+|upkeep
+|l|☆Auto rom Bisharp
+|inactive|Auto rom Bisharp disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|Auto rom Bisharp has 30 seconds to reconnect!
+|inactive|Auto rom Bisharp has 20 seconds to reconnect!
+|inactive|Auto rom Bisharp has 15 seconds to reconnect!
+|inactive|Auto rom Bisharp has 10 seconds to reconnect!
+|inactive|Auto rom Bisharp has 5 seconds to reconnect!
+|-message|Auto rom Bisharp lost due to inactivity.
+|
+|win|deeznuts sama1
+|raw|deeznuts sama1's rating: 1455 &rarr; <strong>1484</strong><br />(+29 for winning)
+|raw|Auto rom Bisharp's rating: 1619 &rarr; <strong>1590</strong><br />(-29 for losing)

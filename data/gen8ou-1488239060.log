@@ -1,0 +1,279 @@
+|j|☆Hydrabuster111
+|j|☆LendaryOnlyNewbie
+|t:|1641739512
+|gametype|singles
+|player|p1|Hydrabuster111|1|1041
+|player|p2|LendaryOnlyNewbie|veteran|1055
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Hydreigon, F|
+|poke|p1|Regidrago|
+|poke|p1|Dragonair, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Runerigus, F|
+|poke|p2|Eldegoss, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Barraskewda, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LendaryOnlyNewbie)
+|
+|t:|1641739521
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Runerigus|Runerigus, F|100/100
+|turn|1
+|
+|t:|1641739539
+|switch|p1a: Dragonair|Dragonair, M|100/100
+|move|p2a: Runerigus|Stealth Rock|p1a: Dragonair
+|-sidestart|p1: Hydrabuster111|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641739545
+|move|p1a: Dragonair|Dragon Dance|p1a: Dragonair
+|-boost|p1a: Dragonair|atk|1
+|-boost|p1a: Dragonair|spe|1
+|move|p2a: Runerigus|Toxic Spikes|p1a: Dragonair
+|-sidestart|p1: Hydrabuster111|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641739552
+|move|p1a: Dragonair|Dragon Dance|p1a: Dragonair
+|-boost|p1a: Dragonair|atk|1
+|-boost|p1a: Dragonair|spe|1
+|move|p2a: Runerigus|Earthquake|p1a: Dragonair
+|-damage|p1a: Dragonair|66/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641739559
+|move|p1a: Dragonair|Outrage|p2a: Runerigus
+|-damage|p2a: Runerigus|42/100
+|-activate|p2a: Runerigus|ability: Wandering Spirit|Marvel Scale|Wandering Spirit|[of] p1a: Dragonair
+|move|p2a: Runerigus|Earthquake|p1a: Dragonair
+|-damage|p1a: Dragonair|31/100
+|
+|-heal|p2a: Runerigus|49/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641739578
+|switch|p2a: Eldegoss|Eldegoss, F|100/100
+|move|p1a: Dragonair|Outrage|p2a: Eldegoss|[from]lockedmove
+|-damage|p2a: Eldegoss|44/100
+|-ability|p2a: Eldegoss|Cotton Down
+|-unboost|p1a: Dragonair|spe|1
+|
+|-heal|p2a: Eldegoss|50/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641739593
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Dragonair|Outrage|p2a: Hatterene|[from]lockedmove
+|-immune|p2a: Hatterene
+|-start|p1a: Dragonair|confusion|[fatigue]
+|
+|upkeep
+|turn|7
+|
+|t:|1641739602
+|switch|p2a: Runerigus|Runerigus, F|49/100
+|-activate|p1a: Dragonair|confusion
+|move|p1a: Dragonair|Rest|p1a: Dragonair
+|-status|p1a: Dragonair|slp|[from] move: Rest
+|-heal|p1a: Dragonair|100/100 slp|[silent]
+|
+|-heal|p2a: Runerigus|55/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641739610
+|switch|p2a: Eldegoss|Eldegoss, F|50/100
+|cant|p1a: Dragonair|slp
+|-activate|p1a: Dragonair|confusion
+|move|p1a: Dragonair|Sleep Talk|p1a: Dragonair
+|move|p1a: Dragonair|Rest||[from]move: Sleep Talk|[still]
+|-fail|p1a: Dragonair
+|
+|-heal|p2a: Eldegoss|56/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641739618
+|cant|p1a: Dragonair|slp
+|-end|p1a: Dragonair|confusion
+|move|p1a: Dragonair|Sleep Talk|p1a: Dragonair
+|move|p1a: Dragonair|Dragon Dance|p1a: Dragonair|[from]move: Sleep Talk
+|-boost|p1a: Dragonair|atk|1
+|-boost|p1a: Dragonair|spe|1
+|move|p2a: Eldegoss|Leech Seed|p1a: Dragonair
+|-start|p1a: Dragonair|move: Leech Seed
+|
+|-heal|p2a: Eldegoss|62/100|[from] item: Leftovers
+|-damage|p1a: Dragonair|88/100 slp|[from] Leech Seed|[of] p2a: Eldegoss
+|-heal|p2a: Eldegoss|75/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641739635
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-curestatus|p1a: Dragonair|slp|[msg]
+|move|p1a: Dragonair|Outrage|p2a: Hatterene
+|-immune|p2a: Hatterene
+|
+|-damage|p1a: Dragonair|76/100|[from] Leech Seed|[of] p2a: Hatterene
+|upkeep
+|turn|11
+|
+|t:|1641739643
+|move|p1a: Dragonair|Dragon Dance|p1a: Dragonair
+|-boost|p1a: Dragonair|atk|1
+|-boost|p1a: Dragonair|spe|1
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-damage|p1a: Dragonair|64/100|[from] Leech Seed|[of] p2a: Hatterene
+|upkeep
+|turn|12
+|
+|t:|1641739653
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|-status|p1a: Garchomp|psn
+|move|p2a: Hatterene|Calm Mind|p2a: Hatterene
+|-boost|p2a: Hatterene|spa|1
+|-boost|p2a: Hatterene|spd|1
+|
+|-damage|p1a: Garchomp|82/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641739664
+|move|p1a: Garchomp|Hone Claws|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|1
+|-boost|p1a: Garchomp|accuracy|1
+|move|p2a: Hatterene|Draining Kiss|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Hatterene|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Hatterene|72/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Hatterene|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641739675
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641739684
+|move|p1a: Hydreigon|Flash Cannon|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|40/100
+|-damage|p1a: Hydreigon|78/100|[from] item: Life Orb
+|move|p2a: Hatterene|Draining Kiss|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|-heal|p2a: Hatterene|99/100|[from] drain|[of] p1a: Hydreigon
+|faint|p1a: Hydreigon
+|
+|-heal|p2a: Hatterene|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641739692
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|-damage|p1a: Kommo-o|94/100|[from] Stealth Rock
+|-status|p1a: Kommo-o|psn
+|turn|15
+|
+|t:|1641739697
+|move|p1a: Kommo-o|Toxic|p2a: Hatterene
+|-status|p2a: Hatterene|tox
+|move|p2a: Hatterene|Draining Kiss|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|-damage|p2a: Hatterene|95/100 tox|[from] psn
+|upkeep
+|
+|t:|1641739704
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-status|p1a: Dragapult|psn
+|-damage|p1a: Dragapult|88/100 psn|[from] Stealth Rock
+|turn|16
+|
+|t:|1641739709
+|move|p1a: Dragapult|Shadow Ball|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|36/100 tox
+|move|p2a: Hatterene|Draining Kiss|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-heal|p2a: Hatterene|100/100 tox|[from] drain|[of] p1a: Dragapult
+|faint|p1a: Dragapult
+|
+|-damage|p2a: Hatterene|89/100 tox|[from] psn
+|upkeep
+|
+|t:|1641739715
+|switch|p1a: Regidrago|Regidrago|100/100
+|-damage|p1a: Regidrago|88/100|[from] Stealth Rock
+|-status|p1a: Regidrago|psn
+|turn|17
+|
+|t:|1641739722
+|move|p1a: Regidrago|Thunder Fang|p2a: Hatterene|[miss]
+|-miss|p1a: Regidrago|p2a: Hatterene
+|move|p2a: Hatterene|Draining Kiss|p1a: Regidrago
+|-supereffective|p1a: Regidrago
+|-damage|p1a: Regidrago|0 fnt
+|-heal|p2a: Hatterene|100/100 tox|[from] drain|[of] p1a: Regidrago
+|faint|p1a: Regidrago
+|
+|-damage|p2a: Hatterene|83/100 tox|[from] psn
+|upkeep
+|c|☆Hydrabuster111|gg
+|
+|t:|1641739725
+|switch|p1a: Dragonair|Dragonair, M|64/100
+|-status|p1a: Dragonair|psn
+|-damage|p1a: Dragonair|51/100 psn|[from] Stealth Rock
+|turn|18
+|
+|t:|1641739734
+|move|p1a: Dragonair|Outrage|p2a: Hatterene
+|-immune|p2a: Hatterene
+|move|p2a: Hatterene|Draining Kiss|p1a: Dragonair
+|-supereffective|p1a: Dragonair
+|-damage|p1a: Dragonair|0 fnt
+|-heal|p2a: Hatterene|100/100 tox|[from] drain|[of] p1a: Dragonair
+|faint|p1a: Dragonair
+|
+|win|LendaryOnlyNewbie
+|raw|Hydrabuster111's rating: 1041 &rarr; <strong>1026</strong><br />(-15 for losing)
+|raw|LendaryOnlyNewbie's rating: 1055 &rarr; <strong>1085</strong><br />(+30 for winning)
+|l|☆Hydrabuster111

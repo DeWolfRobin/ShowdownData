@@ -1,0 +1,410 @@
+|j|☆BurntCamel
+|j|☆ChasingHorizons
+|t:|1641794565
+|gametype|singles
+|player|p1|BurntCamel|lucas|
+|player|p2|ChasingHorizons|swimmerf-gen4|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Urshifu-*, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Heatran, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Magnezone|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Blissey, F|
+|poke|p2|Mamoswine, F|
+|teampreview
+|
+|t:|1641794575
+|start
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|switch|p2a: Rylan after Nasty|Urshifu-Rapid-Strike, M|100/100
+|turn|1
+|
+|t:|1641794589
+|move|p2a: Rylan after Nasty|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|56/100
+|
+|t:|1641794604
+|switch|p2a: Female Ryan|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Female Ryan
+|move|p1a: Slowbro|Future Sight|p2a: Female Ryan
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1641794616
+|move|p2a: Female Ryan|Shadow Ball|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1641794625
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|3
+|
+|t:|1641794632
+|switch|p2a: Boboclaws mouth|Magnezone|100/100
+|move|p1a: Rillaboom|U-turn|p2a: Boboclaws mouth
+|-resisted|p2a: Boboclaws mouth
+|-damage|p2a: Boboclaws mouth|84/100
+|
+|t:|1641794638
+|switch|p1a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|
+|-end|p2a: Boboclaws mouth|move: Future Sight
+|-resisted|p2a: Boboclaws mouth
+|-damage|p2a: Boboclaws mouth|59/100
+|-heal|p2a: Boboclaws mouth|65/100|[from] Grassy Terrain
+|-heal|p2a: Boboclaws mouth|71/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641794651
+|move|p1a: Heatran|Magma Storm|p2a: Boboclaws mouth|[miss]
+|-miss|p1a: Heatran|p2a: Boboclaws mouth
+|move|p2a: Boboclaws mouth|Volt Switch|p1a: Heatran
+|-damage|p1a: Heatran|78/100
+|
+|t:|1641794653
+|switch|p2a: Gayanto Angry Mode|Mamoswine, F|100/100|[from]move: Volt Switch
+|
+|-heal|p1a: Heatran|85/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|91/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|c|☆ChasingHorizons|Lmao running speed
+|
+|t:|1641794666
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Gayanto Angry Mode|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|6
+|
+|t:|1641794673
+|switch|p2a: Boboclaws mouth|Magnezone|71/100
+|move|p1a: Corviknight|U-turn|p2a: Boboclaws mouth
+|-resisted|p2a: Boboclaws mouth
+|-damage|p2a: Boboclaws mouth|65/100
+|
+|t:|1641794679
+|switch|p1a: Heatran|Heatran, M|91/100|[from]move: U-turn
+|
+|-heal|p1a: Heatran|97/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|100/100|[from] item: Leftovers
+|-heal|p2a: Boboclaws mouth|71/100|[from] Grassy Terrain
+|-heal|p2a: Boboclaws mouth|77/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641794690
+|move|p1a: Heatran|Magma Storm|p2a: Boboclaws mouth
+|-supereffective|p2a: Boboclaws mouth
+|-damage|p2a: Boboclaws mouth|0 fnt
+|faint|p2a: Boboclaws mouth
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641794698
+|switch|p2a: Gayanto Angry Mode|Mamoswine, F|100/100
+|turn|8
+|
+|t:|1641794711
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Gayanto Angry Mode|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|9
+|
+|t:|1641794729
+|move|p2a: Gayanto Angry Mode|Icicle Crash|p1a: Corviknight
+|-damage|p1a: Corviknight|62/100
+|-damage|p2a: Gayanto Angry Mode|91/100|[from] item: Life Orb
+|cant|p1a: Corviknight|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1641794735
+|move|p2a: Gayanto Angry Mode|Icicle Crash|p1a: Corviknight
+|-damage|p1a: Corviknight|21/100
+|-damage|p2a: Gayanto Angry Mode|81/100|[from] item: Life Orb
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|71/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1641794747
+|move|p2a: Gayanto Angry Mode|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|39/100
+|-damage|p2a: Gayanto Angry Mode|64/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Gayanto Angry Mode
+|-damage|p2a: Gayanto Angry Mode|54/100|[from] item: Life Orb
+|move|p1a: Corviknight|U-turn|p2a: Gayanto Angry Mode
+|-damage|p2a: Gayanto Angry Mode|39/100
+|
+|t:|1641794756
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1641794762
+|move|p1a: Urshifu|Close Combat|p2a: Gayanto Angry Mode
+|-supereffective|p2a: Gayanto Angry Mode
+|-damage|p2a: Gayanto Angry Mode|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Gayanto Angry Mode
+|
+|upkeep
+|
+|t:|1641794766
+|switch|p2a: Black man|Dragapult, M|100/100
+|turn|13
+|c|☆BurntCamel|Racist
+|
+|t:|1641794780
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Black man|Draco Meteor|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|76/100
+|-unboost|p2a: Black man|spa|2
+|
+|-heal|p1a: Heatran|82/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641794788
+|switch|p2a: Female Ryan|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Female Ryan
+|move|p1a: Heatran|Magma Storm|p2a: Female Ryan|[miss]
+|-miss|p1a: Heatran|p2a: Female Ryan
+|
+|-heal|p1a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|c|☆BurntCamel|Wheres the rng now huh?
+|c|☆BurntCamel|clown
+|c|☆BurntCamel|too ez
+|c|☆BurntCamel|garbage
+|c|☆BurntCamel|lo
+|c|☆BurntCamel|lol
+|n|‽BurntCamel|burntcamel
+|n|‽ChasingHorizons|chasinghorizons
+|
+|t:|1641794830
+|move|p2a: Female Ryan|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|34/100
+|move|p1a: Heatran|Magma Storm|p2a: Female Ryan
+|-damage|p2a: Female Ryan|54/100
+|-activate|p2a: Female Ryan|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|40/100|[from] item: Leftovers
+|-damage|p2a: Female Ryan|41/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1641794860
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Female Ryan|Focus Blast|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p1a: Heatran|46/100|[from] item: Leftovers
+|-damage|p2a: Female Ryan|29/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1641794873
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Female Ryan|atk|1
+|move|p2a: Female Ryan|Focus Blast|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|83/100
+|
+|-heal|p1a: Landorus|89/100|[from] item: Leftovers
+|-end|p2a: Female Ryan|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|18
+|
+|t:|1641794891
+|move|p2a: Female Ryan|Focus Blast|p1a: Landorus|[miss]
+|-miss|p2a: Female Ryan|p1a: Landorus
+|move|p1a: Landorus|U-turn|p2a: Female Ryan
+|-damage|p2a: Female Ryan|0 fnt
+|faint|p2a: Female Ryan
+|
+|t:|1641794897
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641794904
+|switch|p2a: Black man|Dragapult, M|100/100
+|turn|19
+|
+|t:|1641794907
+|move|p2a: Black man|Shadow Ball|p1a: Urshifu
+|-damage|p1a: Urshifu|22/100
+|move|p1a: Urshifu|U-turn|p2a: Black man
+|-resisted|p2a: Black man
+|-damage|p2a: Black man|75/100
+|
+|t:|1641794915
+|switch|p1a: Heatran|Heatran, M|46/100|[from]move: U-turn
+|
+|-heal|p1a: Heatran|52/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641794921
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Black man|Shadow Ball|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p1a: Heatran|59/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641794927
+|move|p2a: Black man|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|27/100
+|move|p1a: Heatran|Magma Storm|p2a: Black man
+|-resisted|p2a: Black man
+|-damage|p2a: Black man|45/100
+|-activate|p2a: Black man|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|34/100|[from] item: Leftovers
+|-damage|p2a: Black man|33/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|22
+|
+|t:|1641794937
+|switch|p2a: Clare Yeo|Blissey, F|100/100
+|move|p1a: Heatran|Protect||[still]
+|-fail|p1a: Heatran
+|
+|-heal|p1a: Heatran|40/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641794955
+|move|p1a: Heatran|Magma Storm|p2a: Clare Yeo|[miss]
+|-miss|p1a: Heatran|p2a: Clare Yeo
+|move|p2a: Clare Yeo|Wish|p2a: Clare Yeo
+|
+|-heal|p1a: Heatran|46/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641794962
+|switch|p2a: Rylan after Nasty|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Rylan after Nasty
+|-resisted|p2a: Rylan after Nasty
+|-damage|p2a: Rylan after Nasty|67/100
+|-activate|p2a: Rylan after Nasty|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Rylan after Nasty|100/100|[from] move: Wish|[wisher] Clare Yeo
+|-heal|p1a: Heatran|52/100|[from] item: Leftovers
+|-damage|p2a: Rylan after Nasty|88/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|25
+|
+|t:|1641794972
+|switch|p1a: Corviknight|Corviknight, M|39/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Rylan after Nasty|Surging Strikes|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|20/100
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|-hitcount|p1: Corviknight|2
+|
+|-end|p2a: Rylan after Nasty|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641794983
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|26
+|
+|t:|1641794986
+|switch|p2a: Clare Yeo|Blissey, F|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Clare Yeo
+|-damage|p2a: Clare Yeo|0 fnt
+|-enditem|p2a: Clare Yeo|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|faint|p2a: Clare Yeo
+|
+|upkeep
+|
+|t:|1641794989
+|switch|p2a: Black man|Dragapult, M|33/100
+|turn|27
+|
+|t:|1641794996
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|22/100
+|move|p2a: Black man|Fire Blast|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|-heal|p2a: Black man|39/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641795005
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|turn|28
+|
+|t:|1641795009
+|move|p1a: Rillaboom|Grassy Glide|p2a: Black man
+|-resisted|p2a: Black man
+|-damage|p2a: Black man|0 fnt
+|faint|p2a: Black man
+|
+|upkeep
+|
+|t:|1641795011
+|switch|p2a: Rylan after Nasty|Urshifu-Rapid-Strike, M|88/100
+|turn|29
+|
+|t:|1641795015
+|move|p1a: Rillaboom|Grassy Glide|p2a: Rylan after Nasty
+|-supereffective|p2a: Rylan after Nasty
+|-damage|p2a: Rylan after Nasty|0 fnt
+|faint|p2a: Rylan after Nasty
+|
+|win|BurntCamel

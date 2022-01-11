@@ -1,0 +1,508 @@
+|j|☆Clifffheart
+|j|☆Uninteleon
+|t:|1641763068
+|gametype|singles
+|player|p1|Clifffheart|rr-alcremie|1305
+|player|p2|Uninteleon|rr-ingochandelure|1265
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|rule|Z-Move Clause: Z-Moves are banned
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Tapu Bulu|
+|poke|p1|Kyurem|
+|poke|p1|Regieleki|
+|poke|p1|Gliscor, F|
+|poke|p1|Kingler, M|
+|poke|p2|Drampa, M|
+|poke|p2|Appletun, M|
+|poke|p2|Cofagrigus, F|
+|poke|p2|Beheeyem, F|
+|poke|p2|Stakataka|
+|poke|p2|Pincurchin, M|
+|teampreview
+|c|☆Clifffheart|Glhf 
+|c|☆Uninteleon|glhf
+|
+|t:|1641763086
+|start
+|switch|p1a: Erupting Danger|Heatran, M|100/100
+|switch|p2a: AppIetun-Mega|Beheeyem, F|100/100
+|turn|1
+|
+|t:|1641763110
+|move|p1a: Erupting Danger|Taunt|p2a: AppIetun-Mega
+|-start|p2a: AppIetun-Mega|move: Taunt
+|cant|p2a: AppIetun-Mega|move: Taunt|Trick Room
+|
+|upkeep
+|turn|2
+|
+|t:|1641763115
+|move|p1a: Erupting Danger|Magma Storm|p2a: AppIetun-Mega
+|-damage|p2a: AppIetun-Mega|60/100
+|-activate|p2a: AppIetun-Mega|move: Magma Storm|[of] p1a: Erupting Danger
+|move|p2a: AppIetun-Mega|Hidden Power|p1a: Erupting Danger
+|-supereffective|p1a: Erupting Danger
+|-crit|p1a: Erupting Danger
+|-damage|p1a: Erupting Danger|11/100
+|
+|-heal|p1a: Erupting Danger|18/100|[from] item: Leftovers
+|-damage|p2a: AppIetun-Mega|47/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|3
+|c|☆Uninteleon|rude
+|c|☆Clifffheart|Rude?
+|c|☆Uninteleon|yes
+|c|☆Clifffheart|Mate we gonna ignore that crit 
+|
+|t:|1641763145
+|move|p1a: Erupting Danger|Stealth Rock|p2a: AppIetun-Mega
+|-sidestart|p2: Uninteleon|move: Stealth Rock
+|move|p2a: AppIetun-Mega|Psychic|p1a: Erupting Danger
+|-resisted|p1a: Erupting Danger
+|-damage|p1a: Erupting Danger|1/100
+|
+|-heal|p1a: Erupting Danger|7/100|[from] item: Leftovers
+|-damage|p2a: AppIetun-Mega|35/100|[from] move: Magma Storm|[partiallytrapped]
+|-end|p2a: AppIetun-Mega|move: Taunt
+|upkeep
+|turn|4
+|c|☆Uninteleon|yh
+|
+|t:|1641763152
+|move|p1a: Erupting Danger|Taunt|p2a: AppIetun-Mega
+|-start|p2a: AppIetun-Mega|move: Taunt
+|move|p2a: AppIetun-Mega|Hidden Power|p1a: Erupting Danger
+|-supereffective|p1a: Erupting Danger
+|-damage|p1a: Erupting Danger|0 fnt
+|faint|p1a: Erupting Danger
+|
+|-end|p2a: AppIetun-Mega|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641763160
+|switch|p1a: Big Meaty CLAWS|Kingler, M|100/100
+|turn|5
+|
+|t:|1641763165
+|detailschange|p1a: Big Meaty CLAWS|Kingler-Mega, M
+|-mega|p1a: Big Meaty CLAWS|Kingler|Kinglerite
+|move|p1a: Big Meaty CLAWS|Swords Dance|p1a: Big Meaty CLAWS
+|-boost|p1a: Big Meaty CLAWS|atk|2
+|move|p2a: AppIetun-Mega|Thunderbolt|p1a: Big Meaty CLAWS
+|-supereffective|p1a: Big Meaty CLAWS
+|-damage|p1a: Big Meaty CLAWS|0 fnt
+|faint|p1a: Big Meaty CLAWS
+|
+|upkeep
+|c|☆Uninteleon|ZAMN
+|c|☆Clifffheart|ZAMN
+|c|☆Clifffheart|WHY DOES IT HAVE THUNDERBOLT
+|c|☆Uninteleon|tbh idk
+|
+|t:|1641763194
+|switch|p1a: Fastest Bolt|Regieleki, shiny|100/100
+|turn|6
+|
+|t:|1641763202
+|move|p1a: Fastest Bolt|Volt Switch|p2a: AppIetun-Mega
+|-damage|p2a: AppIetun-Mega|0 fnt
+|faint|p2a: AppIetun-Mega
+|
+|t:|1641763206
+|switch|p1a: Experiment 01|Kyurem, shiny|100/100|[from]move: Volt Switch
+|-ability|p1a: Experiment 01|Pressure
+|
+|upkeep
+|
+|t:|1641763214
+|switch|p2a: Cofagrigus|Cofagrigus, F|100/100
+|-damage|p2a: Cofagrigus|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641763217
+|move|p1a: Experiment 01|Substitute|p1a: Experiment 01
+|-start|p1a: Experiment 01|Substitute
+|-damage|p1a: Experiment 01|76/100
+|move|p2a: Cofagrigus|Trick Room|p2a: Cofagrigus
+|-fieldstart|move: Trick Room|[of] p2a: Cofagrigus
+|
+|-heal|p2a: Cofagrigus|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641763222
+|move|p2a: Cofagrigus|Dark Pulse|p1a: Experiment 01
+|-activate|p1a: Experiment 01|move: Substitute|[damage]
+|move|p1a: Experiment 01|Roost|p1a: Experiment 01
+|-heal|p1a: Experiment 01|100/100
+|-singleturn|p1a: Experiment 01|move: Roost
+|
+|-heal|p2a: Cofagrigus|99/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641763226
+|move|p2a: Cofagrigus|Dark Pulse|p1a: Experiment 01
+|-end|p1a: Experiment 01|Substitute
+|move|p1a: Experiment 01|Substitute|p1a: Experiment 01
+|-start|p1a: Experiment 01|Substitute
+|-damage|p1a: Experiment 01|76/100
+|
+|-heal|p2a: Cofagrigus|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641763228
+|move|p2a: Cofagrigus|Dark Pulse|p1a: Experiment 01
+|-activate|p1a: Experiment 01|move: Substitute|[damage]
+|move|p1a: Experiment 01|Roost|p1a: Experiment 01
+|-heal|p1a: Experiment 01|100/100
+|-singleturn|p1a: Experiment 01|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1641763231
+|move|p2a: Cofagrigus|Dark Pulse|p1a: Experiment 01
+|-end|p1a: Experiment 01|Substitute
+|move|p1a: Experiment 01|Substitute|p1a: Experiment 01
+|-start|p1a: Experiment 01|Substitute
+|-damage|p1a: Experiment 01|76/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|12
+|c|☆Clifffheart|Today i will
+|c|☆Clifffheart|Stall out tr
+|c|☆Uninteleon|is that all you're going to do
+|c|☆Clifffheart|With kyurem 
+|c|☆Clifffheart|Yes
+|c|☆Clifffheart|Fuck tr 
+|
+|t:|1641763250
+|move|p1a: Experiment 01|Roost|p1a: Experiment 01
+|-heal|p1a: Experiment 01|100/100
+|-singleturn|p1a: Experiment 01|move: Roost
+|move|p2a: Cofagrigus|Trick Room|p2a: Cofagrigus
+|-fieldstart|move: Trick Room|[of] p2a: Cofagrigus
+|
+|upkeep
+|turn|13
+|c|☆Uninteleon|no
+|c|☆Uninteleon|fuck you
+|
+|t:|1641763255
+|switch|p2a: Peheeyem|Stakataka, shiny|100/100
+|-damage|p2a: Peheeyem|94/100|[from] Stealth Rock
+|move|p1a: Experiment 01|Freeze-Dry|p2a: Peheeyem
+|-resisted|p2a: Peheeyem
+|-damage|p2a: Peheeyem|75/100
+|
+|-heal|p2a: Peheeyem|81/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641763261
+|move|p2a: Peheeyem|Body Press|p1a: Experiment 01
+|-supereffective|p1a: Experiment 01
+|-end|p1a: Experiment 01|Substitute
+|move|p1a: Experiment 01|Earth Power|p2a: Peheeyem
+|-supereffective|p2a: Peheeyem
+|-damage|p2a: Peheeyem|0 fnt
+|faint|p2a: Peheeyem
+|
+|upkeep
+|c|☆Clifffheart|Fuck these bricks
+|
+|t:|1641763268
+|switch|p2a: Plkachu|Appletun, M|100/100
+|-damage|p2a: Plkachu|88/100|[from] Stealth Rock
+|turn|15
+|c|☆Uninteleon|FOOL
+|
+|t:|1641763281
+|switch|p1a: Raging Bull|Tapu Bulu, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Raging Bull
+|detailschange|p2a: Plkachu|Appletun-Mega, M
+|-mega|p2a: Plkachu|Appletun|Appletunite
+|move|p2a: Plkachu|Draco Meteor|p1a: Raging Bull
+|-immune|p1a: Raging Bull
+|
+|-heal|p2a: Plkachu|94/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641763288
+|switch|p2a: Cofagrigus|Cofagrigus, F|100/100
+|-damage|p2a: Cofagrigus|88/100|[from] Stealth Rock
+|move|p1a: Raging Bull|Swords Dance|p1a: Raging Bull
+|-boost|p1a: Raging Bull|atk|2
+|
+|-heal|p2a: Cofagrigus|94/100|[from] Grassy Terrain
+|-heal|p2a: Cofagrigus|99/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|17
+|
+|t:|1641763293
+|move|p1a: Raging Bull|Swords Dance|p1a: Raging Bull
+|-boost|p1a: Raging Bull|atk|2
+|move|p2a: Cofagrigus|Trick Room|p2a: Cofagrigus
+|-fieldstart|move: Trick Room|[of] p2a: Cofagrigus
+|
+|-heal|p2a: Cofagrigus|100/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1641763305
+|move|p2a: Cofagrigus|Will-O-Wisp|p1a: Raging Bull
+|-status|p1a: Raging Bull|brn
+|move|p1a: Raging Bull|Horn Leech|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|53/100
+|-activate|p2a: Cofagrigus|ability: Mummy|Grassy Surge|[of] p1a: Raging Bull
+|
+|-heal|p2a: Cofagrigus|59/100|[from] Grassy Terrain
+|-heal|p2a: Cofagrigus|65/100|[from] item: Leftovers
+|-damage|p1a: Raging Bull|94/100 brn|[from] brn
+|upkeep
+|turn|19
+|c|☆Clifffheart|Fuck
+|
+|t:|1641763312
+|move|p2a: Cofagrigus|Hex|p1a: Raging Bull
+|-damage|p1a: Raging Bull|56/100 brn
+|move|p1a: Raging Bull|Swords Dance|p1a: Raging Bull
+|-boost|p1a: Raging Bull|atk|2
+|
+|-heal|p2a: Cofagrigus|71/100|[from] Grassy Terrain
+|-heal|p2a: Cofagrigus|77/100|[from] item: Leftovers
+|-heal|p1a: Raging Bull|63/100 brn|[from] Grassy Terrain
+|-heal|p1a: Raging Bull|69/100 brn|[from] item: Leftovers
+|-damage|p1a: Raging Bull|63/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1641763315
+|move|p2a: Cofagrigus|Hex|p1a: Raging Bull
+|-damage|p1a: Raging Bull|28/100 brn
+|move|p1a: Raging Bull|Synthesis|p1a: Raging Bull
+|-heal|p1a: Raging Bull|78/100 brn
+|
+|-heal|p2a: Cofagrigus|83/100|[from] item: Leftovers
+|-heal|p1a: Raging Bull|84/100 brn|[from] item: Leftovers
+|-damage|p1a: Raging Bull|78/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641763318
+|move|p2a: Cofagrigus|Hex|p1a: Raging Bull
+|-damage|p1a: Raging Bull|43/100 brn
+|move|p1a: Raging Bull|Synthesis|p1a: Raging Bull
+|-heal|p1a: Raging Bull|93/100 brn
+|
+|-heal|p2a: Cofagrigus|89/100|[from] item: Leftovers
+|-heal|p1a: Raging Bull|99/100 brn|[from] item: Leftovers
+|-damage|p1a: Raging Bull|93/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|22
+|
+|t:|1641763321
+|move|p1a: Raging Bull|Horn Leech|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|37/100
+|-heal|p1a: Raging Bull|100/100 brn|[from] drain|[of] p2a: Cofagrigus
+|move|p2a: Cofagrigus|Trick Room|p2a: Cofagrigus
+|-fieldstart|move: Trick Room|[of] p2a: Cofagrigus
+|
+|-heal|p2a: Cofagrigus|43/100|[from] item: Leftovers
+|-damage|p1a: Raging Bull|94/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641763330
+|move|p2a: Cofagrigus|Hex|p1a: Raging Bull
+|-damage|p1a: Raging Bull|59/100 brn
+|move|p1a: Raging Bull|Synthesis|p1a: Raging Bull
+|-heal|p1a: Raging Bull|100/100 brn
+|
+|-heal|p2a: Cofagrigus|49/100|[from] item: Leftovers
+|-damage|p1a: Raging Bull|94/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641763335
+|switch|p2a: Drampa|Drampa, M|100/100
+|move|p1a: Raging Bull|Synthesis|p1a: Raging Bull
+|-heal|p1a: Raging Bull|100/100 brn
+|
+|-damage|p1a: Raging Bull|94/100 brn|[from] brn
+|upkeep
+|turn|25
+|c|☆Clifffheart|I can play this game all day
+|
+|t:|1641763343
+|move|p2a: Drampa|Fire Blast|p1a: Raging Bull
+|-supereffective|p1a: Raging Bull
+|-damage|p1a: Raging Bull|14/100 brn
+|move|p1a: Raging Bull|Close Combat|p2a: Drampa
+|-supereffective|p2a: Drampa
+|-damage|p2a: Drampa|0 fnt
+|-unboost|p1a: Raging Bull|def|1
+|-unboost|p1a: Raging Bull|spd|1
+|faint|p2a: Drampa
+|
+|-heal|p1a: Raging Bull|20/100 brn|[from] item: Leftovers
+|-damage|p1a: Raging Bull|14/100 brn|[from] brn
+|upkeep
+|c|☆Clifffheart|Eat
+|
+|t:|1641763355
+|switch|p2a: Plkachu|Appletun-Mega, M|94/100
+|-damage|p2a: Plkachu|82/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641763358
+|move|p2a: Plkachu|Hidden Power|p1a: Raging Bull
+|-supereffective|p1a: Raging Bull
+|-damage|p1a: Raging Bull|0 fnt
+|faint|p1a: Raging Bull
+|
+|-fieldend|move: Trick Room
+|upkeep
+|c|☆Uninteleon|shut up
+|
+|t:|1641763364
+|switch|p1a: Experiment 01|Kyurem, shiny|100/100
+|-ability|p1a: Experiment 01|Pressure
+|turn|27
+|c|☆Uninteleon|eat poo
+|
+|t:|1641763372
+|move|p1a: Experiment 01|Substitute|p1a: Experiment 01
+|-start|p1a: Experiment 01|Substitute
+|-damage|p1a: Experiment 01|76/100
+|move|p2a: Plkachu|Draco Meteor|p1a: Experiment 01
+|-supereffective|p1a: Experiment 01
+|-end|p1a: Experiment 01|Substitute
+|-boost|p2a: Plkachu|spa|2
+|
+|upkeep
+|turn|28
+|
+|t:|1641763380
+|switch|p2a: Cofagrigus|Cofagrigus, F|49/100
+|-damage|p2a: Cofagrigus|37/100|[from] Stealth Rock
+|move|p1a: Experiment 01|Freeze-Dry|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|9/100
+|
+|-heal|p2a: Cofagrigus|15/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641763387
+|move|p1a: Experiment 01|Freeze-Dry|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|0 fnt
+|faint|p2a: Cofagrigus
+|
+|upkeep
+|
+|t:|1641763389
+|switch|p2a: ShuckIe|Pincurchin, M|100/100
+|-damage|p2a: ShuckIe|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: ShuckIe
+|turn|30
+|
+|t:|1641763392
+|switch|p1a: Hanging Quakes|Gliscor, F, shiny|100/100
+|move|p2a: ShuckIe|Rising Voltage|p1a: Hanging Quakes
+|-immune|p1a: Hanging Quakes
+|
+|-status|p1a: Hanging Quakes|tox|[from] item: Toxic Orb
+|upkeep
+|turn|31
+|
+|t:|1641763398
+|move|p1a: Hanging Quakes|Toxic|p2a: ShuckIe
+|-status|p2a: ShuckIe|tox
+|move|p2a: ShuckIe|Bouncy Bubble|p1a: Hanging Quakes
+|-supereffective|p1a: Hanging Quakes
+|-damage|p1a: Hanging Quakes|15/100 tox
+|-heal|p2a: ShuckIe|100/100 tox|[from] drain|[of] p1a: Hanging Quakes
+|
+|-heal|p1a: Hanging Quakes|28/100 tox|[from] ability: Poison Heal
+|-damage|p2a: ShuckIe|94/100 tox|[from] psn
+|upkeep
+|turn|32
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Uninteleon)
+|
+|t:|1641763401
+|move|p1a: Hanging Quakes|Earthquake|p2a: ShuckIe
+|-supereffective|p2a: ShuckIe
+|-damage|p2a: ShuckIe|25/100 tox
+|move|p2a: ShuckIe|Bouncy Bubble|p1a: Hanging Quakes
+|-supereffective|p1a: Hanging Quakes
+|-crit|p1a: Hanging Quakes
+|-damage|p1a: Hanging Quakes|0 fnt
+|-heal|p2a: ShuckIe|40/100 tox|[from] drain|[of] p1a: Hanging Quakes
+|faint|p1a: Hanging Quakes
+|
+|-damage|p2a: ShuckIe|27/100 tox|[from] psn
+|upkeep
+|c|☆Clifffheart|Goat
+|
+|t:|1641763409
+|switch|p1a: Experiment 01|Kyurem, shiny|76/100
+|-ability|p1a: Experiment 01|Pressure
+|turn|33
+|
+|t:|1641763412
+|move|p1a: Experiment 01|Earth Power|p2a: ShuckIe
+|-supereffective|p2a: ShuckIe
+|-damage|p2a: ShuckIe|0 fnt
+|faint|p2a: ShuckIe
+|
+|upkeep
+|
+|t:|1641763413
+|switch|p2a: Plkachu|Appletun-Mega, M|82/100
+|-damage|p2a: Plkachu|70/100|[from] Stealth Rock
+|turn|34
+|c|☆Clifffheart|Its over anakin
+|c|☆Uninteleon|no
+|c|☆Clifffheart|I have the high ground
+|c|☆Uninteleon|stop
+|c|☆Uninteleon|i have uh
+|c|☆Uninteleon|the berry
+|c|☆Uninteleon|yh
+|c|☆Clifffheart|I HAVE THE BROKEN BL POKEMON 
+|
+|t:|1641763442
+|move|p1a: Experiment 01|Freeze-Dry|p2a: Plkachu
+|-supereffective|p2a: Plkachu
+|-damage|p2a: Plkachu|0 fnt
+|faint|p2a: Plkachu
+|
+|win|Clifffheart
+|raw|Clifffheart's rating: 1305 &rarr; <strong>1319</strong><br />(+14 for winning)
+|raw|Uninteleon's rating: 1265 &rarr; <strong>1251</strong><br />(-14 for losing)
+|c|☆Uninteleon|smh
+|c|☆Clifffheart|AHAHAHHAAHAHAHAHAH
+|c|☆Clifffheart|GG
+|c|☆Uninteleon|kyurem sucks
+|c|☆Clifffheart|We both played bad
+|c|☆Clifffheart|I agree
+|l|☆Uninteleon
+|c|☆Clifffheart|Kyurem does suck

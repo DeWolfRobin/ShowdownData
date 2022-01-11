@@ -1,0 +1,553 @@
+|j|☆Albedo's Ambition
+|j|☆wheatonwhiscash
+|t:|1641704140
+|gametype|singles
+|player|p1|Albedo's Ambition|volkner|
+|player|p2|wheatonwhiscash|brock|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magneton|
+|poke|p1|Lanturn, F|
+|poke|p1|Haxorus, M|
+|poke|p1|Clefable, F|
+|poke|p1|Hawlucha, M|
+|poke|p1|Trevenant, M|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Celesteela|
+|poke|p2|Incineroar, F|
+|poke|p2|Sylveon, M|
+|poke|p2|Runerigus, M|
+|poke|p2|Glastrier|
+|teampreview
+|j| jayvonQquizzle
+|j| jetrage
+|j| Dougtepug
+|j| AmeDragmire
+|j| Crimsora
+|c| Dougtepug|Glhf
+|j| thewerehog88
+|j| xXYuuXx
+|
+|t:|1641704234
+|start
+|switch|p1a: Clueless|Clefable, F|100/100
+|switch|p2a: LGBTQ+|Sylveon, M, shiny|100/100
+|turn|1
+|
+|t:|1641704242
+|move|p1a: Clueless|Stealth Rock|p2a: LGBTQ+
+|-sidestart|p2: wheatonwhiscash|move: Stealth Rock
+|move|p2a: LGBTQ+|Mystical Fire|p1a: Clueless
+|-damage|p1a: Clueless|88/100
+|-unboost|p1a: Clueless|spa|1
+|
+|-heal|p1a: Clueless|94/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641704246
+|move|p2a: LGBTQ+|Wish|p2a: LGBTQ+
+|move|p1a: Clueless|Seismic Toss|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|75/100
+|
+|-heal|p2a: LGBTQ+|81/100|[from] item: Leftovers
+|-heal|p1a: Clueless|99/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641704258
+|move|p1a: Clueless|Seismic Toss|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|56/100
+|move|p2a: LGBTQ+|Hyper Voice|p1a: Clueless
+|-damage|p1a: Clueless|72/100
+|
+|-heal|p2a: LGBTQ+|100/100|[from] move: Wish|[wisher] LGBTQ+
+|-heal|p1a: Clueless|78/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641704270
+|switch|p1a: Trevenant|Trevenant, M, shiny|100/100
+|move|p2a: LGBTQ+|Wish|p2a: LGBTQ+
+|
+|upkeep
+|turn|5
+|
+|t:|1641704279
+|move|p2a: LGBTQ+|Mystical Fire|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|61/100
+|-unboost|p1a: Trevenant|spa|1
+|move|p1a: Trevenant|Leech Seed|p2a: LGBTQ+
+|-start|p2a: LGBTQ+|move: Leech Seed
+|
+|-damage|p2a: LGBTQ+|88/100|[from] Leech Seed|[of] p1a: Trevenant
+|-heal|p1a: Trevenant|74/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641704288
+|switch|p2a: Rizz God|Incineroar, F|100/100
+|-ability|p2a: Rizz God|Intimidate|boost
+|-unboost|p1a: Trevenant|atk|1
+|move|p1a: Trevenant|Will-O-Wisp|p2a: Rizz God|[miss]
+|-miss|p1a: Trevenant|p2a: Rizz God
+|
+|upkeep
+|turn|7
+|
+|t:|1641704302
+|switch|p1a: Yes I'm Shiny.|Lanturn, F, shiny|100/100
+|move|p2a: Rizz God|Parting Shot|p1a: Yes I'm Shiny.
+|-unboost|p1a: Yes I'm Shiny.|atk|1
+|-unboost|p1a: Yes I'm Shiny.|spa|1
+|
+|t:|1641704308
+|switch|p2a: LGBTQ+|Sylveon, M, shiny|88/100|[from]move: Parting Shot
+|-damage|p2a: LGBTQ+|76/100|[from] Stealth Rock
+|
+|-heal|p2a: LGBTQ+|82/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641704322
+|move|p1a: Yes I'm Shiny.|Volt Switch|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|72/100
+|
+|t:|1641704330
+|switch|p1a: Magneton|Magneton|100/100|[from]move: Volt Switch
+|move|p2a: LGBTQ+|Mystical Fire|p1a: Magneton
+|-supereffective|p1a: Magneton
+|-damage|p1a: Magneton|23/100
+|-unboost|p1a: Magneton|spa|1
+|
+|-heal|p2a: LGBTQ+|78/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641704341
+|switch|p2a: Playoffs?|Runerigus, M, shiny|100/100
+|-damage|p2a: Playoffs?|94/100|[from] Stealth Rock
+|move|p1a: Magneton|Flash Cannon|p2a: Playoffs?
+|-damage|p2a: Playoffs?|54/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641704373
+|switch|p1a: Clueless|Clefable, F|78/100
+|move|p2a: Playoffs?|Poltergeist|p1a: Clueless
+|-activate|p1a: Clueless|move: Poltergeist|Leftovers
+|-damage|p1a: Clueless|34/100
+|
+|-heal|p1a: Clueless|40/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641704451
+|switch|p1a: Yes I'm Shiny.|Lanturn, F, shiny|100/100
+|move|p2a: Playoffs?|Poltergeist|p1a: Yes I'm Shiny.
+|-activate|p1a: Yes I'm Shiny.|move: Poltergeist|Leftovers
+|-damage|p1a: Yes I'm Shiny.|74/100
+|
+|-heal|p1a: Yes I'm Shiny.|80/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641704483
+|switch|p2a: Best Friend|Glastrier|100/100
+|-damage|p2a: Best Friend|75/100|[from] Stealth Rock
+|move|p1a: Yes I'm Shiny.|Scald|p2a: Best Friend
+|-damage|p2a: Best Friend|64/100
+|
+|-heal|p1a: Yes I'm Shiny.|86/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641704494
+|move|p1a: Yes I'm Shiny.|Scald|p2a: Best Friend
+|-damage|p2a: Best Friend|53/100
+|-status|p2a: Best Friend|brn
+|move|p2a: Best Friend|Stomping Tantrum|p1a: Yes I'm Shiny.
+|-supereffective|p1a: Yes I'm Shiny.
+|-damage|p1a: Yes I'm Shiny.|64/100
+|
+|-heal|p1a: Yes I'm Shiny.|71/100|[from] item: Leftovers
+|-damage|p2a: Best Friend|47/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641704502
+|move|p1a: Yes I'm Shiny.|Volt Switch|p2a: Best Friend
+|-damage|p2a: Best Friend|37/100 brn
+|
+|t:|1641704505
+|switch|p1a: FromTheTopRope|Hawlucha, M, shiny|100/100|[from]move: Volt Switch
+|move|p2a: Best Friend|Stomping Tantrum|p1a: FromTheTopRope
+|-immune|p1a: FromTheTopRope
+|
+|-damage|p2a: Best Friend|31/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641704514
+|switch|p2a: Playoffs?|Runerigus, M, shiny|54/100
+|-damage|p2a: Playoffs?|48/100|[from] Stealth Rock
+|move|p1a: FromTheTopRope|Close Combat|p2a: Playoffs?
+|-immune|p2a: Playoffs?
+|
+|upkeep
+|turn|16
+|
+|t:|1641704544
+|switch|p1a: Yes I'm Shiny.|Lanturn, F, shiny|71/100
+|move|p2a: Playoffs?|Earthquake|p1a: Yes I'm Shiny.
+|-supereffective|p1a: Yes I'm Shiny.
+|-damage|p1a: Yes I'm Shiny.|24/100
+|
+|-heal|p1a: Yes I'm Shiny.|30/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641704559
+|switch|p2a: LGBTQ+|Sylveon, M, shiny|78/100
+|-damage|p2a: LGBTQ+|65/100|[from] Stealth Rock
+|move|p1a: Yes I'm Shiny.|Scald|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|52/100
+|
+|-heal|p1a: Yes I'm Shiny.|37/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|58/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641704566
+|move|p1a: Yes I'm Shiny.|Toxic|p2a: LGBTQ+
+|-status|p2a: LGBTQ+|tox
+|move|p2a: LGBTQ+|Wish|p2a: LGBTQ+
+|
+|-heal|p1a: Yes I'm Shiny.|43/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|64/100 tox|[from] item: Leftovers
+|-damage|p2a: LGBTQ+|58/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641704570
+|move|p1a: Yes I'm Shiny.|Volt Switch|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|45/100 tox
+|
+|t:|1641704575
+|switch|p1a: Clueless|Clefable, F|40/100|[from]move: Volt Switch
+|move|p2a: LGBTQ+|Heal Bell|p2a: LGBTQ+
+|-activate|p2a: LGBTQ+|move: Heal Bell
+|-curestatus|p2a: LGBTQ+|tox|[msg]
+|-curestatus|p2: Best Friend|brn|[msg]
+|
+|-heal|p2a: LGBTQ+|95/100|[from] move: Wish|[wisher] LGBTQ+
+|-heal|p2a: LGBTQ+|100/100|[from] item: Leftovers
+|-heal|p1a: Clueless|46/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641704589
+|move|p1a: Clueless|Soft-Boiled|p1a: Clueless
+|-heal|p1a: Clueless|96/100
+|move|p2a: LGBTQ+|Wish|p2a: LGBTQ+
+|
+|-heal|p1a: Clueless|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641704609
+|switch|p2a: Playoffs?|Runerigus, M, shiny|48/100
+|-damage|p2a: Playoffs?|41/100|[from] Stealth Rock
+|switch|p1a: Trevenant|Trevenant, M, shiny|74/100
+|
+|-heal|p2a: Playoffs?|100/100|[from] move: Wish|[wisher] LGBTQ+
+|upkeep
+|turn|22
+|
+|t:|1641704619
+|switch|p2a: Rizz God|Incineroar, F|100/100
+|-ability|p2a: Rizz God|Intimidate|boost
+|-unboost|p1a: Trevenant|atk|1
+|move|p1a: Trevenant|Will-O-Wisp|p2a: Rizz God
+|-immune|p2a: Rizz God
+|
+|upkeep
+|turn|23
+|
+|t:|1641704628
+|move|p2a: Rizz God|Knock Off|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|11/100
+|-enditem|p1a: Trevenant|Sitrus Berry|[from] move: Knock Off|[of] p2a: Rizz God
+|move|p1a: Trevenant|Leech Seed|p2a: Rizz God
+|-start|p2a: Rizz God|move: Leech Seed
+|
+|-damage|p2a: Rizz God|88/100|[from] Leech Seed|[of] p1a: Trevenant
+|-heal|p1a: Trevenant|25/100|[silent]
+|upkeep
+|turn|24
+|
+|t:|1641704640
+|move|p2a: Rizz God|Knock Off|p1a: Trevenant
+|-supereffective|p1a: Trevenant
+|-damage|p1a: Trevenant|0 fnt
+|faint|p1a: Trevenant
+|
+|upkeep
+|
+|t:|1641704645
+|switch|p1a: FromTheTopRope|Hawlucha, M, shiny|100/100
+|turn|25
+|
+|t:|1641704653
+|switch|p2a: Playoffs?|Runerigus, M, shiny|100/100
+|-damage|p2a: Playoffs?|94/100|[from] Stealth Rock
+|move|p1a: FromTheTopRope|Swords Dance|p1a: FromTheTopRope
+|-boost|p1a: FromTheTopRope|atk|2
+|
+|upkeep
+|turn|26
+|
+|t:|1641704663
+|move|p1a: FromTheTopRope|Swords Dance|p1a: FromTheTopRope
+|-boost|p1a: FromTheTopRope|atk|2
+|move|p2a: Playoffs?|Will-O-Wisp|p1a: FromTheTopRope
+|-status|p1a: FromTheTopRope|brn
+|
+|-damage|p1a: FromTheTopRope|94/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641704669
+|move|p1a: FromTheTopRope|Acrobatics|p2a: Playoffs?
+|-damage|p2a: Playoffs?|67/100
+|-damage|p1a: FromTheTopRope|78/100 brn|[from] item: Rocky Helmet|[of] p2a: Playoffs?
+|-activate|p2a: Playoffs?|ability: Wandering Spirit|Unburden|Wandering Spirit|[of] p1a: FromTheTopRope
+|move|p2a: Playoffs?|Poltergeist|p1a: FromTheTopRope
+|-activate|p1a: FromTheTopRope|move: Poltergeist|Focus Sash
+|-damage|p1a: FromTheTopRope|26/100 brn
+|
+|-damage|p1a: FromTheTopRope|20/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641704706
+|move|p1a: FromTheTopRope|Acrobatics|p2a: Playoffs?
+|-damage|p2a: Playoffs?|43/100
+|-damage|p1a: FromTheTopRope|4/100 brn|[from] item: Rocky Helmet|[of] p2a: Playoffs?
+|move|p2a: Playoffs?|Poltergeist|p1a: FromTheTopRope
+|-activate|p1a: FromTheTopRope|move: Poltergeist|Focus Sash
+|-damage|p1a: FromTheTopRope|0 fnt
+|faint|p1a: FromTheTopRope
+|
+|upkeep
+|
+|t:|1641704711
+|switch|p1a: Yes I'm Shiny.|Lanturn, F, shiny|43/100
+|turn|29
+|
+|t:|1641704719
+|switch|p2a: LGBTQ+|Sylveon, M, shiny|100/100
+|-damage|p2a: LGBTQ+|88/100|[from] Stealth Rock
+|move|p1a: Yes I'm Shiny.|Scald|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|74/100
+|
+|-heal|p1a: Yes I'm Shiny.|49/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|80/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641704727
+|move|p1a: Yes I'm Shiny.|Volt Switch|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|67/100
+|
+|t:|1641704731
+|switch|p1a: Clueless|Clefable, F|100/100|[from]move: Volt Switch
+|move|p2a: LGBTQ+|Hyper Voice|p1a: Clueless
+|-damage|p1a: Clueless|71/100
+|
+|-heal|p1a: Clueless|77/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|73/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641704734
+|move|p2a: LGBTQ+|Wish|p2a: LGBTQ+
+|move|p1a: Clueless|Seismic Toss|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|48/100
+|
+|-heal|p1a: Clueless|83/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|54/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641704741
+|switch|p1a: Magneton|Magneton|23/100
+|move|p2a: LGBTQ+|Mystical Fire|p1a: Magneton
+|-supereffective|p1a: Magneton
+|-damage|p1a: Magneton|0 fnt
+|faint|p1a: Magneton
+|
+|-heal|p2a: LGBTQ+|100/100|[from] move: Wish|[wisher] LGBTQ+
+|upkeep
+|
+|t:|1641704751
+|switch|p1a: Hax R Us|Haxorus, M, shiny|100/100
+|-ability|p1a: Hax R Us|Mold Breaker
+|turn|33
+|l| Dougtepug
+|
+|t:|1641704764
+|move|p1a: Hax R Us|Poison Jab|p2a: LGBTQ+
+|-supereffective|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|27/100
+|move|p2a: LGBTQ+|Hyper Voice|p1a: Hax R Us
+|-supereffective|p1a: Hax R Us
+|-damage|p1a: Hax R Us|0 fnt
+|faint|p1a: Hax R Us
+|
+|-heal|p2a: LGBTQ+|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641704770
+|switch|p1a: Yes I'm Shiny.|Lanturn, F, shiny|49/100
+|turn|34
+|
+|t:|1641704777
+|move|p1a: Yes I'm Shiny.|Scald|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|18/100
+|move|p2a: LGBTQ+|Wish|p2a: LGBTQ+
+|
+|-heal|p1a: Yes I'm Shiny.|55/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|24/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641704783
+|move|p1a: Yes I'm Shiny.|Scald|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|10/100
+|-status|p2a: LGBTQ+|brn
+|move|p2a: LGBTQ+|Hyper Voice|p1a: Yes I'm Shiny.
+|-damage|p1a: Yes I'm Shiny.|16/100
+|
+|-heal|p2a: LGBTQ+|60/100 brn|[from] move: Wish|[wisher] LGBTQ+
+|-heal|p1a: Yes I'm Shiny.|22/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|66/100 brn|[from] item: Leftovers
+|-damage|p2a: LGBTQ+|60/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641704789
+|move|p1a: Yes I'm Shiny.|Volt Switch|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|47/100 brn
+|
+|t:|1641704792
+|switch|p1a: Clueless|Clefable, F|83/100|[from]move: Volt Switch
+|move|p2a: LGBTQ+|Wish|p2a: LGBTQ+
+|
+|-heal|p2a: LGBTQ+|53/100 brn|[from] item: Leftovers
+|-heal|p1a: Clueless|89/100|[from] item: Leftovers
+|-damage|p2a: LGBTQ+|47/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641704796
+|move|p1a: Clueless|Seismic Toss|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|21/100 brn
+|move|p2a: LGBTQ+|Heal Bell|p2a: LGBTQ+
+|-activate|p2a: LGBTQ+|move: Heal Bell
+|-curestatus|p2a: LGBTQ+|brn|[msg]
+|
+|-heal|p2a: LGBTQ+|71/100|[from] move: Wish|[wisher] LGBTQ+
+|-heal|p1a: Clueless|95/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|77/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641704802
+|move|p1a: Clueless|Seismic Toss|p2a: LGBTQ+
+|-damage|p2a: LGBTQ+|52/100
+|move|p2a: LGBTQ+|Wish|p2a: LGBTQ+
+|
+|-heal|p1a: Clueless|100/100|[from] item: Leftovers
+|-heal|p2a: LGBTQ+|58/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641704807
+|switch|p2a: Best Friend|Glastrier|31/100
+|-damage|p2a: Best Friend|6/100|[from] Stealth Rock
+|move|p1a: Clueless|Seismic Toss|p2a: Best Friend
+|-damage|p2a: Best Friend|0 fnt
+|faint|p2a: Best Friend
+|
+|upkeep
+|
+|t:|1641704812
+|switch|p2a: STARGAZING|Celesteela, shiny|100/100
+|-damage|p2a: STARGAZING|88/100|[from] Stealth Rock
+|turn|40
+|
+|t:|1641704818
+|move|p2a: STARGAZING|Earthquake|p1a: Clueless
+|-damage|p1a: Clueless|77/100
+|move|p1a: Clueless|Seismic Toss|p2a: STARGAZING
+|-damage|p2a: STARGAZING|63/100
+|
+|-heal|p1a: Clueless|83/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641704824
+|move|p2a: STARGAZING|Flash Cannon|p1a: Clueless
+|-supereffective|p1a: Clueless
+|-damage|p1a: Clueless|39/100
+|-unboost|p1a: Clueless|spd|1
+|move|p1a: Clueless|Seismic Toss|p2a: STARGAZING
+|-damage|p2a: STARGAZING|38/100
+|
+|-heal|p1a: Clueless|45/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641704833
+|move|p2a: STARGAZING|Flash Cannon|p1a: Clueless
+|-supereffective|p1a: Clueless
+|-damage|p1a: Clueless|0 fnt
+|faint|p1a: Clueless
+|-ability|p2a: STARGAZING|Beast Boost|boost
+|-boost|p2a: STARGAZING|spa|1
+|
+|upkeep
+|
+|t:|1641704835
+|switch|p1a: Yes I'm Shiny.|Lanturn, F, shiny|22/100
+|turn|43
+|c|☆Albedo's Ambition|GG.
+|
+|t:|1641704849
+|move|p1a: Yes I'm Shiny.|Volt Switch|p2a: STARGAZING
+|-supereffective|p2a: STARGAZING
+|-damage|p2a: STARGAZING|16/100
+|move|p2a: STARGAZING|Giga Drain|p1a: Yes I'm Shiny.
+|-supereffective|p1a: Yes I'm Shiny.
+|-damage|p1a: Yes I'm Shiny.|0 fnt
+|-heal|p2a: STARGAZING|29/100|[from] drain|[of] p1a: Yes I'm Shiny.
+|faint|p1a: Yes I'm Shiny.
+|
+|win|wheatonwhiscash
+|l| jayvonQquizzle
+|l| Crimsora
+|j| Dougtepug

@@ -1,0 +1,192 @@
+|j|☆comradekomko
+|j|☆Malzabro
+|t:|1641776709
+|gametype|singles
+|player|p1|comradekomko|1|1308
+|player|p2|Malzabro|janitor|1298
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Ditto|
+|poke|p1|Swampert, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Slowbro, F|
+|poke|p1|Kartana|
+|poke|p2|Garchomp, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Gyarados, M|
+|poke|p2|Heatran, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|
+|t:|1641776723
+|start
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|1
+|
+|t:|1641776725
+|move|p2a: Garchomp|Toxic|p1a: Slowbro
+|-status|p1a: Slowbro|tox
+|move|p1a: Slowbro|Trick Room|p1a: Slowbro
+|-fieldstart|move: Trick Room|[of] p1a: Slowbro
+|
+|-damage|p1a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641776728
+|move|p1a: Slowbro|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|-damage|p1a: Slowbro|85/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Slowbro|72/100 tox|[from] psn
+|upkeep
+|
+|t:|1641776733
+|switch|p2a: Gyarados|Gyarados, M, shiny|100/100
+|-ability|p2a: Gyarados|Intimidate|boost
+|-unboost|p1a: Slowbro|atk|1
+|turn|3
+|
+|t:|1641776741
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Slowbro|Psyshock|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|83/100
+|-damage|p1a: Slowbro|63/100 tox|[from] item: Life Orb
+|
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|-damage|p1a: Slowbro|44/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641776747
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Slowbro|Flamethrower|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|-damage|p1a: Slowbro|20/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641776753
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: Heatran|[from] ability: Imposter
+|-end|p2a: Heatran|ability: Flash Fire|[silent]
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641776761
+|move|p1a: Ditto|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|move|p2a: Tornadus|Knock Off|p1a: Ditto
+|-damage|p1a: Ditto|69/100
+|-enditem|p1a: Ditto|Choice Scarf|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|-damage|p2a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641776771
+|switch|p1a: Mine Clearer|Corviknight, M|100/100
+|move|p2a: Tornadus|U-turn|p1a: Mine Clearer
+|-resisted|p1a: Mine Clearer
+|-damage|p1a: Mine Clearer|97/100
+|
+|t:|1641776773
+|switch|p2a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|
+|-heal|p1a: Mine Clearer|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641776780
+|move|p2a: Heatran|Earth Power|p1a: Mine Clearer
+|-immune|p1a: Mine Clearer
+|move|p1a: Mine Clearer|Body Press|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|60/100
+|
+|-heal|p2a: Heatran|66/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641776788
+|move|p2a: Heatran|Earth Power|p1a: Mine Clearer
+|-immune|p1a: Mine Clearer
+|move|p1a: Mine Clearer|Body Press|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|29/100
+|
+|-heal|p2a: Heatran|35/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641776794
+|move|p2a: Heatran|Magma Storm|p1a: Mine Clearer
+|-supereffective|p1a: Mine Clearer
+|-damage|p1a: Mine Clearer|25/100
+|-activate|p1a: Mine Clearer|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Mine Clearer|Body Press|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Mine Clearer|31/100|[from] item: Leftovers
+|-end|p1a: Mine Clearer|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641776798
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|11
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Malzabro)
+|
+|t:|1641776806
+|switch|p1a: Slowbro|Slowbro, F|54/100 tox
+|move|p2a: Hydreigon|Dark Pulse|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1641776808
+|switch|p1a: Kartana|Kartana|100/100
+|turn|12
+|
+|t:|1641776812
+|switch|p2a: Ferrothorn|Ferrothorn, M|89/100
+|move|p1a: Kartana|Sacred Sword|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Kartana|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|-message|Malzabro forfeited.
+|
+|win|comradekomko
+|raw|comradekomko's rating: 1308 &rarr; <strong>1327</strong><br />(+19 for winning)
+|raw|Malzabro's rating: 1298 &rarr; <strong>1274</strong><br />(-24 for losing)
+|l|☆Malzabro

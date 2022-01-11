@@ -1,0 +1,283 @@
+|j|☆BlitC
+|j|☆MoaJ'mPaLaCorrida
+|t:|1641734045
+|gametype|singles
+|player|p1|BlitC|palmer|1105
+|player|p2|MoaJ'mPaLaCorrida|pokemaniac|1134
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Dragapult, M|
+|poke|p1|Electivire, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Metagross|
+|poke|p1|Barraskewda, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Diggersby, F|
+|poke|p2|Scizor, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MoaJ'mPaLaCorrida)
+|
+|t:|1641734053
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Cocorico|Zapdos-Galar|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cocorico|atk|1
+|-ability|p2a: Cocorico|Defiant
+|-boost|p2a: Cocorico|atk|2
+|turn|1
+|
+|t:|1641734082
+|move|p2a: Cocorico|Brave Bird|p1a: Landorus
+|-damage|p1a: Landorus|14/100
+|-damage|p2a: Cocorico|67/100|[from] Recoil
+|move|p1a: Landorus|Stealth Rock|p2a: Cocorico
+|-sidestart|p2: MoaJ'mPaLaCorrida|move: Stealth Rock
+|
+|-heal|p1a: Landorus|20/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641734091
+|move|p2a: Cocorico|Brave Bird|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Cocorico|59/100|[from] Recoil
+|
+|upkeep
+|inactive|BlitC has 120 seconds left.
+|
+|t:|1641734112
+|switch|p1a: Electivire|Electivire, F|100/100
+|turn|3
+|inactive|BlitC has 120 seconds left.
+|
+|t:|1641734129
+|move|p2a: Cocorico|Brave Bird|p1a: Electivire
+|-resisted|p1a: Electivire
+|-damage|p1a: Electivire|0 fnt
+|faint|p1a: Electivire
+|-damage|p2a: Cocorico|29/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641734137
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|4
+|inactive|BlitC has 120 seconds left.
+|
+|t:|1641734149
+|move|p1a: Dragapult|Dragon Claw|p2a: Cocorico
+|-damage|p2a: Cocorico|0 fnt
+|faint|p2a: Cocorico
+|
+|upkeep
+|
+|t:|1641734155
+|switch|p2a: Wall 1|Ferrothorn, M|100/100
+|-damage|p2a: Wall 1|94/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641734161
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Wall 1|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|39/100
+|-enditem|p1a: Dragapult|Dragon Fang|[from] move: Knock Off|[of] p2a: Wall 1
+|
+|-heal|p2a: Wall 1|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641734171
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: Wall 1|Leech Seed|p1a: Blacephalon
+|-start|p1a: Blacephalon|move: Leech Seed
+|
+|-damage|p1a: Blacephalon|88/100|[from] Leech Seed|[of] p2a: Wall 1
+|upkeep
+|turn|7
+|
+|t:|1641734178
+|switch|p2a: Wall 2|Toxapex, M|100/100
+|-damage|p2a: Wall 2|88/100|[from] Stealth Rock
+|move|p1a: Blacephalon|Flamethrower|p2a: Wall 2
+|-resisted|p2a: Wall 2
+|-damage|p2a: Wall 2|64/100
+|
+|-damage|p1a: Blacephalon|76/100|[from] Leech Seed|[of] p2a: Wall 2
+|-heal|p2a: Wall 2|74/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641734190
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|move|p2a: Wall 2|Knock Off|p1a: Barraskewda
+|-damage|p1a: Barraskewda|72/100
+|-enditem|p1a: Barraskewda|Mystic Water|[from] move: Knock Off|[of] p2a: Wall 2
+|
+|upkeep
+|turn|9
+|
+|t:|1641734200
+|switch|p2a: Wall 1|Ferrothorn, M|100/100
+|-damage|p2a: Wall 1|94/100|[from] Stealth Rock
+|move|p1a: Barraskewda|Psychic Fangs|p2a: Wall 1
+|-resisted|p2a: Wall 1
+|-damage|p2a: Wall 1|85/100
+|-damage|p1a: Barraskewda|60/100|[from] ability: Iron Barbs|[of] p2a: Wall 1
+|
+|-heal|p2a: Wall 1|91/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641734211
+|move|p1a: Barraskewda|Rain Dance|p1a: Barraskewda
+|-weather|RainDance
+|move|p2a: Wall 1|Leech Seed|p1a: Barraskewda
+|-start|p1a: Barraskewda|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Wall 1|97/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda|48/100|[from] Leech Seed|[of] p2a: Wall 1
+|-heal|p2a: Wall 1|100/100|[silent]
+|upkeep
+|turn|11
+|
+|t:|1641734218
+|move|p1a: Barraskewda|Liquidation|p2a: Wall 1
+|-resisted|p2a: Wall 1
+|-damage|p2a: Wall 1|81/100
+|-damage|p1a: Barraskewda|36/100|[from] ability: Iron Barbs|[of] p2a: Wall 1
+|move|p2a: Wall 1|Power Whip|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Wall 1|87/100|[from] item: Leftovers
+|upkeep
+|inactive|BlitC has 120 seconds left.
+|
+|t:|1641734255
+|switch|p1a: Blacephalon|Blacephalon|76/100
+|turn|12
+|
+|t:|1641734260
+|move|p1a: Blacephalon|Calm Mind|p1a: Blacephalon
+|-boost|p1a: Blacephalon|spa|1
+|-boost|p1a: Blacephalon|spd|1
+|move|p2a: Wall 1|Knock Off|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|-enditem|p1a: Blacephalon|Scope Lens|[from] move: Knock Off|[of] p2a: Wall 1
+|faint|p1a: Blacephalon
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Wall 1|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641734269
+|switch|p1a: Metagross|Metagross|100/100
+|turn|13
+|
+|t:|1641734278
+|move|p1a: Metagross|Earthquake|p2a: Wall 1
+|-damage|p2a: Wall 1|74/100
+|move|p2a: Wall 1|Knock Off|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|69/100
+|-enditem|p1a: Metagross|Leftovers|[from] move: Knock Off|[of] p2a: Wall 1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Wall 1|80/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641734298
+|move|p1a: Metagross|Earthquake|p2a: Wall 1
+|-damage|p2a: Wall 1|61/100
+|move|p2a: Wall 1|Leech Seed|p1a: Metagross
+|-start|p1a: Metagross|move: Leech Seed
+|
+|-weather|none
+|-heal|p2a: Wall 1|67/100|[from] item: Leftovers
+|-damage|p1a: Metagross|56/100|[from] Leech Seed|[of] p2a: Wall 1
+|-heal|p2a: Wall 1|79/100|[silent]
+|upkeep
+|turn|15
+|inactive|BlitC has 120 seconds left.
+|
+|t:|1641734319
+|move|p1a: Metagross|Earthquake|p2a: Wall 1
+|-damage|p2a: Wall 1|58/100
+|move|p2a: Wall 1|Stealth Rock|p1a: Metagross
+|-sidestart|p1: BlitC|move: Stealth Rock
+|
+|-heal|p2a: Wall 1|64/100|[from] item: Leftovers
+|-damage|p1a: Metagross|44/100|[from] Leech Seed|[of] p2a: Wall 1
+|-heal|p2a: Wall 1|76/100|[silent]
+|upkeep
+|turn|16
+|inactive|BlitC has 120 seconds left.
+|
+|t:|1641734340
+|move|p1a: Metagross|Earthquake|p2a: Wall 1
+|-damage|p2a: Wall 1|57/100
+|move|p2a: Wall 1|Knock Off|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|25/100
+|
+|-heal|p2a: Wall 1|64/100|[from] item: Leftovers
+|-damage|p1a: Metagross|13/100|[from] Leech Seed|[of] p2a: Wall 1
+|-heal|p2a: Wall 1|75/100|[silent]
+|upkeep
+|turn|17
+|
+|t:|1641734349
+|move|p1a: Metagross|Earthquake|p2a: Wall 1
+|-damage|p2a: Wall 1|54/100
+|move|p2a: Wall 1|Knock Off|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|-heal|p2a: Wall 1|61/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641734356
+|switch|p1a: Dragapult|Dragapult, M|39/100
+|-damage|p1a: Dragapult|27/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641734377
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Wall 1|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|MoaJ'mPaLaCorrida
+|raw|BlitC's rating: 1105 &rarr; <strong>1082</strong><br />(-23 for losing)
+|raw|MoaJ&apos;mPaLaCorrida's rating: 1134 &rarr; <strong>1157</strong><br />(+23 for winning)
+|l|☆BlitC
+|c|☆MoaJ'mPaLaCorrida|ferro swip lol

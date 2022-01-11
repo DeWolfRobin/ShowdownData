@@ -1,0 +1,407 @@
+|j|☆Lindow_Red5599
+|j|☆Kyerndo
+|t:|1641842426
+|gametype|singles
+|player|p1|Lindow_Red5599|102|1658
+|player|p2|Kyerndo|psychic|1633
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxtricity, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Primarina, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Urshifu-*, M|
+|poke|p2|Heatran, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Volcarona, F|
+|poke|p2|Scizor, F|
+|poke|p2|Thundurus, M|
+|teampreview
+|
+|t:|1641842431
+|start
+|switch|p1a: Impaler|Excadrill, M, shiny|100/100
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|-ability|p1a: Impaler|Mold Breaker
+|turn|1
+|
+|t:|1641842436
+|move|p2a: Thundurus|Superpower|p1a: Impaler
+|-supereffective|p1a: Impaler
+|-enditem|p1a: Impaler|Focus Sash
+|-damage|p1a: Impaler|1/100
+|-unboost|p2a: Thundurus|atk|1
+|-unboost|p2a: Thundurus|def|1
+|move|p1a: Impaler|Stealth Rock|p2a: Thundurus
+|-sidestart|p2: Kyerndo|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|j| FuckThemShoes
+|l| FuckThemShoes
+|
+|t:|1641842444
+|switch|p1a: Amaterasu|Volcarona, M, shiny|100/100
+|move|p2a: Thundurus|Superpower|p1a: Amaterasu
+|-resisted|p1a: Amaterasu
+|-damage|p1a: Amaterasu|82/100
+|-unboost|p2a: Thundurus|atk|1
+|-unboost|p2a: Thundurus|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641842452
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|move|p1a: Amaterasu|Flamethrower|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|70/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641842463
+|switch|p1a: Celestine|Primarina, M|100/100
+|move|p2a: Garchomp|Earthquake|p1a: Celestine
+|-damage|p1a: Celestine|49/100
+|
+|-heal|p1a: Celestine|55/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641842472
+|switch|p2a: Scizor|Scizor, F|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|move|p1a: Celestine|Draining Kiss|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|75/100
+|-heal|p1a: Celestine|63/100|[from] drain|[of] p2a: Scizor
+|
+|-heal|p1a: Celestine|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641842502
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|-damage|p2a: Thundurus|76/100|[from] Stealth Rock
+|switch|p1a: Amaterasu|Volcarona, M, shiny|82/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641842510
+|switch|p1a: Impaler|Excadrill, M, shiny|1/100
+|-ability|p1a: Impaler|Mold Breaker
+|move|p2a: Thundurus|Wild Charge|p1a: Impaler
+|-immune|p1a: Impaler
+|
+|upkeep
+|turn|8
+|
+|t:|1641842516
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Impaler|Toxic|p2a: Tapu Fini
+|-activate|p2a: Tapu Fini|move: Misty Terrain
+|
+|upkeep
+|turn|9
+|
+|t:|1641842521
+|switch|p1a: Tama Tonga|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tama Tonga
+|move|p2a: Tapu Fini|Surf|p1a: Tama Tonga
+|-resisted|p1a: Tama Tonga
+|-damage|p1a: Tama Tonga|77/100
+|
+|-heal|p2a: Tapu Fini|94/100|[from] Grassy Terrain
+|-heal|p1a: Tama Tonga|83/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641842525
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|move|p1a: Tama Tonga|Grassy Glide|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|80/100
+|-status|p1a: Tama Tonga|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|-damage|p1a: Tama Tonga|73/100 brn|[from] item: Life Orb
+|
+|-heal|p2a: Volcarona|86/100|[from] Grassy Terrain
+|-heal|p1a: Tama Tonga|79/100 brn|[from] Grassy Terrain
+|-damage|p1a: Tama Tonga|73/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641842531
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Volcarona|Psychic|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|-heal|p2a: Volcarona|92/100|[from] Grassy Terrain
+|upkeep
+|l|☆Lindow_Red5599
+|player|p1|
+|j|☆Lindow_Red5599
+|player|p1|Lindow_Red5599|102
+|
+|t:|1641842555
+|switch|p1a: Celestine|Primarina, M|69/100
+|turn|12
+|
+|t:|1641842567
+|switch|p2a: Garchomp|Garchomp, M|70/100
+|-damage|p2a: Garchomp|64/100|[from] Stealth Rock
+|move|p1a: Celestine|Calm Mind|p1a: Celestine
+|-boost|p1a: Celestine|spa|1
+|-boost|p1a: Celestine|spd|1
+|
+|-heal|p2a: Garchomp|70/100|[from] Grassy Terrain
+|-heal|p1a: Celestine|75/100|[from] Grassy Terrain
+|-heal|p1a: Celestine|82/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641842573
+|move|p2a: Garchomp|Earthquake|p1a: Celestine
+|-damage|p1a: Celestine|57/100
+|move|p1a: Celestine|Draining Kiss|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-heal|p1a: Celestine|100/100|[from] drain|[of] p2a: Garchomp
+|-damage|p1a: Celestine|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Celestine|72/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-heal|p1a: Celestine|78/100|[from] Grassy Terrain
+|-heal|p1a: Celestine|84/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641842576
+|switch|p2a: Thundurus|Thundurus, M|76/100
+|-damage|p2a: Thundurus|51/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641842579
+|move|p2a: Thundurus|Knock Off|p1a: Celestine
+|-resisted|p1a: Celestine
+|-damage|p1a: Celestine|63/100
+|-enditem|p1a: Celestine|Leftovers|[from] move: Knock Off|[of] p2a: Thundurus
+|move|p1a: Celestine|Scald|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|upkeep
+|
+|t:|1641842583
+|switch|p2a: Scizor|Scizor, F|75/100
+|-damage|p2a: Scizor|63/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641842585
+|move|p2a: Scizor|Bullet Punch|p1a: Celestine
+|-damage|p1a: Celestine|25/100
+|move|p1a: Celestine|Scald|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1641842590
+|switch|p2a: Tapu Fini|Tapu Fini|94/100
+|-damage|p2a: Tapu Fini|82/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|16
+|
+|t:|1641842593
+|move|p2a: Tapu Fini|Moonblast|p1a: Celestine
+|-damage|p1a: Celestine|7/100
+|move|p1a: Celestine|Scald|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|49/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641842596
+|move|p2a: Tapu Fini|Moonblast|p1a: Celestine
+|-damage|p1a: Celestine|0 fnt
+|faint|p1a: Celestine
+|
+|upkeep
+|
+|t:|1641842599
+|switch|p1a: Kyotaro|Toxtricity, M|100/100
+|turn|18
+|
+|t:|1641842612
+|move|p2a: Tapu Fini|Moonblast|p1a: Kyotaro
+|-resisted|p1a: Kyotaro
+|-damage|p1a: Kyotaro|70/100
+|move|p1a: Kyotaro|Boomburst|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|-damage|p1a: Kyotaro|60/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641842620
+|switch|p2a: Volcarona|Volcarona, F|92/100
+|turn|19
+|
+|t:|1641842625
+|move|p2a: Volcarona|Psychic|p1a: Kyotaro
+|-supereffective|p1a: Kyotaro
+|-damage|p1a: Kyotaro|0 fnt
+|faint|p1a: Kyotaro
+|
+|upkeep
+|
+|t:|1641842631
+|switch|p1a: Amaterasu|Volcarona, M, shiny|82/100
+|turn|20
+|
+|t:|1641842634
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|switch|p1a: Tama Tonga|Rillaboom, M|73/100 brn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tama Tonga
+|
+|-heal|p1a: Tama Tonga|79/100 brn|[from] Grassy Terrain
+|-heal|p2a: Heatran|94/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-damage|p1a: Tama Tonga|73/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641842641
+|switch|p2a: Volcarona|Volcarona, F|92/100
+|move|p1a: Tama Tonga|High Horsepower|p2a: Volcarona
+|-damage|p2a: Volcarona|66/100
+|-damage|p1a: Tama Tonga|63/100 brn|[from] item: Life Orb
+|
+|-heal|p2a: Volcarona|72/100|[from] Grassy Terrain
+|-heal|p1a: Tama Tonga|69/100 brn|[from] Grassy Terrain
+|-damage|p1a: Tama Tonga|63/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641842647
+|move|p2a: Volcarona|Flamethrower|p1a: Tama Tonga
+|-supereffective|p1a: Tama Tonga
+|-damage|p1a: Tama Tonga|0 fnt
+|faint|p1a: Tama Tonga
+|
+|-heal|p2a: Volcarona|78/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641842650
+|switch|p1a: Amaterasu|Volcarona, M, shiny|82/100
+|turn|23
+|
+|t:|1641842654
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Amaterasu|Roost|p1a: Amaterasu
+|-heal|p1a: Amaterasu|100/100
+|-singleturn|p1a: Amaterasu|move: Roost
+|
+|-heal|p2a: Heatran|94/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641842663
+|move|p1a: Amaterasu|Quiver Dance|p1a: Amaterasu
+|-boost|p1a: Amaterasu|spa|1
+|-boost|p1a: Amaterasu|spd|1
+|-boost|p1a: Amaterasu|spe|1
+|move|p2a: Heatran|Magma Storm|p1a: Amaterasu
+|-damage|p1a: Amaterasu|75/100
+|-activate|p1a: Amaterasu|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Amaterasu|81/100|[from] Grassy Terrain
+|-damage|p1a: Amaterasu|69/100|[from] move: Magma Storm|[partiallytrapped]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1641842667
+|move|p1a: Amaterasu|Flamethrower|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|move|p2a: Heatran|Toxic|p1a: Amaterasu
+|-status|p1a: Amaterasu|tox
+|
+|-damage|p1a: Amaterasu|62/100 tox|[from] psn
+|-damage|p1a: Amaterasu|50/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|26
+|
+|t:|1641842670
+|move|p1a: Amaterasu|Flamethrower|p2a: Heatran
+|-immune|p2a: Heatran|[from] ability: Flash Fire
+|move|p2a: Heatran|Earth Power|p1a: Amaterasu
+|-damage|p1a: Amaterasu|35/100 tox
+|
+|-damage|p1a: Amaterasu|23/100 tox|[from] psn
+|-damage|p1a: Amaterasu|11/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|27
+|
+|t:|1641842671
+|move|p1a: Amaterasu|Flamethrower|p2a: Heatran
+|-immune|p2a: Heatran|[from] ability: Flash Fire
+|move|p2a: Heatran|Earth Power|p1a: Amaterasu
+|-damage|p1a: Amaterasu|0 fnt
+|faint|p1a: Amaterasu
+|
+|upkeep
+|
+|t:|1641842673
+|switch|p1a: Impaler|Excadrill, M, shiny|1/100
+|-ability|p1a: Impaler|Mold Breaker
+|turn|28
+|
+|t:|1641842675
+|move|p1a: Impaler|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641842677
+|switch|p2a: Volcarona|Volcarona, F|78/100
+|turn|29
+|
+|t:|1641842678
+|move|p1a: Impaler|Earthquake|p2a: Volcarona
+|-damage|p2a: Volcarona|14/100
+|move|p2a: Volcarona|Flamethrower|p1a: Impaler
+|-supereffective|p1a: Impaler
+|-damage|p1a: Impaler|0 fnt
+|faint|p1a: Impaler
+|
+|win|Kyerndo
+|raw|Lindow_Red5599's rating: 1658 &rarr; <strong>1637</strong><br />(-21 for losing)
+|raw|Kyerndo's rating: 1633 &rarr; <strong>1654</strong><br />(+21 for winning)
+|l|☆Lindow_Red5599
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

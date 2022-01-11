@@ -1,0 +1,280 @@
+|j|☆TheBoopening
+|j|☆itchymook
+|t:|1641712420
+|gametype|singles
+|player|p1|TheBoopening|schoolkidf|1133
+|player|p2|itchymook|janitor|1185
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Quagsire, F|
+|poke|p1|Celesteela|
+|poke|p1|Nihilego|
+|poke|p1|Mew|
+|poke|p1|Klefki, F|
+|poke|p1|Hitmontop, M|
+|poke|p2|Blissey, F|
+|poke|p2|Bronzong|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Clefable, M|
+|poke|p2|Xurkitree|
+|poke|p2|Conkeldurr, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by itchymook)
+|inactive|itchymook has 120 seconds left.
+|
+|t:|1641712466
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641712480
+|switch|p1a: Klefki|Klefki, F|100/100
+|move|p2a: Clefable|Trick|p1a: Klefki
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Klefki
+|-item|p1a: Klefki|Sticky Barb|[from] move: Trick
+|-item|p2a: Clefable|Toxic Orb|[from] move: Trick
+|
+|-damage|p1a: Klefki|88/100|[from] item: Sticky Barb
+|-status|p2a: Clefable|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1641712497
+|move|p1a: Klefki|Switcheroo|p2a: Clefable
+|-activate|p1a: Klefki|move: Trick|[of] p2a: Clefable
+|-item|p2a: Clefable|Sticky Barb|[from] move: Switcheroo
+|-item|p1a: Klefki|Toxic Orb|[from] move: Switcheroo
+|move|p2a: Clefable|Gravity|p2a: Clefable
+|-fieldstart|move: Gravity
+|
+|upkeep
+|turn|3
+|
+|t:|1641712513
+|switch|p2a: Bronzong|Bronzong|100/100
+|move|p1a: Klefki|Foul Play|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|72/100
+|
+|-heal|p2a: Bronzong|78/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641712522
+|move|p1a: Klefki|Thunder Wave|p2a: Bronzong
+|-status|p2a: Bronzong|par
+|move|p2a: Bronzong|Hypnosis|p1a: Klefki
+|-status|p1a: Klefki|slp|[from] move: Hypnosis
+|
+|-heal|p2a: Bronzong|85/100 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641712532
+|cant|p1a: Klefki|slp
+|move|p2a: Bronzong|Earthquake|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|41/100 slp
+|
+|-heal|p2a: Bronzong|91/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641712539
+|cant|p1a: Klefki|slp
+|cant|p2a: Bronzong|par
+|
+|-heal|p2a: Bronzong|97/100 par|[from] item: Leftovers
+|-fieldend|move: Gravity
+|upkeep
+|turn|7
+|
+|t:|1641712543
+|-curestatus|p1a: Klefki|slp|[msg]
+|move|p1a: Klefki|Switcheroo|p2a: Bronzong
+|-activate|p1a: Klefki|move: Trick|[of] p2a: Bronzong
+|-item|p2a: Bronzong|Toxic Orb|[from] move: Switcheroo
+|-item|p1a: Klefki|Leftovers|[from] move: Switcheroo
+|move|p2a: Bronzong|Earthquake|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|
+|upkeep
+|
+|t:|1641712559
+|switch|p1a: Mew|Mew|100/100
+|turn|8
+|
+|t:|1641712563
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|cant|p2a: Bronzong|par
+|
+|upkeep
+|turn|9
+|
+|t:|1641712571
+|move|p1a: Mew|Flamethrower|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|44/100 par
+|cant|p2a: Bronzong|par
+|
+|upkeep
+|turn|10
+|
+|t:|1641712583
+|switch|p2a: Blissey|Blissey, F, shiny|100/100
+|move|p1a: Mew|Flamethrower|p2a: Blissey
+|-damage|p2a: Blissey|82/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641712604
+|switch|p1a: Celesteela|Celesteela|100/100
+|move|p2a: Blissey|Seismic Toss|p1a: Celesteela
+|-damage|p1a: Celesteela|72/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641712616
+|switch|p1a: Hitmontop|Hitmontop, M|100/100
+|move|p2a: Blissey|Gravity|p2a: Blissey
+|-fieldstart|move: Gravity
+|
+|upkeep
+|turn|13
+|
+|t:|1641712630
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|move|p1a: Hitmontop|Triple Axel|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|90/100
+|-crit|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|61/100
+|-damage|p2a: Conkeldurr|32/100
+|-hitcount|p2a: Conkeldurr|3
+|
+|upkeep
+|turn|14
+|
+|t:|1641712646
+|switch|p1a: Celesteela|Celesteela|72/100
+|move|p2a: Conkeldurr|Dynamic Punch|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|upkeep
+|
+|t:|1641712652
+|switch|p1a: Hitmontop|Hitmontop, M|100/100
+|turn|15
+|
+|t:|1641712663
+|switch|p2a: Bronzong|Bronzong|44/100 par
+|move|p1a: Hitmontop|Mach Punch|p2a: Bronzong
+|-damage|p2a: Bronzong|23/100 par
+|
+|upkeep
+|turn|16
+|
+|t:|1641712681
+|switch|p1a: Nihilego|Nihilego|100/100
+|move|p2a: Bronzong|Hypnosis|p1a: Nihilego
+|-status|p1a: Nihilego|slp|[from] move: Hypnosis
+|
+|-fieldend|move: Gravity
+|upkeep
+|turn|17
+|
+|t:|1641712694
+|cant|p1a: Nihilego|slp
+|cant|p2a: Bronzong|par
+|
+|upkeep
+|turn|18
+|
+|t:|1641712697
+|cant|p1a: Nihilego|slp
+|move|p2a: Bronzong|Gravity|p2a: Bronzong
+|-fieldstart|move: Gravity
+|
+|upkeep
+|turn|19
+|
+|t:|1641712702
+|-curestatus|p1a: Nihilego|slp|[msg]
+|move|p1a: Nihilego|Power Gem|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|faint|p2a: Bronzong
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1641712720
+|switch|p2a: Xurkitree|Xurkitree|100/100
+|turn|20
+|
+|t:|1641712725
+|move|p2a: Xurkitree|Zap Cannon|p1a: Nihilego|[miss]
+|-miss|p2a: Xurkitree|p1a: Nihilego
+|move|p1a: Nihilego|Power Gem|p2a: Xurkitree
+|-damage|p2a: Xurkitree|0 fnt
+|faint|p2a: Xurkitree
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1641712728
+|switch|p2a: Conkeldurr|Conkeldurr, M|32/100
+|turn|21
+|
+|t:|1641712731
+|move|p2a: Conkeldurr|Mach Punch|p1a: Nihilego
+|-damage|p1a: Nihilego|26/100
+|move|p1a: Nihilego|Power Gem|p2a: Conkeldurr
+|-resisted|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1641712736
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Nihilego|atk|1
+|turn|22
+|
+|t:|1641712742
+|move|p1a: Nihilego|Power Gem|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spa|1
+|
+|-fieldend|move: Gravity
+|upkeep
+|-message|itchymook forfeited.
+|
+|win|TheBoopening
+|raw|TheBoopening's rating: 1133 &rarr; <strong>1162</strong><br />(+29 for winning)
+|raw|itchymook's rating: 1185 &rarr; <strong>1156</strong><br />(-29 for losing)
+|l|☆itchymook

@@ -1,0 +1,272 @@
+|j|‽Windsom
+|j|☆I DONT REPLY
+|t:|1641816544
+|gametype|singles
+|player|p1|Windsom|hilbert|1695
+|player|p2|I DONT REPLY|102|1715
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Hawlucha, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Bisharp, F|
+|poke|p1|Mew|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Heatran, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Clefable, F|
+|teampreview
+|
+|t:|1641816560
+|start
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Windsom)
+|
+|t:|1641816567
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641816572
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Slowking|Nasty Plot|p2a: Slowking
+|-boost|p2a: Slowking|spa|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641816582
+|move|p1a: Tapu Fini|Taunt|p2a: Slowking
+|-start|p2a: Slowking|move: Taunt
+|move|p2a: Slowking|Sludge Bomb|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|34/100
+|
+|-heal|p1a: Tapu Fini|40/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641816597
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|move|p2a: Slowking|Flamethrower|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|upkeep
+|
+|t:|1641816605
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|turn|5
+|
+|t:|1641816612
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Landorus|Earthquake|p2a: Urshifu
+|-damage|p2a: Urshifu|48/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641816625
+|switch|p1a: Tapu Fini|Tapu Fini|40/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Urshifu|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|28/100
+|
+|t:|1641816632
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from]move: U-turn
+|
+|-heal|p1a: Tapu Fini|34/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641816640
+|move|p1a: Tapu Fini|Taunt|p2a: Slowking
+|-start|p2a: Slowking|move: Taunt
+|move|p2a: Slowking|Psychic|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641816659
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|8
+|
+|t:|1641816663
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641816671
+|move|p1a: Dragapult|Steel Wing|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|1/100
+|-damage|p1a: Dragapult|91/100|[from] item: Life Orb
+|move|p2a: Clefable|Moonblast|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|11/100
+|
+|-heal|p2a: Clefable|7/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641816681
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|11
+|
+|t:|1641816685
+|move|p1a: Dragapult|Phantom Force|p2a: Corviknight|[from]lockedmove
+|-damage|p2a: Corviknight|48/100
+|-damage|p1a: Dragapult|0 fnt|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p1a: Dragapult
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|98/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|j| Marquesa-10%
+|
+|t:|1641816696
+|switch|p1a: Mew|Mew|100/100
+|turn|12
+|
+|t:|1641816699
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Corviknight|U-turn|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|85/100
+|-enditem|p1a: Mew|Weakness Policy
+|-boost|p1a: Mew|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Mew|spa|2|[from] item: Weakness Policy
+|
+|t:|1641816708
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1641816713
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Mew
+|-damage|p1a: Mew|64/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641816721
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Mew
+|-damage|p1a: Mew|50/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641816727
+|move|p1a: Mew|Soft-Boiled|p1a: Mew
+|-heal|p1a: Mew|100/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Mew
+|-damage|p1a: Mew|87/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641816734
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Mew
+|-damage|p1a: Mew|75/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641816740
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Mew
+|-damage|p1a: Mew|64/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641816747
+|move|p1a: Mew|Soft-Boiled|p1a: Mew
+|-heal|p1a: Mew|100/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Mew
+|-damage|p1a: Mew|90/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641816753
+|move|p1a: Mew|Stored Power|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1641816759
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|turn|20
+|
+|t:|1641816763
+|move|p1a: Mew|Body Press|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-enditem|p2a: Heatran|Air Balloon
+|faint|p2a: Heatran
+|
+|upkeep
+|-message|I DONT REPLY forfeited.
+|
+|win|Windsom
+|raw|Windsom's rating: 1695 &rarr; <strong>1716</strong><br />(+21 for winning)
+|raw|I DONT REPLY's rating: 1715 &rarr; <strong>1694</strong><br />(-21 for losing)
+|l|☆I DONT REPLY

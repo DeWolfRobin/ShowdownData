@@ -1,0 +1,331 @@
+|j|☆Bearclaw11d7
+|j|☆zwann
+|t:|1641864591
+|gametype|singles
+|player|p1|Bearclaw11d7|blaine|1000
+|player|p2|zwann|pokekid|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Escavalier, F|
+|poke|p1|Silvally-*|
+|poke|p1|Cofagrigus, M|
+|poke|p1|Mudsdale, M|
+|poke|p1|Basculin, M|
+|poke|p1|Whimsicott, F|
+|poke|p2|Azumarill, M|
+|poke|p2|Mienshao, M|
+|poke|p2|Celebi|
+|poke|p2|Emolga, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Tyranitar, M|
+|teampreview
+|
+|t:|1641864604
+|start
+|switch|p1a: Ramses|Cofagrigus, M|100/100
+|switch|p2a: tar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: tar
+|turn|1
+|
+|t:|1641864613
+|move|p2a: tar|Fire Blast|p1a: Ramses|[miss]
+|-miss|p2a: tar|p1a: Ramses
+|move|p1a: Ramses|Will-O-Wisp|p2a: tar|[miss]
+|-miss|p1a: Ramses|p2a: tar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ramses|95/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641864627
+|move|p2a: tar|Rock Polish|p2a: tar
+|-boost|p2a: tar|spe|2
+|move|p1a: Ramses|Will-O-Wisp|p2a: tar|[miss]
+|-miss|p1a: Ramses|p2a: tar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ramses|89/100|[from] Sandstorm
+|upkeep
+|turn|3
+|l|☆Bearclaw11d7
+|player|p1|
+|j|☆Bearclaw11d7
+|player|p1|Bearclaw11d7|blaine
+|
+|t:|1641864666
+|switch|p1a: Masculin|Basculin, M|100/100
+|move|p2a: tar|Dark Pulse|p1a: Masculin
+|-damage|p1a: Masculin|10/100
+|-damage|p2a: tar|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Masculin|4/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641864680
+|move|p1a: Masculin|Aqua Jet|p2a: tar
+|-supereffective|p2a: tar
+|-damage|p2a: tar|26/100
+|move|p2a: tar|Ancient Power|p1a: Masculin
+|-damage|p1a: Masculin|0 fnt
+|faint|p1a: Masculin
+|-damage|p2a: tar|16/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641864690
+|switch|p1a: Assceus|Silvally-Dark|100/100
+|turn|5
+|
+|t:|1641864713
+|move|p2a: tar|Fire Blast|p1a: Assceus
+|-damage|p1a: Assceus|50/100
+|-status|p1a: Assceus|brn
+|-damage|p2a: tar|6/100|[from] item: Life Orb
+|move|p1a: Assceus|Multi-Attack|p2a: tar
+|-resisted|p2a: tar
+|-damage|p2a: tar|0 fnt
+|faint|p2a: tar
+|
+|-weather|none
+|-damage|p1a: Assceus|44/100 brn|[from] brn
+|upkeep
+|
+|t:|1641864723
+|switch|p2a: bro..|Mienshao, M, shiny|100/100
+|turn|6
+|
+|t:|1641864728
+|move|p2a: bro..|Bulk Up|p2a: bro..
+|-boost|p2a: bro..|atk|1
+|-boost|p2a: bro..|def|1
+|move|p1a: Assceus|Psychic Fangs|p2a: bro..
+|-supereffective|p2a: bro..
+|-damage|p2a: bro..|72/100
+|
+|-damage|p1a: Assceus|38/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641864734
+|move|p2a: bro..|Drain Punch|p1a: Assceus
+|-supereffective|p1a: Assceus
+|-damage|p1a: Assceus|0 fnt
+|-heal|p2a: bro..|95/100|[from] drain|[of] p1a: Assceus
+|faint|p1a: Assceus
+|-damage|p2a: bro..|85/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641864741
+|switch|p1a: Whimsical|Whimsicott, F|100/100
+|turn|8
+|
+|t:|1641864774
+|move|p1a: Whimsical|Moonblast|p2a: bro..
+|-supereffective|p2a: bro..
+|-damage|p2a: bro..|0 fnt
+|faint|p2a: bro..
+|
+|upkeep
+|
+|t:|1641864796
+|switch|p2a: brown cutie|Emolga, F, shiny|100/100
+|turn|9
+|
+|t:|1641864808
+|switch|p1a: Horse Manuel|Mudsdale, M|100/100
+|move|p2a: brown cutie|Acrobatics|p1a: Horse Manuel
+|-damage|p1a: Horse Manuel|73/100
+|-ability|p1a: Horse Manuel|Stamina|boost
+|-boost|p1a: Horse Manuel|def|1
+|
+|-heal|p1a: Horse Manuel|80/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641864820
+|move|p2a: brown cutie|Attract|p1a: Horse Manuel
+|-start|p1a: Horse Manuel|Attract
+|-activate|p1a: Horse Manuel|move: Attract|[of] p2a: brown cutie
+|move|p1a: Horse Manuel|Toxic|p2a: brown cutie
+|-status|p2a: brown cutie|tox
+|
+|-heal|p1a: Horse Manuel|86/100|[from] item: Leftovers
+|-damage|p2a: brown cutie|95/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641864827
+|-activate|p1a: Horse Manuel|move: Attract|[of] p2a: brown cutie
+|cant|p1a: Horse Manuel|Attract
+|move|p2a: brown cutie|Acrobatics|p1a: Horse Manuel
+|-damage|p1a: Horse Manuel|68/100
+|-ability|p1a: Horse Manuel|Stamina|boost
+|-boost|p1a: Horse Manuel|def|1
+|
+|-heal|p1a: Horse Manuel|74/100|[from] item: Leftovers
+|-damage|p2a: brown cutie|83/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641864837
+|switch|p2a: nature|Celebi|100/100
+|-end|p1a: Horse Manuel|Attract|[silent]
+|move|p1a: Horse Manuel|Stealth Rock|p2a: nature
+|-sidestart|p2: zwann|move: Stealth Rock
+|
+|-heal|p1a: Horse Manuel|80/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641864843
+|move|p2a: nature|Leech Seed|p1a: Horse Manuel
+|-start|p1a: Horse Manuel|move: Leech Seed
+|move|p1a: Horse Manuel|Toxic|p2a: nature
+|-status|p2a: nature|tox
+|
+|-heal|p1a: Horse Manuel|87/100|[from] item: Leftovers
+|-damage|p1a: Horse Manuel|74/100|[from] Leech Seed|[of] p2a: nature
+|-damage|p2a: nature|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641864850
+|-curestatus|p2a: nature|tox|[from] ability: Natural Cure
+|switch|p2a: roar|Dragonite, F|100/100
+|-damage|p2a: roar|76/100|[from] Stealth Rock
+|move|p1a: Horse Manuel|Earthquake|p2a: roar
+|-immune|p2a: roar
+|
+|-heal|p1a: Horse Manuel|80/100|[from] item: Leftovers
+|-damage|p1a: Horse Manuel|68/100|[from] Leech Seed|[of] p2a: roar
+|-heal|p2a: roar|91/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641864864
+|switch|p1a: Whimsical|Whimsicott, F|100/100
+|move|p2a: roar|Dragon Dance|p2a: roar
+|-boost|p2a: roar|atk|1
+|-boost|p2a: roar|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641864868
+|move|p2a: roar|Flamethrower|p1a: Whimsical
+|-supereffective|p1a: Whimsical
+|-damage|p1a: Whimsical|8/100
+|move|p1a: Whimsical|Moonblast|p2a: roar
+|-supereffective|p2a: roar
+|-damage|p2a: roar|0 fnt
+|faint|p2a: roar
+|
+|upkeep
+|
+|t:|1641864885
+|switch|p2a: brown cutie|Emolga, F, shiny|83/100 tox
+|-damage|p2a: brown cutie|58/100 tox|[from] Stealth Rock
+|turn|17
+|
+|t:|1641864890
+|move|p1a: Whimsical|Moonblast|p2a: brown cutie
+|-damage|p2a: brown cutie|0 fnt
+|faint|p2a: brown cutie
+|
+|upkeep
+|
+|t:|1641864897
+|switch|p2a: Iam Gold|Azumarill, M, shiny|100/100
+|-damage|p2a: Iam Gold|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641864900
+|move|p2a: Iam Gold|Aqua Jet|p1a: Whimsical
+|-resisted|p1a: Whimsical
+|-damage|p1a: Whimsical|2/100
+|move|p1a: Whimsical|Moonblast|p2a: Iam Gold
+|-damage|p2a: Iam Gold|51/100
+|
+|-heal|p2a: Iam Gold|57/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641864906
+|move|p2a: Iam Gold|Aqua Jet|p1a: Whimsical
+|-resisted|p1a: Whimsical
+|-damage|p1a: Whimsical|0 fnt
+|faint|p1a: Whimsical
+|
+|-heal|p2a: Iam Gold|63/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641864912
+|switch|p1a: SPARTANS|Escavalier, F|100/100
+|turn|20
+|
+|t:|1641864920
+|move|p2a: Iam Gold|Encore||[still]
+|-fail|p2a: Iam Gold
+|move|p1a: SPARTANS|Knock Off|p2a: Iam Gold
+|-resisted|p2a: Iam Gold
+|-damage|p2a: Iam Gold|34/100
+|-enditem|p2a: Iam Gold|Leftovers|[from] move: Knock Off|[of] p1a: SPARTANS
+|
+|upkeep
+|turn|21
+|
+|t:|1641864926
+|move|p2a: Iam Gold|Ice Beam|p1a: SPARTANS
+|-resisted|p1a: SPARTANS
+|-damage|p1a: SPARTANS|93/100
+|move|p1a: SPARTANS|Knock Off|p2a: Iam Gold
+|-resisted|p2a: Iam Gold
+|-damage|p2a: Iam Gold|14/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641864932
+|move|p2a: Iam Gold|Aqua Jet|p1a: SPARTANS
+|-damage|p1a: SPARTANS|85/100
+|move|p1a: SPARTANS|Knock Off|p2a: Iam Gold
+|-resisted|p2a: Iam Gold
+|-damage|p2a: Iam Gold|0 fnt
+|faint|p2a: Iam Gold
+|
+|upkeep
+|
+|t:|1641864936
+|switch|p2a: nature|Celebi|94/100
+|-damage|p2a: nature|82/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641864940
+|move|p2a: nature|Leech Seed|p1a: SPARTANS|[miss]
+|-miss|p2a: nature|p1a: SPARTANS
+|move|p1a: SPARTANS|Knock Off|p2a: nature
+|-supereffective|p2a: nature
+|-damage|p2a: nature|0 fnt
+|-enditem|p2a: nature|Leftovers|[from] move: Knock Off|[of] p1a: SPARTANS
+|faint|p2a: nature
+|
+|win|Bearclaw11d7
+|raw|Bearclaw11d7's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|zwann's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆zwann

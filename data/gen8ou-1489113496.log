@@ -1,0 +1,150 @@
+|j|☆altarianiteeleki
+|j|☆batsol
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641858367
+|gametype|singles
+|player|p1|altarianiteeleki|colress|
+|player|p2|batsol|102|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Dracozolt|
+|poke|p1|Corviknight, M|
+|poke|p1|Reuniclus, F|
+|poke|p1|Blissey, F|
+|poke|p2|Volcanion|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Tapu Lele|
+|poke|p2|Stakataka|
+|poke|p2|Reuniclus, F|
+|poke|p2|Tangrowth, F|
+|teampreview
+|inactive|altarianiteeleki also wants the timer to be on.
+|j|@UnnerfTalonflame
+|c|☆altarianiteeleki|gl
+|c|☆batsol|My b.
+|c|☆batsol|u2
+|c|☆altarianiteeleki|nah nw
+|
+|t:|1641858387
+|start
+|switch|p1a: Reuniclus|Reuniclus, F|100/100
+|switch|p2a: Volcanion|Volcanion|100/100
+|turn|1
+|j| Ren
+|j|@Chazm
+|
+|t:|1641858395
+|move|p2a: Volcanion|Volt Switch|p1a: Reuniclus
+|-damage|p1a: Reuniclus|81/100
+|
+|t:|1641858399
+|switch|p2a: Stakataka|Stakataka|100/100|[from]move: Volt Switch
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641858406
+|move|p1a: Reuniclus|Secret Sword|p2a: Stakataka
+|-supereffective|p2a: Stakataka
+|-enditem|p2a: Stakataka|Chople Berry|[eat]
+|-enditem|p2a: Stakataka|Chople Berry|[weaken]
+|-damage|p2a: Stakataka|41/100
+|move|p2a: Stakataka|Trick Room|p2a: Stakataka
+|-fieldstart|move: Trick Room|[of] p2a: Stakataka
+|
+|upkeep
+|turn|3
+|
+|t:|1641858412
+|move|p2a: Stakataka|Gyro Ball|p1a: Reuniclus
+|-damage|p1a: Reuniclus|46/100
+|move|p1a: Reuniclus|Shore Up|p1a: Reuniclus
+|-heal|p1a: Reuniclus|96/100
+|
+|upkeep
+|turn|4
+|c| Ren|are you iapt or tpai
+|j|✩Chrome8
+|
+|t:|1641858419
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Reuniclus|Secret Sword|p2a: Volcanion
+|-damage|p2a: Volcanion|63/100
+|
+|upkeep
+|turn|5
+|c|☆altarianiteeleki|hm?
+|
+|t:|1641858425
+|move|p1a: Reuniclus|Psychic|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|upkeep
+|
+|t:|1641858437
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|turn|6
+|
+|t:|1641858440
+|move|p2a: Tangrowth|Knock Off|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|63/100
+|-enditem|p1a: Reuniclus|Life Orb|[from] move: Knock Off|[of] p2a: Tangrowth
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|7
+|
+|t:|1641858455
+|move|p1a: Reuniclus|Shore Up|p1a: Reuniclus
+|-heal|p1a: Reuniclus|100/100
+|move|p2a: Tangrowth|Teleport|p2a: Tangrowth
+|
+|t:|1641858462
+|switch|p2a: Conkeldurr|Conkeldurr, F|100/100|[from]move: Teleport
+|
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|8
+|
+|t:|1641858469
+|move|p1a: Reuniclus|Psychic|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|c|☆batsol|gg
+|
+|t:|1641858483
+|switch|p2a: Reuniclus|Reuniclus, F|100/100
+|turn|9
+|-message|batsol forfeited.
+|
+|win|altarianiteeleki
+|n|☆altarianiteeleki|altarianiteeleki
+|n|☆batsol|batsol
+|n| UnnerfTalonflame|unnerftalonflame
+|n| Ren|ren
+|n|+Chazm|chazm
+|n| Chrome8|chrome8

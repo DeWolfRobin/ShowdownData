@@ -1,0 +1,367 @@
+|j|☆Thromos
+|j|☆Elmerulia
+|t:|1641829357
+|gametype|singles
+|player|p1|Thromos|veteran|1557
+|player|p2|Elmerulia|jasmine|1552
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Tapu Lele|
+|poke|p2|Lilligant, F|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Koko|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Aegislash, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Elmerulia)
+|
+|t:|1641829373
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Koko|atk|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|1
+|
+|t:|1641829380
+|move|p1a: Landorus|Earthquake|p2a: Tapu Koko
+|-supereffective|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641829388
+|switch|p2a: Lilligant|Lilligant, F|100/100
+|turn|2
+|
+|t:|1641829391
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Lilligant|Quiver Dance|p2a: Lilligant
+|-boost|p2a: Lilligant|spa|1
+|-boost|p2a: Lilligant|spd|1
+|-boost|p2a: Lilligant|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641829398
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Lilligant|Quiver Dance|p2a: Lilligant
+|-boost|p2a: Lilligant|spa|1
+|-boost|p2a: Lilligant|spd|1
+|-boost|p2a: Lilligant|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641829409
+|move|p2a: Lilligant|Nature Power|p1a: Toxapex
+|move|p2a: Lilligant|Thunderbolt|p1a: Toxapex|[from]move: Nature Power
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-damage|p2a: Lilligant|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641829423
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|5
+|
+|t:|1641829428
+|move|p2a: Lilligant|Nature Power|p1a: Ferrothorn
+|move|p2a: Lilligant|Thunderbolt|p1a: Ferrothorn|[from]move: Nature Power
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|60/100
+|-damage|p2a: Lilligant|81/100|[from] item: Life Orb
+|move|p1a: Ferrothorn|Iron Defense|p1a: Ferrothorn
+|-boost|p1a: Ferrothorn|def|2
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641829436
+|move|p2a: Lilligant|Nature Power|p1a: Ferrothorn
+|move|p2a: Lilligant|Tri Attack|p1a: Ferrothorn|[from]move: Nature Power
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|29/100
+|-damage|p2a: Lilligant|71/100|[from] item: Life Orb
+|move|p1a: Ferrothorn|Body Press|p2a: Lilligant
+|-damage|p2a: Lilligant|0 fnt
+|faint|p2a: Lilligant
+|
+|upkeep
+|
+|t:|1641829444
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|turn|7
+|
+|t:|1641829449
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|j| greystaple
+|
+|t:|1641829468
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Aegislash|atk|1
+|turn|8
+|j| SmackPackt
+|j| cranking 90's rn
+|inactive|Elmerulia has 120 seconds left.
+|j| aigr
+|
+|t:|1641829500
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Landorus|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|62/100
+|
+|-heal|p2a: Garchomp|68/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|c| aigr|come one
+|c| aigr|goooo
+|
+|t:|1641829520
+|move|p1a: Landorus|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|30/100
+|move|p2a: Garchomp|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-heal|p2a: Garchomp|36/100|[from] item: Leftovers
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641829528
+|move|p2a: Garchomp|Protect|p2a: Garchomp
+|-singleturn|p2a: Garchomp|Protect
+|move|p1a: Landorus|Earthquake|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Protect
+|
+|-heal|p2a: Garchomp|42/100|[from] item: Leftovers
+|-damage|p1a: Landorus|82/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641829535
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Landorus|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|47/100
+|
+|-damage|p1a: Landorus|63/100 tox|[from] psn
+|upkeep
+|turn|12
+|c| aigr|thats carf
+|c| aigr|lando
+|
+|t:|1641829543
+|move|p1a: Landorus|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|1/100
+|move|p2a: Tapu Fini|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|c| aigr|adamant
+|c| aigr|nice 1 hp
+|c| aigr|or jolly
+|c| aigr|cus thats scarf fini
+|
+|t:|1641829570
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|13
+|
+|t:|1641829573
+|move|p2a: Tapu Fini|Scald|p1a: Tornadus
+|-damage|p1a: Tornadus|73/100
+|-status|p1a: Tornadus|brn
+|move|p1a: Tornadus|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|-enditem|p2a: Tapu Fini|Choice Scarf|[from] move: Knock Off|[of] p1a: Tornadus
+|faint|p2a: Tapu Fini
+|
+|-damage|p1a: Tornadus|67/100 brn|[from] brn
+|upkeep
+|c| aigr|nice lil burn
+|
+|t:|1641829582
+|switch|p2a: Magnezone|Magnezone|100/100
+|turn|14
+|c| aigr|omg
+|c| aigr|zone wins
+|j| MAXIMUM 0VERDRIVE!
+|c| aigr|flash if specs
+|
+|t:|1641829607
+|move|p1a: Tornadus|U-turn|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|98/100
+|c| cranking 90's rn|no specs
+|
+|t:|1641829609
+|switch|p1a: Tyranitar|Tyranitar, M|100/100|[from]move: U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Magnezone|Thunderbolt|p1a: Tyranitar
+|-damage|p1a: Tyranitar|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Magnezone|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|c| aigr|it don't matter
+|c| MAXIMUM 0VERDRIVE!|Aw we aint specs
+|
+|t:|1641829621
+|move|p2a: Magnezone|Body Press|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|11/100
+|move|p1a: Tyranitar|Earthquake|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|c| MAXIMUM 0VERDRIVE!|sadge
+|c| aigr|nooo
+|
+|t:|1641829627
+|switch|p2a: Garchomp|Garchomp, M|42/100
+|turn|16
+|c| aigr|i think aegi wins
+|
+|t:|1641829634
+|move|p2a: Garchomp|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Garchomp|48/100|[from] item: Leftovers
+|upkeep
+|c| MAXIMUM 0VERDRIVE!|Aegi should win
+|c| aigr|hope
+|c| aigr|yaaa
+|
+|t:|1641829642
+|switch|p1a: Tornadus|Tornadus-Therian, M|99/100 brn
+|turn|17
+|
+|t:|1641829646
+|move|p2a: Garchomp|Protect|p2a: Garchomp
+|-singleturn|p2a: Garchomp|Protect
+|move|p1a: Tornadus|Taunt|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|94/100 brn|[from] Sandstorm
+|-heal|p2a: Garchomp|55/100|[from] item: Leftovers
+|-damage|p1a: Tornadus|88/100 brn|[from] brn
+|upkeep
+|turn|18
+|c| aigr|stall out torn to sand and burn
+|c| aigr|yeee
+|
+|t:|1641829656
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|move|p1a: Tornadus|Taunt|p2a: Aegislash
+|-start|p2a: Aegislash|move: Taunt
+|
+|-weather|none
+|-damage|p1a: Tornadus|82/100 brn|[from] brn
+|upkeep
+|turn|19
+|c| aigr|ayyyy
+|
+|t:|1641829663
+|move|p1a: Tornadus|Heat Wave|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|55/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|26/100 brn
+|
+|-damage|p1a: Tornadus|20/100 brn|[from] brn
+|upkeep
+|turn|20
+|c| aigr|no specs
+|c| aigr|aegi go
+|c| aigr|thats not specs
+|
+|t:|1641829673
+|move|p2a: Aegislash|Shadow Sneak|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-end|p2a: Aegislash|move: Taunt
+|upkeep
+|
+|t:|1641829679
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|21
+|c| aigr|sac chomp
+|c| cranking 90's rn|ez
+|c| aigr|do it
+|c| MAXIMUM 0VERDRIVE!|Nice
+|
+|t:|1641829684
+|switch|p2a: Garchomp|Garchomp, M|55/100
+|move|p1a: Tapu Lele|Psychic|p2a: Garchomp
+|-crit|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|c| aigr|no
+|c| MAXIMUM 0VERDRIVE!|Clean
+|c| aigr|gooooo
+|
+|t:|1641829690
+|switch|p2a: Aegislash|Aegislash, M|55/100
+|turn|22
+|
+|t:|1641829693
+|move|p1a: Tapu Lele|Psychic|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|9/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|win|Elmerulia
+|raw|Thromos's rating: 1557 &rarr; <strong>1537</strong><br />(-20 for losing)
+|raw|Elmerulia's rating: 1552 &rarr; <strong>1572</strong><br />(+20 for winning)
+|c| aigr|yesssssssssssss

@@ -1,0 +1,416 @@
+|j|☆superstar
+|j|☆Coach from L4D2
+|t:|1641761380
+|gametype|singles
+|player|p1|superstar|1|1459
+|player|p2|Coach from L4D2|linebacker|1616
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Magnezone|
+|poke|p1|Tapu Lele|
+|poke|p1|Kartana|
+|poke|p1|Hawlucha, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Raichu-Alola, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Swampert, F|
+|poke|p2|Zapdos|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Urshifu-*, F|
+|teampreview
+|
+|t:|1641761390
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Urshifu|atk|1
+|turn|1
+|
+|t:|1641761396
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Urshifu|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|89/100
+|
+|t:|1641761401
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641761406
+|switch|p1a: Magnezone|Magnezone|100/100
+|switch|p2a: Swampert|Swampert, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641761418
+|switch|p1a: Tapu Fini|Tapu Fini|89/100
+|move|p2a: Swampert|Stealth Rock|p1a: Tapu Fini
+|-sidestart|p1: superstar|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641761426
+|move|p1a: Tapu Fini|Surf|p2a: Swampert
+|-damage|p2a: Swampert|77/100
+|move|p2a: Swampert|Flip Turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-crit|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|71/100
+|
+|t:|1641761429
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100|[from]move: Flip Turn
+|
+|upkeep
+|turn|5
+|
+|t:|1641761433
+|switch|p1a: Magnezone|Magnezone|100/100
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|switch|p2a: Swampert|Swampert, F|77/100
+|
+|-heal|p2a: Swampert|83/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641761438
+|move|p1a: Magnezone|Toxic|p2a: Swampert|[miss]
+|-miss|p1a: Magnezone|p2a: Swampert
+|move|p2a: Swampert|Flip Turn|p1a: Magnezone
+|-damage|p1a: Magnezone|80/100
+|-damage|p2a: Swampert|66/100|[from] item: Rocky Helmet|[of] p1a: Magnezone
+|
+|t:|1641761441
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: Flip Turn
+|
+|upkeep
+|turn|7
+|c|☆superstar|ow
+|
+|t:|1641761446
+|switch|p1a: Tapu Fini|Tapu Fini|71/100
+|-damage|p1a: Tapu Fini|59/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Urshifu|Close Combat|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|9/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641761462
+|switch|p2a: Swampert|Swampert, F|66/100
+|move|p1a: Tapu Fini|Trick|p2a: Swampert
+|-activate|p1a: Tapu Fini|move: Trick|[of] p2a: Swampert
+|-item|p2a: Swampert|Choice Scarf|[from] move: Trick
+|-item|p1a: Tapu Fini|Leftovers|[from] move: Trick
+|
+|-heal|p1a: Tapu Fini|15/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641761466
+|move|p1a: Tapu Fini|Defog|p2a: Swampert
+|-unboost|p2a: Swampert|evasion|1
+|-sideend|p1: superstar|Stealth Rock|[from] move: Defog|[of] p1a: Tapu Fini
+|-fieldend|Misty Terrain
+|move|p2a: Swampert|Flip Turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|3/100
+|
+|t:|1641761469
+|switch|p2a: Eagle|Tapu Koko|100/100|[from]move: Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Eagle
+|
+|-heal|p1a: Tapu Fini|9/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641761477
+|move|p2a: Eagle|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|1/100
+|
+|t:|1641761479
+|switch|p2a: Swampert|Swampert, F|66/100|[from]move: U-turn
+|move|p1a: Tapu Fini|Moonblast|p2a: Swampert
+|-damage|p2a: Swampert|42/100
+|
+|-heal|p1a: Tapu Fini|7/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641761485
+|move|p1a: Tapu Fini|Moonblast|p2a: Swampert
+|-damage|p2a: Swampert|14/100
+|move|p2a: Swampert|Stealth Rock|p1a: Tapu Fini
+|-sidestart|p1: superstar|move: Stealth Rock
+|
+|-heal|p1a: Tapu Fini|14/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641761488
+|move|p1a: Tapu Fini|Defog|p2a: Swampert
+|-unboost|p2a: Swampert|evasion|1
+|-sideend|p1: superstar|Stealth Rock|[from] move: Defog|[of] p1a: Tapu Fini
+|-fieldend|move: Electric Terrain
+|move|p2a: Swampert|Stealth Rock|p1a: Tapu Fini
+|-sidestart|p1: superstar|move: Stealth Rock
+|
+|-heal|p1a: Tapu Fini|20/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641761498
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Swampert|atk|1
+|move|p2a: Swampert|Stealth Rock||[still]
+|-fail|p2a: Swampert
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641761504
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Landorus|Stealth Rock|p2a: Urshifu
+|-sidestart|p2: Coach from L4D2|move: Stealth Rock
+|
+|-heal|p1a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641761511
+|move|p2a: Urshifu|Surging Strikes|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|37/100
+|-supereffective|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-hitcount|p1: Landorus|2
+|
+|upkeep
+|
+|t:|1641761516
+|switch|p1a: Kartana|Kartana|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641761523
+|switch|p2a: Swampert|Swampert, F|14/100
+|-damage|p2a: Swampert|7/100|[from] Stealth Rock
+|move|p1a: Kartana|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|-enditem|p2a: Swampert|Choice Scarf|[from] move: Knock Off|[of] p1a: Kartana
+|faint|p2a: Swampert
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641761525
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|17
+|
+|t:|1641761530
+|switch|p1a: Tapu Fini|Tapu Fini|20/100
+|-damage|p1a: Tapu Fini|7/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Zapdos|Discharge|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641761541
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|18
+|
+|t:|1641761551
+|move|p1a: Tapu Lele|Focus Blast|p2a: Zapdos|[miss]
+|-miss|p1a: Tapu Lele|p2a: Zapdos
+|move|p2a: Zapdos|Discharge|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|54/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641761555
+|switch|p1a: Magnezone|Magnezone|80/100
+|-damage|p1a: Magnezone|74/100|[from] Stealth Rock
+|move|p2a: Zapdos|Discharge|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|56/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641761559
+|move|p2a: Zapdos|Discharge|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|36/100
+|move|p1a: Magnezone|Toxic|p2a: Zapdos|[miss]
+|-miss|p1a: Magnezone|p2a: Zapdos
+|
+|upkeep
+|turn|21
+|
+|t:|1641761562
+|move|p2a: Zapdos|Discharge|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|16/100
+|move|p1a: Magnezone|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-damage|p2a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641761571
+|move|p2a: Zapdos|Discharge|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-crit|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|-damage|p2a: Zapdos|82/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641761576
+|switch|p1a: Tapu Lele|Tapu Lele|54/100
+|-damage|p1a: Tapu Lele|41/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|23
+|
+|t:|1641761580
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Tapu Lele|Focus Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|3/100
+|
+|-heal|p2a: Ferrothorn|9/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641761586
+|move|p1a: Tapu Lele|Focus Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641761588
+|switch|p2a: Eagle|Tapu Koko|100/100
+|-damage|p2a: Eagle|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Eagle
+|turn|25
+|
+|t:|1641761592
+|move|p2a: Eagle|Thunderbolt|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641761594
+|switch|p1a: Kartana|Kartana|94/100
+|-damage|p1a: Kartana|88/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641761599
+|switch|p2a: Zapdos|Zapdos|82/100 tox
+|move|p1a: Kartana|Smart Strike|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|64/100 tox
+|
+|-damage|p2a: Zapdos|58/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641761607
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-damage|p1a: Hawlucha|88/100|[from] Stealth Rock
+|move|p2a: Zapdos|Discharge|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|9/100
+|-status|p1a: Hawlucha|par
+|
+|-damage|p2a: Zapdos|46/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641761615
+|move|p2a: Zapdos|Discharge|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-damage|p2a: Zapdos|28/100 tox|[from] psn
+|upkeep
+|
+|t:|1641761617
+|switch|p1a: Kartana|Kartana|88/100
+|-damage|p1a: Kartana|82/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641761621
+|move|p1a: Kartana|Leaf Blade|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|4/100 tox
+|move|p2a: Zapdos|Discharge|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|28/100
+|
+|-damage|p2a: Zapdos|0 fnt|[from] psn
+|faint|p2a: Zapdos
+|upkeep
+|
+|t:|1641761627
+|switch|p2a: Voltsail|Raichu-Alola, F, shiny|100/100
+|-damage|p2a: Voltsail|88/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641761630
+|move|p2a: Voltsail|Rising Voltage|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|-damage|p2a: Voltsail|78/100|[from] item: Life Orb
+|
+|win|Coach from L4D2
+|raw|superstar's rating: 1459 &rarr; <strong>1447</strong><br />(-12 for losing)
+|raw|Coach from L4D2's rating: 1616 &rarr; <strong>1628</strong><br />(+12 for winning)
+|c|☆superstar|GG
+|l|☆superstar
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

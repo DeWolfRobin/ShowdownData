@@ -1,0 +1,132 @@
+|j|☆GoldenBoy6125
+|j|☆stain009
+|t:|1641804955
+|gametype|singles
+|player|p1|GoldenBoy6125|101|1110
+|player|p2|stain009|101|1100
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Lucario, M|
+|poke|p1|Hippowdon, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Corviknight, M|
+|poke|p2|Goodra, M|
+|poke|p2|Melmetal|
+|poke|p2|Zapdos|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Victini|
+|poke|p2|Gyarados, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by stain009)
+|
+|t:|1641804981
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641804990
+|move|p2a: Ninetales|Aurora Veil||[still]
+|-fail|p2a: Ninetales
+|move|p1a: Hippowdon|Stealth Rock|p2a: Ninetales
+|-sidestart|p2: stain009|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ninetales|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641804996
+|move|p2a: Ninetales|Encore|p1a: Hippowdon
+|-start|p1a: Hippowdon|Encore
+|move|p1a: Hippowdon|Stealth Rock||[still]
+|-fail|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ninetales|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641805006
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|-damage|p2a: Gyarados|76/100|[from] Stealth Rock
+|switch|p1a: Corviknight|Corviknight, M, shiny|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gyarados|69/100|[from] Sandstorm
+|-heal|p2a: Gyarados|76/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641805018
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Corviknight|Iron Head|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-crit|p2a: Gyarados
+|-damage|p2a: Gyarados|52/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gyarados|46/100|[from] Sandstorm
+|-heal|p2a: Gyarados|52/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641805029
+|move|p2a: Gyarados|Waterfall|p1a: Corviknight
+|-damage|p1a: Corviknight|51/100
+|move|p1a: Corviknight|U-turn|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-damage|p2a: Gyarados|43/100
+|
+|t:|1641805035
+|switch|p1a: Ferrothorn|Ferrothorn, M, shiny|100/100|[from]move: U-turn
+|
+|-weather|none
+|-heal|p2a: Gyarados|49/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641805043
+|move|p2a: Gyarados|Crunch|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|69/100
+|-damage|p2a: Gyarados|36/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Gyarados|20/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Gyarados
+|-start|p2a: Gyarados|move: Leech Seed
+|
+|-heal|p2a: Gyarados|26/100|[from] item: Leftovers
+|-damage|p2a: Gyarados|14/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|84/100|[silent]
+|upkeep
+|turn|7
+|l|☆stain009
+|inactive|stain009 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|stain009 has 30 seconds to reconnect!
+|inactive|stain009 has 20 seconds to reconnect!
+|inactive|stain009 has 15 seconds to reconnect!
+|inactive|stain009 has 10 seconds to reconnect!
+|n|!GoldenBoy6125|goldenboy6125
+|inactive|stain009 has 5 seconds to reconnect!
+|-message|stain009 lost due to inactivity.
+|
+|win|GoldenBoy6125
+|raw|GoldenBoy6125's rating: 1110 &rarr; <strong>1134</strong><br />(+24 for winning)
+|raw|stain009's rating: 1100 &rarr; <strong>1076</strong><br />(-24 for losing)

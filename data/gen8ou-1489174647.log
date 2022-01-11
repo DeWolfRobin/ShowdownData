@@ -1,0 +1,673 @@
+|j|☆LowSpecGuy
+|j|☆pleumboiboi
+|t:|1641866605
+|gametype|singles
+|player|p1|LowSpecGuy|burgh|1331
+|player|p2|pleumboiboi|bellelba|1319
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Mew|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Corsola-Galar, M|
+|poke|p1|Avalugg, M|
+|poke|p1|Quagsire, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Tapu Fini|
+|poke|p2|Rillaboom, M|
+|poke|p2|Dragapult, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pleumboiboi)
+|inactive|LowSpecGuy also wants the timer to be on.
+|c|☆pleumboiboi|oh crap
+|c|☆pleumboiboi|here we go
+|c|☆pleumboiboi|glhf
+|c|☆LowSpecGuy|u2
+|inactive|LowSpecGuy has 120 seconds left.
+|
+|t:|1641866641
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1641866652
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tapu Fini|Trick|p1a: Blissey
+|-activate|p2a: Tapu Fini|move: Trick|[of] p1a: Blissey
+|-item|p1a: Blissey|Choice Scarf|[from] move: Trick
+|-item|p2a: Tapu Fini|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1641866663
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Blissey|Toxic|p2a: Tapu Lele
+|-status|p2a: Tapu Lele|tox
+|
+|-damage|p2a: Tapu Lele|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641866673
+|switch|p1a: Mew|Mew|100/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Mew
+|-resisted|p1a: Mew
+|-damage|p1a: Mew|68/100
+|
+|-heal|p1a: Mew|74/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|82/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641866682
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|100/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|upkeep
+|turn|5
+|
+|t:|1641866691
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641866698
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Blissey|Toxic|p2a: Volcarona
+|-activate|p2a: Volcarona|move: Misty Terrain
+|
+|upkeep
+|turn|7
+|inactive|LowSpecGuy has 120 seconds left.
+|
+|t:|1641866728
+|switch|p1a: Quagsire|Quagsire, F|100/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|8
+|c|☆pleumboiboi|Quagsire Unaware?
+|
+|t:|1641866736
+|move|p2a: Volcarona|Psychic|p1a: Quagsire
+|-damage|p1a: Quagsire|55/100
+|-unboost|p1a: Quagsire|spd|1
+|move|p1a: Quagsire|Aqua Tail|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|17/100
+|
+|-heal|p1a: Quagsire|61/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|9
+|
+|t:|1641866746
+|move|p2a: Volcarona|Psychic|p1a: Quagsire
+|-damage|p1a: Quagsire|0 fnt
+|faint|p1a: Quagsire
+|
+|upkeep
+|inactive|LowSpecGuy has 120 seconds left.
+|
+|t:|1641866763
+|switch|p1a: Blissey|Blissey, F|100/100
+|turn|10
+|
+|t:|1641866769
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Blissey|Seismic Toss|p2a: Rillaboom
+|-damage|p2a: Rillaboom|71/100
+|
+|-heal|p2a: Rillaboom|77/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641866780
+|switch|p1a: Avalugg|Avalugg, M|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Avalugg
+|-damage|p1a: Avalugg|81/100
+|-enditem|p1a: Avalugg|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|-damage|p2a: Rillaboom|67/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|74/100|[from] Grassy Terrain
+|-heal|p1a: Avalugg|87/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641866793
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-fail|p1a: Avalugg|unboost|Attack|[from] ability: Own Tempo|[of] p1a: Avalugg
+|move|p1a: Avalugg|Body Press|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|79/100
+|
+|-heal|p2a: Landorus|85/100|[from] item: Leftovers
+|-heal|p1a: Avalugg|93/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641866805
+|move|p2a: Landorus|U-turn|p1a: Avalugg
+|-damage|p1a: Avalugg|82/100
+|
+|t:|1641866813
+|switch|p2a: Tapu Fini|Tapu Fini|100/100|[from]move: U-turn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Avalugg|Avalanche|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|91/100
+|
+|-heal|p2a: Tapu Fini|97/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641866829
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tapu Fini|Surf|p1a: Blissey
+|-damage|p1a: Blissey|89/100
+|
+|-heal|p2a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641866837
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|16
+|
+|t:|1641866849
+|switch|p1a: Mew|Mew|100/100
+|move|p2a: Dragapult|U-turn|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|64/100
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|
+|t:|1641866864
+|switch|p2a: Rillaboom|Rillaboom, M|74/100|[from]move: U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|80/100|[from] Grassy Terrain
+|-heal|p1a: Mew|71/100|[from] Grassy Terrain
+|-heal|p1a: Mew|77/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641866880
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|73/100
+|-damage|p2a: Rillaboom|67/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|-damage|p2a: Rillaboom|57/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|64/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|79/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1641866891
+|move|p2a: Rillaboom|Superpower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|9/100
+|-unboost|p2a: Rillaboom|atk|1
+|-unboost|p2a: Rillaboom|def|1
+|-damage|p2a: Rillaboom|51/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|41/100|[from] item: Life Orb
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Rillaboom
+|-sidestart|p2: pleumboiboi|move: Stealth Rock
+|
+|-heal|p2a: Rillaboom|47/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|15/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1641866907
+|switch|p1a: Corsola|Corsola-Galar, M|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Corsola
+|-supereffective|p1a: Corsola
+|-damage|p1a: Corsola|67/100
+|-enditem|p1a: Corsola|Eviolite|[from] move: Knock Off|[of] p2a: Rillaboom
+|-damage|p2a: Rillaboom|37/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|44/100|[from] Grassy Terrain
+|-heal|p1a: Corsola|74/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1641866921
+|move|p2a: Rillaboom|Knock Off|p1a: Corsola
+|-supereffective|p1a: Corsola
+|-damage|p1a: Corsola|39/100
+|-start|p2a: Rillaboom|Disable|Knock Off|[from] ability: Cursed Body|[of] p1a: Corsola
+|-damage|p2a: Rillaboom|34/100|[from] item: Life Orb
+|move|p1a: Corsola|Strength Sap|p2a: Rillaboom
+|-unboost|p2a: Rillaboom|atk|1
+|-heal|p1a: Corsola|100/100
+|
+|-heal|p2a: Rillaboom|40/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1641866937
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Corsola|Substitute|p1a: Corsola
+|-start|p1a: Corsola|Substitute
+|-damage|p1a: Corsola|76/100
+|
+|-heal|p2a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641866946
+|move|p2a: Tapu Fini|Surf|p1a: Corsola
+|-end|p1a: Corsola|Substitute
+|move|p1a: Corsola|Night Shade|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|64/100
+|
+|-heal|p2a: Tapu Fini|71/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641866960
+|switch|p1a: Blissey|Blissey, F|89/100
+|move|p2a: Tapu Fini|Surf|p1a: Blissey
+|-damage|p1a: Blissey|79/100
+|
+|-heal|p2a: Tapu Fini|77/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641866968
+|switch|p2a: Landorus|Landorus-Therian, M|85/100
+|-damage|p2a: Landorus|72/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blissey|atk|1
+|move|p1a: Blissey|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-heal|p2a: Landorus|78/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|72/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641866981
+|switch|p1a: Avalugg|Avalugg, M|82/100
+|move|p2a: Landorus|Earthquake|p1a: Avalugg
+|-damage|p1a: Avalugg|58/100
+|
+|-heal|p2a: Landorus|78/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|66/100 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|26
+|
+|t:|1641866991
+|move|p2a: Landorus|U-turn|p1a: Avalugg
+|-damage|p1a: Avalugg|48/100
+|
+|t:|1641866996
+|switch|p2a: Tapu Fini|Tapu Fini|77/100|[from]move: U-turn
+|-damage|p2a: Tapu Fini|64/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Avalugg|Recover|p1a: Avalugg
+|-heal|p1a: Avalugg|98/100
+|
+|-heal|p2a: Tapu Fini|71/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641867008
+|switch|p1a: Blissey|Blissey, F|79/100
+|move|p2a: Tapu Fini|Defog|p1a: Blissey
+|-unboost|p1a: Blissey|evasion|1
+|-sideend|p2: pleumboiboi|Stealth Rock|[from] move: Defog|[of] p2a: Tapu Fini
+|-fieldend|Misty Terrain
+|
+|-heal|p2a: Tapu Fini|77/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641867020
+|switch|p2a: Rillaboom|Rillaboom, M|40/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Blissey|Toxic|p2a: Rillaboom
+|-status|p2a: Rillaboom|tox
+|
+|-heal|p2a: Rillaboom|46/100 tox|[from] Grassy Terrain
+|-heal|p1a: Blissey|85/100|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|40/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641867032
+|switch|p1a: Corsola|Corsola-Galar, M|76/100
+|move|p2a: Rillaboom|Superpower|p1a: Corsola
+|-immune|p1a: Corsola
+|
+|-heal|p2a: Rillaboom|46/100 tox|[from] Grassy Terrain
+|-heal|p1a: Corsola|82/100|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|34/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641867043
+|move|p2a: Rillaboom|Knock Off|p1a: Corsola
+|-supereffective|p1a: Corsola
+|-damage|p1a: Corsola|33/100
+|-damage|p2a: Rillaboom|24/100 tox|[from] item: Life Orb
+|move|p1a: Corsola|Strength Sap|p2a: Rillaboom
+|-unboost|p2a: Rillaboom|atk|1
+|-heal|p1a: Corsola|100/100
+|
+|-heal|p2a: Rillaboom|30/100 tox|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|11/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641867054
+|move|p2a: Rillaboom|Knock Off|p1a: Corsola
+|-supereffective|p1a: Corsola
+|-damage|p1a: Corsola|70/100
+|-damage|p2a: Rillaboom|1/100 tox|[from] item: Life Orb
+|move|p1a: Corsola|Substitute|p1a: Corsola
+|-start|p1a: Corsola|Substitute
+|-damage|p1a: Corsola|45/100
+|
+|-heal|p2a: Rillaboom|8/100 tox|[from] Grassy Terrain
+|-heal|p1a: Corsola|51/100|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|0 fnt|[from] psn
+|faint|p2a: Rillaboom
+|upkeep
+|
+|t:|1641867061
+|switch|p2a: Volcarona|Volcarona, M|17/100
+|turn|32
+|
+|t:|1641867069
+|move|p2a: Volcarona|Flamethrower|p1a: Corsola
+|-end|p1a: Corsola|Substitute
+|move|p1a: Corsola|Night Shade|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|-heal|p1a: Corsola|57/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641867072
+|switch|p2a: Dragapult|Dragapult, F|91/100
+|turn|33
+|
+|t:|1641867080
+|switch|p1a: Blissey|Blissey, F|85/100
+|move|p2a: Dragapult|Thunder Wave|p1a: Blissey
+|-status|p1a: Blissey|par
+|
+|upkeep
+|turn|34
+|
+|t:|1641867087
+|move|p2a: Dragapult|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|41/100 par
+|-damage|p2a: Dragapult|81/100|[from] item: Life Orb
+|
+|t:|1641867092
+|switch|p2a: Landorus|Landorus-Therian, M|66/100 tox|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blissey|atk|1
+|move|p1a: Blissey|Toxic|p2a: Landorus
+|-fail|p2a: Landorus|tox
+|
+|-heal|p2a: Landorus|72/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|66/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641867105
+|-curestatus|p1a: Blissey|par|[from] ability: Natural Cure
+|switch|p1a: Avalugg|Avalugg, M|98/100
+|move|p2a: Landorus|Earthquake|p1a: Avalugg
+|-damage|p1a: Avalugg|75/100
+|
+|-heal|p2a: Landorus|72/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|60/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641867115
+|move|p2a: Landorus|Stealth Rock|p1a: Avalugg
+|-sidestart|p1: LowSpecGuy|move: Stealth Rock
+|move|p1a: Avalugg|Avalanche|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641867120
+|switch|p2a: Dragapult|Dragapult, F|81/100
+|turn|37
+|
+|t:|1641867134
+|switch|p1a: Ferrothorn|Ferrothorn, F|15/100
+|-damage|p1a: Ferrothorn|9/100|[from] Stealth Rock
+|move|p2a: Dragapult|Draco Meteor|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Ferrothorn
+|-damage|p2a: Dragapult|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641867149
+|switch|p1a: Corsola|Corsola-Galar, M|57/100
+|-damage|p1a: Corsola|45/100|[from] Stealth Rock
+|turn|38
+|
+|t:|1641867153
+|move|p2a: Dragapult|Thunder Wave|p1a: Corsola
+|-status|p1a: Corsola|par
+|move|p1a: Corsola|Strength Sap|p2a: Dragapult
+|-unboost|p2a: Dragapult|atk|1
+|-heal|p1a: Corsola|100/100 par
+|
+|upkeep
+|turn|39
+|
+|t:|1641867161
+|move|p2a: Dragapult|U-turn|p1a: Corsola
+|-resisted|p1a: Corsola
+|-damage|p1a: Corsola|95/100 par
+|-damage|p2a: Dragapult|61/100|[from] item: Life Orb
+|
+|t:|1641867164
+|switch|p2a: Tapu Lele|Tapu Lele|82/100 tox|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Corsola|Substitute|p1a: Corsola
+|-start|p1a: Corsola|Substitute
+|-damage|p1a: Corsola|70/100 par
+|
+|-damage|p2a: Tapu Lele|76/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641867173
+|move|p2a: Tapu Lele|Psyshock|p1a: Corsola
+|-end|p1a: Corsola|Substitute
+|cant|p1a: Corsola|par
+|
+|-damage|p2a: Tapu Lele|64/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1641867181
+|switch|p1a: Mew|Mew|77/100
+|-damage|p1a: Mew|64/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Psyshock|p1a: Mew
+|-resisted|p1a: Mew
+|-damage|p1a: Mew|30/100
+|
+|-heal|p1a: Mew|36/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|46/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641867190
+|move|p2a: Tapu Lele|Psyshock|p1a: Mew
+|-resisted|p1a: Mew
+|-damage|p1a: Mew|5/100
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|55/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|-heal|p1a: Mew|61/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|22/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1641867199
+|switch|p2a: Dragapult|Dragapult, F|61/100
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|100/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|44
+|
+|t:|1641867205
+|move|p2a: Dragapult|Thunder Wave|p1a: Mew|[miss]
+|-miss|p2a: Dragapult|p1a: Mew
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|
+|upkeep
+|turn|45
+|
+|t:|1641867212
+|move|p2a: Dragapult|Thunder Wave|p1a: Mew
+|-status|p1a: Mew|par
+|-activate|p1a: Mew|ability: Synchronize
+|-status|p2a: Dragapult|par
+|cant|p1a: Mew|par
+|
+|upkeep
+|turn|46
+|
+|t:|1641867219
+|move|p2a: Dragapult|Hex|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|41/100 par
+|-damage|p2a: Dragapult|52/100 par|[from] item: Life Orb
+|cant|p1a: Mew|par
+|
+|-heal|p1a: Mew|47/100 par|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1641867227
+|move|p2a: Dragapult|Hex|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|-damage|p2a: Dragapult|42/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641867236
+|switch|p1a: Avalugg|Avalugg, M|75/100
+|-damage|p1a: Avalugg|50/100|[from] Stealth Rock
+|turn|48
+|
+|t:|1641867242
+|move|p2a: Dragapult|Draco Meteor|p1a: Avalugg
+|-damage|p1a: Avalugg|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Avalugg
+|-damage|p2a: Dragapult|32/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641867255
+|switch|p1a: Corsola|Corsola-Galar, M|70/100 par
+|-damage|p1a: Corsola|57/100 par|[from] Stealth Rock
+|turn|49
+|
+|t:|1641867262
+|move|p2a: Dragapult|U-turn|p1a: Corsola
+|-resisted|p1a: Corsola
+|-damage|p1a: Corsola|49/100 par
+|-start|p2a: Dragapult|Disable|U-turn|[from] ability: Cursed Body|[of] p1a: Corsola
+|-damage|p2a: Dragapult|22/100 par|[from] item: Life Orb
+|
+|t:|1641867266
+|switch|p2a: Tapu Lele|Tapu Lele|22/100 tox|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|cant|p1a: Corsola|par
+|
+|-damage|p2a: Tapu Lele|16/100 tox|[from] psn
+|upkeep
+|turn|50
+|c|☆LowSpecGuy|...
+|
+|t:|1641867276
+|move|p2a: Tapu Lele|Psyshock|p1a: Corsola
+|-damage|p1a: Corsola|0 fnt
+|faint|p1a: Corsola
+|
+|-damage|p2a: Tapu Lele|4/100 tox|[from] psn
+|upkeep
+|
+|t:|1641867282
+|switch|p1a: Blissey|Blissey, F|41/100
+|-damage|p1a: Blissey|29/100|[from] Stealth Rock
+|turn|51
+|
+|t:|1641867287
+|move|p2a: Tapu Lele|Psyshock|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|win|pleumboiboi
+|raw|LowSpecGuy's rating: 1331 &rarr; <strong>1310</strong><br />(-21 for losing)
+|raw|pleumboiboi's rating: 1319 &rarr; <strong>1340</strong><br />(+21 for winning)
+|c|☆pleumboiboi|gg
+|l|☆LowSpecGuy

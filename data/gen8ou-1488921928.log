@@ -1,0 +1,297 @@
+|j|☆tatsimu
+|j|☆Trainer_Cab
+|t:|1641836879
+|gametype|singles
+|player|p1|tatsimu|benga|1259
+|player|p2|Trainer_Cab|169|1283
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Crawdaunt, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Barraskewda, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Pelipper, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Lanturn, M|
+|poke|p2|Machamp, M|
+|poke|p2|Blacephalon|
+|poke|p2|Espeon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Trainer_Cab)
+|
+|t:|1641836893
+|start
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|100/100
+|switch|p2a: Machamp|Machamp, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|
+|t:|1641836901
+|move|p1a: Tapu Koko|U-turn|p2a: Machamp
+|-resisted|p2a: Machamp
+|-damage|p2a: Machamp|91/100
+|
+|t:|1641836904
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100|[from]move: U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Machamp|atk|1
+|move|p2a: Machamp|Poison Jab|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|91/100
+|-status|p1a: Landorus|psn
+|
+|-heal|p1a: Landorus|97/100 psn|[from] item: Leftovers
+|-damage|p1a: Landorus|85/100 psn|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641836918
+|switch|p2a: Espeon|Espeon, M|100/100
+|move|p1a: Landorus|U-turn|p2a: Espeon
+|-supereffective|p2a: Espeon
+|-damage|p2a: Espeon|13/100
+|
+|t:|1641836931
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|100/100|[from]move: U-turn
+|
+|-heal|p2a: Espeon|19/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641836940
+|move|p1a: Barraskewda|Flip Turn|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|
+|t:|1641836948
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|100/100|[from]move: Flip Turn
+|
+|upkeep
+|
+|t:|1641836958
+|switch|p2a: Lanturn|Lanturn, M|100/100
+|turn|4
+|
+|t:|1641836968
+|move|p1a: Tapu Koko|Grass Knot|p2a: Lanturn
+|-supereffective|p2a: Lanturn
+|-crit|p2a: Lanturn
+|-damage|p2a: Lanturn|49/100
+|move|p2a: Lanturn|Toxic|p1a: Tapu Koko
+|-status|p1a: Tapu Koko|tox
+|
+|-heal|p2a: Lanturn|55/100|[from] item: Leftovers
+|-damage|p1a: Tapu Koko|94/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641836980
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|85/100 psn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Lanturn|atk|1
+|move|p2a: Lanturn|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|38/100 psn
+|
+|-heal|p1a: Landorus|44/100 psn|[from] item: Leftovers
+|-heal|p2a: Lanturn|61/100|[from] item: Leftovers
+|-damage|p1a: Landorus|31/100 psn|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641836995
+|move|p1a: Landorus|Stealth Rock|p2a: Lanturn
+|-sidestart|p2: Trainer_Cab|move: Stealth Rock
+|move|p2a: Lanturn|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-heal|p2a: Lanturn|67/100|[from] item: Leftovers
+|upkeep
+|inactive|tatsimu has 120 seconds left.
+|
+|t:|1641837025
+|switch|p1a: Pelipper|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|7
+|
+|t:|1641837030
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|94/100 tox
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Lanturn|Volt Switch|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|75/100 tox
+|
+|t:|1641837042
+|switch|p2a: Bisharp|Bisharp, M|100/100|[from]move: Volt Switch
+|-damage|p2a: Bisharp|95/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Tapu Koko|69/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641837050
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Bisharp
+|-damage|p2a: Bisharp|14/100
+|move|p2a: Bisharp|Knock Off|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|33/100 tox
+|-enditem|p1a: Tapu Koko|Choice Specs|[from] move: Knock Off|[of] p2a: Bisharp
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Tapu Koko|21/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641837060
+|move|p2a: Bisharp|Sucker Punch|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641837067
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|100/100
+|turn|10
+|
+|t:|1641837071
+|move|p2a: Bisharp|Sucker Punch|p1a: Barraskewda
+|-damage|p1a: Barraskewda|37/100
+|move|p1a: Barraskewda|Flip Turn|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|t:|1641837079
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641837085
+|switch|p2a: Lanturn|Lanturn, M|67/100
+|-damage|p2a: Lanturn|55/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641837093
+|move|p1a: Urshifu|Close Combat|p2a: Lanturn
+|-damage|p2a: Lanturn|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Lanturn
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641837108
+|switch|p2a: Machamp|Machamp, M|91/100
+|-damage|p2a: Machamp|85/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641837115
+|move|p1a: Urshifu|Close Combat|p2a: Machamp
+|-damage|p2a: Machamp|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Machamp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641837123
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641837127
+|switch|p1a: Pelipper|Pelipper, F, shiny|100/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641837136
+|move|p2a: Dragonite|Thunder Punch|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|none
+|upkeep
+|
+|t:|1641837147
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|15
+|
+|t:|1641837151
+|move|p1a: Urshifu|Aqua Jet|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|57/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641837158
+|move|p1a: Urshifu|Aqua Jet|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|41/100
+|move|p2a: Dragonite|Thunder Punch|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641837164
+|switch|p1a: Crawdaunt|Crawdaunt, M, shiny|100/100
+|turn|17
+|
+|t:|1641837169
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|20/100
+|-damage|p1a: Crawdaunt|91/100|[from] item: Life Orb
+|move|p2a: Dragonite|Thunder Punch|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1641837173
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|37/100
+|turn|18
+|
+|t:|1641837181
+|move|p2a: Dragonite|Thunder Punch|p1a: Barraskewda
+|-supereffective|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|win|Trainer_Cab
+|raw|tatsimu's rating: 1259 &rarr; <strong>1236</strong><br />(-23 for losing)
+|raw|Trainer_Cab's rating: 1283 &rarr; <strong>1306</strong><br />(+23 for winning)

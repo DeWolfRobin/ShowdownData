@@ -1,0 +1,210 @@
+|j|☆tianyutulongwu
+|j|☆sl21cc jialing
+|t:|1641741179
+|gametype|singles
+|player|p1|tianyutulongwu|feida.png|1225
+|player|p2|sl21cc jialing|bellelba|1286
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Heatran, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Cloyster, F|
+|poke|p1|Scizor, F|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Arctozolt|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|j| adreamew
+|j| water GH0ST
+|j| jingtianlangtaosha
+|j| 9skythunderouskick
+|
+|t:|1641741195
+|start
+|switch|p1a: Heatran|Heatran, F|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|1
+|
+|t:|1641741200
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|74/100
+|-damage|p2a: Urshifu|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|43/100
+|-damage|p2a: Urshifu|76/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|11/100
+|-damage|p2a: Urshifu|64/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-hitcount|p1a: Garchomp|3
+|
+|-heal|p1a: Garchomp|18/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|j|♚aro nova
+|
+|t:|1641741217
+|move|p1a: Garchomp|Earthquake|p2a: Urshifu
+|-damage|p2a: Urshifu|11/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Urshifu|0 fnt|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|faint|p2a: Urshifu
+|-hitcount|p1: Garchomp|1
+|
+|upkeep
+|j| SL21CC tangkeke
+|
+|t:|1641741229
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ninetales|atk|1
+|turn|3
+|
+|t:|1641741234
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: tianyutulongwu|move: Aurora Veil
+|move|p2a: Landorus|U-turn|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|94/100
+|j|♚The Steel Shadow
+|
+|t:|1641741242
+|switch|p2a: Arctozolt|Arctozolt|100/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641741248
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Arctozolt|Substitute|p2a: Arctozolt
+|-start|p2a: Arctozolt|Substitute
+|-damage|p2a: Arctozolt|76/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|94/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641741254
+|move|p2a: Arctozolt|Bolt Beak|p1a: Heatran
+|-damage|p1a: Heatran|63/100
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Stealth Rock|p2a: Arctozolt
+|-sidestart|p2: sl21cc jialing|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|56/100|[from] Hail
+|upkeep
+|turn|6
+|
+|t:|1641741260
+|move|p2a: Arctozolt|Bolt Beak|p1a: Heatran
+|-damage|p1a: Heatran|25/100
+|move|p1a: Heatran|Earth Power|p2a: Arctozolt
+|-supereffective|p2a: Arctozolt
+|-end|p2a: Arctozolt|Substitute
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|19/100|[from] Hail
+|upkeep
+|turn|7
+|
+|t:|1641741265
+|move|p2a: Arctozolt|Bolt Beak|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|none
+|upkeep
+|
+|t:|1641741285
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|8
+|
+|t:|1641741298
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scizor|atk|1
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641741301
+|move|p2a: Landorus|Defog|p1a: Scizor
+|-unboost|p1a: Scizor|evasion|1
+|-sideend|p1: tianyutulongwu|move: Aurora Veil
+|-sideend|p2: sl21cc jialing|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-heal|p2a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641741308
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1641741311
+|switch|p2a: Landorus|Landorus-Therian, M|99/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scizor|atk|1
+|move|p1a: Scizor|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641741314
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|12
+|
+|t:|1641741317
+|move|p1a: Scizor|Bullet Punch|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|-message|sl21cc jialing forfeited.
+|
+|win|tianyutulongwu
+|raw|tianyutulongwu's rating: 1225 &rarr; <strong>1243</strong><br />(+18 for winning)
+|raw|sl21cc jialing's rating: 1286 &rarr; <strong>1268</strong><br />(-18 for losing)
+|l|☆sl21cc jialing
+|l| jingtianlangtaosha
+|l| water GH0ST
+|l| SL21CC tangkeke

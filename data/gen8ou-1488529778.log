@@ -1,0 +1,1521 @@
+|j|☆SirDannyDevitoII
+|j|☆RaccZilla
+|t:|1641777573
+|gametype|singles
+|player|p1|SirDannyDevitoII|1|
+|player|p2|RaccZilla|teamrocket|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Talonflame, M|
+|poke|p1|Abomasnow, M|
+|poke|p1|Slowking, M|
+|poke|p1|Nihilego|
+|poke|p1|Hitmontop, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Magnezone|
+|poke|p2|Salamence, M|
+|poke|p2|Sylveon, F|
+|poke|p2|Miltank, F|
+|poke|p2|Rhydon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RaccZilla)
+|c|☆RaccZilla|hf!
+|j| KirbyGriffin
+|c|☆SirDannyDevitoII|yep, u2!
+|inactive|SirDannyDevitoII has 270 seconds left.
+|inactive|RaccZilla has 270 seconds left.
+|inactive|SirDannyDevitoII has 240 seconds left.
+|inactive|RaccZilla has 240 seconds left.
+|
+|t:|1641777645
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Fat Lip|Miltank, F|100/100
+|turn|1
+|inactive|RaccZilla has 270 seconds left.
+|inactive|SirDannyDevitoII has 270 seconds left.
+|
+|t:|1641777685
+|move|p1a: Kartana|Sacred Sword|p2a: Fat Lip
+|-supereffective|p2a: Fat Lip
+|-enditem|p2a: Fat Lip|Chople Berry|[eat]
+|-enditem|p2a: Fat Lip|Chople Berry|[weaken]
+|-damage|p2a: Fat Lip|50/100
+|move|p2a: Fat Lip|Thunder Wave|p1a: Kartana
+|-status|p1a: Kartana|par
+|
+|upkeep
+|turn|2
+|inactive|RaccZilla has 270 seconds left.
+|inactive|SirDannyDevitoII has 270 seconds left.
+|c|☆SirDannyDevitoII|damn, nice move
+|
+|t:|1641777697
+|switch|p2a: Kyoto Now!|Salamence, M|100/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|move|p1a: Kartana|Sacred Sword|p2a: Kyoto Now!
+|-resisted|p2a: Kyoto Now!
+|-damage|p2a: Kyoto Now!|87/100
+|
+|upkeep
+|turn|3
+|inactive|SirDannyDevitoII has 270 seconds left.
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641777714
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Kyoto Now!|Wish|p2a: Kyoto Now!
+|
+|upkeep
+|turn|4
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641777726
+|switch|p2a: Fat Lip|Miltank, F|50/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|inactive|SirDannyDevitoII has 270 seconds left.
+|inactive|SirDannyDevitoII has 240 seconds left.
+|
+|t:|1641777775
+|switch|p1a: Kartana|Kartana|100/100 par|[from]move: Teleport
+|
+|-heal|p2a: Fat Lip|100/100|[from] move: Wish|[wisher] Kyoto Now!
+|upkeep
+|turn|5
+|inactive|SirDannyDevitoII has 240 seconds left.
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641777794
+|move|p2a: Fat Lip|Fire Punch|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|45/100 par
+|move|p1a: Kartana|Knock Off|p2a: Fat Lip
+|-damage|p2a: Fat Lip|68/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641777801
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Fat Lip|Fire Punch|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|93/100
+|
+|-heal|p1a: Slowking|99/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641777811
+|switch|p1a: Kartana|Kartana|45/100 par
+|move|p2a: Fat Lip|Thunder Wave|p1a: Kartana
+|-fail|p1a: Kartana|par
+|
+|upkeep
+|turn|8
+|
+|t:|1641777817
+|move|p2a: Fat Lip|Fire Punch|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641777830
+|switch|p1a: Nihilego|Nihilego|100/100
+|turn|9
+|
+|t:|1641777855
+|switch|p1a: Obamasnow|Abomasnow, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Obamasnow
+|switch|p2a: Radio Radio!|Magnezone|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Radio Radio!|94/100|[from] Hail
+|upkeep
+|turn|10
+|inactive|RaccZilla has 270 seconds left.
+|inactive|RaccZilla has 240 seconds left.
+|
+|t:|1641777915
+|switch|p2a: Heathens|Sylveon, F, shiny|100/100
+|move|p1a: Obamasnow|Earth Power|p2a: Heathens
+|-damage|p2a: Heathens|87/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|81/100|[from] Hail
+|-heal|p2a: Heathens|87/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641777926
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Heathens|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|78/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|81/100|[from] Hail
+|-damage|p1a: Slowking|72/100|[from] Hail
+|-heal|p2a: Heathens|87/100|[from] item: Leftovers
+|-heal|p1a: Slowking|78/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641777936
+|move|p2a: Heathens|Wish|p2a: Heathens
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641777938
+|switch|p1a: Nihilego|Nihilego|100/100|[from]move: Teleport
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Nihilego|94/100|[from] Hail
+|-damage|p2a: Heathens|81/100|[from] Hail
+|-heal|p2a: Heathens|87/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641777960
+|switch|p1a: Slowking|Slowking, M|100/100
+|switch|p2a: Radio Radio!|Magnezone|94/100
+|
+|-weather|none
+|-heal|p2a: Radio Radio!|100/100|[from] move: Wish|[wisher] Heathens
+|upkeep
+|turn|14
+|
+|t:|1641777975
+|move|p2a: Radio Radio!|Volt Switch|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|65/100
+|
+|t:|1641777986
+|switch|p2a: We Will Rock You|Rhydon, F|100/100|[from]move: Volt Switch
+|move|p1a: Slowking|Scald|p2a: We Will Rock You
+|-supereffective|p2a: We Will Rock You
+|-damage|p2a: We Will Rock You|27/100
+|
+|-heal|p1a: Slowking|71/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|RaccZilla has 240 seconds left.
+|
+|t:|1641778004
+|move|p2a: We Will Rock You|Stealth Rock|p1a: Slowking
+|-sidestart|p1: SirDannyDevitoII|move: Stealth Rock
+|move|p1a: Slowking|Scald|p2a: We Will Rock You
+|-supereffective|p2a: We Will Rock You
+|-damage|p2a: We Will Rock You|0 fnt
+|faint|p2a: We Will Rock You
+|
+|-heal|p1a: Slowking|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641778007
+|switch|p2a: Rat Salad|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|turn|16
+|inactive|RaccZilla has 240 seconds left.
+|inactive|SirDannyDevitoII has 240 seconds left.
+|
+|t:|1641778061
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|move|p2a: Rat Salad|Knock Off|p1a: Talonflame
+|-damage|p1a: Talonflame|44/100
+|-enditem|p1a: Talonflame|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rat Salad
+|
+|upkeep
+|turn|17
+|
+|t:|1641778087
+|switch|p2a: Heathens|Sylveon, F, shiny|87/100
+|move|p1a: Talonflame|Will-O-Wisp|p2a: Heathens
+|-status|p2a: Heathens|brn
+|
+|-heal|p2a: Heathens|93/100 brn|[from] Grassy Terrain
+|-heal|p2a: Heathens|99/100 brn|[from] item: Leftovers
+|-damage|p2a: Heathens|93/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641778098
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|94/100
+|-singleturn|p1a: Talonflame|move: Roost
+|move|p2a: Heathens|Psyshock|p1a: Talonflame
+|-damage|p1a: Talonflame|75/100
+|
+|-heal|p1a: Talonflame|81/100|[from] Grassy Terrain
+|-heal|p2a: Heathens|99/100 brn|[from] Grassy Terrain
+|-heal|p2a: Heathens|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Heathens|94/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641778116
+|move|p1a: Talonflame|Defog|p2a: Heathens
+|-unboost|p2a: Heathens|evasion|1
+|-sideend|p1: SirDannyDevitoII|Stealth Rock|[from] move: Defog|[of] p1a: Talonflame
+|-fieldend|move: Grassy Terrain
+|move|p2a: Heathens|Hyper Voice|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|54/100
+|
+|-heal|p2a: Heathens|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Heathens|94/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641778124
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|100/100
+|-singleturn|p1a: Talonflame|move: Roost
+|move|p2a: Heathens|Hyper Voice|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|72/100
+|
+|-heal|p2a: Heathens|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Heathens|94/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641778147
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Heathens|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|78/100
+|
+|-heal|p2a: Heathens|100/100 brn|[from] item: Leftovers
+|-heal|p1a: Slowking|84/100|[from] item: Leftovers
+|-damage|p2a: Heathens|94/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641778157
+|move|p2a: Heathens|Wish|p2a: Heathens
+|move|p1a: Slowking|Future Sight|p2a: Heathens
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Heathens|100/100 brn|[from] item: Leftovers
+|-heal|p1a: Slowking|90/100|[from] item: Leftovers
+|-damage|p2a: Heathens|94/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641778163
+|switch|p2a: Radio Radio!|Magnezone|100/100
+|move|p1a: Slowking|Scald|p2a: Radio Radio!
+|-damage|p2a: Radio Radio!|68/100
+|
+|-heal|p2a: Radio Radio!|100/100|[from] move: Wish|[wisher] Heathens
+|-heal|p1a: Slowking|96/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641778173
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|52/100
+|move|p1a: Slowking|Scald|p2a: Radio Radio!
+|-damage|p2a: Radio Radio!|69/100
+|
+|-end|p2a: Radio Radio!|move: Future Sight
+|-resisted|p2a: Radio Radio!
+|-damage|p2a: Radio Radio!|45/100
+|-heal|p1a: Slowking|58/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|SirDannyDevitoII has 240 seconds left.
+|
+|t:|1641778197
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|11/100
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|61/100
+|
+|-heal|p1a: Slowking|67/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641778210
+|switch|p1a: Obamasnow|Abomasnow, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Obamasnow
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Obamasnow
+|-resisted|p1a: Obamasnow
+|-damage|p1a: Obamasnow|78/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Radio Radio!|39/100|[from] Hail
+|upkeep
+|turn|27
+|
+|t:|1641778232
+|switch|p1a: Slowking|Slowking, M|99/100
+|switch|p2a: Heathens|Sylveon, F, shiny|94/100 brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|88/100 brn|[from] Hail
+|-damage|p1a: Slowking|94/100|[from] Hail
+|-heal|p2a: Heathens|94/100 brn|[from] item: Leftovers
+|-heal|p1a: Slowking|99/100|[from] item: Leftovers
+|-damage|p2a: Heathens|88/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641778246
+|move|p2a: Heathens|Wish|p2a: Heathens
+|move|p1a: Slowking|Scald|p2a: Heathens
+|-damage|p2a: Heathens|74/100 brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|68/100 brn|[from] Hail
+|-damage|p1a: Slowking|94/100|[from] Hail
+|-heal|p2a: Heathens|74/100 brn|[from] item: Leftovers
+|-heal|p1a: Slowking|99/100|[from] item: Leftovers
+|-damage|p2a: Heathens|68/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641778255
+|move|p2a: Heathens|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|78/100
+|move|p1a: Slowking|Future Sight|p2a: Heathens
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|61/100 brn|[from] Hail
+|-damage|p1a: Slowking|72/100|[from] Hail
+|-heal|p2a: Heathens|100/100 brn|[from] move: Wish|[wisher] Heathens
+|-heal|p1a: Slowking|78/100|[from] item: Leftovers
+|-damage|p2a: Heathens|94/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641778267
+|move|p2a: Heathens|Wish|p2a: Heathens
+|move|p1a: Slowking|Scald|p2a: Heathens
+|-damage|p2a: Heathens|79/100 brn
+|
+|-weather|none
+|-heal|p2a: Heathens|85/100 brn|[from] item: Leftovers
+|-heal|p1a: Slowking|84/100|[from] item: Leftovers
+|-damage|p2a: Heathens|79/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641778281
+|move|p2a: Heathens|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|61/100
+|move|p1a: Slowking|Scald|p2a: Heathens
+|-damage|p2a: Heathens|63/100 brn
+|
+|-end|p2a: Heathens|move: Future Sight
+|-damage|p2a: Heathens|40/100 brn
+|-heal|p2a: Heathens|90/100 brn|[from] move: Wish|[wisher] Heathens
+|-heal|p2a: Heathens|96/100 brn|[from] item: Leftovers
+|-heal|p1a: Slowking|67/100|[from] item: Leftovers
+|-damage|p2a: Heathens|90/100 brn|[from] brn
+|upkeep
+|turn|32
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641778295
+|switch|p2a: Rat Salad|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|move|p1a: Slowking|Future Sight|p2a: Rat Salad
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|73/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|79/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641778308
+|switch|p1a: Talonflame|Talonflame, M|72/100
+|move|p2a: Rat Salad|U-turn|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|63/100
+|
+|t:|1641778311
+|switch|p2a: Fat Lip|Miltank, F|68/100|[from]move: U-turn
+|
+|-heal|p2a: Fat Lip|74/100|[from] Grassy Terrain
+|upkeep
+|turn|34
+|inactive|SirDannyDevitoII has 240 seconds left.
+|inactive|SirDannyDevitoII has 210 seconds left.
+|
+|t:|1641778358
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|100/100
+|-singleturn|p1a: Talonflame|move: Roost
+|move|p2a: Fat Lip|Thunder Wave|p1a: Talonflame
+|-status|p1a: Talonflame|par
+|
+|-end|p2a: Fat Lip|move: Future Sight
+|-damage|p2a: Fat Lip|41/100
+|-heal|p2a: Fat Lip|47/100|[from] Grassy Terrain
+|upkeep
+|turn|35
+|
+|t:|1641778367
+|move|p1a: Talonflame|Brave Bird|p2a: Fat Lip
+|-damage|p2a: Fat Lip|22/100
+|-damage|p1a: Talonflame|91/100 par|[from] Recoil
+|move|p2a: Fat Lip|Milk Drink|p2a: Fat Lip
+|-heal|p2a: Fat Lip|72/100
+|
+|-heal|p2a: Fat Lip|78/100|[from] Grassy Terrain
+|upkeep
+|turn|36
+|inactive|SirDannyDevitoII has 210 seconds left.
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641778414
+|switch|p1a: Hitmontop|Hitmontop, M|100/100
+|move|p2a: Fat Lip|Body Slam|p1a: Hitmontop
+|-damage|p1a: Hitmontop|63/100
+|-status|p1a: Hitmontop|par
+|
+|-heal|p2a: Fat Lip|84/100|[from] Grassy Terrain
+|-heal|p1a: Hitmontop|69/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|37
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641778448
+|switch|p2a: Kyoto Now!|Salamence, M|87/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Hitmontop|atk|1
+|move|p1a: Hitmontop|Toxic|p2a: Kyoto Now!
+|-status|p2a: Kyoto Now!|tox
+|
+|-damage|p2a: Kyoto Now!|80/100 tox|[from] psn
+|upkeep
+|turn|38
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641778463
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Kyoto Now!|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|70/100
+|-unboost|p2a: Kyoto Now!|spa|2
+|
+|-heal|p1a: Slowking|76/100|[from] item: Leftovers
+|-damage|p2a: Kyoto Now!|68/100 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1641778472
+|switch|p2a: Heathens|Sylveon, F, shiny|90/100 brn
+|move|p1a: Slowking|Future Sight|p2a: Heathens
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Heathens|96/100 brn|[from] item: Leftovers
+|-heal|p1a: Slowking|82/100|[from] item: Leftovers
+|-damage|p2a: Heathens|90/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1641778481
+|move|p2a: Heathens|Heal Bell|p2a: Heathens
+|-activate|p2a: Heathens|move: Heal Bell
+|-curestatus|p2a: Heathens|brn|[msg]
+|-curestatus|p2: Kyoto Now!|tox|[msg]
+|move|p1a: Slowking|Scald|p2a: Heathens
+|-damage|p2a: Heathens|74/100
+|
+|-heal|p2a: Heathens|80/100|[from] item: Leftovers
+|-heal|p1a: Slowking|88/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641778492
+|move|p2a: Heathens|Wish|p2a: Heathens
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641778497
+|switch|p1a: Obamasnow|Abomasnow, M|78/100|[from]move: Teleport
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Obamasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|74/100|[from] Hail
+|-end|p2a: Heathens|move: Future Sight
+|-damage|p2a: Heathens|52/100
+|-heal|p2a: Heathens|58/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641778509
+|switch|p2a: Fat Lip|Miltank, F|84/100
+|move|p1a: Obamasnow|Toxic|p2a: Fat Lip
+|-status|p2a: Fat Lip|tox
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Fat Lip|78/100 tox|[from] Hail
+|-heal|p2a: Fat Lip|100/100 tox|[from] move: Wish|[wisher] Heathens
+|-damage|p2a: Fat Lip|94/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1641778526
+|switch|p1a: Talonflame|Talonflame, M|91/100 par
+|move|p2a: Fat Lip|Body Slam|p1a: Talonflame
+|-damage|p1a: Talonflame|66/100 par
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Fat Lip|88/100 tox|[from] Hail
+|-damage|p1a: Talonflame|60/100 par|[from] Hail
+|-damage|p2a: Fat Lip|76/100 tox|[from] psn
+|upkeep
+|turn|44
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641778566
+|switch|p2a: Radio Radio!|Magnezone|39/100
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|100/100 par
+|-singleturn|p1a: Talonflame|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Talonflame|94/100 par|[from] Hail
+|-damage|p2a: Radio Radio!|33/100|[from] Hail
+|upkeep
+|turn|45
+|
+|t:|1641778579
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Radio Radio!|Volt Switch|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641778586
+|switch|p2a: Rat Salad|Rillaboom, M|100/100|[from]move: Volt Switch
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|
+|-weather|none
+|-heal|p1a: Slowking|74/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|80/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1641778595
+|switch|p1a: Talonflame|Talonflame, M|94/100 par
+|move|p2a: Rat Salad|Wood Hammer|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|63/100 par
+|-damage|p2a: Rat Salad|91/100|[from] Recoil
+|
+|-heal|p2a: Rat Salad|98/100|[from] Grassy Terrain
+|upkeep
+|turn|47
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641778605
+|switch|p2a: Radio Radio!|Magnezone|33/100
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|100/100 par
+|-singleturn|p1a: Talonflame|move: Roost
+|
+|-heal|p2a: Radio Radio!|39/100|[from] Grassy Terrain
+|upkeep
+|turn|48
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641778625
+|switch|p1a: Obamasnow|Abomasnow, M|78/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Obamasnow
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Obamasnow
+|-resisted|p1a: Obamasnow
+|-damage|p1a: Obamasnow|56/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Radio Radio!|33/100|[from] Hail
+|-heal|p1a: Obamasnow|62/100|[from] Grassy Terrain
+|-heal|p2a: Radio Radio!|39/100|[from] Grassy Terrain
+|upkeep
+|turn|49
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641778654
+|switch|p2a: Heathens|Sylveon, F, shiny|58/100
+|move|p1a: Obamasnow|Earth Power|p2a: Heathens
+|-damage|p2a: Heathens|46/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|40/100|[from] Hail
+|-heal|p1a: Obamasnow|68/100|[from] Grassy Terrain
+|-heal|p2a: Heathens|46/100|[from] Grassy Terrain
+|-heal|p2a: Heathens|52/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|50
+|
+|t:|1641778665
+|switch|p1a: Nihilego|Nihilego|94/100
+|move|p2a: Heathens|Wish|p2a: Heathens
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Nihilego|88/100|[from] Hail
+|-damage|p2a: Heathens|46/100|[from] Hail
+|-heal|p2a: Heathens|52/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1641778673
+|switch|p2a: Radio Radio!|Magnezone|39/100
+|move|p1a: Nihilego|Sludge Wave|p2a: Radio Radio!
+|-immune|p2a: Radio Radio!
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Nihilego|82/100|[from] Hail
+|-damage|p2a: Radio Radio!|33/100|[from] Hail
+|-heal|p2a: Radio Radio!|91/100|[from] move: Wish|[wisher] Heathens
+|upkeep
+|turn|52
+|
+|t:|1641778690
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Radio Radio!|Body Press|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|86/100
+|
+|-weather|none
+|-heal|p1a: Slowking|92/100|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1641778699
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|45/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641778709
+|switch|p1a: Obamasnow|Abomasnow, M|68/100|[from]move: Teleport
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Obamasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Radio Radio!|84/100|[from] Hail
+|upkeep
+|turn|54
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641778730
+|switch|p2a: Heathens|Sylveon, F, shiny|52/100
+|move|p1a: Obamasnow|Earth Power|p2a: Heathens
+|-damage|p2a: Heathens|38/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|32/100|[from] Hail
+|-heal|p2a: Heathens|38/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1641778746
+|switch|p1a: Slowking|Slowking, M|78/100
+|move|p2a: Heathens|Wish|p2a: Heathens
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|32/100|[from] Hail
+|-damage|p1a: Slowking|72/100|[from] Hail
+|-heal|p2a: Heathens|38/100|[from] item: Leftovers
+|-heal|p1a: Slowking|78/100|[from] item: Leftovers
+|upkeep
+|turn|56
+|
+|t:|1641778753
+|move|p2a: Heathens|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|56/100
+|move|p1a: Slowking|Future Sight|p2a: Heathens
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|32/100|[from] Hail
+|-damage|p1a: Slowking|50/100|[from] Hail
+|-heal|p2a: Heathens|82/100|[from] move: Wish|[wisher] Heathens
+|-heal|p2a: Heathens|88/100|[from] item: Leftovers
+|-heal|p1a: Slowking|56/100|[from] item: Leftovers
+|upkeep
+|turn|57
+|
+|t:|1641778764
+|move|p2a: Heathens|Wish|p2a: Heathens
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641778774
+|switch|p1a: Nihilego|Nihilego|82/100|[from]move: Teleport
+|
+|-weather|none
+|-heal|p2a: Heathens|94/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1641778787
+|switch|p1a: Slowking|Slowking, M|89/100
+|switch|p2a: Radio Radio!|Magnezone|84/100
+|
+|-end|p2a: Radio Radio!|move: Future Sight
+|-resisted|p2a: Radio Radio!
+|-damage|p2a: Radio Radio!|62/100
+|-heal|p2a: Radio Radio!|100/100|[from] move: Wish|[wisher] Heathens
+|-heal|p1a: Slowking|95/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1641778802
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|47/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641778811
+|switch|p1a: Hitmontop|Hitmontop, M|69/100 par|[from]move: Teleport
+|
+|upkeep
+|turn|60
+|
+|t:|1641778820
+|switch|p2a: Kyoto Now!|Salamence, M|68/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Hitmontop|atk|1
+|cant|p1a: Hitmontop|par
+|
+|upkeep
+|turn|61
+|inactive|SirDannyDevitoII has 150 seconds left.
+|
+|t:|1641778860
+|switch|p2a: Rat Salad|Rillaboom, M|98/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|move|p1a: Hitmontop|Triple Axel|p2a: Rat Salad
+|-supereffective|p2a: Rat Salad
+|-damage|p2a: Rat Salad|85/100
+|-supereffective|p2a: Rat Salad
+|-damage|p2a: Rat Salad|64/100
+|-supereffective|p2a: Rat Salad
+|-damage|p2a: Rat Salad|32/100
+|-hitcount|p2a: Rat Salad|3
+|
+|-heal|p2a: Rat Salad|38/100|[from] Grassy Terrain
+|-heal|p1a: Hitmontop|75/100 par|[from] Grassy Terrain
+|upkeep
+|turn|62
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641778885
+|switch|p1a: Talonflame|Talonflame, M|100/100 par
+|move|p2a: Rat Salad|U-turn|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|91/100 par
+|
+|t:|1641778891
+|switch|p2a: Radio Radio!|Magnezone|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|63
+|
+|t:|1641778901
+|switch|p1a: Slowking|Slowking, M|80/100
+|move|p2a: Radio Radio!|Body Press|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|66/100
+|
+|-heal|p1a: Slowking|72/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|78/100|[from] item: Leftovers
+|upkeep
+|turn|64
+|inactive|SirDannyDevitoII has 150 seconds left.
+|
+|t:|1641778911
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|33/100
+|-status|p1a: Slowking|par
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|83/100 par
+|
+|-heal|p1a: Slowking|89/100 par|[from] Grassy Terrain
+|-heal|p1a: Slowking|95/100 par|[from] item: Leftovers
+|upkeep
+|turn|65
+|inactive|SirDannyDevitoII has 150 seconds left.
+|
+|t:|1641778925
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|46/100 par
+|move|p1a: Slowking|Scald|p2a: Radio Radio!
+|-damage|p2a: Radio Radio!|69/100
+|-status|p2a: Radio Radio!|brn
+|
+|-heal|p2a: Radio Radio!|75/100 brn|[from] Grassy Terrain
+|-heal|p1a: Slowking|52/100 par|[from] Grassy Terrain
+|-heal|p1a: Slowking|58/100 par|[from] item: Leftovers
+|-damage|p2a: Radio Radio!|69/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|66
+|inactive|SirDannyDevitoII has 150 seconds left.
+|
+|t:|1641778946
+|move|p2a: Radio Radio!|Thunderbolt|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|15/100 par
+|cant|p1a: Slowking|par
+|
+|-heal|p1a: Slowking|21/100 par|[from] item: Leftovers
+|-damage|p2a: Radio Radio!|63/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1641778957
+|switch|p1a: Obamasnow|Abomasnow, M|68/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Obamasnow
+|move|p2a: Radio Radio!|Volt Switch|p1a: Obamasnow
+|-resisted|p1a: Obamasnow
+|-damage|p1a: Obamasnow|50/100
+|
+|t:|1641778974
+|switch|p2a: Heathens|Sylveon, F, shiny|94/100|[from]move: Volt Switch
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|88/100|[from] Hail
+|-heal|p2a: Heathens|94/100|[from] item: Leftovers
+|upkeep
+|turn|68
+|
+|t:|1641778980
+|move|p1a: Obamasnow|Toxic|p2a: Heathens
+|-status|p2a: Heathens|tox
+|move|p2a: Heathens|Hyper Voice|p1a: Obamasnow
+|-damage|p1a: Obamasnow|2/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|88/100 tox|[from] Hail
+|-heal|p2a: Heathens|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Heathens|88/100 tox|[from] psn
+|upkeep
+|turn|69
+|inactive|SirDannyDevitoII has 150 seconds left.
+|
+|t:|1641779001
+|switch|p1a: Nihilego|Nihilego|82/100
+|move|p2a: Heathens|Heal Bell|p2a: Heathens
+|-activate|p2a: Heathens|move: Heal Bell
+|-curestatus|p2a: Heathens|tox|[msg]
+|-curestatus|p2: Radio Radio!|brn|[msg]
+|-curestatus|p2: Fat Lip|tox|[msg]
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Nihilego|76/100|[from] Hail
+|-damage|p2a: Heathens|82/100|[from] Hail
+|-heal|p2a: Heathens|88/100|[from] item: Leftovers
+|upkeep
+|turn|70
+|inactive|SirDannyDevitoII has 150 seconds left.
+|
+|t:|1641779012
+|move|p1a: Nihilego|Sludge Wave|p2a: Heathens
+|-supereffective|p2a: Heathens
+|-damage|p2a: Heathens|38/100
+|move|p2a: Heathens|Psyshock|p1a: Nihilego
+|-supereffective|p1a: Nihilego
+|-damage|p1a: Nihilego|7/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Nihilego|1/100|[from] Hail
+|-damage|p2a: Heathens|31/100|[from] Hail
+|-heal|p2a: Heathens|38/100|[from] item: Leftovers
+|upkeep
+|turn|71
+|inactive|SirDannyDevitoII has 150 seconds left.
+|
+|t:|1641779022
+|switch|p2a: Radio Radio!|Magnezone|63/100
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|-enditem|p1a: Nihilego|Power Herb
+|-anim|p1a: Nihilego|Meteor Beam|p2a: Radio Radio!
+|-resisted|p2a: Radio Radio!
+|-damage|p2a: Radio Radio!|9/100
+|
+|-weather|none
+|upkeep
+|turn|72
+|inactive|SirDannyDevitoII has 150 seconds left.
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641779049
+|switch|p2a: Fat Lip|Miltank, F|76/100
+|move|p1a: Nihilego|Power Gem|p2a: Fat Lip
+|-damage|p2a: Fat Lip|22/100
+|
+|upkeep
+|turn|73
+|
+|t:|1641779057
+|move|p1a: Nihilego|Sludge Wave|p2a: Fat Lip
+|-damage|p2a: Fat Lip|0 fnt
+|faint|p2a: Fat Lip
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1641779059
+|switch|p2a: Rat Salad|Rillaboom, M|38/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|turn|74
+|
+|t:|1641779066
+|switch|p1a: Talonflame|Talonflame, M|91/100 par
+|move|p2a: Rat Salad|Grassy Glide|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|73/100 par
+|
+|-heal|p2a: Rat Salad|45/100|[from] Grassy Terrain
+|upkeep
+|turn|75
+|
+|t:|1641779074
+|switch|p2a: Kyoto Now!|Salamence, M|68/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Talonflame|atk|1
+|move|p1a: Talonflame|Brave Bird|p2a: Kyoto Now!
+|-damage|p2a: Kyoto Now!|52/100
+|-damage|p1a: Talonflame|67/100 par|[from] Recoil
+|
+|upkeep
+|turn|76
+|
+|t:|1641779083
+|switch|p1a: Slowking|Slowking, M|55/100 par
+|move|p2a: Kyoto Now!|Wish|p2a: Kyoto Now!
+|
+|-heal|p1a: Slowking|61/100 par|[from] Grassy Terrain
+|-heal|p1a: Slowking|67/100 par|[from] item: Leftovers
+|upkeep
+|turn|77
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641779093
+|switch|p2a: Heathens|Sylveon, F, shiny|38/100
+|switch|p1a: Obamasnow|Abomasnow, M|2/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Obamasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|31/100|[from] Hail
+|-heal|p2a: Heathens|81/100|[from] move: Wish|[wisher] Kyoto Now!
+|-heal|p1a: Obamasnow|8/100|[from] Grassy Terrain
+|-heal|p2a: Heathens|88/100|[from] Grassy Terrain
+|-heal|p2a: Heathens|94/100|[from] item: Leftovers
+|upkeep
+|turn|78
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641779109
+|switch|p1a: Slowking|Slowking, M|99/100 par
+|move|p2a: Heathens|Wish|p2a: Heathens
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|88/100|[from] Hail
+|-damage|p1a: Slowking|94/100 par|[from] Hail
+|-heal|p2a: Heathens|94/100|[from] Grassy Terrain
+|-heal|p2a: Heathens|99/100|[from] item: Leftovers
+|-heal|p1a: Slowking|99/100 par|[from] Grassy Terrain
+|-heal|p1a: Slowking|100/100 par|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|79
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641779130
+|switch|p2a: Kyoto Now!|Salamence, M|52/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|cant|p1a: Slowking|par
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Kyoto Now!|46/100|[from] Hail
+|-damage|p1a: Slowking|94/100 par|[from] Hail
+|-heal|p2a: Kyoto Now!|96/100|[from] move: Wish|[wisher] Heathens
+|-heal|p1a: Slowking|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|80
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641779149
+|switch|p2a: Heathens|Sylveon, F, shiny|99/100
+|move|p1a: Slowking|Future Sight|p2a: Heathens
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heathens|94/100|[from] Hail
+|-damage|p1a: Slowking|94/100 par|[from] Hail
+|-heal|p2a: Heathens|99/100|[from] item: Leftovers
+|-heal|p1a: Slowking|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|81
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641779171
+|move|p2a: Heathens|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|77/100 par
+|move|p1a: Slowking|Scald|p2a: Heathens
+|-damage|p2a: Heathens|87/100
+|
+|-weather|none
+|-heal|p2a: Heathens|93/100|[from] item: Leftovers
+|-heal|p1a: Slowking|83/100 par|[from] item: Leftovers
+|upkeep
+|turn|82
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641779194
+|move|p2a: Heathens|Hyper Voice|p1a: Slowking
+|-damage|p1a: Slowking|60/100 par
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641779204
+|switch|p1a: Talonflame|Talonflame, M|67/100 par|[from]move: Teleport
+|
+|-end|p2a: Heathens|move: Future Sight
+|-damage|p2a: Heathens|71/100
+|-heal|p2a: Heathens|77/100|[from] item: Leftovers
+|upkeep
+|turn|83
+|
+|t:|1641779211
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|100/100 par
+|-singleturn|p1a: Talonflame|move: Roost
+|move|p2a: Heathens|Wish|p2a: Heathens
+|
+|-heal|p2a: Heathens|83/100|[from] item: Leftovers
+|upkeep
+|turn|84
+|inactive|SirDannyDevitoII has 180 seconds left.
+|
+|t:|1641779219
+|switch|p1a: Slowking|Slowking, M|93/100 par
+|switch|p2a: Kyoto Now!|Salamence, M|96/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|
+|-heal|p2a: Kyoto Now!|100/100|[from] move: Wish|[wisher] Heathens
+|-heal|p1a: Slowking|99/100 par|[from] item: Leftovers
+|upkeep
+|turn|85
+|
+|t:|1641779241
+|move|p2a: Kyoto Now!|Wish|p2a: Kyoto Now!
+|move|p1a: Slowking|Future Sight|p2a: Kyoto Now!
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|86
+|
+|t:|1641779247
+|switch|p2a: Rat Salad|Rillaboom, M|45/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|move|p1a: Slowking|Scald|p2a: Rat Salad
+|-resisted|p2a: Rat Salad
+|-damage|p2a: Rat Salad|29/100
+|
+|-heal|p2a: Rat Salad|78/100|[from] move: Wish|[wisher] Kyoto Now!
+|-heal|p2a: Rat Salad|84/100|[from] Grassy Terrain
+|upkeep
+|turn|87
+|
+|t:|1641779259
+|switch|p1a: Talonflame|Talonflame, M|100/100 par
+|move|p2a: Rat Salad|U-turn|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|92/100 par
+|
+|t:|1641779263
+|switch|p2a: Radio Radio!|Magnezone|9/100|[from]move: U-turn
+|
+|-end|p2a: Radio Radio!|move: Future Sight
+|-resisted|p2a: Radio Radio!
+|-damage|p2a: Radio Radio!|0 fnt
+|faint|p2a: Radio Radio!
+|upkeep
+|inactive|RaccZilla has 270 seconds left.
+|
+|t:|1641779294
+|switch|p2a: Kyoto Now!|Salamence, M|100/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Talonflame|atk|1
+|turn|88
+|
+|t:|1641779301
+|switch|p1a: Slowking|Slowking, M|100/100 par
+|move|p2a: Kyoto Now!|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|70/100 par
+|-unboost|p2a: Kyoto Now!|spa|2
+|
+|-heal|p1a: Slowking|76/100 par|[from] Grassy Terrain
+|-heal|p1a: Slowking|82/100 par|[from] item: Leftovers
+|upkeep
+|turn|89
+|inactive|SirDannyDevitoII has 210 seconds left.
+|
+|t:|1641779312
+|switch|p2a: Rat Salad|Rillaboom, M|84/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641779317
+|switch|p1a: Talonflame|Talonflame, M|92/100 par|[from]move: Teleport
+|
+|-heal|p2a: Rat Salad|91/100|[from] Grassy Terrain
+|upkeep
+|turn|90
+|
+|t:|1641779324
+|move|p2a: Rat Salad|U-turn|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|82/100 par
+|
+|t:|1641779327
+|switch|p2a: Kyoto Now!|Salamence, M|100/100|[from]move: U-turn
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Talonflame|atk|1
+|move|p1a: Talonflame|Brave Bird|p2a: Kyoto Now!
+|-damage|p2a: Kyoto Now!|84/100
+|-damage|p1a: Talonflame|76/100 par|[from] Recoil
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|91
+|
+|t:|1641779342
+|switch|p2a: Heathens|Sylveon, F, shiny|83/100
+|switch|p1a: Slowking|Slowking, M|100/100 par
+|
+|-heal|p2a: Heathens|89/100|[from] item: Leftovers
+|upkeep
+|turn|92
+|
+|t:|1641779350
+|switch|p2a: Rat Salad|Rillaboom, M|91/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|cant|p1a: Slowking|par
+|
+|-heal|p2a: Rat Salad|97/100|[from] Grassy Terrain
+|upkeep
+|turn|93
+|
+|t:|1641779362
+|switch|p1a: Talonflame|Talonflame, M|76/100 par
+|move|p2a: Rat Salad|Knock Off|p1a: Talonflame
+|-damage|p1a: Talonflame|40/100 par
+|
+|-heal|p2a: Rat Salad|100/100|[from] Grassy Terrain
+|upkeep
+|turn|94
+|
+|t:|1641779374
+|switch|p2a: Kyoto Now!|Salamence, M|84/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Talonflame|atk|1
+|cant|p1a: Talonflame|par
+|
+|upkeep
+|turn|95
+|
+|t:|1641779382
+|switch|p1a: Slowking|Slowking, M|100/100 par
+|move|p2a: Kyoto Now!|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|71/100 par
+|-unboost|p2a: Kyoto Now!|spa|2
+|
+|-heal|p1a: Slowking|77/100 par|[from] Grassy Terrain
+|-heal|p1a: Slowking|83/100 par|[from] item: Leftovers
+|upkeep
+|turn|96
+|inactive|SirDannyDevitoII has 240 seconds left.
+|
+|t:|1641779396
+|switch|p2a: Rat Salad|Rillaboom, M|100/100
+|move|p1a: Slowking|Future Sight|p2a: Rat Salad
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p1a: Slowking|89/100 par|[from] Grassy Terrain
+|-heal|p1a: Slowking|95/100 par|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|97
+|inactive|SirDannyDevitoII has 240 seconds left.
+|
+|t:|1641779421
+|switch|p1a: Hitmontop|Hitmontop, M|75/100 par
+|move|p2a: Rat Salad|Wood Hammer|p1a: Hitmontop
+|-damage|p1a: Hitmontop|0 fnt
+|faint|p1a: Hitmontop
+|-damage|p2a: Rat Salad|86/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641779434
+|switch|p1a: Nihilego|Nihilego|1/100
+|turn|98
+|
+|t:|1641779455
+|switch|p2a: Heathens|Sylveon, F, shiny|89/100
+|move|p1a: Nihilego|Sludge Wave|p2a: Heathens
+|-supereffective|p2a: Heathens
+|-damage|p2a: Heathens|42/100
+|
+|-end|p2a: Heathens|move: Future Sight
+|-damage|p2a: Heathens|19/100
+|-heal|p2a: Heathens|25/100|[from] item: Leftovers
+|upkeep
+|turn|99
+|
+|t:|1641779464
+|move|p1a: Nihilego|Sludge Wave|p2a: Heathens
+|-supereffective|p2a: Heathens
+|-damage|p2a: Heathens|0 fnt
+|faint|p2a: Heathens
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1641779465
+|switch|p2a: Rat Salad|Rillaboom, M|86/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|turn|100
+|inactive|SirDannyDevitoII has 240 seconds left.
+|
+|t:|1641779495
+|move|p2a: Rat Salad|Grassy Glide|p1a: Nihilego
+|-damage|p1a: Nihilego|0 fnt
+|faint|p1a: Nihilego
+|
+|-heal|p2a: Rat Salad|92/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641779502
+|switch|p1a: Talonflame|Talonflame, M|40/100 par
+|turn|101
+|
+|t:|1641779509
+|switch|p2a: Kyoto Now!|Salamence, M|84/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Talonflame|atk|1
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|90/100 par
+|-singleturn|p1a: Talonflame|move: Roost
+|
+|-heal|p1a: Talonflame|97/100 par|[from] Grassy Terrain
+|upkeep
+|turn|102
+|
+|t:|1641779523
+|switch|p2a: Rat Salad|Rillaboom, M|92/100
+|switch|p1a: Slowking|Slowking, M|100/100 par
+|
+|-heal|p2a: Rat Salad|98/100|[from] Grassy Terrain
+|upkeep
+|turn|103
+|
+|t:|1641779538
+|switch|p1a: Talonflame|Talonflame, M|97/100 par
+|move|p2a: Rat Salad|Knock Off|p1a: Talonflame
+|-damage|p1a: Talonflame|59/100 par
+|
+|-heal|p2a: Rat Salad|100/100|[from] Grassy Terrain
+|upkeep
+|turn|104
+|
+|t:|1641779544
+|switch|p2a: Kyoto Now!|Salamence, M|84/100
+|-ability|p2a: Kyoto Now!|Intimidate|boost
+|-unboost|p1a: Talonflame|atk|1
+|move|p1a: Talonflame|Will-O-Wisp|p2a: Kyoto Now!
+|-status|p2a: Kyoto Now!|brn
+|
+|-damage|p2a: Kyoto Now!|78/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|105
+|
+|t:|1641779553
+|switch|p1a: Slowking|Slowking, M|100/100 par
+|move|p2a: Kyoto Now!|Draco Meteor|p1a: Slowking|[miss]
+|-miss|p2a: Kyoto Now!|p1a: Slowking
+|
+|-damage|p2a: Kyoto Now!|72/100 brn|[from] brn
+|upkeep
+|turn|106
+|inactive|SirDannyDevitoII has 240 seconds left.
+|
+|t:|1641779574
+|move|p2a: Kyoto Now!|Wish|p2a: Kyoto Now!
+|move|p1a: Slowking|Future Sight|p2a: Kyoto Now!
+|-start|p1a: Slowking|move: Future Sight
+|
+|-damage|p2a: Kyoto Now!|66/100 brn|[from] brn
+|upkeep
+|turn|107
+|
+|t:|1641779581
+|move|p2a: Kyoto Now!|Flamethrower|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|94/100 par
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641779585
+|switch|p1a: Obamasnow|Abomasnow, M|8/100|[from]move: Teleport
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Obamasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Kyoto Now!|60/100 brn|[from] Hail
+|-heal|p2a: Kyoto Now!|100/100 brn|[from] move: Wish|[wisher] Kyoto Now!
+|-damage|p2a: Kyoto Now!|94/100 brn|[from] brn
+|upkeep
+|turn|108
+|inactive|RaccZilla has 270 seconds left.
+|c|☆RaccZilla|wp
+|c|☆SirDannyDevitoII|u2. really good game
+|inactive|RaccZilla has 240 seconds left.
+|
+|t:|1641779646
+|move|p1a: Obamasnow|Blizzard|p2a: Kyoto Now!
+|-supereffective|p2a: Kyoto Now!
+|-damage|p2a: Kyoto Now!|0 fnt
+|faint|p2a: Kyoto Now!
+|
+|-weather|Hail|[upkeep]
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1641779649
+|switch|p2a: Rat Salad|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rat Salad
+|turn|109
+|
+|t:|1641779655
+|move|p2a: Rat Salad|Grassy Glide|p1a: Obamasnow
+|-resisted|p1a: Obamasnow
+|-damage|p1a: Obamasnow|0 fnt
+|faint|p1a: Obamasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rat Salad|94/100|[from] Hail
+|-heal|p2a: Rat Salad|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641779663
+|switch|p1a: Talonflame|Talonflame, M|59/100 par
+|turn|110
+|
+|t:|1641779665
+|move|p2a: Rat Salad|Grassy Glide|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|40/100 par
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|90/100 par
+|-singleturn|p1a: Talonflame|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rat Salad|94/100|[from] Hail
+|-damage|p1a: Talonflame|84/100 par|[from] Hail
+|-heal|p2a: Rat Salad|100/100|[from] Grassy Terrain
+|-heal|p1a: Talonflame|90/100 par|[from] Grassy Terrain
+|upkeep
+|turn|111
+|
+|t:|1641779677
+|move|p2a: Rat Salad|Grassy Glide|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|72/100 par
+|move|p1a: Talonflame|Will-O-Wisp|p2a: Rat Salad
+|-status|p2a: Rat Salad|brn
+|
+|-weather|none
+|-damage|p2a: Rat Salad|94/100 brn|[from] brn
+|upkeep
+|turn|112
+|
+|t:|1641779686
+|move|p2a: Rat Salad|Grassy Glide|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|63/100 par
+|cant|p1a: Talonflame|par
+|
+|-heal|p2a: Rat Salad|100/100 brn|[from] Grassy Terrain
+|-damage|p2a: Rat Salad|94/100 brn|[from] brn
+|upkeep
+|turn|113
+|
+|t:|1641779694
+|move|p2a: Rat Salad|Grassy Glide|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|55/100 par
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|100/100 par
+|-singleturn|p1a: Talonflame|move: Roost
+|
+|-heal|p2a: Rat Salad|100/100 brn|[from] Grassy Terrain
+|-damage|p2a: Rat Salad|94/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|114
+|
+|t:|1641779704
+|cant|p1a: Talonflame|par
+|move|p2a: Rat Salad|Grassy Glide|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|93/100 par
+|
+|-damage|p2a: Rat Salad|88/100 brn|[from] brn
+|upkeep
+|turn|115
+|
+|t:|1641779710
+|move|p2a: Rat Salad|Grassy Glide|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|86/100 par
+|move|p1a: Talonflame|Brave Bird|p2a: Rat Salad
+|-supereffective|p2a: Rat Salad
+|-damage|p2a: Rat Salad|27/100 brn
+|-damage|p1a: Talonflame|64/100 par|[from] Recoil
+|
+|-damage|p2a: Rat Salad|21/100 brn|[from] brn
+|upkeep
+|turn|116
+|
+|t:|1641779719
+|move|p2a: Rat Salad|Grassy Glide|p1a: Talonflame
+|-resisted|p1a: Talonflame
+|-damage|p1a: Talonflame|56/100 par
+|move|p1a: Talonflame|Brave Bird|p2a: Rat Salad
+|-supereffective|p2a: Rat Salad
+|-damage|p2a: Rat Salad|0 fnt
+|faint|p2a: Rat Salad
+|-damage|p1a: Talonflame|49/100 par|[from] Recoil
+|
+|win|SirDannyDevitoII
+|c|☆RaccZilla|gg
+|c|☆SirDannyDevitoII|gg
+|c| KirbyGriffin|gg

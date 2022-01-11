@@ -1,0 +1,264 @@
+|j|☆Drs357
+|j|☆DumbLick1337
+|t:|1641820431
+|gametype|singles
+|player|p1|Drs357|169|1166
+|player|p2|DumbLick1337|102|1130
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Crawdaunt, F|
+|poke|p1|Rhyperior, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Blissey, F|
+|poke|p1|Diancie|
+|poke|p2|Seismitoad, M|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Hippowdon, M|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641820441
+|start
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|
+|t:|1641820453
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|move|p1a: Blissey|Psychic|p2a: Seismitoad
+|-damage|p2a: Seismitoad|79/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641820465
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Seismitoad|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|51/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641820475
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Hatterene
+|move|p2a: Hatterene|Stealth Rock|p1a: Ferrothorn|[from]ability: Magic Bounce
+|-sidestart|p1: Drs357|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641820486
+|switch|p1a: Diancie|Diancie|100/100
+|-damage|p1a: Diancie|88/100|[from] Stealth Rock
+|move|p2a: Hatterene|Draining Kiss|p1a: Diancie
+|-damage|p1a: Diancie|61/100
+|
+|-heal|p1a: Diancie|68/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641820496
+|move|p1a: Diancie|Diamond Storm|p2a: Hatterene
+|-damage|p2a: Hatterene|51/100
+|move|p2a: Hatterene|Nuzzle|p1a: Diancie
+|-damage|p1a: Diancie|64/100
+|-status|p1a: Diancie|par
+|
+|-heal|p1a: Diancie|70/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641820506
+|switch|p2a: Seismitoad|Seismitoad, M|79/100
+|cant|p1a: Diancie|par
+|
+|-heal|p1a: Diancie|76/100 par|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641820515
+|switch|p1a: Ferrothorn|Ferrothorn, F|51/100
+|-damage|p1a: Ferrothorn|45/100|[from] Stealth Rock
+|move|p2a: Seismitoad|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641820526
+|switch|p1a: Diancie|Diancie|76/100 par
+|-damage|p1a: Diancie|64/100 par|[from] Stealth Rock
+|turn|8
+|
+|t:|1641820530
+|move|p2a: Seismitoad|Earthquake|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|
+|upkeep
+|
+|t:|1641820537
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|-damage|p1a: Hatterene|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641820543
+|move|p2a: Seismitoad|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|17/100
+|move|p1a: Hatterene|Giga Drain|p2a: Seismitoad
+|-supereffective|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|-heal|p1a: Hatterene|71/100|[from] drain|[of] p2a: Seismitoad
+|faint|p2a: Seismitoad
+|
+|-heal|p1a: Hatterene|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820543
+|switch|p2a: Hatterene|Hatterene, F|51/100
+|turn|10
+|
+|t:|1641820556
+|move|p2a: Hatterene|Draining Kiss|p1a: Hatterene
+|-damage|p1a: Hatterene|40/100
+|-heal|p2a: Hatterene|74/100|[from] drain|[of] p1a: Hatterene
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|-heal|p1a: Hatterene|46/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641820565
+|move|p1a: Hatterene|Giga Drain|p2a: Hatterene
+|-crit|p2a: Hatterene
+|-damage|p2a: Hatterene|45/100
+|-heal|p1a: Hatterene|64/100|[from] drain|[of] p2a: Hatterene
+|move|p2a: Hatterene|Mystical Fire|p1a: Hatterene
+|-damage|p1a: Hatterene|29/100
+|-unboost|p1a: Hatterene|spa|1
+|
+|-heal|p1a: Hatterene|35/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641820577
+|switch|p1a: Rhyperior|Rhyperior, M|100/100
+|-damage|p1a: Rhyperior|94/100|[from] Stealth Rock
+|move|p2a: Hatterene|Mystical Fire|p1a: Rhyperior
+|-resisted|p1a: Rhyperior
+|-damage|p1a: Rhyperior|81/100
+|-unboost|p1a: Rhyperior|spa|1
+|
+|upkeep
+|turn|13
+|
+|t:|1641820589
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Rhyperior|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|69/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641820605
+|switch|p1a: Crawdaunt|Crawdaunt, F|100/100
+|-damage|p1a: Crawdaunt|88/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Earthquake|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|45/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Crawdaunt|39/100|[from] Sandstorm
+|-fieldend|move: Trick Room
+|upkeep
+|turn|15
+|
+|t:|1641820615
+|move|p1a: Crawdaunt|Crabhammer|p2a: Hippowdon|[miss]
+|-miss|p1a: Crawdaunt|p2a: Hippowdon
+|move|p2a: Hippowdon|Earthquake|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641820627
+|switch|p1a: Hatterene|Hatterene, F|35/100
+|-damage|p1a: Hatterene|22/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641820633
+|move|p2a: Hippowdon|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641820643
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641820652
+|move|p1a: Blissey|Hyper Voice|p2a: Hippowdon
+|-damage|p2a: Hippowdon|43/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|93/100
+|
+|-weather|none
+|-heal|p1a: Blissey|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641820664
+|move|p1a: Blissey|Healing Wish|p1a: Blissey
+|faint|p1a: Blissey
+|move|p2a: Hippowdon|Earthquake|p1: Blissey|[notarget]
+|-fail|p2a: Hippowdon
+|
+|upkeep
+|
+|t:|1641820670
+|switch|p1a: Rhyperior|Rhyperior, M|81/100
+|-heal|p1a: Rhyperior|100/100|[from] move: Healing Wish
+|-damage|p1a: Rhyperior|94/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641820678
+|move|p2a: Hippowdon|Earthquake|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|60/100
+|move|p1a: Rhyperior|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|61/100
+|
+|upkeep
+|turn|20
+|-message|Drs357 forfeited.
+|
+|win|DumbLick1337
+|raw|Drs357's rating: 1166 &rarr; <strong>1138</strong><br />(-28 for losing)
+|raw|DumbLick1337's rating: 1130 &rarr; <strong>1158</strong><br />(+28 for winning)
+|c|☆DumbLick1337|gg
+|l|☆Drs357

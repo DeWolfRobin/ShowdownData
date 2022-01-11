@@ -1,0 +1,337 @@
+|j|☆Smart Falcon
+|j|☆Fumseck-odin
+|t:|1641806594
+|gametype|singles
+|player|p1|Smart Falcon|shauntal|1153
+|player|p2|Fumseck-odin|swimmer-gen4|1226
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Clefable, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Kartana|
+|poke|p1|Zapdos|
+|poke|p1|Cloyster, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Porygon2|
+|poke|p2|Cresselia, F|
+|poke|p2|Marowak-Alola, M|
+|poke|p2|Crawdaunt, F|
+|poke|p2|Melmetal|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Fumseck-odin)
+|
+|t:|1641806605
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1641806618
+|move|p1a: Kartana|Leaf Blade|p2a: Hatterene
+|-crit|p2a: Hatterene
+|-enditem|p2a: Hatterene|Focus Sash
+|-damage|p2a: Hatterene|1/100
+|-damage|p1a: Kartana|91/100|[from] item: Life Orb
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1641806625
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Hatterene|Mystical Fire|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|96/100
+|-unboost|p1a: Tyranitar|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|0 fnt|[from] Sandstorm
+|faint|p2a: Hatterene
+|upkeep
+|
+|t:|1641806636
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|3
+|
+|t:|1641806638
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|76/100
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|54/100
+|-hitcount|p1a: Zapdos|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|48/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641806647
+|move|p2a: Melmetal|Double Iron Bash|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|24/100
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|1/100
+|-hitcount|p1a: Zapdos|2
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|51/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|45/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641806651
+|move|p2a: Melmetal|Double Iron Bash|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|21/100
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-hitcount|p1: Zapdos|2
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641806655
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|turn|6
+|
+|t:|1641806662
+|switch|p1a: Kartana|Kartana|91/100
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1641806664
+|move|p1a: Kartana|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|47/100
+|-enditem|p2a: Cresselia|Mental Herb|[from] move: Knock Off|[of] p1a: Kartana
+|-damage|p1a: Kartana|81/100|[from] item: Life Orb
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|8
+|
+|t:|1641806668
+|move|p2a: Cresselia|Lunar Dance|p2a: Cresselia
+|faint|p2a: Cresselia
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|upkeep
+|
+|t:|1641806674
+|switch|p2a: Marowak|Marowak-Alola, M|100/100
+|turn|9
+|
+|t:|1641806682
+|switch|p1a: Tyranitar|Tyranitar, M|96/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Marowak|Flare Blitz|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|60/100
+|-damage|p2a: Marowak|86/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Marowak|79/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1641806693
+|move|p2a: Marowak|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Marowak|73/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641806700
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|turn|11
+|
+|t:|1641806706
+|switch|p1a: Clefable|Clefable, F, shiny|100/100
+|move|p2a: Marowak|Flare Blitz|p1a: Clefable
+|-damage|p1a: Clefable|25/100
+|-damage|p2a: Marowak|43/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Marowak|37/100|[from] Sandstorm
+|-damage|p1a: Clefable|19/100|[from] Sandstorm
+|-heal|p1a: Clefable|25/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|12
+|
+|t:|1641806716
+|switch|p2a: Porygon2|Porygon2|100/100
+|-ability|p2a: Porygon2|Unaware|[from] ability: Trace|[of] p1a: Clefable
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641806719
+|switch|p1a: Kartana|Kartana|81/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Porygon2|94/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641806721
+|move|p1a: Kartana|Knock Off|p2a: Porygon2
+|-damage|p2a: Porygon2|56/100
+|-enditem|p2a: Porygon2|Eviolite|[from] move: Knock Off|[of] p1a: Kartana
+|-damage|p1a: Kartana|72/100|[from] item: Life Orb
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|t:|1641806724
+|move|p1a: Kartana|Sacred Sword|p2a: Porygon2
+|-supereffective|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|62/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641806727
+|switch|p2a: Marowak|Marowak-Alola, M|37/100
+|-heal|p2a: Marowak|100/100|[from] move: Lunar Dance
+|turn|15
+|
+|t:|1641806734
+|switch|p1a: Clefable|Clefable, F, shiny|25/100
+|move|p2a: Marowak|Flare Blitz|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-damage|p2a: Marowak|91/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641806741
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|turn|16
+|
+|t:|1641806745
+|move|p2a: Marowak|Flare Blitz|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|-damage|p2a: Marowak|54/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641806747
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|17
+|
+|t:|1641806753
+|move|p2a: Marowak|Flare Blitz|p1a: Cloyster
+|-damage|p1a: Cloyster|21/100
+|-damage|p2a: Marowak|34/100|[from] Recoil
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|18
+|
+|t:|1641806762
+|move|p1a: Cloyster|Icicle Spear|p2a: Marowak
+|-resisted|p2a: Marowak
+|-damage|p2a: Marowak|24/100
+|-resisted|p2a: Marowak
+|-damage|p2a: Marowak|13/100
+|-resisted|p2a: Marowak
+|-damage|p2a: Marowak|2/100
+|-resisted|p2a: Marowak
+|-damage|p2a: Marowak|0 fnt
+|faint|p2a: Marowak
+|-hitcount|p2: Marowak|4
+|
+|upkeep
+|
+|t:|1641806771
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|19
+|
+|t:|1641806776
+|move|p1a: Cloyster|Surf|p2a: Melmetal
+|-damage|p2a: Melmetal|41/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|-hitcount|p1: Cloyster|1
+|
+|upkeep
+|
+|t:|1641806778
+|switch|p1a: Kartana|Kartana|62/100
+|turn|20
+|
+|t:|1641806790
+|move|p1a: Kartana|Sacred Sword|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|52/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641806792
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|turn|21
+|
+|t:|1641806795
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|31/100
+|-damage|p2a: Crawdaunt|91/100|[from] item: Life Orb
+|move|p1a: Kartana|Leaf Blade|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|-damage|p1a: Kartana|21/100|[from] item: Life Orb
+|
+|win|Smart Falcon
+|raw|Smart Falcon's rating: 1153 &rarr; <strong>1183</strong><br />(+30 for winning)
+|raw|Fumseck-odin's rating: 1226 &rarr; <strong>1196</strong><br />(-30 for losing)
+|l|☆Fumseck-odin
+|l|☆Smart Falcon
+|j|☆Smart Falcon
+|player|p1|Smart Falcon|shauntal

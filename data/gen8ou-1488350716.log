@@ -1,0 +1,267 @@
+|j|☆natenatenatex
+|j|☆MobiMolle
+|t:|1641754515
+|gametype|singles
+|player|p1|natenatenatex|ethan|1337
+|player|p2|MobiMolle|266|1350
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Azumarill, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Volcarona, M|
+|poke|p2|Regieleki|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Garchomp, M|
+|poke|p2|Melmetal|
+|poke|p2|Volcarona, M|
+|poke|p2|Blissey, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by natenatenatex)
+|c|☆MobiMolle|Gl
+|inactive|MobiMolle has 120 seconds left.
+|
+|t:|1641754549
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|switch|p2a: Armstron|Melmetal|100/100
+|turn|1
+|
+|t:|1641754555
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: natenatenatex|Reflect
+|move|p2a: Armstron|Double Iron Bash|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|64/100
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|29/100
+|-hitcount|p1a: Grimmsnarl|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641754563
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: natenatenatex|move: Light Screen
+|move|p2a: Armstron|Double Iron Bash|p1a: Grimmsnarl
+|-supereffective|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|-hitcount|p1: Grimmsnarl|1
+|
+|upkeep
+|
+|t:|1641754571
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|3
+|
+|t:|1641754576
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Armstron|Double Iron Bash|p1a: Rillaboom
+|-damage|p1a: Rillaboom|76/100
+|-damage|p1a: Rillaboom|53/100
+|-hitcount|p1a: Rillaboom|2
+|
+|-heal|p1a: Rillaboom|59/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641754589
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Armstron|Double Iron Bash|p1a: Rillaboom
+|-damage|p1a: Rillaboom|37/100
+|-damage|p1a: Rillaboom|15/100
+|-hitcount|p1a: Rillaboom|2
+|
+|-heal|p1a: Rillaboom|21/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641754604
+|switch|p2a: Kisame|Garchomp, M|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Kisame
+|-damage|p2a: Kisame|0 fnt
+|-damage|p1a: Rillaboom|8/100|[from] ability: Rough Skin|[of] p2a: Kisame
+|-damage|p1a: Rillaboom|0 fnt|[from] item: Rocky Helmet|[of] p2a: Kisame
+|faint|p2a: Kisame
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1641754626
+|switch|p2a: King Kittan|Regieleki, shiny|100/100
+|switch|p1a: Hawlucha|Hawlucha, F, shiny|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|6
+|
+|t:|1641754634
+|move|p1a: Hawlucha|Close Combat|p2a: King Kittan
+|-damage|p2a: King Kittan|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: King Kittan
+|
+|upkeep
+|
+|t:|1641754653
+|switch|p2a: Armstron|Melmetal|100/100
+|turn|7
+|
+|t:|1641754660
+|move|p1a: Hawlucha|Close Combat|p2a: Armstron
+|-supereffective|p2a: Armstron
+|-damage|p2a: Armstron|46/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|move|p2a: Armstron|Double Iron Bash|p1a: Hawlucha
+|-damage|p1a: Hawlucha|48/100
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|-hitcount|p1: Hawlucha|2
+|
+|-heal|p2a: Armstron|52/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641754676
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|turn|8
+|
+|t:|1641754680
+|switch|p2a: Opposite of joy|Blissey, F|100/100
+|move|p1a: Volcarona|Fiery Dance|p2a: Opposite of joy
+|-damage|p2a: Opposite of joy|86/100
+|-boost|p1a: Volcarona|spa|1
+|
+|-heal|p2a: Opposite of joy|93/100|[from] item: Leftovers
+|-sideend|p1: natenatenatex|Reflect
+|upkeep
+|turn|9
+|
+|t:|1641754694
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Opposite of joy|Toxic|p1a: Volcarona
+|-status|p1a: Volcarona|tox
+|
+|-heal|p2a: Opposite of joy|99/100|[from] item: Leftovers
+|-damage|p1a: Volcarona|94/100 tox|[from] psn
+|-sideend|p1: natenatenatex|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641754705
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Opposite of joy|Seismic Toss|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|-heal|p2a: Opposite of joy|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641754714
+|switch|p1a: Volcarona|Volcarona, M|94/100 tox
+|move|p2a: Opposite of joy|Toxic|p1a: Volcarona
+|-fail|p1a: Volcarona|tox
+|
+|-damage|p1a: Volcarona|88/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641754724
+|switch|p1a: Azumarill|Azumarill, F, shiny|100/100
+|move|p2a: Opposite of joy|Seismic Toss|p1a: Azumarill
+|-damage|p1a: Azumarill|71/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641754739
+|move|p1a: Azumarill|Belly Drum|p1a: Azumarill
+|-damage|p1a: Azumarill|21/100
+|-setboost|p1a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Azumarill|Sitrus Berry|[eat]
+|-heal|p1a: Azumarill|46/100|[from] item: Sitrus Berry
+|move|p2a: Opposite of joy|Seismic Toss|p1a: Azumarill
+|-damage|p1a: Azumarill|17/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641754750
+|switch|p2a: Luminary|Volcarona, M, shiny|100/100
+|move|p1a: Azumarill|Knock Off|p2a: Luminary
+|-damage|p2a: Luminary|0 fnt
+|-status|p1a: Azumarill|brn|[from] ability: Flame Body|[of] p2a: Luminary
+|-enditem|p2a: Luminary|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Azumarill
+|faint|p2a: Luminary
+|
+|-damage|p1a: Azumarill|11/100 brn|[from] brn
+|upkeep
+|
+|t:|1641754762
+|switch|p2a: Death Race|Zapdos-Galar|100/100
+|turn|15
+|
+|t:|1641754768
+|move|p1a: Azumarill|Aqua Jet|p2a: Death Race
+|-damage|p2a: Death Race|39/100
+|move|p2a: Death Race|U-turn|p1a: Azumarill
+|-resisted|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|t:|1641754776
+|switch|p2a: Opposite of joy|Blissey, F|100/100|[from]move: U-turn
+|
+|upkeep
+|c|☆natenatenatex|i hate u
+|c|☆MobiMolle|Sry
+|c|☆MobiMolle|first match w new team
+|c|☆natenatenatex|just had to burn me
+|inactive|natenatenatex has 120 seconds left.
+|c|☆MobiMolle|I can't control that
+|c|☆MobiMolle|hate the game
+|c|☆MobiMolle|not the player
+|c|☆natenatenatex|no
+|c|☆MobiMolle|Ok? Your reason?
+|inactive|natenatenatex has 90 seconds left.
+|c|☆MobiMolle|or is your only counter argument «no»?
+|c|☆natenatenatex|yes
+|inactive|natenatenatex has 60 seconds left.
+|c|☆MobiMolle|How old are you
+|c|☆natenatenatex|stranger danger
+|inactive|natenatenatex has 30 seconds left.
+|c|☆MobiMolle|What am I gonna do with that info
+|inactive|natenatenatex has 20 seconds left.
+|inactive|natenatenatex has 15 seconds left.
+|inactive|natenatenatex has 10 seconds left.
+|c|☆MobiMolle|you can't do shit with age and a showdown nam
+|inactive|natenatenatex has 5 seconds left.
+|c|☆MobiMolle|*name
+|-message|natenatenatex lost due to inactivity.
+|
+|win|MobiMolle
+|raw|natenatenatex's rating: 1337 &rarr; <strong>1318</strong><br />(-19 for losing)
+|raw|MobiMolle's rating: 1350 &rarr; <strong>1369</strong><br />(+19 for winning)
+|c|☆natenatenatex|gg
+|c|☆MobiMolle|Gg

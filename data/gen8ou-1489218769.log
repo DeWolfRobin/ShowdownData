@@ -1,0 +1,338 @@
+|j|☆Championjolteons
+|j|☆UwU_Kingz
+|t:|1641872757
+|gametype|singles
+|player|p1|Championjolteons|flannery|
+|player|p2|UwU_Kingz|169|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Latias, F|
+|poke|p1|Clefable, M|
+|poke|p1|Scizor, M|
+|poke|p1|Victini|
+|poke|p2|Toxapex, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Melmetal|
+|poke|p2|Tyranitar, F|
+|poke|p2|Victini|
+|poke|p2|Rillaboom, M|
+|teampreview
+|
+|t:|1641872793
+|start
+|switch|p1a: Happy|Victini|100/100
+|switch|p2a: Spike|Toxapex, M, shiny|100/100
+|turn|1
+|
+|t:|1641872814
+|move|p2a: Spike|Baneful Bunker|p2a: Spike
+|-singleturn|p2a: Spike|move: Protect
+|move|p1a: Happy|Zen Headbutt|p2a: Spike
+|-activate|p2a: Spike|move: Protect
+|-status|p1a: Happy|psn
+|
+|-damage|p1a: Happy|88/100 psn|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641872831
+|move|p1a: Happy|Zen Headbutt|p2a: Spike
+|-supereffective|p2a: Spike
+|-damage|p2a: Spike|47/100
+|-damage|p1a: Happy|72/100 psn|[from] item: Rocky Helmet|[of] p2a: Spike
+|move|p2a: Spike|Light Screen|p2a: Spike
+|-sidestart|p2: UwU_Kingz|move: Light Screen
+|
+|-damage|p1a: Happy|59/100 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641872841
+|switch|p1a: Ketzu|Scizor, M|100/100
+|move|p2a: Spike|Iron Defense|p2a: Spike
+|-boost|p2a: Spike|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641872849
+|move|p1a: Ketzu|Swords Dance|p1a: Ketzu
+|-boost|p1a: Ketzu|atk|2
+|move|p2a: Spike|Toxic Spikes|p1a: Ketzu
+|-sidestart|p1: Championjolteons|move: Toxic Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1641872855
+|move|p1a: Ketzu|Swords Dance|p1a: Ketzu
+|-boost|p1a: Ketzu|atk|2
+|move|p2a: Spike|Iron Defense|p2a: Spike
+|-boost|p2a: Spike|def|2
+|
+|upkeep
+|turn|6
+|
+|t:|1641872883
+|move|p1a: Ketzu|Swords Dance|p1a: Ketzu
+|-boost|p1a: Ketzu|atk|2
+|move|p2a: Spike|Toxic Spikes|p1a: Ketzu
+|-sidestart|p1: Championjolteons|move: Toxic Spikes
+|
+|-sideend|p2: UwU_Kingz|move: Light Screen
+|upkeep
+|turn|7
+|
+|t:|1641872892
+|move|p1a: Ketzu|Bullet Punch|p2a: Spike
+|-resisted|p2a: Spike
+|-damage|p2a: Spike|34/100
+|-damage|p1a: Ketzu|84/100|[from] item: Rocky Helmet|[of] p2a: Spike
+|move|p2a: Spike|Iron Defense|p2a: Spike
+|-boost|p2a: Spike|def|2
+|
+|upkeep
+|turn|8
+|
+|t:|1641872901
+|move|p1a: Ketzu|Bug Bite|p2a: Spike
+|-resisted|p2a: Spike
+|-damage|p2a: Spike|20/100
+|-damage|p1a: Ketzu|67/100|[from] item: Rocky Helmet|[of] p2a: Spike
+|move|p2a: Spike|Iron Defense|p2a: Spike
+|-boost|p2a: Spike|def|0
+|
+|upkeep
+|turn|9
+|
+|t:|1641872910
+|move|p2a: Spike|Baneful Bunker|p2a: Spike
+|-singleturn|p2a: Spike|move: Protect
+|move|p1a: Ketzu|Roost|p1a: Ketzu
+|-heal|p1a: Ketzu|100/100
+|-singleturn|p1a: Ketzu|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1641872918
+|move|p2a: Spike|Baneful Bunker||[still]
+|-fail|p2a: Spike
+|move|p1a: Ketzu|Bullet Punch|p2a: Spike
+|-resisted|p2a: Spike
+|-damage|p2a: Spike|11/100
+|-damage|p1a: Ketzu|84/100|[from] item: Rocky Helmet|[of] p2a: Spike
+|
+|upkeep
+|turn|11
+|
+|t:|1641872927
+|move|p2a: Spike|Baneful Bunker|p2a: Spike
+|-singleturn|p2a: Spike|move: Protect
+|move|p1a: Ketzu|Bug Bite|p2a: Spike
+|-activate|p2a: Spike|move: Protect
+|
+|upkeep
+|turn|12
+|
+|t:|1641872939
+|move|p1a: Ketzu|Bug Bite|p2a: Spike
+|-resisted|p2a: Spike
+|-damage|p2a: Spike|0 fnt
+|-damage|p1a: Ketzu|67/100|[from] item: Rocky Helmet|[of] p2a: Spike
+|faint|p2a: Spike
+|
+|upkeep
+|
+|t:|1641872965
+|switch|p2a: :))|Melmetal|100/100
+|turn|13
+|
+|t:|1641872985
+|switch|p1a: Angry Birb|Zapdos|100/100
+|move|p2a: :))|Earthquake|p1a: Angry Birb
+|-immune|p1a: Angry Birb
+|
+|upkeep
+|turn|14
+|
+|t:|1641872996
+|move|p1a: Angry Birb|Defog|p2a: :))
+|-unboost|p2a: :))|evasion|1
+|-sideend|p1: Championjolteons|Toxic Spikes|[from] move: Defog|[of] p1a: Angry Birb
+|move|p2a: :))|Thunder Punch|p1a: Angry Birb
+|-damage|p1a: Angry Birb|75/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641873003
+|move|p1a: Angry Birb|Heat Wave|p2a: :))
+|-supereffective|p2a: :))
+|-damage|p2a: :))|75/100
+|move|p2a: :))|Darkest Lariat|p1a: Angry Birb
+|-damage|p1a: Angry Birb|52/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641873012
+|move|p1a: Angry Birb|Roost|p1a: Angry Birb
+|-heal|p1a: Angry Birb|100/100
+|-singleturn|p1a: Angry Birb|move: Roost
+|move|p2a: :))|Double Iron Bash|p1a: Angry Birb
+|-resisted|p1a: Angry Birb
+|-damage|p1a: Angry Birb|87/100
+|-resisted|p1a: Angry Birb
+|-damage|p1a: Angry Birb|73/100
+|-hitcount|p1a: Angry Birb|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641873023
+|move|p1a: Angry Birb|Heat Wave|p2a: :))
+|-supereffective|p2a: :))
+|-damage|p2a: :))|48/100
+|move|p2a: :))|Darkest Lariat|p1a: Angry Birb
+|-damage|p1a: Angry Birb|50/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641873031
+|move|p1a: Angry Birb|Roost|p1a: Angry Birb
+|-heal|p1a: Angry Birb|99/100
+|-singleturn|p1a: Angry Birb|move: Roost
+|move|p2a: :))|Darkest Lariat|p1a: Angry Birb
+|-damage|p1a: Angry Birb|77/100
+|-status|p2a: :))|par|[from] ability: Static|[of] p1a: Angry Birb
+|
+|upkeep
+|turn|19
+|
+|t:|1641873048
+|switch|p2a: Victini|Victini|100/100
+|move|p1a: Angry Birb|Heat Wave|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|88/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641873085
+|switch|p1a: OJ 🍊|Latias, F, shiny|100/100
+|move|p2a: Victini|Psychic|p1a: OJ 🍊
+|-resisted|p1a: OJ 🍊
+|-damage|p1a: OJ 🍊|82/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641873097
+|move|p1a: OJ 🍊|Calm Mind|p1a: OJ 🍊
+|-boost|p1a: OJ 🍊|spa|1
+|-boost|p1a: OJ 🍊|spd|1
+|move|p2a: Victini|Dazzling Gleam|p1a: OJ 🍊
+|-supereffective|p1a: OJ 🍊
+|-damage|p1a: OJ 🍊|55/100
+|-enditem|p1a: OJ 🍊|Weakness Policy
+|-boost|p1a: OJ 🍊|atk|2|[from] item: Weakness Policy
+|-boost|p1a: OJ 🍊|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|22
+|
+|t:|1641873109
+|move|p1a: OJ 🍊|Recover|p1a: OJ 🍊
+|-heal|p1a: OJ 🍊|100/100
+|move|p2a: Victini|Blue Flare|p1a: OJ 🍊
+|-resisted|p1a: OJ 🍊
+|-damage|p1a: OJ 🍊|84/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641873120
+|move|p1a: OJ 🍊|Calm Mind|p1a: OJ 🍊
+|-boost|p1a: OJ 🍊|spa|1
+|-boost|p1a: OJ 🍊|spd|1
+|move|p2a: Victini|Dazzling Gleam|p1a: OJ 🍊
+|-supereffective|p1a: OJ 🍊
+|-damage|p1a: OJ 🍊|63/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641873131
+|move|p1a: OJ 🍊|Stored Power|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|upkeep
+|
+|t:|1641873138
+|switch|p2a: Jet|Dragapult, M, shiny|100/100
+|turn|25
+|
+|t:|1641873143
+|move|p2a: Jet|Dragon Pulse|p1a: OJ 🍊
+|-supereffective|p1a: OJ 🍊
+|-damage|p1a: OJ 🍊|15/100
+|move|p1a: OJ 🍊|Stored Power|p2a: Jet
+|-damage|p2a: Jet|0 fnt
+|faint|p2a: Jet
+|
+|upkeep
+|
+|t:|1641873153
+|switch|p2a: MONKE|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: MONKE
+|turn|26
+|
+|t:|1641873164
+|move|p1a: OJ 🍊|Stored Power|p2a: MONKE
+|-damage|p2a: MONKE|0 fnt
+|faint|p2a: MONKE
+|
+|upkeep
+|
+|t:|1641873171
+|switch|p2a: It's In The Game|Tyranitar, F, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: It's In The Game
+|turn|27
+|
+|t:|1641873178
+|move|p1a: OJ 🍊|Aura Sphere|p2a: It's In The Game
+|-supereffective|p2a: It's In The Game
+|-damage|p2a: It's In The Game|0 fnt
+|faint|p2a: It's In The Game
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: OJ 🍊|9/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641873186
+|switch|p2a: :))|Melmetal|48/100 par
+|turn|28
+|
+|t:|1641873192
+|move|p1a: OJ 🍊|Stored Power|p2a: :))
+|-resisted|p2a: :))
+|-damage|p2a: :))|0 fnt
+|faint|p2a: :))
+|
+|win|Championjolteons

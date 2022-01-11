@@ -1,0 +1,204 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641769494
+|gametype|singles
+|player|p1|splash capixaba|lucas|
+|player|p2|Luigi9878|zinzolin|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Skarmory, F|
+|poke|p1|Flygon, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Gyarados, F|
+|poke|p1|Lucario, F|
+|poke|p1|Rotom-Heat|
+|poke|p2|Dragapult, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Diggersby, M|
+|poke|p2|Ditto|
+|poke|p2|Blissey, F|
+|poke|p2|Chansey, F|
+|teampreview
+|
+|t:|1641769511
+|start
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|1
+|
+|t:|1641769527
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Dragapult|Shadow Ball|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|84/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|95/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|91/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641769540
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|move|p1a: Tyranitar|Ice Beam|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|97/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641769563
+|switch|p2a: Dragapult|Dragapult, M|95/100
+|switch|p1a: Skarmory|Skarmory, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|89/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641769580
+|switch|p2a: Diggersby|Diggersby, M|100/100
+|move|p1a: Skarmory|Stealth Rock|p2a: Diggersby
+|-sidestart|p2: Luigi9878|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|inactive|Luigi9878 has 270 seconds left.
+|
+|t:|1641769605
+|move|p1a: Skarmory|Spikes|p2a: Diggersby
+|-sidestart|p2: Luigi9878|Spikes
+|move|p2a: Diggersby|Fire Punch|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|38/100
+|-damage|p2a: Diggersby|91/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|6
+|inactive|Luigi9878 has 270 seconds left.
+|
+|t:|1641769618
+|switch|p1a: Gyarados|Gyarados, F|100/100
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Diggersby|atk|1
+|move|p2a: Diggersby|Earthquake|p1a: Gyarados
+|-immune|p1a: Gyarados
+|
+|upkeep
+|turn|7
+|inactive|Luigi9878 has 270 seconds left.
+|
+|t:|1641769626
+|switch|p2a: Corviknight|Corviknight, M|70/100
+|-damage|p2a: Corviknight|57/100|[from] Stealth Rock
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|8
+|inactive|Luigi9878 has 270 seconds left.
+|inactive|Luigi9878 disconnected and has 300 seconds to reconnect!
+|player|p2|
+|inactive|Luigi9878 reconnected and has 270 seconds left.
+|player|p2|Luigi9878|zinzolin
+|
+|t:|1641769643
+|move|p1a: Gyarados|Waterfall|p2a: Corviknight
+|-damage|p2a: Corviknight|18/100
+|-damage|p1a: Gyarados|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|Defog|p1a: Gyarados
+|-unboost|p1a: Gyarados|evasion|1
+|-sideend|p2: Luigi9878|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: Luigi9878|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|9
+|inactive|Luigi9878 has 270 seconds left.
+|
+|t:|1641769659
+|move|p1a: Gyarados|Waterfall|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-damage|p1a: Gyarados|68/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|upkeep
+|inactive|Luigi9878 has 270 seconds left.
+|
+|t:|1641769666
+|switch|p2a: Ditto|Ditto|100/100
+|-transform|p2a: Ditto|p1a: Gyarados|[from] ability: Imposter
+|-ability|p2a: Ditto|Intimidate|boost
+|-unboost|p1a: Gyarados|atk|1
+|turn|10
+|inactive|Luigi9878 has 270 seconds left.
+|
+|t:|1641769689
+|move|p2a: Ditto|Waterfall|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|25/100
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641769696
+|move|p2a: Ditto|Waterfall|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|upkeep
+|
+|t:|1641769704
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|turn|12
+|
+|t:|1641769708
+|move|p2a: Ditto|Waterfall|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|inactive|splash capixaba disconnected and has 300 seconds to reconnect!
+|player|p1|
+|c|+Pinto|lol
+|c|+Pinto|lugi god
+|inactive|splash capixaba has 270 seconds to reconnect!
+|c|+Pinto|por favor sigue iluminándonos con tus plays 
+|inactive|splash capixaba has 240 seconds to reconnect!
+|c|+Pinto|Luigi9878 que opinas de darle tutorias a ikaishi?
+|inactive|splash capixaba has 210 seconds to reconnect!
+|inactive|splash capixaba has 180 seconds to reconnect!
+|inactive|splash capixaba has 150 seconds to reconnect!
+|inactive|splash capixaba has 120 seconds to reconnect!
+|inactive|splash capixaba has 90 seconds to reconnect!
+|inactive|splash capixaba has 60 seconds to reconnect!
+|c|☆Luigi9878|The GOAT no hace es
+|c|☆Luigi9878|Tutoriales
+|inactive|splash capixaba has 30 seconds to reconnect!
+|c|☆Luigi9878|Je je
+|inactive|splash capixaba has 20 seconds to reconnect!
+|inactive|splash capixaba has 15 seconds to reconnect!
+|inactive|splash capixaba has 10 seconds to reconnect!
+|inactive|splash capixaba has 5 seconds to reconnect!
+|-message|splash capixaba lost due to inactivity.
+|
+|win|Luigi9878

@@ -1,0 +1,384 @@
+|j|☆TDL Gaming
+|j|☆86thesweetpotato
+|t:|1641708393
+|gametype|singles
+|player|p1|TDL Gaming|dragontamer|1336
+|player|p2|86thesweetpotato|1|1316
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, M|
+|poke|p1|Heatran, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Mew|
+|poke|p1|Weavile, M|
+|poke|p1|Zapdos|
+|poke|p2|Reuniclus, M|
+|poke|p2|Bronzong|
+|poke|p2|Comfey, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Runerigus, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TDL Gaming)
+|
+|t:|1641708415
+|start
+|switch|p1a: Weavile|Weavile, M|100/100
+|switch|p2a: Crunchwrap|Bronzong|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1641708427
+|move|p1a: Weavile|Knock Off|p2a: Crunchwrap
+|-supereffective|p2a: Crunchwrap
+|-enditem|p2a: Crunchwrap|Colbur Berry|[eat]
+|-enditem|p2a: Crunchwrap|Colbur Berry|[weaken]
+|-damage|p2a: Crunchwrap|10/100
+|move|p2a: Crunchwrap|Trick Room|p2a: Crunchwrap
+|-fieldstart|move: Trick Room|[of] p2a: Crunchwrap
+|
+|upkeep
+|turn|2
+|
+|t:|1641708434
+|move|p2a: Crunchwrap|Gyro Ball|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1641708439
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|3
+|
+|t:|1641708445
+|move|p2a: Crunchwrap|Stealth Rock|p1a: Heatran
+|-sidestart|p1: TDL Gaming|move: Stealth Rock
+|move|p1a: Heatran|Stealth Rock|p2a: Crunchwrap
+|-sidestart|p2: 86thesweetpotato|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641708457
+|switch|p2a: the GOOD China|Runerigus, M|100/100
+|-damage|p2a: the GOOD China|94/100|[from] Stealth Rock
+|move|p1a: Heatran|Lava Plume|p2a: the GOOD China
+|-damage|p2a: the GOOD China|57/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641708479
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: the GOOD China|Poltergeist|p1a: Tornadus
+|-activate|p1a: Tornadus|move: Poltergeist|Assault Vest
+|-damage|p1a: Tornadus|34/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641708489
+|move|p1a: Tornadus|U-turn|p2a: the GOOD China
+|-resisted|p2a: the GOOD China
+|-damage|p2a: the GOOD China|53/100
+|-activate|p2a: the GOOD China|ability: Wandering Spirit|Regenerator|Wandering Spirit|[of] p1a: Tornadus
+|
+|t:|1641708500
+|switch|p1a: Volcarona|Volcarona, M|100/100|[from]move: U-turn
+|move|p2a: the GOOD China|Trick Room|p2a: the GOOD China
+|-fieldstart|move: Trick Room|[of] p2a: the GOOD China
+|
+|upkeep
+|turn|7
+|
+|t:|1641708507
+|move|p2a: the GOOD China|Earthquake|p1a: Volcarona
+|-damage|p1a: Volcarona|52/100
+|move|p1a: Volcarona|Giga Drain|p2a: the GOOD China
+|-supereffective|p2a: the GOOD China
+|-damage|p2a: the GOOD China|0 fnt
+|-heal|p1a: Volcarona|79/100|[from] drain|[of] p2a: the GOOD China
+|faint|p2a: the GOOD China
+|
+|upkeep
+|
+|t:|1641708516
+|switch|p2a: Toxaflex|Toxapex, M, shiny|100/100
+|-damage|p2a: Toxaflex|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641708522
+|switch|p1a: Mew|Mew|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|move|p2a: Toxaflex|Liquidation|p1a: Mew
+|-damage|p1a: Mew|58/100
+|-unboost|p1a: Mew|def|1
+|
+|-heal|p1a: Mew|64/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641708534
+|move|p2a: Toxaflex|Liquidation|p1a: Mew
+|-damage|p1a: Mew|22/100
+|move|p1a: Mew|Psychic|p2a: Toxaflex
+|-supereffective|p2a: Toxaflex
+|-damage|p2a: Toxaflex|31/100
+|
+|-heal|p1a: Mew|28/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641708548
+|switch|p1a: Tornadus|Tornadus-Therian, M|34/100
+|-damage|p1a: Tornadus|9/100|[from] Stealth Rock
+|move|p2a: Toxaflex|Liquidation|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641708560
+|switch|p1a: Mew|Mew|28/100
+|-damage|p1a: Mew|16/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641708575
+|switch|p2a: Crunchwrap|Bronzong|10/100
+|-damage|p2a: Crunchwrap|3/100|[from] Stealth Rock
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|66/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|-heal|p1a: Mew|72/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641708583
+|move|p1a: Mew|Psychic|p2a: Crunchwrap
+|-resisted|p2a: Crunchwrap
+|-damage|p2a: Crunchwrap|0 fnt
+|faint|p2a: Crunchwrap
+|
+|-heal|p1a: Mew|78/100|[from] item: Leftovers
+|upkeep
+|inactive|86thesweetpotato has 120 seconds left.
+|
+|t:|1641708610
+|switch|p2a: Sacred|Volcarona, M|100/100
+|turn|13
+|
+|t:|1641708623
+|switch|p2a: Toxaflex|Toxapex, M, shiny|64/100
+|-damage|p2a: Toxaflex|52/100|[from] Stealth Rock
+|move|p1a: Mew|Thunder Wave|p2a: Toxaflex
+|-status|p2a: Toxaflex|par
+|
+|-heal|p1a: Mew|84/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|86thesweetpotato has 120 seconds left.
+|
+|t:|1641708645
+|switch|p2a: Slay|Comfey, F, shiny|100/100
+|-damage|p2a: Slay|88/100|[from] Stealth Rock
+|move|p1a: Mew|Psychic|p2a: Slay
+|-damage|p2a: Slay|49/100
+|-unboost|p2a: Slay|spd|1
+|
+|-heal|p1a: Mew|90/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641708653
+|move|p2a: Slay|Draining Kiss|p1a: Mew
+|-damage|p1a: Mew|71/100
+|-heal|p2a: Slay|81/100|[from] drain|[of] p1a: Mew
+|move|p1a: Mew|Psychic|p2a: Slay
+|-damage|p2a: Slay|24/100
+|
+|-heal|p1a: Mew|77/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641708661
+|move|p2a: Slay|Draining Kiss|p1a: Mew
+|-damage|p1a: Mew|60/100
+|-heal|p2a: Slay|52/100|[from] drain|[of] p1a: Mew
+|move|p1a: Mew|Psychic|p2a: Slay
+|-damage|p2a: Slay|0 fnt
+|faint|p2a: Slay
+|
+|-heal|p1a: Mew|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641708667
+|switch|p2a: Toxaflex|Toxapex, M, shiny|85/100 par
+|-damage|p2a: Toxaflex|73/100 par|[from] Stealth Rock
+|turn|17
+|
+|t:|1641708672
+|move|p1a: Mew|Psychic|p2a: Toxaflex
+|-supereffective|p2a: Toxaflex
+|-damage|p2a: Toxaflex|14/100 par
+|move|p2a: Toxaflex|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|24/100
+|-enditem|p1a: Mew|Leftovers|[from] move: Knock Off|[of] p2a: Toxaflex
+|
+|upkeep
+|turn|18
+|
+|t:|1641708681
+|move|p1a: Mew|Psychic|p2a: Toxaflex
+|-supereffective|p2a: Toxaflex
+|-damage|p2a: Toxaflex|0 fnt
+|faint|p2a: Toxaflex
+|
+|upkeep
+|
+|t:|1641708692
+|switch|p2a: Plasma|Reuniclus, M, shiny|100/100
+|turn|19
+|
+|t:|1641708696
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|74/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1641708702
+|move|p1a: Mew|Thunder Wave|p2a: Plasma
+|-status|p2a: Plasma|par
+|cant|p2a: Plasma|par
+|
+|upkeep
+|turn|21
+|
+|t:|1641708708
+|switch|p1a: Volcarona|Volcarona, M|79/100
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1641708714
+|move|p1a: Volcarona|Bug Buzz|p2a: Plasma
+|-supereffective|p2a: Plasma
+|-damage|p2a: Plasma|59/100 par
+|-enditem|p2a: Plasma|Weakness Policy
+|-boost|p2a: Plasma|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Plasma|spa|2|[from] item: Weakness Policy
+|move|p2a: Plasma|Stored Power|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|upkeep
+|
+|t:|1641708722
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641708730
+|move|p1a: Heatran|Flash Cannon|p2a: Plasma
+|-crit|p2a: Plasma
+|-damage|p2a: Plasma|15/100 par
+|move|p2a: Plasma|Stored Power|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|17/100
+|-enditem|p1a: Heatran|Aguav Berry|[eat]
+|-heal|p1a: Heatran|50/100|[from] item: Aguav Berry
+|
+|upkeep
+|turn|24
+|
+|t:|1641708737
+|move|p1a: Heatran|Flash Cannon|p2a: Plasma
+|-damage|p2a: Plasma|0 fnt
+|faint|p2a: Plasma
+|
+|upkeep
+|
+|t:|1641708740
+|switch|p2a: Sacred|Volcarona, M|100/100
+|turn|25
+|c|☆TDL Gaming|gg
+|
+|t:|1641708743
+|move|p2a: Sacred|Quiver Dance|p2a: Sacred
+|-boost|p2a: Sacred|spa|1
+|-boost|p2a: Sacred|spd|1
+|-boost|p2a: Sacred|spe|1
+|move|p1a: Heatran|Lava Plume|p2a: Sacred
+|-damage|p2a: Sacred|76/100
+|
+|upkeep
+|turn|26
+|c|☆86thesweetpotato|ye
+|
+|t:|1641708753
+|move|p2a: Sacred|Quiver Dance|p2a: Sacred
+|-boost|p2a: Sacred|spa|1
+|-boost|p2a: Sacred|spd|1
+|-boost|p2a: Sacred|spe|1
+|move|p1a: Heatran|Lava Plume|p2a: Sacred
+|-damage|p2a: Sacred|57/100
+|
+|upkeep
+|turn|27
+|c|☆TDL Gaming|or not
+|
+|t:|1641708763
+|move|p2a: Sacred|Roost|p2a: Sacred
+|-heal|p2a: Sacred|100/100
+|-singleturn|p2a: Sacred|move: Roost
+|move|p1a: Heatran|Lava Plume|p2a: Sacred
+|-damage|p2a: Sacred|82/100
+|
+|upkeep
+|turn|28
+|c|☆TDL Gaming|yeah you just sweep me now lol
+|c|☆86thesweetpotato|lol
+|
+|t:|1641708779
+|move|p2a: Sacred|Quiver Dance|p2a: Sacred
+|-boost|p2a: Sacred|spa|1
+|-boost|p2a: Sacred|spd|1
+|-boost|p2a: Sacred|spe|1
+|move|p1a: Heatran|Lava Plume|p2a: Sacred
+|-damage|p2a: Sacred|67/100
+|
+|upkeep
+|turn|29
+|c|☆TDL Gaming|gg
+|-message|TDL Gaming forfeited.
+|
+|win|86thesweetpotato
+|raw|TDL Gaming's rating: 1336 &rarr; <strong>1315</strong><br />(-21 for losing)
+|raw|86thesweetpotato's rating: 1316 &rarr; <strong>1337</strong><br />(+21 for winning)
+|l|☆TDL Gaming
+|c|☆86thesweetpotato|gg fren

@@ -1,0 +1,435 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc jialing
+|j|☆SL21CC Winona
+|t:|1641742016
+|gametype|singles
+|player|p1|sl21cc jialing|bellelba|1239
+|player|p2|SL21CC Winona|winona|1312
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Tapu Lele|
+|poke|p1|Tapu Fini|
+|poke|p1|Dragonite, F|
+|poke|p1|Heatran, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Weavile, M|
+|poke|p2|Slowking, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Winona)
+|j| SL21CC91影先生
+|j| water GH0ST
+|j|♚The Steel Shadow
+|
+|t:|1641742042
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|
+|t:|1641742053
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Tapu Lele|Thunder|p2a: Ferrothorn|[miss]
+|-miss|p1a: Tapu Lele|p2a: Ferrothorn
+|
+|upkeep
+|turn|2
+|
+|t:|1641742061
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Heatran
+|-sidestart|p1: sl21cc jialing|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641742067
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Stealth Rock|p2a: Landorus
+|-sidestart|p2: SL21CC Winona|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641742089
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641742094
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|69/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|99/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641742101
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|87/100 tox
+|j| 9skythunderouskick
+|
+|t:|1641742104
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|80/100
+|-damage|p1a: Landorus|74/100 tox|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|j|+dragonitenb
+|
+|t:|1641742108
+|switch|p1a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|j| jingtianlangtaosha
+|inactive|SL21CC Winona has 120 seconds left.
+|inactive|SL21CC Winona has 90 seconds left.
+|
+|t:|1641742175
+|switch|p2a: Landorus|Landorus-Therian, M|69/100
+|-damage|p2a: Landorus|57/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blacephalon|atk|1
+|move|p1a: Blacephalon|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|7/100
+|-unboost|p2a: Landorus|spd|1
+|
+|upkeep
+|turn|8
+|inactive|SL21CC Winona has 90 seconds left.
+|
+|t:|1641742184
+|move|p1a: Blacephalon|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641742187
+|switch|p2a: Weavile|Weavile, M|100/100
+|turn|9
+|
+|t:|1641742190
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|move|p2a: Weavile|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|61/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|10
+|
+|t:|1641742196
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Heatran|Toxic|p2a: Slowking
+|-status|p2a: Slowking|tox
+|
+|-damage|p2a: Slowking|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641742208
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Slowking|Scald|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|78/100
+|
+|-heal|p1a: Tapu Fini|84/100|[from] item: Leftovers
+|-damage|p2a: Slowking|82/100 tox|[from] psn
+|upkeep
+|turn|12
+|l| water GH0ST
+|
+|t:|1641742221
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|90/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641742235
+|move|p2a: Zapdos|Volt Switch|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|51/100
+|
+|t:|1641742238
+|switch|p2a: Ferrothorn|Ferrothorn, M|87/100|[from]move: Volt Switch
+|-damage|p2a: Ferrothorn|80/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|57/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|j| water GH0ST
+|
+|t:|1641742250
+|switch|p1a: Heatran|Heatran, M|61/100
+|-damage|p1a: Heatran|49/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Leech Seed|p1a: Heatran
+|-start|p1a: Heatran|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|93/100|[from] item: Leftovers
+|-damage|p1a: Heatran|37/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641742261
+|switch|p1a: Blacephalon|Blacephalon|76/100
+|-damage|p1a: Blacephalon|51/100|[from] Stealth Rock
+|switch|p2a: Slowking|Slowking, M|100/100 tox
+|
+|-damage|p2a: Slowking|94/100 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|16
+|inactive|SL21CC Winona has 120 seconds left.
+|l| water GH0ST
+|
+|t:|1641742316
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p2a: Urshifu|94/100|[from] Stealth Rock
+|move|p1a: Blacephalon|Shadow Ball|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641742323
+|switch|p2a: Weavile|Weavile, M|100/100
+|turn|17
+|
+|t:|1641742327
+|switch|p1a: Heatran|Heatran, M|37/100
+|-damage|p1a: Heatran|24/100|[from] Stealth Rock
+|move|p2a: Weavile|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|5/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641742336
+|move|p2a: Weavile|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-status|p2a: Weavile|brn|[from] ability: Flame Body|[of] p1a: Heatran
+|faint|p1a: Heatran
+|
+|-damage|p2a: Weavile|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1641742355
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|19
+|
+|t:|1641742363
+|switch|p1a: Blacephalon|Blacephalon|51/100
+|-damage|p1a: Blacephalon|26/100|[from] Stealth Rock
+|switch|p2a: Slowking|Slowking, M|100/100 tox
+|
+|-damage|p2a: Slowking|94/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641742373
+|switch|p2a: Weavile|Weavile, M|94/100 brn
+|move|p1a: Blacephalon|Flamethrower|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-crit|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641742378
+|switch|p2a: Slowking|Slowking, M|100/100 tox
+|turn|21
+|
+|t:|1641742389
+|switch|p1a: Tapu Fini|Tapu Fini|57/100
+|-damage|p1a: Tapu Fini|44/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641742391
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: Teleport
+|
+|-heal|p1a: Tapu Fini|50/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641742399
+|move|p2a: Zapdos|Hurricane|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|10/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|16/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641742407
+|move|p2a: Zapdos|Volt Switch|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|t:|1641742423
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: Volt Switch
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|j| water GH0ST
+|
+|t:|1641742430
+|switch|p1a: Blacephalon|Blacephalon|26/100
+|-damage|p1a: Blacephalon|2/100|[from] Stealth Rock
+|turn|24
+|j| adreamew
+|
+|t:|1641742437
+|switch|p2a: Slowking|Slowking, M|100/100 tox
+|move|p1a: Blacephalon|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641742445
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1641742447
+|move|p1a: Blacephalon|Shadow Ball|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|15/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|-enditem|p1a: Blacephalon|Choice Specs|[from] move: Knock Off|[of] p2a: Ferrothorn
+|faint|p1a: Blacephalon
+|
+|-heal|p2a: Ferrothorn|21/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641742453
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|26
+|
+|t:|1641742457
+|move|p1a: Dragonite|Fire Punch|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Dragonite|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641742460
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|27
+|
+|t:|1641742464
+|move|p2a: Zapdos|Hurricane|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641742481
+|switch|p1a: Landorus|Landorus-Therian, M|74/100 tox
+|-damage|p1a: Landorus|62/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|28
+|
+|t:|1641742486
+|move|p2a: Zapdos|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|21/100 tox
+|move|p1a: Landorus|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|66/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|27/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|21/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641742499
+|move|p2a: Zapdos|Heat Wave|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641742501
+|switch|p1a: Tapu Lele|Tapu Lele|88/100
+|-damage|p1a: Tapu Lele|76/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|30
+|
+|t:|1641742503
+|move|p1a: Tapu Lele|Psychic|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|win|sl21cc jialing
+|raw|sl21cc jialing's rating: 1239 &rarr; <strong>1258</strong><br />(+19 for winning)
+|raw|SL21CC Winona's rating: 1312 &rarr; <strong>1292</strong><br />(-20 for losing)
+|l|☆SL21CC Winona

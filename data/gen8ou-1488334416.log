@@ -1,0 +1,147 @@
+|j|☆SupaTerrestrial
+|j|‽almighty sa
+|t:|1641752489
+|gametype|singles
+|player|p1|SupaTerrestrial|buck|1521
+|player|p2|almighty sa|volkner|1491
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Swampert, F|
+|poke|p1|Incineroar, F|
+|poke|p1|Clefable, M|
+|poke|p1|Ferrothorn, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Marowak-Alola, F|
+|poke|p2|Weavile, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by almighty sa)
+|
+|t:|1641752510
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1641752516
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Ferrothorn|Spikes|p2a: Rillaboom
+|-sidestart|p2: almighty sa|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641752529
+|move|p2a: Rillaboom|Drain Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|36/100
+|-damage|p2a: Rillaboom|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Rillaboom
+|-sidestart|p2: almighty sa|Spikes
+|
+|-heal|p2a: Rillaboom|78/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|42/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1641752537
+|move|p2a: Rillaboom|Acrobatics|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Rillaboom|66/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|49/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Rillaboom|55/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641752540
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|4
+|inactive|almighty sa has 120 seconds left.
+|
+|t:|1641752574
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tornadus|Hurricane|p2a: Corviknight|[miss]
+|-miss|p1a: Tornadus|p2a: Corviknight
+|
+|upkeep
+|turn|5
+|
+|t:|1641752578
+|move|p1a: Tornadus|Taunt|p2a: Corviknight
+|-start|p2a: Corviknight|move: Taunt
+|cant|p2a: Corviknight|move: Taunt|Defog
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641752589
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|84/100|[from] Spikes
+|move|p1a: Tornadus|Hurricane|p2a: Slowking|[miss]
+|-miss|p1a: Tornadus|p2a: Slowking
+|
+|upkeep
+|turn|7
+|inactive|almighty sa has 120 seconds left.
+|
+|t:|1641752614
+|move|p1a: Tornadus|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|56/100
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|move|p2a: Slowking|Future Sight|p1a: Tornadus
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|8
+|
+|t:|1641752621
+|switch|p1a: Incineroar|Incineroar, F|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|9
+|
+|t:|1641752626
+|move|p2a: Corviknight|Defog|p1a: Incineroar
+|-unboost|p1a: Incineroar|evasion|1
+|-sideend|p2: almighty sa|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Incineroar|Flare Blitz|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|28/100
+|-damage|p1a: Incineroar|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-damage|p1a: Incineroar|60/100|[from] Recoil
+|
+|-end|p1a: Incineroar|move: Future Sight
+|-immune|p1a: Incineroar
+|upkeep
+|turn|10
+|-message|SupaTerrestrial forfeited.
+|
+|win|almighty sa
+|raw|SupaTerrestrial's rating: 1521 &rarr; <strong>1499</strong><br />(-22 for losing)
+|raw|almighty sa's rating: 1491 &rarr; <strong>1513</strong><br />(+22 for winning)
+|l|☆SupaTerrestrial

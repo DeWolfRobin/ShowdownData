@@ -1,0 +1,249 @@
+|j|☆Unwallable
+|j|☆FAZEoliviarodrigo
+|t:|1641888599
+|gametype|singles
+|player|p1|Unwallable|102|1358
+|player|p2|FAZEoliviarodrigo|red|1455
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Alakazam, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Toxapex, M|
+|poke|p2|Raichu, M|
+|poke|p2|Venusaur, M|
+|poke|p2|Blastoise, M|
+|poke|p2|Charizard, M|
+|poke|p2|Snorlax, M|
+|poke|p2|Dragonite, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by FAZEoliviarodrigo)
+|
+|t:|1641888618
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|
+|t:|1641888645
+|switch|p2a: Snorlax|Snorlax, M|100/100
+|move|p1a: Tapu Lele|Psyshock|p2a: Snorlax
+|-crit|p2a: Snorlax
+|-damage|p2a: Snorlax|13/100
+|
+|-heal|p2a: Snorlax|19/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641888652
+|move|p1a: Tapu Lele|Psyshock|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|
+|upkeep
+|
+|t:|1641888661
+|switch|p2a: Raichu|Raichu, M|100/100
+|turn|3
+|
+|t:|1641888665
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Raichu|Nuzzle|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|98/100
+|-status|p1a: Ferrothorn|par
+|-damage|p2a: Raichu|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641888690
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Venusaur
+|-damage|p2a: Venusaur|77/100
+|-enditem|p2a: Venusaur|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|5
+|
+|t:|1641888706
+|move|p2a: Venusaur|Sludge Bomb|p1a: Ferrothorn
+|-immune|p1a: Ferrothorn
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Venusaur
+|-sidestart|p2: FAZEoliviarodrigo|move: Stealth Rock
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|inactive|FAZEoliviarodrigo has 120 seconds left.
+|
+|t:|1641888745
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|-damage|p2a: Blastoise|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Knock Off|p2a: Blastoise
+|-damage|p2a: Blastoise|65/100
+|-enditem|p2a: Blastoise|White Herb|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|7
+|
+|t:|1641888758
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|
+|upkeep
+|turn|8
+|
+|t:|1641888766
+|move|p2a: Blastoise|Surf|p1a: Alakazam
+|-enditem|p1a: Alakazam|Focus Sash
+|-damage|p1a: Alakazam|1/100
+|move|p1a: Alakazam|Expanding Force|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|upkeep
+|
+|t:|1641888774
+|switch|p2a: Raichu|Raichu, M|88/100
+|-damage|p2a: Raichu|76/100|[from] Stealth Rock
+|turn|9
+|inactive|FAZEoliviarodrigo has 120 seconds left.
+|
+|t:|1641888780
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raichu|atk|1
+|move|p2a: Raichu|Thunderbolt|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|10
+|inactive|FAZEoliviarodrigo has 120 seconds left.
+|inactive|FAZEoliviarodrigo has 90 seconds left.
+|
+|t:|1641888823
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Landorus|U-turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|94/100
+|
+|t:|1641888834
+|switch|p1a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|11
+|inactive|FAZEoliviarodrigo has 90 seconds left.
+|
+|t:|1641888870
+|move|p2a: Dragonite|Extreme Speed|p1a: Tapu Lele
+|-activate|p1a: Tapu Lele|move: Psychic Terrain
+|move|p1a: Tapu Lele|Psychic|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641888877
+|switch|p2a: Raichu|Raichu, M|76/100
+|-damage|p2a: Raichu|64/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641888896
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raichu|atk|1
+|move|p2a: Raichu|Nuzzle|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|13
+|
+|t:|1641888903
+|move|p2a: Raichu|Surf|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|62/100
+|move|p1a: Landorus|U-turn|p2a: Raichu
+|-damage|p2a: Raichu|15/100
+|
+|t:|1641888906
+|switch|p1a: Alakazam|Alakazam, M|1/100|[from]move: U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1641888912
+|move|p1a: Alakazam|Expanding Force|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|faint|p2a: Raichu
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641888919
+|switch|p2a: Charizard|Charizard, M|100/100
+|turn|15
+|
+|t:|1641888925
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Charizard|Flamethrower|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|57/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641888935
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Charizard|Air Slash|p1a: Toxapex
+|-damage|p1a: Toxapex|73/100
+|-enditem|p1a: Toxapex|Eject Button
+|
+|t:|1641888937
+|switch|p1a: Alakazam|Alakazam, M|1/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641888944
+|move|p1a: Alakazam|Expanding Force|p2a: Charizard
+|-damage|p2a: Charizard|0 fnt
+|faint|p2a: Charizard
+|
+|upkeep
+|
+|t:|1641888948
+|switch|p2a: Venusaur|Venusaur, M|77/100
+|-damage|p2a: Venusaur|64/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641888953
+|move|p1a: Alakazam|Expanding Force|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|win|Unwallable
+|raw|Unwallable's rating: 1358 &rarr; <strong>1383</strong><br />(+25 for winning)
+|raw|FAZEoliviarodrigo's rating: 1455 &rarr; <strong>1430</strong><br />(-25 for losing)

@@ -1,0 +1,303 @@
+|j|☆watch da throne
+|j|☆zioziopasture
+|t:|1641707678
+|gametype|singles
+|player|p1|watch da throne|jogger|
+|player|p2|zioziopasture|rocketgrunt|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Dragapult, M|
+|poke|p1|Porygon2|
+|poke|p1|Sylveon, F|
+|poke|p1|Togetic, F|
+|poke|p1|Regirock|
+|poke|p2|Zapdos|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Zeraora|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Tapu Fini|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zioziopasture)
+|
+|t:|1641707698
+|start
+|switch|p1a: Sylveon|Sylveon, F|100/100
+|switch|p2a: ZEPPELIN|Zapdos|100/100
+|turn|1
+|c|☆watch da throne|Yo
+|
+|t:|1641707704
+|move|p2a: ZEPPELIN|Volt Switch|p1a: Sylveon
+|-damage|p1a: Sylveon|74/100
+|c|☆watch da throne|Watch this br0
+|
+|t:|1641707706
+|switch|p2a: TOXICOLOGY|Slowking-Galar, M|100/100|[from]move: Volt Switch
+|move|p1a: Sylveon|Work Up|p1a: Sylveon
+|-boost|p1a: Sylveon|atk|1
+|-boost|p1a: Sylveon|spa|1
+|
+|-heal|p1a: Sylveon|80/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641707708
+|move|p1a: Sylveon|Last Resort|p2a: TOXICOLOGY
+|-damage|p2a: TOXICOLOGY|58/100
+|move|p2a: TOXICOLOGY|Sludge Bomb|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|19/100
+|
+|-heal|p1a: Sylveon|25/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641707712
+|move|p1a: Sylveon|Last Resort|p2a: TOXICOLOGY
+|-damage|p2a: TOXICOLOGY|19/100
+|move|p2a: TOXICOLOGY|Sludge Bomb|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|0 fnt
+|faint|p1a: Sylveon
+|
+|upkeep
+|
+|t:|1641707718
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Regenerator|[from] ability: Trace|[of] p2a: TOXICOLOGY
+|turn|4
+|
+|t:|1641707744
+|switch|p2a: ATHENA|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: ATHENA
+|move|p1a: Porygon2|Lock-On|p2a: ATHENA
+|-activate|p1a: Porygon2|move: Lock-On|[of] p2a: ATHENA
+|
+|upkeep
+|turn|5
+|
+|t:|1641707755
+|move|p2a: ATHENA|Trick|p1a: Porygon2
+|-activate|p2a: ATHENA|move: Trick|[of] p1a: Porygon2
+|-item|p1a: Porygon2|Choice Scarf|[from] move: Trick
+|-item|p2a: ATHENA|Eviolite|[from] move: Trick
+|move|p1a: Porygon2|Zap Cannon|p2a: ATHENA
+|-supereffective|p2a: ATHENA
+|-damage|p2a: ATHENA|31/100
+|
+|upkeep
+|turn|6
+|c|☆watch da throne|Oh yeah
+|c|☆watch da throne|Oh yeah
+|
+|t:|1641707767
+|switch|p2a: PERPETUITY|Landorus-Therian, M|100/100
+|-ability|p2a: PERPETUITY|Intimidate|boost
+|-unboost|p1a: Porygon2|atk|1
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|
+|upkeep
+|turn|7
+|inactive|zioziopasture has 270 seconds left.
+|
+|t:|1641707823
+|move|p1a: Dragapult|Infestation|p2a: PERPETUITY
+|-resisted|p2a: PERPETUITY
+|-damage|p2a: PERPETUITY|98/100
+|-activate|p2a: PERPETUITY|move: Infestation|[of] p1a: Dragapult
+|-damage|p1a: Dragapult|91/100|[from] item: Life Orb
+|move|p2a: PERPETUITY|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|79/100
+|
+|t:|1641707826
+|switch|p2a: ACTION|Zeraora|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1641707839
+|move|p2a: ACTION|Bulk Up|p2a: ACTION
+|-boost|p2a: ACTION|atk|1
+|-boost|p2a: ACTION|def|1
+|move|p1a: Dragapult|Disable|p2a: ACTION
+|-start|p2a: ACTION|Disable|Bulk Up
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|9
+|c|☆watch da throne|nr no!!!
+|c|☆watch da throne|nr no!!!!
+|
+|t:|1641707858
+|move|p2a: ACTION|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-enditem|p1a: Dragapult|Life Orb|[from] move: Knock Off|[of] p2a: ACTION
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641707866
+|switch|p1a: Regirock|Regirock|100/100
+|turn|10
+|
+|t:|1641707885
+|move|p2a: ACTION|Plasma Fists|p1a: Regirock
+|-damage|p1a: Regirock|66/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p1a: Regirock|Self-Destruct|p2a: ACTION
+|-immune|p2a: ACTION|[from] ability: Volt Absorb
+|faint|p1a: Regirock
+|
+|upkeep
+|c|☆watch da throne|O
+|c|☆watch da throne|rite
+|
+|t:|1641707902
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Volt Absorb|[from] ability: Trace|[of] p2a: ACTION
+|turn|11
+|c|☆watch da throne|Watch this p[lay bro
+|
+|t:|1641707917
+|move|p2a: ACTION|Close Combat|p1a: Porygon2
+|-supereffective|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|-unboost|p2a: ACTION|def|1
+|-unboost|p2a: ACTION|spd|1
+|faint|p1a: Porygon2
+|
+|upkeep
+|c|☆watch da throne|U suck
+|c|☆watch da throne|Balls
+|
+|t:|1641707926
+|switch|p1a: Mew|Mew|100/100
+|turn|12
+|inactive|zioziopasture has 270 seconds left.
+|c|☆watch da throne|Bro
+|c|☆watch da throne|I woulda won
+|c|☆watch da throne|If u didnt have
+|c|☆watch da throne|Cc
+|c|☆watch da throne|Bg
+|
+|t:|1641707953
+|move|p2a: ACTION|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|30/100
+|-enditem|p1a: Mew|Sitrus Berry|[from] move: Knock Off|[of] p2a: ACTION
+|move|p1a: Mew|Transform|p2a: ACTION
+|-transform|p1a: Mew|p2a: ACTION
+|
+|-end|p2a: ACTION|Disable
+|upkeep
+|turn|13
+|j| tenzhii 天龍
+|
+|t:|1641707972
+|switch|p2a: PERPETUITY|Landorus-Therian, M|98/100
+|-ability|p2a: PERPETUITY|Intimidate|boost
+|-unboost|p1a: Mew|atk|1
+|move|p1a: Mew|Bulk Up|p1a: Mew
+|-boost|p1a: Mew|atk|1
+|-boost|p1a: Mew|def|1
+|
+|-heal|p2a: PERPETUITY|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641707979
+|move|p1a: Mew|Knock Off|p2a: PERPETUITY
+|-damage|p2a: PERPETUITY|58/100
+|-enditem|p2a: PERPETUITY|Leftovers|[from] move: Knock Off|[of] p1a: Mew
+|move|p2a: PERPETUITY|Earthquake|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641707981
+|switch|p1a: Togetic|Togetic, F|100/100
+|turn|15
+|
+|t:|1641707984
+|move|p2a: PERPETUITY|Toxic|p1a: Togetic
+|-status|p1a: Togetic|tox
+|move|p1a: Togetic|Aerial Ace|p2a: PERPETUITY
+|-damage|p2a: PERPETUITY|33/100
+|
+|-damage|p1a: Togetic|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641707987
+|switch|p2a: TOXICOLOGY|Slowking-Galar, M|52/100
+|move|p1a: Togetic|Last Resort|p2a: TOXICOLOGY
+|-damage|p2a: TOXICOLOGY|19/100
+|
+|-damage|p1a: Togetic|82/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641707989
+|switch|p2a: ZEPPELIN|Zapdos|100/100
+|move|p1a: Togetic|Last Resort|p2a: ZEPPELIN
+|-damage|p2a: ZEPPELIN|52/100
+|
+|-damage|p1a: Togetic|64/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641707992
+|move|p2a: ZEPPELIN|Volt Switch|p1a: Togetic
+|-supereffective|p1a: Togetic
+|-damage|p1a: Togetic|16/100 tox
+|
+|t:|1641707995
+|switch|p2a: PERPETUITY|Landorus-Therian, M|33/100|[from]move: Volt Switch
+|-ability|p2a: PERPETUITY|Intimidate|boost
+|-unboost|p1a: Togetic|atk|1
+|move|p1a: Togetic|Last Resort|p2a: PERPETUITY
+|-damage|p2a: PERPETUITY|7/100
+|
+|-damage|p1a: Togetic|0 fnt|[from] psn
+|faint|p1a: Togetic
+|
+|win|zioziopasture
+|upkeep
+|c|☆watch da throne|Bg
+|c| tenzhii 天龍|Bg
+|l|☆zioziopasture
+|c|☆watch da throne|If u sidnt have cc
+|c|☆watch da throne|I woula
+|c|☆watch da throne|Wonder roomed
+|c|☆watch da throne|With
+|c|☆watch da throne|p2
+|c|☆watch da throne|and won
+|c|☆watch da throne|Ez
+|c|☆watch da throne|100%
+|c|☆watch da throne|Bro
+|l|☆watch da throne
+|j|☆watch da throne
+|player|p1|watch da throne|jogger
+|c|☆watch da throne|Yeah
+|c|☆watch da throne|!showteam
+|c| watch da throne|/raw <div class="infobox"><details><summary>View team</summary>Mew @ Sitrus Berry  <br />Ability: Synchronize  <br />EVs: 248 HP &#x2f; 8 Def &#x2f; 252 SpD  <br />Calm Nature  <br />IVs: 0 Atk  <br />- Imprison  <br />- Mimic  <br />- Transform  <br />- Block  <br /><br />Dragapult @ Life Orb  <br />Ability: Infiltrator  <br />EVs: 252 Atk &#x2f; 124 Def &#x2f; 132 Spe  <br />Jolly Nature  <br />- Disable  <br />- Infestation  <br />- Phantom Force  <br />- Outrage  <br /><br />Porygon2 @ Eviolite  <br />Ability: Trace  <br />EVs: 64 HP &#x2f; 192 SpA &#x2f; 252 SpD  <br />Quiet Nature  <br />IVs: 0 Atk  <br />- Zap Cannon  <br />- Lock-On  <br />- Wonder Room  <br />- Conversion 2  <br /><br />Sylveon @ Leftovers  <br />Ability: Cute Charm  <br />EVs: 252 HP &#x2f; 252 Atk &#x2f; 4 Def  <br />Serious Nature  <br />- Last Resort  <br />- Work Up  <br /><br />Togetic @ Eviolite  <br />Ability: Hustle  <br />EVs: 252 HP &#x2f; 252 Atk &#x2f; 4 SpD  <br />Adamant Nature  <br />- Aerial Ace  <br />- Last Resort  <br /><br />Regirock @ Choice Band  <br />Ability: Clear Body  <br />EVs: 252 HP &#x2f; 252 Atk &#x2f; 4 SpD  <br />Adamant Nature  <br />- Mega Kick  <br />- Rock Tomb  <br />- Smack Down  <br />- Self-Destruct  <br /><br /></details></div>
+|c|☆watch da throne|BRo
+|c|☆watch da throne|Yeah
+|c|☆watch da throne|amazing Team\

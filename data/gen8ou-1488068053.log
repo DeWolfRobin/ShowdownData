@@ -1,0 +1,149 @@
+|j|☆dogshi
+|j|☆Ludichollo
+|t:|1641705737
+|gametype|singles
+|player|p1|dogshi|giovanni|1011
+|player|p2|Ludichollo|101|1052
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Victini|
+|poke|p1|Crobat, M|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Thundurus, M|
+|poke|p1|Stakataka|
+|poke|p1|Venusaur, M|
+|poke|p2|Weavile, F|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Centiskorch, F|
+|poke|p2|Arcanine, F|
+|poke|p2|Slurpuff, F|
+|poke|p2|Toxtricity, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ludichollo)
+|
+|t:|1641705750
+|start
+|switch|p1a: Crobat|Crobat, M|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|turn|1
+|
+|t:|1641705756
+|move|p1a: Crobat|Tailwind|p1a: Crobat
+|-sidestart|p1: dogshi|move: Tailwind
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641705774
+|move|p2a: Weavile|Icicle Crash|p1a: Crobat|[miss]
+|-miss|p2a: Weavile|p1a: Crobat
+|move|p1a: Crobat|Whirlwind|p2a: Weavile
+|drag|p2a: Centiskorch|Centiskorch, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641705783
+|move|p1a: Crobat|Toxic|p2a: Centiskorch
+|-status|p2a: Centiskorch|tox
+|move|p2a: Centiskorch|Will-O-Wisp|p1a: Crobat
+|-status|p1a: Crobat|brn
+|
+|-damage|p2a: Centiskorch|94/100 tox|[from] psn
+|-damage|p1a: Crobat|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641705802
+|move|p2a: Centiskorch|Overheat|p1a: Crobat
+|-damage|p1a: Crobat|15/100 brn
+|-unboost|p2a: Centiskorch|spa|2
+|move|p1a: Crobat|Whirlwind|p2a: Centiskorch
+|drag|p2a: Slurpuff|Slurpuff, F|100/100
+|
+|-damage|p1a: Crobat|9/100 brn|[from] brn
+|-sideend|p1: dogshi|move: Tailwind
+|upkeep
+|turn|5
+|
+|t:|1641705813
+|move|p1a: Crobat|Toxic|p2a: Slurpuff
+|-status|p2a: Slurpuff|tox
+|move|p2a: Slurpuff|Belly Drum|p2a: Slurpuff
+|-damage|p2a: Slurpuff|50/100 tox
+|-setboost|p2a: Slurpuff|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Slurpuff|Sitrus Berry|[eat]
+|-heal|p2a: Slurpuff|75/100 tox|[from] item: Sitrus Berry
+|
+|-damage|p2a: Slurpuff|69/100 tox|[from] psn
+|-damage|p1a: Crobat|2/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641705825
+|move|p2a: Slurpuff|Drain Punch|p1a: Crobat
+|-resisted|p1a: Crobat
+|-damage|p1a: Crobat|0 fnt
+|-heal|p2a: Slurpuff|70/100 tox|[from] drain|[of] p1a: Crobat
+|faint|p1a: Crobat
+|
+|-damage|p2a: Slurpuff|58/100 tox|[from] psn
+|upkeep
+|
+|t:|1641705838
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|turn|7
+|
+|t:|1641705848
+|move|p2a: Slurpuff|Facade|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|-damage|p2a: Slurpuff|39/100 tox|[from] psn
+|upkeep
+|
+|t:|1641705857
+|switch|p1a: Stakataka|Stakataka|100/100
+|turn|8
+|
+|t:|1641705860
+|move|p2a: Slurpuff|Drain Punch|p1a: Stakataka
+|-supereffective|p1a: Stakataka
+|-damage|p1a: Stakataka|0 fnt
+|-heal|p2a: Slurpuff|83/100 tox|[from] drain|[of] p1a: Stakataka
+|faint|p1a: Stakataka
+|
+|-damage|p2a: Slurpuff|58/100 tox|[from] psn
+|upkeep
+|
+|t:|1641705880
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|turn|9
+|
+|t:|1641705886
+|move|p2a: Slurpuff|Facade|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-damage|p2a: Slurpuff|27/100 tox|[from] psn
+|upkeep
+|-message|dogshi forfeited.
+|
+|win|Ludichollo
+|raw|dogshi's rating: 1011 &rarr; <strong>1001</strong><br />(-10 for losing)
+|raw|Ludichollo's rating: 1052 &rarr; <strong>1080</strong><br />(+28 for winning)
+|l|☆dogshi
+|c|☆Ludichollo|lol 6-0

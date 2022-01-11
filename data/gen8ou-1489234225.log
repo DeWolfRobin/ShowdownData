@@ -1,0 +1,154 @@
+|j|☆OdinGX
+|j|☆duckyay
+|t:|1641875017
+|gametype|singles
+|player|p1|OdinGX|1|1078
+|player|p2|duckyay|brock|1040
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hydreigon, F|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Sableye, F|
+|poke|p1|Sharpedo, F|
+|poke|p1|Moltres-Galar|
+|poke|p2|Ninetales, M|
+|poke|p2|Crobat, M|
+|poke|p2|Guzzlord|
+|poke|p2|Claydol|
+|poke|p2|Shuckle, F|
+|poke|p2|Dhelmise|
+|teampreview
+|
+|t:|1641875025
+|start
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|switch|p2a: Pirate Ender|Dhelmise|100/100
+|turn|1
+|
+|t:|1641875031
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|move|p2a: Pirate Ender|Toxic|p1a: Bisharp
+|-immune|p1a: Bisharp
+|
+|upkeep
+|turn|2
+|c|☆duckyay|misclick i promise
+|c|☆OdinGX|xddddddddd
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by OdinGX)
+|
+|t:|1641875065
+|switch|p2a: Trash Day|Guzzlord|100/100
+|move|p1a: Bisharp|Knock Off|p2a: Trash Day
+|-resisted|p2a: Trash Day
+|-damage|p2a: Trash Day|60/100
+|-enditem|p2a: Trash Day|Choice Band|[from] move: Knock Off|[of] p1a: Bisharp
+|
+|upkeep
+|turn|3
+|
+|t:|1641875076
+|move|p1a: Bisharp|Iron Head|p2a: Trash Day
+|-damage|p2a: Trash Day|0 fnt
+|faint|p2a: Trash Day
+|
+|upkeep
+|
+|t:|1641875090
+|switch|p2a: Anti-Semitism ARG|Claydol|100/100
+|turn|4
+|
+|t:|1641875095
+|move|p2a: Anti-Semitism ARG|Stealth Rock|p1a: Bisharp
+|-sidestart|p1: OdinGX|move: Stealth Rock
+|move|p1a: Bisharp|Knock Off|p2a: Anti-Semitism ARG
+|-supereffective|p2a: Anti-Semitism ARG
+|-damage|p2a: Anti-Semitism ARG|0 fnt
+|-enditem|p2a: Anti-Semitism ARG|Leftovers|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Anti-Semitism ARG
+|
+|upkeep
+|
+|t:|1641875107
+|switch|p2a: Joe Rogan|Ninetales, M|100/100
+|turn|5
+|
+|t:|1641875112
+|move|p1a: Bisharp|Sucker Punch|p2a: Joe Rogan
+|-damage|p2a: Joe Rogan|0 fnt
+|faint|p2a: Joe Rogan
+|
+|upkeep
+|
+|t:|1641875117
+|switch|p2a: The Big Guns|Shuckle, F|100/100
+|turn|6
+|
+|t:|1641875122
+|move|p1a: Bisharp|Iron Head|p2a: The Big Guns
+|-supereffective|p2a: The Big Guns
+|-ability|p2a: The Big Guns|Sturdy
+|-damage|p2a: The Big Guns|1/100
+|cant|p2a: The Big Guns|flinch
+|
+|-heal|p2a: The Big Guns|7/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|c|☆duckyay|D:
+|
+|t:|1641875138
+|move|p1a: Bisharp|Knock Off|p2a: The Big Guns
+|-damage|p2a: The Big Guns|0 fnt
+|-enditem|p2a: The Big Guns|Leftovers|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: The Big Guns
+|
+|upkeep
+|
+|t:|1641875145
+|switch|p2a: Acroyoga|Crobat, M|100/100
+|turn|8
+|
+|t:|1641875151
+|move|p2a: Acroyoga|Acrobatics|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|76/100
+|move|p1a: Bisharp|Knock Off|p2a: Acroyoga
+|-damage|p2a: Acroyoga|23/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641875166
+|move|p1a: Bisharp|Sucker Punch|p2a: Acroyoga
+|-damage|p2a: Acroyoga|0 fnt
+|faint|p2a: Acroyoga
+|
+|upkeep
+|
+|t:|1641875172
+|switch|p2a: Pirate Ender|Dhelmise|100/100
+|turn|10
+|
+|t:|1641875187
+|move|p1a: Bisharp|Knock Off|p2a: Pirate Ender
+|-supereffective|p2a: Pirate Ender
+|-damage|p2a: Pirate Ender|0 fnt
+|-damage|p1a: Bisharp|59/100|[from] item: Rocky Helmet|[of] p2a: Pirate Ender
+|-enditem|p2a: Pirate Ender|Rocky Helmet|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Pirate Ender
+|
+|win|OdinGX
+|raw|OdinGX's rating: 1078 &rarr; <strong>1103</strong><br />(+25 for winning)
+|raw|duckyay's rating: 1040 &rarr; <strong>1026</strong><br />(-14 for losing)

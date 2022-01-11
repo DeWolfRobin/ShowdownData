@@ -1,0 +1,370 @@
+|j|☆flygonli
+|j|☆gatostep
+|t:|1641702175
+|gametype|singles
+|player|p1|flygonli|cynthia-gen4|1228
+|player|p2|gatostep|giovanni|1249
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Galvantula, M|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Victini|
+|poke|p1|Mandibuzz, F|
+|poke|p2|Espeon, F|
+|poke|p2|Sylveon, M|
+|poke|p2|Jolteon, F|
+|poke|p2|Leafeon, M|
+|poke|p2|Vaporeon, M|
+|poke|p2|Umbreon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by flygonli)
+|
+|t:|1641702199
+|start
+|switch|p1a: Galvantula|Galvantula, M|100/100
+|switch|p2a: Espeon|Espeon, F|100/100
+|turn|1
+|
+|t:|1641702206
+|move|p1a: Galvantula|Volt Switch|p2a: Espeon
+|-damage|p2a: Espeon|64/100
+|
+|t:|1641702219
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100|[from]move: Volt Switch
+|move|p2a: Espeon|Light Screen|p2a: Espeon
+|-sidestart|p2: gatostep|move: Light Screen
+|
+|-heal|p2a: Espeon|70/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641702228
+|switch|p2a: Vaporeon|Vaporeon, M|100/100
+|move|p1a: Mandibuzz|Foul Play|p2a: Vaporeon
+|-damage|p2a: Vaporeon|86/100
+|
+|-heal|p2a: Vaporeon|92/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641702244
+|move|p1a: Mandibuzz|U-turn|p2a: Vaporeon
+|-damage|p2a: Vaporeon|82/100
+|
+|t:|1641702259
+|switch|p1a: Kartana|Kartana|100/100|[from]move: U-turn
+|move|p2a: Vaporeon|Ice Beam|p1a: Kartana
+|-damage|p1a: Kartana|19/100
+|
+|-heal|p2a: Vaporeon|88/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641702273
+|move|p1a: Kartana|Leaf Blade|p2a: Vaporeon
+|-supereffective|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|9/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641702279
+|switch|p2a: Jolteon|Jolteon, F|100/100
+|turn|5
+|
+|t:|1641702291
+|move|p2a: Jolteon|Discharge|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|-damage|p2a: Jolteon|91/100|[from] item: Life Orb
+|
+|-sideend|p2: gatostep|move: Light Screen
+|upkeep
+|
+|t:|1641702296
+|switch|p1a: Galvantula|Galvantula, M|100/100
+|turn|6
+|
+|t:|1641702308
+|switch|p2a: Espeon|Espeon, F|70/100
+|move|p1a: Galvantula|Toxic|p2a: Espeon
+|move|p2a: Espeon|Toxic|p1a: Galvantula|[from]ability: Magic Bounce
+|-status|p1a: Galvantula|tox
+|
+|-heal|p2a: Espeon|76/100|[from] item: Leftovers
+|-damage|p1a: Galvantula|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641702319
+|move|p1a: Galvantula|Volt Switch|p2a: Espeon
+|-damage|p2a: Espeon|45/100
+|
+|t:|1641702326
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100|[from]move: Volt Switch
+|move|p2a: Espeon|Light Screen|p2a: Espeon
+|-sidestart|p2: gatostep|move: Light Screen
+|
+|-heal|p2a: Espeon|51/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641702334
+|switch|p2a: Umbreon|Umbreon, F|100/100
+|move|p1a: Mandibuzz|U-turn|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|84/100
+|
+|t:|1641702345
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|
+|-heal|p2a: Umbreon|90/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641702354
+|move|p1a: Urshifu|U-turn|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|34/100
+|
+|t:|1641702356
+|switch|p1a: Galvantula|Galvantula, M|94/100 tox|[from]move: U-turn
+|move|p2a: Umbreon|Toxic|p1a: Galvantula
+|-fail|p1a: Galvantula|tox
+|
+|-heal|p2a: Umbreon|40/100|[from] item: Leftovers
+|-damage|p1a: Galvantula|88/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641702368
+|switch|p2a: Jolteon|Jolteon, F|91/100
+|move|p1a: Galvantula|Volt Switch|p2a: Jolteon
+|-heal|p2a: Jolteon|100/100|[from] ability: Volt Absorb|[of] p1a: Galvantula
+|
+|-damage|p1a: Galvantula|76/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641702377
+|move|p2a: Jolteon|Shadow Ball|p1a: Galvantula
+|-damage|p1a: Galvantula|13/100 tox
+|-damage|p2a: Jolteon|91/100|[from] item: Life Orb
+|move|p1a: Galvantula|Toxic|p2a: Jolteon
+|-status|p2a: Jolteon|tox
+|
+|-damage|p2a: Jolteon|84/100 tox|[from] psn
+|-damage|p1a: Galvantula|0 fnt|[from] psn
+|faint|p1a: Galvantula
+|-sideend|p2: gatostep|move: Light Screen
+|upkeep
+|
+|t:|1641702389
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Jolteon|atk|1
+|turn|12
+|
+|t:|1641702402
+|switch|p2a: Sylveon|Sylveon, M|100/100
+|move|p1a: Landorus|Knock Off|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|78/100
+|-enditem|p2a: Sylveon|Life Orb|[from] move: Knock Off|[of] p1a: Landorus
+|
+|upkeep
+|turn|13
+|
+|t:|1641702412
+|move|p1a: Landorus|Earthquake|p2a: Sylveon
+|-damage|p2a: Sylveon|10/100
+|move|p2a: Sylveon|Yawn|p1a: Landorus
+|-start|p1a: Landorus|move: Yawn|[of] p2a: Sylveon
+|
+|upkeep
+|turn|14
+|
+|t:|1641702421
+|switch|p2a: Espeon|Espeon, F|51/100
+|move|p1a: Landorus|U-turn|p2a: Espeon
+|-supereffective|p2a: Espeon
+|-damage|p2a: Espeon|0 fnt
+|faint|p2a: Espeon
+|
+|t:|1641702433
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641702437
+|switch|p2a: Jolteon|Jolteon, F|84/100 tox
+|turn|15
+|
+|t:|1641702453
+|move|p2a: Jolteon|Toxic|p1a: Mandibuzz
+|-status|p1a: Mandibuzz|tox
+|move|p1a: Mandibuzz|Foul Play|p2a: Jolteon
+|-damage|p2a: Jolteon|51/100 tox
+|
+|-damage|p2a: Jolteon|45/100 tox|[from] psn
+|-damage|p1a: Mandibuzz|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641702458
+|move|p2a: Jolteon|Discharge|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|13/100 tox
+|-damage|p2a: Jolteon|35/100 tox|[from] item: Life Orb
+|move|p1a: Mandibuzz|Foul Play|p2a: Jolteon
+|-crit|p2a: Jolteon
+|-damage|p2a: Jolteon|0 fnt
+|faint|p2a: Jolteon
+|
+|-damage|p1a: Mandibuzz|0 fnt|[from] psn
+|faint|p1a: Mandibuzz
+|upkeep
+|
+|t:|1641702468
+|switch|p2a: Umbreon|Umbreon, F|40/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Umbreon|atk|1
+|turn|17
+|
+|t:|1641702487
+|move|p1a: Landorus|U-turn|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|2/100
+|
+|t:|1641702491
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|8/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641702498
+|switch|p2a: Sylveon|Sylveon, M|10/100
+|move|p1a: Urshifu|U-turn|p2a: Sylveon
+|-resisted|p2a: Sylveon
+|-damage|p2a: Sylveon|0 fnt
+|faint|p2a: Sylveon
+|
+|t:|1641702503
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641702506
+|switch|p2a: Leafeon|Leafeon, M|100/100
+|turn|19
+|
+|t:|1641702518
+|move|p1a: Landorus|Knock Off|p2a: Leafeon
+|-damage|p2a: Leafeon|67/100
+|-enditem|p2a: Leafeon|Life Orb|[from] move: Knock Off|[of] p1a: Landorus
+|move|p2a: Leafeon|Sunny Day|p2a: Leafeon
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641702526
+|move|p2a: Leafeon|Solar Blade||[still]
+|-prepare|p2a: Leafeon|Solar Blade
+|-anim|p2a: Leafeon|Solar Blade|p1a: Landorus
+|-damage|p1a: Landorus|24/100
+|move|p1a: Landorus|U-turn|p2a: Leafeon
+|-supereffective|p2a: Leafeon
+|-damage|p2a: Leafeon|17/100
+|
+|t:|1641702554
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|inactive|gatostep has 120 seconds left.
+|inactiveoff|Battle timer is now OFF.
+|
+|t:|1641702611
+|move|p2a: Leafeon|Solar Blade||[still]
+|-prepare|p2a: Leafeon|Solar Blade
+|-anim|p2a: Leafeon|Solar Blade|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641702616
+|switch|p1a: Landorus|Landorus-Therian, M|24/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Leafeon|atk|1
+|turn|22
+|
+|t:|1641702624
+|move|p2a: Leafeon|Solar Blade||[still]
+|-prepare|p2a: Leafeon|Solar Blade
+|-anim|p2a: Leafeon|Solar Blade|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641702626
+|switch|p1a: Victini|Victini|100/100
+|turn|23
+|
+|t:|1641702636
+|move|p2a: Leafeon|X-Scissor|p1a: Victini
+|-damage|p1a: Victini|82/100
+|move|p1a: Victini|V-create|p2a: Leafeon
+|-supereffective|p2a: Leafeon
+|-damage|p2a: Leafeon|0 fnt
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|faint|p2a: Leafeon
+|
+|-weather|none
+|upkeep
+|
+|t:|1641702646
+|switch|p2a: Umbreon|Umbreon, F|8/100
+|turn|24
+|
+|t:|1641702651
+|move|p1a: Victini|V-create|p2a: Umbreon
+|-damage|p2a: Umbreon|0 fnt
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|faint|p2a: Umbreon
+|
+|win|flygonli
+|raw|flygonli's rating: 1249 &rarr; <strong>1274</strong><br />(+25 for winning)
+|raw|gatostep's rating: 1249 &rarr; <strong>1224</strong><br />(-25 for losing)
+|c|☆gatostep|gg

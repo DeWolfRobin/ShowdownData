@@ -1,0 +1,175 @@
+|j|☆Kirino Kirigaya
+|j|☆Bo Jiden
+|t:|1641699425
+|gametype|singles
+|player|p1|Kirino Kirigaya|guitarist|1334
+|player|p2|Bo Jiden|unknown|1295
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Magnezone|
+|poke|p1|Mew|
+|poke|p1|Weavile, M|
+|poke|p1|Zeraora|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Melmetal|
+|poke|p2|Buzzwole|
+|poke|p2|Salazzle, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Tapu Fini|
+|teampreview
+|
+|t:|1641699431
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Fini|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kirino Kirigaya)
+|
+|t:|1641699437
+|move|p2a: Tapu Fini|Surf|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|47/100
+|move|p1a: Landorus|Stealth Rock|p2a: Tapu Fini
+|-sidestart|p2: Bo Jiden|move: Stealth Rock
+|
+|-heal|p1a: Landorus|53/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641699444
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Tapu Fini|Surf|p1a: Melmetal
+|-damage|p1a: Melmetal|82/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641699447
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-damage|p2a: Buzzwole|88/100|[from] Stealth Rock
+|move|p1a: Melmetal|Double Iron Bash|p2a: Buzzwole
+|-damage|p2a: Buzzwole|62/100
+|-damage|p1a: Melmetal|66/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-damage|p2a: Buzzwole|36/100
+|-damage|p1a: Melmetal|49/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-hitcount|p2a: Buzzwole|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641699457
+|switch|p1a: Landorus|Landorus-Therian, M|53/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Buzzwole|atk|1
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|87/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|-heal|p1a: Landorus|59/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641699461
+|move|p2a: Buzzwole|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641699466
+|switch|p1a: Mew|Mew|100/100
+|turn|6
+|
+|t:|1641699469
+|move|p1a: Mew|Taunt|p2a: Buzzwole
+|-start|p2a: Buzzwole|move: Taunt
+|move|p2a: Buzzwole|Leech Life|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|26/100
+|-heal|p2a: Buzzwole|100/100|[from] drain|[of] p1a: Mew
+|-enditem|p1a: Mew|Weakness Policy
+|-boost|p1a: Mew|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Mew|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|7
+|
+|t:|1641699477
+|switch|p1a: Melmetal|Melmetal|49/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melmetal|atk|1
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641699481
+|move|p2a: Landorus|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|-heal|p2a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641699485
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|9
+|
+|t:|1641699487
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-damage|p2a: Buzzwole|88/100|[from] Stealth Rock
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|
+|upkeep
+|turn|10
+|
+|t:|1641699491
+|move|p1a: Weavile|Triple Axel|p2a: Buzzwole
+|-damage|p2a: Buzzwole|74/100
+|-damage|p1a: Weavile|84/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-damage|p2a: Buzzwole|48/100
+|-damage|p1a: Weavile|68/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-damage|p2a: Buzzwole|12/100
+|-damage|p1a: Weavile|51/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-hitcount|p2a: Buzzwole|3
+|move|p2a: Buzzwole|Leech Life|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|-heal|p2a: Buzzwole|31/100|[from] drain|[of] p1a: Weavile
+|faint|p1a: Weavile
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|upkeep
+|-message|Kirino Kirigaya forfeited.
+|
+|win|Bo Jiden
+|raw|Kirino Kirigaya's rating: 1334 &rarr; <strong>1312</strong><br />(-22 for losing)
+|raw|Bo Jiden's rating: 1295 &rarr; <strong>1323</strong><br />(+28 for winning)
+|l|☆Kirino Kirigaya

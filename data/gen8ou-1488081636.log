@@ -1,0 +1,170 @@
+|j|☆cedarbranch1994
+|j|☆naNo312
+|t:|1641708052
+|gametype|singles
+|player|p1|cedarbranch1994|2|1354
+|player|p2|naNo312|pokefan-gen4|1409
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Cloyster, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Clefable, M|
+|poke|p1|Shuckle, M|
+|poke|p1|Latias, F|
+|poke|p1|Blacephalon|
+|poke|p2|Pelipper, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Zapdos|
+|poke|p2|Urshifu-*, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by naNo312)
+|
+|t:|1641708062
+|start
+|switch|p1a: Shuckle|Shuckle, M|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641708070
+|move|p2a: Pelipper|U-turn|p1a: Shuckle
+|-damage|p1a: Shuckle|94/100
+|
+|t:|1641708080
+|switch|p2a: Barraskewda|Barraskewda, M|100/100|[from]move: U-turn
+|move|p1a: Shuckle|Sticky Web|p2a: Barraskewda
+|-sidestart|p2: naNo312|move: Sticky Web
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Shuckle|99/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|cedarbranch1994 has 120 seconds left.
+|
+|t:|1641708113
+|move|p2a: Barraskewda|Liquidation|p1a: Shuckle
+|-supereffective|p1a: Shuckle
+|-damage|p1a: Shuckle|0 fnt
+|faint|p1a: Shuckle
+|-damage|p2a: Barraskewda|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|cedarbranch1994 has 120 seconds left.
+|
+|t:|1641708137
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|3
+|
+|t:|1641708141
+|move|p2a: Barraskewda|Crunch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Barraskewda|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641708145
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|4
+|
+|t:|1641708150
+|move|p2a: Barraskewda|Close Combat|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-enditem|p1a: Cloyster|Focus Sash
+|-damage|p1a: Cloyster|1/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|-damage|p2a: Barraskewda|71/100|[from] item: Life Orb
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641708159
+|move|p2a: Barraskewda|Crunch|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|-damage|p2a: Barraskewda|61/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641708168
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|6
+|
+|t:|1641708175
+|move|p2a: Barraskewda|Liquidation|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-damage|p2a: Barraskewda|51/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641708179
+|switch|p1a: Latias|Latias, F|100/100
+|turn|7
+|
+|t:|1641708182
+|move|p2a: Barraskewda|Crunch|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|13/100
+|-unboost|p1a: Latias|def|1
+|-damage|p2a: Barraskewda|41/100|[from] item: Life Orb
+|move|p1a: Latias|Roost|p1a: Latias
+|-heal|p1a: Latias|63/100
+|-singleturn|p1a: Latias|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Latias|69/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641708208
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: Barraskewda|Crunch|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|-damage|p2a: Barraskewda|31/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641708210
+|switch|p1a: Latias|Latias, F|69/100
+|turn|9
+|
+|t:|1641708239
+|move|p2a: Barraskewda|Crunch|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|-damage|p2a: Barraskewda|21/100|[from] item: Life Orb
+|
+|win|naNo312
+|raw|cedarbranch1994's rating: 1354 &rarr; <strong>1337</strong><br />(-17 for losing)
+|raw|naNo312's rating: 1409 &rarr; <strong>1426</strong><br />(+17 for winning)

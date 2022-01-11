@@ -1,0 +1,280 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC KFC嫩牛五方
+|j|☆SL21CC Mcdonald's
+|t:|1641823493
+|gametype|singles
+|player|p1|SL21CC KFC嫩牛五方|baker|1303
+|player|p2|SL21CC Mcdonald's|101|1234
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Cresselia, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Porygon2|
+|poke|p1|Marowak-Alola, F|
+|poke|p2|Slowbro-Galar, F|
+|poke|p2|Seismitoad, M|
+|poke|p2|Mew|
+|poke|p2|Melmetal|
+|poke|p2|Clefable, M|
+|poke|p2|Zapdos|
+|teampreview
+|c|☆SL21CC Mcdonald's|。
+|j| SL21CC tangkeke
+|
+|t:|1641823502
+|start
+|switch|p1a: Marowak|Marowak-Alola, F|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|1
+|j|♚Master Origami♕
+|-activate|p2a: Melmetal|item: Quick Claw
+|
+|t:|1641823504
+|move|p2a: Melmetal|Double Iron Bash|p1a: Marowak
+|-resisted|p1a: Marowak
+|-crit|p1a: Marowak
+|-damage|p1a: Marowak|66/100
+|-resisted|p1a: Marowak
+|-damage|p1a: Marowak|43/100
+|-hitcount|p1a: Marowak|2
+|move|p1a: Marowak|Flare Blitz|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|j| jiokopg_fkok43
+|
+|t:|1641823512
+|switch|p2a: Slowbro|Slowbro-Galar, F|100/100
+|turn|2
+|j| SL21CC Leviathan
+|
+|t:|1641823515
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Marowak|Poltergeist|p2a: Clefable
+|-activate|p2a: Clefable|move: Poltergeist|Life Orb
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641823518
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|turn|3
+|
+|t:|1641823520
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Seismitoad|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|75/100
+|
+|upkeep
+|turn|4
+|j| SL21CCC徐坤
+|
+|t:|1641823522
+|move|p2a: Seismitoad|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|51/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|5
+|j|@chickwayne
+|
+|t:|1641823526
+|move|p1a: Hatterene|Psychic|p2a: Seismitoad
+|-damage|p2a: Seismitoad|72/100
+|move|p2a: Seismitoad|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|26/100
+|
+|-heal|p2a: Seismitoad|78/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|@chickwayne|麦当劳大战肯德基
+|
+|t:|1641823529
+|move|p1a: Hatterene|Psychic|p2a: Seismitoad
+|-damage|p2a: Seismitoad|46/100
+|move|p2a: Seismitoad|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|0 fnt
+|faint|p1a: Hatterene
+|
+|-heal|p2a: Seismitoad|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641823531
+|switch|p1a: Marowak|Marowak-Alola, F|43/100
+|turn|7
+|
+|t:|1641823534
+|move|p1a: Marowak|Poltergeist|p2a: Seismitoad
+|-activate|p2a: Seismitoad|move: Poltergeist|Leftovers
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|upkeep
+|
+|t:|1641823536
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|8
+|
+|t:|1641823538
+|move|p1a: Marowak|Flare Blitz|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-status|p1a: Marowak|par|[from] ability: Static|[of] p2a: Zapdos
+|faint|p2a: Zapdos
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641823541
+|switch|p2a: Slowbro|Slowbro-Galar, F|100/100
+|turn|9
+|-activate|p2a: Slowbro|ability: Quick Draw
+|
+|t:|1641823546
+|switch|p1a: Knocked|Crawdaunt, M, shiny|100/100
+|move|p2a: Slowbro|Psyshock|p1a: Knocked
+|-immune|p1a: Knocked
+|
+|upkeep
+|turn|10
+|n| SL21CC 91影先生|chickwayne
+|-activate|p2a: Slowbro|ability: Quick Draw
+|
+|t:|1641823552
+|move|p2a: Slowbro|Focus Blast|p1a: Knocked
+|-supereffective|p1a: Knocked
+|-damage|p1a: Knocked|0 fnt
+|faint|p1a: Knocked
+|
+|upkeep
+|
+|t:|1641823555
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|11
+|
+|t:|1641823560
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Mew
+|-damage|p2a: Mew|34/100
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|-hitcount|p2: Mew|2
+|
+|upkeep
+|
+|t:|1641823562
+|switch|p2a: Slowbro|Slowbro-Galar, F|100/100
+|turn|12
+|-activate|p2a: Slowbro|ability: Quick Draw
+|
+|t:|1641823563
+|move|p2a: Slowbro|Focus Blast|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641823567
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|13
+|
+|t:|1641823569
+|move|p2a: Slowbro|Nasty Plot|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|2
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|upkeep
+|turn|14
+|j| adreamew
+|
+|t:|1641823573
+|move|p2a: Slowbro|Nasty Plot|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|2
+|move|p1a: Cresselia|Ice Beam|p2a: Slowbro
+|-damage|p2a: Slowbro|81/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641823578
+|move|p2a: Slowbro|Nasty Plot|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|2
+|move|p1a: Cresselia|Ice Beam|p2a: Slowbro
+|-damage|p2a: Slowbro|62/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641823581
+|move|p2a: Slowbro|Ice Beam|p1a: Cresselia
+|-damage|p1a: Cresselia|33/100
+|move|p1a: Cresselia|Ice Beam|p2a: Slowbro
+|-damage|p2a: Slowbro|44/100
+|
+|upkeep
+|turn|17
+|j| sl21cc ryekie
+|
+|t:|1641823592
+|move|p2a: Slowbro|Ice Beam|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641823594
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Download|boost
+|-boost|p1a: Porygon2|spa|1
+|turn|18
+|-activate|p2a: Slowbro|item: Quick Claw
+|
+|t:|1641823598
+|move|p2a: Slowbro|Focus Blast|p1a: Porygon2
+|-supereffective|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|
+|upkeep
+|
+|t:|1641823601
+|switch|p1a: Marowak|Marowak-Alola, F|43/100 par
+|turn|19
+|
+|t:|1641823602
+|move|p2a: Slowbro|Psyshock|p1a: Marowak
+|-damage|p1a: Marowak|0 fnt
+|faint|p1a: Marowak
+|
+|win|SL21CC Mcdonald's
+|raw|SL21CC KFC嫩牛五方's rating: 1303 &rarr; <strong>1284</strong><br />(-19 for losing)
+|raw|SL21CC Mcdonald&apos;s's rating: 1234 &rarr; <strong>1254</strong><br />(+20 for winning)
+|l|☆SL21CC KFC嫩牛五方
+|l|☆SL21CC Mcdonald's
+|l| SL21CCC徐坤
+|j| sl21cckhl
+|l| SL21CC 91影先生
+|j|+dragonitenb
+|l|♚Master Origami♕
+|l| sl21cc ryekie
+|l| SL21CC tangkeke

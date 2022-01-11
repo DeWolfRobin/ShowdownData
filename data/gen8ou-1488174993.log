@@ -1,0 +1,256 @@
+|j|☆Venator leo
+|j|☆Aeosanix
+|t:|1641727729
+|gametype|singles
+|player|p1|Venator leo|volkner|1345
+|player|p2|Aeosanix|tate|1299
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hydreigon, M|
+|poke|p1|Mew|
+|poke|p1|Snorlax, M|
+|poke|p1|Skarmory, M|
+|poke|p1|Clefable, F|
+|poke|p1|Excadrill, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zapdos|
+|poke|p2|Garchomp, M|
+|poke|p2|Crawdaunt, F|
+|teampreview
+|
+|t:|1641727740
+|start
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|1
+|
+|t:|1641727744
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|72/100
+|
+|t:|1641727749
+|switch|p2a: Pelipper|Pelipper, F|100/100|[from]move: Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641727755
+|move|p1a: Hydreigon|Dark Pulse|p2a: Pelipper
+|-damage|p2a: Pelipper|60/100
+|move|p2a: Pelipper|U-turn|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|49/100
+|
+|t:|1641727760
+|switch|p2a: Barraskewda|Barraskewda, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641727765
+|move|p2a: Barraskewda|Close Combat|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Hydreigon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641727770
+|switch|p1a: Mew|Mew|100/100
+|turn|4
+|
+|t:|1641727772
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Mew|Imprison|p1a: Mew
+|-start|p1a: Mew|move: Imprison
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641727779
+|move|p1a: Mew|Transform|p2a: Ferrothorn
+|-transform|p1a: Mew|p2a: Ferrothorn
+|cant|p2a: Ferrothorn|move: Imprison|Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641727784
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|move|p1a: Mew|Leech Seed|p2a: Barraskewda
+|-start|p2a: Barraskewda|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|88/100|[from] Leech Seed|[of] p1a: Mew
+|upkeep
+|turn|7
+|
+|t:|1641727790
+|move|p2a: Barraskewda|Close Combat|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|17/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|-damage|p2a: Barraskewda|76/100|[from] ability: Iron Barbs|[of] p1a: Mew
+|move|p1a: Mew|Power Whip|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641727799
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|8
+|
+|t:|1641727806
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Mew|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: Aeosanix|move: Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641727810
+|switch|p1a: Snorlax|Snorlax, M|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Snorlax|[miss]
+|-miss|p2a: Zapdos|p1a: Snorlax
+|
+|upkeep
+|turn|10
+|
+|t:|1641727814
+|switch|p2a: Pelipper|Pelipper, F|60/100
+|-damage|p2a: Pelipper|35/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Snorlax|Rock Slide|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641727817
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|-damage|p2a: Crawdaunt|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641727819
+|move|p2a: Crawdaunt|Swords Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|2
+|move|p1a: Snorlax|Superpower|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|-unboost|p1a: Snorlax|atk|1
+|-unboost|p1a: Snorlax|def|1
+|faint|p2a: Crawdaunt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641727824
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641727827
+|switch|p1a: Mew|Mew|17/100
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641727830
+|move|p2a: Garchomp|Scale Shot|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|-hitcount|p1: Mew|1
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641727833
+|switch|p1a: Clefable|Clefable, F|100/100
+|turn|14
+|
+|t:|1641727837
+|move|p2a: Garchomp|Aqua Tail|p1a: Clefable
+|-damage|p1a: Clefable|59/100
+|move|p1a: Clefable|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641727840
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|15
+|
+|t:|1641727848
+|switch|p1a: Snorlax|Snorlax, M|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Snorlax
+|-damage|p1a: Snorlax|79/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641727852
+|move|p2a: Zapdos|Thunder|p1a: Snorlax
+|-damage|p1a: Snorlax|57/100
+|move|p1a: Snorlax|Rock Slide|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|50/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1641727857
+|move|p2a: Zapdos|Thunder|p1a: Snorlax
+|-damage|p1a: Snorlax|37/100
+|move|p1a: Snorlax|Rock Slide|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|none
+|upkeep
+|-message|Aeosanix forfeited.
+|
+|win|Venator leo
+|raw|Venator leo's rating: 1345 &rarr; <strong>1362</strong><br />(+17 for winning)
+|raw|Aeosanix's rating: 1299 &rarr; <strong>1277</strong><br />(-22 for losing)
+|l|☆Aeosanix

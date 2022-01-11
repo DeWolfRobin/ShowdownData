@@ -1,0 +1,248 @@
+|j|☆Blitzewolfer
+|j|☆Juytre
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641740255
+|gametype|singles
+|player|p1|Blitzewolfer|clemont|
+|player|p2|Juytre|doctor|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Darmanitan-Galar, F|
+|poke|p1|Heatran, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Regieleki|
+|poke|p1|Excadrill, F|
+|poke|p1|Polteageist|
+|poke|p2|Darmanitan-Galar, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Blacephalon|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|j|*Lady Monita ❄
+|j| LeVraiBoissier
+|j| Team ashrgg
+|c|☆Juytre|Glhf
+|
+|t:|1641740278
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|c|☆Blitzewolfer|Glhf
+|
+|t:|1641740282
+|move|p1a: Tyranitar|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: Juytre|move: Stealth Rock
+|move|p2a: Ferrothorn|Body Press|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|1/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|8/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641740298
+|move|p1a: Tyranitar|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|79/100
+|move|p2a: Ferrothorn|Spikes|p1a: Tyranitar
+|-sidestart|p1: Blitzewolfer|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|14/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|85/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641740321
+|move|p1a: Tyranitar|Crunch|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|57/100
+|-damage|p1a: Tyranitar|1/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Spikes|p1a: Tyranitar
+|-sidestart|p1: Blitzewolfer|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|8/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|63/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641740324
+|move|p1a: Tyranitar|Crunch|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|37/100
+|-damage|p1a: Tyranitar|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p1a: Tyranitar
+|move|p2a: Ferrothorn|Spikes|p1: Tyranitar
+|-sidestart|p1: Blitzewolfer|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Ferrothorn|43/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641740328
+|switch|p1a: Regieleki|Regieleki|100/100
+|-damage|p1a: Regieleki|76/100|[from] Spikes
+|turn|5
+|
+|t:|1641740337
+|move|p1a: Regieleki|Rapid Spin|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|38/100
+|-boost|p1a: Regieleki|spe|1
+|-damage|p1a: Regieleki|63/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-sideend|p1: Blitzewolfer|Spikes|[from] move: Rapid Spin|[of] p1a: Regieleki
+|move|p2a: Ferrothorn|Leech Seed|p1a: Regieleki|[miss]
+|-miss|p2a: Ferrothorn|p1a: Regieleki
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|44/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|l| Team ashrgg
+|
+|t:|1641740346
+|move|p1a: Regieleki|Thunderbolt|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|12/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Regieleki
+|-start|p1a: Regieleki|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|18/100|[from] item: Leftovers
+|-damage|p1a: Regieleki|51/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|29/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1641740350
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Regieleki|Thunderbolt|p2a: Excadrill
+|-immune|p2a: Excadrill
+|
+|-heal|p2a: Excadrill|100/100|[from] item: Leftovers
+|-damage|p1a: Regieleki|39/100|[from] Leech Seed|[of] p2a: Excadrill
+|upkeep
+|turn|8
+|
+|t:|1641740359
+|move|p1a: Regieleki|Explosion|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|62/100
+|faint|p1a: Regieleki
+|move|p2a: Excadrill|Rapid Spin|p1: Regieleki|[notarget]
+|-fail|p2a: Excadrill
+|
+|-heal|p2a: Excadrill|68/100|[from] item: Leftovers
+|upkeep
+|c|☆Juytre|Damn
+|
+|t:|1641740372
+|switch|p1a: Polteageist|Polteageist|100/100
+|turn|9
+|c|☆Juytre|No!
+|
+|t:|1641740385
+|move|p2a: Excadrill|Iron Head|p1a: Polteageist
+|-damage|p1a: Polteageist|22/100
+|-ability|p1a: Polteageist|Weak Armor|boost
+|-unboost|p1a: Polteageist|def|1
+|-boost|p1a: Polteageist|spe|2
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|
+|-heal|p2a: Excadrill|74/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641740393
+|move|p1a: Polteageist|Shadow Ball|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1641740404
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641740408
+|move|p1a: Polteageist|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641740415
+|switch|p2a: Ferrothorn|Ferrothorn, F|29/100
+|-damage|p2a: Ferrothorn|22/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641740418
+|move|p1a: Polteageist|Shadow Ball|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641740424
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|-damage|p2a: Blacephalon|76/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641740426
+|move|p1a: Polteageist|Shadow Ball|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|upkeep
+|l| LeVraiBoissier
+|
+|t:|1641740429
+|switch|p2a: Darmanitan|Darmanitan-Galar, M|100/100
+|-damage|p2a: Darmanitan|75/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641740433
+|move|p1a: Polteageist|Stored Power|p2a: Darmanitan
+|-damage|p2a: Darmanitan|0 fnt
+|faint|p2a: Darmanitan
+|
+|upkeep
+|
+|t:|1641740436
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|turn|15
+|c|☆Juytre|Gg
+|
+|t:|1641740439
+|move|p1a: Polteageist|Stored Power|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|win|Blitzewolfer
+|n|☆Blitzewolfer|blitzewolfer
+|n|☆Juytre|juytre
+|n|*Lady Monita ❄|ladymonita

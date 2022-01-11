@@ -1,0 +1,177 @@
+|j|☆Pindustry
+|j|☆Drop A Fish
+|t:|1641727858
+|gametype|singles
+|player|p1|Pindustry|candice|
+|player|p2|Drop A Fish|gentleman-gen4|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Raichu-Alola, M|
+|poke|p1|Pincurchin, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Milotic, M|
+|poke|p1|Bisharp, F|
+|poke|p1|Mamoswine, M|
+|poke|p2|Tangela, F|
+|poke|p2|Slowking, F|
+|poke|p2|Heatran, F|
+|poke|p2|Clefable, M|
+|poke|p2|Hippowdon, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|
+|t:|1641727888
+|start
+|switch|p1a: King Frost 👑|Mamoswine, M|100/100
+|switch|p2a: Noodles And|Tangela, F|100/100
+|turn|1
+|
+|t:|1641727905
+|move|p1a: King Frost 👑|Icicle Crash|p2a: Noodles And
+|-supereffective|p2a: Noodles And
+|-damage|p2a: Noodles And|56/100
+|move|p2a: Noodles And|Leech Seed|p1a: King Frost 👑
+|-start|p1a: King Frost 👑|move: Leech Seed
+|
+|-damage|p1a: King Frost 👑|88/100|[from] Leech Seed|[of] p2a: Noodles And
+|-heal|p2a: Noodles And|71/100|[silent]
+|upkeep
+|turn|2
+|
+|t:|1641727913
+|move|p1a: King Frost 👑|Icicle Crash|p2a: Noodles And
+|-supereffective|p2a: Noodles And
+|-damage|p2a: Noodles And|27/100
+|move|p2a: Noodles And|Giga Drain|p1a: King Frost 👑
+|-supereffective|p1a: King Frost 👑
+|-damage|p1a: King Frost 👑|47/100
+|-heal|p2a: Noodles And|53/100|[from] drain|[of] p1a: King Frost 👑
+|
+|-damage|p1a: King Frost 👑|35/100|[from] Leech Seed|[of] p2a: Noodles And
+|-heal|p2a: Noodles And|69/100|[silent]
+|upkeep
+|turn|3
+|
+|t:|1641727929
+|move|p1a: King Frost 👑|Icicle Crash|p2a: Noodles And
+|-supereffective|p2a: Noodles And
+|-damage|p2a: Noodles And|27/100
+|move|p2a: Noodles And|Giga Drain|p1a: King Frost 👑
+|-supereffective|p1a: King Frost 👑
+|-damage|p1a: King Frost 👑|0 fnt
+|-heal|p2a: Noodles And|49/100|[from] drain|[of] p1a: King Frost 👑
+|faint|p1a: King Frost 👑
+|
+|upkeep
+|
+|t:|1641727935
+|switch|p1a: Pincurchin|Pincurchin, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Pincurchin
+|turn|4
+|
+|t:|1641727955
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p2a: Noodles And|Leech Seed|p1a: Hawlucha
+|-start|p1a: Hawlucha|move: Leech Seed
+|
+|-damage|p1a: Hawlucha|88/100|[from] Leech Seed|[of] p2a: Noodles And
+|-heal|p2a: Noodles And|60/100|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641727972
+|move|p1a: Hawlucha|Acrobatics|p2a: Noodles And
+|-supereffective|p2a: Noodles And
+|-damage|p2a: Noodles And|18/100
+|move|p2a: Noodles And|Toxic|p1a: Hawlucha
+|-status|p1a: Hawlucha|tox
+|
+|-damage|p1a: Hawlucha|76/100 tox|[from] Leech Seed|[of] p2a: Noodles And
+|-heal|p2a: Noodles And|29/100|[silent]
+|-damage|p1a: Hawlucha|70/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641728010
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Noodles And|Knock Off|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|65/100 tox
+|
+|-damage|p1a: Hawlucha|53/100 tox|[from] Leech Seed|[of] p2a: Noodles And
+|-heal|p2a: Noodles And|40/100|[silent]
+|-damage|p1a: Hawlucha|41/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641728018
+|move|p1a: Hawlucha|Acrobatics|p2a: Noodles And
+|-supereffective|p2a: Noodles And
+|-damage|p2a: Noodles And|0 fnt
+|faint|p2a: Noodles And
+|
+|-damage|p1a: Hawlucha|23/100 tox|[from] psn
+|upkeep
+|
+|t:|1641728025
+|switch|p2a: Ramen|Slowking, F|100/100
+|turn|8
+|
+|t:|1641728028
+|move|p1a: Hawlucha|Throat Chop|p2a: Ramen
+|-supereffective|p2a: Ramen
+|-damage|p2a: Ramen|29/100
+|-start|p2a: Ramen|Throat Chop|[silent]
+|move|p2a: Ramen|Slack Off|p2a: Ramen
+|-heal|p2a: Ramen|79/100
+|
+|-heal|p2a: Ramen|85/100|[from] item: Leftovers
+|-damage|p1a: Hawlucha|10/100 tox|[from] Leech Seed|[of] p2a: Ramen
+|-heal|p2a: Ramen|94/100|[silent]
+|-damage|p1a: Hawlucha|0 fnt|[from] psn
+|faint|p1a: Hawlucha
+|upkeep
+|
+|t:|1641728033
+|switch|p1a: Raichu|Raichu-Alola, M|100/100
+|turn|9
+|n|☆Pindustry|pindustry
+|
+|t:|1641728078
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Raichu|Nasty Plot|p1a: Raichu
+|-boost|p1a: Raichu|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raichu|94/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1641728083
+|move|p1a: Raichu|Grass Knot|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|-damage|p1a: Raichu|84/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Raichu|78/100|[from] Sandstorm
+|upkeep
+|-message|Drop A Fish forfeited.
+|
+|win|Pindustry
+|l|☆Drop A Fish

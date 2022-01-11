@@ -1,0 +1,591 @@
+|j|☆yopierredropwlr
+|j|☆DarkRangerV2
+|t:|1641816465
+|gametype|singles
+|player|p1|yopierredropwlr|1|1045
+|player|p2|DarkRangerV2|2|1082
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Venusaur, M|
+|poke|p1|Torkoal, F|
+|poke|p1|Weavile, F|
+|poke|p1|Heatran, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Toxapex, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Bisharp, M|
+|poke|p2|Mew|
+|poke|p2|Ditto|
+|teampreview
+|
+|t:|1641816474
+|start
+|switch|p1a: PRAISE THE SUN|Torkoal, F|100/100
+|switch|p2a: Intégral|Mew|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: PRAISE THE SUN
+|turn|1
+|
+|t:|1641816482
+|move|p2a: Intégral|Stealth Rock|p1a: PRAISE THE SUN
+|-sidestart|p1: yopierredropwlr|move: Stealth Rock
+|move|p1a: PRAISE THE SUN|Stealth Rock|p2a: Intégral
+|-sidestart|p2: DarkRangerV2|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641816488
+|move|p2a: Intégral|Taunt|p1a: PRAISE THE SUN
+|-start|p1a: PRAISE THE SUN|move: Taunt
+|move|p1a: PRAISE THE SUN|Rapid Spin|p2a: Intégral
+|-damage|p2a: Intégral|92/100
+|-boost|p1a: PRAISE THE SUN|spe|1
+|-sideend|p1: yopierredropwlr|Stealth Rock|[from] move: Rapid Spin|[of] p1a: PRAISE THE SUN
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641816508
+|switch|p2a: Young|Tapu Fini|100/100
+|-damage|p2a: Young|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Young
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Young|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641816522
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|move|p2a: Young|Defog|p1a: Venusaur
+|-unboost|p1a: Venusaur|evasion|1
+|-sideend|p2: DarkRangerV2|Stealth Rock|[from] move: Defog|[of] p2a: Young
+|-fieldend|Misty Terrain
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Young|99/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641816531
+|switch|p2a: Lagrange|Ferrothorn, F|100/100
+|move|p1a: Venusaur|Sludge Bomb|p2a: Lagrange
+|-immune|p2a: Lagrange
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641816541
+|move|p1a: Venusaur|Weather Ball|p2a: Lagrange
+|-supereffective|p2a: Lagrange
+|-damage|p2a: Lagrange|0 fnt
+|faint|p2a: Lagrange
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641816551
+|switch|p2a: reste|Bisharp, M|100/100
+|turn|7
+|
+|t:|1641816561
+|move|p1a: Venusaur|Weather Ball|p2a: reste
+|-supereffective|p2a: reste
+|-damage|p2a: reste|0 fnt
+|faint|p2a: reste
+|-damage|p1a: Venusaur|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641816580
+|switch|p2a: Intégral|Mew|92/100
+|turn|8
+|
+|t:|1641816596
+|move|p1a: Venusaur|Weather Ball|p2a: Intégral
+|-damage|p2a: Intégral|0 fnt
+|faint|p2a: Intégral
+|-damage|p1a: Venusaur|71/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641816618
+|switch|p2a: Taylor|Dragapult, M|100/100
+|turn|9
+|
+|t:|1641816630
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Taylor|atk|1
+|move|p2a: Taylor|Will-O-Wisp|p1a: Landorus
+|-status|p1a: Landorus|brn
+|
+|-damage|p1a: Landorus|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641816643
+|move|p2a: Taylor|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|89/100 brn
+|
+|t:|1641816647
+|switch|p2a: VMS???|Ditto|100/100|[from]move: U-turn
+|-transform|p2a: VMS???|p1a: Landorus|[from] ability: Imposter
+|-ability|p2a: VMS???|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Toxic|p2a: VMS???
+|-status|p2a: VMS???|tox
+|
+|-heal|p1a: Landorus|95/100 brn|[from] item: Leftovers
+|-damage|p2a: VMS???|94/100 tox|[from] psn
+|-damage|p1a: Landorus|89/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641816662
+|move|p2a: VMS???|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|78/100 brn
+|
+|t:|1641816674
+|switch|p2a: Young|Tapu Fini|99/100|[from]move: U-turn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Young
+|move|p1a: Landorus|U-turn|p2a: Young
+|-resisted|p2a: Young
+|-damage|p2a: Young|97/100
+|
+|t:|1641816693
+|switch|p1a: PRAISE THE SUN|Torkoal, F|100/100|[from]move: U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: PRAISE THE SUN
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Young|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641816705
+|move|p2a: Young|Taunt|p1a: PRAISE THE SUN
+|-start|p1a: PRAISE THE SUN|move: Taunt
+|cant|p1a: PRAISE THE SUN|move: Taunt|Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641816720
+|switch|p1a: Venusaur|Venusaur, M|71/100
+|move|p2a: Young|Toxic|p1a: Venusaur
+|-immune|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641816737
+|switch|p2a: VMS???|Ditto|94/100 tox
+|-transform|p2a: VMS???|p1a: Venusaur|[from] ability: Imposter
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|88/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641816750
+|move|p2a: VMS???|Weather Ball|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|76/100 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641816760
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|16
+|
+|t:|1641816766
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: VMS???|Weather Ball|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|58/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641816786
+|switch|p2a: Young|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Young
+|move|p1a: Heatran|Flamethrower|p2a: Young
+|-resisted|p2a: Young
+|-crit|p2a: Young
+|-damage|p2a: Young|55/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Young|61/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641816809
+|-end|p1a: Heatran|ability: Flash Fire|[silent]
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Young|Taunt|p1a: Toxapex
+|-start|p1a: Toxapex|move: Taunt
+|
+|-weather|none
+|-heal|p2a: Young|67/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641816819
+|switch|p2a: VMS???|Ditto|58/100 tox
+|-transform|p2a: VMS???|p1a: Toxapex|[from] ability: Imposter
+|move|p1a: Toxapex|Knock Off|p2a: VMS???
+|-damage|p2a: VMS???|46/100 tox
+|-enditem|p2a: VMS???|Choice Scarf|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|-damage|p2a: VMS???|40/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641816839
+|move|p2a: VMS???|Recover|p2a: VMS???
+|-heal|p2a: VMS???|90/100 tox
+|move|p1a: Toxapex|Scald|p2a: VMS???
+|-resisted|p2a: VMS???
+|-damage|p2a: VMS???|84/100 tox
+|
+|-damage|p2a: VMS???|72/100 tox|[from] psn
+|-end|p1a: Toxapex|move: Taunt
+|upkeep
+|turn|21
+|
+|t:|1641816858
+|switch|p1a: Landorus|Landorus-Therian, M|78/100 brn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: VMS???|atk|1
+|move|p2a: VMS???|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|68/100 brn
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: VMS???
+|
+|-damage|p2a: VMS???|54/100 tox|[from] psn
+|-damage|p1a: Landorus|61/100 brn|[from] brn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|22
+|
+|t:|1641816874
+|move|p1a: Landorus|Earthquake|p2a: VMS???
+|-supereffective|p2a: VMS???
+|-damage|p2a: VMS???|19/100 tox
+|move|p2a: VMS???|Recover|p2a: VMS???
+|-heal|p2a: VMS???|69/100 tox
+|
+|-damage|p2a: VMS???|45/100 tox|[from] psn
+|-damage|p1a: Landorus|55/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641816888
+|switch|p2a: Young|Tapu Fini|67/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Young
+|move|p1a: Landorus|Earthquake|p2a: Young
+|-damage|p2a: Young|46/100
+|
+|-heal|p2a: Young|52/100|[from] item: Leftovers
+|-damage|p1a: Landorus|49/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641816904
+|move|p1a: Landorus|Toxic|p2a: Young
+|-activate|p2a: Young|move: Misty Terrain
+|move|p2a: Young|Taunt|p1a: Landorus
+|-start|p1a: Landorus|move: Taunt
+|
+|-heal|p2a: Young|58/100|[from] item: Leftovers
+|-damage|p1a: Landorus|43/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641816914
+|move|p1a: Landorus|U-turn|p2a: Young
+|-resisted|p2a: Young
+|-damage|p2a: Young|53/100
+|
+|t:|1641816920
+|switch|p1a: Toxapex|Toxapex, F|100/100|[from]move: U-turn
+|move|p2a: Young|Moonblast|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|91/100
+|-enditem|p1a: Toxapex|Eject Button
+|
+|t:|1641816939
+|switch|p1a: PRAISE THE SUN|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: PRAISE THE SUN
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Young|59/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641816954
+|move|p2a: Young|Toxic|p1a: PRAISE THE SUN|[miss]
+|-miss|p2a: Young|p1a: PRAISE THE SUN
+|move|p1a: PRAISE THE SUN|Lava Plume|p2a: Young
+|-resisted|p2a: Young
+|-damage|p2a: Young|47/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Young|53/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641816965
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Young|Toxic|p1a: Toxapex|[miss]
+|-miss|p2a: Young|p1a: Toxapex
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Young|60/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|28
+|
+|t:|1641816979
+|switch|p2a: VMS???|Ditto|78/100 tox
+|-transform|p2a: VMS???|p1a: Toxapex|[from] ability: Imposter
+|move|p1a: Toxapex|Knock Off|p2a: VMS???
+|-damage|p2a: VMS???|71/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|65/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641817012
+|switch|p1a: Landorus|Landorus-Therian, M|43/100 brn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: VMS???|atk|1
+|move|p2a: VMS???|Recover|p2a: VMS???
+|-heal|p2a: VMS???|100/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|88/100 tox|[from] psn
+|-damage|p1a: Landorus|37/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641817026
+|move|p1a: Landorus|Earthquake|p2a: VMS???
+|-supereffective|p2a: VMS???
+|-damage|p2a: VMS???|53/100 tox
+|move|p2a: VMS???|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|26/100 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|35/100 tox|[from] psn
+|-damage|p1a: Landorus|20/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641817048
+|switch|p2a: Young|Tapu Fini|60/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Young
+|move|p1a: Landorus|Earthquake|p2a: Young
+|-damage|p2a: Young|38/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Young|44/100|[from] item: Leftovers
+|-damage|p1a: Landorus|14/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641817064
+|move|p1a: Landorus|Earthquake|p2a: Young
+|-damage|p2a: Young|24/100
+|move|p2a: Young|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|none
+|-heal|p2a: Young|30/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641817090
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|turn|33
+|
+|t:|1641817102
+|switch|p2a: VMS???|Ditto|68/100 tox
+|-transform|p2a: VMS???|p1a: Toxapex|[from] ability: Imposter
+|move|p1a: Toxapex|Knock Off|p2a: VMS???
+|-damage|p2a: VMS???|59/100 tox
+|
+|-damage|p2a: VMS???|53/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641817119
+|switch|p1a: PRAISE THE SUN|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: PRAISE THE SUN
+|move|p2a: VMS???|Recover|p2a: VMS???
+|-heal|p2a: VMS???|100/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|88/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641817132
+|move|p2a: VMS???|Knock Off|p1a: PRAISE THE SUN
+|-damage|p1a: PRAISE THE SUN|92/100
+|-enditem|p1a: PRAISE THE SUN|Heat Rock|[from] move: Knock Off|[of] p2a: VMS???
+|move|p1a: PRAISE THE SUN|Yawn||[still]
+|-fail|p1a: PRAISE THE SUN
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|70/100 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|36
+|
+|t:|1641817142
+|move|p2a: VMS???|Recover|p2a: VMS???
+|-heal|p2a: VMS???|100/100 tox
+|move|p1a: PRAISE THE SUN|Stealth Rock|p2a: VMS???
+|-sidestart|p2: DarkRangerV2|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|76/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641817154
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: VMS???|Recover|p2a: VMS???
+|-heal|p2a: VMS???|100/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|70/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1641817164
+|switch|p2a: Young|Tapu Fini|30/100
+|-damage|p2a: Young|18/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Young
+|move|p1a: Heatran|Earth Power|p2a: Young
+|-damage|p2a: Young|0 fnt
+|faint|p2a: Young
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641817173
+|switch|p2a: Taylor|Dragapult, M|100/100
+|turn|39
+|
+|t:|1641817199
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Taylor|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|95/100
+|
+|t:|1641817205
+|switch|p2a: VMS???|Ditto|100/100 tox|[from]move: U-turn
+|-damage|p2a: VMS???|88/100 tox|[from] Stealth Rock
+|-transform|p2a: VMS???|p1a: Toxapex|[from] ability: Imposter
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|82/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641817246
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: VMS???|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: VMS???|70/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1641817260
+|move|p1a: Heatran|Earth Power|p2a: VMS???
+|-supereffective|p2a: VMS???
+|-damage|p2a: VMS???|29/100 tox
+|move|p2a: VMS???|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|68/100
+|-enditem|p1a: Heatran|Choice Scarf|[from] move: Knock Off|[of] p2a: VMS???
+|
+|-weather|none
+|-damage|p2a: VMS???|11/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641817279
+|move|p1a: Heatran|Earth Power|p2a: VMS???
+|-supereffective|p2a: VMS???
+|-damage|p2a: VMS???|0 fnt
+|faint|p2a: VMS???
+|
+|-fieldend|Misty Terrain
+|upkeep
+|l|☆DarkRangerV2
+|player|p2|
+|j|☆DarkRangerV2
+|player|p2|DarkRangerV2|2
+|
+|t:|1641817298
+|switch|p2a: Taylor|Dragapult, M|100/100
+|turn|43
+|
+|t:|1641817305
+|move|p2a: Taylor|Draco Meteor|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|42/100
+|-unboost|p2a: Taylor|spa|2
+|move|p1a: Heatran|Earth Power|p2a: Taylor
+|-damage|p2a: Taylor|55/100
+|
+|upkeep
+|turn|44
+|-message|DarkRangerV2 forfeited.
+|
+|win|yopierredropwlr
+|raw|yopierredropwlr's rating: 1045 &rarr; <strong>1082</strong><br />(+37 for winning)
+|raw|DarkRangerV2's rating: 1082 &rarr; <strong>1057</strong><br />(-25 for losing)
+|l|☆DarkRangerV2

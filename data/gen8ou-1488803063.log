@@ -1,0 +1,157 @@
+|j|☆newbiemee
+|j|☆hanserzsh2001
+|t:|1641823602
+|gametype|singles
+|player|p1|newbiemee|lance|1374
+|player|p2|hanserzsh2001|dawn|1372
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Crawdaunt, F|
+|poke|p1|Zapdos|
+|poke|p1|Garchomp, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Pelipper, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Volcanion|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Blastoise, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hanserzsh2001)
+|
+|t:|1641823620
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|turn|1
+|
+|t:|1641823625
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Thundurus
+|-sidestart|p2: hanserzsh2001|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641823649
+|move|p2a: Thundurus|Focus Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641823653
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|3
+|
+|t:|1641823658
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Thundurus|Thunder|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641823675
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Thundurus|Weather Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641823686
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|5
+|
+|t:|1641823691
+|move|p2a: Thundurus|Thunder|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641823696
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|turn|6
+|
+|t:|1641823700
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Barraskewda|Liquidation|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|57/100
+|-unboost|p2a: Ferrothorn|def|1
+|-damage|p1a: Barraskewda|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|64/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641823715
+|move|p1a: Barraskewda|Liquidation|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|6/100
+|-unboost|p2a: Ferrothorn|def|1
+|-damage|p1a: Barraskewda|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|29/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|12/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641823730
+|move|p1a: Barraskewda|Liquidation|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Barraskewda|17/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641823736
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641823749
+|move|p2a: Barraskewda|Liquidation|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|newbiemee forfeited.
+|
+|win|hanserzsh2001
+|raw|newbiemee's rating: 1374 &rarr; <strong>1354</strong><br />(-20 for losing)
+|raw|hanserzsh2001's rating: 1372 &rarr; <strong>1392</strong><br />(+20 for winning)
+|l|☆newbiemee
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

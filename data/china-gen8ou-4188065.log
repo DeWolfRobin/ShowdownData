@@ -1,0 +1,518 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC ginko
+|j|☆sl21cc enfalleba
+|t:|1641738590
+|gametype|singles
+|player|p1|SL21CC ginko|line38324.png|1297
+|player|p2|sl21cc enfalleba|102|1256
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Dragapult, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Cloyster, F|
+|poke|p1|Kartana|
+|poke|p2|Weavile, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Melmetal|
+|teampreview
+|j| SL21CC91影先生
+|j| water GH0ST
+|j| irgendwasmitmeeem
+|j| pokonghanbingkan
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sl21cc enfalleba)
+|
+|t:|1641738613
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-item|p1a: Heatran|Air Balloon
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|turn|1
+|j| shandianxuanfengpi
+|l| shandianxuanfengpi
+|
+|t:|1641738629
+|move|p1a: Heatran|Eruption|p2a: Landorus
+|-damage|p2a: Landorus|29/100
+|move|p2a: Landorus|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|95/100
+|-enditem|p1a: Heatran|Air Balloon
+|j| jingtianlangtaosha
+|j| tianyutulongwu
+|
+|t:|1641738639
+|switch|p2a: Toxapex|Toxapex, M, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641738643
+|move|p1a: Heatran|Magma Storm|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|77/100
+|-activate|p2a: Toxapex|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Toxapex|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|60/100
+|
+|-damage|p2a: Toxapex|65/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1641738647
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|29/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Earth Power|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-heal|p2a: Landorus|35/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641738651
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: sl21cc enfalleba|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1641738653
+|move|p2a: Tornadus|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: sl21cc enfalleba|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|move|p1a: Heatran|Magma Storm|p2a: Tornadus
+|-damage|p2a: Tornadus|49/100
+|-activate|p2a: Tornadus|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Tornadus|37/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1641738657
+|move|p2a: Tornadus|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|56/100
+|-status|p2a: Tornadus|brn|[from] ability: Flame Body|[of] p1a: Heatran
+|
+|t:|1641738658
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|35/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Stealth Rock|p2a: Landorus
+|-sidestart|p2: sl21cc enfalleba|move: Stealth Rock
+|
+|-heal|p2a: Landorus|41/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|j| adreamew
+|
+|t:|1641738669
+|switch|p2a: Toxapex|Toxapex, M, shiny|99/100
+|-damage|p2a: Toxapex|86/100|[from] Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: Toxapex|[miss]
+|-miss|p1a: Heatran|p2a: Toxapex
+|
+|upkeep
+|turn|8
+|
+|t:|1641738672
+|move|p1a: Heatran|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|31/100
+|-unboost|p2a: Toxapex|spd|1
+|move|p2a: Toxapex|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|25/100
+|
+|upkeep
+|turn|9
+|j| 9skythunderouskick
+|
+|t:|1641738681
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|41/100
+|-damage|p2a: Landorus|29/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Magma Storm|p2a: Landorus|[miss]
+|-miss|p1a: Heatran|p2a: Landorus
+|
+|-heal|p2a: Landorus|35/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|j| SL21CCxiaomiaomiao
+|
+|t:|1641738685
+|move|p1a: Heatran|Magma Storm|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641738687
+|switch|p2a: Toxapex|Toxapex, M, shiny|64/100
+|-damage|p2a: Toxapex|52/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641738694
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Heatran|Earth Power|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|50/100
+|
+|upkeep
+|turn|12
+|j| SL21CC tangkeke
+|
+|t:|1641738700
+|move|p2a: Tapu Lele|Psyshock|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641738703
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|13
+|
+|t:|1641738709
+|move|p1a: Garchomp|Earthquake|p2a: Tapu Lele
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641738710
+|switch|p2a: Weavile|Weavile, M, shiny|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|14
+|
+|t:|1641738717
+|switch|p1a: Cloyster|Cloyster, F|100/100
+|move|p2a: Weavile|Icicle Crash|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|91/100
+|
+|upkeep
+|turn|15
+|j| Renwu
+|
+|t:|1641738727
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Weavile|Low Kick|p1a: Garchomp
+|-damage|p1a: Garchomp|72/100
+|-damage|p2a: Weavile|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-heal|p1a: Garchomp|79/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|
+|t:|1641738734
+|switch|p1a: Cloyster|Cloyster, F|91/100
+|move|p2a: Weavile|Icicle Crash|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|82/100
+|
+|upkeep
+|turn|17
+|j| sl21cckhl
+|
+|t:|1641738737
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Cloyster|Pin Missile|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|92/100
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|89/100
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|88/100
+|-resisted|p2a: Melmetal
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|84/100
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|82/100
+|-hitcount|p2a: Melmetal|5
+|
+|-heal|p2a: Melmetal|88/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641738747
+|switch|p1a: Garchomp|Garchomp, M|79/100
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|70/100 brn
+|
+|-heal|p1a: Garchomp|85/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|64/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641738752
+|move|p2a: Tornadus|Defog|p1a: Garchomp
+|-unboost|p1a: Garchomp|evasion|1
+|-sideend|p2: sl21cc enfalleba|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|move|p1a: Garchomp|Scale Shot|p2a: Tornadus
+|-damage|p2a: Tornadus|49/100 brn
+|-damage|p2a: Tornadus|35/100 brn
+|-hitcount|p2a: Tornadus|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-heal|p1a: Garchomp|91/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|29/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641738758
+|switch|p2a: Melmetal|Melmetal, shiny|88/100
+|move|p1a: Garchomp|Earthquake|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|23/100
+|
+|-heal|p1a: Garchomp|97/100|[from] item: Leftovers
+|-heal|p2a: Melmetal|29/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641738766
+|move|p1a: Garchomp|Earthquake|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|-heal|p1a: Garchomp|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641738770
+|switch|p2a: Weavile|Weavile, M, shiny|88/100
+|-ability|p2a: Weavile|Pressure
+|turn|22
+|
+|t:|1641738773
+|switch|p1a: Cloyster|Cloyster, F|82/100
+|move|p2a: Weavile|Ice Shard|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|79/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641738777
+|switch|p2a: Toxapex|Toxapex, M, shiny|85/100
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|upkeep
+|turn|24
+|
+|t:|1641738780
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|25
+|
+|t:|1641738784
+|switch|p2a: Weavile|Weavile, M, shiny|88/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|26
+|j| SL21CCCHINESENGEIL
+|
+|t:|1641738786
+|switch|p1a: Cloyster|Cloyster, F|79/100
+|move|p2a: Weavile|Icicle Crash|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|71/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641738792
+|switch|p2a: Toxapex|Toxapex, M, shiny|100/100
+|move|p1a: Cloyster|Pin Missile|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|98/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|96/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|94/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|91/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|89/100
+|-hitcount|p2a: Toxapex|5
+|
+|upkeep
+|turn|28
+|
+|t:|1641738796
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|move|p2a: Toxapex|Scald|p1a: Moltres
+|-damage|p1a: Moltres|86/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641738801
+|move|p1a: Moltres|Hurricane|p2a: Toxapex|[miss]
+|-miss|p1a: Moltres|p2a: Toxapex
+|move|p2a: Toxapex|Scald|p1a: Moltres
+|-damage|p1a: Moltres|72/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641738804
+|switch|p2a: Weavile|Weavile, M, shiny|88/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|
+|upkeep
+|turn|31
+|
+|t:|1641738806
+|switch|p1a: Cloyster|Cloyster, F|71/100
+|move|p2a: Weavile|Icicle Crash|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|61/100
+|
+|upkeep
+|turn|32
+|j| wind777
+|
+|t:|1641738825
+|switch|p2a: Toxapex|Toxapex, M, shiny|100/100
+|move|p1a: Cloyster|Pin Missile|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|98/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|96/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|94/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|91/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|89/100
+|-hitcount|p2a: Toxapex|5
+|
+|upkeep
+|turn|33
+|
+|t:|1641738828
+|switch|p1a: Moltres|Moltres-Galar|72/100
+|move|p2a: Toxapex|Scald|p1a: Moltres
+|-damage|p1a: Moltres|59/100
+|-status|p1a: Moltres|brn
+|
+|-damage|p1a: Moltres|52/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1641738833
+|move|p1a: Moltres|Hurricane|p2a: Toxapex|[miss]
+|-miss|p1a: Moltres|p2a: Toxapex
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-damage|p1a: Moltres|46/100 brn|[from] brn
+|upkeep
+|turn|35
+|l| water GH0ST
+|
+|t:|1641738836
+|move|p1a: Moltres|Hurricane|p2a: Toxapex|[miss]
+|-miss|p1a: Moltres|p2a: Toxapex
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-damage|p1a: Moltres|40/100 brn|[from] brn
+|upkeep
+|turn|36
+|l|9skythunderouskick
+|
+|t:|1641738839
+|move|p1a: Moltres|Hurricane|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-damage|p1a: Moltres|34/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641738842
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641738846
+|move|p1a: Garchomp|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|33/100
+|move|p2a: Toxapex|Scald|p1a: Garchomp
+|-damage|p1a: Garchomp|83/100
+|
+|-heal|p1a: Garchomp|90/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641738851
+|switch|p2a: Weavile|Weavile, M, shiny|88/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Garchomp|Scale Shot|p2a: Weavile
+|-damage|p2a: Weavile|64/100
+|-damage|p2a: Weavile|41/100
+|-damage|p2a: Weavile|17/100
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-hitcount|p2: Weavile|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-heal|p1a: Garchomp|96/100|[from] item: Leftovers
+|upkeep
+|-message|sl21cc enfalleba forfeited.
+|
+|win|SL21CC ginko
+|raw|SL21CC ginko's rating: 1297 &rarr; <strong>1311</strong><br />(+14 for winning)
+|raw|sl21cc enfalleba's rating: 1256 &rarr; <strong>1242</strong><br />(-14 for losing)
+|l| irgendwasmitmeeem
+|l|☆sl21cc enfalleba
+|l|☆SL21CC ginko
+|l| pokonghanbingkan

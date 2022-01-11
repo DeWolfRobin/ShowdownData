@@ -1,0 +1,187 @@
+|j|☆Gogal
+|j|☆MegaMHX
+|t:|1641742899
+|gametype|singles
+|player|p1|Gogal|evelyn|1411
+|player|p2|MegaMHX|elesa-gen5bw2|1309
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Torkoal, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Charizard, M|
+|poke|p1|Venusaur, F|
+|poke|p1|Darmanitan, M|
+|poke|p2|Blastoise, F|
+|poke|p2|Torkoal, M|
+|poke|p2|Espeon, M|
+|poke|p2|Lucario, F|
+|poke|p2|Krookodile, F|
+|poke|p2|Rotom-Heat|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gogal)
+|
+|t:|1641742909
+|start
+|switch|p1a: OUkillerNINA|Ninetales, F|100/100
+|switch|p2a: Blastoise|Blastoise, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: OUkillerNINA
+|turn|1
+|
+|t:|1641742915
+|move|p1a: OUkillerNINA|Solar Beam||[still]
+|-prepare|p1a: OUkillerNINA|Solar Beam
+|-anim|p1a: OUkillerNINA|Solar Beam|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|24/100
+|move|p2a: Blastoise|Yawn|p1a: OUkillerNINA
+|-start|p1a: OUkillerNINA|move: Yawn|[of] p2a: Blastoise
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641742927
+|switch|p1a: #1inUSAGE|Landorus-Therian, M|100/100
+|-ability|p1a: #1inUSAGE|Intimidate|boost
+|-unboost|p2a: Blastoise|atk|1
+|-enditem|p2a: Blastoise|Eject Pack
+|
+|t:|1641742935
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641742941
+|move|p1a: #1inUSAGE|Earthquake|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|18/100
+|move|p2a: Torkoal|Yawn|p1a: #1inUSAGE
+|-start|p1a: #1inUSAGE|move: Yawn|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641742955
+|move|p1a: #1inUSAGE|U-turn|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|8/100
+|
+|t:|1641742958
+|switch|p1a: SunBRINGER|Torkoal, F|100/100|[from]move: U-turn
+|move|p2a: Torkoal|Shell Smash|p2a: Torkoal
+|-unboost|p2a: Torkoal|def|1
+|-unboost|p2a: Torkoal|spd|1
+|-boost|p2a: Torkoal|atk|2
+|-boost|p2a: Torkoal|spa|2
+|-boost|p2a: Torkoal|spe|2
+|-enditem|p2a: Torkoal|Eject Pack
+|
+|t:|1641742964
+|switch|p2a: Espeon|Espeon, M|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641742973
+|switch|p1a: DEFINE:power|Darmanitan, M|100/100
+|move|p2a: Espeon|Copycat|p2a: Espeon
+|move|p2a: Espeon|Shell Smash|p2a: Espeon|[from]move: Copycat
+|-unboost|p2a: Espeon|def|1
+|-unboost|p2a: Espeon|spd|1
+|-boost|p2a: Espeon|atk|2
+|-boost|p2a: Espeon|spa|2
+|-boost|p2a: Espeon|spe|2
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641742980
+|move|p2a: Espeon|Stored Power|p1a: DEFINE:power
+|-damage|p1a: DEFINE:power|0 fnt
+|faint|p1a: DEFINE:power
+|
+|upkeep
+|
+|t:|1641742987
+|switch|p1a: SunBRINGER|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: SunBRINGER
+|turn|7
+|
+|t:|1641743005
+|move|p2a: Espeon|Stored Power|p1a: SunBRINGER
+|-damage|p1a: SunBRINGER|0 fnt
+|faint|p1a: SunBRINGER
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641743007
+|switch|p1a: leastFAVgen1start|Venusaur, F|100/100
+|turn|8
+|
+|t:|1641743013
+|move|p2a: Espeon|Stored Power|p1a: leastFAVgen1start
+|-supereffective|p1a: leastFAVgen1start
+|-damage|p1a: leastFAVgen1start|0 fnt
+|faint|p1a: leastFAVgen1start
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641743016
+|switch|p1a: #1inUSAGE|Landorus-Therian, M|100/100
+|-ability|p1a: #1inUSAGE|Intimidate|boost
+|-unboost|p2a: Espeon|atk|1
+|turn|9
+|
+|t:|1641743019
+|move|p2a: Espeon|Stored Power|p1a: #1inUSAGE
+|-damage|p1a: #1inUSAGE|0 fnt
+|faint|p1a: #1inUSAGE
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641743021
+|switch|p1a: OUkillerNINA|Ninetales, F|100/100
+|turn|10
+|c|☆Gogal|Gg
+|
+|t:|1641743026
+|move|p2a: Espeon|Stored Power|p1a: OUkillerNINA
+|-damage|p1a: OUkillerNINA|0 fnt
+|faint|p1a: OUkillerNINA
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641743028
+|switch|p1a: mostFAVgen1starter|Charizard, M|100/100
+|turn|11
+|
+|t:|1641743030
+|move|p2a: Espeon|Stored Power|p1a: mostFAVgen1starter
+|-damage|p1a: mostFAVgen1starter|0 fnt
+|faint|p1a: mostFAVgen1starter
+|
+|win|MegaMHX
+|raw|Gogal's rating: 1411 &rarr; <strong>1385</strong><br />(-26 for losing)
+|raw|MegaMHX's rating: 1309 &rarr; <strong>1335</strong><br />(+26 for winning)
+|l|☆Gogal

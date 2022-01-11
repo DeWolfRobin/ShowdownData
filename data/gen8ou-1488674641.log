@@ -1,0 +1,560 @@
+|j|‽testingbot42o
+|j|☆86thesweetpotato
+|t:|1641800571
+|gametype|singles
+|player|p1|testingbot42o|102|1252
+|player|p2|86thesweetpotato|169|1215
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Hydreigon, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Hippowdon, M|
+|poke|p1|Excadrill, F|
+|poke|p2|Reuniclus, M|
+|poke|p2|Bronzong|
+|poke|p2|Comfey, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Runerigus, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingbot42o)
+|
+|t:|1641800578
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: Toxaflex|Toxapex, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641800581
+|move|p1a: Hippowdon|Stealth Rock|p2a: Toxaflex
+|-sidestart|p2: 86thesweetpotato|move: Stealth Rock
+|move|p2a: Toxaflex|Liquidation|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|56/100
+|-unboost|p1a: Hippowdon|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxaflex|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641800582
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|move|p2a: Toxaflex|Liquidation|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|29/100
+|-unboost|p1a: Hippowdon|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxaflex|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641800584
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|79/100
+|move|p2a: Toxaflex|Liquidation|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxaflex|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641800584
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|turn|4
+|
+|t:|1641800594
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: Crunchwrap|Bronzong|100/100
+|-damage|p2a: Crunchwrap|94/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641800601
+|switch|p2a: Sacred|Volcarona, M|100/100
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Sacred|94/100|[from] Sandstorm
+|-heal|p1a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641800606
+|move|p2a: Sacred|Fiery Dance|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|-boost|p2a: Sacred|spa|1
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Sacred|88/100|[from] Sandstorm
+|-heal|p1a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641800612
+|move|p2a: Sacred|Fiery Dance|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|38/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Sacred|82/100|[from] Sandstorm
+|-heal|p1a: Corviknight|44/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641800613
+|move|p2a: Sacred|Fiery Dance|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|move|p1a: Corviknight|Brave Bird|p2a: Sacred
+|-supereffective|p2a: Sacred
+|-damage|p2a: Sacred|0 fnt
+|faint|p2a: Sacred
+|-damage|p1a: Corviknight|23/100|[from] Recoil
+|
+|-weather|none
+|-heal|p1a: Corviknight|29/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641800636
+|switch|p2a: Plasma|Reuniclus, M, shiny|100/100
+|turn|9
+|
+|t:|1641800638
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|79/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Plasma|Acid Armor|p2a: Plasma
+|-boost|p2a: Plasma|def|2
+|
+|-heal|p1a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641800640
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|move|p2a: Plasma|Acid Armor|p2a: Plasma
+|-boost|p2a: Plasma|def|2
+|
+|-heal|p1a: Corviknight|92/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641800643
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|67/100
+|move|p2a: Plasma|Acid Armor|p2a: Plasma
+|-boost|p2a: Plasma|def|2
+|
+|-heal|p1a: Corviknight|73/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641800649
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|-heal|p1a: Corviknight|79/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641800655
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|-heal|p1a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641800658
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|-heal|p1a: Corviknight|92/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641800671
+|move|p1a: Corviknight|Brave Bird|p2a: Plasma
+|-damage|p2a: Plasma|79/100
+|-damage|p1a: Corviknight|84/100|[from] Recoil
+|move|p2a: Plasma|Stored Power|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641800675
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|66/100
+|move|p2a: Plasma|Stored Power|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|72/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641800677
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|47/100
+|move|p2a: Plasma|Stored Power|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|53/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641800684
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|28/100
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|-heal|p1a: Corviknight|34/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641800688
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|84/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Plasma|Stored Power|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-end|p1a: Corviknight|Substitute
+|
+|-heal|p1a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641800690
+|move|p1a: Corviknight|Substitute|p1a: Corviknight
+|-start|p1a: Corviknight|Substitute
+|-damage|p1a: Corviknight|66/100
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|-heal|p1a: Corviknight|72/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641800693
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|1
+|-boost|p2a: Plasma|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1641800695
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|0
+|-boost|p2a: Plasma|spd|0
+|
+|upkeep
+|turn|23
+|
+|t:|1641800703
+|move|p1a: Corviknight|Brave Bird|p2a: Plasma
+|-damage|p2a: Plasma|55/100
+|-damage|p1a: Corviknight|92/100|[from] Recoil
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|0
+|-boost|p2a: Plasma|spd|0
+|
+|-heal|p1a: Corviknight|98/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641800705
+|move|p1a: Corviknight|Brave Bird|p2a: Plasma
+|-damage|p2a: Plasma|31/100
+|-damage|p1a: Corviknight|90/100|[from] Recoil
+|move|p2a: Plasma|Recover|p2a: Plasma
+|-heal|p2a: Plasma|81/100
+|
+|-heal|p1a: Corviknight|96/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641800706
+|move|p1a: Corviknight|Bulk Up|p1a: Corviknight
+|-boost|p1a: Corviknight|atk|1
+|-boost|p1a: Corviknight|def|1
+|move|p2a: Plasma|Recover|p2a: Plasma
+|-heal|p2a: Plasma|100/100
+|
+|-heal|p1a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641800709
+|move|p1a: Corviknight|Brave Bird|p2a: Plasma
+|-damage|p2a: Plasma|74/100
+|-damage|p1a: Corviknight|91/100|[from] Recoil
+|move|p2a: Plasma|Calm Mind|p2a: Plasma
+|-boost|p2a: Plasma|spa|0
+|-boost|p2a: Plasma|spd|0
+|
+|-heal|p1a: Corviknight|97/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641800712
+|move|p1a: Corviknight|Brave Bird|p2a: Plasma
+|-damage|p2a: Plasma|46/100
+|-damage|p1a: Corviknight|87/100|[from] Recoil
+|move|p2a: Plasma|Acid Armor|p2a: Plasma
+|-boost|p2a: Plasma|def|0
+|
+|-heal|p1a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641800714
+|move|p1a: Corviknight|Brave Bird|p2a: Plasma
+|-damage|p2a: Plasma|19/100
+|-damage|p1a: Corviknight|84/100|[from] Recoil
+|move|p2a: Plasma|Recover|p2a: Plasma
+|-heal|p2a: Plasma|69/100
+|
+|-heal|p1a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641800716
+|move|p1a: Corviknight|Brave Bird|p2a: Plasma
+|-crit|p2a: Plasma
+|-damage|p2a: Plasma|0 fnt
+|faint|p2a: Plasma
+|-damage|p1a: Corviknight|67/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641800724
+|switch|p2a: the GOOD China|Runerigus, M|100/100
+|-damage|p2a: the GOOD China|94/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641800726
+|move|p1a: Corviknight|Brave Bird|p2a: the GOOD China
+|-damage|p2a: the GOOD China|9/100
+|-activate|p2a: the GOOD China|ability: Wandering Spirit|Pressure|Wandering Spirit|[of] p1a: Corviknight
+|-ability|p2a: the GOOD China|Pressure
+|-damage|p1a: Corviknight|50/100|[from] Recoil
+|move|p2a: the GOOD China|Trick Room|p2a: the GOOD China
+|-fieldstart|move: Trick Room|[of] p2a: the GOOD China
+|
+|-heal|p1a: Corviknight|57/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641800730
+|move|p2a: the GOOD China|Destiny Bond|p2a: the GOOD China
+|-singlemove|p2a: the GOOD China|Destiny Bond
+|move|p1a: Corviknight|Brave Bird|p2a: the GOOD China
+|-damage|p2a: the GOOD China|0 fnt
+|faint|p2a: the GOOD China
+|-activate|p2a: the GOOD China|move: Destiny Bond
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1641800739
+|switch|p2a: Crunchwrap|Bronzong|94/100
+|switch|p1a: Clefable|Clefable, F|100/100
+|-damage|p2a: Crunchwrap|88/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1641800741
+|move|p2a: Crunchwrap|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|9/100
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|59/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641800744
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|move|p2a: Crunchwrap|Gyro Ball|p1a: Hydreigon
+|-damage|p1a: Hydreigon|36/100
+|
+|-heal|p1a: Hydreigon|42/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641800746
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Crunchwrap|Gyro Ball|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|81/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|35
+|
+|t:|1641800754
+|move|p1a: Rotom|Hydro Pump|p2a: Crunchwrap
+|-damage|p2a: Crunchwrap|47/100
+|move|p2a: Crunchwrap|Trick Room|p2a: Crunchwrap
+|-fieldstart|move: Trick Room|[of] p2a: Crunchwrap
+|
+|upkeep
+|turn|36
+|
+|t:|1641800757
+|switch|p2a: Toxaflex|Toxapex, M, shiny|100/100
+|-damage|p2a: Toxaflex|88/100|[from] Stealth Rock
+|move|p1a: Rotom|Hydro Pump|p2a: Toxaflex
+|-resisted|p2a: Toxaflex
+|-crit|p2a: Toxaflex
+|-damage|p2a: Toxaflex|56/100
+|
+|upkeep
+|turn|37
+|
+|t:|1641800763
+|move|p2a: Toxaflex|Knock Off|p1a: Rotom
+|-damage|p1a: Rotom|35/100
+|-enditem|p1a: Rotom|Choice Scarf|[from] move: Knock Off|[of] p2a: Toxaflex
+|move|p1a: Rotom|Hydro Pump|p2a: Toxaflex
+|-resisted|p2a: Toxaflex
+|-damage|p2a: Toxaflex|33/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641800768
+|switch|p2a: Slay|Comfey, F, shiny|100/100
+|-damage|p2a: Slay|88/100|[from] Stealth Rock
+|move|p1a: Rotom|Hydro Pump|p2a: Slay
+|-damage|p2a: Slay|26/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641800771
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|move|p2a: Slay|Giga Drain|p1a: Excadrill
+|-damage|p1a: Excadrill|73/100
+|-heal|p2a: Slay|53/100|[from] drain|[of] p1a: Excadrill
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|40
+|
+|t:|1641800776
+|move|p2a: Slay|Giga Drain|p1a: Excadrill
+|-damage|p1a: Excadrill|47/100
+|-heal|p2a: Slay|78/100|[from] drain|[of] p1a: Excadrill
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|upkeep
+|turn|41
+|
+|t:|1641800779
+|move|p2a: Slay|Giga Drain|p1a: Excadrill
+|-damage|p1a: Excadrill|21/100
+|-heal|p2a: Slay|100/100|[from] drain|[of] p1a: Excadrill
+|move|p1a: Excadrill|Iron Head|p2a: Slay
+|-supereffective|p2a: Slay
+|-damage|p2a: Slay|0 fnt
+|faint|p2a: Slay
+|-damage|p1a: Excadrill|11/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641800786
+|switch|p2a: Crunchwrap|Bronzong|47/100
+|-damage|p2a: Crunchwrap|41/100|[from] Stealth Rock
+|turn|42
+|
+|t:|1641800787
+|move|p1a: Excadrill|Iron Head|p2a: Crunchwrap
+|-resisted|p2a: Crunchwrap
+|-damage|p2a: Crunchwrap|0 fnt
+|faint|p2a: Crunchwrap
+|-damage|p1a: Excadrill|1/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641800790
+|switch|p2a: Toxaflex|Toxapex, M, shiny|66/100
+|-damage|p2a: Toxaflex|54/100|[from] Stealth Rock
+|turn|43
+|
+|t:|1641800792
+|move|p1a: Excadrill|Earthquake|p2a: Toxaflex
+|-supereffective|p2a: Toxaflex
+|-damage|p2a: Toxaflex|0 fnt
+|faint|p2a: Toxaflex
+|-damage|p1a: Excadrill|0 fnt|[from] item: Life Orb
+|faint|p1a: Excadrill
+|
+|win|testingbot42o
+|raw|testingbot42o's rating: 1252 &rarr; <strong>1274</strong><br />(+22 for winning)
+|raw|86thesweetpotato's rating: 1215 &rarr; <strong>1193</strong><br />(-22 for losing)
+|l|‽testingbot42o

@@ -1,0 +1,140 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC N1Daye
+|j|☆sl21cc buhuiying
+|t:|1641823732
+|gametype|singles
+|player|p1|SL21CC N1Daye|265|1194
+|player|p2|sl21cc buhuiying|YZII.jpg|1191
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Melmetal|
+|poke|p1|Hawlucha, F|
+|poke|p1|Weavile, M|
+|poke|p1|Zeraora|
+|poke|p1|Dragonite, F|
+|poke|p2|Tyranitar, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Dragonite, F|
+|teampreview
+|
+|t:|1641823746
+|start
+|switch|p1a: Weavile|Weavile, M|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1641823753
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|69/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641823766
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|move|p1a: Melmetal|Thunder Punch|p2a: Volcarona
+|-damage|p2a: Volcarona|62/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641823774
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Misty Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Misty Seed
+|
+|upkeep
+|turn|4
+|
+|t:|1641823780
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Tapu Fini|Moonblast|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|28/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641823784
+|move|p1a: Hawlucha|Acrobatics|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-fieldend|Misty Terrain
+|upkeep
+|j| adreamew
+|
+|t:|1641823793
+|switch|p2a: Dragonite|Dragonite, F, shiny|100/100
+|turn|6
+|
+|t:|1641823796
+|move|p1a: Hawlucha|Acrobatics|p2a: Dragonite
+|-damage|p2a: Dragonite|66/100
+|move|p2a: Dragonite|Ice Beam|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1641823801
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|7
+|
+|t:|1641823807
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|94/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641823819
+|move|p1a: Weavile|Triple Axel|p2a: Tyranitar
+|-damage|p2a: Tyranitar|83/100
+|-damage|p2a: Tyranitar|43/100
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|-hitcount|p2: Tyranitar|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641823827
+|switch|p2a: Volcarona|Volcarona, F|62/100
+|turn|9
+|-message|sl21cc buhuiying forfeited.
+|
+|win|SL21CC N1Daye
+|raw|SL21CC N1Daye's rating: 1194 &rarr; <strong>1219</strong><br />(+25 for winning)
+|raw|sl21cc buhuiying's rating: 1191 &rarr; <strong>1167</strong><br />(-24 for losing)
+|l|☆sl21cc buhuiying
+|l|☆SL21CC N1Daye

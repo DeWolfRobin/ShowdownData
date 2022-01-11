@@ -1,0 +1,245 @@
+|j|☆pen4nce
+|j|☆benji31421017
+|t:|1641783585
+|gametype|singles
+|player|p1|pen4nce|ghetsis-gen5bw|
+|player|p2|benji31421017|rood|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Mimikyu, M|
+|poke|p1|Kartana|
+|poke|p1|Moltres-Galar|
+|poke|p1|Corsola-Galar, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Mamoswine, M|
+|poke|p2|Xurkitree|
+|poke|p2|Dhelmise|
+|poke|p2|Chandelure, M|
+|poke|p2|Xatu, M|
+|teampreview
+|
+|t:|1641783603
+|start
+|switch|p1a: Scrungly|Mew, shiny|100/100
+|switch|p2a: Xa2|Xatu, M|100/100
+|turn|1
+|
+|t:|1641783621
+|move|p1a: Scrungly|Magic Coat|p1a: Scrungly
+|-singleturn|p1a: Scrungly|move: Magic Coat
+|move|p2a: Xa2|Future Sight|p1a: Scrungly
+|-start|p2a: Xa2|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1641783633
+|move|p2a: Xa2|Night Shade|p1a: Scrungly
+|-damage|p1a: Scrungly|76/100
+|move|p1a: Scrungly|Encore|p2a: Xa2
+|move|p2a: Xa2|Encore||[from]ability: Magic Bounce|[still]
+|-fail|p2a: Xa2
+|
+|upkeep
+|turn|3
+|
+|t:|1641783640
+|move|p2a: Xa2|Night Shade|p1a: Scrungly
+|-damage|p1a: Scrungly|51/100
+|move|p1a: Scrungly|Stealth Rock|p2a: Xa2
+|move|p2a: Xa2|Stealth Rock|p1a: Scrungly|[from]ability: Magic Bounce
+|-sidestart|p1: pen4nce|move: Stealth Rock
+|
+|-end|p1a: Scrungly|move: Future Sight
+|-resisted|p1a: Scrungly
+|-damage|p1a: Scrungly|39/100
+|upkeep
+|turn|4
+|
+|t:|1641783662
+|switch|p1a: Ambition|Kartana|100/100
+|-damage|p1a: Ambition|94/100|[from] Stealth Rock
+|move|p2a: Xa2|Future Sight|p1a: Ambition
+|-start|p2a: Xa2|move: Future Sight
+|
+|upkeep
+|turn|5
+|
+|t:|1641783685
+|move|p1a: Ambition|Swords Dance|p1a: Ambition
+|-boost|p1a: Ambition|atk|2
+|move|p2a: Xa2|Roost||[still]
+|-fail|p2a: Xa2|heal
+|
+|upkeep
+|turn|6
+|
+|t:|1641783693
+|move|p1a: Ambition|Swords Dance|p1a: Ambition
+|-boost|p1a: Ambition|atk|2
+|move|p2a: Xa2|Night Shade|p1a: Ambition
+|-damage|p1a: Ambition|56/100
+|
+|-end|p1a: Ambition|move: Future Sight
+|-resisted|p1a: Ambition
+|-damage|p1a: Ambition|0 fnt
+|faint|p1a: Ambition
+|upkeep
+|
+|t:|1641783709
+|switch|p1a: Theodora|Dragapult, F|100/100
+|-damage|p1a: Theodora|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641783713
+|move|p1a: Theodora|Phantom Force||[still]
+|-prepare|p1a: Theodora|Phantom Force
+|move|p2a: Xa2|Future Sight|p1a: Theodora
+|-start|p2a: Xa2|move: Future Sight
+|
+|upkeep
+|turn|8
+|
+|t:|1641783719
+|move|p1a: Theodora|Phantom Force|p2a: Xa2|[from]lockedmove
+|-supereffective|p2a: Xa2
+|-damage|p2a: Xa2|0 fnt
+|faint|p2a: Xa2
+|-damage|p1a: Theodora|78/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆pen4nce|Hmm
+|
+|t:|1641783734
+|switch|p2a: kinda Scmoovin|Mamoswine, M|100/100
+|turn|9
+|
+|t:|1641783739
+|move|p2a: kinda Scmoovin|Ice Shard|p1a: Theodora
+|-supereffective|p1a: Theodora
+|-damage|p1a: Theodora|0 fnt
+|faint|p1a: Theodora
+|-damage|p2a: kinda Scmoovin|91/100|[from] item: Life Orb
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|c|☆pen4nce|????
+|
+|t:|1641783757
+|switch|p1a: Steve|Mimikyu, M|100/100
+|-damage|p1a: Steve|88/100|[from] Stealth Rock
+|turn|10
+|c|☆pen4nce|What is that things speed
+|
+|t:|1641783774
+|move|p2a: kinda Scmoovin|Ice Shard|p1a: Steve
+|-activate|p1a: Steve|ability: Disguise
+|-damage|p1a: Steve|88/100
+|detailschange|p1a: Steve|Mimikyu-Busted, M
+|-damage|p1a: Steve|76/100|[from] pokemon: Mimikyu-Busted
+|-damage|p2a: kinda Scmoovin|81/100|[from] item: Life Orb
+|move|p1a: Steve|Swords Dance|p1a: Steve
+|-boost|p1a: Steve|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1641783791
+|move|p1a: Steve|Shadow Sneak|p2a: kinda Scmoovin
+|-damage|p2a: kinda Scmoovin|28/100
+|-damage|p1a: Steve|66/100|[from] item: Life Orb
+|move|p2a: kinda Scmoovin|Knock Off|p1a: Steve
+|-damage|p1a: Steve|0 fnt
+|-enditem|p1a: Steve|Life Orb|[from] move: Knock Off|[of] p2a: kinda Scmoovin
+|faint|p1a: Steve
+|-damage|p2a: kinda Scmoovin|19/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641783797
+|switch|p1a: Avarice|Moltres-Galar|100/100
+|-damage|p1a: Avarice|76/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641783824
+|move|p2a: kinda Scmoovin|Ice Shard|p1a: Avarice
+|-supereffective|p1a: Avarice
+|-damage|p1a: Avarice|8/100
+|-enditem|p1a: Avarice|Weakness Policy
+|-boost|p1a: Avarice|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Avarice|spa|2|[from] item: Weakness Policy
+|-ability|p1a: Avarice|Berserk|boost
+|-boost|p1a: Avarice|spa|1
+|-damage|p2a: kinda Scmoovin|9/100|[from] item: Life Orb
+|move|p1a: Avarice|Fiery Wrath|p2a: kinda Scmoovin
+|-damage|p2a: kinda Scmoovin|0 fnt
+|faint|p2a: kinda Scmoovin
+|
+|upkeep
+|
+|t:|1641783858
+|switch|p2a: BIG Generator|Xurkitree|100/100
+|-item|p2a: BIG Generator|Air Balloon
+|turn|13
+|
+|t:|1641783866
+|move|p1a: Avarice|Fiery Wrath|p2a: BIG Generator
+|-damage|p2a: BIG Generator|0 fnt
+|-enditem|p2a: BIG Generator|Air Balloon
+|faint|p2a: BIG Generator
+|
+|upkeep
+|
+|t:|1641783894
+|switch|p2a: gulp|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: gulp
+|turn|14
+|
+|t:|1641783899
+|move|p1a: Avarice|Fiery Wrath|p2a: gulp
+|-crit|p2a: gulp
+|-damage|p2a: gulp|0 fnt
+|faint|p2a: gulp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641783906
+|switch|p2a: Yooooooo|Chandelure, M|100/100
+|turn|15
+|
+|t:|1641783912
+|move|p1a: Avarice|Fiery Wrath|p2a: Yooooooo
+|-supereffective|p2a: Yooooooo
+|-damage|p2a: Yooooooo|0 fnt
+|faint|p2a: Yooooooo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641783917
+|switch|p2a: Kanye West 2|Dhelmise|100/100
+|turn|16
+|
+|t:|1641783924
+|move|p1a: Avarice|Fiery Wrath|p2a: Kanye West 2
+|-supereffective|p2a: Kanye West 2
+|-damage|p2a: Kanye West 2|0 fnt
+|faint|p2a: Kanye West 2
+|
+|win|pen4nce
+|c|☆pen4nce|BRUH
+|c|☆pen4nce|KANYE WEST2
+|c|☆pen4nce|gg and amazing nickname

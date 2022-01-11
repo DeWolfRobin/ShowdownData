@@ -1,0 +1,704 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641746940
+|gametype|singles
+|player|p1|INSULT|#splxiiibigs|
+|player|p2|bro fist|#splxiiisharks|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Melmetal|
+|poke|p1|Heatran, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Weavile, M|
+|poke|p2|Heatran, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|c|☆INSULT|hf
+|c|☆bro fist|u2
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|INSULT has 270 seconds left.
+|inactive|bro fist has 270 seconds left.
+|inactive|bro fist has 240 seconds left.
+|
+|t:|1641747013
+|start
+|switch|p1a: STEPHEN FLORIDA|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|inactive|bro fist has 270 seconds left.
+|
+|t:|1641747048
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|
+|upkeep
+|turn|2
+|inactive|bro fist has 270 seconds left.
+|
+|t:|1641747063
+|move|p1a: Tornadus|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-enditem|p2a: Slowbro|Colbur Berry|[eat]
+|-enditem|p2a: Slowbro|Colbur Berry|[weaken]
+|-damage|p2a: Slowbro|89/100
+|move|p2a: Slowbro|Future Sight|p1a: Tornadus
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|3
+|inactive|bro fist has 270 seconds left.
+|inactive|INSULT has 270 seconds left.
+|
+|t:|1641747094
+|move|p1a: Tornadus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|71/100
+|inactive|INSULT has 270 seconds left.
+|
+|t:|1641747100
+|switch|p1a: STEPHEN FLORIDA|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|inactive|bro fist has 270 seconds left.
+|inactive|bro fist has 240 seconds left.
+|inactive|bro fist has 210 seconds left.
+|
+|t:|1641747176
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|4
+|inactive|bro fist has 210 seconds left.
+|inactive|INSULT has 270 seconds left.
+|
+|t:|1641747193
+|move|p1a: STEPHEN FLORIDA|U-turn|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|64/100
+|inactive|INSULT has 270 seconds left.
+|
+|t:|1641747206
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from]move: U-turn
+|move|p2a: Tapu Lele|Focus Blast|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|86/100
+|
+|-end|p1a: Tornadus|move: Future Sight
+|-damage|p1a: Tornadus|51/100
+|upkeep
+|turn|5
+|inactive|INSULT has 270 seconds left.
+|inactive|bro fist has 210 seconds left.
+|inactive|INSULT has 240 seconds left.
+|inactive|bro fist has 180 seconds left.
+|
+|t:|1641747254
+|move|p1a: Tornadus|U-turn|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|42/100
+|
+|t:|1641747262
+|switch|p1a: MAELMETAL|Melmetal|100/100|[from]move: U-turn
+|move|p2a: Tapu Lele|Focus Blast|p1a: MAELMETAL
+|-supereffective|p1a: MAELMETAL
+|-damage|p1a: MAELMETAL|25/100
+|
+|-heal|p1a: MAELMETAL|31/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|inactive|bro fist has 180 seconds left.
+|inactive|INSULT has 210 seconds left.
+|
+|t:|1641747319
+|move|p1a: MAELMETAL|Protect|p1a: MAELMETAL
+|-singleturn|p1a: MAELMETAL|Protect
+|move|p2a: Tapu Lele|Focus Blast|p1a: MAELMETAL
+|-activate|p1a: MAELMETAL|move: Protect
+|
+|-heal|p1a: MAELMETAL|37/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641747330
+|switch|p1a: Tornadus|Tornadus-Therian, M|84/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Tornadus
+|-damage|p1a: Tornadus|28/100
+|
+|upkeep
+|turn|8
+|inactive|INSULT has 180 seconds left.
+|inactive|bro fist has 150 seconds left.
+|
+|t:|1641747374
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Tornadus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|84/100
+|inactive|INSULT has 150 seconds left.
+|
+|t:|1641747396
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: WASIAN CHECK
+|
+|upkeep
+|turn|9
+|inactive|bro fist has 150 seconds left.
+|
+|t:|1641747402
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowbro|atk|1
+|switch|p2a: Heatran|Heatran, M|100/100
+|
+|upkeep
+|turn|10
+|inactive|bro fist has 150 seconds left.
+|inactive|INSULT has 150 seconds left.
+|
+|t:|1641747431
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-damage|p2a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|INSULT has 150 seconds left.
+|
+|t:|1641747441
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|88/100 tox
+|
+|t:|1641747448
+|switch|p1a: STEPHEN FLORIDA|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|
+|-heal|p2a: Landorus|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|82/100 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|INSULT has 150 seconds left.
+|
+|t:|1641747456
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: STEPHEN FLORIDA|Surging Strikes|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|95/100
+|-resisted|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|89/100
+|-resisted|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|83/100
+|-hitcount|p2a: Slowbro|3
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|13
+|inactive|bro fist has 150 seconds left.
+|
+|t:|1641747470
+|move|p1a: STEPHEN FLORIDA|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|55/100
+|inactive|INSULT has 150 seconds left.
+|
+|t:|1641747501
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: WASIAN CHECK
+|move|p2a: Slowbro|Future Sight|p1a: WASIAN CHECK
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|14
+|inactive|bro fist has 150 seconds left.
+|inactive|INSULT has 120 seconds left.
+|
+|t:|1641747531
+|switch|p1a: Landorus|Landorus-Therian, M|100/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowbro|atk|1
+|switch|p2a: Heatran|Heatran, M|100/100
+|
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|15
+|inactive|bro fist has 150 seconds left.
+|inactive|INSULT has 120 seconds left.
+|
+|t:|1641747548
+|switch|p2a: Landorus|Landorus-Therian, M|82/100 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-end|p1a: Landorus|move: Future Sight
+|-damage|p1a: Landorus|63/100 tox
+|-heal|p2a: Landorus|88/100 tox|[from] item: Leftovers
+|-heal|p1a: Landorus|69/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|82/100 tox|[from] psn
+|-damage|p1a: Landorus|57/100 tox|[from] psn
+|upkeep
+|turn|16
+|inactive|bro fist has 150 seconds left.
+|
+|t:|1641747561
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|46/100 tox
+|
+|t:|1641747563
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|move|p1a: Landorus|U-turn|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|93/100
+|
+|t:|1641747574
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|17
+|
+|t:|1641747584
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: WASIAN CHECK|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|66/100
+|
+|-heal|p2a: Heatran|72/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|18
+|
+|t:|1641747593
+|switch|p1a: Heatran|Heatran, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Heatran|Stealth Rock|p1a: Heatran
+|-sidestart|p1: INSULT|move: Stealth Rock
+|
+|-heal|p2a: Heatran|78/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|bro fist has 150 seconds left.
+|
+|t:|1641747631
+|switch|p2a: Landorus|Landorus-Therian, M|82/100 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Stealth Rock|p2a: Landorus
+|-sidestart|p2: bro fist|move: Stealth Rock
+|
+|-heal|p2a: Landorus|88/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|82/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641747638
+|move|p1a: Heatran|Eruption|p2a: Landorus
+|-damage|p2a: Landorus|19/100 tox
+|move|p2a: Landorus|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|95/100
+|-enditem|p1a: Heatran|Air Balloon
+|inactive|bro fist has 150 seconds left.
+|
+|t:|1641747645
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|93/100|[from]move: U-turn
+|-damage|p2a: Urshifu|87/100|[from] Stealth Rock
+|
+|upkeep
+|turn|21
+|inactive|INSULT has 150 seconds left.
+|
+|t:|1641747658
+|switch|p1a: MAELMETAL|Melmetal|37/100
+|-damage|p1a: MAELMETAL|31/100|[from] Stealth Rock
+|move|p2a: Urshifu|Surging Strikes|p1a: MAELMETAL
+|-crit|p1a: MAELMETAL
+|-damage|p1a: MAELMETAL|19/100
+|-crit|p1a: MAELMETAL
+|-damage|p1a: MAELMETAL|6/100
+|-crit|p1a: MAELMETAL
+|-damage|p1a: MAELMETAL|0 fnt
+|faint|p1a: MAELMETAL
+|-hitcount|p1: MAELMETAL|3
+|
+|upkeep
+|inactive|INSULT has 120 seconds left.
+|inactive|INSULT has 90 seconds left.
+|
+|t:|1641747729
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: WASIAN CHECK
+|turn|22
+|inactive|bro fist has 150 seconds left.
+|inactive|INSULT has 60 seconds left.
+|
+|t:|1641747778
+|switch|p2a: Landorus|Landorus-Therian, M|19/100 tox
+|-damage|p2a: Landorus|6/100 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: WASIAN CHECK|atk|1
+|move|p1a: WASIAN CHECK|Dazzling Gleam|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|inactive|bro fist has 120 seconds left.
+|inactive|bro fist has 90 seconds left.
+|
+|t:|1641747833
+|switch|p2a: Heatran|Heatran, M|78/100
+|-damage|p2a: Heatran|66/100|[from] Stealth Rock
+|turn|23
+|inactive|bro fist has 90 seconds left.
+|
+|t:|1641747852
+|switch|p1a: STEPHEN FLORIDA|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: STEPHEN FLORIDA|94/100|[from] Stealth Rock
+|move|p2a: Heatran|Heavy Slam|p1a: STEPHEN FLORIDA
+|-resisted|p1a: STEPHEN FLORIDA
+|-damage|p1a: STEPHEN FLORIDA|80/100
+|
+|-heal|p2a: Heatran|72/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641747867
+|switch|p2a: Slowbro|Slowbro, M|88/100
+|-damage|p2a: Slowbro|75/100|[from] Stealth Rock
+|move|p1a: STEPHEN FLORIDA|Close Combat|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|57/100
+|-unboost|p1a: STEPHEN FLORIDA|def|1
+|-unboost|p1a: STEPHEN FLORIDA|spd|1
+|
+|upkeep
+|turn|25
+|inactive|bro fist has 90 seconds left.
+|
+|t:|1641747876
+|move|p1a: STEPHEN FLORIDA|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|29/100
+|
+|t:|1641747879
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100|[from]move: U-turn
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641747885
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|87/100|[from]move: Teleport
+|-damage|p2a: Urshifu|81/100|[from] Stealth Rock
+|
+|upkeep
+|turn|26
+|inactive|INSULT has 60 seconds left.
+|
+|t:|1641747915
+|move|p2a: Urshifu|U-turn|p1a: WASIAN CHECK
+|-resisted|p1a: WASIAN CHECK
+|-damage|p1a: WASIAN CHECK|82/100
+|
+|t:|1641747918
+|switch|p2a: Tapu Lele|Tapu Lele|42/100|[from]move: U-turn
+|-damage|p2a: Tapu Lele|29/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: WASIAN CHECK|Roost|p1a: WASIAN CHECK
+|-heal|p1a: WASIAN CHECK|100/100
+|-singleturn|p1a: WASIAN CHECK|move: Roost
+|
+|upkeep
+|turn|27
+|inactive|INSULT has 30 seconds left.
+|
+|t:|1641747944
+|switch|p1a: Tornadus|Tornadus-Therian, M|61/100
+|-damage|p1a: Tornadus|36/100|[from] Stealth Rock
+|switch|p2a: Heatran|Heatran, M|72/100
+|-damage|p2a: Heatran|60/100|[from] Stealth Rock
+|
+|-heal|p2a: Heatran|66/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|INSULT has 30 seconds left.
+|inactive|INSULT has 20 seconds left.
+|inactive|bro fist has 90 seconds left.
+|inactive|INSULT has 15 seconds left.
+|inactive|INSULT has 10 seconds left.
+|
+|t:|1641747999
+|move|p1a: Tornadus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|63/100
+|inactive|INSULT has 15 seconds left this turn.
+|
+|t:|1641748000
+|switch|p1a: Heatran|Heatran, M|95/100|[from]move: U-turn
+|-damage|p1a: Heatran|83/100|[from] Stealth Rock
+|move|p2a: Heatran|Lava Plume|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|-heal|p2a: Heatran|70/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|INSULT has 25 seconds left this turn.
+|inactive|INSULT has 20 seconds left.
+|inactive|INSULT has 15 seconds left.
+|
+|t:|1641748012
+|switch|p2a: Tapu Lele|Tapu Lele|29/100
+|-damage|p2a: Tapu Lele|17/100|[from] Stealth Rock
+|move|p1a: Heatran|Earth Power|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|inactive|INSULT has 20 seconds left this turn.
+|
+|t:|1641748014
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|81/100
+|-damage|p2a: Urshifu|74/100|[from] Stealth Rock
+|turn|30
+|inactive|INSULT has 30 seconds left this turn.
+|inactive|INSULT has 20 seconds left.
+|inactive|INSULT has 15 seconds left.
+|
+|t:|1641748035
+|-end|p1a: Heatran|ability: Flash Fire|[silent]
+|switch|p1a: Tornadus|Tornadus-Therian, M|70/100
+|-damage|p1a: Tornadus|45/100|[from] Stealth Rock
+|move|p2a: Urshifu|Surging Strikes|p1a: Tornadus
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|23/100
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|1/100
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|-hitcount|p1: Tornadus|3
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|inactive|INSULT has 20 seconds left this turn.
+|
+|t:|1641748040
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: WASIAN CHECK
+|turn|31
+|inactive|INSULT has 30 seconds left this turn.
+|inactive|bro fist has 60 seconds left.
+|inactive|bro fist has 30 seconds left.
+|inactive|bro fist has 20 seconds left.
+|
+|t:|1641748108
+|switch|p2a: Heatran|Heatran, M|70/100
+|-damage|p2a: Heatran|57/100|[from] Stealth Rock
+|move|p1a: WASIAN CHECK|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|23/100
+|
+|-heal|p2a: Heatran|29/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|inactive|bro fist has 30 seconds left this turn.
+|
+|t:|1641748115
+|move|p1a: WASIAN CHECK|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|inactive|bro fist has 30 seconds left this turn.
+|
+|t:|1641748119
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|33
+|inactive|bro fist has 30 seconds left.
+|inactive|bro fist has 20 seconds left.
+|inactive|bro fist has 15 seconds left.
+|
+|t:|1641748149
+|switch|p1a: Landorus|Landorus-Therian, M|46/100 tox
+|-damage|p1a: Landorus|34/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Weavile|atk|1
+|move|p2a: Weavile|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Landorus
+|
+|upkeep
+|inactive|bro fist has 20 seconds left this turn.
+|
+|t:|1641748156
+|switch|p1a: STEPHEN FLORIDA|Urshifu-Rapid-Strike, M|80/100
+|-damage|p1a: STEPHEN FLORIDA|74/100|[from] Stealth Rock
+|turn|34
+|inactive|bro fist has 30 seconds left this turn.
+|inactive|bro fist has 20 seconds left.
+|
+|t:|1641748170
+|switch|p2a: Slowbro|Slowbro, M|62/100
+|-damage|p2a: Slowbro|49/100|[from] Stealth Rock
+|move|p1a: STEPHEN FLORIDA|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|22/100
+|inactive|bro fist has 25 seconds left this turn.
+|
+|t:|1641748175
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|35
+|inactive|bro fist has 30 seconds left.
+|inactive|bro fist has 20 seconds left.
+|inactive|bro fist has 15 seconds left.
+|
+|t:|1641748195
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: WASIAN CHECK|Dazzling Gleam|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|10/100
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|36
+|inactive|bro fist has 25 seconds left this turn.
+|inactive|bro fist has 20 seconds left.
+|
+|t:|1641748205
+|switch|p1a: STEPHEN FLORIDA|Urshifu-Rapid-Strike, M|74/100
+|-damage|p1a: STEPHEN FLORIDA|67/100|[from] Stealth Rock
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|74/100
+|-damage|p2a: Urshifu|68/100|[from] Stealth Rock
+|
+|upkeep
+|turn|37
+|inactive|bro fist has 30 seconds left this turn.
+|inactive|bro fist has 20 seconds left.
+|
+|t:|1641748232
+|switch|p1a: Heatran|Heatran, M|83/100
+|-damage|p1a: Heatran|70/100|[from] Stealth Rock
+|move|p2a: Urshifu|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|64/100
+|inactive|bro fist has 25 seconds left this turn.
+|
+|t:|1641748236
+|switch|p2a: Slowbro|Slowbro, M|55/100|[from]move: U-turn
+|-damage|p2a: Slowbro|42/100|[from] Stealth Rock
+|
+|upkeep
+|turn|38
+|inactive|bro fist has 30 seconds left.
+|
+|t:|1641748248
+|move|p1a: Heatran|Earth Power|p2a: Slowbro
+|-damage|p2a: Slowbro|7/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|57/100
+|
+|upkeep
+|turn|39
+|inactive|bro fist has 30 seconds left.
+|
+|t:|1641748258
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: WASIAN CHECK
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|inactive|bro fist has 30 seconds left.
+|
+|t:|1641748264
+|switch|p2a: Weavile|Weavile, M|10/100|[from]move: Teleport
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|40
+|
+|t:|1641748272
+|switch|p1a: STEPHEN FLORIDA|Urshifu-Rapid-Strike, M|67/100
+|-damage|p1a: STEPHEN FLORIDA|61/100|[from] Stealth Rock
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|68/100
+|-damage|p2a: Urshifu|62/100|[from] Stealth Rock
+|
+|upkeep
+|turn|41
+|
+|t:|1641748283
+|switch|p1a: Heatran|Heatran, M|64/100
+|-damage|p1a: Heatran|52/100|[from] Stealth Rock
+|move|p2a: Urshifu|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641748286
+|switch|p1a: WASIAN CHECK|Tapu Koko|100/100
+|turn|42
+|
+|t:|1641748295
+|switch|p2a: Slowbro|Slowbro, M|90/100
+|-damage|p2a: Slowbro|78/100|[from] Stealth Rock
+|move|p1a: WASIAN CHECK|Thunderbolt|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1641748302
+|switch|p2a: Weavile|Weavile, M|10/100
+|-ability|p2a: Weavile|Pressure
+|turn|43
+|
+|t:|1641748323
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|62/100
+|-damage|p2a: Urshifu|56/100|[from] Stealth Rock
+|move|p1a: WASIAN CHECK|Thunderbolt|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641748326
+|switch|p2a: Weavile|Weavile, M|10/100
+|-ability|p2a: Weavile|Pressure
+|turn|44
+|c|☆bro fist|gg man
+|
+|t:|1641748332
+|move|p2a: Weavile|Ice Shard|p1a: WASIAN CHECK
+|-damage|p1a: WASIAN CHECK|73/100
+|move|p1a: WASIAN CHECK|Thunderbolt|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|win|INSULT
+|c|☆INSULT|gg boss

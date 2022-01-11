@@ -1,0 +1,324 @@
+|j|‽Cono de la Correze
+|j|☆GindarasonPillows
+|t:|1641713991
+|gametype|singles
+|player|p1|Cono de la Correze|lucas-gen4pt|1603
+|player|p2|GindarasonPillows|265|1576
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Kommo-o, M|
+|poke|p1|Jirachi|
+|poke|p1|Scrafty, F|
+|poke|p1|Weavile, M|
+|poke|p1|Flygon, M|
+|poke|p2|Buzzwole|
+|poke|p2|Tapu Lele|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Zeraora|
+|poke|p2|Gastrodon-East, F|
+|poke|p2|Heatran, F|
+|teampreview
+|
+|t:|1641714024
+|start
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|
+|t:|1641714039
+|switch|p1a: Jirachi|Jirachi|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|62/100
+|-enditem|p1a: Jirachi|Choice Scarf|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1641714046
+|move|p2a: Tornadus|U-turn|p1a: Jirachi
+|-damage|p1a: Jirachi|48/100
+|
+|t:|1641714050
+|switch|p2a: Heatran|Heatran, F|100/100|[from]move: U-turn
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|upkeep
+|turn|3
+|j| Kyurem
+|
+|t:|1641714057
+|move|p1a: Jirachi|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|96/100
+|
+|t:|1641714063
+|switch|p1a: Kommo-o|Kommo-o, M|100/100|[from]move: U-turn
+|move|p2a: Heatran|Stealth Rock|p1a: Kommo-o
+|-sidestart|p1: Cono de la Correze|move: Stealth Rock
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641714073
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Kommo-o|Stealth Rock|p2a: Tapu Lele
+|-sidestart|p2: GindarasonPillows|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1641714083
+|switch|p1a: Jirachi|Jirachi|48/100
+|-damage|p1a: Jirachi|42/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Moonblast|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|4/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641714092
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|move|p2a: Tapu Lele|Moonblast|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|upkeep
+|
+|t:|1641714099
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641714105
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|55/100
+|-unboost|p2a: Heatran|spd|1
+|
+|-heal|p1a: Blacephalon|100/100|[from] move: Wish|[wisher] Jirachi
+|-heal|p2a: Heatran|62/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641714117
+|switch|p1a: Flygon|Flygon, M|100/100
+|-damage|p1a: Flygon|95/100|[from] Stealth Rock
+|move|p2a: Heatran|Earth Power|p1a: Flygon
+|-immune|p1a: Flygon|[from] ability: Levitate
+|
+|-heal|p2a: Heatran|68/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1641714127
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Flygon|U-turn|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|94/100
+|
+|t:|1641714145
+|switch|p1a: Kommo-o|Kommo-o, M|100/100|[from]move: U-turn
+|-damage|p1a: Kommo-o|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1641714150
+|move|p2a: Buzzwole|Ice Punch|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|59/100
+|-damage|p2a: Buzzwole|77/100|[from] item: Rocky Helmet|[of] p1a: Kommo-o
+|move|p1a: Kommo-o|Toxic|p2a: Buzzwole
+|-status|p2a: Buzzwole|tox
+|
+|-damage|p2a: Buzzwole|71/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641714156
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Kommo-o|Flamethrower|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|65/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641714178
+|switch|p1a: Scrafty|Scrafty, F|100/100
+|-damage|p1a: Scrafty|95/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Moonblast|p1a: Scrafty
+|-supereffective|p1a: Scrafty
+|-damage|p1a: Scrafty|0 fnt
+|faint|p1a: Scrafty
+|
+|upkeep
+|
+|t:|1641714183
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641714255
+|switch|p2a: Heatran|Heatran, F|68/100
+|-damage|p2a: Heatran|55/100|[from] Stealth Rock
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|25/100
+|
+|-heal|p2a: Heatran|31/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641714270
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641714273
+|switch|p2a: Gastrodon|Gastrodon-East, F|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641714286
+|switch|p1a: Flygon|Flygon, M|95/100
+|-damage|p1a: Flygon|89/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Earthquake|p1a: Flygon
+|-immune|p1a: Flygon|[from] ability: Levitate
+|
+|-heal|p2a: Gastrodon|100/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|
+|t:|1641714294
+|move|p1a: Flygon|Defog|p2a: Gastrodon
+|-unboost|p2a: Gastrodon|evasion|1
+|-sideend|p2: GindarasonPillows|Stealth Rock|[from] move: Defog|[of] p1a: Flygon
+|-sideend|p1: Cono de la Correze|Stealth Rock|[from] move: Defog|[of] p1a: Flygon
+|move|p2a: Gastrodon|Scald|p1a: Flygon
+|-damage|p1a: Flygon|53/100
+|-status|p1a: Flygon|brn
+|
+|-damage|p1a: Flygon|47/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641714303
+|switch|p1a: Kommo-o|Kommo-o, M|59/100
+|move|p2a: Gastrodon|Scald|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-damage|p1a: Kommo-o|48/100
+|-status|p1a: Kommo-o|brn
+|
+|-damage|p1a: Kommo-o|42/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641714309
+|switch|p2a: Tapu Lele|Tapu Lele|65/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Kommo-o|Toxic|p2a: Tapu Lele|[miss]
+|-miss|p1a: Kommo-o|p2a: Tapu Lele
+|
+|-damage|p1a: Kommo-o|36/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641714322
+|switch|p1a: Flygon|Flygon, M|47/100 brn
+|move|p2a: Tapu Lele|Moonblast|p1a: Flygon
+|-supereffective|p1a: Flygon
+|-damage|p1a: Flygon|0 fnt
+|faint|p1a: Flygon
+|
+|upkeep
+|
+|t:|1641714324
+|switch|p1a: Blacephalon|Blacephalon|76/100
+|turn|20
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Cono de la Correze)
+|
+|t:|1641714348
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|51/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641714354
+|move|p1a: Blacephalon|Shadow Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|7/100
+|move|p2a: Tornadus|Knock Off|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|-enditem|p1a: Blacephalon|Choice Scarf|[from] move: Knock Off|[of] p2a: Tornadus
+|faint|p1a: Blacephalon
+|
+|upkeep
+|
+|t:|1641714360
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|22
+|
+|t:|1641714366
+|switch|p2a: Buzzwole|Buzzwole|71/100 tox
+|move|p1a: Weavile|Icicle Crash|p2a: Buzzwole
+|-damage|p2a: Buzzwole|27/100 tox
+|
+|-damage|p2a: Buzzwole|21/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|23
+|
+|t:|1641714371
+|move|p1a: Weavile|Icicle Crash|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|faint|p2a: Buzzwole
+|
+|upkeep
+|
+|t:|1641714375
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|24
+|
+|t:|1641714380
+|move|p2a: Zeraora|Close Combat|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|faint|p1a: Weavile
+|
+|upkeep
+|-message|Cono de la Correze forfeited.
+|
+|win|GindarasonPillows
+|raw|Cono de la Correze's rating: 1603 &rarr; <strong>1581</strong><br />(-22 for losing)
+|raw|GindarasonPillows's rating: 1576 &rarr; <strong>1598</strong><br />(+22 for winning)
+|l|‽Cono de la Correze

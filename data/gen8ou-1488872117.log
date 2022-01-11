@@ -1,0 +1,206 @@
+|j|☆uhy678u
+|j|☆Anish2410
+|t:|1641831578
+|gametype|singles
+|player|p1|uhy678u|266|1000
+|player|p2|Anish2410|hugh|1027
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gallade, M|
+|poke|p1|Lycanroc-Midnight, M|
+|poke|p1|Gengar, M|
+|poke|p1|Crobat, F|
+|poke|p1|Centiskorch, M|
+|poke|p1|Ludicolo, M|
+|poke|p2|Sawk, M|
+|poke|p2|Aegislash, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Shuckle, M|
+|poke|p2|Porygon-Z|
+|poke|p2|Krookodile, F|
+|teampreview
+|
+|t:|1641831584
+|start
+|switch|p1a: dark vador|Gengar, M, shiny|100/100
+|switch|p2a: Shuckle|Shuckle, M|100/100
+|turn|1
+|
+|t:|1641831591
+|move|p1a: dark vador|Brick Break|p2a: Shuckle
+|-damage|p2a: Shuckle|90/100
+|move|p2a: Shuckle|Sticky Web|p1a: dark vador
+|-sidestart|p1: uhy678u|move: Sticky Web
+|
+|-heal|p2a: Shuckle|96/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641831599
+|move|p1a: dark vador|Shadow Ball|p2a: Shuckle
+|-damage|p2a: Shuckle|64/100
+|move|p2a: Shuckle|Stealth Rock|p1a: dark vador
+|-sidestart|p1: uhy678u|move: Stealth Rock
+|
+|-heal|p2a: Shuckle|70/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641831609
+|move|p2a: Shuckle|Protect|p2a: Shuckle
+|-singleturn|p2a: Shuckle|Protect
+|move|p1a: dark vador|Shadow Ball|p2a: Shuckle
+|-activate|p2a: Shuckle|move: Protect
+|
+|-heal|p2a: Shuckle|76/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641831622
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|-item|p2a: Aegislash|Air Balloon
+|move|p1a: dark vador|Shadow Ball|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|30/100
+|-unboost|p2a: Aegislash|spd|1
+|-enditem|p2a: Aegislash|Air Balloon
+|
+|upkeep
+|turn|5
+|
+|t:|1641831632
+|move|p1a: dark vador|Shadow Ball|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-crit|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|faint|p2a: Aegislash
+|
+|upkeep
+|
+|t:|1641831637
+|switch|p2a: Krookodile|Krookodile, F|100/100
+|turn|6
+|
+|t:|1641831643
+|move|p1a: dark vador|Brick Break|p2a: Krookodile
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|71/100
+|move|p2a: Krookodile|Knock Off|p1a: dark vador
+|-supereffective|p1a: dark vador
+|-damage|p1a: dark vador|0 fnt
+|-enditem|p1a: dark vador|Aguav Berry|[from] move: Knock Off|[of] p2a: Krookodile
+|faint|p1a: dark vador
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1641831654
+|switch|p1a: austin|Gallade, M, shiny|100/100
+|-activate|p1a: austin|move: Sticky Web
+|-unboost|p1a: austin|spe|1
+|-damage|p1a: austin|94/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641831666
+|move|p2a: Krookodile|Knock Off|p1a: austin
+|-damage|p1a: austin|0 fnt
+|-enditem|p1a: austin|Aguav Berry|[from] move: Knock Off|[of] p2a: Krookodile
+|faint|p1a: austin
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1641831673
+|switch|p1a: poisened bat|Crobat, F, shiny|100/100
+|-damage|p1a: poisened bat|76/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641831678
+|move|p1a: poisened bat|Toxic|p2a: Krookodile
+|-status|p2a: Krookodile|tox
+|move|p2a: Krookodile|Knock Off|p1a: poisened bat
+|-damage|p1a: poisened bat|0 fnt
+|faint|p1a: poisened bat
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|-damage|p2a: Krookodile|65/100 tox|[from] psn
+|upkeep
+|
+|t:|1641831686
+|switch|p1a: burito duck|Ludicolo, M, shiny|100/100
+|-damage|p1a: burito duck|88/100|[from] Stealth Rock
+|-activate|p1a: burito duck|move: Sticky Web
+|-unboost|p1a: burito duck|spe|1
+|turn|9
+|
+|t:|1641831692
+|move|p1a: burito duck|Protect|p1a: burito duck
+|-singleturn|p1a: burito duck|Protect
+|move|p2a: Krookodile|Knock Off|p1a: burito duck
+|-activate|p1a: burito duck|move: Protect
+|
+|-damage|p2a: Krookodile|52/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641831704
+|move|p2a: Krookodile|Knock Off|p1a: burito duck
+|-damage|p1a: burito duck|0 fnt
+|-enditem|p1a: burito duck|Aguav Berry|[from] move: Knock Off|[of] p2a: Krookodile
+|faint|p1a: burito duck
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|-damage|p2a: Krookodile|33/100 tox|[from] psn
+|upkeep
+|
+|t:|1641831712
+|switch|p1a: fire ant|Centiskorch, M, shiny|100/100
+|-activate|p1a: fire ant|move: Sticky Web
+|-unboost|p1a: fire ant|spe|1
+|-damage|p1a: fire ant|51/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641831720
+|move|p2a: Krookodile|Knock Off|p1a: fire ant
+|-damage|p1a: fire ant|0 fnt
+|-enditem|p1a: fire ant|Aguav Berry|[from] move: Knock Off|[of] p2a: Krookodile
+|faint|p1a: fire ant
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|-damage|p2a: Krookodile|8/100 tox|[from] psn
+|upkeep
+|
+|t:|1641831728
+|switch|p1a: rocky|Lycanroc-Midnight, M|100/100
+|-activate|p1a: rocky|move: Sticky Web
+|-unboost|p1a: rocky|spe|1
+|-damage|p1a: rocky|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641831734
+|move|p2a: Krookodile|Knock Off|p1a: rocky
+|-damage|p1a: rocky|0 fnt
+|-enditem|p1a: rocky|Aguav Berry|[from] move: Knock Off|[of] p2a: Krookodile
+|faint|p1a: rocky
+|
+|win|Anish2410
+|raw|uhy678u's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Anish2410's rating: 1027 &rarr; <strong>1060</strong><br />(+33 for winning)
+|l|☆uhy678u
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,231 @@
+|j|☆DDanMurp
+|j|☆ThereturnofGrayson
+|t:|1641777412
+|gametype|singles
+|player|p1|DDanMurp|gambler|1212
+|player|p2|ThereturnofGrayson|cynthia|1200
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Togedemaru, L1, M|
+|poke|p1|Dracozolt|
+|poke|p1|Hippowdon, M|
+|poke|p1|Cloyster, M|
+|poke|p1|Nihilego|
+|poke|p1|Excadrill, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Victini|
+|poke|p2|Tapu Fini|
+|teampreview
+|
+|t:|1641777422
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641777445
+|move|p1a: Hippowdon|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: ThereturnofGrayson|move: Stealth Rock
+|move|p2a: Ferrothorn|Toxic|p1a: Hippowdon|[miss]
+|-miss|p2a: Ferrothorn|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641777453
+|switch|p1a: Togedemaru|Togedemaru, L1, M, shiny|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Togedemaru
+|-sidestart|p1: DDanMurp|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641777460
+|move|p2a: Ferrothorn|Leech Seed|p1a: Togedemaru
+|-start|p1a: Togedemaru|move: Leech Seed
+|move|p1a: Togedemaru|Endeavor|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|4/100
+|-damage|p1a: Togedemaru|92/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Togedemaru|75/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|-heal|p1a: Togedemaru|100/100|[from] item: Shell Bell|[of] p2a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Togedemaru|92/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|4/100|[silent]
+|upkeep
+|turn|4
+|
+|t:|1641777472
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Togedemaru
+|-resisted|p1a: Togedemaru
+|-damage|p1a: Togedemaru|0 fnt
+|faint|p1a: Togedemaru
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641777480
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-damage|p1a: Excadrill|97/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641777484
+|move|p1a: Excadrill|Rapid Spin|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-boost|p1a: Excadrill|spe|1
+|-damage|p1a: Excadrill|85/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Excadrill|68/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|-sideend|p1: DDanMurp|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|faint|p2a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641777490
+|switch|p2a: Garchomp|Garchomp, M, shiny|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641777502
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|move|p2a: Garchomp|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|62/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641777508
+|move|p2a: Garchomp|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|21/100
+|move|p1a: Hippowdon|Toxic|p2a: Garchomp
+|-status|p2a: Garchomp|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Garchomp|88/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641777528
+|switch|p1a: Excadrill|Excadrill, F|68/100
+|move|p2a: Garchomp|Earthquake|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-weather|none
+|-damage|p2a: Garchomp|76/100 tox|[from] psn
+|upkeep
+|
+|t:|1641777536
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|9
+|
+|t:|1641777547
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cloyster|94/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1641777559
+|move|p1a: Cloyster|Hydro Pump|p2a: Tyranitar|[miss]
+|-miss|p1a: Cloyster|p2a: Tyranitar
+|move|p2a: Tyranitar|Stone Edge|p1a: Cloyster|[miss]
+|-miss|p2a: Tyranitar|p1a: Cloyster
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cloyster|88/100|[from] Sandstorm
+|upkeep
+|turn|11
+|c|☆DDanMurp|ok
+|c|☆DDanMurp|that's fair
+|c|☆ThereturnofGrayson|why game
+|
+|t:|1641777569
+|move|p1a: Cloyster|Hydro Pump|p2a: Tyranitar|[miss]
+|-miss|p1a: Cloyster|p2a: Tyranitar
+|move|p2a: Tyranitar|Stone Edge|p1a: Cloyster|[miss]
+|-miss|p2a: Tyranitar|p1a: Cloyster
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cloyster|82/100|[from] Sandstorm
+|upkeep
+|turn|12
+|c|☆DDanMurp|yooo
+|c|☆ThereturnofGrayson|WHYYYYY
+|c|☆DDanMurp|what if
+|c|☆ThereturnofGrayson|MY LUCK IS ALWAYS THE WORST
+|c|☆DDanMurp|we just didn't fight
+|c|☆ThereturnofGrayson|FOR FUCK
+|c|☆ThereturnofGrayson|UGHHHHHHHHHH
+|c|☆DDanMurp|what if we just laid down our pokemon
+|c|☆DDanMurp|and stop all this nonsense?
+|
+|t:|1641777612
+|move|p1a: Cloyster|Hydro Pump|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|37/100
+|move|p2a: Tyranitar|Stone Edge|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641777620
+|switch|p1a: Nihilego|Nihilego|100/100
+|turn|13
+|c|☆ThereturnofGrayson|My bulky ass boy
+|
+|t:|1641777628
+|move|p1a: Nihilego|Grass Knot|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|6/100
+|move|p2a: Tyranitar|Earthquake|p1a: Nihilego
+|-supereffective|p1a: Nihilego
+|-damage|p1a: Nihilego|0 fnt
+|faint|p1a: Nihilego
+|
+|-weather|none
+|upkeep
+|c|☆DDanMurp|YO
+|c|☆ThereturnofGrayson|MY BULKY CHILD
+|c|☆DDanMurp|that's some thickness...
+|-message|DDanMurp forfeited.
+|
+|win|ThereturnofGrayson
+|raw|DDanMurp's rating: 1212 &rarr; <strong>1186</strong><br />(-26 for losing)
+|raw|ThereturnofGrayson's rating: 1200 &rarr; <strong>1226</strong><br />(+26 for winning)
+|l|☆DDanMurp
+|c|☆ThereturnofGrayson|Bro his dumpy

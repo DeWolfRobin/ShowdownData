@@ -1,0 +1,41 @@
+|j|☆Yesyessisi
+|j|☆GmHf
+|t:|1641840787
+|gametype|singles
+|player|p1|Yesyessisi|parasollady-gen4|
+|player|p2|GmHf|parasollady-gen4|
+|teamsize|p1|1
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Lucario, M|
+|teampreview
+|
+|t:|1641840790
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Lucario|Lucario, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-fail|p2a: Lucario|unboost|Attack|[from] ability: Inner Focus|[of] p2a: Lucario
+|-enditem|p2a: Lucario|Adrenaline Orb
+|-boost|p2a: Lucario|spe|1|[from] item: Adrenaline Orb
+|turn|1
+|
+|t:|1641840796
+|move|p2a: Lucario|Bullet Punch|p1a: Landorus
+|-damage|p1a: Landorus|83/100
+|move|p1a: Landorus|Earthquake|p2a: Lucario
+|-supereffective|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|faint|p2a: Lucario
+|
+|win|Yesyessisi

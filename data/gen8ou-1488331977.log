@@ -1,0 +1,416 @@
+|j|☆Pks BloodEagle
+|j|☆Djnola who daT
+|t:|1641752191
+|gametype|singles
+|player|p1|Pks BloodEagle|170|
+|player|p2|Djnola who daT|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Nidoking, M|
+|poke|p1|Moltres|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Blissey, F|
+|poke|p1|Clefable, M|
+|poke|p2|Rotom-Heat|
+|poke|p2|Chansey, F|
+|poke|p2|Blastoise, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Scizor, M|
+|poke|p2|Mandibuzz, F|
+|teampreview
+|
+|t:|1641752210
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|turn|1
+|
+|t:|1641752226
+|move|p2a: Rotom|Trick|p1a: Urshifu
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Urshifu
+|-item|p1a: Urshifu|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Choice Band|[from] move: Trick
+|move|p1a: Urshifu|Surging Strikes|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|50/100
+|-supereffective|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-hitcount|p2: Rotom|2
+|
+|upkeep
+|
+|t:|1641752249
+|switch|p2a: Blastoise|Blastoise, F|100/100
+|turn|2
+|
+|t:|1641752258
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|upkeep
+|turn|3
+|
+|t:|1641752275
+|move|p2a: Blastoise|Surf|p1a: Clefable
+|-damage|p1a: Clefable|64/100
+|move|p1a: Clefable|Substitute|p1a: Clefable
+|-start|p1a: Clefable|Substitute
+|-damage|p1a: Clefable|40/100
+|
+|-heal|p1a: Clefable|46/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641752284
+|move|p2a: Blastoise|Surf|p1a: Clefable
+|-end|p1a: Clefable|Substitute
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|52/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641752295
+|move|p2a: Blastoise|Surf|p1a: Clefable
+|-damage|p1a: Clefable|26/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|32/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641752313
+|move|p2a: Blastoise|Surf|p1a: Clefable
+|-damage|p1a: Clefable|13/100
+|move|p1a: Clefable|Moonblast|p2a: Blastoise
+|-damage|p2a: Blastoise|3/100
+|
+|-heal|p1a: Clefable|19/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641752324
+|move|p2a: Blastoise|Surf|p1a: Clefable
+|-damage|p1a: Clefable|2/100
+|move|p1a: Clefable|Moonblast|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|-heal|p1a: Clefable|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641752338
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|8
+|
+|t:|1641752344
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Scizor|Bullet Punch|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|85/100
+|-damage|p2a: Scizor|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1641752358
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|move|p1a: Moltres|Flamethrower|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|67/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641752377
+|move|p1a: Moltres|Flamethrower|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|34/100
+|move|p2a: Mandibuzz|Foul Play|p1a: Moltres
+|-damage|p1a: Moltres|66/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641752387
+|move|p1a: Moltres|Flamethrower|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|faint|p2a: Mandibuzz
+|
+|upkeep
+|
+|t:|1641752397
+|switch|p2a: Chansey|Chansey, F|100/100
+|turn|12
+|
+|t:|1641752402
+|move|p1a: Moltres|U-turn|p2a: Chansey
+|-damage|p2a: Chansey|86/100
+|
+|t:|1641752405
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|move|p2a: Chansey|Thunder Wave|p1a: Urshifu
+|-status|p1a: Urshifu|par
+|
+|upkeep
+|turn|13
+|
+|t:|1641752415
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|87/100
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|72/100
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|59/100
+|-hitcount|p2a: Dragapult|3
+|
+|-heal|p2a: Dragapult|65/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641752436
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|40/100
+|cant|p1a: Urshifu|par
+|
+|-heal|p2a: Dragapult|46/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641752447
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Urshifu|Surging Strikes|p2a: Dragapult|[miss]
+|-miss|p1a: Urshifu|p2a: Dragapult
+|
+|-heal|p2a: Dragapult|52/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641752457
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Dragapult|Phantom Force|p1a: Blissey|[from]lockedmove
+|-immune|p1a: Blissey
+|
+|-heal|p2a: Dragapult|58/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641752468
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Blissey|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: Djnola who daT|move: Stealth Rock
+|
+|-heal|p2a: Dragapult|64/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641752482
+|switch|p1a: Clefable|Clefable, M|8/100
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|-heal|p2a: Dragapult|70/100|[from] item: Leftovers
+|-heal|p1a: Clefable|14/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641752492
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Dragapult|Phantom Force|p1a: Blissey|[from]lockedmove
+|-immune|p1a: Blissey
+|
+|-heal|p2a: Dragapult|76/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641752508
+|switch|p1a: Clefable|Clefable, M|14/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Clefable
+|-immune|p1a: Clefable
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|-heal|p1a: Clefable|20/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641752523
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641752537
+|move|p2a: Dragapult|Phantom Force|p1a: Blissey|[from]lockedmove
+|-immune|p1a: Blissey
+|move|p1a: Blissey|Toxic||[still]
+|-fail|p1a: Blissey
+|
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641752551
+|switch|p1a: Moltres|Moltres|66/100
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|-heal|p2a: Dragapult|99/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641752560
+|move|p2a: Dragapult|Phantom Force|p1a: Moltres|[from]lockedmove
+|-damage|p1a: Moltres|18/100
+|move|p1a: Moltres|Flamethrower|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|100/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641752582
+|switch|p1a: Clefable|Clefable, M|20/100
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|-heal|p1a: Clefable|26/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641752599
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Clefable|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|-heal|p1a: Clefable|32/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641752612
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Clefable|Substitute|p1a: Clefable
+|-start|p1a: Clefable|Substitute
+|-damage|p1a: Clefable|7/100
+|
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|-heal|p1a: Clefable|13/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641752623
+|move|p2a: Dragapult|Phantom Force|p1a: Clefable|[from]lockedmove
+|-end|p1a: Clefable|Substitute
+|move|p1a: Clefable|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Clefable|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641752636
+|switch|p2a: Scizor|Scizor, M|91/100
+|-damage|p2a: Scizor|78/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641752651
+|switch|p1a: Moltres|Moltres|18/100
+|move|p2a: Scizor|Knock Off|p1a: Moltres
+|-crit|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|-status|p2a: Scizor|brn|[from] ability: Flame Body|[of] p1a: Moltres
+|-enditem|p1a: Moltres|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Scizor
+|faint|p1a: Moltres
+|-damage|p2a: Scizor|68/100 brn|[from] item: Life Orb
+|
+|-damage|p2a: Scizor|62/100 brn|[from] brn
+|upkeep
+|
+|t:|1641752665
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|turn|30
+|
+|t:|1641752672
+|switch|p2a: Chansey|Chansey, F|86/100
+|-damage|p2a: Chansey|73/100|[from] Stealth Rock
+|move|p1a: Nidoking|Flamethrower|p2a: Chansey
+|-damage|p2a: Chansey|56/100
+|
+|upkeep
+|turn|31
+|
+|t:|1641752681
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100 par
+|move|p2a: Chansey|Aromatherapy|p2a: Chansey
+|-activate|p2a: Chansey|move: Aromatherapy
+|-curestatus|p2: Scizor|brn|[msg]
+|
+|upkeep
+|turn|32
+|
+|t:|1641752695
+|move|p1a: Urshifu|Close Combat|p2a: Chansey
+|-supereffective|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Chansey
+|
+|upkeep
+|
+|t:|1641752703
+|switch|p2a: Scizor|Scizor, M|62/100
+|-damage|p2a: Scizor|50/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1641752718
+|move|p1a: Urshifu|Close Combat|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Scizor
+|
+|win|Pks BloodEagle

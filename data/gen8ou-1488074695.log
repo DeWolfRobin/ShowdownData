@@ -1,0 +1,568 @@
+|j|☆Lucho HuP
+|j|☆xbc123456
+|t:|1641706863
+|gametype|singles
+|player|p1|Lucho HuP|ethan|1053
+|player|p2|xbc123456|169|1065
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scizor, M|
+|poke|p1|Crobat, M|
+|poke|p1|Alakazam, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Charizard, M|
+|poke|p1|Milotic, F|
+|poke|p2|Incineroar, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Zeraora|
+|poke|p2|Dragapult, M|
+|poke|p2|Mew|
+|teampreview
+|
+|t:|1641706870
+|start
+|switch|p1a: Papu 4|Charizard, M, shiny|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|
+|t:|1641706882
+|move|p1a: Papu 4|Air Slash|p2a: Mew
+|-damage|p2a: Mew|69/100
+|move|p2a: Mew|Imprison|p2a: Mew
+|-start|p2a: Mew|move: Imprison
+|
+|-heal|p2a: Mew|75/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641706893
+|move|p1a: Papu 4|Flamethrower|p2a: Mew
+|-damage|p2a: Mew|43/100
+|move|p2a: Mew|Block|p1a: Papu 4
+|-activate|p1a: Papu 4|trapped
+|
+|-heal|p2a: Mew|49/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|-activate|p1a: Papu 4|item: Quick Claw
+|
+|t:|1641706900
+|move|p1a: Papu 4|Flamethrower|p2a: Mew
+|-damage|p2a: Mew|16/100
+|move|p2a: Mew|Soft-Boiled|p2a: Mew
+|-heal|p2a: Mew|66/100
+|
+|-heal|p2a: Mew|72/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641706908
+|move|p1a: Papu 4|Flamethrower|p2a: Mew
+|-damage|p2a: Mew|36/100
+|-status|p2a: Mew|brn
+|-activate|p2a: Mew|ability: Synchronize
+|-immune|p1a: Papu 4
+|move|p2a: Mew|Transform|p1a: Papu 4
+|-transform|p2a: Mew|p1a: Papu 4
+|
+|-heal|p2a: Mew|42/100 brn|[from] item: Leftovers
+|-damage|p2a: Mew|36/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641706926
+|-activate|p1a: Papu 4|move: Struggle
+|move|p1a: Papu 4|Struggle|p2a: Mew
+|-damage|p2a: Mew|27/100 brn
+|-damage|p1a: Papu 4|76/100|[from] recoil
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|77/100 brn
+|-singleturn|p2a: Mew|move: Roost
+|
+|-heal|p2a: Mew|83/100 brn|[from] item: Leftovers
+|-damage|p2a: Mew|77/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641706940
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|100/100 brn
+|-singleturn|p2a: Mew|move: Roost
+|-activate|p1a: Papu 4|move: Struggle
+|move|p1a: Papu 4|Struggle|p2a: Mew
+|-damage|p2a: Mew|91/100 brn
+|-damage|p1a: Papu 4|51/100|[from] recoil
+|
+|-heal|p2a: Mew|97/100 brn|[from] item: Leftovers
+|-damage|p2a: Mew|91/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641706951
+|-activate|p1a: Papu 4|move: Struggle
+|move|p1a: Papu 4|Struggle|p2a: Mew
+|-damage|p2a: Mew|82/100 brn
+|-damage|p1a: Papu 4|26/100|[from] recoil
+|move|p2a: Mew|Air Slash|p1a: Papu 4|[miss]
+|-miss|p2a: Mew|p1a: Papu 4
+|
+|-heal|p2a: Mew|88/100 brn|[from] item: Leftovers
+|-damage|p2a: Mew|82/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641706961
+|move|p2a: Mew|Defog|p1a: Papu 4
+|-unboost|p1a: Papu 4|evasion|1
+|-activate|p1a: Papu 4|move: Struggle
+|move|p1a: Papu 4|Struggle|p2a: Mew
+|-damage|p2a: Mew|74/100 brn
+|-damage|p1a: Papu 4|1/100|[from] recoil
+|
+|-heal|p2a: Mew|80/100 brn|[from] item: Leftovers
+|-damage|p2a: Mew|74/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641706973
+|-activate|p1a: Papu 4|move: Struggle
+|move|p1a: Papu 4|Struggle|p2a: Mew
+|-damage|p2a: Mew|65/100 brn
+|-damage|p1a: Papu 4|0 fnt|[from] recoil
+|faint|p1a: Papu 4
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|100/100 brn
+|-singleturn|p2a: Mew|move: Roost
+|
+|-damage|p2a: Mew|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1641706983
+|switch|p1a: Papu 5|Milotic, F|100/100
+|turn|10
+|
+|t:|1641706988
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Papu 5|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|82/100
+|-status|p2a: Ferrothorn|brn
+|
+|-heal|p2a: Ferrothorn|88/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|82/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641707004
+|switch|p1a: Papu 1|Scizor, M|100/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Papu 1
+|-start|p1a: Papu 1|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|88/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 1|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|98/100 brn|[silent]
+|-damage|p2a: Ferrothorn|92/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1641707015
+|move|p1a: Papu 1|Swords Dance|p1a: Papu 1
+|-boost|p1a: Papu 1|atk|2
+|move|p2a: Ferrothorn|Iron Defense|p2a: Ferrothorn
+|-boost|p2a: Ferrothorn|def|2
+|
+|-heal|p1a: Papu 1|94/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|98/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 1|82/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100 brn|[silent]
+|-damage|p2a: Ferrothorn|94/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641707025
+|move|p1a: Papu 1|Swords Dance|p1a: Papu 1
+|-boost|p1a: Papu 1|atk|2
+|move|p2a: Ferrothorn|Iron Defense|p2a: Ferrothorn
+|-boost|p2a: Ferrothorn|def|2
+|
+|-heal|p1a: Papu 1|88/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 1|75/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|94/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641707035
+|move|p1a: Papu 1|Swords Dance|p1a: Papu 1
+|-boost|p1a: Papu 1|atk|2
+|move|p2a: Ferrothorn|Body Press|p1a: Papu 1
+|-damage|p1a: Papu 1|20/100
+|
+|-heal|p1a: Papu 1|26/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 1|14/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|94/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641707046
+|move|p1a: Papu 1|X-Scissor|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|60/100 brn
+|-damage|p1a: Papu 1|1/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Iron Defense|p2a: Ferrothorn
+|-boost|p2a: Ferrothorn|def|2
+|
+|-heal|p1a: Papu 1|7/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|66/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 1|0 fnt|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|72/100 brn|[silent]
+|faint|p1a: Papu 1
+|-damage|p2a: Ferrothorn|66/100 brn|[from] brn
+|upkeep
+|
+|t:|1641707061
+|switch|p1a: Garcha|Garchomp, M, shiny|100/100
+|turn|16
+|
+|t:|1641707066
+|move|p1a: Garcha|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|57/100 brn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Garcha
+|-start|p1a: Garcha|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|63/100 brn|[from] item: Leftovers
+|-damage|p1a: Garcha|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|76/100 brn|[silent]
+|-damage|p2a: Ferrothorn|70/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641707080
+|switch|p1a: Papu 3|Alakazam, M|100/100
+|move|p2a: Ferrothorn|Body Press|p1a: Papu 3
+|-resisted|p1a: Papu 3
+|-damage|p1a: Papu 3|25/100
+|
+|-heal|p1a: Papu 3|31/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|76/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|70/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641707092
+|move|p1a: Papu 3|Disable|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|Disable|Body Press
+|cant|p2a: Ferrothorn|Disable|Body Press
+|
+|-heal|p1a: Papu 3|37/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|76/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|70/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641707100
+|move|p1a: Papu 3|Recover|p1a: Papu 3
+|-heal|p1a: Papu 3|87/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Papu 3
+|-start|p1a: Papu 3|move: Leech Seed
+|
+|-heal|p1a: Papu 3|93/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|76/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 3|81/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|85/100 brn|[silent]
+|-damage|p2a: Ferrothorn|78/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641707113
+|switch|p1a: Papu 2|Crobat, M|100/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Papu 2
+|-crit|p1a: Papu 2
+|-damage|p1a: Papu 2|58/100
+|
+|-heal|p1a: Papu 2|64/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|85/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|78/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641707123
+|move|p1a: Papu 2|Confuse Ray|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|confusion
+|-activate|p2a: Ferrothorn|confusion
+|-damage|p2a: Ferrothorn|77/100 brn|[from] confusion
+|
+|-heal|p1a: Papu 2|70/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|83/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|77/100 brn|[from] brn
+|-end|p2a: Ferrothorn|Disable
+|upkeep
+|turn|22
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by xbc123456)
+|
+|t:|1641707145
+|switch|p1a: Garcha|Garchomp, M, shiny|88/100
+|-activate|p2a: Ferrothorn|confusion
+|-damage|p2a: Ferrothorn|75/100 brn|[from] confusion
+|
+|-heal|p1a: Garcha|94/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|81/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|75/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641707154
+|move|p1a: Garcha|Swords Dance|p1a: Garcha
+|-boost|p1a: Garcha|atk|2
+|-activate|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Leech Seed|p1a: Garcha
+|-start|p1a: Garcha|move: Leech Seed
+|
+|-heal|p1a: Garcha|100/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|81/100 brn|[from] item: Leftovers
+|-damage|p1a: Garcha|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|94/100 brn|[silent]
+|-damage|p2a: Ferrothorn|87/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641707165
+|move|p1a: Garcha|Dragon Claw|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|81/100 brn
+|-damage|p1a: Garcha|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|confusion
+|-damage|p2a: Ferrothorn|79/100 brn|[from] confusion
+|
+|-heal|p1a: Garcha|82/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|85/100 brn|[from] item: Leftovers
+|-damage|p1a: Garcha|70/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|98/100 brn|[silent]
+|-damage|p2a: Ferrothorn|91/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641707179
+|move|p1a: Garcha|Swords Dance|p1a: Garcha
+|-boost|p1a: Garcha|atk|2
+|-end|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Body Press|p1a: Garcha
+|-damage|p1a: Garcha|11/100
+|-damage|p2a: Ferrothorn|79/100 brn|[from] ability: Rough Skin|[of] p1a: Garcha
+|
+|-heal|p1a: Garcha|17/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|85/100 brn|[from] item: Leftovers
+|-damage|p1a: Garcha|4/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|98/100 brn|[silent]
+|-damage|p2a: Ferrothorn|91/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641707197
+|move|p1a: Garcha|Double-Edge|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|81/100 brn
+|-damage|p1a: Garcha|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p1a: Garcha
+|move|p2a: Ferrothorn|Body Press|p1: Garcha|[notarget]
+|-fail|p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|87/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|81/100 brn|[from] brn
+|upkeep
+|
+|t:|1641707208
+|switch|p1a: Papu 5|Milotic, F|100/100
+|turn|27
+|
+|t:|1641707216
+|move|p1a: Papu 5|Ice Beam|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|57/100 brn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Papu 5
+|-start|p1a: Papu 5|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|63/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 5|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|75/100 brn|[silent]
+|-damage|p2a: Ferrothorn|68/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641707226
+|move|p1a: Papu 5|Ice Beam|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|47/100 brn
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Papu 5
+|-resisted|p1a: Papu 5
+|-damage|p1a: Papu 5|73/100
+|
+|-heal|p2a: Ferrothorn|53/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 5|60/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|65/100 brn|[silent]
+|-damage|p2a: Ferrothorn|59/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641707235
+|move|p1a: Papu 5|Ice Beam|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|34/100 brn
+|move|p2a: Ferrothorn|Body Press|p1a: Papu 5
+|-damage|p1a: Papu 5|0 fnt
+|faint|p1a: Papu 5
+|
+|-heal|p2a: Ferrothorn|41/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|34/100 brn|[from] brn
+|upkeep
+|
+|t:|1641707246
+|switch|p1a: Papu 2|Crobat, M|70/100
+|turn|30
+|
+|t:|1641707250
+|move|p1a: Papu 2|Confuse Ray|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|confusion
+|-activate|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Leech Seed|p1a: Papu 2|[miss]
+|-miss|p2a: Ferrothorn|p1a: Papu 2
+|
+|-heal|p1a: Papu 2|76/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|41/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|34/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641707262
+|switch|p1a: Papu 3|Alakazam, M|81/100
+|-activate|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Leech Seed|p1a: Papu 3
+|-start|p1a: Papu 3|move: Leech Seed
+|
+|-heal|p1a: Papu 3|87/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|41/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 3|75/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|49/100 brn|[silent]
+|-damage|p2a: Ferrothorn|43/100 brn|[from] brn
+|upkeep
+|turn|32
+|c|☆xbc123456|认输吧
+|
+|t:|1641707278
+|move|p1a: Papu 3|Calm Mind|p1a: Papu 3
+|-boost|p1a: Papu 3|spa|1
+|-boost|p1a: Papu 3|spd|1
+|-activate|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Body Press|p1a: Papu 3
+|-resisted|p1a: Papu 3
+|-damage|p1a: Papu 3|0 fnt
+|faint|p1a: Papu 3
+|
+|-heal|p2a: Ferrothorn|49/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|43/100 brn|[from] brn
+|upkeep
+|c|☆Lucho HuP|cerra el ocote
+|
+|t:|1641707297
+|switch|p1a: Papu 2|Crobat, M|76/100
+|turn|33
+|c|☆xbc123456|认输吧
+|c|☆Lucho HuP|chito
+|inactive|Lucho HuP has 120 seconds left.
+|c|☆xbc123456|一you lose
+|
+|t:|1641707317
+|move|p1a: Papu 2|Roost|p1a: Papu 2
+|-heal|p1a: Papu 2|100/100
+|-singleturn|p1a: Papu 2|move: Roost
+|-activate|p2a: Ferrothorn|confusion
+|-damage|p2a: Ferrothorn|41/100 brn|[from] confusion
+|
+|-heal|p2a: Ferrothorn|48/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|41/100 brn|[from] brn
+|upkeep
+|turn|34
+|c|☆Lucho HuP|your vieja
+|inactive|Lucho HuP has 120 seconds left.
+|
+|t:|1641707332
+|move|p1a: Papu 2|Roost||[still]
+|-fail|p1a: Papu 2|heal
+|-end|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Leech Seed|p1a: Papu 2
+|-start|p1a: Papu 2|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|48/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 2|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|61/100 brn|[silent]
+|-damage|p2a: Ferrothorn|54/100 brn|[from] brn
+|upkeep
+|turn|35
+|inactive|Lucho HuP has 120 seconds left.
+|c|☆xbc123456|you lose
+|
+|t:|1641707343
+|move|p1a: Papu 2|Confuse Ray|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|confusion
+|-activate|p2a: Ferrothorn|confusion
+|-damage|p2a: Ferrothorn|52/100 brn|[from] confusion
+|
+|-heal|p1a: Papu 2|94/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|59/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 2|82/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|72/100 brn|[silent]
+|-damage|p2a: Ferrothorn|66/100 brn|[from] brn
+|upkeep
+|turn|36
+|inactive|Lucho HuP has 120 seconds left.
+|c|☆Lucho HuP|your mom
+|
+|t:|1641707357
+|move|p1a: Papu 2|Roost|p1a: Papu 2
+|-heal|p1a: Papu 2|100/100
+|-singleturn|p1a: Papu 2|move: Roost
+|-end|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Body Press|p1a: Papu 2
+|-resisted|p1a: Papu 2
+|-damage|p1a: Papu 2|70/100
+|
+|-heal|p1a: Papu 2|76/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|72/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 2|64/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|85/100 brn|[silent]
+|-damage|p2a: Ferrothorn|79/100 brn|[from] brn
+|upkeep
+|turn|37
+|inactive|Lucho HuP has 120 seconds left.
+|
+|t:|1641707373
+|move|p1a: Papu 2|Confuse Ray|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|confusion
+|-activate|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Body Press|p1a: Papu 2
+|-resisted|p1a: Papu 2
+|-damage|p1a: Papu 2|47/100
+|
+|-heal|p1a: Papu 2|53/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|85/100 brn|[from] item: Leftovers
+|-damage|p1a: Papu 2|41/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|98/100 brn|[silent]
+|-damage|p2a: Ferrothorn|92/100 brn|[from] brn
+|upkeep
+|turn|38
+|inactive|Lucho HuP has 120 seconds left.
+|-message|Lucho HuP forfeited.
+|
+|win|xbc123456
+|raw|Lucho HuP's rating: 1053 &rarr; <strong>1035</strong><br />(-18 for losing)
+|raw|xbc123456's rating: 1050 &rarr; <strong>1083</strong><br />(+33 for winning)
+|l|☆Lucho HuP

@@ -1,0 +1,261 @@
+|j|☆rinutNRX
+|j|☆DumbLick1337
+|t:|1641837556
+|gametype|singles
+|player|p1|rinutNRX|lance|1333
+|player|p2|DumbLick1337|102|1346
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Milotic, F|
+|poke|p1|Clefable, F|
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Weavile, M|
+|poke|p2|Clefable, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Hippowdon, M|
+|poke|p2|Excadrill, M|
+|teampreview
+|
+|t:|1641837561
+|start
+|switch|p1a: Clefable|Clefable, F, shiny|100/100
+|switch|p2a: rotomwash|Rotom-Wash|100/100
+|turn|1
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641837569
+|move|p2a: rotomwash|Volt Switch|p1a: Clefable
+|-damage|p1a: Clefable|71/100
+|
+|t:|1641837569
+|switch|p2a: Hippowdon|Hippowdon, M|100/100|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Clefable|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: DumbLick1337|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641837578
+|move|p1a: Clefable|Ice Beam|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|45/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Clefable
+|-sidestart|p1: rinutNRX|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641837586
+|switch|p2a: rotomwash|Rotom-Wash|100/100
+|-damage|p2a: rotomwash|88/100|[from] Stealth Rock
+|move|p1a: Clefable|Ice Beam|p2a: rotomwash
+|-resisted|p2a: rotomwash
+|-damage|p2a: rotomwash|72/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: rotomwash|66/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641837595
+|move|p2a: rotomwash|Hydro Pump|p1a: Clefable
+|-damage|p1a: Clefable|25/100
+|-enditem|p1a: Clefable|Aguav Berry|[eat]
+|-heal|p1a: Clefable|58/100|[from] item: Aguav Berry
+|move|p1a: Clefable|Moonblast|p2a: rotomwash
+|-damage|p2a: rotomwash|8/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: rotomwash|2/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641837608
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|move|p1a: Clefable|Flamethrower|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|28/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641837616
+|move|p2a: Excadrill|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-damage|p2a: Excadrill|18/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641837623
+|switch|p1a: Thundurus|Thundurus-Therian, M, shiny|100/100
+|turn|7
+|
+|t:|1641837630
+|move|p2a: Excadrill|Iron Head|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-crit|p1a: Thundurus
+|-damage|p1a: Thundurus|32/100
+|-damage|p2a: Excadrill|8/100|[from] item: Life Orb
+|cant|p1a: Thundurus|flinch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Thundurus|26/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641837638
+|move|p2a: Excadrill|Earthquake|p1a: Thundurus
+|-immune|p1a: Thundurus
+|move|p1a: Thundurus|Defog|p2a: Excadrill
+|-unboost|p2a: Excadrill|evasion|1
+|-sideend|p2: DumbLick1337|Stealth Rock|[from] move: Defog|[of] p1a: Thundurus
+|-sideend|p1: rinutNRX|Stealth Rock|[from] move: Defog|[of] p1a: Thundurus
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641837648
+|move|p2a: Excadrill|Earthquake|p1a: Thundurus
+|-immune|p1a: Thundurus
+|move|p1a: Thundurus|Flash Cannon|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1641837648
+|switch|p2a: rotomwash|Rotom-Wash|2/100
+|turn|10
+|
+|t:|1641837664
+|move|p2a: rotomwash|Hydro Pump|p1a: Thundurus|[miss]
+|-miss|p2a: rotomwash|p1a: Thundurus
+|move|p1a: Thundurus|Flash Cannon|p2a: rotomwash
+|-resisted|p2a: rotomwash
+|-damage|p2a: rotomwash|0 fnt
+|faint|p2a: rotomwash
+|
+|upkeep
+|
+|t:|1641837664
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|11
+|
+|t:|1641837672
+|move|p1a: Thundurus|Sludge Wave|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|23/100
+|move|p2a: Clefable|Moonblast|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1641837679
+|switch|p1a: Weavile|Weavile, M, shiny|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|12
+|
+|t:|1641837684
+|move|p1a: Weavile|Ice Shard|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641837684
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|13
+|
+|t:|1641837694
+|move|p1a: Weavile|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|60/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Corviknight|Brave Bird|p1a: Weavile
+|-damage|p1a: Weavile|42/100
+|-damage|p2a: Corviknight|47/100|[from] Recoil
+|
+|upkeep
+|turn|14
+|
+|t:|1641837702
+|move|p1a: Weavile|Triple Axel|p2a: Corviknight
+|-damage|p2a: Corviknight|39/100
+|-damage|p2a: Corviknight|21/100
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-hitcount|p2: Corviknight|3
+|
+|upkeep
+|
+|t:|1641837702
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|15
+|
+|t:|1641837711
+|switch|p2a: Hippowdon|Hippowdon, M|45/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Weavile|Ice Shard|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|23/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|36/100|[from] Sandstorm
+|upkeep
+|turn|16
+|
+|t:|1641837720
+|move|p1a: Weavile|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|-enditem|p2a: Hippowdon|Smooth Rock|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|30/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641837720
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|17
+|
+|t:|1641837729
+|move|p1a: Weavile|Triple Axel|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|78/100
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|36/100
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|-hitcount|p2: Hydreigon|3
+|
+|win|rinutNRX
+|raw|rinutNRX's rating: 1333 &rarr; <strong>1354</strong><br />(+21 for winning)
+|raw|DumbLick1337's rating: 1346 &rarr; <strong>1325</strong><br />(-21 for losing)
+|c|☆DumbLick1337|gg

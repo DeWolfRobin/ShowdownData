@@ -1,0 +1,669 @@
+|j|☆srimmer32
+|j|☆TheFalinksArmy
+|t:|1641774790
+|gametype|singles
+|player|p1|srimmer32|lucas|1405
+|player|p2|TheFalinksArmy|ghetsis-gen5bw|1343
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Excadrill, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Garchomp, F|
+|poke|p1|Heatran, M|
+|poke|p1|Zapdos|
+|poke|p1|Urshifu-*, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Blissey, F|
+|poke|p2|Ditto|
+|poke|p2|Toxapex, M|
+|poke|p2|Tangrowth, F|
+|poke|p2|Clefable, M|
+|teampreview
+|c|☆srimmer32|i hate your team
+|c|☆srimmer32|gl
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by srimmer32)
+|
+|t:|1641774817
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|c|☆TheFalinksArmy|I hate it more than you do
+|c|☆srimmer32|lol
+|
+|t:|1641774828
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|92/100
+|-damage|p1a: Urshifu|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|83/100
+|-damage|p1a: Urshifu|68/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|74/100
+|-damage|p1a: Urshifu|51/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-hitcount|p2a: Toxapex|3
+|
+|upkeep
+|turn|2
+|
+|t:|1641774844
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Toxapex|Toxic Spikes|p1a: Tapu Fini
+|-sidestart|p1: srimmer32|move: Toxic Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641774853
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|-ability|p1a: Excadrill|Mold Breaker
+|move|p2a: Toxapex|Knock Off|p1a: Excadrill
+|-damage|p1a: Excadrill|82/100
+|-enditem|p1a: Excadrill|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|4
+|
+|t:|1641774862
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|move|p1a: Excadrill|Swords Dance|p1a: Excadrill
+|-boost|p1a: Excadrill|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641774869
+|move|p1a: Excadrill|Rapid Spin|p2a: Tangrowth
+|-damage|p2a: Tangrowth|86/100
+|-boost|p1a: Excadrill|spe|1
+|-damage|p1a: Excadrill|66/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|-sideend|p1: srimmer32|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Excadrill
+|move|p2a: Tangrowth|Focus Blast|p1a: Excadrill|[miss]
+|-miss|p2a: Tangrowth|p1a: Excadrill
+|
+|upkeep
+|turn|6
+|
+|t:|1641774880
+|move|p1a: Excadrill|Earthquake|p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-damage|p2a: Tangrowth|64/100
+|move|p2a: Tangrowth|Focus Blast|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|5/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|7
+|
+|t:|1641774891
+|move|p1a: Excadrill|Iron Head|p2a: Tangrowth
+|-damage|p2a: Tangrowth|30/100
+|-damage|p1a: Excadrill|0 fnt|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|faint|p1a: Excadrill
+|cant|p2a: Tangrowth|flinch
+|
+|upkeep
+|
+|t:|1641774899
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|8
+|
+|t:|1641774902
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Zapdos|Heat Wave|p2a: Blissey
+|-damage|p2a: Blissey|86/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641774911
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641774917
+|switch|p2a: Toxapex|Toxapex, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|10
+|
+|t:|1641774925
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Zapdos
+|-sidestart|p1: srimmer32|move: Toxic Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1641774934
+|move|p1a: Zapdos|Thunderbolt|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|13/100
+|move|p2a: Toxapex|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|85/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|12
+|
+|t:|1641774944
+|switch|p2a: Blissey|Blissey, F|86/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|66/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641774962
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Blissey|Seismic Toss|p1a: Garchomp
+|-damage|p1a: Garchomp|77/100
+|-damage|p2a: Blissey|54/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Blissey|37/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|14
+|
+|t:|1641774973
+|switch|p2a: Tangrowth|Tangrowth, F|63/100
+|move|p1a: Garchomp|Hone Claws|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|1
+|-boost|p1a: Garchomp|accuracy|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641774979
+|move|p1a: Garchomp|Fire Blast|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|10/100
+|move|p2a: Tangrowth|Sleep Powder|p1a: Garchomp
+|-status|p1a: Garchomp|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|16
+|
+|t:|1641774987
+|switch|p2a: Ditto|Ditto|100/100
+|-transform|p2a: Ditto|p1a: Garchomp|[from] ability: Imposter
+|cant|p1a: Garchomp|slp
+|
+|upkeep
+|turn|17
+|
+|t:|1641775004
+|switch|p1a: Zapdos|Zapdos|85/100
+|move|p2a: Ditto|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|upkeep
+|turn|18
+|
+|t:|1641775010
+|switch|p2a: Blissey|Blissey, F|37/100
+|move|p1a: Zapdos|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|
+|-damage|p2a: Blissey|31/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641775017
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|12/100 tox
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|62/100 tox
+|
+|-damage|p2a: Blissey|49/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641775026
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|64/100
+|
+|-heal|p2a: Clefable|70/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641775034
+|move|p1a: Zapdos|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|34/100
+|move|p2a: Clefable|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: srimmer32|move: Stealth Rock
+|
+|-heal|p2a: Clefable|40/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641775040
+|switch|p2a: Blissey|Blissey, F|49/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|31/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641775047
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-status|p1a: Tapu Fini|psn
+|-damage|p1a: Tapu Fini|88/100 psn|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|81/100
+|
+|-heal|p1a: Tapu Fini|94/100 psn|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|82/100 psn|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641775060
+|switch|p1a: Garchomp|Garchomp, F|77/100 slp
+|-damage|p1a: Garchomp|70/100 slp|[from] Stealth Rock
+|move|p2a: Blissey|Seismic Toss|p1a: Garchomp
+|-damage|p1a: Garchomp|47/100 slp
+|-damage|p2a: Blissey|69/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Blissey|52/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|
+|upkeep
+|turn|25
+|
+|t:|1641775069
+|-curestatus|p1a: Garchomp|slp|[msg]
+|move|p1a: Garchomp|Hone Claws|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|1
+|-boost|p1a: Garchomp|accuracy|1
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641775081
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Garchomp|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|27
+|
+|t:|1641775089
+|move|p1a: Garchomp|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|69/100
+|move|p2a: Corviknight|Body Press|p1a: Garchomp
+|-damage|p1a: Garchomp|28/100
+|-damage|p2a: Corviknight|57/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Corviknight|40/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|
+|-heal|p2a: Corviknight|47/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|28
+|
+|t:|1641775106
+|move|p1a: Garchomp|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|16/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|66/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|72/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641775126
+|switch|p1a: Zapdos|Zapdos|85/100
+|-damage|p1a: Zapdos|61/100|[from] Stealth Rock
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|30
+|
+|t:|1641775141
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|81/100
+|
+|upkeep
+|turn|31
+|
+|t:|1641775149
+|move|p1a: Zapdos|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|34/100
+|
+|-damage|p2a: Blissey|74/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641775159
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|85/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|58/100
+|
+|-damage|p2a: Blissey|62/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641775169
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641775177
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Clefable|Clefable, M|40/100|[from]move: Teleport
+|
+|-heal|p2a: Clefable|46/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641775184
+|move|p1a: Zapdos|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|10/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|60/100
+|
+|-heal|p2a: Clefable|66/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641775193
+|switch|p1a: Tapu Fini|Tapu Fini|82/100 psn
+|-damage|p1a: Tapu Fini|69/100 psn|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Clefable|Moonblast|p1a: Tapu Fini
+|-crit|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|21/100 psn
+|
+|-heal|p1a: Tapu Fini|27/100 psn|[from] item: Leftovers
+|-heal|p2a: Clefable|73/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|14/100 psn|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641775206
+|move|p1a: Tapu Fini|Surf|p2a: Clefable
+|-damage|p2a: Clefable|49/100
+|move|p2a: Clefable|Teleport|p2a: Clefable
+|
+|t:|1641775211
+|switch|p2a: Toxapex|Toxapex, M|46/100|[from]move: Teleport
+|
+|-heal|p1a: Tapu Fini|20/100 psn|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|8/100 psn|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641775223
+|switch|p1a: Garchomp|Garchomp, F|28/100
+|-damage|p1a: Garchomp|22/100|[from] Stealth Rock
+|move|p2a: Toxapex|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|12/100
+|-damage|p2a: Toxapex|34/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Toxapex|17/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Rocky Helmet|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|38
+|
+|t:|1641775237
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|39
+|
+|t:|1641775244
+|move|p1a: Heatran|Eruption|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641775248
+|switch|p2a: Ditto|Ditto|100/100
+|-transform|p2a: Ditto|p1a: Heatran|[from] ability: Imposter
+|turn|40
+|
+|t:|1641775257
+|switch|p1a: Tapu Fini|Tapu Fini|8/100 psn
+|-damage|p1a: Tapu Fini|0 fnt|[from] Stealth Rock
+|faint|p1a: Tapu Fini
+|move|p2a: Ditto|Dark Pulse|p1: Tapu Fini|[notarget]
+|-fail|p2a: Ditto
+|
+|upkeep
+|
+|t:|1641775266
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|51/100
+|-status|p1a: Urshifu|psn
+|-damage|p1a: Urshifu|45/100 psn|[from] Stealth Rock
+|turn|41
+|
+|t:|1641775272
+|switch|p2a: Toxapex|Toxapex, M|50/100
+|move|p1a: Urshifu|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|23/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|-damage|p1a: Urshifu|29/100 psn|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|
+|-damage|p1a: Urshifu|16/100 psn|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641775283
+|switch|p1a: Garchomp|Garchomp, F|12/100
+|-damage|p1a: Garchomp|6/100|[from] Stealth Rock
+|-status|p1a: Garchomp|psn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|73/100
+|
+|-damage|p1a: Garchomp|0 fnt|[from] psn
+|faint|p1a: Garchomp
+|upkeep
+|
+|t:|1641775294
+|switch|p1a: Zapdos|Zapdos|100/100
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|turn|43
+|
+|t:|1641775301
+|switch|p2a: Blissey|Blissey, F|62/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|43/100
+|
+|upkeep
+|turn|44
+|
+|t:|1641775307
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|27/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|77/100
+|
+|upkeep
+|turn|45
+|
+|t:|1641775317
+|move|p1a: Zapdos|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|50/100
+|
+|-damage|p2a: Blissey|70/100 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1641775327
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|45/100 tox
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641775335
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Tangrowth|Tangrowth, F|44/100|[from]move: Teleport
+|
+|upkeep
+|turn|47
+|
+|t:|1641775341
+|switch|p2a: Blissey|Blissey, F|45/100
+|move|p1a: Zapdos|Heat Wave|p2a: Blissey
+|-damage|p2a: Blissey|32/100
+|
+|upkeep
+|turn|48
+|
+|t:|1641775348
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|13/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|63/100
+|
+|upkeep
+|turn|49
+|
+|t:|1641775354
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|99/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|74/100
+|-status|p2a: Blissey|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|upkeep
+|turn|50
+|
+|t:|1641775363
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-damage|p2a: Blissey|44/100 par
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|94/100 par
+|
+|upkeep
+|turn|51
+|
+|t:|1641775372
+|move|p1a: Zapdos|Toxic||[still]
+|-fail|p1a: Zapdos
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641775377
+|-curestatus|p2a: Blissey|par|[from] ability: Natural Cure
+|switch|p2a: Ditto|Ditto|100/100|[from]move: Teleport
+|-transform|p2a: Ditto|p1a: Zapdos|[from] ability: Imposter
+|
+|upkeep
+|turn|52
+|
+|t:|1641775386
+|move|p2a: Ditto|Thunderbolt|p1a: Zapdos
+|-damage|p1a: Zapdos|25/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|75/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|53
+|
+|t:|1641775392
+|move|p2a: Ditto|Thunderbolt|p1a: Zapdos
+|-damage|p1a: Zapdos|27/100
+|move|p1a: Zapdos|Toxic|p2a: Ditto
+|-status|p2a: Ditto|tox
+|
+|-damage|p2a: Ditto|94/100 tox|[from] psn
+|upkeep
+|turn|54
+|
+|t:|1641775399
+|move|p2a: Ditto|Thunderbolt|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-damage|p2a: Ditto|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1641775409
+|switch|p1a: Heatran|Heatran, M|88/100
+|-damage|p1a: Heatran|76/100|[from] Stealth Rock
+|turn|55
+|
+|t:|1641775416
+|move|p1a: Heatran|Eruption|p2a: Ditto
+|-damage|p2a: Ditto|10/100 tox
+|move|p2a: Ditto|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|28/100
+|
+|-damage|p2a: Ditto|0 fnt|[from] psn
+|faint|p2a: Ditto
+|upkeep
+|
+|t:|1641775424
+|switch|p2a: Blissey|Blissey, F|94/100
+|turn|56
+|
+|t:|1641775428
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|16/100 psn
+|-damage|p1a: Urshifu|10/100 psn|[from] Stealth Rock
+|move|p2a: Blissey|Seismic Toss|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641775435
+|switch|p1a: Heatran|Heatran, M|28/100
+|-damage|p1a: Heatran|16/100|[from] Stealth Rock
+|turn|57
+|
+|t:|1641775440
+|move|p1a: Heatran|Flash Cannon|p2a: Blissey
+|-damage|p2a: Blissey|78/100
+|move|p2a: Blissey|Seismic Toss|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|win|TheFalinksArmy
+|raw|srimmer32's rating: 1405 &rarr; <strong>1381</strong><br />(-24 for losing)
+|raw|TheFalinksArmy's rating: 1343 &rarr; <strong>1367</strong><br />(+24 for winning)
+|l|☆srimmer32
+|c|☆TheFalinksArmy|Gg wp

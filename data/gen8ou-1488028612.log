@@ -1,0 +1,408 @@
+|j|☆weaktobigbutt
+|j|☆cogonahorse
+|t:|1641699607
+|gametype|singles
+|player|p1|weaktobigbutt|swimmer-gen4dp|1507
+|player|p2|cogonahorse|hilbert-wonderlauncher|1563
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Pelipper, F|
+|poke|p1|Zeraora|
+|poke|p1|Dragapult, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by weaktobigbutt)
+|
+|t:|1641699628
+|start
+|switch|p1a: plupples|Pelipper, F, shiny|100/100
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: plupples
+|turn|1
+|
+|t:|1641699638
+|switch|p1a: other shrek|Ferrothorn, M|100/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: other shrek
+|-damage|p1a: other shrek|66/100
+|-damage|p2a: Hydreigon|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641699655
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|move|p1a: other shrek|Gyro Ball|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|65/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641699665
+|switch|p1a: zipzap|Zapdos, shiny|100/100
+|move|p2a: Blaziken|U-turn|p1a: zipzap
+|-resisted|p1a: zipzap
+|-damage|p1a: zipzap|79/100
+|-status|p2a: Blaziken|par|[from] ability: Static|[of] p1a: zipzap
+|
+|t:|1641699669
+|switch|p2a: Garchomp|Garchomp, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641699675
+|switch|p1a: other shrek|Ferrothorn, M|66/100
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641699681
+|move|p2a: Garchomp|Scale Shot|p1a: other shrek
+|-resisted|p1a: other shrek
+|-crit|p1a: other shrek
+|-damage|p1a: other shrek|50/100
+|-resisted|p1a: other shrek
+|-damage|p1a: other shrek|40/100
+|-resisted|p1a: other shrek
+|-damage|p1a: other shrek|30/100
+|-hitcount|p1a: other shrek|3
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|move|p1a: other shrek|Leech Seed|p2a: Garchomp
+|-start|p2a: Garchomp|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Garchomp|88/100|[from] Leech Seed|[of] p1a: other shrek
+|-heal|p1a: other shrek|42/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641699693
+|move|p2a: Garchomp|Earthquake|p1a: other shrek
+|-damage|p1a: other shrek|0 fnt
+|faint|p1a: other shrek
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garchomp|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641699698
+|switch|p1a: dangerwillrobinson|Barraskewda, F, shiny|100/100
+|turn|7
+|
+|t:|1641699701
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: dangerwillrobinson|Flip Turn|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|74/100
+|-damage|p1a: dangerwillrobinson|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|t:|1641699731
+|switch|p1a: zipzap|Zapdos, shiny|79/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|81/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641699738
+|move|p1a: zipzap|Hurricane|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|43/100
+|-start|p2a: Ferrothorn|confusion
+|-activate|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Leech Seed|p1a: zipzap
+|-start|p1a: zipzap|move: Leech Seed
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|49/100|[from] item: Leftovers
+|-damage|p1a: zipzap|66/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|60/100|[silent]
+|upkeep
+|turn|9
+|
+|t:|1641699747
+|switch|p1a: plupples|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: plupples
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641699760
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: plupples|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|91/100
+|-damage|p1a: plupples|84/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|t:|1641699786
+|switch|p1a: zipzap|Zapdos, shiny|66/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641699793
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: zipzap|Thunder|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641699795
+|switch|p2a: Garchomp|Garchomp, M|94/100
+|turn|12
+|
+|t:|1641699806
+|move|p2a: Garchomp|Scale Shot|p1a: zipzap
+|-damage|p1a: zipzap|49/100
+|-crit|p1a: zipzap
+|-damage|p1a: zipzap|24/100
+|-hitcount|p1a: zipzap|2
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|move|p1a: zipzap|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|30/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garchomp|37/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641699822
+|move|p2a: Garchomp|Scale Shot|p1a: zipzap|[miss]
+|-miss|p2a: Garchomp|p1a: zipzap
+|move|p1a: zipzap|Roost|p1a: zipzap
+|-heal|p1a: zipzap|74/100
+|-singleturn|p1a: zipzap|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garchomp|43/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641699829
+|move|p2a: Garchomp|Scale Shot|p1a: zipzap
+|-damage|p1a: zipzap|58/100
+|-damage|p1a: zipzap|42/100
+|-hitcount|p1a: zipzap|2
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|move|p1a: zipzap|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641699834
+|switch|p2a: Hydreigon|Hydreigon, F|91/100
+|turn|15
+|j| HykaNemu
+|
+|t:|1641699852
+|move|p1a: zipzap|Hurricane|p2a: Hydreigon
+|-damage|p2a: Hydreigon|31/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: zipzap
+|-damage|p1a: zipzap|0 fnt
+|faint|p1a: zipzap
+|-damage|p2a: Hydreigon|21/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|l| HykaNemu
+|inactive|weaktobigbutt has 120 seconds left.
+|
+|t:|1641699875
+|switch|p1a: dangerwillrobinson|Barraskewda, F, shiny|88/100
+|turn|16
+|
+|t:|1641699883
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: dangerwillrobinson|Flip Turn|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|79/100
+|-damage|p1a: dangerwillrobinson|72/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|inactive|weaktobigbutt has 120 seconds left.
+|
+|t:|1641699895
+|switch|p1a: oh nononono|Zeraora, shiny|100/100|[from]move: Flip Turn
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1641699901
+|switch|p1a: plupples|Pelipper, F, shiny|84/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: plupples
+|move|p2a: Slowbro|Scald|p1a: plupples
+|-resisted|p1a: plupples
+|-damage|p1a: plupples|56/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641699914
+|move|p1a: plupples|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|69/100
+|-damage|p1a: plupples|40/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|t:|1641699918
+|switch|p1a: pult|Dragapult, F|100/100|[from]move: U-turn
+|move|p2a: Slowbro|Future Sight|p1a: pult
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641699931
+|switch|p2a: Hydreigon|Hydreigon, F|21/100
+|move|p1a: pult|Shadow Ball|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641699935
+|switch|p2a: Ferrothorn|Ferrothorn, F|60/100
+|turn|20
+|
+|t:|1641699944
+|move|p1a: pult|Shadow Ball|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|29/100
+|move|p2a: Ferrothorn|Knock Off|p1a: pult
+|-supereffective|p1a: pult
+|-damage|p1a: pult|41/100
+|-enditem|p1a: pult|Choice Specs|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-end|p1a: pult|move: Future Sight
+|-damage|p1a: pult|0 fnt
+|faint|p1a: pult
+|-heal|p2a: Ferrothorn|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641699957
+|switch|p1a: dangerwillrobinson|Barraskewda, F, shiny|72/100
+|turn|21
+|
+|t:|1641699962
+|switch|p1a: oh nononono|Zeraora, shiny|100/100
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1641699974
+|move|p1a: oh nononono|Bulk Up|p1a: oh nononono
+|-boost|p1a: oh nononono|atk|1
+|-boost|p1a: oh nononono|def|1
+|move|p2a: Slowbro|Scald|p1a: oh nononono
+|-damage|p1a: oh nononono|49/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641699991
+|move|p1a: oh nononono|Plasma Fists|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|12/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p1a: oh nononono|33/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|move|p2a: Slowbro|Scald|p1a: oh nononono
+|-damage|p1a: oh nononono|0 fnt
+|faint|p1a: oh nononono
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641700006
+|switch|p1a: dangerwillrobinson|Barraskewda, F, shiny|72/100
+|turn|24
+|
+|t:|1641700016
+|switch|p2a: Ferrothorn|Ferrothorn, F|35/100
+|move|p1a: dangerwillrobinson|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: dangerwillrobinson|def|1
+|-unboost|p1a: dangerwillrobinson|spd|1
+|-damage|p1a: dangerwillrobinson|60/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-weather|none
+|upkeep
+|
+|t:|1641700019
+|switch|p2a: Slowbro|Slowbro, F|45/100
+|turn|25
+|
+|t:|1641700024
+|switch|p1a: plupples|Pelipper, F, shiny|40/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: plupples
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|95/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1641700041
+|move|p1a: plupples|Roost|p1a: plupples
+|-heal|p1a: plupples|90/100
+|-singleturn|p1a: plupples|move: Roost
+|move|p2a: Slowbro|Scald|p1a: plupples
+|-resisted|p1a: plupples
+|-damage|p1a: plupples|58/100
+|-status|p1a: plupples|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: plupples|52/100 brn|[from] brn
+|upkeep
+|turn|27
+|-message|weaktobigbutt forfeited.
+|
+|win|cogonahorse
+|raw|weaktobigbutt's rating: 1507 &rarr; <strong>1490</strong><br />(-17 for losing)
+|raw|cogonahorse's rating: 1563 &rarr; <strong>1580</strong><br />(+17 for winning)
+|l|☆weaktobigbutt

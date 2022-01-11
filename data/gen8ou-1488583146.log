@@ -1,0 +1,214 @@
+|j|☆Dude974
+|j|☆ChompHazard
+|t:|1641785058
+|gametype|singles
+|player|p1|Dude974|marlon|1118
+|player|p2|ChompHazard|clemont|1068
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Garchomp, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Regieleki|
+|poke|p1|Blacephalon|
+|poke|p1|Toxapex, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Celesteela|
+|poke|p2|Drapion, F|
+|poke|p2|Shuckle, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ChompHazard)
+|
+|t:|1641785063
+|start
+|switch|p1a: Unohana|Landorus-Therian, M|100/100
+|switch|p2a: Shuckle|Shuckle, F|100/100
+|-ability|p1a: Unohana|Intimidate|boost
+|-unboost|p2a: Shuckle|atk|1
+|-enditem|p2a: Shuckle|White Herb
+|-clearnegativeboost|p2a: Shuckle|[silent]
+|turn|1
+|
+|t:|1641785078
+|move|p1a: Unohana|Stealth Rock|p2a: Shuckle
+|-sidestart|p2: ChompHazard|move: Stealth Rock
+|move|p2a: Shuckle|Sticky Web|p1a: Unohana
+|-sidestart|p1: Dude974|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1641785085
+|move|p1a: Unohana|Defog|p2a: Shuckle
+|-unboost|p2a: Shuckle|evasion|1
+|-sideend|p2: ChompHazard|Stealth Rock|[from] move: Defog|[of] p1a: Unohana
+|-sideend|p1: Dude974|Sticky Web|[from] move: Defog|[of] p1a: Unohana
+|move|p2a: Shuckle|Shell Smash|p2a: Shuckle
+|-unboost|p2a: Shuckle|def|1
+|-unboost|p2a: Shuckle|spd|1
+|-boost|p2a: Shuckle|atk|2
+|-boost|p2a: Shuckle|spa|2
+|-boost|p2a: Shuckle|spe|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641785095
+|move|p1a: Unohana|Earthquake|p2a: Shuckle
+|-damage|p2a: Shuckle|41/100
+|move|p2a: Shuckle|Toxic|p1a: Unohana
+|-status|p1a: Unohana|tox
+|
+|-damage|p1a: Unohana|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641785105
+|move|p1a: Unohana|Earthquake|p2a: Shuckle
+|-damage|p2a: Shuckle|0 fnt
+|faint|p2a: Shuckle
+|
+|-heal|p1a: Unohana|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Unohana|88/100 tox|[from] psn
+|upkeep
+|
+|t:|1641785115
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|5
+|
+|t:|1641785123
+|move|p1a: Unohana|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: ChompHazard|move: Stealth Rock
+|move|p2a: Ferrothorn|Spikes|p1a: Unohana
+|-sidestart|p1: Dude974|Spikes
+|
+|-heal|p1a: Unohana|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Unohana|76/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641785136
+|switch|p1a: Renji|Blacephalon|100/100
+|-damage|p1a: Renji|88/100|[from] Spikes
+|move|p2a: Ferrothorn|Spikes|p1a: Renji
+|-sidestart|p1: Dude974|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641785144
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Renji|Fire Blast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|63/100
+|
+|-heal|p2a: Toxapex|69/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1641785154
+|move|p1a: Renji|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|25/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Renji
+|-sidestart|p1: Dude974|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|31/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1641785163
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Renji|atk|1
+|move|p1a: Renji|Psyshock|p2a: Landorus
+|-damage|p2a: Landorus|54/100
+|
+|-heal|p2a: Landorus|60/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641785174
+|move|p1a: Renji|Mind Blown|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-damage|p1a: Renji|38/100|[from] mindblown
+|faint|p2a: Landorus
+|-ability|p1a: Renji|Beast Boost|boost
+|-boost|p1a: Renji|spa|1
+|
+|upkeep
+|
+|t:|1641785180
+|switch|p2a: Toxapex|Toxapex, F|31/100
+|-damage|p2a: Toxapex|18/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641785185
+|move|p1a: Renji|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-ability|p1a: Renji|Beast Boost|boost
+|-boost|p1a: Renji|spa|1
+|
+|upkeep
+|
+|t:|1641785191
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|95/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641785195
+|move|p1a: Renji|Fire Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|-ability|p1a: Renji|Beast Boost|boost
+|-boost|p1a: Renji|spa|1
+|
+|upkeep
+|
+|t:|1641785204
+|switch|p2a: Drapion|Drapion, F|100/100
+|-damage|p2a: Drapion|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641785216
+|move|p1a: Renji|Fire Blast|p2a: Drapion
+|-damage|p2a: Drapion|0 fnt
+|faint|p2a: Drapion
+|-ability|p1a: Renji|Beast Boost|boost
+|-boost|p1a: Renji|spa|1
+|
+|upkeep
+|
+|t:|1641785222
+|switch|p2a: Celesteela|Celesteela|100/100
+|-damage|p2a: Celesteela|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641785227
+|move|p1a: Renji|Fire Blast|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|
+|win|Dude974
+|raw|Dude974's rating: 1118 &rarr; <strong>1139</strong><br />(+21 for winning)
+|raw|ChompHazard's rating: 1068 &rarr; <strong>1051</strong><br />(-17 for losing)
+|l|☆ChompHazard

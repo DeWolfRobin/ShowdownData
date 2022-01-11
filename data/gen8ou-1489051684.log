@@ -1,0 +1,349 @@
+|j|☆theravenandtheram
+|j|☆Rato mann
+|t:|1641850681
+|gametype|singles
+|player|p1|theravenandtheram|gardenia|1292
+|player|p2|Rato mann|palmer|1247
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Clefable, F|
+|poke|p2|Dracozolt|
+|poke|p2|Alakazam, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Kartana|
+|poke|p2|Tyranitar, M|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Rato mann)
+|
+|t:|1641850693
+|start
+|switch|p1a: oh my god|Magnezone|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|1
+|
+|t:|1641850700
+|move|p2a: Urshifu|U-turn|p1a: oh my god
+|-resisted|p1a: oh my god
+|-damage|p1a: oh my god|82/100
+|
+|t:|1641850710
+|switch|p2a: Tyranitar|Tyranitar, M|100/100|[from]move: U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: oh my god|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|78/100
+|
+|t:|1641850734
+|switch|p1a: not tiffany|Clefable, F|100/100|[from]move: Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|84/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641850741
+|move|p2a: Tyranitar|Stealth Rock|p1a: not tiffany
+|-sidestart|p1: theravenandtheram|move: Stealth Rock
+|move|p1a: not tiffany|Stealth Rock|p2a: Tyranitar
+|-sidestart|p2: Rato mann|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|90/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641850747
+|switch|p2a: Corviknight|Corviknight, F, shiny|100/100
+|move|p1a: not tiffany|Moonblast|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641850755
+|move|p2a: Corviknight|Defog|p1a: not tiffany
+|-unboost|p1a: not tiffany|evasion|1
+|-sideend|p1: theravenandtheram|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: Rato mann|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: not tiffany|Teleport|p1a: not tiffany
+|
+|t:|1641850761
+|switch|p1a: oh my god|Magnezone|82/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641850765
+|move|p1a: oh my god|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|none
+|upkeep
+|
+|t:|1641850780
+|switch|p2a: Kartana|Kartana|100/100
+|turn|6
+|
+|t:|1641850785
+|move|p2a: Kartana|Sacred Sword|p1a: oh my god
+|-supereffective|p1a: oh my god
+|-damage|p1a: oh my god|0 fnt
+|faint|p1a: oh my god
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641850792
+|switch|p1a: like woah vicky|Landorus-Therian, M|100/100
+|-ability|p1a: like woah vicky|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|turn|7
+|
+|t:|1641850805
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: like woah vicky|Earthquake|p2a: Urshifu
+|-damage|p2a: Urshifu|52/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641850811
+|switch|p1a: ride like the car|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Urshifu|Surging Strikes|p1a: ride like the car
+|-resisted|p1a: ride like the car
+|-crit|p1a: ride like the car
+|-damage|p1a: ride like the car|85/100
+|-resisted|p1a: ride like the car
+|-crit|p1a: ride like the car
+|-damage|p1a: ride like the car|71/100
+|-resisted|p1a: ride like the car
+|-crit|p1a: ride like the car
+|-damage|p1a: ride like the car|56/100
+|-hitcount|p1a: ride like the car|3
+|
+|upkeep
+|turn|9
+|
+|t:|1641850827
+|switch|p2a: Tyranitar|Tyranitar, M|90/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: ride like the car|Close Combat|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-unboost|p1a: ride like the car|def|1
+|-unboost|p1a: ride like the car|spd|1
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: ride like the car|49/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641850835
+|switch|p2a: Dracozolt|Dracozolt|100/100
+|turn|10
+|
+|t:|1641850840
+|switch|p1a: like woah vicky|Landorus-Therian, M|100/100
+|-ability|p1a: like woah vicky|Intimidate|boost
+|-unboost|p2a: Dracozolt|atk|1
+|move|p2a: Dracozolt|Bolt Beak|p1a: like woah vicky
+|-immune|p1a: like woah vicky
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641850847
+|move|p2a: Dracozolt|Draco Meteor|p1a: like woah vicky
+|-damage|p1a: like woah vicky|57/100
+|-unboost|p2a: Dracozolt|spa|2
+|-damage|p2a: Dracozolt|91/100|[from] item: Life Orb
+|move|p1a: like woah vicky|Earthquake|p2a: Dracozolt
+|-supereffective|p2a: Dracozolt
+|-damage|p2a: Dracozolt|0 fnt
+|faint|p2a: Dracozolt
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: like woah vicky|63/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641850857
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|52/100
+|turn|12
+|
+|t:|1641850861
+|switch|p1a: and she wicked|Corviknight, M|100/100
+|-ability|p1a: and she wicked|Pressure
+|move|p2a: Urshifu|U-turn|p1a: and she wicked
+|-resisted|p1a: and she wicked
+|-damage|p1a: and she wicked|94/100
+|-damage|p2a: Urshifu|36/100|[from] item: Rocky Helmet|[of] p1a: and she wicked
+|
+|t:|1641850870
+|switch|p2a: Alakazam|Alakazam, M|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641850876
+|move|p2a: Alakazam|Nasty Plot|p2a: Alakazam
+|-boost|p2a: Alakazam|spa|2
+|move|p1a: and she wicked|U-turn|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|23/100
+|
+|t:|1641850883
+|switch|p1a: i'm with tyler|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: i'm with tyler
+|
+|-weather|none
+|upkeep
+|turn|14
+|
+|t:|1641850891
+|move|p1a: i'm with tyler|Moonblast|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|upkeep
+|
+|t:|1641850895
+|switch|p2a: Kartana|Kartana|100/100
+|turn|15
+|
+|t:|1641850899
+|switch|p1a: and she wicked|Corviknight, M|94/100
+|-ability|p1a: and she wicked|Pressure
+|move|p2a: Kartana|Knock Off|p1a: and she wicked
+|-damage|p1a: and she wicked|63/100
+|-damage|p2a: Kartana|84/100|[from] item: Rocky Helmet|[of] p1a: and she wicked
+|-enditem|p1a: and she wicked|Rocky Helmet|[from] move: Knock Off|[of] p2a: Kartana
+|
+|upkeep
+|turn|16
+|
+|t:|1641850909
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|36/100
+|move|p1a: and she wicked|Roost|p1a: and she wicked
+|-heal|p1a: and she wicked|100/100
+|-singleturn|p1a: and she wicked|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1641850914
+|move|p2a: Urshifu|Surging Strikes|p1a: and she wicked
+|-crit|p1a: and she wicked
+|-damage|p1a: and she wicked|83/100
+|-crit|p1a: and she wicked
+|-damage|p1a: and she wicked|65/100
+|-crit|p1a: and she wicked
+|-damage|p1a: and she wicked|46/100
+|-hitcount|p1a: and she wicked|3
+|move|p1a: and she wicked|Body Press|p2a: Urshifu
+|-damage|p2a: Urshifu|12/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|18
+|
+|t:|1641850924
+|move|p2a: Urshifu|Surging Strikes|p1a: and she wicked
+|-crit|p1a: and she wicked
+|-damage|p1a: and she wicked|27/100
+|-crit|p1a: and she wicked
+|-damage|p1a: and she wicked|6/100
+|-crit|p1a: and she wicked
+|-damage|p1a: and she wicked|0 fnt
+|faint|p1a: and she wicked
+|-hitcount|p1: and she wicked|3
+|
+|upkeep
+|
+|t:|1641850931
+|switch|p1a: not tiffany|Clefable, F|100/100
+|turn|19
+|
+|t:|1641850936
+|switch|p2a: Kartana|Kartana|84/100
+|move|p1a: not tiffany|Moonblast|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|29/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641850942
+|switch|p1a: like woah vicky|Landorus-Therian, M|63/100
+|-ability|p1a: like woah vicky|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|move|p2a: Kartana|Smart Strike|p1a: like woah vicky
+|-damage|p1a: like woah vicky|29/100
+|
+|-heal|p1a: like woah vicky|35/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641850952
+|move|p2a: Kartana|Smart Strike|p1a: like woah vicky
+|-damage|p1a: like woah vicky|2/100
+|move|p1a: like woah vicky|Earthquake|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|-heal|p1a: like woah vicky|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641850957
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|12/100
+|turn|22
+|
+|t:|1641850960
+|move|p2a: Urshifu|Surging Strikes|p1a: like woah vicky
+|-supereffective|p1a: like woah vicky
+|-crit|p1a: like woah vicky
+|-damage|p1a: like woah vicky|0 fnt
+|faint|p1a: like woah vicky
+|-hitcount|p1: like woah vicky|1
+|
+|upkeep
+|
+|t:|1641850963
+|switch|p1a: i'm with tyler|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: i'm with tyler
+|turn|23
+|
+|t:|1641850968
+|move|p1a: i'm with tyler|Psyshock|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|win|theravenandtheram
+|raw|theravenandtheram's rating: 1292 &rarr; <strong>1314</strong><br />(+22 for winning)
+|raw|Rato mann's rating: 1247 &rarr; <strong>1225</strong><br />(-22 for losing)
+|l|☆Rato mann
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

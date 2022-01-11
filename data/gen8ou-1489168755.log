@@ -1,0 +1,334 @@
+|j|☆Drop A Fish
+|j|☆wasabiiwomann
+|t:|1641865818
+|gametype|singles
+|player|p1|Drop A Fish|gentleman-gen4|1187
+|player|p2|wasabiiwomann|beauty-gen4dp|1189
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Reuniclus, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Leafeon, M|
+|poke|p2|Heatran, M|
+|poke|p2|Torkoal, F|
+|poke|p2|Venusaur, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Umbreon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by wasabiiwomann)
+|
+|t:|1641865825
+|start
+|switch|p1a: Reuniclus|Reuniclus, M|100/100
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1641865831
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|move|p2a: Torkoal|Lava Plume|p1a: Reuniclus
+|-damage|p1a: Reuniclus|76/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641865836
+|switch|p2a: Umbreon|Umbreon, M, shiny|100/100
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641865841
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Reuniclus|Focus Blast|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|18/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Umbreon|24/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641865850
+|move|p2a: Umbreon|Foul Play|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-enditem|p1a: Reuniclus|Colbur Berry|[eat]
+|-enditem|p1a: Reuniclus|Colbur Berry|[weaken]
+|-damage|p1a: Reuniclus|64/100
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Umbreon|74/100|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Umbreon|80/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641865857
+|move|p2a: Umbreon|Foul Play|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|39/100
+|move|p1a: Reuniclus|Recover|p1a: Reuniclus
+|-heal|p1a: Reuniclus|89/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Umbreon|87/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641865861
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Umbreon|93/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641865875
+|move|p2a: Umbreon|Foul Play|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|63/100
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Umbreon|100/100|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|8
+|
+|t:|1641865880
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Reuniclus|Recover|p1a: Reuniclus
+|-heal|p1a: Reuniclus|100/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641865885
+|move|p2a: Umbreon|Foul Play|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|73/100
+|move|p1a: Reuniclus|Calm Mind|p1a: Reuniclus
+|-boost|p1a: Reuniclus|spa|1
+|-boost|p1a: Reuniclus|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641865890
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Reuniclus|Recover|p1a: Reuniclus
+|-heal|p1a: Reuniclus|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641865893
+|move|p2a: Umbreon|Foul Play|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|74/100
+|move|p1a: Reuniclus|Focus Blast|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-damage|p2a: Umbreon|0 fnt
+|faint|p2a: Umbreon
+|
+|upkeep
+|
+|t:|1641865896
+|switch|p2a: Leafeon|Leafeon, M|100/100
+|turn|12
+|
+|t:|1641865898
+|move|p2a: Leafeon|Knock Off|p1a: Reuniclus
+|-supereffective|p1a: Reuniclus
+|-damage|p1a: Reuniclus|42/100
+|move|p1a: Reuniclus|Psyshock|p2a: Leafeon
+|-damage|p2a: Leafeon|0 fnt
+|faint|p2a: Leafeon
+|
+|upkeep
+|
+|t:|1641865906
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|13
+|
+|t:|1641865909
+|move|p1a: Reuniclus|Recover|p1a: Reuniclus
+|-heal|p1a: Reuniclus|92/100
+|move|p2a: Torkoal|Toxic|p1a: Reuniclus
+|-status|p1a: Reuniclus|tox
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641865912
+|move|p1a: Reuniclus|Psyshock|p2a: Torkoal
+|-damage|p2a: Torkoal|13/100
+|move|p2a: Torkoal|Lava Plume|p1a: Reuniclus
+|-damage|p1a: Reuniclus|83/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641865918
+|move|p1a: Reuniclus|Psyshock|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641865926
+|switch|p2a: Venusaur|Venusaur, F|100/100
+|turn|16
+|
+|t:|1641865935
+|move|p2a: Venusaur|Weather Ball|p1a: Reuniclus
+|-damage|p1a: Reuniclus|70/100 tox
+|-damage|p2a: Venusaur|91/100|[from] item: Life Orb
+|move|p1a: Reuniclus|Psyshock|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641865938
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|17
+|c|☆Drop A Fish|lol
+|
+|t:|1641865944
+|move|p2a: Heatran|Eruption|p1a: Reuniclus
+|-damage|p1a: Reuniclus|26/100 tox
+|move|p1a: Reuniclus|Focus Blast|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆wasabiiwomann|im toast!
+|
+|t:|1641865949
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Reuniclus|atk|1
+|turn|18
+|
+|t:|1641865951
+|move|p2a: Landorus|Earthquake|p1a: Reuniclus
+|-damage|p1a: Reuniclus|0 fnt
+|faint|p1a: Reuniclus
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆wasabiiwomann|gg!
+|
+|t:|1641865957
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|19
+|c|☆wasabiiwomann|you got me!
+|c|☆Drop A Fish|gg
+|c|☆wasabiiwomann|this was embarrassing for me
+|
+|t:|1641865965
+|move|p1a: Tornadus|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|move|p2a: Landorus|Toxic|p1a: Tornadus
+|-status|p1a: Tornadus|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Tornadus|94/100 tox|[from] psn
+|-damage|p2a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641865969
+|move|p1a: Tornadus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|80/100 tox
+|-damage|p1a: Tornadus|78/100 tox|[from] item: Rocky Helmet|[of] p2a: Landorus
+|-enditem|p2a: Landorus|Rocky Helmet|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Landorus|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|67/100 tox
+|
+|-weather|none
+|-damage|p1a: Tornadus|55/100 tox|[from] psn
+|-damage|p2a: Landorus|68/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641865976
+|move|p1a: Tornadus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|57/100 tox
+|move|p2a: Landorus|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|44/100 tox
+|
+|-damage|p1a: Tornadus|25/100 tox|[from] psn
+|-damage|p2a: Landorus|39/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641865980
+|move|p1a: Tornadus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|28/100 tox
+|move|p2a: Landorus|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|14/100 tox
+|
+|-damage|p1a: Tornadus|0 fnt|[from] psn
+|faint|p1a: Tornadus
+|-damage|p2a: Landorus|3/100 tox|[from] psn
+|upkeep
+|
+|t:|1641865982
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|23
+|
+|t:|1641865987
+|move|p2a: Landorus|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|40/100
+|move|p1a: Clefable|Moonblast|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Clefable|30/100|[from] item: Life Orb
+|
+|win|Drop A Fish
+|raw|Drop A Fish's rating: 1187 &rarr; <strong>1212</strong><br />(+25 for winning)
+|raw|wasabiiwomann's rating: 1189 &rarr; <strong>1164</strong><br />(-25 for losing)
+|l|☆wasabiiwomann
+|c|☆Drop A Fish|gg

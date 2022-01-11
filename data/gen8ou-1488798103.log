@@ -1,0 +1,137 @@
+|j|☆DumbLick1337
+|j|☆tri64
+|t:|1641822952
+|gametype|singles
+|player|p1|DumbLick1337|102|1163
+|player|p2|tri64|schoolkidf|1124
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Seismitoad, F|
+|poke|p1|Rotom-Heat|
+|poke|p1|Corviknight, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Hippowdon, F|
+|poke|p2|Weavile, F|
+|poke|p2|Zeraora|
+|poke|p2|Swampert, F|
+|poke|p2|Inteleon, M|
+|poke|p2|Slowbro-Galar, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|j| haywirehax
+|
+|t:|1641822979
+|start
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641822981
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641822984
+|move|p2a: Weavile|Beat Up|p1a: Corviknight
+|-damage|p1a: Corviknight|89/100
+|-damage|p1a: Corviknight|78/100
+|-damage|p1a: Corviknight|67/100
+|-damage|p1a: Corviknight|59/100
+|-damage|p1a: Corviknight|49/100
+|-damage|p1a: Corviknight|38/100
+|-hitcount|p1a: Corviknight|6
+|move|p1a: Corviknight|Iron Head|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|8/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|2/100|[from] Sandstorm
+|-heal|p1a: Corviknight|44/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641822986
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|move|p2a: Weavile|Beat Up|p1a: Hippowdon
+|-damage|p1a: Hippowdon|92/100
+|-damage|p1a: Hippowdon|84/100
+|-damage|p1a: Hippowdon|75/100
+|-damage|p1a: Hippowdon|68/100
+|-damage|p1a: Hippowdon|60/100
+|-damage|p1a: Hippowdon|51/100
+|-hitcount|p1a: Hippowdon|6
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|0 fnt|[from] Sandstorm
+|faint|p2a: Weavile
+|upkeep
+|
+|t:|1641822990
+|switch|p2a: Inteleon|Inteleon, M|100/100
+|turn|4
+|
+|t:|1641822993
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Inteleon|Focus Energy|p2a: Inteleon
+|-start|p2a: Inteleon|move: Focus Energy
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Inteleon|94/100|[from] Sandstorm
+|-damage|p1a: Hatterene|95/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641822998
+|move|p2a: Inteleon|Icicle Spear|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|83/100
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|72/100
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|61/100
+|-hitcount|p1a: Hatterene|3
+|move|p1a: Hatterene|Psychic|p2a: Inteleon
+|-damage|p2a: Inteleon|5/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641823006
+|move|p2a: Inteleon|Snipe Shot|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|16/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|-heal|p1a: Hatterene|19/100|[from] drain|[of] p2a: Inteleon
+|faint|p2a: Inteleon
+|
+|upkeep
+|-message|tri64 forfeited.
+|
+|win|DumbLick1337
+|raw|DumbLick1337's rating: 1163 &rarr; <strong>1185</strong><br />(+22 for winning)
+|raw|tri64's rating: 1124 &rarr; <strong>1102</strong><br />(-22 for losing)
+|c|☆DumbLick1337|gg
+|l|☆tri64

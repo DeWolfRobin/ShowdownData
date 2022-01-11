@@ -1,0 +1,400 @@
+|j|☆Windsom
+|j|☆snsdlive
+|t:|1641851940
+|gametype|singles
+|player|p1|Windsom|hilbert|1548
+|player|p2|snsdlive|beauty-gen2jp|1539
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Hawlucha, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Mew|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Blacephalon|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Bisharp, F|
+|poke|p2|Zapdos|
+|teampreview
+|
+|t:|1641851953
+|start
+|switch|p1a: Musashi|Landorus-Therian, M|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-ability|p1a: Musashi|Intimidate|boost
+|-unboost|p2a: Tapu Fini|atk|1
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Windsom)
+|
+|t:|1641851959
+|move|p1a: Musashi|Stealth Rock|p2a: Tapu Fini
+|-sidestart|p2: snsdlive|move: Stealth Rock
+|move|p2a: Tapu Fini|Taunt|p1a: Musashi
+|-start|p1a: Musashi|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1641851965
+|move|p1a: Musashi|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|58/100
+|move|p2a: Tapu Fini|Whirlpool|p1a: Musashi
+|-supereffective|p1a: Musashi
+|-damage|p1a: Musashi|72/100
+|-activate|p1a: Musashi|move: Whirlpool|[of] p2a: Tapu Fini
+|
+|-heal|p2a: Tapu Fini|64/100|[from] item: Leftovers
+|-damage|p1a: Musashi|60/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1641851970
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Musashi|atk|1
+|move|p1a: Musashi|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|-end|p1a: Musashi|Whirlpool|[partiallytrapped]|[silent]
+|upkeep
+|turn|4
+|
+|t:|1641851980
+|move|p1a: Musashi|Explosion|p2a: Landorus
+|-damage|p2a: Landorus|40/100
+|faint|p1a: Musashi
+|move|p2a: Landorus|Stealth Rock|p1: Musashi
+|-sidestart|p1: Windsom|move: Stealth Rock
+|
+|-heal|p2a: Landorus|46/100|[from] item: Leftovers
+|upkeep
+|inactive|Windsom has 120 seconds left.
+|
+|t:|1641852023
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641852028
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Landorus|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|46/100
+|
+|-heal|p2a: Landorus|52/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641852037
+|switch|p2a: Tapu Fini|Tapu Fini|64/100
+|-damage|p2a: Tapu Fini|52/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Garchomp|Scale Shot|p2a: Tapu Fini
+|-immune|p2a: Tapu Fini
+|
+|-heal|p2a: Tapu Fini|58/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641852048
+|switch|p2a: Landorus|Landorus-Therian, M|52/100
+|-damage|p2a: Landorus|40/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-heal|p2a: Landorus|46/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641852053
+|move|p1a: Garchomp|Scale Shot|p2a: Landorus
+|-damage|p2a: Landorus|26/100
+|-damage|p2a: Landorus|9/100
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1641852064
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641852068
+|move|p1a: Garchomp|Fire Fang|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Garchomp|33/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Garchomp|17/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641852085
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|10
+|
+|t:|1641852098
+|switch|p2a: Tapu Fini|Tapu Fini|58/100
+|-damage|p2a: Tapu Fini|46/100|[from] Stealth Rock
+|move|p1a: Garchomp|Scale Shot|p2a: Tapu Fini
+|-immune|p2a: Tapu Fini
+|
+|-heal|p2a: Tapu Fini|52/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|11
+|
+|t:|1641852106
+|move|p1a: Garchomp|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641852113
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|12
+|
+|t:|1641852117
+|move|p1a: Garchomp|Scale Shot|p2a: Zapdos
+|-damage|p2a: Zapdos|85/100
+|-damage|p2a: Zapdos|70/100
+|-hitcount|p2a: Zapdos|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Zapdos|Heat Wave|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|2/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641852129
+|move|p1a: Garchomp|Scale Shot|p2a: Zapdos
+|-damage|p2a: Zapdos|55/100
+|-damage|p2a: Zapdos|40/100
+|-hitcount|p2a: Zapdos|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Zapdos|Heat Wave|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641852146
+|switch|p1a: Mikazuki|Tapu Fini|100/100
+|-damage|p1a: Mikazuki|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Mikazuki
+|turn|14
+|
+|t:|1641852152
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|90/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Mikazuki|Calm Mind|p1a: Mikazuki
+|-boost|p1a: Mikazuki|spa|1
+|-boost|p1a: Mikazuki|spd|1
+|
+|-heal|p1a: Mikazuki|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641852158
+|move|p2a: Zapdos|Discharge|p1a: Mikazuki
+|-supereffective|p1a: Mikazuki
+|-damage|p1a: Mikazuki|56/100
+|move|p1a: Mikazuki|Draining Kiss|p2a: Zapdos
+|-damage|p2a: Zapdos|65/100
+|-heal|p1a: Mikazuki|77/100|[from] drain|[of] p2a: Zapdos
+|
+|-heal|p1a: Mikazuki|83/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641852167
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|-damage|p2a: Bisharp|95/100|[from] Stealth Rock
+|move|p1a: Mikazuki|Draining Kiss|p2a: Bisharp
+|-damage|p2a: Bisharp|47/100
+|-heal|p1a: Mikazuki|100/100|[from] drain|[of] p2a: Bisharp
+|
+|upkeep
+|turn|17
+|
+|t:|1641852174
+|move|p1a: Mikazuki|Calm Mind|p1a: Mikazuki
+|-boost|p1a: Mikazuki|spa|1
+|-boost|p1a: Mikazuki|spd|1
+|move|p2a: Bisharp|Knock Off|p1a: Mikazuki
+|-resisted|p1a: Mikazuki
+|-damage|p1a: Mikazuki|71/100
+|-enditem|p1a: Mikazuki|Leftovers|[from] move: Knock Off|[of] p2a: Bisharp
+|-damage|p2a: Bisharp|37/100|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|
+|t:|1641852180
+|move|p1a: Mikazuki|Calm Mind|p1a: Mikazuki
+|-boost|p1a: Mikazuki|spa|1
+|-boost|p1a: Mikazuki|spd|1
+|move|p2a: Bisharp|Iron Head|p1a: Mikazuki
+|-damage|p1a: Mikazuki|21/100
+|-damage|p2a: Bisharp|27/100|[from] item: Life Orb
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|19
+|
+|t:|1641852188
+|move|p1a: Mikazuki|Draining Kiss|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|-heal|p1a: Mikazuki|37/100|[from] drain|[of] p2a: Bisharp
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641852193
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|-damage|p2a: Blacephalon|76/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641852197
+|move|p2a: Blacephalon|Shadow Ball|p1a: Mikazuki
+|-damage|p1a: Mikazuki|15/100
+|move|p1a: Mikazuki|Surf|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|upkeep
+|
+|t:|1641852201
+|switch|p2a: Zapdos|Zapdos|65/100
+|turn|21
+|
+|t:|1641852206
+|move|p2a: Zapdos|Discharge|p1a: Mikazuki
+|-supereffective|p1a: Mikazuki
+|-damage|p1a: Mikazuki|0 fnt
+|faint|p1a: Mikazuki
+|
+|upkeep
+|
+|t:|1641852214
+|switch|p1a: Odenta|Mew|100/100
+|-damage|p1a: Odenta|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641852218
+|move|p1a: Odenta|Cosmic Power|p1a: Odenta
+|-boost|p1a: Odenta|def|1
+|-boost|p1a: Odenta|spd|1
+|move|p2a: Zapdos|Discharge|p1a: Odenta
+|-damage|p1a: Odenta|68/100
+|-status|p1a: Odenta|par
+|-activate|p1a: Odenta|ability: Synchronize
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|23
+|
+|t:|1641852225
+|move|p2a: Zapdos|Discharge|p1a: Odenta
+|-damage|p1a: Odenta|48/100 par
+|move|p1a: Odenta|Cosmic Power|p1a: Odenta
+|-boost|p1a: Odenta|def|1
+|-boost|p1a: Odenta|spd|1
+|
+|upkeep
+|turn|24
+|
+|t:|1641852231
+|move|p2a: Zapdos|Discharge|p1a: Odenta
+|-damage|p1a: Odenta|33/100 par
+|move|p1a: Odenta|Soft-Boiled|p1a: Odenta
+|-heal|p1a: Odenta|84/100 par
+|
+|upkeep
+|turn|25
+|
+|t:|1641852237
+|move|p2a: Zapdos|Discharge|p1a: Odenta
+|-damage|p1a: Odenta|69/100 par
+|move|p1a: Odenta|Stored Power|p2a: Zapdos
+|-damage|p2a: Zapdos|33/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641852243
+|move|p2a: Zapdos|Discharge|p1a: Odenta
+|-damage|p1a: Odenta|53/100 par
+|move|p1a: Odenta|Cosmic Power|p1a: Odenta
+|-boost|p1a: Odenta|def|1
+|-boost|p1a: Odenta|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1641852249
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|83/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Odenta|Soft-Boiled|p1a: Odenta
+|-heal|p1a: Odenta|100/100 par
+|
+|upkeep
+|turn|28
+|
+|t:|1641852255
+|move|p2a: Zapdos|Discharge|p1a: Odenta
+|-damage|p1a: Odenta|89/100 par
+|move|p1a: Odenta|Stored Power|p2a: Zapdos
+|-damage|p2a: Zapdos|36/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641852264
+|move|p2a: Zapdos|Discharge|p1a: Odenta
+|-damage|p1a: Odenta|78/100 par
+|move|p1a: Odenta|Cosmic Power|p1a: Odenta
+|-boost|p1a: Odenta|def|1
+|-boost|p1a: Odenta|spd|1
+|
+|upkeep
+|turn|30
+|-message|snsdlive forfeited.
+|
+|win|Windsom
+|raw|Windsom's rating: 1548 &rarr; <strong>1567</strong><br />(+19 for winning)
+|raw|snsdlive's rating: 1539 &rarr; <strong>1520</strong><br />(-19 for losing)
+|l|☆snsdlive

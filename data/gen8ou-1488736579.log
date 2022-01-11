@@ -1,0 +1,304 @@
+|j|☆Pald
+|j|☆IgonnaSmashToga
+|t:|1641812956
+|gametype|singles
+|player|p1|Pald|hilbert|
+|player|p2|IgonnaSmashToga|102|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Dracozolt|
+|poke|p1|Weavile, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Mimikyu, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Ribombee, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Barraskewda, M|
+|poke|p2|Aggron, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pald)
+|j|*Lady Monita ❄
+|inactive|IgonnaSmashToga has 270 seconds left.
+|
+|t:|1641812994
+|start
+|switch|p1a: Dracozolt|Dracozolt|100/100
+|switch|p2a: Ribombee|Ribombee, F|100/100
+|turn|1
+|j| AnshKumar
+|j| Dark Red 979
+|
+|t:|1641813002
+|move|p1a: Dracozolt|Bolt Beak|p2a: Ribombee
+|-enditem|p2a: Ribombee|Focus Sash
+|-damage|p2a: Ribombee|1/100
+|move|p2a: Ribombee|Sticky Web|p1a: Dracozolt
+|-sidestart|p1: Pald|move: Sticky Web
+|
+|upkeep
+|turn|2
+|j| AldronianX
+|
+|t:|1641813009
+|move|p1a: Dracozolt|Bolt Beak|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|upkeep
+|
+|t:|1641813013
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|turn|3
+|j| Arjun_OP
+|l| Arjun_OP
+|j| JirachiThePrince
+|
+|t:|1641813040
+|switch|p1a: Kartana|Kartana|100/100
+|-activate|p1a: Kartana|move: Sticky Web
+|-unboost|p1a: Kartana|spe|1
+|move|p2a: Hippowdon|Stealth Rock|p1a: Kartana
+|-sidestart|p1: Pald|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641813047
+|move|p1a: Kartana|Leaf Blade|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|42/100
+|move|p2a: Hippowdon|Earthquake|p1a: Kartana
+|-damage|p1a: Kartana|59/100
+|
+|-heal|p2a: Hippowdon|48/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|j| Panda280
+|
+|t:|1641813053
+|move|p1a: Kartana|Leaf Blade|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|l| JirachiThePrince
+|
+|t:|1641813061
+|switch|p2a: Aggron|Aggron, F|100/100
+|turn|6
+|j| SlowthePoke
+|
+|t:|1641813066
+|move|p1a: Kartana|Sacred Sword|p2a: Aggron
+|-supereffective|p2a: Aggron
+|-ability|p2a: Aggron|Sturdy
+|-damage|p2a: Aggron|1/100
+|-enditem|p2a: Aggron|Weakness Policy
+|-boost|p2a: Aggron|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Aggron|spa|2|[from] item: Weakness Policy
+|move|p2a: Aggron|Rock Polish|p2a: Aggron
+|-boost|p2a: Aggron|spe|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641813075
+|move|p2a: Aggron|High Horsepower|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641813086
+|switch|p1a: Mimikyu|Mimikyu, M|100/100
+|-damage|p1a: Mimikyu|88/100|[from] Stealth Rock
+|-activate|p1a: Mimikyu|move: Sticky Web
+|-unboost|p1a: Mimikyu|spe|1
+|turn|8
+|
+|t:|1641813089
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Aggron
+|-damage|p2a: Aggron|0 fnt
+|faint|p2a: Aggron
+|
+|-heal|p1a: Mimikyu|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641813092
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|9
+|j| Idonotspam
+|
+|t:|1641813100
+|move|p2a: Barraskewda|Liquidation|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|94/100
+|-unboost|p1a: Mimikyu|def|1
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, M
+|-damage|p1a: Mimikyu|82/100|[from] pokemon: Mimikyu-Busted
+|move|p1a: Mimikyu|Play Rough|p2a: Barraskewda
+|-damage|p2a: Barraskewda|30/100
+|
+|-heal|p1a: Mimikyu|88/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641813104
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-heal|p1a: Mimikyu|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641813107
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|11
+|
+|t:|1641813117
+|move|p2a: Zapdos|Brave Bird|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|-damage|p2a: Zapdos|77/100|[from] Recoil
+|-damage|p2a: Zapdos|67/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641813126
+|switch|p1a: Dracozolt|Dracozolt|100/100
+|-activate|p1a: Dracozolt|move: Sticky Web
+|-unboost|p1a: Dracozolt|spe|1
+|-damage|p1a: Dracozolt|88/100|[from] Stealth Rock
+|turn|12
+|l| Idonotspam
+|
+|t:|1641813138
+|move|p2a: Zapdos|Close Combat|p1a: Dracozolt
+|-damage|p1a: Dracozolt|0 fnt
+|-unboost|p2a: Zapdos|def|1
+|-unboost|p2a: Zapdos|spd|1
+|faint|p1a: Dracozolt
+|-damage|p2a: Zapdos|57/100|[from] item: Life Orb
+|
+|upkeep
+|j| Potatohed
+|inactive|Pald has 270 seconds left.
+|
+|t:|1641813172
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-activate|p1a: Urshifu|move: Sticky Web
+|-unboost|p1a: Urshifu|spe|1
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|turn|13
+|l| Dark Red 979
+|
+|t:|1641813178
+|move|p2a: Zapdos|Close Combat|p1a: Urshifu
+|-damage|p1a: Urshifu|10/100
+|-unboost|p2a: Zapdos|def|1
+|-unboost|p2a: Zapdos|spd|1
+|-damage|p2a: Zapdos|47/100|[from] item: Life Orb
+|move|p1a: Urshifu|Surging Strikes|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-hitcount|p2: Zapdos|1
+|
+|upkeep
+|
+|t:|1641813181
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|14
+|
+|t:|1641813200
+|move|p2a: Tapu Koko|Discharge|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641813205
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|-activate|p1a: Tapu Lele|move: Sticky Web
+|-unboost|p1a: Tapu Lele|spe|1
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|15
+|
+|t:|1641813210
+|move|p2a: Tapu Koko|Discharge|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|35/100
+|-status|p1a: Tapu Lele|par
+|move|p1a: Tapu Lele|Psychic|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|1/100
+|
+|upkeep
+|turn|16
+|j| Dark Red 979
+|
+|t:|1641813214
+|move|p2a: Tapu Koko|Discharge|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641813217
+|switch|p1a: Weavile|Weavile, M|100/100
+|-damage|p1a: Weavile|76/100|[from] Stealth Rock
+|-activate|p1a: Weavile|move: Sticky Web
+|-unboost|p1a: Weavile|spe|1
+|-ability|p1a: Weavile|Pressure
+|turn|17
+|c|☆Pald|gg
+|
+|t:|1641813224
+|move|p1a: Weavile|Ice Shard|p2a: Tapu Koko
+|-activate|p2a: Tapu Koko|move: Psychic Terrain
+|move|p2a: Tapu Koko|Discharge|p1a: Weavile
+|-damage|p1a: Weavile|6/100
+|-status|p1a: Weavile|par
+|
+|upkeep
+|turn|18
+|c|☆Pald|well
+|c|☆IgonnaSmashToga|gg
+|c| Potatohed|g
+|c| Potatohed|f
+|c| Potatohed|kek
+|c|☆Pald|i just gave u my win like
+|
+|t:|1641813245
+|cant|p1a: Weavile|par
+|move|p2a: Tapu Koko|Discharge|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|win|IgonnaSmashToga
+|c|*Lady Monita ❄|Pald your cloaked Pokemon has fainted!
+|l|*Lady Monita ❄
+|c|☆Pald|anyways
+|c|☆Pald|gratz
+|l| Potatohed
+|l| AnshKumar
+|l|☆IgonnaSmashToga
+|l| Panda280
+|l| AldronianX

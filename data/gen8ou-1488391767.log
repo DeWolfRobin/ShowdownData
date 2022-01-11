@@ -1,0 +1,264 @@
+|j|☆0nITanjiro
+|j|☆MegaMan052
+|t:|1641759573
+|gametype|singles
+|player|p1|0nITanjiro|1|1046
+|player|p2|MegaMan052|colress|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Zeraora|
+|poke|p1|Gardevoir, M|
+|poke|p1|Hippowdon, M|
+|poke|p1|Rillaboom, M|
+|poke|p2|Aegislash, M|
+|poke|p2|Bronzong|
+|poke|p2|Perrserker, M|
+|poke|p2|Duraludon, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Lucario, M|
+|teampreview
+|
+|t:|1641759577
+|start
+|switch|p1a: Gardevoir|Gardevoir, M|100/100
+|switch|p2a: Bors|Bronzong|100/100
+|-ability|p1a: Gardevoir|Levitate|[from] ability: Trace|[of] p2a: Bors
+|turn|1
+|
+|t:|1641759585
+|move|p1a: Gardevoir|Thunder Wave|p2a: Bors
+|-status|p2a: Bors|par
+|move|p2a: Bors|Stealth Rock|p1a: Gardevoir
+|-sidestart|p1: 0nITanjiro|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641759598
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|cant|p2a: Bors|par
+|
+|upkeep
+|turn|3
+|
+|t:|1641759608
+|move|p1a: Dragapult|Flamethrower|p2a: Bors
+|-supereffective|p2a: Bors
+|-damage|p2a: Bors|69/100 par
+|-damage|p1a: Dragapult|78/100|[from] item: Life Orb
+|move|p2a: Bors|Light Screen|p2a: Bors
+|-sidestart|p2: MegaMan052|move: Light Screen
+|
+|upkeep
+|turn|4
+|
+|t:|1641759616
+|move|p1a: Dragapult|Dragon Darts|p2a: Bors
+|-resisted|p2a: Bors
+|-damage|p2a: Bors|56/100 par
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Bors
+|-resisted|p2a: Bors
+|-damage|p2a: Bors|40/100 par
+|-damage|p1a: Dragapult|69/100|[from] item: Life Orb
+|cant|p2a: Bors|par
+|
+|upkeep
+|turn|5
+|
+|t:|1641759632
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Bors|Reflect|p2a: Bors
+|-sidestart|p2: MegaMan052|Reflect
+|
+|upkeep
+|turn|6
+|
+|t:|1641759640
+|switch|p2a: Lamorak|Bisharp, M|100/100
+|move|p1a: Dragapult|Phantom Force|p2a: Lamorak|[from]lockedmove
+|-resisted|p2a: Lamorak
+|-damage|p2a: Lamorak|66/100
+|-damage|p1a: Dragapult|59/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1641759656
+|switch|p2a: Lancelot|Duraludon, M|100/100
+|move|p1a: Dragapult|Flamethrower|p2a: Lancelot
+|-damage|p2a: Lancelot|47/100
+|-status|p2a: Lancelot|brn
+|-damage|p1a: Dragapult|49/100|[from] item: Life Orb
+|
+|-damage|p2a: Lancelot|41/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641759667
+|move|p1a: Dragapult|Dragon Darts|p2a: Lancelot
+|-crit|p2a: Lancelot
+|-damage|p2a: Lancelot|0 fnt
+|faint|p2a: Lancelot
+|-damage|p1a: Dragapult|39/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641759673
+|switch|p2a: Arondight|Aegislash, M|100/100
+|turn|9
+|
+|t:|1641759679
+|move|p1a: Dragapult|Flamethrower|p2a: Arondight
+|-supereffective|p2a: Arondight
+|-damage|p2a: Arondight|73/100
+|-damage|p1a: Dragapult|30/100|[from] item: Life Orb
+|-formechange|p2a: Arondight|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Arondight|Shadow Ball|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Arondight|63/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641759690
+|switch|p1a: Gardevoir|Gardevoir, M|100/100
+|-damage|p1a: Gardevoir|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641759703
+|move|p1a: Gardevoir|Thunder Wave|p2a: Arondight
+|-status|p2a: Arondight|par
+|cant|p2a: Arondight|par
+|
+|-sideend|p2: MegaMan052|move: Light Screen
+|upkeep
+|turn|11
+|
+|t:|1641759719
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|move|p2a: Arondight|Shadow Ball|p1a: Urshifu
+|-damage|p1a: Urshifu|25/100
+|-unboost|p1a: Urshifu|spd|1
+|-damage|p2a: Arondight|54/100 par|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1641759730
+|move|p1a: Urshifu|Surging Strikes|p2a: Arondight
+|-crit|p2a: Arondight
+|-damage|p2a: Arondight|0 fnt
+|faint|p2a: Arondight
+|-hitcount|p2: Arondight|1
+|
+|-sideend|p2: MegaMan052|Reflect
+|upkeep
+|
+|t:|1641759738
+|switch|p2a: Gawain|Perrserker, M|100/100
+|turn|13
+|
+|t:|1641759749
+|move|p1a: Urshifu|Surging Strikes|p2a: Gawain
+|-crit|p2a: Gawain
+|-damage|p2a: Gawain|69/100
+|-crit|p2a: Gawain
+|-damage|p2a: Gawain|38/100
+|-crit|p2a: Gawain
+|-damage|p2a: Gawain|6/100
+|-hitcount|p2a: Gawain|3
+|move|p2a: Gawain|Seed Bomb|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641759761
+|switch|p1a: Gardevoir|Gardevoir, M|88/100
+|-damage|p1a: Gardevoir|76/100|[from] Stealth Rock
+|-ability|p1a: Gardevoir|Steely Spirit|[from] ability: Trace|[of] p2a: Gawain
+|turn|14
+|
+|t:|1641759770
+|move|p1a: Gardevoir|Draining Kiss|p2a: Gawain
+|-resisted|p2a: Gawain
+|-crit|p2a: Gawain
+|-damage|p2a: Gawain|0 fnt
+|-heal|p1a: Gardevoir|81/100|[from] drain|[of] p2a: Gawain
+|faint|p2a: Gawain
+|
+|upkeep
+|
+|t:|1641759781
+|switch|p2a: Bedwyr|Lucario, M|100/100
+|turn|15
+|
+|t:|1641759804
+|switch|p1a: Zeraora|Zeraora|100/100
+|-damage|p1a: Zeraora|88/100|[from] Stealth Rock
+|move|p2a: Bedwyr|Flash Cannon|p1a: Zeraora
+|-resisted|p1a: Zeraora
+|-damage|p1a: Zeraora|62/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641759815
+|move|p1a: Zeraora|Plasma Fists|p2a: Bedwyr
+|-damage|p2a: Bedwyr|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Bedwyr
+|-damage|p1a: Zeraora|52/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641759822
+|switch|p2a: Lamorak|Bisharp, M|66/100
+|turn|17
+|
+|t:|1641759826
+|move|p1a: Zeraora|Plasma Fists|p2a: Lamorak
+|-damage|p2a: Lamorak|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Lamorak
+|-damage|p1a: Zeraora|42/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641759839
+|switch|p2a: Bors|Bronzong|40/100 par
+|turn|18
+|
+|t:|1641759842
+|move|p1a: Zeraora|Plasma Fists|p2a: Bors
+|-damage|p2a: Bors|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Bors
+|-damage|p1a: Zeraora|33/100|[from] item: Life Orb
+|
+|win|0nITanjiro
+|raw|0nITanjiro's rating: 1046 &rarr; <strong>1075</strong><br />(+29 for winning)
+|raw|MegaMan052's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆MegaMan052
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

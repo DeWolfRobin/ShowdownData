@@ -1,0 +1,304 @@
+|j|☆SoleSurvivorVGC
+|j|☆Oreozou
+|t:|1641743512
+|gametype|singles
+|player|p1|SoleSurvivorVGC|hilbert|1264
+|player|p2|Oreozou|170|1247
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Kartana|
+|poke|p1|Weavile, M|
+|poke|p1|Tapu Fini|
+|poke|p2|Regieleki|
+|poke|p2|Victini|
+|poke|p2|Dragapult, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|c|☆SoleSurvivorVGC|glhf
+|
+|t:|1641743528
+|start
+|switch|p1a: Pangea|Landorus-Therian, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Pangea|atk|1
+|-ability|p1a: Pangea|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|turn|1
+|
+|t:|1641743537
+|move|p2a: Landorus|Knock Off|p1a: Pangea
+|-damage|p1a: Pangea|83/100
+|-damage|p2a: Landorus|84/100|[from] item: Rocky Helmet|[of] p1a: Pangea
+|-enditem|p1a: Pangea|Rocky Helmet|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Pangea|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Oreozou|move: Stealth Rock
+|
+|-heal|p2a: Landorus|90/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641743546
+|move|p2a: Landorus|Defog|p1a: Pangea
+|-unboost|p1a: Pangea|evasion|1
+|-sideend|p2: Oreozou|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|move|p1a: Pangea|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-heal|p2a: Landorus|96/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|90/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641743556
+|move|p2a: Landorus|U-turn|p1a: Pangea
+|-resisted|p1a: Pangea
+|-damage|p1a: Pangea|77/100
+|
+|t:|1641743559
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|move|p1a: Pangea|U-turn|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|93/100
+|
+|t:|1641743569
+|switch|p1a: Papercut|Kartana, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641743576
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Papercut|Leaf Blade|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|61/100
+|-damage|p1a: Papercut|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Papercut|97/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641743588
+|switch|p1a: Mothra|Volcarona, M, shiny|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Mothra
+|-damage|p1a: Mothra|52/100
+|-enditem|p1a: Mothra|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|74/100|[from] Grassy Terrain
+|-heal|p1a: Mothra|58/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641743601
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|93/100
+|move|p1a: Mothra|Quiver Dance|p1a: Mothra
+|-boost|p1a: Mothra|spa|1
+|-boost|p1a: Mothra|spd|1
+|-boost|p1a: Mothra|spe|1
+|
+|-heal|p1a: Mothra|64/100|[from] Grassy Terrain
+|-heal|p2a: Urshifu|99/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1641743610
+|move|p1a: Mothra|Psychic|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-heal|p1a: Mothra|70/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641743619
+|switch|p2a: Victini|Victini|100/100
+|turn|8
+|
+|t:|1641743625
+|move|p2a: Victini|V-create|p1a: Mothra
+|-crit|p1a: Mothra
+|-damage|p1a: Mothra|0 fnt
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|faint|p1a: Mothra
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641743641
+|switch|p1a: Papercut|Kartana, shiny|97/100
+|turn|9
+|
+|t:|1641743648
+|switch|p2a: Landorus|Landorus-Therian, M|90/100 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Papercut|atk|1
+|move|p1a: Papercut|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|57/100 tox
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Papercut
+|-damage|p1a: Papercut|87/100|[from] item: Life Orb
+|
+|-damage|p2a: Landorus|51/100 tox|[from] psn
+|upkeep
+|turn|10
+|j| TheArnazingMirror
+|
+|t:|1641743689
+|switch|p1a: Not Choice Scarf|Magnezone|100/100
+|move|p2a: Landorus|Knock Off|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|65/100
+|-enditem|p1a: Not Choice Scarf|Assault Vest|[from] move: Knock Off|[of] p2a: Landorus
+|
+|-damage|p2a: Landorus|39/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641743698
+|move|p2a: Landorus|Earthquake|p1a: Not Choice Scarf
+|-supereffective|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|0 fnt
+|faint|p1a: Not Choice Scarf
+|
+|-damage|p2a: Landorus|22/100 tox|[from] psn
+|upkeep
+|
+|t:|1641743706
+|switch|p1a: Papercut|Kartana, shiny|87/100
+|turn|12
+|
+|t:|1641743710
+|move|p1a: Papercut|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Papercut|Beast Boost|boost
+|-boost|p1a: Papercut|spe|1
+|-damage|p1a: Papercut|77/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641743728
+|switch|p2a: Rillaboom|Rillaboom, F|74/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|13
+|
+|t:|1641743735
+|move|p1a: Papercut|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|27/100
+|-enditem|p2a: Rillaboom|Choice Band|[from] move: Knock Off|[of] p1a: Papercut
+|-damage|p1a: Papercut|67/100|[from] item: Life Orb
+|move|p2a: Rillaboom|Knock Off|p1a: Papercut
+|-damage|p1a: Papercut|41/100
+|-enditem|p1a: Papercut|Life Orb|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p1a: Papercut|48/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|33/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641743749
+|move|p1a: Papercut|Leaf Blade|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-ability|p1a: Papercut|Beast Boost|boost
+|-boost|p1a: Papercut|spe|1
+|
+|-heal|p1a: Papercut|54/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641743757
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|15
+|
+|t:|1641743764
+|move|p1a: Papercut|Leaf Blade|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|-ability|p1a: Papercut|Beast Boost|boost
+|-boost|p1a: Papercut|spe|1
+|
+|-heal|p1a: Papercut|60/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641743776
+|switch|p2a: Victini|Victini|100/100
+|turn|16
+|
+|t:|1641743779
+|move|p1a: Papercut|Knock Off|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|31/100
+|-enditem|p2a: Victini|Choice Scarf|[from] move: Knock Off|[of] p1a: Papercut
+|move|p2a: Victini|V-create|p1a: Papercut
+|-supereffective|p1a: Papercut
+|-damage|p1a: Papercut|0 fnt
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|faint|p1a: Papercut
+|
+|-heal|p2a: Victini|37/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641743786
+|switch|p1a: Subzero|Weavile, M|100/100
+|-ability|p1a: Subzero|Pressure
+|turn|17
+|
+|t:|1641743797
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Subzero|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p1a: Subzero
+|faint|p2a: Dragapult
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641743806
+|switch|p2a: Victini|Victini|37/100
+|turn|18
+|
+|t:|1641743817
+|switch|p1a: Pangea|Landorus-Therian, M|77/100
+|-ability|p1a: Pangea|Intimidate|boost
+|-unboost|p2a: Victini|atk|1
+|move|p2a: Victini|U-turn|p1a: Pangea
+|-resisted|p1a: Pangea
+|-damage|p1a: Pangea|71/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641743824
+|move|p2a: Victini|Zen Headbutt|p1a: Pangea
+|-damage|p1a: Pangea|53/100
+|move|p1a: Pangea|Earthquake|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|win|SoleSurvivorVGC
+|raw|SoleSurvivorVGC's rating: 1264 &rarr; <strong>1288</strong><br />(+24 for winning)
+|raw|Oreozou's rating: 1247 &rarr; <strong>1223</strong><br />(-24 for losing)
+|l|☆Oreozou

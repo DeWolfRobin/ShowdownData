@@ -1,0 +1,306 @@
+|j|☆Carryminati. Com
+|j|☆Anubhab19F
+|t:|1641871999
+|gametype|singles
+|player|p1|Carryminati. Com|red|
+|player|p2|Anubhab19F|1|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Regieleki|
+|poke|p1|Ninetales-Alola, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Incineroar, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Magnezone|
+|poke|p2|Rillaboom, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Anubhab19F)
+|
+|t:|1641872019
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Some ferocious|Incineroar, F, shiny|100/100
+|turn|1
+|inactive|Anubhab19F has 270 seconds left.
+|
+|t:|1641872050
+|switch|p2a: Mr. Grassy Gorilla|Rillaboom, F, shiny|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Mr. Grassy Gorilla|atk|1
+|
+|upkeep
+|turn|2
+|inactive|Anubhab19F has 270 seconds left.
+|
+|t:|1641872063
+|move|p1a: Landorus|Stealth Rock|p2a: Mr. Grassy Gorilla
+|-sidestart|p2: Anubhab19F|move: Stealth Rock
+|move|p2a: Mr. Grassy Gorilla|Grassy Glide|p1a: Landorus
+|-damage|p1a: Landorus|73/100
+|
+|-heal|p1a: Landorus|79/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|Anubhab19F has 270 seconds left.
+|
+|t:|1641872075
+|move|p1a: Landorus|Fly||[still]
+|-prepare|p1a: Landorus|Fly
+|move|p2a: Mr. Grassy Gorilla|Grassy Glide|p1a: Landorus|[miss]
+|-miss|p2a: Mr. Grassy Gorilla|p1a: Landorus
+|
+|-heal|p1a: Landorus|85/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641872080
+|switch|p2a: Mr. Magnet|Magnezone, shiny|100/100
+|-damage|p2a: Mr. Magnet|94/100|[from] Stealth Rock
+|move|p1a: Landorus|Fly|p2a: Mr. Magnet|[from]lockedmove|[miss]
+|-miss|p1a: Landorus|p2a: Mr. Magnet
+|
+|-heal|p1a: Landorus|91/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641872093
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Dragonite
+|-immune|p2a: Dragonite
+|
+|-heal|p1a: Landorus|97/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641872102
+|move|p1a: Landorus|Stone Edge|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-heal|p1a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641872105
+|switch|p2a: Mr. Grassy Gorilla|Rillaboom, F, shiny|100/100
+|-damage|p2a: Mr. Grassy Gorilla|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641872122
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Mr. Grassy Gorilla|High Horsepower|p1a: Volcarona
+|-damage|p1a: Volcarona|46/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641872142
+|move|p1a: Volcarona|Fiery Dance|p2a: Mr. Grassy Gorilla
+|-supereffective|p2a: Mr. Grassy Gorilla
+|-damage|p2a: Mr. Grassy Gorilla|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Mr. Grassy Gorilla
+|
+|upkeep
+|inactive|Anubhab19F has 270 seconds left.
+|
+|t:|1641872158
+|switch|p2a: Mr. Magnet|Magnezone, shiny|94/100
+|-damage|p2a: Mr. Magnet|88/100|[from] Stealth Rock
+|turn|9
+|inactive|Anubhab19F has 270 seconds left.
+|
+|t:|1641872171
+|switch|p2a: Some ferocious|Incineroar, F, shiny|100/100
+|-damage|p2a: Some ferocious|76/100|[from] Stealth Rock
+|move|p1a: Volcarona|Fiery Dance|p2a: Some ferocious
+|-resisted|p2a: Some ferocious
+|-damage|p2a: Some ferocious|44/100
+|
+|upkeep
+|turn|10
+|inactive|Anubhab19F has 270 seconds left.
+|
+|t:|1641872182
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Some ferocious|atk|1
+|move|p2a: Some ferocious|Drain Punch|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|91/100
+|-heal|p2a: Some ferocious|48/100|[from] drain|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|97/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Anubhab19F has 270 seconds left.
+|
+|t:|1641872193
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|40/100
+|
+|-heal|p2a: Garchomp|46/100|[from] item: Leftovers
+|-heal|p1a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641872202
+|move|p2a: Garchomp|Dragon Claw|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|29/100
+|move|p1a: Landorus|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-heal|p1a: Landorus|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641872211
+|switch|p2a: Neutral Guy|Tapu Fini, shiny|100/100
+|-damage|p2a: Neutral Guy|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Neutral Guy
+|turn|13
+|
+|t:|1641872224
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Neutral Guy|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|90/100
+|
+|-heal|p2a: Neutral Guy|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641872234
+|move|p2a: Neutral Guy|Ice Beam|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|74/100
+|move|p1a: Ferrothorn|Body Press|p2a: Neutral Guy
+|-resisted|p2a: Neutral Guy
+|-damage|p2a: Neutral Guy|82/100
+|
+|-heal|p2a: Neutral Guy|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641872241
+|move|p2a: Neutral Guy|Calm Mind|p2a: Neutral Guy
+|-boost|p2a: Neutral Guy|spa|1
+|-boost|p2a: Neutral Guy|spd|1
+|move|p1a: Ferrothorn|Power Whip|p2a: Neutral Guy
+|-supereffective|p2a: Neutral Guy
+|-damage|p2a: Neutral Guy|11/100
+|
+|-heal|p2a: Neutral Guy|17/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641872251
+|move|p2a: Neutral Guy|Ice Beam|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|53/100
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Neutral Guy
+|-damage|p2a: Neutral Guy|0 fnt
+|faint|p2a: Neutral Guy
+|
+|upkeep
+|
+|t:|1641872257
+|switch|p2a: Mr. Magnet|Magnezone, shiny|88/100
+|-damage|p2a: Mr. Magnet|82/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641872261
+|move|p2a: Mr. Magnet|Iron Defense|p2a: Mr. Magnet
+|-boost|p2a: Mr. Magnet|def|2
+|move|p1a: Ferrothorn|Body Press|p2a: Mr. Magnet
+|-supereffective|p2a: Mr. Magnet
+|-damage|p2a: Mr. Magnet|55/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|18
+|
+|t:|1641872268
+|move|p2a: Mr. Magnet|Iron Defense|p2a: Mr. Magnet
+|-boost|p2a: Mr. Magnet|def|2
+|move|p1a: Ferrothorn|Knock Off|p2a: Mr. Magnet
+|-damage|p2a: Mr. Magnet|45/100
+|-enditem|p2a: Mr. Magnet|Iapapa Berry|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|19
+|
+|t:|1641872276
+|move|p2a: Mr. Magnet|Iron Defense|p2a: Mr. Magnet
+|-boost|p2a: Mr. Magnet|def|2
+|move|p1a: Ferrothorn|Body Press|p2a: Mr. Magnet
+|-supereffective|p2a: Mr. Magnet
+|-damage|p2a: Mr. Magnet|30/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641872285
+|move|p2a: Mr. Magnet|Flash Cannon|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|41/100
+|move|p1a: Ferrothorn|Body Press|p2a: Mr. Magnet
+|-supereffective|p2a: Mr. Magnet
+|-damage|p2a: Mr. Magnet|15/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641872292
+|move|p2a: Mr. Magnet|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|28/100
+|move|p1a: Ferrothorn|Body Press|p2a: Mr. Magnet
+|-supereffective|p2a: Mr. Magnet
+|-damage|p2a: Mr. Magnet|0 fnt
+|faint|p2a: Mr. Magnet
+|
+|upkeep
+|
+|t:|1641872298
+|switch|p2a: Some ferocious|Incineroar, F, shiny|48/100
+|-damage|p2a: Some ferocious|24/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641872304
+|switch|p1a: Landorus|Landorus-Therian, M|35/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Some ferocious|atk|1
+|move|p2a: Some ferocious|Darkest Lariat|p1a: Landorus
+|-damage|p1a: Landorus|1/100
+|
+|-heal|p1a: Landorus|7/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641872318
+|move|p1a: Landorus|Earthquake|p2a: Some ferocious
+|-supereffective|p2a: Some ferocious
+|-crit|p2a: Some ferocious
+|-damage|p2a: Some ferocious|0 fnt
+|faint|p2a: Some ferocious
+|
+|win|Carryminati. Com

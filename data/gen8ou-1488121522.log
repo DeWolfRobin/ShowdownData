@@ -1,0 +1,353 @@
+|j|☆fdfdddddddd
+|j|☆zasduxi
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641716013
+|gametype|singles
+|player|p1|fdfdddddddd|170|
+|player|p2|zasduxi|ghetsis-gen5bw|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Aegislash, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Sigilyph, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Garchomp, M|
+|poke|p2|Hawlucha, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|j| Godstalled
+|c|☆zasduxi|finals?
+|
+|t:|1641716024
+|start
+|switch|p1a: Sigilyph|Sigilyph, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Sigilyph|atk|1
+|turn|1
+|c|☆fdfdddddddd|YUP
+|
+|t:|1641716029
+|move|p1a: Sigilyph|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-enditem|p2a: Landorus|Focus Sash
+|-damage|p2a: Landorus|1/100
+|move|p2a: Landorus|Rock Tomb|p1a: Sigilyph
+|-supereffective|p1a: Sigilyph
+|-damage|p1a: Sigilyph|33/100
+|-unboost|p1a: Sigilyph|spe|1
+|
+|upkeep
+|turn|2
+|c|☆zasduxi|sick
+|j| Serp IV
+|
+|t:|1641716057
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|move|p2a: Landorus|Rock Tomb|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|92/100
+|-unboost|p1a: Aegislash|spe|1
+|
+|-heal|p1a: Aegislash|98/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641716060
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Sneak|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-heal|p1a: Aegislash|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716064
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|4
+|j| cteaming!
+|
+|t:|1641716071
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcarona|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641716077
+|move|p2a: Volcarona|Flamethrower|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|86/100
+|move|p1a: Tyranitar|Rock Blast|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|25/100
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|-hitcount|p2: Volcarona|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|92/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716087
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|turn|6
+|
+|t:|1641716095
+|switch|p1a: Sigilyph|Sigilyph, M|33/100
+|move|p2a: Hawlucha|Close Combat|p1a: Sigilyph
+|-resisted|p1a: Sigilyph
+|-damage|p1a: Sigilyph|14/100
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641716105
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Sigilyph|Psyshock|p2a: Dragapult
+|-damage|p2a: Dragapult|36/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|30/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641716114
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641716120
+|switch|p1a: Tyranitar|Tyranitar, M|92/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Dragapult|Phantom Force|p1a: Tyranitar|[from]lockedmove
+|-resisted|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|57/100
+|-damage|p2a: Dragapult|21/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|15/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|63/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641716127
+|move|p2a: Dragapult|Dragon Darts|p1a: Tyranitar
+|-damage|p1a: Tyranitar|35/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Tyranitar
+|-damage|p1a: Tyranitar|9/100
+|-damage|p2a: Dragapult|5/100|[from] item: Life Orb
+|move|p1a: Tyranitar|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: zasduxi|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|0 fnt|[from] Sandstorm
+|faint|p2a: Dragapult
+|-heal|p1a: Tyranitar|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716134
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641716141
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|move|p1a: Tyranitar|Toxic|p2a: Garchomp
+|-status|p2a: Garchomp|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Garchomp|100/100 tox|[from] item: Leftovers
+|-heal|p1a: Tyranitar|21/100|[from] item: Leftovers
+|-damage|p2a: Garchomp|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641716147
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|move|p2a: Garchomp|Scale Shot|p1a: Aegislash|[miss]
+|-miss|p2a: Garchomp|p1a: Aegislash
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Garchomp|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|88/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641716153
+|switch|p1a: Sigilyph|Sigilyph, M|14/100
+|move|p2a: Garchomp|Earthquake|p1a: Sigilyph
+|-immune|p1a: Sigilyph
+|
+|-weather|none
+|-heal|p2a: Garchomp|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|76/100 tox|[from] psn
+|upkeep
+|turn|14
+|c|☆zasduxi|bruh
+|c|☆zasduxi|nice
+|
+|t:|1641716158
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Garchomp|Scale Shot|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|93/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|86/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|78/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|71/100
+|-hitcount|p1a: Ferrothorn|4
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-heal|p2a: Garchomp|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|57/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641716165
+|switch|p1a: Sigilyph|Sigilyph, M|14/100
+|move|p2a: Garchomp|Fire Fang|p1a: Sigilyph
+|-damage|p1a: Sigilyph|0 fnt
+|faint|p1a: Sigilyph
+|
+|-heal|p2a: Garchomp|64/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|33/100 tox|[from] psn
+|upkeep
+|
+|t:|1641716170
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|turn|16
+|
+|t:|1641716175
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Garchomp|Fire Fang|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|-unboost|p2a: Garchomp|atk|1
+|
+|-heal|p2a: Garchomp|39/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|2/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641716181
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Sneak|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Aegislash|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-heal|p1a: Aegislash|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716183
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-damage|p2a: Tapu Koko|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|18
+|
+|t:|1641716188
+|switch|p1a: Ferrothorn|Ferrothorn, M|71/100
+|move|p2a: Tapu Koko|Reflect|p2a: Tapu Koko
+|-sidestart|p2: zasduxi|Reflect
+|
+|upkeep
+|turn|19
+|
+|t:|1641716197
+|move|p2a: Tapu Koko|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|move|p1a: Ferrothorn|Knock Off|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|83/100
+|-enditem|p2a: Tapu Koko|Light Clay|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|20
+|
+|t:|1641716202
+|switch|p1a: Tyranitar|Tyranitar, M|21/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Tapu Koko|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|t:|1641716206
+|switch|p2a: Hawlucha|Hawlucha, F|94/100|[from]move: U-turn
+|-damage|p2a: Hawlucha|82/100|[from] Stealth Rock
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|76/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641716209
+|switch|p1a: Aegislash|Aegislash, F|94/100
+|turn|21
+|c|☆zasduxi|welp
+|c|☆zasduxi|you deserve this
+|
+|t:|1641716216
+|move|p2a: Hawlucha|Taunt|p1a: Aegislash
+|-start|p1a: Aegislash|move: Taunt
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Ball|p2a: Hawlucha
+|-damage|p2a: Hawlucha|6/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hawlucha|0 fnt|[from] Sandstorm
+|faint|p2a: Hawlucha
+|-heal|p1a: Aegislash|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716218
+|switch|p2a: Tapu Koko|Tapu Koko|83/100
+|-damage|p2a: Tapu Koko|70/100|[from] Stealth Rock
+|turn|22
+|c|☆fdfdddddddd|THX
+|l| cteaming!
+|-message|zasduxi forfeited.
+|
+|win|fdfdddddddd
+|n|☆fdfdddddddd|fdfdddddddd
+|n|☆zasduxi|zasduxi
+|n| Godstalled|godstalled
+|n| Serp IV|serpiv

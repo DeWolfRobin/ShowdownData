@@ -1,0 +1,337 @@
+|j|☆DoodlesHungry
+|j|☆yohanlibbertto
+|t:|1641702980
+|gametype|singles
+|player|p1|DoodlesHungry|scientist-gen3|1291
+|player|p2|yohanlibbertto|170|1242
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Togekiss, F|
+|poke|p1|Kartana|
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Zeraora|
+|poke|p2|Shuckle, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Heatran, M|
+|poke|p2|Quagsire, M|
+|poke|p2|Weavile, M|
+|poke|p2|Talonflame, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DoodlesHungry)
+|
+|t:|1641702995
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Shuckle|Shuckle, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-boost|p2a: Shuckle|atk|1
+|turn|1
+|c|☆DoodlesHungry|huh
+|
+|t:|1641703012
+|move|p1a: Landorus|Toxic|p2a: Shuckle
+|-status|p2a: Shuckle|tox
+|move|p2a: Shuckle|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-damage|p1a: Landorus|95/100 tox|[from] psn
+|-damage|p2a: Shuckle|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641703017
+|move|p1a: Landorus|Earthquake|p2a: Shuckle
+|-damage|p2a: Shuckle|61/100 tox
+|move|p2a: Shuckle|Sticky Web|p1a: Landorus
+|-sidestart|p1: DoodlesHungry|move: Sticky Web
+|
+|-heal|p1a: Landorus|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|89/100 tox|[from] psn
+|-damage|p2a: Shuckle|48/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641703020
+|move|p1a: Landorus|U-turn|p2a: Shuckle
+|-damage|p2a: Shuckle|34/100 tox
+|-damage|p1a: Landorus|72/100 tox|[from] item: Rocky Helmet|[of] p2a: Shuckle
+|
+|t:|1641703022
+|switch|p1a: Togekiss|Togekiss, F|100/100|[from]move: U-turn
+|move|p2a: Shuckle|Stealth Rock|p1a: Togekiss
+|-sidestart|p1: DoodlesHungry|move: Stealth Rock
+|
+|-damage|p2a: Shuckle|16/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641703030
+|move|p1a: Togekiss|Defog|p2a: Shuckle
+|-boost|p2a: Shuckle|evasion|1
+|-sideend|p1: DoodlesHungry|Stealth Rock|[from] move: Defog|[of] p1a: Togekiss
+|-sideend|p1: DoodlesHungry|Sticky Web|[from] move: Defog|[of] p1a: Togekiss
+|move|p2a: Shuckle|Toxic|p1a: Togekiss
+|-status|p1a: Togekiss|tox
+|
+|-damage|p1a: Togekiss|95/100 tox|[from] psn
+|-damage|p2a: Shuckle|0 fnt|[from] psn
+|faint|p2a: Shuckle
+|upkeep
+|
+|t:|1641703050
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|5
+|
+|t:|1641703054
+|move|p1a: Togekiss|Thunder Wave|p2a: Ferrothorn
+|-status|p2a: Ferrothorn|par
+|move|p2a: Ferrothorn|Leech Seed|p1a: Togekiss
+|-start|p1a: Togekiss|move: Leech Seed
+|
+|-heal|p1a: Togekiss|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Togekiss|88/100 tox|[from] Leech Seed|[of] p2a: Ferrothorn
+|-damage|p1a: Togekiss|76/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641703072
+|switch|p1a: Landorus|Landorus-Therian, M|72/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ferrothorn|atk|1
+|switch|p2a: Quagsire|Quagsire, M|100/100
+|
+|-heal|p1a: Landorus|78/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|72/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641703081
+|move|p1a: Landorus|Stealth Rock|p2a: Quagsire
+|-sidestart|p2: yohanlibbertto|move: Stealth Rock
+|move|p2a: Quagsire|Liquidation|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|4/100 tox
+|
+|-heal|p1a: Landorus|10/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|0 fnt|[from] psn
+|faint|p1a: Landorus
+|upkeep
+|
+|t:|1641703084
+|switch|p1a: Kartana|Kartana|100/100
+|turn|8
+|
+|t:|1641703090
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100 par
+|-damage|p2a: Ferrothorn|95/100 par|[from] Stealth Rock
+|move|p1a: Kartana|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|68/100 par
+|-damage|p1a: Kartana|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Kartana|72/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p1a: Kartana
+|
+|-heal|p1a: Kartana|78/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641703095
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Volcarona
+|-damage|p1a: Volcarona|66/100
+|-enditem|p1a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|10
+|
+|t:|1641703104
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|-item|p2a: Heatran|Air Balloon
+|
+|upkeep
+|turn|11
+|
+|t:|1641703111
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|79/100
+|-enditem|p2a: Heatran|Air Balloon
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|69/100
+|-hitcount|p2a: Heatran|2
+|move|p2a: Heatran|Flamethrower|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|89/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641703116
+|switch|p2a: Ferrothorn|Ferrothorn, M|68/100 par
+|-damage|p2a: Ferrothorn|62/100 par|[from] Stealth Rock
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|13
+|
+|t:|1641703127
+|move|p1a: Dragonite|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|30/100 par
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Dragonite
+|-status|p1a: Dragonite|par
+|
+|upkeep
+|turn|14
+|
+|t:|1641703136
+|move|p1a: Dragonite|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|1/100 par
+|move|p2a: Ferrothorn|Leech Seed|p1a: Dragonite
+|-start|p1a: Dragonite|move: Leech Seed
+|
+|-damage|p1a: Dragonite|76/100 par|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|12/100 par|[silent]
+|upkeep
+|turn|15
+|c|☆DoodlesHungry|:/
+|
+|t:|1641703149
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Dragonite|64/100 par|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|-hitcount|p2: Ferrothorn|1
+|
+|upkeep
+|
+|t:|1641703155
+|switch|p2a: Talonflame|Talonflame, F|100/100
+|-damage|p2a: Talonflame|51/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641703158
+|move|p2a: Talonflame|Roost|p2a: Talonflame
+|-heal|p2a: Talonflame|100/100
+|-singleturn|p2a: Talonflame|move: Roost
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Talonflame|[miss]
+|-miss|p1a: Dragonite|p2a: Talonflame
+|
+|-damage|p1a: Dragonite|52/100 par|[from] Leech Seed|[of] p2a: Talonflame
+|upkeep
+|turn|17
+|c|☆DoodlesHungry|ooooof
+|c|☆DoodlesHungry|OOOOOf
+|
+|t:|1641703168
+|move|p2a: Talonflame|Swords Dance|p2a: Talonflame
+|-boost|p2a: Talonflame|atk|2
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Talonflame|[miss]
+|-miss|p1a: Dragonite|p2a: Talonflame
+|
+|-damage|p1a: Dragonite|39/100 par|[from] Leech Seed|[of] p2a: Talonflame
+|upkeep
+|turn|18
+|
+|t:|1641703172
+|move|p2a: Talonflame|Swords Dance|p2a: Talonflame
+|-boost|p2a: Talonflame|atk|2
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Talonflame
+|-damage|p2a: Talonflame|49/100
+|-damage|p1a: Dragonite|23/100 par|[from] item: Rocky Helmet|[of] p2a: Talonflame
+|-crit|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|-damage|p1a: Dragonite|6/100 par|[from] item: Rocky Helmet|[of] p2a: Talonflame
+|faint|p2a: Talonflame
+|-hitcount|p2: Talonflame|2
+|
+|upkeep
+|c|☆DoodlesHungry|Wait what
+|
+|t:|1641703186
+|switch|p2a: Weavile|Weavile, M|100/100
+|-damage|p2a: Weavile|76/100|[from] Stealth Rock
+|-ability|p2a: Weavile|Pressure
+|turn|19
+|
+|t:|1641703189
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|cant|p1a: Dragonite|par
+|
+|-damage|p1a: Dragonite|0 fnt|[from] Leech Seed|[of] p2a: Weavile
+|-heal|p2a: Weavile|82/100|[silent]
+|faint|p1a: Dragonite
+|upkeep
+|
+|t:|1641703194
+|switch|p1a: Zeraora|Zeraora|100/100
+|turn|20
+|
+|t:|1641703198
+|move|p1a: Zeraora|Close Combat|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641703201
+|switch|p2a: Quagsire|Quagsire, M|100/100
+|-damage|p2a: Quagsire|94/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641703212
+|switch|p1a: Kartana|Kartana|78/100
+|move|p2a: Quagsire|Earthquake|p1a: Kartana
+|-damage|p1a: Kartana|33/100
+|
+|-heal|p1a: Kartana|39/100|[from] item: Leftovers
+|-heal|p2a: Quagsire|100/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641703220
+|move|p1a: Kartana|Leaf Blade|p2a: Quagsire
+|-supereffective|p2a: Quagsire
+|-crit|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|-heal|p1a: Kartana|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641703222
+|switch|p2a: Heatran|Heatran, M|69/100
+|-damage|p2a: Heatran|56/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641703224
+|move|p1a: Kartana|Sacred Sword|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|win|DoodlesHungry
+|raw|DoodlesHungry's rating: 1291 &rarr; <strong>1312</strong><br />(+21 for winning)
+|raw|yohanlibbertto's rating: 1242 &rarr; <strong>1221</strong><br />(-21 for losing)
+|l|☆yohanlibbertto

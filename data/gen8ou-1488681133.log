@@ -1,0 +1,289 @@
+|j|☆james06
+|j|☆MrMisai
+|t:|1641801880
+|gametype|singles
+|player|p1|james06|2|1078
+|player|p2|MrMisai|dragontamer|1005
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gyarados, F|
+|poke|p1|Weavile, F|
+|poke|p1|Zeraora|
+|poke|p1|Chansey, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Volcarona, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Mew|
+|poke|p2|Klefki, M|
+|poke|p2|Gengar, F|
+|poke|p2|Ninjask, M|
+|poke|p2|Lucario, F|
+|teampreview
+|c|☆MrMisai|Finally. A normal player
+|
+|t:|1641801907
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Klefki|Klefki, M|100/100
+|turn|1
+|
+|t:|1641801914
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: MrMisai|move: Light Screen
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Klefki
+|-sidestart|p2: MrMisai|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641801922
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: MrMisai|Reflect
+|move|p1a: Ferrothorn|Leech Seed|p2a: Klefki
+|-start|p2a: Klefki|move: Leech Seed
+|
+|-damage|p2a: Klefki|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|3
+|
+|t:|1641801932
+|move|p2a: Klefki|Spikes|p1a: Ferrothorn
+|-sidestart|p1: james06|Spikes
+|move|p1a: Ferrothorn|Leech Seed|p2a: Klefki|[miss]
+|-miss|p1a: Ferrothorn|p2a: Klefki
+|
+|-damage|p2a: Klefki|76/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|4
+|
+|t:|1641801946
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Klefki|Spikes|p1a: Volcarona
+|-sidestart|p1: james06|Spikes
+|
+|-damage|p2a: Klefki|63/100|[from] Leech Seed|[of] p1a: Volcarona
+|upkeep
+|turn|5
+|
+|t:|1641801956
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Klefki|Foul Play|p1a: Volcarona
+|-damage|p1a: Volcarona|84/100
+|
+|-damage|p2a: Klefki|51/100|[from] Leech Seed|[of] p1a: Volcarona
+|-heal|p1a: Volcarona|95/100|[silent]
+|-sideend|p2: MrMisai|move: Light Screen
+|upkeep
+|turn|6
+|
+|t:|1641801966
+|move|p2a: Klefki|Spikes|p1a: Volcarona
+|-sidestart|p1: james06|Spikes
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-damage|p2a: Klefki|38/100|[from] Leech Seed|[of] p1a: Volcarona
+|-heal|p1a: Volcarona|100/100|[silent]
+|-sideend|p2: MrMisai|Reflect
+|upkeep
+|turn|7
+|
+|t:|1641801977
+|move|p2a: Klefki|Light Screen|p2a: Klefki
+|-sidestart|p2: MrMisai|move: Light Screen
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-damage|p2a: Klefki|26/100|[from] Leech Seed|[of] p1a: Volcarona
+|upkeep
+|turn|8
+|
+|t:|1641801992
+|move|p2a: Klefki|Reflect|p2a: Klefki
+|-sidestart|p2: MrMisai|Reflect
+|move|p1a: Volcarona|Flamethrower|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-crit|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|
+|upkeep
+|
+|t:|1641802004
+|switch|p2a: Dragonite|Dragonite, F, shiny|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641802019
+|move|p1a: Volcarona|Bug Buzz|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|46/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-heal|p2a: Dragonite|52/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641802028
+|move|p1a: Volcarona|Bug Buzz|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|24/100
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|74/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|-heal|p2a: Dragonite|80/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641802037
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|76/100|[from] Spikes
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-heal|p2a: Dragonite|86/100|[from] item: Leftovers
+|-sideend|p2: MrMisai|move: Light Screen
+|upkeep
+|turn|12
+|
+|t:|1641802047
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Ferrothorn|Leech Seed|p2a: Dragonite
+|-start|p2a: Dragonite|move: Leech Seed
+|
+|-heal|p2a: Dragonite|93/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|80/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|87/100|[silent]
+|-sideend|p2: MrMisai|Reflect
+|upkeep
+|turn|13
+|
+|t:|1641802056
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Dragonite
+|-damage|p2a: Dragonite|30/100
+|
+|-heal|p2a: Dragonite|36/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|24/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|99/100|[silent]
+|upkeep
+|turn|14
+|
+|t:|1641802069
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|74/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Dragonite
+|-damage|p2a: Dragonite|21/100
+|
+|-heal|p2a: Dragonite|27/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|15/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641802080
+|move|p2a: Dragonite|Fire Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Dragonite|3/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Dragonite|0 fnt|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641802098
+|switch|p2a: Gengar|Gengar, F|100/100
+|switch|p1a: Zeraora|Zeraora|100/100
+|-damage|p1a: Zeraora|76/100|[from] Spikes
+|-damage|p2a: Gengar|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641802106
+|move|p1a: Zeraora|Knock Off|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|-enditem|p2a: Gengar|Focus Sash|[from] move: Knock Off|[of] p1a: Zeraora
+|faint|p2a: Gengar
+|-damage|p1a: Zeraora|66/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641802116
+|switch|p2a: Mew|Mew, shiny|100/100
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641802125
+|move|p1a: Zeraora|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|22/100
+|-enditem|p2a: Mew|Leftovers|[from] move: Knock Off|[of] p1a: Zeraora
+|-damage|p1a: Zeraora|56/100|[from] item: Life Orb
+|move|p2a: Mew|Psychic|p1a: Zeraora
+|-damage|p1a: Zeraora|8/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641802135
+|switch|p2a: Lucario|Lucario, F|100/100
+|-damage|p2a: Lucario|98/100|[from] Stealth Rock
+|move|p1a: Zeraora|Knock Off|p2a: Lucario
+|-resisted|p2a: Lucario
+|-damage|p2a: Lucario|76/100
+|-enditem|p2a: Lucario|Chesto Berry|[from] move: Knock Off|[of] p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt|[from] item: Life Orb
+|faint|p1a: Zeraora
+|
+|upkeep
+|
+|t:|1641802156
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|turn|19
+|
+|t:|1641802163
+|move|p1a: Volcarona|Flamethrower|p2a: Lucario
+|-supereffective|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|faint|p2a: Lucario
+|
+|upkeep
+|
+|t:|1641802169
+|switch|p2a: Mew|Mew, shiny|22/100
+|-damage|p2a: Mew|10/100|[from] Stealth Rock
+|turn|20
+|-message|MrMisai forfeited.
+|
+|win|james06
+|raw|james06's rating: 1078 &rarr; <strong>1100</strong><br />(+22 for winning)
+|raw|MrMisai's rating: 1005 &rarr; <strong>1000</strong><br />(-5 for losing)
+|l|☆MrMisai

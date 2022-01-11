@@ -1,0 +1,545 @@
+|j|☆PokemonDemonHund
+|j|☆OversizedBucket
+|t:|1641856543
+|gametype|singles
+|player|p1|PokemonDemonHund|hooligans|1284
+|player|p2|OversizedBucket|101|1288
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scizor, F|
+|poke|p1|Zapdos|
+|poke|p1|Politoed, M|
+|poke|p1|Shedinja|
+|poke|p1|Blissey, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Mamoswine, M|
+|poke|p2|Gyarados, F|
+|poke|p2|Gengar, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PokemonDemonHund)
+|
+|t:|1641856563
+|start
+|switch|p1a: Politoed|Politoed, M|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1641856567
+|move|p1a: Politoed|Scald|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|78/100
+|move|p2a: Tyranitar|Stealth Rock|p1a: Politoed
+|-sidestart|p1: PokemonDemonHund|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Politoed|94/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|84/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641856571
+|move|p1a: Politoed|Scald|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-crit|p2a: Tyranitar
+|-damage|p2a: Tyranitar|51/100
+|-status|p2a: Tyranitar|brn
+|move|p2a: Tyranitar|Thunder Wave|p1a: Politoed
+|-status|p1a: Politoed|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Politoed|88/100 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|57/100 brn|[from] item: Leftovers
+|-damage|p2a: Tyranitar|51/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641856600
+|switch|p2a: Gyarados|Gyarados, F|100/100
+|switch|p1a: Scizor|Scizor, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gyarados|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641856612
+|move|p2a: Gyarados|Waterfall|p1a: Scizor
+|-damage|p1a: Scizor|69/100
+|move|p1a: Scizor|U-turn|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-damage|p2a: Gyarados|75/100
+|
+|t:|1641856617
+|switch|p1a: Politoed|Politoed, M|88/100 par|[from]move: U-turn
+|-damage|p1a: Politoed|76/100 par|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641856622
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Politoed|Scald|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-damage|p2a: Gyarados|55/100
+|-status|p2a: Gyarados|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Gyarados|49/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641856627
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Gyarados|Waterfall|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|17/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Gyarados|43/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641856634
+|move|p2a: Gyarados|Ice Fang|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-ability|p2a: Gyarados|Moxie|boost
+|-boost|p2a: Gyarados|atk|1
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Gyarados|37/100 brn|[from] brn
+|upkeep
+|
+|t:|1641856650
+|switch|p1a: Shedinja|Shedinja|100/100
+|turn|8
+|
+|t:|1641856656
+|switch|p2a: Gengar|Gengar, F|100/100
+|move|p1a: Shedinja|Poltergeist|p2a: Gengar
+|-activate|p2a: Gengar|move: Poltergeist|Focus Sash
+|-supereffective|p2a: Gengar
+|-enditem|p2a: Gengar|Focus Sash
+|-damage|p2a: Gengar|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641856666
+|move|p1a: Shedinja|Shadow Sneak|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|-start|p1a: Shedinja|Disable|Shadow Sneak|[from] ability: Cursed Body|[of] p2a: Gengar
+|faint|p2a: Gengar
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆PokemonDemonHund|bro
+|
+|t:|1641856678
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|10
+|c|☆OversizedBucket|noice
+|
+|t:|1641856685
+|switch|p1a: Scizor|Scizor, F|69/100
+|move|p2a: Corviknight|Brave Bird|p1a: Scizor
+|-damage|p1a: Scizor|45/100
+|-damage|p2a: Corviknight|93/100|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641856691
+|move|p2a: Corviknight|Body Press|p1a: Scizor
+|-damage|p1a: Scizor|28/100
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|78/100
+|-singleturn|p1a: Scizor|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|12
+|c|☆PokemonDemonHund|here is my corvi counter: praying
+|
+|t:|1641856707
+|switch|p2a: Mamoswine|Mamoswine, M|100/100
+|move|p1a: Scizor|Defog|p2a: Mamoswine
+|-unboost|p2a: Mamoswine|evasion|1
+|-sideend|p1: PokemonDemonHund|Stealth Rock|[from] move: Defog|[of] p1a: Scizor
+|
+|upkeep
+|turn|13
+|
+|t:|1641856717
+|move|p2a: Mamoswine|Knock Off|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|29/100
+|-enditem|p1a: Scizor|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Mamoswine
+|-damage|p2a: Mamoswine|91/100|[from] item: Life Orb
+|move|p1a: Scizor|U-turn|p2a: Mamoswine
+|-damage|p2a: Mamoswine|56/100
+|c|☆OversizedBucket|never knew scizor had defog
+|
+|t:|1641856735
+|switch|p1a: Shedinja|Shedinja|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1641856739
+|move|p2a: Mamoswine|Knock Off|p1a: Shedinja
+|-supereffective|p1a: Shedinja
+|-damage|p1a: Shedinja|0 fnt
+|-enditem|p1a: Shedinja|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Mamoswine
+|faint|p1a: Shedinja
+|-damage|p2a: Mamoswine|46/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641856743
+|switch|p1a: Politoed|Politoed, M|76/100 par
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|15
+|
+|t:|1641856750
+|switch|p2a: Tyranitar|Tyranitar, F|51/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Politoed|Scald|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|31/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Politoed|70/100 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|37/100 brn|[from] item: Leftovers
+|-damage|p2a: Tyranitar|31/100 brn|[from] brn
+|upkeep
+|turn|16
+|c|☆PokemonDemonHund|everyone and their mother learns defog i swear
+|
+|t:|1641856766
+|move|p2a: Tyranitar|Earthquake|p1a: Politoed
+|-damage|p1a: Politoed|60/100 par
+|move|p1a: Politoed|Scald|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|11/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Politoed|54/100 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|17/100 brn|[from] item: Leftovers
+|-damage|p2a: Tyranitar|11/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641856776
+|switch|p2a: Gyarados|Gyarados, F|37/100 brn
+|move|p1a: Politoed|Rest|p1a: Politoed
+|-status|p1a: Politoed|slp|[from] move: Rest
+|-heal|p1a: Politoed|100/100 slp|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gyarados|31/100 brn|[from] Sandstorm
+|-damage|p1a: Politoed|94/100 slp|[from] Sandstorm
+|-damage|p2a: Gyarados|25/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641856782
+|switch|p1a: Scizor|Scizor, F|29/100
+|move|p2a: Gyarados|Power Whip|p1a: Scizor|[miss]
+|-miss|p2a: Gyarados|p1a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gyarados|19/100 brn|[from] Sandstorm
+|-damage|p2a: Gyarados|13/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641856788
+|move|p1a: Scizor|Bullet Punch|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|-weather|none
+|upkeep
+|
+|t:|1641856797
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|turn|20
+|
+|t:|1641856801
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|79/100
+|-singleturn|p1a: Scizor|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1641856804
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|move|p1a: Scizor|U-turn|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|80/100
+|
+|t:|1641856807
+|switch|p1a: Politoed|Politoed, M|94/100 slp|[from]move: U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Excadrill|86/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641856815
+|move|p2a: Excadrill|Earthquake|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|faint|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Excadrill|92/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641856820
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|23
+|
+|t:|1641856823
+|move|p1a: Tornadus|Focus Blast|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-crit|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆PokemonDemonHund|im praying oon this
+|c|☆PokemonDemonHund|yes
+|
+|t:|1641856828
+|switch|p2a: Mamoswine|Mamoswine, M|46/100
+|turn|24
+|c|☆OversizedBucket|oof
+|
+|t:|1641856836
+|move|p2a: Mamoswine|Ice Shard|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|44/100
+|-damage|p2a: Mamoswine|36/100|[from] item: Life Orb
+|move|p1a: Tornadus|Hurricane|p2a: Mamoswine
+|-crit|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|faint|p2a: Mamoswine
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641856841
+|switch|p2a: Tyranitar|Tyranitar, F|11/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|25
+|
+|t:|1641856850
+|switch|p2a: Corviknight|Corviknight, M|93/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tornadus|Hurricane|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|74/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|38/100|[from] Sandstorm
+|upkeep
+|turn|26
+|
+|t:|1641856858
+|move|p1a: Tornadus|Focus Blast|p2a: Corviknight
+|-damage|p2a: Corviknight|49/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|99/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|32/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1641856865
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Corviknight|Brave Bird|p1a: Blissey
+|-damage|p1a: Blissey|69/100
+|-damage|p2a: Corviknight|80/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|63/100|[from] Sandstorm
+|upkeep
+|turn|28
+|
+|t:|1641856869
+|move|p2a: Corviknight|Body Press|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|22/100
+|move|p1a: Blissey|Seismic Toss|p2a: Corviknight
+|-damage|p2a: Corviknight|55/100
+|-damage|p1a: Blissey|5/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|0 fnt|[from] Sandstorm
+|faint|p1a: Blissey
+|upkeep
+|
+|t:|1641856874
+|switch|p1a: Scizor|Scizor, F|79/100
+|turn|29
+|c|☆OversizedBucket|oh boy
+|c|☆PokemonDemonHund|this endgame
+|c|☆OversizedBucket|this would be the final
+|
+|t:|1641856898
+|move|p1a: Scizor|Bullet Punch|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|47/100
+|-damage|p1a: Scizor|63/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|Body Press|p1a: Scizor
+|-damage|p1a: Scizor|45/100
+|
+|-weather|none
+|upkeep
+|turn|30
+|c|☆PokemonDemonHund|We can only draw after 50 tunrs or so unfortunately
+|
+|t:|1641856914
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|97/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|95/100
+|-singleturn|p1a: Scizor|move: Roost
+|
+|upkeep
+|turn|31
+|
+|t:|1641856926
+|move|p1a: Scizor|Bullet Punch|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|90/100
+|-damage|p1a: Scizor|78/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|move|p2a: Corviknight|Brave Bird|p1a: Scizor
+|-damage|p1a: Scizor|54/100
+|-damage|p2a: Corviknight|83/100|[from] Recoil
+|
+|upkeep
+|turn|32
+|
+|t:|1641856935
+|move|p2a: Corviknight|Body Press|p1a: Scizor
+|-damage|p1a: Scizor|35/100
+|move|p1a: Scizor|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|78/100
+|-damage|p1a: Scizor|19/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641856938
+|switch|p1a: Tornadus|Tornadus-Therian, M|65/100|[from]move: U-turn
+|
+|upkeep
+|turn|33
+|
+|t:|1641856946
+|move|p1a: Tornadus|Nasty Plot|p1a: Tornadus
+|-boost|p1a: Tornadus|spa|2
+|move|p2a: Corviknight|Brave Bird|p1a: Tornadus
+|-damage|p1a: Tornadus|22/100
+|-damage|p2a: Corviknight|65/100|[from] Recoil
+|
+|upkeep
+|turn|34
+|
+|t:|1641856952
+|switch|p2a: Tyranitar|Tyranitar, F|11/100 brn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Tornadus|Focus Blast|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|16/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641856956
+|switch|p2a: Corviknight|Corviknight, M|65/100
+|-ability|p2a: Corviknight|Pressure
+|turn|35
+|c|☆PokemonDemonHund|okay
+|c|☆PokemonDemonHund|now this is important
+|c|☆PokemonDemonHund|god if you ever loved me
+|c|☆PokemonDemonHund|this focus blast hits
+|
+|t:|1641856969
+|move|p1a: Tornadus|Focus Blast|p2a: Corviknight|[miss]
+|-miss|p1a: Tornadus|p2a: Corviknight
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|10/100|[from] Sandstorm
+|upkeep
+|turn|36
+|n|!PokemonDemonHund|pokemondemonhund
+|
+|t:|1641856979
+|move|p1a: Tornadus|Focus Blast|p2a: Corviknight
+|-damage|p2a: Corviknight|52/100
+|-unboost|p2a: Corviknight|spd|1
+|move|p2a: Corviknight|Brave Bird|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|-damage|p2a: Corviknight|49/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641856986
+|switch|p1a: Scizor|Scizor, F|19/100
+|turn|37
+|
+|t:|1641856991
+|move|p2a: Corviknight|Brave Bird|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|-damage|p2a: Corviknight|44/100|[from] Recoil
+|
+|win|OversizedBucket
+|raw|PokemonDemonHund's rating: 1284 &rarr; <strong>1259</strong><br />(-25 for losing)
+|raw|OversizedBucket's rating: 1288 &rarr; <strong>1313</strong><br />(+25 for winning)
+|l|!PokemonDemonHund
+|c|☆OversizedBucket|phew
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

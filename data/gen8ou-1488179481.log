@@ -1,0 +1,288 @@
+|j|☆GindarasonPillows
+|j|☆Zorostrat
+|t:|1641728673
+|gametype|singles
+|player|p1|GindarasonPillows|265|1538
+|player|p2|Zorostrat|plasmagrunt|1479
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Buzzwole|
+|poke|p1|Tapu Lele|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Zeraora|
+|poke|p1|Gastrodon-East, F|
+|poke|p1|Heatran, M|
+|poke|p2|Zeraora|
+|poke|p2|Blastoise, M|
+|poke|p2|Heatran, F|
+|poke|p2|Terrakion|
+|poke|p2|Dragapult, M|
+|poke|p2|Ferrothorn, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zorostrat)
+|
+|t:|1641728687
+|start
+|switch|p1a: Zeraora|Zeraora|100/100
+|switch|p2a: Pierre-Matthéo|Dragapult, M|100/100
+|turn|1
+|
+|t:|1641728693
+|switch|p2a: Bertrand|Ferrothorn, M|100/100
+|move|p1a: Zeraora|Knock Off|p2a: Bertrand
+|-damage|p2a: Bertrand|76/100
+|-damage|p1a: Zeraora|88/100|[from] ability: Iron Barbs|[of] p2a: Bertrand
+|-damage|p1a: Zeraora|72/100|[from] item: Rocky Helmet|[of] p2a: Bertrand
+|-enditem|p2a: Bertrand|Rocky Helmet|[from] move: Knock Off|[of] p1a: Zeraora
+|
+|upkeep
+|turn|2
+|
+|t:|1641728705
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Bertrand|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|84/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Bertrand
+|
+|upkeep
+|turn|3
+|
+|t:|1641728712
+|move|p1a: Heatran|Stealth Rock|p2a: Bertrand
+|-sidestart|p2: Zorostrat|move: Stealth Rock
+|move|p2a: Bertrand|Leech Seed|p1a: Heatran
+|-start|p1a: Heatran|move: Leech Seed
+|
+|-damage|p1a: Heatran|71/100|[from] Leech Seed|[of] p2a: Bertrand
+|-heal|p2a: Bertrand|89/100|[silent]
+|upkeep
+|turn|4
+|
+|t:|1641728719
+|switch|p2a: Mathéa|Heatran, F|100/100
+|-damage|p2a: Mathéa|88/100|[from] Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: Mathéa
+|-start|p2a: Mathéa|ability: Flash Fire
+|
+|-heal|p2a: Mathéa|94/100|[from] item: Leftovers
+|-damage|p1a: Heatran|59/100|[from] Leech Seed|[of] p2a: Mathéa
+|-heal|p2a: Mathéa|100/100|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641728729
+|move|p1a: Heatran|Earth Power|p2a: Mathéa
+|-supereffective|p2a: Mathéa
+|-damage|p2a: Mathéa|40/100
+|-unboost|p2a: Mathéa|spd|1
+|move|p2a: Mathéa|Stealth Rock|p1a: Heatran
+|-sidestart|p1: GindarasonPillows|move: Stealth Rock
+|
+|-heal|p2a: Mathéa|47/100|[from] item: Leftovers
+|-damage|p1a: Heatran|46/100|[from] Leech Seed|[of] p2a: Mathéa
+|-heal|p2a: Mathéa|59/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641728737
+|move|p2a: Mathéa|Protect|p2a: Mathéa
+|-singleturn|p2a: Mathéa|Protect
+|move|p1a: Heatran|Earth Power|p2a: Mathéa
+|-activate|p2a: Mathéa|move: Protect
+|
+|-heal|p2a: Mathéa|65/100|[from] item: Leftovers
+|-damage|p1a: Heatran|34/100|[from] Leech Seed|[of] p2a: Mathéa
+|-heal|p2a: Mathéa|78/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1641728756
+|switch|p1a: Gastrodon|Gastrodon-East, F|100/100
+|-damage|p1a: Gastrodon|94/100|[from] Stealth Rock
+|-end|p2a: Mathéa|ability: Flash Fire|[silent]
+|switch|p2a: Pierre-Matthéo|Dragapult, M|100/100
+|-damage|p2a: Pierre-Matthéo|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Gastrodon|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641728761
+|move|p2a: Pierre-Matthéo|Shadow Ball|p1a: Gastrodon
+|-damage|p1a: Gastrodon|52/100
+|move|p1a: Gastrodon|Clear Smog|p2a: Pierre-Matthéo
+|-resisted|p2a: Pierre-Matthéo
+|-damage|p2a: Pierre-Matthéo|81/100
+|-clearboost|p2a: Pierre-Matthéo
+|
+|-heal|p1a: Gastrodon|58/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641728777
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Pierre-Matthéo|Shadow Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|50/100
+|-unboost|p1a: Tornadus|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641728779
+|switch|p1a: Heatran|Heatran, M|34/100
+|-damage|p1a: Heatran|21/100|[from] Stealth Rock
+|move|p2a: Pierre-Matthéo|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641728781
+|switch|p1a: Zeraora|Zeraora|72/100
+|-damage|p1a: Zeraora|59/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641728785
+|switch|p2a: Bertrand|Ferrothorn, M|89/100
+|-damage|p2a: Bertrand|83/100|[from] Stealth Rock
+|move|p1a: Zeraora|Blaze Kick|p2a: Bertrand
+|-supereffective|p2a: Bertrand
+|-damage|p2a: Bertrand|0 fnt
+|-damage|p1a: Zeraora|47/100|[from] ability: Iron Barbs|[of] p2a: Bertrand
+|faint|p2a: Bertrand
+|
+|upkeep
+|
+|t:|1641728800
+|switch|p2a: Emma|Terrakion|100/100
+|-damage|p2a: Emma|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641728812
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Emma|Stone Edge|p1a: Buzzwole
+|-damage|p1a: Buzzwole|66/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641728820
+|switch|p2a: Pierre-Matthéo|Dragapult, M|81/100
+|-damage|p2a: Pierre-Matthéo|69/100|[from] Stealth Rock
+|move|p1a: Buzzwole|Close Combat|p2a: Pierre-Matthéo
+|-immune|p2a: Pierre-Matthéo
+|
+|upkeep
+|turn|14
+|
+|t:|1641728829
+|switch|p1a: Gastrodon|Gastrodon-East, F|58/100
+|-damage|p1a: Gastrodon|52/100|[from] Stealth Rock
+|move|p2a: Pierre-Matthéo|Shadow Ball|p1a: Gastrodon
+|-damage|p1a: Gastrodon|6/100
+|
+|-heal|p1a: Gastrodon|12/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641728832
+|move|p2a: Pierre-Matthéo|Shadow Ball|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1641728834
+|switch|p1a: Zeraora|Zeraora|47/100
+|-damage|p1a: Zeraora|35/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641728853
+|switch|p2a: Emma|Terrakion|94/100
+|-damage|p2a: Emma|88/100|[from] Stealth Rock
+|move|p1a: Zeraora|Knock Off|p2a: Emma
+|-resisted|p2a: Emma
+|-damage|p2a: Emma|61/100
+|-ability|p2a: Emma|Justified|boost
+|-boost|p2a: Emma|atk|1
+|-enditem|p2a: Emma|Choice Scarf|[from] move: Knock Off|[of] p1a: Zeraora
+|
+|upkeep
+|turn|17
+|
+|t:|1641728862
+|switch|p1a: Tornadus|Tornadus-Therian, M|84/100
+|move|p2a: Emma|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|upkeep
+|turn|18
+|
+|t:|1641728871
+|move|p1a: Tornadus|Hurricane|p2a: Emma
+|-damage|p2a: Emma|16/100
+|move|p2a: Emma|Stone Edge|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1641728879
+|switch|p1a: Zeraora|Zeraora|35/100
+|-damage|p1a: Zeraora|23/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641728883
+|move|p1a: Zeraora|Plasma Fists|p2a: Emma
+|-damage|p2a: Emma|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Emma
+|
+|upkeep
+|
+|t:|1641728890
+|switch|p2a: Moïse|Zeraora|100/100
+|-damage|p2a: Moïse|88/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641728896
+|switch|p1a: Buzzwole|Buzzwole|66/100
+|move|p2a: Moïse|Knock Off|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|53/100
+|-enditem|p1a: Buzzwole|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Moïse
+|-damage|p2a: Moïse|78/100|[from] item: Life Orb
+|
+|upkeep
+|turn|21
+|
+|t:|1641728902
+|move|p2a: Moïse|Plasma Fists|p1a: Buzzwole
+|-damage|p1a: Buzzwole|13/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p2a: Moïse|69/100|[from] item: Life Orb
+|move|p1a: Buzzwole|Ice Punch|p2a: Moïse
+|-damage|p2a: Moïse|28/100
+|
+|upkeep
+|turn|22
+|-message|GindarasonPillows forfeited.
+|
+|win|Zorostrat
+|raw|GindarasonPillows's rating: 1538 &rarr; <strong>1515</strong><br />(-23 for losing)
+|raw|Zorostrat's rating: 1479 &rarr; <strong>1502</strong><br />(+23 for winning)
+|l|☆GindarasonPillows

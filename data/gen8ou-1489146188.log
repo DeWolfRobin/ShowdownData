@@ -1,0 +1,341 @@
+|j|☆Cxmbi
+|j|☆GoldenTTRex1
+|t:|1641862776
+|gametype|singles
+|player|p1|Cxmbi|265|1396
+|player|p2|GoldenTTRex1|hilbert-wonderlauncher|1435
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Kartana|
+|poke|p1|Zapdos|
+|poke|p1|Clefable, M|
+|poke|p1|Blissey, F|
+|poke|p1|Dragonite, M|
+|poke|p2|Melmetal|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Tapu Fini|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GoldenTTRex1)
+|
+|t:|1641862792
+|start
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|switch|p2a: Future Trunks|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Future Trunks
+|turn|1
+|
+|t:|1641862797
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Future Trunks|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|85/100
+|
+|-heal|p1a: Blissey|91/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641862801
+|switch|p2a: Gohan|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Blissey|Stealth Rock|p2a: Gohan
+|-sidestart|p2: GoldenTTRex1|move: Stealth Rock
+|
+|-heal|p1a: Blissey|98/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641862806
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Gohan|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|81/100
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641862842
+|switch|p2a: Frieza|Dragapult, M|100/100|[from]move: U-turn
+|-damage|p2a: Frieza|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|4
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641862850
+|move|p2a: Frieza|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|73/100
+|
+|t:|1641862854
+|switch|p2a: Piccolo|Landorus-Therian, M|100/100|[from]move: U-turn
+|-damage|p2a: Piccolo|88/100|[from] Stealth Rock
+|-ability|p2a: Piccolo|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Volt Switch|p2a: Piccolo
+|-immune|p2a: Piccolo
+|
+|-heal|p2a: Piccolo|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641862863
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Piccolo|Stealth Rock|p1a: Dragonite
+|-sidestart|p1: Cxmbi|move: Stealth Rock
+|
+|-heal|p2a: Piccolo|99/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641862871
+|move|p2a: Piccolo|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|94/100
+|
+|t:|1641862873
+|switch|p2a: Future Trunks|Tapu Fini|100/100|[from]move: U-turn
+|-damage|p2a: Future Trunks|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Future Trunks
+|move|p1a: Dragonite|Ice Beam|p2a: Future Trunks
+|-resisted|p2a: Future Trunks
+|-damage|p2a: Future Trunks|68/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641862882
+|switch|p1a: Zapdos|Zapdos|73/100
+|move|p2a: Future Trunks|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|32/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641862887
+|move|p2a: Future Trunks|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641862892
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641862912
+|switch|p2a: Piccolo|Landorus-Therian, M|99/100
+|-damage|p2a: Piccolo|88/100|[from] Stealth Rock
+|-ability|p2a: Piccolo|Intimidate|boost
+|-unboost|p1a: Blacephalon|atk|1
+|move|p1a: Blacephalon|Shadow Ball|p2a: Piccolo
+|-damage|p2a: Piccolo|0 fnt
+|faint|p2a: Piccolo
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641862927
+|switch|p2a: Gohan|Urshifu-Rapid-Strike, M|100/100
+|-damage|p2a: Gohan|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641862933
+|switch|p1a: Kartana|Kartana|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|move|p2a: Gohan|Surging Strikes|p1a: Kartana
+|-resisted|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|79/100
+|-resisted|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|63/100
+|-resisted|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|46/100
+|-hitcount|p1a: Kartana|3
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|11
+|
+|t:|1641862949
+|move|p1a: Kartana|Knock Off|p2a: Gohan
+|-resisted|p2a: Gohan
+|-damage|p2a: Gohan|62/100
+|-enditem|p2a: Gohan|Choice Band|[from] move: Knock Off|[of] p1a: Kartana
+|move|p2a: Gohan|Surging Strikes|p1a: Kartana
+|-resisted|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|36/100
+|-resisted|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|27/100
+|-resisted|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|16/100
+|-hitcount|p1a: Kartana|3
+|
+|upkeep
+|turn|12
+|
+|t:|1641862962
+|move|p1a: Kartana|Knock Off|p2a: Gohan
+|-resisted|p2a: Gohan
+|-damage|p2a: Gohan|40/100
+|move|p2a: Gohan|Surging Strikes|p1a: Kartana
+|-resisted|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|6/100
+|-resisted|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|-hitcount|p1: Kartana|2
+|
+|upkeep
+|
+|t:|1641862965
+|switch|p1a: Blacephalon|Blacephalon|76/100
+|-damage|p1a: Blacephalon|51/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641862968
+|move|p2a: Gohan|Aqua Jet|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|upkeep
+|
+|t:|1641862972
+|switch|p1a: Dragonite|Dragonite, M|94/100
+|-damage|p1a: Dragonite|69/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641862982
+|move|p2a: Gohan|U-turn|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|55/100
+|
+|t:|1641862984
+|switch|p2a: Future Trunks|Tapu Fini|68/100|[from]move: U-turn
+|-damage|p2a: Future Trunks|56/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Future Trunks
+|move|p1a: Dragonite|Hurricane|p2a: Future Trunks
+|-damage|p2a: Future Trunks|0 fnt
+|faint|p2a: Future Trunks
+|
+|upkeep
+|
+|t:|1641863007
+|switch|p2a: Frieza|Dragapult, M|88/100
+|-damage|p2a: Frieza|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641863011
+|switch|p1a: Blissey|Blissey, F|98/100
+|-damage|p1a: Blissey|85/100|[from] Stealth Rock
+|move|p2a: Frieza|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|71/100
+|
+|t:|1641863015
+|switch|p2a: Vegeta|Bisharp, M|100/100|[from]move: U-turn
+|-damage|p2a: Vegeta|95/100|[from] Stealth Rock
+|
+|-heal|p1a: Blissey|77/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641863018
+|move|p2a: Vegeta|Swords Dance|p2a: Vegeta
+|-boost|p2a: Vegeta|atk|2
+|move|p1a: Blissey|Thunder Wave|p2a: Vegeta
+|-activate|p2a: Vegeta|move: Misty Terrain
+|
+|-heal|p1a: Blissey|83/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641863023
+|move|p2a: Vegeta|Swords Dance|p2a: Vegeta
+|-boost|p2a: Vegeta|atk|2
+|move|p1a: Blissey|Seismic Toss|p2a: Vegeta
+|-damage|p2a: Vegeta|58/100
+|
+|-heal|p1a: Blissey|89/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641863025
+|move|p2a: Vegeta|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|-enditem|p1a: Blissey|Leftovers|[from] move: Knock Off|[of] p2a: Vegeta
+|faint|p1a: Blissey
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641863027
+|switch|p1a: Clefable|Clefable, M|100/100
+|-damage|p1a: Clefable|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641863029
+|move|p2a: Vegeta|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|65/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Vegeta
+|move|p1a: Clefable|Flamethrower|p2a: Vegeta
+|-supereffective|p2a: Vegeta
+|-damage|p2a: Vegeta|0 fnt
+|faint|p2a: Vegeta
+|
+|upkeep
+|
+|t:|1641863034
+|switch|p2a: Goku|Melmetal|100/100
+|-damage|p2a: Goku|94/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641863040
+|move|p2a: Goku|Double Iron Bash|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-hitcount|p1: Clefable|1
+|
+|upkeep
+|
+|t:|1641863044
+|switch|p1a: Dragonite|Dragonite, M|55/100
+|-damage|p1a: Dragonite|30/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641863049
+|move|p1a: Dragonite|Draco Meteor|p2a: Goku
+|-resisted|p2a: Goku
+|-damage|p2a: Goku|48/100
+|-unboost|p1a: Dragonite|spa|2
+|move|p2a: Goku|Double Iron Bash|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-hitcount|p1: Dragonite|1
+|
+|win|GoldenTTRex1
+|raw|Cxmbi's rating: 1396 &rarr; <strong>1378</strong><br />(-18 for losing)
+|raw|GoldenTTRex1's rating: 1435 &rarr; <strong>1453</strong><br />(+18 for winning)
+|l|☆Cxmbi

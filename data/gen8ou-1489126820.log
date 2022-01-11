@@ -1,0 +1,145 @@
+|j|☆WarNboy
+|j|☆Bunnyhop 54
+|t:|1641860169
+|gametype|singles
+|player|p1|WarNboy|acetrainer-gen4dp|1090
+|player|p2|Bunnyhop 54|lyra|1057
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Scrafty, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Blacephalon|
+|poke|p2|Rillaboom, M|
+|poke|p2|Celesteela|
+|poke|p2|Regieleki|
+|poke|p2|Blissey, F|
+|poke|p2|Primarina, F|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1641860180
+|start
+|switch|p1a: Cancer man|Ferrothorn, M|100/100
+|switch|p2a: Celesteela|Celesteela|100/100
+|turn|1
+|
+|t:|1641860189
+|move|p2a: Celesteela|Autotomize|p2a: Celesteela
+|-boost|p2a: Celesteela|spe|2
+|-start|p2a: Celesteela|Autotomize
+|move|p1a: Cancer man|Stealth Rock|p2a: Celesteela
+|-sidestart|p2: Bunnyhop 54|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641860200
+|move|p2a: Celesteela|Flamethrower|p1a: Cancer man
+|-supereffective|p1a: Cancer man
+|-damage|p1a: Cancer man|9/100
+|move|p1a: Cancer man|Spikes|p2a: Celesteela
+|-sidestart|p2: Bunnyhop 54|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641860207
+|move|p2a: Celesteela|Air Slash|p1a: Cancer man
+|-damage|p1a: Cancer man|0 fnt
+|faint|p1a: Cancer man
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|upkeep
+|
+|t:|1641860214
+|switch|p1a: Sheesh|Blacephalon|100/100
+|turn|4
+|
+|t:|1641860221
+|move|p2a: Celesteela|Meteor Beam||[still]
+|-prepare|p2a: Celesteela|Meteor Beam
+|-boost|p2a: Celesteela|spa|1
+|-enditem|p2a: Celesteela|Power Herb
+|-anim|p2a: Celesteela|Meteor Beam|p1a: Sheesh
+|-supereffective|p1a: Sheesh
+|-enditem|p1a: Sheesh|Focus Sash
+|-damage|p1a: Sheesh|1/100
+|move|p1a: Sheesh|Flamethrower|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|6/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641860235
+|move|p2a: Celesteela|Air Slash|p1a: Sheesh
+|-damage|p1a: Sheesh|0 fnt
+|faint|p1a: Sheesh
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|upkeep
+|
+|t:|1641860243
+|switch|p1a: Lui|Landorus-Therian, M|100/100
+|-ability|p1a: Lui|Intimidate|boost
+|-unboost|p2a: Celesteela|atk|1
+|turn|6
+|
+|t:|1641860254
+|move|p1a: Lui|U-turn|p2a: Celesteela
+|-resisted|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|
+|t:|1641860260
+|switch|p1a: Racker|Garchomp, M|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641860264
+|switch|p2a: Primarina|Primarina, F|100/100
+|-damage|p2a: Primarina|88/100|[from] Stealth Rock
+|-damage|p2a: Primarina|76/100|[from] Spikes
+|turn|7
+|
+|t:|1641860274
+|switch|p1a: Origami|Kartana, shiny|100/100
+|move|p2a: Primarina|Ice Beam|p1a: Origami
+|-damage|p1a: Origami|0 fnt
+|faint|p1a: Origami
+|
+|upkeep
+|
+|t:|1641860288
+|switch|p1a: WarN|Scrafty, M, shiny|100/100
+|turn|8
+|
+|t:|1641860292
+|move|p2a: Primarina|Dazzling Gleam|p1a: WarN
+|-supereffective|p1a: WarN
+|-damage|p1a: WarN|0 fnt
+|faint|p1a: WarN
+|
+|upkeep
+|-message|WarNboy forfeited.
+|
+|win|Bunnyhop 54
+|raw|WarNboy's rating: 1090 &rarr; <strong>1064</strong><br />(-26 for losing)
+|raw|Bunnyhop 54's rating: 1057 &rarr; <strong>1091</strong><br />(+34 for winning)
+|l|☆WarNboy

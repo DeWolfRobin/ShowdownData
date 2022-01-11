@@ -1,0 +1,290 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc ryekie
+|j|☆SL21CC KFC嫩牛五方
+|t:|1641824254
+|gametype|singles
+|player|p1|sl21cc ryekie|pokemonrangerf-gen4|1294
+|player|p2|SL21CC KFC嫩牛五方|baker|1299
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Clefable, F|
+|poke|p1|Skarmory, M|
+|poke|p1|Slowbro, M|
+|poke|p2|Melmetal|
+|poke|p2|Cresselia, F|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Porygon2|
+|poke|p2|Marowak-Alola, F|
+|teampreview
+|j| jiokopg_fkok43
+|j| SL21CC tangkeke
+|
+|t:|1641824270
+|start
+|switch|p1a: facts of rain|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1641824274
+|move|p1a: facts of rain|U-turn|p2a: Hatterene
+|-damage|p2a: Hatterene|73/100
+|j| adreamew
+|
+|t:|1641824307
+|switch|p1a: Pixel Heart|Clefable, F|100/100|[from]move: U-turn
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1641824312
+|move|p2a: Hatterene|Healing Wish|p2a: Hatterene
+|faint|p2a: Hatterene
+|move|p1a: Pixel Heart|Stealth Rock|p2: Hatterene
+|-sidestart|p2: SL21CC KFC嫩牛五方|move: Stealth Rock
+|
+|upkeep
+|
+|t:|1641824317
+|switch|p2a: Marowak|Marowak-Alola, F|100/100
+|-damage|p2a: Marowak|76/100|[from] Stealth Rock
+|turn|3
+|j|+dragonitenb
+|
+|t:|1641824326
+|switch|p1a: Channel 88|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Channel 88
+|move|p2a: Marowak|Swords Dance|p2a: Marowak
+|-boost|p2a: Marowak|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Marowak|70/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641824332
+|switch|p1a: THE MUZZLE FACING|Skarmory, M|100/100
+|move|p2a: Marowak|Bonemerang|p1a: THE MUZZLE FACING
+|-immune|p1a: THE MUZZLE FACING
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Marowak|63/100|[from] Sandstorm
+|upkeep
+|turn|5
+|j| solitary dream
+|
+|t:|1641824349
+|move|p2a: Marowak|Poltergeist|p1a: THE MUZZLE FACING
+|-activate|p1a: THE MUZZLE FACING|move: Poltergeist|Rocky Helmet
+|-ability|p1a: THE MUZZLE FACING|Sturdy
+|-damage|p1a: THE MUZZLE FACING|1/100
+|move|p1a: THE MUZZLE FACING|Spikes|p2a: Marowak
+|-sidestart|p2: SL21CC KFC嫩牛五方|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Marowak|57/100|[from] Sandstorm
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641824356
+|move|p1a: THE MUZZLE FACING|Spikes|p2a: Marowak
+|-sidestart|p2: SL21CC KFC嫩牛五方|Spikes
+|move|p2a: Marowak|Flare Blitz|p1a: THE MUZZLE FACING
+|-supereffective|p1a: THE MUZZLE FACING
+|-damage|p1a: THE MUZZLE FACING|0 fnt
+|-damage|p2a: Marowak|41/100|[from] item: Rocky Helmet|[of] p1a: THE MUZZLE FACING
+|faint|p1a: THE MUZZLE FACING
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Marowak|35/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641824365
+|switch|p1a: facts of rain|Urshifu-Rapid-Strike, M|100/100
+|turn|7
+|
+|t:|1641824370
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|-damage|p2a: Cresselia|88/100|[from] Stealth Rock
+|move|p1a: facts of rain|Surging Strikes|p2a: Cresselia
+|-crit|p2a: Cresselia
+|-damage|p2a: Cresselia|73/100
+|-crit|p2a: Cresselia
+|-damage|p2a: Cresselia|57/100
+|-crit|p2a: Cresselia
+|-damage|p2a: Cresselia|43/100
+|-hitcount|p2a: Cresselia|3
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1641824376
+|move|p1a: facts of rain|Surging Strikes|p2a: Cresselia
+|-crit|p2a: Cresselia
+|-damage|p2a: Cresselia|28/100
+|-crit|p2a: Cresselia
+|-damage|p2a: Cresselia|14/100
+|-crit|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|-hitcount|p2: Cresselia|3
+|
+|upkeep
+|
+|t:|1641824382
+|switch|p2a: Porygon2|Porygon2|100/100
+|-damage|p2a: Porygon2|88/100|[from] Stealth Rock
+|-damage|p2a: Porygon2|72/100|[from] Spikes
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|turn|9
+|
+|t:|1641824414
+|move|p1a: facts of rain|Surging Strikes|p2a: Porygon2
+|-crit|p2a: Porygon2
+|-damage|p2a: Porygon2|50/100
+|-crit|p2a: Porygon2
+|-damage|p2a: Porygon2|32/100
+|-crit|p2a: Porygon2
+|-damage|p2a: Porygon2|11/100
+|-hitcount|p2a: Porygon2|3
+|move|p2a: Porygon2|Thunderbolt|p1a: facts of rain
+|-supereffective|p1a: facts of rain
+|-damage|p1a: facts of rain|0 fnt
+|faint|p1a: facts of rain
+|
+|upkeep
+|
+|t:|1641824426
+|switch|p1a: Angel’s Salad|Slowbro, M|100/100
+|turn|10
+|
+|t:|1641824445
+|move|p2a: Porygon2|Thunderbolt|p1a: Angel’s Salad
+|-supereffective|p1a: Angel’s Salad
+|-damage|p1a: Angel’s Salad|16/100
+|move|p1a: Angel’s Salad|Future Sight|p2a: Porygon2
+|-start|p1a: Angel’s Salad|move: Future Sight
+|
+|upkeep
+|turn|11
+|
+|t:|1641824472
+|switch|p1a: Scars of FAUNA|Excadrill, M|100/100
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|12
+|
+|t:|1641824480
+|switch|p2a: Knocked|Crawdaunt, M, shiny|100/100
+|-damage|p2a: Knocked|88/100|[from] Stealth Rock
+|-damage|p2a: Knocked|71/100|[from] Spikes
+|move|p1a: Scars of FAUNA|Earthquake|p2a: Knocked
+|-damage|p2a: Knocked|7/100
+|
+|-end|p2a: Knocked|move: Future Sight
+|-immune|p2a: Knocked
+|upkeep
+|turn|13
+|
+|t:|1641824508
+|switch|p1a: Angel’s Salad|Slowbro, M|49/100
+|move|p2a: Knocked|Knock Off|p1a: Angel’s Salad
+|-supereffective|p1a: Angel’s Salad
+|-damage|p1a: Angel’s Salad|0 fnt
+|-enditem|p1a: Angel’s Salad|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Knocked
+|faint|p1a: Angel’s Salad
+|-damage|p2a: Knocked|0 fnt|[from] item: Life Orb
+|faint|p2a: Knocked
+|
+|upkeep
+|
+|t:|1641824530
+|switch|p1a: Channel 88|Tyranitar, F|100/100
+|switch|p2a: Porygon2|Porygon2|11/100
+|-heal|p2a: Porygon2|100/100|[from] move: Healing Wish
+|-damage|p2a: Porygon2|84/100|[from] Spikes
+|-damage|p2a: Porygon2|72/100|[from] Stealth Rock
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|spa|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Channel 88
+|turn|14
+|
+|t:|1641824566
+|move|p1a: Channel 88|Crunch|p2a: Porygon2
+|-damage|p2a: Porygon2|27/100
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldend|move: Trick Room
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Porygon2|21/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641824584
+|move|p1a: Channel 88|Crunch|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641824586
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|84/100|[from] Spikes
+|-damage|p2a: Melmetal|78/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641824595
+|move|p1a: Channel 88|Crunch|p2a: Melmetal
+|-damage|p2a: Melmetal|44/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Channel 88
+|-supereffective|p1a: Channel 88
+|-damage|p1a: Channel 88|0 fnt
+|faint|p1a: Channel 88
+|-hitcount|p1: Channel 88|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641824597
+|switch|p1a: Scars of FAUNA|Excadrill, M|100/100
+|turn|17
+|
+|t:|1641824602
+|move|p1a: Scars of FAUNA|Earthquake|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|SL21CC KFC嫩牛五方 forfeited.
+|
+|win|sl21cc ryekie
+|raw|sl21cc ryekie's rating: 1294 &rarr; <strong>1310</strong><br />(+16 for winning)
+|raw|SL21CC KFC嫩牛五方's rating: 1299 &rarr; <strong>1283</strong><br />(-16 for losing)
+|l|☆SL21CC KFC嫩牛五方
+|l| solitary dream
+|l| jiokopg_fkok43
+|l| SL21CC tangkeke

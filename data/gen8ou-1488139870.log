@@ -1,0 +1,266 @@
+|j|☆Fr0st o_o
+|j|☆Limeguter
+|t:|1641720155
+|gametype|singles
+|player|p1|Fr0st o_o|n|1196
+|player|p2|Limeguter|crasherwake|1182
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Haxorus, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Cloyster, F|
+|poke|p1|Kartana|
+|poke|p1|Goodra, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Mantine, M|
+|poke|p2|Scizor, F|
+|poke|p2|Alakazam, M|
+|poke|p2|Salamence, F|
+|poke|p2|Hitmonlee, M|
+|poke|p2|Rapidash, F|
+|teampreview
+|
+|t:|1641720176
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Mantine|Mantine, M|100/100
+|turn|1
+|
+|t:|1641720184
+|move|p2a: Mantine|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|91/100
+|-status|p1a: Ferrothorn|brn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Mantine
+|-start|p2a: Mantine|move: Leech Seed
+|
+|-damage|p2a: Mantine|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100 brn|[silent]
+|-damage|p1a: Ferrothorn|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641720197
+|switch|p2a: Alakazam|Alakazam, M|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Alakazam
+|-sidestart|p2: Limeguter|move: Stealth Rock
+|
+|-damage|p1a: Ferrothorn|88/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641720206
+|move|p2a: Alakazam|Focus Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641720216
+|switch|p1a: Haxorus|Haxorus, F, shiny|100/100
+|-ability|p1a: Haxorus|Unnerve
+|turn|4
+|
+|t:|1641720226
+|move|p2a: Alakazam|Psychic|p1a: Haxorus
+|-damage|p1a: Haxorus|0 fnt
+|faint|p1a: Haxorus
+|
+|upkeep
+|
+|t:|1641720232
+|switch|p1a: Goodra|Goodra, M|100/100
+|turn|5
+|
+|t:|1641720238
+|move|p2a: Alakazam|Psychic|p1a: Goodra
+|-damage|p1a: Goodra|74/100
+|move|p1a: Goodra|Sludge Bomb|p2a: Alakazam
+|-damage|p2a: Alakazam|60/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641720247
+|move|p2a: Alakazam|Psychic|p1a: Goodra
+|-damage|p1a: Goodra|45/100
+|move|p1a: Goodra|Sludge Bomb|p2a: Alakazam
+|-damage|p2a: Alakazam|16/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641720254
+|move|p2a: Alakazam|Psychic|p1a: Goodra
+|-damage|p1a: Goodra|20/100
+|move|p1a: Goodra|Sludge Bomb|p2a: Alakazam
+|-crit|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|upkeep
+|
+|t:|1641720260
+|switch|p2a: Hitmonlee|Hitmonlee, M|100/100
+|-damage|p2a: Hitmonlee|95/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641720276
+|move|p2a: Hitmonlee|Fake Out|p1a: Goodra
+|-enditem|p2a: Hitmonlee|Normal Gem|[from] gem
+|-damage|p1a: Goodra|0 fnt
+|-ability|p1a: Goodra|Gooey
+|-unboost|p2a: Hitmonlee|spe|1
+|faint|p1a: Goodra
+|
+|upkeep
+|
+|t:|1641720284
+|switch|p1a: Kartana|Kartana, shiny|100/100
+|turn|9
+|
+|t:|1641720287
+|move|p2a: Hitmonlee|Knock Off|p1a: Kartana
+|-damage|p1a: Kartana|72/100
+|-enditem|p1a: Kartana|Life Orb|[from] move: Knock Off|[of] p2a: Hitmonlee
+|move|p1a: Kartana|Psycho Cut|p2a: Hitmonlee
+|-supereffective|p2a: Hitmonlee
+|-damage|p2a: Hitmonlee|0 fnt
+|faint|p2a: Hitmonlee
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641720296
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641720323
+|move|p1a: Kartana|Sacred Sword|p2a: Scizor
+|-damage|p2a: Scizor|31/100
+|move|p2a: Scizor|Bug Bite|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641720333
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|turn|11
+|
+|t:|1641720339
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Scizor|Acrobatics|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-enditem|p1a: Volcarona|Focus Sash
+|-damage|p1a: Volcarona|1/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641720347
+|move|p2a: Scizor|Bullet Punch|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|-status|p2a: Scizor|brn|[from] ability: Flame Body|[of] p1a: Volcarona
+|faint|p1a: Volcarona
+|
+|-damage|p2a: Scizor|25/100 brn|[from] brn
+|upkeep
+|
+|t:|1641720355
+|switch|p1a: Cloyster|Cloyster, F|100/100
+|turn|13
+|
+|t:|1641720366
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: Scizor|Thief|p1a: Cloyster
+|-damage|p1a: Cloyster|80/100
+|-enditem|p1a: Cloyster|Focus Sash|[silent]|[from] move: Thief|[of] p2a: Scizor
+|-item|p2a: Scizor|Focus Sash|[from] move: Thief|[of] p1a: Cloyster
+|
+|-damage|p2a: Scizor|18/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641720377
+|move|p1a: Cloyster|Ice Shard|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1641720381
+|switch|p2a: Rapidash|Rapidash, F, shiny|100/100
+|-damage|p2a: Rapidash|76/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641720386
+|move|p1a: Cloyster|Rock Blast|p2a: Rapidash
+|-supereffective|p2a: Rapidash
+|-damage|p2a: Rapidash|22/100
+|-supereffective|p2a: Rapidash
+|-damage|p2a: Rapidash|0 fnt
+|faint|p2a: Rapidash
+|-hitcount|p2: Rapidash|2
+|
+|upkeep
+|
+|t:|1641720389
+|switch|p2a: Mantine|Mantine, M|88/100
+|-damage|p2a: Mantine|63/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641720397
+|move|p1a: Cloyster|Icicle Spear|p2a: Mantine
+|-damage|p2a: Mantine|45/100
+|-damage|p2a: Mantine|25/100
+|-damage|p2a: Mantine|5/100
+|-damage|p2a: Mantine|0 fnt
+|faint|p2a: Mantine
+|-hitcount|p2: Mantine|4
+|
+|upkeep
+|
+|t:|1641720402
+|switch|p2a: Salamence|Salamence, F, shiny|100/100
+|-damage|p2a: Salamence|76/100|[from] Stealth Rock
+|turn|17
+|c|☆Limeguter|gg
+|
+|t:|1641720409
+|move|p1a: Cloyster|Icicle Spear|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|-hitcount|p2: Salamence|1
+|
+|win|Fr0st o_o
+|raw|Fr0st o_o's rating: 1196 &rarr; <strong>1220</strong><br />(+24 for winning)
+|raw|Limeguter's rating: 1182 &rarr; <strong>1158</strong><br />(-24 for losing)
+|c|☆Fr0st o_o|SEU HORRÍVEL
+|c|☆Fr0st o_o|WP

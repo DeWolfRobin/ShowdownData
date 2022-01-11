@@ -1,0 +1,534 @@
+|j|☆GindarasonPillows
+|j|☆mr heartbreak
+|t:|1641714811
+|gametype|singles
+|player|p1|GindarasonPillows|265|1636
+|player|p2|mr heartbreak|unknown|1646
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Buzzwole|
+|poke|p1|Tapu Lele|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Zeraora|
+|poke|p1|Gastrodon-East, F|
+|poke|p1|Heatran, M|
+|poke|p2|Buzzwole|
+|poke|p2|Garchomp, M|
+|poke|p2|Heatran, M|
+|poke|p2|Zapdos|
+|poke|p2|Tapu Lele|
+|poke|p2|Tyranitar, F|
+|teampreview
+|
+|t:|1641714831
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|j| Mslaganjaestranja
+|
+|t:|1641714842
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Tapu Lele|Focus Blast|p2a: Heatran|[miss]
+|-miss|p1a: Tapu Lele|p2a: Heatran
+|
+|upkeep
+|turn|2
+|
+|t:|1641714849
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Tapu Lele|Focus Blast|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|71/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641714853
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|4
+|
+|t:|1641714865
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Zeraora|Knock Off|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|85/100
+|-damage|p1a: Zeraora|84/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-enditem|p2a: Buzzwole|Rocky Helmet|[from] move: Knock Off|[of] p1a: Zeraora
+|
+|upkeep
+|turn|5
+|j| Kyurem
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mr heartbreak)
+|
+|t:|1641714894
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641714901
+|move|p2a: Garchomp|Toxic|p1a: Tornadus
+|-status|p1a: Tornadus|tox
+|move|p1a: Tornadus|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|87/100
+|-damage|p1a: Tornadus|88/100 tox|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|t:|1641714909
+|switch|p1a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1641714916
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Heatran|Toxic|p2a: Tyranitar
+|-status|p2a: Tyranitar|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641714925
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Tyranitar|Thunder Wave|p1a: Buzzwole
+|-status|p1a: Buzzwole|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Buzzwole|94/100 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|88/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641714937
+|move|p2a: Tyranitar|Stone Edge|p1a: Buzzwole|[miss]
+|-miss|p2a: Tyranitar|p1a: Buzzwole
+|cant|p1a: Buzzwole|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Buzzwole|88/100 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|76/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641714940
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Buzzwole|Close Combat|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|73/100
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|67/100|[from] Sandstorm
+|-damage|p1a: Buzzwole|82/100 par|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1641714944
+|switch|p1a: Zeraora|Zeraora|84/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641714954
+|move|p1a: Zeraora|Plasma Fists|p2a: Zapdos
+|-damage|p2a: Zapdos|42/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p2a: Zapdos|Hurricane|p1a: Zeraora
+|-resisted|p1a: Zeraora
+|-damage|p1a: Zeraora|52/100
+|-start|p1a: Zeraora|confusion
+|
+|upkeep
+|turn|13
+|
+|t:|1641714964
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|93/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|14
+|
+|t:|1641714973
+|move|p1a: Tapu Lele|Psyshock|p2a: Zapdos
+|-damage|p2a: Zapdos|27/100
+|move|p2a: Zapdos|Volt Switch|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|67/100
+|
+|t:|1641714978
+|switch|p2a: Heatran|Heatran, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|15
+|
+|t:|1641714988
+|switch|p1a: Gastrodon|Gastrodon-East, F|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641715005
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Tapu Lele|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|68/100
+|
+|-heal|p1a: Heatran|74/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641715014
+|move|p2a: Tapu Lele|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|43/100
+|move|p1a: Heatran|Magma Storm|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|50/100
+|-activate|p2a: Tapu Lele|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|49/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|38/100|[from] move: Magma Storm|[partiallytrapped]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|18
+|
+|t:|1641715019
+|move|p2a: Tapu Lele|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|21/100
+|move|p1a: Heatran|Stealth Rock|p2a: Tapu Lele
+|-sidestart|p2: mr heartbreak|move: Stealth Rock
+|
+|-heal|p1a: Heatran|27/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|25/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1641715034
+|move|p2a: Tapu Lele|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|2/100
+|move|p1a: Heatran|Earth Power|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-heal|p1a: Heatran|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641715041
+|switch|p2a: Zapdos|Zapdos|27/100
+|turn|20
+|j| TJLD
+|
+|t:|1641715050
+|switch|p1a: Zeraora|Zeraora|52/100
+|move|p2a: Zapdos|Volt Switch|p1a: Zeraora
+|-heal|p1a: Zeraora|77/100|[from] ability: Volt Absorb|[of] p2a: Zapdos
+|
+|upkeep
+|turn|21
+|
+|t:|1641715061
+|switch|p2a: Buzzwole|Buzzwole|85/100
+|-damage|p2a: Buzzwole|73/100|[from] Stealth Rock
+|move|p1a: Zeraora|Plasma Fists|p2a: Buzzwole
+|-damage|p2a: Buzzwole|26/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|
+|upkeep
+|turn|22
+|
+|t:|1641715080
+|switch|p1a: Tapu Lele|Tapu Lele|67/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|76/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|upkeep
+|turn|23
+|
+|t:|1641715090
+|move|p1a: Tapu Lele|Psychic|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-crit|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|faint|p2a: Buzzwole
+|
+|upkeep
+|
+|t:|1641715094
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641715107
+|switch|p1a: Heatran|Heatran, M|8/100
+|move|p2a: Heatran|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641715116
+|switch|p1a: Zeraora|Zeraora|77/100
+|turn|25
+|
+|t:|1641715124
+|switch|p2a: Garchomp|Garchomp, M|87/100
+|-damage|p2a: Garchomp|81/100|[from] Stealth Rock
+|move|p1a: Zeraora|Close Combat|p2a: Garchomp
+|-damage|p2a: Garchomp|22/100
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|-damage|p1a: Zeraora|65/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|upkeep
+|turn|26
+|
+|t:|1641715136
+|switch|p2a: Zapdos|Zapdos|27/100
+|switch|p1a: Buzzwole|Buzzwole|82/100 par
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|27
+|
+|t:|1641715143
+|switch|p1a: Tapu Lele|Tapu Lele|67/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|77/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|28
+|
+|t:|1641715152
+|switch|p2a: Heatran|Heatran, M|94/100
+|-damage|p2a: Heatran|82/100|[from] Stealth Rock
+|move|p1a: Tapu Lele|Psychic|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|48/100
+|
+|-heal|p2a: Heatran|54/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|j| zjsjshhsha
+|
+|t:|1641715161
+|move|p1a: Tapu Lele|Psychic|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|23/100
+|-unboost|p2a: Heatran|spd|1
+|move|p2a: Heatran|Magma Storm|p1a: Tapu Lele|[miss]
+|-miss|p2a: Heatran|p1a: Tapu Lele
+|
+|-heal|p2a: Heatran|29/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641715169
+|move|p1a: Tapu Lele|Psychic|p2a: Heatran
+|-resisted|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|l| TJLD
+|
+|t:|1641715171
+|switch|p2a: Tyranitar|Tyranitar, F|76/100 tox
+|-damage|p2a: Tyranitar|64/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|31
+|
+|t:|1641715177
+|switch|p1a: Buzzwole|Buzzwole|82/100 par
+|move|p2a: Tyranitar|Crunch|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|68/100 par
+|-unboost|p1a: Buzzwole|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Buzzwole|62/100 par|[from] Sandstorm
+|-heal|p2a: Tyranitar|70/100 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|64/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|32
+|
+|t:|1641715182
+|move|p2a: Tyranitar|Fire Punch|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|10/100 par
+|move|p1a: Buzzwole|Close Combat|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|faint|p2a: Tyranitar
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Buzzwole|4/100 par|[from] Sandstorm
+|upkeep
+|
+|t:|1641715187
+|switch|p2a: Garchomp|Garchomp, M|22/100
+|-damage|p2a: Garchomp|16/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1641715190
+|move|p2a: Garchomp|Earthquake|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641715194
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100 tox
+|turn|34
+|
+|t:|1641715196
+|switch|p2a: Zapdos|Zapdos|77/100
+|move|p1a: Tornadus|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|60/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|94/100 tox|[from] Sandstorm
+|-damage|p2a: Zapdos|54/100|[from] Sandstorm
+|-damage|p1a: Tornadus|88/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641715200
+|move|p1a: Tornadus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|48/100
+|
+|t:|1641715203
+|switch|p1a: Zeraora|Zeraora|65/100|[from]move: U-turn
+|move|p2a: Zapdos|Defog|p1a: Zeraora
+|-unboost|p1a: Zeraora|evasion|1
+|-sideend|p2: mr heartbreak|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|-weather|none
+|upkeep
+|turn|36
+|
+|t:|1641715213
+|move|p1a: Zeraora|Blaze Kick|p2a: Zapdos
+|-damage|p2a: Zapdos|16/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|67/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|37
+|
+|t:|1641715218
+|switch|p1a: Tapu Lele|Tapu Lele|67/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|38
+|
+|t:|1641715221
+|move|p1a: Tapu Lele|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|29/100
+|move|p2a: Zapdos|Hurricane|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|11/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641715227
+|move|p1a: Tapu Lele|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641715228
+|switch|p2a: Garchomp|Garchomp, M|16/100
+|turn|40
+|
+|t:|1641715232
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p2a: Garchomp|Stone Edge|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|30/100 tox
+|
+|-damage|p1a: Tornadus|24/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1641715234
+|switch|p1a: Gastrodon|Gastrodon-East, F|100/100
+|move|p2a: Garchomp|Stone Edge|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-crit|p1a: Gastrodon
+|-damage|p1a: Gastrodon|82/100
+|
+|-heal|p1a: Gastrodon|88/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|42
+|
+|t:|1641715236
+|move|p2a: Garchomp|Stone Edge|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-crit|p1a: Gastrodon
+|-damage|p1a: Gastrodon|70/100
+|move|p1a: Gastrodon|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|win|GindarasonPillows
+|raw|GindarasonPillows's rating: 1636 &rarr; <strong>1657</strong><br />(+21 for winning)
+|raw|mr heartbreak's rating: 1646 &rarr; <strong>1625</strong><br />(-21 for losing)
+|l|☆mr heartbreak

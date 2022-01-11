@@ -1,0 +1,302 @@
+|j|☆xMDH 2
+|j|☆cogonahorse
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641757969
+|gametype|singles
+|player|p1|xMDH 2|shadowtriad|
+|player|p2|cogonahorse|hilbert-wonderlauncher|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Clefable, F|
+|poke|p1|Altaria, F|
+|poke|p1|Scizor, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Zapdos|
+|poke|p2|Corviknight, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Hippowdon, M|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Koko|
+|teampreview
+|
+|t:|1641757979
+|start
+|switch|p1a: Altaria|Altaria, F|100/100
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|1
+|
+|t:|1641757987
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Blissey
+|-damage|p1a: Blissey|87/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641757991
+|move|p2a: Tapu Koko|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|72/100
+|
+|t:|1641757993
+|switch|p2a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|move|p1a: Blissey|Seismic Toss|p2a: Magnezone
+|-damage|p2a: Magnezone|66/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641758002
+|move|p2a: Magnezone|Rising Voltage|p1a: Blissey
+|-damage|p1a: Blissey|37/100
+|move|p1a: Blissey|Seismic Toss|p2a: Magnezone
+|-damage|p2a: Magnezone|32/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641758007
+|move|p2a: Magnezone|Body Press|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|upkeep
+|
+|t:|1641758011
+|switch|p1a: Altaria|Altaria, F|100/100
+|turn|5
+|
+|t:|1641758016
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Altaria|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641758018
+|move|p1a: Altaria|Fire Spin|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|90/100
+|-activate|p2a: Corviknight|move: Fire Spin|[of] p1a: Altaria
+|move|p2a: Corviknight|U-turn|p1a: Altaria
+|-resisted|p1a: Altaria
+|-damage|p1a: Altaria|93/100
+|
+|t:|1641758024
+|switch|p2a: Tapu Koko|Tapu Koko|100/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|
+|upkeep
+|turn|7
+|
+|t:|1641758030
+|switch|p1a: Scizor|Scizor, F, shiny|100/100
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|86/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641758036
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Scizor
+|-damage|p1a: Scizor|44/100
+|move|p1a: Scizor|Sand Tomb|p2a: Tapu Koko|[miss]
+|-miss|p1a: Scizor|p2a: Tapu Koko
+|
+|upkeep
+|turn|9
+|
+|t:|1641758043
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641758052
+|switch|p1a: Altaria|Altaria, F|93/100
+|turn|10
+|
+|t:|1641758056
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Altaria
+|-supereffective|p1a: Altaria
+|-damage|p1a: Altaria|45/100
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|95/100
+|-singleturn|p1a: Altaria|move: Roost
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|11
+|
+|t:|1641758066
+|switch|p2a: Corviknight|Corviknight, M|90/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Altaria|Fire Spin|p2a: Corviknight|[miss]
+|-miss|p1a: Altaria|p2a: Corviknight
+|
+|upkeep
+|turn|12
+|
+|t:|1641758072
+|move|p1a: Altaria|Fire Spin|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|79/100
+|-activate|p2a: Corviknight|move: Fire Spin|[of] p1a: Altaria
+|move|p2a: Corviknight|U-turn|p1a: Altaria
+|-resisted|p1a: Altaria
+|-damage|p1a: Altaria|87/100
+|
+|t:|1641758079
+|switch|p2a: Hippowdon|Hippowdon, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|13
+|c|☆xMDH 2|right  do i have 0 accuracy hack or what
+|
+|t:|1641758094
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Hippowdon|Toxic|p1a: Clefable
+|-status|p1a: Clefable|tox
+|
+|-damage|p1a: Clefable|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|c|☆cogonahorse|yeah there have been some unfortunate misses
+|inactive|cogonahorse has 120 seconds left.
+|
+|t:|1641758128
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Clefable|Ice Beam|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|83/100
+|
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|-damage|p1a: Clefable|82/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641758134
+|switch|p1a: Altaria|Altaria, F|87/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641758139
+|move|p1a: Altaria|Fire Spin|p2a: Hippowdon
+|-damage|p2a: Hippowdon|97/100
+|-activate|p2a: Hippowdon|move: Fire Spin|[of] p1a: Altaria
+|move|p2a: Hippowdon|Stealth Rock|p1a: Altaria
+|-sidestart|p1: xMDH 2|move: Stealth Rock
+|
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|-damage|p2a: Hippowdon|88/100|[from] move: Fire Spin|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1641758142
+|move|p1a: Altaria|Perish Song|p1a: Altaria
+|-start|p1a: Altaria|perish3|[silent]
+|-start|p2a: Hippowdon|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|move|p2a: Hippowdon|Toxic|p1a: Altaria|[miss]
+|-miss|p2a: Hippowdon|p1a: Altaria
+|
+|-heal|p2a: Hippowdon|94/100|[from] item: Leftovers
+|-damage|p2a: Hippowdon|82/100|[from] move: Fire Spin|[partiallytrapped]
+|-start|p1a: Altaria|perish3
+|-start|p2a: Hippowdon|perish3
+|upkeep
+|turn|18
+|
+|t:|1641758146
+|move|p1a: Altaria|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|70/100
+|move|p2a: Hippowdon|Toxic|p1a: Altaria|[miss]
+|-miss|p2a: Hippowdon|p1a: Altaria
+|
+|-heal|p2a: Hippowdon|76/100|[from] item: Leftovers
+|-damage|p2a: Hippowdon|64/100|[from] move: Fire Spin|[partiallytrapped]
+|-start|p1a: Altaria|perish2
+|-start|p2a: Hippowdon|perish2
+|upkeep
+|turn|19
+|
+|t:|1641758154
+|move|p1a: Altaria|Roost|p1a: Altaria
+|-heal|p1a: Altaria|100/100
+|-singleturn|p1a: Altaria|move: Roost
+|move|p2a: Hippowdon|Toxic|p1a: Altaria
+|-status|p1a: Altaria|tox
+|
+|-heal|p2a: Hippowdon|70/100|[from] item: Leftovers
+|-damage|p1a: Altaria|94/100 tox|[from] psn
+|-damage|p2a: Hippowdon|58/100|[from] move: Fire Spin|[partiallytrapped]
+|-start|p1a: Altaria|perish1
+|-start|p2a: Hippowdon|perish1
+|upkeep
+|turn|20
+|
+|t:|1641758160
+|-curestatus|p1a: Altaria|tox|[from] ability: Natural Cure
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|18/100
+|
+|-heal|p2a: Hippowdon|64/100|[from] item: Leftovers
+|-end|p2a: Hippowdon|Fire Spin|[partiallytrapped]|[silent]
+|-start|p2a: Hippowdon|perish0
+|upkeep
+|faint|p2a: Hippowdon
+|
+|t:|1641758165
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|21
+|
+|t:|1641758171
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Zapdos
+|-damage|p1a: Zapdos|54/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641758174
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|c|☆xMDH 2|right
+|c|☆xMDH 2|LOL
+|c|☆xMDH 2|gg
+|-message|xMDH 2 forfeited.
+|
+|win|cogonahorse
+|n|☆xMDH 2|xmdh2
+|n|☆cogonahorse|cogonahorse
+|l|☆xMDH 2
+|c|☆cogonahorse|gg sorry about the hax

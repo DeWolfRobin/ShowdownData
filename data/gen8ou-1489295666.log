@@ -1,0 +1,351 @@
+|j|☆dragonleader09
+|j|☆DumbLick1337
+|t:|1641885762
+|gametype|singles
+|player|p1|dragonleader09|riley|1294
+|player|p2|DumbLick1337|102|1303
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Quagsire, M|
+|poke|p1|Blissey, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Clefable, F|
+|poke|p1|Blacephalon|
+|poke|p1|Galvantula, M|
+|poke|p2|Togekiss, M|
+|poke|p2|Jirachi|
+|poke|p2|Clefable, M|
+|poke|p2|Seismitoad, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Gyarados, F|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641885768
+|start
+|switch|p1a: Galvantula|Galvantula, M|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641885771
+|move|p1a: Galvantula|Sticky Web|p2a: Clefable
+|-sidestart|p2: DumbLick1337|move: Sticky Web
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|2
+|j| HaywireHax
+|
+|t:|1641885776
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641885781
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Clefable|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|
+|upkeep
+|turn|4
+|
+|t:|1641885784
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Clefable|Stealth Rock|p2a: Clefable
+|-sidestart|p2: DumbLick1337|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1641885786
+|move|p2a: Clefable|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|75/100
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|71/100 tox
+|
+|-heal|p2a: Clefable|77/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641885792
+|move|p2a: Clefable|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|57/100
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|33/100 tox
+|-unboost|p2a: Clefable|spa|1
+|
+|-heal|p2a: Clefable|39/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|63/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641885794
+|move|p2a: Clefable|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|40/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|90/100
+|
+|-heal|p2a: Clefable|45/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|96/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641885798
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|95/100 tox
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|66/100 tox
+|-unboost|p2a: Clefable|spa|1
+|
+|-heal|p2a: Clefable|72/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641885801
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|43/100 tox
+|
+|-heal|p2a: Clefable|49/100 tox|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641885803
+|move|p2a: Clefable|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|76/100
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|20/100 tox
+|-unboost|p2a: Clefable|spa|1
+|
+|-heal|p2a: Clefable|26/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641885805
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|76/100 tox
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|45/100 tox
+|
+|-heal|p2a: Clefable|51/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|88/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641885808
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100 tox
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|73/100 tox
+|
+|-heal|p2a: Clefable|79/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641885811
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|47/100 tox
+|
+|-heal|p2a: Clefable|54/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641885813
+|move|p2a: Clefable|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|69/100
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|23/100 tox
+|
+|-heal|p2a: Clefable|29/100 tox|[from] item: Leftovers
+|-heal|p1a: Clefable|75/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641885815
+|move|p2a: Clefable|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|46/100
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Clefable|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641885815
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|-damage|p2a: Seismitoad|94/100|[from] Stealth Rock
+|-activate|p2a: Seismitoad|move: Sticky Web
+|-unboost|p2a: Seismitoad|spe|1
+|turn|16
+|
+|t:|1641885819
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Seismitoad|Stealth Rock|p1a: Clefable
+|-sidestart|p1: dragonleader09|move: Stealth Rock
+|
+|-heal|p2a: Seismitoad|100/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641885821
+|move|p1a: Clefable|Toxic|p2a: Seismitoad
+|-status|p2a: Seismitoad|tox
+|move|p2a: Seismitoad|Toxic|p1a: Clefable
+|-status|p1a: Clefable|tox
+|
+|-damage|p1a: Clefable|94/100 tox|[from] psn
+|-damage|p2a: Seismitoad|94/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641885825
+|switch|p2a: Jirachi|Jirachi|100/100
+|-activate|p2a: Jirachi|move: Sticky Web
+|-unboost|p2a: Jirachi|spe|1
+|-damage|p2a: Jirachi|94/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|79/100
+|
+|-heal|p1a: Clefable|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Clefable|88/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641885829
+|move|p2a: Jirachi|Iron Head|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|13/100 tox
+|cant|p1a: Clefable|flinch
+|
+|-heal|p1a: Clefable|19/100 tox|[from] item: Leftovers
+|-damage|p1a: Clefable|1/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641885832
+|move|p2a: Jirachi|Iron Head|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641885835
+|switch|p1a: Galvantula|Galvantula, M|100/100
+|-damage|p1a: Galvantula|76/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641885839
+|switch|p2a: Seismitoad|Seismitoad, F|94/100 tox
+|-damage|p2a: Seismitoad|88/100 tox|[from] Stealth Rock
+|-activate|p2a: Seismitoad|move: Sticky Web
+|-unboost|p2a: Seismitoad|spe|1
+|move|p1a: Galvantula|Thunder|p2a: Seismitoad
+|-immune|p2a: Seismitoad
+|
+|-heal|p2a: Seismitoad|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|88/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641885841
+|move|p1a: Galvantula|Giga Drain|p2a: Seismitoad
+|-supereffective|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|-heal|p1a: Galvantula|100/100|[from] drain|[of] p2a: Seismitoad
+|faint|p2a: Seismitoad
+|
+|upkeep
+|
+|t:|1641885841
+|switch|p2a: Jirachi|Jirachi|79/100
+|-damage|p2a: Jirachi|73/100|[from] Stealth Rock
+|-activate|p2a: Jirachi|move: Sticky Web
+|-unboost|p2a: Jirachi|spe|1
+|turn|23
+|
+|t:|1641885848
+|move|p1a: Galvantula|Thunder|p2a: Jirachi
+|-crit|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|faint|p2a: Jirachi
+|
+|upkeep
+|
+|t:|1641885848
+|switch|p2a: Gyarados|Gyarados, F|100/100
+|-damage|p2a: Gyarados|76/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641885853
+|move|p1a: Galvantula|Thunder|p2a: Gyarados
+|-supereffective|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|upkeep
+|
+|t:|1641885854
+|switch|p2a: Togekiss|Togekiss, M|100/100
+|-damage|p2a: Togekiss|76/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1641885857
+|move|p1a: Galvantula|Thunder|p2a: Togekiss
+|-supereffective|p2a: Togekiss
+|-damage|p2a: Togekiss|0 fnt
+|faint|p2a: Togekiss
+|
+|upkeep
+|
+|t:|1641885857
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-damage|p2a: Hawlucha|88/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641885859
+|move|p1a: Galvantula|Thunder|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|win|dragonleader09
+|raw|dragonleader09's rating: 1294 &rarr; <strong>1320</strong><br />(+26 for winning)
+|raw|DumbLick1337's rating: 1303 &rarr; <strong>1282</strong><br />(-21 for losing)
+|c|☆DumbLick1337|gg
+|l|☆DumbLick1337

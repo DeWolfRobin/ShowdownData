@@ -1,0 +1,292 @@
+|j|☆LoonyLoonyLunaris
+|j|☆Moth.o
+|t:|1641863418
+|gametype|singles
+|player|p1|LoonyLoonyLunaris|riley|1115
+|player|p2|Moth.o|roxie|1178
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Klefki, F|
+|poke|p1|Mienshao, F|
+|poke|p1|Jellicent, F|
+|poke|p1|Blissey, F|
+|poke|p1|Arcanine, F|
+|poke|p1|Bellossom, F|
+|poke|p2|Sylveon, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Scolipede, F|
+|poke|p2|Moltres|
+|poke|p2|Krookodile, F|
+|poke|p2|Lurantis, M|
+|teampreview
+|
+|t:|1641863430
+|start
+|switch|p1a: Arcanine|Arcanine, F|100/100
+|switch|p2a: Guillot|Lurantis, M|100/100
+|turn|1
+|
+|t:|1641863444
+|switch|p2a: Perséfone|Moltres|100/100
+|move|p1a: Arcanine|Flare Blitz|p2a: Perséfone
+|-resisted|p2a: Perséfone
+|-damage|p2a: Perséfone|79/100
+|-damage|p1a: Arcanine|93/100|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1641863459
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Lagartera|Krookodile, F, shiny|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641863472
+|switch|p1a: Bellossom|Bellossom, F|100/100
+|move|p2a: Lagartera|Bulk Up|p2a: Lagartera
+|-boost|p2a: Lagartera|atk|1
+|-boost|p2a: Lagartera|def|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641863480
+|move|p2a: Lagartera|Knock Off|p1a: Bellossom
+|-damage|p1a: Bellossom|11/100
+|-enditem|p1a: Bellossom|Big Root|[from] move: Knock Off|[of] p2a: Lagartera
+|-damage|p2a: Lagartera|91/100|[from] item: Life Orb
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641863489
+|move|p1a: Bellossom|Strength Sap|p2a: Lagartera
+|-unboost|p2a: Lagartera|atk|1
+|-heal|p1a: Bellossom|100/100
+|move|p2a: Lagartera|Scale Shot|p1a: Bellossom
+|-damage|p1a: Bellossom|89/100
+|-damage|p1a: Bellossom|78/100
+|-damage|p1a: Bellossom|67/100
+|-hitcount|p1a: Bellossom|3
+|-unboost|p2a: Lagartera|def|1
+|-boost|p2a: Lagartera|spe|1
+|-damage|p2a: Lagartera|81/100|[from] item: Life Orb
+|
+|upkeep
+|turn|6
+|
+|t:|1641863507
+|move|p2a: Lagartera|Knock Off|p1a: Bellossom
+|-damage|p1a: Bellossom|21/100
+|-damage|p2a: Lagartera|71/100|[from] item: Life Orb
+|move|p1a: Bellossom|Strength Sap|p2a: Lagartera
+|-unboost|p2a: Lagartera|atk|1
+|-heal|p1a: Bellossom|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641863517
+|switch|p2a: Guillot|Lurantis, M|100/100
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641863529
+|move|p1a: Bellossom|Quiver Dance|p1a: Bellossom
+|-boost|p1a: Bellossom|spa|1
+|-boost|p1a: Bellossom|spd|1
+|-boost|p1a: Bellossom|spe|1
+|move|p2a: Guillot|Superpower|p1a: Bellossom
+|-crit|p1a: Bellossom
+|-damage|p1a: Bellossom|55/100
+|-boost|p2a: Guillot|atk|1
+|-boost|p2a: Guillot|def|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641863539
+|move|p1a: Bellossom|Sludge Bomb|p2a: Guillot
+|-supereffective|p2a: Guillot
+|-damage|p2a: Guillot|5/100
+|move|p2a: Guillot|Superpower|p1a: Bellossom
+|-damage|p1a: Bellossom|4/100
+|-boost|p2a: Guillot|atk|1
+|-boost|p2a: Guillot|def|1
+|
+|-heal|p2a: Guillot|11/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641863549
+|move|p1a: Bellossom|Giga Drain|p2a: Guillot
+|-resisted|p2a: Guillot
+|-damage|p2a: Guillot|0 fnt
+|-heal|p1a: Bellossom|9/100|[from] drain|[of] p2a: Guillot
+|faint|p2a: Guillot
+|
+|upkeep
+|
+|t:|1641863556
+|switch|p2a: Aerodynamo|Dragapult, M|100/100
+|turn|11
+|
+|t:|1641863562
+|move|p2a: Aerodynamo|U-turn|p1a: Bellossom
+|-supereffective|p1a: Bellossom
+|-damage|p1a: Bellossom|0 fnt
+|faint|p1a: Bellossom
+|
+|t:|1641863578
+|switch|p2a: Lagartera|Krookodile, F, shiny|71/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641863584
+|switch|p1a: Klefki|Klefki, F|100/100
+|turn|12
+|
+|t:|1641863588
+|move|p1a: Klefki|Iron Defense|p1a: Klefki
+|-boost|p1a: Klefki|def|2
+|move|p2a: Lagartera|Earthquake|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|32/100
+|-enditem|p1a: Klefki|Weakness Policy
+|-boost|p1a: Klefki|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Klefki|spa|2|[from] item: Weakness Policy
+|-damage|p2a: Lagartera|61/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1641863597
+|move|p2a: Lagartera|Earthquake|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|0 fnt
+|faint|p1a: Klefki
+|-ability|p2a: Lagartera|Moxie|boost
+|-boost|p2a: Lagartera|atk|1
+|-damage|p2a: Lagartera|51/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641863605
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|turn|14
+|
+|t:|1641863610
+|move|p1a: Mienshao|U-turn|p2a: Lagartera
+|-supereffective|p2a: Lagartera
+|-damage|p2a: Lagartera|0 fnt
+|faint|p2a: Lagartera
+|
+|t:|1641863617
+|switch|p1a: Jellicent|Jellicent, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641863626
+|switch|p2a: TransLivesMatter|Sylveon, M|100/100
+|turn|15
+|
+|t:|1641863633
+|move|p2a: TransLivesMatter|Calm Mind|p2a: TransLivesMatter
+|-boost|p2a: TransLivesMatter|spa|1
+|-boost|p2a: TransLivesMatter|spd|1
+|move|p1a: Jellicent|Will-O-Wisp|p2a: TransLivesMatter
+|-status|p2a: TransLivesMatter|brn
+|
+|-damage|p2a: TransLivesMatter|94/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641863643
+|move|p2a: TransLivesMatter|Hyper Voice|p1a: Jellicent
+|-damage|p1a: Jellicent|35/100
+|-enditem|p2a: TransLivesMatter|Throat Spray
+|-boost|p2a: TransLivesMatter|spa|1|[from] item: Throat Spray
+|move|p1a: Jellicent|Hex|p2a: TransLivesMatter
+|-damage|p2a: TransLivesMatter|73/100 brn
+|
+|-heal|p1a: Jellicent|41/100|[from] item: Leftovers
+|-damage|p2a: TransLivesMatter|67/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641863654
+|move|p2a: TransLivesMatter|Hyper Voice|p1a: Jellicent
+|-damage|p1a: Jellicent|0 fnt
+|faint|p1a: Jellicent
+|
+|-damage|p2a: TransLivesMatter|61/100 brn|[from] brn
+|upkeep
+|
+|t:|1641863660
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|turn|18
+|
+|t:|1641863666
+|move|p1a: Mienshao|Poison Jab|p2a: TransLivesMatter
+|-supereffective|p2a: TransLivesMatter
+|-damage|p2a: TransLivesMatter|0 fnt
+|faint|p2a: TransLivesMatter
+|
+|upkeep
+|
+|t:|1641863673
+|switch|p2a: Ophelia|Scolipede, F, shiny|100/100
+|turn|19
+|
+|t:|1641863677
+|switch|p1a: Arcanine|Arcanine, F|93/100
+|move|p2a: Ophelia|Swords Dance|p2a: Ophelia
+|-boost|p2a: Ophelia|atk|2
+|
+|-ability|p2a: Ophelia|Speed Boost|boost
+|-boost|p2a: Ophelia|spe|1
+|upkeep
+|turn|20
+|
+|t:|1641863686
+|move|p2a: Ophelia|Aqua Tail|p1a: Arcanine
+|-supereffective|p1a: Arcanine
+|-damage|p1a: Arcanine|0 fnt
+|faint|p1a: Arcanine
+|
+|-ability|p2a: Ophelia|Speed Boost|boost
+|-boost|p2a: Ophelia|spe|1
+|upkeep
+|
+|t:|1641863693
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|turn|21
+|c|☆LoonyLoonyLunaris|gg
+|-message|LoonyLoonyLunaris forfeited.
+|
+|win|Moth.o
+|raw|LoonyLoonyLunaris's rating: 1115 &rarr; <strong>1094</strong><br />(-21 for losing)
+|raw|Moth.o's rating: 1178 &rarr; <strong>1199</strong><br />(+21 for winning)
+|l|☆LoonyLoonyLunaris

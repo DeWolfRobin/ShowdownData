@@ -1,0 +1,317 @@
+|j|☆SoleSurvivorVGC
+|j|☆Musab1317
+|t:|1641744727
+|gametype|singles
+|player|p1|SoleSurvivorVGC|hilbert|1288
+|player|p2|Musab1317|cynthia|1289
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Kartana|
+|poke|p1|Weavile, M|
+|poke|p1|Tapu Fini|
+|poke|p2|Garchomp, F|
+|poke|p2|Scizor, M|
+|poke|p2|Regieleki|
+|poke|p2|Incineroar, F|
+|poke|p2|Azelf|
+|poke|p2|Vaporeon, F|
+|teampreview
+|c|☆SoleSurvivorVGC|glhf
+|
+|t:|1641744738
+|start
+|switch|p1a: Pangea|Landorus-Therian, M|100/100
+|switch|p2a: Vaporeon|Vaporeon, F|100/100
+|-ability|p1a: Pangea|Intimidate|boost
+|-unboost|p2a: Vaporeon|atk|1
+|turn|1
+|
+|t:|1641744757
+|move|p1a: Pangea|Toxic|p2a: Vaporeon
+|-status|p2a: Vaporeon|tox
+|move|p2a: Vaporeon|Ice Beam|p1a: Pangea
+|-supereffective|p1a: Pangea
+|-damage|p1a: Pangea|0 fnt
+|faint|p1a: Pangea
+|
+|-damage|p2a: Vaporeon|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641744766
+|switch|p1a: Papercut|Kartana, shiny|100/100
+|turn|2
+|
+|t:|1641744771
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Papercut|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|57/100
+|-enditem|p2a: Scizor|Choice Band|[from] move: Knock Off|[of] p1a: Papercut
+|-damage|p1a: Papercut|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1641744789
+|switch|p1a: Ariel|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Ariel
+|move|p2a: Scizor|Bug Bite|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|80/100
+|
+|-heal|p1a: Ariel|86/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641744797
+|switch|p2a: Regieleki|Regieleki|100/100
+|move|p1a: Ariel|Calm Mind|p1a: Ariel
+|-boost|p1a: Ariel|spa|1
+|-boost|p1a: Ariel|spd|1
+|
+|-heal|p1a: Ariel|92/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641744802
+|move|p2a: Regieleki|Thunderbolt|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|21/100
+|move|p1a: Ariel|Calm Mind|p1a: Ariel
+|-boost|p1a: Ariel|spa|1
+|-boost|p1a: Ariel|spd|1
+|
+|-heal|p1a: Ariel|28/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641744820
+|switch|p1a: Not Choice Scarf|Magnezone|100/100
+|move|p2a: Regieleki|Thunderbolt|p1a: Not Choice Scarf
+|-resisted|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|69/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641744828
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|switch|p1a: Subzero|Weavile, M|100/100
+|-ability|p1a: Subzero|Pressure
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|8
+|
+|t:|1641744837
+|switch|p2a: Scizor|Scizor, M|57/100
+|move|p1a: Subzero|Triple Axel|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|52/100
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|42/100
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|27/100
+|-hitcount|p2a: Scizor|3
+|
+|upkeep
+|turn|9
+|
+|t:|1641744863
+|move|p2a: Scizor|Bullet Punch|p1a: Subzero
+|-supereffective|p1a: Subzero
+|-damage|p1a: Subzero|0 fnt
+|faint|p1a: Subzero
+|
+|upkeep
+|
+|t:|1641744867
+|switch|p1a: Mothra|Volcarona, M, shiny|100/100
+|turn|10
+|
+|t:|1641744877
+|move|p1a: Mothra|Quiver Dance|p1a: Mothra
+|-boost|p1a: Mothra|spa|1
+|-boost|p1a: Mothra|spd|1
+|-boost|p1a: Mothra|spe|1
+|move|p2a: Scizor|Dual Wingbeat|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|58/100
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|15/100
+|-hitcount|p1a: Mothra|2
+|
+|upkeep
+|turn|11
+|
+|t:|1641744884
+|move|p2a: Scizor|Bullet Punch|p1a: Mothra
+|-resisted|p1a: Mothra
+|-damage|p1a: Mothra|1/100
+|move|p1a: Mothra|Flamethrower|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1641744890
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|12
+|
+|t:|1641744893
+|move|p2a: Garchomp|Earthquake|p1a: Mothra
+|-damage|p1a: Mothra|0 fnt
+|faint|p1a: Mothra
+|
+|upkeep
+|
+|t:|1641744902
+|switch|p1a: Papercut|Kartana, shiny|91/100
+|turn|13
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Musab1317)
+|
+|t:|1641744906
+|move|p2a: Garchomp|Earthquake|p1a: Papercut
+|-damage|p1a: Papercut|45/100
+|move|p1a: Papercut|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|59/100
+|-damage|p1a: Papercut|32/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Choice Scarf|[from] move: Knock Off|[of] p1a: Papercut
+|-damage|p1a: Papercut|22/100|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1641744916
+|move|p1a: Papercut|Leaf Blade|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Papercut|10/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|-ability|p1a: Papercut|Beast Boost|boost
+|-boost|p1a: Papercut|spe|1
+|-damage|p1a: Papercut|0 fnt|[from] item: Life Orb
+|faint|p1a: Papercut
+|
+|upkeep
+|
+|t:|1641744938
+|switch|p1a: Ariel|Tapu Fini, shiny|28/100
+|switch|p2a: Incineroar|Incineroar, F|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Ariel
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Ariel|atk|1
+|turn|15
+|
+|t:|1641744945
+|move|p2a: Incineroar|Fake Out|p1a: Ariel
+|-damage|p1a: Ariel|15/100
+|cant|p1a: Ariel|flinch
+|
+|-heal|p1a: Ariel|21/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641744953
+|move|p1a: Ariel|Scald|p2a: Incineroar
+|-supereffective|p2a: Incineroar
+|-damage|p2a: Incineroar|47/100
+|move|p2a: Incineroar|Flare Blitz|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|0 fnt
+|faint|p1a: Ariel
+|-damage|p2a: Incineroar|41/100|[from] Recoil
+|
+|-heal|p2a: Incineroar|47/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641744961
+|switch|p1a: Not Choice Scarf|Magnezone|69/100
+|turn|17
+|
+|t:|1641744965
+|move|p1a: Not Choice Scarf|Thunderbolt|p2a: Incineroar
+|-crit|p2a: Incineroar
+|-damage|p2a: Incineroar|0 fnt
+|faint|p2a: Incineroar
+|
+|upkeep
+|
+|t:|1641744969
+|switch|p2a: Azelf|Azelf|100/100
+|turn|18
+|c|☆SoleSurvivorVGC|mb
+|
+|t:|1641744976
+|move|p2a: Azelf|Psychic|p1a: Not Choice Scarf
+|-resisted|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|54/100
+|move|p1a: Not Choice Scarf|Thunderbolt|p2a: Azelf
+|-damage|p2a: Azelf|27/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641744985
+|move|p2a: Azelf|Psychic|p1a: Not Choice Scarf
+|-resisted|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|39/100
+|move|p1a: Not Choice Scarf|Thunderbolt|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641744991
+|switch|p2a: Vaporeon|Vaporeon, F|94/100 tox
+|turn|20
+|
+|t:|1641744994
+|move|p1a: Not Choice Scarf|Thunderbolt|p2a: Vaporeon
+|-supereffective|p2a: Vaporeon
+|-damage|p2a: Vaporeon|41/100 tox
+|move|p2a: Vaporeon|Hydro Pump|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|10/100
+|
+|-heal|p2a: Vaporeon|47/100 tox|[from] item: Leftovers
+|-damage|p2a: Vaporeon|41/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641745006
+|move|p1a: Not Choice Scarf|Thunderbolt|p2a: Vaporeon
+|-supereffective|p2a: Vaporeon
+|-damage|p2a: Vaporeon|0 fnt
+|faint|p2a: Vaporeon
+|
+|upkeep
+|
+|t:|1641745011
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|22
+|c|☆SoleSurvivorVGC|gg
+|
+|t:|1641745018
+|move|p2a: Regieleki|Thunderbolt|p1a: Not Choice Scarf
+|-resisted|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|0 fnt
+|faint|p1a: Not Choice Scarf
+|
+|win|Musab1317
+|raw|SoleSurvivorVGC's rating: 1288 &rarr; <strong>1263</strong><br />(-25 for losing)
+|raw|Musab1317's rating: 1289 &rarr; <strong>1314</strong><br />(+25 for winning)
+|l|☆Musab1317

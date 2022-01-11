@@ -1,0 +1,362 @@
+|j|‽almighty sa
+|j|☆chinmaydagod
+|t:|1641744157
+|gametype|singles
+|player|p1|almighty sa|volkner|1508
+|player|p2|chinmaydagod|170|1524
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Pelipper, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Glastrier|
+|poke|p2|Kommo-o, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Zapdos|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|c|☆chinmaydagod|what da horse doin
+|
+|t:|1641744172
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1641744179
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|67/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641744186
+|move|p1a: Thundurus|Weather Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|41/100
+|move|p2a: Zapdos|Hurricane|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|38/100
+|-start|p1a: Thundurus|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by almighty sa)
+|
+|t:|1641744194
+|switch|p2a: Melmetal|Melmetal|100/100
+|-activate|p1a: Thundurus|confusion
+|move|p1a: Thundurus|Weather Ball|p2a: Melmetal
+|-damage|p2a: Melmetal|75/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641744200
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641744205
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|75/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641744209
+|move|p2a: Kommo-o|Belly Drum|p2a: Kommo-o
+|-damage|p2a: Kommo-o|25/100
+|-setboost|p2a: Kommo-o|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Kommo-o|Salac Berry|[eat]
+|-boost|p2a: Kommo-o|spe|1|[from] item: Salac Berry
+|move|p1a: Tapu Lele|Psyshock|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641744215
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Kommo-o|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|31/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|37/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641744226
+|switch|p1a: Thundurus|Thundurus-Therian, M|38/100
+|move|p2a: Kommo-o|Drain Punch|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|-heal|p2a: Kommo-o|43/100|[from] drain|[of] p1a: Thundurus
+|faint|p1a: Thundurus
+|
+|-weather|none
+|upkeep
+|
+|t:|1641744231
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|9
+|
+|t:|1641744236
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|18/100
+|move|p1a: Pelipper|U-turn|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-activate|p2a: Kommo-o|move: Substitute|[damage]
+|
+|t:|1641744242
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|10
+|
+|t:|1641744249
+|move|p1a: Barraskewda|Flip Turn|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|t:|1641744255
+|switch|p1a: Ferrothorn|Ferrothorn, M|37/100|[from]move: Flip Turn
+|move|p2a: Kommo-o|Drain Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-heal|p2a: Kommo-o|38/100|[from] drain|[of] p1a: Ferrothorn
+|-damage|p2a: Kommo-o|25/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641744258
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|100/100
+|turn|11
+|
+|t:|1641744272
+|move|p1a: Barraskewda|Liquidation|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641744280
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|12
+|
+|t:|1641744288
+|switch|p1a: Glastrier|Glastrier|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Glastrier
+|-damage|p1a: Glastrier|54/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641744301
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|move|p1a: Glastrier|Icicle Crash|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|76/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641744308
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|100/100
+|move|p2a: Volcarona|Toxic|p1a: Barraskewda
+|-status|p1a: Barraskewda|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Barraskewda|94/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641744330
+|switch|p2a: Zapdos|Zapdos|41/100
+|move|p1a: Barraskewda|Flip Turn|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|t:|1641744343
+|switch|p1a: Glastrier|Glastrier|54/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641744351
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|16
+|
+|t:|1641744355
+|move|p2a: Dragapult|Hydro Pump|p1a: Glastrier
+|-damage|p1a: Glastrier|0 fnt
+|faint|p1a: Glastrier
+|
+|-weather|none
+|upkeep
+|
+|t:|1641744362
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|17
+|
+|t:|1641744368
+|switch|p2a: Volcarona|Volcarona, M|76/100
+|move|p1a: Pelipper|U-turn|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|72/100
+|-status|p1a: Pelipper|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|
+|t:|1641744371
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|94/100 tox|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Barraskewda|88/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641744384
+|move|p1a: Barraskewda|Flip Turn|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|t:|1641744389
+|switch|p1a: Pelipper|Pelipper, F|100/100 brn|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1641744397
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|19
+|
+|t:|1641744405
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Dragapult|Draco Meteor|p1a: Tapu Lele
+|-immune|p1a: Tapu Lele
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641744422
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Lele|atk|1
+|switch|p1a: Barraskewda|Barraskewda, F, shiny|88/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Barraskewda|82/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641744432
+|move|p1a: Barraskewda|Liquidation|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Barraskewda|70/100 tox|[from] psn
+|upkeep
+|
+|t:|1641744435
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|22
+|
+|t:|1641744441
+|move|p1a: Barraskewda|Liquidation|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|32/100
+|-unboost|p2a: Dragapult|def|1
+|move|p2a: Dragapult|Shadow Ball|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641744462
+|switch|p1a: Pelipper|Pelipper, F|94/100 brn
+|turn|23
+|
+|t:|1641744469
+|move|p2a: Dragapult|Shadow Ball|p1a: Pelipper
+|-damage|p1a: Pelipper|21/100 brn
+|move|p1a: Pelipper|Scald|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|3/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Pelipper|14/100 brn|[from] brn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|24
+|
+|t:|1641744474
+|move|p2a: Dragapult|Shadow Ball|p1a: Pelipper
+|-crit|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|none
+|upkeep
+|
+|t:|1641744477
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|25
+|
+|t:|1641744481
+|move|p2a: Dragapult|Shadow Ball|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|win|chinmaydagod
+|raw|almighty sa's rating: 1508 &rarr; <strong>1489</strong><br />(-19 for losing)
+|raw|chinmaydagod's rating: 1524 &rarr; <strong>1543</strong><br />(+19 for winning)
+|l|‽almighty sa
+|c|☆chinmaydagod|gg

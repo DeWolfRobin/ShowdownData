@@ -1,0 +1,229 @@
+|j|☆sidface
+|j|☆thuongprovip
+|t:|1641829126
+|gametype|singles
+|player|p1|sidface|265|1081
+|player|p2|thuongprovip|102|1030
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcanion|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Arctozolt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Weavile, M|
+|poke|p2|Woobat, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Victini|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Ferrothorn, M|
+|teampreview
+|
+|t:|1641829129
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|switch|p2a: Woobat|Woobat, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641829139
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: sidface|move: Aurora Veil
+|move|p2a: Woobat|Calm Mind|p2a: Woobat
+|-boost|p2a: Woobat|spa|2
+|-boost|p2a: Woobat|spd|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Woobat|94/100|[from] Hail
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by thuongprovip)
+|
+|t:|1641829158
+|move|p1a: Ninetales|Encore|p2a: Woobat
+|-start|p2a: Woobat|Encore
+|move|p2a: Woobat|Calm Mind|p2a: Woobat
+|-boost|p2a: Woobat|spa|2
+|-boost|p2a: Woobat|spd|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Woobat|88/100|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1641829167
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|switch|p2a: Victini|Victini|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Victini|94/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641829180
+|move|p1a: Arctozolt|Substitute|p1a: Arctozolt
+|-start|p1a: Arctozolt|Substitute
+|-damage|p1a: Arctozolt|76/100
+|move|p2a: Victini|V-create|p1a: Arctozolt
+|-supereffective|p1a: Arctozolt
+|-end|p1a: Arctozolt|Substitute
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Victini|88/100|[from] Hail
+|-heal|p1a: Arctozolt|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641829192
+|move|p1a: Arctozolt|Bolt Beak|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|-weather|Hail|[upkeep]
+|-heal|p1a: Arctozolt|88/100|[from] item: Leftovers
+|-sideend|p1: sidface|move: Aurora Veil
+|upkeep
+|
+|t:|1641829199
+|switch|p2a: Weavile|Weavile, M|100/100
+|turn|6
+|
+|t:|1641829209
+|move|p1a: Arctozolt|Low Kick|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|-weather|Hail|[upkeep]
+|-heal|p1a: Arctozolt|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641829214
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|7
+|
+|t:|1641829219
+|move|p1a: Arctozolt|Bolt Beak|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-weather|Hail|[upkeep]
+|-heal|p1a: Arctozolt|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641829223
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Arctozolt|atk|1
+|turn|8
+|
+|t:|1641829232
+|move|p1a: Arctozolt|Blizzard|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|none
+|upkeep
+|
+|t:|1641829241
+|switch|p2a: Woobat|Woobat, F|88/100
+|turn|9
+|
+|t:|1641829246
+|move|p2a: Woobat|Calm Mind|p2a: Woobat
+|-boost|p2a: Woobat|spa|2
+|-boost|p2a: Woobat|spd|2
+|move|p1a: Arctozolt|Bolt Beak|p2a: Woobat
+|-supereffective|p2a: Woobat
+|-damage|p2a: Woobat|0 fnt
+|faint|p2a: Woobat
+|
+|upkeep
+|
+|t:|1641829252
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|10
+|
+|t:|1641829258
+|move|p1a: Arctozolt|Blizzard|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|72/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Arctozolt
+|-damage|p1a: Arctozolt|72/100
+|-enditem|p1a: Arctozolt|Leftovers|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|11
+|
+|t:|1641829270
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Tornadus
+|-start|p1a: Tornadus|move: Leech Seed
+|
+|-damage|p1a: Tornadus|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|85/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641829278
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Tornadus|Heat Wave|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-damage|p1a: Tornadus|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|98/100|[silent]
+|upkeep
+|turn|13
+|
+|t:|1641829283
+|move|p1a: Tornadus|Heat Wave|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|24/100
+|move|p2a: Ferrothorn|Toxic|p1a: Tornadus
+|-status|p1a: Tornadus|tox
+|
+|-damage|p1a: Tornadus|63/100 tox|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|37/100|[silent]
+|-damage|p1a: Tornadus|57/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641829293
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Tornadus|Heat Wave|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-damage|p1a: Tornadus|45/100 tox|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|49/100|[silent]
+|-damage|p1a: Tornadus|32/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641829304
+|move|p1a: Tornadus|Heat Wave|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|win|sidface
+|raw|sidface's rating: 1081 &rarr; <strong>1105</strong><br />(+24 for winning)
+|raw|thuongprovip's rating: 1030 &rarr; <strong>1018</strong><br />(-12 for losing)
+|l|☆thuongprovip

@@ -1,0 +1,109 @@
+|j|☆Leafeonsupremacy
+|j|☆DumbLick1337
+|t:|1641834606
+|gametype|singles
+|player|p1|Leafeonsupremacy|cyrus|1297
+|player|p2|DumbLick1337|102|1324
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Bisharp, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Scizor, M|
+|poke|p1|Melmetal|
+|poke|p2|Seismitoad, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Hippowdon, M|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641834611
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|1
+|
+|t:|1641834615
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: rotomheat|atk|1
+|move|p2a: rotomheat|Will-O-Wisp|p1a: Landorus
+|-status|p1a: Landorus|brn
+|
+|-damage|p1a: Landorus|95/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641834618
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Landorus|Explosion|p2a: Hippowdon
+|-damage|p2a: Hippowdon|66/100
+|faint|p1a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641834622
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|3
+|
+|t:|1641834625
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|move|p1a: Melmetal|Ice Punch|p2a: rotomheat
+|-resisted|p2a: rotomheat
+|-damage|p2a: rotomheat|62/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: rotomheat|56/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641834629
+|move|p2a: rotomheat|Overheat|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|-unboost|p2a: rotomheat|spa|2
+|faint|p1a: Melmetal
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: rotomheat|49/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641834633
+|switch|p1a: Kartana|Kartana|100/100
+|turn|5
+|
+|t:|1641834635
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kartana|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|67/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|-message|Leafeonsupremacy forfeited.
+|
+|win|DumbLick1337
+|raw|Leafeonsupremacy's rating: 1297 &rarr; <strong>1274</strong><br />(-23 for losing)
+|raw|DumbLick1337's rating: 1324 &rarr; <strong>1342</strong><br />(+18 for winning)
+|c|☆DumbLick1337|gg
+|l|☆Leafeonsupremacy

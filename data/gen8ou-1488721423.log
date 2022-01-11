@@ -1,0 +1,2359 @@
+|j|☆Alflop
+|j|☆gokufromdragonball
+|t:|1641810073
+|gametype|singles
+|player|p1|Alflop|falkner|1211
+|player|p2|gokufromdragonball|firebreather|1260
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro, F|
+|poke|p1|Kartana|
+|poke|p1|Alakazam, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Blacephalon|
+|poke|p2|Ditto|
+|poke|p2|Gastrodon, M|
+|poke|p2|Shedinja|
+|poke|p2|Raboot, F|
+|poke|p2|Sableye, F|
+|poke|p2|Avalugg, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Alflop)
+|
+|t:|1641810091
+|start
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|switch|p2a: balIs lol|Shedinja|100/100
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|1
+|
+|t:|1641810098
+|move|p1a: Excadrill|Earthquake|p2a: balIs lol
+|-resisted|p2a: balIs lol
+|-enditem|p2a: balIs lol|Focus Sash
+|-damage|p2a: balIs lol|100/100
+|move|p2a: balIs lol|Will-O-Wisp|p1a: Excadrill
+|-status|p1a: Excadrill|brn
+|
+|-damage|p1a: Excadrill|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641810114
+|switch|p2a: baIls Iol|Avalugg, F|100/100
+|move|p1a: Excadrill|Earthquake|p2a: baIls Iol
+|-damage|p2a: baIls Iol|88/100
+|
+|-damage|p1a: Excadrill|88/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641810130
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: baIls Iol|Avalanche|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|73/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641810145
+|switch|p2a: baIls lol|Gastrodon, M|100/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: baIls lol
+|-damage|p2a: baIls lol|71/100
+|
+|-heal|p2a: baIls lol|77/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641810155
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: baIls lol|Scald|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|88/100
+|
+|-heal|p2a: baIls lol|84/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641810170
+|switch|p2a: balls loI|Sableye, F|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balls loI
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|7
+|
+|t:|1641810176
+|move|p2a: balls loI|Taunt|p1a: Slowbro
+|-start|p1a: Slowbro|move: Taunt
+|cant|p1a: Slowbro|move: Taunt|Teleport
+|
+|upkeep
+|turn|8
+|
+|t:|1641810195
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: balls loI|Foul Play|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|94/100
+|
+|-end|p2a: balls loI|move: Future Sight
+|-immune|p2a: balls loI
+|upkeep
+|turn|9
+|
+|t:|1641810207
+|move|p2a: balls loI|Will-O-Wisp|p1a: Mandibuzz
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Mandibuzz
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|79/100
+|
+|-heal|p2a: balls loI|85/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641810227
+|move|p2a: balls loI|Taunt|p1a: Mandibuzz
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Mandibuzz
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls loI
+|-damage|p2a: balls loI|75/100
+|-damage|p2a: balls loI|65/100
+|-hitcount|p2a: balls loI|2
+|
+|-heal|p2a: balls loI|71/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641810244
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|100/100
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|81/100
+|
+|-heal|p2a: balls loI|88/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641810252
+|switch|p1a: Blacephalon|Blacephalon|73/100
+|move|p2a: balls loI|Foul Play|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|-heal|p2a: balls loI|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641810260
+|switch|p1a: Kartana|Kartana|100/100
+|turn|13
+|
+|t:|1641810277
+|move|p2a: balls loI|Will-O-Wisp|p1a: Kartana
+|-status|p1a: Kartana|brn
+|move|p1a: Kartana|Knock Off|p2a: balls loI
+|-damage|p2a: balls loI|72/100
+|-enditem|p2a: balls loI|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|
+|-damage|p1a: Kartana|94/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641810285
+|switch|p1a: Mandibuzz|Mandibuzz, F|94/100
+|move|p2a: balls loI|Taunt|p1a: Mandibuzz
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Mandibuzz
+|
+|upkeep
+|turn|15
+|
+|t:|1641810292
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|50/100
+|move|p2a: balls loI|Foul Play|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|87/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641810296
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|99/100
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-crit|p2a: balls loI
+|-damage|p2a: balls loI|67/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641810304
+|switch|p2a: baIls Iol|Avalugg, F|88/100
+|move|p1a: Mandibuzz|Foul Play|p2a: baIls Iol
+|-damage|p2a: baIls Iol|72/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641810314
+|switch|p1a: Kartana|Kartana|94/100 brn
+|move|p2a: baIls Iol|Avalanche|p1a: Kartana
+|-damage|p1a: Kartana|69/100 brn
+|
+|-damage|p1a: Kartana|63/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641810335
+|move|p1a: Kartana|Sacred Sword|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|56/100
+|move|p2a: baIls Iol|Recover|p2a: baIls Iol
+|-heal|p2a: baIls Iol|100/100
+|
+|-damage|p1a: Kartana|56/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641810353
+|move|p1a: Kartana|Sacred Sword|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|85/100
+|move|p2a: baIls Iol|Avalanche|p1a: Kartana
+|-damage|p1a: Kartana|8/100 brn
+|
+|-damage|p1a: Kartana|2/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641810363
+|move|p1a: Kartana|Sacred Sword|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|68/100
+|move|p2a: baIls Iol|Recover|p2a: baIls Iol
+|-heal|p2a: baIls Iol|100/100
+|
+|-damage|p1a: Kartana|0 fnt|[from] brn
+|faint|p1a: Kartana
+|upkeep
+|
+|t:|1641810371
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|turn|22
+|
+|t:|1641810386
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|23
+|
+|t:|1641810406
+|move|p2a: balIs lol|Poltergeist|p1a: Slowbro
+|-activate|p1a: Slowbro|move: Poltergeist|Heavy-Duty Boots
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|48/100
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641810415
+|switch|p1a: Excadrill|Excadrill, F|88/100 brn|[from]move: Teleport
+|-ability|p1a: Excadrill|Mold Breaker
+|
+|-damage|p1a: Excadrill|82/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641810420
+|switch|p2a: baIls Iol|Avalugg, F|100/100
+|move|p1a: Excadrill|Stealth Rock|p2a: baIls Iol
+|-sidestart|p2: gokufromdragonball|move: Stealth Rock
+|
+|-end|p2a: baIls Iol|move: Future Sight
+|-damage|p2a: baIls Iol|30/100
+|-damage|p1a: Excadrill|76/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641810430
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|10/100
+|move|p2a: baIls Iol|Recover|p2a: baIls Iol
+|-heal|p2a: baIls Iol|60/100
+|
+|-damage|p1a: Excadrill|70/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641810439
+|move|p1a: Excadrill|Earthquake|p2a: baIls Iol
+|-damage|p2a: baIls Iol|48/100
+|move|p2a: baIls Iol|Recover|p2a: baIls Iol
+|-heal|p2a: baIls Iol|98/100
+|
+|-damage|p1a: Excadrill|64/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641810447
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|79/100
+|cant|p2a: baIls Iol|flinch
+|
+|-damage|p1a: Excadrill|58/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641810456
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|59/100
+|cant|p2a: baIls Iol|flinch
+|
+|-damage|p1a: Excadrill|52/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641810464
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|39/100
+|move|p2a: baIls Iol|Rapid Spin|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|42/100 brn
+|-boost|p2a: baIls Iol|spe|1
+|-sideend|p2: gokufromdragonball|Stealth Rock|[from] move: Rapid Spin|[of] p2a: baIls Iol
+|
+|-damage|p1a: Excadrill|36/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641810470
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|20/100
+|move|p2a: baIls Iol|Recover|p2a: baIls Iol
+|-heal|p2a: baIls Iol|70/100
+|
+|-damage|p1a: Excadrill|30/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641810476
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|52/100
+|cant|p2a: baIls Iol|flinch
+|
+|-damage|p1a: Excadrill|23/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641810481
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|33/100
+|move|p2a: baIls Iol|Recover|p2a: baIls Iol
+|-heal|p2a: baIls Iol|83/100
+|
+|-damage|p1a: Excadrill|17/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1641810487
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|64/100
+|move|p2a: baIls Iol|Rapid Spin|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|8/100 brn
+|-boost|p2a: baIls Iol|spe|1
+|
+|-damage|p1a: Excadrill|2/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1641810491
+|move|p1a: Excadrill|Iron Head|p2a: baIls Iol
+|-supereffective|p2a: baIls Iol
+|-damage|p2a: baIls Iol|47/100
+|move|p2a: baIls Iol|Recover|p2a: baIls Iol
+|-heal|p2a: baIls Iol|97/100
+|
+|-damage|p1a: Excadrill|0 fnt|[from] brn
+|faint|p1a: Excadrill
+|upkeep
+|
+|t:|1641810498
+|switch|p1a: Alakazam|Alakazam, F, shiny|100/100
+|turn|35
+|
+|t:|1641810524
+|switch|p2a: baIls lol|Gastrodon, M|84/100
+|move|p1a: Alakazam|Psychic|p2a: baIls lol
+|-damage|p2a: baIls lol|51/100
+|
+|-heal|p2a: baIls lol|57/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641810532
+|move|p1a: Alakazam|Energy Ball|p2a: baIls lol
+|-supereffective|p2a: baIls lol
+|-damage|p2a: baIls lol|0 fnt
+|faint|p2a: baIls lol
+|
+|upkeep
+|
+|t:|1641810537
+|switch|p2a: balls lol|Ditto|100/100
+|-transform|p2a: balls lol|p1a: Alakazam|[from] ability: Imposter
+|turn|37
+|
+|t:|1641810550
+|move|p2a: balls lol|Shadow Ball|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-damage|p1a: Alakazam|20/100
+|move|p1a: Alakazam|Shadow Ball|p2a: balls lol
+|-supereffective|p2a: balls lol
+|-damage|p2a: balls lol|26/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641810562
+|switch|p1a: Mandibuzz|Mandibuzz, F|87/100
+|move|p2a: balls lol|Shadow Ball|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|75/100
+|-unboost|p1a: Mandibuzz|spd|1
+|
+|upkeep
+|turn|39
+|
+|t:|1641810572
+|switch|p2a: baIls Iol|Avalugg, F|97/100
+|move|p1a: Mandibuzz|Foul Play|p2a: baIls Iol
+|-damage|p2a: baIls Iol|81/100
+|
+|upkeep
+|turn|40
+|
+|t:|1641810587
+|switch|p1a: Slowbro|Slowbro, F|81/100
+|switch|p2a: balls Iol|Raboot, F|100/100
+|
+|upkeep
+|turn|41
+|
+|t:|1641810591
+|move|p2a: balls Iol|U-turn|p1a: Slowbro
+|-start|p2a: balls Iol|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|28/100
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641810624
+|switch|p2a: balIs lol|Shedinja|100/100|[from]move: U-turn
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|42
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641810643
+|switch|p1a: Mandibuzz|Mandibuzz, F|75/100
+|move|p2a: balIs lol|Swords Dance|p2a: balIs lol
+|-boost|p2a: balIs lol|atk|2
+|
+|upkeep
+|turn|43
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641810656
+|switch|p2a: balls loI|Sableye, F|67/100
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|45/100
+|
+|-end|p2a: balls loI|move: Future Sight
+|-immune|p2a: balls loI
+|upkeep
+|turn|44
+|
+|t:|1641810661
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|95/100
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|75/100
+|
+|upkeep
+|turn|45
+|
+|t:|1641810666
+|move|p2a: balls loI|Will-O-Wisp|p1a: Mandibuzz
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Mandibuzz
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|52/100
+|
+|upkeep
+|turn|46
+|
+|t:|1641810681
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|33/100
+|move|p2a: balls loI|Foul Play|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|69/100
+|
+|upkeep
+|turn|47
+|
+|t:|1641810690
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|83/100
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|63/100
+|
+|upkeep
+|turn|48
+|
+|t:|1641810701
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|100/100
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls loI|[miss]
+|-miss|p1a: Mandibuzz|p2a: balls loI
+|
+|upkeep
+|turn|49
+|
+|t:|1641810712
+|switch|p2a: baIls Iol|Avalugg, F|81/100
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: baIls Iol
+|-damage|p2a: baIls Iol|77/100
+|-damage|p2a: baIls Iol|73/100
+|-hitcount|p2a: baIls Iol|2
+|
+|upkeep
+|turn|50
+|
+|t:|1641810717
+|switch|p1a: Slowbro|Slowbro, F|61/100
+|switch|p2a: balls Iol|Raboot, F|100/100
+|
+|upkeep
+|turn|51
+|
+|t:|1641810723
+|switch|p1a: Mandibuzz|Mandibuzz, F|69/100
+|move|p2a: balls Iol|U-turn|p1a: Mandibuzz
+|-start|p2a: balls Iol|typechange|Bug|[from] ability: Libero
+|-damage|p1a: Mandibuzz|46/100
+|
+|t:|1641810733
+|switch|p2a: baIls Iol|Avalugg, F|73/100|[from]move: U-turn
+|
+|upkeep
+|turn|52
+|
+|t:|1641810741
+|switch|p1a: Alakazam|Alakazam, F, shiny|20/100
+|move|p2a: baIls Iol|Avalanche|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|upkeep
+|
+|t:|1641810745
+|switch|p1a: Slowbro|Slowbro, F|95/100
+|turn|53
+|
+|t:|1641810754
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|upkeep
+|turn|54
+|
+|t:|1641810763
+|move|p2a: balIs lol|Poltergeist|p1a: Slowbro|[miss]
+|-miss|p2a: balIs lol|p1a: Slowbro
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641810767
+|switch|p1a: Mandibuzz|Mandibuzz, F|46/100|[from]move: Teleport
+|
+|upkeep
+|turn|55
+|
+|t:|1641810781
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|switch|p2a: balls loI|Sableye, F|100/100
+|
+|upkeep
+|turn|56
+|
+|t:|1641810790
+|move|p2a: balls loI|Taunt|p1a: Slowbro
+|-start|p1a: Slowbro|move: Taunt
+|move|p1a: Slowbro|Scald|p2a: balls loI
+|-damage|p2a: balls loI|58/100
+|
+|upkeep
+|turn|57
+|
+|t:|1641810799
+|move|p2a: balls loI|Will-O-Wisp|p1a: Slowbro
+|-status|p1a: Slowbro|brn
+|move|p1a: Slowbro|Scald|p2a: balls loI
+|-damage|p2a: balls loI|11/100
+|-status|p2a: balls loI|brn
+|
+|-damage|p2a: balls loI|5/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|58
+|
+|t:|1641810807
+|switch|p1a: Mandibuzz|Mandibuzz, F|46/100
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|55/100 brn
+|
+|-damage|p2a: balls loI|49/100 brn|[from] brn
+|upkeep
+|turn|59
+|
+|t:|1641810811
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|99/100 brn
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|96/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p2a: balls loI|93/100 brn|[from] brn
+|upkeep
+|turn|60
+|
+|t:|1641810817
+|switch|p2a: baIls Iol|Avalugg, F|73/100
+|move|p1a: Mandibuzz|Foul Play|p2a: baIls Iol
+|-damage|p2a: baIls Iol|57/100
+|
+|upkeep
+|turn|61
+|
+|t:|1641810838
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: baIls Iol|Recover|p2a: baIls Iol
+|-heal|p2a: baIls Iol|100/100
+|
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|62
+|
+|t:|1641810848
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|63
+|
+|t:|1641810860
+|switch|p1a: Mandibuzz|Mandibuzz, F|96/100
+|move|p2a: balIs lol|Poltergeist|p1a: Mandibuzz
+|-activate|p1a: Mandibuzz|move: Poltergeist|Heavy-Duty Boots
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|83/100
+|
+|upkeep
+|turn|64
+|
+|t:|1641810868
+|switch|p2a: balls loI|Sableye, F|93/100 brn
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|70/100 brn
+|
+|-end|p2a: balls loI|move: Future Sight
+|-immune|p2a: balls loI
+|-damage|p2a: balls loI|63/100 brn|[from] brn
+|upkeep
+|turn|65
+|
+|t:|1641810878
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|44/100 brn
+|move|p2a: balls loI|Foul Play|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|80/100
+|
+|-damage|p2a: balls loI|37/100 brn|[from] brn
+|upkeep
+|turn|66
+|
+|t:|1641810884
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|87/100 brn
+|move|p1a: Mandibuzz|Foul Play|p2a: balls loI
+|-damage|p2a: balls loI|66/100 brn
+|
+|-damage|p2a: balls loI|59/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1641810906
+|switch|p2a: balls lol|Ditto|26/100
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Foul Play|p2a: balls lol
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|17/100
+|
+|upkeep
+|turn|68
+|
+|t:|1641810911
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|67/100
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|59/100
+|-damage|p2a: balls lol|52/100
+|-hitcount|p2a: balls lol|2
+|
+|upkeep
+|turn|69
+|
+|t:|1641810917
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|70
+|
+|t:|1641810925
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|71
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641810960
+|switch|p2a: balls lol|Ditto|100/100
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|move|p1a: Slowbro|Future Sight|p2a: balls lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|82/100 brn|[from] brn
+|upkeep
+|turn|72
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641810971
+|move|p2a: balls lol|Scald|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|68/100 brn
+|move|p1a: Slowbro|Scald|p2a: balls lol
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|83/100
+|-status|p2a: balls lol|brn
+|
+|-damage|p2a: balls lol|77/100 brn|[from] brn
+|-damage|p1a: Slowbro|62/100 brn|[from] brn
+|upkeep
+|turn|73
+|
+|t:|1641810981
+|move|p2a: balls lol|Scald|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|49/100 brn
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|99/100 brn
+|
+|-end|p2a: balls lol|move: Future Sight
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|50/100 brn
+|-damage|p2a: balls lol|44/100 brn|[from] brn
+|-damage|p1a: Slowbro|93/100 brn|[from] brn
+|upkeep
+|turn|74
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641810996
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|-damage|p1a: Slowbro|87/100 brn|[from] brn
+|upkeep
+|turn|75
+|inactive|gokufromdragonball has 120 seconds left.
+|c|☆gokufromdragonball|you lost dude
+|inactive|gokufromdragonball has 90 seconds left.
+|
+|t:|1641811046
+|move|p2a: balIs lol|Poltergeist|p1a: Slowbro
+|-activate|p1a: Slowbro|move: Poltergeist|Heavy-Duty Boots
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|30/100 brn
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|24/100 brn|[from] brn
+|upkeep
+|turn|76
+|inactive|gokufromdragonball has 90 seconds left.
+|
+|t:|1641811055
+|switch|p1a: Mandibuzz|Mandibuzz, F|80/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|75/100
+|
+|upkeep
+|turn|77
+|
+|t:|1641811062
+|switch|p2a: balls lol|Ditto|77/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Foul Play|p2a: balls lol
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|68/100 brn
+|
+|-end|p2a: balls lol|move: Future Sight
+|-immune|p2a: balls lol
+|-damage|p2a: balls lol|62/100 brn|[from] brn
+|upkeep
+|turn|78
+|
+|t:|1641811069
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Foul Play|p2a: balls lol
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|92/100 brn
+|
+|-damage|p2a: balls lol|86/100 brn|[from] brn
+|upkeep
+|turn|79
+|
+|t:|1641811080
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|93/100 brn
+|-damage|p2a: balls lol|85/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-damage|p2a: balls lol|79/100 brn|[from] brn
+|upkeep
+|turn|80
+|
+|t:|1641811086
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|92/100 brn
+|-damage|p2a: balls lol|84/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-damage|p2a: balls lol|78/100 brn|[from] brn
+|upkeep
+|turn|81
+|
+|t:|1641811090
+|switch|p1a: Slowbro|Slowbro, F|58/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|52/100 brn|[from] brn
+|upkeep
+|turn|82
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641811102
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|75/100
+|
+|upkeep
+|turn|83
+|
+|t:|1641811114
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|86/100 brn
+|-damage|p2a: balls lol|78/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-damage|p2a: balls lol|72/100 brn|[from] brn
+|upkeep
+|turn|84
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641811129
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|92/100 brn
+|-damage|p2a: balls lol|85/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-damage|p2a: balls lol|79/100 brn|[from] brn
+|upkeep
+|turn|85
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641811140
+|switch|p1a: Slowbro|Slowbro, F|85/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|79/100 brn|[from] brn
+|upkeep
+|turn|86
+|
+|t:|1641811147
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|75/100
+|
+|upkeep
+|turn|87
+|
+|t:|1641811153
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|88
+|
+|t:|1641811164
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|75/100
+|
+|upkeep
+|turn|89
+|
+|t:|1641811171
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Foul Play|p2a: balls lol
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|91/100 brn
+|
+|-damage|p2a: balls lol|85/100 brn|[from] brn
+|upkeep
+|turn|90
+|c|☆gokufromdragonball|please try to undersrand you lost
+|
+|t:|1641811197
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Foul Play|p2a: balls lol
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|91/100 brn
+|
+|-damage|p2a: balls lol|85/100 brn|[from] brn
+|upkeep
+|turn|91
+|
+|t:|1641811204
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|92
+|
+|t:|1641811210
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|93
+|inactive|Alflop has 120 seconds left.
+|
+|t:|1641811243
+|switch|p2a: balls loI|Sableye, F|59/100 brn
+|move|p1a: Mandibuzz|Defog|p2a: balls loI
+|-unboost|p2a: balls loI|evasion|1
+|
+|-damage|p2a: balls loI|53/100 brn|[from] brn
+|upkeep
+|turn|94
+|inactive|Alflop has 120 seconds left.
+|inactive|gokufromdragonball has 120 seconds left.
+|
+|t:|1641811262
+|move|p2a: balls loI|Recover|p2a: balls loI
+|-heal|p2a: balls loI|100/100 brn
+|move|p1a: Mandibuzz|Defog|p2a: balls loI
+|-unboost|p2a: balls loI|evasion|1
+|
+|-damage|p2a: balls loI|94/100 brn|[from] brn
+|upkeep
+|turn|95
+|
+|t:|1641811280
+|switch|p2a: baIls Iol|Avalugg, F|100/100
+|move|p1a: Mandibuzz|Defog|p2a: baIls Iol
+|-unboost|p2a: baIls Iol|evasion|1
+|
+|upkeep
+|turn|96
+|
+|t:|1641811286
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: baIls Iol|Avalanche|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|93/100 brn
+|
+|-damage|p1a: Slowbro|87/100 brn|[from] brn
+|upkeep
+|turn|97
+|
+|t:|1641811290
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|81/100 brn|[from] brn
+|upkeep
+|turn|98
+|
+|t:|1641811301
+|switch|p1a: Mandibuzz|Mandibuzz, F|75/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|69/100
+|
+|upkeep
+|turn|99
+|
+|t:|1641811311
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-end|p2a: balls lol|move: Future Sight
+|-immune|p2a: balls lol
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|upkeep
+|turn|100
+|
+|t:|1641811324
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|93/100 brn
+|-damage|p2a: balls lol|85/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-damage|p2a: balls lol|79/100 brn|[from] brn
+|upkeep
+|turn|101
+|
+|t:|1641811328
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|102
+|
+|t:|1641811334
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|103
+|
+|t:|1641811343
+|switch|p2a: baIls Iol|Avalugg, F|100/100
+|move|p1a: Mandibuzz|Defog|p2a: baIls Iol
+|-unboost|p2a: baIls Iol|evasion|1
+|
+|upkeep
+|turn|104
+|
+|t:|1641811349
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: baIls Iol|Rapid Spin|p1a: Slowbro
+|-damage|p1a: Slowbro|92/100 brn
+|-boost|p2a: baIls Iol|spe|1
+|
+|-damage|p1a: Slowbro|86/100 brn|[from] brn
+|upkeep
+|turn|105
+|
+|t:|1641811354
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|80/100 brn|[from] brn
+|upkeep
+|turn|106
+|
+|t:|1641811368
+|switch|p1a: Mandibuzz|Mandibuzz, F|69/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|65/100
+|
+|upkeep
+|turn|107
+|
+|t:|1641811374
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-end|p2a: balls lol|move: Future Sight
+|-immune|p2a: balls lol
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|upkeep
+|turn|108
+|
+|t:|1641811389
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|109
+|
+|t:|1641811396
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|110
+|
+|t:|1641811398
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|111
+|
+|t:|1641811404
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|112
+|
+|t:|1641811409
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|65/100
+|
+|upkeep
+|turn|113
+|
+|t:|1641811418
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: baIls Iol|Avalugg, F|100/100
+|
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|114
+|
+|t:|1641811427
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|115
+|
+|t:|1641811434
+|switch|p1a: Mandibuzz|Mandibuzz, F|65/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|60/100
+|
+|upkeep
+|turn|116
+|
+|t:|1641811442
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|117
+|
+|t:|1641811452
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|60/100
+|
+|upkeep
+|turn|118
+|
+|t:|1641811463
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|119
+|
+|t:|1641811471
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|60/100
+|
+|upkeep
+|turn|120
+|
+|t:|1641811477
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls Iol|Raboot, F|100/100
+|
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|121
+|
+|t:|1641811483
+|move|p2a: balls Iol|U-turn|p1a: Slowbro
+|-start|p2a: balls Iol|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Slowbro
+|-crit|p1a: Slowbro
+|-damage|p1a: Slowbro|26/100 brn
+|
+|t:|1641811496
+|switch|p2a: balIs lol|Shedinja|100/100|[from]move: U-turn
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|20/100 brn|[from] brn
+|upkeep
+|turn|122
+|
+|t:|1641811504
+|switch|p1a: Mandibuzz|Mandibuzz, F|60/100
+|move|p2a: balIs lol|Poltergeist|p1a: Mandibuzz
+|-activate|p1a: Mandibuzz|move: Poltergeist|Heavy-Duty Boots
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|47/100
+|
+|upkeep
+|turn|123
+|inactive|gokufromdragonball has 90 seconds left.
+|
+|t:|1641811531
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|92/100 brn
+|-damage|p2a: balls lol|84/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-end|p2a: balls lol|move: Future Sight
+|-immune|p2a: balls lol
+|-damage|p2a: balls lol|78/100 brn|[from] brn
+|upkeep
+|turn|124
+|
+|t:|1641811551
+|move|p2a: balls lol|Foul Play|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|44/100
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|72/100 brn|[from] brn
+|upkeep
+|turn|125
+|
+|t:|1641811561
+|switch|p2a: baIls Iol|Avalugg, F|100/100
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: baIls Iol
+|-damage|p2a: baIls Iol|96/100
+|-damage|p2a: baIls Iol|91/100
+|-hitcount|p2a: baIls Iol|2
+|
+|upkeep
+|turn|126
+|
+|t:|1641811568
+|switch|p1a: Slowbro|Slowbro, F|53/100 brn
+|move|p2a: baIls Iol|Avalanche|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|47/100 brn
+|
+|-damage|p1a: Slowbro|41/100 brn|[from] brn
+|upkeep
+|turn|127
+|
+|t:|1641811575
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|-damage|p1a: Slowbro|35/100 brn|[from] brn
+|upkeep
+|turn|128
+|inactive|gokufromdragonball has 60 seconds left.
+|
+|t:|1641811592
+|switch|p2a: balls lol|Ditto|72/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|switch|p1a: Mandibuzz|Mandibuzz, F|44/100
+|
+|-damage|p2a: balls lol|66/100 brn|[from] brn
+|upkeep
+|turn|129
+|inactive|gokufromdragonball has 60 seconds left.
+|
+|t:|1641811614
+|switch|p2a: baIls Iol|Avalugg, F|91/100
+|move|p1a: Mandibuzz|Foul Play|p2a: baIls Iol
+|-damage|p2a: baIls Iol|77/100
+|
+|upkeep
+|turn|130
+|
+|t:|1641811626
+|switch|p1a: Slowbro|Slowbro, F|68/100 brn
+|move|p2a: baIls Iol|Avalanche|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|60/100 brn
+|
+|-damage|p1a: Slowbro|54/100 brn|[from] brn
+|upkeep
+|turn|131
+|
+|t:|1641811636
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|-damage|p1a: Slowbro|48/100 brn|[from] brn
+|upkeep
+|turn|132
+|
+|t:|1641811647
+|switch|p1a: Mandibuzz|Mandibuzz, F|44/100
+|move|p2a: balIs lol|Poltergeist|p1a: Mandibuzz
+|-activate|p1a: Mandibuzz|move: Poltergeist|Heavy-Duty Boots
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|31/100
+|
+|upkeep
+|turn|133
+|
+|t:|1641811657
+|switch|p2a: balls lol|Ditto|99/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|81/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p2a: balls lol|93/100 brn|[from] brn
+|upkeep
+|turn|134
+|inactive|gokufromdragonball has 30 seconds left.
+|
+|t:|1641811673
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|135
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811679
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|136
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811686
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|137
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|inactive|gokufromdragonball has 15 seconds left.
+|inactive|gokufromdragonball has 10 seconds left.
+|inactive|gokufromdragonball has 5 seconds left.
+|
+|t:|1641811713
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|92/100 brn
+|-damage|p2a: balls lol|84/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-damage|p2a: balls lol|78/100 brn|[from] brn
+|upkeep
+|turn|138
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|
+|t:|1641811717
+|switch|p2a: baIls Iol|Avalugg, F|77/100
+|move|p1a: Mandibuzz|Defog|p2a: baIls Iol
+|-unboost|p2a: baIls Iol|evasion|1
+|
+|upkeep
+|turn|139
+|inactive|gokufromdragonball has 15 seconds left this turn.
+|inactive|gokufromdragonball has 10 seconds left.
+|
+|t:|1641811722
+|switch|p1a: Slowbro|Slowbro, F|81/100 brn
+|move|p2a: baIls Iol|Avalanche|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|75/100 brn
+|
+|-damage|p1a: Slowbro|69/100 brn|[from] brn
+|upkeep
+|turn|140
+|inactive|gokufromdragonball has 15 seconds left this turn.
+|inactive|gokufromdragonball has 10 seconds left.
+|
+|t:|1641811728
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|-damage|p1a: Slowbro|63/100 brn|[from] brn
+|upkeep
+|turn|141
+|inactive|gokufromdragonball has 15 seconds left this turn.
+|
+|t:|1641811732
+|switch|p1a: Mandibuzz|Mandibuzz, F|81/100
+|move|p2a: balIs lol|Poltergeist|p1a: Mandibuzz
+|-activate|p1a: Mandibuzz|move: Poltergeist|Heavy-Duty Boots
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|67/100
+|
+|upkeep
+|turn|142
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|
+|t:|1641811742
+|switch|p2a: baIls Iol|Avalugg, F|77/100
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: baIls Iol
+|-damage|p2a: baIls Iol|73/100
+|-damage|p2a: baIls Iol|69/100
+|-hitcount|p2a: baIls Iol|2
+|
+|upkeep
+|turn|143
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|
+|t:|1641811747
+|switch|p1a: Slowbro|Slowbro, F|96/100 brn
+|switch|p2a: balls lol|Ditto|78/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|72/100 brn|[from] brn
+|-damage|p1a: Slowbro|90/100 brn|[from] brn
+|upkeep
+|turn|144
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|
+|t:|1641811755
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|84/100 brn|[from] brn
+|upkeep
+|turn|145
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|
+|t:|1641811760
+|switch|p1a: Mandibuzz|Mandibuzz, F|67/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|62/100
+|
+|upkeep
+|turn|146
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811767
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: baIls Iol|Avalugg, F|69/100
+|
+|-end|p2a: baIls Iol|move: Future Sight
+|-damage|p2a: baIls Iol|6/100
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|147
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811776
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|148
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811781
+|switch|p1a: Mandibuzz|Mandibuzz, F|62/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|57/100
+|
+|upkeep
+|turn|149
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|
+|t:|1641811794
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|92/100 brn
+|-damage|p2a: balls lol|84/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-damage|p2a: balls lol|78/100 brn|[from] brn
+|upkeep
+|turn|150
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|inactive|gokufromdragonball has 15 seconds left.
+|
+|t:|1641811807
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|151
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|
+|t:|1641811811
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|152
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|
+|t:|1641811814
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|153
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|
+|t:|1641811825
+|switch|p1a: Mandibuzz|Mandibuzz, F|57/100
+|move|p2a: balIs lol|Swords Dance|p2a: balIs lol
+|-boost|p2a: balIs lol|atk|2
+|
+|upkeep
+|turn|154
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|
+|t:|1641811832
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|100/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-end|p2a: balls lol|move: Future Sight
+|-immune|p2a: balls lol
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|upkeep
+|turn|155
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811841
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|156
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811856
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Scald|p2a: balIs lol
+|-immune|p2a: balIs lol|[from] ability: Wonder Guard
+|
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|157
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811864
+|move|p2a: balIs lol|Swords Dance|p2a: balIs lol
+|-boost|p2a: balIs lol|atk|2
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641811866
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|158
+|
+|t:|1641811875
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|159
+|
+|t:|1641811885
+|move|p2a: balls lol|Future Sight|p1a: Slowbro
+|-start|p2a: balls lol|move: Future Sight
+|move|p1a: Slowbro|Future Sight|p2a: balls lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p2a: balls lol|82/100 brn|[from] brn
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|160
+|
+|t:|1641811892
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641811894
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|161
+|
+|t:|1641811912
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-end|p2a: balls lol|move: Future Sight
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|73/100 brn
+|-end|p1a: Slowbro|move: Future Sight
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|79/100 brn
+|-damage|p2a: balls lol|67/100 brn|[from] brn
+|-damage|p1a: Slowbro|73/100 brn|[from] brn
+|upkeep
+|turn|162
+|inactive|gokufromdragonball has 30 seconds left.
+|
+|t:|1641811932
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|100/100 brn
+|
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|163
+|
+|t:|1641811941
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: balIs lol|Swords Dance|p2a: balIs lol
+|-boost|p2a: balIs lol|atk|2
+|
+|upkeep
+|turn|164
+|
+|t:|1641811948
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Defog|p2a: balls lol
+|-unboost|p2a: balls lol|evasion|1
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|165
+|inactive|gokufromdragonball has 30 seconds left.
+|
+|t:|1641811961
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|166
+|inactive|Alflop has 120 seconds left.
+|
+|t:|1641811974
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|
+|upkeep
+|turn|167
+|inactive|Alflop has 120 seconds left.
+|
+|t:|1641811982
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|168
+|inactive|Alflop has 120 seconds left.
+|
+|t:|1641811995
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|
+|upkeep
+|turn|169
+|
+|t:|1641812004
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|170
+|inactive|Alflop has 120 seconds left.
+|
+|t:|1641812012
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641812015
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|171
+|
+|t:|1641812021
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Foul Play|p2a: balls lol
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|91/100 brn
+|
+|-damage|p2a: balls lol|85/100 brn|[from] brn
+|upkeep
+|turn|172
+|
+|t:|1641812026
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|173
+|
+|t:|1641812033
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|174
+|
+|t:|1641812041
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|95/100
+|
+|upkeep
+|turn|175
+|inactive|Alflop has 120 seconds left.
+|
+|t:|1641812062
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-end|p2a: balls lol|move: Future Sight
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|64/100 brn
+|-damage|p2a: balls lol|58/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|176
+|
+|t:|1641812079
+|switch|p2a: balIs lol|Shedinja|100/100
+|move|p1a: Slowbro|Future Sight|p2a: balIs lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|177
+|
+|t:|1641812085
+|switch|p1a: Mandibuzz|Mandibuzz, F|95/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|90/100
+|
+|upkeep
+|turn|178
+|inactive|Alflop has 120 seconds left.
+|
+|t:|1641812101
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|92/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-end|p2a: balls lol|move: Future Sight
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|64/100 brn
+|-damage|p2a: balls lol|58/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|179
+|
+|t:|1641812113
+|move|p2a: balls lol|Slack Off|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|move|p1a: Slowbro|Future Sight|p2a: balls lol
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|180
+|
+|t:|1641812118
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|181
+|
+|t:|1641812135
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-end|p2a: balls lol|move: Future Sight
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|73/100 brn
+|-damage|p2a: balls lol|67/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|182
+|inactive|gokufromdragonball has 30 seconds left.
+|
+|t:|1641812149
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|move|p2a: balls lol|Slack Off|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|183
+|inactive|gokufromdragonball has 30 seconds left.
+|
+|t:|1641812163
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls loI|Sableye, F|94/100 brn
+|
+|-damage|p2a: balls loI|88/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|184
+|inactive|gokufromdragonball has 30 seconds left.
+|
+|t:|1641812172
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|move|p1a: Slowbro|Scald|p2a: balls lol
+|-resisted|p2a: balls lol
+|-damage|p2a: balls lol|82/100 brn
+|
+|-damage|p2a: balls lol|76/100 brn|[from] brn
+|-damage|p1a: Slowbro|88/100 brn|[from] brn
+|upkeep
+|turn|185
+|inactive|gokufromdragonball has 30 seconds left.
+|
+|t:|1641812184
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|186
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641812191
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|187
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|inactive|gokufromdragonball has 15 seconds left.
+|
+|t:|1641812203
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|188
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|inactive|gokufromdragonball has 15 seconds left.
+|inactive|gokufromdragonball has 10 seconds left.
+|
+|t:|1641812218
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|189
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|inactive|gokufromdragonball has 5 seconds left.
+|inactive|Alflop has 90 seconds left.
+|
+|t:|1641812236
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|190
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|
+|t:|1641812240
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|191
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|inactive|Alflop has 90 seconds left.
+|
+|t:|1641812246
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|192
+|inactive|gokufromdragonball has 15 seconds left this turn.
+|
+|t:|1641812250
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|193
+|inactive|gokufromdragonball has 15 seconds left this turn.
+|
+|t:|1641812255
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|194
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|
+|t:|1641812258
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|195
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|inactive|Alflop has 90 seconds left.
+|
+|t:|1641812270
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|196
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|
+|t:|1641812273
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|197
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|inactive|Alflop has 90 seconds left.
+|
+|t:|1641812280
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|198
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641812285
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|199
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|
+|t:|1641812291
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|200
+|inactive|gokufromdragonball has 30 seconds left this turn.
+|inactive|Alflop has 90 seconds left.
+|
+|t:|1641812302
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|201
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|inactive|gokufromdragonball has 15 seconds left.
+|
+|t:|1641812312
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|
+|upkeep
+|turn|202
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|inactive|Alflop has 90 seconds left.
+|
+|t:|1641812318
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls Iol|Raboot, F|100/100
+|
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|203
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|
+|t:|1641812329
+|move|p2a: balls Iol|U-turn|p1a: Slowbro
+|-start|p2a: balls Iol|typechange|Bug|[from] ability: Libero
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|49/100 brn
+|inactive|gokufromdragonball has 25 seconds left this turn.
+|inactive|gokufromdragonball has 20 seconds left.
+|
+|t:|1641812336
+|switch|p2a: balIs lol|Shedinja|100/100|[from]move: U-turn
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|99/100 brn
+|
+|-damage|p1a: Slowbro|93/100 brn|[from] brn
+|upkeep
+|turn|204
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|inactive|gokufromdragonball has 15 seconds left.
+|
+|t:|1641812344
+|switch|p1a: Mandibuzz|Mandibuzz, F|90/100
+|move|p2a: balIs lol|Shadow Sneak|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|85/100
+|
+|upkeep
+|turn|205
+|inactive|gokufromdragonball has 20 seconds left this turn.
+|inactive|gokufromdragonball has 15 seconds left.
+|
+|t:|1641812354
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls lol
+|-damage|p2a: balls lol|93/100 brn
+|-damage|p2a: balls lol|85/100 brn
+|-hitcount|p2a: balls lol|2
+|
+|-damage|p2a: balls lol|79/100 brn|[from] brn
+|upkeep
+|turn|206
+|inactive|gokufromdragonball has 15 seconds left this turn.
+|inactive|gokufromdragonball has 10 seconds left.
+|
+|t:|1641812362
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|207
+|inactive|gokufromdragonball has 15 seconds left this turn.
+|inactive|gokufromdragonball has 10 seconds left.
+|inactive|gokufromdragonball has 5 seconds left.
+|
+|t:|1641812373
+|switch|p2a: balls Iol|Raboot, F|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|85/100
+|
+|upkeep
+|turn|208
+|inactive|gokufromdragonball has 5 seconds left this turn.
+|
+|t:|1641812386
+|move|p2a: balls Iol|Gunk Shot|p1a: Mandibuzz|[miss]
+|-start|p2a: balls Iol|typechange|Poison|[from] ability: Libero
+|-miss|p2a: balls Iol|p1a: Mandibuzz
+|move|p1a: Mandibuzz|Dual Wingbeat|p2a: balls Iol
+|-damage|p2a: balls Iol|82/100
+|-damage|p2a: balls Iol|63/100
+|-hitcount|p2a: balls Iol|2
+|
+|upkeep
+|turn|209
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|
+|t:|1641812395
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Mandibuzz|[from] ability: Imposter
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|210
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|inactive|gokufromdragonball has 5 seconds left.
+|
+|t:|1641812403
+|switch|p1a: Mandibuzz|Mandibuzz, F|85/100
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|upkeep
+|turn|211
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|inactive|gokufromdragonball has 5 seconds left.
+|
+|t:|1641812414
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|move|p2a: balls lol|Roost|p2a: balls lol
+|-heal|p2a: balls lol|100/100 brn
+|-singleturn|p2a: balls lol|move: Roost
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|212
+|inactive|gokufromdragonball has 5 seconds left this turn.
+|
+|t:|1641812417
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|85/100
+|
+|upkeep
+|turn|213
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|
+|t:|1641812423
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|94/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|88/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|214
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|
+|t:|1641812428
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|85/100
+|
+|upkeep
+|turn|215
+|inactive|gokufromdragonball has 15 seconds left this turn.
+|inactive|gokufromdragonball has 10 seconds left.
+|
+|t:|1641812437
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|216
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|inactive|gokufromdragonball has 5 seconds left.
+|
+|t:|1641812444
+|switch|p2a: balIs lol|Shedinja|100/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|85/100
+|
+|upkeep
+|turn|217
+|inactive|gokufromdragonball has 10 seconds left this turn.
+|inactive|gokufromdragonball has 5 seconds left.
+|
+|t:|1641812454
+|switch|p1a: Slowbro|Slowbro, F|100/100 brn
+|switch|p2a: balls lol|Ditto|100/100 brn
+|-transform|p2a: balls lol|p1a: Slowbro|[from] ability: Imposter
+|
+|-damage|p2a: balls lol|94/100 brn|[from] brn
+|-damage|p1a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|218
+|inactive|gokufromdragonball has 5 seconds left this turn.
+|-message|gokufromdragonball lost due to inactivity.
+|
+|win|Alflop
+|raw|Alflop's rating: 1211 &rarr; <strong>1240</strong><br />(+29 for winning)
+|raw|gokufromdragonball's rating: 1260 &rarr; <strong>1231</strong><br />(-29 for losing)

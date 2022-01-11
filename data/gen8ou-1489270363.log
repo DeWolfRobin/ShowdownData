@@ -1,0 +1,331 @@
+|j|☆Rainbow Ghirahim
+|j|☆critickal
+|t:|1641880972
+|gametype|singles
+|player|p1|Rainbow Ghirahim|richboy-gen4|1101
+|player|p2|critickal|steven|1068
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Sigilyph, M|
+|poke|p1|Eiscue, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Zoroark, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Gastrodon-East, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Rotom-Heat|
+|poke|p2|Weavile, M|
+|teampreview
+|
+|t:|1641880993
+|start
+|switch|p1a: Sigilyph|Sigilyph, M, shiny|100/100
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|turn|1
+|
+|t:|1641881000
+|move|p1a: Sigilyph|Nasty Plot|p1a: Sigilyph
+|-boost|p1a: Sigilyph|spa|2
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641881008
+|move|p1a: Sigilyph|Night Daze|p2a: Rotom
+|-damage|p2a: Rotom|18/100
+|move|p2a: Rotom|Discharge|p1a: Sigilyph
+|-enditem|p1a: Sigilyph|Focus Sash
+|-damage|p1a: Sigilyph|1/100
+|replace|p1a: Zoroark|Zoroark, F
+|-end|p1a: Zoroark|Illusion
+|
+|upkeep
+|turn|3
+|
+|t:|1641881022
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Zoroark|Burning Jealousy|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641881034
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|4
+|
+|t:|1641881039
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Zoroark|Nasty Plot|p1a: Zoroark
+|-boost|p1a: Zoroark|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641881046
+|move|p2a: Bisharp|Sucker Punch|p1a: Zoroark
+|-resisted|p1a: Zoroark
+|-damage|p1a: Zoroark|0 fnt
+|faint|p1a: Zoroark
+|
+|upkeep
+|
+|t:|1641881049
+|switch|p1a: Eiscue|Eiscue, F|100/100
+|turn|6
+|
+|t:|1641881052
+|move|p2a: Bisharp|Knock Off|p1a: Eiscue
+|-activate|p1a: Eiscue|ability: Ice Face
+|-damage|p1a: Eiscue|100/100
+|-enditem|p1a: Eiscue|Sitrus Berry|[from] move: Knock Off|[of] p2a: Bisharp
+|detailschange|p1a: Eiscue|Eiscue-Noice, F
+|move|p1a: Eiscue|Belly Drum|p1a: Eiscue
+|-damage|p1a: Eiscue|50/100
+|-setboost|p1a: Eiscue|atk|6|[from] move: Belly Drum
+|
+|upkeep
+|turn|7
+|
+|t:|1641881066
+|move|p1a: Eiscue|Icicle Spear|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|75/100
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|47/100
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|23/100
+|-hitcount|p2a: Bisharp|3
+|move|p2a: Bisharp|Iron Head|p1a: Eiscue
+|-supereffective|p1a: Eiscue
+|-damage|p1a: Eiscue|0 fnt
+|faint|p1a: Eiscue
+|
+|upkeep
+|
+|t:|1641881084
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|turn|8
+|
+|t:|1641881090
+|switch|p2a: Rotom|Rotom-Heat|18/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Rotom
+|-start|p2a: Rotom|move: Leech Seed
+|
+|-damage|p2a: Rotom|6/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|9
+|
+|t:|1641881100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Rotom|atk|1
+|move|p2a: Rotom|Pain Split|p1a: Landorus
+|-sethp|p1a: Landorus|53/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|56/100|[from] move: Pain Split
+|
+|-damage|p2a: Rotom|43/100|[from] Leech Seed|[of] p1a: Landorus
+|-heal|p1a: Landorus|64/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641881113
+|move|p1a: Landorus|Stealth Rock|p2a: Rotom
+|-sidestart|p2: critickal|move: Stealth Rock
+|move|p2a: Rotom|Overheat|p1a: Landorus
+|-damage|p1a: Landorus|1/100
+|-unboost|p2a: Rotom|spa|2
+|
+|-damage|p2a: Rotom|31/100|[from] Leech Seed|[of] p1a: Landorus
+|-heal|p1a: Landorus|13/100|[silent]
+|upkeep
+|turn|11
+|
+|t:|1641881125
+|move|p1a: Landorus|Smack Down|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1641881131
+|switch|p2a: Tapu Fini|Tapu Fini, shiny|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|12
+|
+|t:|1641881136
+|move|p1a: Landorus|Smack Down|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|75/100
+|move|p2a: Tapu Fini|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p2: critickal|Stealth Rock|[from] move: Defog|[of] p2a: Tapu Fini
+|-fieldend|Misty Terrain
+|
+|-heal|p2a: Tapu Fini|81/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641881144
+|move|p1a: Landorus|Stealth Rock|p2a: Tapu Fini
+|-sidestart|p2: critickal|move: Stealth Rock
+|move|p2a: Tapu Fini|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-heal|p2a: Tapu Fini|87/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641881149
+|switch|p1a: Sigilyph|Sigilyph, M, shiny|100/100
+|turn|14
+|
+|t:|1641881157
+|move|p2a: Tapu Fini|Defog|p1a: Sigilyph
+|-unboost|p1a: Sigilyph|evasion|1
+|-sideend|p2: critickal|Stealth Rock|[from] move: Defog|[of] p2a: Tapu Fini
+|move|p1a: Sigilyph|Cosmic Power|p1a: Sigilyph
+|-boost|p1a: Sigilyph|def|1
+|-boost|p1a: Sigilyph|spd|1
+|
+|-heal|p2a: Tapu Fini|93/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641881167
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Sigilyph|Cosmic Power|p1a: Sigilyph
+|-boost|p1a: Sigilyph|def|1
+|-boost|p1a: Sigilyph|spd|1
+|
+|-heal|p2a: Tapu Fini|99/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641881175
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Sigilyph|Cosmic Power|p1a: Sigilyph
+|-boost|p1a: Sigilyph|def|1
+|-boost|p1a: Sigilyph|spd|1
+|
+|-heal|p2a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641881183
+|move|p2a: Tapu Fini|Scald|p1a: Sigilyph
+|-damage|p1a: Sigilyph|75/100
+|-status|p1a: Sigilyph|brn
+|move|p1a: Sigilyph|Cosmic Power|p1a: Sigilyph
+|-boost|p1a: Sigilyph|def|1
+|-boost|p1a: Sigilyph|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1641881190
+|move|p2a: Tapu Fini|Scald|p1a: Sigilyph
+|-damage|p1a: Sigilyph|57/100 brn
+|move|p1a: Sigilyph|Cosmic Power|p1a: Sigilyph
+|-boost|p1a: Sigilyph|def|1
+|-boost|p1a: Sigilyph|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1641881197
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Sigilyph|Cosmic Power|p1a: Sigilyph
+|-boost|p1a: Sigilyph|def|1
+|-boost|p1a: Sigilyph|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1641881203
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Sigilyph|Roost|p1a: Sigilyph
+|-heal|p1a: Sigilyph|100/100 brn
+|-singleturn|p1a: Sigilyph|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1641881211
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Sigilyph|Stored Power|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641881217
+|switch|p2a: Bisharp|Bisharp, M|23/100
+|turn|22
+|
+|t:|1641881221
+|move|p2a: Bisharp|Sucker Punch|p1a: Sigilyph
+|-supereffective|p1a: Sigilyph
+|-damage|p1a: Sigilyph|77/100 brn
+|-enditem|p1a: Sigilyph|Weakness Policy
+|-boost|p1a: Sigilyph|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Sigilyph|spa|2|[from] item: Weakness Policy
+|move|p1a: Sigilyph|Dazzling Gleam|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641881233
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Sigilyph|atk|1
+|turn|23
+|
+|t:|1641881238
+|move|p2a: Landorus|Stone Edge|p1a: Sigilyph
+|-supereffective|p1a: Sigilyph
+|-damage|p1a: Sigilyph|57/100 brn
+|move|p1a: Sigilyph|Stored Power|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|-message|critickal forfeited.
+|
+|win|Rainbow Ghirahim
+|raw|Rainbow Ghirahim's rating: 1101 &rarr; <strong>1124</strong><br />(+23 for winning)
+|raw|critickal's rating: 1068 &rarr; <strong>1050</strong><br />(-18 for losing)
+|l|☆critickal

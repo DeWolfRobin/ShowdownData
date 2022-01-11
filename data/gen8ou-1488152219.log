@@ -1,0 +1,745 @@
+|j|☆Mewmongous
+|j|☆Mystery Exile
+|t:|1641722919
+|gametype|singles
+|player|p1|Mewmongous|workerice|1358
+|player|p2|Mystery Exile|furisodegirl-black|1473
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro, M|
+|poke|p1|Buzzwole|
+|poke|p1|Zeraora|
+|poke|p1|Latias, F|
+|poke|p1|Blissey, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Golurk|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Tyranitar, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mystery Exile)
+|
+|t:|1641722928
+|start
+|switch|p1a: Zeraora|Zeraora, shiny|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|1
+|
+|t:|1641722935
+|move|p1a: Zeraora|Plasma Fists|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|27/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p2a: Toxapex|Scald|p1a: Zeraora
+|-damage|p1a: Zeraora|80/100
+|-status|p1a: Zeraora|brn
+|
+|-heal|p2a: Toxapex|34/100|[from] item: Black Sludge
+|-damage|p1a: Zeraora|74/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641722948
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Zeraora|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|92/100
+|
+|t:|1641722957
+|switch|p1a: Blissey|Blissey, F|100/100|[from]move: Volt Switch
+|
+|-heal|p2a: Ferrothorn|98/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641722967
+|move|p1a: Blissey|Heal Bell|p1a: Blissey
+|-activate|p1a: Blissey|move: Heal Bell
+|-curestatus|p1: Zeraora|brn|[msg]
+|move|p2a: Ferrothorn|Spikes|p1a: Blissey
+|-sidestart|p1: Mewmongous|Spikes
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641722976
+|move|p1a: Blissey|Thunder Wave|p2a: Ferrothorn
+|-status|p2a: Ferrothorn|par
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Blissey
+|-damage|p1a: Blissey|60/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641722989
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|-damage|p1a: Buzzwole|88/100|[from] Spikes
+|cant|p2a: Ferrothorn|par
+|
+|-heal|p1a: Buzzwole|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641722999
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Buzzwole|Drain Punch|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|86/100
+|-heal|p1a: Buzzwole|100/100|[from] drain|[of] p2a: Clefable
+|
+|-heal|p2a: Clefable|92/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641723011
+|switch|p1a: Blissey|Blissey, F|60/100
+|move|p2a: Clefable|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|48/100
+|-unboost|p1a: Blissey|spa|1
+|
+|-heal|p2a: Clefable|98/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641723021
+|switch|p2a: Toxapex|Toxapex, M|67/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|98/100
+|
+|-heal|p2a: Toxapex|73/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1641723032
+|switch|p2a: Golurk|Golurk|100/100
+|move|p1a: Blissey|Thunder Wave|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|upkeep
+|turn|10
+|
+|t:|1641723044
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|-damage|p1a: Buzzwole|88/100|[from] Spikes
+|move|p2a: Golurk|Stealth Rock|p1a: Buzzwole
+|-sidestart|p1: Mewmongous|move: Stealth Rock
+|
+|-heal|p1a: Buzzwole|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641723054
+|switch|p2a: Clefable|Clefable, F|98/100
+|move|p1a: Buzzwole|Ice Punch|p2a: Clefable
+|-damage|p2a: Clefable|80/100
+|
+|-heal|p1a: Buzzwole|100/100|[from] item: Leftovers
+|-heal|p2a: Clefable|86/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641723066
+|switch|p1a: Blissey|Blissey, F|98/100
+|move|p2a: Clefable|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|87/100
+|
+|-heal|p2a: Clefable|92/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641723079
+|switch|p2a: Golurk|Golurk|100/100
+|move|p1a: Blissey|Thunder Wave|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|upkeep
+|turn|14
+|
+|t:|1641723088
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p2a: Golurk|Trick|p1a: Tornadus
+|-activate|p2a: Golurk|move: Trick|[of] p1a: Tornadus
+|-item|p1a: Tornadus|Assault Vest|[from] move: Trick
+|-item|p2a: Golurk|Heavy-Duty Boots|[from] move: Trick
+|
+|upkeep
+|turn|15
+|
+|t:|1641723099
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Tornadus|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|84/100
+|-enditem|p2a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|16
+|
+|t:|1641723118
+|move|p1a: Tornadus|Hurricane|p2a: Toxapex
+|-damage|p2a: Toxapex|58/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Tornadus
+|-sidestart|p1: Mewmongous|move: Toxic Spikes
+|
+|upkeep
+|turn|17
+|
+|t:|1641723127
+|move|p1a: Tornadus|Hurricane|p2a: Toxapex
+|-damage|p2a: Toxapex|34/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|84/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641723143
+|switch|p1a: Zeraora|Zeraora, shiny|74/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Zeraora
+|-sidestart|p1: Mewmongous|move: Toxic Spikes
+|
+|upkeep
+|turn|19
+|
+|t:|1641723152
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100 par
+|move|p1a: Zeraora|Plasma Fists|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|87/100 par
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p1a: Zeraora|62/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|93/100 par|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641723164
+|move|p1a: Zeraora|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|50/100 par
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|-damage|p1a: Zeraora|50/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Zeraora
+|-start|p1a: Zeraora|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|57/100 par|[from] item: Leftovers
+|-damage|p1a: Zeraora|37/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|68/100 par|[silent]
+|upkeep
+|turn|21
+|
+|t:|1641723181
+|switch|p1a: Latias|Latias, F|100/100
+|-damage|p1a: Latias|88/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Protect||[still]
+|-fail|p2a: Ferrothorn
+|
+|-heal|p1a: Latias|94/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|74/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641723192
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Latias|Mystical Fire|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|97/100
+|-unboost|p2a: Tyranitar|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latias|88/100|[from] Sandstorm
+|-heal|p1a: Latias|94/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641723210
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|-damage|p1a: Buzzwole|88/100|[from] Stealth Rock
+|-damage|p1a: Buzzwole|76/100|[from] Spikes
+|-status|p1a: Buzzwole|tox
+|move|p2a: Tyranitar|Crunch|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|67/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Buzzwole|61/100 tox|[from] Sandstorm
+|-heal|p1a: Buzzwole|67/100 tox|[from] item: Leftovers
+|-damage|p1a: Buzzwole|61/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641723225
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Buzzwole|Drain Punch|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|88/100
+|-heal|p1a: Buzzwole|65/100 tox|[from] drain|[of] p2a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Buzzwole|59/100 tox|[from] Sandstorm
+|-damage|p2a: Toxapex|81/100|[from] Sandstorm
+|-heal|p1a: Buzzwole|65/100 tox|[from] item: Leftovers
+|-damage|p1a: Buzzwole|53/100 tox|[from] psn
+|upkeep
+|turn|25
+|inactive|Mewmongous has 120 seconds left.
+|
+|t:|1641723253
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|move|p2a: Toxapex|Scald|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|92/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|75/100|[from] Sandstorm
+|-damage|p1a: Slowbro|86/100|[from] Sandstorm
+|upkeep
+|turn|26
+|inactive|Mewmongous has 120 seconds left.
+|
+|t:|1641723262
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|move|p1a: Slowbro|Future Sight|p2a: Tyranitar
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-weather|none
+|upkeep
+|turn|27
+|
+|t:|1641723269
+|move|p2a: Tyranitar|Toxic|p1a: Slowbro
+|-status|p1a: Slowbro|tox
+|move|p1a: Slowbro|Scald|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|66/100
+|
+|-heal|p2a: Tyranitar|73/100|[from] item: Leftovers
+|-damage|p1a: Slowbro|80/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641723278
+|switch|p2a: Ferrothorn|Ferrothorn, M|74/100 par
+|move|p1a: Slowbro|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|63/100 par
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|47/100 par
+|-heal|p2a: Ferrothorn|53/100 par|[from] item: Leftovers
+|-damage|p1a: Slowbro|68/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641723295
+|switch|p1a: Blissey|Blissey, F|87/100
+|switch|p2a: Tyranitar|Tyranitar, F|73/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|81/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|79/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641723309
+|move|p2a: Tyranitar|Crunch|p1a: Blissey
+|-damage|p1a: Blissey|51/100
+|move|p1a: Blissey|Heal Bell|p1a: Blissey
+|-activate|p1a: Blissey|move: Heal Bell
+|-curestatus|p1: Buzzwole|tox|[msg]
+|-curestatus|p1: Slowbro|tox|[msg]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|45/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|85/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641723321
+|move|p2a: Tyranitar|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|95/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|89/100 tox|[from] Sandstorm
+|-heal|p2a: Tyranitar|91/100|[from] item: Leftovers
+|-damage|p1a: Blissey|83/100 tox|[from] psn
+|upkeep
+|turn|32
+|inactive|Mewmongous has 120 seconds left.
+|
+|t:|1641723337
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|move|p2a: Tyranitar|Crunch|p1a: Tornadus
+|-damage|p1a: Tornadus|36/100
+|-unboost|p1a: Tornadus|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|30/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|97/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|inactive|Mewmongous has 120 seconds left.
+|
+|t:|1641723349
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Tornadus|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|95/100
+|inactive|Mewmongous has 120 seconds left.
+|
+|t:|1641723356
+|switch|p1a: Slowbro|Slowbro, M|100/100|[from]move: U-turn
+|
+|-weather|none
+|upkeep
+|turn|34
+|
+|t:|1641723373
+|switch|p2a: Clefable|Clefable, F|92/100
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Clefable|98/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641723382
+|switch|p1a: Blissey|Blissey, F|83/100
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641723390
+|switch|p2a: Tyranitar|Tyranitar, F|97/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Blissey|Thunder Wave|p2a: Tyranitar
+|-status|p2a: Tyranitar|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|77/100|[from] Sandstorm
+|-end|p2a: Tyranitar|move: Future Sight
+|-immune|p2a: Tyranitar
+|-heal|p2a: Tyranitar|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641723407
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|cant|p2a: Tyranitar|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|94/100|[from] Sandstorm
+|upkeep
+|turn|38
+|
+|t:|1641723417
+|cant|p2a: Tyranitar|par
+|move|p1a: Slowbro|Scald|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|78/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|88/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|84/100 par|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641723427
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Slowbro|Scald|p2a: Clefable
+|-damage|p2a: Clefable|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|82/100|[from] Sandstorm
+|-heal|p2a: Clefable|82/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1641723444
+|switch|p1a: Blissey|Blissey, F|77/100
+|move|p2a: Clefable|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|65/100
+|
+|-weather|none
+|-heal|p2a: Clefable|88/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641723455
+|switch|p2a: Golurk|Golurk|100/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|upkeep
+|turn|42
+|
+|t:|1641723472
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|63/100
+|-damage|p1a: Tornadus|38/100|[from] Stealth Rock
+|move|p2a: Golurk|Poltergeist|p1a: Tornadus
+|-activate|p1a: Tornadus|move: Poltergeist|Assault Vest
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1641723486
+|switch|p1a: Zeraora|Zeraora, shiny|37/100
+|turn|43
+|
+|t:|1641723499
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Zeraora|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|86/100
+|
+|upkeep
+|turn|44
+|
+|t:|1641723507
+|switch|p2a: Ferrothorn|Ferrothorn, M|53/100 par
+|move|p1a: Zeraora|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|43/100 par
+|
+|t:|1641723515
+|switch|p1a: Buzzwole|Buzzwole|53/100|[from]move: Volt Switch
+|-status|p1a: Buzzwole|tox
+|-damage|p1a: Buzzwole|40/100 tox|[from] Stealth Rock
+|-damage|p1a: Buzzwole|28/100 tox|[from] Spikes
+|
+|-heal|p1a: Buzzwole|34/100 tox|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|50/100 par|[from] item: Leftovers
+|-damage|p1a: Buzzwole|28/100 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1641723527
+|switch|p2a: Clefable|Clefable, F|88/100
+|move|p1a: Buzzwole|Drain Punch|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|74/100
+|-heal|p1a: Buzzwole|34/100 tox|[from] drain|[of] p2a: Clefable
+|
+|-heal|p1a: Buzzwole|41/100 tox|[from] item: Leftovers
+|-heal|p2a: Clefable|80/100|[from] item: Leftovers
+|-damage|p1a: Buzzwole|28/100 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1641723541
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Clefable|Moonblast|p1a: Blissey
+|-damage|p1a: Blissey|89/100
+|
+|-heal|p2a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|inactive|Mewmongous has 120 seconds left.
+|
+|t:|1641723577
+|switch|p2a: Tyranitar|Tyranitar, F|84/100 par
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Blissey|Thunder Wave|p2a: Tyranitar
+|-fail|p2a: Tyranitar|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|83/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|91/100 par|[from] item: Leftovers
+|upkeep
+|turn|48
+|inactive|Mewmongous has 120 seconds left.
+|
+|t:|1641723588
+|switch|p2a: Golurk|Golurk|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|77/100|[from] Sandstorm
+|upkeep
+|turn|49
+|inactive|Mewmongous has 120 seconds left.
+|
+|t:|1641723613
+|move|p2a: Golurk|Poltergeist|p1a: Blissey
+|-immune|p1a: Blissey
+|move|p1a: Blissey|Heal Bell|p1a: Blissey
+|-activate|p1a: Blissey|move: Heal Bell
+|-curestatus|p1: Buzzwole|tox|[msg]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|71/100|[from] Sandstorm
+|upkeep
+|turn|50
+|
+|t:|1641723626
+|switch|p1a: Latias|Latias, F|94/100
+|-damage|p1a: Latias|82/100|[from] Stealth Rock
+|move|p2a: Golurk|Earthquake|p1a: Latias
+|-immune|p1a: Latias|[from] ability: Levitate
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latias|76/100|[from] Sandstorm
+|-heal|p1a: Latias|82/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1641723638
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Latias|Energy Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|84/100
+|
+|-weather|none
+|-heal|p1a: Latias|88/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1641723650
+|switch|p2a: Tyranitar|Tyranitar, F|91/100 par
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Latias|Energy Ball|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|69/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latias|82/100|[from] Sandstorm
+|-heal|p1a: Latias|88/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|75/100 par|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1641723666
+|move|p1a: Latias|Energy Ball|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-crit|p2a: Tyranitar
+|-damage|p2a: Tyranitar|41/100 par
+|cant|p2a: Tyranitar|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latias|82/100|[from] Sandstorm
+|-heal|p1a: Latias|88/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|47/100 par|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1641723677
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Latias|Energy Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|85/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latias|82/100|[from] Sandstorm
+|-damage|p2a: Toxapex|79/100|[from] Sandstorm
+|-heal|p1a: Latias|88/100|[from] item: Leftovers
+|upkeep
+|turn|55
+|
+|t:|1641723688
+|move|p1a: Latias|Energy Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|62/100
+|move|p2a: Toxapex|Poison Jab|p1a: Latias
+|-damage|p1a: Latias|68/100
+|-status|p1a: Latias|psn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latias|61/100 psn|[from] Sandstorm
+|-damage|p2a: Toxapex|55/100|[from] Sandstorm
+|-heal|p1a: Latias|68/100 psn|[from] item: Leftovers
+|-damage|p1a: Latias|55/100 psn|[from] psn
+|upkeep
+|turn|56
+|
+|t:|1641723701
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|100/100 psn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-weather|none
+|-damage|p1a: Latias|88/100 psn|[from] psn
+|upkeep
+|turn|57
+|
+|t:|1641723714
+|switch|p1a: Blissey|Blissey, F|71/100
+|move|p2a: Toxapex|Poison Jab|p1a: Blissey
+|-damage|p1a: Blissey|56/100
+|
+|upkeep
+|turn|58
+|
+|t:|1641723722
+|switch|p2a: Tyranitar|Tyranitar, F|47/100 par
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|94/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|53/100 par|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1641723733
+|switch|p2a: Golurk|Golurk|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|88/100|[from] Sandstorm
+|upkeep
+|turn|60
+|
+|t:|1641723744
+|move|p2a: Golurk|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|40/100
+|move|p1a: Blissey|Heal Bell|p1a: Blissey
+|-activate|p1a: Blissey|move: Heal Bell
+|-curestatus|p1: Latias|psn|[msg]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|34/100|[from] Sandstorm
+|upkeep
+|turn|61
+|
+|t:|1641723754
+|move|p2a: Golurk|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|Mewmongous forfeited.
+|
+|win|Mystery Exile
+|raw|Mewmongous's rating: 1358 &rarr; <strong>1344</strong><br />(-14 for losing)
+|raw|Mystery Exile's rating: 1473 &rarr; <strong>1487</strong><br />(+14 for winning)
+|l|☆Mewmongous

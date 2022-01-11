@@ -1,0 +1,277 @@
+|j|☆T mauvais
+|j|☆RedSpin
+|t:|1641760541
+|gametype|singles
+|player|p1|T mauvais|lucas|1220
+|player|p2|RedSpin|2|1229
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Scizor, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Mamoswine, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Heatran, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Obstagoon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RedSpin)
+|
+|t:|1641760549
+|start
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|
+|t:|1641760554
+|move|p1a: Mamoswine|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|61/100
+|-damage|p1a: Mamoswine|91/100|[from] item: Life Orb
+|move|p2a: Ferrothorn|Leech Seed|p1a: Mamoswine
+|-start|p1a: Mamoswine|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|68/100|[from] item: Leftovers
+|-damage|p1a: Mamoswine|78/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|80/100|[silent]
+|upkeep
+|turn|2
+|
+|t:|1641760564
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Ferrothorn|Spikes|p1a: Ferrothorn
+|-sidestart|p1: T mauvais|Spikes
+|
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641760571
+|move|p2a: Ferrothorn|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|86/100
+|-damage|p2a: Ferrothorn|74/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Ferrothorn
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: RedSpin|move: Stealth Rock
+|
+|-heal|p2a: Ferrothorn|80/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641760584
+|move|p2a: Ferrothorn|Spikes|p1a: Ferrothorn
+|-sidestart|p1: T mauvais|Spikes
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|75/100
+|-damage|p1a: Ferrothorn|73/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|81/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641760592
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Ferrothorn|Spikes|p1a: Pelipper
+|-sidestart|p1: T mauvais|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641760600
+|move|p1a: Pelipper|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p2: RedSpin|Stealth Rock|[from] move: Defog|[of] p1a: Pelipper
+|-sideend|p1: T mauvais|Spikes|[from] move: Defog|[of] p1a: Pelipper
+|move|p2a: Ferrothorn|Leech Seed|p1a: Pelipper|[miss]
+|-miss|p2a: Ferrothorn|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641760609
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Scizor
+|-start|p1a: Scizor|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|99/100|[from] item: Leftovers
+|-damage|p1a: Scizor|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641760619
+|move|p1a: Scizor|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|19/100
+|-unboost|p1a: Scizor|atk|1
+|-unboost|p1a: Scizor|def|1
+|-damage|p1a: Scizor|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Spikes|p1a: Scizor
+|-sidestart|p1: T mauvais|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|25/100|[from] item: Leftovers
+|-damage|p1a: Scizor|63/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|35/100|[silent]
+|upkeep
+|turn|9
+|
+|t:|1641760631
+|move|p1a: Scizor|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Scizor|atk|1
+|-unboost|p1a: Scizor|def|1
+|-damage|p1a: Scizor|51/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641760641
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|10
+|
+|t:|1641760657
+|switch|p1a: Ferrothorn|Ferrothorn, M|73/100
+|-damage|p1a: Ferrothorn|61/100|[from] Spikes
+|move|p2a: Dragapult|Shadow Ball|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|17/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641760666
+|move|p2a: Dragapult|Shadow Ball|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641760678
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|-damage|p1a: Barraskewda|88/100|[from] Spikes
+|turn|12
+|
+|t:|1641760683
+|move|p1a: Barraskewda|Liquidation|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|40/100
+|-damage|p1a: Barraskewda|78/100|[from] item: Life Orb
+|move|p2a: Dragapult|Shadow Ball|p1a: Barraskewda
+|-crit|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|none
+|upkeep
+|
+|t:|1641760693
+|switch|p1a: Mamoswine|Mamoswine, M|78/100
+|-damage|p1a: Mamoswine|66/100|[from] Spikes
+|turn|13
+|
+|t:|1641760709
+|switch|p2a: Obstagoon|Obstagoon, M|100/100
+|move|p1a: Mamoswine|Ice Shard|p2a: Obstagoon
+|-damage|p2a: Obstagoon|71/100
+|-damage|p1a: Mamoswine|56/100|[from] item: Life Orb
+|
+|-status|p2a: Obstagoon|brn|[from] item: Flame Orb
+|upkeep
+|turn|14
+|
+|t:|1641760721
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Obstagoon|Facade|p1a: Pelipper
+|-damage|p1a: Pelipper|37/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Obstagoon|65/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641760731
+|move|p2a: Obstagoon|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|-enditem|p1a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p2a: Obstagoon
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Obstagoon|59/100 brn|[from] brn
+|upkeep
+|
+|t:|1641760739
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Spikes
+|turn|16
+|
+|t:|1641760748
+|move|p1a: Dragapult|U-turn|p2a: Obstagoon
+|-supereffective|p2a: Obstagoon
+|-damage|p2a: Obstagoon|23/100 brn
+|
+|t:|1641760751
+|switch|p1a: Mamoswine|Mamoswine, M|56/100|[from]move: U-turn
+|-damage|p1a: Mamoswine|43/100|[from] Spikes
+|move|p2a: Obstagoon|Knock Off|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|-enditem|p1a: Mamoswine|Life Orb|[from] move: Knock Off|[of] p2a: Obstagoon
+|faint|p1a: Mamoswine
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Obstagoon|16/100 brn|[from] brn
+|upkeep
+|
+|t:|1641760761
+|switch|p1a: Dragapult|Dragapult, M|88/100
+|-damage|p1a: Dragapult|76/100|[from] Spikes
+|turn|17
+|
+|t:|1641760766
+|move|p1a: Dragapult|Shadow Ball|p2a: Obstagoon
+|-immune|p2a: Obstagoon
+|move|p2a: Obstagoon|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-enditem|p1a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p2a: Obstagoon
+|faint|p1a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Obstagoon|10/100 brn|[from] brn
+|upkeep
+|-message|T mauvais forfeited.
+|
+|win|RedSpin
+|raw|T mauvais's rating: 1220 &rarr; <strong>1196</strong><br />(-24 for losing)
+|raw|RedSpin's rating: 1229 &rarr; <strong>1253</strong><br />(+24 for winning)
+|l|☆T mauvais
+|l|☆RedSpin
+|j|☆RedSpin
+|player|p2|RedSpin|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by RedSpin)
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

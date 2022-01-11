@@ -1,0 +1,533 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆LT83AQ Yuki
+|j|☆SL21CC ginko
+|t:|1641796624
+|gametype|singles
+|player|p1|LT83AQ Yuki|cynthia|1234
+|player|p2|SL21CC ginko|evelyn|1357
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Thundurus, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Scizor, F|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, M|
+|poke|p2|Blissey, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Corviknight, F|
+|teampreview
+|c|☆LT83AQ Yuki|hf
+|c|☆SL21CC ginko|u2
+|
+|t:|1641796645
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|turn|1
+|
+|t:|1641796651
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Rotom|Overheat|p1a: Garchomp|[miss]
+|-miss|p2a: Rotom|p1a: Garchomp
+|
+|upkeep
+|turn|2
+|
+|t:|1641796654
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: SL21CC ginko|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641796660
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: LT83AQ Yuki|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641796667
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Rotom
+|-sidestart|p2: SL21CC ginko|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1641796673
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|
+|-heal|p1a: Garchomp|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641796675
+|move|p1a: Garchomp|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|
+|-damage|p2a: Rotom|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641796679
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Rotom|Thunderbolt|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-damage|p2a: Rotom|82/100 tox|[from] psn
+|upkeep
+|turn|8
+|j| 15184697ing
+|
+|t:|1641796692
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Rotom|Overheat|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-damage|p2a: Rotom|63/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641796700
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Rotom|Pain Split|p1a: Dragapult
+|-sethp|p1a: Dragapult|68/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|89/100 tox|[from] move: Pain Split
+|
+|-damage|p2a: Rotom|64/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641796708
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|-damage|p2a: Toxapex|76/100|[from] Spikes
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|70/100
+|-damage|p1a: Dragapult|52/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|
+|t:|1641796728
+|switch|p1a: Thundurus|Thundurus, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|11
+|
+|t:|1641796732
+|move|p1a: Thundurus|Wild Charge|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|7/100
+|-damage|p1a: Thundurus|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-damage|p1a: Thundurus|68/100|[from] Recoil
+|move|p2a: Toxapex|Scald|p1a: Thundurus
+|-crit|p1a: Thundurus
+|-damage|p1a: Thundurus|35/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641796741
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Thundurus|atk|1
+|-ability|p1a: Thundurus|Defiant
+|-boost|p1a: Thundurus|atk|2
+|move|p1a: Thundurus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|54/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Thundurus
+|
+|upkeep
+|turn|13
+|
+|t:|1641796745
+|move|p1a: Thundurus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|41/100
+|
+|t:|1641796748
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|95/100|[from] Stealth Rock
+|move|p2a: Landorus|Toxic|p1a: Ferrothorn
+|-immune|p1a: Ferrothorn
+|
+|upkeep
+|turn|14
+|j|%gggguang
+|
+|t:|1641796753
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|
+|-damage|p2a: Corviknight|76/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641796756
+|switch|p1a: Thundurus|Thundurus, M|35/100
+|move|p2a: Corviknight|Defog|p1a: Thundurus
+|-unboost|p1a: Thundurus|evasion|1
+|-ability|p1a: Thundurus|Defiant
+|-boost|p1a: Thundurus|atk|2
+|-sideend|p1: LT83AQ Yuki|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: SL21CC ginko|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: SL21CC ginko|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-damage|p2a: Corviknight|64/100|[from] Leech Seed|[of] p1a: Thundurus
+|-heal|p1a: Thundurus|51/100|[silent]
+|upkeep
+|turn|16
+|j| Suta Pulachina
+|j| SL21CC XIAOBAO
+|
+|t:|1641796765
+|switch|p2a: Landorus|Landorus-Therian, M|41/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Thundurus|atk|1
+|-ability|p1a: Thundurus|Defiant
+|-boost|p1a: Thundurus|atk|2
+|move|p1a: Thundurus|Wild Charge|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|17
+|
+|t:|1641796770
+|move|p1a: Thundurus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|4/100
+|move|p2a: Landorus|Toxic|p1a: Thundurus
+|-status|p1a: Thundurus|tox
+|
+|-damage|p1a: Thundurus|45/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641796774
+|move|p1a: Thundurus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|t:|1641796780
+|switch|p1a: Garchomp|Garchomp, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641796782
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|19
+|
+|t:|1641796785
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Weavile|Knock Off|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|upkeep
+|turn|20
+|
+|t:|1641796792
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Weavile|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|74/100
+|-damage|p2a: Weavile|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Weavile|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|21
+|
+|t:|1641796797
+|move|p2a: Weavile|Low Kick|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|37/100
+|-damage|p2a: Weavile|59/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Weavile
+|-sidestart|p2: SL21CC ginko|Spikes
+|
+|upkeep
+|turn|22
+|
+|t:|1641796803
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Weavile|Low Kick|p1a: Scizor
+|-damage|p1a: Scizor|70/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641796811
+|switch|p2a: Rotom|Rotom-Heat|64/100 tox
+|move|p1a: Scizor|U-turn|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|46/100 tox
+|
+|t:|1641796813
+|switch|p1a: Dragapult|Dragapult, M|52/100|[from]move: U-turn
+|
+|-damage|p2a: Rotom|40/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641796820
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Blissey
+|-immune|p2a: Blissey
+|
+|upkeep
+|turn|25
+|
+|t:|1641796824
+|switch|p1a: Scizor|Scizor, F|70/100
+|move|p2a: Blissey|Aromatherapy|p2a: Blissey
+|-activate|p2a: Blissey|move: Aromatherapy
+|-curestatus|p2: Rotom|tox|[msg]
+|
+|upkeep
+|turn|26
+|
+|t:|1641796830
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641796832
+|switch|p2a: Rotom|Rotom-Heat|40/100|[from]move: Teleport
+|
+|upkeep
+|turn|27
+|
+|t:|1641796840
+|switch|p1a: Dragapult|Dragapult, M|52/100
+|move|p2a: Rotom|Pain Split|p1a: Dragapult
+|-sethp|p1a: Dragapult|41/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|54/100|[from] move: Pain Split
+|
+|upkeep
+|turn|28
+|
+|t:|1641796846
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Dragapult|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|86/100
+|
+|t:|1641796860
+|switch|p1a: Garchomp|Garchomp, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|29
+|
+|t:|1641796864
+|switch|p2a: Corviknight|Corviknight, F|64/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Garchomp|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: SL21CC ginko|move: Stealth Rock
+|
+|upkeep
+|turn|30
+|
+|t:|1641796870
+|switch|p1a: Thundurus|Thundurus, M|45/100 tox
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Thundurus|39/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641796874
+|move|p1a: Thundurus|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|-enditem|p2a: Corviknight|Shed Shell|[from] move: Knock Off|[of] p1a: Thundurus
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Thundurus|27/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641796882
+|move|p1a: Thundurus|Wild Charge|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|53/100
+|-damage|p1a: Thundurus|12/100 tox|[from] Recoil
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Thundurus|0 fnt|[from] psn
+|faint|p1a: Thundurus
+|upkeep
+|
+|t:|1641796885
+|switch|p1a: Heatran|Heatran, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|33
+|j| SL21CC Leviathan
+|
+|t:|1641796890
+|switch|p2a: Blissey|Blissey, F|86/100
+|move|p1a: Heatran|Eruption|p2a: Blissey
+|-damage|p2a: Blissey|52/100
+|
+|upkeep
+|turn|34
+|
+|t:|1641796896
+|move|p1a: Heatran|Taunt|p2a: Blissey
+|-start|p2a: Blissey|move: Taunt
+|cant|p2a: Blissey|move: Taunt|Soft-Boiled
+|
+|upkeep
+|turn|35
+|
+|t:|1641796901
+|move|p1a: Heatran|Eruption|p2a: Blissey
+|-damage|p2a: Blissey|19/100
+|move|p2a: Blissey|Seismic Toss|p1a: Heatran
+|-damage|p1a: Heatran|70/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|36
+|
+|t:|1641796904
+|move|p1a: Heatran|Magma Storm|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1641796906
+|switch|p2a: Weavile|Weavile, M|59/100
+|-ability|p2a: Weavile|Pressure
+|turn|37
+|
+|t:|1641796909
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Weavile|Low Kick|p1a: Scizor
+|-damage|p1a: Scizor|68/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641796912
+|switch|p2a: Rotom|Rotom-Heat|54/100
+|move|p1a: Scizor|U-turn|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|34/100
+|
+|t:|1641796915
+|switch|p1a: Dragapult|Dragapult, M|41/100|[from]move: U-turn
+|
+|upkeep
+|turn|39
+|
+|t:|1641796920
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragapult|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100
+|-unboost|p2a: Corviknight|spd|1
+|
+|upkeep
+|turn|40
+|
+|t:|1641796923
+|move|p1a: Dragapult|Shadow Ball|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641796924
+|switch|p2a: Weavile|Weavile, M|59/100
+|-ability|p2a: Weavile|Pressure
+|turn|41
+|
+|t:|1641796930
+|switch|p1a: Ferrothorn|Ferrothorn, F|37/100
+|move|p2a: Weavile|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|19/100
+|-damage|p2a: Weavile|47/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|42
+|
+|t:|1641796933
+|move|p2a: Weavile|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Weavile|34/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641796935
+|switch|p1a: Scizor|Scizor, F|68/100
+|turn|43
+|
+|t:|1641796938
+|switch|p2a: Rotom|Rotom-Heat|34/100
+|move|p1a: Scizor|U-turn|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|15/100
+|
+|t:|1641796941
+|switch|p1a: Dragapult|Dragapult, M|41/100|[from]move: U-turn
+|
+|upkeep
+|turn|44
+|-message|SL21CC ginko forfeited.
+|
+|win|LT83AQ Yuki
+|raw|LT83AQ Yuki's rating: 1234 &rarr; <strong>1255</strong><br />(+21 for winning)
+|raw|SL21CC ginko's rating: 1357 &rarr; <strong>1330</strong><br />(-27 for losing)
+|l|☆SL21CC ginko
+|l| SL21CC Leviathan
+|l| Suta Pulachina
+|l|☆LT83AQ Yuki
+|l| 15184697ing
+|l|%gggguang
+|j|%gggguang
+|l|%gggguang
+|j| jiokopg_fkok43
+|l| jiokopg_fkok43
+|j| jiokopg_fkok43

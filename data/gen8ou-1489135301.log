@@ -1,0 +1,129 @@
+|j|☆Bunnyhop 54
+|j|☆nathanv2121
+|t:|1641861292
+|gametype|singles
+|player|p1|Bunnyhop 54|lyra|1089
+|player|p2|nathanv2121|2|1043
+|teamsize|p1|6
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Celesteela|
+|poke|p1|Regieleki|
+|poke|p1|Blissey, F|
+|poke|p1|Primarina, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Uxie|
+|poke|p2|Poliwrath, F|
+|teampreview
+|
+|t:|1641861300
+|start
+|switch|p1a: Primarina|Primarina, F|100/100
+|switch|p2a: Uxie|Uxie|100/100
+|turn|1
+|
+|t:|1641861318
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Uxie|Light Screen|p2a: Uxie
+|-sidestart|p2: nathanv2121|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1641861346
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Uxie|Yawn|p1a: Dragapult
+|-start|p1a: Dragapult|move: Yawn|[of] p2a: Uxie
+|
+|upkeep
+|turn|3
+|
+|t:|1641861358
+|move|p1a: Dragapult|Dragon Darts|p2a: Uxie
+|-damage|p2a: Uxie|71/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Uxie
+|-damage|p2a: Uxie|44/100
+|move|p2a: Uxie|Memento|p1a: Dragapult
+|-fail|p1a: Dragapult|unboost|[from] ability: Clear Body|[of] p1a: Dragapult
+|faint|p2a: Uxie
+|
+|-end|p1a: Dragapult|move: Yawn|[silent]
+|-status|p1a: Dragapult|slp
+|upkeep
+|
+|t:|1641861367
+|switch|p2a: Poliwrath|Poliwrath, F|100/100
+|turn|4
+|
+|t:|1641861373
+|switch|p1a: Primarina|Primarina, F|100/100
+|move|p2a: Poliwrath|Substitute|p2a: Poliwrath
+|-start|p2a: Poliwrath|Substitute
+|-damage|p2a: Poliwrath|76/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641861379
+|move|p2a: Poliwrath|Belly Drum|p2a: Poliwrath
+|-damage|p2a: Poliwrath|26/100
+|-setboost|p2a: Poliwrath|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Poliwrath|Sitrus Berry|[eat]
+|-heal|p2a: Poliwrath|50/100|[from] item: Sitrus Berry
+|move|p1a: Primarina|Perish Song|p1a: Primarina
+|-start|p1a: Primarina|perish3|[silent]
+|-start|p2a: Poliwrath|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|
+|-start|p2a: Poliwrath|perish3
+|-start|p1a: Primarina|perish3
+|upkeep
+|turn|6
+|c|☆Bunnyhop 54|Lol
+|c|☆nathanv2121|lol
+|
+|t:|1641861398
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Poliwrath|Drain Punch|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|-heal|p2a: Poliwrath|100/100|[from] drain|[of] p1a: Rillaboom
+|faint|p1a: Rillaboom
+|
+|-start|p2a: Poliwrath|perish2
+|upkeep
+|
+|t:|1641861411
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|7
+|
+|t:|1641861414
+|move|p1a: Regieleki|Substitute|p1a: Regieleki
+|-start|p1a: Regieleki|Substitute
+|-damage|p1a: Regieleki|76/100
+|move|p2a: Poliwrath|Drain Punch|p1a: Regieleki
+|-end|p1a: Regieleki|Substitute
+|
+|-heal|p1a: Regieleki|82/100|[from] Grassy Terrain
+|-start|p2a: Poliwrath|perish1
+|upkeep
+|turn|8
+|-message|nathanv2121 forfeited.
+|
+|win|Bunnyhop 54
+|raw|Bunnyhop 54's rating: 1089 &rarr; <strong>1112</strong><br />(+23 for winning)
+|raw|nathanv2121's rating: 1043 &rarr; <strong>1029</strong><br />(-14 for losing)
+|l|☆nathanv2121

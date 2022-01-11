@@ -1,0 +1,306 @@
+|j|☆cbz123
+|j|☆sl21cckhl
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641734612
+|gametype|singles
+|player|p1|cbz123|cbz123.jpg|
+|player|p2|sl21cckhl|cyclistf-gen4|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Celesteela|
+|poke|p1|Blacephalon|
+|poke|p1|Dragonite, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Bisharp, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Aegislash, F|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Moltres-Galar|
+|poke|p2|Pelipper, F|
+|poke|p2|Kartana|
+|teampreview
+|j| mqsh
+|inactive|sl21cckhl has 120 seconds left.
+|
+|t:|1641734646
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641734653
+|move|p1a: Mew|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: sl21cckhl|move: Stealth Rock
+|move|p2a: Pelipper|Weather Ball|p1a: Mew
+|-damage|p1a: Mew|14/100
+|-enditem|p1a: Mew|Red Card|[of] p2a: Pelipper
+|drag|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641734677
+|move|p1a: Mew|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|21/100
+|move|p2a: Garchomp|Earthquake|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| tianyutulongwu
+|
+|t:|1641734686
+|switch|p1a: Celesteela|Celesteela|100/100
+|turn|3
+|j| hourongfa
+|
+|t:|1641734698
+|switch|p2a: Aegislash|Aegislash, F|100/100
+|-damage|p2a: Aegislash|94/100|[from] Stealth Rock
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|j|♚aro nova
+|
+|t:|1641734704
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|40/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641734719
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p2a: Urshifu|94/100|[from] Stealth Rock
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641734727
+|move|p1a: Bisharp|Sucker Punch|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|71/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Bisharp
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|15/100
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|-hitcount|p1: Bisharp|2
+|
+|upkeep
+|
+|t:|1641734734
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|7
+|j| yinfoxfreak
+|
+|t:|1641734764
+|move|p2a: Urshifu|Ice Punch|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|39/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641734773
+|switch|p2a: Garchomp|Garchomp, M|21/100
+|-damage|p2a: Garchomp|15/100|[from] Stealth Rock
+|move|p1a: Dragonite|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641734780
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641734786
+|move|p2a: Kartana|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Dragonite
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641734788
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|turn|10
+|
+|t:|1641734800
+|move|p2a: Kartana|Knock Off|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|43/100
+|-enditem|p1a: Blaziken|Life Orb|[from] move: Knock Off|[of] p2a: Kartana
+|move|p1a: Blaziken|Close Combat|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Kartana
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|j| Waterghosts
+|j| SL21CC Pichiu
+|l| yinfoxfreak
+|inactive|sl21cckhl has 120 seconds left.
+|j| SL21CC姐ISthequeen
+|
+|t:|1641734847
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|11
+|j| pokonghanbingkan
+|
+|t:|1641734851
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Pelipper|Weather Ball|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|12
+|
+|t:|1641734854
+|move|p1a: Blaziken|Close Combat|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|35/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|move|p2a: Pelipper|Weather Ball|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641734859
+|switch|p1a: Celesteela|Celesteela|100/100
+|turn|13
+|
+|t:|1641734863
+|move|p2a: Pelipper|Weather Ball|p1a: Celesteela
+|-damage|p1a: Celesteela|5/100
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|l| pokonghanbingkan
+|j| Metallica126
+|
+|t:|1641734881
+|switch|p2a: Aegislash|Aegislash, F|94/100
+|-damage|p2a: Aegislash|88/100|[from] Stealth Rock
+|move|p1a: Celesteela|Air Slash|p2a: Aegislash|[miss]
+|-miss|p1a: Celesteela|p2a: Aegislash
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641734887
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Sneak|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|-weather|none
+|upkeep
+|l| Metallica126
+|
+|t:|1641734889
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|16
+|j| adreamew
+|
+|t:|1641734904
+|switch|p2a: Pelipper|Pelipper, F|35/100
+|-damage|p2a: Pelipper|10/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Blacephalon|Shadow Ball|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641734911
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|17
+|
+|t:|1641734914
+|move|p1a: Blacephalon|Shadow Ball|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|73/100
+|move|p2a: Moltres|Fiery Wrath|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|win|sl21cckhl
+|n|☆cbz123|cbz123
+|n|☆sl21cckhl|sl21cckhl
+|n| mqsh|mqsh
+|n| tianyutulongwu|tianyutulongwu
+|n| hourongfa|hourongfa
+|n|♚aro nova|aronova
+|n| Waterghosts|waterghosts
+|n| SL21CC Pichiu|sl21ccpichiu
+|n| SL21CC姐ISthequeen|sl21ccisthequeen
+|n| adreamew|adreamew
+|l|☆sl21cckhl
+|l| SL21CC姐ISthequeen
+|l| SL21CC Pichiu
+|j| SL22CC 蜜雪冰城
+|l|♚aro nova
+|j| shuoer硕德哒喵
+|l| shuoer硕德哒喵
+|l| SL22CC 蜜雪冰城
+|l| hourongfa

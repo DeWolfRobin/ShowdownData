@@ -1,0 +1,408 @@
+|j|☆galarian stoner
+|j|☆txikimandy
+|t:|1641764076
+|gametype|singles
+|player|p1|galarian stoner|266|
+|player|p2|txikimandy|cheryl|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Urshifu-*, M|
+|poke|p1|Pelipper, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Barraskewda, F|
+|poke|p1|Swampert, F|
+|poke|p1|Zapdos|
+|poke|p2|Dragapult, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Blissey, F|
+|poke|p2|Kartana|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Toxapex, F|
+|teampreview
+|c|☆galarian stoner|glhf
+|c|☆txikimandy|you too!!
+|j| Flashvert6
+|c| Flashvert6|Woooo!! Good luck you two, have fun!
+|
+|t:|1641764119
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|turn|1
+|
+|t:|1641764131
+|move|p2a: Kartana|Leaf Blade|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641764143
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|2
+|
+|t:|1641764149
+|move|p2a: Kartana|Leaf Blade|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|81/100
+|-damage|p2a: Kartana|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Kartana
+|-sidestart|p2: txikimandy|Spikes
+|
+|-heal|p1a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641764171
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|44/100
+|-enditem|p2a: Dragapult|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|93/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641764180
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Dragapult|Thunder Wave|p1a: Pelipper
+|-status|p1a: Pelipper|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641764194
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|move|p2a: Dragapult|Hex|p1a: Barraskewda
+|-damage|p1a: Barraskewda|33/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641764207
+|move|p1a: Barraskewda|Liquidation|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c| Flashvert6|Both of these things are SO FAST
+|
+|t:|1641764216
+|switch|p2a: Kartana|Kartana|88/100
+|-damage|p2a: Kartana|76/100|[from] Spikes
+|turn|7
+|
+|t:|1641764227
+|switch|p1a: Ferrothorn|Ferrothorn, M|93/100
+|move|p2a: Kartana|Leaf Blade|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|81/100
+|-damage|p2a: Kartana|63/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641764247
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Spikes
+|move|p1a: Ferrothorn|Spikes|p2a: Toxapex
+|-sidestart|p2: txikimandy|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|94/100|[from] item: Black Sludge
+|-heal|p1a: Ferrothorn|93/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641764260
+|move|p2a: Toxapex|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|84/100
+|-damage|p2a: Toxapex|82/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxapex
+|-start|p2a: Toxapex|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|88/100|[from] item: Black Sludge
+|-damage|p2a: Toxapex|75/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|95/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641764276
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|85/100
+|move|p1a: Ferrothorn|Spikes|p2a: Toxapex
+|-sidestart|p2: txikimandy|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|82/100|[from] item: Black Sludge
+|-damage|p2a: Toxapex|69/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|95/100|[silent]
+|upkeep
+|turn|11
+|
+|t:|1641764300
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Blissey
+|-damage|p2a: Blissey|83/100
+|-enditem|p2a: Blissey|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641764310
+|move|p2a: Blissey|Seismic Toss|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|67/100
+|-damage|p2a: Blissey|71/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Blissey
+|-start|p2a: Blissey|move: Leech Seed
+|
+|-damage|p2a: Blissey|58/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|92/100|[silent]
+|upkeep
+|turn|13
+|
+|t:|1641764337
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-damage|p2a: Ninetales|76/100|[from] Spikes
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Ferrothorn|86/100|[from] Hail
+|upkeep
+|
+|t:|1641764364
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|75/100|[from] Spikes
+|turn|14
+|
+|t:|1641764371
+|move|p2a: Toxapex|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|79/100
+|-status|p1a: Ferrothorn|brn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxapex
+|-start|p2a: Toxapex|move: Leech Seed
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|69/100|[from] Hail
+|-damage|p1a: Ferrothorn|73/100 brn|[from] Hail
+|-heal|p2a: Toxapex|75/100|[from] item: Black Sludge
+|-damage|p2a: Toxapex|63/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|84/100 brn|[silent]
+|-damage|p1a: Ferrothorn|78/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641764389
+|switch|p1a: Pelipper|Pelipper, F|100/100 par
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Toxapex|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|90/100 par
+|-enditem|p1a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|69/100|[from] item: Black Sludge
+|-damage|p2a: Toxapex|57/100|[from] Leech Seed|[of] p1a: Pelipper
+|-heal|p1a: Pelipper|100/100 par|[silent]
+|upkeep
+|turn|16
+|
+|t:|1641764404
+|switch|p2a: Kartana|Kartana|63/100
+|-damage|p2a: Kartana|39/100|[from] Spikes
+|move|p1a: Pelipper|U-turn|p2a: Kartana
+|-damage|p2a: Kartana|29/100
+|
+|t:|1641764411
+|switch|p1a: Ferrothorn|Ferrothorn, M|78/100 brn|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ferrothorn|72/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641764422
+|move|p2a: Kartana|Sacred Sword|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Kartana|16/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641764431
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|18
+|
+|t:|1641764450
+|move|p2a: Kartana|Sacred Sword|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|48/100
+|-status|p2a: Kartana|par|[from] ability: Static|[of] p1a: Zapdos
+|move|p1a: Zapdos|Volt Switch|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|t:|1641764462
+|switch|p1a: Swampert|Swampert, F|100/100|[from]move: Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641764470
+|switch|p2a: Blissey|Blissey, F|58/100
+|-damage|p2a: Blissey|33/100|[from] Spikes
+|turn|19
+|
+|t:|1641764474
+|move|p1a: Swampert|Stealth Rock|p2a: Blissey
+|-sidestart|p2: txikimandy|move: Stealth Rock
+|move|p2a: Blissey|Toxic|p1a: Swampert
+|-status|p1a: Swampert|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Swampert|94/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641764481
+|move|p1a: Swampert|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|3/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|53/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Swampert|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Swampert|88/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641764491
+|move|p1a: Swampert|Flip Turn|p2a: Blissey
+|-damage|p2a: Blissey|22/100
+|
+|t:|1641764498
+|switch|p1a: Barraskewda|Barraskewda, F|33/100|[from]move: Flip Turn
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|72/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1641764505
+|move|p1a: Barraskewda|Liquidation|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|-weather|none
+|upkeep
+|
+|t:|1641764515
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|23
+|
+|t:|1641764522
+|switch|p1a: Pelipper|Pelipper, F|100/100 par
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Corviknight|Body Press|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|92/100 par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641764542
+|move|p2a: Corviknight|U-turn|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|87/100 par
+|
+|t:|1641764550
+|switch|p2a: Toxapex|Toxapex, F|90/100|[from]move: U-turn
+|-damage|p2a: Toxapex|65/100|[from] Spikes
+|-damage|p2a: Toxapex|52/100|[from] Stealth Rock
+|cant|p1a: Pelipper|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|59/100|[from] item: Black Sludge
+|upkeep
+|turn|25
+|
+|t:|1641764562
+|move|p2a: Toxapex|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|80/100 par
+|move|p1a: Pelipper|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|56/100
+|
+|t:|1641764567
+|switch|p1a: Zapdos|Zapdos|48/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|62/100|[from] item: Black Sludge
+|upkeep
+|turn|26
+|
+|t:|1641764581
+|move|p1a: Zapdos|Thunder|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641764589
+|switch|p2a: Corviknight|Corviknight, F|94/100
+|-damage|p2a: Corviknight|82/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|27
+|
+|t:|1641764596
+|move|p1a: Zapdos|Thunder|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|win|galarian stoner
+|c|☆galarian stoner|gg
+|c|☆txikimandy|gg!!
+|c| Flashvert6|GG!!!
+|c|☆galarian stoner|was fun!

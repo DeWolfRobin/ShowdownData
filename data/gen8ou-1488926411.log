@@ -1,0 +1,436 @@
+|j|☆Risenank
+|j|☆Bob & Alex _4444
+|t:|1641837337
+|gametype|singles
+|player|p1|Risenank|1|1040
+|player|p2|Bob & Alex _4444|hilbert|1053
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, F|
+|poke|p1|Terrakion|
+|poke|p1|Kangaskhan, F|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Darmanitan, F|
+|poke|p1|Tyranitar, M|
+|poke|p2|Weavile, F|
+|poke|p2|Lopunny, M|
+|poke|p2|Pikachu, F|
+|poke|p2|Mienshao, F|
+|poke|p2|Shiftry, M|
+|poke|p2|Ludicolo, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Bob & Alex _4444)
+|
+|t:|1641837343
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|switch|p2a: Lopunny|Lopunny, M|100/100
+|turn|1
+|
+|t:|1641837354
+|move|p2a: Lopunny|Fake Out|p1a: Urshifu
+|-damage|p1a: Urshifu|85/100
+|cant|p1a: Urshifu|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1641837360
+|move|p1a: Urshifu|Stone Edge|p2a: Lopunny
+|-damage|p2a: Lopunny|57/100
+|move|p2a: Lopunny|U-turn|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|77/100
+|
+|t:|1641837368
+|switch|p2a: Pikachu|Pikachu, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641837373
+|move|p2a: Pikachu|Fake Out|p1a: Urshifu
+|-damage|p1a: Urshifu|63/100
+|cant|p1a: Urshifu|flinch
+|
+|upkeep
+|turn|4
+|
+|t:|1641837382
+|move|p1a: Urshifu|Stone Edge|p2a: Pikachu
+|-damage|p2a: Pikachu|16/100
+|move|p2a: Pikachu|Volt Switch|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|t:|1641837395
+|switch|p2a: Shiftry|Shiftry, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|
+|t:|1641837398
+|switch|p1a: Darmanitan|Darmanitan, F|100/100
+|turn|5
+|
+|t:|1641837403
+|move|p2a: Shiftry|Fake Out|p1a: Darmanitan
+|-damage|p1a: Darmanitan|85/100
+|cant|p1a: Darmanitan|flinch
+|
+|upkeep
+|turn|6
+|
+|t:|1641837410
+|switch|p2a: Ludicolo|Ludicolo, M|100/100
+|move|p1a: Darmanitan|Flamethrower|p2a: Ludicolo
+|-damage|p2a: Ludicolo|84/100
+|
+|-heal|p2a: Ludicolo|90/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641837419
+|move|p2a: Ludicolo|Fake Out|p1a: Darmanitan
+|-damage|p1a: Darmanitan|72/100
+|cant|p1a: Darmanitan|flinch
+|
+|-heal|p2a: Ludicolo|96/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641837427
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Ludicolo|Leech Seed|p1a: Tyranitar
+|-start|p1a: Tyranitar|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ludicolo|90/100|[from] Sandstorm
+|-heal|p2a: Ludicolo|96/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|88/100|[from] Leech Seed|[of] p2a: Ludicolo
+|-heal|p2a: Ludicolo|100/100|[silent]
+|upkeep
+|turn|9
+|inactive|Bob & Alex _4444 has 120 seconds left.
+|
+|t:|1641837465
+|move|p2a: Ludicolo|Toxic|p1a: Tyranitar
+|-status|p1a: Tyranitar|tox
+|move|p1a: Tyranitar|Flamethrower|p2a: Ludicolo
+|-damage|p2a: Ludicolo|81/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ludicolo|75/100|[from] Sandstorm
+|-heal|p2a: Ludicolo|81/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|76/100 tox|[from] Leech Seed|[of] p2a: Ludicolo
+|-heal|p2a: Ludicolo|97/100|[silent]
+|-damage|p1a: Tyranitar|70/100 tox|[from] psn
+|upkeep
+|turn|10
+|inactive|Bob & Alex _4444 has 120 seconds left.
+|inactive|Bob & Alex _4444 has 90 seconds left.
+|
+|t:|1641837504
+|switch|p2a: Shiftry|Shiftry, M|100/100
+|move|p1a: Tyranitar|Body Slam|p2a: Shiftry
+|-crit|p2a: Shiftry
+|-damage|p2a: Shiftry|31/100
+|-status|p2a: Shiftry|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Shiftry|24/100 par|[from] Sandstorm
+|-heal|p2a: Shiftry|31/100 par|[from] item: Leftovers
+|-damage|p1a: Tyranitar|57/100 tox|[from] Leech Seed|[of] p2a: Shiftry
+|-heal|p2a: Shiftry|46/100 par|[silent]
+|-damage|p1a: Tyranitar|45/100 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|Bob & Alex _4444 has 90 seconds left.
+|
+|t:|1641837519
+|move|p2a: Shiftry|Fake Out|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|39/100 tox
+|cant|p1a: Tyranitar|flinch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Shiftry|40/100 par|[from] Sandstorm
+|-heal|p2a: Shiftry|46/100 par|[from] item: Leftovers
+|-damage|p1a: Tyranitar|26/100 tox|[from] Leech Seed|[of] p2a: Shiftry
+|-heal|p2a: Shiftry|62/100 par|[silent]
+|-damage|p1a: Tyranitar|8/100 tox|[from] psn
+|upkeep
+|-enditem|p1a: Tyranitar|Iapapa Berry|[eat]
+|-heal|p1a: Tyranitar|41/100 tox|[from] item: Iapapa Berry
+|turn|12
+|inactive|Bob & Alex _4444 has 90 seconds left.
+|
+|t:|1641837535
+|move|p1a: Tyranitar|Flamethrower|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|5/100 par
+|move|p2a: Shiftry|Leaf Storm|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-unboost|p2a: Shiftry|spa|2
+|faint|p1a: Tyranitar
+|
+|-weather|none
+|-heal|p2a: Shiftry|11/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1641837541
+|switch|p1a: Darmanitan|Darmanitan, F|72/100
+|turn|13
+|inactive|Bob & Alex _4444 has 90 seconds left.
+|inactive|Bob & Alex _4444 has 60 seconds left.
+|
+|t:|1641837583
+|switch|p2a: Ludicolo|Ludicolo, M|97/100
+|move|p1a: Darmanitan|Flamethrower|p2a: Ludicolo
+|-damage|p2a: Ludicolo|80/100
+|
+|-heal|p2a: Ludicolo|86/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641837593
+|move|p2a: Ludicolo|Fake Out|p1a: Darmanitan
+|-damage|p1a: Darmanitan|59/100
+|cant|p1a: Darmanitan|flinch
+|
+|-heal|p2a: Ludicolo|92/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641837602
+|move|p1a: Darmanitan|U-turn|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|25/100
+|
+|t:|1641837612
+|switch|p1a: Terrakion|Terrakion|100/100|[from]move: U-turn
+|move|p2a: Ludicolo|Toxic|p1a: Terrakion|[miss]
+|-miss|p2a: Ludicolo|p1a: Terrakion
+|
+|-heal|p2a: Ludicolo|31/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641837624
+|move|p1a: Terrakion|Megahorn|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|faint|p2a: Ludicolo
+|
+|upkeep
+|
+|t:|1641837631
+|switch|p2a: Lopunny|Lopunny, M|57/100
+|turn|17
+|
+|t:|1641837638
+|move|p2a: Lopunny|Fake Out|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-damage|p1a: Terrakion|93/100
+|cant|p1a: Terrakion|flinch
+|
+|upkeep
+|turn|18
+|
+|t:|1641837644
+|move|p2a: Lopunny|High Jump Kick|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|37/100
+|move|p1a: Terrakion|Megahorn|p2a: Lopunny
+|-damage|p2a: Lopunny|0 fnt
+|faint|p2a: Lopunny
+|
+|upkeep
+|
+|t:|1641837654
+|switch|p2a: Pikachu|Pikachu, F|16/100
+|turn|19
+|inactive|Bob & Alex _4444 has 90 seconds left.
+|
+|t:|1641837662
+|move|p2a: Pikachu|Fake Out|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-damage|p1a: Terrakion|31/100
+|cant|p1a: Terrakion|flinch
+|
+|upkeep
+|turn|20
+|
+|t:|1641837669
+|move|p2a: Pikachu|Extreme Speed|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-crit|p1a: Terrakion
+|-damage|p1a: Terrakion|10/100
+|-enditem|p1a: Terrakion|Aguav Berry|[eat]
+|-heal|p1a: Terrakion|43/100|[from] item: Aguav Berry
+|move|p1a: Terrakion|Close Combat|p2a: Pikachu
+|-damage|p2a: Pikachu|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|-status|p1a: Terrakion|par|[from] ability: Static|[of] p2a: Pikachu
+|faint|p2a: Pikachu
+|
+|upkeep
+|inactive|Bob & Alex _4444 has 90 seconds left.
+|
+|t:|1641837689
+|switch|p2a: Shiftry|Shiftry, M|11/100 par
+|turn|21
+|
+|t:|1641837693
+|switch|p1a: Darmanitan|Darmanitan, F|59/100
+|move|p2a: Shiftry|Fake Out|p1a: Darmanitan
+|-damage|p1a: Darmanitan|42/100
+|
+|-heal|p2a: Shiftry|17/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641837702
+|cant|p2a: Shiftry|par
+|move|p1a: Darmanitan|Flamethrower|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|
+|upkeep
+|inactive|Bob & Alex _4444 has 90 seconds left.
+|
+|t:|1641837713
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|23
+|
+|t:|1641837720
+|move|p2a: Weavile|Fake Out|p1a: Darmanitan
+|-damage|p1a: Darmanitan|17/100
+|cant|p1a: Darmanitan|flinch
+|
+|upkeep
+|turn|24
+|
+|t:|1641837727
+|move|p2a: Weavile|Knock Off|p1a: Darmanitan
+|-damage|p1a: Darmanitan|0 fnt
+|-enditem|p1a: Darmanitan|Mental Herb|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Darmanitan
+|
+|upkeep
+|
+|t:|1641837731
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|25
+|
+|t:|1641837736
+|move|p2a: Weavile|Blizzard|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|46/100
+|move|p1a: Rillaboom|Drum Beating|p2a: Weavile
+|-damage|p2a: Weavile|16/100
+|-unboost|p2a: Weavile|spe|1
+|
+|-heal|p1a: Rillaboom|52/100|[from] Grassy Terrain
+|-heal|p2a: Weavile|22/100|[from] Grassy Terrain
+|upkeep
+|turn|26
+|inactive|Bob & Alex _4444 has 120 seconds left.
+|
+|t:|1641837749
+|move|p1a: Rillaboom|Darkest Lariat|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-damage|p1a: Rillaboom|36/100|[from] item: Rocky Helmet|[of] p2a: Weavile
+|faint|p2a: Weavile
+|
+|-heal|p1a: Rillaboom|42/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641837752
+|switch|p2a: Mienshao|Mienshao, F|100/100
+|turn|27
+|
+|t:|1641837759
+|move|p2a: Mienshao|Fake Out|p1a: Rillaboom
+|-damage|p1a: Rillaboom|27/100
+|cant|p1a: Rillaboom|flinch
+|
+|-heal|p1a: Rillaboom|34/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1641837767
+|move|p1a: Rillaboom|Drain Punch|p2a: Mienshao
+|-damage|p2a: Mienshao|58/100
+|-heal|p1a: Rillaboom|51/100|[from] drain|[of] p2a: Mienshao
+|move|p2a: Mienshao|U-turn|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Mienshao|64/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641837773
+|switch|p1a: Kangaskhan|Kangaskhan, F|100/100
+|turn|29
+|
+|t:|1641837781
+|move|p1a: Kangaskhan|Fake Out|p2a: Mienshao
+|-damage|p2a: Mienshao|37/100
+|cant|p2a: Mienshao|flinch
+|
+|-heal|p2a: Mienshao|43/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|30
+|
+|t:|1641837793
+|move|p1a: Kangaskhan|Fake Out||[still]
+|-hint|Fake Out only works on your first turn out.
+|-fail|p1a: Kangaskhan
+|move|p2a: Mienshao|Close Combat|p1a: Kangaskhan
+|-supereffective|p1a: Kangaskhan
+|-damage|p1a: Kangaskhan|0 fnt
+|-unboost|p2a: Mienshao|def|1
+|-unboost|p2a: Mienshao|spd|1
+|faint|p1a: Kangaskhan
+|
+|upkeep
+|
+|t:|1641837797
+|switch|p1a: Terrakion|Terrakion|43/100 par
+|turn|31
+|
+|t:|1641837806
+|move|p2a: Mienshao|Close Combat|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|-unboost|p2a: Mienshao|def|1
+|-unboost|p2a: Mienshao|spd|1
+|faint|p1a: Terrakion
+|
+|win|Bob & Alex _4444
+|raw|Risenank's rating: 1040 &rarr; <strong>1025</strong><br />(-15 for losing)
+|raw|Bob &amp; Alex _4444's rating: 1053 &rarr; <strong>1084</strong><br />(+31 for winning)
+|l|☆Risenank
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

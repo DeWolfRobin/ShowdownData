@@ -1,0 +1,577 @@
+|j|☆Mega Madvil
+|j|☆t0pAKEn
+|t:|1641860453
+|gametype|singles
+|player|p1|Mega Madvil|giovanni|1259
+|player|p2|t0pAKEn|elesa-gen5bw2|1234
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Magnezone|
+|poke|p1|Toxapex, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Victini|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Mew|
+|poke|p2|Xurkitree|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mega Madvil)
+|
+|t:|1641860467
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|turn|1
+|
+|t:|1641860474
+|move|p1a: Tornadus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|89/100
+|-damage|p1a: Tornadus|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|-enditem|p2a: Landorus|Rocky Helmet|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Landorus|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: Mega Madvil|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641860488
+|move|p1a: Tornadus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|84/100
+|
+|t:|1641860493
+|switch|p1a: Kartana|Kartana|100/100|[from]move: U-turn
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Kartana
+|-damage|p1a: Kartana|70/100
+|
+|t:|1641860519
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641860538
+|switch|p1a: Victini|Victini|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|84/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Victini|atk|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641860548
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|79/100
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641860564
+|switch|p2a: Mew|Mew|100/100|[from]move: U-turn
+|
+|-heal|p1a: Toxapex|85/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1641860568
+|move|p1a: Toxapex|Toxic|p2a: Mew
+|-status|p2a: Mew|tox
+|-activate|p2a: Mew|ability: Synchronize
+|-immune|p1a: Toxapex
+|move|p2a: Mew|Trick Room|p2a: Mew
+|-fieldstart|move: Trick Room|[of] p2a: Mew
+|
+|-heal|p1a: Toxapex|92/100|[from] item: Black Sludge
+|-damage|p2a: Mew|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641860578
+|switch|p1a: Magnezone|Magnezone, shiny|100/100
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|move|p2a: Mew|U-turn|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|87/100
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641860606
+|switch|p2a: Landorus|Landorus-Therian, M|84/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641860621
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p1a: Tornadus|75/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|upkeep
+|turn|8
+|
+|t:|1641860634
+|move|p2a: Landorus|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|61/100
+|
+|t:|1641860638
+|switch|p2a: Xurkitree|Xurkitree|100/100|[from]move: U-turn
+|move|p1a: Tornadus|U-turn|p2a: Xurkitree
+|-damage|p2a: Xurkitree|74/100
+|
+|t:|1641860664
+|switch|p1a: Victini|Victini|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1641860684
+|move|p2a: Xurkitree|Thunderbolt|p1a: Victini
+|-damage|p1a: Victini|30/100
+|move|p1a: Victini|Scorching Sands|p2a: Xurkitree
+|-supereffective|p2a: Xurkitree
+|-damage|p2a: Xurkitree|27/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|10
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641860711
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Victini|Searing Shot|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|85/100
+|-status|p2a: Pelipper|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|79/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641860739
+|move|p1a: Victini|Psychic|p2a: Pelipper
+|-damage|p2a: Pelipper|23/100 brn
+|move|p2a: Pelipper|U-turn|p1a: Victini
+|-damage|p1a: Victini|26/100
+|
+|t:|1641860751
+|switch|p2a: Slowbro|Slowbro, F|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641860763
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Slowbro|Trick Room|p2a: Slowbro
+|-fieldstart|move: Trick Room|[of] p2a: Slowbro
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1641860770
+|switch|p2a: Xurkitree|Xurkitree|27/100
+|move|p1a: Toxapex|Toxic|p2a: Xurkitree
+|-status|p2a: Xurkitree|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p2a: Xurkitree|20/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641860775
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Xurkitree|Thunder|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Xurkitree|8/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641860786
+|switch|p1a: Kartana|Kartana|70/100
+|-damage|p1a: Kartana|64/100|[from] Stealth Rock
+|move|p2a: Xurkitree|Thunder|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|-ability|p2a: Xurkitree|Beast Boost|boost
+|-boost|p2a: Xurkitree|spa|1
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Xurkitree|0 fnt|[from] psn
+|faint|p2a: Xurkitree
+|upkeep
+|
+|t:|1641860803
+|switch|p2a: Landorus|Landorus-Therian, M|84/100
+|switch|p1a: Tyranitar|Tyranitar, F, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|16
+|
+|t:|1641860821
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|18/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|12/100|[from] Sandstorm
+|-heal|p1a: Toxapex|18/100|[from] item: Black Sludge
+|-fieldend|move: Trick Room
+|upkeep
+|turn|17
+|
+|t:|1641860829
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Landorus|U-turn|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|-status|p2a: Landorus|psn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|12/100|[from] Sandstorm
+|-heal|p1a: Toxapex|18/100|[from] item: Black Sludge
+|-damage|p2a: Landorus|71/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641860846
+|switch|p1a: Tornadus|Tornadus-Therian, M|94/100
+|-damage|p1a: Tornadus|69/100|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|52/100
+|
+|t:|1641860860
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|46/100|[from] Sandstorm
+|-enditem|p1a: Tornadus|Sitrus Berry|[eat]
+|-heal|p1a: Tornadus|71/100|[from] item: Sitrus Berry
+|upkeep
+|turn|19
+|
+|t:|1641860877
+|move|p1a: Tornadus|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|44/100
+|-unboost|p1a: Tornadus|atk|1
+|-unboost|p1a: Tornadus|def|1
+|-damage|p1a: Tornadus|59/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Ferrothorn|50/100|[from] item: Leftovers
+|upkeep
+|inactive|Mega Madvil has 120 seconds left.
+|
+|t:|1641860907
+|switch|p1a: Victini|Victini|26/100
+|turn|20
+|
+|t:|1641860931
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Victini|Searing Shot|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|77/100
+|-status|p2a: Slowbro|brn
+|
+|-weather|none
+|-heal|p2a: Slowbro|83/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|77/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641860946
+|move|p1a: Victini|Shadow Ball|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|31/100 brn
+|move|p2a: Slowbro|Scald|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|-heal|p2a: Slowbro|37/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|31/100 brn|[from] brn
+|upkeep
+|
+|t:|1641860954
+|switch|p1a: Magnezone|Magnezone, shiny|87/100
+|-damage|p1a: Magnezone|81/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641860970
+|switch|p2a: Landorus|Landorus-Therian, M|71/100 psn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|move|p1a: Magnezone|Flash Cannon|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641860999
+|switch|p2a: Mew|Mew|94/100 tox
+|turn|23
+|
+|t:|1641861008
+|switch|p1a: Toxapex|Toxapex, F|51/100
+|-damage|p1a: Toxapex|39/100|[from] Stealth Rock
+|move|p2a: Mew|Will-O-Wisp|p1a: Toxapex|[miss]
+|-miss|p2a: Mew|p1a: Toxapex
+|
+|-heal|p1a: Toxapex|45/100|[from] item: Black Sludge
+|-damage|p2a: Mew|88/100 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641861018
+|switch|p1a: Tyranitar|Tyranitar, F, shiny|88/100
+|-damage|p1a: Tyranitar|76/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Mew|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|43/100
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641861027
+|switch|p2a: Pelipper|Pelipper, F|23/100 brn|[from]move: U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|17/100 brn|[from] brn
+|upkeep
+|turn|25
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641861040
+|move|p1a: Tyranitar|Crunch|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641861066
+|switch|p2a: Ferrothorn|Ferrothorn, M|50/100
+|turn|26
+|
+|t:|1641861071
+|switch|p1a: Toxapex|Toxapex, F|78/100
+|-damage|p1a: Toxapex|66/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Power Whip|p1a: Toxapex
+|-damage|p1a: Toxapex|25/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Toxapex|31/100|[from] item: Black Sludge
+|-heal|p2a: Ferrothorn|55/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641861080
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Ferrothorn|Power Whip|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Toxapex|38/100|[from] item: Black Sludge
+|-heal|p2a: Ferrothorn|61/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641861097
+|switch|p1a: Magnezone|Magnezone, shiny|81/100
+|-damage|p1a: Magnezone|75/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Power Whip|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-crit|p1a: Magnezone
+|-damage|p1a: Magnezone|36/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|67/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641861114
+|move|p1a: Magnezone|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|40/100
+|
+|t:|1641861118
+|switch|p1a: Toxapex|Toxapex, F|71/100|[from]move: Volt Switch
+|-damage|p1a: Toxapex|58/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Substitute|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|Substitute
+|-damage|p2a: Ferrothorn|15/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Toxapex|65/100|[from] item: Black Sludge
+|-heal|p2a: Ferrothorn|21/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641861131
+|move|p1a: Toxapex|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Substitute|[damage]
+|move|p2a: Ferrothorn|Hone Claws|p2a: Ferrothorn
+|-boost|p2a: Ferrothorn|atk|1
+|-boost|p2a: Ferrothorn|accuracy|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Toxapex|71/100|[from] item: Black Sludge
+|-heal|p2a: Ferrothorn|27/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641861147
+|move|p1a: Toxapex|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-end|p2a: Ferrothorn|Substitute
+|move|p2a: Ferrothorn|Hone Claws|p2a: Ferrothorn
+|-boost|p2a: Ferrothorn|atk|1
+|-boost|p2a: Ferrothorn|accuracy|1
+|
+|-weather|none
+|-heal|p1a: Toxapex|77/100|[from] item: Black Sludge
+|-heal|p2a: Ferrothorn|33/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|inactive|t0pAKEn has 120 seconds left.
+|
+|t:|1641861166
+|move|p1a: Toxapex|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|23/100
+|move|p2a: Ferrothorn|Power Whip|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-heal|p2a: Ferrothorn|29/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641861171
+|switch|p1a: Tyranitar|Tyranitar, F, shiny|43/100
+|-damage|p1a: Tyranitar|31/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|33
+|
+|t:|1641861176
+|move|p1a: Tyranitar|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|2/100
+|move|p2a: Ferrothorn|Power Whip|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Ferrothorn|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641861179
+|switch|p1a: Magnezone|Magnezone, shiny|36/100
+|-damage|p1a: Magnezone|30/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1641861185
+|move|p1a: Magnezone|Thunderbolt|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641861194
+|switch|p2a: Mew|Mew|88/100 tox
+|turn|35
+|
+|t:|1641861213
+|move|p2a: Mew|Will-O-Wisp|p1a: Magnezone
+|-status|p1a: Magnezone|brn
+|move|p1a: Magnezone|Thunderbolt|p2a: Mew
+|-damage|p2a: Mew|25/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mew|19/100 tox|[from] Sandstorm
+|-damage|p2a: Mew|12/100 tox|[from] psn
+|-damage|p1a: Magnezone|24/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641861222
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|62/100 tox
+|-singleturn|p2a: Mew|move: Roost
+|move|p1a: Magnezone|Thunderbolt|p2a: Mew
+|-damage|p2a: Mew|3/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mew|0 fnt|[from] Sandstorm
+|faint|p2a: Mew
+|-damage|p1a: Magnezone|18/100 brn|[from] brn
+|upkeep
+|
+|t:|1641861229
+|switch|p2a: Slowbro|Slowbro, F|64/100 brn
+|turn|37
+|c|☆t0pAKEn|gg
+|
+|t:|1641861235
+|move|p1a: Magnezone|Thunderbolt|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|win|Mega Madvil
+|raw|Mega Madvil's rating: 1259 &rarr; <strong>1282</strong><br />(+23 for winning)
+|raw|t0pAKEn's rating: 1234 &rarr; <strong>1211</strong><br />(-23 for losing)
+|c|☆Mega Madvil|gg
+|c|☆Mega Madvil|close
+|l|☆t0pAKEn
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

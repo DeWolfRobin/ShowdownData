@@ -1,0 +1,421 @@
+|j|☆Ace2169
+|j|☆Seagulls2018
+|t:|1641725201
+|gametype|singles
+|player|p1|Ace2169|cynthia-gen4|1126
+|player|p2|Seagulls2018|zinzolin|1072
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Victini|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Scizor, M|
+|poke|p1|Gengar, M|
+|poke|p1|Garchomp, M|
+|poke|p2|Clefable, F|
+|poke|p2|Butterfree, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Cloyster, F|
+|poke|p2|Sandaconda, F|
+|teampreview
+|
+|t:|1641725225
+|start
+|switch|p1a: Victini|Victini|100/100
+|switch|p2a: Garchomp|Garchomp, M, shiny|100/100
+|turn|1
+|
+|t:|1641725236
+|move|p1a: Victini|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|76/100
+|-damage|p1a: Victini|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|t:|1641725242
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from]move: U-turn
+|move|p2a: Garchomp|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|47/100
+|
+|-heal|p1a: Garchomp|53/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641725252
+|move|p1a: Garchomp|Dragon Claw|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|8/100
+|-damage|p1a: Garchomp|41/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Aguav Berry|[eat]
+|-heal|p2a: Garchomp|40/100|[from] item: Aguav Berry
+|move|p2a: Garchomp|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641725266
+|switch|p1a: Victini|Victini|88/100
+|turn|3
+|
+|t:|1641725270
+|move|p1a: Victini|V-create|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|-damage|p1a: Victini|76/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641725279
+|switch|p2a: Excadrill|Excadrill, F, shiny|100/100
+|turn|4
+|
+|t:|1641725283
+|move|p2a: Excadrill|Earthquake|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|upkeep
+|
+|t:|1641725300
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|5
+|
+|t:|1641725331
+|switch|p2a: Butterfree|Butterfree, F|100/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Butterfree
+|-start|p2a: Butterfree|move: Leech Seed
+|
+|-damage|p2a: Butterfree|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|6
+|
+|t:|1641725343
+|move|p2a: Butterfree|Sleep Powder|p1a: Ferrothorn
+|-immune|p1a: Ferrothorn
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Butterfree
+|-status|p2a: Butterfree|par
+|
+|-damage|p2a: Butterfree|76/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|7
+|
+|t:|1641725364
+|move|p2a: Butterfree|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|63/100
+|move|p1a: Ferrothorn|Leech Seed||[still]
+|-fail|p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|69/100|[from] item: Leftovers
+|-damage|p2a: Butterfree|64/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|78/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641725374
+|move|p2a: Butterfree|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|37/100
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Butterfree
+|-damage|p2a: Butterfree|0 fnt
+|faint|p2a: Butterfree
+|
+|-heal|p1a: Ferrothorn|43/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641725383
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|9
+|
+|t:|1641725386
+|move|p1a: Ferrothorn|Leech Seed|p2a: Clefable
+|-start|p2a: Clefable|move: Leech Seed
+|move|p2a: Clefable|Counter||[still]
+|-fail|p2a: Clefable
+|
+|-heal|p1a: Ferrothorn|50/100|[from] item: Leftovers
+|-damage|p2a: Clefable|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|63/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641725397
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|47/100
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Clefable
+|-status|p2a: Clefable|par
+|
+|-heal|p1a: Ferrothorn|53/100|[from] item: Leftovers
+|-damage|p2a: Clefable|76/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|66/100|[silent]
+|upkeep
+|turn|11
+|
+|t:|1641725407
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Clefable|Light Screen|p2a: Clefable
+|-sidestart|p2: Seagulls2018|move: Light Screen
+|
+|-heal|p1a: Ferrothorn|73/100|[from] item: Leftovers
+|-damage|p2a: Clefable|63/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|86/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641725416
+|switch|p2a: Cloyster|Cloyster, F, shiny|100/100
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Cloyster
+|-damage|p2a: Cloyster|78/100
+|
+|-heal|p1a: Ferrothorn|92/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641725427
+|move|p2a: Cloyster|Icicle Spear|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|86/100
+|-damage|p1a: Ferrothorn|79/100
+|-damage|p1a: Ferrothorn|73/100
+|-damage|p1a: Ferrothorn|66/100
+|-damage|p1a: Ferrothorn|60/100
+|-hitcount|p1a: Ferrothorn|5
+|move|p1a: Ferrothorn|Leech Seed|p2a: Cloyster
+|-start|p2a: Cloyster|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|66/100|[from] item: Leftovers
+|-damage|p2a: Cloyster|65/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|76/100|[silent]
+|upkeep
+|turn|14
+|
+|t:|1641725445
+|move|p2a: Cloyster|Rock Blast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|74/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|72/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|70/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|68/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|66/100
+|-hitcount|p1a: Ferrothorn|5
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Cloyster
+|-status|p2a: Cloyster|par
+|
+|-heal|p1a: Ferrothorn|72/100|[from] item: Leftovers
+|-damage|p2a: Cloyster|53/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|82/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641725470
+|switch|p2a: Sandaconda|Sandaconda, F|100/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Sandaconda
+|-start|p2a: Sandaconda|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|88/100|[from] item: Leftovers
+|-damage|p2a: Sandaconda|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|98/100|[silent]
+|-sideend|p2: Seagulls2018|move: Light Screen
+|upkeep
+|turn|16
+|
+|t:|1641725480
+|move|p2a: Sandaconda|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: Ace2169|move: Stealth Rock
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Sandaconda
+|-damage|p2a: Sandaconda|62/100
+|-weather|Sandstorm|[from] ability: Sand Spit|[of] p2a: Sandaconda
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p2a: Sandaconda|50/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|17
+|
+|t:|1641725489
+|move|p2a: Sandaconda|Glare|p1a: Ferrothorn
+|-status|p1a: Ferrothorn|par
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Sandaconda
+|-damage|p2a: Sandaconda|13/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Sandaconda|0 fnt|[from] Leech Seed|[of] p1a: Ferrothorn
+|faint|p2a: Sandaconda
+|upkeep
+|
+|t:|1641725499
+|switch|p2a: Cloyster|Cloyster, F, shiny|53/100 par
+|turn|18
+|
+|t:|1641725505
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|move|p1a: Ferrothorn|Leech Seed|p2a: Cloyster
+|-start|p2a: Cloyster|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cloyster|47/100 par|[from] Sandstorm
+|-damage|p2a: Cloyster|34/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|19
+|
+|t:|1641725519
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Cloyster|Icicle Spear|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Cloyster|28/100 par|[from] Sandstorm
+|-damage|p2a: Cloyster|16/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|20
+|
+|t:|1641725528
+|move|p2a: Cloyster|Icicle Spear|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|88/100 par
+|-damage|p1a: Ferrothorn|76/100 par
+|-damage|p1a: Ferrothorn|64/100 par
+|-damage|p1a: Ferrothorn|52/100 par
+|-damage|p1a: Ferrothorn|38/100 par
+|-hitcount|p1a: Ferrothorn|5
+|cant|p1a: Ferrothorn|par
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|44/100 par|[from] item: Leftovers
+|-damage|p2a: Cloyster|3/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|54/100 par|[silent]
+|upkeep
+|turn|21
+|
+|t:|1641725542
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|cant|p2a: Cloyster|par
+|
+|-heal|p1a: Ferrothorn|60/100 par|[from] item: Leftovers
+|-damage|p2a: Cloyster|0 fnt|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|62/100 par|[silent]
+|faint|p2a: Cloyster
+|upkeep
+|
+|t:|1641725553
+|switch|p2a: Clefable|Clefable, F|63/100 par
+|turn|22
+|
+|t:|1641725560
+|cant|p1a: Ferrothorn|par
+|move|p2a: Clefable|Counter||[still]
+|-fail|p2a: Clefable
+|
+|-heal|p1a: Ferrothorn|68/100 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641725569
+|move|p2a: Clefable|Blizzard|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|28/100 par
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-start|p1a: Ferrothorn|Attract|[from] ability: Cute Charm|[of] p2a: Clefable
+|faint|p2a: Clefable
+|-end|p1a: Ferrothorn|Attract|[silent]
+|
+|-heal|p1a: Ferrothorn|35/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1641725579
+|switch|p2a: Excadrill|Excadrill, F, shiny|100/100
+|turn|24
+|
+|t:|1641725584
+|move|p2a: Excadrill|Rock Blast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|32/100 par
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|29/100 par
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|26/100 par
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|24/100 par
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|20/100 par
+|-hitcount|p1a: Ferrothorn|5
+|move|p1a: Ferrothorn|Leech Seed|p2a: Excadrill
+|-start|p2a: Excadrill|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|27/100 par|[from] item: Leftovers
+|-damage|p2a: Excadrill|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|41/100 par|[silent]
+|upkeep
+|turn|25
+|
+|t:|1641725602
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Excadrill|Earthquake|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|-heal|p1a: Ferrothorn|47/100 par|[from] item: Leftovers
+|-damage|p2a: Excadrill|75/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|61/100 par|[silent]
+|upkeep
+|turn|26
+|
+|t:|1641725612
+|move|p2a: Excadrill|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|25/100 par
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|43/100
+|
+|-heal|p1a: Ferrothorn|32/100 par|[from] item: Leftovers
+|-damage|p2a: Excadrill|30/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|46/100 par|[silent]
+|upkeep
+|turn|27
+|
+|t:|1641725621
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Excadrill|Earthquake|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|-heal|p1a: Ferrothorn|52/100 par|[from] item: Leftovers
+|-damage|p2a: Excadrill|18/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|66/100 par|[silent]
+|upkeep
+|-enditem|p2a: Excadrill|Aguav Berry|[eat]
+|-heal|p2a: Excadrill|50/100|[from] item: Aguav Berry
+|turn|28
+|-message|Seagulls2018 forfeited.
+|
+|win|Ace2169
+|raw|Ace2169's rating: 1126 &rarr; <strong>1146</strong><br />(+20 for winning)
+|raw|Seagulls2018's rating: 1055 &rarr; <strong>1040</strong><br />(-15 for losing)
+|l|☆Seagulls2018

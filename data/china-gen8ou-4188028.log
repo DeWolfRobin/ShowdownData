@@ -1,0 +1,303 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆9skythunderouskick
+|j|☆SL21CC XIAOBAO
+|t:|1641737279
+|gametype|singles
+|player|p1|9skythunderouskick|101|1299
+|player|p2|SL21CC XIAOBAO|marley|1383
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro-Galar, M|
+|poke|p1|Seismitoad, F|
+|poke|p1|Mew|
+|poke|p1|Melmetal|
+|poke|p1|Clefable, M|
+|poke|p1|Zapdos|
+|poke|p2|Dragapult, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Heatran, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Lele|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC XIAOBAO)
+|j| SL21CC Mcdonald's
+|j| SL21CCxiaomiaomiao
+|j| tianyutulongwu
+|
+|t:|1641737301
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|1
+|
+|t:|1641737305
+|move|p2a: Heatran|Magma Storm|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|6/100
+|-activate|p1a: Melmetal|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Melmetal|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-end|p1a: Melmetal|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|j| Suta Pulachina
+|j|♚aro nova
+|
+|t:|1641737314
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|2
+|j| shandianxuanfengpi
+|
+|t:|1641737316
+|move|p2a: Tapu Lele|Psychic|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|j| adreamew
+|j| sl21cckhl
+|
+|t:|1641737330
+|switch|p1a: Mew|Mew|100/100
+|turn|3
+|
+|t:|1641737350
+|move|p1a: Mew|Triple Axel|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|91/100
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|62/100
+|-damage|p2a: Tapu Lele|34/100
+|-hitcount|p2a: Tapu Lele|3
+|move|p2a: Tapu Lele|Psychic|p1a: Mew
+|-resisted|p1a: Mew
+|-damage|p1a: Mew|50/100
+|
+|-heal|p1a: Mew|57/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641737361
+|switch|p1a: Slowbro|Slowbro-Galar, M|100/100
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|
+|upkeep
+|turn|5
+|
+|t:|1641737365
+|move|p2a: Corviknight|U-turn|p1a: Slowbro
+|-damage|p1a: Slowbro|86/100
+|
+|t:|1641737368
+|switch|p2a: Garchomp|Garchomp, M|100/100|[from]move: U-turn
+|move|p1a: Slowbro|Nasty Plot|p1a: Slowbro
+|-boost|p1a: Slowbro|spa|2
+|
+|upkeep
+|turn|6
+|-activate|p1a: Slowbro|item: Quick Claw
+|
+|t:|1641737370
+|move|p1a: Slowbro|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641737372
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|7
+|
+|t:|1641737374
+|move|p2a: Dragapult|Shadow Ball|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|j| water GH0ST
+|
+|t:|1641737384
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|8
+|
+|t:|1641737388
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Clefable|Ice Beam|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|88/100
+|
+|-heal|p2a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641737394
+|move|p2a: Tapu Fini|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|90/100
+|-enditem|p1a: Clefable|Life Orb|[from] move: Knock Off|[of] p2a: Tapu Fini
+|move|p1a: Clefable|Thunder|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|41/100
+|
+|-heal|p2a: Tapu Fini|47/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641737399
+|move|p2a: Tapu Fini|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|54/100
+|move|p1a: Clefable|Thunder|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641737402
+|switch|p2a: Tapu Lele|Tapu Lele|34/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|11
+|
+|t:|1641737406
+|move|p2a: Tapu Lele|Psychic|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641737408
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|12
+|
+|t:|1641737410
+|move|p2a: Tapu Lele|Psychic|p1a: Zapdos
+|-damage|p1a: Zapdos|9/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641737414
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|13
+|inactive|9skythunderouskick has 120 seconds left.
+|
+|t:|1641737449
+|switch|p1a: Mew|Mew|57/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641737451
+|switch|p1a: Seismitoad|Seismitoad, F|100/100
+|turn|14
+|inactive|9skythunderouskick has 120 seconds left.
+|
+|t:|1641737466
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Seismitoad|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|15
+|
+|t:|1641737470
+|move|p1a: Seismitoad|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|78/100
+|move|p2a: Corviknight|Brave Bird|p1a: Seismitoad
+|-damage|p1a: Seismitoad|61/100
+|-damage|p2a: Corviknight|65/100|[from] Recoil
+|
+|-heal|p1a: Seismitoad|67/100|[from] item: Leftovers
+|-heal|p2a: Corviknight|71/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|
+|t:|1641737473
+|move|p1a: Seismitoad|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|51/100
+|-status|p2a: Corviknight|brn
+|move|p2a: Corviknight|Brave Bird|p1a: Seismitoad
+|-damage|p1a: Seismitoad|49/100
+|-damage|p2a: Corviknight|45/100 brn|[from] Recoil
+|
+|-heal|p1a: Seismitoad|55/100|[from] item: Leftovers
+|-heal|p2a: Corviknight|51/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|45/100 brn|[from] brn
+|upkeep
+|turn|17
+|inactive|SL21CC XIAOBAO has 120 seconds left.
+|inactive|9skythunderouskick has 120 seconds left.
+|
+|t:|1641737531
+|move|p1a: Seismitoad|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: SL21CC XIAOBAO|move: Stealth Rock
+|move|p2a: Corviknight|U-turn|p1a: Seismitoad
+|-damage|p1a: Seismitoad|48/100
+|
+|t:|1641737533
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from]move: U-turn
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Seismitoad|54/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|j| SL21CCJqlove
+|
+|t:|1641737538
+|move|p2a: Dragapult|Shadow Ball|p1a: Seismitoad
+|-crit|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|faint|p1a: Seismitoad
+|
+|upkeep
+|j| Rame10
+|
+|t:|1641737541
+|switch|p1a: Zapdos|Zapdos|9/100
+|turn|19
+|
+|t:|1641737543
+|move|p2a: Dragapult|Shadow Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|SL21CC XIAOBAO
+|raw|9skythunderouskick's rating: 1299 &rarr; <strong>1287</strong><br />(-12 for losing)
+|raw|SL21CC XIAOBAO's rating: 1383 &rarr; <strong>1399</strong><br />(+16 for winning)
+|c|☆SL21CC XIAOBAO|gg
+|l|☆SL21CC XIAOBAO
+|l| SL21CC Mcdonald's
+|l| SL21CCJqlove
+|l| Suta Pulachina
+|l|♚aro nova
+|l| sl21cckhl
+|l| tianyutulongwu
+|l| water GH0ST
+|l| SL21CCxiaomiaomiao

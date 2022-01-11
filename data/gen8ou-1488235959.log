@@ -1,0 +1,487 @@
+|j|☆Kaudri
+|j|☆CrimsonLion1
+|t:|1641739020
+|gametype|singles
+|player|p1|Kaudri|101|1234
+|player|p2|CrimsonLion1|aaron|1299
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Alakazam, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Toxapex, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Tangrowth, F|
+|poke|p2|Heatran, M|
+|poke|p2|Buzzwole|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Regieleki|
+|teampreview
+|
+|t:|1641739045
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Regieleki|Regieleki|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|
+|t:|1641739058
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Regieleki|atk|1
+|move|p2a: Regieleki|Volt Switch|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1641739068
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|move|p1a: Landorus|U-turn|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|75/100
+|-damage|p1a: Landorus|84/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|
+|t:|1641739078
+|switch|p1a: Moltres|Moltres-Galar|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641739090
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Moltres|Hurricane|p2a: Heatran|[miss]
+|-miss|p1a: Moltres|p2a: Heatran
+|
+|upkeep
+|turn|4
+|
+|t:|1641739128
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Heatran|Toxic|p1a: Toxapex
+|-immune|p1a: Toxapex
+|
+|upkeep
+|turn|5
+|
+|t:|1641739141
+|move|p2a: Heatran|Earth Power|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|57/100
+|move|p1a: Toxapex|Light Screen|p1a: Toxapex
+|-sidestart|p1: Kaudri|move: Light Screen
+|
+|-heal|p1a: Toxapex|63/100|[from] item: Black Sludge
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641739151
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Toxapex|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|92/100
+|
+|-heal|p1a: Toxapex|69/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1641739165
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|move|p2a: Slowbro|Future Sight|p1a: Moltres
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|8
+|
+|t:|1641739173
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641739175
+|switch|p2a: Regieleki|Regieleki|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|9
+|
+|t:|1641739184
+|move|p2a: Regieleki|Electro Ball|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|37/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|-end|p1a: Moltres|move: Future Sight
+|-immune|p1a: Moltres
+|-sideend|p1: Kaudri|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641739191
+|move|p2a: Regieleki|Electro Ball|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|c|☆Kaudri|Wew
+|
+|t:|1641739206
+|switch|p1a: Landorus|Landorus-Therian, M|84/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Regieleki|atk|1
+|turn|11
+|c|☆CrimsonLion1|ikr
+|c|☆Kaudri|Either that thing is just faster or scarfed
+|
+|t:|1641739235
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|12
+|c|☆CrimsonLion1|specs
+|c|☆Kaudri|Damn so it's just still faster
+|c|☆CrimsonLion1|bruh
+|
+|t:|1641739270
+|move|p1a: Tapu Lele|Psychic|p2a: Tangrowth
+|-damage|p2a: Tangrowth|0 fnt
+|faint|p2a: Tangrowth
+|
+|upkeep
+|
+|t:|1641739278
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|13
+|
+|t:|1641739286
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Heatran|Earth Power|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|56/100
+|
+|-heal|p1a: Toxapex|62/100|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1641739299
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Toxapex|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|91/100
+|
+|-heal|p1a: Toxapex|67/100|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1641739313
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|move|p2a: Slowbro|Future Sight|p1a: Alakazam
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|
+|t:|1641739325
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Alakazam|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|82/100
+|
+|-heal|p2a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641739339
+|move|p1a: Alakazam|Focus Blast|p2a: Heatran|[miss]
+|-miss|p1a: Alakazam|p2a: Heatran
+|move|p2a: Heatran|Taunt|p1a: Alakazam
+|-start|p1a: Alakazam|move: Taunt
+|
+|-end|p1a: Alakazam|move: Future Sight
+|-resisted|p1a: Alakazam
+|-damage|p1a: Alakazam|70/100
+|-heal|p2a: Heatran|95/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641739357
+|move|p1a: Alakazam|Focus Blast|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|40/100
+|move|p2a: Heatran|Magma Storm|p1a: Alakazam
+|-crit|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|-heal|p2a: Heatran|47/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641739363
+|switch|p1a: Landorus|Landorus-Therian, M|84/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|turn|19
+|
+|t:|1641739371
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Landorus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|73/100
+|
+|t:|1641739376
+|switch|p1a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|20
+|
+|t:|1641739382
+|move|p1a: Tapu Lele|Thunderbolt|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1641739387
+|switch|p2a: Heatran|Heatran, M|47/100
+|turn|21
+|
+|t:|1641739395
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Heatran|Earth Power|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|54/100
+|
+|-heal|p2a: Heatran|53/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|60/100|[from] item: Black Sludge
+|upkeep
+|turn|22
+|
+|t:|1641739403
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Toxapex|Scald|p2a: Buzzwole
+|-damage|p2a: Buzzwole|76/100
+|
+|-heal|p1a: Toxapex|66/100|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|t:|1641739414
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|move|p2a: Buzzwole|Ice Punch|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|58/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|24
+|
+|t:|1641739424
+|switch|p2a: Heatran|Heatran, M|53/100
+|move|p1a: Tapu Lele|Psychic|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|33/100
+|
+|-heal|p2a: Heatran|39/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641739430
+|switch|p1a: Landorus|Landorus-Therian, M|84/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Landorus
+|-damage|p1a: Landorus|47/100
+|-activate|p1a: Landorus|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|45/100|[from] item: Leftovers
+|-heal|p1a: Landorus|54/100|[from] item: Leftovers
+|-damage|p1a: Landorus|41/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|26
+|
+|t:|1641739439
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|95/100
+|
+|t:|1641739449
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|-heal|p2a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641739456
+|move|p2a: Landorus|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|85/100
+|-damage|p2a: Landorus|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641739462
+|switch|p2a: Heatran|Heatran, M|45/100|[from]move: U-turn
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Heatran
+|-sidestart|p2: CrimsonLion1|move: Stealth Rock
+|
+|-heal|p2a: Heatran|51/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|91/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641739470
+|switch|p1a: Toxapex|Toxapex, M|99/100
+|move|p2a: Heatran|Magma Storm|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|82/100
+|-activate|p1a: Toxapex|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|57/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|88/100|[from] item: Black Sludge
+|-damage|p1a: Toxapex|75/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|29
+|
+|t:|1641739481
+|switch|p2a: Buzzwole|Buzzwole|76/100
+|-damage|p2a: Buzzwole|63/100|[from] Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: Buzzwole
+|-damage|p2a: Buzzwole|36/100
+|
+|-heal|p1a: Toxapex|81/100|[from] item: Black Sludge
+|-end|p1a: Toxapex|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|30
+|
+|t:|1641739493
+|move|p2a: Buzzwole|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|40/100
+|move|p1a: Toxapex|Scald|p2a: Buzzwole
+|-damage|p2a: Buzzwole|10/100
+|-status|p2a: Buzzwole|brn
+|
+|-heal|p1a: Toxapex|46/100|[from] item: Black Sludge
+|-damage|p2a: Buzzwole|4/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641739511
+|move|p2a: Buzzwole|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|22/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|72/100
+|
+|-heal|p1a: Toxapex|78/100|[from] item: Black Sludge
+|-damage|p2a: Buzzwole|0 fnt|[from] brn
+|faint|p2a: Buzzwole
+|upkeep
+|
+|t:|1641739514
+|switch|p2a: Regieleki|Regieleki|100/100
+|-damage|p2a: Regieleki|88/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1641739520
+|switch|p1a: Landorus|Landorus-Therian, M|41/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Regieleki|atk|1
+|move|p2a: Regieleki|Ancient Power|p1a: Landorus
+|-damage|p1a: Landorus|19/100
+|
+|-heal|p1a: Landorus|25/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641739544
+|move|p2a: Regieleki|Ancient Power|p1a: Landorus
+|-damage|p1a: Landorus|2/100
+|move|p1a: Landorus|U-turn|p2a: Regieleki
+|-damage|p2a: Regieleki|40/100
+|
+|t:|1641739556
+|switch|p1a: Tapu Lele|Tapu Lele|58/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|34
+|
+|t:|1641739564
+|switch|p2a: Landorus|Landorus-Therian, M|88/100
+|-damage|p2a: Landorus|76/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Lele|atk|1
+|move|p1a: Tapu Lele|Psychic|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641739568
+|switch|p2a: Regieleki|Regieleki|40/100
+|-damage|p2a: Regieleki|28/100|[from] Stealth Rock
+|turn|35
+|
+|t:|1641739583
+|move|p2a: Regieleki|Electro Ball|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641739588
+|switch|p1a: Landorus|Landorus-Therian, M|2/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Regieleki|atk|1
+|turn|36
+|
+|t:|1641739591
+|switch|p2a: Heatran|Heatran, M|57/100
+|-damage|p2a: Heatran|45/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Landorus|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641739593
+|switch|p2a: Regieleki|Regieleki|28/100
+|-damage|p2a: Regieleki|16/100|[from] Stealth Rock
+|turn|37
+|c|☆CrimsonLion1|gg
+|
+|t:|1641739608
+|switch|p1a: Ferrothorn|Ferrothorn, M|91/100
+|move|p2a: Regieleki|Explosion|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|70/100
+|faint|p2a: Regieleki
+|
+|win|Kaudri
+|raw|Kaudri's rating: 1234 &rarr; <strong>1264</strong><br />(+30 for winning)
+|raw|CrimsonLion1's rating: 1299 &rarr; <strong>1269</strong><br />(-30 for losing)
+|c|☆CrimsonLion1|going out in style
+|c|☆Kaudri|Gg

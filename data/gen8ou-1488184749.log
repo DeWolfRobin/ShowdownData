@@ -1,0 +1,504 @@
+|j|☆Floyd Pink
+|j|☆8jaggery
+|t:|1641729754
+|gametype|singles
+|player|p1|Floyd Pink|wallace|1197
+|player|p2|8jaggery|102|1206
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Skarmory, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Chansey, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Clefable, M|
+|poke|p2|Blastoise, M|
+|teampreview
+|
+|t:|1641729766
+|start
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|turn|1
+|
+|t:|1641729773
+|move|p1a: Garchomp|Earthquake|p2a: Blastoise
+|-crit|p2a: Blastoise
+|-damage|p2a: Blastoise|8/100
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|upkeep
+|turn|2
+|
+|t:|1641729796
+|move|p2a: Blastoise|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641729801
+|switch|p1a: Chansey|Chansey, F|100/100
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Floyd Pink)
+|
+|t:|1641729821
+|move|p2a: Blastoise|Aura Sphere|p1a: Chansey
+|-supereffective|p1a: Chansey
+|-damage|p1a: Chansey|76/100
+|move|p1a: Chansey|Toxic|p2a: Blastoise
+|-status|p2a: Blastoise|tox
+|
+|-damage|p2a: Blastoise|2/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641729837
+|move|p2a: Blastoise|Surf|p1a: Chansey
+|-damage|p1a: Chansey|41/100
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|92/100
+|
+|-damage|p2a: Blastoise|0 fnt|[from] psn
+|faint|p2a: Blastoise
+|upkeep
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641729863
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|turn|5
+|
+|t:|1641729867
+|switch|p1a: Skarmory|Skarmory, M, shiny|100/100
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|upkeep
+|turn|6
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641729895
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Whirlwind|p2a: Heatran
+|drag|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|7
+|
+|t:|1641729912
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Toxic|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|upkeep
+|turn|8
+|
+|t:|1641729921
+|switch|p1a: Heatran|Heatran, M, shiny|100/100
+|move|p2a: Heatran|Stealth Rock|p1a: Heatran
+|-sidestart|p1: Floyd Pink|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1641729933
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|switch|p1a: Skarmory|Skarmory, M, shiny|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1641729943
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Whirlwind|p2a: Heatran
+|drag|p2a: Dragapult|Dragapult, M|100/100
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641729968
+|move|p2a: Dragapult|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|85/100
+|-damage|p2a: Dragapult|84/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-damage|p2a: Dragapult|74/100|[from] item: Life Orb
+|
+|t:|1641729976
+|switch|p2a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Toxic|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|upkeep
+|turn|12
+|
+|t:|1641729985
+|switch|p1a: Chansey|Chansey, F|92/100
+|-damage|p1a: Chansey|79/100|[from] Stealth Rock
+|move|p2a: Heatran|Flamethrower|p1a: Chansey
+|-damage|p1a: Chansey|64/100
+|
+|upkeep
+|turn|13
+|inactive|Floyd Pink has 120 seconds left.
+|inactive|Floyd Pink has 90 seconds left.
+|
+|t:|1641730060
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|14
+|inactive|8jaggery has 120 seconds left.
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641730097
+|switch|p1a: Skarmory|Skarmory, M, shiny|85/100
+|-damage|p1a: Skarmory|72/100|[from] Stealth Rock
+|move|p2a: Hawlucha|Brave Bird|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|55/100
+|-damage|p2a: Hawlucha|84/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-damage|p2a: Hawlucha|78/100|[from] Recoil
+|
+|upkeep
+|turn|15
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641730108
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Whirlwind|p2a: Heatran
+|drag|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|16
+|
+|t:|1641730117
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|17
+|inactive|Floyd Pink has 90 seconds left.
+|
+|t:|1641730129
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|94/100
+|-damage|p1a: Urshifu|88/100|[from] Stealth Rock
+|move|p2a: Heatran|Flamethrower|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|55/100
+|
+|-heal|p1a: Urshifu|61/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|inactive|Floyd Pink has 90 seconds left.
+|
+|t:|1641730140
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|71/100
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|40/100
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|6/100
+|-hitcount|p2a: Clefable|3
+|
+|-heal|p1a: Urshifu|67/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|12/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|19/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|Floyd Pink has 90 seconds left.
+|
+|t:|1641730155
+|move|p1a: Urshifu|Surging Strikes|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-hitcount|p2: Clefable|1
+|
+|-heal|p1a: Urshifu|73/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641730163
+|switch|p2a: Hawlucha|Hawlucha, F|78/100
+|turn|20
+|
+|t:|1641730176
+|switch|p1a: Skarmory|Skarmory, M, shiny|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|move|p2a: Hawlucha|Brave Bird|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|73/100
+|-damage|p2a: Hawlucha|61/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-damage|p2a: Hawlucha|55/100|[from] Recoil
+|
+|upkeep
+|turn|21
+|
+|t:|1641730189
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Whirlwind|p2a: Heatran
+|drag|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|22
+|
+|t:|1641730207
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|100/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|upkeep
+|turn|23
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641730232
+|switch|p2a: Hawlucha|Hawlucha, F|55/100
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|73/100
+|-damage|p1a: Urshifu|67/100|[from] Stealth Rock
+|
+|-heal|p1a: Urshifu|73/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641730246
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|switch|p1a: Skarmory|Skarmory, M, shiny|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|25
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641730257
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|73/100
+|-damage|p1a: Urshifu|67/100|[from] Stealth Rock
+|move|p2a: Heatran|Flamethrower|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|31/100
+|-status|p1a: Urshifu|brn
+|
+|-heal|p1a: Urshifu|37/100 brn|[from] Grassy Terrain
+|-damage|p1a: Urshifu|31/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|26
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641730274
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Urshifu|Surging Strikes|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|95/100
+|-resisted|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|90/100
+|-resisted|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|84/100
+|-hitcount|p2a: Rillaboom|3
+|
+|-heal|p1a: Urshifu|37/100 brn|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|91/100|[from] Grassy Terrain
+|-damage|p1a: Urshifu|31/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641730295
+|switch|p1a: Heatran|Heatran, M, shiny|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Grassy Glide|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|77/100
+|
+|-heal|p2a: Rillaboom|97/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|83/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1641730306
+|switch|p1a: Skarmory|Skarmory, M, shiny|88/100
+|-damage|p1a: Skarmory|76/100|[from] Stealth Rock
+|move|p2a: Rillaboom|High Horsepower|p1a: Skarmory
+|-immune|p1a: Skarmory
+|
+|-heal|p2a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|turn|29
+|
+|t:|1641730320
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Whirlwind|p2a: Heatran
+|drag|p2a: Dragapult|Dragapult, M|74/100
+|
+|-heal|p2a: Dragapult|80/100|[from] Grassy Terrain
+|upkeep
+|turn|30
+|
+|t:|1641730333
+|move|p2a: Dragapult|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|73/100
+|-damage|p2a: Dragapult|64/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|-damage|p2a: Dragapult|54/100|[from] item: Life Orb
+|
+|t:|1641730343
+|switch|p2a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Toxic|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|31
+|inactive|Floyd Pink has 120 seconds left.
+|
+|t:|1641730356
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|31/100 brn
+|-damage|p1a: Urshifu|25/100 brn|[from] Stealth Rock
+|move|p2a: Heatran|Flamethrower|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641730371
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-damage|p1a: Tapu Koko|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|32
+|
+|t:|1641730388
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|63/100
+|-status|p2a: Heatran|par
+|-enditem|p2a: Heatran|Air Balloon
+|move|p2a: Heatran|Earth Power|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641730397
+|switch|p1a: Heatran|Heatran, M, shiny|83/100
+|-damage|p1a: Heatran|71/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1641730410
+|switch|p2a: Hawlucha|Hawlucha, F|55/100
+|move|p1a: Heatran|Stealth Rock|p2a: Hawlucha
+|-sidestart|p2: 8jaggery|move: Stealth Rock
+|
+|upkeep
+|turn|34
+|
+|t:|1641730416
+|switch|p1a: Skarmory|Skarmory, M, shiny|73/100
+|-damage|p1a: Skarmory|61/100|[from] Stealth Rock
+|move|p2a: Hawlucha|Close Combat|p1a: Skarmory
+|-damage|p1a: Skarmory|26/100
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|-damage|p2a: Hawlucha|39/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|upkeep
+|turn|35
+|inactive|Floyd Pink has 120 seconds left.
+|
+|t:|1641730432
+|move|p2a: Hawlucha|Close Combat|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|-damage|p2a: Hawlucha|22/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1641730448
+|switch|p1a: Chansey|Chansey, F|64/100
+|-damage|p1a: Chansey|52/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1641730465
+|move|p2a: Hawlucha|Close Combat|p1a: Chansey
+|-supereffective|p1a: Chansey
+|-crit|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Chansey
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641730472
+|switch|p1a: Heatran|Heatran, M, shiny|71/100
+|-damage|p1a: Heatran|59/100|[from] Stealth Rock
+|turn|37
+|
+|t:|1641730485
+|move|p2a: Hawlucha|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Heatran
+|
+|win|8jaggery
+|raw|Floyd Pink's rating: 1197 &rarr; <strong>1173</strong><br />(-24 for losing)
+|raw|8jaggery's rating: 1206 &rarr; <strong>1230</strong><br />(+24 for winning)
+|l|☆Floyd Pink

@@ -1,0 +1,412 @@
+|j|☆T-Kizuki_Doma
+|j|☆Marshmelloy
+|t:|1641836772
+|gametype|singles
+|player|p1|T-Kizuki_Doma|caitlin|1076
+|player|p2|Marshmelloy|170|1026
+|teamsize|p1|6
+|teamsize|p2|3
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slurpuff, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Heatran, F|
+|poke|p1|Blissey, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Weavile, M|
+|poke|p2|Moltres-Galar|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Toxapex, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by T-Kizuki_Doma)
+|
+|t:|1641836792
+|start
+|switch|p1a: Hello there :3|Slurpuff, F, shiny|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|1
+|
+|t:|1641836798
+|move|p1a: Hello there :3|Belly Drum|p1a: Hello there :3
+|-damage|p1a: Hello there :3|50/100
+|-setboost|p1a: Hello there :3|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Hello there :3|Sitrus Berry|[eat]
+|-heal|p1a: Hello there :3|75/100|[from] item: Sitrus Berry
+|move|p2a: Toxapex|Toxic Spikes|p1a: Hello there :3
+|-sidestart|p1: T-Kizuki_Doma|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641836809
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Hello there :3|Facade|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|-status|p1a: Hello there :3|psn
+|
+|-damage|p1a: Hello there :3|63/100 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641836817
+|move|p1a: Hello there :3|Facade|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|-damage|p1a: Hello there :3|50/100 psn|[from] psn
+|upkeep
+|
+|t:|1641836823
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|4
+|
+|t:|1641836828
+|move|p1a: Hello there :3|Facade|p2a: Ninetales
+|-enditem|p2a: Ninetales|Focus Sash
+|-damage|p2a: Ninetales|1/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Marshmelloy|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hello there :3|44/100 psn|[from] Hail
+|-damage|p1a: Hello there :3|32/100 psn|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641836838
+|move|p1a: Hello there :3|Facade|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hello there :3|26/100 psn|[from] Hail
+|-damage|p1a: Hello there :3|13/100 psn|[from] psn
+|upkeep
+|
+|t:|1641836845
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|6
+|c|☆T-Kizuki_Doma|Why only 3 pkmn ?
+|
+|t:|1641836852
+|move|p1a: Hello there :3|Facade|p2a: Moltres
+|-damage|p2a: Moltres|15/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|move|p2a: Moltres|Rest|p2a: Moltres
+|-status|p2a: Moltres|slp|[from] move: Rest
+|-heal|p2a: Moltres|100/100 slp|[silent]
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Hello there :3|7/100 psn|[from] Hail
+|-damage|p2a: Moltres|94/100 slp|[from] Hail
+|-heal|p2a: Moltres|100/100 slp|[from] item: Leftovers
+|-damage|p1a: Hello there :3|0 fnt|[from] psn
+|faint|p1a: Hello there :3
+|upkeep
+|
+|t:|1641836864
+|switch|p1a: PomNoisettes|Heatran, F, shiny|100/100
+|turn|7
+|c|☆T-Kizuki_Doma|Why not 6 ?
+|
+|t:|1641836879
+|cant|p2a: Moltres|slp
+|move|p2a: Moltres|Sleep Talk|p2a: Moltres
+|move|p2a: Moltres|Hex|p1a: PomNoisettes|[from]move: Sleep Talk
+|-damage|p1a: PomNoisettes|83/100
+|move|p1a: PomNoisettes|Magma Storm|p2a: Moltres
+|-damage|p2a: Moltres|86/100 slp
+|-activate|p2a: Moltres|move: Magma Storm|[of] p1a: PomNoisettes
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Moltres|80/100 slp|[from] Hail
+|-damage|p1a: PomNoisettes|77/100|[from] Hail
+|-heal|p2a: Moltres|86/100 slp|[from] item: Leftovers
+|-damage|p2a: Moltres|73/100 slp|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641836895
+|cant|p2a: Moltres|slp
+|move|p2a: Moltres|Sleep Talk|p2a: Moltres
+|move|p2a: Moltres|Fiery Wrath|p1a: PomNoisettes|[from]move: Sleep Talk
+|-damage|p1a: PomNoisettes|37/100
+|cant|p1a: PomNoisettes|flinch
+|
+|-weather|none
+|-heal|p2a: Moltres|80/100 slp|[from] item: Leftovers
+|-damage|p2a: Moltres|67/100 slp|[from] move: Magma Storm|[partiallytrapped]
+|-sideend|p2: Marshmelloy|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1641836909
+|-curestatus|p2a: Moltres|slp|[msg]
+|move|p2a: Moltres|Fiery Wrath|p1a: PomNoisettes
+|-damage|p1a: PomNoisettes|0 fnt
+|faint|p1a: PomNoisettes
+|
+|-heal|p2a: Moltres|73/100|[from] item: Leftovers
+|-end|p2a: Moltres|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641836918
+|switch|p1a: Nightmare|Blissey, F, shiny|100/100
+|-status|p1a: Nightmare|psn
+|turn|10
+|
+|t:|1641836924
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare
+|-damage|p1a: Nightmare|81/100 psn
+|move|p1a: Nightmare|Seismic Toss|p2a: Moltres
+|-damage|p2a: Moltres|42/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|
+|-heal|p2a: Moltres|48/100|[from] item: Leftovers
+|-heal|p1a: Nightmare|87/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|74/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641836935
+|move|p2a: Moltres|Rest|p2a: Moltres
+|-status|p2a: Moltres|slp|[from] move: Rest
+|-heal|p2a: Moltres|100/100 slp|[silent]
+|move|p1a: Nightmare|Seismic Toss|p2a: Moltres
+|-damage|p2a: Moltres|69/100 slp
+|
+|-heal|p2a: Moltres|76/100 slp|[from] item: Leftovers
+|-heal|p1a: Nightmare|80/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|68/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641836946
+|cant|p2a: Moltres|slp
+|move|p2a: Moltres|Sleep Talk|p2a: Moltres
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare|[from]move: Sleep Talk
+|-damage|p1a: Nightmare|38/100 psn
+|cant|p1a: Nightmare|flinch
+|
+|-heal|p2a: Moltres|82/100 slp|[from] item: Leftovers
+|-heal|p1a: Nightmare|45/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|32/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641836958
+|cant|p2a: Moltres|slp
+|move|p2a: Moltres|Sleep Talk|p2a: Moltres
+|move|p2a: Moltres|Rest||[from]move: Sleep Talk|[still]
+|-fail|p2a: Moltres
+|move|p1a: Nightmare|Seismic Toss|p2a: Moltres
+|-damage|p2a: Moltres|51/100 slp
+|
+|-heal|p2a: Moltres|57/100 slp|[from] item: Leftovers
+|-heal|p1a: Nightmare|38/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|26/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641836971
+|-curestatus|p2a: Moltres|slp|[msg]
+|move|p2a: Moltres|Rest|p2a: Moltres
+|-status|p2a: Moltres|slp|[from] move: Rest
+|-heal|p2a: Moltres|100/100 slp|[silent]
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|76/100 psn
+|
+|-heal|p1a: Nightmare|82/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|70/100 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641836981
+|cant|p2a: Moltres|slp
+|move|p2a: Moltres|Sleep Talk|p2a: Moltres
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare|[from]move: Sleep Talk
+|-damage|p1a: Nightmare|41/100 psn
+|move|p1a: Nightmare|Seismic Toss|p2a: Moltres
+|-damage|p2a: Moltres|69/100 slp
+|
+|-heal|p2a: Moltres|76/100 slp|[from] item: Leftovers
+|-heal|p1a: Nightmare|47/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|34/100 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641836996
+|cant|p2a: Moltres|slp
+|move|p2a: Moltres|Sleep Talk|p2a: Moltres
+|move|p2a: Moltres|Rest||[from]move: Sleep Talk|[still]
+|-fail|p2a: Moltres
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|84/100 psn
+|
+|-heal|p2a: Moltres|82/100 slp|[from] item: Leftovers
+|-heal|p1a: Nightmare|90/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|78/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641837015
+|-curestatus|p2a: Moltres|slp|[msg]
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare
+|-damage|p1a: Nightmare|51/100 psn
+|move|p1a: Nightmare|Seismic Toss|p2a: Moltres
+|-damage|p2a: Moltres|51/100
+|
+|-heal|p2a: Moltres|57/100|[from] item: Leftovers
+|-heal|p1a: Nightmare|57/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|45/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641837026
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare
+|-damage|p1a: Nightmare|18/100 psn
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|68/100 psn
+|
+|-heal|p2a: Moltres|63/100|[from] item: Leftovers
+|-heal|p1a: Nightmare|74/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|62/100 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641837042
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare
+|-damage|p1a: Nightmare|34/100 psn
+|move|p1a: Nightmare|Seismic Toss|p2a: Moltres
+|-damage|p2a: Moltres|32/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|
+|-heal|p2a: Moltres|38/100|[from] item: Leftovers
+|-heal|p1a: Nightmare|40/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|27/100 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641837053
+|move|p2a: Moltres|Rest|p2a: Moltres
+|-status|p2a: Moltres|slp|[from] move: Rest
+|-heal|p2a: Moltres|100/100 slp|[silent]
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|77/100 psn
+|
+|-heal|p1a: Nightmare|84/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|71/100 psn|[from] psn
+|upkeep
+|turn|21
+|inactive|Marshmelloy has 120 seconds left.
+|
+|t:|1641837078
+|cant|p2a: Moltres|slp
+|move|p2a: Moltres|Sleep Talk|p2a: Moltres
+|move|p2a: Moltres|Rest||[from]move: Sleep Talk|[still]
+|-fail|p2a: Moltres
+|move|p1a: Nightmare|Seismic Toss|p2a: Moltres
+|-damage|p2a: Moltres|69/100 slp
+|
+|-heal|p2a: Moltres|76/100 slp|[from] item: Leftovers
+|-heal|p1a: Nightmare|77/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|65/100 psn|[from] psn
+|upkeep
+|turn|22
+|inactive|Marshmelloy has 120 seconds left.
+|
+|t:|1641837089
+|cant|p2a: Moltres|slp
+|move|p2a: Moltres|Sleep Talk|p2a: Moltres
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare|[from]move: Sleep Talk
+|-crit|p1a: Nightmare
+|-damage|p1a: Nightmare|10/100 psn
+|move|p1a: Nightmare|Soft-Boiled|p1a: Nightmare
+|-heal|p1a: Nightmare|60/100 psn
+|
+|-heal|p2a: Moltres|82/100 slp|[from] item: Leftovers
+|-heal|p1a: Nightmare|66/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|54/100 psn|[from] psn
+|upkeep
+|turn|23
+|inactive|Marshmelloy has 120 seconds left.
+|
+|t:|1641837101
+|-curestatus|p2a: Moltres|slp|[msg]
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare
+|-damage|p1a: Nightmare|18/100 psn
+|cant|p1a: Nightmare|flinch
+|
+|-heal|p2a: Moltres|88/100|[from] item: Leftovers
+|-heal|p1a: Nightmare|24/100 psn|[from] item: Leftovers
+|-damage|p1a: Nightmare|11/100 psn|[from] psn
+|upkeep
+|turn|24
+|inactive|Marshmelloy has 120 seconds left.
+|
+|t:|1641837111
+|move|p2a: Moltres|Fiery Wrath|p1a: Nightmare
+|-damage|p1a: Nightmare|0 fnt
+|faint|p1a: Nightmare
+|
+|-heal|p2a: Moltres|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641837116
+|switch|p1a: Sneuhaze|Weavile, M|100/100
+|-status|p1a: Sneuhaze|psn
+|-ability|p1a: Sneuhaze|Pressure
+|turn|25
+|inactive|Marshmelloy has 120 seconds left.
+|
+|t:|1641837150
+|move|p1a: Sneuhaze|Fake Out|p2a: Moltres
+|-damage|p2a: Moltres|74/100
+|-damage|p1a: Sneuhaze|91/100 psn|[from] item: Life Orb
+|cant|p2a: Moltres|flinch
+|
+|-heal|p2a: Moltres|81/100|[from] item: Leftovers
+|-damage|p1a: Sneuhaze|78/100 psn|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641837160
+|move|p1a: Sneuhaze|Triple Axel|p2a: Moltres|[miss]
+|-miss|p1a: Sneuhaze|p2a: Moltres
+|move|p2a: Moltres|Rest|p2a: Moltres
+|-status|p2a: Moltres|slp|[from] move: Rest
+|-heal|p2a: Moltres|100/100 slp|[silent]
+|
+|-damage|p1a: Sneuhaze|66/100 psn|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641837176
+|move|p1a: Sneuhaze|Triple Axel|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|71/100 slp
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|11/100 slp
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|-hitcount|p2: Moltres|3
+|-damage|p1a: Sneuhaze|56/100 psn|[from] item: Life Orb
+|
+|win|T-Kizuki_Doma
+|raw|T-Kizuki_Doma's rating: 1076 &rarr; <strong>1101</strong><br />(+25 for winning)
+|raw|Marshmelloy's rating: 1026 &rarr; <strong>1014</strong><br />(-12 for losing)

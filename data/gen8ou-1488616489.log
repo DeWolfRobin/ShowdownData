@@ -1,0 +1,503 @@
+|j|☆umbrella_senpai
+|j|☆Surfing Ditto
+|t:|1641790020
+|gametype|singles
+|player|p1|umbrella_senpai|2|1386
+|player|p2|Surfing Ditto|266|1322
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Goodra, F|
+|poke|p1|Cobalion|
+|poke|p1|Galvantula, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Celesteela|
+|poke|p1|Chandelure, F|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Corsola-Galar, F|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Suicune|
+|poke|p2|Heatran, M|
+|poke|p2|Rotom-Frost|
+|teampreview
+|
+|t:|1641790030
+|start
+|switch|p1a: Galvantula|Galvantula, M|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|1
+|
+|t:|1641790041
+|move|p1a: Galvantula|Thunder Wave|p2a: Heatran
+|-status|p2a: Heatran|par
+|cant|p2a: Heatran|par
+|
+|upkeep
+|turn|2
+|
+|t:|1641790047
+|switch|p1a: Goodra|Goodra, F|100/100
+|move|p2a: Heatran|Earth Power|p1a: Goodra
+|-damage|p1a: Goodra|76/100
+|
+|-heal|p1a: Goodra|82/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641790054
+|move|p1a: Goodra|Surf|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|53/100 par
+|move|p2a: Heatran|Stealth Rock|p1a: Goodra
+|-sidestart|p1: umbrella_senpai|move: Stealth Rock
+|
+|-heal|p1a: Goodra|88/100|[from] item: Leftovers
+|-heal|p2a: Heatran|59/100 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641790064
+|switch|p2a: Suicune|Suicune|100/100
+|-ability|p2a: Suicune|Pressure
+|move|p1a: Goodra|Surf|p2a: Suicune
+|-resisted|p2a: Suicune
+|-damage|p2a: Suicune|90/100
+|
+|-heal|p1a: Goodra|95/100|[from] item: Leftovers
+|-heal|p2a: Suicune|96/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641790073
+|move|p1a: Goodra|Thunderbolt|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|52/100
+|move|p2a: Suicune|Scald|p1a: Goodra
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|85/100
+|
+|-heal|p1a: Goodra|91/100|[from] item: Leftovers
+|-heal|p2a: Suicune|58/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641790083
+|switch|p2a: Conkeldurr|Conkeldurr, F|100/100
+|move|p1a: Goodra|Thunderbolt|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|80/100
+|
+|-heal|p1a: Goodra|98/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641790096
+|switch|p1a: Galvantula|Galvantula, M|100/100
+|-damage|p1a: Galvantula|76/100|[from] Stealth Rock
+|move|p2a: Conkeldurr|Ice Punch|p1a: Galvantula
+|-damage|p1a: Galvantula|20/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641790104
+|move|p2a: Conkeldurr|Mach Punch|p1a: Galvantula
+|-resisted|p1a: Galvantula
+|-damage|p1a: Galvantula|0 fnt
+|faint|p1a: Galvantula
+|
+|upkeep
+|
+|t:|1641790108
+|switch|p1a: Celesteela|Celesteela|100/100
+|-damage|p1a: Celesteela|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641790112
+|move|p1a: Celesteela|Air Slash|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|25/100
+|move|p2a: Conkeldurr|Knock Off|p1a: Celesteela
+|-damage|p1a: Celesteela|54/100
+|-enditem|p1a: Celesteela|Leftovers|[from] move: Knock Off|[of] p2a: Conkeldurr
+|
+|upkeep
+|turn|10
+|
+|t:|1641790120
+|switch|p2a: Corsola|Corsola-Galar, F|100/100
+|move|p1a: Celesteela|Air Slash|p2a: Corsola
+|-damage|p2a: Corsola|80/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641790125
+|move|p1a: Celesteela|Leech Seed|p2a: Corsola
+|-start|p2a: Corsola|move: Leech Seed
+|move|p2a: Corsola|Will-O-Wisp|p1a: Celesteela|[miss]
+|-miss|p2a: Corsola|p1a: Celesteela
+|
+|-damage|p2a: Corsola|68/100|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|64/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641790140
+|switch|p1a: Goodra|Goodra, F|98/100
+|-damage|p1a: Goodra|85/100|[from] Stealth Rock
+|switch|p2a: Rotom|Rotom-Frost|100/100
+|
+|-heal|p1a: Goodra|91/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641790148
+|move|p2a: Rotom|Blizzard|p1a: Goodra|[miss]
+|-miss|p2a: Rotom|p1a: Goodra
+|move|p1a: Goodra|Flamethrower|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|22/100
+|
+|-heal|p1a: Goodra|98/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641790157
+|switch|p2a: Heatran|Heatran, M|59/100 par
+|move|p1a: Goodra|Surf|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|13/100 par
+|
+|-heal|p1a: Goodra|100/100|[from] item: Leftovers
+|-heal|p2a: Heatran|20/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641790169
+|move|p1a: Goodra|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641790173
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100
+|turn|16
+|
+|t:|1641790176
+|move|p1a: Goodra|Ice Beam|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|57/100
+|move|p2a: Mandibuzz|Toxic|p1a: Goodra
+|-status|p1a: Goodra|tox
+|
+|-damage|p1a: Goodra|94/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641790184
+|move|p1a: Goodra|Ice Beam|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|10/100
+|-status|p2a: Mandibuzz|frz
+|cant|p2a: Mandibuzz|frz
+|
+|-heal|p1a: Goodra|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Goodra|88/100 tox|[from] psn
+|upkeep
+|turn|18
+|c|☆Surfing Ditto|brooo
+|c|☆umbrella_senpai|so sorry
+|c|☆umbrella_senpai|damm
+|c|☆Surfing Ditto|ahaha
+|c|☆Surfing Ditto|i mean
+|c|☆Surfing Ditto|the blizzard miss
+|c|☆Surfing Ditto|the wow midd
+|c|☆Surfing Ditto|the frozen
+|c|☆Surfing Ditto|:v
+|
+|t:|1641790216
+|move|p1a: Goodra|Thunderbolt|p2a: Mandibuzz
+|-supereffective|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|0 fnt
+|faint|p2a: Mandibuzz
+|
+|-heal|p1a: Goodra|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Goodra|76/100 tox|[from] psn
+|upkeep
+|
+|t:|1641790222
+|switch|p2a: Suicune|Suicune|58/100
+|-ability|p2a: Suicune|Pressure
+|turn|19
+|c|☆umbrella_senpai|its like my matches jsjds inverse world
+|
+|t:|1641790227
+|move|p1a: Goodra|Thunderbolt|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|15/100
+|move|p2a: Suicune|Rest|p2a: Suicune
+|-status|p2a: Suicune|slp|[from] move: Rest
+|-heal|p2a: Suicune|100/100 slp|[silent]
+|
+|-heal|p1a: Goodra|82/100 tox|[from] item: Leftovers
+|-damage|p1a: Goodra|57/100 tox|[from] psn
+|upkeep
+|turn|20
+|c|☆Surfing Ditto|ahaha
+|
+|t:|1641790237
+|switch|p1a: Cobalion|Cobalion|100/100
+|-damage|p1a: Cobalion|97/100|[from] Stealth Rock
+|cant|p2a: Suicune|slp
+|move|p2a: Suicune|Sleep Talk|p2a: Suicune
+|move|p2a: Suicune|Rest||[from]move: Sleep Talk|[still]
+|-fail|p2a: Suicune
+|
+|-heal|p1a: Cobalion|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641790246
+|move|p1a: Cobalion|Swords Dance|p1a: Cobalion
+|-boost|p1a: Cobalion|atk|2
+|cant|p2a: Suicune|slp
+|move|p2a: Suicune|Sleep Talk|p2a: Suicune
+|move|p2a: Suicune|Rest||[from]move: Sleep Talk|[still]
+|-fail|p2a: Suicune
+|
+|upkeep
+|turn|22
+|c|☆Surfing Ditto|well
+|c|☆Surfing Ditto|i think is over
+|
+|t:|1641790263
+|move|p1a: Cobalion|Swords Dance|p1a: Cobalion
+|-boost|p1a: Cobalion|atk|2
+|-curestatus|p2a: Suicune|slp|[msg]
+|move|p2a: Suicune|Scald|p1a: Cobalion
+|-damage|p1a: Cobalion|67/100
+|-status|p1a: Cobalion|brn
+|
+|-heal|p1a: Cobalion|73/100 brn|[from] item: Leftovers
+|-damage|p1a: Cobalion|67/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641790273
+|move|p1a: Cobalion|Sacred Sword|p2a: Suicune
+|-damage|p2a: Suicune|71/100
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|
+|-heal|p1a: Cobalion|73/100 brn|[from] item: Leftovers
+|-heal|p2a: Suicune|77/100|[from] item: Leftovers
+|-damage|p1a: Cobalion|67/100 brn|[from] brn
+|upkeep
+|turn|24
+|c|☆Surfing Ditto|god
+|c|☆Surfing Ditto|atleast i laned the burn ahaah
+|
+|t:|1641790289
+|move|p1a: Cobalion|Swords Dance|p1a: Cobalion
+|-boost|p1a: Cobalion|atk|2
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|
+|-heal|p1a: Cobalion|73/100 brn|[from] item: Leftovers
+|-heal|p2a: Suicune|83/100|[from] item: Leftovers
+|-damage|p1a: Cobalion|67/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641790298
+|move|p1a: Cobalion|Sacred Sword|p2a: Suicune
+|-damage|p2a: Suicune|43/100
+|move|p2a: Suicune|Scald|p1a: Cobalion
+|-damage|p1a: Cobalion|0 fnt
+|faint|p1a: Cobalion
+|
+|-heal|p2a: Suicune|49/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641790316
+|switch|p1a: Celesteela|Celesteela|64/100
+|-damage|p1a: Celesteela|52/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641790320
+|move|p2a: Suicune|Scald|p1a: Celesteela
+|-damage|p1a: Celesteela|11/100
+|move|p1a: Celesteela|Leech Seed|p2a: Suicune
+|-start|p2a: Suicune|move: Leech Seed
+|
+|-heal|p2a: Suicune|55/100|[from] item: Leftovers
+|-damage|p2a: Suicune|43/100|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|24/100|[silent]
+|upkeep
+|turn|27
+|
+|t:|1641790328
+|switch|p1a: Goodra|Goodra, F|57/100 tox
+|-damage|p1a: Goodra|44/100 tox|[from] Stealth Rock
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|
+|-heal|p1a: Goodra|51/100 tox|[from] item: Leftovers
+|-heal|p2a: Suicune|49/100|[from] item: Leftovers
+|-damage|p2a: Suicune|37/100|[from] Leech Seed|[of] p1a: Goodra
+|-heal|p1a: Goodra|66/100 tox|[silent]
+|-damage|p1a: Goodra|60/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641790339
+|move|p1a: Goodra|Thunderbolt|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|20/100
+|-status|p2a: Suicune|par
+|cant|p2a: Suicune|par
+|
+|-heal|p1a: Goodra|66/100 tox|[from] item: Leftovers
+|-heal|p2a: Suicune|26/100 par|[from] item: Leftovers
+|-damage|p2a: Suicune|14/100 par|[from] Leech Seed|[of] p1a: Goodra
+|-heal|p1a: Goodra|82/100 tox|[silent]
+|-damage|p1a: Goodra|69/100 tox|[from] psn
+|upkeep
+|turn|29
+|c|☆Surfing Ditto|my rest
+|c|☆Surfing Ditto|this is unfair
+|c|☆umbrella_senpai|so damm
+|c|☆Surfing Ditto|:C
+|c|☆umbrella_senpai|this game is ever unfair
+|
+|t:|1641790371
+|move|p1a: Goodra|Thunderbolt|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-damage|p2a: Suicune|0 fnt
+|faint|p2a: Suicune
+|
+|-heal|p1a: Goodra|76/100 tox|[from] item: Leftovers
+|-damage|p1a: Goodra|57/100 tox|[from] psn
+|upkeep
+|
+|t:|1641790377
+|switch|p2a: Corsola|Corsola-Galar, F|68/100
+|turn|30
+|
+|t:|1641790383
+|move|p1a: Goodra|Ice Beam|p2a: Corsola
+|-damage|p2a: Corsola|53/100
+|-status|p2a: Corsola|frz
+|cant|p2a: Corsola|frz
+|
+|-heal|p1a: Goodra|63/100 tox|[from] item: Leftovers
+|-damage|p1a: Goodra|38/100 tox|[from] psn
+|upkeep
+|turn|31
+|c|☆umbrella_senpai|daam
+|c|☆Surfing Ditto|ahahah
+|c|☆Surfing Ditto|i'm laughing a lot in real life
+|c|☆Surfing Ditto|gonna save this
+|c|☆Surfing Ditto|and send to some yt channel
+|
+|t:|1641790413
+|switch|p1a: Chandelure|Chandelure, F|100/100
+|-damage|p1a: Chandelure|76/100|[from] Stealth Rock
+|-curestatus|p2a: Corsola|frz|[msg]
+|move|p2a: Corsola|Will-O-Wisp|p1a: Chandelure|[miss]
+|-miss|p2a: Corsola|p1a: Chandelure
+|
+|upkeep
+|turn|32
+|c|☆umbrella_senpai|would be funny for yt
+|
+|t:|1641790421
+|move|p1a: Chandelure|Shadow Ball|p2a: Corsola
+|-supereffective|p2a: Corsola
+|-damage|p2a: Corsola|8/100
+|-unboost|p2a: Corsola|spd|1
+|move|p2a: Corsola|Strength Sap|p1a: Chandelure
+|-unboost|p1a: Chandelure|atk|1
+|-heal|p2a: Corsola|39/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641790430
+|move|p1a: Chandelure|Shadow Ball|p2a: Corsola
+|-supereffective|p2a: Corsola
+|-damage|p2a: Corsola|0 fnt
+|-start|p1a: Chandelure|Disable|Shadow Ball|[from] ability: Cursed Body|[of] p2a: Corsola
+|faint|p2a: Corsola
+|
+|upkeep
+|
+|t:|1641790436
+|switch|p2a: Conkeldurr|Conkeldurr, F|25/100
+|turn|34
+|
+|t:|1641790442
+|switch|p1a: Goodra|Goodra, F|38/100 tox
+|-damage|p1a: Goodra|26/100 tox|[from] Stealth Rock
+|move|p2a: Conkeldurr|Drain Punch|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|-heal|p2a: Conkeldurr|35/100|[from] drain|[of] p1a: Goodra
+|faint|p1a: Goodra
+|
+|upkeep
+|
+|t:|1641790448
+|switch|p1a: Chandelure|Chandelure, F|76/100
+|-damage|p1a: Chandelure|51/100|[from] Stealth Rock
+|turn|35
+|
+|t:|1641790454
+|move|p1a: Chandelure|Psychic|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|upkeep
+|
+|t:|1641790458
+|switch|p2a: Rotom|Rotom-Frost|22/100
+|turn|36
+|
+|t:|1641790461
+|move|p2a: Rotom|Thunderbolt|p1a: Chandelure
+|-damage|p1a: Chandelure|0 fnt
+|faint|p1a: Chandelure
+|
+|upkeep
+|
+|t:|1641790466
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|37
+|
+|t:|1641790469
+|move|p2a: Rotom|Thunderbolt|p1a: Dragonite
+|-damage|p1a: Dragonite|78/100
+|move|p1a: Dragonite|Fire Punch|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|win|umbrella_senpai
+|raw|umbrella_senpai's rating: 1386 &rarr; <strong>1402</strong><br />(+16 for winning)
+|raw|Surfing Ditto's rating: 1322 &rarr; <strong>1306</strong><br />(-16 for losing)
+|c|☆Surfing Ditto|gg
+|c|☆umbrella_senpai|WP

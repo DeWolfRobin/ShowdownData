@@ -1,0 +1,580 @@
+|j|☆epekka
+|j|☆QTWREQTWREQTWRE
+|t:|1641832559
+|gametype|singles
+|player|p1|epekka|swimmer-gen4dp|1231
+|player|p2|QTWREQTWREQTWRE|102|1212
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Tapu Fini|
+|poke|p2|Blissey, F|
+|poke|p2|Buzzwole|
+|poke|p2|Regieleki|
+|poke|p2|Garchomp, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by QTWREQTWREQTWRE)
+|inactive|epekka also wants the timer to be on.
+|
+|t:|1641832576
+|start
+|switch|p1a: worst pokemon ever|Landorus-Therian, M|100/100
+|switch|p2a: Blissey|Blissey, F|100/100
+|-ability|p1a: worst pokemon ever|Intimidate|boost
+|-unboost|p2a: Blissey|atk|1
+|turn|1
+|
+|t:|1641832582
+|move|p1a: worst pokemon ever|Stealth Rock|p2a: Blissey
+|-sidestart|p2: QTWREQTWREQTWRE|move: Stealth Rock
+|move|p2a: Blissey|Stealth Rock|p1a: worst pokemon ever
+|-sidestart|p1: epekka|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641832590
+|switch|p2a: Slowking|Slowking, M|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|move|p1a: worst pokemon ever|Earthquake|p2a: Slowking
+|-damage|p2a: Slowking|43/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641832597
+|move|p1a: worst pokemon ever|Earthquake|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1641832604
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1641832610
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|move|p1a: worst pokemon ever|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|71/100
+|-damage|p1a: worst pokemon ever|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: worst pokemon ever|72/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|
+|t:|1641832622
+|switch|p1a: death machine|Kartana|100/100|[from]move: U-turn
+|-damage|p1a: death machine|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|5
+|c|☆epekka|!weak garchomp
+|c| epekka|/raw <div class="infobox">Garchomp (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Dragon, Fairy, <b>Ice</b><br /><span class="message-effect-resist">Resistances</span>: Fire, Poison, Rock<br /><span class="message-effect-immune">Immunities</span>: Electric, Sandstorm damage</div>
+|
+|t:|1641832637
+|move|p1a: death machine|Leaf Blade|p2a: Garchomp
+|-damage|p2a: Garchomp|15/100
+|-damage|p1a: death machine|82/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: death machine|65/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|move|p2a: Garchomp|Earthquake|p1a: death machine
+|-damage|p1a: death machine|0 fnt
+|faint|p1a: death machine
+|
+|upkeep
+|c|☆epekka|bruh
+|c|☆QTWREQTWREQTWRE|what?
+|inactive|epekka has 120 seconds left.
+|c|☆epekka|461 attack 😭
+|
+|t:|1641832659
+|switch|p1a: jack black|Urshifu-Rapid-Strike, F|100/100
+|-damage|p1a: jack black|94/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641832664
+|move|p1a: jack black|Aqua Jet|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: jack black|82/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: jack black|65/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|upkeep
+|c|☆QTWREQTWREQTWRE|vs. a garchomp
+|
+|t:|1641832677
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-damage|p2a: Buzzwole|88/100|[from] Stealth Rock
+|turn|7
+|c|☆epekka|oh it's bulky garchomp
+|c|☆QTWREQTWREQTWRE|nope
+|c|☆QTWREQTWREQTWRE|max speed and attack
+|
+|t:|1641832690
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Buzzwole|Dual Wingbeat|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|75/100
+|-damage|p1a: Tapu Fini|61/100
+|-hitcount|p1a: Tapu Fini|2
+|
+|-heal|p1a: Tapu Fini|67/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641832703
+|switch|p2a: Regieleki|Regieleki|100/100
+|-damage|p2a: Regieleki|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Moonblast|p2a: Regieleki
+|-damage|p2a: Regieleki|36/100
+|
+|-heal|p1a: Tapu Fini|73/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641832711
+|switch|p1a: worst pokemon ever|Landorus-Therian, M|72/100
+|-damage|p1a: worst pokemon ever|59/100|[from] Stealth Rock
+|-ability|p1a: worst pokemon ever|Intimidate|boost
+|-unboost|p2a: Regieleki|atk|1
+|move|p2a: Regieleki|Volt Switch|p1a: worst pokemon ever
+|-immune|p1a: worst pokemon ever
+|
+|-heal|p1a: worst pokemon ever|65/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641832722
+|move|p2a: Regieleki|Rapid Spin|p1a: worst pokemon ever
+|-damage|p1a: worst pokemon ever|59/100
+|-boost|p2a: Regieleki|spe|1
+|-sideend|p2: QTWREQTWREQTWRE|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Regieleki
+|move|p1a: worst pokemon ever|Toxic|p2a: Regieleki
+|-activate|p2a: Regieleki|move: Misty Terrain
+|
+|-heal|p1a: worst pokemon ever|65/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641832731
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: worst pokemon ever|atk|1
+|move|p1a: worst pokemon ever|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-heal|p1a: worst pokemon ever|71/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|12
+|c|☆epekka|bro
+|
+|t:|1641832741
+|move|p2a: Landorus|Knock Off|p1a: worst pokemon ever
+|-damage|p1a: worst pokemon ever|38/100
+|-enditem|p1a: worst pokemon ever|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: worst pokemon ever|Stealth Rock|p2a: Landorus
+|-sidestart|p2: QTWREQTWREQTWRE|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1641832754
+|move|p2a: Landorus|Defog|p1a: worst pokemon ever
+|-unboost|p1a: worst pokemon ever|evasion|1
+|-sideend|p1: epekka|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|-sideend|p2: QTWREQTWREQTWRE|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|move|p1a: worst pokemon ever|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|92/100
+|
+|t:|1641832760
+|switch|p1a: jack black|Urshifu-Rapid-Strike, F|65/100|[from]move: U-turn
+|
+|-heal|p2a: Landorus|98/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|c|☆epekka|cant have shit in detroit
+|
+|t:|1641832768
+|switch|p2a: Buzzwole|Buzzwole|88/100
+|move|p1a: jack black|U-turn|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|76/100
+|
+|t:|1641832775
+|switch|p1a: 2nd worst pokemon|Tornadus-Therian, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1641832781
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: 2nd worst pokemon|Heat Wave|p2a: Blissey
+|-damage|p2a: Blissey|90/100
+|
+|-heal|p2a: Blissey|96/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641832791
+|move|p1a: 2nd worst pokemon|Focus Blast|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|70/100
+|move|p2a: Blissey|Stealth Rock|p1a: 2nd worst pokemon
+|-sidestart|p1: epekka|move: Stealth Rock
+|
+|-heal|p2a: Blissey|77/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641832799
+|move|p1a: 2nd worst pokemon|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|63/100
+|
+|t:|1641832801
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Blissey|Thunder Wave|p1a: Ferrothorn
+|-status|p1a: Ferrothorn|par
+|
+|-heal|p2a: Blissey|69/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641832814
+|move|p2a: Blissey|Seismic Toss|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|72/100 par
+|-damage|p2a: Blissey|57/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|cant|p1a: Ferrothorn|par
+|
+|-heal|p2a: Blissey|63/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|78/100 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641832823
+|move|p2a: Blissey|Seismic Toss|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|50/100 par
+|-damage|p2a: Blissey|51/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Blissey
+|-start|p2a: Blissey|move: Leech Seed
+|
+|-heal|p2a: Blissey|57/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|56/100 par|[from] item: Leftovers
+|-damage|p2a: Blissey|44/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|81/100 par|[silent]
+|upkeep
+|turn|20
+|
+|t:|1641832833
+|switch|p2a: Buzzwole|Buzzwole|76/100
+|move|p1a: Ferrothorn|Spikes|p2a: Buzzwole
+|-sidestart|p2: QTWREQTWREQTWRE|Spikes
+|
+|-heal|p1a: Ferrothorn|88/100 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641832843
+|move|p2a: Buzzwole|Close Combat|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|16/100 par
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|-damage|p2a: Buzzwole|64/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Buzzwole
+|-start|p2a: Buzzwole|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|22/100 par|[from] item: Leftovers
+|-damage|p2a: Buzzwole|51/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|35/100 par|[silent]
+|upkeep
+|turn|22
+|
+|t:|1641832855
+|switch|p1a: Tapu Fini|Tapu Fini|73/100
+|-damage|p1a: Tapu Fini|61/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Buzzwole|Close Combat|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-crit|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|18/100
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|
+|-heal|p1a: Tapu Fini|24/100|[from] item: Leftovers
+|-damage|p2a: Buzzwole|39/100|[from] Leech Seed|[of] p1a: Tapu Fini
+|-heal|p1a: Tapu Fini|37/100|[silent]
+|upkeep
+|turn|23
+|
+|t:|1641832869
+|switch|p2a: Blissey|Blissey, F|44/100
+|-damage|p2a: Blissey|32/100|[from] Spikes
+|move|p1a: Tapu Fini|Moonblast|p2a: Blissey
+|-damage|p2a: Blissey|21/100
+|
+|-heal|p1a: Tapu Fini|43/100|[from] item: Leftovers
+|-heal|p2a: Blissey|27/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641832880
+|move|p1a: Tapu Fini|Moonblast|p2a: Blissey
+|-damage|p2a: Blissey|16/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|66/100
+|
+|-heal|p1a: Tapu Fini|49/100|[from] item: Leftovers
+|-heal|p2a: Blissey|72/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641832888
+|move|p1a: Tapu Fini|Taunt|p2a: Blissey
+|-start|p2a: Blissey|move: Taunt
+|move|p2a: Blissey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|20/100
+|
+|-heal|p1a: Tapu Fini|26/100|[from] item: Leftovers
+|-heal|p2a: Blissey|78/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|c|☆epekka|god i hate blissey
+|
+|t:|1641832898
+|switch|p1a: jack black|Urshifu-Rapid-Strike, F|65/100
+|-damage|p1a: jack black|59/100|[from] Stealth Rock
+|move|p2a: Blissey|Seismic Toss|p1a: jack black
+|-damage|p1a: jack black|30/100
+|
+|-heal|p2a: Blissey|85/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|27
+|
+|t:|1641832907
+|switch|p2a: Landorus|Landorus-Therian, M|98/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: jack black|atk|1
+|move|p1a: jack black|Close Combat|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|60/100
+|-unboost|p1a: jack black|def|1
+|-unboost|p1a: jack black|spd|1
+|
+|-heal|p2a: Landorus|66/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641832920
+|switch|p1a: Tapu Fini|Tapu Fini|26/100
+|-damage|p1a: Tapu Fini|14/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Landorus|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|3/100
+|
+|t:|1641832928
+|switch|p2a: Buzzwole|Buzzwole|39/100|[from]move: U-turn
+|-damage|p2a: Buzzwole|26/100|[from] Spikes
+|
+|-heal|p1a: Tapu Fini|9/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641832939
+|move|p2a: Buzzwole|Close Combat|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|faint|p1a: Tapu Fini
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641832947
+|switch|p1a: jack black|Urshifu-Rapid-Strike, F|30/100
+|-damage|p1a: jack black|24/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641832957
+|switch|p2a: Blissey|Blissey, F|85/100
+|-damage|p2a: Blissey|72/100|[from] Spikes
+|move|p1a: jack black|Surging Strikes|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|48/100
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|24/100
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|-hitcount|p2: Blissey|3
+|
+|upkeep
+|c|☆epekka|fucking finally
+|
+|t:|1641832973
+|switch|p2a: Regieleki|Regieleki|36/100
+|-damage|p2a: Regieleki|24/100|[from] Spikes
+|turn|31
+|
+|t:|1641832980
+|switch|p1a: worst pokemon ever|Landorus-Therian, M|38/100
+|-damage|p1a: worst pokemon ever|26/100|[from] Stealth Rock
+|-ability|p1a: worst pokemon ever|Intimidate|boost
+|-unboost|p2a: Regieleki|atk|1
+|move|p2a: Regieleki|Volt Switch|p1a: worst pokemon ever
+|-immune|p1a: worst pokemon ever
+|
+|upkeep
+|turn|32
+|
+|t:|1641832990
+|move|p2a: Regieleki|Reflect|p2a: Regieleki
+|-sidestart|p2: QTWREQTWREQTWRE|Reflect
+|move|p1a: worst pokemon ever|Toxic|p2a: Regieleki
+|-activate|p2a: Regieleki|move: Misty Terrain
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|33
+|
+|t:|1641832998
+|move|p2a: Regieleki|Rapid Spin|p1a: worst pokemon ever
+|-damage|p1a: worst pokemon ever|19/100
+|-boost|p2a: Regieleki|spe|1
+|-sideend|p2: QTWREQTWREQTWRE|Spikes|[from] move: Rapid Spin|[of] p2a: Regieleki
+|move|p1a: worst pokemon ever|Toxic|p2a: Regieleki
+|-status|p2a: Regieleki|tox
+|
+|-damage|p2a: Regieleki|18/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641833007
+|switch|p2a: Landorus|Landorus-Therian, M|66/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: worst pokemon ever|atk|1
+|move|p1a: worst pokemon ever|Stealth Rock|p2a: Landorus
+|-sidestart|p2: QTWREQTWREQTWRE|move: Stealth Rock
+|
+|-heal|p2a: Landorus|72/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641833015
+|move|p2a: Landorus|Knock Off|p1a: worst pokemon ever
+|-damage|p1a: worst pokemon ever|0 fnt
+|faint|p1a: worst pokemon ever
+|
+|-heal|p2a: Landorus|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641833031
+|switch|p1a: 2nd worst pokemon|Tornadus-Therian, M|100/100
+|-damage|p1a: 2nd worst pokemon|75/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1641833037
+|move|p1a: 2nd worst pokemon|Hurricane|p2a: Landorus
+|-damage|p2a: Landorus|13/100
+|-start|p2a: Landorus|confusion
+|-activate|p2a: Landorus|confusion
+|move|p2a: Landorus|Knock Off|p1a: 2nd worst pokemon
+|-damage|p1a: 2nd worst pokemon|27/100
+|-enditem|p1a: 2nd worst pokemon|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|
+|-heal|p2a: Landorus|19/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641833048
+|move|p1a: 2nd worst pokemon|Hurricane|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641833056
+|switch|p2a: Regieleki|Regieleki|18/100 tox
+|-damage|p2a: Regieleki|5/100 tox|[from] Stealth Rock
+|turn|38
+|
+|t:|1641833062
+|move|p2a: Regieleki|Volt Switch|p1a: 2nd worst pokemon
+|-supereffective|p1a: 2nd worst pokemon
+|-damage|p1a: 2nd worst pokemon|0 fnt
+|faint|p1a: 2nd worst pokemon
+|
+|t:|1641833067
+|switch|p2a: Buzzwole|Buzzwole|26/100|[from]move: Volt Switch
+|-damage|p2a: Buzzwole|14/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641833073
+|switch|p1a: jack black|Urshifu-Rapid-Strike, F|24/100
+|-damage|p1a: jack black|18/100|[from] Stealth Rock
+|turn|39
+|c|☆epekka|gg
+|
+|t:|1641833078
+|move|p1a: jack black|Aqua Jet|p2a: Buzzwole
+|-damage|p2a: Buzzwole|4/100
+|move|p2a: Buzzwole|Close Combat|p1a: jack black
+|-damage|p1a: jack black|0 fnt
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|faint|p1a: jack black
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-sideend|p2: QTWREQTWREQTWRE|Reflect
+|upkeep
+|
+|t:|1641833083
+|switch|p1a: Ferrothorn|Ferrothorn, F|35/100 par
+|-damage|p1a: Ferrothorn|29/100 par|[from] Stealth Rock
+|turn|40
+|c|☆QTWREQTWREQTWRE|REFLECT
+|c|☆epekka|im so disapointed rn
+|c|☆QTWREQTWREQTWRE|gg
+|c|☆epekka|gg
+|
+|t:|1641833103
+|move|p2a: Buzzwole|Close Combat|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|-damage|p2a: Buzzwole|0 fnt|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|faint|p2a: Buzzwole
+|
+|win|QTWREQTWREQTWRE
+|raw|epekka's rating: 1231 &rarr; <strong>1205</strong><br />(-26 for losing)
+|raw|QTWREQTWREQTWRE's rating: 1212 &rarr; <strong>1238</strong><br />(+26 for winning)
+|l|☆epekka
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,405 @@
+|j|☆thefire888
+|j|☆TooStonedTrooper
+|t:|1641840939
+|gametype|singles
+|player|p1|thefire888|volkner|1081
+|player|p2|TooStonedTrooper|101|1119
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Pelipper, F|
+|poke|p1|Zapdos|
+|poke|p1|Ditto|
+|poke|p1|Mimikyu, M|
+|poke|p1|Garchomp, M|
+|poke|p2|Jirachi|
+|poke|p2|Snorlax, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Ribombee, M|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TooStonedTrooper)
+|
+|t:|1641840950
+|start
+|switch|p1a: Ditto|Ditto, shiny|100/100
+|switch|p2a: Ribombee|Ribombee, M, shiny|100/100
+|-transform|p1a: Ditto|p2a: Ribombee|[from] ability: Imposter
+|turn|1
+|
+|t:|1641840965
+|move|p1a: Ditto|Infestation|p2a: Ribombee
+|-resisted|p2a: Ribombee
+|-damage|p2a: Ribombee|93/100
+|-activate|p2a: Ribombee|move: Infestation|[of] p1a: Ditto
+|move|p2a: Ribombee|Stun Spore|p1a: Ditto
+|-status|p1a: Ditto|par
+|
+|-damage|p2a: Ribombee|81/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|2
+|inactive|thefire888 has 120 seconds left.
+|
+|t:|1641840991
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Ribombee|Sticky Web|p1a: Zapdos
+|-sidestart|p1: thefire888|move: Sticky Web
+|
+|-end|p2a: Ribombee|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|3
+|inactive|thefire888 has 120 seconds left.
+|
+|t:|1641841003
+|move|p2a: Ribombee|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|63/100
+|move|p1a: Zapdos|Heat Wave|p2a: Ribombee
+|-supereffective|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|upkeep
+|
+|t:|1641841014
+|switch|p2a: Jirachi|Jirachi, shiny|100/100
+|turn|4
+|
+|t:|1641841019
+|move|p2a: Jirachi|Trick|p1a: Zapdos
+|-activate|p2a: Jirachi|move: Trick|[of] p1a: Zapdos
+|-item|p1a: Zapdos|Flame Orb|[from] move: Trick
+|-item|p2a: Jirachi|Rocky Helmet|[from] move: Trick
+|move|p1a: Zapdos|Heat Wave|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|48/100
+|-status|p2a: Jirachi|brn
+|
+|-damage|p2a: Jirachi|42/100 brn|[from] brn
+|-status|p1a: Zapdos|brn|[from] item: Flame Orb
+|upkeep
+|turn|5
+|
+|t:|1641841041
+|switch|p2a: Snorlax|Snorlax, M, shiny|100/100
+|move|p1a: Zapdos|Discharge|p2a: Snorlax
+|-damage|p2a: Snorlax|79/100
+|
+|-heal|p2a: Snorlax|85/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|56/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641841051
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|91/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|94/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641841062
+|move|p1a: Zapdos|Hurricane|p2a: Snorlax
+|-damage|p2a: Snorlax|59/100
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|65/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|88/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641841077
+|move|p1a: Zapdos|Discharge|p2a: Snorlax
+|-damage|p2a: Snorlax|41/100
+|move|p2a: Snorlax|Ice Punch|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|14/100 brn
+|-status|p2a: Snorlax|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|-heal|p2a: Snorlax|47/100 par|[from] item: Leftovers
+|-damage|p1a: Zapdos|7/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641841089
+|move|p1a: Zapdos|Discharge|p2a: Snorlax
+|-damage|p2a: Snorlax|24/100 par
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|30/100 par|[from] item: Leftovers
+|-damage|p1a: Zapdos|1/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641841100
+|move|p1a: Zapdos|Discharge|p2a: Snorlax
+|-damage|p2a: Snorlax|8/100 par
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|
+|-heal|p2a: Snorlax|14/100 par|[from] item: Leftovers
+|-damage|p1a: Zapdos|0 fnt|[from] brn
+|faint|p1a: Zapdos
+|upkeep
+|
+|t:|1641841119
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|11
+|
+|t:|1641841125
+|move|p1a: Garchomp|Earthquake|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|
+|upkeep
+|
+|t:|1641841132
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|12
+|
+|t:|1641841146
+|move|p1a: Garchomp|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|72/100
+|move|p2a: Landorus|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|45/100
+|-damage|p2a: Landorus|59/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Landorus
+|
+|upkeep
+|turn|13
+|
+|t:|1641841160
+|move|p1a: Garchomp|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|move|p2a: Landorus|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|5/100
+|-damage|p2a: Landorus|47/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|upkeep
+|turn|14
+|
+|t:|1641841180
+|switch|p1a: Pelipper|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Landorus|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|45/100
+|-enditem|p1a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641841194
+|move|p2a: Landorus|Knock Off|p1a: Pelipper
+|-damage|p1a: Pelipper|9/100
+|move|p1a: Pelipper|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641841203
+|switch|p2a: Ferrothorn|Ferrothorn, M, shiny|100/100
+|turn|16
+|
+|t:|1641841209
+|move|p1a: Pelipper|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|95/100
+|-damage|p1a: Pelipper|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p1a: Pelipper
+|move|p2a: Ferrothorn|Leech Seed|p1: Pelipper|[notarget]
+|-fail|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641841231
+|switch|p1a: Tapu Lele|Tapu Lele, shiny|100/100
+|-activate|p1a: Tapu Lele|move: Sticky Web
+|-unboost|p1a: Tapu Lele|spe|1
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|17
+|
+|t:|1641841246
+|move|p1a: Tapu Lele|Nature's Madness|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|48/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Tapu Lele
+|-start|p1a: Tapu Lele|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Tapu Lele|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|60/100|[silent]
+|upkeep
+|turn|18
+|
+|t:|1641841260
+|move|p1a: Tapu Lele|Nature's Madness|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|30/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|thefire888 has 120 seconds left.
+|
+|t:|1641841272
+|switch|p1a: Garchomp|Garchomp, M|5/100
+|-activate|p1a: Garchomp|move: Sticky Web
+|-unboost|p1a: Garchomp|spe|1
+|turn|19
+|inactive|thefire888 has 120 seconds left.
+|
+|t:|1641841288
+|move|p1a: Garchomp|Stone Edge|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|17/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: thefire888|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|inactive|thefire888 has 120 seconds left.
+|
+|t:|1641841298
+|move|p1a: Garchomp|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641841306
+|switch|p2a: Jirachi|Jirachi, shiny|42/100 brn
+|turn|21
+|
+|t:|1641841315
+|move|p2a: Jirachi|Meteor Mash|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Jirachi|30/100 brn|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-weather|none
+|-damage|p2a: Jirachi|24/100 brn|[from] brn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641841329
+|switch|p1a: Ditto|Ditto, shiny|100/100 par
+|-damage|p1a: Ditto|88/100 par|[from] Stealth Rock
+|-activate|p1a: Ditto|move: Sticky Web
+|-unboost|p1a: Ditto|spe|1
+|-transform|p1a: Ditto|p2a: Jirachi|[from] ability: Imposter
+|turn|22
+|inactive|thefire888 has 120 seconds left.
+|
+|t:|1641841346
+|move|p2a: Jirachi|Meteor Mash|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|75/100 par
+|move|p1a: Ditto|Zen Headbutt|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|14/100 brn
+|-damage|p1a: Ditto|59/100 par|[from] item: Rocky Helmet|[of] p2a: Jirachi
+|
+|-damage|p2a: Jirachi|8/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641841358
+|move|p2a: Jirachi|Meteor Mash|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|46/100 par
+|move|p1a: Ditto|Zen Headbutt|p2a: Jirachi
+|-resisted|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|-damage|p1a: Ditto|30/100 par|[from] item: Rocky Helmet|[of] p2a: Jirachi
+|faint|p2a: Jirachi
+|
+|upkeep
+|
+|t:|1641841367
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|turn|24
+|
+|t:|1641841370
+|move|p2a: Zapdos|Heat Wave|p1a: Ditto|[miss]
+|-miss|p2a: Zapdos|p1a: Ditto
+|move|p1a: Ditto|Zen Headbutt|p2a: Zapdos
+|-damage|p2a: Zapdos|55/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641841377
+|move|p2a: Zapdos|Heat Wave|p1a: Ditto
+|-supereffective|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|upkeep
+|
+|t:|1641841382
+|switch|p1a: Mimikyu|Mimikyu, M, shiny|100/100
+|-damage|p1a: Mimikyu|88/100|[from] Stealth Rock
+|-activate|p1a: Mimikyu|move: Sticky Web
+|-unboost|p1a: Mimikyu|spe|1
+|turn|26
+|
+|t:|1641841395
+|move|p2a: Zapdos|Heat Wave|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|88/100
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, M, shiny
+|-damage|p1a: Mimikyu|76/100|[from] pokemon: Mimikyu-Busted
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|upkeep
+|turn|27
+|
+|t:|1641841405
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Zapdos
+|-damage|p2a: Zapdos|5/100
+|-damage|p1a: Mimikyu|66/100|[from] item: Life Orb
+|move|p2a: Zapdos|Heat Wave|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|
+|win|TooStonedTrooper
+|raw|thefire888's rating: 1081 &rarr; <strong>1061</strong><br />(-20 for losing)
+|raw|TooStonedTrooper's rating: 1119 &rarr; <strong>1141</strong><br />(+22 for winning)
+|l|☆TooStonedTrooper
+|c|☆thefire888|gg
+|c|☆thefire888|well played

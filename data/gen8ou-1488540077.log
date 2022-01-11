@@ -1,0 +1,254 @@
+|j|☆DoubleDeez
+|j|☆5cyn
+|t:|1641779024
+|gametype|singles
+|player|p1|DoubleDeez|101|
+|player|p2|5cyn|n|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Bisharp, F|
+|poke|p1|Porygon2|
+|poke|p1|Toxapex, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Magnezone|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Seismitoad, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Heliolisk, F|
+|poke|p2|Aegislash, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 5cyn)
+|
+|t:|1641779072
+|start
+|switch|p1a: Gale Wisp|Ferrothorn, M|100/100
+|switch|p2a: Zreaora|Seismitoad, M|100/100
+|turn|1
+|
+|t:|1641779085
+|switch|p2a: Reggiigas|Ferrothorn, F|100/100
+|move|p1a: Gale Wisp|Substitute|p1a: Gale Wisp
+|-start|p1a: Gale Wisp|Substitute
+|-damage|p1a: Gale Wisp|76/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641779096
+|move|p1a: Gale Wisp|Protect|p1a: Gale Wisp
+|-singleturn|p1a: Gale Wisp|Protect
+|move|p2a: Reggiigas|Leech Seed|p1a: Gale Wisp
+|-activate|p1a: Gale Wisp|move: Protect
+|
+|upkeep
+|turn|3
+|
+|t:|1641779116
+|move|p1a: Gale Wisp|Protect|p1a: Gale Wisp
+|-singleturn|p1a: Gale Wisp|Protect
+|move|p2a: Reggiigas|Spikes|p1a: Gale Wisp
+|-sidestart|p1: DoubleDeez|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1641779135
+|move|p1a: Gale Wisp|Explosion|p2a: Reggiigas
+|-resisted|p2a: Reggiigas
+|-damage|p2a: Reggiigas|79/100
+|faint|p1a: Gale Wisp
+|move|p2a: Reggiigas|Leech Seed|p1: Gale Wisp|[notarget]
+|-fail|p2a: Reggiigas
+|
+|-heal|p2a: Reggiigas|85/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641779146
+|switch|p1a: Mushroom Soup|Volcarona, F, shiny|100/100
+|-damage|p1a: Mushroom Soup|88/100|[from] Spikes
+|turn|5
+|
+|t:|1641779175
+|switch|p2a: DoubleCried|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: DoubleCried
+|move|p1a: Mushroom Soup|Quiver Dance|p1a: Mushroom Soup
+|-boost|p1a: Mushroom Soup|spa|1
+|-boost|p1a: Mushroom Soup|spd|1
+|-boost|p1a: Mushroom Soup|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Mushroom Soup|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|DoubleDeez has 270 seconds left.
+|
+|t:|1641779200
+|switch|p1a: Rifle Spear|Magnezone|100/100
+|-damage|p1a: Rifle Spear|88/100|[from] Spikes
+|move|p2a: DoubleCried|Hurricane|p1a: Rifle Spear
+|-resisted|p1a: Rifle Spear
+|-damage|p1a: Rifle Spear|77/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rifle Spear|83/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|DoubleDeez has 270 seconds left.
+|inactive|5cyn has 270 seconds left.
+|
+|t:|1641779225
+|switch|p2a: Zreaora|Seismitoad, M|100/100
+|move|p1a: Rifle Spear|Thunderbolt|p2a: Zreaora
+|-immune|p2a: Zreaora
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rifle Spear|89/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|DoubleDeez has 270 seconds left.
+|inactive|5cyn has 270 seconds left.
+|inactive|DoubleDeez has 240 seconds left.
+|
+|t:|1641779276
+|switch|p1a: Goat|Porygon2, shiny|100/100
+|-damage|p1a: Goat|88/100|[from] Spikes
+|-ability|p1a: Goat|Download|boost
+|-boost|p1a: Goat|atk|1
+|move|p2a: Zreaora|Earth Power|p1a: Goat
+|-damage|p1a: Goat|53/100
+|-damage|p2a: Zreaora|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|inactive|5cyn has 270 seconds left.
+|
+|t:|1641779287
+|move|p2a: Zreaora|Stealth Rock|p1a: Goat
+|-sidestart|p1: DoubleDeez|move: Stealth Rock
+|move|p1a: Goat|Toxic|p2a: Zreaora
+|-status|p2a: Zreaora|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Zreaora|85/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641779295
+|move|p2a: Zreaora|Sludge Bomb|p1a: Goat
+|-damage|p1a: Goat|27/100
+|-damage|p2a: Zreaora|75/100 tox|[from] item: Life Orb
+|move|p1a: Goat|Recover|p1a: Goat
+|-heal|p1a: Goat|77/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Zreaora|63/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641779317
+|switch|p2a: Magikarrp|Barraskewda, F|100/100
+|move|p1a: Goat|Tri Attack|p2a: Magikarrp
+|-damage|p2a: Magikarrp|16/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641779328
+|move|p2a: Magikarrp|Close Combat|p1a: Goat
+|-supereffective|p1a: Goat
+|-damage|p1a: Goat|0 fnt
+|-unboost|p2a: Magikarrp|def|1
+|-unboost|p2a: Magikarrp|spd|1
+|faint|p1a: Goat
+|
+|-weather|none
+|upkeep
+|
+|t:|1641779342
+|switch|p1a: Mushroom Soup|Volcarona, F, shiny|94/100
+|-damage|p1a: Mushroom Soup|82/100|[from] Spikes
+|-damage|p1a: Mushroom Soup|32/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641779351
+|move|p2a: Magikarrp|Close Combat|p1a: Mushroom Soup
+|-resisted|p1a: Mushroom Soup
+|-damage|p1a: Mushroom Soup|0 fnt
+|-unboost|p2a: Magikarrp|def|1
+|-unboost|p2a: Magikarrp|spd|1
+|faint|p1a: Mushroom Soup
+|
+|upkeep
+|
+|t:|1641779365
+|switch|p1a: Fort Merit|Toxapex, M|100/100
+|-damage|p1a: Fort Merit|88/100|[from] Spikes
+|-damage|p1a: Fort Merit|76/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641779388
+|switch|p2a: Zreaora|Seismitoad, M|63/100 tox
+|move|p1a: Fort Merit|Baneful Bunker||[still]
+|-fail|p1a: Fort Merit
+|
+|-heal|p1a: Fort Merit|82/100|[from] item: Leftovers
+|-damage|p2a: Zreaora|57/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641779397
+|move|p2a: Zreaora|Earth Power|p1a: Fort Merit
+|-supereffective|p1a: Fort Merit
+|-damage|p1a: Fort Merit|0 fnt
+|faint|p1a: Fort Merit
+|-damage|p2a: Zreaora|47/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Zreaora|35/100 tox|[from] psn
+|upkeep
+|
+|t:|1641779406
+|switch|p1a: Enforcers Axe|Bisharp, F|100/100
+|-damage|p1a: Enforcers Axe|95/100|[from] Stealth Rock
+|-damage|p1a: Enforcers Axe|82/100|[from] Spikes
+|turn|16
+|
+|t:|1641779418
+|move|p2a: Zreaora|Earth Power|p1a: Enforcers Axe
+|-supereffective|p1a: Enforcers Axe
+|-damage|p1a: Enforcers Axe|0 fnt
+|faint|p1a: Enforcers Axe
+|-damage|p2a: Zreaora|25/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Zreaora|7/100 tox|[from] psn
+|upkeep
+|
+|t:|1641779424
+|switch|p1a: Rifle Spear|Magnezone|89/100
+|-damage|p1a: Rifle Spear|76/100|[from] Spikes
+|-damage|p1a: Rifle Spear|70/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641779433
+|move|p2a: Zreaora|Earth Power|p1a: Rifle Spear
+|-supereffective|p1a: Rifle Spear
+|-damage|p1a: Rifle Spear|0 fnt
+|faint|p1a: Rifle Spear
+|-damage|p2a: Zreaora|0 fnt|[from] item: Life Orb
+|faint|p2a: Zreaora
+|
+|win|5cyn
+|l|☆DoubleDeez

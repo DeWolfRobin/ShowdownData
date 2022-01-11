@@ -1,0 +1,271 @@
+|j|☆comradesquidwar
+|j|☆Pok et glace
+|t:|1641842338
+|gametype|singles
+|player|p1|comradesquidwar|janitor|1645
+|player|p2|Pok et glace|cynthia-gen4|1593
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Seismitoad, F|
+|poke|p1|Gengar, F|
+|poke|p1|Toxapex, M|
+|poke|p2|Scizor, F|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Fini|
+|poke|p2|Kartana|
+|poke|p2|Garchomp, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by comradesquidwar)
+|
+|t:|1641842347
+|start
+|switch|p1a: Gengar|Gengar, F|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|
+|t:|1641842354
+|switch|p1a: Toxapex|Toxapex, M, shiny|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|88/100
+|-damage|p2a: Tornadus|84/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-enditem|p1a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1641842362
+|move|p2a: Tornadus|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100
+|
+|t:|1641842366
+|switch|p2a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|move|p1a: Toxapex|Knock Off|p2a: Magnezone
+|-damage|p2a: Magnezone|84/100
+|-enditem|p2a: Magnezone|Choice Specs|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|upkeep
+|turn|3
+|
+|t:|1641842375
+|move|p2a: Magnezone|Toxic|p1a: Toxapex
+|-immune|p1a: Toxapex
+|move|p1a: Toxapex|Knock Off|p2a: Magnezone
+|-damage|p2a: Magnezone|74/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641842382
+|switch|p1a: Seismitoad|Seismitoad, F, shiny|100/100
+|move|p2a: Magnezone|Thunderbolt|p1a: Seismitoad
+|-immune|p1a: Seismitoad
+|
+|upkeep
+|turn|5
+|
+|t:|1641842390
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Seismitoad|Earthquake|p2a: Tornadus
+|-immune|p2a: Tornadus
+|
+|upkeep
+|turn|6
+|c|☆Pok et glace|those were terrible playhs you got lucky with
+|
+|t:|1641842403
+|switch|p1a: Toxapex|Toxapex, M, shiny|100/100
+|move|p2a: Tornadus|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|96/100
+|
+|t:|1641842405
+|switch|p2a: Magnezone|Magnezone|74/100|[from]move: U-turn
+|
+|upkeep
+|turn|7
+|c|☆comradesquidwar|ur too kind
+|
+|t:|1641842410
+|switch|p1a: Seismitoad|Seismitoad, F, shiny|100/100
+|move|p2a: Magnezone|Volt Switch|p1a: Seismitoad
+|-immune|p1a: Seismitoad
+|
+|upkeep
+|turn|8
+|
+|t:|1641842415
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Seismitoad|Earthquake|p2a: Scizor
+|-damage|p2a: Scizor|76/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641842420
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p2a: Scizor|Knock Off|p1a: Tornadus
+|-crit|p1a: Tornadus
+|-damage|p1a: Tornadus|62/100
+|-enditem|p1a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Scizor
+|
+|upkeep
+|turn|10
+|
+|t:|1641842425
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Tornadus|Taunt|p2a: Tapu Fini
+|-start|p2a: Tapu Fini|move: Taunt
+|
+|upkeep
+|turn|11
+|
+|t:|1641842432
+|switch|p1a: Toxapex|Toxapex, M, shiny|100/100
+|move|p2a: Tapu Fini|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641842437
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Toxapex|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|90/100
+|-damage|p1a: Toxapex|72/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Leftovers|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|upkeep
+|turn|13
+|
+|t:|1641842441
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Garchomp|Stealth Rock|p1a: Tapu Lele
+|-sidestart|p1: comradesquidwar|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1641842448
+|move|p2a: Garchomp|Protect|p2a: Garchomp
+|-singleturn|p2a: Garchomp|Protect
+|move|p1a: Tapu Lele|Psychic|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Protect
+|
+|upkeep
+|turn|15
+|
+|t:|1641842457
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Tapu Lele|Psychic|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|66/100
+|
+|-heal|p2a: Tapu Fini|72/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641842470
+|switch|p2a: Magnezone|Magnezone|74/100
+|move|p1a: Tapu Lele|Psychic|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|40/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641842476
+|switch|p1a: Seismitoad|Seismitoad, F, shiny|100/100
+|-damage|p1a: Seismitoad|94/100|[from] Stealth Rock
+|move|p2a: Magnezone|Flash Cannon|p1a: Seismitoad
+|-resisted|p1a: Seismitoad
+|-damage|p1a: Seismitoad|77/100
+|-unboost|p1a: Seismitoad|spd|1
+|
+|-heal|p1a: Seismitoad|83/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641842490
+|move|p2a: Magnezone|Toxic|p1a: Seismitoad
+|-activate|p1a: Seismitoad|move: Misty Terrain
+|move|p1a: Seismitoad|Knock Off|p2a: Magnezone
+|-damage|p2a: Magnezone|25/100
+|
+|-heal|p1a: Seismitoad|89/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|c|☆comradesquidwar|tHoSe WeRe TeRrIbLe PlAyS
+|
+|t:|1641842512
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Seismitoad|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: Pok et glace|move: Stealth Rock
+|
+|-heal|p1a: Seismitoad|95/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|20
+|
+|t:|1641842517
+|switch|p1a: Toxapex|Toxapex, M, shiny|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex|[miss]
+|-miss|p2a: Tornadus|p1a: Toxapex
+|
+|upkeep
+|turn|21
+|
+|t:|1641842523
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|54/100
+|move|p1a: Toxapex|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|83/100
+|-enditem|p2a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|upkeep
+|turn|22
+|
+|t:|1641842528
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|22/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|72/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641842532
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex|[miss]
+|-miss|p2a: Tornadus|p1a: Toxapex
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|upkeep
+|turn|24
+|-message|Pok et glace forfeited.
+|
+|win|comradesquidwar
+|raw|comradesquidwar's rating: 1645 &rarr; <strong>1662</strong><br />(+17 for winning)
+|raw|Pok et glace's rating: 1593 &rarr; <strong>1576</strong><br />(-17 for losing)
+|j| jeanmilapipe
+|l|☆Pok et glace

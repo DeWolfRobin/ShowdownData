@@ -1,0 +1,297 @@
+|j|☆TooStonedTrooper
+|j|☆SJBLHX
+|t:|1641835089
+|gametype|singles
+|player|p1|TooStonedTrooper|101|1050
+|player|p2|SJBLHX|dawn-gen4pt|1021
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Jirachi|
+|poke|p1|Snorlax, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Ribombee, M|
+|poke|p1|Zapdos|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Torkoal, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Kartana|
+|poke|p2|Corviknight, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Celesteela|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TooStonedTrooper)
+|
+|t:|1641835103
+|start
+|switch|p1a: Ribombee|Ribombee, M, shiny|100/100
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1641835111
+|move|p1a: Ribombee|Sticky Web|p2a: Torkoal
+|-sidestart|p2: SJBLHX|move: Sticky Web
+|move|p2a: Torkoal|Lava Plume|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-enditem|p1a: Ribombee|Focus Sash
+|-damage|p1a: Ribombee|1/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641835119
+|move|p1a: Ribombee|Stun Spore|p2a: Torkoal
+|-status|p2a: Torkoal|par
+|move|p2a: Torkoal|Rapid Spin|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: SJBLHX|Sticky Web|[from] move: Rapid Spin|[of] p2a: Torkoal
+|faint|p1a: Ribombee
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641835130
+|switch|p1a: Snorlax|Snorlax, M, shiny|100/100
+|turn|3
+|
+|t:|1641835134
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|move|p2a: Torkoal|Stealth Rock|p1a: Snorlax
+|-sidestart|p1: TooStonedTrooper|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641835142
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|move|p2a: Torkoal|Yawn|p1a: Snorlax
+|-start|p1a: Snorlax|move: Yawn|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641835150
+|switch|p2a: Celesteela|Celesteela|100/100
+|move|p1a: Snorlax|Earthquake|p2a: Celesteela
+|-immune|p2a: Celesteela
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Snorlax|move: Yawn|[silent]
+|-status|p1a: Snorlax|slp
+|upkeep
+|turn|6
+|
+|t:|1641835160
+|move|p2a: Celesteela|Leech Seed|p1a: Snorlax
+|-start|p1a: Snorlax|move: Leech Seed
+|cant|p1a: Snorlax|slp
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Snorlax|88/100 slp|[from] Leech Seed|[of] p2a: Celesteela
+|upkeep
+|turn|7
+|
+|t:|1641835167
+|move|p2a: Celesteela|Substitute|p2a: Celesteela
+|-start|p2a: Celesteela|Substitute
+|-damage|p2a: Celesteela|76/100
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Celesteela|82/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|94/100|[from] item: Leftovers
+|-damage|p1a: Snorlax|82/100|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|96/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641835180
+|move|p2a: Celesteela|Protect|p2a: Celesteela
+|-singleturn|p2a: Celesteela|Protect
+|move|p1a: Snorlax|Ice Punch|p2a: Celesteela
+|-activate|p2a: Celesteela|move: Protect
+|
+|-weather|none
+|-heal|p2a: Celesteela|100/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|88/100|[from] item: Leftovers
+|-damage|p1a: Snorlax|76/100|[from] Leech Seed|[of] p2a: Celesteela
+|upkeep
+|turn|9
+|
+|t:|1641835191
+|move|p2a: Celesteela|Toxic|p1a: Snorlax
+|-status|p1a: Snorlax|tox
+|move|p1a: Snorlax|Ice Punch|p2a: Celesteela
+|-end|p2a: Celesteela|Substitute
+|
+|-heal|p1a: Snorlax|82/100 tox|[from] item: Leftovers
+|-damage|p1a: Snorlax|69/100 tox|[from] Leech Seed|[of] p2a: Celesteela
+|-damage|p1a: Snorlax|63/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641835203
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|move|p2a: Celesteela|Substitute|p2a: Celesteela
+|-start|p2a: Celesteela|Substitute
+|-damage|p2a: Celesteela|76/100
+|
+|-heal|p2a: Celesteela|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641835215
+|switch|p2a: Torkoal|Torkoal, M|100/100 par
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Zapdos|Heat Wave|p2a: Torkoal|[miss]
+|-miss|p1a: Zapdos|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641835223
+|switch|p1a: Snorlax|Snorlax, M, shiny|63/100 tox
+|-damage|p1a: Snorlax|51/100 tox|[from] Stealth Rock
+|move|p2a: Torkoal|Lava Plume|p1a: Snorlax
+|-damage|p1a: Snorlax|37/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Snorlax|43/100 tox|[from] item: Leftovers
+|-damage|p1a: Snorlax|37/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641835237
+|move|p1a: Snorlax|Earthquake|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|63/100 par
+|move|p2a: Torkoal|Yawn||[still]
+|-fail|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Snorlax|43/100 tox|[from] item: Leftovers
+|-damage|p1a: Snorlax|31/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641835246
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Snorlax|37/100 tox|[from] item: Leftovers
+|-damage|p1a: Snorlax|19/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641835258
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Snorlax|Ice Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|78/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Corviknight|84/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|25/100 tox|[from] item: Leftovers
+|-damage|p1a: Snorlax|1/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641835271
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Snorlax|Ice Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|68/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Corviknight|75/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|7/100 tox|[from] item: Leftovers
+|-damage|p1a: Snorlax|0 fnt|[from] psn
+|faint|p1a: Snorlax
+|upkeep
+|
+|t:|1641835283
+|switch|p1a: Zapdos|Zapdos, shiny|76/100
+|-damage|p1a: Zapdos|51/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641835288
+|move|p1a: Zapdos|Heat Wave|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641835295
+|switch|p2a: Kartana|Kartana|100/100
+|turn|18
+|
+|t:|1641835300
+|move|p2a: Kartana|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-enditem|p1a: Zapdos|Choice Specs|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Zapdos
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1641835308
+|switch|p1a: Ferrothorn|Ferrothorn, M, shiny|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641835313
+|move|p2a: Kartana|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|44/100
+|-damage|p2a: Kartana|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Kartana|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p2a: Kartana
+|move|p1a: Ferrothorn|Leech Seed|p2a: Kartana
+|-immune|p2a: Kartana
+|
+|upkeep
+|turn|20
+|-message|TooStonedTrooper forfeited.
+|
+|win|SJBLHX
+|raw|TooStonedTrooper's rating: 1050 &rarr; <strong>1031</strong><br />(-19 for losing)
+|raw|SJBLHX's rating: 1021 &rarr; <strong>1061</strong><br />(+40 for winning)
+|l|☆TooStonedTrooper
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,326 @@
+|j|☆389A
+|j|☆Infinity14
+|t:|1641886838
+|gametype|singles
+|player|p1|389A|101|1205
+|player|p2|Infinity14|steven|1235
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hatterene, F|
+|poke|p1|Cresselia, F|
+|poke|p1|Porygon2|
+|poke|p1|Melmetal|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Marowak-Alola, M|
+|poke|p2|Articuno-Galar|
+|poke|p2|Terrakion|
+|poke|p2|Dragonite, M|
+|poke|p2|Shuckle, M|
+|poke|p2|Mamoswine, M|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1641886886
+|start
+|switch|p1a: D4C|Melmetal|100/100
+|switch|p2a: Rock Snail|Shuckle, M|100/100
+|turn|1
+|
+|t:|1641886897
+|switch|p2a: Molten Ores|Heatran, M|100/100
+|move|p1a: D4C|Double Iron Bash|p2a: Molten Ores
+|-resisted|p2a: Molten Ores
+|-damage|p2a: Molten Ores|88/100
+|-resisted|p2a: Molten Ores
+|-crit|p2a: Molten Ores
+|-damage|p2a: Molten Ores|66/100
+|-hitcount|p2a: Molten Ores|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641886906
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|move|p2a: Molten Ores|Magma Storm|p1a: Cresselia
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|62/100
+|-activate|p1a: Cresselia|move: Magma Storm|[of] p2a: Molten Ores
+|
+|-heal|p1a: Cresselia|68/100|[from] item: Leftovers
+|-damage|p1a: Cresselia|56/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1641886913
+|move|p2a: Molten Ores|Flash Cannon|p1a: Cresselia
+|-damage|p1a: Cresselia|35/100
+|move|p1a: Cresselia|Trick Room|p1a: Cresselia
+|-fieldstart|move: Trick Room|[of] p1a: Cresselia
+|
+|-heal|p1a: Cresselia|41/100|[from] item: Leftovers
+|-damage|p1a: Cresselia|29/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1641886920
+|move|p1a: Cresselia|Lunar Dance|p1a: Cresselia
+|faint|p1a: Cresselia
+|move|p2a: Molten Ores|Flash Cannon|p1: Cresselia|[notarget]
+|-fail|p2a: Molten Ores
+|
+|upkeep
+|
+|t:|1641886926
+|switch|p1a: Marowak|Marowak-Alola, M|100/100
+|turn|5
+|
+|t:|1641886929
+|switch|p2a: Happy Dragon|Dragonite, M|100/100
+|move|p1a: Marowak|Bonemerang|p2a: Happy Dragon
+|-immune|p2a: Happy Dragon
+|
+|upkeep
+|turn|6
+|
+|t:|1641886934
+|move|p1a: Marowak|Poltergeist|p2a: Happy Dragon
+|-activate|p2a: Happy Dragon|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Happy Dragon|66/100
+|move|p2a: Happy Dragon|Roost|p2a: Happy Dragon
+|-heal|p2a: Happy Dragon|100/100
+|-singleturn|p2a: Happy Dragon|move: Roost
+|
+|upkeep
+|turn|7
+|
+|t:|1641886943
+|switch|p1a: Porygon2|Porygon2|100/100
+|-ability|p1a: Porygon2|Multiscale|[from] ability: Trace|[of] p2a: Happy Dragon
+|move|p2a: Happy Dragon|Earthquake|p1a: Porygon2
+|-damage|p1a: Porygon2|94/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|8
+|
+|t:|1641886954
+|move|p2a: Happy Dragon|Ice Beam|p1a: Porygon2
+|-damage|p1a: Porygon2|81/100
+|move|p1a: Porygon2|Trick Room|p1a: Porygon2
+|-fieldstart|move: Trick Room|[of] p1a: Porygon2
+|
+|upkeep
+|turn|9
+|
+|t:|1641886960
+|move|p1a: Porygon2|Ice Beam|p2a: Happy Dragon
+|-supereffective|p2a: Happy Dragon
+|-damage|p2a: Happy Dragon|59/100
+|move|p2a: Happy Dragon|Ice Beam|p1a: Porygon2
+|-damage|p1a: Porygon2|68/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641886967
+|switch|p2a: Earthen Mammoth|Mamoswine, M|100/100
+|move|p1a: Porygon2|Recover|p1a: Porygon2
+|-heal|p1a: Porygon2|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641886972
+|move|p2a: Earthen Mammoth|Earthquake|p1a: Porygon2
+|-damage|p1a: Porygon2|87/100
+|move|p1a: Porygon2|Teleport|p1a: Porygon2
+|
+|t:|1641886981
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|12
+|
+|t:|1641886985
+|move|p1a: Crawdaunt|Crabhammer|p2a: Earthen Mammoth
+|-supereffective|p2a: Earthen Mammoth
+|-damage|p2a: Earthen Mammoth|0 fnt
+|faint|p2a: Earthen Mammoth
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641886991
+|switch|p2a: Mineral Goat|Terrakion|100/100
+|turn|13
+|
+|t:|1641887001
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Mineral Goat|Sacred Sword|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|87/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641887021
+|move|p2a: Mineral Goat|Iron Head|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|23/100
+|move|p1a: Hatterene|Trick Room|p1a: Hatterene
+|-fieldstart|move: Trick Room|[of] p1a: Hatterene
+|
+|upkeep
+|turn|15
+|
+|t:|1641887027
+|switch|p2a: Rock Snail|Shuckle, M|100/100
+|move|p1a: Hatterene|Misty Explosion|p2a: Rock Snail
+|-damage|p2a: Rock Snail|67/100
+|faint|p1a: Hatterene
+|
+|upkeep
+|
+|t:|1641887036
+|switch|p1a: Marowak|Marowak-Alola, M|100/100
+|-heal|p1a: Marowak|100/100|[from] move: Lunar Dance
+|turn|16
+|
+|t:|1641887044
+|move|p2a: Rock Snail|Stealth Rock|p1a: Marowak
+|-sidestart|p1: 389A|move: Stealth Rock
+|move|p1a: Marowak|Swords Dance|p1a: Marowak
+|-boost|p1a: Marowak|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641887051
+|move|p2a: Rock Snail|Encore|p1a: Marowak
+|-start|p1a: Marowak|Encore
+|move|p1a: Marowak|Swords Dance|p1a: Marowak
+|-boost|p1a: Marowak|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1641887058
+|switch|p2a: Mineral Goat|Terrakion|100/100
+|move|p1a: Marowak|Swords Dance|p1a: Marowak
+|-boost|p1a: Marowak|atk|2
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|19
+|
+|t:|1641887062
+|switch|p1a: Porygon2|Porygon2|87/100
+|-damage|p1a: Porygon2|75/100|[from] Stealth Rock
+|-ability|p1a: Porygon2|Justified|[from] ability: Trace|[of] p2a: Mineral Goat
+|move|p2a: Mineral Goat|Swords Dance|p2a: Mineral Goat
+|-boost|p2a: Mineral Goat|atk|2
+|
+|upkeep
+|turn|20
+|
+|t:|1641887071
+|move|p2a: Mineral Goat|Sacred Sword|p1a: Porygon2
+|-supereffective|p1a: Porygon2
+|-damage|p1a: Porygon2|0 fnt
+|faint|p1a: Porygon2
+|
+|upkeep
+|
+|t:|1641887074
+|switch|p1a: D4C|Melmetal|100/100
+|-damage|p1a: D4C|94/100|[from] Stealth Rock
+|turn|21
+|c|☆389A|Ahh
+|c|☆389A|Good game my man
+|c|☆389A|Good game
+|c|☆389A|Hmm
+|c|☆389A|Well atleast i tried
+|c|☆389A|I tried
+|c|☆389A|Yup
+|c|☆389A|Good game
+|c|☆389A|Ahh the unlucky 2
+|
+|t:|1641887131
+|move|p2a: Mineral Goat|Sacred Sword|p1a: D4C
+|-supereffective|p1a: D4C
+|-damage|p1a: D4C|0 fnt
+|faint|p1a: D4C
+|
+|upkeep
+|c|☆389A|The odds where never in my favor
+|
+|t:|1641887140
+|switch|p1a: Marowak|Marowak-Alola, M|100/100
+|-damage|p1a: Marowak|76/100|[from] Stealth Rock
+|turn|22
+|c|☆Infinity14|what happened man?
+|
+|t:|1641887156
+|move|p2a: Mineral Goat|Stone Edge|p1a: Marowak
+|-supereffective|p1a: Marowak
+|-crit|p1a: Marowak
+|-damage|p1a: Marowak|0 fnt
+|faint|p1a: Marowak
+|
+|upkeep
+|c|☆389A|What do you mean?
+|c|☆389A|Im just being a good sport
+|c|☆Infinity14|I mean you seem kinda upset
+|c|☆389A|Im not
+|c|☆Infinity14|well then
+|c|☆Infinity14|gg wp!
+|c|☆389A|Well played
+|c|☆389A|My dude
+|c|☆Infinity14|you too
+|
+|t:|1641887222
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|-damage|p1a: Crawdaunt|88/100|[from] Stealth Rock
+|turn|23
+|c|☆Infinity14|you just messed up on that marowak
+|c|☆389A|Yeah
+|c|☆Infinity14|if you would've switched out, there was a 50:50 chance of you winning
+|
+|t:|1641887252
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Mineral Goat
+|-supereffective|p2a: Mineral Goat
+|-damage|p2a: Mineral Goat|3/100
+|move|p2a: Mineral Goat|Sacred Sword|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|win|Infinity14
+|raw|389A's rating: 1178 &rarr; <strong>1157</strong><br />(-21 for losing)
+|raw|Infinity14's rating: 1235 &rarr; <strong>1256</strong><br />(+21 for winning)
+|c|☆389A|Idk
+|c|☆389A|Man
+|c|☆Infinity14|there was
+|c|☆389A|Im not known for thinking
+|c|☆Infinity14|well, make your mark
+|c|☆Infinity14|get known
+|c|☆Infinity14|anyway
+|c|☆Infinity14|gl, hf!
+|c|☆389A|Idk what is that prhase supposed to mean
+|c|☆Infinity14|cya
+|c|☆389A|Bye
+|c|☆389A|Good luck
+|c|☆389A|On next match
+|c|☆Infinity14|you too =)
+|l|☆Infinity14

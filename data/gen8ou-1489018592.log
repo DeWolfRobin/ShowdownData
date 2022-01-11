@@ -1,0 +1,55 @@
+|j|☆Kyerndo
+|j|☆Pantalonescondidos
+|t:|1641846997
+|gametype|singles
+|player|p1|Kyerndo|psychic|1611
+|player|p2|Pantalonescondidos|n|1648
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Volcarona, M|
+|poke|p1|Scizor, F|
+|poke|p1|Thundurus, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Buzzwole|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Zapdos|
+|poke|p2|Tyranitar, F|
+|poke|p2|Slowking-Galar, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pantalonescondidos)
+|
+|t:|1641847001
+|start
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|1
+|
+|t:|1641847006
+|move|p1a: Thundurus|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Assault Vest|[from] move: Knock Off|[of] p1a: Thundurus
+|faint|p2a: Slowking
+|
+|upkeep
+|-message|Pantalonescondidos forfeited.
+|
+|win|Kyerndo
+|raw|Kyerndo's rating: 1611 &rarr; <strong>1633</strong><br />(+22 for winning)
+|raw|Pantalonescondidos's rating: 1648 &rarr; <strong>1626</strong><br />(-22 for losing)
+|l|☆Pantalonescondidos
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

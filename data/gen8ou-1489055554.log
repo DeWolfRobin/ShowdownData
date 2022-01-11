@@ -1,0 +1,155 @@
+|j|☆Twebty too
+|j|☆i'm an architect
+|t:|1641851138
+|gametype|singles
+|player|p1|Twebty too|266|1759
+|player|p2|i'm an architect|266|1825
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Moltres|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Starmie|
+|poke|p1|Clefable, M|
+|poke|p1|Hippowdon, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Weavile, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Tapu Koko|
+|teampreview
+|j| Tweety McTweet
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Twebty too)
+|
+|t:|1641851167
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|1
+|
+|t:|1641851176
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|switch|p1a: Zapdos|Zapdos|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641851179
+|move|p1a: Zapdos|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|87/100
+|
+|t:|1641851181
+|switch|p1a: Hippowdon|Hippowdon, F|100/100|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Slowking|Future Sight|p1a: Hippowdon
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|81/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641851186
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Hippowdon|Stealth Rock|p2a: Urshifu
+|-sidestart|p2: i'm an architect|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Urshifu|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641851191
+|switch|p1a: Starmie|Starmie|100/100
+|move|p2a: Urshifu|Close Combat|p1a: Starmie
+|-resisted|p1a: Starmie
+|-damage|p1a: Starmie|45/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Starmie|39/100|[from] Sandstorm
+|-damage|p2a: Urshifu|88/100|[from] Sandstorm
+|-end|p1a: Starmie|move: Future Sight
+|-resisted|p1a: Starmie
+|-damage|p1a: Starmie|8/100
+|-heal|p1a: Starmie|14/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641851200
+|move|p1a: Starmie|Recover|p1a: Starmie
+|-heal|p1a: Starmie|64/100
+|move|p2a: Urshifu|Close Combat|p1a: Starmie
+|-resisted|p1a: Starmie
+|-damage|p1a: Starmie|1/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Starmie|0 fnt|[from] Sandstorm
+|-damage|p2a: Urshifu|82/100|[from] Sandstorm
+|faint|p1a: Starmie
+|upkeep
+|c|☆Twebty too|The game gave you a god roll
+|
+|t:|1641851222
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|6
+|c|☆i'm an architect|oh thanks for pointing that out
+|
+|t:|1641851236
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|68/100
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1641851241
+|move|p1a: Zapdos|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|54/100
+|
+|t:|1641851245
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: Volt Switch
+|move|p2a: Slowking|Future Sight|p1a: Ferrothorn
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|8
+|j| coeur de ciel
+|
+|t:|1641851247
+|move|p2a: Slowking|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|18/100
+|-status|p1a: Ferrothorn|brn
+|move|p1a: Ferrothorn|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|33/100
+|-enditem|p2a: Slowking|Assault Vest|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|24/100 brn|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|18/100 brn|[from] brn
+|upkeep
+|turn|9
+|-message|Twebty too forfeited.
+|
+|win|i'm an architect
+|raw|Twebty too's rating: 1759 &rarr; <strong>1743</strong><br />(-16 for losing)
+|raw|i&apos;m an architect's rating: 1825 &rarr; <strong>1841</strong><br />(+16 for winning)
+|l|☆Twebty too

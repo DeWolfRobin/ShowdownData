@@ -1,0 +1,325 @@
+|j|☆comradesquidwar
+|j|☆Kyerndo
+|t:|1641841041
+|gametype|singles
+|player|p1|comradesquidwar|janitor|1641
+|player|p2|Kyerndo|psychic|1615
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Seismitoad, F|
+|poke|p1|Gengar, M|
+|poke|p1|Toxapex, F|
+|poke|p2|Heatran, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Volcarona, F|
+|poke|p2|Scizor, F|
+|poke|p2|Thundurus, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by comradesquidwar)
+|
+|t:|1641841050
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|
+|t:|1641841054
+|move|p1a: Tapu Lele|Psychic|p2a: Thundurus
+|-damage|p2a: Thundurus|24/100
+|move|p2a: Thundurus|Knock Off|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|34/100
+|-enditem|p1a: Tapu Lele|Choice Scarf|[from] move: Knock Off|[of] p2a: Thundurus
+|
+|upkeep
+|turn|2
+|
+|t:|1641841058
+|move|p2a: Thundurus|Knock Off|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641841061
+|switch|p1a: Gengar|Gengar, M|100/100
+|turn|3
+|
+|t:|1641841064
+|move|p1a: Gengar|Shadow Ball|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|upkeep
+|
+|t:|1641841071
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|4
+|
+|t:|1641841074
+|switch|p1a: Toxapex|Toxapex, F, shiny|100/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641841077
+|move|p2a: Volcarona|Psychic|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|2/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641841086
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|7
+|
+|t:|1641841089
+|move|p2a: Volcarona|Psychic|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|upkeep
+|
+|t:|1641841091
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|turn|8
+|
+|t:|1641841093
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Tornadus|Taunt|p2a: Heatran
+|-start|p2a: Heatran|move: Taunt
+|
+|upkeep
+|turn|9
+|
+|t:|1641841108
+|move|p1a: Tornadus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|97/100
+|
+|t:|1641841110
+|switch|p1a: Seismitoad|Seismitoad, F, shiny|100/100|[from]move: U-turn
+|move|p2a: Heatran|Magma Storm|p1a: Seismitoad
+|-resisted|p1a: Seismitoad
+|-damage|p1a: Seismitoad|86/100
+|-activate|p1a: Seismitoad|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-heal|p1a: Seismitoad|92/100|[from] item: Leftovers
+|-damage|p1a: Seismitoad|80/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1641841116
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Seismitoad|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|66/100
+|
+|-heal|p1a: Seismitoad|86/100|[from] item: Leftovers
+|-end|p1a: Seismitoad|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|11
+|
+|t:|1641841122
+|switch|p1a: Clefable|Clefable, F, shiny|100/100
+|move|p2a: Garchomp|Earthquake|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|42/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641841128
+|move|p2a: Garchomp|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641841132
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|turn|13
+|
+|t:|1641841134
+|move|p1a: Tornadus|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|20/100
+|-start|p2a: Garchomp|confusion
+|-activate|p2a: Garchomp|confusion
+|move|p2a: Garchomp|Scale Shot|p1a: Tornadus
+|-damage|p1a: Tornadus|88/100
+|-damage|p1a: Tornadus|75/100
+|-hitcount|p1a: Tornadus|2
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641841138
+|-end|p2a: Garchomp|confusion
+|move|p2a: Garchomp|Scale Shot|p1a: Tornadus|[miss]
+|-miss|p2a: Garchomp|p1a: Tornadus
+|move|p1a: Tornadus|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641841148
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|15
+|
+|t:|1641841151
+|move|p2a: Tapu Fini|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|32/100
+|-unboost|p1a: Tornadus|spa|1
+|move|p1a: Tornadus|Taunt|p2a: Tapu Fini
+|-start|p2a: Tapu Fini|move: Taunt
+|
+|upkeep
+|turn|16
+|
+|t:|1641841173
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|switch|p1a: Gengar|Gengar, M|100/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641841176
+|move|p1a: Gengar|Trick|p2a: Volcarona
+|-activate|p1a: Gengar|move: Trick|[of] p2a: Volcarona
+|-item|p2a: Volcarona|Choice Scarf|[from] move: Trick
+|-item|p1a: Gengar|Heavy-Duty Boots|[from] move: Trick
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|18
+|
+|t:|1641841182
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Gengar|Nasty Plot|p1a: Gengar
+|-boost|p1a: Gengar|spa|2
+|
+|upkeep
+|turn|19
+|
+|t:|1641841187
+|switch|p1a: Seismitoad|Seismitoad, F, shiny|86/100
+|move|p2a: Heatran|Earth Power|p1a: Seismitoad
+|-damage|p1a: Seismitoad|68/100
+|
+|-heal|p1a: Seismitoad|74/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|20
+|
+|t:|1641841191
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|move|p1a: Seismitoad|Earthquake|p2a: Volcarona
+|-damage|p2a: Volcarona|62/100
+|
+|-heal|p1a: Seismitoad|80/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641841197
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|66/100
+|move|p2a: Volcarona|Psychic|p1a: Tornadus
+|-damage|p1a: Tornadus|25/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641841200
+|switch|p1a: Seismitoad|Seismitoad, F, shiny|80/100
+|move|p2a: Volcarona|Psychic|p1a: Seismitoad
+|-damage|p1a: Seismitoad|57/100
+|
+|-heal|p1a: Seismitoad|63/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641841203
+|move|p2a: Volcarona|Psychic|p1a: Seismitoad
+|-crit|p1a: Seismitoad
+|-damage|p1a: Seismitoad|29/100
+|move|p1a: Seismitoad|Stealth Rock|p2a: Volcarona
+|-sidestart|p2: Kyerndo|move: Stealth Rock
+|
+|-heal|p1a: Seismitoad|36/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641841213
+|move|p2a: Volcarona|Psychic|p1a: Seismitoad
+|-damage|p1a: Seismitoad|12/100
+|move|p1a: Seismitoad|Earthquake|p2a: Volcarona
+|-damage|p2a: Volcarona|17/100
+|
+|-heal|p1a: Seismitoad|18/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641841217
+|move|p2a: Volcarona|Psychic|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|faint|p1a: Seismitoad
+|
+|upkeep
+|
+|t:|1641841219
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|58/100
+|turn|26
+|
+|t:|1641841221
+|move|p2a: Volcarona|Psychic|p1a: Tornadus
+|-damage|p1a: Tornadus|17/100
+|move|p1a: Tornadus|Hurricane|p2a: Volcarona|[miss]
+|-miss|p1a: Tornadus|p2a: Volcarona
+|
+|upkeep
+|turn|27
+|-message|comradesquidwar forfeited.
+|
+|win|Kyerndo
+|raw|comradesquidwar's rating: 1641 &rarr; <strong>1620</strong><br />(-21 for losing)
+|raw|Kyerndo's rating: 1615 &rarr; <strong>1636</strong><br />(+21 for winning)
+|l|☆comradesquidwar
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

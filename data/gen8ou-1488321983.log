@@ -1,0 +1,344 @@
+|j|☆Maxitrou
+|j|☆gagwagonTD
+|t:|1641750958
+|gametype|singles
+|player|p1|Maxitrou|170|1324
+|player|p2|gagwagonTD|iris-gen5bw2|1373
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Venusaur, M|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Chansey, F|
+|poke|p1|Zeraora|
+|poke|p1|Mew|
+|poke|p2|Tyranitar, F|
+|poke|p2|Swampert, F|
+|poke|p2|Moltres|
+|poke|p2|Dragonite, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Magnezone|
+|teampreview
+|j| OddityStar67
+|
+|t:|1641750969
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Maxitrou)
+|
+|t:|1641750980
+|move|p2a: Dragapult|U-turn|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|95/100
+|
+|t:|1641750991
+|switch|p2a: Swampert|Swampert, F|100/100|[from]move: U-turn
+|move|p1a: Torkoal|Toxic|p2a: Swampert|[miss]
+|-miss|p1a: Torkoal|p2a: Swampert
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641751003
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|move|p2a: Swampert|Flip Turn|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|93/100
+|
+|t:|1641751013
+|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from]move: Flip Turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Venusaur|87/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641751025
+|move|p1a: Venusaur|Solar Beam||[still]
+|-prepare|p1a: Venusaur|Solar Beam
+|-enditem|p1a: Venusaur|Power Herb
+|-anim|p1a: Venusaur|Solar Beam|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|82/100
+|move|p2a: Tyranitar|Ice Beam|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|21/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Venusaur|15/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641751040
+|switch|p1a: Torkoal|Torkoal, M|95/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Tyranitar|Stone Edge|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|44/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641751051
+|move|p2a: Tyranitar|Stone Edge|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641751058
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|6
+|
+|t:|1641751065
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|97/100
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|90/100
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|84/100
+|-hitcount|p2a: Dragonite|3
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641751079
+|switch|p1a: Mew|Mew|100/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641751091
+|move|p2a: Dragonite|Earthquake|p1a: Mew
+|-crit|p1a: Mew
+|-damage|p1a: Mew|20/100
+|move|p1a: Mew|Ice Beam|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-weather|none
+|upkeep
+|l| OddityStar67
+|
+|t:|1641751102
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|9
+|
+|t:|1641751106
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: Dragapult|U-turn|p1a: Chansey
+|-damage|p1a: Chansey|88/100
+|
+|t:|1641751118
+|switch|p2a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|10
+|
+|t:|1641751127
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Magnezone|Substitute|p2a: Magnezone
+|-start|p2a: Magnezone|Substitute
+|-damage|p2a: Magnezone|76/100
+|
+|-heal|p2a: Magnezone|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641751139
+|move|p1a: Zeraora|Close Combat|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-end|p2a: Magnezone|Substitute
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|-heal|p2a: Magnezone|88/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641751151
+|move|p1a: Zeraora|Close Combat|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|59/100
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|move|p2a: Magnezone|Body Press|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|
+|-heal|p2a: Magnezone|65/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641751164
+|switch|p1a: Mew|Mew|20/100
+|turn|13
+|
+|t:|1641751171
+|switch|p2a: Tyranitar|Tyranitar, F|82/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Mew|Flamethrower|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mew|14/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1641751184
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Tyranitar|Thunderbolt|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|24/100
+|-status|p1a: Urshifu|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|18/100 par|[from] Sandstorm
+|upkeep
+|turn|15
+|inactive|gagwagonTD has 120 seconds left.
+|
+|t:|1641751222
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Urshifu|Aqua Jet|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|77/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|71/100|[from] Sandstorm
+|-damage|p1a: Urshifu|12/100 par|[from] Sandstorm
+|upkeep
+|turn|16
+|inactive|gagwagonTD has 120 seconds left.
+|
+|t:|1641751231
+|cant|p1a: Urshifu|par
+|move|p2a: Dragapult|U-turn|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|2/100 par
+|inactive|gagwagonTD has 120 seconds left.
+|
+|t:|1641751238
+|switch|p2a: Swampert|Swampert, F|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|0 fnt|[from] Sandstorm
+|faint|p1a: Urshifu
+|upkeep
+|
+|t:|1641751245
+|switch|p1a: Venusaur|Venusaur, M|15/100
+|turn|17
+|
+|t:|1641751256
+|switch|p2a: Dragapult|Dragapult, F|71/100
+|move|p1a: Venusaur|Giga Drain|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|47/100
+|-heal|p1a: Venusaur|28/100|[from] drain|[of] p2a: Dragapult
+|
+|-weather|none
+|upkeep
+|turn|18
+|
+|t:|1641751267
+|switch|p1a: Chansey|Chansey, F|88/100
+|move|p2a: Dragapult|Draco Meteor|p1a: Chansey
+|-damage|p1a: Chansey|58/100
+|-unboost|p2a: Dragapult|spa|2
+|
+|upkeep
+|turn|19
+|
+|t:|1641751276
+|switch|p2a: Swampert|Swampert, F|100/100
+|move|p1a: Chansey|Seismic Toss|p2a: Swampert
+|-damage|p2a: Swampert|76/100
+|
+|-heal|p2a: Swampert|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641751285
+|move|p2a: Swampert|Stealth Rock|p1a: Chansey
+|-sidestart|p1: Maxitrou|move: Stealth Rock
+|move|p1a: Chansey|Toxic|p2a: Swampert
+|-status|p2a: Swampert|tox
+|
+|-heal|p2a: Swampert|88/100 tox|[from] item: Leftovers
+|-damage|p2a: Swampert|82/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641751293
+|move|p2a: Swampert|Flip Turn|p1a: Chansey
+|-damage|p1a: Chansey|44/100
+|
+|t:|1641751300
+|switch|p2a: Magnezone|Magnezone|65/100|[from]move: Flip Turn
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|94/100
+|
+|-heal|p2a: Magnezone|71/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641751311
+|switch|p1a: Mew|Mew|14/100
+|-damage|p1a: Mew|2/100|[from] Stealth Rock
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|-heal|p2a: Magnezone|77/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641751329
+|switch|p2a: Tyranitar|Tyranitar, F|75/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Mew|Psychic|p2a: Tyranitar
+|-immune|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mew|0 fnt|[from] Sandstorm
+|faint|p1a: Mew
+|upkeep
+|-message|Maxitrou forfeited.
+|
+|win|gagwagonTD
+|raw|Maxitrou's rating: 1324 &rarr; <strong>1307</strong><br />(-17 for losing)
+|raw|gagwagonTD's rating: 1373 &rarr; <strong>1390</strong><br />(+17 for winning)
+|l|☆Maxitrou
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

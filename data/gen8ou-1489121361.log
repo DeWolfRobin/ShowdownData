@@ -1,0 +1,142 @@
+|j|☆Artaxerxes20212021
+|j|☆Xerche
+|t:|1641859437
+|gametype|singles
+|player|p1|Artaxerxes20212021|harlequin|1290
+|player|p2|Xerche|169|1328
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Regieleki|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Blacephalon|
+|poke|p1|Garchomp, M|
+|poke|p1|Bisharp, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Magnezone|
+|poke|p2|Hydreigon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Artaxerxes20212021)
+|
+|t:|1641859451
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|
+|t:|1641859462
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Xerche|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641859471
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|move|p2a: Corviknight|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|96/100
+|
+|t:|1641859477
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641859489
+|move|p2a: Tapu Lele|Moonblast|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641859500
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|4
+|
+|t:|1641859504
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|59/100
+|
+|-heal|p2a: Hydreigon|65/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641859518
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|100/100
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641859524
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Ferrothorn|Spikes|p2a: Hydreigon
+|-sidestart|p2: Xerche|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641859531
+|move|p2a: Hydreigon|Dark Pulse|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|34/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|87/100
+|-enditem|p2a: Hydreigon|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|40/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641859562
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Spikes|p2a: Corviknight
+|-sidestart|p2: Xerche|Spikes
+|
+|-heal|p1a: Ferrothorn|46/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641859570
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|move|p2a: Corviknight|Body Press|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|upkeep
+|-message|Artaxerxes20212021 forfeited.
+|
+|win|Xerche
+|raw|Artaxerxes20212021's rating: 1290 &rarr; <strong>1268</strong><br />(-22 for losing)
+|raw|Xerche's rating: 1328 &rarr; <strong>1346</strong><br />(+18 for winning)
+|l|☆Artaxerxes20212021

@@ -1,0 +1,356 @@
+|j|☆lightskinquadgod
+|j|☆Immagamer
+|t:|1641769950
+|gametype|singles
+|player|p1|lightskinquadgod|hoopster|1172
+|player|p2|Immagamer|169|1226
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Blaziken, F|
+|poke|p1|Snorlax, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Melmetal|
+|poke|p1|Porygon-Z|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Nidoking, M|
+|poke|p2|Zeraora|
+|poke|p2|Tangrowth, F|
+|poke|p2|Chansey, F|
+|poke|p2|Tapu Fini|
+|teampreview
+|
+|t:|1641769970
+|start
+|switch|p1a: Porygon-Z|Porygon-Z|100/100
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|1
+|
+|t:|1641769981
+|switch|p2a: Chansey|Chansey, F|100/100
+|move|p1a: Porygon-Z|Trick|p2a: Chansey
+|-activate|p1a: Porygon-Z|move: Trick|[of] p2a: Chansey
+|-item|p2a: Chansey|Choice Scarf|[from] move: Trick
+|-item|p1a: Porygon-Z|Eviolite|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1641769995
+|move|p1a: Porygon-Z|Tri Attack|p2a: Chansey
+|-damage|p2a: Chansey|76/100
+|move|p2a: Chansey|Toxic|p1a: Porygon-Z
+|-status|p1a: Porygon-Z|tox
+|
+|-damage|p1a: Porygon-Z|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641770004
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Porygon-Z|Reflect|p1a: Porygon-Z
+|-sidestart|p1: lightskinquadgod|Reflect
+|
+|-damage|p1a: Porygon-Z|82/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641770027
+|move|p1a: Porygon-Z|Tri Attack|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|56/100
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|41/100 tox
+|
+|-heal|p2a: Tapu Fini|62/100|[from] item: Leftovers
+|-damage|p1a: Porygon-Z|23/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641770043
+|switch|p2a: Chansey|Chansey, F|76/100
+|move|p1a: Porygon-Z|Tri Attack|p2a: Chansey
+|-damage|p2a: Chansey|48/100
+|
+|-damage|p1a: Porygon-Z|0 fnt|[from] psn
+|faint|p1a: Porygon-Z
+|upkeep
+|
+|t:|1641770055
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|6
+|
+|t:|1641770061
+|move|p2a: Chansey|Seismic Toss|p1a: Melmetal
+|-damage|p1a: Melmetal|78/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Chansey
+|-damage|p2a: Chansey|11/100
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|-hitcount|p2: Chansey|2
+|
+|upkeep
+|
+|t:|1641770079
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|7
+|
+|t:|1641770102
+|move|p2a: Nidoking|Earth Power|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|16/100
+|move|p1a: Melmetal|Ice Punch|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|20/100
+|
+|-sideend|p1: lightskinquadgod|Reflect
+|-fieldend|Misty Terrain
+|upkeep
+|turn|8
+|
+|t:|1641770113
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Nidoking|atk|1
+|move|p2a: Nidoking|Flamethrower|p1a: Landorus
+|-damage|p1a: Landorus|49/100
+|
+|-heal|p1a: Landorus|55/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641770124
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|move|p1a: Landorus|Earthquake|p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-damage|p2a: Tangrowth|85/100
+|
+|-heal|p1a: Landorus|61/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Immagamer)
+|
+|t:|1641770137
+|switch|p1a: Melmetal|Melmetal|16/100
+|move|p2a: Tangrowth|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|3/100
+|-enditem|p1a: Melmetal|Assault Vest|[from] move: Knock Off|[of] p2a: Tangrowth
+|
+|upkeep
+|turn|11
+|
+|t:|1641770148
+|move|p2a: Tangrowth|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641770153
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|turn|12
+|
+|t:|1641770161
+|switch|p2a: Tapu Fini|Tapu Fini|62/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Blaziken|Flare Blitz|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|37/100
+|-damage|p1a: Blaziken|91/100|[from] Recoil
+|-damage|p1a: Blaziken|81/100|[from] item: Life Orb
+|
+|-heal|p2a: Tapu Fini|43/100|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|13
+|
+|t:|1641770174
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Tapu Fini|Moonblast|p1a: Rillaboom
+|-damage|p1a: Rillaboom|61/100
+|-unboost|p1a: Rillaboom|spa|1
+|
+|-heal|p1a: Rillaboom|67/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Fini|49/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Fini|55/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641770185
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-damage|p2a: Tangrowth|84/100
+|-damage|p1a: Rillaboom|50/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|-damage|p1a: Rillaboom|40/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|47/100|[from] Grassy Terrain
+|-heal|p2a: Tangrowth|91/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641770207
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|move|p2a: Tangrowth|Focus Blast|p1a: Rillaboom|[miss]
+|-miss|p2a: Tangrowth|p1a: Rillaboom
+|
+|-heal|p1a: Rillaboom|53/100|[from] Grassy Terrain
+|-heal|p2a: Tangrowth|97/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641770221
+|move|p1a: Rillaboom|Knock Off|p2a: Tangrowth
+|-damage|p2a: Tangrowth|50/100
+|-damage|p1a: Rillaboom|36/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|-enditem|p2a: Tangrowth|Rocky Helmet|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|26/100|[from] item: Life Orb
+|move|p2a: Tangrowth|Focus Blast|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Tangrowth|56/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641770232
+|switch|p1a: Blaziken|Blaziken, F|81/100
+|turn|17
+|
+|t:|1641770242
+|switch|p2a: Tapu Fini|Tapu Fini|55/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Blaziken|Thunder Punch|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|13/100
+|-damage|p1a: Blaziken|71/100|[from] item: Life Orb
+|
+|-heal|p2a: Tapu Fini|19/100|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|18
+|
+|t:|1641770254
+|switch|p1a: Snorlax|Snorlax, F|100/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Snorlax
+|-damage|p1a: Snorlax|84/100
+|-unboost|p1a: Snorlax|spa|1
+|
+|-heal|p2a: Tapu Fini|25/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|90/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641770263
+|move|p2a: Tapu Fini|Taunt|p1a: Snorlax
+|-start|p1a: Snorlax|move: Taunt
+|cant|p1a: Snorlax|move: Taunt|Curse
+|
+|-heal|p2a: Tapu Fini|31/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|97/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641770271
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Snorlax
+|-damage|p1a: Snorlax|49/100
+|move|p1a: Snorlax|Body Slam|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|8/100
+|
+|-heal|p2a: Tapu Fini|14/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|55/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641770281
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Snorlax
+|-damage|p1a: Snorlax|28/100
+|move|p1a: Snorlax|Body Slam|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-heal|p1a: Snorlax|34/100|[from] item: Leftovers
+|-end|p1a: Snorlax|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641770286
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|turn|22
+|
+|t:|1641770292
+|move|p2a: Crawdaunt|Crabhammer|p1a: Snorlax
+|-damage|p1a: Snorlax|0 fnt
+|faint|p1a: Snorlax
+|-damage|p2a: Crawdaunt|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641770298
+|switch|p1a: Landorus|Landorus-Therian, M|61/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Crawdaunt|atk|1
+|turn|23
+|
+|t:|1641770318
+|switch|p2a: Nidoking|Nidoking, M|20/100
+|move|p1a: Landorus|Sludge Bomb|p2a: Nidoking
+|-resisted|p2a: Nidoking
+|-damage|p2a: Nidoking|13/100
+|
+|-heal|p1a: Landorus|67/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641770331
+|move|p1a: Landorus|Earthquake|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|0 fnt
+|faint|p2a: Nidoking
+|
+|-heal|p1a: Landorus|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641770336
+|switch|p2a: Crawdaunt|Crawdaunt, M|91/100
+|turn|25
+|
+|t:|1641770347
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Crawdaunt|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641770352
+|switch|p1a: Blaziken|Blaziken, F|71/100
+|turn|26
+|
+|t:|1641770355
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|-damage|p2a: Crawdaunt|71/100|[from] item: Life Orb
+|
+|win|Immagamer
+|raw|lightskinquadgod's rating: 1172 &rarr; <strong>1151</strong><br />(-21 for losing)
+|raw|Immagamer's rating: 1226 &rarr; <strong>1247</strong><br />(+21 for winning)
+|c|☆lightskinquadgod|gg
+|l|☆lightskinquadgod

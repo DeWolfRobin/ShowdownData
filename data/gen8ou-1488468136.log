@@ -1,0 +1,171 @@
+|j|☆TheCrystal98765
+|j|‽Mnlsc68
+|t:|1641769148
+|gametype|singles
+|player|p1|TheCrystal98765|ethan|1278
+|player|p2|Mnlsc68|palmer|1264
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Volcarona, M|
+|poke|p1|Kartana|
+|poke|p1|Bisharp, F|
+|poke|p1|Corsola-Galar, M|
+|poke|p1|Necrozma|
+|poke|p2|Regieleki|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Aegislash, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Haxorus, F|
+|teampreview
+|
+|t:|1641769158
+|start
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|turn|1
+|
+|t:|1641769187
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641769194
+|move|p2a: Bisharp|Sucker Punch|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: Bisharp|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641769199
+|switch|p1a: Corsola|Corsola-Galar, M|100/100
+|turn|3
+|
+|t:|1641769204
+|move|p2a: Bisharp|Knock Off|p1a: Corsola
+|-supereffective|p1a: Corsola
+|-damage|p1a: Corsola|0 fnt
+|-enditem|p1a: Corsola|Eviolite|[from] move: Knock Off|[of] p2a: Bisharp
+|faint|p1a: Corsola
+|-damage|p2a: Bisharp|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641769209
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|4
+|
+|t:|1641769215
+|move|p1a: Regieleki|Thunder Wave|p2a: Bisharp
+|-status|p2a: Bisharp|par
+|move|p2a: Bisharp|Knock Off|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|-enditem|p1a: Regieleki|Light Clay|[from] move: Knock Off|[of] p2a: Bisharp
+|faint|p1a: Regieleki
+|-damage|p2a: Bisharp|71/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641769226
+|switch|p1a: Necrozma|Necrozma|100/100
+|turn|5
+|
+|t:|1641769233
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Necrozma|Autotomize|p1a: Necrozma
+|-boost|p1a: Necrozma|spe|2
+|-start|p1a: Necrozma|Autotomize
+|
+|upkeep
+|turn|6
+|
+|t:|1641769241
+|move|p2a: Bisharp|Sucker Punch|p1a: Necrozma
+|-supereffective|p1a: Necrozma
+|-damage|p1a: Necrozma|0 fnt
+|faint|p1a: Necrozma
+|-damage|p2a: Bisharp|61/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641769247
+|switch|p1a: Kartana|Kartana|100/100
+|turn|7
+|c|☆TheCrystal98765|gg
+|
+|t:|1641769251
+|move|p2a: Bisharp|Sucker Punch|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|-damage|p2a: Bisharp|51/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641769254
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|turn|8
+|
+|t:|1641769261
+|move|p1a: Bisharp|Iron Head|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|33/100 par
+|cant|p2a: Bisharp|flinch
+|
+|upkeep
+|turn|9
+|
+|t:|1641769267
+|move|p1a: Bisharp|Iron Head|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|15/100 par
+|cant|p2a: Bisharp|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1641769274
+|move|p2a: Bisharp|Sucker Punch|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|58/100
+|-damage|p2a: Bisharp|5/100 par|[from] item: Life Orb
+|move|p1a: Bisharp|Iron Head|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641769283
+|switch|p2a: Conkeldurr|Conkeldurr, F|100/100
+|turn|11
+|
+|t:|1641769288
+|move|p2a: Conkeldurr|Mach Punch|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|win|Mnlsc68
+|raw|TheCrystal98765's rating: 1278 &rarr; <strong>1252</strong><br />(-26 for losing)
+|raw|Mnlsc68's rating: 1264 &rarr; <strong>1290</strong><br />(+26 for winning)
+|l|☆TheCrystal98765

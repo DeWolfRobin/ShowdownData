@@ -1,0 +1,207 @@
+|j|☆doctor susW
+|j|☆agoda
+|t:|1641771468
+|gametype|singles
+|player|p1|doctor susW|lucas|1075
+|player|p2|agoda|aaron|1080
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Mimikyu, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Miltank, F|
+|poke|p1|Zeraora|
+|poke|p1|Blastoise, M|
+|poke|p2|Malamar, M|
+|poke|p2|Mienshao, M|
+|poke|p2|Shuckle, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Blaziken, M|
+|poke|p2|Scolipede, F|
+|teampreview
+|
+|t:|1641771473
+|start
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|switch|p2a: Shuckle|Shuckle, M|100/100
+|turn|1
+|
+|t:|1641771481
+|move|p1a: Blastoise|Ice Beam|p2a: Shuckle
+|-damage|p2a: Shuckle|85/100
+|move|p2a: Shuckle|Encore|p1a: Blastoise
+|-start|p1a: Blastoise|Encore
+|
+|-heal|p2a: Shuckle|91/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641771488
+|move|p1a: Blastoise|Ice Beam|p2a: Shuckle
+|-damage|p2a: Shuckle|77/100
+|-status|p2a: Shuckle|frz
+|cant|p2a: Shuckle|frz
+|
+|-heal|p2a: Shuckle|83/100 frz|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641771497
+|switch|p1a: Mimikyu|Mimikyu, M|100/100
+|cant|p2a: Shuckle|frz
+|
+|-heal|p2a: Shuckle|89/100 frz|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641771509
+|switch|p2a: Malamar|Malamar, M|100/100
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641771514
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|move|p2a: Malamar|Knock Off|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|100/100
+|-enditem|p1a: Mimikyu|Life Orb|[from] move: Knock Off|[of] p2a: Malamar
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, M
+|-damage|p1a: Mimikyu|88/100|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|6
+|
+|t:|1641771528
+|move|p1a: Mimikyu|Play Rough|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|upkeep
+|
+|t:|1641771536
+|switch|p2a: Scolipede|Scolipede, F|100/100
+|turn|7
+|c|☆doctor susW|dang man that frozen wored u off
+|
+|t:|1641771547
+|move|p2a: Scolipede|Swords Dance|p2a: Scolipede
+|-boost|p2a: Scolipede|atk|2
+|move|p1a: Mimikyu|Shadow Claw|p2a: Scolipede
+|-damage|p2a: Scolipede|0 fnt
+|faint|p2a: Scolipede
+|
+|upkeep
+|
+|t:|1641771553
+|switch|p2a: Shuckle|Shuckle, M|89/100 frz
+|turn|8
+|
+|t:|1641771558
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|cant|p2a: Shuckle|frz
+|
+|-heal|p2a: Shuckle|95/100 frz|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641771565
+|move|p1a: Mimikyu|Shadow Claw|p2a: Shuckle
+|-damage|p2a: Shuckle|31/100 frz
+|cant|p2a: Shuckle|frz
+|
+|-heal|p2a: Shuckle|37/100 frz|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641771574
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|0
+|cant|p2a: Shuckle|frz
+|
+|-heal|p2a: Shuckle|44/100 frz|[from] item: Leftovers
+|upkeep
+|turn|11
+|c|☆agoda|fuck my luck
+|
+|t:|1641771590
+|move|p1a: Mimikyu|Shadow Claw|p2a: Shuckle
+|-damage|p2a: Shuckle|0 fnt
+|faint|p2a: Shuckle
+|
+|upkeep
+|
+|t:|1641771595
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|turn|12
+|
+|t:|1641771602
+|move|p2a: Blaziken|Protect|p2a: Blaziken
+|-singleturn|p2a: Blaziken|Protect
+|move|p1a: Mimikyu|Play Rough|p2a: Blaziken
+|-activate|p2a: Blaziken|move: Protect
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|13
+|
+|t:|1641771611
+|move|p2a: Blaziken|Flare Blitz|p1a: Mimikyu
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|-damage|p2a: Blaziken|76/100|[from] Recoil
+|
+|-heal|p2a: Blaziken|82/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641771619
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|turn|14
+|
+|t:|1641771623
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|move|p1a: Blastoise|Hydro Pump|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1641771630
+|switch|p2a: Mienshao|Mienshao, M|100/100
+|turn|15
+|
+|t:|1641771634
+|move|p2a: Mienshao|High Jump Kick|p1a: Blastoise
+|-damage|p1a: Blastoise|24/100
+|move|p1a: Blastoise|Hydro Pump|p2a: Mienshao
+|-damage|p2a: Mienshao|0 fnt
+|faint|p2a: Mienshao
+|
+|upkeep
+|-message|agoda forfeited.
+|
+|win|doctor susW
+|raw|doctor susW's rating: 1075 &rarr; <strong>1104</strong><br />(+29 for winning)
+|raw|agoda's rating: 1080 &rarr; <strong>1058</strong><br />(-22 for losing)
+|l|☆agoda

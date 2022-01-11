@@ -1,0 +1,77 @@
+|j|☆Bit750
+|j|☆PeanutsSandwich
+|t:|1641755752
+|gametype|singles
+|player|p1|Bit750|silver|1025
+|player|p2|PeanutsSandwich|170|1000
+|teamsize|p1|6
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Zeraora|
+|poke|p1|Ninjask, F|
+|poke|p1|Blissey, F|
+|poke|p1|Azelf|
+|poke|p1|Victini|
+|poke|p2|Rhyperior, M|
+|teampreview
+|c|☆Bit750|glhf
+|
+|t:|1641755760
+|start
+|switch|p1a: haha cat go zoom|Zeraora|100/100
+|switch|p2a: Rhyperior|Rhyperior, M|100/100
+|turn|1
+|c|☆Bit750|boutta get destroyed aint i
+|
+|t:|1641755768
+|move|p1a: haha cat go zoom|Close Combat|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|61/100
+|-unboost|p1a: haha cat go zoom|def|1
+|-unboost|p1a: haha cat go zoom|spd|1
+|-enditem|p2a: Rhyperior|Weakness Policy
+|-boost|p2a: Rhyperior|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Rhyperior|spa|2|[from] item: Weakness Policy
+|move|p2a: Rhyperior|Rock Polish|p2a: Rhyperior
+|-boost|p2a: Rhyperior|spe|2
+|
+|upkeep
+|turn|2
+|c|☆Bit750|whathaveidone
+|
+|t:|1641755782
+|switch|p1a: fetus|Azelf|100/100
+|move|p2a: Rhyperior|Rock Polish|p2a: Rhyperior
+|-boost|p2a: Rhyperior|spe|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641755788
+|move|p2a: Rhyperior|Earthquake|p1a: fetus
+|-immune|p1a: fetus|[from] ability: Levitate
+|move|p1a: fetus|Trick|p2a: Rhyperior
+|-activate|p1a: fetus|move: Trick|[of] p2a: Rhyperior
+|-item|p2a: Rhyperior|Choice Scarf|[from] move: Trick
+|-enditem|p1a: fetus|Choice Scarf|[silent]|[from] move: Trick
+|
+|upkeep
+|turn|4
+|c|☆Bit750|ok nevermind nice
+|-message|PeanutsSandwich forfeited.
+|
+|win|Bit750
+|raw|Bit750's rating: 1025 &rarr; <strong>1059</strong><br />(+34 for winning)
+|raw|PeanutsSandwich's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆PeanutsSandwich

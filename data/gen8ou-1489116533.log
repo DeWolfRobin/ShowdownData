@@ -1,0 +1,182 @@
+|j|☆Artaxerxes20212021
+|j|☆Smart Falcon
+|t:|1641858773
+|gametype|singles
+|player|p1|Artaxerxes20212021|harlequin|1346
+|player|p2|Smart Falcon|shauntal|1386
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Regieleki|
+|poke|p1|Magnezone|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Blacephalon|
+|poke|p1|Garchomp, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Clefable, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|poke|p2|Cloyster, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Artaxerxes20212021)
+|
+|t:|1641858785
+|start
+|switch|p1a: Magnezone|Magnezone|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|turn|1
+|
+|t:|1641858796
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: Kartana|Sacred Sword|p1a: Blacephalon
+|-immune|p1a: Blacephalon
+|
+|upkeep
+|turn|2
+|
+|t:|1641858805
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Blacephalon|Flamethrower|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|93/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641858815
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641858830
+|move|p2a: Zapdos|Heat Wave|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|4/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: Smart Falcon|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|88/100|[from] Sandstorm
+|-heal|p1a: Ferrothorn|10/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641858841
+|switch|p1a: Blacephalon|Blacephalon|94/100
+|move|p2a: Zapdos|Volt Switch|p1a: Blacephalon
+|-damage|p1a: Blacephalon|42/100
+|
+|t:|1641858844
+|switch|p2a: Excadrill|Excadrill, M|100/100|[from]move: Volt Switch
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|36/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1641858856
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|move|p2a: Excadrill|Iron Head|p1a: Zapdos
+|-damage|p1a: Zapdos|30/100
+|-damage|p2a: Excadrill|87/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1641858864
+|switch|p2a: Zapdos|Zapdos|88/100
+|move|p1a: Zapdos|Close Combat|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|53/100
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641858872
+|switch|p1a: Regieleki|Regieleki|100/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|9
+|
+|t:|1641858880
+|switch|p2a: Excadrill|Excadrill, M|87/100
+|-damage|p2a: Excadrill|84/100|[from] Stealth Rock
+|move|p1a: Regieleki|Thunder Cage|p2a: Excadrill
+|-immune|p2a: Excadrill
+|
+|upkeep
+|turn|10
+|
+|t:|1641858887
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Excadrill|Rapid Spin|p1a: Garchomp
+|-damage|p1a: Garchomp|75/100
+|-boost|p2a: Excadrill|spe|1
+|-damage|p2a: Excadrill|72/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-sideend|p2: Smart Falcon|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Excadrill
+|-damage|p2a: Excadrill|62/100|[from] item: Life Orb
+|
+|-heal|p1a: Garchomp|81/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641858897
+|move|p2a: Excadrill|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|8/100
+|-damage|p2a: Excadrill|52/100|[from] item: Life Orb
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-heal|p1a: Garchomp|15/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641858907
+|switch|p1a: Zapdos|Zapdos-Galar|30/100
+|move|p2a: Excadrill|Rapid Spin|p1a: Zapdos
+|-damage|p1a: Zapdos|2/100
+|-boost|p2a: Excadrill|spe|1
+|-damage|p2a: Excadrill|42/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1641858921
+|move|p2a: Excadrill|Iron Head|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Excadrill|32/100|[from] item: Life Orb
+|
+|upkeep
+|-message|Artaxerxes20212021 forfeited.
+|
+|win|Smart Falcon
+|raw|Artaxerxes20212021's rating: 1346 &rarr; <strong>1328</strong><br />(-18 for losing)
+|raw|Smart Falcon's rating: 1386 &rarr; <strong>1404</strong><br />(+18 for winning)
+|l|☆Artaxerxes20212021

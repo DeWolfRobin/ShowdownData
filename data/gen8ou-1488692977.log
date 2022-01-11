@@ -1,0 +1,282 @@
+|j|☆DokuTheGreat
+|j|☆Smart Falcon
+|t:|1641804305
+|gametype|singles
+|player|p1|DokuTheGreat|ethan|1127
+|player|p2|Smart Falcon|shauntal|1184
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, F|
+|poke|p1|Reuniclus, F|
+|poke|p1|Umbreon, M|
+|poke|p1|Ditto|
+|poke|p1|Salazzle, F|
+|poke|p1|Garchomp, F|
+|poke|p2|Tyranitar, M|
+|poke|p2|Clefable, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|poke|p2|Cloyster, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DokuTheGreat)
+|
+|t:|1641804311
+|start
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|switch|p2a: Cloyster|Cloyster, F|100/100
+|turn|1
+|
+|t:|1641804317
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Cloyster|Rock Blast|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|53/100
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|9/100
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-hitcount|p1: Volcarona|3
+|
+|upkeep
+|
+|t:|1641804332
+|switch|p1a: Salazzle|Salazzle, F|100/100
+|turn|2
+|
+|t:|1641804338
+|move|p1a: Salazzle|Toxic|p2a: Cloyster
+|-status|p2a: Cloyster|tox
+|move|p2a: Cloyster|Surf|p1a: Salazzle
+|-supereffective|p1a: Salazzle
+|-damage|p1a: Salazzle|5/100
+|
+|-damage|p2a: Cloyster|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641804345
+|switch|p1a: Umbreon|Umbreon, M, shiny|100/100
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Umbreon|94/100|[from] Sandstorm
+|-heal|p1a: Umbreon|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641804355
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Umbreon|Toxic|p2a: Kartana
+|-immune|p2a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Umbreon|94/100|[from] Sandstorm
+|-heal|p1a: Umbreon|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641804362
+|move|p1a: Umbreon|Protect|p1a: Umbreon
+|-singleturn|p1a: Umbreon|Protect
+|move|p2a: Kartana|Swords Dance|p2a: Kartana
+|-boost|p2a: Kartana|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Umbreon|94/100|[from] Sandstorm
+|-heal|p1a: Umbreon|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641804372
+|move|p2a: Kartana|Sacred Sword|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|-damage|p2a: Kartana|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641804380
+|switch|p1a: Ditto|Ditto, shiny|100/100
+|-transform|p1a: Ditto|p2a: Kartana|[from] ability: Imposter
+|turn|7
+|-activate|p1a: Ditto|item: Quick Claw
+|
+|t:|1641804385
+|switch|p2a: Clefable|Clefable, F, shiny|100/100
+|move|p1a: Ditto|Sacred Sword|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|86/100
+|
+|-weather|none
+|-heal|p2a: Clefable|92/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|c|☆DokuTheGreat|Why does this thing not have a steel move
+|-activate|p1a: Ditto|item: Quick Claw
+|
+|t:|1641804406
+|move|p1a: Ditto|Leaf Blade|p2a: Clefable
+|-damage|p2a: Clefable|48/100
+|move|p2a: Clefable|Teleport|p2a: Clefable
+|
+|t:|1641804415
+|switch|p2a: Tyranitar|Tyranitar, M|100/100|[from]move: Teleport
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641804421
+|switch|p2a: Clefable|Clefable, F, shiny|48/100
+|move|p1a: Ditto|Sacred Sword|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|33/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Clefable|27/100|[from] Sandstorm
+|-heal|p2a: Clefable|33/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|-activate|p1a: Ditto|item: Quick Claw
+|
+|t:|1641804430
+|move|p1a: Ditto|Swords Dance|p1a: Ditto
+|-boost|p1a: Ditto|atk|2
+|move|p2a: Clefable|Thunder Wave|p1a: Ditto
+|-status|p1a: Ditto|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Clefable|27/100|[from] Sandstorm
+|-heal|p2a: Clefable|33/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641804438
+|move|p1a: Ditto|Sacred Sword|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|19/100
+|move|p2a: Clefable|Moonblast|p1a: Ditto
+|-resisted|p1a: Ditto
+|-damage|p1a: Ditto|48/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Clefable|13/100|[from] Sandstorm
+|-heal|p2a: Clefable|19/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|-activate|p1a: Ditto|item: Quick Claw
+|
+|t:|1641804448
+|move|p1a: Ditto|Leaf Blade|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-ability|p1a: Ditto|Beast Boost|boost
+|-boost|p1a: Ditto|atk|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1641804455
+|switch|p2a: Kartana|Kartana|91/100
+|turn|13
+|
+|t:|1641804457
+|move|p2a: Kartana|Sacred Sword|p1a: Ditto
+|-supereffective|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|-damage|p2a: Kartana|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641804465
+|switch|p1a: Garchomp|Garchomp, F, shiny|100/100
+|turn|14
+|
+|t:|1641804469
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Garchomp|Fire Fang|p2a: Zapdos
+|-damage|p2a: Zapdos|84/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641804475
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|52/100
+|-start|p1a: Garchomp|confusion
+|
+|upkeep
+|turn|16
+|
+|t:|1641804482
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Dragon Claw|p2a: Zapdos
+|-damage|p2a: Zapdos|27/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|77/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1641804489
+|-activate|p1a: Garchomp|confusion
+|-damage|p1a: Garchomp|25/100|[from] confusion
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp|[miss]
+|-miss|p2a: Zapdos|p1a: Garchomp
+|
+|upkeep
+|turn|18
+|
+|t:|1641804494
+|-end|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Dragon Claw|p2a: Zapdos
+|-damage|p2a: Zapdos|17/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|67/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|19
+|
+|t:|1641804502
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|-message|DokuTheGreat forfeited.
+|
+|win|Smart Falcon
+|raw|DokuTheGreat's rating: 1127 &rarr; <strong>1106</strong><br />(-21 for losing)
+|raw|Smart Falcon's rating: 1184 &rarr; <strong>1205</strong><br />(+21 for winning)
+|l|☆DokuTheGreat

@@ -1,0 +1,504 @@
+|j|‽Lolytics1993
+|j|☆hchw90
+|t:|1641827801
+|gametype|singles
+|player|p1|Lolytics1993|1|1409
+|player|p2|hchw90|102|1514
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Scizor, M|
+|poke|p1|Zapdos|
+|poke|p1|Tapu Fini|
+|poke|p1|Garchomp, M|
+|poke|p1|Heatran, M|
+|poke|p2|Chansey, F|
+|poke|p2|Heatran, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragapult, M|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hchw90)
+|
+|t:|1641827817
+|start
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1641827825
+|move|p2a: Rotom|Trick|p1a: Garchomp
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Garchomp
+|-item|p1a: Garchomp|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Leftovers|[from] move: Trick
+|move|p1a: Garchomp|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641827851
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Rotom|Hydro Pump|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|71/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|88/100 tox|[from] Sandstorm
+|-heal|p2a: Rotom|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Rotom|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641827859
+|move|p2a: Rotom|Volt Switch|p1a: Tyranitar
+|-damage|p1a: Tyranitar|61/100
+|
+|t:|1641827863
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tyranitar|atk|1
+|move|p1a: Tyranitar|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|74/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641827879
+|move|p2a: Landorus|Stealth Rock|p1a: Tyranitar
+|-sidestart|p1: Lolytics1993|move: Stealth Rock
+|move|p1a: Tyranitar|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|22/100
+|-damage|p1a: Tyranitar|44/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641827884
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641827902
+|switch|p2a: Chansey|Chansey, F|100/100
+|move|p1a: Garchomp|Stealth Rock|p2a: Chansey
+|-sidestart|p2: hchw90|move: Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1641827912
+|switch|p1a: Scizor|Scizor, M, shiny|100/100
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|move|p2a: Chansey|Seismic Toss|p1a: Scizor
+|-damage|p1a: Scizor|52/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641827917
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Scizor|Superpower|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-unboost|p1a: Scizor|atk|1
+|-unboost|p1a: Scizor|def|1
+|-enditem|p2a: Heatran|Air Balloon
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641827937
+|switch|p2a: Zapdos|Zapdos|100/100
+|-damage|p2a: Zapdos|76/100|[from] Stealth Rock
+|-ability|p2a: Zapdos|Pressure
+|turn|9
+|inactive|Lolytics1993 has 120 seconds left.
+|
+|t:|1641827973
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|51/100
+|
+|-heal|p2a: Zapdos|57/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641827980
+|move|p2a: Zapdos|Toxic|p1a: Zapdos|[miss]
+|-miss|p2a: Zapdos|p1a: Zapdos
+|move|p1a: Zapdos|Defog|p2a: Zapdos
+|-sideend|p2: hchw90|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: Lolytics1993|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-heal|p2a: Zapdos|63/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Lolytics1993 has 120 seconds left.
+|inactive|Lolytics1993 has 90 seconds left.
+|
+|t:|1641828042
+|move|p2a: Zapdos|Thunderbolt|p1a: Zapdos
+|-damage|p1a: Zapdos|50/100
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|j| Andrezinho5
+|
+|t:|1641828045
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|44/100|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|57/100|[from] Sandstorm
+|-heal|p2a: Zapdos|63/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641828059
+|switch|p2a: Rotom|Rotom-Wash|82/100 tox
+|move|p1a: Tyranitar|Stone Edge|p2a: Rotom
+|-damage|p2a: Rotom|13/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|7/100 tox|[from] Sandstorm
+|-heal|p2a: Rotom|13/100 tox|[from] item: Leftovers
+|-damage|p2a: Rotom|7/100 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|Lolytics1993 has 90 seconds left.
+|
+|t:|1641828078
+|switch|p1a: Garchomp|Garchomp, M, shiny|68/100
+|move|p2a: Rotom|Thunderbolt|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|0 fnt|[from] Sandstorm
+|faint|p2a: Rotom
+|upkeep
+|
+|t:|1641828096
+|switch|p2a: Landorus|Landorus-Therian, M|22/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|14
+|
+|t:|1641828099
+|switch|p2a: Chansey|Chansey, F|100/100
+|move|p1a: Garchomp|Toxic|p2a: Chansey
+|-status|p2a: Chansey|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Chansey|94/100 tox|[from] Sandstorm
+|-damage|p2a: Chansey|88/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641828105
+|switch|p1a: Scizor|Scizor, M, shiny|52/100
+|move|p2a: Chansey|Aromatherapy|p2a: Chansey
+|-activate|p2a: Chansey|move: Aromatherapy
+|-curestatus|p2a: Chansey|tox|[msg]
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1641828123
+|move|p1a: Scizor|Knock Off|p2a: Chansey
+|-damage|p2a: Chansey|53/100
+|-enditem|p2a: Chansey|Eviolite|[from] move: Knock Off|[of] p1a: Scizor
+|move|p2a: Chansey|Thunder Wave|p1a: Scizor
+|-status|p1a: Scizor|par
+|
+|upkeep
+|turn|17
+|
+|t:|1641828131
+|switch|p1a: Tapu Fini|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Chansey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|65/100
+|-damage|p2a: Chansey|36/100|[from] item: Rocky Helmet|[of] p1a: Tapu Fini
+|
+|upkeep
+|turn|18
+|l| Andrezinho5
+|inactive|Lolytics1993 has 120 seconds left.
+|
+|t:|1641828143
+|move|p1a: Tapu Fini|Taunt|p2a: Chansey
+|-start|p2a: Chansey|move: Taunt
+|cant|p2a: Chansey|move: Taunt|Soft-Boiled
+|
+|upkeep
+|turn|19
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641828199
+|switch|p2a: Landorus|Landorus-Therian, M|22/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Fini|atk|1
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|20
+|inactive|Lolytics1993 has 120 seconds left.
+|
+|t:|1641828218
+|move|p2a: Landorus|Earthquake|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|28/100
+|move|p1a: Tapu Fini|Surf|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641828221
+|switch|p2a: Zapdos|Zapdos|63/100
+|-ability|p2a: Zapdos|Pressure
+|turn|21
+|
+|t:|1641828242
+|switch|p1a: Garchomp|Garchomp, M, shiny|68/100
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|38/100
+|
+|-heal|p2a: Zapdos|44/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|22
+|inactive|Lolytics1993 has 120 seconds left.
+|
+|t:|1641828272
+|move|p1a: Garchomp|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: hchw90|move: Stealth Rock
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|95/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-heal|p2a: Zapdos|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641828281
+|switch|p1a: Heatran|Heatran, M, shiny|100/100
+|move|p2a: Zapdos|Toxic|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|upkeep
+|turn|24
+|inactive|hchw90 has 120 seconds left.
+|inactive|Lolytics1993 has 120 seconds left.
+|
+|t:|1641828296
+|move|p2a: Zapdos|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|71/100
+|move|p1a: Heatran|Magma Storm|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p1a: Heatran|77/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641828306
+|move|p2a: Zapdos|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|51/100
+|move|p1a: Heatran|Magma Storm|p2a: Zapdos|[miss]
+|-miss|p1a: Heatran|p2a: Zapdos
+|
+|-heal|p1a: Heatran|57/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641828311
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|76/100
+|move|p1a: Heatran|Magma Storm|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p2a: Zapdos|82/100|[from] item: Leftovers
+|-heal|p1a: Heatran|63/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641828315
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|57/100
+|move|p1a: Heatran|Magma Storm|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p2a: Zapdos|63/100|[from] item: Leftovers
+|-heal|p1a: Heatran|69/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641828329
+|move|p2a: Zapdos|Thunderbolt|p1a: Heatran
+|-damage|p1a: Heatran|40/100
+|move|p1a: Heatran|Taunt|p2a: Zapdos
+|-start|p2a: Zapdos|move: Taunt
+|
+|-heal|p2a: Zapdos|69/100|[from] item: Leftovers
+|-heal|p1a: Heatran|46/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641828337
+|switch|p1a: Garchomp|Garchomp, M, shiny|68/100
+|move|p2a: Zapdos|Thunderbolt|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|-heal|p2a: Zapdos|76/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641828350
+|switch|p2a: Chansey|Chansey, F|36/100
+|-damage|p2a: Chansey|24/100|[from] Stealth Rock
+|move|p1a: Garchomp|Toxic|p2a: Chansey
+|-status|p2a: Chansey|tox
+|
+|-damage|p2a: Chansey|18/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641828358
+|move|p1a: Garchomp|Toxic|p2a: Chansey
+|-fail|p2a: Chansey|tox
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|68/100 tox
+|
+|-damage|p2a: Chansey|56/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641828367
+|move|p1a: Garchomp|Toxic|p2a: Chansey
+|-fail|p2a: Chansey|tox
+|move|p2a: Chansey|Seismic Toss|p1a: Garchomp
+|-damage|p1a: Garchomp|43/100
+|-damage|p2a: Chansey|43/100 tox|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-damage|p2a: Chansey|25/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641828370
+|move|p1a: Garchomp|Toxic|p2a: Chansey
+|-fail|p2a: Chansey|tox
+|move|p2a: Chansey|Seismic Toss|p1a: Garchomp
+|-damage|p1a: Garchomp|18/100
+|-damage|p2a: Chansey|13/100 tox|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-damage|p2a: Chansey|0 fnt|[from] psn
+|faint|p2a: Chansey
+|upkeep
+|
+|t:|1641828396
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|34
+|inactive|Lolytics1993 has 120 seconds left.
+|inactive|Lolytics1993 has 90 seconds left.
+|
+|t:|1641828466
+|switch|p1a: Zapdos|Zapdos, shiny|50/100
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641828479
+|move|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|22/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-heal|p2a: Dragapult|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641828482
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|44/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|36
+|
+|t:|1641828485
+|move|p2a: Dragapult|Dragon Darts|p1a: Tyranitar
+|-damage|p1a: Tyranitar|5/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|94/100|[from] Sandstorm
+|-heal|p2a: Dragapult|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641828498
+|switch|p1a: Scizor|Scizor, M, shiny|52/100 par
+|turn|37
+|
+|t:|1641828505
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Scizor|Knock Off|p2a: Dragapult|[miss]
+|-miss|p1a: Scizor|p2a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|94/100|[from] Sandstorm
+|-heal|p2a: Dragapult|99/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641828509
+|move|p2a: Dragapult|Phantom Force|p1a: Scizor|[from]lockedmove
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|94/100|[from] Sandstorm
+|-heal|p2a: Dragapult|99/100|[from] item: Leftovers
+|upkeep
+|-message|Lolytics1993 forfeited.
+|
+|win|hchw90
+|raw|Lolytics1993's rating: 1409 &rarr; <strong>1395</strong><br />(-14 for losing)
+|raw|hchw90's rating: 1514 &rarr; <strong>1528</strong><br />(+14 for winning)

@@ -1,0 +1,207 @@
+|j|☆ElFantasma87
+|j|☆james06
+|t:|1641779292
+|gametype|singles
+|player|p1|ElFantasma87|red|1018
+|player|p2|james06|169|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pikachu, M|
+|poke|p1|Lapras, F|
+|poke|p1|Snorlax, M|
+|poke|p1|Venusaur, M|
+|poke|p1|Blastoise, F|
+|poke|p1|Charizard, M|
+|poke|p2|Gyarados, M|
+|poke|p2|Weavile, M|
+|poke|p2|Zeraora|
+|poke|p2|Chansey, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Volcarona, F|
+|teampreview
+|
+|t:|1641779315
+|start
+|switch|p1a: Blastoise|Blastoise, F, shiny|100/100
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|-ability|p2a: Gyarados|Intimidate|boost
+|-unboost|p1a: Blastoise|atk|1
+|turn|1
+|
+|t:|1641779326
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Blastoise|Flash Cannon|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-damage|p2a: Gyarados|88/100
+|
+|-heal|p2a: Gyarados|94/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641779336
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Blastoise|Dark Pulse|p2a: Gyarados
+|-crit|p2a: Gyarados
+|-damage|p2a: Gyarados|60/100
+|
+|-heal|p2a: Gyarados|66/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641779350
+|move|p2a: Gyarados|Earthquake|p1a: Blastoise
+|-damage|p1a: Blastoise|32/100
+|-enditem|p1a: Blastoise|Sitrus Berry|[eat]
+|-heal|p1a: Blastoise|57/100|[from] item: Sitrus Berry
+|move|p1a: Blastoise|Dark Pulse|p2a: Gyarados
+|-damage|p2a: Gyarados|44/100
+|
+|-heal|p2a: Gyarados|50/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641779366
+|move|p2a: Gyarados|Earthquake|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|-heal|p2a: Gyarados|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641779376
+|switch|p1a: Snorlax|Snorlax, M, shiny|100/100
+|turn|5
+|
+|t:|1641779393
+|move|p2a: Gyarados|Waterfall|p1a: Snorlax
+|-damage|p1a: Snorlax|31/100
+|cant|p1a: Snorlax|flinch
+|
+|-heal|p2a: Gyarados|62/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|37/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641779413
+|move|p2a: Gyarados|Earthquake|p1a: Snorlax
+|-damage|p1a: Snorlax|0 fnt
+|faint|p1a: Snorlax
+|
+|-heal|p2a: Gyarados|68/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641779422
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|turn|7
+|
+|t:|1641779433
+|move|p2a: Gyarados|Ice Fang|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-enditem|p1a: Venusaur|Focus Sash
+|-damage|p1a: Venusaur|1/100
+|move|p1a: Venusaur|Leaf Storm|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|-unboost|p1a: Venusaur|spa|2
+|faint|p2a: Gyarados
+|
+|upkeep
+|
+|t:|1641779447
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|-item|p2a: Excadrill|Air Balloon
+|turn|8
+|
+|t:|1641779475
+|move|p2a: Excadrill|Stealth Rock|p1a: Venusaur
+|-sidestart|p1: ElFantasma87|move: Stealth Rock
+|move|p1a: Venusaur|Leaf Storm|p2a: Excadrill
+|-damage|p2a: Excadrill|43/100
+|-unboost|p1a: Venusaur|spa|2
+|-enditem|p2a: Excadrill|Air Balloon
+|
+|upkeep
+|turn|9
+|
+|t:|1641779494
+|move|p2a: Excadrill|Iron Head|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|upkeep
+|
+|t:|1641779511
+|switch|p1a: Lapras|Lapras, F, shiny|100/100
+|-damage|p1a: Lapras|76/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641779522
+|move|p2a: Excadrill|Earthquake|p1a: Lapras
+|-damage|p1a: Lapras|29/100
+|move|p1a: Lapras|Surf|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-heal|p1a: Lapras|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641779541
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|11
+|
+|t:|1641779553
+|move|p2a: Weavile|Knock Off|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|-enditem|p1a: Lapras|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Lapras
+|
+|upkeep
+|
+|t:|1641779566
+|switch|p1a: Charizard|Charizard, M, shiny|100/100
+|-damage|p1a: Charizard|51/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641779580
+|move|p2a: Weavile|Knock Off|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|-enditem|p1a: Charizard|Focus Sash|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Charizard
+|
+|upkeep
+|
+|t:|1641779586
+|switch|p1a: Pikachu|Pikachu, M, shiny|100/100
+|-damage|p1a: Pikachu|88/100|[from] Stealth Rock
+|turn|13
+|c|☆ElFantasma87|gg
+|c|☆james06|gg
+|
+|t:|1641779596
+|move|p2a: Weavile|Knock Off|p1a: Pikachu
+|-damage|p1a: Pikachu|0 fnt
+|-status|p2a: Weavile|par|[from] ability: Static|[of] p1a: Pikachu
+|-enditem|p1a: Pikachu|Light Ball|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Pikachu
+|
+|win|james06
+|raw|ElFantasma87's rating: 1018 &rarr; <strong>1005</strong><br />(-13 for losing)
+|raw|james06's rating: 1000 &rarr; <strong>1042</strong><br />(+42 for winning)
+|l|☆ElFantasma87

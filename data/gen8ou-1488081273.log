@@ -1,0 +1,274 @@
+|j|☆MimikyuMoon
+|j|☆Jash215
+|t:|1641707986
+|gametype|singles
+|player|p1|MimikyuMoon|lady-gen4|1321
+|player|p2|Jash215|102|1286
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Krookodile, M|
+|poke|p1|Gyarados, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Scizor, F|
+|poke|p1|Celesteela|
+|poke|p2|Kommo-o, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Zapdos|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MimikyuMoon)
+|
+|t:|1641707996
+|start
+|switch|p1a: Krookodile|Krookodile, M|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Dragapult|atk|1
+|turn|1
+|
+|t:|1641708001
+|move|p2a: Dragapult|U-turn|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|70/100
+|
+|t:|1641708005
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Krookodile|atk|1
+|move|p1a: Krookodile|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Jash215|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641708009
+|move|p1a: Krookodile|Taunt|p2a: Landorus
+|-start|p2a: Landorus|move: Taunt
+|cant|p2a: Landorus|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641708011
+|move|p1a: Krookodile|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|77/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Krookodile
+|move|p2a: Landorus|U-turn|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|17/100
+|
+|t:|1641708018
+|switch|p2a: Dragapult|Dragapult, M|100/100|[from]move: U-turn
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641708024
+|move|p2a: Dragapult|U-turn|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|t:|1641708026
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641708032
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|5
+|
+|t:|1641708034
+|move|p2a: Zapdos|Volt Switch|p1a: Scizor
+|-damage|p1a: Scizor|62/100
+|
+|t:|1641708037
+|switch|p2a: Volcarona|Volcarona, M|100/100|[from]move: Volt Switch
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1641708047
+|move|p1a: Scizor|Quick Attack|p2a: Volcarona
+|-damage|p2a: Volcarona|39/100
+|-status|p1a: Scizor|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|-damage|p1a: Scizor|52/100 brn|[from] item: Life Orb
+|move|p2a: Volcarona|Flamethrower|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641708053
+|switch|p1a: Gyarados|Gyarados, F|100/100
+|turn|7
+|
+|t:|1641708063
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Volcarona|Toxic|p1a: Gyarados
+|-status|p1a: Gyarados|tox
+|-enditem|p1a: Gyarados|Lum Berry|[eat]
+|-curestatus|p1a: Gyarados|tox|[msg]
+|
+|upkeep
+|turn|8
+|
+|t:|1641708070
+|move|p1a: Gyarados|Waterfall|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-status|p1a: Gyarados|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|faint|p2a: Volcarona
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|-damage|p1a: Gyarados|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1641708073
+|switch|p2a: Landorus|Landorus-Therian, M|77/100
+|-damage|p2a: Landorus|65/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Gyarados|atk|1
+|turn|9
+|c|☆MimikyuMoon|sigh
+|
+|t:|1641708079
+|move|p1a: Gyarados|Waterfall|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|16/100
+|cant|p2a: Landorus|flinch
+|
+|-damage|p1a: Gyarados|88/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641708091
+|move|p1a: Gyarados|Waterfall|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|-damage|p1a: Gyarados|82/100 brn|[from] brn
+|upkeep
+|
+|t:|1641708095
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|11
+|
+|t:|1641708098
+|move|p1a: Gyarados|Waterfall|p2a: Zapdos
+|-damage|p2a: Zapdos|69/100
+|move|p2a: Zapdos|Volt Switch|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|t:|1641708109
+|switch|p2a: Kommo-o|Kommo-o, F|100/100|[from]move: Volt Switch
+|-damage|p2a: Kommo-o|94/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641708112
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|12
+|
+|t:|1641708117
+|switch|p2a: Zapdos|Zapdos|69/100
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1641708123
+|move|p1a: Moltres|Fiery Wrath|p2a: Zapdos
+|-damage|p2a: Zapdos|30/100
+|move|p2a: Zapdos|Defog|p1a: Moltres
+|-unboost|p1a: Moltres|evasion|1
+|-sideend|p2: Jash215|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|upkeep
+|turn|14
+|
+|t:|1641708127
+|move|p1a: Moltres|Fiery Wrath|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641708131
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|15
+|
+|t:|1641708134
+|move|p1a: Moltres|Fiery Wrath|p2a: Melmetal
+|-damage|p2a: Melmetal|56/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Moltres
+|-damage|p1a: Moltres|55/100
+|-damage|p1a: Moltres|4/100
+|-hitcount|p1a: Moltres|2
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641708144
+|move|p1a: Moltres|Fiery Wrath|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641708147
+|switch|p2a: Dragapult|Dragapult, M|88/100
+|turn|17
+|
+|t:|1641708152
+|move|p1a: Moltres|Fiery Wrath|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641708154
+|switch|p2a: Kommo-o|Kommo-o, F|94/100
+|turn|18
+|
+|t:|1641708159
+|move|p1a: Moltres|Air Slash|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|win|MimikyuMoon
+|raw|MimikyuMoon's rating: 1321 &rarr; <strong>1338</strong><br />(+17 for winning)
+|raw|Jash215's rating: 1267 &rarr; <strong>1246</strong><br />(-21 for losing)
+|c|☆MimikyuMoon|ggs
+|l|☆Jash215

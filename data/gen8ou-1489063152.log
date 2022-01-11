@@ -1,0 +1,213 @@
+|j|☆Ztasoccer
+|j|☆SpicyNewMeta
+|t:|1641852028
+|gametype|singles
+|player|p1|Ztasoccer|shadowtriad|1186
+|player|p2|SpicyNewMeta|wallace|1253
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Buzzwole|
+|poke|p1|Dragapult, M|
+|poke|p1|Kartana|
+|poke|p1|Regieleki|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p2|Scizor, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Slowbro, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Moltres|
+|poke|p2|Hippopotas, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ztasoccer)
+|
+|t:|1641852057
+|start
+|switch|p1a: Regieleki|Regieleki, shiny|100/100
+|switch|p2a: Hippopotas|Hippopotas, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippopotas
+|turn|1
+|
+|t:|1641852066
+|move|p1a: Regieleki|Electric Terrain|p1a: Regieleki
+|-fieldstart|move: Electric Terrain
+|move|p2a: Hippopotas|Stealth Rock|p1a: Regieleki
+|-sidestart|p1: Ztasoccer|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|95/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641852071
+|move|p1a: Regieleki|Extreme Speed|p2a: Hippopotas
+|-damage|p2a: Hippopotas|88/100
+|move|p2a: Hippopotas|Earthquake|p1a: Regieleki
+|-supereffective|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641852084
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|3
+|
+|t:|1641852095
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Ztasoccer|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowbro|94/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641852116
+|move|p1a: Ninetales|Moonblast|p2a: Slowbro
+|-damage|p2a: Slowbro|63/100
+|move|p2a: Slowbro|Calm Mind|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|1
+|-boost|p2a: Slowbro|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowbro|57/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641852128
+|switch|p1a: Kartana|Kartana, shiny|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Kartana|88/100|[from] Hail
+|-damage|p2a: Slowbro|94/100|[from] Hail
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641852137
+|switch|p2a: pinto gigante|Moltres|100/100
+|move|p1a: Kartana|Leaf Blade|p2a: pinto gigante
+|-resisted|p2a: pinto gigante
+|-damage|p2a: pinto gigante|90/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Kartana|82/100|[from] Hail
+|-damage|p2a: pinto gigante|84/100|[from] Hail
+|-heal|p2a: pinto gigante|90/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641852153
+|move|p1a: Kartana|Psycho Cut|p2a: pinto gigante
+|-crit|p2a: pinto gigante
+|-damage|p2a: pinto gigante|55/100
+|move|p2a: pinto gigante|Mystical Fire|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|-weather|none
+|-heal|p2a: pinto gigante|62/100|[from] item: Leftovers
+|-sideend|p1: Ztasoccer|move: Aurora Veil
+|upkeep
+|inactive|Ztasoccer has 120 seconds left.
+|
+|t:|1641852168
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|76/100
+|-damage|p1a: Ninetales|51/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|8
+|
+|t:|1641852176
+|move|p1a: Ninetales|Aqua Tail|p2a: pinto gigante
+|-supereffective|p2a: pinto gigante
+|-damage|p2a: pinto gigante|35/100
+|move|p2a: pinto gigante|Mystical Fire|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: pinto gigante|29/100|[from] Hail
+|-heal|p2a: pinto gigante|35/100|[from] item: Leftovers
+|upkeep
+|inactive|Ztasoccer has 120 seconds left.
+|
+|t:|1641852194
+|switch|p1a: Dragapult|Dragapult, M, shiny|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641852199
+|move|p1a: Dragapult|Dragon Darts|p2a: pinto gigante
+|-damage|p2a: pinto gigante|16/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: pinto gigante
+|-damage|p2a: pinto gigante|0 fnt
+|faint|p2a: pinto gigante
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Dragapult|82/100|[from] Hail
+|upkeep
+|j| digi jay00
+|c|☆SpicyNewMeta|sexo
+|c| digi jay00|eita mano sexo
+|
+|t:|1641852220
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|turn|10
+|c| digi jay00|aqua tail,genial
+|
+|t:|1641852225
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Slowbro|Curse|p2a: Slowbro
+|-unboost|p2a: Slowbro|spe|1
+|-boost|p2a: Slowbro|atk|1
+|-boost|p2a: Slowbro|def|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Dragapult|76/100|[from] Hail
+|-damage|p2a: Slowbro|94/100|[from] Hail
+|upkeep
+|turn|11
+|
+|t:|1641852239
+|move|p1a: Dragapult|Phantom Force|p2a: Slowbro|[from]lockedmove
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|55/100
+|-damage|p1a: Dragapult|60/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Dragapult|54/100|[from] Hail
+|-damage|p2a: Slowbro|94/100|[from] Hail
+|upkeep
+|turn|12
+|c| digi jay00|eita o pinto caiu
+|c| digi jay00|ficou broxa
+|-message|Ztasoccer forfeited.
+|
+|win|SpicyNewMeta
+|raw|Ztasoccer's rating: 1186 &rarr; <strong>1166</strong><br />(-20 for losing)
+|raw|SpicyNewMeta's rating: 1253 &rarr; <strong>1273</strong><br />(+20 for winning)
+|l|☆Ztasoccer
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

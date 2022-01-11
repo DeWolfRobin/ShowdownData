@@ -1,0 +1,534 @@
+|j|☆rock thunder bird
+|j|☆DizzyDreamz
+|t:|1641817385
+|gametype|singles
+|player|p1|rock thunder bird|giovanni|1161
+|player|p2|DizzyDreamz|hilbert|1179
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Latios, M|
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Heatran, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Zeraora|
+|poke|p2|Glastrier|
+|poke|p2|Stakataka|
+|poke|p2|Hatterene, F|
+|poke|p2|Porygon2|
+|poke|p2|Marowak-Alola, M|
+|poke|p2|Melmetal|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DizzyDreamz)
+|
+|t:|1641817403
+|start
+|switch|p1a: Heatran|Heatran, M, shiny|100/100
+|switch|p2a: Porygon2|Porygon2, shiny|100/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|1
+|c|☆DizzyDreamz|gl
+|
+|t:|1641817416
+|move|p1a: Heatran|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|63/100
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|2
+|
+|t:|1641817420
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|100/100
+|move|p1a: Heatran|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|67/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641817433
+|switch|p2a: Stakataka|Stakataka, shiny|100/100
+|-item|p2a: Stakataka|Air Balloon
+|move|p1a: Heatran|Flamethrower|p2a: Stakataka
+|-damage|p2a: Stakataka|21/100
+|-enditem|p2a: Stakataka|Air Balloon
+|
+|upkeep
+|turn|4
+|
+|t:|1641817447
+|switch|p1a: Thundurus|Thundurus-Therian, M, shiny|100/100
+|move|p2a: Stakataka|Earthquake|p1a: Thundurus
+|-immune|p1a: Thundurus
+|
+|upkeep
+|turn|5
+|
+|t:|1641817457
+|move|p2a: Stakataka|Stone Edge|p1a: Thundurus
+|-supereffective|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|-ability|p2a: Stakataka|Beast Boost|boost
+|-boost|p2a: Stakataka|atk|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641817465
+|switch|p1a: Heatran|Heatran, M, shiny|100/100
+|turn|6
+|
+|t:|1641817468
+|move|p1a: Heatran|Earth Power|p2a: Stakataka
+|-supereffective|p2a: Stakataka
+|-damage|p2a: Stakataka|0 fnt
+|faint|p2a: Stakataka
+|
+|upkeep
+|
+|t:|1641817471
+|switch|p2a: Porygon2|Porygon2, shiny|67/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|7
+|
+|t:|1641817480
+|move|p1a: Heatran|Earth Power|p2a: Porygon2
+|-damage|p2a: Porygon2|44/100
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|8
+|
+|t:|1641817483
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|94/100
+|move|p1a: Heatran|Earth Power|p2a: Porygon2
+|-damage|p2a: Porygon2|68/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641817494
+|switch|p2a: Marowak|Marowak-Alola, M, shiny|100/100
+|move|p1a: Heatran|Earth Power|p2a: Marowak
+|-supereffective|p2a: Marowak
+|-damage|p2a: Marowak|0 fnt
+|faint|p2a: Marowak
+|
+|upkeep
+|
+|t:|1641817502
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|turn|10
+|inactive|rock thunder bird has 120 seconds left.
+|
+|t:|1641817540
+|switch|p1a: Zeraora|Zeraora, shiny|100/100
+|move|p2a: Melmetal|Thunder Punch|p1a: Zeraora
+|-immune|p1a: Zeraora|[from] ability: Volt Absorb
+|
+|upkeep
+|turn|11
+|inactive|rock thunder bird has 120 seconds left.
+|
+|t:|1641817562
+|switch|p2a: Hatterene|Hatterene, F, shiny|100/100
+|move|p1a: Zeraora|Quick Attack|p2a: Hatterene
+|-damage|p2a: Hatterene|84/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|12
+|
+|t:|1641817571
+|move|p1a: Zeraora|Quick Attack|p2a: Hatterene
+|-damage|p2a: Hatterene|69/100
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|13
+|
+|t:|1641817575
+|move|p1a: Zeraora|Quick Attack|p2a: Hatterene
+|-damage|p2a: Hatterene|54/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Zeraora
+|-damage|p1a: Zeraora|72/100
+|-heal|p2a: Hatterene|76/100|[from] drain|[of] p1a: Zeraora
+|
+|upkeep
+|turn|14
+|
+|t:|1641817580
+|move|p1a: Zeraora|Quick Attack|p2a: Hatterene
+|-damage|p2a: Hatterene|60/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Zeraora
+|-crit|p1a: Zeraora
+|-damage|p1a: Zeraora|24/100
+|-heal|p2a: Hatterene|96/100|[from] drain|[of] p1a: Zeraora
+|
+|upkeep
+|turn|15
+|
+|t:|1641817589
+|move|p1a: Zeraora|Quick Attack|p2a: Hatterene
+|-damage|p2a: Hatterene|81/100
+|move|p2a: Hatterene|Draining Kiss|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|-heal|p2a: Hatterene|98/100|[from] drain|[of] p1a: Zeraora
+|faint|p1a: Zeraora
+|
+|upkeep
+|
+|t:|1641817595
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|16
+|
+|t:|1641817611
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|move|p1a: Tyranitar|Crunch|p2a: Melmetal
+|-damage|p2a: Melmetal|73/100
+|-unboost|p2a: Melmetal|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|move: Trick Room
+|upkeep
+|turn|17
+|inactive|DizzyDreamz has 120 seconds left.
+|
+|t:|1641817642
+|move|p1a: Tyranitar|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|43/100
+|move|p2a: Melmetal|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641817648
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|turn|18
+|
+|t:|1641817655
+|switch|p2a: Hatterene|Hatterene, F, shiny|98/100
+|move|p1a: Latios|Mystical Fire|p2a: Hatterene
+|-damage|p2a: Hatterene|73/100
+|-unboost|p2a: Hatterene|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Latios|95/100|[from] Sandstorm
+|-damage|p2a: Hatterene|67/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1641817662
+|move|p1a: Latios|Mystical Fire|p2a: Hatterene
+|-damage|p2a: Hatterene|41/100
+|-unboost|p2a: Hatterene|spa|1
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hatterene|35/100|[from] Sandstorm
+|-damage|p1a: Latios|89/100|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1641817666
+|move|p2a: Hatterene|Draining Kiss|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|65/100
+|-heal|p2a: Hatterene|52/100|[from] drain|[of] p1a: Latios
+|move|p1a: Latios|Mystical Fire|p2a: Hatterene
+|-damage|p2a: Hatterene|27/100
+|-unboost|p2a: Hatterene|spa|1
+|
+|-weather|none
+|upkeep
+|turn|21
+|
+|t:|1641817676
+|move|p2a: Hatterene|Draining Kiss|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|47/100
+|-heal|p2a: Hatterene|40/100|[from] drain|[of] p1a: Latios
+|move|p1a: Latios|Psychic|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|10/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641817686
+|move|p2a: Hatterene|Draining Kiss|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|27/100
+|-heal|p2a: Hatterene|24/100|[from] drain|[of] p1a: Latios
+|move|p1a: Latios|Mystical Fire|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1641817696
+|switch|p2a: Melmetal|Melmetal, shiny|43/100
+|turn|23
+|
+|t:|1641817703
+|move|p2a: Melmetal|Ice Punch|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641817707
+|switch|p1a: Dragapult|Dragapult, M, shiny|100/100
+|turn|24
+|
+|t:|1641817712
+|switch|p2a: Porygon2|Porygon2, shiny|68/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|upkeep
+|turn|25
+|
+|t:|1641817716
+|move|p1a: Dragapult|Phantom Force|p2a: Porygon2|[from]lockedmove
+|-immune|p2a: Porygon2
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|26
+|
+|t:|1641817721
+|move|p2a: Porygon2|Ice Beam|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|45/100
+|-status|p1a: Dragapult|frz
+|cant|p1a: Dragapult|frz
+|
+|upkeep
+|turn|27
+|
+|t:|1641817727
+|move|p2a: Porygon2|Ice Beam|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641817729
+|switch|p1a: Heatran|Heatran, M, shiny|100/100
+|turn|28
+|
+|t:|1641817733
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|96/100
+|-status|p1a: Heatran|frz
+|cant|p1a: Heatran|frz
+|
+|upkeep
+|turn|29
+|
+|t:|1641817739
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|92/100 frz
+|cant|p1a: Heatran|frz
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|30
+|
+|t:|1641817742
+|cant|p1a: Heatran|frz
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|31
+|
+|t:|1641817745
+|switch|p2a: Glastrier|Glastrier|100/100
+|-curestatus|p1a: Heatran|frz|[msg]
+|move|p1a: Heatran|Flamethrower|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|
+|upkeep
+|
+|t:|1641817748
+|switch|p2a: Melmetal|Melmetal, shiny|43/100
+|turn|32
+|
+|t:|1641817752
+|move|p2a: Melmetal|Thunder Punch|p1a: Heatran
+|-damage|p1a: Heatran|42/100
+|-status|p2a: Melmetal|brn|[from] ability: Flame Body|[of] p1a: Heatran
+|move|p1a: Heatran|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641817755
+|switch|p2a: Porygon2|Porygon2, shiny|68/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|turn|33
+|
+|t:|1641817759
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|38/100
+|-status|p1a: Heatran|frz
+|cant|p1a: Heatran|frz
+|
+|upkeep
+|turn|34
+|
+|t:|1641817763
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|33/100 frz
+|cant|p1a: Heatran|frz
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|35
+|
+|t:|1641817766
+|cant|p1a: Heatran|frz
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|36
+|
+|t:|1641817769
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|29/100 frz
+|cant|p1a: Heatran|frz
+|
+|upkeep
+|turn|37
+|
+|t:|1641817771
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|21/100 frz
+|cant|p1a: Heatran|frz
+|
+|upkeep
+|turn|38
+|
+|t:|1641817774
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|17/100 frz
+|cant|p1a: Heatran|frz
+|
+|upkeep
+|turn|39
+|
+|t:|1641817777
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|12/100 frz
+|cant|p1a: Heatran|frz
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|40
+|
+|t:|1641817780
+|-curestatus|p1a: Heatran|frz|[msg]
+|move|p1a: Heatran|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|34/100
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|84/100
+|
+|upkeep
+|turn|41
+|
+|t:|1641817783
+|move|p1a: Heatran|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|52/100
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|42
+|
+|t:|1641817786
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|7/100
+|move|p1a: Heatran|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|17/100
+|
+|upkeep
+|turn|43
+|
+|t:|1641817793
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|67/100
+|move|p1a: Heatran|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|33/100
+|
+|upkeep
+|turn|44
+|
+|t:|1641817799
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|83/100
+|move|p1a: Heatran|Flamethrower|p2a: Porygon2
+|-crit|p2a: Porygon2
+|-damage|p2a: Porygon2|30/100
+|
+|upkeep
+|turn|45
+|
+|t:|1641817801
+|move|p2a: Porygon2|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|3/100
+|move|p1a: Heatran|Flamethrower|p2a: Porygon2
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|
+|win|rock thunder bird
+|raw|rock thunder bird's rating: 1161 &rarr; <strong>1187</strong><br />(+26 for winning)
+|raw|DizzyDreamz's rating: 1179 &rarr; <strong>1153</strong><br />(-26 for losing)

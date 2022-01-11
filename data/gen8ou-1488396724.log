@@ -1,0 +1,172 @@
+|j|☆86thesweetpotato
+|j|☆Funn1Game
+|t:|1641760183
+|gametype|singles
+|player|p1|86thesweetpotato|169|1293
+|player|p2|Funn1Game|169|1287
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Reuniclus, M|
+|poke|p1|Bronzong|
+|poke|p1|Comfey, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Runerigus, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Tapu Koko|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Funn1Game)
+|
+|t:|1641760202
+|start
+|switch|p1a: Toxaflex|Toxapex, M, shiny|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|turn|1
+|
+|t:|1641760210
+|move|p2a: Tornadus|Taunt|p1a: Toxaflex
+|-start|p1a: Toxaflex|move: Taunt
+|move|p1a: Toxaflex|Gunk Shot|p2a: Tornadus|[miss]
+|-miss|p1a: Toxaflex|p2a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1641760217
+|move|p2a: Tornadus|U-turn|p1a: Toxaflex
+|-resisted|p1a: Toxaflex
+|-damage|p1a: Toxaflex|94/100
+|
+|t:|1641760219
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|move|p1a: Toxaflex|Gunk Shot|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|upkeep
+|turn|3
+|
+|t:|1641760229
+|switch|p1a: Plasma|Reuniclus, M, shiny|100/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|55/100
+|-enditem|p1a: Plasma|Weakness Policy
+|-boost|p1a: Plasma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Plasma|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|4
+|
+|t:|1641760249
+|move|p1a: Plasma|Recover|p1a: Plasma
+|-heal|p1a: Plasma|100/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Plasma
+|-damage|p1a: Plasma|88/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641760257
+|move|p1a: Plasma|Calm Mind|p1a: Plasma
+|-boost|p1a: Plasma|spa|1
+|-boost|p1a: Plasma|spd|1
+|move|p2a: Ferrothorn|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|58/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641760261
+|move|p1a: Plasma|Acid Armor|p1a: Plasma
+|-boost|p1a: Plasma|def|2
+|move|p2a: Ferrothorn|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|42/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641760271
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p1a: Plasma|Recover|p1a: Plasma
+|-heal|p1a: Plasma|92/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641760274
+|move|p2a: Tornadus|Taunt|p1a: Plasma
+|-start|p1a: Plasma|move: Taunt
+|move|p1a: Plasma|Stored Power|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1641760285
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|9
+|
+|t:|1641760292
+|move|p2a: Pelipper|Hurricane|p1a: Plasma
+|-crit|p1a: Plasma
+|-damage|p1a: Plasma|49/100
+|move|p1a: Plasma|Stored Power|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641760299
+|switch|p2a: Barraskewda|Barraskewda, M, shiny|100/100
+|turn|10
+|
+|t:|1641760301
+|move|p2a: Barraskewda|Liquidation|p1a: Plasma
+|-damage|p1a: Plasma|7/100
+|move|p1a: Plasma|Stored Power|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-end|p1a: Plasma|move: Taunt
+|upkeep
+|
+|t:|1641760306
+|switch|p2a: Tapu Koko|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|11
+|
+|t:|1641760310
+|switch|p1a: the GOOD China|Runerigus, M|100/100
+|move|p2a: Tapu Koko|Thunder|p1a: the GOOD China
+|-immune|p1a: the GOOD China
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|-message|Funn1Game forfeited.
+|
+|win|86thesweetpotato
+|raw|86thesweetpotato's rating: 1293 &rarr; <strong>1318</strong><br />(+25 for winning)
+|raw|Funn1Game's rating: 1287 &rarr; <strong>1262</strong><br />(-25 for losing)
+|l|☆Funn1Game
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

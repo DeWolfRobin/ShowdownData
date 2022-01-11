@@ -1,0 +1,426 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC KFC嫩牛五方
+|j|☆SL21CC Leviathan
+|t:|1641822184
+|gametype|singles
+|player|p1|SL21CC KFC嫩牛五方|baker|1401
+|player|p2|SL21CC Leviathan|guitarist|1206
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Blissey, F|
+|poke|p1|Urshifu-*, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Clefable, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Zapdos|
+|poke|p2|Dragapult, F|
+|poke|p2|Excadrill, F|
+|teampreview
+|j| adreamew
+|j| SL21CC 91舒先生
+|c|☆SL21CC Leviathan|hf
+|j| jiokopg_fkok43
+|c|☆SL21CC KFC嫩牛五方|u2
+|
+|t:|1641822193
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|turn|1
+|j| s121cc 华莱士
+|
+|t:|1641822196
+|move|p1a: Landorus|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|20/100
+|move|p2a: Clefable|Trick|p1a: Landorus
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Landorus
+|-item|p1a: Landorus|Sticky Barb|[from] move: Trick
+|-item|p2a: Clefable|Soft Sand|[from] move: Trick
+|
+|-damage|p1a: Landorus|88/100|[from] item: Sticky Barb
+|upkeep
+|turn|2
+|j| wandebucuo玩得不错
+|
+|t:|1641822208
+|move|p1a: Landorus|Stone Edge|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-damage|p1a: Landorus|76/100|[from] item: Sticky Barb
+|upkeep
+|
+|t:|1641822214
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|turn|3
+|
+|t:|1641822218
+|move|p1a: Landorus|Stealth Rock|p2a: Slowbro
+|-sidestart|p2: SL21CC Leviathan|move: Stealth Rock
+|move|p2a: Slowbro|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641822225
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|4
+|
+|t:|1641822236
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Dragapult|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|59/100
+|
+|t:|1641822239
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641822244
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Urshifu|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|87/100
+|j| sl21cc ryekie
+|
+|t:|1641822247
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|95/100|[from] Sandstorm
+|-damage|p2a: Zapdos|81/100|[from] Sandstorm
+|upkeep
+|turn|6
+|n|@chickwayne|sl21cc91
+|
+|t:|1641822255
+|move|p1a: Dragapult|Shadow Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|30/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|80/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|89/100|[from] Sandstorm
+|-damage|p2a: Zapdos|74/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641822268
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|move|p1a: Dragapult|Shadow Ball|p2a: Excadrill
+|-damage|p2a: Excadrill|28/100
+|-unboost|p2a: Excadrill|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|83/100|[from] Sandstorm
+|-heal|p2a: Excadrill|34/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641822274
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Excadrill|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|58/100
+|
+|-weather|none
+|-heal|p2a: Excadrill|40/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|64/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641822290
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Leech Seed|p2a: Slowbro
+|-start|p2a: Slowbro|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|70/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|76/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|84/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641822296
+|move|p1a: Ferrothorn|Spikes|p2a: Slowbro
+|-sidestart|p2: SL21CC Leviathan|Spikes
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641822297
+|switch|p2a: Zapdos|Zapdos|74/100|[from]move: Teleport
+|
+|-heal|p1a: Ferrothorn|90/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641822301
+|switch|p1a: Bisharp|Bisharp, M, shiny|100/100
+|move|p2a: Zapdos|Defog|p1a: Bisharp
+|-unboost|p1a: Bisharp|evasion|1
+|-ability|p1a: Bisharp|Defiant
+|-boost|p1a: Bisharp|atk|2
+|-sideend|p2: SL21CC Leviathan|Spikes|[from] move: Defog|[of] p2a: Zapdos
+|-sideend|p2: SL21CC Leviathan|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|upkeep
+|turn|12
+|
+|t:|1641822314
+|move|p1a: Bisharp|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641822319
+|switch|p2a: Excadrill|Excadrill, F|40/100
+|turn|13
+|
+|t:|1641822324
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: Excadrill|Substitute|p2a: Excadrill
+|-start|p2a: Excadrill|Substitute
+|-damage|p2a: Excadrill|15/100
+|
+|-heal|p2a: Excadrill|21/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641822329
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|94/100
+|move|p2a: Excadrill|Earthquake|p1a: Urshifu
+|-damage|p1a: Urshifu|30/100
+|
+|-heal|p2a: Excadrill|27/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|j| SL21CC tangkeke
+|
+|t:|1641822337
+|move|p1a: Urshifu|U-turn|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-end|p2a: Excadrill|Substitute
+|
+|t:|1641822340
+|switch|p1a: Ferrothorn|Ferrothorn, M|90/100|[from]move: U-turn
+|move|p2a: Excadrill|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|58/100
+|
+|-heal|p2a: Excadrill|33/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|64/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|j|♚Master Origami♕
+|
+|t:|1641822353
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Ferrothorn|Body Press|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|-heal|p1a: Ferrothorn|70/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|j| sl21cckhl
+|
+|t:|1641822368
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Dragapult|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|85/100
+|
+|t:|1641822371
+|switch|p2a: Tyranitar|Tyranitar, F|59/100|[from]move: U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|79/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1641822382
+|switch|p1a: Bisharp|Bisharp, M, shiny|100/100
+|move|p2a: Tyranitar|Superpower|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|-unboost|p2a: Tyranitar|atk|1
+|-unboost|p2a: Tyranitar|def|1
+|faint|p1a: Bisharp
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641822387
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|30/100
+|turn|19
+|
+|t:|1641822391
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Urshifu|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|59/100
+|-damage|p1a: Urshifu|14/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|t:|1641822394
+|switch|p1a: Dragapult|Dragapult, M|83/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|77/100|[from] Sandstorm
+|-damage|p2a: Slowbro|53/100|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1641822405
+|switch|p2a: Excadrill|Excadrill, F|33/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|71/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641822410
+|switch|p2a: Tyranitar|Tyranitar, F|59/100
+|turn|21
+|
+|t:|1641822416
+|switch|p1a: Ferrothorn|Ferrothorn, M|70/100
+|move|p2a: Tyranitar|Crunch|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|28/100
+|-damage|p2a: Tyranitar|47/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|34/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641822426
+|move|p2a: Tyranitar|Crunch|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Tyranitar|34/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641822428
+|switch|p1a: Dragapult|Dragapult, M|71/100
+|turn|23
+|
+|t:|1641822442
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641822447
+|switch|p2a: Tyranitar|Tyranitar, F|34/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|24
+|
+|t:|1641822465
+|move|p1a: Dragapult|Draco Meteor|p2a: Tyranitar
+|-damage|p2a: Tyranitar|10/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Tyranitar|Crunch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641822477
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|14/100
+|turn|25
+|
+|t:|1641822485
+|switch|p2a: Slowbro|Slowbro, F|86/100
+|move|p1a: Urshifu|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|46/100
+|-damage|p1a: Urshifu|0 fnt|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|faint|p1a: Urshifu
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowbro|40/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641822487
+|switch|p1a: Blissey|Blissey, F|79/100
+|turn|26
+|c|☆SL21CC Leviathan|你为什么多龙不走啊
+|c|☆SL21CC KFC嫩牛五方|瞎读
+|
+|t:|1641822497
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|90/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|94/100|[from] Sandstorm
+|-damage|p2a: Slowbro|84/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1641822500
+|move|p1a: Blissey|Toxic|p2a: Slowbro
+|-status|p2a: Slowbro|tox
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641822501
+|switch|p2a: Tyranitar|Tyranitar, F|10/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|88/100|[from] Sandstorm
+|upkeep
+|turn|28
+|
+|t:|1641822505
+|move|p2a: Tyranitar|Superpower|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|-unboost|p2a: Tyranitar|atk|1
+|-unboost|p2a: Tyranitar|def|1
+|faint|p1a: Blissey
+|
+|win|SL21CC Leviathan
+|raw|SL21CC KFC嫩牛五方's rating: 1401 &rarr; <strong>1371</strong><br />(-30 for losing)
+|raw|SL21CC Leviathan's rating: 1206 &rarr; <strong>1231</strong><br />(+25 for winning)
+|l|☆SL21CC KFC嫩牛五方
+|l|♚Master Origami♕
+|c|☆SL21CC Leviathan|...
+|l|☆SL21CC Leviathan

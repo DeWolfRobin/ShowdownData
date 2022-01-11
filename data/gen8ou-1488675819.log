@@ -1,0 +1,206 @@
+|j|☆86thesweetpotato
+|j|☆unaihiru33
+|t:|1641800811
+|gametype|singles
+|player|p1|86thesweetpotato|169|1193
+|player|p2|unaihiru33|266|1131
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Reuniclus, M|
+|poke|p1|Bronzong|
+|poke|p1|Comfey, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Runerigus, M|
+|poke|p2|Blissey, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zeraora|
+|poke|p2|Toxapex, F|
+|poke|p2|Kartana|
+|teampreview
+|
+|t:|1641800825
+|start
+|switch|p1a: the GOOD China|Runerigus, M|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|1
+|
+|t:|1641800832
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: the GOOD China|Trick Room|p1a: the GOOD China
+|-fieldstart|move: Trick Room|[of] p1a: the GOOD China
+|
+|upkeep
+|turn|2
+|
+|t:|1641800836
+|move|p1a: the GOOD China|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|move|p2a: Toxapex|Hydro Pump|p1a: the GOOD China
+|-supereffective|p1a: the GOOD China
+|-crit|p1a: the GOOD China
+|-damage|p1a: the GOOD China|4/100
+|-enditem|p1a: the GOOD China|Weakness Policy
+|-boost|p1a: the GOOD China|atk|2|[from] item: Weakness Policy
+|-boost|p1a: the GOOD China|spa|2|[from] item: Weakness Policy
+|
+|-heal|p2a: Toxapex|54/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641800846
+|move|p1a: the GOOD China|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641800852
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|4
+|
+|t:|1641800856
+|move|p2a: Ferrothorn|Gyro Ball|p1a: the GOOD China
+|-damage|p1a: the GOOD China|0 fnt
+|-activate|p1a: the GOOD China|ability: Wandering Spirit|Iron Barbs|Wandering Spirit|[of] p2a: Ferrothorn
+|faint|p1a: the GOOD China
+|
+|upkeep
+|
+|t:|1641800876
+|switch|p1a: Plasma|Reuniclus, M, shiny|100/100
+|turn|5
+|
+|t:|1641800880
+|move|p2a: Ferrothorn|Toxic|p1a: Plasma
+|-status|p1a: Plasma|tox
+|move|p1a: Plasma|Calm Mind|p1a: Plasma
+|-boost|p1a: Plasma|spa|1
+|-boost|p1a: Plasma|spd|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641800883
+|move|p1a: Plasma|Calm Mind|p1a: Plasma
+|-boost|p1a: Plasma|spa|1
+|-boost|p1a: Plasma|spd|1
+|move|p2a: Ferrothorn|Leech Seed|p1a: Plasma
+|-start|p1a: Plasma|move: Leech Seed
+|
+|upkeep
+|turn|7
+|
+|t:|1641800887
+|move|p1a: Plasma|Acid Armor|p1a: Plasma
+|-boost|p1a: Plasma|def|2
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Plasma
+|-damage|p1a: Plasma|96/100 tox
+|
+|upkeep
+|turn|8
+|
+|t:|1641800897
+|move|p1a: Plasma|Calm Mind|p1a: Plasma
+|-boost|p1a: Plasma|spa|1
+|-boost|p1a: Plasma|spd|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Plasma
+|-damage|p1a: Plasma|91/100 tox
+|
+|upkeep
+|turn|9
+|
+|t:|1641800908
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Plasma|Acid Armor|p1a: Plasma
+|-boost|p1a: Plasma|def|2
+|
+|upkeep
+|turn|10
+|
+|t:|1641800911
+|move|p1a: Plasma|Stored Power|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|21/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Plasma
+|-damage|p1a: Plasma|88/100 tox
+|
+|-heal|p2a: Ferrothorn|27/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641800915
+|move|p1a: Plasma|Calm Mind|p1a: Plasma
+|-boost|p1a: Plasma|spa|1
+|-boost|p1a: Plasma|spd|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Plasma
+|-damage|p1a: Plasma|84/100 tox
+|
+|-heal|p2a: Ferrothorn|33/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641800920
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Plasma|Acid Armor|p1a: Plasma
+|-boost|p1a: Plasma|def|2
+|
+|-heal|p2a: Ferrothorn|39/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641800924
+|move|p1a: Plasma|Stored Power|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641800936
+|switch|p2a: Kartana|Kartana, shiny|100/100
+|turn|14
+|l|☆unaihiru33
+|player|p2|
+|
+|t:|1641800941
+|move|p2a: Kartana|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|68/100 tox
+|-enditem|p1a: Plasma|Weakness Policy
+|-boost|p1a: Plasma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Plasma|spa|2|[from] item: Weakness Policy
+|move|p1a: Plasma|Recover|p1a: Plasma
+|-heal|p1a: Plasma|100/100 tox
+|
+|upkeep
+|turn|15
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 86thesweetpotato)
+|inactive|unaihiru33 has 30 seconds to reconnect!
+|inactive|unaihiru33 has 20 seconds to reconnect!
+|inactive|unaihiru33 has 15 seconds to reconnect!
+|inactive|unaihiru33 has 10 seconds to reconnect!
+|inactive|unaihiru33 has 5 seconds to reconnect!
+|-message|unaihiru33 lost due to inactivity.
+|
+|win|86thesweetpotato
+|raw|86thesweetpotato's rating: 1193 &rarr; <strong>1214</strong><br />(+21 for winning)
+|raw|unaihiru33's rating: 1131 &rarr; <strong>1110</strong><br />(-21 for losing)

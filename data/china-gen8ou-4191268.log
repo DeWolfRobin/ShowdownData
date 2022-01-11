@@ -1,0 +1,602 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC姐ISthequeen
+|j|☆sl21cc vogut
+|t:|1641815359
+|gametype|singles
+|player|p1|SL21CC姐ISthequeen|cynthia|1283
+|player|p2|sl21cc vogut|psychic-gen4|1297
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Registeel|
+|poke|p1|Clefable, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Polteageist|
+|poke|p2|Latios, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Gengar, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Cloyster, M|
+|teampreview
+|j| suicidu
+|j| SL21CC tangkeke
+|j| SL22CC 蜜雪冰城
+|j|+dragonitenb
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC姐ISthequeen)
+|
+|t:|1641815378
+|start
+|switch|p1a: separation fans|Tyranitar, M|100/100
+|switch|p2a: Gengar|Gengar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: separation fans
+|turn|1
+|j| Water gh0st
+|
+|t:|1641815386
+|switch|p1a: separation女王|Toxapex, M|100/100
+|move|p2a: Gengar|Destiny Bond|p2a: Gengar
+|-singlemove|p2a: Gengar|Destiny Bond
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gengar|94/100|[from] Sandstorm
+|-damage|p1a: separation女王|95/100|[from] Sandstorm
+|upkeep
+|turn|2
+|l| SL22CC 蜜雪冰城
+|
+|t:|1641815395
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: separation女王|atk|1
+|move|p1a: separation女王|Toxic Spikes|p2a: Landorus
+|-sidestart|p2: sl21cc vogut|move: Toxic Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: separation女王|89/100|[from] Sandstorm
+|upkeep
+|turn|3
+|j| SL21CCxiaomiaomiao
+|
+|t:|1641815403
+|switch|p1a: separation的护卫|Landorus-Therian, M|100/100
+|-ability|p1a: separation的护卫|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: separation的护卫
+|-immune|p1a: separation的护卫
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641815407
+|switch|p2a: Gengar|Gengar, M|94/100
+|-sideend|p2: sl21cc vogut|move: Toxic Spikes|[of] p2a: Gengar
+|move|p1a: separation的护卫|Toxic|p2a: Gengar
+|-immune|p2a: Gengar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gengar|88/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641815416
+|switch|p1a: separation fans|Tyranitar, M|100/100
+|move|p2a: Gengar|Trick|p1a: separation fans
+|-activate|p2a: Gengar|move: Trick|[of] p1a: separation fans
+|-item|p1a: separation fans|Choice Scarf|[from] move: Trick
+|-item|p2a: Gengar|Leftovers|[from] move: Trick
+|
+|-weather|none
+|-heal|p2a: Gengar|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641815422
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: separation fans|atk|1
+|move|p1a: separation fans|Stealth Rock|p2a: Landorus
+|-sidestart|p2: sl21cc vogut|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1641815429
+|switch|p1a: wandebucuo|Tornadus-Therian, M|100/100
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1641815432
+|move|p1a: wandebucuo|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|93/100
+|
+|t:|1641815434
+|switch|p1a: separation的护卫|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p1a: separation的护卫|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Stone Edge|p1a: separation的护卫
+|-damage|p1a: separation的护卫|48/100
+|
+|-heal|p2a: Landorus|99/100|[from] item: Leftovers
+|-heal|p1a: separation的护卫|54/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641815440
+|move|p2a: Landorus|Stone Edge|p1a: separation的护卫|[miss]
+|-miss|p2a: Landorus|p1a: separation的护卫
+|move|p1a: separation的护卫|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-heal|p2a: Landorus|100/100 tox|[from] item: Leftovers
+|-heal|p1a: separation的护卫|60/100|[from] item: Leftovers
+|-damage|p2a: Landorus|95/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641815447
+|move|p2a: Landorus|Rock Polish|p2a: Landorus
+|-boost|p2a: Landorus|spe|2
+|move|p1a: separation的护卫|Rest|p1a: separation的护卫
+|-status|p1a: separation的护卫|slp|[from] move: Rest
+|-heal|p1a: separation的护卫|100/100 slp|[silent]
+|
+|-heal|p2a: Landorus|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|89/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641815450
+|switch|p1a: wandebucuo|Tornadus-Therian, M|100/100
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|
+|-heal|p2a: Landorus|95/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|77/100 tox|[from] psn
+|upkeep
+|turn|12
+|j| rffydsdhh
+|
+|t:|1641815456
+|switch|p1a: separation的护卫|Landorus-Therian, M|100/100 slp
+|-ability|p1a: separation的护卫|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: separation的护卫
+|-immune|p1a: separation的护卫
+|
+|-heal|p2a: Landorus|83/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|59/100 tox|[from] psn
+|upkeep
+|turn|13
+|l| rffydsdhh
+|
+|t:|1641815461
+|switch|p1a: I am the queen|Registeel, shiny|100/100
+|move|p2a: Landorus|Stone Edge|p1a: I am the queen|[miss]
+|-miss|p2a: Landorus|p1a: I am the queen
+|
+|-heal|p2a: Landorus|65/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|35/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641815466
+|switch|p1a: separation的护卫|Landorus-Therian, M|100/100 slp
+|-ability|p1a: separation的护卫|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Stone Edge|p1a: separation的护卫
+|-damage|p1a: separation的护卫|40/100 slp
+|
+|-heal|p2a: Landorus|41/100 tox|[from] item: Leftovers
+|-heal|p1a: separation的护卫|46/100 slp|[from] item: Leftovers
+|-damage|p2a: Landorus|5/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641815474
+|move|p2a: Landorus|Stone Edge|p1a: separation的护卫
+|-damage|p1a: separation的护卫|0 fnt
+|faint|p1a: separation的护卫
+|
+|-heal|p2a: Landorus|11/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|0 fnt|[from] psn
+|faint|p2a: Landorus
+|upkeep
+|
+|t:|1641815484
+|switch|p2a: Latios|Latios, M|100/100
+|switch|p1a: separation fans|Tyranitar, M|100/100
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: separation fans
+|turn|16
+|
+|t:|1641815488
+|move|p2a: Latios|Reflect|p2a: Latios
+|-sidestart|p2: sl21cc vogut|Reflect
+|move|p1a: separation fans|Rock Blast|p2a: Latios
+|-damage|p2a: Latios|82/100
+|-damage|p2a: Latios|75/100
+|-damage|p2a: Latios|69/100
+|-damage|p2a: Latios|63/100
+|-hitcount|p2a: Latios|4
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Latios|57/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1641815497
+|switch|p1a: Confidence shines|Clefable, F|100/100
+|move|p2a: Latios|Thunder Wave|p1a: Confidence shines
+|-status|p1a: Confidence shines|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Latios|51/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1641815502
+|move|p2a: Latios|Memento|p1a: Confidence shines
+|-unboost|p1a: Confidence shines|atk|2
+|-unboost|p1a: Confidence shines|spa|2
+|faint|p2a: Latios
+|move|p1a: Confidence shines|Moonblast|p2: Latios|[notarget]
+|-fail|p1a: Confidence shines
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641815505
+|switch|p2a: Polteageist|Polteageist|100/100
+|-damage|p2a: Polteageist|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641815508
+|move|p2a: Polteageist|Substitute|p2a: Polteageist
+|-start|p2a: Polteageist|Substitute
+|-damage|p2a: Polteageist|63/100
+|move|p1a: Confidence shines|Trick||[still]
+|-fail|p1a: Confidence shines
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Polteageist|57/100|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1641815513
+|switch|p1a: separation fans|Tyranitar, M|100/100
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|-enditem|p2a: Polteageist|White Herb
+|-clearnegativeboost|p2a: Polteageist|[silent]
+|
+|-weather|none
+|upkeep
+|turn|21
+|
+|t:|1641815522
+|switch|p1a: separation女王|Toxapex, M|100/100
+|move|p2a: Polteageist|Shadow Ball|p1a: separation女王
+|-damage|p1a: separation女王|24/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641815527
+|switch|p1a: separation fans|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: separation fans
+|move|p2a: Polteageist|Shadow Ball|p1a: separation fans
+|-resisted|p1a: separation fans
+|-damage|p1a: separation fans|78/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Polteageist|51/100|[from] Sandstorm
+|upkeep
+|turn|23
+|j| adreamew
+|
+|t:|1641815530
+|move|p2a: Polteageist|Shadow Ball|p1a: separation fans
+|-resisted|p1a: separation fans
+|-damage|p1a: separation fans|56/100
+|move|p1a: separation fans|Rock Blast|p2a: Polteageist
+|-activate|p2a: Polteageist|move: Substitute|[damage]
+|-activate|p2a: Polteageist|move: Substitute|[damage]
+|-crit|p2a: Polteageist
+|-end|p2a: Polteageist|Substitute
+|-hitcount|p2a: Polteageist|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Polteageist|45/100|[from] Sandstorm
+|-sideend|p2: sl21cc vogut|Reflect
+|upkeep
+|turn|24
+|
+|t:|1641815536
+|move|p2a: Polteageist|Shadow Ball|p1a: separation fans
+|-resisted|p1a: separation fans
+|-damage|p1a: separation fans|36/100
+|move|p1a: separation fans|Rock Blast|p2a: Polteageist
+|-damage|p2a: Polteageist|25/100
+|-damage|p2a: Polteageist|5/100
+|-start|p1a: separation fans|Disable|Rock Blast|[from] ability: Cursed Body|[of] p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|-hitcount|p2: Polteageist|3
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641815548
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|turn|25
+|
+|t:|1641815552
+|switch|p1a: Confidence shines|Clefable, F|100/100 par
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcarona|94/100|[from] Sandstorm
+|upkeep
+|turn|26
+|
+|t:|1641815559
+|move|p2a: Volcarona|Fire Blast|p1a: Confidence shines|[miss]
+|-miss|p2a: Volcarona|p1a: Confidence shines
+|move|p1a: Confidence shines|Trick|p2a: Volcarona
+|-activate|p1a: Confidence shines|move: Trick|[of] p2a: Volcarona
+|-item|p2a: Volcarona|Sticky Barb|[from] move: Trick
+|-item|p1a: Confidence shines|Heavy-Duty Boots|[from] move: Trick
+|
+|-weather|none
+|-damage|p2a: Volcarona|82/100|[from] item: Sticky Barb
+|upkeep
+|turn|27
+|
+|t:|1641815572
+|switch|p1a: separation fans|Tyranitar, M|36/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: separation fans
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcarona|76/100|[from] Sandstorm
+|-damage|p2a: Volcarona|64/100|[from] item: Sticky Barb
+|upkeep
+|turn|28
+|
+|t:|1641815581
+|move|p2a: Volcarona|Bug Buzz|p1a: separation fans
+|-supereffective|p1a: separation fans
+|-damage|p1a: separation fans|0 fnt
+|faint|p1a: separation fans
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcarona|58/100|[from] Sandstorm
+|-damage|p2a: Volcarona|46/100|[from] item: Sticky Barb
+|upkeep
+|
+|t:|1641815584
+|switch|p1a: separation女王|Toxapex, M|57/100
+|turn|29
+|
+|t:|1641815587
+|switch|p1a: wandebucuo|Tornadus-Therian, M|100/100
+|move|p2a: Volcarona|Psychic|p1a: wandebucuo
+|-damage|p1a: wandebucuo|38/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcarona|39/100|[from] Sandstorm
+|-damage|p1a: wandebucuo|32/100|[from] Sandstorm
+|-damage|p2a: Volcarona|27/100|[from] item: Sticky Barb
+|upkeep
+|turn|30
+|
+|t:|1641815597
+|switch|p1a: Confidence shines|Clefable, F|100/100 par
+|move|p2a: Volcarona|Psychic|p1a: Confidence shines
+|-damage|p1a: Confidence shines|43/100 par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcarona|21/100|[from] Sandstorm
+|-damage|p2a: Volcarona|9/100|[from] item: Sticky Barb
+|upkeep
+|turn|31
+|
+|t:|1641815603
+|move|p2a: Volcarona|Psychic|p1a: Confidence shines
+|-damage|p1a: Confidence shines|0 fnt
+|faint|p1a: Confidence shines
+|
+|-weather|none
+|-damage|p2a: Volcarona|0 fnt|[from] item: Sticky Barb
+|faint|p2a: Volcarona
+|upkeep
+|
+|t:|1641815618
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|switch|p1a: wandebucuo|Tornadus-Therian, M|65/100
+|turn|32
+|
+|t:|1641815625
+|move|p1a: wandebucuo|U-turn|p2a: Cloyster
+|-damage|p2a: Cloyster|88/100
+|
+|t:|1641815626
+|switch|p1a: I am the queen|Registeel, shiny|100/100|[from]move: U-turn
+|move|p2a: Cloyster|Icicle Spear|p1a: I am the queen
+|-resisted|p1a: I am the queen
+|-crit|p1a: I am the queen
+|-damage|p1a: I am the queen|95/100
+|-resisted|p1a: I am the queen
+|-damage|p1a: I am the queen|91/100
+|-resisted|p1a: I am the queen
+|-damage|p1a: I am the queen|87/100
+|-resisted|p1a: I am the queen
+|-damage|p1a: I am the queen|83/100
+|-resisted|p1a: I am the queen
+|-damage|p1a: I am the queen|80/100
+|-hitcount|p1a: I am the queen|5
+|
+|-heal|p1a: I am the queen|86/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641815629
+|switch|p2a: Gengar|Gengar, M|94/100
+|-damage|p2a: Gengar|82/100|[from] Stealth Rock
+|move|p1a: I am the queen|Body Press|p2a: Gengar
+|-immune|p2a: Gengar
+|
+|-heal|p2a: Gengar|88/100|[from] item: Leftovers
+|-heal|p1a: I am the queen|92/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641815638
+|switch|p1a: separation女王|Toxapex, M|91/100
+|move|p2a: Gengar|Shadow Ball|p1a: separation女王
+|-damage|p1a: separation女王|53/100
+|
+|-heal|p2a: Gengar|94/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641815643
+|move|p2a: Gengar|Shadow Ball|p1a: separation女王
+|-damage|p1a: separation女王|19/100
+|move|p1a: separation女王|Recover|p1a: separation女王
+|-heal|p1a: separation女王|69/100
+|
+|-heal|p2a: Gengar|100/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641815647
+|move|p2a: Gengar|Shadow Ball|p1a: separation女王
+|-damage|p1a: separation女王|33/100
+|move|p1a: separation女王|Recover|p1a: separation女王
+|-heal|p1a: separation女王|83/100
+|
+|upkeep
+|turn|37
+|
+|t:|1641815649
+|move|p2a: Gengar|Shadow Ball|p1a: separation女王
+|-damage|p1a: separation女王|50/100
+|move|p1a: separation女王|Knock Off|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|35/100
+|-start|p1a: separation女王|Disable|Knock Off|[from] ability: Cursed Body|[of] p2a: Gengar
+|-enditem|p2a: Gengar|Leftovers|[from] move: Knock Off|[of] p1a: separation女王
+|
+|upkeep
+|turn|38
+|
+|t:|1641815652
+|switch|p1a: wandebucuo|Tornadus-Therian, M|98/100
+|move|p2a: Gengar|Shadow Ball|p1a: wandebucuo
+|-damage|p1a: wandebucuo|54/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641815654
+|move|p1a: wandebucuo|Knock Off|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|upkeep
+|
+|t:|1641815656
+|switch|p2a: Cloyster|Cloyster, M|88/100
+|turn|40
+|
+|t:|1641815658
+|move|p1a: wandebucuo|Taunt|p2a: Cloyster
+|-start|p2a: Cloyster|move: Taunt
+|cant|p2a: Cloyster|move: Taunt|Shell Smash
+|
+|upkeep
+|turn|41
+|
+|t:|1641815659
+|move|p1a: wandebucuo|Hurricane|p2a: Cloyster|[miss]
+|-miss|p1a: wandebucuo|p2a: Cloyster
+|move|p2a: Cloyster|Icicle Spear|p1a: wandebucuo
+|-supereffective|p1a: wandebucuo
+|-damage|p1a: wandebucuo|32/100
+|-supereffective|p1a: wandebucuo
+|-damage|p1a: wandebucuo|8/100
+|-supereffective|p1a: wandebucuo
+|-damage|p1a: wandebucuo|0 fnt
+|faint|p1a: wandebucuo
+|-hitcount|p1: wandebucuo|3
+|
+|upkeep
+|
+|t:|1641815661
+|switch|p1a: I am the queen|Registeel, shiny|92/100
+|turn|42
+|
+|t:|1641815664
+|move|p2a: Cloyster|Hydro Pump|p1a: I am the queen|[miss]
+|-miss|p2a: Cloyster|p1a: I am the queen
+|move|p1a: I am the queen|Iron Defense|p1a: I am the queen
+|-boost|p1a: I am the queen|def|2
+|
+|-heal|p1a: I am the queen|98/100|[from] item: Leftovers
+|-end|p2a: Cloyster|move: Taunt
+|upkeep
+|turn|43
+|
+|t:|1641815667
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|move|p1a: I am the queen|Body Press|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|win|SL21CC姐ISthequeen
+|raw|SL21CC姐ISthequeen's rating: 1283 &rarr; <strong>1300</strong><br />(+17 for winning)
+|raw|sl21cc vogut's rating: 1297 &rarr; <strong>1281</strong><br />(-16 for losing)
+|l|☆sl21cc vogut
+|l| Water gh0st
+|l|☆SL21CC姐ISthequeen
+|l| suicidu
+|l| SL21CCxiaomiaomiao
+|l| SL21CC tangkeke
+|j| jiokopg_fkok43
+|l| jiokopg_fkok43

@@ -1,0 +1,305 @@
+|j|☆Zoaw
+|j|☆Mimilucha
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641846584
+|gametype|singles
+|player|p1|Zoaw|teammagmagruntf-gen3|
+|player|p2|Mimilucha|tabitha-gen3|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Hydreigon, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Fini|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Melmetal|
+|poke|p2|Dragonite, M|
+|teampreview
+|inactive|Mimilucha also wants the timer to be on.
+|c|☆Mimilucha|hf
+|c|☆Zoaw|hf
+|j| Beka
+|j|%Menacce17
+|j| Jesuisleplusnul
+|c| Beka|MIMILUCHA
+|c| Beka|T BO
+|c|☆Mimilucha|oh le rename
+|j| truc99999
+|c|☆Mimilucha|gégé beka
+|c|%Menacce17|MIMILUCHA
+|c| Beka|ty
+|inactive|Mimilucha has 120 seconds left.
+|c|%Menacce17|ZOAW
+|c|☆Mimilucha|MENACCE17
+|
+|t:|1641846631
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Fini|atk|1
+|turn|1
+|c|☆Zoaw|c:
+|
+|t:|1641846638
+|move|p2a: Tapu Fini|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|91/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Tapu Fini
+|move|p1a: Landorus|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|91/100
+|j|@iron☂water ♫
+|
+|t:|1641846652
+|switch|p1a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|
+|-heal|p2a: Tapu Fini|98/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641846659
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|move|p1a: Magnezone|Steel Beam|p2a: Landorus
+|-damage|p2a: Landorus|3/100
+|-damage|p1a: Magnezone|50/100|[from] mindblown
+|
+|-heal|p2a: Landorus|9/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|c|☆Mimilucha|ça tank ça
+|
+|t:|1641846672
+|switch|p1a: Landorus|Landorus-Therian, M|91/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: Zoaw|move: Stealth Rock
+|
+|-heal|p2a: Landorus|15/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|c|☆Zoaw|Je comprends même pas
+|j| Bhalal
+|c| Beka|iron☂water UwU
+|c|☆Mimilucha|iron☂water
+|c|@iron☂water ♫|UwU
+|
+|t:|1641846702
+|switch|p2a: Tapu Fini|Tapu Fini|98/100
+|move|p1a: Landorus|Stealth Rock|p2a: Tapu Fini
+|-sidestart|p2: Mimilucha|move: Stealth Rock
+|
+|-heal|p2a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641846715
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Landorus
+|-damage|p1a: Landorus|46/100
+|move|p1a: Landorus|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|91/100
+|
+|t:|1641846724
+|switch|p1a: Magnezone|Magnezone|50/100|[from]move: U-turn
+|-damage|p1a: Magnezone|44/100|[from] Stealth Rock
+|
+|-heal|p2a: Tapu Fini|97/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641846733
+|switch|p2a: Magnezone|Magnezone|100/100
+|-damage|p2a: Magnezone|94/100|[from] Stealth Rock
+|move|p1a: Magnezone|Volt Switch|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|55/100
+|
+|t:|1641846744
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: Volt Switch
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|7
+|c|☆Mimilucha|putain ça volt ici
+|
+|t:|1641846750
+|switch|p2a: Tapu Fini|Tapu Fini|97/100
+|-damage|p2a: Tapu Fini|85/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Urshifu|Close Combat|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|57/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|-heal|p2a: Tapu Fini|63/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641846756
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Tapu Fini|Moonblast|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|74/100
+|-unboost|p1a: Corviknight|spa|1
+|
+|-heal|p2a: Tapu Fini|69/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641846766
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Corviknight
+|-damage|p1a: Corviknight|37/100
+|move|p1a: Corviknight|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|63/100
+|
+|t:|1641846772
+|switch|p1a: Magnezone|Magnezone|44/100|[from]move: U-turn
+|-damage|p1a: Magnezone|38/100|[from] Stealth Rock
+|
+|-heal|p2a: Tapu Fini|69/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641846779
+|switch|p2a: Magnezone|Magnezone|55/100
+|-damage|p2a: Magnezone|49/100|[from] Stealth Rock
+|move|p1a: Magnezone|Flash Cannon|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|26/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641846785
+|move|p1a: Magnezone|Flash Cannon|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|3/100
+|move|p2a: Magnezone|Body Press|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641846789
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|94/100
+|-damage|p1a: Urshifu|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641846798
+|move|p1a: Urshifu|Surging Strikes|p2a: Magnezone
+|-crit|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|-hitcount|p2: Magnezone|1
+|
+|upkeep
+|
+|t:|1641846804
+|switch|p2a: Tapu Fini|Tapu Fini|69/100
+|-damage|p2a: Tapu Fini|57/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|13
+|j|#SFG
+|inactive|Zoaw has 120 seconds left.
+|
+|t:|1641846841
+|move|p1a: Urshifu|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|47/100
+|
+|t:|1641846860
+|switch|p1a: Hydreigon|Hydreigon, F|100/100|[from]move: U-turn
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|move|p2a: Tapu Fini|Moonblast|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|-heal|p2a: Tapu Fini|53/100|[from] item: Leftovers
+|upkeep
+|c|☆Zoaw|ça va être compliqué là
+|
+|t:|1641846869
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|14
+|
+|t:|1641846872
+|switch|p2a: Landorus|Landorus-Therian, M|15/100
+|-damage|p2a: Landorus|3/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Lele|atk|1
+|move|p1a: Tapu Lele|Focus Blast|p2a: Landorus|[miss]
+|-miss|p1a: Tapu Lele|p2a: Landorus
+|
+|-heal|p2a: Landorus|9/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|Zoaw has 120 seconds left.
+|
+|t:|1641846881
+|move|p1a: Tapu Lele|Focus Blast|p2a: Landorus|[miss]
+|-miss|p1a: Tapu Lele|p2a: Landorus
+|move|p2a: Landorus|U-turn|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|56/100
+|c|☆Mimilucha|a
+|c|☆Mimilucha|badakor
+|
+|t:|1641846891
+|switch|p2a: Tapu Koko|Tapu Koko|100/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|
+|upkeep
+|turn|16
+|c|☆Zoaw|Oui on peut pas gagner tout le temps malheureusement
+|c|☆Zoaw|gg
+|
+|t:|1641846899
+|move|p1a: Tapu Lele|Focus Blast|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|66/100
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|23/100
+|
+|upkeep
+|turn|17
+|-message|Zoaw forfeited.
+|
+|win|Mimilucha
+|n|☆Zoaw|zoaw
+|n|☆Mimilucha|mimilucha
+|n| Beka|beka
+|n| Menacce17|menacce17
+|n| Jesuisleplusnul|jesuisleplusnul
+|n| truc99999|truc99999
+|n|+iron☂water ♫|ironwater
+|n| Bhalal|bhalal
+|n|+SFG|sfg

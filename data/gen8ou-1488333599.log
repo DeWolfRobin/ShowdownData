@@ -1,0 +1,699 @@
+|j|☆GHumble
+|j|☆GimmickAndTheme
+|t:|1641752387
+|gametype|singles
+|player|p1|GHumble|nate|1247
+|player|p2|GimmickAndTheme|barry|1214
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Melmetal|
+|poke|p1|Rillaboom, M|
+|poke|p1|Mew|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Urshifu-*, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Slowbro, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Garchomp, M|
+|teampreview
+|
+|t:|1641752391
+|start
+|switch|p1a: Small Pink Thing|Mew|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|1
+|c|☆GimmickAndTheme|mew isnt that small
+|c|☆GimmickAndTheme|its tail is really long
+|
+|t:|1641752416
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|move|p1a: Small Pink Thing|Spikes|p2a: Grimmsnarl
+|-sidestart|p2: GimmickAndTheme|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641752421
+|move|p2a: Grimmsnarl|Bulk Up|p2a: Grimmsnarl
+|-boost|p2a: Grimmsnarl|atk|1
+|-boost|p2a: Grimmsnarl|def|1
+|move|p1a: Small Pink Thing|Spikes|p2a: Grimmsnarl
+|-sidestart|p2: GimmickAndTheme|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641752427
+|move|p2a: Grimmsnarl|Bulk Up|p2a: Grimmsnarl
+|-boost|p2a: Grimmsnarl|atk|1
+|-boost|p2a: Grimmsnarl|def|1
+|move|p1a: Small Pink Thing|Spikes|p2a: Grimmsnarl
+|-sidestart|p2: GimmickAndTheme|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1641752449
+|switch|p1a: Kal|Melmetal|100/100
+|move|p2a: Grimmsnarl|Bulk Up|p2a: Grimmsnarl
+|-boost|p2a: Grimmsnarl|atk|1
+|-boost|p2a: Grimmsnarl|def|1
+|
+|upkeep
+|turn|5
+|-activate|p1a: Kal|item: Quick Claw
+|
+|t:|1641752462
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Kal|[miss]
+|-miss|p2a: Grimmsnarl|p1a: Kal
+|move|p1a: Kal|Double Iron Bash|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|59/100
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|21/100
+|-hitcount|p2a: Grimmsnarl|2
+|
+|-heal|p2a: Grimmsnarl|27/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆GimmickAndTheme|pain
+|
+|t:|1641752471
+|move|p2a: Grimmsnarl|Darkest Lariat|p1a: Kal
+|-damage|p1a: Kal|35/100
+|move|p1a: Kal|Double Iron Bash|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|-hitcount|p2: Grimmsnarl|1
+|
+|upkeep
+|
+|t:|1641752480
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|turn|7
+|
+|t:|1641752499
+|move|p2a: Corviknight|Defog|p1a: Kal
+|-unboost|p1a: Kal|evasion|1
+|-sideend|p2: GimmickAndTheme|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Kal|Thunder Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|
+|-heal|p2a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|-activate|p1a: Kal|item: Quick Claw
+|
+|t:|1641752506
+|move|p1a: Kal|Thunder Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|22/100
+|move|p2a: Corviknight|Body Press|p1a: Kal
+|-supereffective|p1a: Kal
+|-damage|p1a: Kal|6/100
+|
+|-heal|p2a: Corviknight|28/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641752515
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|78/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Kal|Thunder Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|59/100
+|
+|-heal|p2a: Corviknight|65/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641752524
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Kal|Thunder Punch|p2a: Corviknight
+|-damage|p2a: Corviknight|81/100
+|
+|-heal|p2a: Corviknight|87/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641752534
+|switch|p1a: Bruiser|Dragonite, M|100/100
+|move|p2a: Corviknight|Body Press|p1a: Bruiser
+|-resisted|p1a: Bruiser
+|-damage|p1a: Bruiser|93/100
+|
+|-heal|p2a: Corviknight|93/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641752541
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Bruiser|Fire Punch|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|91/100
+|-status|p2a: Slowbro|brn
+|-damage|p1a: Bruiser|83/100|[from] item: Life Orb
+|
+|-heal|p2a: Slowbro|97/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|91/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641752557
+|move|p1a: Bruiser|Outrage|p2a: Slowbro
+|-damage|p2a: Slowbro|46/100 brn
+|-damage|p1a: Bruiser|73/100|[from] item: Life Orb
+|move|p2a: Slowbro|Thunder Wave|p1a: Bruiser
+|-status|p1a: Bruiser|par
+|
+|-heal|p2a: Slowbro|53/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|46/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641752566
+|move|p1a: Bruiser|Outrage|p2a: Slowbro|[from]lockedmove
+|-damage|p2a: Slowbro|1/100 brn
+|-damage|p1a: Bruiser|63/100 par|[from] item: Life Orb
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|51/100 brn
+|
+|-heal|p2a: Slowbro|57/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|51/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641752575
+|move|p1a: Bruiser|Outrage|p2a: Slowbro|[from]lockedmove
+|-damage|p2a: Slowbro|2/100 brn
+|-damage|p1a: Bruiser|53/100 par|[from] item: Life Orb
+|-start|p1a: Bruiser|confusion|[fatigue]
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|52/100 brn
+|
+|-heal|p2a: Slowbro|58/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|52/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641752590
+|switch|p1a: Flighty Dog|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100 brn
+|
+|-damage|p2a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641752597
+|move|p1a: Flighty Dog|Thunder Punch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|62/100 brn
+|move|p2a: Slowbro|Thunder Wave|p1a: Flighty Dog
+|-status|p1a: Flighty Dog|par
+|
+|-heal|p2a: Slowbro|69/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|62/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641752606
+|move|p1a: Flighty Dog|Thunder Punch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|31/100 brn
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|81/100 brn
+|
+|-heal|p2a: Slowbro|87/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|81/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641752614
+|move|p1a: Flighty Dog|Thunder Punch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|52/100 brn
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641752622
+|switch|p2a: Rillaboom|Rillaboom, F|100/100|[from]move: Teleport
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|20
+|
+|t:|1641752641
+|switch|p1a: Bruiser|Dragonite, M|53/100 par
+|move|p2a: Rillaboom|Grassy Glide|p1a: Bruiser
+|-resisted|p1a: Bruiser
+|-damage|p1a: Bruiser|35/100 par
+|
+|upkeep
+|turn|21
+|
+|t:|1641752648
+|switch|p2a: Slowbro|Slowbro, F|85/100 brn
+|move|p1a: Bruiser|Fire Punch|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|74/100 brn
+|-damage|p1a: Bruiser|26/100 par|[from] item: Life Orb
+|
+|-heal|p2a: Slowbro|80/100 brn|[from] Grassy Terrain
+|-heal|p2a: Slowbro|86/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|80/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641752660
+|switch|p1a: Kal|Melmetal|6/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100 brn
+|
+|-heal|p1a: Kal|12/100|[from] Grassy Terrain
+|-damage|p2a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641752667
+|move|p1a: Kal|Thunder Punch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|53/100 brn
+|move|p2a: Slowbro|Scald|p1a: Kal
+|-damage|p1a: Kal|0 fnt
+|faint|p1a: Kal
+|
+|-heal|p2a: Slowbro|59/100 brn|[from] Grassy Terrain
+|-heal|p2a: Slowbro|65/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|59/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641752682
+|switch|p1a: Flighty Dog|Urshifu-Rapid-Strike, M|100/100 par
+|turn|24
+|
+|t:|1641752689
+|move|p1a: Flighty Dog|Thunder Punch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|28/100 brn
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|78/100 brn
+|
+|-heal|p2a: Slowbro|84/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|78/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641752697
+|move|p1a: Flighty Dog|Thunder Punch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|49/100 brn
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|99/100 brn
+|
+|-heal|p2a: Slowbro|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641752705
+|move|p1a: Flighty Dog|Thunder Punch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|63/100 brn
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641752716
+|switch|p2a: Rillaboom|Rillaboom, F|100/100|[from]move: Teleport
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|27
+|
+|t:|1641752722
+|move|p2a: Rillaboom|Grassy Glide|p1a: Flighty Dog
+|-supereffective|p1a: Flighty Dog
+|-crit|p1a: Flighty Dog
+|-enditem|p1a: Flighty Dog|Focus Sash
+|-damage|p1a: Flighty Dog|1/100 par
+|move|p1a: Flighty Dog|Close Combat|p2a: Rillaboom
+|-damage|p2a: Rillaboom|27/100
+|-unboost|p1a: Flighty Dog|def|1
+|-unboost|p1a: Flighty Dog|spd|1
+|
+|-heal|p2a: Rillaboom|33/100|[from] Grassy Terrain
+|-heal|p1a: Flighty Dog|7/100 par|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1641752748
+|switch|p1a: Junior II|Slowking-Galar, M, shiny|100/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Junior II
+|-resisted|p1a: Junior II
+|-damage|p1a: Junior II|70/100
+|
+|-heal|p2a: Rillaboom|40/100|[from] Grassy Terrain
+|-heal|p1a: Junior II|76/100|[from] Grassy Terrain
+|-heal|p1a: Junior II|82/100|[from] item: Black Sludge
+|upkeep
+|turn|29
+|
+|t:|1641752765
+|switch|p2a: Slowbro|Slowbro, F|96/100 brn
+|move|p1a: Junior II|Eerie Spell|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|76/100 brn
+|
+|-heal|p2a: Slowbro|82/100 brn|[from] Grassy Terrain
+|-heal|p1a: Junior II|88/100|[from] Grassy Terrain
+|-heal|p2a: Slowbro|89/100 brn|[from] item: Leftovers
+|-heal|p1a: Junior II|94/100|[from] item: Black Sludge
+|-damage|p2a: Slowbro|82/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641752779
+|switch|p1a: Boomer|Rillaboom, M|100/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641752785
+|switch|p2a: Volcarona|Volcarona, M|100/100|[from]move: Teleport
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|31
+|
+|t:|1641752789
+|move|p1a: Boomer|Superpower|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|61/100
+|-unboost|p1a: Boomer|atk|1
+|-unboost|p1a: Boomer|def|1
+|-damage|p1a: Boomer|91/100|[from] item: Life Orb
+|move|p2a: Volcarona|Will-O-Wisp|p1a: Boomer
+|-status|p1a: Boomer|brn
+|
+|-damage|p1a: Boomer|84/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641752804
+|move|p1a: Boomer|Grassy Glide|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|55/100
+|-damage|p1a: Boomer|74/100 brn|[from] item: Life Orb
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|-damage|p1a: Boomer|68/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1641752814
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Boomer|Superpower|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|43/100
+|-unboost|p1a: Boomer|atk|1
+|-unboost|p1a: Boomer|def|1
+|-damage|p1a: Boomer|58/100 brn|[from] item: Life Orb
+|
+|-damage|p1a: Boomer|52/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1641752834
+|switch|p1a: Bruiser|Dragonite, M|26/100 par
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|93/100
+|-singleturn|p2a: Volcarona|move: Roost
+|
+|upkeep
+|turn|35
+|
+|t:|1641752844
+|move|p2a: Volcarona|Fiery Dance|p1a: Bruiser
+|-resisted|p1a: Bruiser
+|-damage|p1a: Bruiser|0 fnt
+|-boost|p2a: Volcarona|spa|1
+|faint|p1a: Bruiser
+|
+|upkeep
+|
+|t:|1641752851
+|switch|p1a: Flighty Dog|Urshifu-Rapid-Strike, M|7/100 par
+|turn|36
+|
+|t:|1641752853
+|move|p2a: Volcarona|Fiery Dance|p1a: Flighty Dog
+|-resisted|p1a: Flighty Dog
+|-damage|p1a: Flighty Dog|0 fnt
+|faint|p1a: Flighty Dog
+|
+|upkeep
+|
+|t:|1641752859
+|switch|p1a: Junior II|Slowking-Galar, M, shiny|100/100
+|turn|37
+|
+|t:|1641752863
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Junior II|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-crit|p2a: Volcarona
+|-damage|p2a: Volcarona|41/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641752870
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|91/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Junior II|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|77/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641752877
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Junior II|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|65/100
+|
+|upkeep
+|turn|40
+|
+|t:|1641752885
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Junior II|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|55/100
+|
+|upkeep
+|turn|41
+|
+|t:|1641752897
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|100/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Junior II|Scald|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|90/100
+|
+|upkeep
+|turn|42
+|c|☆GHumble|I don't think I got this
+|
+|t:|1641752927
+|switch|p1a: Small Pink Thing|Mew|100/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|0
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|43
+|c|☆GimmickAndTheme|no you got this
+|c|☆GimmickAndTheme|cause imma do this
+|
+|t:|1641752941
+|switch|p2a: Slowbro|Slowbro, F|100/100 brn
+|move|p1a: Small Pink Thing|Psychic|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|84/100 brn
+|
+|-heal|p2a: Slowbro|90/100 brn|[from] item: Leftovers
+|-damage|p2a: Slowbro|84/100 brn|[from] brn
+|upkeep
+|turn|44
+|c|☆GimmickAndTheme|i did a 10/10 play
+|c|☆GimmickAndTheme|a pro gamer move
+|c|☆GHumble|Lol
+|
+|t:|1641752966
+|move|p1a: Small Pink Thing|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|58/100 brn
+|-enditem|p2a: Slowbro|Leftovers|[from] move: Knock Off|[of] p1a: Small Pink Thing
+|move|p2a: Slowbro|Thunder Wave||[still]
+|-status|p1a: Small Pink Thing|par
+|-activate|p1a: Small Pink Thing|ability: Synchronize
+|-fail|p1a: Small Pink Thing
+|
+|-damage|p2a: Slowbro|52/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1641752978
+|move|p1a: Small Pink Thing|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|33/100 brn
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641752996
+|switch|p2a: Garchomp|Garchomp, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|46
+|
+|t:|1641753006
+|move|p2a: Garchomp|Outrage|p1a: Small Pink Thing
+|-crit|p1a: Small Pink Thing
+|-damage|p1a: Small Pink Thing|6/100 par
+|-damage|p2a: Garchomp|91/100|[from] item: Life Orb
+|move|p1a: Small Pink Thing|Psychic|p2a: Garchomp
+|-damage|p2a: Garchomp|50/100
+|
+|-heal|p1a: Small Pink Thing|12/100 par|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1641753017
+|switch|p1a: Junior II|Slowking-Galar, M, shiny|100/100
+|move|p2a: Garchomp|Outrage|p1a: Junior II|[from]lockedmove
+|-damage|p1a: Junior II|33/100
+|-damage|p2a: Garchomp|40/100|[from] item: Life Orb
+|-start|p2a: Garchomp|confusion|[fatigue]
+|
+|-heal|p1a: Junior II|39/100|[from] item: Black Sludge
+|upkeep
+|turn|48
+|
+|t:|1641753030
+|switch|p2a: Corviknight|Corviknight, M|93/100
+|move|p1a: Junior II|Eerie Spell|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|74/100
+|
+|-heal|p2a: Corviknight|80/100|[from] item: Leftovers
+|-heal|p1a: Junior II|46/100|[from] item: Black Sludge
+|upkeep
+|turn|49
+|
+|t:|1641753043
+|move|p2a: Corviknight|Brave Bird|p1a: Junior II
+|-damage|p1a: Junior II|13/100
+|-damage|p2a: Corviknight|71/100|[from] Recoil
+|move|p1a: Junior II|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|45/100
+|
+|-heal|p2a: Corviknight|52/100|[from] item: Leftovers
+|-heal|p1a: Junior II|19/100|[from] item: Black Sludge
+|upkeep
+|turn|50
+|
+|t:|1641753052
+|move|p2a: Corviknight|Brave Bird|p1a: Junior II
+|-damage|p1a: Junior II|0 fnt
+|faint|p1a: Junior II
+|-damage|p2a: Corviknight|47/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|53/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641753060
+|switch|p1a: Boomer|Rillaboom, M|52/100 brn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Boomer
+|turn|51
+|
+|t:|1641753066
+|move|p1a: Boomer|Superpower|p2a: Corviknight
+|-damage|p2a: Corviknight|36/100
+|-unboost|p1a: Boomer|atk|1
+|-unboost|p1a: Boomer|def|1
+|-damage|p1a: Boomer|42/100 brn|[from] item: Life Orb
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|86/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p1a: Boomer|48/100 brn|[from] Grassy Terrain
+|-heal|p2a: Corviknight|93/100|[from] Grassy Terrain
+|-heal|p2a: Corviknight|99/100|[from] item: Leftovers
+|-damage|p1a: Boomer|42/100 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1641753079
+|move|p1a: Boomer|Grassy Glide|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|96/100
+|-damage|p1a: Boomer|32/100 brn|[from] item: Life Orb
+|move|p2a: Corviknight|Brave Bird|p1a: Boomer
+|-supereffective|p1a: Boomer
+|-damage|p1a: Boomer|0 fnt
+|faint|p1a: Boomer
+|-damage|p2a: Corviknight|87/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|93/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641753090
+|switch|p1a: Small Pink Thing|Mew|12/100 par
+|turn|53
+|c|☆GimmickAndTheme|gg
+|
+|t:|1641753096
+|move|p2a: Corviknight|Brave Bird|p1a: Small Pink Thing
+|-damage|p1a: Small Pink Thing|0 fnt
+|faint|p1a: Small Pink Thing
+|-damage|p2a: Corviknight|89/100|[from] Recoil
+|
+|win|GimmickAndTheme
+|raw|GHumble's rating: 1247 &rarr; <strong>1220</strong><br />(-27 for losing)
+|raw|GimmickAndTheme's rating: 1214 &rarr; <strong>1241</strong><br />(+27 for winning)
+|c|☆GHumble|GG
+|l|☆GHumble

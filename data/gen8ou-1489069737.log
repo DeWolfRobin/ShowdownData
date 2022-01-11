@@ -1,0 +1,269 @@
+|j|☆D3S
+|j|☆CharizardGirl13YT
+|t:|1641852840
+|gametype|singles
+|player|p1|D3S|169|1049
+|player|p2|CharizardGirl13YT|hilda|1035
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Zeraora|
+|poke|p1|Rotom-Wash|
+|poke|p1|Victini|
+|poke|p2|Hatterene, F|
+|poke|p2|Melmetal|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Glastrier|
+|poke|p2|Slowbro, M|
+|poke|p2|Kartana|
+|teampreview
+|
+|t:|1641852846
+|start
+|switch|p1a: Zeraora|Zeraora|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1641852850
+|move|p1a: Zeraora|Volt Switch|p2a: Hatterene
+|-damage|p2a: Hatterene|55/100
+|
+|t:|1641852856
+|switch|p1a: Heatran|Heatran, F|100/100|[from]move: Volt Switch
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|-heal|p2a: Hatterene|61/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641852868
+|switch|p2a: Glastrier|Glastrier|100/100
+|move|p1a: Heatran|Substitute|p1a: Heatran
+|-start|p1a: Heatran|Substitute
+|-damage|p1a: Heatran|76/100
+|
+|-heal|p1a: Heatran|82/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641852873
+|move|p2a: Glastrier|High Horsepower|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-end|p1a: Heatran|Substitute
+|move|p1a: Heatran|Toxic|p2a: Glastrier
+|-status|p2a: Glastrier|tox
+|
+|-heal|p1a: Heatran|88/100|[from] item: Leftovers
+|-damage|p2a: Glastrier|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641852878
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Glastrier|High Horsepower|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p1a: Heatran|94/100|[from] item: Leftovers
+|-damage|p2a: Glastrier|82/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641852888
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Glastrier|atk|1
+|move|p2a: Glastrier|High Horsepower|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-damage|p2a: Glastrier|64/100 tox|[from] psn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641852893
+|switch|p1a: Heatran|Heatran, F|94/100
+|move|p2a: Glastrier|Icicle Crash|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|87/100
+|
+|-heal|p1a: Heatran|93/100|[from] item: Leftovers
+|-damage|p2a: Glastrier|39/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641852898
+|switch|p2a: Hatterene|Hatterene, F|61/100
+|move|p1a: Heatran|Substitute|p1a: Heatran
+|-start|p1a: Heatran|Substitute
+|-damage|p1a: Heatran|68/100
+|
+|-heal|p1a: Heatran|74/100|[from] item: Leftovers
+|-heal|p2a: Hatterene|67/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641852902
+|move|p1a: Heatran|Toxic|p2a: Hatterene
+|move|p2a: Hatterene|Toxic||[from]ability: Magic Bounce|[still]
+|-fail|p2a: Hatterene
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|-heal|p2a: Hatterene|73/100|[from] item: Leftovers
+|-heal|p1a: Heatran|81/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641852906
+|move|p2a: Hatterene|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-activate|p1a: Heatran|move: Substitute|[damage]
+|move|p1a: Heatran|Lava Plume|p2a: Hatterene
+|-damage|p2a: Hatterene|40/100
+|
+|-heal|p2a: Hatterene|46/100|[from] item: Leftovers
+|-heal|p1a: Heatran|87/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641852916
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Heatran|Lava Plume|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|83/100
+|-status|p2a: Slowbro|brn
+|
+|-heal|p1a: Heatran|93/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|77/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641852924
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641852931
+|switch|p2a: Melmetal|Melmetal|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|12
+|
+|t:|1641852936
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Melmetal|atk|1
+|move|p2a: Melmetal|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|13
+|
+|t:|1641852940
+|move|p1a: Landorus|Stealth Rock|p2a: Melmetal
+|-sidestart|p2: CharizardGirl13YT|move: Stealth Rock
+|move|p2a: Melmetal|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641852944
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|turn|14
+|
+|t:|1641852948
+|switch|p2a: Slowbro|Slowbro, M|100/100 brn
+|move|p1a: Rotom|Will-O-Wisp|p2a: Slowbro
+|-fail|p2a: Slowbro|brn
+|
+|-damage|p2a: Slowbro|94/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641852955
+|move|p1a: Rotom|Volt Switch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|28/100 brn
+|
+|t:|1641852960
+|switch|p1a: Toxapex|Toxapex, F|100/100|[from]move: Volt Switch
+|move|p2a: Slowbro|Trick Room|p2a: Slowbro
+|-fieldstart|move: Trick Room|[of] p2a: Slowbro
+|
+|-damage|p2a: Slowbro|22/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641852968
+|move|p1a: Toxapex|Toxic Spikes|p2a: Slowbro
+|-sidestart|p2: CharizardGirl13YT|move: Toxic Spikes
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641852971
+|switch|p2a: Slowking|Slowking-Galar, F|100/100|[from]move: Teleport
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|-sideend|p2: CharizardGirl13YT|move: Toxic Spikes|[of] p2a: Slowking
+|
+|upkeep
+|turn|17
+|
+|t:|1641852979
+|move|p2a: Slowking|Future Sight|p1a: Toxapex
+|-start|p2a: Slowking|move: Future Sight
+|move|p1a: Toxapex|Scald|p2a: Slowking
+|-damage|p2a: Slowking|80/100
+|-status|p2a: Slowking|brn
+|
+|-damage|p2a: Slowking|74/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641852989
+|switch|p1a: Heatran|Heatran, F|93/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|-heal|p1a: Heatran|99/100|[from] item: Leftovers
+|-damage|p2a: Slowking|68/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641852994
+|move|p2a: Slowking|Flamethrower|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|move|p1a: Heatran|Substitute|p1a: Heatran
+|-start|p1a: Heatran|Substitute
+|-damage|p1a: Heatran|74/100
+|
+|-end|p1a: Heatran|move: Future Sight
+|-resisted|p1a: Heatran
+|-activate|p1a: Heatran|move: Substitute|[damage]
+|-heal|p1a: Heatran|81/100|[from] item: Leftovers
+|-damage|p2a: Slowking|62/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|20
+|-message|CharizardGirl13YT forfeited.
+|
+|win|D3S
+|raw|D3S's rating: 1049 &rarr; <strong>1080</strong><br />(+31 for winning)
+|raw|CharizardGirl13YT's rating: 1035 &rarr; <strong>1020</strong><br />(-15 for losing)
+|l|☆CharizardGirl13YT
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

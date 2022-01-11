@@ -1,0 +1,278 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC interest
+|j|☆jingtianlangtaosha
+|t:|1641703290
+|gametype|singles
+|player|p1|SL21CC interest|aromalady|1291
+|player|p2|jingtianlangtaosha|crasherwake|1329
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Melmetal|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Magnezone|
+|poke|p2|Dragapult, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Blissey, F|
+|poke|p2|Urshifu-*, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by jingtianlangtaosha)
+|
+|t:|1641703313
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|turn|1
+|
+|t:|1641703316
+|move|p1a: Tornadus|Icy Wind|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|38/100
+|-unboost|p2a: Landorus|spe|1
+|move|p2a: Landorus|Stone Edge|p1a: Tornadus|[miss]
+|-miss|p2a: Landorus|p1a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1641703324
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Tornadus|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|92/100
+|
+|t:|1641703329
+|switch|p1a: Melmetal|Melmetal, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641703332
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|88/100
+|-damage|p1a: Melmetal|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|75/100
+|-damage|p1a: Melmetal|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-hitcount|p2a: Ferrothorn|2
+|
+|-heal|p1a: Melmetal|82/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|81/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641703335
+|switch|p1a: Magnezone|Magnezone, shiny|100/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Magnezone
+|-start|p1a: Magnezone|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|-damage|p1a: Magnezone|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|99/100|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641703337
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|move|p2a: Ferrothorn|Body Press|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|66/100
+|-damage|p2a: Ferrothorn|83/100|[from] item: Rocky Helmet|[of] p1a: Magnezone
+|
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|-damage|p1a: Magnezone|53/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641703342
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|move|p2a: Ferrothorn|Spikes|p1a: Magnezone
+|-sidestart|p1: SL21CC interest|Spikes
+|
+|-damage|p1a: Magnezone|41/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|7
+|
+|t:|1641703347
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|move|p2a: Ferrothorn|Spikes|p1a: Magnezone
+|-sidestart|p1: SL21CC interest|Spikes
+|
+|-damage|p1a: Magnezone|28/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|8
+|
+|t:|1641703350
+|move|p1a: Magnezone|Body Press|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Magnezone|16/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641703354
+|switch|p2a: Landorus|Landorus-Therian, M|38/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|turn|9
+|
+|t:|1641703359
+|move|p2a: Landorus|Earthquake|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|upkeep
+|
+|t:|1641703361
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|turn|10
+|
+|t:|1641703364
+|switch|p2a: Blissey|Blissey, F|92/100
+|move|p1a: Tornadus|Heat Wave|p2a: Blissey
+|-damage|p2a: Blissey|83/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641703366
+|move|p1a: Tornadus|Defog|p2a: Blissey
+|-unboost|p2a: Blissey|evasion|1
+|-sideend|p1: SL21CC interest|Spikes|[from] move: Defog|[of] p1a: Tornadus
+|move|p2a: Blissey|Toxic|p1a: Tornadus
+|-status|p1a: Tornadus|tox
+|
+|-damage|p1a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641703369
+|move|p1a: Tornadus|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|71/100
+|
+|t:|1641703377
+|switch|p1a: Toxapex|Toxapex, M, shiny|100/100|[from]move: U-turn
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641703379
+|switch|p2a: Landorus|Landorus-Therian, M|38/100|[from]move: Teleport
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Toxapex|atk|1
+|
+|upkeep
+|turn|13
+|
+|t:|1641703383
+|switch|p1a: Tornadus|Tornadus-Therian, M, shiny|100/100 tox
+|move|p2a: Landorus|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-damage|p1a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641703387
+|switch|p2a: Blissey|Blissey, F|71/100
+|move|p1a: Tornadus|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|57/100
+|
+|t:|1641703390
+|switch|p1a: Melmetal|Melmetal, shiny|82/100|[from]move: U-turn
+|
+|-heal|p1a: Melmetal|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641703394
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|switch|p1a: Tapu Fini|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|
+|upkeep
+|turn|16
+|
+|t:|1641703398
+|switch|p2a: Blissey|Blissey, F|57/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1641703402
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Blissey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|71/100
+|
+|-heal|p1a: Tapu Fini|78/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641703404
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Blissey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|48/100
+|
+|-heal|p1a: Tapu Fini|55/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641703407
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Blissey
+|-damage|p2a: Blissey|42/100
+|-heal|p1a: Tapu Fini|79/100|[from] drain|[of] p2a: Blissey
+|move|p2a: Blissey|Seismic Toss|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|50/100
+|
+|-heal|p1a: Tapu Fini|56/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|20
+|
+|t:|1641703415
+|move|p1a: Tapu Fini|Taunt|p2a: Blissey
+|-start|p2a: Blissey|move: Taunt
+|cant|p2a: Blissey|move: Taunt|Toxic
+|
+|-heal|p1a: Tapu Fini|62/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|-message|jingtianlangtaosha forfeited.
+|
+|win|SL21CC interest
+|raw|SL21CC interest's rating: 1291 &rarr; <strong>1309</strong><br />(+18 for winning)
+|raw|jingtianlangtaosha's rating: 1329 &rarr; <strong>1311</strong><br />(-18 for losing)
+|l|☆jingtianlangtaosha
+|l|☆SL21CC interest
+|j|☆SL21CC interest
+|player|p1|SL21CC interest|aromalady
+|j| ez

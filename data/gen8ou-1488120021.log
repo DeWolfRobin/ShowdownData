@@ -1,0 +1,162 @@
+|j|☆MobiMolle
+|j|☆I Suck Smh
+|t:|1641715675
+|gametype|singles
+|player|p1|MobiMolle|2|1328
+|player|p2|I Suck Smh|101|1362
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kommo-o, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Blacephalon|
+|poke|p1|Zeraora|
+|poke|p1|Clefable, F|
+|poke|p1|Toxapex, M|
+|poke|p2|Exploud, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Slowbro, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by I Suck Smh)
+|c|☆I Suck Smh|glhf
+|l|☆MobiMolle
+|inactive|MobiMolle disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆MobiMolle
+|inactive|MobiMolle reconnected and has 110 seconds left.
+|player|p1|MobiMolle|2
+|
+|t:|1641715725
+|start
+|switch|p1a: Hermit|Toxapex, M, shiny|100/100
+|switch|p2a: Exploud|Exploud, M|100/100
+|turn|1
+|
+|t:|1641715738
+|move|p2a: Exploud|Boomburst|p1a: Hermit
+|-damage|p1a: Hermit|26/100
+|move|p1a: Hermit|Toxic|p2a: Exploud
+|-status|p2a: Exploud|tox
+|
+|-damage|p2a: Exploud|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|c|☆I Suck Smh|no switchins
+|
+|t:|1641715752
+|switch|p1a: Carlson|Bisharp, M, shiny|100/100
+|-item|p1a: Carlson|Air Balloon
+|move|p2a: Exploud|Boomburst|p1a: Carlson
+|-resisted|p1a: Carlson
+|-damage|p1a: Carlson|20/100
+|-enditem|p1a: Carlson|Air Balloon
+|
+|-damage|p2a: Exploud|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641715765
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Carlson|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-enditem|p2a: Slowbro|Colbur Berry|[eat]
+|-enditem|p2a: Slowbro|Colbur Berry|[weaken]
+|-damage|p2a: Slowbro|73/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641715776
+|move|p1a: Carlson|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|32/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641715781
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|5
+|
+|t:|1641715786
+|switch|p1a: Hermit|Toxapex, M, shiny|60/100
+|move|p2a: Tornadus|U-turn|p1a: Hermit
+|-resisted|p1a: Hermit
+|-damage|p1a: Hermit|55/100
+|-damage|p2a: Tornadus|84/100|[from] item: Rocky Helmet|[of] p1a: Hermit
+|
+|t:|1641715792
+|switch|p2a: Exploud|Exploud, M|82/100 tox|[from]move: U-turn
+|
+|-damage|p2a: Exploud|76/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641715803
+|switch|p1a: Carlson|Bisharp, M, shiny|20/100
+|move|p2a: Exploud|Boomburst|p1a: Carlson
+|-resisted|p1a: Carlson
+|-damage|p1a: Carlson|0 fnt
+|faint|p1a: Carlson
+|
+|-damage|p2a: Exploud|64/100 tox|[from] psn
+|upkeep
+|
+|t:|1641715817
+|switch|p1a: Scales|Kommo-o, M|100/100
+|turn|7
+|
+|t:|1641715823
+|move|p1a: Scales|Aura Sphere|p2a: Exploud
+|-supereffective|p2a: Exploud
+|-damage|p2a: Exploud|0 fnt
+|faint|p2a: Exploud
+|
+|upkeep
+|
+|t:|1641715832
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|8
+|
+|t:|1641715838
+|switch|p1a: Wanda|Clefable, F|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Wanda
+|-resisted|p1a: Wanda
+|-damage|p1a: Wanda|89/100
+|-enditem|p1a: Wanda|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|9
+|
+|t:|1641715849
+|move|p2a: Tornadus|U-turn|p1a: Wanda
+|-resisted|p1a: Wanda
+|-damage|p1a: Wanda|81/100
+|
+|t:|1641715852
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|move|p1a: Wanda|Calm Mind|p1a: Wanda
+|-boost|p1a: Wanda|spa|1
+|-boost|p1a: Wanda|spd|1
+|
+|upkeep
+|turn|10
+|-message|I Suck Smh forfeited.
+|
+|win|MobiMolle
+|raw|MobiMolle's rating: 1328 &rarr; <strong>1350</strong><br />(+22 for winning)
+|raw|I Suck Smh's rating: 1362 &rarr; <strong>1340</strong><br />(-22 for losing)
+|l|☆I Suck Smh

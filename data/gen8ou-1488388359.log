@@ -1,0 +1,310 @@
+|j|☆LucianeVGC
+|j|☆Tuxmonroe
+|t:|1641759151
+|gametype|singles
+|player|p1|LucianeVGC|cynthia-gen4|
+|player|p2|Tuxmonroe|1|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Venusaur, M|
+|poke|p1|Victini|
+|poke|p1|Darmanitan, F|
+|poke|p1|Torkoal, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Garchomp, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Blissey, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Heatran, F|
+|poke|p2|Zapdos|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|c|☆Tuxmonroe|Salv tim 2020
+|c|☆LucianeVGC|Jsjsjs
+|
+|t:|1641759177
+|start
+|switch|p1a: Darmanitan|Darmanitan, F|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|1
+|
+|t:|1641759188
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Darmanitan|Rock Slide|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|9/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641759195
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Darmanitan|Rock Slide|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|72/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641759203
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|100/100
+|move|p2a: Urshifu|Bulk Up|p2a: Urshifu
+|-boost|p2a: Urshifu|atk|1
+|-boost|p2a: Urshifu|def|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641759215
+|move|p2a: Urshifu|Taunt|p1a: Mandibuzz
+|-start|p1a: Mandibuzz|move: Taunt
+|cant|p1a: Mandibuzz|move: Taunt|Toxic
+|
+|upkeep
+|turn|5
+|
+|t:|1641759218
+|move|p2a: Urshifu|Bulk Up|p2a: Urshifu
+|-boost|p2a: Urshifu|atk|1
+|-boost|p2a: Urshifu|def|1
+|move|p1a: Mandibuzz|Foul Play|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|48/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641759227
+|move|p2a: Urshifu|Close Combat|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|25/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|move|p1a: Mandibuzz|Foul Play|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|15/100
+|
+|-end|p1a: Mandibuzz|move: Taunt
+|upkeep
+|turn|7
+|
+|t:|1641759237
+|move|p2a: Urshifu|Surging Strikes|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|3/100
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-hitcount|p1: Mandibuzz|2
+|
+|upkeep
+|
+|t:|1641759242
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|8
+|
+|t:|1641759247
+|move|p2a: Urshifu|Surging Strikes|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|77/100
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|53/100
+|-supereffective|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|30/100
+|-hitcount|p1a: Torkoal|3
+|move|p1a: Torkoal|Earth Power|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641759257
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|9
+|
+|t:|1641759272
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641759278
+|move|p2a: Garchomp|Scale Shot|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|50/100
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-hitcount|p1: Garchomp|2
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641759285
+|switch|p1a: Venusaur|Venusaur, M, shiny|100/100
+|turn|11
+|
+|t:|1641759288
+|move|p1a: Venusaur|Solar Beam||[still]
+|-prepare|p1a: Venusaur|Solar Beam
+|-anim|p1a: Venusaur|Solar Beam|p2a: Garchomp
+|-damage|p2a: Garchomp|15/100
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|move|p2a: Garchomp|Scale Shot|p1a: Venusaur|[miss]
+|-miss|p2a: Garchomp|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|c|☆Tuxmonroe|Nooooo
+|
+|t:|1641759304
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Venusaur|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|72/100
+|-damage|p1a: Venusaur|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641759311
+|switch|p1a: Victini|Victini|100/100
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641759315
+|switch|p2a: Garchomp|Garchomp, F|15/100|[from]move: Teleport
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641759323
+|move|p1a: Victini|Brick Break|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Victini|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641759333
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|15
+|
+|t:|1641759340
+|switch|p1a: Venusaur|Venusaur, M, shiny|81/100
+|move|p2a: Rillaboom|Knock Off|p1a: Venusaur
+|-crit|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|-enditem|p1a: Venusaur|Life Orb|[from] move: Knock Off|[of] p2a: Rillaboom
+|faint|p1a: Venusaur
+|
+|-weather|none
+|upkeep
+|
+|t:|1641759348
+|switch|p1a: Torkoal|Torkoal, M, shiny|30/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|16
+|
+|t:|1641759354
+|move|p2a: Rillaboom|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|-enditem|p1a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p2a: Rillaboom
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641759361
+|switch|p1a: Darmanitan|Darmanitan, F|100/100
+|turn|17
+|
+|t:|1641759368
+|switch|p2a: Zapdos|Zapdos|9/100
+|move|p1a: Darmanitan|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|t:|1641759371
+|switch|p1a: Victini|Victini|88/100|[from]move: U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Victini|94/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641759380
+|switch|p2a: Blissey|Blissey, F|72/100
+|turn|18
+|
+|t:|1641759387
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Victini|V-create|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Victini|100/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1641759392
+|switch|p1a: Darmanitan|Darmanitan, F|100/100
+|move|p2a: Heatran|Earth Power|p1a: Darmanitan
+|-supereffective|p1a: Darmanitan
+|-damage|p1a: Darmanitan|0 fnt
+|faint|p1a: Darmanitan
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641759397
+|switch|p1a: Victini|Victini|100/100
+|turn|20
+|
+|t:|1641759399
+|move|p1a: Victini|Brick Break|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|62/100
+|move|p2a: Heatran|Earth Power|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|33/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Heatran|68/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641759402
+|move|p1a: Victini|Brick Break|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|28/100
+|move|p2a: Heatran|Earth Power|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|win|Tuxmonroe
+|l|☆LucianeVGC

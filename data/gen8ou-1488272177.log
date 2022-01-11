@@ -1,0 +1,359 @@
+|j|☆maruf12233
+|j|☆nomura25
+|t:|1641744367
+|gametype|singles
+|player|p1|maruf12233|red|1055
+|player|p2|nomura25|pokekid|1079
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Morpeko, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Mimikyu, M|
+|poke|p1|Lucario, F|
+|poke|p1|Kartana|
+|poke|p1|Incineroar, M|
+|poke|p2|Pikachu, M|
+|poke|p2|Azumarill, F|
+|poke|p2|Butterfree, F|
+|poke|p2|Gardevoir, F|
+|poke|p2|Flygon, M|
+|poke|p2|Whimsicott, F|
+|teampreview
+|
+|t:|1641744388
+|start
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|switch|p2a: Gardevoir|Gardevoir, F|100/100
+|-ability|p2a: Gardevoir|Multiscale|[from] ability: Trace|[of] p1a: Dragonite
+|turn|1
+|
+|t:|1641744398
+|move|p2a: Gardevoir|Reflect|p2a: Gardevoir
+|-sidestart|p2: nomura25|Reflect
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641744406
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Gardevoir
+|-damage|p2a: Gardevoir|88/100
+|-damage|p2a: Gardevoir|63/100
+|-hitcount|p2a: Gardevoir|2
+|move|p2a: Gardevoir|Light Screen|p2a: Gardevoir
+|-sidestart|p2: nomura25|move: Light Screen
+|
+|upkeep
+|turn|3
+|
+|t:|1641744429
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Gardevoir|Memento|p1a: Dragonite
+|-unboost|p1a: Dragonite|atk|2
+|-unboost|p1a: Dragonite|spa|2
+|faint|p2a: Gardevoir
+|
+|upkeep
+|
+|t:|1641744438
+|switch|p2a: Azumarill|Azumarill, F|100/100
+|turn|4
+|
+|t:|1641744456
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|50/100
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|75/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|5
+|
+|t:|1641744487
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Azumarill
+|-damage|p2a: Azumarill|57/100
+|-damage|p2a: Azumarill|36/100
+|-hitcount|p2a: Azumarill|2
+|move|p2a: Azumarill|Play Rough|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641744513
+|switch|p1a: Morpeko|Morpeko, F|100/100
+|turn|6
+|
+|t:|1641744520
+|move|p2a: Azumarill|Aqua Jet|p1a: Morpeko
+|-enditem|p1a: Morpeko|Focus Sash
+|-damage|p1a: Morpeko|1/100
+|move|p1a: Morpeko|Aura Wheel|p2a: Azumarill
+|-supereffective|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|-boost|p1a: Morpeko|spe|1
+|faint|p2a: Azumarill
+|
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|
+|t:|1641744534
+|switch|p2a: Pikachu|Pikachu, M|100/100
+|turn|7
+|
+|t:|1641744540
+|move|p2a: Pikachu|Feint|p1a: Morpeko
+|-damage|p1a: Morpeko|0 fnt
+|faint|p1a: Morpeko
+|
+|upkeep
+|
+|t:|1641744549
+|switch|p1a: Kartana|Kartana|100/100
+|turn|8
+|
+|t:|1641744564
+|move|p1a: Kartana|Smart Strike|p2a: Pikachu
+|-resisted|p2a: Pikachu
+|-damage|p2a: Pikachu|64/100
+|move|p2a: Pikachu|Brick Break|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|38/100
+|
+|-sideend|p2: nomura25|Reflect
+|upkeep
+|turn|9
+|l|☆maruf12233
+|player|p1|
+|j|☆maruf12233
+|player|p1|maruf12233|red
+|
+|t:|1641744617
+|switch|p1a: Incineroar|Incineroar, M|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Pikachu|atk|1
+|move|p2a: Pikachu|Feint|p1a: Incineroar
+|-damage|p1a: Incineroar|92/100
+|
+|-heal|p1a: Incineroar|98/100|[from] item: Leftovers
+|-sideend|p2: nomura25|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641744631
+|move|p2a: Pikachu|Volt Tackle|p1a: Incineroar
+|-crit|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|-damage|p2a: Pikachu|4/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641744640
+|switch|p1a: Lucario|Lucario, F, shiny|100/100
+|turn|11
+|
+|t:|1641744656
+|move|p1a: Lucario|Extreme Speed|p2a: Pikachu
+|-damage|p2a: Pikachu|0 fnt
+|-status|p1a: Lucario|par|[from] ability: Static|[of] p2a: Pikachu
+|faint|p2a: Pikachu
+|
+|upkeep
+|
+|t:|1641744667
+|switch|p2a: Flygon|Flygon, M|100/100
+|turn|12
+|
+|t:|1641744679
+|move|p2a: Flygon|Dragon Dance|p2a: Flygon
+|-boost|p2a: Flygon|atk|1
+|-boost|p2a: Flygon|spe|1
+|move|p1a: Lucario|Close Combat|p2a: Flygon
+|-damage|p2a: Flygon|13/100
+|-unboost|p1a: Lucario|def|1
+|-unboost|p1a: Lucario|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1641744705
+|move|p1a: Lucario|Extreme Speed|p2a: Flygon
+|-damage|p2a: Flygon|0 fnt
+|faint|p2a: Flygon
+|
+|upkeep
+|
+|t:|1641744710
+|switch|p2a: Whimsicott|Whimsicott, F|100/100
+|turn|14
+|
+|t:|1641744718
+|move|p2a: Whimsicott|Leech Seed|p1a: Lucario
+|-start|p1a: Lucario|move: Leech Seed
+|move|p1a: Lucario|Earthquake|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|81/100
+|
+|-damage|p1a: Lucario|88/100 par|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|92/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641744727
+|move|p2a: Whimsicott|Cotton Guard|p2a: Whimsicott
+|-boost|p2a: Whimsicott|def|3
+|move|p1a: Lucario|Close Combat|p2a: Whimsicott
+|-resisted|p2a: Whimsicott
+|-damage|p2a: Whimsicott|75/100
+|-unboost|p1a: Lucario|def|1
+|-unboost|p1a: Lucario|spd|1
+|
+|-damage|p1a: Lucario|76/100 par|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|85/100|[silent]
+|upkeep
+|turn|16
+|
+|t:|1641744738
+|cant|p1a: Lucario|par
+|move|p2a: Whimsicott|Cotton Guard|p2a: Whimsicott
+|-boost|p2a: Whimsicott|def|3
+|
+|-damage|p1a: Lucario|63/100 par|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|96/100|[silent]
+|upkeep
+|turn|17
+|
+|t:|1641744748
+|cant|p1a: Lucario|par
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|71/100
+|
+|-damage|p1a: Lucario|51/100 par|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|82/100|[silent]
+|upkeep
+|turn|18
+|
+|t:|1641744766
+|cant|p1a: Lucario|par
+|move|p2a: Whimsicott|Hurricane|p1a: Lucario|[miss]
+|-miss|p2a: Whimsicott|p1a: Lucario
+|-enditem|p2a: Whimsicott|Blunder Policy
+|-boost|p2a: Whimsicott|spe|2
+|
+|-damage|p1a: Lucario|38/100 par|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|93/100|[silent]
+|upkeep
+|turn|19
+|
+|t:|1641744785
+|move|p1a: Lucario|Extreme Speed|p2a: Whimsicott
+|-activate|p2a: Whimsicott|move: Substitute|[damage]
+|move|p2a: Whimsicott|Hurricane|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|upkeep
+|
+|t:|1641744799
+|switch|p1a: Mimikyu|Mimikyu, M|100/100
+|turn|20
+|
+|t:|1641744807
+|move|p2a: Whimsicott|Leech Seed|p1a: Mimikyu
+|-start|p1a: Mimikyu|move: Leech Seed
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|-damage|p1a: Mimikyu|88/100|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|100/100|[silent]
+|upkeep
+|turn|21
+|
+|t:|1641744815
+|move|p2a: Whimsicott|Hurricane|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|88/100
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, M
+|-damage|p1a: Mimikyu|76/100|[from] pokemon: Mimikyu-Busted
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|-damage|p1a: Mimikyu|63/100|[from] Leech Seed|[of] p2a: Whimsicott
+|upkeep
+|turn|22
+|
+|t:|1641744827
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Whimsicott
+|-activate|p2a: Whimsicott|move: Substitute|[damage]
+|move|p2a: Whimsicott|Hurricane|p1a: Mimikyu
+|-damage|p1a: Mimikyu|36/100
+|-start|p1a: Mimikyu|confusion
+|
+|-damage|p1a: Mimikyu|23/100|[from] Leech Seed|[of] p2a: Whimsicott
+|upkeep
+|turn|23
+|
+|t:|1641744837
+|-activate|p1a: Mimikyu|confusion
+|-damage|p1a: Mimikyu|0 fnt|[from] confusion
+|faint|p1a: Mimikyu
+|move|p2a: Whimsicott|Hurricane|p1: Mimikyu|[notarget]
+|-fail|p2a: Whimsicott
+|
+|upkeep
+|
+|t:|1641744843
+|switch|p1a: Kartana|Kartana|38/100
+|turn|24
+|
+|t:|1641744848
+|move|p2a: Whimsicott|Hurricane|p1a: Kartana|[miss]
+|-miss|p2a: Whimsicott|p1a: Kartana
+|move|p1a: Kartana|Smart Strike|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|upkeep
+|turn|25
+|
+|t:|1641744858
+|move|p2a: Whimsicott|Substitute|p2a: Whimsicott
+|-start|p2a: Whimsicott|Substitute
+|-damage|p2a: Whimsicott|75/100
+|move|p1a: Kartana|Smart Strike|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-end|p2a: Whimsicott|Substitute
+|
+|upkeep
+|turn|26
+|
+|t:|1641744866
+|move|p2a: Whimsicott|Hurricane|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|win|nomura25
+|raw|maruf12233's rating: 1055 &rarr; <strong>1038</strong><br />(-17 for losing)
+|raw|nomura25's rating: 1079 &rarr; <strong>1105</strong><br />(+26 for winning)
+|l|☆maruf12233

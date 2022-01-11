@@ -1,0 +1,152 @@
+|j|☆MimikyuMoon
+|j|☆Subloo
+|t:|1641708515
+|gametype|singles
+|player|p1|MimikyuMoon|lady-gen4|1314
+|player|p2|Subloo|dragontamer|1229
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Krookodile, F|
+|poke|p1|Gyarados, F|
+|poke|p1|Kommo-o, F|
+|poke|p1|Moltres-Galar|
+|poke|p1|Scizor, F|
+|poke|p1|Celesteela|
+|poke|p2|Galvantula, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Inteleon, M|
+|poke|p2|Tangrowth, F|
+|poke|p2|Clefable, F|
+|poke|p2|Volcarona, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Subloo)
+|inactive|MimikyuMoon also wants the timer to be on.
+|
+|t:|1641708523
+|start
+|switch|p1a: Krookodile|Krookodile, F|100/100
+|switch|p2a: Galvantula|Galvantula, F|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Galvantula|atk|1
+|turn|1
+|
+|t:|1641708532
+|move|p2a: Galvantula|Sticky Web|p1a: Krookodile
+|-sidestart|p1: MimikyuMoon|move: Sticky Web
+|move|p1a: Krookodile|Taunt|p2a: Galvantula
+|-start|p2a: Galvantula|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1641708541
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|move|p1a: Krookodile|Stealth Rock|p2a: Tangrowth
+|-sidestart|p2: Subloo|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641708544
+|move|p1a: Krookodile|Taunt|p2a: Tangrowth
+|-start|p2a: Tangrowth|move: Taunt
+|cant|p2a: Tangrowth|move: Taunt|Sleep Powder
+|
+|upkeep
+|turn|4
+|
+|t:|1641708546
+|move|p1a: Krookodile|Knock Off|p2a: Tangrowth
+|-damage|p2a: Tangrowth|75/100
+|-enditem|p2a: Tangrowth|Leftovers|[from] move: Knock Off|[of] p1a: Krookodile
+|move|p2a: Tangrowth|Knock Off|p1a: Krookodile
+|-resisted|p1a: Krookodile
+|-damage|p1a: Krookodile|85/100
+|-enditem|p1a: Krookodile|Focus Sash|[from] move: Knock Off|[of] p2a: Tangrowth
+|
+|upkeep
+|turn|5
+|
+|t:|1641708549
+|move|p1a: Krookodile|Knock Off|p2a: Tangrowth
+|-damage|p2a: Tangrowth|58/100
+|move|p2a: Tangrowth|Giga Drain|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|7/100
+|-heal|p2a: Tangrowth|91/100|[from] drain|[of] p1a: Krookodile
+|
+|-end|p2a: Tangrowth|move: Taunt
+|upkeep
+|turn|6
+|
+|t:|1641708552
+|move|p1a: Krookodile|Taunt|p2a: Tangrowth
+|-start|p2a: Tangrowth|move: Taunt
+|move|p2a: Tangrowth|Giga Drain|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|-heal|p2a: Tangrowth|93/100|[from] drain|[of] p1a: Krookodile
+|faint|p1a: Krookodile
+|
+|upkeep
+|
+|t:|1641708555
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|7
+|
+|t:|1641708563
+|switch|p2a: Clefable|Clefable, F|100/100
+|-damage|p2a: Clefable|88/100|[from] Stealth Rock
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|-heal|p2a: Clefable|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641708568
+|move|p1a: Moltres|Air Slash|p2a: Clefable
+|-damage|p2a: Clefable|60/100
+|move|p2a: Clefable|Fire Blast|p1a: Moltres|[miss]
+|-miss|p2a: Clefable|p1a: Moltres
+|
+|-heal|p2a: Clefable|66/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641708571
+|move|p1a: Moltres|Air Slash|p2a: Clefable
+|-damage|p2a: Clefable|32/100
+|cant|p2a: Clefable|flinch
+|
+|-heal|p2a: Clefable|38/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641708574
+|move|p1a: Moltres|Air Slash|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|c|☆Subloo|absolutely fucking ridiculkous fck okff
+|-message|Subloo forfeited.
+|
+|win|MimikyuMoon
+|raw|MimikyuMoon's rating: 1314 &rarr; <strong>1329</strong><br />(+15 for winning)
+|raw|Subloo's rating: 1229 &rarr; <strong>1210</strong><br />(-19 for losing)
+|l|☆Subloo
+|c|☆MimikyuMoon|WH-
+|c|☆MimikyuMoon|OKAY DAMN

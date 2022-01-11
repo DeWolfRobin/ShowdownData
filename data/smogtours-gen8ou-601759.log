@@ -1,0 +1,558 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641756103
+|gametype|singles
+|player|p1|Clark_03|#splxiiiscooters|
+|player|p2|Luthier|#luthier|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Volcarona, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Zapdos|
+|poke|p2|Dragapult, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Swampert, F|
+|poke|p2|Kartana|
+|poke|p2|Zeraora|
+|poke|p2|Kommo-o, F|
+|teampreview
+|c|☆Luthier|hf
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|c|☆Clark_03|hf
+|inactive|Clark_03 has 270 seconds left.
+|inactive|Luthier has 270 seconds left.
+|inactive|Clark_03 has 240 seconds left.
+|inactive|Luthier has 240 seconds left.
+|inactive|Luthier has 210 seconds left.
+|inactive|Clark_03 has 210 seconds left.
+|
+|t:|1641756206
+|start
+|switch|p1a: Head Above Water|Tapu Fini|100/100
+|switch|p2a: god china|Kartana|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Head Above Water
+|turn|1
+|inactive|Clark_03 has 270 seconds left.
+|inactive|Luthier has 270 seconds left.
+|inactive|Luthier has 240 seconds left.
+|
+|t:|1641756241
+|switch|p1a: Souvenir|Ferrothorn, F|100/100
+|move|p2a: god china|Knock Off|p1a: Souvenir
+|-damage|p1a: Souvenir|72/100
+|-damage|p2a: god china|88/100|[from] ability: Iron Barbs|[of] p1a: Souvenir
+|-enditem|p1a: Souvenir|Leftovers|[from] move: Knock Off|[of] p2a: god china
+|
+|upkeep
+|turn|2
+|inactive|Luthier has 240 seconds left.
+|inactive|Clark_03 has 240 seconds left.
+|inactive|Luthier has 210 seconds left.
+|
+|t:|1641756289
+|move|p2a: god china|Sacred Sword|p1a: Souvenir
+|-supereffective|p1a: Souvenir
+|-damage|p1a: Souvenir|14/100
+|-damage|p2a: god china|76/100|[from] ability: Iron Barbs|[of] p1a: Souvenir
+|move|p1a: Souvenir|Spikes|p2a: god china
+|-sidestart|p2: Luthier|Spikes
+|
+|upkeep
+|turn|3
+|inactive|Clark_03 has 210 seconds left.
+|
+|t:|1641756324
+|move|p2a: god china|Knock Off|p1a: Souvenir
+|-damage|p1a: Souvenir|0 fnt
+|-damage|p2a: god china|63/100|[from] ability: Iron Barbs|[of] p1a: Souvenir
+|faint|p1a: Souvenir
+|-ability|p2a: god china|Beast Boost|boost
+|-boost|p2a: god china|atk|1
+|
+|upkeep
+|
+|t:|1641756337
+|switch|p1a: Birdie|Zapdos|100/100
+|turn|4
+|inactive|Clark_03 has 180 seconds left.
+|inactive|Luthier has 210 seconds left.
+|inactive|Luthier has 180 seconds left.
+|
+|t:|1641756388
+|switch|p2a: im prepped for bp|Swampert, F|100/100
+|-damage|p2a: im prepped for bp|88/100|[from] Spikes
+|move|p1a: Birdie|Thunderbolt|p2a: im prepped for bp
+|-immune|p2a: im prepped for bp
+|
+|-heal|p2a: im prepped for bp|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641756393
+|move|p1a: Birdie|Hurricane|p2a: im prepped for bp
+|-damage|p2a: im prepped for bp|59/100
+|move|p2a: im prepped for bp|Stealth Rock|p1a: Birdie
+|-sidestart|p1: Clark_03|move: Stealth Rock
+|
+|-heal|p2a: im prepped for bp|65/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641756408
+|move|p1a: Birdie|Hurricane|p2a: im prepped for bp|[miss]
+|-miss|p1a: Birdie|p2a: im prepped for bp
+|move|p2a: im prepped for bp|Toxic|p1a: Birdie
+|-status|p1a: Birdie|tox
+|
+|-heal|p2a: im prepped for bp|71/100|[from] item: Leftovers
+|-damage|p1a: Birdie|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641756420
+|switch|p2a: im nerdgasming rn|Zeraora|100/100
+|-damage|p2a: im nerdgasming rn|88/100|[from] Spikes
+|move|p1a: Birdie|Hurricane|p2a: im nerdgasming rn
+|-resisted|p2a: im nerdgasming rn
+|-damage|p2a: im nerdgasming rn|50/100
+|
+|-heal|p2a: im nerdgasming rn|56/100|[from] item: Leftovers
+|-damage|p1a: Birdie|82/100 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|Clark_03 has 210 seconds left.
+|inactive|Luthier has 180 seconds left.
+|inactive|Clark_03 has 180 seconds left.
+|inactive|Clark_03 has 150 seconds left.
+|
+|t:|1641756487
+|switch|p2a: oh my god he stal|Dragapult, M|100/100
+|-damage|p2a: oh my god he stal|88/100|[from] Spikes
+|move|p1a: Birdie|U-turn|p2a: oh my god he stal
+|-resisted|p2a: oh my god he stal
+|-damage|p2a: oh my god he stal|79/100
+|inactive|Clark_03 has 150 seconds left.
+|
+|t:|1641756508
+|switch|p1a: Head Above Water|Tapu Fini|100/100|[from]move: U-turn
+|-damage|p1a: Head Above Water|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Head Above Water
+|
+|-heal|p1a: Head Above Water|94/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641756528
+|move|p2a: oh my god he stal|U-turn|p1a: Head Above Water
+|-resisted|p1a: Head Above Water
+|-damage|p1a: Head Above Water|89/100
+|
+|t:|1641756532
+|switch|p2a: hp was this whim|Corviknight, F|100/100|[from]move: U-turn
+|-ability|p2a: hp was this whim|Pressure
+|move|p1a: Head Above Water|Nature's Madness|p2a: hp was this whim
+|-damage|p2a: hp was this whim|51/100
+|
+|-heal|p1a: Head Above Water|95/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Clark_03 has 120 seconds left.
+|
+|t:|1641756577
+|switch|p1a: Birdie|Zapdos|82/100 tox
+|switch|p2a: god china|Kartana|63/100
+|-damage|p2a: god china|51/100|[from] Spikes
+|
+|-damage|p1a: Birdie|76/100 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|Luthier has 180 seconds left.
+|
+|t:|1641756609
+|move|p2a: god china|Knock Off|p1a: Birdie
+|-damage|p1a: Birdie|15/100 tox
+|-enditem|p1a: Birdie|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: god china
+|move|p1a: Birdie|Hurricane|p2a: god china
+|-damage|p2a: god china|0 fnt
+|faint|p2a: god china
+|
+|-damage|p1a: Birdie|3/100 tox|[from] psn
+|upkeep
+|
+|t:|1641756612
+|switch|p2a: im nerdgasming rn|Zeraora|56/100
+|-damage|p2a: im nerdgasming rn|43/100|[from] Spikes
+|turn|12
+|inactive|Luthier has 180 seconds left.
+|inactive|Clark_03 has 90 seconds left.
+|
+|t:|1641756647
+|switch|p1a: Warrior|Garchomp, F|100/100
+|-damage|p1a: Warrior|94/100|[from] Stealth Rock
+|move|p2a: im nerdgasming rn|Play Rough|p1a: Warrior
+|-supereffective|p1a: Warrior
+|-damage|p1a: Warrior|46/100
+|-damage|p2a: im nerdgasming rn|31/100|[from] ability: Rough Skin|[of] p1a: Warrior
+|
+|-heal|p2a: im nerdgasming rn|37/100|[from] item: Leftovers
+|-heal|p1a: Warrior|53/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|13
+|inactive|Clark_03 has 90 seconds left.
+|inactive|Luthier has 150 seconds left.
+|
+|t:|1641756682
+|switch|p2a: hp was this whim|Corviknight, F|51/100
+|-ability|p2a: hp was this whim|Pressure
+|move|p1a: Warrior|Aqua Tail|p2a: hp was this whim
+|-damage|p2a: hp was this whim|32/100
+|-damage|p1a: Warrior|36/100|[from] item: Rocky Helmet|[of] p2a: hp was this whim
+|
+|-heal|p1a: Warrior|42/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Clark_03 has 60 seconds left.
+|
+|t:|1641756708
+|switch|p1a: It Was In Me|Volcarona, F|100/100
+|move|p2a: hp was this whim|Roost|p2a: hp was this whim
+|-heal|p2a: hp was this whim|82/100
+|-singleturn|p2a: hp was this whim|move: Roost
+|
+|upkeep
+|turn|15
+|inactive|Clark_03 has 60 seconds left.
+|inactive|Luthier has 150 seconds left.
+|
+|t:|1641756729
+|switch|p2a: im prepped for bp|Swampert, F|71/100
+|-damage|p2a: im prepped for bp|59/100|[from] Spikes
+|move|p1a: It Was In Me|Fiery Dance|p2a: im prepped for bp
+|-resisted|p2a: im prepped for bp
+|-damage|p2a: im prepped for bp|47/100
+|-boost|p1a: It Was In Me|spa|1
+|
+|-heal|p2a: im prepped for bp|53/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641756744
+|switch|p1a: Head Above Water|Tapu Fini|95/100
+|-damage|p1a: Head Above Water|82/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Head Above Water
+|move|p2a: im prepped for bp|Earthquake|p1a: Head Above Water
+|-damage|p1a: Head Above Water|53/100
+|
+|-heal|p1a: Head Above Water|59/100|[from] item: Leftovers
+|-heal|p2a: im prepped for bp|59/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|Luthier has 150 seconds left.
+|inactive|Clark_03 has 30 seconds left.
+|
+|t:|1641756778
+|switch|p2a: oh my god he stal|Dragapult, M|79/100
+|-damage|p2a: oh my god he stal|66/100|[from] Spikes
+|move|p1a: Head Above Water|Whirlpool|p2a: oh my god he stal
+|-resisted|p2a: oh my god he stal
+|-damage|p2a: oh my god he stal|59/100
+|-activate|p2a: oh my god he stal|move: Whirlpool|[of] p1a: Head Above Water
+|
+|-heal|p1a: Head Above Water|66/100|[from] item: Leftovers
+|-damage|p2a: oh my god he stal|46/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|18
+|
+|t:|1641756781
+|move|p2a: oh my god he stal|Shadow Ball|p1a: Head Above Water
+|-damage|p1a: Head Above Water|28/100
+|-unboost|p1a: Head Above Water|spd|1
+|move|p1a: Head Above Water|Moonblast|p2a: oh my god he stal
+|-supereffective|p2a: oh my god he stal
+|-damage|p2a: oh my god he stal|0 fnt
+|faint|p2a: oh my god he stal
+|
+|-heal|p1a: Head Above Water|35/100|[from] item: Leftovers
+|upkeep
+|inactive|Luthier has 150 seconds left.
+|
+|t:|1641756792
+|switch|p2a: im nerdgasming rn|Zeraora|37/100
+|-damage|p2a: im nerdgasming rn|25/100|[from] Spikes
+|turn|19
+|inactive|Luthier has 150 seconds left.
+|inactive|Clark_03 has 30 seconds left.
+|
+|t:|1641756826
+|switch|p1a: Birdie|Zapdos|3/100 tox
+|-damage|p1a: Birdie|0 fnt|[from] Stealth Rock
+|faint|p1a: Birdie
+|move|p2a: im nerdgasming rn|Plasma Fists|p1: Birdie|[notarget]
+|-fail|p2a: im nerdgasming rn
+|
+|-heal|p2a: im nerdgasming rn|31/100|[from] item: Leftovers
+|upkeep
+|inactive|Clark_03 has 30 seconds left this turn.
+|inactive|Clark_03 has 20 seconds left.
+|
+|t:|1641756837
+|switch|p1a: It Was In Me|Volcarona, F|100/100
+|turn|20
+|inactive|Clark_03 has 30 seconds left this turn.
+|inactive|Clark_03 has 20 seconds left.
+|inactive|Clark_03 has 15 seconds left.
+|
+|t:|1641756853
+|switch|p2a: im prepped for bp|Swampert, F|59/100
+|-damage|p2a: im prepped for bp|47/100|[from] Spikes
+|move|p1a: It Was In Me|Psychic|p2a: im prepped for bp
+|-damage|p2a: im prepped for bp|29/100
+|
+|-heal|p2a: im prepped for bp|35/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|21
+|inactive|Clark_03 has 25 seconds left this turn.
+|inactive|Clark_03 has 20 seconds left.
+|
+|t:|1641756861
+|switch|p1a: Head Above Water|Tapu Fini|35/100
+|-damage|p1a: Head Above Water|22/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Head Above Water
+|move|p2a: im prepped for bp|Earthquake|p1a: Head Above Water
+|-damage|p1a: Head Above Water|0 fnt
+|faint|p1a: Head Above Water
+|
+|-heal|p2a: im prepped for bp|41/100|[from] item: Leftovers
+|upkeep
+|inactive|Clark_03 has 25 seconds left this turn.
+|inactive|Clark_03 has 20 seconds left.
+|inactive|Clark_03 has 15 seconds left.
+|inactive|Clark_03 has 10 seconds left.
+|
+|t:|1641756877
+|switch|p1a: It Was In Me|Volcarona, F|100/100
+|turn|22
+|inactive|Clark_03 has 20 seconds left this turn.
+|
+|t:|1641756887
+|move|p1a: It Was In Me|Quiver Dance|p1a: It Was In Me
+|-boost|p1a: It Was In Me|spa|1
+|-boost|p1a: It Was In Me|spd|1
+|-boost|p1a: It Was In Me|spe|1
+|move|p2a: im prepped for bp|Earthquake|p1a: It Was In Me
+|-damage|p1a: It Was In Me|66/100
+|
+|-heal|p2a: im prepped for bp|47/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|Clark_03 has 30 seconds left this turn.
+|
+|t:|1641756893
+|move|p1a: It Was In Me|Psychic|p2a: im prepped for bp
+|-damage|p2a: im prepped for bp|22/100
+|move|p2a: im prepped for bp|Earthquake|p1a: It Was In Me
+|-damage|p1a: It Was In Me|30/100
+|
+|-heal|p2a: im prepped for bp|28/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|Clark_03 has 30 seconds left.
+|
+|t:|1641756911
+|move|p1a: It Was In Me|Roost|p1a: It Was In Me
+|-heal|p1a: It Was In Me|80/100
+|-singleturn|p1a: It Was In Me|move: Roost
+|move|p2a: im prepped for bp|Flip Turn|p1a: It Was In Me
+|-supereffective|p1a: It Was In Me
+|-damage|p1a: It Was In Me|12/100
+|
+|t:|1641756921
+|switch|p2a: im nerdgasming rn|Zeraora|31/100|[from]move: Flip Turn
+|-damage|p2a: im nerdgasming rn|18/100|[from] Spikes
+|
+|-heal|p2a: im nerdgasming rn|24/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Clark_03 has 30 seconds left.
+|
+|t:|1641756954
+|move|p2a: im nerdgasming rn|Plasma Fists|p1a: It Was In Me
+|-damage|p1a: It Was In Me|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: It Was In Me
+|
+|-heal|p2a: im nerdgasming rn|30/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|inactive|Clark_03 has 30 seconds left.
+|
+|t:|1641756969
+|switch|p1a: Warrior|Garchomp, F|42/100
+|-damage|p1a: Warrior|36/100|[from] Stealth Rock
+|turn|26
+|inactive|Clark_03 has 30 seconds left.
+|
+|t:|1641756993
+|switch|p2a: hp was this whim|Corviknight, F|82/100
+|-ability|p2a: hp was this whim|Pressure
+|move|p1a: Warrior|Swords Dance|p1a: Warrior
+|-boost|p1a: Warrior|atk|2
+|
+|-heal|p1a: Warrior|42/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|Clark_03 has 30 seconds left.
+|
+|t:|1641757012
+|move|p1a: Warrior|Aqua Tail|p2a: hp was this whim
+|-damage|p2a: hp was this whim|48/100
+|-damage|p1a: Warrior|26/100|[from] item: Rocky Helmet|[of] p2a: hp was this whim
+|move|p2a: hp was this whim|Roost|p2a: hp was this whim
+|-heal|p2a: hp was this whim|98/100
+|-singleturn|p2a: hp was this whim|move: Roost
+|
+|-heal|p1a: Warrior|32/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|Clark_03 has 30 seconds left.
+|inactive|Clark_03 has 20 seconds left.
+|inactive|Clark_03 has 15 seconds left.
+|inactive|Luthier has 180 seconds left.
+|
+|t:|1641757039
+|switch|p2a: im prepped for bp|Swampert, F|28/100
+|-damage|p2a: im prepped for bp|15/100|[from] Spikes
+|move|p1a: Warrior|Stealth Rock|p2a: im prepped for bp
+|-sidestart|p2: Luthier|move: Stealth Rock
+|
+|-heal|p1a: Warrior|38/100|[from] item: Leftovers
+|-heal|p2a: im prepped for bp|22/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|Clark_03 has 25 seconds left this turn.
+|inactive|Clark_03 has 20 seconds left.
+|inactive|Clark_03 has 15 seconds left.
+|
+|t:|1641757049
+|move|p1a: Warrior|Earthquake|p2a: im prepped for bp
+|-damage|p2a: im prepped for bp|0 fnt
+|faint|p2a: im prepped for bp
+|
+|-heal|p1a: Warrior|44/100|[from] item: Leftovers
+|upkeep
+|inactive|Clark_03 has 20 seconds left this turn.
+|
+|t:|1641757051
+|switch|p2a: im nerdgasming rn|Zeraora|30/100
+|-damage|p2a: im nerdgasming rn|18/100|[from] Stealth Rock
+|-damage|p2a: im nerdgasming rn|6/100|[from] Spikes
+|turn|30
+|inactive|Clark_03 has 30 seconds left this turn.
+|inactive|Clark_03 has 20 seconds left.
+|inactive|Clark_03 has 15 seconds left.
+|inactive|Clark_03 has 10 seconds left.
+|inactive|Clark_03 has 5 seconds left.
+|
+|t:|1641757079
+|switch|p1a: Bigger Wow|Weavile, F|100/100
+|move|p2a: im nerdgasming rn|Play Rough|p1a: Bigger Wow
+|-supereffective|p1a: Bigger Wow
+|-damage|p1a: Bigger Wow|9/100
+|
+|-heal|p2a: im nerdgasming rn|12/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|inactive|Clark_03 has 15 seconds left this turn.
+|inactive|Clark_03 has 10 seconds left.
+|inactive|Luthier has 210 seconds left.
+|
+|t:|1641757093
+|move|p1a: Bigger Wow|Ice Shard|p2a: im nerdgasming rn
+|-damage|p2a: im nerdgasming rn|0 fnt
+|faint|p2a: im nerdgasming rn
+|
+|upkeep
+|inactive|Clark_03 has 15 seconds left this turn.
+|
+|t:|1641757094
+|switch|p2a: hp was this whim|Corviknight, F|98/100
+|-damage|p2a: hp was this whim|86/100|[from] Stealth Rock
+|-ability|p2a: hp was this whim|Pressure
+|turn|32
+|inactive|Clark_03 has 25 seconds left this turn.
+|
+|t:|1641757099
+|switch|p1a: Warrior|Garchomp, F|44/100
+|-damage|p1a: Warrior|38/100|[from] Stealth Rock
+|move|p2a: hp was this whim|U-turn|p1a: Warrior
+|-damage|p1a: Warrior|25/100
+|-damage|p2a: hp was this whim|74/100|[from] ability: Rough Skin|[of] p1a: Warrior
+|inactive|Clark_03 has 30 seconds left this turn.
+|
+|t:|1641757102
+|switch|p2a: my wiggly is NASTY|Kommo-o, F|100/100|[from]move: U-turn
+|-damage|p2a: my wiggly is NASTY|88/100|[from] Spikes
+|-damage|p2a: my wiggly is NASTY|82/100|[from] Stealth Rock
+|
+|-heal|p1a: Warrior|31/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641757110
+|move|p1a: Warrior|Earthquake|p2a: my wiggly is NASTY
+|-damage|p2a: my wiggly is NASTY|34/100
+|move|p2a: my wiggly is NASTY|Close Combat|p1a: Warrior
+|-damage|p1a: Warrior|0 fnt
+|-unboost|p2a: my wiggly is NASTY|def|1
+|-unboost|p2a: my wiggly is NASTY|spd|1
+|-damage|p2a: my wiggly is NASTY|22/100|[from] ability: Rough Skin|[of] p1a: Warrior
+|faint|p1a: Warrior
+|-damage|p2a: my wiggly is NASTY|12/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641757115
+|switch|p1a: Bigger Wow|Weavile, F|9/100
+|turn|34
+|
+|t:|1641757121
+|move|p1a: Bigger Wow|Ice Shard|p2a: my wiggly is NASTY
+|-supereffective|p2a: my wiggly is NASTY
+|-damage|p2a: my wiggly is NASTY|0 fnt
+|faint|p2a: my wiggly is NASTY
+|
+|upkeep
+|
+|t:|1641757123
+|switch|p2a: hp was this whim|Corviknight, F|74/100
+|-damage|p2a: hp was this whim|61/100|[from] Stealth Rock
+|-ability|p2a: hp was this whim|Pressure
+|turn|35
+|
+|t:|1641757135
+|move|p1a: Bigger Wow|Icicle Crash|p2a: hp was this whim
+|-damage|p2a: hp was this whim|37/100
+|move|p2a: hp was this whim|U-turn|p1a: Bigger Wow
+|-supereffective|p1a: Bigger Wow
+|-damage|p1a: Bigger Wow|0 fnt
+|faint|p1a: Bigger Wow
+|
+|win|Luthier
+|c|☆Luthier|gg
+|c|☆Clark_03|gg

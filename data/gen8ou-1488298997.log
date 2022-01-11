@@ -1,0 +1,332 @@
+|j|☆gerald.jones061
+|j|☆maxolll
+|t:|1641747995
+|gametype|singles
+|player|p1|gerald.jones061|2|1186
+|player|p2|maxolll|266|1202
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Hawlucha, M|
+|poke|p1|Pelipper, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Rillaboom, F|
+|poke|p1|Kingdra, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zeraora|
+|poke|p2|Scizor, F|
+|poke|p2|Blissey, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by maxolll)
+|
+|t:|1641748003
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|1
+|
+|t:|1641748018
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Zeraora|Toxic|p1a: Rillaboom
+|-status|p1a: Rillaboom|tox
+|
+|-damage|p1a: Rillaboom|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641748029
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Rillaboom|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|75/100
+|-damage|p1a: Rillaboom|82/100 tox|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|-damage|p1a: Rillaboom|72/100 tox|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|78/100 tox|[from] Grassy Terrain
+|-heal|p2a: Ferrothorn|81/100|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|66/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641748043
+|move|p1a: Rillaboom|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|16/100
+|-unboost|p1a: Rillaboom|atk|1
+|-unboost|p1a: Rillaboom|def|1
+|-damage|p1a: Rillaboom|54/100 tox|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Rillaboom|44/100 tox|[from] item: Life Orb
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Rillaboom
+|-sidestart|p1: gerald.jones061|move: Stealth Rock
+|
+|-heal|p1a: Rillaboom|50/100 tox|[from] Grassy Terrain
+|-heal|p2a: Ferrothorn|22/100|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|31/100 tox|[from] psn
+|upkeep
+|turn|4
+|inactive|gerald.jones061 has 120 seconds left.
+|
+|t:|1641748096
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-damage|p1a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641748109
+|move|p1a: Pelipper|Defog|p2a: Pelipper
+|-unboost|p2a: Pelipper|evasion|1
+|-sideend|p1: gerald.jones061|Stealth Rock|[from] move: Defog|[of] p1a: Pelipper
+|-fieldend|move: Grassy Terrain
+|move|p2a: Pelipper|U-turn|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|73/100
+|
+|t:|1641748112
+|switch|p2a: Zeraora|Zeraora|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641748123
+|move|p2a: Zeraora|Plasma Fists|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641748137
+|switch|p1a: Kingdra|Kingdra, F|100/100
+|turn|7
+|
+|t:|1641748141
+|move|p1a: Kingdra|Hydro Pump|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641748154
+|switch|p2a: Ferrothorn|Ferrothorn, M|22/100
+|turn|8
+|
+|t:|1641748159
+|move|p1a: Kingdra|Hydro Pump|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641748163
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|9
+|
+|t:|1641748169
+|move|p2a: Scizor|Bullet Punch|p1a: Kingdra
+|-resisted|p1a: Kingdra
+|-damage|p1a: Kingdra|70/100
+|move|p1a: Kingdra|Hydro Pump|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641748173
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|10
+|
+|t:|1641748185
+|switch|p1a: Rillaboom|Rillaboom, F|31/100 tox
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Barraskewda|Psychic Fangs|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641748209
+|switch|p1a: Kingdra|Kingdra, F|70/100
+|turn|11
+|
+|t:|1641748228
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Kingdra|Hydro Pump|p2a: Blissey
+|-damage|p2a: Blissey|60/100
+|
+|-weather|none
+|-heal|p1a: Kingdra|76/100|[from] Grassy Terrain
+|-heal|p2a: Blissey|66/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641748253
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Blissey|Toxic|p1a: Zapdos|[miss]
+|-miss|p2a: Blissey|p1a: Zapdos
+|
+|-heal|p2a: Blissey|72/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641748268
+|move|p1a: Zapdos|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|51/100
+|move|p2a: Blissey|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-heal|p2a: Blissey|57/100|[from] Grassy Terrain
+|-damage|p1a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|inactive|gerald.jones061 has 120 seconds left.
+|
+|t:|1641748290
+|move|p1a: Zapdos|Thunder|p2a: Blissey|[miss]
+|-miss|p1a: Zapdos|p2a: Blissey
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|-damage|p1a: Zapdos|82/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|15
+|inactive|gerald.jones061 has 120 seconds left.
+|
+|t:|1641748311
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100 tox
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|69/100 tox
+|
+|-damage|p1a: Zapdos|51/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641748321
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|move|p2a: Blissey|Seismic Toss|p1a: Hawlucha
+|-damage|p1a: Hawlucha|67/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641748335
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Hawlucha|Substitute|p1a: Hawlucha
+|-start|p1a: Hawlucha|Substitute
+|-damage|p1a: Hawlucha|42/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641748352
+|move|p1a: Hawlucha|Acrobatics|p2a: Pelipper
+|-damage|p2a: Pelipper|82/100
+|move|p2a: Pelipper|Scald|p1a: Hawlucha
+|-end|p1a: Hawlucha|Substitute
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641748370
+|switch|p1a: Kingdra|Kingdra, F|76/100
+|move|p2a: Pelipper|Scald|p1a: Kingdra
+|-resisted|p1a: Kingdra
+|-damage|p1a: Kingdra|65/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641748381
+|move|p1a: Kingdra|Hurricane|p2a: Pelipper
+|-damage|p2a: Pelipper|17/100
+|move|p2a: Pelipper|U-turn|p1a: Kingdra
+|-damage|p1a: Kingdra|54/100
+|
+|t:|1641748387
+|switch|p2a: Barraskewda|Barraskewda, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1641748397
+|move|p2a: Barraskewda|Psychic Fangs|p1a: Kingdra
+|-damage|p1a: Kingdra|5/100
+|move|p1a: Kingdra|Hurricane|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641748401
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|22
+|
+|t:|1641748408
+|move|p1a: Kingdra|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|81/100
+|move|p2a: Blissey|Seismic Toss|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|faint|p1a: Kingdra
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641748420
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|turn|23
+|
+|t:|1641748425
+|move|p1a: Crawdaunt|Knock Off|p2a: Blissey
+|-damage|p2a: Blissey|6/100
+|-damage|p1a: Crawdaunt|84/100|[from] item: Rocky Helmet|[of] p2a: Blissey
+|-enditem|p2a: Blissey|Rocky Helmet|[from] move: Knock Off|[of] p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|74/100|[from] item: Life Orb
+|move|p2a: Blissey|Toxic|p1a: Crawdaunt
+|-status|p1a: Crawdaunt|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Crawdaunt|68/100 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|gerald.jones061 has 120 seconds left.
+|-message|maxolll forfeited.
+|
+|win|gerald.jones061
+|raw|gerald.jones061's rating: 1186 &rarr; <strong>1212</strong><br />(+26 for winning)
+|raw|maxolll's rating: 1202 &rarr; <strong>1176</strong><br />(-26 for losing)
+|l|☆maxolll

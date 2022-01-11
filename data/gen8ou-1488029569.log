@@ -1,0 +1,260 @@
+|j|☆GamerOrange5
+|j|☆Magnussz
+|t:|1641699744
+|gametype|singles
+|player|p1|GamerOrange5|1|1033
+|player|p2|Magnussz|hilbert-wonderlauncher|1029
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scizor, F|
+|poke|p1|Mew|
+|poke|p1|Alakazam, M|
+|poke|p1|Blacephalon|
+|poke|p1|Aegislash, M|
+|poke|p1|Dragonite, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Alakazam, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Buzzwole|
+|teampreview
+|
+|t:|1641699755
+|start
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|1
+|
+|t:|1641699772
+|move|p2a: Buzzwole|Darkest Lariat|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|49/100
+|move|p1a: Aegislash|Toxic|p2a: Buzzwole
+|-status|p2a: Buzzwole|tox
+|
+|-heal|p1a: Aegislash|55/100|[from] item: Leftovers
+|-damage|p2a: Buzzwole|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641699781
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Buzzwole|Darkest Lariat|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|-unboost|p2a: Buzzwole|atk|1
+|
+|-heal|p1a: Aegislash|61/100|[from] item: Leftovers
+|-damage|p2a: Buzzwole|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641699794
+|move|p2a: Buzzwole|Darkest Lariat|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-crit|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-damage|p2a: Buzzwole|63/100 tox|[from] psn
+|upkeep
+|
+|t:|1641699804
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-item|p1a: Blacephalon|Air Balloon
+|turn|4
+|
+|t:|1641699823
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Blacephalon|Fire Blast|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|55/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641699835
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Dragapult|Sucker Punch||[still]
+|-fail|p2a: Dragapult
+|
+|upkeep
+|turn|6
+|
+|t:|1641699846
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|move|p1a: Dragonite|Dragon Claw|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|79/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641699863
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-item|p1a: Blacephalon|Air Balloon
+|move|p2a: Bisharp|Iron Head|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-crit|p1a: Blacephalon
+|-damage|p1a: Blacephalon|17/100
+|-enditem|p1a: Blacephalon|Air Balloon
+|
+|upkeep
+|turn|8
+|
+|t:|1641699878
+|switch|p2a: Dragapult|Dragapult, M|55/100
+|move|p1a: Blacephalon|Fire Blast|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|10/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641699893
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|77/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|27/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641699902
+|move|p2a: Dragapult|Dragon Darts|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641699908
+|switch|p1a: Blacephalon|Blacephalon|17/100
+|turn|11
+|
+|t:|1641699913
+|move|p2a: Dragapult|Dragon Darts|p1a: Blacephalon
+|-crit|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|upkeep
+|
+|t:|1641699921
+|switch|p1a: Mew|Mew|100/100
+|turn|12
+|
+|t:|1641699931
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Mew|Blizzard|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1641699941
+|switch|p2a: Bisharp|Bisharp, M|79/100
+|turn|13
+|
+|t:|1641699949
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Bisharp|Foul Play|p1a: Scizor
+|-damage|p1a: Scizor|31/100
+|
+|-heal|p2a: Bisharp|85/100|[from] Grassy Terrain
+|-heal|p1a: Scizor|37/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641699960
+|move|p1a: Scizor|Bullet Punch|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|64/100
+|-damage|p1a: Scizor|27/100|[from] item: Life Orb
+|move|p2a: Bisharp|Foul Play|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-heal|p2a: Bisharp|70/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641699969
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|turn|15
+|
+|t:|1641699972
+|move|p1a: Alakazam|Dazzling Gleam|p2a: Bisharp
+|-damage|p2a: Bisharp|30/100
+|move|p2a: Bisharp|Foul Play|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-damage|p1a: Alakazam|31/100
+|
+|-heal|p1a: Alakazam|37/100|[from] Grassy Terrain
+|-heal|p2a: Bisharp|36/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641699985
+|move|p1a: Alakazam|Dazzling Gleam|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|-heal|p1a: Alakazam|43/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641699999
+|switch|p2a: Alakazam|Alakazam, F|100/100
+|turn|17
+|
+|t:|1641700003
+|switch|p1a: Mew|Mew|100/100
+|move|p2a: Alakazam|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|39/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641700014
+|move|p2a: Alakazam|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641700020
+|switch|p1a: Alakazam|Alakazam, M|43/100
+|turn|19
+|
+|t:|1641700025
+|move|p2a: Alakazam|Shadow Ball|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|win|Magnussz
+|raw|GamerOrange5's rating: 1033 &rarr; <strong>1018</strong><br />(-15 for losing)
+|raw|Magnussz's rating: 1029 &rarr; <strong>1065</strong><br />(+36 for winning)
+|c|☆GamerOrange5|Gg
+|l|☆GamerOrange5

@@ -1,0 +1,149 @@
+|j|☆Argentide
+|j|☆hanserzsh2001
+|t:|1641812267
+|gametype|singles
+|player|p1|Argentide|102|1347
+|player|p2|hanserzsh2001|dawn|1371
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ditto|
+|poke|p1|Volcarona, F|
+|poke|p1|Skarmory, M|
+|poke|p1|Slowbro, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Weavile, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Volcanion|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Blastoise, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hanserzsh2001)
+|
+|t:|1641812294
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Pelipper|atk|1
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641812300
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: Pelipper|Scald|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|87/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641812308
+|move|p2a: Pelipper|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|77/100
+|
+|t:|1641812310
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100|[from]move: U-turn
+|move|p1a: Slowbro|Future Sight|p2a: Thundurus
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641812323
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Thundurus|atk|1
+|move|p2a: Thundurus|Weather Ball|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|5/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|12/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641812337
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|86/100
+|-heal|p2a: Ferrothorn|92/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641812344
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Volcarona
+|-damage|p1a: Volcarona|72/100
+|-status|p2a: Ferrothorn|brn|[from] ability: Flame Body|[of] p1a: Volcarona
+|-enditem|p1a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|99/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|92/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641812352
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641812357
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Volcanion|Steam Eruption|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641812362
+|switch|p1a: Weavile|Weavile, F|100/100
+|turn|8
+|
+|t:|1641812364
+|move|p1a: Weavile|Knock Off|p2a: Volcanion
+|-damage|p2a: Volcanion|48/100
+|-enditem|p2a: Volcanion|Choice Specs|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Volcanion|Steam Eruption|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|-weather|none
+|upkeep
+|-message|Argentide forfeited.
+|
+|win|hanserzsh2001
+|raw|Argentide's rating: 1347 &rarr; <strong>1328</strong><br />(-19 for losing)
+|raw|hanserzsh2001's rating: 1371 &rarr; <strong>1390</strong><br />(+19 for winning)
+|l|☆Argentide

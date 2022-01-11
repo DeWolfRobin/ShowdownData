@@ -1,0 +1,412 @@
+|j|☆mcp3
+|j|☆pardon my swag
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641760624
+|gametype|singles
+|player|p1|mcp3|marley|
+|player|p2|pardon my swag|liza|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weezing, M|
+|poke|p1|Victini|
+|poke|p1|Blacephalon|
+|poke|p1|Snorlax, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Blaziken, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Weavile, M|
+|poke|p2|Tangrowth, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Zapdos|
+|teampreview
+|j| Darkness Dragoon
+|j| UnusualFighter
+|j| cogonahorse
+|j| PincherD
+|l| Darkness Dragoon
+|c|☆pardon my swag|hf
+|inactive|mcp3 has 120 seconds left.
+|c|☆mcp3|hf
+|j| Lyudra
+|j| Glavenus71601
+|
+|t:|1641760663
+|start
+|switch|p1a: XANMAN|Weezing, M|100/100
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|-ability|p1a: XANMAN|Neutralizing Gas
+|turn|1
+|
+|t:|1641760677
+|-end|p1a: XANMAN|ability: Neutralizing Gas
+|switch|p1a: metro2(stormzone)|Snorlax, F|100/100
+|move|p2a: Slowbro|Future Sight|p1a: metro2(stormzone)
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|2
+|j| Zombini62
+|
+|t:|1641760681
+|move|p1a: metro2(stormzone)|Belly Drum|p1a: metro2(stormzone)
+|-damage|p1a: metro2(stormzone)|50/100
+|-setboost|p1a: metro2(stormzone)|atk|6|[from] move: Belly Drum
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641760700
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: Teleport
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: metro2(stormzone)|atk|1
+|
+|upkeep
+|turn|3
+|-enditem|p1a: metro2(stormzone)|Custap Berry|[eat]
+|-activate|p1a: metro2(stormzone)|item: Custap Berry|[consumed]
+|
+|t:|1641760703
+|move|p1a: metro2(stormzone)|Self-Destruct|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p1a: metro2(stormzone)
+|faint|p2a: Landorus
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|c| Zombini62|What the fuck LMAO
+|c| Glavenus71601|Now that is tech if I've ever seen it
+|
+|t:|1641760724
+|switch|p2a: Weavile|Weavile, M|100/100
+|switch|p1a: LIL DUDE|Victini|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|4
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to +!</strong><br />Only users of rank + and higher can talk.</div>
+|
+|t:|1641760731
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: LIL DUDE|V-create|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|upkeep
+|turn|5
+|
+|t:|1641760738
+|switch|p1a: BIG 38 FTW|Dragonite, M|100/100
+|move|p2a: Heatran|Stealth Rock|p1a: BIG 38 FTW
+|-sidestart|p1: mcp3|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1641760759
+|switch|p1a: METRO PART 2|Blacephalon|100/100
+|-damage|p1a: METRO PART 2|76/100|[from] Stealth Rock
+|-end|p2a: Heatran|ability: Flash Fire|[silent]
+|switch|p2a: Tangrowth|Tangrowth, M|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641760767
+|move|p1a: METRO PART 2|Knock Off|p2a: Tangrowth
+|-damage|p2a: Tangrowth|84/100
+|-damage|p1a: METRO PART 2|59/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|-enditem|p2a: Tangrowth|Rocky Helmet|[from] move: Knock Off|[of] p1a: METRO PART 2
+|move|p2a: Tangrowth|Knock Off|p1a: METRO PART 2
+|-supereffective|p1a: METRO PART 2
+|-damage|p1a: METRO PART 2|0 fnt
+|-enditem|p1a: METRO PART 2|Normal Gem|[from] move: Knock Off|[of] p2a: Tangrowth
+|faint|p1a: METRO PART 2
+|
+|upkeep
+|
+|t:|1641760773
+|switch|p1a: XANMAN|Weezing, M|100/100
+|-ability|p1a: XANMAN|Neutralizing Gas
+|-damage|p1a: XANMAN|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641760778
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: XANMAN|Flamethrower|p2a: Heatran
+|-damage|p2a: Heatran|85/100
+|
+|-heal|p2a: Heatran|91/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641760784
+|move|p1a: XANMAN|Destiny Bond|p1a: XANMAN
+|-singlemove|p1a: XANMAN|Destiny Bond
+|move|p2a: Heatran|Magma Storm|p1a: XANMAN
+|-damage|p1a: XANMAN|4/100
+|-activate|p1a: XANMAN|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|97/100|[from] item: Leftovers
+|-damage|p1a: XANMAN|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p1a: XANMAN
+|-end|p1a: XANMAN|ability: Neutralizing Gas
+|upkeep
+|c|☆mcp3|FUCK
+|
+|t:|1641760795
+|switch|p1a: LIL DUDE|Victini|100/100
+|-damage|p1a: LIL DUDE|75/100|[from] Stealth Rock
+|turn|10
+|c|☆mcp3|gg
+|
+|t:|1641760799
+|move|p1a: LIL DUDE|Final Gambit|p2a: Heatran
+|-damage|p2a: Heatran|19/100
+|faint|p1a: LIL DUDE
+|move|p2a: Heatran|Earth Power|p1: LIL DUDE|[notarget]
+|-fail|p2a: Heatran
+|
+|-heal|p2a: Heatran|25/100|[from] item: Leftovers
+|upkeep
+|c|☆pardon my swag|gg
+|
+|t:|1641760804
+|switch|p1a: BIG 38 FTW|Dragonite, M|100/100
+|turn|11
+|
+|t:|1641760806
+|switch|p2a: Tangrowth|Tangrowth, M|84/100
+|move|p1a: BIG 38 FTW|Dragon Dance|p1a: BIG 38 FTW
+|-boost|p1a: BIG 38 FTW|atk|1
+|-boost|p1a: BIG 38 FTW|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1641760809
+|move|p1a: BIG 38 FTW|Dragon Dance|p1a: BIG 38 FTW
+|-boost|p1a: BIG 38 FTW|atk|1
+|-boost|p1a: BIG 38 FTW|spe|1
+|move|p2a: Tangrowth|Sleep Powder|p1a: BIG 38 FTW|[miss]
+|-miss|p2a: Tangrowth|p1a: BIG 38 FTW
+|
+|upkeep
+|turn|13
+|
+|t:|1641760811
+|move|p1a: BIG 38 FTW|Dragon Dance|p1a: BIG 38 FTW
+|-boost|p1a: BIG 38 FTW|atk|1
+|-boost|p1a: BIG 38 FTW|spe|1
+|move|p2a: Tangrowth|Sleep Powder|p1a: BIG 38 FTW
+|-status|p1a: BIG 38 FTW|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|14
+|
+|t:|1641760813
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|cant|p1a: BIG 38 FTW|slp
+|
+|upkeep
+|turn|15
+|
+|t:|1641760816
+|cant|p1a: BIG 38 FTW|slp
+|move|p2a: Weavile|Triple Axel|p1a: BIG 38 FTW|[miss]
+|-miss|p2a: Weavile|p1a: BIG 38 FTW
+|
+|upkeep
+|turn|16
+|
+|t:|1641760820
+|-curestatus|p1a: BIG 38 FTW|slp|[msg]
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641760822
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|17
+|c|☆pardon my swag|o
+|
+|t:|1641760824
+|move|p1a: BIG 38 FTW|Ice Punch|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641760827
+|switch|p2a: Tangrowth|Tangrowth, M|100/100
+|turn|18
+|c|☆mcp3|LOOOOL
+|
+|t:|1641760833
+|move|p1a: BIG 38 FTW|Ice Punch|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|35/100
+|move|p2a: Tangrowth|Sleep Powder|p1a: BIG 38 FTW
+|-status|p1a: BIG 38 FTW|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|19
+|
+|t:|1641760839
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|cant|p1a: BIG 38 FTW|slp
+|
+|upkeep
+|turn|20
+|
+|t:|1641760842
+|-curestatus|p1a: BIG 38 FTW|slp|[msg]
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|48/100
+|move|p2a: Slowbro|Future Sight|p1a: BIG 38 FTW
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|21
+|
+|t:|1641760846
+|switch|p2a: Heatran|Heatran, M|25/100
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641760850
+|switch|p2a: Slowbro|Slowbro, M|81/100
+|turn|22
+|
+|t:|1641760853
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|27/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|77/100
+|
+|-end|p1a: BIG 38 FTW|move: Future Sight
+|-damage|p1a: BIG 38 FTW|77/100
+|upkeep
+|turn|23
+|
+|t:|1641760858
+|switch|p2a: Tangrowth|Tangrowth, M|68/100
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-damage|p2a: Tangrowth|45/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641760862
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: BIG 38 FTW|Ice Punch|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|81/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641760864
+|move|p1a: BIG 38 FTW|Dragon Dance|p1a: BIG 38 FTW
+|-boost|p1a: BIG 38 FTW|atk|1
+|-boost|p1a: BIG 38 FTW|spe|1
+|move|p2a: Slowbro|Future Sight|p1a: BIG 38 FTW
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|26
+|
+|t:|1641760868
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|18/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|68/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641760872
+|move|p1a: BIG 38 FTW|Roost|p1a: BIG 38 FTW
+|-heal|p1a: BIG 38 FTW|100/100
+|-singleturn|p1a: BIG 38 FTW|move: Roost
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|100/100
+|
+|-end|p1a: BIG 38 FTW|move: Future Sight
+|-damage|p1a: BIG 38 FTW|80/100
+|upkeep
+|turn|28
+|
+|t:|1641760875
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|33/100
+|move|p2a: Slowbro|Future Sight|p1a: BIG 38 FTW
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|29
+|
+|t:|1641760879
+|move|p1a: BIG 38 FTW|Ice Punch|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|9/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|59/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641760885
+|switch|p2a: Tangrowth|Tangrowth, M|78/100
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-damage|p2a: Tangrowth|50/100
+|
+|-end|p1a: BIG 38 FTW|move: Future Sight
+|-damage|p1a: BIG 38 FTW|39/100
+|upkeep
+|turn|31
+|
+|t:|1641760889
+|move|p1a: BIG 38 FTW|Ice Punch|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|0 fnt
+|faint|p2a: Tangrowth
+|
+|upkeep
+|
+|t:|1641760891
+|switch|p2a: Slowbro|Slowbro, M|93/100
+|turn|32
+|
+|t:|1641760894
+|move|p1a: BIG 38 FTW|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|26/100
+|move|p2a: Slowbro|Future Sight|p1a: BIG 38 FTW
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|33
+|c|☆pardon my swag|oh well
+|-message|pardon my swag forfeited.
+|
+|win|mcp3
+|n|☆mcp3|mcp3
+|n|☆pardon my swag|pardonmyswag
+|l|☆mcp3
+|l|☆pardon my swag

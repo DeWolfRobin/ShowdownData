@@ -1,0 +1,392 @@
+|j|☆Franakin
+|j|☆8jaggery
+|t:|1641844497
+|gametype|singles
+|player|p1|Franakin|cynthia-gen4|1162
+|player|p2|8jaggery|2|1184
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heracross, F|
+|poke|p1|Gengar, M|
+|poke|p1|Skarmory, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Espeon, M|
+|poke|p1|Zeraora|
+|poke|p2|Hawlucha, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Clefable, M|
+|poke|p2|Blastoise, F|
+|teampreview
+|
+|t:|1641844505
+|start
+|switch|p1a: Zeraora|Zeraora|100/100
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Franakin)
+|
+|t:|1641844513
+|move|p1a: Zeraora|Fake Out|p2a: Rillaboom
+|-damage|p2a: Rillaboom|91/100
+|cant|p2a: Rillaboom|flinch
+|
+|-heal|p2a: Rillaboom|97/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1641844521
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: Rillaboom|High Horsepower|p1a: Skarmory
+|-immune|p1a: Skarmory
+|
+|-heal|p2a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1641844533
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Skarmory|Iron Defense|p1a: Skarmory
+|-boost|p1a: Skarmory|def|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641844545
+|move|p2a: Heatran|Flamethrower|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-ability|p1a: Skarmory|Sturdy
+|-damage|p1a: Skarmory|1/100
+|move|p1a: Skarmory|Body Press|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-enditem|p2a: Heatran|Air Balloon
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641844564
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|turn|5
+|
+|t:|1641844569
+|move|p2a: Rillaboom|Grassy Glide|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|-damage|p2a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|faint|p1a: Skarmory
+|
+|-heal|p2a: Rillaboom|90/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641844584
+|switch|p1a: Heracross|Heracross, F|100/100
+|turn|6
+|
+|t:|1641844601
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Heracross|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|83/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Heracross
+|
+|upkeep
+|turn|7
+|
+|t:|1641844613
+|switch|p1a: Espeon|Espeon, M|100/100
+|move|p2a: Clefable|Moonblast|p1a: Espeon
+|-damage|p1a: Espeon|72/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641844623
+|switch|p2a: Rillaboom|Rillaboom, M|90/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Espeon|Psyshock|p2a: Rillaboom
+|-damage|p2a: Rillaboom|61/100
+|
+|-heal|p1a: Espeon|78/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1641844644
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Rillaboom|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|83/100
+|-enditem|p1a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|74/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641844659
+|switch|p2a: Blastoise|Blastoise, F|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641844669
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|upkeep
+|turn|12
+|
+|t:|1641844682
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Blastoise
+|-damage|p2a: Blastoise|53/100
+|-damage|p2a: Blastoise|6/100
+|-hitcount|p2a: Blastoise|2
+|move|p2a: Blastoise|Ice Beam|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-heal|p2a: Blastoise|12/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|c|☆8jaggery|close
+|
+|t:|1641844696
+|switch|p1a: Zeraora|Zeraora|100/100
+|turn|13
+|
+|t:|1641844708
+|move|p1a: Zeraora|Fake Out|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|upkeep
+|c|☆8jaggery|welp
+|
+|t:|1641844716
+|switch|p2a: Rillaboom|Rillaboom, M|74/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|14
+|
+|t:|1641844724
+|move|p1a: Zeraora|Volt Switch|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|62/100
+|
+|t:|1641844730
+|switch|p1a: Heracross|Heracross, F|100/100|[from]move: Volt Switch
+|move|p2a: Rillaboom|High Horsepower|p1a: Heracross
+|-resisted|p1a: Heracross
+|-damage|p1a: Heracross|77/100
+|
+|-heal|p1a: Heracross|83/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641844743
+|switch|p2a: Clefable|Clefable, M|83/100
+|move|p1a: Heracross|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|71/100
+|
+|-heal|p1a: Heracross|89/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|77/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641844761
+|switch|p1a: Espeon|Espeon, M|78/100
+|move|p2a: Clefable|Psychic|p1a: Espeon
+|-resisted|p1a: Espeon
+|-damage|p1a: Espeon|70/100
+|
+|-heal|p1a: Espeon|75/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|83/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1641844772
+|switch|p2a: Rillaboom|Rillaboom, M|68/100
+|move|p1a: Espeon|Psyshock|p2a: Rillaboom
+|-damage|p2a: Rillaboom|33/100
+|
+|-heal|p1a: Espeon|81/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|40/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1641844787
+|switch|p1a: Heracross|Heracross, F|89/100
+|move|p2a: Rillaboom|Knock Off|p1a: Heracross
+|-resisted|p1a: Heracross
+|-damage|p1a: Heracross|66/100
+|-enditem|p1a: Heracross|Choice Scarf|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p1a: Heracross|72/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|46/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1641844806
+|switch|p2a: Clefable|Clefable, M|83/100
+|move|p1a: Heracross|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|70/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641844818
+|switch|p1a: Gengar|Gengar, M|100/100
+|move|p2a: Clefable|Moonblast|p1a: Gengar
+|-resisted|p1a: Gengar
+|-damage|p1a: Gengar|73/100
+|-unboost|p1a: Gengar|spa|1
+|
+|upkeep
+|turn|21
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641844849
+|move|p1a: Gengar|Sludge Wave|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641844853
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|turn|22
+|
+|t:|1641844864
+|switch|p1a: Espeon|Espeon, M|81/100
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|upkeep
+|turn|23
+|
+|t:|1641844872
+|move|p1a: Espeon|Psyshock|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641844900
+|switch|p2a: Rillaboom|Rillaboom, M|46/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|24
+|
+|t:|1641844910
+|switch|p1a: Heracross|Heracross, F|72/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Heracross
+|-resisted|p1a: Heracross
+|-damage|p1a: Heracross|35/100
+|
+|-heal|p1a: Heracross|41/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|52/100|[from] Grassy Terrain
+|upkeep
+|turn|25
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641844924
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Heracross|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|10/100
+|-enditem|p2a: Dragapult|Life Orb|[from] move: Knock Off|[of] p1a: Heracross
+|
+|-heal|p2a: Dragapult|16/100|[from] Grassy Terrain
+|-heal|p1a: Heracross|47/100|[from] Grassy Terrain
+|upkeep
+|turn|26
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641844940
+|move|p2a: Dragapult|Draco Meteor|p1a: Heracross
+|-damage|p1a: Heracross|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Heracross
+|
+|-heal|p2a: Dragapult|22/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641844948
+|switch|p1a: Gengar|Gengar, M|73/100
+|turn|27
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641844965
+|move|p2a: Dragapult|Will-O-Wisp|p1a: Gengar
+|-status|p1a: Gengar|brn
+|move|p1a: Gengar|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Gengar|79/100 brn|[from] Grassy Terrain
+|-damage|p1a: Gengar|73/100 brn|[from] brn
+|upkeep
+|
+|t:|1641844977
+|switch|p2a: Rillaboom|Rillaboom, M|52/100
+|turn|28
+|
+|t:|1641844981
+|switch|p1a: Espeon|Espeon, M|81/100
+|move|p2a: Rillaboom|Knock Off|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|-enditem|p1a: Espeon|Assault Vest|[from] move: Knock Off|[of] p2a: Rillaboom
+|faint|p1a: Espeon
+|
+|-heal|p2a: Rillaboom|58/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641844994
+|switch|p1a: Gengar|Gengar, M|73/100 brn
+|turn|29
+|
+|t:|1641844998
+|move|p1a: Gengar|Sludge Wave|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|win|Franakin
+|raw|Franakin's rating: 1162 &rarr; <strong>1189</strong><br />(+27 for winning)
+|raw|8jaggery's rating: 1184 &rarr; <strong>1157</strong><br />(-27 for losing)
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,228 @@
+|j|☆DawnMirrorTestVGC
+|j|☆Gokuism
+|t:|1641793270
+|gametype|singles
+|player|p1|DawnMirrorTestVGC|hilbert|1000
+|player|p2|Gokuism|102|1026
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Victini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Melmetal|
+|poke|p1|Dragapult, F|
+|poke|p2|Nihilego|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Kartana|
+|poke|p2|Celesteela|
+|poke|p2|Garchomp, F|
+|poke|p2|Tapu Fini|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DawnMirrorTestVGC)
+|c|☆DawnMirrorTestVGC|Glhf
+|inactive|Gokuism has 120 seconds left.
+|
+|t:|1641793315
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|1
+|
+|t:|1641793323
+|move|p1a: Kartana|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|65/100
+|-damage|p1a: Kartana|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Kartana|72/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Rocky Helmet|[from] move: Knock Off|[of] p1a: Kartana
+|move|p2a: Garchomp|Fire Blast|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641793327
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|2
+|
+|t:|1641793333
+|move|p1a: Dragapult|Draco Meteor|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641793351
+|switch|p2a: Kartana|Kartana|100/100
+|turn|3
+|
+|t:|1641793357
+|switch|p1a: Victini|Victini|100/100
+|move|p2a: Kartana|Knock Off|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|-enditem|p1a: Victini|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Victini
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641793365
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|4
+|
+|t:|1641793391
+|move|p2a: Kartana|Knock Off|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|8/100
+|-enditem|p1a: Tapu Lele|Choice Specs|[from] move: Knock Off|[of] p2a: Kartana
+|move|p1a: Tapu Lele|Focus Blast|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641793396
+|switch|p2a: Celesteela|Celesteela|100/100
+|turn|5
+|
+|t:|1641793408
+|move|p1a: Tapu Lele|Focus Blast|p2a: Celesteela
+|-damage|p2a: Celesteela|57/100
+|move|p2a: Celesteela|Autotomize|p2a: Celesteela
+|-boost|p2a: Celesteela|spe|2
+|-start|p2a: Celesteela|Autotomize
+|
+|upkeep
+|turn|6
+|inactive|Gokuism has 120 seconds left.
+|inactive|Gokuism has 90 seconds left.
+|
+|t:|1641793470
+|move|p2a: Celesteela|Meteor Beam||[still]
+|-prepare|p2a: Celesteela|Meteor Beam
+|-boost|p2a: Celesteela|spa|1
+|-enditem|p2a: Celesteela|Power Herb
+|-anim|p2a: Celesteela|Meteor Beam|p1a: Tapu Lele|[miss]
+|-miss|p2a: Celesteela|p1a: Tapu Lele
+|move|p1a: Tapu Lele|Focus Blast|p2a: Celesteela
+|-damage|p2a: Celesteela|12/100
+|-unboost|p2a: Celesteela|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641793476
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Celesteela|Flamethrower|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|71/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641793486
+|move|p2a: Celesteela|Air Slash|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641793491
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Celesteela|atk|1
+|turn|9
+|inactive|Gokuism has 90 seconds left.
+|
+|t:|1641793526
+|move|p2a: Celesteela|Air Slash|p1a: Landorus
+|-damage|p1a: Landorus|21/100
+|move|p1a: Landorus|Smack Down|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|
+|upkeep
+|
+|t:|1641793537
+|switch|p2a: Nihilego|Nihilego|100/100
+|turn|10
+|
+|t:|1641793542
+|move|p2a: Nihilego|Power Gem|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-ability|p2a: Nihilego|Beast Boost|boost
+|-boost|p2a: Nihilego|spe|1
+|
+|upkeep
+|
+|t:|1641793545
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|11
+|c|☆DawnMirrorTestVGC|gg
+|
+|t:|1641793556
+|move|p2a: Nihilego|Meteor Beam||[still]
+|-prepare|p2a: Nihilego|Meteor Beam
+|-boost|p2a: Nihilego|spa|1
+|-enditem|p2a: Nihilego|Power Herb
+|-anim|p2a: Nihilego|Meteor Beam|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|71/100
+|move|p1a: Melmetal|Earthquake|p2a: Nihilego
+|-supereffective|p2a: Nihilego
+|-damage|p2a: Nihilego|0 fnt
+|faint|p2a: Nihilego
+|
+|upkeep
+|
+|t:|1641793562
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|12
+|
+|t:|1641793571
+|move|p2a: Zapdos|Close Combat|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|-unboost|p2a: Zapdos|def|1
+|-unboost|p2a: Zapdos|spd|1
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641793574
+|switch|p1a: Tapu Lele|Tapu Lele|8/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|13
+|
+|t:|1641793588
+|move|p2a: Zapdos|Close Combat|p1a: Tapu Lele
+|-resisted|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|-unboost|p2a: Zapdos|def|1
+|-unboost|p2a: Zapdos|spd|1
+|faint|p1a: Tapu Lele
+|
+|win|Gokuism
+|raw|DawnMirrorTestVGC's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Gokuism's rating: 1026 &rarr; <strong>1059</strong><br />(+33 for winning)

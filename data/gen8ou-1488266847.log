@@ -1,0 +1,89 @@
+|j|☆pihgg
+|j|☆P0KESHOW
+|t:|1641743613
+|gametype|singles
+|player|p1|pihgg|2|1000
+|player|p2|P0KESHOW|battlegirl-gen4|1046
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scizor, F|
+|poke|p1|Kartana|
+|poke|p1|Slowbro, F|
+|poke|p1|Blissey, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Aggron, F|
+|poke|p2|Victini|
+|poke|p2|Mew|
+|poke|p2|Druddigon, M|
+|poke|p2|Shuckle, F|
+|poke|p2|Mamoswine, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by P0KESHOW)
+|
+|t:|1641743634
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Aggron|Aggron, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|
+|t:|1641743639
+|move|p1a: Tapu Koko|Volt Switch|p2a: Aggron
+|-ability|p2a: Aggron|Sturdy
+|-damage|p2a: Aggron|1/100
+|
+|t:|1641743655
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Aggron|atk|1
+|move|p2a: Aggron|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|43/100
+|
+|-heal|p1a: Landorus|49/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|-enditem|p2a: Aggron|Custap Berry|[eat]
+|-activate|p2a: Aggron|item: Custap Berry|[consumed]
+|
+|t:|1641743667
+|move|p2a: Aggron|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641743676
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|turn|3
+|
+|t:|1641743679
+|move|p2a: Aggron|Thunder Punch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|72/100
+|-status|p1a: Slowbro|par
+|move|p1a: Slowbro|Scald|p2a: Aggron
+|-supereffective|p2a: Aggron
+|-damage|p2a: Aggron|0 fnt
+|faint|p2a: Aggron
+|
+|-heal|p1a: Slowbro|78/100 par|[from] item: Leftovers
+|upkeep
+|-message|P0KESHOW forfeited.
+|
+|win|pihgg
+|raw|pihgg's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|P0KESHOW's rating: 1046 &rarr; <strong>1027</strong><br />(-19 for losing)

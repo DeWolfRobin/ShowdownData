@@ -1,0 +1,93 @@
+|j|☆im rlly tired
+|j|☆TheBoopening
+|t:|1641847954
+|gametype|singles
+|player|p1|im rlly tired|wally|1096
+|player|p2|TheBoopening|schoolkidf|1097
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Clefable, F|
+|poke|p1|Regieleki|
+|poke|p1|Tapu Lele|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Celesteela|
+|poke|p2|Quagsire, F|
+|poke|p2|Nihilego|
+|poke|p2|Mew|
+|poke|p2|Klefki, F|
+|poke|p2|Reuniclus, F|
+|poke|p2|Sirfetch’d, M|
+|teampreview
+|
+|t:|1641847969
+|start
+|switch|p1a: puppy|Ferrothorn, M, shiny|100/100
+|switch|p2a: Nihilego|Nihilego|100/100
+|turn|1
+|
+|t:|1641847980
+|switch|p2a: Reuniclus|Reuniclus, F|100/100
+|move|p1a: puppy|Leech Seed|p2a: Reuniclus
+|-start|p2a: Reuniclus|move: Leech Seed
+|
+|upkeep
+|turn|2
+|
+|t:|1641847992
+|switch|p1a: mommy|Blissey, F, shiny|100/100
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641848000
+|move|p1a: mommy|Seismic Toss|p2a: Reuniclus
+|-damage|p2a: Reuniclus|75/100
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-heal|p2a: Reuniclus|81/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641848007
+|move|p1a: mommy|Seismic Toss|p2a: Reuniclus
+|-damage|p2a: Reuniclus|56/100
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|
+|-heal|p2a: Reuniclus|62/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641848015
+|move|p1a: mommy|Seismic Toss|p2a: Reuniclus
+|-damage|p2a: Reuniclus|37/100
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|87/100
+|
+|-heal|p2a: Reuniclus|93/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|-message|im rlly tired forfeited.
+|
+|win|TheBoopening
+|raw|im rlly tired's rating: 1096 &rarr; <strong>1072</strong><br />(-24 for losing)
+|raw|TheBoopening's rating: 1097 &rarr; <strong>1122</strong><br />(+25 for winning)
+|l|☆im rlly tired

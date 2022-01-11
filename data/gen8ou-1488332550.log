@@ -1,0 +1,116 @@
+|j|☆GimmickAndTheme
+|j|☆bugalsvancouver
+|t:|1641752263
+|gametype|singles
+|player|p1|GimmickAndTheme|barry|1193
+|player|p2|bugalsvancouver|aaron|1139
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Garchomp, M|
+|poke|p2|Regieleki|
+|poke|p2|Heracross, M|
+|poke|p2|Salamence, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Scizor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by bugalsvancouver)
+|
+|t:|1641752278
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Sea Thingy|Toxapex, F|100/100
+|turn|1
+|
+|t:|1641752284
+|move|p1a: Garchomp|Earthquake|p2a: Sea Thingy
+|-supereffective|p2a: Sea Thingy
+|-damage|p2a: Sea Thingy|0 fnt
+|faint|p2a: Sea Thingy
+|-damage|p1a: Garchomp|91/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆GimmickAndTheme|jesus
+|
+|t:|1641752290
+|switch|p2a: Electro|Regieleki|100/100
+|turn|2
+|
+|t:|1641752293
+|move|p2a: Electro|Reflect|p2a: Electro
+|-sidestart|p2: bugalsvancouver|Reflect
+|move|p1a: Garchomp|Earthquake|p2a: Electro
+|-supereffective|p2a: Electro
+|-damage|p2a: Electro|0 fnt
+|faint|p2a: Electro
+|-damage|p1a: Garchomp|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641752305
+|switch|p2a: Dragon from Shrek|Salamence, F, shiny|100/100
+|turn|3
+|
+|t:|1641752308
+|move|p1a: Garchomp|Outrage|p2a: Dragon from Shrek
+|-supereffective|p2a: Dragon from Shrek
+|-damage|p2a: Dragon from Shrek|7/100
+|-damage|p1a: Garchomp|71/100|[from] item: Life Orb
+|move|p2a: Dragon from Shrek|Dragon Claw|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Dragon from Shrek|0 fnt|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|faint|p2a: Dragon from Shrek
+|
+|upkeep
+|
+|t:|1641752321
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|switch|p2a: Herculean|Heracross, M, shiny|100/100
+|turn|4
+|
+|t:|1641752325
+|move|p2a: Herculean|Bulk Up|p2a: Herculean
+|-boost|p2a: Herculean|atk|1
+|-boost|p2a: Herculean|def|1
+|move|p1a: Slowbro|Thunder Wave|p2a: Herculean
+|-status|p2a: Herculean|par
+|
+|upkeep
+|turn|5
+|
+|t:|1641752332
+|move|p2a: Herculean|Throat Chop|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|35/100
+|-start|p1a: Slowbro|Throat Chop|[silent]
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641752339
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|6
+|-message|bugalsvancouver forfeited.
+|
+|win|GimmickAndTheme
+|raw|GimmickAndTheme's rating: 1193 &rarr; <strong>1214</strong><br />(+21 for winning)
+|raw|bugalsvancouver's rating: 1139 &rarr; <strong>1118</strong><br />(-21 for losing)
+|l|☆bugalsvancouver

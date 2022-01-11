@@ -1,0 +1,170 @@
+|j|☆Huile2c0uill3s
+|j|☆UnusualFighter
+|t:|1641860569
+|gametype|singles
+|player|p1|Huile2c0uill3s|burglar|1309
+|player|p2|UnusualFighter|giovanni|1349
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Melmetal|
+|poke|p1|Tangrowth, F|
+|poke|p1|Hawlucha, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Clefable, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Tyranitar, M|
+|poke|p2|Gengar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UnusualFighter)
+|
+|t:|1641860584
+|start
+|switch|p1a: Charles de Gaulle|Dragapult, F, shiny|100/100
+|switch|p2a: Tomfoolery|Gengar, M, shiny|100/100
+|turn|1
+|
+|t:|1641860599
+|switch|p2a: Gojira|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gojira
+|move|p1a: Charles de Gaulle|Shadow Ball|p2a: Gojira
+|-resisted|p2a: Gojira
+|-damage|p2a: Gojira|84/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Charles de Gaulle|95/100|[from] Sandstorm
+|-heal|p2a: Gojira|90/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641860615
+|switch|p1a: Weed|Tangrowth, F, shiny|100/100
+|move|p2a: Gojira|Stealth Rock|p1a: Weed
+|-sidestart|p1: Huile2c0uill3s|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weed|94/100|[from] Sandstorm
+|-heal|p2a: Gojira|97/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641860624
+|switch|p2a: Needles|Ferrothorn, F|100/100
+|move|p1a: Weed|Focus Blast|p2a: Needles|[miss]
+|-miss|p1a: Weed|p2a: Needles
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weed|88/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641860632
+|move|p1a: Weed|Focus Blast|p2a: Needles
+|-supereffective|p2a: Needles
+|-damage|p2a: Needles|48/100
+|move|p2a: Needles|Spikes|p1a: Weed
+|-sidestart|p1: Huile2c0uill3s|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weed|82/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641860643
+|switch|p2a: Tomfoolery|Gengar, M, shiny|100/100
+|move|p1a: Weed|Focus Blast|p2a: Tomfoolery
+|-immune|p2a: Tomfoolery
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641860652
+|switch|p1a: Ketamine|Toxapex, M, shiny|100/100
+|-damage|p1a: Ketamine|88/100|[from] Stealth Rock
+|-damage|p1a: Ketamine|75/100|[from] Spikes
+|move|p2a: Tomfoolery|Substitute|p2a: Tomfoolery
+|-start|p2a: Tomfoolery|Substitute
+|-damage|p2a: Tomfoolery|76/100
+|
+|-heal|p2a: Tomfoolery|82/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1641860662
+|move|p2a: Tomfoolery|Nasty Plot|p2a: Tomfoolery
+|-boost|p2a: Tomfoolery|spa|2
+|move|p1a: Ketamine|Scald|p2a: Tomfoolery
+|-end|p2a: Tomfoolery|Substitute
+|
+|-heal|p2a: Tomfoolery|88/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1641860671
+|move|p2a: Tomfoolery|Shadow Ball|p1a: Ketamine
+|-damage|p1a: Ketamine|13/100
+|move|p1a: Ketamine|Scald|p2a: Tomfoolery
+|-damage|p2a: Tomfoolery|60/100
+|-start|p1a: Ketamine|Disable|Scald|[from] ability: Cursed Body|[of] p2a: Tomfoolery
+|
+|-heal|p2a: Tomfoolery|66/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1641860682
+|move|p2a: Tomfoolery|Substitute|p2a: Tomfoolery
+|-start|p2a: Tomfoolery|Substitute
+|-damage|p2a: Tomfoolery|41/100
+|move|p1a: Ketamine|Recover|p1a: Ketamine
+|-heal|p1a: Ketamine|63/100
+|
+|-heal|p2a: Tomfoolery|48/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1641860689
+|move|p2a: Tomfoolery|Shadow Ball|p1a: Ketamine
+|-damage|p1a: Ketamine|5/100
+|move|p1a: Ketamine|Recover|p1a: Ketamine
+|-heal|p1a: Ketamine|55/100
+|
+|-heal|p2a: Tomfoolery|54/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1641860701
+|move|p1a: Ketamine|Baneful Bunker|p1a: Ketamine
+|-singleturn|p1a: Ketamine|move: Protect
+|move|p2a: Tomfoolery|Nasty Plot|p2a: Tomfoolery
+|-boost|p2a: Tomfoolery|spa|2
+|
+|-heal|p2a: Tomfoolery|60/100|[from] item: Black Sludge
+|-end|p1a: Ketamine|Disable
+|upkeep
+|turn|12
+|-message|Huile2c0uill3s forfeited.
+|
+|win|UnusualFighter
+|raw|Huile2c0uill3s's rating: 1309 &rarr; <strong>1291</strong><br />(-18 for losing)
+|raw|UnusualFighter's rating: 1349 &rarr; <strong>1367</strong><br />(+18 for winning)
+|l|☆Huile2c0uill3s
+|c|☆UnusualFighter|gg
+|l|☆UnusualFighter
+|j|☆UnusualFighter
+|player|p2|UnusualFighter|giovanni
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UnusualFighter)

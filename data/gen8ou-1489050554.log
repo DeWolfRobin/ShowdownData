@@ -1,0 +1,367 @@
+|j|☆Le-Perpetrator
+|j|☆Twebty too
+|t:|1641850556
+|gametype|singles
+|player|p1|Le-Perpetrator|1|1640
+|player|p2|Twebty too|266|1765
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Victini|
+|poke|p1|Dragapult, M|
+|poke|p2|Zapdos|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Starmie|
+|poke|p2|Volcarona, F|
+|poke|p2|Clefable, F|
+|poke|p2|Hippowdon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Twebty too)
+|
+|t:|1641850612
+|start
+|switch|p1a: NastyInsertion|Toxapex, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|inactive|Twebty too has 120 seconds left.
+|
+|t:|1641850655
+|move|p2a: Hippowdon|Stealth Rock|p1a: NastyInsertion
+|-sidestart|p1: Le-Perpetrator|move: Stealth Rock
+|move|p1a: NastyInsertion|Toxic Spikes|p2a: Hippowdon
+|-sidestart|p2: Twebty too|move: Toxic Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: NastyInsertion|94/100|[from] Sandstorm
+|-heal|p1a: NastyInsertion|100/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1641850662
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: NastyInsertion|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|92/100
+|-status|p2a: Ferrothorn|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: NastyInsertion|94/100|[from] Sandstorm
+|-heal|p1a: NastyInsertion|100/100|[from] item: Black Sludge
+|-heal|p2a: Ferrothorn|98/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|92/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641850674
+|switch|p1a: Condom|Hatterene, F|100/100
+|-damage|p1a: Condom|88/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Knock Off|p1a: Condom
+|-damage|p1a: Condom|77/100
+|-enditem|p1a: Condom|Choice Specs|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Condom|71/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|98/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|92/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641850684
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|move|p1a: Condom|Mystical Fire|p2a: Volcarona
+|-damage|p2a: Volcarona|75/100
+|-unboost|p2a: Volcarona|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcarona|69/100|[from] Sandstorm
+|-damage|p1a: Condom|65/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641850693
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|100/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Condom|Psyshock|p2a: Volcarona
+|-crit|p2a: Volcarona
+|-damage|p2a: Volcarona|41/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641850699
+|switch|p1a: SpankBang|Victini|100/100
+|-damage|p1a: SpankBang|76/100|[from] Stealth Rock
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|91/100
+|-singleturn|p2a: Volcarona|move: Roost
+|
+|upkeep
+|turn|7
+|
+|t:|1641850705
+|move|p1a: SpankBang|V-create|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-unboost|p1a: SpankBang|spe|1
+|-unboost|p1a: SpankBang|def|1
+|-unboost|p1a: SpankBang|spd|1
+|faint|p2a: Volcarona
+|
+|upkeep
+|
+|t:|1641850709
+|switch|p2a: Starmie|Starmie|100/100
+|-status|p2a: Starmie|psn
+|turn|8
+|
+|t:|1641850714
+|switch|p1a: SoftontheInside|Ferrothorn, F|100/100
+|-damage|p1a: SoftontheInside|94/100|[from] Stealth Rock
+|move|p2a: Starmie|Rapid Spin|p1a: SoftontheInside
+|-resisted|p1a: SoftontheInside
+|-damage|p1a: SoftontheInside|91/100
+|-boost|p2a: Starmie|spe|1
+|-damage|p2a: Starmie|88/100 psn|[from] ability: Iron Barbs|[of] p1a: SoftontheInside
+|-damage|p2a: Starmie|72/100 psn|[from] item: Rocky Helmet|[of] p1a: SoftontheInside
+|-sideend|p2: Twebty too|Toxic Spikes|[from] move: Rapid Spin|[of] p2a: Starmie
+|
+|-heal|p2a: Starmie|78/100 psn|[from] item: Leftovers
+|-damage|p2a: Starmie|66/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641850727
+|-curestatus|p2a: Starmie|psn|[from] ability: Natural Cure
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: SoftontheInside|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: Twebty too|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1641850733
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Zapdos|Heat Wave|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|72/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641850741
+|move|p1a: Dragapult|Shadow Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|50/100
+|move|p2a: Zapdos|Hurricane|p1a: Dragapult
+|-damage|p1a: Dragapult|7/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641850747
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Dragapult|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|1/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|63/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641850757
+|move|p1a: Dragapult|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|26/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|0 fnt|[from] Sandstorm
+|faint|p1a: Dragapult
+|-heal|p2a: Hippowdon|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641850766
+|switch|p1a: SpankBang|Victini|76/100
+|-damage|p1a: SpankBang|51/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641850777
+|switch|p2a: Clefable|Clefable, F|100/100
+|-damage|p2a: Clefable|88/100|[from] Stealth Rock
+|move|p1a: SpankBang|V-create|p2a: Clefable
+|-damage|p2a: Clefable|3/100
+|-unboost|p1a: SpankBang|spe|1
+|-unboost|p1a: SpankBang|def|1
+|-unboost|p1a: SpankBang|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: SpankBang|44/100|[from] Sandstorm
+|-damage|p2a: Clefable|0 fnt|[from] Sandstorm
+|faint|p2a: Clefable
+|upkeep
+|
+|t:|1641850781
+|switch|p2a: Starmie|Starmie|66/100
+|-damage|p2a: Starmie|54/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641850791
+|switch|p1a: SoftontheInside|Ferrothorn, F|91/100
+|-damage|p1a: SoftontheInside|85/100|[from] Stealth Rock
+|move|p2a: Starmie|Recover|p2a: Starmie
+|-heal|p2a: Starmie|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Starmie|94/100|[from] Sandstorm
+|-heal|p2a: Starmie|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641850800
+|switch|p2a: Ferrothorn|Ferrothorn, M|92/100 brn
+|-damage|p2a: Ferrothorn|86/100 brn|[from] Stealth Rock
+|move|p1a: SoftontheInside|Spikes|p2a: Ferrothorn
+|-sidestart|p2: Twebty too|Spikes
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|86/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641850809
+|switch|p1a: Condom|Hatterene, F|65/100
+|-damage|p1a: Condom|53/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Knock Off|p1a: Condom
+|-damage|p1a: Condom|45/100
+|
+|-heal|p2a: Ferrothorn|92/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|86/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641850817
+|switch|p2a: Starmie|Starmie|100/100
+|-damage|p2a: Starmie|88/100|[from] Stealth Rock
+|-damage|p2a: Starmie|76/100|[from] Spikes
+|move|p1a: Condom|Mystical Fire|p2a: Starmie
+|-resisted|p2a: Starmie
+|-damage|p2a: Starmie|58/100
+|-unboost|p2a: Starmie|spa|1
+|
+|-heal|p2a: Starmie|64/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641850827
+|move|p2a: Starmie|Rapid Spin|p1a: Condom
+|-damage|p1a: Condom|36/100
+|-boost|p2a: Starmie|spe|1
+|-sideend|p2: Twebty too|Spikes|[from] move: Rapid Spin|[of] p2a: Starmie
+|-sideend|p2: Twebty too|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Starmie
+|move|p1a: Condom|Draining Kiss|p2a: Starmie
+|-damage|p2a: Starmie|28/100
+|-heal|p1a: Condom|62/100|[from] drain|[of] p2a: Starmie
+|
+|-heal|p2a: Starmie|34/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641850835
+|move|p2a: Starmie|Recover|p2a: Starmie
+|-heal|p2a: Starmie|84/100
+|move|p1a: Condom|Draining Kiss|p2a: Starmie
+|-damage|p2a: Starmie|47/100
+|-heal|p1a: Condom|89/100|[from] drain|[of] p2a: Starmie
+|
+|-heal|p2a: Starmie|54/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641850843
+|move|p2a: Starmie|Scald|p1a: Condom
+|-damage|p1a: Condom|67/100
+|move|p1a: Condom|Dazzling Gleam|p2a: Starmie
+|-damage|p2a: Starmie|0 fnt
+|faint|p2a: Starmie
+|
+|upkeep
+|
+|t:|1641850850
+|switch|p2a: Zapdos|Zapdos|50/100
+|turn|22
+|
+|t:|1641850853
+|move|p2a: Zapdos|Hurricane|p1a: Condom
+|-damage|p1a: Condom|16/100
+|-start|p1a: Condom|confusion
+|-activate|p1a: Condom|confusion
+|move|p1a: Condom|Draining Kiss|p2a: Zapdos
+|-damage|p2a: Zapdos|20/100
+|-heal|p1a: Condom|43/100|[from] drain|[of] p2a: Zapdos
+|
+|upkeep
+|turn|23
+|
+|t:|1641850861
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|70/100
+|-singleturn|p2a: Zapdos|move: Roost
+|-activate|p1a: Condom|confusion
+|move|p1a: Condom|Dazzling Gleam|p2a: Zapdos
+|-damage|p2a: Zapdos|20/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641850867
+|move|p2a: Zapdos|Hurricane|p1a: Condom
+|-damage|p1a: Condom|0 fnt
+|faint|p1a: Condom
+|
+|upkeep
+|
+|t:|1641850872
+|switch|p1a: BillieEllish|Landorus-Therian, M|100/100
+|-damage|p1a: BillieEllish|88/100|[from] Stealth Rock
+|-ability|p1a: BillieEllish|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|25
+|
+|t:|1641850877
+|move|p1a: BillieEllish|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: BillieEllish
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641850880
+|switch|p2a: Hippowdon|Hippowdon, M|82/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|26
+|-message|Twebty too forfeited.
+|
+|win|Le-Perpetrator
+|raw|Le-Perpetrator's rating: 1640 &rarr; <strong>1667</strong><br />(+27 for winning)
+|raw|Twebty too's rating: 1765 &rarr; <strong>1738</strong><br />(-27 for losing)
+|l|☆Twebty too

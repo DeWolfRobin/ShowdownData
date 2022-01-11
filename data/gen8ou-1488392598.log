@@ -1,0 +1,125 @@
+|j|☆noob king yolos
+|j|☆Coach from L4D2
+|t:|1641759679
+|gametype|singles
+|player|p1|noob king yolos|170|1467
+|player|p2|Coach from L4D2|linebacker|1603
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Venusaur, M|
+|poke|p1|Ninetales, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Heatran, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cloyster, F|
+|poke|p2|Raichu-Alola, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Swampert, M|
+|poke|p2|Zapdos|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|
+|t:|1641759689
+|start
+|switch|p1a: Ninetales|Ninetales, M|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641759699
+|move|p1a: Ninetales|Solar Beam||[still]
+|-prepare|p1a: Ninetales|Solar Beam
+|-anim|p1a: Ninetales|Solar Beam|p2a: Swampert
+|-supereffective|p2a: Swampert
+|-damage|p2a: Swampert|5/100
+|move|p2a: Swampert|Stealth Rock|p1a: Ninetales
+|-sidestart|p1: noob king yolos|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Swampert|12/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641759707
+|move|p1a: Ninetales|Hypnosis|p2a: Swampert|[miss]
+|-miss|p1a: Ninetales|p2a: Swampert
+|move|p2a: Swampert|Flip Turn|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|73/100
+|
+|t:|1641759709
+|switch|p2a: Eagle|Tapu Koko|100/100|[from]move: Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Eagle
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641759721
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|-damage|p1a: Venusaur|88/100|[from] Stealth Rock
+|move|p2a: Eagle|Thunderbolt|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|60/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Venusaur|66/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641759733
+|switch|p2a: Swampert|Swampert, M|12/100
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Venusaur|72/100|[from] item: Leftovers
+|-heal|p2a: Swampert|18/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641759741
+|move|p1a: Venusaur|Giga Drain|p2a: Swampert
+|-supereffective|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|-heal|p1a: Venusaur|84/100|[from] drain|[of] p2a: Swampert
+|faint|p2a: Swampert
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Venusaur|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641759747
+|switch|p2a: Voltsail|Raichu-Alola, F, shiny|100/100
+|turn|6
+|
+|t:|1641759755
+|move|p2a: Voltsail|Nasty Plot|p2a: Voltsail
+|-boost|p2a: Voltsail|spa|2
+|move|p1a: Venusaur|Weather Ball|p2a: Voltsail
+|-damage|p2a: Voltsail|0 fnt
+|faint|p2a: Voltsail
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Venusaur|96/100|[from] item: Leftovers
+|upkeep
+|-message|Coach from L4D2 forfeited.
+|
+|win|noob king yolos
+|raw|noob king yolos's rating: 1467 &rarr; <strong>1494</strong><br />(+27 for winning)
+|raw|Coach from L4D2's rating: 1603 &rarr; <strong>1576</strong><br />(-27 for losing)
+|c|☆noob king yolos|wow 1600
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

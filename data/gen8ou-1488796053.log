@@ -1,0 +1,250 @@
+|j|☆Diavolo_Crison
+|j|☆lollokobra
+|t:|1641822685
+|gametype|singles
+|player|p1|Diavolo_Crison|1|1607
+|player|p2|lollokobra|blackbelt-gen4|1561
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Jirachi|
+|poke|p1|Regieleki|
+|poke|p1|Dragonite, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Bisharp, M|
+|poke|p2|Machamp, F|
+|poke|p2|Blastoise, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Kommo-o, M|
+|poke|p2|Melmetal|
+|poke|p2|Klefki, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lollokobra)
+|
+|t:|1641822695
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Machamp|Machamp, F, shiny|100/100
+|turn|1
+|
+|t:|1641822717
+|move|p1a: Regieleki|Volt Switch|p2a: Machamp
+|-damage|p2a: Machamp|54/100
+|
+|t:|1641822721
+|switch|p1a: Dragonite|Dragonite, M|100/100|[from]move: Volt Switch
+|move|p2a: Machamp|Dynamic Punch|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|84/100
+|-start|p1a: Dragonite|confusion
+|
+|upkeep
+|turn|2
+|
+|t:|1641822730
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Machamp|Stone Edge|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|upkeep
+|
+|t:|1641822734
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|turn|3
+|
+|t:|1641822747
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Machamp|Dynamic Punch|p1a: Garchomp
+|-damage|p1a: Garchomp|46/100
+|-start|p1a: Garchomp|confusion
+|-damage|p2a: Machamp|41/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|upkeep
+|turn|4
+|
+|t:|1641822755
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Earthquake|p2a: Machamp
+|-damage|p2a: Machamp|0 fnt
+|faint|p2a: Machamp
+|-damage|p1a: Garchomp|36/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641822762
+|switch|p2a: Klefki|Klefki, F|100/100
+|turn|5
+|
+|t:|1641822765
+|move|p2a: Klefki|Toxic|p1a: Garchomp
+|-status|p1a: Garchomp|tox
+|-activate|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Earthquake|p2a: Klefki
+|-supereffective|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|-damage|p1a: Garchomp|26/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Garchomp|20/100 tox|[from] psn
+|upkeep
+|
+|t:|1641822775
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|turn|6
+|j| Shirkan1499
+|
+|t:|1641822778
+|-end|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Earthquake|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|-damage|p1a: Garchomp|10/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Garchomp|0 fnt|[from] psn
+|faint|p1a: Garchomp
+|upkeep
+|
+|t:|1641822790
+|switch|p1a: Dragonite|Dragonite, M|84/100
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|7
+|
+|t:|1641822795
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|75/100
+|move|p1a: Dragonite|Ice Punch|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|upkeep
+|turn|8
+|
+|t:|1641822801
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Dragonite|Ice Punch|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|94/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641822809
+|switch|p1a: Jirachi|Jirachi|100/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|77/100
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|54/100
+|-hitcount|p1a: Jirachi|2
+|
+|upkeep
+|turn|10
+|
+|t:|1641822817
+|move|p1a: Jirachi|Iron Head|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|83/100
+|cant|p2a: Melmetal|flinch
+|
+|upkeep
+|turn|11
+|
+|t:|1641822822
+|move|p1a: Jirachi|Trick|p2a: Melmetal
+|-activate|p1a: Jirachi|move: Trick|[of] p2a: Melmetal
+|-item|p2a: Melmetal|Ring Target|[from] move: Trick
+|-item|p1a: Jirachi|Assault Vest|[from] move: Trick
+|move|p2a: Melmetal|Earthquake|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|upkeep
+|c| Shirkan1499|Uff
+|
+|t:|1641822829
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|12
+|
+|t:|1641822840
+|move|p1a: Regieleki|Volt Switch|p2a: Melmetal
+|-damage|p2a: Melmetal|16/100
+|
+|t:|1641822844
+|switch|p1a: Bisharp|Bisharp, M|100/100|[from]move: Volt Switch
+|move|p2a: Melmetal|Ice Punch|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|79/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641822850
+|move|p1a: Bisharp|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-enditem|p2a: Melmetal|Ring Target|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Melmetal
+|-damage|p1a: Bisharp|69/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641822858
+|switch|p2a: Kommo-o|Kommo-o, M|75/100
+|turn|14
+|
+|t:|1641822861
+|move|p2a: Kommo-o|Belly Drum|p2a: Kommo-o
+|-damage|p2a: Kommo-o|25/100
+|-setboost|p2a: Kommo-o|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Kommo-o|Salac Berry|[eat]
+|-boost|p2a: Kommo-o|spe|1|[from] item: Salac Berry
+|move|p1a: Bisharp|Iron Head|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|-damage|p1a: Bisharp|59/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641822871
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|15
+|
+|t:|1641822873
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Bisharp|Knock Off|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-enditem|p2a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Volcarona
+|-damage|p1a: Bisharp|49/100|[from] item: Life Orb
+|
+|win|Diavolo_Crison
+|raw|Diavolo_Crison's rating: 1607 &rarr; <strong>1624</strong><br />(+17 for winning)
+|raw|lollokobra's rating: 1561 &rarr; <strong>1544</strong><br />(-17 for losing)
+|l| Shirkan1499
+|l|☆lollokobra
+|l|☆Diavolo_Crison
+|j|☆Diavolo_Crison
+|player|p1|Diavolo_Crison|1
+|l|☆Diavolo_Crison
+|player|p1|
+|j|☆Diavolo_Crison
+|player|p1|Diavolo_Crison|1
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

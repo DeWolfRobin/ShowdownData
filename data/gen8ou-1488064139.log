@@ -1,0 +1,114 @@
+|j|☆Caguayylmao
+|j|☆Ryu_NLF
+|t:|1641705093
+|gametype|singles
+|player|p1|Caguayylmao|cress|
+|player|p2|Ryu_NLF|blue|
+|teamsize|p1|1
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Togepi, M|
+|poke|p2|Mew|
+|teampreview
+|
+|t:|1641705132
+|start
+|switch|p1a: Eggbert|Togepi, M|100/100
+|switch|p2a: Vas a morir Dariel|Mew, shiny|100/100
+|turn|1
+|
+|t:|1641705145
+|move|p2a: Vas a morir Dariel|Metronome|p2a: Vas a morir Dariel
+|move|p2a: Vas a morir Dariel|Rain Dance|p2a: Vas a morir Dariel|[from]move: Metronome
+|-weather|RainDance
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Teeter Dance|p2a: Vas a morir Dariel|[from]move: Metronome
+|-start|p2a: Vas a morir Dariel|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641705153
+|-activate|p2a: Vas a morir Dariel|confusion
+|-damage|p2a: Vas a morir Dariel|91/100|[from] confusion
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Flip Turn|p2a: Vas a morir Dariel|[from]move: Metronome
+|-damage|p2a: Vas a morir Dariel|84/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641705173
+|-end|p2a: Vas a morir Dariel|confusion
+|move|p2a: Vas a morir Dariel|Metronome|p2a: Vas a morir Dariel
+|move|p2a: Vas a morir Dariel|Mind Reader|p1a: Eggbert|[from]move: Metronome
+|-activate|p2a: Vas a morir Dariel|move: Mind Reader|[of] p1a: Eggbert
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Mist|p1a: Eggbert|[from]move: Metronome
+|-sidestart|p1: Caguayylmao|Mist
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641705184
+|move|p2a: Vas a morir Dariel|Metronome|p2a: Vas a morir Dariel
+|move|p2a: Vas a morir Dariel|Rain Dance||[from]move: Metronome|[still]
+|-fail|p2a: Vas a morir Dariel
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Soft-Boiled||[from]move: Metronome|[still]
+|-fail|p1a: Eggbert|heal
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641705193
+|move|p2a: Vas a morir Dariel|Metronome|p2a: Vas a morir Dariel
+|move|p2a: Vas a morir Dariel|Fake Out||[from]move: Metronome|[still]
+|-hint|Fake Out only works on your first turn out.
+|-fail|p2a: Vas a morir Dariel
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Bug Buzz|p2a: Vas a morir Dariel|[from]move: Metronome
+|-supereffective|p2a: Vas a morir Dariel
+|-damage|p2a: Vas a morir Dariel|63/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641705203
+|move|p2a: Vas a morir Dariel|Metronome|p2a: Vas a morir Dariel
+|move|p2a: Vas a morir Dariel|Heat Wave|p1a: Eggbert|[from]move: Metronome|[miss]
+|-miss|p2a: Vas a morir Dariel|p1a: Eggbert
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Imprison|p1a: Eggbert|[from]move: Metronome
+|-start|p1a: Eggbert|move: Imprison
+|
+|upkeep
+|turn|7
+|
+|t:|1641705239
+|-activate|p2a: Vas a morir Dariel|move: Struggle
+|move|p2a: Vas a morir Dariel|Struggle|p1a: Eggbert
+|-damage|p1a: Eggbert|81/100
+|-damage|p2a: Vas a morir Dariel|38/100|[from] recoil
+|-enditem|p2a: Vas a morir Dariel|Sitrus Berry|[eat]
+|-heal|p2a: Vas a morir Dariel|63/100|[from] item: Sitrus Berry
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Self-Destruct|p2a: Vas a morir Dariel|[from]move: Metronome
+|-damage|p2a: Vas a morir Dariel|48/100
+|faint|p1a: Eggbert
+|
+|win|Ryu_NLF

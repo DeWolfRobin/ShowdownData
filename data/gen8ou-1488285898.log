@@ -1,0 +1,446 @@
+|j|☆KoYYL
+|j|☆Verdas1128
+|t:|1641746249
+|gametype|singles
+|player|p1|KoYYL|benga|1256
+|player|p2|Verdas1128|102|1294
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Kartana|
+|poke|p1|Blacephalon|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Heatran, M|
+|poke|p2|Melmetal|
+|poke|p2|Tapu Fini|
+|poke|p2|Magnezone|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Kartana|
+|teampreview
+|c|☆Verdas1128|hf
+|
+|t:|1641746289
+|start
+|switch|p1a: Lando-Russe|Landorus-Therian, M|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|-ability|p1a: Lando-Russe|Intimidate|boost
+|-unboost|p2a: Melmetal|atk|1
+|turn|1
+|
+|t:|1641746298
+|move|p2a: Melmetal|Protect|p2a: Melmetal
+|-singleturn|p2a: Melmetal|Protect
+|move|p1a: Lando-Russe|U-turn|p2a: Melmetal
+|-activate|p2a: Melmetal|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1641746304
+|move|p1a: Lando-Russe|U-turn|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|92/100
+|
+|t:|1641746316
+|switch|p1a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|move|p2a: Melmetal|Toxic|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|-heal|p2a: Melmetal|98/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641746323
+|move|p2a: Melmetal|Protect|p2a: Melmetal
+|-singleturn|p2a: Melmetal|Protect
+|move|p1a: Heatran|Magma Storm|p2a: Melmetal
+|-activate|p2a: Melmetal|move: Protect
+|
+|-heal|p2a: Melmetal|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641746326
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Heatran|Magma Storm|p2a: Tapu Fini|[miss]
+|-miss|p1a: Heatran|p2a: Tapu Fini
+|
+|upkeep
+|turn|5
+|
+|t:|1641746360
+|move|p2a: Tapu Fini|Taunt|p1a: Heatran
+|-start|p1a: Heatran|move: Taunt
+|cant|p1a: Heatran|move: Taunt|Taunt
+|
+|upkeep
+|turn|6
+|
+|t:|1641746371
+|switch|p1a: ToThor|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: ToThor
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641746392
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: ToThor|atk|1
+|move|p1a: ToThor|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|95/100
+|
+|t:|1641746407
+|switch|p1a: Karteverte|Kartana|100/100|[from]move: U-turn
+|
+|-heal|p2a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641746415
+|move|p1a: Karteverte|Swords Dance|p1a: Karteverte
+|-boost|p1a: Karteverte|atk|2
+|move|p2a: Landorus|U-turn|p1a: Karteverte
+|-damage|p1a: Karteverte|77/100
+|
+|t:|1641746421
+|switch|p2a: Kartana|Kartana|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1641746438
+|switch|p1a: Lando-Russe|Landorus-Therian, M|100/100
+|-ability|p1a: Lando-Russe|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|move|p2a: Kartana|Sacred Sword|p1a: Lando-Russe
+|-resisted|p1a: Lando-Russe
+|-damage|p1a: Lando-Russe|78/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641746448
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Lando-Russe|atk|1
+|move|p1a: Lando-Russe|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|76/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Lando-Russe
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|11
+|
+|t:|1641746466
+|switch|p1a: Karteverte|Kartana|77/100
+|move|p2a: Landorus|U-turn|p1a: Karteverte
+|-damage|p1a: Karteverte|56/100
+|
+|t:|1641746476
+|switch|p2a: Kartana|Kartana|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1641746494
+|switch|p1a: Lando-Russe|Landorus-Therian, M|78/100
+|-ability|p1a: Lando-Russe|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|move|p2a: Kartana|Knock Off|p1a: Lando-Russe
+|-damage|p1a: Lando-Russe|28/100
+|-enditem|p1a: Lando-Russe|Choice Scarf|[from] move: Knock Off|[of] p2a: Kartana
+|
+|upkeep
+|turn|13
+|
+|t:|1641746509
+|move|p2a: Kartana|Knock Off|p1a: Lando-Russe
+|-crit|p1a: Lando-Russe
+|-damage|p1a: Lando-Russe|0 fnt
+|faint|p1a: Lando-Russe
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641746532
+|switch|p1a: Bok|Urshifu-Rapid-Strike, F|100/100
+|turn|14
+|
+|t:|1641746541
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Bok|Surging Strikes|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|90/100
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|79/100
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|69/100
+|-hitcount|p2a: Tapu Fini|3
+|
+|-heal|p2a: Tapu Fini|75/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641746565
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|98/100
+|-heal|p2a: Tapu Fini|77/100|[from] drain|[of] p1a: Heatran
+|
+|-heal|p2a: Tapu Fini|83/100|[from] item: Leftovers
+|-heal|p1a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641746576
+|switch|p1a: Karteverte|Kartana|56/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-heal|p2a: Tapu Fini|89/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641746591
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Karteverte|Leaf Blade|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|71/100
+|-damage|p1a: Karteverte|39/100|[from] item: Rocky Helmet|[of] p2a: Magnezone
+|-damage|p1a: Karteverte|29/100|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|
+|t:|1641746597
+|move|p1a: Karteverte|Sacred Sword|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|-damage|p1a: Karteverte|13/100|[from] item: Rocky Helmet|[of] p2a: Magnezone
+|faint|p2a: Magnezone
+|-ability|p1a: Karteverte|Beast Boost|boost
+|-boost|p1a: Karteverte|atk|1
+|-damage|p1a: Karteverte|3/100|[from] item: Life Orb
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641746601
+|switch|p2a: Kartana|Kartana|100/100
+|turn|19
+|
+|t:|1641746606
+|move|p1a: Karteverte|Sacred Sword|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|-ability|p1a: Karteverte|Beast Boost|boost
+|-boost|p1a: Karteverte|atk|1
+|-damage|p1a: Karteverte|0 fnt|[from] item: Life Orb
+|faint|p1a: Karteverte
+|
+|upkeep
+|
+|t:|1641746628
+|switch|p2a: Landorus|Landorus-Therian, M|76/100
+|switch|p1a: Heatran|Heatran, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|turn|20
+|
+|t:|1641746681
+|move|p1a: Heatran|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Verdas1128|move: Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641746709
+|switch|p1a: Blacedommage|Blacephalon|100/100
+|turn|21
+|
+|t:|1641746717
+|move|p1a: Blacedommage|Trick|p2a: Landorus
+|-activate|p1a: Blacedommage|move: Trick|[of] p2a: Landorus
+|-item|p2a: Landorus|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Blacedommage|Choice Scarf|[silent]|[from] move: Trick
+|move|p2a: Landorus|Defog|p1a: Blacedommage
+|-unboost|p1a: Blacedommage|evasion|1
+|-sideend|p2: Verdas1128|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|
+|upkeep
+|turn|22
+|
+|t:|1641746758
+|switch|p2a: Tapu Fini|Tapu Fini|89/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Blacedommage|Mind Blown|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|58/100
+|-damage|p1a: Blacedommage|50/100|[from] mindblown
+|
+|-heal|p2a: Tapu Fini|64/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641746852
+|move|p1a: Blacedommage|Shadow Ball|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|23/100
+|move|p2a: Tapu Fini|Scald|p1a: Blacedommage
+|-supereffective|p1a: Blacedommage
+|-damage|p1a: Blacedommage|0 fnt
+|faint|p1a: Blacedommage
+|
+|-heal|p2a: Tapu Fini|30/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641746905
+|switch|p1a: ToThor|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: ToThor
+|turn|24
+|
+|t:|1641746911
+|move|p1a: ToThor|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|24/100
+|
+|t:|1641746914
+|switch|p1a: Bok|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Bok
+|-supereffective|p1a: Bok
+|-damage|p1a: Bok|48/100
+|-heal|p2a: Tapu Fini|63/100|[from] drain|[of] p1a: Bok
+|
+|-heal|p2a: Tapu Fini|69/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641746927
+|move|p1a: Bok|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|57/100
+|
+|t:|1641746969
+|switch|p1a: ToThor|Tapu Koko|100/100|[from]move: U-turn
+|move|p2a: Tapu Fini|Draining Kiss|p1a: ToThor
+|-damage|p1a: ToThor|77/100
+|-heal|p2a: Tapu Fini|71/100|[from] drain|[of] p1a: ToThor
+|
+|-heal|p2a: Tapu Fini|77/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641746986
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: ToThor|Thunderbolt|p2a: Melmetal
+|-damage|p2a: Melmetal|55/100
+|
+|-heal|p2a: Melmetal|61/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Verdas1128)
+|
+|t:|1641747037
+|move|p1a: ToThor|Thunderbolt|p2a: Melmetal
+|-damage|p2a: Melmetal|21/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: ToThor
+|-damage|p1a: ToThor|9/100
+|-damage|p1a: ToThor|0 fnt
+|faint|p1a: ToThor
+|-hitcount|p1: ToThor|2
+|
+|-heal|p2a: Melmetal|27/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641747040
+|switch|p1a: Bok|Urshifu-Rapid-Strike, F|48/100
+|turn|28
+|
+|t:|1641747043
+|move|p1a: Bok|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Bok|def|1
+|-unboost|p1a: Bok|spd|1
+|faint|p2a: Melmetal
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641747047
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|29
+|
+|t:|1641747052
+|move|p2a: Weavile|Knock Off|p1a: Bok
+|-resisted|p1a: Bok
+|-damage|p1a: Bok|15/100
+|-enditem|p1a: Bok|Choice Band|[from] move: Knock Off|[of] p2a: Weavile
+|move|p1a: Bok|Close Combat|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-unboost|p1a: Bok|def|1
+|-unboost|p1a: Bok|spd|1
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641747057
+|switch|p2a: Tapu Fini|Tapu Fini|77/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|30
+|c|☆Verdas1128|gg
+|inactive|KoYYL has 120 seconds left.
+|inactive|KoYYL has 90 seconds left.
+|
+|t:|1641747129
+|move|p1a: Bok|Surging Strikes|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|70/100
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|63/100
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|56/100
+|-hitcount|p2a: Tapu Fini|3
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Bok
+|-supereffective|p1a: Bok
+|-damage|p1a: Bok|0 fnt
+|-heal|p2a: Tapu Fini|67/100|[from] drain|[of] p1a: Bok
+|faint|p1a: Bok
+|
+|win|Verdas1128
+|raw|KoYYL's rating: 1256 &rarr; <strong>1234</strong><br />(-22 for losing)
+|raw|Verdas1128's rating: 1294 &rarr; <strong>1316</strong><br />(+22 for winning)

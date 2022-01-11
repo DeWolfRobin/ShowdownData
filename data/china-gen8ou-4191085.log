@@ -1,0 +1,191 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC XIAOBAO
+|j|☆SL21CC N1Daye
+|t:|1641809896
+|gametype|singles
+|player|p1|SL21CC XIAOBAO|marley|1282
+|player|p2|SL21CC N1Daye|265|1216
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Heatran, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Tapu Lele|
+|poke|p2|Zeraora|
+|poke|p2|Moltres-Galar|
+|poke|p2|Dragapult, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Melmetal|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC XIAOBAO)
+|j| SL21CC 999炸鸡专卖
+|c|☆SL21CC N1Daye|oh no its xiaobao
+|c|☆SL21CC XIAOBAO|gl hf
+|c|☆SL21CC N1Daye|hf
+|j| SL22CC 蜜雪冰城
+|inactive|SL21CC XIAOBAO has 120 seconds left.
+|j| jiokopg_fkok43
+|c|☆SL21CC XIAOBAO|i am losing lot :cry:
+|
+|t:|1641809933
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: GARGOYLE|Garchomp, M, shiny|100/100
+|turn|1
+|j| sl21cckhl
+|
+|t:|1641809939
+|switch|p2a: FRANKENSTEIN|Melmetal, shiny|100/100
+|move|p1a: Dragapult|Draco Meteor|p2a: FRANKENSTEIN|[miss]
+|-miss|p1a: Dragapult|p2a: FRANKENSTEIN
+|
+|upkeep
+|turn|2
+|
+|t:|1641809946
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: FRANKENSTEIN|Thunder Wave|p1a: Corviknight
+|-status|p1a: Corviknight|par
+|
+|upkeep
+|turn|3
+|l|☆SL21CC N1Daye
+|inactive|SL21CC N1Daye disconnected and has a minute to reconnect!
+|player|p2|
+|j| SL21CC CatF
+|j| Water gh0st
+|j|☆SL21CC N1Daye
+|inactive|SL21CC N1Daye reconnected and has 130 seconds left.
+|player|p2|SL21CC N1Daye|265
+|j| SL21CC Burger King
+|
+|t:|1641809970
+|move|p2a: FRANKENSTEIN|Thunder Punch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|51/100 par
+|move|p1a: Corviknight|U-turn|p2a: FRANKENSTEIN
+|-resisted|p2a: FRANKENSTEIN
+|-damage|p2a: FRANKENSTEIN|96/100
+|j|@chickwayne
+|
+|t:|1641809982
+|switch|p1a: Garchomp|Garchomp, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641809991
+|switch|p2a: DRACULA|Moltres-Galar|100/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641809997
+|move|p1a: Garchomp|Scale Shot|p2a: DRACULA|[miss]
+|-miss|p1a: Garchomp|p2a: DRACULA
+|move|p2a: DRACULA|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|48/100
+|
+|-heal|p1a: Garchomp|54/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|j| SL21CCC徐坤
+|
+|t:|1641810000
+|move|p1a: Garchomp|Scale Shot|p2a: DRACULA
+|-damage|p2a: DRACULA|68/100
+|-damage|p2a: DRACULA|36/100
+|-hitcount|p2a: DRACULA|2
+|-ability|p2a: DRACULA|Berserk|boost
+|-boost|p2a: DRACULA|spa|1
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: DRACULA|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|j| suicidu
+|
+|t:|1641810007
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|7
+|j| sl21cc vogut
+|
+|t:|1641810011
+|move|p2a: DRACULA|Hurricane|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|38/100
+|move|p1a: Tapu Fini|Moonblast|p2a: DRACULA
+|-supereffective|p2a: DRACULA
+|-damage|p2a: DRACULA|0 fnt
+|faint|p2a: DRACULA
+|
+|-heal|p1a: Tapu Fini|44/100|[from] item: Leftovers
+|upkeep
+|j| SL21CC Leviathan
+|
+|t:|1641810016
+|switch|p2a: WOLFMAN|Zeraora, shiny|100/100
+|turn|8
+|
+|t:|1641810024
+|switch|p1a: Corviknight|Corviknight, F|51/100 par
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: WOLFMAN|Bulk Up|p2a: WOLFMAN
+|-boost|p2a: WOLFMAN|atk|1
+|-boost|p2a: WOLFMAN|def|1
+|
+|-heal|p1a: Corviknight|58/100 par|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641810032
+|move|p2a: WOLFMAN|Plasma Fists|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1641810034
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|10
+|j| SL21CC interest
+|j| SL21CCJqlove
+|
+|t:|1641810052
+|move|p2a: WOLFMAN|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: WOLFMAN|def|1
+|-unboost|p2a: WOLFMAN|spd|1
+|faint|p1a: Heatran
+|
+|upkeep
+|c|☆SL21CC XIAOBAO|gg
+|-message|SL21CC XIAOBAO forfeited.
+|
+|win|SL21CC N1Daye
+|raw|SL21CC XIAOBAO's rating: 1282 &rarr; <strong>1263</strong><br />(-19 for losing)
+|raw|SL21CC N1Daye's rating: 1216 &rarr; <strong>1235</strong><br />(+19 for winning)
+|l|☆SL21CC XIAOBAO

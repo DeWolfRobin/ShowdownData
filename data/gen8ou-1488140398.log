@@ -1,0 +1,568 @@
+|j|☆UmbrisSpectralis
+|j|☆thecrazybarb
+|t:|1641720279
+|gametype|singles
+|player|p1|UmbrisSpectralis|janine|1102
+|player|p2|thecrazybarb|red|1069
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Hippowdon, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Dracozolt|
+|poke|p1|Lycanroc, M|
+|poke|p1|Dugtrio-Alola, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Heatran, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Duraludon, F|
+|poke|p2|Slowbro-Galar, F|
+|poke|p2|Mamoswine, F|
+|teampreview
+|j| Titicaka
+|
+|t:|1641720290
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641720298
+|move|p2a: Toxapex|Scald|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|69/100
+|move|p1a: Hippowdon|Roar|p2a: Toxapex
+|drag|p2a: Duraludon|Duraludon, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641720308
+|move|p2a: Duraludon|Iron Defense|p2a: Duraludon
+|-boost|p2a: Duraludon|def|2
+|move|p1a: Hippowdon|Scorching Sands|p2a: Duraludon
+|-supereffective|p2a: Duraludon
+|-damage|p2a: Duraludon|21/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Duraludon|28/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641720317
+|move|p2a: Duraludon|Metal Burst||[still]
+|-fail|p2a: Duraludon
+|move|p1a: Hippowdon|Roar|p2a: Duraludon
+|drag|p2a: Toxapex|Toxapex, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641720327
+|switch|p1a: Dracozolt|Dracozolt|100/100
+|move|p2a: Toxapex|Scald|p1a: Dracozolt
+|-resisted|p1a: Dracozolt
+|-damage|p1a: Dracozolt|89/100
+|-status|p1a: Dracozolt|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Dracozolt|83/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641720342
+|switch|p2a: Mamoswine|Mamoswine, F|100/100
+|move|p1a: Dracozolt|Bolt Beak|p2a: Mamoswine
+|-immune|p2a: Mamoswine
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dracozolt|77/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641720353
+|switch|p1a: Hippowdon|Hippowdon, M|69/100
+|move|p2a: Mamoswine|Icicle Spear|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|53/100
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|35/100
+|-hitcount|p1a: Hippowdon|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641720364
+|move|p2a: Mamoswine|Icicle Crash|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641720371
+|switch|p1a: Lycanroc|Lycanroc, M|100/100
+|turn|8
+|
+|t:|1641720375
+|move|p1a: Lycanroc|Close Combat|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|faint|p2a: Mamoswine
+|
+|-weather|none
+|upkeep
+|
+|t:|1641720384
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|9
+|
+|t:|1641720388
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Toxapex|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|87/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|93/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1641720402
+|move|p1a: Tyranitar|Substitute|p1a: Tyranitar
+|-start|p1a: Tyranitar|Substitute
+|-damage|p1a: Tyranitar|68/100
+|move|p2a: Toxapex|Toxic||[still]
+|-fail|p2a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|75/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1641720412
+|move|p2a: Toxapex|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-activate|p1a: Tyranitar|move: Substitute|[damage]
+|move|p1a: Tyranitar|Dragon Tail|p2a: Toxapex
+|-damage|p2a: Toxapex|90/100
+|drag|p2a: Heatran|Heatran, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|81/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641720427
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Tyranitar|Dragon Tail|p2a: Toxapex|[miss]
+|-miss|p1a: Tyranitar|p2a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|87/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1641720438
+|move|p2a: Toxapex|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-end|p1a: Tyranitar|Substitute
+|move|p1a: Tyranitar|Dragon Tail|p2a: Toxapex
+|-damage|p2a: Toxapex|90/100
+|drag|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|-weather|none
+|-heal|p1a: Tyranitar|93/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641720450
+|move|p1a: Tyranitar|Substitute|p1a: Tyranitar
+|-start|p1a: Tyranitar|Substitute
+|-damage|p1a: Tyranitar|68/100
+|move|p2a: Ferrothorn|Leech Seed||[still]
+|-fail|p2a: Ferrothorn
+|
+|-heal|p1a: Tyranitar|74/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641720457
+|move|p2a: Ferrothorn|Knock Off|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-activate|p1a: Tyranitar|move: Substitute|[damage]
+|move|p1a: Tyranitar|Dragon Tail|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|95/100
+|-damage|p1a: Tyranitar|62/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|drag|p2a: Duraludon|Duraludon, F|28/100
+|
+|-heal|p2a: Duraludon|34/100|[from] item: Leftovers
+|-heal|p1a: Tyranitar|68/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641720471
+|move|p2a: Duraludon|Dragon Claw|p1a: Tyranitar
+|-end|p1a: Tyranitar|Substitute
+|move|p1a: Tyranitar|Dragon Tail|p2a: Duraludon
+|-damage|p2a: Duraludon|14/100
+|drag|p2a: Heatran|Heatran, M|100/100
+|
+|-heal|p1a: Tyranitar|74/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641720482
+|switch|p1a: Dracozolt|Dracozolt|77/100 brn
+|move|p2a: Heatran|Toxic||[still]
+|-fail|p2a: Heatran
+|
+|-damage|p1a: Dracozolt|71/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641720492
+|move|p2a: Heatran|Heavy Slam|p1a: Dracozolt
+|-resisted|p1a: Dracozolt
+|-damage|p1a: Dracozolt|60/100 brn
+|move|p1a: Dracozolt|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|2/100
+|
+|-heal|p2a: Heatran|8/100|[from] item: Leftovers
+|-damage|p1a: Dracozolt|54/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641720509
+|switch|p2a: Slowbro|Slowbro-Galar, F|100/100
+|move|p1a: Dracozolt|Earthquake|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|56/100
+|
+|-heal|p2a: Slowbro|62/100|[from] item: Leftovers
+|-damage|p1a: Dracozolt|48/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641720519
+|move|p1a: Dracozolt|Earthquake|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|15/100
+|move|p2a: Slowbro|Ice Beam|p1a: Dracozolt
+|-supereffective|p1a: Dracozolt
+|-damage|p1a: Dracozolt|0 fnt
+|faint|p1a: Dracozolt
+|
+|-heal|p2a: Slowbro|21/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641720530
+|switch|p1a: Dugtrio|Dugtrio-Alola, F|100/100
+|turn|21
+|
+|t:|1641720534
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Dugtrio|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|45/100
+|
+|-heal|p2a: Toxapex|51/100|[from] item: Black Sludge
+|upkeep
+|turn|22
+|
+|t:|1641720542
+|move|p1a: Dugtrio|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|1/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|51/100
+|
+|-heal|p2a: Toxapex|58/100|[from] item: Black Sludge
+|upkeep
+|turn|23
+|
+|t:|1641720550
+|move|p1a: Dugtrio|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|10/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|60/100
+|
+|-heal|p2a: Toxapex|66/100|[from] item: Black Sludge
+|upkeep
+|turn|24
+|
+|t:|1641720559
+|move|p1a: Dugtrio|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|16/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|66/100
+|
+|-heal|p2a: Toxapex|72/100|[from] item: Black Sludge
+|upkeep
+|turn|25
+|
+|t:|1641720568
+|switch|p1a: Tyranitar|Tyranitar, F|74/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|80/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|26
+|
+|t:|1641720582
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|move|p2a: Toxapex|Scald|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|77/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|27
+|
+|t:|1641720594
+|move|p1a: Excadrill|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|11/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|61/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|55/100|[from] Sandstorm
+|-heal|p2a: Toxapex|61/100|[from] item: Black Sludge
+|upkeep
+|turn|28
+|
+|t:|1641720604
+|move|p1a: Excadrill|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641720610
+|switch|p2a: Ferrothorn|Ferrothorn, F|95/100
+|turn|29
+|
+|t:|1641720613
+|move|p1a: Excadrill|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|51/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Excadrill
+|-start|p1a: Excadrill|move: Leech Seed
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|58/100|[from] item: Leftovers
+|-damage|p1a: Excadrill|65/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|73/100|[silent]
+|upkeep
+|turn|30
+|
+|t:|1641720624
+|switch|p1a: Tyranitar|Tyranitar, F|80/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Ferrothorn|Spikes|p1a: Tyranitar
+|-sidestart|p1: UmbrisSpectralis|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|87/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|79/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641720634
+|move|p2a: Ferrothorn|Spikes|p1a: Tyranitar
+|-sidestart|p1: UmbrisSpectralis|Spikes
+|move|p1a: Tyranitar|Dragon Tail|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|74/100
+|-damage|p1a: Tyranitar|74/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|drag|p2a: Heatran|Heatran, M|8/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Heatran|14/100|[from] item: Leftovers
+|-heal|p1a: Tyranitar|80/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641720647
+|move|p2a: Heatran|Taunt|p1a: Tyranitar
+|-start|p1a: Tyranitar|move: Taunt
+|move|p1a: Tyranitar|Dragon Tail|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|6/100
+|drag|p2a: Duraludon|Duraludon, F|14/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Duraludon|20/100|[from] item: Leftovers
+|-heal|p1a: Tyranitar|87/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641720658
+|move|p2a: Duraludon|Dragon Claw|p1a: Tyranitar
+|-damage|p1a: Tyranitar|59/100
+|move|p1a: Tyranitar|Dragon Tail|p2a: Duraludon
+|-damage|p2a: Duraludon|0 fnt
+|faint|p2a: Duraludon
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|65/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641720668
+|switch|p2a: Ferrothorn|Ferrothorn, F|74/100
+|turn|34
+|
+|t:|1641720679
+|switch|p1a: Excadrill|Excadrill, M|65/100
+|-damage|p1a: Excadrill|48/100|[from] Spikes
+|move|p2a: Ferrothorn|Leech Seed|p1a: Excadrill
+|-start|p1a: Excadrill|move: Leech Seed
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|80/100|[from] item: Leftovers
+|-damage|p1a: Excadrill|36/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|95/100|[silent]
+|upkeep
+|turn|35
+|
+|t:|1641720690
+|move|p1a: Excadrill|Brick Break|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|61/100
+|-damage|p1a: Excadrill|23/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Spikes|p1a: Excadrill
+|-sidestart|p1: UmbrisSpectralis|Spikes
+|
+|-heal|p2a: Ferrothorn|67/100|[from] item: Leftovers
+|-damage|p1a: Excadrill|11/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|82/100|[silent]
+|upkeep
+|turn|36
+|
+|t:|1641720703
+|move|p1a: Excadrill|Rapid Spin|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|76/100
+|-boost|p1a: Excadrill|spe|1
+|-damage|p1a: Excadrill|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p1a: Excadrill
+|move|p2a: Ferrothorn|Knock Off|p1: Excadrill|[notarget]
+|-fail|p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|83/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641720717
+|switch|p1a: Lycanroc|Lycanroc, M|100/100
+|-damage|p1a: Lycanroc|76/100|[from] Spikes
+|turn|37
+|
+|t:|1641720721
+|move|p1a: Lycanroc|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Lycanroc|def|1
+|-unboost|p1a: Lycanroc|spd|1
+|-damage|p1a: Lycanroc|63/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641720729
+|switch|p2a: Slowbro|Slowbro-Galar, F|54/100
+|turn|38
+|
+|t:|1641720735
+|switch|p1a: Tyranitar|Tyranitar, F|65/100
+|-damage|p1a: Tyranitar|40/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Slowbro|Yawn|p1a: Tyranitar
+|-start|p1a: Tyranitar|move: Yawn|[of] p2a: Slowbro
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowbro|48/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|47/100|[from] item: Leftovers
+|-heal|p2a: Slowbro|54/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641720752
+|switch|p1a: Dugtrio|Dugtrio-Alola, F|100/100
+|-damage|p1a: Dugtrio|76/100|[from] Spikes
+|move|p2a: Slowbro|Shell Side Arm|p1a: Dugtrio|[anim] Shell Side Arm Physical
+|-immune|p1a: Dugtrio
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowbro|48/100|[from] Sandstorm
+|-heal|p2a: Slowbro|54/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1641720764
+|switch|p2a: Heatran|Heatran, M|6/100
+|move|p1a: Dugtrio|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641720771
+|switch|p2a: Slowbro|Slowbro-Galar, F|87/100
+|turn|41
+|
+|t:|1641720777
+|move|p1a: Dugtrio|Earthquake|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|win|UmbrisSpectralis
+|raw|UmbrisSpectralis's rating: 1102 &rarr; <strong>1125</strong><br />(+23 for winning)
+|raw|thecrazybarb's rating: 1069 &rarr; <strong>1051</strong><br />(-18 for losing)
+|l|☆thecrazybarb
+|c|☆UmbrisSpectralis|Gg, u must realy hate getting poisom stalled domt u

@@ -1,0 +1,68 @@
+|j|☆MonstersOutside
+|j|☆E3viL
+|t:|1641771368
+|gametype|singles
+|player|p1|MonstersOutside|blue|1180
+|player|p2|E3viL|swimmerf|1167
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blastoise, M|
+|poke|p1|Arcanine, M|
+|poke|p1|Alakazam, M|
+|poke|p1|Snorlax, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Mew|
+|poke|p2|Blissey, F|
+|poke|p2|Blaziken, M|
+|poke|p2|Swampert, F|
+|poke|p2|Kartana|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragapult, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MonstersOutside)
+|inactive|E3viL has 120 seconds left.
+|
+|t:|1641771402
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: ABCDEFU|Blissey, F|100/100
+|turn|1
+|
+|t:|1641771409
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|move|p2a: ABCDEFU|Stealth Rock|p1a: Alakazam
+|-sidestart|p1: MonstersOutside|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641771436
+|switch|p2a: figher jet go brr|Dragapult, F|100/100
+|move|p1a: Alakazam|Trick|p2a: figher jet go brr
+|-activate|p1a: Alakazam|move: Trick|[of] p2a: figher jet go brr
+|-item|p2a: figher jet go brr|Choice Scarf|[from] move: Trick
+|-item|p1a: Alakazam|Choice Scarf|[from] move: Trick
+|
+|upkeep
+|turn|3
+|inactive|E3viL has 120 seconds left.
+|c|☆E3viL|lol
+|c|☆MonstersOutside|Hurry ip
+|c|☆E3viL|im thinking
+|-message|MonstersOutside forfeited.
+|
+|win|E3viL
+|raw|MonstersOutside's rating: 1180 &rarr; <strong>1154</strong><br />(-26 for losing)
+|raw|E3viL's rating: 1167 &rarr; <strong>1193</strong><br />(+26 for winning)
+|l|☆MonstersOutside

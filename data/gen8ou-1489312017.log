@@ -1,0 +1,347 @@
+|j|☆Sanjogbiswas
+|j|☆ammozaffar
+|t:|1641888987
+|gametype|singles
+|player|p1|Sanjogbiswas|dawn|1454
+|player|p2|ammozaffar|pokemaniac|1400
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scizor, F|
+|poke|p1|Zapdos|
+|poke|p1|Politoed, M|
+|poke|p1|Shedinja|
+|poke|p1|Blissey, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Zapdos|
+|poke|p2|Garchomp, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Melmetal|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ammozaffar)
+|
+|t:|1641889007
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-ability|p1a: Zapdos|Pressure
+|turn|1
+|
+|t:|1641889014
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Zapdos|Thunder|p2a: Garchomp
+|-immune|p2a: Garchomp
+|
+|upkeep
+|turn|2
+|
+|t:|1641889020
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641889029
+|move|p1a: Scizor|Bullet Punch|p2a: Garchomp
+|-damage|p2a: Garchomp|75/100
+|-damage|p1a: Scizor|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p2a: Garchomp|Fire Fang|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|-damage|p2a: Garchomp|65/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641889037
+|switch|p1a: Politoed|Politoed, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|4
+|
+|t:|1641889042
+|move|p2a: Garchomp|Scale Shot|p1a: Politoed
+|-damage|p1a: Politoed|73/100
+|-damage|p1a: Politoed|47/100
+|-damage|p1a: Politoed|20/100
+|-hitcount|p1a: Politoed|3
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|-damage|p2a: Garchomp|55/100|[from] item: Life Orb
+|move|p1a: Politoed|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641889055
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|5
+|
+|t:|1641889058
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Zapdos|Thunder|p1a: Blissey
+|-damage|p1a: Blissey|79/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641889065
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641889072
+|switch|p1a: Shedinja|Shedinja|100/100|[from]move: Teleport
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641889078
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Shedinja|Will-O-Wisp|p2a: Zapdos|[miss]
+|-miss|p1a: Shedinja|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641889085
+|switch|p1a: Blissey|Blissey, F|79/100
+|move|p2a: Zapdos|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|55/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641889093
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641889099
+|switch|p1a: Shedinja|Shedinja|100/100
+|move|p2a: Barraskewda|Close Combat|p1a: Shedinja
+|-immune|p1a: Shedinja|[from] ability: Wonder Guard
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641889106
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Shedinja|Poltergeist|p2a: Tornadus
+|-activate|p2a: Tornadus|move: Poltergeist|Heavy-Duty Boots
+|-damage|p2a: Tornadus|41/100
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641889117
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tornadus|Hurricane|p1a: Blissey|[miss]
+|-miss|p2a: Tornadus|p1a: Blissey
+|
+|upkeep
+|turn|13
+|
+|t:|1641889123
+|move|p2a: Tornadus|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|83/100
+|-enditem|p1a: Blissey|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Blissey|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: ammozaffar|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1641889128
+|move|p2a: Tornadus|Defog|p1a: Blissey
+|-unboost|p1a: Blissey|evasion|1
+|-sideend|p2: ammozaffar|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641889132
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: Teleport
+|-ability|p1a: Zapdos|Pressure
+|
+|upkeep
+|turn|15
+|
+|t:|1641889144
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Zapdos|Thunder|p2a: Zapdos
+|-damage|p2a: Zapdos|29/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641889154
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|80/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Zapdos|Thunder|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|49/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641889164
+|switch|p1a: Blissey|Blissey, F|83/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|99/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|18
+|
+|t:|1641889171
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Blissey|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: ammozaffar|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641889177
+|move|p2a: Pelipper|Defog|p1a: Blissey
+|-unboost|p1a: Blissey|evasion|1
+|-sideend|p2: ammozaffar|Stealth Rock|[from] move: Defog|[of] p2a: Pelipper
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641889181
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: Teleport
+|-ability|p1a: Zapdos|Pressure
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641889192
+|move|p1a: Zapdos|Thunder|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641889197
+|switch|p2a: Zapdos|Zapdos|99/100
+|turn|21
+|
+|t:|1641889202
+|move|p2a: Zapdos|Thunder|p1a: Zapdos
+|-damage|p1a: Zapdos|39/100
+|move|p1a: Zapdos|Thunder|p2a: Zapdos
+|-damage|p2a: Zapdos|27/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1641889210
+|switch|p1a: Blissey|Blissey, F|83/100
+|move|p2a: Zapdos|Thunder|p1a: Blissey
+|-damage|p1a: Blissey|62/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641889217
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|77/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Blissey|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: ammozaffar|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1641889225
+|switch|p2a: Tornadus|Tornadus-Therian, M|75/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1641889231
+|move|p2a: Tornadus|Defog|p1a: Blissey
+|-unboost|p1a: Blissey|evasion|1
+|-sideend|p2: ammozaffar|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641889235
+|switch|p1a: Zapdos|Zapdos|39/100|[from]move: Teleport
+|-ability|p1a: Zapdos|Pressure
+|
+|-weather|none
+|upkeep
+|turn|26
+|
+|t:|1641889240
+|move|p2a: Tornadus|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|19/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|69/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|27
+|
+|t:|1641889247
+|move|p2a: Tornadus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|62/100
+|
+|t:|1641889250
+|switch|p2a: Melmetal|Melmetal|100/100|[from]move: U-turn
+|move|p1a: Zapdos|Thunder|p2a: Melmetal
+|-damage|p2a: Melmetal|37/100
+|-status|p2a: Melmetal|par
+|
+|upkeep
+|turn|28
+|
+|t:|1641889259
+|switch|p1a: Shedinja|Shedinja|100/100
+|cant|p2a: Melmetal|par
+|
+|upkeep
+|turn|29
+|-message|ammozaffar forfeited.
+|
+|win|Sanjogbiswas
+|raw|Sanjogbiswas's rating: 1454 &rarr; <strong>1471</strong><br />(+17 for winning)
+|raw|ammozaffar's rating: 1400 &rarr; <strong>1383</strong><br />(-17 for losing)
+|l|☆ammozaffar

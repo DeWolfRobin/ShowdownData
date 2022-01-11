@@ -1,0 +1,454 @@
+|j|☆Jeromevontravius
+|j|☆hub researcher
+|t:|1641779790
+|gametype|singles
+|player|p1|Jeromevontravius|170|
+|player|p2|hub researcher|hilbert|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Buzzwole|
+|poke|p1|Garchomp, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p2|Weavile, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Rotom-Wash|
+|poke|p2|Melmetal|
+|teampreview
+|
+|t:|1641779805
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hub researcher)
+|
+|t:|1641779815
+|move|p2a: Rotom|Trick|p1a: Tornadus
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Tornadus
+|-item|p1a: Tornadus|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Heavy-Duty Boots|[from] move: Trick
+|move|p1a: Tornadus|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|
+|-damage|p2a: Rotom|95/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641779824
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Rotom|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|91/100
+|
+|t:|1641779837
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: Volt Switch
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1641779859
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Weavile|Knock Off|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|83/100
+|-enditem|p1a: Buzzwole|Choice Band|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|4
+|c|☆hub researcher|o
+|c|☆hub researcher|u runnin the offensive swole
+|c|☆hub researcher|baste
+|inactive|hub researcher has 270 seconds left.
+|
+|t:|1641779899
+|switch|p2a: Rotom|Rotom-Wash|95/100 tox
+|move|p1a: Buzzwole|Leech Life|p2a: Rotom
+|-damage|p2a: Rotom|44/100 tox
+|-heal|p1a: Buzzwole|100/100|[from] drain|[of] p2a: Rotom
+|
+|-damage|p2a: Rotom|38/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641779912
+|move|p2a: Rotom|Hydro Pump|p1a: Buzzwole|[miss]
+|-miss|p2a: Rotom|p1a: Buzzwole
+|move|p1a: Buzzwole|Leech Life|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|c|☆hub researcher|yep hax
+|
+|t:|1641779920
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|6
+|
+|t:|1641779926
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Tapu Lele|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|77/100
+|
+|-heal|p1a: Heatran|83/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|hub researcher has 270 seconds left.
+|
+|t:|1641779935
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|92/100
+|-activate|p2a: Dragonite|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|90/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|80/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641779944
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Dragonite|Toxic|p1a: Tornadus
+|-status|p1a: Tornadus|tox
+|
+|-damage|p1a: Tornadus|94/100 tox|[from] psn
+|-end|p2a: Dragonite|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|9
+|inactive|hub researcher has 270 seconds left.
+|
+|t:|1641779963
+|move|p1a: Tornadus|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|61/100
+|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|-damage|p1a: Tornadus|82/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641779973
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Dragonite|Toxic|p1a: Garchomp
+|-status|p1a: Garchomp|tox
+|
+|-damage|p1a: Garchomp|94/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|11
+|inactive|hub researcher has 270 seconds left.
+|
+|t:|1641779994
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Garchomp|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: hub researcher|move: Stealth Rock
+|
+|-damage|p1a: Garchomp|82/100 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|hub researcher has 270 seconds left.
+|
+|t:|1641780006
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|95/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641780012
+|move|p1a: Buzzwole|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|-damage|p1a: Buzzwole|83/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641780027
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|14
+|
+|t:|1641780031
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p2a: Tapu Lele|Psychic|p1a: Tornadus
+|-damage|p1a: Tornadus|32/100 tox
+|
+|-damage|p1a: Tornadus|25/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641780038
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|move|p1a: Tornadus|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|62/100
+|
+|-damage|p1a: Tornadus|13/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641780047
+|switch|p1a: Buzzwole|Buzzwole|83/100
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1641780051
+|switch|p1a: Garchomp|Garchomp, F|82/100 tox
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|
+|-damage|p1a: Garchomp|76/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641780056
+|move|p1a: Garchomp|Earthquake|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|42/100
+|move|p2a: Melmetal|Ice Punch|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Melmetal|30/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Melmetal|13/100|[from] item: Rocky Helmet|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641780063
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100
+|turn|19
+|
+|t:|1641780069
+|move|p1a: Keldeo|Substitute|p1a: Keldeo
+|-start|p1a: Keldeo|Substitute
+|-damage|p1a: Keldeo|76/100
+|move|p2a: Melmetal|Superpower|p1a: Keldeo
+|-end|p1a: Keldeo|Substitute
+|-unboost|p2a: Melmetal|atk|1
+|-unboost|p2a: Melmetal|def|1
+|
+|-heal|p1a: Keldeo|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641780073
+|move|p1a: Keldeo|Scald|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|-heal|p1a: Keldeo|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641780076
+|switch|p2a: Tapu Lele|Tapu Lele|88/100
+|-damage|p2a: Tapu Lele|76/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|21
+|
+|t:|1641780088
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|switch|p1a: Tornadus|Tornadus-Therian, M|46/100 tox
+|
+|-damage|p1a: Tornadus|40/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641780095
+|move|p1a: Tornadus|Toxic|p2a: Dragonite
+|-status|p2a: Dragonite|tox
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100 tox
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|-damage|p1a: Tornadus|28/100 tox|[from] psn
+|-damage|p2a: Dragonite|94/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641780102
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Dragonite|Toxic|p1a: Slowking
+|-immune|p1a: Slowking
+|
+|-damage|p2a: Dragonite|82/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641780107
+|switch|p1a: Tornadus|Tornadus-Therian, M|61/100 tox
+|move|p2a: Dragonite|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-damage|p1a: Tornadus|55/100 tox|[from] psn
+|-damage|p2a: Dragonite|63/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641780120
+|switch|p1a: Buzzwole|Buzzwole|83/100
+|switch|p2a: Tapu Lele|Tapu Lele|76/100
+|-damage|p2a: Tapu Lele|63/100|[from] Stealth Rock
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|26
+|
+|t:|1641780127
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Slowking
+|-damage|p1a: Slowking|52/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641780134
+|switch|p1a: Heatran|Heatran, F|90/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|72/100
+|
+|-heal|p1a: Heatran|78/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641780140
+|switch|p2a: Dragonite|Dragonite, M|63/100 tox
+|-damage|p2a: Dragonite|38/100 tox|[from] Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|23/100 tox
+|-activate|p2a: Dragonite|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|84/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|17/100 tox|[from] psn
+|-damage|p2a: Dragonite|4/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|29
+|
+|t:|1641780147
+|switch|p1a: Buzzwole|Buzzwole|83/100
+|move|p2a: Dragonite|Earthquake|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|72/100
+|
+|-damage|p2a: Dragonite|0 fnt|[from] psn
+|faint|p2a: Dragonite
+|upkeep
+|
+|t:|1641780150
+|switch|p2a: Tapu Lele|Tapu Lele|63/100
+|-damage|p2a: Tapu Lele|51/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|30
+|
+|t:|1641780156
+|switch|p1a: Tornadus|Tornadus-Therian, M|89/100 tox
+|move|p2a: Tapu Lele|Focus Blast|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|64/100 tox
+|
+|-damage|p1a: Tornadus|58/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641780159
+|move|p1a: Tornadus|Toxic|p2a: Tapu Lele
+|-status|p2a: Tapu Lele|tox
+|move|p2a: Tapu Lele|Focus Blast|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|35/100 tox
+|
+|-damage|p1a: Tornadus|23/100 tox|[from] psn
+|-damage|p2a: Tapu Lele|45/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641780162
+|switch|p1a: Slowking|Slowking-Galar, F|85/100
+|move|p2a: Tapu Lele|Focus Blast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|80/100
+|-unboost|p1a: Slowking|spd|1
+|
+|-damage|p2a: Tapu Lele|33/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641780172
+|switch|p1a: Buzzwole|Buzzwole|72/100
+|move|p2a: Tapu Lele|Focus Blast|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-crit|p1a: Buzzwole
+|-damage|p1a: Buzzwole|22/100
+|
+|-damage|p2a: Tapu Lele|14/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641780177
+|move|p2a: Tapu Lele|Focus Blast|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|-damage|p2a: Tapu Lele|0 fnt|[from] psn
+|faint|p2a: Tapu Lele
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641780180
+|switch|p2a: Weavile|Weavile, M|100/100
+|switch|p1a: Keldeo|Keldeo-Resolute|88/100
+|-ability|p2a: Weavile|Pressure
+|turn|35
+|
+|t:|1641780183
+|move|p2a: Weavile|Knock Off|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|63/100
+|-ability|p1a: Keldeo|Justified|boost
+|-boost|p1a: Keldeo|atk|1
+|-enditem|p1a: Keldeo|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|move|p1a: Keldeo|Secret Sword|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|win|Jeromevontravius
+|c|☆hub researcher|sm
+|l|☆hub researcher

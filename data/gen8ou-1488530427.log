@@ -1,0 +1,429 @@
+|j|☆haha sped
+|j|☆styall
+|t:|1641777663
+|gametype|singles
+|player|p1|haha sped|265|1211
+|player|p2|styall|chili|1209
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Slurpuff, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Sceptile, M|
+|poke|p1|Celesteela|
+|poke|p2|Mew|
+|poke|p2|Corviknight, M|
+|poke|p2|Clefable, M|
+|poke|p2|Umbreon, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Palpitoad, M|
+|teampreview
+|
+|t:|1641777683
+|start
+|switch|p1a: Celesteela|Celesteela|100/100
+|switch|p2a: Palpitoad|Palpitoad, M, shiny|100/100
+|turn|1
+|
+|t:|1641777691
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|move|p2a: Palpitoad|Stealth Rock|p1a: Celesteela
+|-sidestart|p1: haha sped|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|c|☆haha sped|oh no
+|
+|t:|1641777702
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Celesteela|Air Slash|p2a: Toxapex
+|-damage|p2a: Toxapex|67/100
+|
+|-heal|p2a: Toxapex|73/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1641777710
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: Celesteela|Air Slash|p2a: Mew
+|-damage|p2a: Mew|70/100
+|
+|-heal|p2a: Mew|76/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641777722
+|move|p1a: Celesteela|Flash Cannon|p2a: Mew
+|-damage|p2a: Mew|41/100
+|-unboost|p2a: Mew|spd|1
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|91/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|-heal|p2a: Mew|98/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641777729
+|switch|p2a: Umbreon|Umbreon, M, shiny|100/100
+|move|p1a: Celesteela|Flash Cannon|p2a: Umbreon
+|-crit|p2a: Umbreon
+|-damage|p2a: Umbreon|70/100
+|
+|-heal|p2a: Umbreon|76/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641777738
+|move|p1a: Celesteela|Fire Blast|p2a: Umbreon
+|-damage|p2a: Umbreon|55/100
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|61/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641777745
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-damage|p1a: Tapu Koko|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Umbreon|Foul Play|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|53/100
+|
+|-heal|p2a: Umbreon|100/100|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|8
+|
+|t:|1641777756
+|switch|p2a: Palpitoad|Palpitoad, M, shiny|100/100
+|move|p1a: Tapu Koko|Reflect|p1a: Tapu Koko
+|-sidestart|p1: haha sped|Reflect
+|
+|upkeep
+|turn|9
+|
+|t:|1641777762
+|move|p1a: Tapu Koko|Light Screen|p1a: Tapu Koko
+|-sidestart|p1: haha sped|move: Light Screen
+|move|p2a: Palpitoad|Toxic|p1a: Tapu Koko
+|-status|p1a: Tapu Koko|tox
+|
+|-damage|p1a: Tapu Koko|47/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641777768
+|move|p1a: Tapu Koko|U-turn|p2a: Palpitoad
+|-damage|p2a: Palpitoad|82/100
+|
+|t:|1641777772
+|switch|p1a: Hawlucha|Hawlucha, F|100/100|[from]move: U-turn
+|-damage|p1a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p2a: Palpitoad|Toxic|p1a: Hawlucha|[miss]
+|-miss|p2a: Palpitoad|p1a: Hawlucha
+|
+|upkeep
+|turn|11
+|
+|t:|1641777781
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Hawlucha|Acrobatics|p2a: Clefable
+|-damage|p2a: Clefable|65/100
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|12
+|
+|t:|1641777787
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641777795
+|move|p1a: Hawlucha|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|64/100
+|cant|p2a: Clefable|flinch
+|
+|upkeep
+|turn|14
+|
+|t:|1641777801
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641777807
+|move|p1a: Hawlucha|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|63/100
+|move|p2a: Clefable|Moonblast|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|39/100
+|-unboost|p1a: Hawlucha|spa|1
+|
+|-sideend|p1: haha sped|Reflect
+|upkeep
+|turn|16
+|
+|t:|1641777815
+|move|p1a: Hawlucha|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|29/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|79/100
+|
+|-sideend|p1: haha sped|move: Light Screen
+|upkeep
+|turn|17
+|
+|t:|1641777824
+|move|p1a: Hawlucha|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|40/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|90/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641777830
+|move|p1a: Hawlucha|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|53/100
+|move|p2a: Clefable|Moonblast|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|c|☆haha sped|wel
+|
+|t:|1641777843
+|switch|p1a: Celesteela|Celesteela|100/100
+|-damage|p1a: Celesteela|88/100|[from] Stealth Rock
+|turn|19
+|c|☆haha sped|i guess that shit is pain
+|
+|t:|1641777855
+|switch|p2a: Mew|Mew|98/100
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|-heal|p2a: Mew|100/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆haha sped|full stall mon
+|c|☆haha sped|haha
+|
+|t:|1641777863
+|move|p1a: Celesteela|Air Slash|p2a: Mew
+|-damage|p2a: Mew|71/100
+|move|p2a: Mew|Block|p1a: Celesteela
+|-activate|p1a: Celesteela|trapped
+|
+|-heal|p2a: Mew|77/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641777872
+|move|p1a: Celesteela|Fire Blast|p2a: Mew
+|-damage|p2a: Mew|47/100
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|97/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|-heal|p2a: Mew|100/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|c|☆haha sped|yeah
+|
+|t:|1641777879
+|move|p1a: Celesteela|Air Slash|p2a: Mew
+|-damage|p2a: Mew|68/100
+|move|p2a: Mew|Imprison|p2a: Mew
+|-start|p2a: Mew|move: Imprison
+|
+|-heal|p2a: Mew|74/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|c|☆haha sped|im prison transform set
+|
+|t:|1641777889
+|move|p1a: Celesteela|Air Slash|p2a: Mew
+|-damage|p2a: Mew|41/100
+|cant|p2a: Mew|flinch
+|
+|-heal|p2a: Mew|47/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆haha sped|i like it
+|
+|t:|1641777895
+|move|p1a: Celesteela|Air Slash|p2a: Mew
+|-damage|p2a: Mew|15/100
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|65/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|-heal|p2a: Mew|72/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641777904
+|move|p1a: Celesteela|Air Slash|p2a: Mew
+|-damage|p2a: Mew|41/100
+|cant|p2a: Mew|flinch
+|
+|-heal|p2a: Mew|47/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641777911
+|move|p1a: Celesteela|Air Slash|p2a: Mew
+|-damage|p2a: Mew|15/100
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|65/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|-heal|p2a: Mew|72/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641777919
+|move|p1a: Celesteela|Air Slash|p2a: Mew|[miss]
+|-miss|p1a: Celesteela|p2a: Mew
+|move|p2a: Mew|Transform|p1a: Celesteela
+|-transform|p2a: Mew|p1a: Celesteela
+|
+|-heal|p2a: Mew|78/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|c|☆haha sped|f
+|
+|t:|1641777932
+|move|p2a: Mew|Autotomize|p2a: Mew
+|-boost|p2a: Mew|spe|2
+|-start|p2a: Mew|Autotomize
+|-activate|p1a: Celesteela|move: Struggle
+|move|p1a: Celesteela|Struggle|p2a: Mew
+|-damage|p2a: Mew|70/100
+|-damage|p1a: Celesteela|63/100|[from] recoil
+|
+|-heal|p2a: Mew|76/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641777942
+|move|p2a: Mew|Autotomize|p2a: Mew
+|-boost|p2a: Mew|spe|2
+|-start|p2a: Mew|Autotomize
+|-activate|p1a: Celesteela|move: Struggle
+|move|p1a: Celesteela|Struggle|p2a: Mew
+|-damage|p2a: Mew|69/100
+|-damage|p1a: Celesteela|38/100|[from] recoil
+|
+|-heal|p2a: Mew|75/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641777953
+|move|p2a: Mew|Fire Blast|p1a: Celesteela
+|-supereffective|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|-ability|p2a: Mew|Beast Boost|boost
+|-boost|p2a: Mew|spa|1
+|
+|-heal|p2a: Mew|81/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641777960
+|switch|p1a: Tapu Koko|Tapu Koko|47/100 tox
+|-damage|p1a: Tapu Koko|35/100 tox|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|31
+|
+|t:|1641777968
+|move|p2a: Mew|Flash Cannon|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|-ability|p2a: Mew|Beast Boost|boost
+|-boost|p2a: Mew|spa|1
+|
+|-heal|p2a: Mew|87/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641777975
+|switch|p1a: Sceptile|Sceptile, M|100/100
+|-damage|p1a: Sceptile|88/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1641777982
+|move|p2a: Mew|Air Slash|p1a: Sceptile
+|-supereffective|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|-ability|p2a: Mew|Beast Boost|boost
+|-boost|p2a: Mew|spa|1
+|
+|-heal|p2a: Mew|93/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641777986
+|switch|p1a: Slurpuff|Slurpuff, M|100/100
+|-damage|p1a: Slurpuff|88/100|[from] Stealth Rock
+|turn|33
+|
+|t:|1641777992
+|move|p2a: Mew|Flash Cannon|p1a: Slurpuff
+|-supereffective|p1a: Slurpuff
+|-damage|p1a: Slurpuff|0 fnt
+|faint|p1a: Slurpuff
+|-ability|p2a: Mew|Beast Boost|boost
+|-boost|p2a: Mew|spa|1
+|
+|-heal|p2a: Mew|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641777994
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|34
+|c|☆haha sped|gg
+|
+|t:|1641778001
+|move|p2a: Mew|Flash Cannon|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|styall
+|raw|haha sped's rating: 1211 &rarr; <strong>1186</strong><br />(-25 for losing)
+|raw|styall's rating: 1209 &rarr; <strong>1234</strong><br />(+25 for winning)
+|l|☆haha sped

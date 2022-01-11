@@ -1,0 +1,305 @@
+|j|☆Moth.o
+|j|☆Npek16
+|t:|1641812644
+|gametype|singles
+|player|p1|Moth.o|roxie|1247
+|player|p2|Npek16|101|1154
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Sylveon, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Scolipede, F|
+|poke|p1|Moltres|
+|poke|p1|Krookodile, F|
+|poke|p1|Lurantis, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Zapdos|
+|poke|p2|Barraskewda, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Toxicroak, F|
+|poke|p2|Seismitoad, M|
+|teampreview
+|
+|t:|1641812657
+|start
+|switch|p1a: TransLivesMatter|Sylveon, M|100/100
+|switch|p2a: Que llueva|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Que llueva
+|turn|1
+|
+|t:|1641812669
+|move|p1a: TransLivesMatter|Hyper Voice|p2a: Que llueva
+|-damage|p2a: Que llueva|41/100
+|-enditem|p1a: TransLivesMatter|Throat Spray
+|-boost|p1a: TransLivesMatter|spa|1|[from] item: Throat Spray
+|move|p2a: Que llueva|U-turn|p1a: TransLivesMatter
+|-resisted|p1a: TransLivesMatter
+|-damage|p1a: TransLivesMatter|95/100
+|
+|t:|1641812675
+|switch|p2a: rana drogas|Toxicroak, F|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|c|☆Moth.o|Que llueva que llueve la Virgen se la Cueva
+|
+|t:|1641812697
+|move|p2a: rana drogas|Swords Dance|p2a: rana drogas
+|-boost|p2a: rana drogas|atk|2
+|move|p1a: TransLivesMatter|Psyshock|p2a: rana drogas
+|-supereffective|p2a: rana drogas
+|-damage|p2a: rana drogas|0 fnt
+|faint|p2a: rana drogas
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆Npek16|los pajarito cantan
+|
+|t:|1641812719
+|switch|p2a: primoZumosol|Seismitoad, M, shiny|100/100
+|turn|3
+|c|☆Moth.o|Las luces se levantan (eran luces? Hace tiempo k no canto esta)
+|c|☆Npek16|se me fue un poco a la mierda la estrategia la verdad
+|
+|t:|1641812745
+|move|p2a: primoZumosol|Stealth Rock|p1a: TransLivesMatter
+|-sidestart|p1: Moth.o|move: Stealth Rock
+|move|p1a: TransLivesMatter|Hyper Voice|p2a: primoZumosol
+|-damage|p2a: primoZumosol|28/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: primoZumosol|34/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|c|☆Npek16|pero voy a intentar ganarte
+|
+|t:|1641812755
+|move|p2a: primoZumosol|Earthquake|p1a: TransLivesMatter
+|-damage|p1a: TransLivesMatter|34/100
+|move|p1a: TransLivesMatter|Hyper Voice|p2a: primoZumosol
+|-damage|p2a: primoZumosol|0 fnt
+|faint|p2a: primoZumosol
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆Npek16|eran nubes
+|c|☆Moth.o|ESO NUBES!
+|
+|t:|1641812772
+|switch|p2a: que te pinsho|Ferrothorn, M, shiny|100/100
+|turn|5
+|
+|t:|1641812779
+|move|p1a: TransLivesMatter|Mystical Fire|p2a: que te pinsho
+|-supereffective|p2a: que te pinsho
+|-damage|p2a: que te pinsho|49/100
+|-unboost|p2a: que te pinsho|spa|1
+|move|p2a: que te pinsho|Gyro Ball|p1a: TransLivesMatter
+|-supereffective|p1a: TransLivesMatter
+|-damage|p1a: TransLivesMatter|0 fnt
+|faint|p1a: TransLivesMatter
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: que te pinsho|56/100|[from] item: Leftovers
+|upkeep
+|c|☆Npek16|porfin
+|
+|t:|1641812791
+|switch|p1a: Guillot|Lurantis, M|100/100
+|-damage|p1a: Guillot|88/100|[from] Stealth Rock
+|turn|6
+|c|☆Npek16|a tomar por culo
+|
+|t:|1641812799
+|move|p1a: Guillot|Substitute|p1a: Guillot
+|-start|p1a: Guillot|Substitute
+|-damage|p1a: Guillot|63/100
+|move|p2a: que te pinsho|Toxic||[still]
+|-fail|p2a: que te pinsho
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Guillot|69/100|[from] item: Leftovers
+|-heal|p2a: que te pinsho|62/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641812809
+|move|p1a: Guillot|Superpower|p2a: que te pinsho
+|-supereffective|p2a: que te pinsho
+|-damage|p2a: que te pinsho|16/100
+|-boost|p1a: Guillot|atk|1
+|-boost|p1a: Guillot|def|1
+|-damage|p1a: Guillot|57/100|[from] ability: Iron Barbs|[of] p2a: que te pinsho
+|move|p2a: que te pinsho|Gyro Ball|p1a: Guillot
+|-activate|p1a: Guillot|move: Substitute|[damage]
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Guillot|63/100|[from] item: Leftovers
+|-heal|p2a: que te pinsho|23/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641812823
+|move|p2a: que te pinsho|Protect|p2a: que te pinsho
+|-singleturn|p2a: que te pinsho|Protect
+|move|p1a: Guillot|Superpower|p2a: que te pinsho
+|-activate|p2a: que te pinsho|move: Protect
+|
+|-weather|none
+|-heal|p1a: Guillot|69/100|[from] item: Leftovers
+|-heal|p2a: que te pinsho|29/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641812834
+|switch|p2a: Que llueva|Pelipper, F, shiny|41/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Que llueva
+|move|p1a: Guillot|Leaf Storm|p2a: Que llueva
+|-damage|p2a: Que llueva|0 fnt
+|-boost|p1a: Guillot|spa|2
+|faint|p2a: Que llueva
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Guillot|75/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641812845
+|switch|p2a: ZapDios|Zapdos, shiny|100/100
+|turn|10
+|c|☆Npek16|pero que es ese bicho lkoo
+|
+|t:|1641812863
+|move|p2a: ZapDios|Hurricane|p1a: Guillot
+|-supereffective|p1a: Guillot
+|-end|p1a: Guillot|Substitute
+|move|p1a: Guillot|Leaf Storm|p2a: ZapDios
+|-resisted|p2a: ZapDios
+|-damage|p2a: ZapDios|50/100
+|-boost|p1a: Guillot|spa|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Guillot|81/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641812877
+|switch|p1a: Lagartera|Krookodile, F, shiny|100/100
+|-damage|p1a: Lagartera|94/100|[from] Stealth Rock
+|move|p2a: ZapDios|Hurricane|p1a: Lagartera
+|-damage|p1a: Lagartera|0 fnt
+|faint|p1a: Lagartera
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641812888
+|switch|p1a: Ophelia|Scolipede, F, shiny|100/100
+|-damage|p1a: Ophelia|76/100|[from] Stealth Rock
+|turn|12
+|c|☆Npek16|zapdios pega muchisimo
+|
+|t:|1641812896
+|move|p1a: Ophelia|Poison Jab|p2a: ZapDios
+|-damage|p2a: ZapDios|4/100
+|move|p2a: ZapDios|Hurricane|p1a: Ophelia
+|-supereffective|p1a: Ophelia
+|-damage|p1a: Ophelia|0 fnt
+|faint|p1a: Ophelia
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641812906
+|switch|p1a: Aerodynamo|Dragapult, M|100/100
+|-damage|p1a: Aerodynamo|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641812912
+|move|p1a: Aerodynamo|Shadow Ball|p2a: ZapDios
+|-damage|p2a: ZapDios|0 fnt
+|faint|p2a: ZapDios
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641812918
+|switch|p2a: A tu casa|Barraskewda, M, shiny|100/100
+|turn|14
+|
+|t:|1641812929
+|switch|p1a: Perséfone|Moltres|100/100
+|move|p2a: A tu casa|Psychic Fangs|p1a: Perséfone
+|-damage|p1a: Perséfone|67/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641812940
+|switch|p2a: que te pinsho|Ferrothorn, M, shiny|29/100
+|move|p1a: Perséfone|Scorching Sands|p2a: que te pinsho
+|-damage|p2a: que te pinsho|16/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: que te pinsho|23/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641812949
+|move|p1a: Perséfone|Flamethrower|p2a: que te pinsho
+|-supereffective|p2a: que te pinsho
+|-damage|p2a: que te pinsho|0 fnt
+|faint|p2a: que te pinsho
+|
+|-weather|none
+|upkeep
+|
+|t:|1641812954
+|switch|p2a: A tu casa|Barraskewda, M, shiny|100/100
+|turn|17
+|c|☆Moth.o|Demasiado sbsjsbdj
+|c|☆Npek16|ahora si que es gg
+|
+|t:|1641812963
+|move|p2a: A tu casa|Liquidation|p1a: Perséfone
+|-supereffective|p1a: Perséfone
+|-damage|p1a: Perséfone|0 fnt
+|faint|p1a: Perséfone
+|
+|upkeep
+|
+|t:|1641812969
+|switch|p1a: Guillot|Lurantis, M|81/100
+|-damage|p1a: Guillot|69/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641812973
+|move|p2a: A tu casa|Liquidation|p1a: Guillot
+|-resisted|p1a: Guillot
+|-damage|p1a: Guillot|31/100
+|move|p1a: Guillot|Leaf Storm|p2a: A tu casa
+|-supereffective|p2a: A tu casa
+|-damage|p2a: A tu casa|0 fnt
+|-boost|p1a: Guillot|spa|2
+|faint|p2a: A tu casa
+|
+|win|Moth.o
+|raw|Moth.o's rating: 1247 &rarr; <strong>1265</strong><br />(+18 for winning)
+|raw|Npek16's rating: 1154 &rarr; <strong>1136</strong><br />(-18 for losing)
+|c|☆Moth.o|Gg uwu
+|c|☆Npek16|gg le hace una revancha buen hombre
+|c|☆Npek16|?
+|l|☆Npek16
+|c|☆Moth.o|Me tengo k ir, pero otro día si quieres 👀

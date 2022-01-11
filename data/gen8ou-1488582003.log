@@ -1,0 +1,187 @@
+|j|☆UnusualFighter
+|j|☆Patrick2.O
+|t:|1641784894
+|gametype|singles
+|player|p1|UnusualFighter|giovanni|1321
+|player|p2|Patrick2.O|crasherwake|1425
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Volcarona, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Tyranitar, M|
+|poke|p1|Gengar, M|
+|poke|p2|Arctozolt|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Swampert, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Magnezone|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Patrick2.O)
+|inactive|UnusualFighter also wants the timer to be on.
+|j| baronvonumbreon
+|
+|t:|1641784899
+|start
+|switch|p1a: Gojira|Tyranitar, M|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Gojira
+|turn|1
+|
+|t:|1641784913
+|switch|p1a: Tomfoolery|Gengar, M, shiny|100/100
+|move|p2a: Swampert|Earthquake|p1a: Tomfoolery
+|-supereffective|p1a: Tomfoolery
+|-crit|p1a: Tomfoolery
+|-damage|p1a: Tomfoolery|0 fnt
+|-start|p2a: Swampert|Disable|Earthquake|[from] ability: Cursed Body|[of] p1a: Tomfoolery
+|faint|p1a: Tomfoolery
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641784916
+|switch|p1a: Gojira|Tyranitar, M|100/100
+|turn|2
+|
+|t:|1641784927
+|move|p1a: Gojira|Stealth Rock|p2a: Swampert
+|-sidestart|p2: Patrick2.O|move: Stealth Rock
+|move|p2a: Swampert|Flip Turn|p1a: Gojira
+|-supereffective|p1a: Gojira
+|-damage|p1a: Gojira|68/100
+|
+|t:|1641784932
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100|[from]move: Flip Turn
+|-damage|p2a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Gojira|62/100|[from] Hail
+|-heal|p1a: Gojira|68/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641784947
+|switch|p1a: Needles|Ferrothorn, F|100/100
+|move|p2a: Ninetales|Encore||[still]
+|-fail|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Needles|94/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641784955
+|switch|p1a: Gojira|Tyranitar, M|68/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Gojira
+|move|p2a: Ninetales|Aurora Veil||[still]
+|-fail|p2a: Ninetales
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ninetales|70/100|[from] Sandstorm
+|-heal|p1a: Gojira|74/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641784971
+|switch|p2a: Swampert|Swampert, M|100/100
+|-damage|p2a: Swampert|94/100|[from] Stealth Rock
+|move|p1a: Gojira|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Gojira|80/100|[from] item: Leftovers
+|-heal|p2a: Swampert|67/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641784983
+|switch|p1a: Mr. Miyagi|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Swampert|Flip Turn|p1a: Mr. Miyagi
+|-resisted|p1a: Mr. Miyagi
+|-damage|p1a: Mr. Miyagi|91/100
+|c|☆Patrick2.O|lol nice
+|
+|t:|1641785003
+|switch|p2a: Mandibuzz|Mandibuzz, F, shiny|100/100|[from]move: Flip Turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mr. Miyagi|85/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641785009
+|move|p1a: Mr. Miyagi|U-turn|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|88/100
+|
+|t:|1641785011
+|switch|p1a: (OwO)|Clefable, F|100/100|[from]move: U-turn
+|move|p2a: Mandibuzz|Foul Play|p1a: (OwO)
+|-resisted|p1a: (OwO)
+|-damage|p1a: (OwO)|92/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641785032
+|move|p2a: Mandibuzz|Toxic|p1a: (OwO)
+|-status|p1a: (OwO)|tox
+|move|p1a: (OwO)|Calm Mind|p1a: (OwO)
+|-boost|p1a: (OwO)|spa|1
+|-boost|p1a: (OwO)|spd|1
+|
+|-weather|none
+|upkeep
+|turn|9
+|inactive|Patrick2.O has 120 seconds left.
+|inactive|UnusualFighter has 120 seconds left.
+|
+|t:|1641785088
+|switch|p2a: Magnezone|Magnezone, shiny|100/100
+|-damage|p2a: Magnezone|94/100|[from] Stealth Rock
+|move|p1a: (OwO)|Calm Mind|p1a: (OwO)
+|-boost|p1a: (OwO)|spa|1
+|-boost|p1a: (OwO)|spd|1
+|
+|-heal|p2a: Magnezone|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641785097
+|move|p2a: Magnezone|Discharge|p1a: (OwO)
+|-damage|p1a: (OwO)|72/100 tox
+|move|p1a: (OwO)|Flamethrower|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|-message|Patrick2.O forfeited.
+|
+|win|UnusualFighter
+|raw|UnusualFighter's rating: 1321 &rarr; <strong>1347</strong><br />(+26 for winning)
+|raw|Patrick2.O's rating: 1425 &rarr; <strong>1399</strong><br />(-26 for losing)
+|l|☆Patrick2.O
+|c|☆UnusualFighter|ok
+|c|☆UnusualFighter|gg
+|l|☆UnusualFighter
+|l| baronvonumbreon
+|j|☆UnusualFighter
+|player|p1|UnusualFighter|giovanni
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UnusualFighter)
+|j| Lags

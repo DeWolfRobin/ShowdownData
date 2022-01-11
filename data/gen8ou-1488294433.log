@@ -1,0 +1,414 @@
+|j|☆memes go brrr
+|j|☆AcneAutist
+|t:|1641747396
+|gametype|singles
+|player|p1|memes go brrr|teamrocket|
+|player|p2|AcneAutist|harlequin|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Melmetal|
+|poke|p1|Corviknight, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Mew|
+|poke|p1|Dragapult, M|
+|poke|p2|Necrozma|
+|poke|p2|Zapdos|
+|poke|p2|Heatran, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Hippowdon, F|
+|poke|p2|Clefable, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by memes go brrr)
+|c|☆AcneAutist|hf
+|c|☆memes go brrr|u2
+|c|☆memes go brrr|this is a weird balance team
+|c|☆AcneAutist|mine?
+|inactive|AcneAutist has 270 seconds left.
+|c|☆memes go brrr|ye
+|c|☆AcneAutist|its pretty effective now kyurem is banned imo
+|
+|t:|1641747455
+|start
+|switch|p1a: no u|Mew|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641747461
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: no u|Taunt|p2a: Heatran
+|-start|p2a: Heatran|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1641747466
+|switch|p2a: Hydreigon|Hydreigon, M, shiny|100/100
+|move|p1a: no u|Stealth Rock|p2a: Hydreigon
+|-sidestart|p2: AcneAutist|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641747476
+|switch|p1a: sped|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: sped
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641747487
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: sped|Dazzling Gleam|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|83/100
+|
+|-heal|p2a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641747490
+|move|p1a: sped|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|86/100
+|
+|t:|1641747500
+|switch|p1a: no u|Mew|100/100|[from]move: U-turn
+|move|p2a: Heatran|Magma Storm|p1a: no u|[miss]
+|-miss|p2a: Heatran|p1a: no u
+|
+|-heal|p2a: Heatran|92/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆memes go brrr|ok.
+|
+|t:|1641747507
+|move|p1a: no u|Spikes|p2a: Heatran
+|-sidestart|p2: AcneAutist|Spikes
+|move|p2a: Heatran|Magma Storm|p1a: no u|[miss]
+|-miss|p2a: Heatran|p1a: no u
+|
+|-heal|p2a: Heatran|98/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641747510
+|move|p1a: no u|Spikes|p2a: Heatran
+|-sidestart|p2: AcneAutist|Spikes
+|move|p2a: Heatran|Magma Storm|p1a: no u
+|-damage|p1a: no u|63/100
+|-activate|p1a: no u|move: Magma Storm|[of] p2a: Heatran
+|-enditem|p1a: no u|Red Card|[of] p2a: Heatran
+|drag|p2a: Clefable|Clefable, M|100/100
+|
+|-end|p1a: no u|Magma Storm|[partiallytrapped]|[silent]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|8
+|c|☆memes go brrr|goodbye
+|
+|t:|1641747519
+|move|p1a: no u|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|move|p2a: Clefable|Moonblast|p1a: no u
+|-damage|p1a: no u|35/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641747527
+|switch|p1a: bonk|Melmetal|100/100
+|move|p2a: Clefable|Moonblast|p1a: bonk
+|-resisted|p1a: bonk
+|-damage|p1a: bonk|84/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641747530
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: bonk|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|11
+|
+|t:|1641747541
+|switch|p1a: sped|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: sped
+|move|p2a: Zapdos|Defog|p1a: sped
+|-unboost|p1a: sped|evasion|1
+|-sideend|p2: AcneAutist|Spikes|[from] move: Defog|[of] p2a: Zapdos
+|-sideend|p2: AcneAutist|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|-fieldend|move: Electric Terrain
+|
+|upkeep
+|turn|12
+|
+|t:|1641747547
+|move|p1a: sped|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|95/100
+|
+|t:|1641747553
+|switch|p1a: shing shing mf|Garchomp, F|100/100|[from]move: U-turn
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|13
+|
+|t:|1641747560
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: shing shing mf|Swords Dance|p1a: shing shing mf
+|-boost|p1a: shing shing mf|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641747564
+|switch|p1a: bonk|Melmetal|84/100
+|move|p2a: Clefable|Moonblast|p1a: bonk
+|-resisted|p1a: bonk
+|-damage|p1a: bonk|68/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641747569
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: bonk|Thunder Punch|p2a: Zapdos
+|-damage|p2a: Zapdos|64/100
+|-status|p1a: bonk|par|[from] ability: Static|[of] p2a: Zapdos
+|
+|upkeep
+|turn|16
+|
+|t:|1641747576
+|switch|p1a: no u|Mew|35/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1641747589
+|move|p1a: no u|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: AcneAutist|move: Stealth Rock
+|move|p2a: Zapdos|Discharge|p1a: no u
+|-damage|p1a: no u|6/100
+|-status|p1a: no u|par
+|-activate|p1a: no u|ability: Synchronize
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|18
+|
+|t:|1641747594
+|move|p2a: Zapdos|Defog|p1a: no u
+|-unboost|p1a: no u|evasion|1
+|-sideend|p2: AcneAutist|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|cant|p1a: no u|par
+|
+|upkeep
+|turn|19
+|
+|t:|1641747596
+|move|p2a: Zapdos|Discharge|p1a: no u
+|-damage|p1a: no u|0 fnt
+|faint|p1a: no u
+|
+|upkeep
+|
+|t:|1641747603
+|switch|p1a: bonk|Melmetal|68/100 par
+|turn|20
+|c|☆memes go brrr|first rng of the game
+|c|☆memes go brrr|and it already hates me
+|
+|t:|1641747616
+|move|p2a: Zapdos|Discharge|p1a: bonk
+|-damage|p1a: bonk|27/100 par
+|move|p1a: bonk|Double Iron Bash|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|75/100
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|50/100
+|-hitcount|p2a: Zapdos|2
+|
+|upkeep
+|turn|21
+|
+|t:|1641747621
+|switch|p1a: shing shing mf|Garchomp, F|100/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|22
+|
+|t:|1641747626
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: shing shing mf|Swords Dance|p1a: shing shing mf
+|-boost|p1a: shing shing mf|atk|2
+|
+|upkeep
+|turn|23
+|
+|t:|1641747628
+|move|p1a: shing shing mf|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|24/100
+|move|p2a: Clefable|Moonblast|p1a: shing shing mf
+|-supereffective|p1a: shing shing mf
+|-damage|p1a: shing shing mf|33/100
+|
+|-heal|p1a: shing shing mf|39/100|[from] item: Leftovers
+|-heal|p2a: Clefable|30/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641747641
+|move|p1a: shing shing mf|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: shing shing mf|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641747643
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|25
+|
+|t:|1641747645
+|move|p1a: shing shing mf|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|28/100
+|move|p2a: Hippowdon|Toxic|p1a: shing shing mf
+|-status|p1a: shing shing mf|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: shing shing mf|52/100 tox|[from] item: Leftovers
+|-heal|p2a: Hippowdon|35/100|[from] item: Leftovers
+|-damage|p1a: shing shing mf|46/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641747650
+|switch|p2a: Hydreigon|Hydreigon, M, shiny|100/100
+|move|p1a: shing shing mf|Earthquake|p2a: Hydreigon
+|-immune|p2a: Hydreigon|[from] ability: Levitate
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|94/100|[from] Sandstorm
+|-heal|p1a: shing shing mf|52/100 tox|[from] item: Leftovers
+|-heal|p2a: Hydreigon|100/100|[from] item: Leftovers
+|-damage|p1a: shing shing mf|39/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641747658
+|switch|p2a: Heatran|Heatran, M|98/100
+|move|p1a: shing shing mf|Scale Shot|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|88/100
+|-resisted|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|70/100
+|-hitcount|p2a: Heatran|2
+|-unboost|p1a: shing shing mf|def|1
+|-boost|p1a: shing shing mf|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: shing shing mf|46/100 tox|[from] item: Leftovers
+|-heal|p2a: Heatran|76/100|[from] item: Leftovers
+|-damage|p1a: shing shing mf|27/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641747663
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: shing shing mf|Earthquake|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: shing shing mf|33/100 tox|[from] item: Leftovers
+|-heal|p2a: Heatran|82/100|[from] item: Leftovers
+|-damage|p1a: shing shing mf|9/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641747666
+|switch|p2a: Hippowdon|Hippowdon, F|35/100
+|move|p1a: shing shing mf|Scale Shot|p2a: Hippowdon
+|-damage|p2a: Hippowdon|18/100
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|-hitcount|p2: Hippowdon|2
+|-unboost|p1a: shing shing mf|def|1
+|-boost|p1a: shing shing mf|spe|1
+|
+|-weather|none
+|-heal|p1a: shing shing mf|15/100 tox|[from] item: Leftovers
+|-damage|p1a: shing shing mf|0 fnt|[from] psn
+|faint|p1a: shing shing mf
+|upkeep
+|
+|t:|1641747683
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: Necrozma|Necrozma|100/100
+|turn|30
+|
+|t:|1641747696
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Dragapult|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|94/100
+|-status|p1a: Dragapult|par|[from] ability: Static|[of] p2a: Zapdos
+|c|☆memes go brrr|bruh
+|c|☆memes go brrr|guaranteed static moment
+|
+|t:|1641747707
+|switch|p1a: sped|Tapu Koko|100/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: sped
+|
+|upkeep
+|turn|31
+|
+|t:|1641747713
+|move|p1a: sped|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|47/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|97/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|32
+|-message|memes go brrr forfeited.
+|
+|win|AcneAutist
+|l|☆memes go brrr
+|j|☆memes go brrr
+|player|p1|memes go brrr|teamrocket
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by memes go brrr)
+|l|☆memes go brrr
+|player|p1|
+|l|☆AcneAutist
+|j|☆AcneAutist
+|player|p2|AcneAutist|harlequin

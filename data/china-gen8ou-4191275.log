@@ -1,0 +1,253 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆adreamew
+|j|☆SL21CC ginko
+|t:|1641815996
+|gametype|singles
+|player|p1|adreamew|hilbert|1307
+|player|p2|SL21CC ginko|evelyn|1309
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Nihilego|
+|poke|p1|Slowbro, L99, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Weavile, F|
+|poke|p1|Magnezone|
+|poke|p2|Blissey, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|j| Water gh0st
+|j|+dragonitenb
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC ginko)
+|
+|t:|1641816014
+|start
+|switch|p1a: Nihilego|Nihilego|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Nihilego|atk|1
+|turn|1
+|
+|t:|1641816021
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: adreamew|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|j| SL21CC KFC
+|
+|t:|1641816023
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p1: adreamew|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641816027
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: adreamew|move: Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|92/100
+|
+|t:|1641816029
+|switch|p1a: Slowbro|Slowbro, L99, F|100/100|[from]move: U-turn
+|-damage|p1a: Slowbro|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Landorus|98/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641816036
+|switch|p2a: Rotom|Rotom-Heat|100/100
+|move|p1a: Slowbro|Future Sight|p2a: Rotom
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|5
+|
+|t:|1641816050
+|move|p2a: Rotom|Thunderbolt|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-crit|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1641816054
+|switch|p1a: Nihilego|Nihilego|100/100
+|-damage|p1a: Nihilego|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641816061
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|-enditem|p1a: Nihilego|Power Herb
+|-anim|p1a: Nihilego|Meteor Beam|p2a: Blissey
+|-damage|p2a: Blissey|69/100
+|
+|-end|p2a: Blissey|move: Future Sight
+|-damage|p2a: Blissey|55/100
+|upkeep
+|turn|7
+|j| sl21cc vogut
+|
+|t:|1641816064
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641816069
+|move|p1a: Nihilego|Meteor Beam|p2a: Blissey|[from]lockedmove
+|-damage|p2a: Blissey|57/100
+|move|p2a: Blissey|Seismic Toss|p1a: Nihilego
+|-damage|p1a: Nihilego|60/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641816073
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|upkeep
+|turn|10
+|l|+dragonitenb
+|j| jiokopg_fkok43
+|
+|t:|1641816076
+|move|p1a: Nihilego|Meteor Beam|p2a: Blissey|[from]lockedmove
+|-damage|p2a: Blissey|44/100
+|move|p2a: Blissey|Seismic Toss|p1a: Nihilego
+|-damage|p1a: Nihilego|33/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641816081
+|move|p1a: Nihilego|Pain Split|p2a: Blissey
+|-sethp|p2a: Blissey|30/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Nihilego|60/100|[from] move: Pain Split
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|80/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641816083
+|move|p1a: Nihilego|Stealth Rock|p2a: Blissey
+|-sidestart|p2: SL21CC ginko|move: Stealth Rock
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641816085
+|move|p1a: Nihilego|Pain Split|p2a: Blissey
+|-sethp|p2a: Blissey|65/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Nihilego|100/100|[from] move: Pain Split
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|j| rffydsdhh
+|
+|t:|1641816093
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: Teleport
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|14
+|
+|t:|1641816097
+|move|p2a: Weavile|Triple Axel|p1a: Nihilego
+|-damage|p1a: Nihilego|86/100
+|-damage|p1a: Nihilego|56/100
+|-damage|p1a: Nihilego|15/100
+|-hitcount|p1a: Nihilego|3
+|move|p1a: Nihilego|Power Gem|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spe|1
+|
+|upkeep
+|
+|t:|1641816103
+|switch|p2a: Landorus|Landorus-Therian, M|98/100
+|-damage|p2a: Landorus|86/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Nihilego|atk|1
+|turn|15
+|
+|t:|1641816106
+|move|p1a: Nihilego|Power Gem|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spe|1
+|
+|upkeep
+|
+|t:|1641816108
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|16
+|l| SL21CC KFC
+|
+|t:|1641816112
+|move|p1a: Nihilego|Pain Split|p2a: Corviknight
+|-sethp|p2a: Corviknight|51/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Nihilego|56/100|[from] move: Pain Split
+|move|p2a: Corviknight|Body Press|p1a: Nihilego
+|-damage|p1a: Nihilego|18/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641816115
+|move|p1a: Nihilego|Power Gem|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spe|1
+|
+|upkeep
+|-message|SL21CC ginko forfeited.
+|
+|win|adreamew
+|raw|adreamew's rating: 1307 &rarr; <strong>1323</strong><br />(+16 for winning)
+|raw|SL21CC ginko's rating: 1309 &rarr; <strong>1293</strong><br />(-16 for losing)

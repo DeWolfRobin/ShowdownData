@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html><head>
+
+	<meta charset="utf-8" />
+
+	<title> replays - Pok&eacute;mon Showdown</title>
+
+
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
+	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/font-awesome.css?932f42c7" />
+	<link rel="stylesheet" href="//pokemonshowdown.com/theme/panels.css?0.8328495855093625" />
+	<link rel="stylesheet" href="//pokemonshowdown.com/theme/main.css?0.048315498393322054" />
+	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/battle.css?8e37a9fd" />
+	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/replay.css?cfa51183" />
+	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/utilichart.css?e39c48cf" />
+
+	<!-- Workarounds for IE bugs to display trees correctly. -->
+	<!--[if lte IE 6]><style> li.tree { height: 1px; } </style><![endif]-->
+	<!--[if IE 7]><style> li.tree { zoom: 1; } </style><![endif]-->
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26211653-1']);
+		_gaq.push(['_setDomainName', 'pokemonshowdown.com']);
+		_gaq.push(['_setAllowLinker', true]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head><body>
+
+	<div class="pfx-topbar">
+		<div class="header">
+			<ul class="nav">
+				<li><a class="button nav-first" href="//pokemonshowdown.com/?0.8799272508296407"><img src="//pokemonshowdown.com/images/pokemonshowdownbeta.png?0.09604286166659137" alt="Pok&eacute;mon Showdown! (beta)" /> Home</a></li>
+				<li><a class="button" href="//dex.pokemonshowdown.com/?0.0026589601667925677">Pok&eacute;dex</a></li>
+				<li><a class="button cur" href="/?0.9923549770373365">Replays</a></li>
+				<li><a class="button" href="//pokemonshowdown.com/ladder/?0.9900729674003181">Ladder</a></li>
+				<li><a class="button nav-last" href="//pokemonshowdown.com/forums/?0.8644633135752708">Forum</a></li>
+			</ul>
+			<ul class="nav nav-play">
+				<li><a class="button greenbutton nav-first nav-last" href="http://play.pokemonshowdown.com/">Play</a></li>
+			</ul>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div class="pfx-panel"><div class="pfx-body pfx-body-padded">
+		<h1>Search replays</h1>
+		<form action="/search/" method="get" data-target="replace">
+			<p style="text-align:center">
+				<label><input type="text" name="user" class="textbox" placeholder="Username" size="24" value="" /></label>
+				<button type="submit"><strong>Search</strong></button>
+			</p>
+		</form>
+		<form action="/search/" method="get" data-target="replace">
+			<p style="text-align:center">
+				<label><input type="text" name="format" class="textbox" placeholder="Format" size="24" autofocus="autofocus" value="gen8ou" /></label>
+				<button type="submit"><strong>Search</strong></button>
+			</p>
+		</form>
+		<h1>Search results for "gen8ou"</h1>
+		<ul class="tabbar centered" style="margin-bottom: 18px"><li><a class="button nav-first cur" href="/search/?format=gen8ou" data-target="replace">Newest</a></li><li><a class="button nav-last" href="/search/?format=gen8ou&amp;rating" data-target="replace">Highest rated</a></li></ul>
+		<ul class="linklist" style="max-width:480px;margin:0 auto;text-align:center">
+		<li><a href="/gen8ou-1489314065" data-target="push"><small>[gen8ou]<br /></small> <strong>furaihai</strong> vs. <strong>ooovlbooo</strong></a></li>
+		<li><a href="/gen8ou-1489315901" data-target="push"><small>[gen8ou]<br /></small> <strong>funtasia</strong> vs. <strong>Freezerman 2.22</strong></a></li>
+<h3>10 minutes ago</h3>		<li><a href="/gen8ou-1489309989" data-target="push"><small>[gen8ou]<br /></small> <strong>Lynnocent</strong> vs. <strong>BlueVapour</strong></a></li>
+		<li><a href="/gen8ou-1489312017" data-target="push"><small>[gen8ou]<br /></small> <strong>Sanjogbiswas</strong> vs. <strong>ammozaffar</strong></a></li>
+<h3>20 minutes ago</h3>		<li><a href="/gen8ou-1489307529" data-target="push"><small>[gen8ou]<br /></small> <strong>kentuckyfriedmons</strong> vs. <strong>Sanjogbiswas</strong></a></li>
+		<li><a href="/gen8ou-1489310001" data-target="push"><small>[gen8ou]<br /></small> <strong>Unwallable</strong> vs. <strong>FAZEoliviarodrigo</strong></a></li>
+		<li><a href="/gen8ou-1489308629" data-target="push"><small>[gen8ou]<br /></small> <strong>deeznuts sama1</strong> vs. <strong>chelios919</strong></a></li>
+		<li><a href="/gen8ou-1489309599" data-target="push"><small>[gen8ou]<br /></small> <strong>Guluff</strong> vs. <strong>HOF69</strong></a></li>
+		<li><a href="/gen8ou-1489309362" data-target="push"><small>[gen8ou]<br /></small> <strong>!Vennoxdark</strong> vs. <strong>!KobraXv</strong></a></li>
+<h3>30 minutes ago</h3>		<li><a href="/gen8ou-1489307585" data-target="push"><small>[gen8ou]<br /></small> <strong>123cyh</strong> vs. <strong>Zephyr1517</strong></a></li>
+		<li><a href="/gen8ou-1489305190" data-target="push"><small>[gen8ou]<br /></small> <strong>kyysg</strong> vs. <strong>Makatuk</strong></a></li>
+		<li><a href="/gen8ou-1489304045" data-target="push"><small>[gen8ou]<br /></small> <strong>!Danetto</strong> vs. <strong>!YoungParm</strong></a></li>
+		<li><a href="/gen8ou-1489301092" data-target="push"><small>[gen8ou]<br /></small> <strong>389A</strong> vs. <strong>Infinity14</strong></a></li>
+		<li><a href="/gen8ou-1489296361" data-target="push"><small>[gen8ou]<br /></small> <strong>qian_23</strong> vs. <strong>Awavia</strong></a></li>
+		<li><a href="/gen8ou-1489297392" data-target="push"><small>[gen8ou]<br /></small> <strong>zerophos</strong> vs. <strong>ShloopNoop</strong></a></li>
+<h3>1-2 hours ago</h3>		<li><a href="/gen8ou-1489295666" data-target="push"><small>[gen8ou]<br /></small> <strong>dragonleader09</strong> vs. <strong>DumbLick1337</strong></a></li>
+		<li><a href="/gen8ou-1489292586" data-target="push"><small>[gen8ou]<br /></small> <strong>DumbLick1337</strong> vs. <strong>mmdkq</strong></a></li>
+		<li><a href="/gen8ou-1489291181" data-target="push"><small>[gen8ou]<br /></small> <strong>V3rstappen</strong> vs. <strong>raxander</strong></a></li>
+		<li><a href="/gen8ou-1489288825" data-target="push"><small>[gen8ou]<br /></small> <strong>Zephyr1517</strong> vs. <strong>testingbot42o</strong></a></li>
+		<li><a href="/gen8ou-1489288544" data-target="push"><small>[gen8ou]<br /></small> <strong>Shubway</strong> vs. <strong>DumbLick1337</strong></a></li>
+		<li><a href="/gen8ou-1489286890" data-target="push"><small>[gen8ou]<br /></small> <strong>jbox11</strong> vs. <strong>songlindagg</strong></a></li>
+		<li><a href="/gen8ou-1489286447" data-target="push"><small>[gen8ou]<br /></small> <strong>Nickkbarton96</strong> vs. <strong>inciniratr</strong></a></li>
+		<li><a href="/gen8ou-1489286740" data-target="push"><small>[gen8ou]<br /></small> <strong>DumbLick1337</strong> vs. <strong>Jenerictestingteam</strong></a></li>
+		<li><a href="/gen8ou-1489286271" data-target="push"><small>[gen8ou]<br /></small> <strong>Adam Fathalo</strong> vs. <strong>bvlat</strong></a></li>
+		<li><a href="/gen8ou-1489283919" data-target="push"><small>[gen8ou]<br /></small> <strong>DumbLick1337</strong> vs. <strong>Dip47</strong></a></li>
+		<li><a href="/gen8ou-1489283012" data-target="push"><small>[gen8ou]<br /></small> <strong>Projectzone</strong> vs. <strong>Randy_Lightning</strong></a></li>
+		<li><a href="/gen8ou-1489279771" data-target="push"><small>[gen8ou]<br /></small> <strong>X_LSWAB</strong> vs. <strong>TheRandomChaos</strong></a></li>
+		<li><a href="/gen8ou-1489280576" data-target="push"><small>[gen8ou]<br /></small> <strong>DumbLick1337</strong> vs. <strong>dahs090</strong></a></li>
+<h3>2-3 hours ago</h3>		<li><a href="/gen8ou-1489279297" data-target="push"><small>[gen8ou]<br /></small> <strong>cebollaconpan</strong> vs. <strong>zerophos</strong></a></li>
+		<li><a href="/gen8ou-1489277961" data-target="push"><small>[gen8ou]<br /></small> <strong>Psywave22</strong> vs. <strong>Schmarlon</strong></a></li>
+		<li><a href="/gen8ou-1489272299" data-target="push"><small>[gen8ou]<br /></small> <strong>illegalamigo1</strong> vs. <strong>PlayMaker55</strong></a></li>
+		<li><a href="/gen8ou-1489273091" data-target="push"><small>[gen8ou]<br /></small> <strong>TheStuffedOne</strong> vs. <strong>ILoveGarchom</strong></a></li>
+		<li><a href="/gen8ou-1489270633" data-target="push"><small>[gen8ou]<br /></small> <strong>bubuzu</strong> vs. <strong>Lynnettee_</strong></a></li>
+		<li><a href="/gen8ou-1489271679" data-target="push"><small>[gen8ou]<br /></small> <strong>waterser</strong> vs. <strong>Killingn</strong></a></li>
+		<li><a href="/gen8ou-1489269629" data-target="push"><small>[gen8ou]<br /></small> <strong>Megadeep</strong> vs. <strong>buyeth</strong></a></li>
+		<li><a href="/gen8ou-1489270363" data-target="push"><small>[gen8ou]<br /></small> <strong>Rainbow Ghirahim</strong> vs. <strong>critickal</strong></a></li>
+		<li><a href="/gen8ou-1489263210" data-target="push"><small>[gen8ou]<br /></small> <strong>ShloopNoop</strong> vs. <strong>fusingdorites</strong></a></li>
+		<li><a href="/gen8ou-1489268080" data-target="push"><small>[gen8ou]<br /></small> <strong>Krinkov</strong> vs. <strong>Psywave22</strong></a></li>
+		<li><a href="/gen8ou-1489266665" data-target="push"><small>[gen8ou]<br /></small> <strong>Syrinix</strong> vs. <strong>ni️ght tilt</strong></a></li>
+		<li><a href="/gen8ou-1489266005" data-target="push"><small>[gen8ou]<br /></small> <strong>Team Rocket 01010</strong> vs. <strong>lightskinquadgod</strong></a></li>
+		<li><a href="/gen8ou-1489265373" data-target="push"><small>[gen8ou]<br /></small> <strong>ASLKDGH</strong> vs. <strong>DeemDaDream91</strong></a></li>
+		<li><a href="/gen8ou-1489263776" data-target="push"><small>[gen8ou]<br /></small> <strong>Jakerocks73</strong> vs. <strong>fardin</strong></a></li>
+		<li><a href="/gen8ou-1489264644" data-target="push"><small>[gen8ou]<br /></small> <strong>Jekt Tohru</strong> vs. <strong>Killingn</strong></a></li>
+		<li><a href="/gen8ou-1489263308" data-target="push"><small>[gen8ou]<br /></small> <strong>ASLKDGH</strong> vs. <strong>Savatiny</strong></a></li>
+		<li><a href="/gen8ou-1489261520" data-target="push"><small>[gen8ou]<br /></small> <strong>Lethal Ash</strong> vs. <strong>Captncrunchy21</strong></a></li>
+		<li><a href="/gen8ou-1489262287" data-target="push"><small>[gen8ou]<br /></small> <strong>CaseyAnthnysBaby</strong> vs. <strong>Jqlove</strong></a></li>
+<h3>3-4 hours ago</h3>		<li><a href="/gen8ou-1489257737" data-target="push"><small>[gen8ou]<br /></small> <strong>I Hate Interviews</strong> vs. <strong>Rainbow Ghirahim</strong></a></li>
+		<li><a href="/gen8ou-1489256512" data-target="push"><small>[gen8ou]<br /></small> <strong>CaseyAnthnysBaby</strong> vs. <strong>MarshadowShadowLol</strong></a></li>
+		<li><a href="/gen8ou-1489253843" data-target="push"><small>[gen8ou]<br /></small> <strong>Batsoup123</strong> vs. <strong>insania test v2</strong></a></li>
+		<li><a href="/gen8ou-1489254699" data-target="push"><small>[gen8ou]<br /></small> <strong>fardin</strong> vs. <strong>Mimikyu Stardust</strong></a></li>
+		</ul>
+		<p style="text-align: center"><button class="button" name="moreResults" value="" data-user="" data-format="gen8ou" data-private="">More<br /><i class="fa fa-caret-down"></i></button></p>
+	</div></div>
+
+	<script src="//play.pokemonshowdown.com/js/lib/jquery-1.11.0.min.js?8fc25e27"></script>
+	<script src="//play.pokemonshowdown.com/js/lib/lodash.core.js?e9be4c2d"></script>
+	<script src="//play.pokemonshowdown.com/js/lib/backbone.js?8a8d8296"></script>
+	<script src="//dex.pokemonshowdown.com/js/panels.js?0.48652641328945534"></script>
+
+	<script src="//play.pokemonshowdown.com/js/lib/jquery-cookie.js?38477214"></script>
+	<script src="//play.pokemonshowdown.com/js/lib/html-sanitizer-minified.js?949c4200"></script>
+	<script src="//play.pokemonshowdown.com/js/battle-sound.js?8e5efe0f"></script>
+	<script src="//play.pokemonshowdown.com/config/config.js?693fb043"></script>
+	<script src="//play.pokemonshowdown.com/js/battledata.js?4c335eaf"></script>
+	<script src="//play.pokemonshowdown.com/data/pokedex-mini.js?d0504f17"></script>
+	<script src="//play.pokemonshowdown.com/data/pokedex-mini-bw.js?7bd54ebc"></script>
+	<script src="//play.pokemonshowdown.com/data/graphics.js?0c59f3ba"></script>
+	<script src="//play.pokemonshowdown.com/data/pokedex.js?d20dd828"></script>
+	<script src="//play.pokemonshowdown.com/data/items.js?950bbce8"></script>
+	<script src="//play.pokemonshowdown.com/data/moves.js?a5db9f3b"></script>
+	<script src="//play.pokemonshowdown.com/data/abilities.js?4086daab"></script>
+	<script src="//play.pokemonshowdown.com/data/teambuilder-tables.js?cd307d78"></script>
+	<script src="//play.pokemonshowdown.com/js/battle-tooltips.js?e7c4ba30"></script>
+	<script src="//play.pokemonshowdown.com/js/battle.js?c813adef"></script>
+	<script src="/js/replay.js?1e09ceb9"></script>
+
+</body></html>

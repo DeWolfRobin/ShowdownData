@@ -1,0 +1,284 @@
+|j|☆Immagamer
+|j|☆steelydaniel
+|t:|1641775911
+|gametype|singles
+|player|p1|Immagamer|169|1363
+|player|p2|steelydaniel|kahili|1367
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Crawdaunt, M|
+|poke|p1|Nidoking, M|
+|poke|p1|Zeraora|
+|poke|p1|Tangrowth, F|
+|poke|p1|Chansey, F|
+|poke|p1|Tapu Fini|
+|poke|p2|Inteleon, M|
+|poke|p2|Diggersby, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Seismitoad, M|
+|poke|p2|Togekiss, F|
+|poke|p2|Blacephalon|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by steelydaniel)
+|inactive|Immagamer has 120 seconds left.
+|
+|t:|1641775962
+|start
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|switch|p2a: Diggersby|Diggersby, F|100/100
+|turn|1
+|
+|t:|1641775968
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Diggersby
+|-supereffective|p2a: Diggersby
+|-damage|p2a: Diggersby|14/100
+|-damage|p1a: Crawdaunt|91/100|[from] item: Life Orb
+|move|p2a: Diggersby|Quick Attack|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|28/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641775978
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Seismitoad
+|-immune|p2a: Seismitoad|[from] ability: Water Absorb
+|
+|upkeep
+|turn|3
+|
+|t:|1641775990
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Seismitoad|Stealth Rock|p1a: Tapu Fini
+|-sidestart|p1: Immagamer|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641776001
+|switch|p2a: Togekiss|Togekiss, F|100/100
+|move|p1a: Tapu Fini|Defog|p2a: Togekiss
+|-unboost|p2a: Togekiss|evasion|1
+|-sideend|p1: Immagamer|Stealth Rock|[from] move: Defog|[of] p1a: Tapu Fini
+|-fieldend|Misty Terrain
+|
+|upkeep
+|turn|5
+|
+|t:|1641776008
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|move|p2a: Togekiss|Thunder Wave|p1a: Nidoking
+|-immune|p1a: Nidoking
+|
+|upkeep
+|turn|6
+|
+|t:|1641776017
+|switch|p2a: Diggersby|Diggersby, F|14/100
+|move|p1a: Nidoking|Sludge Wave|p2a: Diggersby
+|-resisted|p2a: Diggersby
+|-damage|p2a: Diggersby|0 fnt
+|faint|p2a: Diggersby
+|
+|upkeep
+|
+|t:|1641776023
+|switch|p2a: Inteleon|Inteleon, M|100/100
+|turn|7
+|
+|t:|1641776032
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: Inteleon|Snipe Shot|p1a: Chansey
+|-crit|p1a: Chansey
+|-damage|p1a: Chansey|72/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641776043
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Chansey|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|9
+|
+|t:|1641776051
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|move|p2a: Corviknight|Body Press|p1a: Nidoking
+|-resisted|p1a: Nidoking
+|-damage|p1a: Nidoking|83/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641776062
+|switch|p2a: Inteleon|Inteleon, M|100/100
+|move|p1a: Nidoking|Flamethrower|p2a: Inteleon
+|-resisted|p2a: Inteleon
+|-damage|p2a: Inteleon|68/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641776074
+|switch|p1a: Chansey|Chansey, F|72/100
+|move|p2a: Inteleon|Snipe Shot|p1a: Chansey
+|-damage|p1a: Chansey|59/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641776081
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641776094
+|switch|p1a: Nidoking|Nidoking, M|83/100
+|move|p2a: Corviknight|U-turn|p1a: Nidoking
+|-resisted|p1a: Nidoking
+|-damage|p1a: Nidoking|74/100
+|
+|t:|1641776105
+|switch|p2a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1641776122
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Blacephalon|Fire Blast|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|77/100
+|
+|-heal|p1a: Tapu Fini|83/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641776137
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Seismitoad
+|-damage|p2a: Seismitoad|50/100
+|
+|-heal|p1a: Tapu Fini|89/100|[from] item: Leftovers
+|-heal|p2a: Seismitoad|57/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641776145
+|move|p1a: Tapu Fini|Moonblast|p2a: Seismitoad
+|-damage|p2a: Seismitoad|24/100
+|move|p2a: Seismitoad|Knock Off|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|82/100
+|-enditem|p1a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p2a: Seismitoad
+|
+|-heal|p2a: Seismitoad|30/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641776155
+|move|p1a: Tapu Fini|Moonblast|p2a: Seismitoad
+|-crit|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|upkeep
+|
+|t:|1641776165
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|18
+|
+|t:|1641776169
+|move|p2a: Blacephalon|Shadow Ball|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|44/100
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Blacephalon
+|-damage|p2a: Blacephalon|51/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|19
+|
+|t:|1641776177
+|move|p2a: Blacephalon|Shadow Ball|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|9/100
+|move|p1a: Tapu Fini|Moonblast|p2a: Blacephalon
+|-resisted|p2a: Blacephalon
+|-damage|p2a: Blacephalon|24/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641776183
+|move|p2a: Blacephalon|Shadow Ball|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641776187
+|switch|p1a: Crawdaunt|Crawdaunt, M|28/100
+|turn|21
+|
+|t:|1641776193
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Corviknight
+|-damage|p2a: Corviknight|78/100
+|-damage|p1a: Crawdaunt|18/100|[from] item: Life Orb
+|
+|-heal|p2a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641776203
+|move|p1a: Crawdaunt|Knock Off|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Crawdaunt
+|faint|p2a: Corviknight
+|-damage|p1a: Crawdaunt|9/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641776209
+|switch|p2a: Inteleon|Inteleon, M|68/100
+|turn|23
+|
+|t:|1641776214
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Inteleon
+|-resisted|p2a: Inteleon
+|-damage|p2a: Inteleon|38/100
+|-damage|p1a: Crawdaunt|0 fnt|[from] item: Life Orb
+|faint|p1a: Crawdaunt
+|move|p2a: Inteleon|Snipe Shot|p1: Crawdaunt|[notarget]
+|-fail|p2a: Inteleon
+|
+|upkeep
+|-message|steelydaniel forfeited.
+|
+|win|Immagamer
+|raw|Immagamer's rating: 1347 &rarr; <strong>1368</strong><br />(+21 for winning)
+|raw|steelydaniel's rating: 1367 &rarr; <strong>1346</strong><br />(-21 for losing)
+|l|☆steelydaniel

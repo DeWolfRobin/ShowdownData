@@ -1,0 +1,382 @@
+|j|☆ONutest
+|j|☆Kyerndo
+|t:|1641866781
+|gametype|singles
+|player|p1|ONutest|marlon|1383
+|player|p2|Kyerndo|2|1425
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Heatran, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Zeraora|
+|poke|p2|Heatran, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Volcarona, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Thundurus, M|
+|teampreview
+|
+|t:|1641866790
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|turn|1
+|
+|t:|1641866794
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Dragapult|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|92/100
+|
+|t:|1641866798
+|switch|p1a: Zeraora|Zeraora|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641866801
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641866808
+|switch|p2a: Heatran|Heatran, F|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ONutest)
+|
+|t:|1641866813
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|move|p1a: Landorus|U-turn|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|83/100
+|
+|t:|1641866817
+|switch|p1a: Dragapult|Dragapult, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1641866820
+|move|p1a: Dragapult|U-turn|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|71/100
+|
+|t:|1641866823
+|switch|p1a: Heatran|Heatran, F|100/100|[from]move: U-turn
+|move|p2a: Thundurus|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|59/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Thundurus
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641866829
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: Kyerndo|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1641866856
+|switch|p2a: Thundurus|Thundurus, M|71/100
+|-damage|p2a: Thundurus|46/100|[from] Stealth Rock
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Thundurus|atk|1
+|-ability|p2a: Thundurus|Defiant
+|-boost|p2a: Thundurus|atk|2
+|
+|upkeep
+|turn|8
+|
+|t:|1641866861
+|switch|p1a: Heatran|Heatran, F|59/100
+|move|p2a: Thundurus|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|21/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641866867
+|move|p2a: Thundurus|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641866873
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|10
+|
+|t:|1641866880
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|-damage|p2a: Bisharp|95/100|[from] Stealth Rock
+|move|p1a: Weavile|Knock Off|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|67/100
+|-enditem|p2a: Bisharp|Life Orb|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|11
+|
+|t:|1641866885
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Bisharp|atk|1
+|-ability|p2a: Bisharp|Defiant
+|-boost|p2a: Bisharp|atk|2
+|move|p2a: Bisharp|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|48/100
+|
+|-heal|p1a: Landorus|54/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641866891
+|switch|p2a: Thundurus|Thundurus, M|46/100
+|-damage|p2a: Thundurus|22/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Thundurus
+|-immune|p2a: Thundurus
+|
+|-heal|p1a: Landorus|60/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641866898
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Thundurus|Knock Off|p1a: Zeraora
+|-damage|p1a: Zeraora|36/100
+|-enditem|p1a: Zeraora|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Thundurus
+|
+|upkeep
+|turn|14
+|
+|t:|1641866907
+|move|p1a: Zeraora|Plasma Fists|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Thundurus
+|
+|upkeep
+|
+|t:|1641866916
+|switch|p2a: Tapu Fini|Tapu Fini|92/100
+|-damage|p2a: Tapu Fini|80/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|15
+|
+|t:|1641866922
+|move|p2a: Tapu Fini|Moonblast|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|
+|upkeep
+|
+|t:|1641866946
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|turn|16
+|
+|t:|1641866951
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Heatran
+|-damage|p2a: Heatran|44/100
+|
+|-heal|p2a: Heatran|50/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|ONutest has 120 seconds left.
+|
+|t:|1641866984
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Heatran
+|-damage|p2a: Heatran|26/100
+|move|p2a: Heatran|Magma Storm|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|84/100
+|-activate|p1a: Tapu Fini|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Tapu Fini|90/100|[from] item: Leftovers
+|-heal|p2a: Heatran|32/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|78/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|18
+|
+|t:|1641866991
+|move|p1a: Tapu Fini|Whirlpool|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|19/100
+|-activate|p2a: Heatran|move: Whirlpool|[of] p1a: Tapu Fini
+|move|p2a: Heatran|Earth Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|59/100
+|
+|-heal|p1a: Tapu Fini|65/100|[from] item: Leftovers
+|-heal|p2a: Heatran|25/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|53/100|[from] move: Magma Storm|[partiallytrapped]
+|-damage|p2a: Heatran|13/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1641867001
+|move|p1a: Tapu Fini|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|8/100
+|move|p2a: Heatran|Earth Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|36/100
+|
+|-heal|p1a: Tapu Fini|42/100|[from] item: Leftovers
+|-heal|p2a: Heatran|14/100|[from] item: Leftovers
+|-damage|p1a: Tapu Fini|30/100|[from] move: Magma Storm|[partiallytrapped]
+|-damage|p2a: Heatran|2/100|[from] move: Whirlpool|[partiallytrapped]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|20
+|
+|t:|1641867007
+|move|p1a: Tapu Fini|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Tapu Fini|36/100|[from] item: Leftovers
+|-end|p1a: Tapu Fini|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641867015
+|switch|p2a: Bisharp|Bisharp, M|67/100
+|-damage|p2a: Bisharp|61/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641867035
+|move|p2a: Bisharp|Iron Head|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|6/100
+|cant|p1a: Tapu Fini|flinch
+|
+|-heal|p1a: Tapu Fini|12/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|c|☆ONutest|fuck
+|
+|t:|1641867041
+|move|p2a: Bisharp|Iron Head|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641867055
+|switch|p1a: Landorus|Landorus-Therian, M|60/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Bisharp|atk|1
+|-ability|p2a: Bisharp|Defiant
+|-boost|p2a: Bisharp|atk|2
+|turn|23
+|
+|t:|1641867059
+|move|p2a: Bisharp|Sucker Punch|p1a: Landorus
+|-damage|p1a: Landorus|14/100
+|move|p1a: Landorus|Earthquake|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|-heal|p1a: Landorus|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641867067
+|switch|p2a: Tapu Fini|Tapu Fini|80/100
+|-damage|p2a: Tapu Fini|67/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|24
+|
+|t:|1641867080
+|move|p2a: Tapu Fini|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641867086
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|25
+|
+|t:|1641867089
+|move|p1a: Dragapult|Shadow Ball|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|36/100
+|-unboost|p2a: Tapu Fini|spd|1
+|move|p2a: Tapu Fini|Moonblast|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641867093
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|26
+|
+|t:|1641867097
+|move|p2a: Tapu Fini|Moonblast|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|4/100
+|-unboost|p1a: Weavile|spa|1
+|move|p1a: Weavile|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|8/100
+|-enditem|p2a: Tapu Fini|Choice Scarf|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|27
+|
+|t:|1641867101
+|move|p1a: Weavile|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641867104
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641867107
+|move|p1a: Weavile|Ice Shard|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|17/100
+|move|p2a: Garchomp|Earthquake|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|win|Kyerndo
+|raw|ONutest's rating: 1383 &rarr; <strong>1365</strong><br />(-18 for losing)
+|raw|Kyerndo's rating: 1425 &rarr; <strong>1443</strong><br />(+18 for winning)
+|l|☆ONutest

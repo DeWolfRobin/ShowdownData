@@ -1,0 +1,357 @@
+|j|☆Satoshi Black
+|j|☆OverloadAllius
+|t:|1641726999
+|gametype|singles
+|player|p1|Satoshi Black|lucas|1415
+|player|p2|OverloadAllius|266|1424
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Torkoal, F|
+|poke|p1|Dracozolt|
+|poke|p1|Arctozolt|
+|poke|p1|Venusaur, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Swampert, M|
+|poke|p2|Zapdos|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Ludicolo, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Satoshi Black)
+|
+|t:|1641727010
+|start
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1641727023
+|switch|p1a: Venusaur|Venusaur, M, shiny|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|84/100
+|
+|t:|1641727033
+|switch|p2a: Pelipper|Pelipper, M|100/100|[from]move: Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|j| wuminKenken
+|
+|t:|1641727050
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Venusaur|Sludge Bomb|p2a: Tornadus
+|-damage|p2a: Tornadus|34/100
+|-status|p2a: Tornadus|psn
+|-damage|p1a: Venusaur|74/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Tornadus|22/100 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641727062
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Tornadus|Focus Blast|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|24/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Tornadus|9/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641727076
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|switch|p1a: Venusaur|Venusaur, M, shiny|74/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641727087
+|move|p1a: Venusaur|Sludge Bomb|p2a: Pelipper
+|-damage|p2a: Pelipper|16/100
+|-status|p2a: Pelipper|psn
+|-damage|p1a: Venusaur|64/100|[from] item: Life Orb
+|move|p2a: Pelipper|U-turn|p1a: Venusaur
+|-damage|p1a: Venusaur|54/100
+|
+|t:|1641727105
+|switch|p2a: Ludicolo|Ludicolo, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641727113
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Ludicolo|Ice Beam|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|80/100
+|-damage|p2a: Ludicolo|91/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Ludicolo|85/100|[from] Hail
+|upkeep
+|turn|7
+|
+|t:|1641727123
+|move|p1a: Ninetales|Freeze-Dry|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|faint|p2a: Ludicolo
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641727127
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|8
+|
+|t:|1641727133
+|move|p2a: Barraskewda|Close Combat|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Barraskewda|94/100|[from] Hail
+|upkeep
+|
+|t:|1641727142
+|switch|p1a: Arctozolt|Arctozolt, shiny|100/100
+|turn|9
+|
+|t:|1641727146
+|switch|p2a: Swampert|Swampert, M|100/100
+|move|p1a: Arctozolt|Bolt Beak|p2a: Swampert
+|-immune|p2a: Swampert
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Swampert|94/100|[from] Hail
+|-heal|p2a: Swampert|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641727151
+|move|p1a: Arctozolt|Stomping Tantrum|p2a: Swampert
+|-damage|p2a: Swampert|54/100
+|-damage|p1a: Arctozolt|91/100|[from] item: Life Orb
+|move|p2a: Swampert|Earthquake|p1a: Arctozolt
+|-supereffective|p1a: Arctozolt
+|-damage|p1a: Arctozolt|6/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Swampert|48/100|[from] Hail
+|-heal|p2a: Swampert|54/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Satoshi Black has 120 seconds left.
+|
+|t:|1641727184
+|move|p1a: Arctozolt|Stomping Tantrum|p2a: Swampert
+|-damage|p2a: Swampert|31/100
+|-damage|p1a: Arctozolt|0 fnt|[from] item: Life Orb
+|faint|p1a: Arctozolt
+|move|p2a: Swampert|Stealth Rock|p1: Arctozolt
+|-sidestart|p1: Satoshi Black|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Swampert|25/100|[from] Hail
+|-heal|p2a: Swampert|31/100|[from] item: Leftovers
+|upkeep
+|inactive|Satoshi Black has 120 seconds left.
+|
+|t:|1641727211
+|switch|p1a: Dracozolt|Dracozolt, shiny|100/100
+|-damage|p1a: Dracozolt|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641727224
+|switch|p2a: Tornadus|Tornadus-Therian, M|43/100 psn
+|move|p1a: Dracozolt|Draco Meteor|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|-unboost|p1a: Dracozolt|spa|2
+|faint|p2a: Tornadus
+|-damage|p1a: Dracozolt|78/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Dracozolt|72/100|[from] Hail
+|upkeep
+|
+|t:|1641727231
+|switch|p2a: Pelipper|Pelipper, M|16/100 psn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|13
+|inactive|Satoshi Black has 120 seconds left.
+|
+|t:|1641727247
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Dracozolt|Draco Meteor|p2a: Zapdos
+|-damage|p2a: Zapdos|64/100
+|-unboost|p1a: Dracozolt|spa|2
+|-damage|p1a: Dracozolt|62/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|l| wuminKenken
+|inactive|Satoshi Black has 120 seconds left.
+|
+|t:|1641727259
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641727266
+|switch|p2a: Swampert|Swampert, M|31/100
+|move|p1a: Tyranitar|Stealth Rock|p2a: Swampert
+|-sidestart|p2: OverloadAllius|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Swampert|38/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641727278
+|move|p1a: Tyranitar|Toxic|p2a: Swampert
+|-status|p2a: Swampert|tox
+|move|p2a: Swampert|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|29/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Swampert|44/100 tox|[from] item: Leftovers
+|-damage|p2a: Swampert|38/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641727285
+|switch|p2a: Pelipper|Pelipper, M|16/100 psn
+|-damage|p2a: Pelipper|0 fnt|[from] Stealth Rock
+|faint|p2a: Pelipper
+|move|p1a: Tyranitar|Earthquake|p2: Pelipper|[notarget]
+|-fail|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641727289
+|switch|p2a: Barraskewda|Barraskewda, F|94/100
+|-damage|p2a: Barraskewda|82/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641727293
+|move|p2a: Barraskewda|Liquidation|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Barraskewda|76/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641727296
+|switch|p1a: Dracozolt|Dracozolt, shiny|62/100
+|-damage|p1a: Dracozolt|49/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641727302
+|move|p1a: Dracozolt|Bolt Beak|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|-damage|p1a: Dracozolt|39/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641727308
+|switch|p2a: Zapdos|Zapdos|94/100
+|turn|20
+|
+|t:|1641727313
+|switch|p2a: Swampert|Swampert, M|38/100 tox
+|-damage|p2a: Swampert|31/100 tox|[from] Stealth Rock
+|move|p1a: Dracozolt|Bolt Beak|p2a: Swampert
+|-immune|p2a: Swampert
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Swampert|38/100 tox|[from] item: Leftovers
+|-damage|p2a: Swampert|31/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641727321
+|move|p1a: Dracozolt|Draco Meteor|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|-unboost|p1a: Dracozolt|spa|2
+|faint|p2a: Swampert
+|-damage|p1a: Dracozolt|29/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641727324
+|switch|p2a: Zapdos|Zapdos|94/100
+|turn|22
+|
+|t:|1641727333
+|move|p2a: Zapdos|Hurricane|p1a: Dracozolt
+|-resisted|p1a: Dracozolt
+|-damage|p1a: Dracozolt|0 fnt
+|faint|p1a: Dracozolt
+|
+|upkeep
+|
+|t:|1641727336
+|switch|p1a: Torkoal|Torkoal, F|24/100
+|-damage|p1a: Torkoal|0 fnt|[from] Stealth Rock
+|faint|p1a: Torkoal
+|
+|t:|1641727340
+|switch|p1a: Venusaur|Venusaur, M, shiny|54/100
+|-damage|p1a: Venusaur|42/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641727344
+|move|p2a: Zapdos|Hurricane|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|win|OverloadAllius
+|raw|Satoshi Black's rating: 1415 &rarr; <strong>1396</strong><br />(-19 for losing)
+|raw|OverloadAllius's rating: 1424 &rarr; <strong>1443</strong><br />(+19 for winning)
+|l|☆Satoshi Black
+|l|☆OverloadAllius
+|j| wuminKenken

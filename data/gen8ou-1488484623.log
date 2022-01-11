@@ -1,0 +1,416 @@
+|j|☆Lamegazelle
+|j|☆Juanita Trainer
+|t:|1641771352
+|gametype|singles
+|player|p1|Lamegazelle|ethan|1338
+|player|p2|Juanita Trainer|dawn|1312
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Melmetal|
+|poke|p1|Tapu Fini|
+|poke|p1|Toxapex, M|
+|poke|p1|Kartana|
+|poke|p2|Tapu Fini|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Zapdos|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Zeraora|
+|poke|p2|Blacephalon|
+|teampreview
+|
+|t:|1641771361
+|start
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|switch|p2a: IT|Blacephalon|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Lamegazelle)
+|
+|t:|1641771367
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: IT|Trick|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1641771381
+|switch|p2a: Don Candela|Ferrothorn, F|100/100
+|move|p1a: Toxapex|Scald|p2a: Don Candela
+|-resisted|p2a: Don Candela
+|-damage|p2a: Don Candela|94/100
+|
+|-heal|p2a: Don Candela|99/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641771392
+|move|p1a: Toxapex|Scald|p2a: Don Candela
+|-resisted|p2a: Don Candela
+|-damage|p2a: Don Candela|93/100
+|move|p2a: Don Candela|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: Lamegazelle|move: Stealth Rock
+|
+|-heal|p2a: Don Candela|99/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641771401
+|move|p1a: Toxapex|Scald|p2a: Don Candela
+|-resisted|p2a: Don Candela
+|-damage|p2a: Don Candela|92/100
+|move|p2a: Don Candela|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|83/100
+|-enditem|p1a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p2a: Don Candela
+|
+|-heal|p2a: Don Candela|98/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641771412
+|move|p1a: Toxapex|Scald|p2a: Don Candela
+|-resisted|p2a: Don Candela
+|-damage|p2a: Don Candela|91/100
+|move|p2a: Don Candela|Leech Seed|p1a: Toxapex
+|-start|p1a: Toxapex|move: Leech Seed
+|
+|-heal|p2a: Don Candela|97/100|[from] item: Leftovers
+|-damage|p1a: Toxapex|71/100|[from] Leech Seed|[of] p2a: Don Candela
+|-heal|p2a: Don Candela|100/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641771422
+|switch|p2a: Fini Pino|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Fini Pino
+|move|p1a: Toxapex|Knock Off|p2a: Fini Pino
+|-resisted|p2a: Fini Pino
+|-damage|p2a: Fini Pino|95/100
+|-enditem|p2a: Fini Pino|Leftovers|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|-damage|p1a: Toxapex|58/100|[from] Leech Seed|[of] p2a: Fini Pino
+|-heal|p2a: Fini Pino|100/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1641771435
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|move|p2a: Fini Pino|Calm Mind|p2a: Fini Pino
+|-boost|p2a: Fini Pino|spa|1
+|-boost|p2a: Fini Pino|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641771443
+|switch|p2a: Impedance|Zapdos|100/100
+|move|p1a: Melmetal|Earthquake|p2a: Impedance
+|-immune|p2a: Impedance
+|
+|upkeep
+|turn|9
+|
+|t:|1641771452
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Impedance|atk|1
+|move|p2a: Impedance|Heat Wave|p1a: Landorus
+|-damage|p1a: Landorus|80/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641771463
+|move|p2a: Impedance|Heat Wave|p1a: Landorus
+|-damage|p1a: Landorus|59/100
+|move|p1a: Landorus|Stealth Rock|p2a: Impedance
+|-sidestart|p2: Juanita Trainer|move: Stealth Rock
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|11
+|
+|t:|1641771471
+|switch|p1a: Toxapex|Toxapex, M|92/100
+|-damage|p1a: Toxapex|79/100|[from] Stealth Rock
+|move|p2a: Impedance|Heat Wave|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|71/100
+|-status|p1a: Toxapex|brn
+|
+|-damage|p1a: Toxapex|65/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1641771483
+|move|p2a: Impedance|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|27/100 brn
+|inactive|Juanita Trainer has 120 seconds left.
+|
+|t:|1641771509
+|switch|p2a: Fini Pino|Tapu Fini|100/100|[from]move: Volt Switch
+|-damage|p2a: Fini Pino|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Fini Pino
+|move|p1a: Toxapex|Knock Off|p2a: Fini Pino
+|-resisted|p2a: Fini Pino
+|-damage|p2a: Fini Pino|86/100
+|
+|-damage|p1a: Toxapex|21/100 brn|[from] brn
+|upkeep
+|turn|13
+|inactive|Juanita Trainer has 120 seconds left.
+|
+|t:|1641771522
+|switch|p2a: IT|Blacephalon|100/100
+|-damage|p2a: IT|76/100|[from] Stealth Rock
+|switch|p1a: Melmetal|Melmetal|94/100
+|-damage|p1a: Melmetal|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|14
+|inactive|Juanita Trainer has 120 seconds left.
+|
+|t:|1641771547
+|move|p2a: IT|Psyshock|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|79/100
+|move|p1a: Melmetal|Earthquake|p2a: IT
+|-supereffective|p2a: IT
+|-damage|p2a: IT|0 fnt
+|faint|p2a: IT
+|
+|upkeep
+|
+|t:|1641771571
+|switch|p2a: Fini Pino|Tapu Fini|86/100
+|-damage|p2a: Fini Pino|73/100|[from] Stealth Rock
+|turn|15
+|inactive|Juanita Trainer has 90 seconds left.
+|
+|t:|1641771588
+|move|p2a: Fini Pino|Scald|p1a: Melmetal
+|-damage|p1a: Melmetal|61/100
+|move|p1a: Melmetal|Ice Punch|p2a: Fini Pino
+|-resisted|p2a: Fini Pino
+|-damage|p2a: Fini Pino|59/100
+|
+|upkeep
+|turn|16
+|inactive|Juanita Trainer has 90 seconds left.
+|
+|t:|1641771598
+|move|p2a: Fini Pino|Scald|p1a: Melmetal
+|-damage|p1a: Melmetal|44/100
+|move|p1a: Melmetal|Ice Punch|p2a: Fini Pino
+|-resisted|p2a: Fini Pino
+|-damage|p2a: Fini Pino|44/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|17
+|inactive|Juanita Trainer has 90 seconds left.
+|
+|t:|1641771609
+|move|p2a: Fini Pino|Scald|p1a: Melmetal
+|-damage|p1a: Melmetal|25/100
+|-status|p1a: Melmetal|brn
+|move|p1a: Melmetal|Double Iron Bash|p2a: Fini Pino
+|-damage|p2a: Fini Pino|28/100
+|-damage|p2a: Fini Pino|11/100
+|-hitcount|p2a: Fini Pino|2
+|
+|-damage|p1a: Melmetal|19/100 brn|[from] brn
+|upkeep
+|turn|18
+|inactive|Juanita Trainer has 90 seconds left.
+|
+|t:|1641771620
+|move|p2a: Fini Pino|Scald|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641771630
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|19
+|inactive|Juanita Trainer has 90 seconds left.
+|
+|t:|1641771664
+|switch|p2a: Big Papa|Slowking-Galar, M|100/100
+|-damage|p2a: Big Papa|88/100|[from] Stealth Rock
+|move|p1a: Dragapult|Shadow Ball|p2a: Big Papa
+|-supereffective|p2a: Big Papa
+|-damage|p2a: Big Papa|39/100
+|-unboost|p2a: Big Papa|spd|1
+|-damage|p1a: Dragapult|78/100|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|t:|1641771687
+|move|p1a: Dragapult|Shadow Ball|p2a: Big Papa
+|-supereffective|p2a: Big Papa
+|-damage|p2a: Big Papa|0 fnt
+|faint|p2a: Big Papa
+|-damage|p1a: Dragapult|69/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641771695
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|21
+|
+|t:|1641771698
+|switch|p1a: Landorus|Landorus-Therian, M|59/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|move|p2a: Zeraora|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|38/100
+|-enditem|p1a: Landorus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|22
+|
+|t:|1641771710
+|switch|p2a: Don Candela|Ferrothorn, F|100/100
+|-damage|p2a: Don Candela|94/100|[from] Stealth Rock
+|switch|p1a: Dragapult|Dragapult, F|69/100
+|-damage|p1a: Dragapult|56/100|[from] Stealth Rock
+|
+|-heal|p2a: Don Candela|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641771731
+|move|p1a: Dragapult|Fire Blast|p2a: Don Candela|[miss]
+|-miss|p1a: Dragapult|p2a: Don Candela
+|move|p2a: Don Candela|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-enditem|p1a: Dragapult|Life Orb|[from] move: Knock Off|[of] p2a: Don Candela
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641771747
+|switch|p1a: Toxapex|Toxapex, M|54/100 brn
+|-damage|p1a: Toxapex|42/100 brn|[from] Stealth Rock
+|turn|24
+|inactive|Juanita Trainer has 60 seconds left.
+|
+|t:|1641771775
+|move|p1a: Toxapex|Knock Off|p2a: Don Candela
+|-damage|p2a: Don Candela|96/100
+|-damage|p1a: Toxapex|29/100 brn|[from] ability: Iron Barbs|[of] p2a: Don Candela
+|-enditem|p2a: Don Candela|Leftovers|[from] move: Knock Off|[of] p1a: Toxapex
+|move|p2a: Don Candela|Leech Seed|p1a: Toxapex
+|-start|p1a: Toxapex|move: Leech Seed
+|
+|-damage|p1a: Toxapex|17/100 brn|[from] Leech Seed|[of] p2a: Don Candela
+|-heal|p2a: Don Candela|100/100|[silent]
+|-damage|p1a: Toxapex|10/100 brn|[from] brn
+|upkeep
+|turn|25
+|inactive|Juanita Trainer has 60 seconds left.
+|
+|t:|1641771787
+|move|p1a: Toxapex|Scald|p2a: Don Candela
+|-resisted|p2a: Don Candela
+|-damage|p2a: Don Candela|94/100
+|-status|p2a: Don Candela|brn
+|move|p2a: Don Candela|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|5/100 brn
+|
+|-damage|p1a: Toxapex|0 fnt|[from] Leech Seed|[of] p2a: Don Candela
+|-heal|p2a: Don Candela|98/100 brn|[silent]
+|faint|p1a: Toxapex
+|-damage|p2a: Don Candela|92/100 brn|[from] brn
+|upkeep
+|
+|t:|1641771801
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|26
+|inactive|Juanita Trainer has 60 seconds left.
+|inactive|Juanita Trainer has 30 seconds left.
+|
+|t:|1641771847
+|move|p1a: Tapu Fini|Taunt|p2a: Don Candela
+|-start|p2a: Don Candela|move: Taunt
+|cant|p2a: Don Candela|move: Taunt|Leech Seed
+|
+|-heal|p1a: Tapu Fini|94/100|[from] item: Leftovers
+|-damage|p2a: Don Candela|85/100 brn|[from] brn
+|upkeep
+|turn|27
+|inactive|Juanita Trainer has 30 seconds left.
+|
+|t:|1641771858
+|switch|p1a: Landorus|Landorus-Therian, M|38/100
+|-damage|p1a: Landorus|26/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Don Candela|atk|1
+|move|p2a: Don Candela|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|21/100
+|
+|-damage|p2a: Don Candela|79/100 brn|[from] brn
+|upkeep
+|turn|28
+|inactive|Juanita Trainer has 30 seconds left.
+|
+|t:|1641771871
+|switch|p2a: Fini Pino|Tapu Fini|11/100
+|-damage|p2a: Fini Pino|0 fnt|[from] Stealth Rock
+|faint|p2a: Fini Pino
+|move|p1a: Landorus|Earthquake|p2: Fini Pino|[notarget]
+|-fail|p1a: Landorus
+|
+|upkeep
+|inactive|Juanita Trainer has 30 seconds left this turn.
+|
+|t:|1641771879
+|switch|p2a: Impedance|Zapdos|100/100
+|turn|29
+|
+|t:|1641771889
+|move|p2a: Impedance|Heat Wave|p1a: Landorus
+|-damage|p1a: Landorus|1/100
+|move|p1a: Landorus|U-turn|p2a: Impedance
+|-resisted|p2a: Impedance
+|-damage|p2a: Impedance|93/100
+|
+|t:|1641771897
+|switch|p1a: Kartana|Kartana|100/100|[from]move: U-turn
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|30
+|inactive|Juanita Trainer has 30 seconds left.
+|inactive|Juanita Trainer has 20 seconds left.
+|inactive|Juanita Trainer has 15 seconds left.
+|inactive|Juanita Trainer has 10 seconds left.
+|inactive|Juanita Trainer has 5 seconds left.
+|-message|Juanita Trainer lost due to inactivity.
+|
+|win|Lamegazelle
+|raw|Lamegazelle's rating: 1338 &rarr; <strong>1357</strong><br />(+19 for winning)
+|raw|Juanita Trainer's rating: 1312 &rarr; <strong>1293</strong><br />(-19 for losing)
+|l|☆Lamegazelle

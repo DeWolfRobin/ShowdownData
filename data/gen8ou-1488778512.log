@@ -1,0 +1,395 @@
+|j|☆Surko
+|j|☆DumbLick1337
+|t:|1641820210
+|gametype|singles
+|player|p1|Surko|blue-gen3two|1183
+|player|p2|DumbLick1337|102|1151
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro, M|
+|poke|p1|Zeraora|
+|poke|p1|Garchomp, M|
+|poke|p1|Clefable, F|
+|poke|p1|Zapdos|
+|poke|p1|Blacephalon|
+|poke|p2|Clefable, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Hydreigon, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Hippowdon, M|
+|poke|p2|Excadrill, M|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641820220
+|start
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641820224
+|move|p2a: Clefable|Thunderbolt|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|50/100
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1641820235
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|48/100
+|
+|-heal|p1a: Clefable|54/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641820242
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|13/100
+|-unboost|p1a: Clefable|spa|1
+|move|p1a: Clefable|Stealth Rock|p2a: Clefable
+|-sidestart|p2: DumbLick1337|move: Stealth Rock
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|48/100
+|-heal|p1a: Clefable|19/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641820252
+|switch|p1a: Slowbro|Slowbro, M|83/100
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|42/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641820257
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|98/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641820262
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Zeraora|Plasma Fists|p2a: Hippowdon
+|-immune|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zeraora|95/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641820268
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: Surko|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641820274
+|move|p1a: Zapdos|Defog|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|evasion|1
+|-sideend|p2: DumbLick1337|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: Surko|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|88/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1641820279
+|move|p1a: Zapdos|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|move|p2a: Hippowdon|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: Surko|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|82/100|[from] Sandstorm
+|-damage|p2a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641820284
+|switch|p2a: Clefable|Clefable, M|98/100
+|move|p1a: Zapdos|Defog|p2a: Clefable
+|-unboost|p2a: Clefable|evasion|1
+|-sideend|p1: Surko|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|75/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1641820291
+|move|p1a: Zapdos|Discharge|p2a: Clefable
+|-damage|p2a: Clefable|60/100
+|move|p2a: Clefable|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|22/100
+|-unboost|p1a: Zapdos|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|16/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1641820298
+|move|p1a: Zapdos|Discharge|p2a: Clefable
+|-damage|p2a: Clefable|36/100
+|move|p2a: Clefable|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641820307
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|13
+|
+|t:|1641820312
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|move|p1a: Blacephalon|Heat Wave|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|68/100
+|
+|-weather|none
+|-heal|p2a: Hydreigon|74/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641820324
+|switch|p1a: Clefable|Clefable, F|19/100
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|49/100
+|
+|-heal|p2a: Hydreigon|56/100|[from] item: Leftovers
+|-heal|p1a: Clefable|25/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641820327
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Clefable|Moonblast|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|
+|-heal|p2a: Hydreigon|62/100|[from] item: Leftovers
+|-heal|p1a: Clefable|31/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641820330
+|move|p2a: Hydreigon|Dark Pulse|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|17/100
+|move|p1a: Clefable|Moonblast|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|-heal|p1a: Clefable|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820330
+|switch|p2a: Clefable|Clefable, M|36/100
+|turn|17
+|
+|t:|1641820339
+|move|p2a: Clefable|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641820343
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|18
+|
+|t:|1641820347
+|switch|p2a: Hippowdon|Hippowdon, M|94/100 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|42/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|94/100|[from] Sandstorm
+|-damage|p2a: Hippowdon|36/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641820354
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Blacephalon|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|52/100
+|-unboost|p2a: Corviknight|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|88/100|[from] Sandstorm
+|-heal|p2a: Corviknight|59/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641820358
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: Excadrill
+|-damage|p2a: Excadrill|37/100
+|-unboost|p2a: Excadrill|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|82/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1641820366
+|switch|p1a: Slowbro|Slowbro, M|75/100
+|move|p2a: Excadrill|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|29/100
+|-damage|p2a: Excadrill|27/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|23/100|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1641820374
+|move|p2a: Excadrill|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|-damage|p2a: Excadrill|17/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641820382
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|23
+|
+|t:|1641820398
+|move|p2a: Excadrill|Earthquake|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-damage|p2a: Excadrill|7/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641820404
+|switch|p1a: Zeraora|Zeraora|95/100
+|turn|24
+|
+|t:|1641820408
+|move|p2a: Excadrill|Earthquake|p1a: Zeraora
+|-supereffective|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|-damage|p2a: Excadrill|0 fnt|[from] item: Life Orb
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641820411
+|switch|p1a: Blacephalon|Blacephalon|82/100
+|switch|p2a: rotomwash|Rotom-Wash|100/100
+|turn|25
+|
+|t:|1641820415
+|move|p1a: Blacephalon|Shadow Ball|p2a: rotomwash
+|-damage|p2a: rotomwash|45/100
+|move|p2a: rotomwash|Hydro Pump|p1a: Blacephalon|[miss]
+|-miss|p2a: rotomwash|p1a: Blacephalon
+|
+|-weather|none
+|upkeep
+|turn|26
+|
+|t:|1641820419
+|switch|p2a: Hippowdon|Hippowdon, M|36/100 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|76/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641820419
+|switch|p2a: rotomwash|Rotom-Wash|45/100
+|turn|27
+|
+|t:|1641820422
+|switch|p2a: Clefable|Clefable, M|36/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|70/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641820422
+|switch|p2a: rotomwash|Rotom-Wash|45/100
+|turn|28
+|
+|t:|1641820424
+|move|p1a: Blacephalon|Shadow Ball|p2a: rotomwash
+|-damage|p2a: rotomwash|0 fnt
+|faint|p2a: rotomwash
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|64/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641820425
+|switch|p2a: Corviknight|Corviknight, F|59/100
+|-ability|p2a: Corviknight|Pressure
+|turn|29
+|
+|t:|1641820428
+|move|p1a: Blacephalon|Shadow Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|win|Surko
+|raw|Surko's rating: 1205 &rarr; <strong>1226</strong><br />(+21 for winning)
+|raw|DumbLick1337's rating: 1151 &rarr; <strong>1130</strong><br />(-21 for losing)
+|c|☆DumbLick1337|gg
+|l|☆DumbLick1337
+|c|☆Surko|gg

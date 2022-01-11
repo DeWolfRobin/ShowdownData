@@ -1,0 +1,367 @@
+|j|☆I Suck Smh
+|j|☆pleumboiboi
+|t:|1641804081
+|gametype|singles
+|player|p1|I Suck Smh|265|1343
+|player|p2|pleumboiboi|bellelba|1355
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Clefable, M|
+|poke|p1|Seismitoad, F|
+|poke|p1|Dragonite, M|
+|poke|p2|Melmetal|
+|poke|p2|Slowbro, M|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Marowak-Alola, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pleumboiboi)
+|
+|t:|1641804101
+|start
+|switch|p1a: Captain Birb|Pelipper, F|100/100
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Captain Birb
+|turn|1
+|
+|t:|1641804109
+|move|p1a: Captain Birb|Hurricane|p2a: Slowbro
+|-damage|p2a: Slowbro|25/100
+|move|p2a: Slowbro|Trick Room|p2a: Slowbro
+|-fieldstart|move: Trick Room|[of] p2a: Slowbro
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Slowbro|31/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641804128
+|move|p2a: Slowbro|Psychic|p1a: Captain Birb
+|-damage|p1a: Captain Birb|33/100
+|move|p1a: Captain Birb|Hurricane|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641804132
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|3
+|
+|t:|1641804140
+|switch|p1a: OrLando Bloom|Landorus-Therian, M|100/100
+|-ability|p1a: OrLando Bloom|Intimidate|boost
+|-unboost|p2a: Melmetal|atk|1
+|move|p2a: Melmetal|Double Iron Bash|p1a: OrLando Bloom
+|-damage|p1a: OrLando Bloom|59/100
+|-damage|p1a: OrLando Bloom|14/100
+|-hitcount|p1a: OrLando Bloom|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: OrLando Bloom|20/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641804156
+|switch|p1a: Pain|Ferrothorn, F, shiny|100/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Pain
+|-resisted|p1a: Pain
+|-damage|p1a: Pain|87/100
+|-damage|p2a: Melmetal|88/100|[from] ability: Iron Barbs|[of] p1a: Pain
+|-resisted|p1a: Pain
+|-damage|p1a: Pain|74/100
+|-damage|p2a: Melmetal|76/100|[from] ability: Iron Barbs|[of] p1a: Pain
+|-hitcount|p1a: Pain|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Pain|80/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641804168
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|switch|p1a: Nurse Depression|Clefable, M, shiny|100/100
+|
+|-weather|none
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641804174
+|move|p1a: Nurse Depression|Teleport|p1a: Nurse Depression
+|
+|t:|1641804183
+|switch|p1a: Captain Birb|Pelipper, F|33/100|[from]move: Teleport
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Captain Birb
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641804196
+|switch|p1a: OrLando Bloom|Landorus-Therian, M|20/100
+|-ability|p1a: OrLando Bloom|Intimidate|boost
+|-unboost|p2a: Hatterene|atk|1
+|move|p2a: Hatterene|Psychic|p1a: OrLando Bloom
+|-damage|p1a: OrLando Bloom|0 fnt
+|faint|p1a: OrLando Bloom
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641804205
+|switch|p1a: Gamabunta|Seismitoad, F|100/100
+|turn|8
+|c|☆pleumboiboi|trick room is kinda hard to play
+|
+|t:|1641804214
+|move|p2a: Hatterene|Psychic|p1a: Gamabunta
+|-damage|p1a: Gamabunta|30/100
+|move|p1a: Gamabunta|Weather Ball|p2a: Hatterene
+|-damage|p2a: Hatterene|8/100
+|-damage|p1a: Gamabunta|20/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641804223
+|switch|p1a: Pain|Ferrothorn, F, shiny|80/100
+|move|p2a: Hatterene|Psychic|p1a: Pain
+|-resisted|p1a: Pain
+|-damage|p1a: Pain|59/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Pain|65/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|c|☆I Suck Smh|tr is brainless
+|c|☆I Suck Smh|gimmick af
+|c|☆pleumboiboi|ik
+|l|☆I Suck Smh
+|inactive|I Suck Smh disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆I Suck Smh
+|inactive|I Suck Smh reconnected and has 105 seconds left.
+|player|p1|I Suck Smh|265
+|inactive|I Suck Smh has 90 seconds left.
+|
+|t:|1641804299
+|move|p2a: Hatterene|Mystical Fire|p1a: Pain
+|-supereffective|p1a: Pain
+|-damage|p1a: Pain|21/100
+|-unboost|p1a: Pain|spa|1
+|move|p1a: Pain|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-damage|p1a: Pain|4/100|[from] item: Rocky Helmet|[of] p2a: Hatterene
+|-enditem|p2a: Hatterene|Rocky Helmet|[from] move: Knock Off|[of] p1a: Pain
+|faint|p2a: Hatterene
+|
+|-weather|none
+|-heal|p1a: Pain|11/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|c|☆I Suck Smh|no skill :(
+|
+|t:|1641804303
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|turn|11
+|c|☆I Suck Smh|who runs helm hatterene
+|
+|t:|1641804316
+|move|p2a: Crawdaunt|Knock Off|p1a: Pain
+|-damage|p1a: Pain|0 fnt
+|-damage|p2a: Crawdaunt|88/100|[from] ability: Iron Barbs|[of] p1a: Pain
+|-enditem|p1a: Pain|Leftovers|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: Pain
+|
+|upkeep
+|
+|t:|1641804323
+|switch|p1a: Barney|Dragonite, M|100/100
+|turn|12
+|
+|t:|1641804326
+|move|p1a: Barney|Dragon Dance|p1a: Barney
+|-boost|p1a: Barney|atk|1
+|-boost|p1a: Barney|spe|1
+|move|p2a: Crawdaunt|Knock Off|p1a: Barney
+|-damage|p1a: Barney|44/100
+|-enditem|p1a: Barney|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Crawdaunt
+|
+|upkeep
+|turn|13
+|
+|t:|1641804334
+|move|p1a: Barney|Roost|p1a: Barney
+|-heal|p1a: Barney|94/100
+|-singleturn|p1a: Barney|move: Roost
+|move|p2a: Crawdaunt|Knock Off|p1a: Barney
+|-damage|p1a: Barney|21/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641804344
+|move|p1a: Barney|Roost|p1a: Barney
+|-heal|p1a: Barney|71/100
+|-singleturn|p1a: Barney|move: Roost
+|move|p2a: Crawdaunt|Knock Off|p1a: Barney
+|-damage|p1a: Barney|0 fnt
+|faint|p1a: Barney
+|
+|upkeep
+|c|☆I Suck Smh|tf??
+|c|☆I Suck Smh|my item is knocked
+|c|☆pleumboiboi|yeah what
+|
+|t:|1641804352
+|switch|p1a: Nurse Depression|Clefable, M, shiny|100/100
+|turn|15
+|c|☆pleumboiboi|tf
+|c|☆pleumboiboi|glitch?
+|
+|t:|1641804359
+|switch|p2a: Melmetal|Melmetal|76/100
+|move|p1a: Nurse Depression|Teleport|p1a: Nurse Depression
+|c|☆I Suck Smh|how is that so strong
+|l|☆I Suck Smh
+|inactive|I Suck Smh disconnected and has a minute to reconnect!
+|player|p1|
+|c|☆pleumboiboi|oh
+|c|☆pleumboiboi|multiscale
+|c|☆pleumboiboi|on dragonite
+|inactive|I Suck Smh has 30 seconds to reconnect!
+|c|☆pleumboiboi|its strong cus adaptability
+|inactive|I Suck Smh has 20 seconds to reconnect!
+|j|☆I Suck Smh
+|inactive|I Suck Smh reconnected and has 60 seconds left.
+|player|p1|I Suck Smh|265
+|
+|t:|1641804424
+|switch|p1a: Captain Birb|Pelipper, F|33/100|[from]move: Teleport
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Captain Birb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|inactive|I Suck Smh has 60 seconds left.
+|
+|t:|1641804430
+|move|p1a: Captain Birb|Weather Ball|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641804434
+|switch|p2a: Crawdaunt|Crawdaunt, M|88/100
+|turn|17
+|
+|t:|1641804436
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Captain Birb
+|-resisted|p1a: Captain Birb
+|-damage|p1a: Captain Birb|0 fnt
+|faint|p1a: Captain Birb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641804442
+|switch|p1a: Nurse Depression|Clefable, M, shiny|100/100
+|turn|18
+|
+|t:|1641804445
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Nurse Depression
+|-damage|p1a: Nurse Depression|40/100
+|move|p1a: Nurse Depression|Moonblast|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Nurse Depression|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641804449
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|turn|19
+|c|☆I Suck Smh|can toad win this?
+|c|☆pleumboiboi|idk
+|
+|t:|1641804457
+|move|p1a: Nurse Depression|Moonblast|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|22/100
+|move|p2a: Conkeldurr|Ice Punch|p1a: Nurse Depression
+|-damage|p1a: Nurse Depression|21/100
+|
+|-weather|none
+|-heal|p1a: Nurse Depression|27/100|[from] item: Leftovers
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|20
+|c|☆pleumboiboi|prob
+|
+|t:|1641804466
+|move|p1a: Nurse Depression|Moonblast|p2a: Conkeldurr
+|-supereffective|p2a: Conkeldurr
+|-crit|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|0 fnt
+|faint|p2a: Conkeldurr
+|
+|-heal|p1a: Nurse Depression|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641804468
+|switch|p2a: Marowak|Marowak-Alola, F|100/100
+|turn|21
+|c|☆I Suck Smh|ye i win this
+|c|☆I Suck Smh|gg
+|c|☆pleumboiboi|gg
+|
+|t:|1641804475
+|move|p1a: Nurse Depression|Moonblast|p2a: Marowak
+|-resisted|p2a: Marowak
+|-damage|p2a: Marowak|81/100
+|move|p2a: Marowak|Poltergeist|p1a: Nurse Depression
+|-activate|p1a: Nurse Depression|move: Poltergeist|Leftovers
+|-damage|p1a: Nurse Depression|0 fnt
+|faint|p1a: Nurse Depression
+|
+|upkeep
+|c|☆pleumboiboi|just finish the game
+|
+|t:|1641804485
+|switch|p1a: Gamabunta|Seismitoad, F|20/100
+|turn|22
+|
+|t:|1641804488
+|move|p1a: Gamabunta|Earth Power|p2a: Marowak
+|-supereffective|p2a: Marowak
+|-damage|p2a: Marowak|0 fnt
+|faint|p2a: Marowak
+|-damage|p1a: Gamabunta|10/100|[from] item: Life Orb
+|
+|win|I Suck Smh
+|raw|I Suck Smh's rating: 1343 &rarr; <strong>1364</strong><br />(+21 for winning)
+|raw|pleumboiboi's rating: 1355 &rarr; <strong>1334</strong><br />(-21 for losing)

@@ -1,0 +1,449 @@
+|j|☆Mochi_Dani 3
+|j|☆support pikachu
+|t:|1641805595
+|gametype|singles
+|player|p1|Mochi_Dani 3|266|
+|player|p2|support pikachu|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Regieleki|
+|poke|p1|Tapu Lele|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, F|
+|poke|p2|Malamar, M|
+|poke|p2|Riolu, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Araquanid, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Salazzle, F|
+|teampreview
+|j| DTrident
+|
+|t:|1641805619
+|start
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|switch|p2a: Riolu|Riolu, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1641805632
+|move|p1a: Pelipper|Hurricane|p2a: Riolu
+|-supereffective|p2a: Riolu
+|-enditem|p2a: Riolu|Focus Sash
+|-damage|p2a: Riolu|1/100
+|move|p2a: Riolu|Reversal|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|53/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641805642
+|move|p2a: Riolu|Copycat|p2a: Riolu
+|move|p2a: Riolu|Reversal|p1a: Pelipper|[from]move: Copycat
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|7/100
+|move|p1a: Pelipper|Hurricane|p2a: Riolu
+|-supereffective|p2a: Riolu
+|-damage|p2a: Riolu|0 fnt
+|faint|p2a: Riolu
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641805653
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|3
+|
+|t:|1641805660
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|move|p2a: Excadrill|Rock Tomb|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|56/100
+|-unboost|p1a: Landorus|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|62/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641805676
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|move|p1a: Landorus|Earthquake|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|76/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|68/100|[from] item: Leftovers
+|-heal|p2a: Araquanid|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641805688
+|move|p1a: Landorus|Toxic|p2a: Araquanid|[miss]
+|-miss|p1a: Landorus|p2a: Araquanid
+|move|p2a: Araquanid|Liquidation|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|none
+|-heal|p2a: Araquanid|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641805698
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|6
+|
+|t:|1641805707
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Regieleki|Ancient Power|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|95/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641805722
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Excadrill|Iron Head|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|77/100
+|-damage|p2a: Excadrill|83/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|83/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|c| DTrident|lets gooo
+|c| DTrident|nub
+|
+|t:|1641805733
+|switch|p2a: Salazzle|Salazzle, F|100/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Salazzle|[miss]
+|-miss|p1a: Ferrothorn|p2a: Salazzle
+|
+|-heal|p1a: Ferrothorn|89/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641805745
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|move|p2a: Salazzle|Substitute|p2a: Salazzle
+|-start|p2a: Salazzle|Substitute
+|-damage|p2a: Salazzle|76/100
+|
+|-heal|p2a: Salazzle|82/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1641805755
+|move|p1a: Barraskewda|Liquidation|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-end|p2a: Salazzle|Substitute
+|move|p2a: Salazzle|Toxic|p1a: Barraskewda
+|-status|p1a: Barraskewda|tox
+|
+|-heal|p2a: Salazzle|88/100|[from] item: Black Sludge
+|-damage|p1a: Barraskewda|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641805767
+|move|p2a: Salazzle|Protect|p2a: Salazzle
+|-singleturn|p2a: Salazzle|Protect
+|move|p1a: Barraskewda|Liquidation|p2a: Salazzle
+|-activate|p2a: Salazzle|move: Protect
+|
+|-heal|p2a: Salazzle|94/100|[from] item: Black Sludge
+|-damage|p1a: Barraskewda|82/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641805778
+|switch|p2a: Araquanid|Araquanid, M|88/100
+|move|p1a: Barraskewda|Liquidation|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|49/100
+|-unboost|p2a: Araquanid|def|1
+|
+|-heal|p2a: Araquanid|55/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda|64/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641805789
+|switch|p1a: Regieleki|Regieleki|100/100
+|move|p2a: Araquanid|Lunge|p1a: Regieleki
+|-damage|p1a: Regieleki|47/100
+|-unboost|p1a: Regieleki|atk|1
+|
+|-heal|p2a: Araquanid|61/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641805803
+|switch|p2a: Excadrill|Excadrill, M|83/100
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Regieleki|Ancient Power|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|77/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641805814
+|switch|p1a: Ferrothorn|Ferrothorn, F|89/100
+|move|p2a: Excadrill|Iron Head|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|65/100
+|-damage|p2a: Excadrill|64/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|71/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641805842
+|switch|p2a: Salazzle|Salazzle, F|94/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Salazzle
+|-start|p2a: Salazzle|move: Leech Seed
+|
+|-heal|p2a: Salazzle|99/100|[from] item: Black Sludge
+|-heal|p1a: Ferrothorn|77/100|[from] item: Leftovers
+|-damage|p2a: Salazzle|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|87/100|[silent]
+|upkeep
+|turn|17
+|
+|t:|1641805853
+|switch|p1a: Barraskewda|Barraskewda, M|64/100 tox
+|move|p2a: Salazzle|Flamethrower|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|18/100 tox
+|
+|-heal|p2a: Salazzle|94/100|[from] item: Black Sludge
+|-damage|p2a: Salazzle|82/100|[from] Leech Seed|[of] p1a: Barraskewda
+|-heal|p1a: Barraskewda|31/100 tox|[silent]
+|-damage|p1a: Barraskewda|25/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641805863
+|switch|p2a: Araquanid|Araquanid, M|61/100
+|move|p1a: Barraskewda|Liquidation|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|22/100
+|
+|-heal|p2a: Araquanid|28/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda|13/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641805876
+|move|p1a: Barraskewda|Liquidation|p2a: Araquanid
+|-resisted|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|-damage|p1a: Barraskewda|0 fnt|[from] psn
+|faint|p1a: Barraskewda
+|upkeep
+|
+|t:|1641805890
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Salazzle|Salazzle, F|82/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|20
+|c| DTrident|lets gooo
+|c| DTrident|letss gooo
+|
+|t:|1641805917
+|move|p1a: Tapu Lele|Psyshock|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-damage|p2a: Salazzle|0 fnt
+|faint|p2a: Salazzle
+|
+|upkeep
+|c| DTrident|why you standin on
+|c| DTrident|by yourself
+|
+|t:|1641805925
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-enditem|p2a: Rillaboom|Grassy Seed
+|-boost|p2a: Rillaboom|def|1|[from] item: Grassy Seed
+|turn|21
+|
+|t:|1641805944
+|switch|p1a: Ferrothorn|Ferrothorn, F|87/100
+|move|p2a: Rillaboom|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|62/100
+|-damage|p2a: Rillaboom|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|68/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1641805956
+|move|p2a: Rillaboom|Drum Beating|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|59/100
+|-unboost|p1a: Ferrothorn|spe|1
+|move|p1a: Ferrothorn|Spikes|p2a: Rillaboom
+|-sidestart|p2: support pikachu|Spikes
+|
+|-heal|p2a: Rillaboom|100/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|65/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1641805972
+|move|p2a: Rillaboom|Acrobatics|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|41/100
+|-damage|p2a: Rillaboom|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Rillaboom
+|-sidestart|p2: support pikachu|Spikes
+|
+|-heal|p2a: Rillaboom|94/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|47/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|c| DTrident|| Battle
+|c| DTrident|gogoogogo
+|c| DTrident|laban
+|
+|t:|1641806004
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Rillaboom|Body Press|p1a: Tapu Lele
+|-resisted|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|91/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641806014
+|move|p1a: Tapu Lele|Future Sight|p2a: Rillaboom
+|-start|p1a: Tapu Lele|move: Future Sight
+|move|p2a: Rillaboom|Knock Off|p1a: Tapu Lele
+|-crit|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|14/100
+|-enditem|p1a: Tapu Lele|Choice Scarf|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|upkeep
+|turn|26
+|
+|t:|1641806029
+|switch|p1a: Ferrothorn|Ferrothorn, F|47/100
+|move|p2a: Rillaboom|Drum Beating|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|40/100
+|-unboost|p1a: Ferrothorn|spe|1
+|
+|upkeep
+|turn|27
+|
+|t:|1641806039
+|switch|p2a: Malamar|Malamar, M|100/100
+|-damage|p2a: Malamar|84/100|[from] Spikes
+|move|p1a: Ferrothorn|Iron Head|p2a: Malamar
+|-damage|p2a: Malamar|50/100
+|
+|-end|p2a: Malamar|move: Future Sight
+|-immune|p2a: Malamar
+|-heal|p2a: Malamar|57/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641806054
+|move|p2a: Malamar|Superpower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|-damage|p2a: Malamar|44/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Malamar|50/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641806063
+|switch|p1a: Pelipper|Pelipper, M|7/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|29
+|
+|t:|1641806070
+|move|p2a: Malamar|Superpower|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Malamar|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641806078
+|switch|p1a: Regieleki|Regieleki|47/100
+|turn|30
+|
+|t:|1641806085
+|move|p1a: Regieleki|Electro Ball|p2a: Malamar
+|-damage|p2a: Malamar|5/100
+|move|p2a: Malamar|Psycho Cut|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Malamar|11/100|[from] item: Leftovers
+|upkeep
+|c| DTrident|looooozer
+|
+|t:|1641806092
+|switch|p1a: Tapu Lele|Tapu Lele|14/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|31
+|
+|t:|1641806107
+|move|p1a: Tapu Lele|Moonblast|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641806115
+|switch|p2a: Rillaboom|Rillaboom, F|94/100
+|-damage|p2a: Rillaboom|78/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|32
+|
+|t:|1641806126
+|move|p2a: Rillaboom|Drum Beating|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|win|support pikachu
+|c| DTrident|gg
+|c| DTrident|nub

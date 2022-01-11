@@ -1,0 +1,50 @@
+|j|☆1234rnguser
+|j|☆rnguser1234
+|t:|1641877285
+|gametype|singles
+|player|p1|1234rnguser|janitor|
+|player|p2|rnguser1234|psychic-gen4|
+|teamsize|p1|2
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Charizard, M|
+|poke|p1|Rotom-Wash|
+|poke|p2|Swampert, M|
+|teampreview
+|
+|t:|1641877290
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|1
+|
+|t:|1641877302
+|move|p1a: Rotom|Discharge|p2a: Swampert
+|-immune|p2a: Swampert
+|move|p2a: Swampert|Stealth Rock|p1a: Rotom
+|-sidestart|p1: 1234rnguser|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641877311
+|switch|p1a: Charizard|Charizard, M|100/100
+|-damage|p1a: Charizard|51/100|[from] Stealth Rock
+|move|p2a: Swampert|Stealth Rock||[still]
+|-fail|p2a: Swampert
+|
+|upkeep
+|turn|3
+|-message|1234rnguser forfeited.
+|
+|win|rnguser1234
+|l|☆1234rnguser

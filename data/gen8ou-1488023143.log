@@ -1,0 +1,284 @@
+|j|☆Argon657
+|j|☆cogonahorse
+|t:|1641698814
+|gametype|singles
+|player|p1|Argon657|steven|1512
+|player|p2|cogonahorse|hilbert-wonderlauncher|1567
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, M|
+|poke|p1|Pelipper, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Zapdos|
+|poke|p1|Kommo-o, M|
+|poke|p1|Poliwrath, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Lele|
+|poke|p2|Corviknight, M|
+|poke|p2|Weavile, F|
+|poke|p2|Zeraora|
+|teampreview
+|
+|t:|1641698834
+|start
+|switch|p1a: Free Hugs|Ferrothorn, M, shiny|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|1
+|
+|t:|1641698841
+|move|p2a: Zeraora|Fire Punch|p1a: Free Hugs
+|-supereffective|p1a: Free Hugs
+|-damage|p1a: Free Hugs|18/100
+|-damage|p2a: Zeraora|88/100|[from] ability: Iron Barbs|[of] p1a: Free Hugs
+|move|p1a: Free Hugs|Bulldoze|p2a: Zeraora
+|-supereffective|p2a: Zeraora
+|-damage|p2a: Zeraora|7/100
+|-unboost|p2a: Zeraora|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641698860
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Free Hugs|Bulldoze|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|14/100
+|-unboost|p2a: Magnezone|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641698869
+|move|p2a: Magnezone|Body Press|p1a: Free Hugs
+|-supereffective|p1a: Free Hugs
+|-damage|p1a: Free Hugs|0 fnt
+|-damage|p2a: Magnezone|1/100|[from] ability: Iron Barbs|[of] p1a: Free Hugs
+|faint|p1a: Free Hugs
+|
+|upkeep
+|c|☆cogonahorse|idk why I did that
+|
+|t:|1641698876
+|switch|p1a: Rambo|Kommo-o, M, shiny|100/100
+|turn|4
+|
+|t:|1641698880
+|move|p1a: Rambo|Stealth Rock|p2a: Magnezone
+|-sidestart|p2: cogonahorse|move: Stealth Rock
+|move|p2a: Magnezone|Flash Cannon|p1a: Rambo
+|-damage|p1a: Rambo|64/100
+|-unboost|p1a: Rambo|spd|1
+|
+|-heal|p1a: Rambo|70/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641698885
+|move|p1a: Rambo|Flamethrower|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|-heal|p1a: Rambo|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641698891
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|6
+|
+|t:|1641698897
+|move|p2a: Tapu Lele|Psyshock|p1a: Rambo
+|-supereffective|p1a: Rambo
+|-damage|p1a: Rambo|0 fnt
+|faint|p1a: Rambo
+|
+|upkeep
+|
+|t:|1641698901
+|switch|p1a: Trump's Mouth|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Trump's Mouth
+|turn|7
+|
+|t:|1641698908
+|move|p2a: Tapu Lele|Psyshock|p1a: Trump's Mouth
+|-damage|p1a: Trump's Mouth|58/100
+|move|p1a: Trump's Mouth|U-turn|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|73/100
+|
+|t:|1641698911
+|switch|p1a: Jet Fish|Barraskewda, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641698919
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Jet Fish|Liquidation|p2a: Corviknight
+|-damage|p2a: Corviknight|16/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|22/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641698923
+|move|p1a: Jet Fish|Liquidation|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641698924
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641698930
+|move|p2a: Garchomp|Protect|p2a: Garchomp
+|-singleturn|p2a: Garchomp|Protect
+|move|p1a: Jet Fish|Liquidation|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garchomp|100/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|11
+|
+|t:|1641698932
+|move|p1a: Jet Fish|Liquidation|p2a: Garchomp
+|-damage|p2a: Garchomp|26/100
+|-damage|p1a: Jet Fish|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p2a: Garchomp|Earthquake|p1a: Jet Fish
+|-damage|p1a: Jet Fish|4/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garchomp|32/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641698939
+|switch|p1a: Zap Birb|Zapdos, shiny|100/100
+|move|p2a: Garchomp|Protect||[still]
+|-fail|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garchomp|38/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641698948
+|switch|p2a: Zeraora|Zeraora|7/100
+|-damage|p2a: Zeraora|0 fnt|[from] Stealth Rock
+|faint|p2a: Zeraora
+|move|p1a: Zap Birb|Hurricane|p2: Zeraora|[notarget]
+|-fail|p1a: Zap Birb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641698950
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|14
+|
+|t:|1641698960
+|move|p2a: Weavile|Triple Axel|p1a: Zap Birb
+|-supereffective|p1a: Zap Birb
+|-damage|p1a: Zap Birb|86/100
+|-status|p2a: Weavile|par|[from] ability: Static|[of] p1a: Zap Birb
+|-supereffective|p1a: Zap Birb
+|-damage|p1a: Zap Birb|58/100
+|-supereffective|p1a: Zap Birb
+|-damage|p1a: Zap Birb|19/100
+|-hitcount|p1a: Zap Birb|3
+|move|p1a: Zap Birb|Thunder|p2a: Weavile
+|-damage|p2a: Weavile|38/100 par
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1641698968
+|switch|p1a: Trump's Mouth|Pelipper, M|58/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Trump's Mouth
+|cant|p2a: Weavile|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641698974
+|switch|p1a: Jet Fish|Barraskewda, M|4/100
+|move|p2a: Weavile|Knock Off|p1a: Jet Fish
+|-damage|p1a: Jet Fish|0 fnt
+|-enditem|p1a: Jet Fish|Choice Band|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Jet Fish
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641698976
+|switch|p1a: False Toad|Poliwrath, M|100/100
+|turn|17
+|
+|t:|1641698984
+|move|p1a: False Toad|Belly Drum|p1a: False Toad
+|-damage|p1a: False Toad|50/100
+|-setboost|p1a: False Toad|atk|6|[from] move: Belly Drum
+|-enditem|p1a: False Toad|Sitrus Berry|[eat]
+|-heal|p1a: False Toad|75/100|[from] item: Sitrus Berry
+|cant|p2a: Weavile|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641698993
+|move|p1a: False Toad|Drain Punch|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-heal|p1a: False Toad|91/100|[from] drain|[of] p2a: Weavile
+|faint|p2a: Weavile
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641699001
+|switch|p2a: Tapu Lele|Tapu Lele|73/100
+|-damage|p2a: Tapu Lele|61/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|19
+|
+|t:|1641699003
+|move|p1a: False Toad|Liquidation|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆cogonahorse|gg
+|-message|cogonahorse forfeited.
+|
+|win|Argon657
+|raw|Argon657's rating: 1512 &rarr; <strong>1535</strong><br />(+23 for winning)
+|raw|cogonahorse's rating: 1567 &rarr; <strong>1544</strong><br />(-23 for losing)
+|l|☆Argon657

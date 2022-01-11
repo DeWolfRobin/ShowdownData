@@ -1,0 +1,308 @@
+|j|☆Huile2c0uill3s
+|j|☆MarcosTheMar
+|t:|1641871833
+|gametype|singles
+|player|p1|Huile2c0uill3s|burglar|1274
+|player|p2|MarcosTheMar|volkner|1296
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Melmetal|
+|poke|p1|Tangrowth, F|
+|poke|p1|Hawlucha, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Milotic, M|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Amoonguss, F|
+|poke|p2|Tapu Lele|
+|poke|p2|Weavile, F|
+|teampreview
+|
+|t:|1641871842
+|start
+|switch|p1a: NoirCommeTonPère|Tapu Lele, shiny|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: NoirCommeTonPère
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Huile2c0uill3s)
+|inactive|Huile2c0uill3s has 120 seconds left.
+|
+|t:|1641871883
+|move|p1a: NoirCommeTonPère|Reflect|p1a: NoirCommeTonPère
+|-sidestart|p1: Huile2c0uill3s|Reflect
+|move|p2a: Melmetal|Double Iron Bash|p1a: NoirCommeTonPère
+|-supereffective|p1a: NoirCommeTonPère
+|-damage|p1a: NoirCommeTonPère|45/100
+|-supereffective|p1a: NoirCommeTonPère
+|-damage|p1a: NoirCommeTonPère|0 fnt
+|faint|p1a: NoirCommeTonPère
+|-hitcount|p1: NoirCommeTonPère|2
+|
+|upkeep
+|
+|t:|1641871891
+|switch|p1a: Salvia Divinorum|Hawlucha, M, shiny|100/100
+|-enditem|p1a: Salvia Divinorum|Psychic Seed
+|-boost|p1a: Salvia Divinorum|spd|1|[from] item: Psychic Seed
+|turn|2
+|
+|t:|1641871907
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Salvia Divinorum|atk|1
+|move|p1a: Salvia Divinorum|Close Combat|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|79/100
+|-unboost|p1a: Salvia Divinorum|def|1
+|-unboost|p1a: Salvia Divinorum|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641871928
+|switch|p1a: Weed|Tangrowth, F, shiny|100/100
+|move|p2a: Landorus|U-turn|p1a: Weed
+|-supereffective|p1a: Weed
+|-damage|p1a: Weed|85/100
+|-damage|p2a: Landorus|62/100|[from] item: Rocky Helmet|[of] p1a: Weed
+|
+|t:|1641871947
+|switch|p2a: Amoonguss|Amoonguss, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641871958
+|switch|p1a: Ma grosse B|Melmetal|100/100
+|move|p2a: Amoonguss|Toxic|p1a: Ma grosse B
+|-immune|p1a: Ma grosse B
+|
+|upkeep
+|turn|5
+|
+|t:|1641871963
+|switch|p1a: Weed|Tangrowth, F, shiny|100/100
+|move|p2a: Amoonguss|Spore|p1a: Weed
+|-immune|p1a: Weed
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641871971
+|move|p1a: Weed|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|83/100
+|-enditem|p2a: Amoonguss|Black Sludge|[from] move: Knock Off|[of] p1a: Weed
+|move|p2a: Amoonguss|Toxic|p1a: Weed
+|-status|p1a: Weed|tox
+|
+|-damage|p1a: Weed|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641871980
+|switch|p1a: Charles de Gaulle|Dragapult, F, shiny|100/100
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Charles de Gaulle
+|-resisted|p1a: Charles de Gaulle
+|-damage|p1a: Charles de Gaulle|83/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641871989
+|move|p1a: Charles de Gaulle|Flamethrower|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|19/100
+|move|p2a: Amoonguss|Toxic|p1a: Charles de Gaulle
+|-status|p1a: Charles de Gaulle|tox
+|
+|-damage|p1a: Charles de Gaulle|77/100 tox|[from] psn
+|-sideend|p1: Huile2c0uill3s|Reflect
+|upkeep
+|turn|9
+|
+|t:|1641871997
+|switch|p2a: Milotic|Milotic, M|100/100
+|move|p1a: Charles de Gaulle|Flamethrower|p2a: Milotic
+|-resisted|p2a: Milotic
+|-damage|p2a: Milotic|89/100
+|
+|-heal|p2a: Milotic|95/100|[from] item: Leftovers
+|-damage|p1a: Charles de Gaulle|65/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641872010
+|switch|p1a: Weed|Tangrowth, F, shiny|100/100 tox
+|move|p2a: Milotic|Scald|p1a: Weed
+|-resisted|p1a: Weed
+|-damage|p1a: Weed|82/100 tox
+|
+|-heal|p2a: Milotic|100/100|[from] item: Leftovers
+|-damage|p1a: Weed|75/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641872036
+|switch|p2a: Amoonguss|Amoonguss, F|52/100
+|move|p1a: Weed|Toxic|p2a: Amoonguss
+|-immune|p2a: Amoonguss
+|
+|-damage|p1a: Weed|63/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641872051
+|switch|p1a: Ma grosse B|Melmetal|100/100
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Ma grosse B
+|-immune|p1a: Ma grosse B
+|
+|upkeep
+|turn|13
+|
+|t:|1641872061
+|switch|p2a: Landorus|Landorus-Therian, M|62/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ma grosse B|atk|1
+|move|p1a: Ma grosse B|Double Iron Bash|p2a: Landorus
+|-damage|p2a: Landorus|30/100
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|2
+|
+|upkeep
+|
+|t:|1641872072
+|switch|p2a: Milotic|Milotic, M|100/100
+|turn|14
+|
+|t:|1641872076
+|switch|p1a: Weed|Tangrowth, F, shiny|96/100 tox
+|move|p2a: Milotic|Scald|p1a: Weed
+|-resisted|p1a: Weed
+|-damage|p1a: Weed|77/100 tox
+|
+|-damage|p1a: Weed|71/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641872099
+|move|p2a: Milotic|Ice Beam|p1a: Weed
+|-supereffective|p1a: Weed
+|-damage|p1a: Weed|13/100 tox
+|move|p1a: Weed|Sleep Powder|p2a: Milotic
+|-status|p2a: Milotic|slp|[from] move: Sleep Powder
+|
+|-damage|p1a: Weed|0 fnt|[from] psn
+|faint|p1a: Weed
+|upkeep
+|inactive|Huile2c0uill3s has 120 seconds left.
+|
+|t:|1641872116
+|switch|p1a: Salvia Divinorum|Hawlucha, M, shiny|100/100
+|turn|16
+|
+|t:|1641872124
+|switch|p2a: Amoonguss|Amoonguss, F|85/100
+|move|p1a: Salvia Divinorum|Substitute|p1a: Salvia Divinorum
+|-start|p1a: Salvia Divinorum|Substitute
+|-damage|p1a: Salvia Divinorum|75/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641872130
+|move|p1a: Salvia Divinorum|Swords Dance|p1a: Salvia Divinorum
+|-boost|p1a: Salvia Divinorum|atk|2
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Salvia Divinorum
+|-end|p1a: Salvia Divinorum|Substitute
+|
+|upkeep
+|turn|18
+|
+|t:|1641872141
+|move|p1a: Salvia Divinorum|Acrobatics|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|
+|upkeep
+|
+|t:|1641872148
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|19
+|
+|t:|1641872155
+|move|p2a: Weavile|Ice Shard|p1a: Salvia Divinorum
+|-supereffective|p1a: Salvia Divinorum
+|-damage|p1a: Salvia Divinorum|0 fnt
+|faint|p1a: Salvia Divinorum
+|
+|upkeep
+|
+|t:|1641872161
+|switch|p1a: Ma grosse B|Melmetal|100/100
+|turn|20
+|
+|t:|1641872176
+|switch|p2a: Milotic|Milotic, M|100/100 slp
+|move|p1a: Ma grosse B|Superpower|p2a: Milotic
+|-damage|p2a: Milotic|65/100 slp
+|-unboost|p1a: Ma grosse B|atk|1
+|-unboost|p1a: Ma grosse B|def|1
+|
+|-heal|p2a: Milotic|71/100 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641872191
+|switch|p1a: Charles de Gaulle|Dragapult, F, shiny|65/100 tox
+|cant|p2a: Milotic|slp
+|
+|-heal|p2a: Milotic|77/100 slp|[from] item: Leftovers
+|-damage|p1a: Charles de Gaulle|59/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641872200
+|move|p1a: Charles de Gaulle|Shadow Ball|p2a: Milotic
+|-damage|p2a: Milotic|50/100 slp
+|-curestatus|p2a: Milotic|slp|[msg]
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|99/100
+|
+|-heal|p2a: Milotic|100/100|[from] item: Leftovers
+|-damage|p1a: Charles de Gaulle|47/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641872210
+|move|p1a: Charles de Gaulle|Shadow Ball|p2a: Milotic
+|-damage|p2a: Milotic|73/100
+|move|p2a: Milotic|Ice Beam|p1a: Charles de Gaulle
+|-supereffective|p1a: Charles de Gaulle
+|-damage|p1a: Charles de Gaulle|0 fnt
+|faint|p1a: Charles de Gaulle
+|
+|-heal|p2a: Milotic|79/100|[from] item: Leftovers
+|upkeep
+|-message|Huile2c0uill3s forfeited.
+|
+|win|MarcosTheMar
+|raw|Huile2c0uill3s's rating: 1274 &rarr; <strong>1251</strong><br />(-23 for losing)
+|raw|MarcosTheMar's rating: 1296 &rarr; <strong>1319</strong><br />(+23 for winning)
+|l|☆Huile2c0uill3s

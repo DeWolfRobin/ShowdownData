@@ -1,0 +1,360 @@
+|j|☆Wessman
+|j|☆Solosist
+|t:|1641768016
+|gametype|singles
+|player|p1|Wessman|veteran-gen4|1140
+|player|p2|Solosist|101|1206
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Alakazam, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Magnezone|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Dragapult, M|
+|poke|p2|Heatran, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Hippowdon, F|
+|poke|p2|Scizor, F|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1641768022
+|start
+|switch|p1a: Dragapult|Dragapult, M, shiny|100/100
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|1
+|
+|t:|1641768030
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Dragapult|Flamethrower|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|upkeep
+|turn|2
+|
+|t:|1641768039
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-end|p2a: Heatran|ability: Flash Fire|[silent]
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641768047
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|90/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|80/100
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641768051
+|move|p2a: Dragapult|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|-damage|p2a: Dragapult|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641768054
+|switch|p1a: Magnezone|Magnezone|100/100
+|turn|5
+|
+|t:|1641768062
+|move|p2a: Dragapult|Flamethrower|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|12/100
+|-damage|p2a: Dragapult|71/100|[from] item: Life Orb
+|move|p1a: Magnezone|Flash Cannon|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641768074
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|turn|6
+|
+|t:|1641768098
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Landorus|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|69/100
+|-damage|p2a: Landorus|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|-damage|p2a: Landorus|79/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|
+|t:|1641768107
+|move|p2a: Landorus|U-turn|p1a: Garchomp
+|-damage|p1a: Garchomp|50/100
+|-damage|p2a: Landorus|66/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p2a: Landorus|57/100|[from] item: Life Orb
+|
+|t:|1641768112
+|switch|p2a: Hippowdon|Hippowdon, F|100/100|[from]move: U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Garchomp|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641768119
+|move|p1a: Garchomp|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|70/100 tox
+|move|p2a: Hippowdon|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: Wessman|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|77/100 tox|[from] item: Leftovers
+|-damage|p2a: Hippowdon|64/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641768124
+|switch|p1a: Dragapult|Dragapult, M, shiny|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|82/100|[from] Sandstorm
+|-damage|p2a: Hippowdon|82/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641768131
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Dragapult|Hydro Pump|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|76/100|[from] Sandstorm
+|-damage|p2a: Urshifu|69/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1641768141
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Scizor|Scizor, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641768150
+|move|p1a: Tornadus|Hurricane|p2a: Scizor
+|-damage|p2a: Scizor|49/100
+|move|p2a: Scizor|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|71/100
+|
+|t:|1641768161
+|switch|p2a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1641768172
+|switch|p1a: Garchomp|Garchomp, M|50/100
+|-damage|p1a: Garchomp|44/100|[from] Stealth Rock
+|move|p2a: Heatran|Toxic|p1a: Garchomp
+|-status|p1a: Garchomp|tox
+|
+|-damage|p1a: Garchomp|38/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641768177
+|switch|p2a: Landorus|Landorus-Therian, M|57/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-damage|p1a: Garchomp|25/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641768184
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Landorus|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|upkeep
+|turn|16
+|
+|t:|1641768189
+|move|p1a: Tornadus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|34/100
+|-enditem|p2a: Landorus|Life Orb|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Landorus|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|59/100
+|-enditem|p1a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Landorus
+|
+|upkeep
+|turn|17
+|
+|t:|1641768197
+|move|p1a: Tornadus|Hurricane|p2a: Landorus|[miss]
+|-miss|p1a: Tornadus|p2a: Landorus
+|move|p2a: Landorus|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|47/100
+|
+|t:|1641768202
+|switch|p2a: Scizor|Scizor, F|49/100|[from]move: U-turn
+|
+|upkeep
+|turn|18
+|
+|t:|1641768205
+|move|p2a: Scizor|Bullet Punch|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1641768211
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|turn|19
+|
+|t:|1641768220
+|switch|p2a: Landorus|Landorus-Therian, M|34/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Alakazam|atk|1
+|move|p1a: Alakazam|Focus Blast|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641768227
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|20
+|
+|t:|1641768235
+|move|p1a: Alakazam|Focus Blast|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|36/100
+|move|p2a: Heatran|Lava Plume|p1a: Alakazam
+|-damage|p1a: Alakazam|49/100
+|
+|-heal|p2a: Heatran|42/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641768243
+|move|p1a: Alakazam|Focus Blast|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641768249
+|switch|p2a: Scizor|Scizor, F|49/100
+|turn|22
+|
+|t:|1641768258
+|switch|p1a: Magnezone|Magnezone|12/100
+|-damage|p1a: Magnezone|6/100|[from] Stealth Rock
+|move|p2a: Scizor|Bullet Punch|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|upkeep
+|
+|t:|1641768263
+|switch|p1a: Garchomp|Garchomp, M|25/100 tox
+|-damage|p1a: Garchomp|19/100 tox|[from] Stealth Rock
+|turn|23
+|
+|t:|1641768267
+|move|p2a: Scizor|Bullet Punch|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Scizor|37/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641768271
+|switch|p1a: Dragapult|Dragapult, M, shiny|76/100
+|-damage|p1a: Dragapult|64/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641768278
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|69/100
+|move|p1a: Dragapult|Flamethrower|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|48/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641768285
+|switch|p1a: Alakazam|Alakazam, M|49/100
+|move|p2a: Urshifu|Ice Punch|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|-damage|p2a: Urshifu|38/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641768288
+|switch|p1a: Dragapult|Dragapult, M, shiny|64/100
+|-damage|p1a: Dragapult|52/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641768294
+|move|p1a: Dragapult|Shadow Ball|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1641768297
+|switch|p2a: Hippowdon|Hippowdon, F|82/100 tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|27
+|
+|t:|1641768301
+|move|p1a: Dragapult|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|41/100 tox
+|move|p2a: Hippowdon|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|Solosist
+|raw|Wessman's rating: 1140 &rarr; <strong>1120</strong><br />(-20 for losing)
+|raw|Solosist's rating: 1206 &rarr; <strong>1226</strong><br />(+20 for winning)
+|l|☆Wessman

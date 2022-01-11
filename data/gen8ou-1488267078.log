@@ -1,0 +1,365 @@
+|j|☆Whitedevil12345678
+|j|☆GoldenTTRex1
+|t:|1641743647
+|gametype|singles
+|player|p1|Whitedevil12345678|blue|1499
+|player|p2|GoldenTTRex1|hilbert-wonderlauncher|1427
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Inteleon, F|
+|poke|p1|Incineroar, M|
+|poke|p1|Salamence, M|
+|poke|p1|Metagross|
+|poke|p1|Rotom-Heat|
+|poke|p2|Melmetal|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Tapu Fini|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GoldenTTRex1)
+|inactive|Whitedevil12345678 has 120 seconds left.
+|
+|t:|1641743709
+|start
+|switch|p1a: Metagross|Metagross|100/100
+|switch|p2a: Gohan|Urshifu-Rapid-Strike, M|100/100
+|turn|1
+|inactive|Whitedevil12345678 has 120 seconds left.
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641743752
+|switch|p1a: Salamence|Salamence, M|100/100
+|move|p2a: Gohan|Surging Strikes|p1a: Salamence
+|-resisted|p1a: Salamence
+|-crit|p1a: Salamence
+|-damage|p1a: Salamence|81/100
+|-resisted|p1a: Salamence
+|-crit|p1a: Salamence
+|-damage|p1a: Salamence|62/100
+|-resisted|p1a: Salamence
+|-crit|p1a: Salamence
+|-damage|p1a: Salamence|43/100
+|-hitcount|p1a: Salamence|3
+|
+|upkeep
+|turn|2
+|
+|t:|1641743759
+|move|p1a: Salamence|Dual Wingbeat|p2a: Gohan
+|-supereffective|p2a: Gohan
+|-crit|p2a: Gohan
+|-damage|p2a: Gohan|31/100
+|-supereffective|p2a: Gohan
+|-damage|p2a: Gohan|0 fnt
+|faint|p2a: Gohan
+|-ability|p1a: Salamence|Moxie|boost
+|-boost|p1a: Salamence|atk|1
+|-hitcount|p2: Gohan|2
+|
+|upkeep
+|
+|t:|1641743763
+|switch|p2a: Future Trunks|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Future Trunks
+|turn|3
+|inactive|Whitedevil12345678 has 120 seconds left.
+|
+|t:|1641743797
+|switch|p1a: Metagross|Metagross|100/100
+|move|p2a: Future Trunks|Moonblast|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|85/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641743821
+|switch|p2a: Piccolo|Landorus-Therian, M|100/100
+|-ability|p2a: Piccolo|Intimidate|boost
+|-fail|p1a: Metagross|unboost|[from] ability: Clear Body|[of] p1a: Metagross
+|move|p1a: Metagross|Iron Head|p2a: Piccolo
+|-damage|p2a: Piccolo|46/100
+|
+|-heal|p2a: Piccolo|52/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641743833
+|move|p2a: Piccolo|Stealth Rock|p1a: Metagross
+|-sidestart|p1: Whitedevil12345678|move: Stealth Rock
+|move|p1a: Metagross|Ice Punch|p2a: Piccolo
+|-supereffective|p2a: Piccolo
+|-damage|p2a: Piccolo|0 fnt
+|faint|p2a: Piccolo
+|
+|upkeep
+|
+|t:|1641743839
+|switch|p2a: Vegeta|Bisharp, M|100/100
+|turn|6
+|inactive|Whitedevil12345678 has 120 seconds left.
+|
+|t:|1641743867
+|switch|p1a: Salamence|Salamence, M|43/100
+|move|p2a: Vegeta|Swords Dance|p2a: Vegeta
+|-boost|p2a: Vegeta|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641743884
+|move|p2a: Vegeta|Sucker Punch|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641743899
+|switch|p1a: Inteleon|Inteleon, F, shiny|100/100
+|-damage|p1a: Inteleon|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641743916
+|move|p2a: Vegeta|Sucker Punch||[still]
+|-fail|p2a: Vegeta
+|move|p1a: Inteleon|Swords Dance|p1a: Inteleon
+|-boost|p1a: Inteleon|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641743924
+|move|p1a: Inteleon|Aqua Jet|p2a: Vegeta
+|-damage|p2a: Vegeta|48/100
+|-damage|p1a: Inteleon|78/100|[from] item: Life Orb
+|move|p2a: Vegeta|Sucker Punch||[still]
+|-fail|p2a: Vegeta
+|
+|upkeep
+|turn|10
+|
+|t:|1641743930
+|move|p1a: Inteleon|Aqua Jet|p2a: Vegeta
+|-damage|p2a: Vegeta|0 fnt
+|faint|p2a: Vegeta
+|-damage|p1a: Inteleon|68/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641743962
+|switch|p2a: Frieza|Dragapult, M|100/100
+|turn|11
+|
+|t:|1641743968
+|move|p1a: Inteleon|Ice Shard|p2a: Frieza
+|-supereffective|p2a: Frieza
+|-damage|p2a: Frieza|21/100
+|-damage|p1a: Inteleon|58/100|[from] item: Life Orb
+|move|p2a: Frieza|Shadow Ball|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|faint|p1a: Inteleon
+|
+|upkeep
+|inactive|Whitedevil12345678 has 120 seconds left.
+|
+|t:|1641743983
+|switch|p1a: Metagross|Metagross|85/100
+|-damage|p1a: Metagross|79/100|[from] Stealth Rock
+|turn|12
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641744010
+|switch|p2a: Goku|Melmetal|100/100
+|move|p1a: Metagross|Bullet Punch|p2a: Goku
+|-resisted|p2a: Goku
+|-damage|p2a: Goku|94/100
+|
+|upkeep
+|turn|13
+|inactive|Whitedevil12345678 has 120 seconds left.
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641744050
+|switch|p1a: Incineroar|Incineroar, M, shiny|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Goku|atk|1
+|move|p2a: Goku|Double Iron Bash|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|77/100
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|51/100
+|-hitcount|p1a: Incineroar|2
+|
+|upkeep
+|turn|14
+|inactive|Whitedevil12345678 has 90 seconds left.
+|
+|t:|1641744082
+|switch|p1a: Metagross|Metagross|79/100
+|-damage|p1a: Metagross|73/100|[from] Stealth Rock
+|move|p2a: Goku|Double Iron Bash|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|55/100
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|36/100
+|-hitcount|p1a: Metagross|2
+|
+|upkeep
+|turn|15
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641744092
+|switch|p1a: Incineroar|Incineroar, M, shiny|51/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Goku|atk|1
+|move|p2a: Goku|Double Iron Bash|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|32/100
+|-resisted|p1a: Incineroar
+|-crit|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|-hitcount|p1: Incineroar|2
+|
+|upkeep
+|
+|t:|1641744100
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|turn|16
+|
+|t:|1641744107
+|switch|p2a: Future Trunks|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Future Trunks
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641744122
+|move|p2a: Future Trunks|Hydro Pump|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1641744132
+|switch|p1a: Rillaboom|Rillaboom, M, shiny|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|18
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641744163
+|switch|p2a: Frieza|Dragapult, M|21/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p2a: Frieza|27/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|94/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|100/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|Whitedevil12345678 has 120 seconds left.
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641744175
+|move|p1a: Rillaboom|Grassy Glide|p2a: Frieza
+|-resisted|p2a: Frieza
+|-damage|p2a: Frieza|0 fnt
+|faint|p2a: Frieza
+|
+|upkeep
+|inactive|GoldenTTRex1 has 120 seconds left.
+|inactive|GoldenTTRex1 has 90 seconds left.
+|
+|t:|1641744214
+|switch|p2a: Goku|Melmetal|94/100
+|turn|20
+|
+|t:|1641744218
+|move|p1a: Rillaboom|Knock Off|p2a: Goku
+|-damage|p2a: Goku|53/100
+|-enditem|p2a: Goku|Choice Band|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Goku|Double Iron Bash|p1a: Rillaboom
+|-damage|p1a: Rillaboom|52/100
+|-damage|p1a: Rillaboom|5/100
+|-hitcount|p1a: Rillaboom|2
+|
+|-heal|p1a: Rillaboom|11/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|18/100|[from] item: Leftovers
+|-heal|p2a: Goku|59/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1641744235
+|move|p1a: Rillaboom|Grassy Glide|p2a: Goku
+|-resisted|p2a: Goku
+|-damage|p2a: Goku|31/100
+|move|p2a: Goku|Double Iron Bash|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-hitcount|p1: Rillaboom|1
+|
+|-heal|p2a: Goku|37/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641744238
+|switch|p1a: Metagross|Metagross|36/100
+|-damage|p1a: Metagross|30/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641744244
+|move|p1a: Metagross|Iron Head|p2a: Goku
+|-resisted|p2a: Goku
+|-damage|p2a: Goku|24/100
+|cant|p2a: Goku|flinch
+|
+|-heal|p1a: Metagross|36/100|[from] Grassy Terrain
+|-heal|p2a: Goku|31/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|23
+|inactive|GoldenTTRex1 has 120 seconds left.
+|
+|t:|1641744257
+|move|p1a: Metagross|Iron Head|p2a: Goku
+|-resisted|p2a: Goku
+|-damage|p2a: Goku|16/100
+|cant|p2a: Goku|flinch
+|
+|upkeep
+|turn|24
+|
+|t:|1641744261
+|move|p1a: Metagross|Iron Head|p2a: Goku
+|-resisted|p2a: Goku
+|-damage|p2a: Goku|3/100
+|move|p2a: Goku|Earthquake|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-crit|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|win|GoldenTTRex1
+|raw|Whitedevil12345678's rating: 1499 &rarr; <strong>1475</strong><br />(-24 for losing)
+|raw|GoldenTTRex1's rating: 1427 &rarr; <strong>1451</strong><br />(+24 for winning)
+|c|☆GoldenTTRex1|gg
+|l|☆Whitedevil12345678

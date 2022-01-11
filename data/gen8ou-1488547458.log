@@ -1,0 +1,295 @@
+|j|☆fredck19
+|j|☆French_redtoaster
+|t:|1641780088
+|gametype|singles
+|player|p1|fredck19|170|1108
+|player|p2|French_redtoaster|swimmerf-gen4|1162
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blastoise, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Rotom-Heat|
+|poke|p1|Dragapult, M|
+|poke|p2|Eiscue, F|
+|poke|p2|Morpeko, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Stunfisk-Galar, M|
+|poke|p2|Slowbro-Galar, M|
+|poke|p2|Cramorant, M|
+|teampreview
+|c|☆French_redtoaster|glhf
+|
+|t:|1641780100
+|start
+|switch|p1a: Blastoise|Blastoise, F|100/100
+|switch|p2a: Morpeko|Morpeko, F|100/100
+|turn|1
+|
+|t:|1641780128
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Morpeko|Fake Out|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|97/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Morpeko|94/100|[from] Sandstorm
+|-formechange|p2a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|turn|2
+|
+|t:|1641780178
+|move|p2a: Morpeko|Thunder Wave|p1a: Tyranitar
+|-status|p1a: Tyranitar|par
+|move|p1a: Tyranitar|Stone Edge|p2a: Morpeko
+|-damage|p2a: Morpeko|0 fnt
+|faint|p2a: Morpeko
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641780202
+|switch|p2a: Eiscue|Eiscue, F|100/100
+|turn|3
+|
+|t:|1641780215
+|move|p2a: Eiscue|Belly Drum|p2a: Eiscue
+|-damage|p2a: Eiscue|50/100
+|-setboost|p2a: Eiscue|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Eiscue|Sitrus Berry|[eat]
+|-heal|p2a: Eiscue|75/100|[from] item: Sitrus Berry
+|move|p1a: Tyranitar|Stone Edge|p2a: Eiscue
+|-activate|p2a: Eiscue|ability: Ice Face
+|-damage|p2a: Eiscue|75/100
+|detailschange|p2a: Eiscue|Eiscue-Noice, F
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Eiscue|69/100|[from] Sandstorm
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by French_redtoaster)
+|
+|t:|1641780274
+|move|p2a: Eiscue|Liquidation|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Eiscue|63/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641780287
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|turn|5
+|
+|t:|1641780294
+|move|p2a: Eiscue|Liquidation|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-weather|none
+|upkeep
+|
+|t:|1641780312
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-enditem|p1a: Rillaboom|Grassy Seed
+|-boost|p1a: Rillaboom|def|1|[from] item: Grassy Seed
+|turn|6
+|
+|t:|1641780332
+|move|p2a: Eiscue|Icicle Crash|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Eiscue|69/100|[from] Grassy Terrain
+|upkeep
+|inactive|fredck19 has 120 seconds left.
+|
+|t:|1641780344
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|turn|7
+|
+|t:|1641780350
+|move|p2a: Eiscue|Liquidation|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-heal|p2a: Eiscue|75/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641780356
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|8
+|
+|t:|1641780367
+|move|p1a: Dragapult|Flamethrower|p2a: Eiscue
+|-supereffective|p2a: Eiscue
+|-crit|p2a: Eiscue
+|-damage|p2a: Eiscue|0 fnt
+|faint|p2a: Eiscue
+|
+|upkeep
+|
+|t:|1641780376
+|switch|p2a: Cramorant|Cramorant, M|100/100
+|turn|9
+|
+|t:|1641780383
+|switch|p1a: Blastoise|Blastoise, F|100/100
+|move|p2a: Cramorant|Ice Beam|p1a: Blastoise
+|-resisted|p1a: Blastoise
+|-damage|p1a: Blastoise|88/100
+|
+|-heal|p1a: Blastoise|94/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641780393
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|move|p2a: Cramorant|Agility|p2a: Cramorant
+|-boost|p2a: Cramorant|spe|2
+|
+|-heal|p1a: Blastoise|99/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641780405
+|move|p1a: Blastoise|Aura Sphere|p2a: Cramorant
+|-resisted|p2a: Cramorant
+|-damage|p2a: Cramorant|82/100
+|move|p2a: Cramorant|Air Slash|p1a: Blastoise
+|-damage|p1a: Blastoise|69/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641780416
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|move|p2a: Cramorant|Air Slash|p1a: Blastoise
+|-damage|p1a: Blastoise|24/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641780433
+|move|p1a: Blastoise|Ice Beam|p2a: Cramorant
+|-damage|p2a: Cramorant|22/100
+|move|p2a: Cramorant|Air Slash|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|upkeep
+|
+|t:|1641780439
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|14
+|
+|t:|1641780451
+|move|p1a: Dragapult|Thunderbolt|p2a: Cramorant
+|-supereffective|p2a: Cramorant
+|-enditem|p2a: Cramorant|Wacan Berry|[eat]
+|-enditem|p2a: Cramorant|Wacan Berry|[weaken]
+|-damage|p2a: Cramorant|0 fnt
+|faint|p2a: Cramorant
+|
+|upkeep
+|
+|t:|1641780458
+|switch|p2a: Slowbro|Slowbro-Galar, M|100/100
+|turn|15
+|-activate|p2a: Slowbro|item: Quick Claw
+|
+|t:|1641780470
+|move|p2a: Slowbro|Sludge Bomb|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|69/100
+|move|p1a: Dragapult|Thunderbolt|p2a: Slowbro
+|-damage|p2a: Slowbro|67/100
+|
+|upkeep
+|turn|16
+|-activate|p2a: Slowbro|item: Quick Claw
+|
+|t:|1641780476
+|move|p2a: Slowbro|Nasty Plot|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|2
+|move|p1a: Dragapult|Thunderbolt|p2a: Slowbro
+|-damage|p2a: Slowbro|31/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641780485
+|move|p1a: Dragapult|Thunderbolt|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1641780490
+|switch|p2a: Stunfisk|Stunfisk-Galar, M|100/100
+|turn|18
+|
+|t:|1641780493
+|move|p1a: Dragapult|Thunderbolt|p2a: Stunfisk
+|-immune|p2a: Stunfisk
+|move|p2a: Stunfisk|Yawn|p1a: Dragapult
+|-start|p1a: Dragapult|move: Yawn|[of] p2a: Stunfisk
+|
+|upkeep
+|turn|19
+|
+|t:|1641780501
+|move|p1a: Dragapult|Thunderbolt|p2a: Stunfisk
+|-immune|p2a: Stunfisk
+|move|p2a: Stunfisk|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|28/100
+|
+|-end|p1a: Dragapult|move: Yawn|[silent]
+|-status|p1a: Dragapult|slp
+|upkeep
+|turn|20
+|
+|t:|1641780507
+|cant|p1a: Dragapult|slp
+|move|p2a: Stunfisk|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|French_redtoaster
+|raw|fredck19's rating: 1108 &rarr; <strong>1087</strong><br />(-21 for losing)
+|raw|French_redtoaster's rating: 1162 &rarr; <strong>1183</strong><br />(+21 for winning)
+|c|☆French_redtoaster|oh
+|l|☆fredck19

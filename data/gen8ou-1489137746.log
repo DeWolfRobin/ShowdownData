@@ -1,0 +1,288 @@
+|j|☆Nkzin
+|j|☆hitokiri1991
+|t:|1641861624
+|gametype|singles
+|player|p1|Nkzin|lucas|1218
+|player|p2|hitokiri1991|unknown|1187
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Kartana|
+|poke|p1|Lycanroc-Midnight, M|
+|poke|p1|Mew|
+|poke|p1|Dragapult, F|
+|poke|p2|Machamp, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Alakazam, F|
+|poke|p2|Talonflame, M|
+|poke|p2|Chansey, F|
+|poke|p2|Skarmory, F|
+|teampreview
+|
+|t:|1641861633
+|start
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|switch|p2a: HerBrother|Machamp, M, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hitokiri1991)
+|
+|t:|1641861644
+|move|p1a: Blaziken|Brave Bird|p2a: HerBrother
+|-supereffective|p2a: HerBrother
+|-damage|p2a: HerBrother|0 fnt
+|faint|p2a: HerBrother
+|-damage|p1a: Blaziken|59/100|[from] Recoil
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641861651
+|switch|p2a: Talonflame|Talonflame, M|100/100
+|turn|2
+|
+|t:|1641861654
+|move|p2a: Talonflame|Brave Bird|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|-damage|p2a: Talonflame|81/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641861665
+|switch|p1a: Lycanroc|Lycanroc-Midnight, M|100/100
+|turn|3
+|
+|t:|1641861672
+|switch|p2a: Piñata|Skarmory, F|100/100
+|move|p1a: Lycanroc|Rock Blast|p2a: Piñata
+|-damage|p2a: Piñata|93/100
+|-damage|p2a: Piñata|86/100
+|-damage|p2a: Piñata|78/100
+|-damage|p2a: Piñata|71/100
+|-hitcount|p2a: Piñata|4
+|
+|-heal|p2a: Piñata|77/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641861690
+|switch|p1a: Mew|Mew|100/100
+|move|p2a: Piñata|Stealth Rock|p1a: Mew
+|-sidestart|p1: Nkzin|move: Stealth Rock
+|
+|-heal|p2a: Piñata|83/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641861696
+|switch|p2a: :3|Chansey, F|100/100
+|move|p1a: Mew|Dragon Dance|p1a: Mew
+|-boost|p1a: Mew|atk|1
+|-boost|p1a: Mew|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1641861702
+|move|p1a: Mew|Dragon Dance|p1a: Mew
+|-boost|p1a: Mew|atk|1
+|-boost|p1a: Mew|spe|1
+|move|p2a: :3|Toxic|p1a: Mew
+|-status|p1a: Mew|tox
+|-activate|p1a: Mew|ability: Synchronize
+|-status|p2a: :3|tox
+|
+|-damage|p1a: Mew|94/100 tox|[from] psn
+|-damage|p2a: :3|94/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641861712
+|move|p1a: Mew|Dragon Dance|p1a: Mew
+|-boost|p1a: Mew|atk|1
+|-boost|p1a: Mew|spe|1
+|move|p2a: :3|Counter||[still]
+|-fail|p2a: :3
+|
+|-damage|p1a: Mew|82/100 tox|[from] psn
+|-damage|p2a: :3|82/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641861720
+|-curestatus|p2a: :3|tox|[from] ability: Natural Cure
+|switch|p2a: Piñata|Skarmory, F|83/100
+|move|p1a: Mew|Drain Punch|p2a: Piñata
+|-damage|p2a: Piñata|39/100
+|-heal|p1a: Mew|100/100 tox|[from] drain|[of] p2a: Piñata
+|-damage|p1a: Mew|91/100 tox|[from] item: Life Orb
+|
+|-heal|p2a: Piñata|45/100|[from] item: Leftovers
+|-damage|p1a: Mew|72/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641861733
+|move|p1a: Mew|Fire Punch|p2a: Piñata
+|-supereffective|p2a: Piñata
+|-damage|p2a: Piñata|0 fnt
+|faint|p2a: Piñata
+|-damage|p1a: Mew|62/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Mew|38/100 tox|[from] psn
+|upkeep
+|
+|t:|1641861740
+|switch|p2a: Talonflame|Talonflame, M|81/100
+|turn|10
+|
+|t:|1641861746
+|move|p1a: Mew|Psychic Fangs|p2a: Talonflame
+|-damage|p2a: Talonflame|0 fnt
+|faint|p2a: Talonflame
+|-damage|p1a: Mew|28/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Mew|0 fnt|[from] psn
+|faint|p1a: Mew
+|upkeep
+|
+|t:|1641861763
+|switch|p2a: HerFriend|Alakazam, F, shiny|100/100
+|switch|p1a: Weavile|Weavile, M|100/100
+|-damage|p1a: Weavile|76/100|[from] Stealth Rock
+|-ability|p1a: Weavile|Pressure
+|turn|11
+|
+|t:|1641861772
+|move|p1a: Weavile|Knock Off|p2a: HerFriend
+|-supereffective|p2a: HerFriend
+|-damage|p2a: HerFriend|0 fnt
+|-enditem|p2a: HerFriend|Choice Specs|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: HerFriend
+|-damage|p1a: Weavile|66/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641861779
+|switch|p2a: :3|Chansey, F|82/100
+|turn|12
+|c|☆Nkzin|GG?
+|
+|t:|1641861794
+|switch|p1a: Kartana|Kartana|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|move|p2a: :3|Wish|p2a: :3
+|
+|upkeep
+|turn|13
+|
+|t:|1641861812
+|switch|p2a: HerDad|Dragonite, M|100/100
+|move|p1a: Kartana|Sacred Sword|p2a: HerDad
+|-resisted|p2a: HerDad
+|-damage|p2a: HerDad|89/100
+|
+|-heal|p2a: HerDad|100/100|[from] move: Wish|[wisher] :3
+|upkeep
+|turn|14
+|
+|t:|1641861827
+|move|p1a: Kartana|Sacred Sword|p2a: HerDad
+|-resisted|p2a: HerDad
+|-damage|p2a: HerDad|88/100
+|move|p2a: HerDad|Dragon Dance|p2a: HerDad
+|-boost|p2a: HerDad|atk|1
+|-boost|p2a: HerDad|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641861833
+|move|p1a: Kartana|Sacred Sword|p2a: HerDad
+|-resisted|p2a: HerDad
+|-damage|p2a: HerDad|64/100
+|move|p2a: HerDad|Dragon Dance|p2a: HerDad
+|-boost|p2a: HerDad|atk|1
+|-boost|p2a: HerDad|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641861843
+|move|p2a: HerDad|Dragon Claw|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|49/100
+|move|p1a: Kartana|Sacred Sword|p2a: HerDad
+|-resisted|p2a: HerDad
+|-damage|p2a: HerDad|39/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641861852
+|move|p2a: HerDad|Dragon Claw|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641861859
+|switch|p1a: Lycanroc|Lycanroc-Midnight, M|100/100
+|-damage|p1a: Lycanroc|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641861864
+|move|p2a: HerDad|Iron Head|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|faint|p1a: Lycanroc
+|
+|upkeep
+|
+|t:|1641861868
+|switch|p1a: Weavile|Weavile, M|66/100
+|-damage|p1a: Weavile|41/100|[from] Stealth Rock
+|-ability|p1a: Weavile|Pressure
+|turn|19
+|
+|t:|1641861873
+|move|p2a: HerDad|Iron Head|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1641861880
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|20
+|c|☆hitokiri1991|gg?
+|c|☆hitokiri1991|:)
+|
+|t:|1641861892
+|move|p2a: HerDad|Dragon Claw|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|hitokiri1991
+|raw|Nkzin's rating: 1218 &rarr; <strong>1191</strong><br />(-27 for losing)
+|raw|hitokiri1991's rating: 1187 &rarr; <strong>1214</strong><br />(+27 for winning)
+|l|☆Nkzin
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

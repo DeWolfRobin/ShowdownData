@@ -1,0 +1,273 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC ginko
+|j|☆SL21CC N1Daye
+|t:|1641818659
+|gametype|singles
+|player|p1|SL21CC ginko|evelyn|1288
+|player|p2|SL21CC N1Daye|265|1175
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blaziken, M|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Arctozolt|
+|poke|p1|Ninetales-Alola, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Melmetal|
+|poke|p2|Hawlucha, M|
+|poke|p2|Weavile, F|
+|poke|p2|Zeraora|
+|poke|p2|Dragonite, F|
+|teampreview
+|j| rffydsdhh
+|
+|t:|1641818676
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC ginko)
+|l| rffydsdhh
+|
+|t:|1641818681
+|move|p2a: Zeraora|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|21/100
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Stealth Rock|p2a: Zeraora
+|-sidestart|p2: SL21CC N1Daye|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641818687
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Zeraora|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|72/100
+|-damage|p2a: Zeraora|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Roseli Berry|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|3
+|j| adreamew
+|
+|t:|1641818695
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641818697
+|move|p1a: Garchomp|Scale Shot|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|84/100
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|46/100
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|13/100
+|-hitcount|p2a: Dragonite|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Dragonite|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641818703
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|5
+|
+|t:|1641818706
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: SL21CC ginko|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Melmetal|88/100|[from] Hail
+|upkeep
+|turn|6
+|
+|t:|1641818710
+|switch|p1a: Heatran|Heatran, M|21/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|16/100
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|10/100
+|-hitcount|p1a: Heatran|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|4/100|[from] Hail
+|-damage|p2a: Melmetal|82/100|[from] Hail
+|upkeep
+|turn|7
+|
+|t:|1641818714
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Heatran|Magma Storm|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|69/100
+|-activate|p2a: Tapu Fini|move: Magma Storm|[of] p1a: Heatran
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|0 fnt|[from] Hail
+|-damage|p2a: Tapu Fini|62/100|[from] Hail
+|faint|p1a: Heatran
+|-heal|p2a: Tapu Fini|69/100|[from] item: Leftovers
+|-end|p2a: Tapu Fini|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641818718
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|-item|p1a: Blaziken|Air Balloon
+|turn|8
+|
+|t:|1641818721
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Tapu Fini|Whirlpool|p1a: Blaziken|[miss]
+|-miss|p2a: Tapu Fini|p1a: Blaziken
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Blaziken|95/100|[from] Hail
+|-damage|p2a: Tapu Fini|62/100|[from] Hail
+|-heal|p2a: Tapu Fini|69/100|[from] item: Leftovers
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|9
+|
+|t:|1641818730
+|move|p1a: Blaziken|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|41/100
+|-enditem|p2a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p1a: Blaziken
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Blaziken
+|-damage|p1a: Blaziken|48/100
+|-enditem|p1a: Blaziken|Air Balloon
+|
+|-weather|none
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|10
+|
+|t:|1641818734
+|move|p1a: Blaziken|Close Combat|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Tapu Fini
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641818742
+|switch|p2a: Zeraora|Zeraora|88/100
+|turn|11
+|
+|t:|1641818744
+|move|p1a: Blaziken|Close Combat|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Zeraora
+|
+|-fieldend|Misty Terrain
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641818746
+|switch|p2a: Melmetal|Melmetal|82/100
+|-damage|p2a: Melmetal|76/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641818748
+|move|p1a: Blaziken|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Melmetal
+|
+|-sideend|p1: SL21CC ginko|move: Aurora Veil
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641818750
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|13
+|
+|t:|1641818752
+|move|p2a: Weavile|Ice Shard|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|12/100
+|move|p1a: Blaziken|Close Combat|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-crit|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Weavile
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641818755
+|switch|p2a: Dragonite|Dragonite, F|13/100
+|turn|14
+|
+|t:|1641818757
+|move|p1a: Blaziken|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Blaziken
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641818759
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-damage|p2a: Hawlucha|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641818760
+|move|p1a: Blaziken|Flare Blitz|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|-damage|p1a: Blaziken|0 fnt|[from] Recoil
+|faint|p1a: Blaziken
+|
+|win|SL21CC ginko
+|raw|SL21CC ginko's rating: 1288 &rarr; <strong>1299</strong><br />(+11 for winning)
+|raw|SL21CC N1Daye's rating: 1175 &rarr; <strong>1160</strong><br />(-15 for losing)
+|l|☆SL21CC N1Daye
+|l|☆SL21CC ginko

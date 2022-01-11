@@ -1,0 +1,99 @@
+|j|☆chickenheaded
+|j|☆Snailccino
+|t:|1641721872
+|gametype|singles
+|player|p1|chickenheaded|alder|1122
+|player|p2|Snailccino|n|1152
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Magnezone|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Blacephalon|
+|poke|p2|Gastrodon, F|
+|poke|p2|Gengar, F|
+|poke|p2|Hydreigon, F|
+|poke|p2|Zeraora|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Snailccino)
+|
+|t:|1641721899
+|start
+|switch|p1a: Blacephalon|Blacephalon, shiny|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|
+|t:|1641721912
+|switch|p2a: Gastrodon|Gastrodon, F|100/100
+|move|p1a: Blacephalon|Mind Blown|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-damage|p2a: Gastrodon|65/100
+|-damage|p1a: Blacephalon|50/100|[from] mindblown
+|
+|-heal|p2a: Gastrodon|71/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|chickenheaded has 120 seconds left.
+|
+|t:|1641721959
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Gastrodon|Surf|p1a: Tapu Lele
+|-crit|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|51/100
+|
+|-heal|p1a: Tapu Lele|57/100|[from] item: Leftovers
+|-heal|p2a: Gastrodon|77/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641721978
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Tapu Lele|Psyshock|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|75/100
+|
+|-heal|p1a: Tapu Lele|63/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|chickenheaded has 120 seconds left.
+|
+|t:|1641721989
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|50/100
+|
+|upkeep
+|turn|5
+|inactive|chickenheaded has 120 seconds left.
+|l|☆chickenheaded
+|inactive|chickenheaded disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|chickenheaded has 30 seconds to reconnect!
+|inactive|chickenheaded has 20 seconds to reconnect!
+|inactive|chickenheaded has 15 seconds to reconnect!
+|inactive|chickenheaded has 10 seconds to reconnect!
+|inactive|chickenheaded has 5 seconds to reconnect!
+|n|!Snailccino|snailccino
+|-message|chickenheaded lost due to inactivity.
+|
+|win|Snailccino
+|raw|chickenheaded's rating: 1122 &rarr; <strong>1099</strong><br />(-23 for losing)
+|raw|Snailccino's rating: 1152 &rarr; <strong>1175</strong><br />(+23 for winning)

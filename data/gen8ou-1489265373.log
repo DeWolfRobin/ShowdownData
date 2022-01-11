@@ -1,0 +1,354 @@
+|j|☆ASLKDGH
+|j|☆DeemDaDream91
+|t:|1641880089
+|gametype|singles
+|player|p1|ASLKDGH|red|1401
+|player|p2|DeemDaDream91|265|1405
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Gastrodon-East, M|
+|poke|p1|Blaziken, F|
+|poke|p1|Magnezone|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Polteageist|
+|poke|p2|Cloyster, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Kartana|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ASLKDGH)
+|
+|t:|1641880100
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1641880113
+|move|p2a: Ninetales|Aurora Veil||[still]
+|-fail|p2a: Ninetales
+|move|p1a: Tyranitar|Stealth Rock|p2a: Ninetales
+|-sidestart|p2: DeemDaDream91|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ninetales|95/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641880121
+|move|p2a: Ninetales|Moonblast|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|68/100
+|move|p1a: Tyranitar|Rock Blast|p2a: Ninetales|[miss]
+|-miss|p1a: Tyranitar|p2a: Ninetales
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Ninetales|89/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|74/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641880131
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|move|p1a: Tyranitar|Rock Blast|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|89/100
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|83/100
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|77/100
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|71/100
+|-hitcount|p2a: Kartana|4
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|80/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641880146
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Kartana|Sacred Sword|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|74/100
+|-damage|p2a: Kartana|62/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|68/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641880158
+|switch|p2a: Cloyster|Cloyster, F|100/100
+|-damage|p2a: Cloyster|76/100|[from] Stealth Rock
+|move|p1a: Tornadus|Hurricane|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|
+|-weather|none
+|upkeep
+|
+|t:|1641880168
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-damage|p2a: Grimmsnarl|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641880173
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: DeemDaDream91|move: Light Screen
+|move|p1a: Tornadus|Hurricane|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|74/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641880179
+|switch|p1a: Magnezone|Magnezone|100/100
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: DeemDaDream91|Reflect
+|
+|upkeep
+|turn|8
+|
+|t:|1641880187
+|switch|p2a: Kartana|Kartana|62/100
+|-damage|p2a: Kartana|55/100|[from] Stealth Rock
+|move|p1a: Magnezone|Flash Cannon|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|1/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641880196
+|switch|p1a: Gastrodon|Gastrodon-East, M|100/100
+|move|p2a: Kartana|Sacred Sword|p1a: Gastrodon
+|-damage|p1a: Gastrodon|56/100
+|-damage|p2a: Kartana|0 fnt|[from] item: Life Orb
+|faint|p2a: Kartana
+|
+|-heal|p1a: Gastrodon|62/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641880208
+|switch|p2a: Polteageist|Polteageist|100/100
+|-damage|p2a: Polteageist|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641880214
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|-enditem|p2a: Polteageist|White Herb
+|-clearnegativeboost|p2a: Polteageist|[silent]
+|move|p1a: Gastrodon|Toxic|p2a: Polteageist
+|-status|p2a: Polteageist|tox
+|
+|-heal|p1a: Gastrodon|68/100|[from] item: Leftovers
+|-damage|p2a: Polteageist|82/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641880235
+|switch|p1a: Blaziken|Blaziken, F|100/100
+|move|p2a: Polteageist|Giga Drain|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|60/100
+|-heal|p2a: Polteageist|100/100 tox|[from] drain|[of] p1a: Blaziken
+|
+|-damage|p2a: Polteageist|89/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641880246
+|move|p2a: Polteageist|Shadow Ball|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-damage|p2a: Polteageist|71/100 tox|[from] psn
+|upkeep
+|
+|t:|1641880249
+|switch|p1a: Tyranitar|Tyranitar, F|80/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|13
+|
+|t:|1641880259
+|move|p2a: Polteageist|Giga Drain|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|34/100
+|-heal|p2a: Polteageist|100/100 tox|[from] drain|[of] p1a: Tyranitar
+|move|p1a: Tyranitar|Crunch|p2a: Polteageist
+|-supereffective|p2a: Polteageist
+|-damage|p2a: Polteageist|43/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Polteageist|37/100 tox|[from] Sandstorm
+|-heal|p1a: Tyranitar|40/100|[from] item: Leftovers
+|-damage|p2a: Polteageist|14/100 tox|[from] psn
+|-sideend|p2: DeemDaDream91|move: Light Screen
+|upkeep
+|turn|14
+|
+|t:|1641880272
+|switch|p1a: Magnezone|Magnezone|100/100
+|move|p2a: Polteageist|Giga Drain|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|65/100
+|-heal|p2a: Polteageist|32/100 tox|[from] drain|[of] p1a: Magnezone
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Polteageist|26/100 tox|[from] Sandstorm
+|-damage|p2a: Polteageist|0 fnt|[from] psn
+|faint|p2a: Polteageist
+|-sideend|p2: DeemDaDream91|Reflect
+|upkeep
+|
+|t:|1641880291
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|74/100
+|-damage|p2a: Grimmsnarl|61/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641880296
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: DeemDaDream91|move: Light Screen
+|move|p1a: Magnezone|Flash Cannon|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|11/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Grimmsnarl|5/100|[from] Sandstorm
+|upkeep
+|turn|16
+|
+|t:|1641880307
+|switch|p1a: Gastrodon|Gastrodon-East, M|68/100
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: DeemDaDream91|Reflect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Grimmsnarl|0 fnt|[from] Sandstorm
+|faint|p2a: Grimmsnarl
+|-heal|p1a: Gastrodon|74/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641880324
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641880329
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Gastrodon|Toxic|p2a: Dragonite
+|-status|p2a: Dragonite|tox
+|
+|-weather|none
+|-heal|p1a: Gastrodon|80/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|70/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641880340
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Gastrodon|Scald|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|63/100 tox
+|
+|-heal|p1a: Gastrodon|86/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|50/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641880351
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Gastrodon
+|-damage|p1a: Gastrodon|47/100
+|-damage|p1a: Gastrodon|10/100
+|-hitcount|p1a: Gastrodon|2
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|60/100
+|
+|-heal|p1a: Gastrodon|66/100|[from] item: Leftovers
+|-damage|p2a: Dragonite|32/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641880361
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Gastrodon
+|-damage|p1a: Gastrodon|28/100
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|-hitcount|p1: Gastrodon|2
+|
+|-damage|p2a: Dragonite|7/100 tox|[from] psn
+|upkeep
+|
+|t:|1641880377
+|switch|p1a: Tyranitar|Tyranitar, F|40/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|21
+|
+|t:|1641880383
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|22/100
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|4/100
+|-hitcount|p1a: Tyranitar|2
+|move|p1a: Tyranitar|Ice Beam|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|10/100|[from] item: Leftovers
+|upkeep
+|c|☆ASLKDGH|HOW DID HE LIVE
+|
+|t:|1641880395
+|switch|p2a: Ninetales|Ninetales-Alola, F|89/100
+|-damage|p2a: Ninetales|64/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|22
+|
+|t:|1641880402
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: DeemDaDream91|move: Aurora Veil
+|move|p1a: Tyranitar|Rock Blast|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|46/100
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|28/100
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|11/100
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|-hitcount|p2: Ninetales|4
+|
+|win|ASLKDGH
+|raw|ASLKDGH's rating: 1401 &rarr; <strong>1421</strong><br />(+20 for winning)
+|raw|DeemDaDream91's rating: 1405 &rarr; <strong>1385</strong><br />(-20 for losing)

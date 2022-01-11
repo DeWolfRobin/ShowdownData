@@ -1,0 +1,254 @@
+|j|☆HaxzyG
+|j|☆Showdownone
+|t:|1641787341
+|gametype|singles
+|player|p1|HaxzyG|guitarist|1381
+|player|p2|Showdownone|plasmagrunt|1375
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Gardevoir, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Lurantis, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Regieleki|
+|poke|p2|Tapu Lele|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Showdownone)
+|
+|t:|1641787355
+|start
+|switch|p1a: Feed Me Clothes!|Rotom-Wash|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Feed Me Clothes!|atk|1
+|turn|1
+|
+|t:|1641787360
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Feed Me Clothes!|Hydro Pump|p2a: Ferrothorn|[miss]
+|-miss|p1a: Feed Me Clothes!|p2a: Ferrothorn
+|
+|upkeep
+|turn|2
+|
+|t:|1641787372
+|switch|p1a: Orlandorus|Landorus-Therian, M|100/100
+|-ability|p1a: Orlandorus|Intimidate|boost
+|-unboost|p2a: Ferrothorn|atk|1
+|move|p2a: Ferrothorn|Knock Off|p1a: Orlandorus
+|-damage|p1a: Orlandorus|89/100
+|-enditem|p1a: Orlandorus|Red Card|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|3
+|
+|t:|1641787380
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Orlandorus|atk|1
+|move|p1a: Orlandorus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|81/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Orlandorus
+|
+|upkeep
+|turn|4
+|
+|t:|1641787387
+|move|p1a: Orlandorus|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Showdownone|move: Stealth Rock
+|move|p2a: Landorus|Toxic|p1a: Orlandorus
+|-status|p1a: Orlandorus|tox
+|
+|-damage|p1a: Orlandorus|83/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641787396
+|move|p1a: Orlandorus|Smack Down|p2a: Landorus
+|-damage|p2a: Landorus|71/100
+|-start|p2a: Landorus|Smack Down
+|move|p2a: Landorus|Stealth Rock|p1a: Orlandorus
+|-sidestart|p1: HaxzyG|move: Stealth Rock
+|
+|-damage|p1a: Orlandorus|71/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641787403
+|move|p1a: Orlandorus|Earthquake|p2a: Landorus
+|-damage|p2a: Landorus|41/100
+|move|p2a: Landorus|U-turn|p1a: Orlandorus
+|-resisted|p1a: Orlandorus
+|-damage|p1a: Orlandorus|61/100 tox
+|
+|t:|1641787408
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|-damage|p2a: Ferrothorn|95/100|[from] Stealth Rock
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p1a: Orlandorus|43/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641787415
+|move|p1a: Orlandorus|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|85/100
+|-damage|p1a: Orlandorus|31/100 tox|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Orlandorus
+|move|p2a: Ferrothorn|Spikes|p1a: Orlandorus
+|-sidestart|p1: HaxzyG|Spikes
+|
+|-damage|p1a: Orlandorus|7/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641787424
+|move|p1a: Orlandorus|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|58/100
+|move|p2a: Ferrothorn|Spikes|p1a: Orlandorus
+|-sidestart|p1: HaxzyG|Spikes
+|
+|-damage|p1a: Orlandorus|0 fnt|[from] psn
+|faint|p1a: Orlandorus
+|upkeep
+|
+|t:|1641787431
+|switch|p1a: Start Praying|Lurantis, F|100/100
+|-damage|p1a: Start Praying|88/100|[from] Stealth Rock
+|-damage|p1a: Start Praying|72/100|[from] Spikes
+|turn|9
+|
+|t:|1641787437
+|move|p1a: Start Praying|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|2/100
+|-boost|p1a: Start Praying|atk|1
+|-boost|p1a: Start Praying|def|1
+|-damage|p1a: Start Praying|59/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Spikes|p1a: Start Praying
+|-sidestart|p1: HaxzyG|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1641787452
+|move|p1a: Start Praying|Psycho Cut|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641787463
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|11
+|-activate|p1a: Start Praying|item: Quick Claw
+|
+|t:|1641787468
+|move|p1a: Start Praying|Leaf Blade|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|upkeep
+|
+|t:|1641787473
+|switch|p2a: Landorus|Landorus-Therian, M|41/100
+|-damage|p2a: Landorus|29/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-boost|p1a: Start Praying|atk|1
+|turn|12
+|
+|t:|1641787478
+|move|p2a: Landorus|U-turn|p1a: Start Praying
+|-supereffective|p1a: Start Praying
+|-damage|p1a: Start Praying|17/100
+|
+|t:|1641787481
+|switch|p2a: Pelipper|Pelipper, M|100/100|[from]move: U-turn
+|-damage|p2a: Pelipper|75/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Start Praying|Leaf Blade|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641787483
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|turn|13
+|-activate|p1a: Start Praying|item: Quick Claw
+|
+|t:|1641787493
+|move|p1a: Start Praying|Leaf Blade|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆Showdownone|wtf
+|
+|t:|1641787505
+|switch|p2a: Landorus|Landorus-Therian, M|29/100
+|-damage|p2a: Landorus|17/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-boost|p1a: Start Praying|atk|1
+|turn|14
+|c|☆HaxzyG|You didn't pray hard enough
+|-activate|p1a: Start Praying|item: Quick Claw
+|
+|t:|1641787513
+|move|p1a: Start Praying|Leaf Blade|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆Showdownone|ok gg
+|c|☆Showdownone|3 time quick claw
+|c|☆Showdownone|What a game
+|c|☆Showdownone|Lol
+|
+|t:|1641787531
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|15
+|
+|t:|1641787540
+|move|p2a: Tapu Lele|Moonblast|p1a: Start Praying
+|-damage|p1a: Start Praying|0 fnt
+|faint|p1a: Start Praying
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641787550
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|16
+|-message|Showdownone forfeited.
+|
+|win|HaxzyG
+|raw|HaxzyG's rating: 1381 &rarr; <strong>1401</strong><br />(+20 for winning)
+|raw|Showdownone's rating: 1375 &rarr; <strong>1355</strong><br />(-20 for losing)
+|l|☆Showdownone

@@ -1,0 +1,395 @@
+|j|☆PocoLeCancer
+|j|☆darthputin
+|t:|1641761212
+|gametype|singles
+|player|p1|PocoLeCancer|gladion-stance|1476
+|player|p2|darthputin|101|1431
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Metagross|
+|poke|p1|Mamoswine, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Scizor, M|
+|poke|p1|Azelf|
+|poke|p2|Dragonite, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Blissey, F|
+|poke|p2|Ditto|
+|poke|p2|Kartana|
+|poke|p2|Hawlucha, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by darthputin)
+|
+|t:|1641761219
+|start
+|switch|p1a: Mamoswine|Mamoswine, F|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|turn|1
+|
+|t:|1641761229
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Kartana|Swords Dance|p2a: Kartana
+|-boost|p2a: Kartana|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641761237
+|move|p2a: Kartana|Sacred Sword|p1a: Scizor
+|-damage|p1a: Scizor|14/100
+|move|p1a: Scizor|U-turn|p2a: Kartana
+|-damage|p2a: Kartana|42/100
+|
+|t:|1641761244
+|switch|p1a: Kaijuu|Weavile, M|100/100|[from]move: U-turn
+|-ability|p1a: Kaijuu|Pressure
+|
+|-heal|p2a: Kartana|48/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|darthputin has 120 seconds left.
+|
+|t:|1641761285
+|switch|p2a: Ditto|Ditto|100/100
+|-transform|p2a: Ditto|p1a: Kaijuu|[from] ability: Imposter
+|-ability|p2a: Ditto|Pressure
+|move|p1a: Kaijuu|Beat Up|p2a: Ditto
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|89/100
+|-resisted|p2a: Ditto
+|-crit|p2a: Ditto
+|-damage|p2a: Ditto|73/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|63/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|53/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|43/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|33/100
+|-hitcount|p2a: Ditto|6
+|
+|upkeep
+|turn|4
+|
+|t:|1641761302
+|move|p2a: Ditto|Beat Up|p1a: Kaijuu
+|-resisted|p1a: Kaijuu
+|-damage|p1a: Kaijuu|93/100
+|-resisted|p1a: Kaijuu
+|-damage|p1a: Kaijuu|86/100
+|-resisted|p1a: Kaijuu
+|-damage|p1a: Kaijuu|83/100
+|-resisted|p1a: Kaijuu
+|-damage|p1a: Kaijuu|73/100
+|-resisted|p1a: Kaijuu
+|-damage|p1a: Kaijuu|66/100
+|-resisted|p1a: Kaijuu
+|-damage|p1a: Kaijuu|60/100
+|-hitcount|p1a: Kaijuu|6
+|move|p1a: Kaijuu|Beat Up|p2a: Ditto
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|24/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|12/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|2/100
+|-resisted|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|-hitcount|p2: Ditto|4
+|
+|upkeep
+|
+|t:|1641761308
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|5
+|
+|t:|1641761314
+|switch|p1a: Metagross|Metagross|100/100
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|80/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641761322
+|move|p2a: Tapu Koko|U-turn|p1a: Metagross
+|-damage|p1a: Metagross|65/100
+|
+|t:|1641761324
+|switch|p2a: Dragonite|Dragonite, M|100/100|[from]move: U-turn
+|move|p1a: Metagross|Meteor Mash|p2a: Dragonite
+|-damage|p2a: Dragonite|57/100
+|-boost|p1a: Metagross|atk|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641761329
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Metagross|Meteor Mash|p2a: Dragonite
+|-damage|p2a: Dragonite|35/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641761336
+|move|p2a: Dragonite|Earthquake|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|upkeep
+|
+|t:|1641761345
+|switch|p1a: Kaijuu|Weavile, M|60/100
+|-ability|p1a: Kaijuu|Pressure
+|turn|9
+|
+|t:|1641761354
+|move|p1a: Kaijuu|Beat Up|p2a: Dragonite
+|-damage|p2a: Dragonite|21/100
+|-damage|p2a: Dragonite|6/100
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-hitcount|p2: Dragonite|3
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641761357
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|10
+|
+|t:|1641761374
+|switch|p1a: Scizor|Scizor, M|14/100
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641761379
+|switch|p1a: Mamoswine|Mamoswine, F|100/100
+|turn|11
+|
+|t:|1641761385
+|move|p2a: Tapu Koko|U-turn|p1a: Mamoswine
+|-damage|p1a: Mamoswine|83/100
+|
+|t:|1641761388
+|switch|p2a: Kartana|Kartana|48/100|[from]move: U-turn
+|move|p1a: Mamoswine|Icicle Crash|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641761390
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|12
+|
+|t:|1641761395
+|move|p1a: Mamoswine|Stealth Rock|p2a: Blissey
+|-sidestart|p2: darthputin|move: Stealth Rock
+|move|p2a: Blissey|Toxic|p1a: Mamoswine|[miss]
+|-miss|p2a: Blissey|p1a: Mamoswine
+|
+|upkeep
+|turn|13
+|
+|t:|1641761399
+|move|p1a: Mamoswine|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|48/100
+|move|p2a: Blissey|Toxic|p1a: Mamoswine
+|-status|p1a: Mamoswine|tox
+|
+|-heal|p2a: Blissey|55/100|[from] item: Leftovers
+|-damage|p1a: Mamoswine|77/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641761404
+|move|p2a: Blissey|Protect|p2a: Blissey
+|-singleturn|p2a: Blissey|Protect
+|move|p1a: Mamoswine|Earthquake|p2a: Blissey
+|-activate|p2a: Blissey|move: Protect
+|
+|-heal|p2a: Blissey|61/100|[from] item: Leftovers
+|-damage|p1a: Mamoswine|65/100 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|15
+|
+|t:|1641761407
+|move|p1a: Mamoswine|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|14/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|64/100
+|
+|-heal|p2a: Blissey|70/100|[from] item: Leftovers
+|-damage|p1a: Mamoswine|47/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641761415
+|switch|p1a: Azelf|Azelf|100/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641761434
+|move|p1a: Azelf|Drain Punch|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|34/100
+|move|p2a: Blissey|Toxic|p1a: Azelf
+|-status|p1a: Azelf|tox
+|
+|-heal|p2a: Blissey|40/100|[from] item: Leftovers
+|-damage|p1a: Azelf|94/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641761438
+|move|p2a: Blissey|Protect|p2a: Blissey
+|-singleturn|p2a: Blissey|Protect
+|move|p1a: Azelf|Drain Punch|p2a: Blissey
+|-activate|p2a: Blissey|move: Protect
+|
+|-heal|p2a: Blissey|46/100|[from] item: Leftovers
+|-damage|p1a: Azelf|82/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641761441
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Azelf|Drain Punch|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|76/100
+|-heal|p1a: Azelf|94/100 tox|[from] drain|[of] p2a: Tapu Koko
+|
+|-damage|p1a: Azelf|75/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641761445
+|switch|p1a: Mamoswine|Mamoswine, F|47/100 tox
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Mamoswine
+|-immune|p1a: Mamoswine
+|
+|-damage|p1a: Mamoswine|41/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641761453
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|faint|p1a: Mamoswine
+|
+|upkeep
+|
+|t:|1641761455
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|turn|22
+|
+|t:|1641761458
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|20/100
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1641761462
+|switch|p1a: Kaijuu|Weavile, M|60/100
+|-ability|p1a: Kaijuu|Pressure
+|turn|23
+|
+|t:|1641761469
+|switch|p2a: Blissey|Blissey, F|46/100
+|-damage|p2a: Blissey|34/100|[from] Stealth Rock
+|move|p1a: Kaijuu|Ice Shard|p2a: Blissey
+|-damage|p2a: Blissey|8/100
+|
+|-heal|p2a: Blissey|14/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|24
+|
+|t:|1641761472
+|move|p1a: Kaijuu|Ice Shard|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|upkeep
+|
+|t:|1641761475
+|switch|p2a: Tapu Koko|Tapu Koko|20/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|25
+|
+|t:|1641761478
+|move|p1a: Kaijuu|Ice Shard|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641761480
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-damage|p2a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|26
+|
+|t:|1641761483
+|move|p1a: Kaijuu|Ice Shard|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|31/100
+|move|p2a: Hawlucha|Drain Punch|p1a: Kaijuu
+|-supereffective|p1a: Kaijuu
+|-damage|p1a: Kaijuu|0 fnt
+|-heal|p2a: Hawlucha|59/100|[from] drain|[of] p1a: Kaijuu
+|faint|p1a: Kaijuu
+|
+|upkeep
+|
+|t:|1641761488
+|switch|p1a: Azelf|Azelf|75/100 tox
+|turn|27
+|
+|t:|1641761496
+|move|p2a: Hawlucha|Acrobatics|p1a: Azelf
+|-damage|p1a: Azelf|1/100 tox
+|move|p1a: Azelf|Facade|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|win|PocoLeCancer
+|raw|PocoLeCancer's rating: 1476 &rarr; <strong>1493</strong><br />(+17 for winning)
+|raw|darthputin's rating: 1431 &rarr; <strong>1414</strong><br />(-17 for losing)
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

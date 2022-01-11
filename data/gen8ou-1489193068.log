@@ -1,0 +1,306 @@
+|j|☆Elmerulia
+|j|☆uniqueteams69
+|t:|1641869127
+|gametype|singles
+|player|p1|Elmerulia|jasmine|1411
+|player|p2|uniqueteams69|265|1457
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Lilligant, F|
+|poke|p1|Magnezone|
+|poke|p1|Buzzwole|
+|poke|p1|Blissey, F|
+|poke|p1|Swampert, F|
+|poke|p1|Tapu Koko|
+|poke|p2|Kartana|
+|poke|p2|Heatran, F|
+|poke|p2|Tapu Lele|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Elmerulia)
+|
+|t:|1641869143
+|start
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|turn|1
+|
+|t:|1641869161
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Buzzwole|Ice Punch|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|84/100
+|-damage|p1a: Buzzwole|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|90/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641869173
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Buzzwole|Ice Punch|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|95/100
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641869180
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Buzzwole|Close Combat|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|upkeep
+|turn|4
+|
+|t:|1641869204
+|switch|p1a: Swampert|Swampert, F|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|upkeep
+|turn|5
+|
+|t:|1641869220
+|move|p2a: Tapu Lele|Psyshock|p1a: Swampert
+|-damage|p1a: Swampert|63/100
+|move|p1a: Swampert|Stealth Rock|p2a: Tapu Lele
+|-sidestart|p2: uniqueteams69|move: Stealth Rock
+|
+|-heal|p1a: Swampert|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641869228
+|switch|p2a: Ferrothorn|Ferrothorn, F|90/100
+|-damage|p2a: Ferrothorn|84/100|[from] Stealth Rock
+|move|p1a: Swampert|Yawn|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|move: Yawn|[of] p1a: Swampert
+|
+|-heal|p1a: Swampert|75/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|90/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641869237
+|move|p1a: Swampert|Flip Turn|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|84/100
+|-damage|p1a: Swampert|63/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|t:|1641869242
+|switch|p1a: Lilligant|Lilligant, F|100/100|[from]move: Flip Turn
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Lilligant
+|-sidestart|p1: Elmerulia|move: Stealth Rock
+|
+|-heal|p2a: Ferrothorn|90/100|[from] item: Leftovers
+|-end|p2a: Ferrothorn|move: Yawn|[silent]
+|-status|p2a: Ferrothorn|slp
+|upkeep
+|turn|8
+|
+|t:|1641869271
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Lilligant|Substitute|p1a: Lilligant
+|-start|p1a: Lilligant|Substitute
+|-damage|p1a: Lilligant|76/100
+|
+|-heal|p1a: Lilligant|82/100|[from] item: Leftovers
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|9
+|
+|t:|1641869280
+|move|p1a: Lilligant|Role Play|p2a: Heatran
+|-endability|p1a: Lilligant|Own Tempo|[from] move: Role Play
+|-ability|p1a: Lilligant|Flash Fire|[from] move: Role Play|[of] p2a: Heatran
+|move|p2a: Heatran|Magma Storm|p1a: Lilligant
+|-start|p1a: Lilligant|ability: Flash Fire
+|
+|-heal|p1a: Lilligant|88/100|[from] item: Leftovers
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|c|☆uniqueteams69|interesting!
+|inactive|uniqueteams69 has 120 seconds left.
+|
+|t:|1641869310
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Heatran|Earth Power|p1a: Lilligant
+|-resisted|p1a: Lilligant
+|-activate|p1a: Lilligant|move: Substitute|[damage]
+|
+|-heal|p1a: Lilligant|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|uniqueteams69 has 120 seconds left.
+|
+|t:|1641869319
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|move|p2a: Heatran|Earth Power|p1a: Lilligant
+|-resisted|p1a: Lilligant
+|-activate|p1a: Lilligant|move: Substitute|[damage]
+|
+|-heal|p1a: Lilligant|99/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641869329
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|
+|-heal|p1a: Lilligant|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641869337
+|move|p1a: Lilligant|Petal Dance|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|inactive|uniqueteams69 has 120 seconds left.
+|
+|t:|1641869353
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|14
+|inactive|uniqueteams69 has 120 seconds left.
+|
+|t:|1641869365
+|move|p1a: Lilligant|Petal Dance|p2a: Tapu Lele|[from]lockedmove
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|-start|p1a: Lilligant|confusion|[fatigue]
+|
+|upkeep
+|inactive|uniqueteams69 has 120 seconds left.
+|
+|t:|1641869372
+|switch|p2a: Ferrothorn|Ferrothorn, F|90/100 slp
+|-damage|p2a: Ferrothorn|84/100 slp|[from] Stealth Rock
+|turn|15
+|
+|t:|1641869384
+|-activate|p1a: Lilligant|confusion
+|-damage|p1a: Lilligant|94/100|[from] confusion
+|cant|p2a: Ferrothorn|slp
+|
+|-heal|p1a: Lilligant|99/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|90/100 slp|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641869393
+|-activate|p1a: Lilligant|confusion
+|-damage|p1a: Lilligant|93/100|[from] confusion
+|cant|p2a: Ferrothorn|slp
+|
+|-heal|p1a: Lilligant|99/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|97/100 slp|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641869411
+|-end|p1a: Lilligant|confusion
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|-curestatus|p2a: Ferrothorn|slp|[msg]
+|move|p2a: Ferrothorn|Body Press|p1a: Lilligant
+|-end|p1a: Lilligant|Substitute
+|
+|-heal|p1a: Lilligant|100/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641869422
+|move|p1a: Lilligant|Role Play|p2a: Ferrothorn
+|-end|p1a: Lilligant|ability: Flash Fire|[silent]
+|-endability|p1a: Lilligant|Flash Fire|[from] move: Role Play
+|-ability|p1a: Lilligant|Iron Barbs|[from] move: Role Play|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Lilligant
+|-status|p1a: Lilligant|par
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|19
+|
+|t:|1641869433
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Lilligant|Quiver Dance|p1a: Lilligant
+|-boost|p1a: Lilligant|spa|1
+|-boost|p1a: Lilligant|spd|1
+|-boost|p1a: Lilligant|spe|1
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641869441
+|move|p1a: Lilligant|Role Play|p2a: Heatran
+|-endability|p1a: Lilligant|Iron Barbs|[from] move: Role Play
+|-ability|p1a: Lilligant|Flash Fire|[from] move: Role Play|[of] p2a: Heatran
+|move|p2a: Heatran|Magma Storm|p1a: Lilligant
+|-start|p1a: Lilligant|ability: Flash Fire
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641869449
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|move|p1a: Lilligant|Substitute|p1a: Lilligant
+|-start|p1a: Lilligant|Substitute
+|-damage|p1a: Lilligant|76/100 par
+|
+|-heal|p1a: Lilligant|82/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641869457
+|move|p1a: Lilligant|Petal Dance|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Lilligant|88/100 par|[from] item: Leftovers
+|upkeep
+|-message|uniqueteams69 forfeited.
+|
+|win|Elmerulia
+|raw|Elmerulia's rating: 1411 &rarr; <strong>1434</strong><br />(+23 for winning)
+|raw|uniqueteams69's rating: 1457 &rarr; <strong>1434</strong><br />(-23 for losing)
+|l|☆uniqueteams69

@@ -1,0 +1,214 @@
+|j|☆Roman2112
+|j|☆jeanmilapipe
+|t:|1641813049
+|gametype|singles
+|player|p1|Roman2112|ethan|1779
+|player|p2|jeanmilapipe|n|1859
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Latios, M|
+|poke|p1|Kartana|
+|poke|p2|Aegislash, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Roman2112)
+|
+|t:|1641813070
+|start
+|switch|p1a: Sam|Slowbro, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|1
+|
+|t:|1641813075
+|move|p2a: Zapdos|Discharge|p1a: Sam
+|-supereffective|p1a: Sam
+|-damage|p1a: Sam|54/100
+|move|p1a: Sam|Scald|p2a: Zapdos
+|-damage|p2a: Zapdos|77/100
+|-status|p2a: Zapdos|brn
+|
+|-heal|p1a: Sam|60/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|71/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641813086
+|move|p1a: Sam|Protect|p1a: Sam
+|-singleturn|p1a: Sam|Protect
+|move|p2a: Zapdos|Toxic|p1a: Sam
+|-activate|p1a: Sam|move: Protect
+|
+|-heal|p1a: Sam|66/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|65/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641813093
+|move|p2a: Zapdos|Discharge|p1a: Sam
+|-supereffective|p1a: Sam
+|-damage|p1a: Sam|16/100
+|move|p1a: Sam|Teleport|p1a: Sam
+|
+|t:|1641813099
+|switch|p1a: Smaug|Latios, M, shiny|100/100|[from]move: Teleport
+|
+|-damage|p2a: Zapdos|59/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641813105
+|switch|p2a: Aegislash|Aegislash, M|100/100
+|move|p1a: Smaug|Psyshock|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-crit|p2a: Aegislash
+|-damage|p2a: Aegislash|66/100
+|-damage|p1a: Smaug|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Aegislash|73/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641813118
+|move|p1a: Smaug|Mystical Fire|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|22/100
+|-unboost|p2a: Aegislash|spa|1
+|-damage|p1a: Smaug|81/100|[from] item: Life Orb
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Claw|p1a: Smaug
+|-supereffective|p1a: Smaug
+|-damage|p1a: Smaug|0 fnt
+|faint|p1a: Smaug
+|
+|-heal|p2a: Aegislash|28/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641813127
+|switch|p1a: Gollum|Ferrothorn, F|100/100
+|turn|6
+|j| Lane_Alih
+|
+|t:|1641813138
+|switch|p2a: Zapdos|Zapdos|59/100 brn
+|move|p1a: Gollum|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: jeanmilapipe|move: Stealth Rock
+|
+|-damage|p2a: Zapdos|53/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641813145
+|switch|p1a: Sam|Slowbro, M|49/100
+|move|p2a: Zapdos|Defog|p1a: Sam
+|-unboost|p1a: Sam|evasion|1
+|-sideend|p2: jeanmilapipe|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|-heal|p1a: Sam|55/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|47/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641813153
+|move|p2a: Zapdos|Toxic|p1a: Sam
+|-status|p1a: Sam|tox
+|move|p1a: Sam|Teleport|p1a: Sam
+|
+|t:|1641813163
+|switch|p1a: Gimli|Landorus-Therian, M, shiny|100/100|[from]move: Teleport
+|-ability|p1a: Gimli|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|
+|-damage|p2a: Zapdos|41/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641813169
+|move|p2a: Zapdos|Toxic|p1a: Gimli
+|-status|p1a: Gimli|tox
+|move|p1a: Gimli|Stone Edge|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-damage|p1a: Gimli|95/100 tox|[from] psn
+|upkeep
+|j| Natty Chad
+|j| trad asf
+|
+|t:|1641813181
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Gimli|atk|1
+|turn|10
+|
+|t:|1641813186
+|switch|p1a: Gollum|Ferrothorn, F|100/100
+|move|p2a: Landorus|Substitute|p2a: Landorus
+|-start|p2a: Landorus|Substitute
+|-damage|p2a: Landorus|76/100
+|
+|-heal|p2a: Landorus|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641813194
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|move|p1a: Gollum|Stealth Rock|p2a: Landorus
+|-sidestart|p2: jeanmilapipe|move: Stealth Rock
+|
+|-heal|p2a: Landorus|88/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|j| imalrightbtw
+|inactive|Roman2112 has 120 seconds left.
+|
+|t:|1641813229
+|switch|p1a: Sam|Slowbro, M|89/100 tox
+|move|p2a: Landorus|Earthquake|p1a: Sam
+|-damage|p1a: Sam|0 fnt
+|faint|p1a: Sam
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641813237
+|switch|p1a: Stich|Kartana|100/100
+|turn|13
+|inactive|Roman2112 has 120 seconds left.
+|
+|t:|1641813248
+|move|p1a: Stich|Leaf Blade|p2a: Landorus
+|-end|p2a: Landorus|Substitute
+|move|p2a: Landorus|Earthquake|p1a: Stich
+|-damage|p1a: Stich|0 fnt
+|faint|p1a: Stich
+|
+|-heal|p2a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|-message|Roman2112 forfeited.
+|
+|win|jeanmilapipe
+|raw|Roman2112's rating: 1779 &rarr; <strong>1764</strong><br />(-15 for losing)
+|raw|jeanmilapipe's rating: 1859 &rarr; <strong>1874</strong><br />(+15 for winning)
+|l|☆Roman2112
+|l| imalrightbtw

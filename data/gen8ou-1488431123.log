@@ -1,0 +1,446 @@
+|j|☆gaylover13
+|j|☆im tofa
+|t:|1641764420
+|gametype|singles
+|player|p1|gaylover13|hiker-gen4|1555
+|player|p2|im tofa|ethan-gen2c|1565
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Suicune|
+|poke|p1|Marowak-Alola, M|
+|poke|p1|Entei|
+|poke|p1|Skarmory, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Mew|
+|poke|p2|Tapu Fini|
+|poke|p2|Buzzwole|
+|poke|p2|Heatran, F|
+|poke|p2|Mamoswine, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by im tofa)
+|inactive|im tofa has 120 seconds left.
+|inactive|im tofa has 90 seconds left.
+|
+|t:|1641764482
+|start
+|switch|p1a: Marowak|Marowak-Alola, M|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1641764503
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Tapu Fini|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|81/100
+|-enditem|p1a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p2a: Tapu Fini
+|
+|upkeep
+|turn|2
+|
+|t:|1641764513
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Toxapex|Venoshock|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|upkeep
+|turn|3
+|
+|t:|1641764519
+|move|p2a: Heatran|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: gaylover13|move: Stealth Rock
+|move|p1a: Toxapex|Scald|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|69/100
+|
+|-heal|p2a: Heatran|76/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641764527
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: Toxapex|Scald|p2a: Mew
+|-damage|p2a: Mew|83/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641764536
+|move|p2a: Mew|Spikes|p1a: Toxapex
+|-sidestart|p1: gaylover13|Spikes
+|move|p1a: Toxapex|Toxic|p2a: Mew
+|-activate|p2a: Mew|move: Misty Terrain
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641764543
+|move|p2a: Mew|Taunt|p1a: Toxapex
+|-start|p1a: Toxapex|move: Taunt
+|cant|p1a: Toxapex|move: Taunt|Toxic
+|
+|upkeep
+|turn|7
+|
+|t:|1641764559
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|switch|p1a: Marowak|Marowak-Alola, M|100/100
+|-damage|p1a: Marowak|76/100|[from] Stealth Rock
+|-damage|p1a: Marowak|63/100|[from] Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1641764564
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Marowak
+|-ability|p1a: Marowak|Lightning Rod|boost
+|-boost|p1a: Marowak|spa|1
+|move|p1a: Marowak|Flame Charge|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|41/100
+|-boost|p1a: Marowak|spe|1
+|
+|-heal|p2a: Tapu Koko|47/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641764572
+|switch|p2a: Heatran|Heatran, F|76/100
+|move|p1a: Marowak|Shadow Bone|p2a: Heatran
+|-damage|p2a: Heatran|16/100
+|
+|-heal|p2a: Heatran|22/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641764582
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Marowak|Shadow Bone|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|21/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641764589
+|move|p2a: Tapu Fini|Knock Off|p1a: Marowak
+|-supereffective|p1a: Marowak
+|-damage|p1a: Marowak|18/100
+|-enditem|p1a: Marowak|Thick Club|[from] move: Knock Off|[of] p2a: Tapu Fini
+|move|p1a: Marowak|Shadow Bone|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641764610
+|switch|p2a: Mamoswine|Mamoswine, F|100/100
+|turn|12
+|inactive|im tofa has 120 seconds left.
+|
+|t:|1641764646
+|move|p1a: Marowak|Flare Blitz|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|50/100
+|-damage|p1a: Marowak|0 fnt|[from] Recoil
+|faint|p1a: Marowak
+|move|p2a: Mamoswine|Earthquake|p1: Marowak|[notarget]
+|-fail|p2a: Mamoswine
+|
+|-heal|p2a: Mamoswine|57/100|[from] item: Leftovers
+|upkeep
+|j| Byron Gym Leader
+|
+|t:|1641764661
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|-damage|p1a: Skarmory|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641764675
+|switch|p2a: Mew|Mew|83/100
+|move|p1a: Skarmory|Stealth Rock|p2a: Mew
+|-sidestart|p2: im tofa|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1641764692
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-damage|p1a: Rillaboom|76/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Mew|Knock Off|p1a: Rillaboom
+|-damage|p1a: Rillaboom|56/100
+|-enditem|p1a: Rillaboom|Terrain Extender|[from] move: Knock Off|[of] p2a: Mew
+|
+|-heal|p2a: Mew|90/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|62/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641764700
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Rillaboom|Swords Dance|p1a: Rillaboom
+|-boost|p1a: Rillaboom|atk|2
+|
+|-heal|p1a: Rillaboom|69/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641764706
+|switch|p1a: Toxapex|Toxapex, M|81/100
+|-damage|p1a: Toxapex|69/100|[from] Spikes
+|-damage|p1a: Toxapex|57/100|[from] Stealth Rock
+|move|p2a: Buzzwole|Leech Life|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|36/100
+|
+|-heal|p1a: Toxapex|42/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|j| CoreyTrevorSmokes
+|inactive|im tofa has 120 seconds left.
+|
+|t:|1641764732
+|switch|p2a: Mew|Mew|90/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|92/100
+|
+|-heal|p2a: Mew|96/100|[from] Grassy Terrain
+|-heal|p1a: Toxapex|98/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1641764740
+|switch|p1a: Entei|Entei, shiny|100/100
+|-damage|p1a: Entei|88/100|[from] Spikes
+|-damage|p1a: Entei|63/100|[from] Stealth Rock
+|move|p2a: Mew|Spikes|p1a: Entei
+|-sidestart|p1: gaylover13|Spikes
+|
+|-heal|p2a: Mew|100/100|[from] Grassy Terrain
+|-heal|p1a: Entei|70/100|[from] Grassy Terrain
+|-heal|p1a: Entei|76/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641764746
+|move|p2a: Mew|Knock Off|p1a: Entei
+|-damage|p1a: Entei|51/100
+|-enditem|p1a: Entei|Leftovers|[from] move: Knock Off|[of] p2a: Mew
+|move|p1a: Entei|Sacred Fire|p2a: Mew
+|-damage|p2a: Mew|53/100
+|
+|-heal|p2a: Mew|59/100|[from] Grassy Terrain
+|-heal|p1a: Entei|57/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|inactive|im tofa has 120 seconds left.
+|
+|t:|1641764766
+|move|p2a: Mew|Spikes|p1a: Entei
+|-sidestart|p1: gaylover13|Spikes
+|move|p1a: Entei|Sacred Fire|p2a: Mew
+|-damage|p2a: Mew|17/100
+|
+|-heal|p2a: Mew|24/100|[from] Grassy Terrain
+|-heal|p1a: Entei|64/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1641764771
+|move|p1a: Entei|Extreme Speed|p2a: Mew
+|-crit|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|-heal|p1a: Entei|70/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|im tofa has 120 seconds left.
+|
+|t:|1641764805
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|22
+|
+|t:|1641764809
+|move|p2a: Buzzwole|Close Combat|p1a: Entei
+|-damage|p1a: Entei|3/100
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|move|p1a: Entei|Sacred Fire|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|9/100
+|
+|upkeep
+|turn|23
+|inactive|im tofa has 120 seconds left.
+|
+|t:|1641764823
+|switch|p2a: Heatran|Heatran, F|22/100
+|-damage|p2a: Heatran|10/100|[from] Stealth Rock
+|move|p1a: Entei|Extreme Speed|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641764834
+|switch|p2a: Mamoswine|Mamoswine, F|57/100
+|-damage|p2a: Mamoswine|44/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641764837
+|move|p1a: Entei|Extreme Speed|p2a: Mamoswine
+|-damage|p2a: Mamoswine|17/100
+|move|p2a: Mamoswine|Ice Shard|p1a: Entei
+|-resisted|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|-heal|p2a: Mamoswine|23/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641764848
+|switch|p1a: Skarmory|Skarmory, M|88/100
+|-damage|p1a: Skarmory|76/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1641764863
+|move|p2a: Mamoswine|Ice Shard|p1a: Skarmory
+|-damage|p1a: Skarmory|63/100
+|move|p1a: Skarmory|Body Press|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|faint|p2a: Mamoswine
+|
+|upkeep
+|
+|t:|1641764867
+|switch|p2a: Buzzwole|Buzzwole|9/100
+|turn|26
+|
+|t:|1641764875
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|59/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|move|p1a: Skarmory|Body Press|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|48/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641764881
+|switch|p1a: Toxapex|Toxapex, M|98/100
+|-damage|p1a: Toxapex|74/100|[from] Spikes
+|-damage|p1a: Toxapex|61/100|[from] Stealth Rock
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|98/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|upkeep
+|turn|28
+|
+|t:|1641764884
+|switch|p2a: Tapu Koko|Tapu Koko|47/100
+|-damage|p2a: Tapu Koko|35/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Toxapex|Toxic|p2a: Tapu Koko
+|-status|p2a: Tapu Koko|tox
+|
+|-heal|p2a: Tapu Koko|41/100 tox|[from] item: Leftovers
+|-damage|p2a: Tapu Koko|35/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641764894
+|switch|p1a: Rillaboom|Rillaboom, M|69/100
+|-damage|p1a: Rillaboom|44/100|[from] Spikes
+|-damage|p1a: Rillaboom|31/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|6/100
+|
+|-heal|p2a: Tapu Koko|41/100 tox|[from] Grassy Terrain
+|-heal|p2a: Tapu Koko|47/100 tox|[from] item: Leftovers
+|-heal|p1a: Rillaboom|12/100|[from] Grassy Terrain
+|-damage|p2a: Tapu Koko|35/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641764897
+|switch|p2a: Buzzwole|Buzzwole|98/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|82/100
+|
+|-heal|p2a: Buzzwole|88/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|18/100|[from] Grassy Terrain
+|upkeep
+|turn|31
+|
+|t:|1641764906
+|switch|p1a: Skarmory|Skarmory, M|63/100
+|-damage|p1a: Skarmory|51/100|[from] Stealth Rock
+|move|p2a: Buzzwole|Close Combat|p1a: Skarmory
+|-damage|p1a: Skarmory|6/100
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|-damage|p2a: Buzzwole|72/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|-heal|p2a: Buzzwole|78/100|[from] Grassy Terrain
+|upkeep
+|turn|32
+|
+|t:|1641764915
+|move|p2a: Buzzwole|Ice Punch|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|-damage|p2a: Buzzwole|61/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|faint|p1a: Skarmory
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-heal|p2a: Buzzwole|67/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641764917
+|switch|p1a: Suicune|Suicune|100/100
+|-damage|p1a: Suicune|88/100|[from] Stealth Rock
+|-damage|p1a: Suicune|63/100|[from] Spikes
+|-ability|p1a: Suicune|Pressure
+|turn|33
+|
+|t:|1641764921
+|move|p2a: Buzzwole|Close Combat|p1a: Suicune
+|-damage|p1a: Suicune|0 fnt
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|faint|p1a: Suicune
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-heal|p2a: Buzzwole|73/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|-message|gaylover13 forfeited.
+|
+|win|im tofa
+|raw|gaylover13's rating: 1538 &rarr; <strong>1520</strong><br />(-18 for losing)
+|raw|im tofa's rating: 1565 &rarr; <strong>1583</strong><br />(+18 for winning)
+|l|☆gaylover13

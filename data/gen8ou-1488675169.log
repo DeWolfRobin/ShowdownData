@@ -1,0 +1,176 @@
+|j|☆Pokefanxerneas
+|j|☆Implixit
+|t:|1641800682
+|gametype|singles
+|player|p1|Pokefanxerneas|169|1145
+|player|p2|Implixit|dawn|1155
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Corviknight, F|
+|poke|p1|Sceptile, M|
+|poke|p1|Gastrodon, F|
+|poke|p1|Blaziken, M|
+|poke|p2|Glaceon, F|
+|poke|p2|Gengar, F|
+|poke|p2|Whimsicott, F|
+|poke|p2|Milotic, F|
+|poke|p2|Sylveon, F|
+|poke|p2|Ninetales-Alola, F|
+|teampreview
+|
+|t:|1641800694
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Pokefanxerneas)
+|
+|t:|1641800701
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Implixit|move: Aurora Veil
+|move|p1a: Tapu Lele|Psychic|p2a: Ninetales
+|-damage|p2a: Ninetales|50/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Lele|94/100|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641800708
+|move|p2a: Ninetales|Blizzard|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|52/100
+|-status|p1a: Tapu Lele|frz
+|cant|p1a: Tapu Lele|frz
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Lele|46/100 frz|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1641800718
+|move|p2a: Ninetales|Blizzard|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|3/100 frz
+|-curestatus|p1a: Tapu Lele|frz|[msg]
+|move|p1a: Tapu Lele|Psychic|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Lele|0 fnt|[from] Hail
+|faint|p1a: Tapu Lele
+|upkeep
+|c|☆Pokefanxerneas|wowzas
+|
+|t:|1641800729
+|switch|p2a: Milotic|Milotic, F|100/100
+|switch|p1a: Sceptile|Sceptile, M|100/100
+|-enditem|p1a: Sceptile|Psychic Seed
+|-boost|p1a: Sceptile|spd|1|[from] item: Psychic Seed
+|turn|4
+|
+|t:|1641800740
+|switch|p2a: Whimsicott|Whimsicott, F|100/100
+|move|p1a: Sceptile|Swords Dance|p1a: Sceptile
+|-boost|p1a: Sceptile|atk|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Sceptile|94/100|[from] Hail
+|-damage|p2a: Whimsicott|94/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641800748
+|move|p2a: Whimsicott|Toxic|p1a: Sceptile
+|-activate|p1a: Sceptile|move: Psychic Terrain
+|move|p1a: Sceptile|Acrobatics|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|18/100
+|-damage|p1a: Sceptile|78/100|[from] item: Rocky Helmet|[of] p2a: Whimsicott
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641800761
+|move|p2a: Whimsicott|Tailwind|p2a: Whimsicott
+|-sidestart|p2: Implixit|move: Tailwind
+|move|p1a: Sceptile|Acrobatics|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-crit|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|-damage|p1a: Sceptile|61/100|[from] item: Rocky Helmet|[of] p2a: Whimsicott
+|faint|p2a: Whimsicott
+|
+|upkeep
+|
+|t:|1641800769
+|switch|p2a: Milotic|Milotic, F|100/100
+|turn|7
+|
+|t:|1641800773
+|move|p1a: Sceptile|Leaf Blade|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-damage|p2a: Milotic|21/100
+|move|p2a: Milotic|Ice Beam|p1a: Sceptile
+|-supereffective|p1a: Sceptile
+|-damage|p1a: Sceptile|8/100
+|
+|-heal|p2a: Milotic|27/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641800790
+|switch|p2a: Glaceon|Glaceon, F|100/100
+|move|p1a: Sceptile|Drain Punch|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|53/100
+|-heal|p1a: Sceptile|31/100|[from] drain|[of] p2a: Glaceon
+|
+|-heal|p2a: Glaceon|59/100|[from] item: Leftovers
+|-sideend|p2: Implixit|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1641800800
+|move|p1a: Sceptile|Drain Punch|p2a: Glaceon
+|-supereffective|p2a: Glaceon
+|-damage|p2a: Glaceon|0 fnt
+|-heal|p1a: Sceptile|59/100|[from] drain|[of] p2a: Glaceon
+|faint|p2a: Glaceon
+|
+|-sideend|p2: Implixit|move: Tailwind
+|upkeep
+|
+|t:|1641800807
+|switch|p2a: Gengar|Gengar, F|100/100
+|turn|10
+|
+|t:|1641800813
+|move|p1a: Sceptile|Acrobatics|p2a: Gengar
+|-crit|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|
+|upkeep
+|-message|Implixit forfeited.
+|
+|win|Pokefanxerneas
+|raw|Pokefanxerneas's rating: 1145 &rarr; <strong>1171</strong><br />(+26 for winning)
+|raw|Implixit's rating: 1155 &rarr; <strong>1129</strong><br />(-26 for losing)
+|l|☆Implixit

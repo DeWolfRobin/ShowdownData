@@ -1,0 +1,301 @@
+|j|☆SoleSurvivorVGC
+|j|☆emi15
+|t:|1641745042
+|gametype|singles
+|player|p1|SoleSurvivorVGC|hilbert|1263
+|player|p2|emi15|steven|1192
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Kartana|
+|poke|p1|Weavile, M|
+|poke|p1|Tapu Fini|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragapult, M|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Togekiss, M|
+|poke|p2|Alakazam, M|
+|teampreview
+|c|☆SoleSurvivorVGC|glhf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SoleSurvivorVGC)
+|
+|t:|1641745071
+|start
+|switch|p1a: Papercut|Kartana, shiny|100/100
+|switch|p2a: Togekiss|Togekiss, M|100/100
+|turn|1
+|
+|t:|1641745083
+|switch|p1a: Ariel|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Ariel
+|move|p2a: Togekiss|Air Slash|p1a: Ariel
+|-damage|p1a: Ariel|76/100
+|
+|-heal|p1a: Ariel|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641745091
+|move|p1a: Ariel|Scald|p2a: Togekiss
+|-damage|p2a: Togekiss|79/100
+|move|p2a: Togekiss|Air Slash|p1a: Ariel
+|-damage|p1a: Ariel|55/100
+|
+|-heal|p1a: Ariel|61/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641745101
+|switch|p1a: Not Choice Scarf|Magnezone|100/100
+|move|p2a: Togekiss|Air Slash|p1a: Not Choice Scarf
+|-resisted|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|94/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641745115
+|switch|p2a: Conkeldurr|Conkeldurr, M|100/100
+|switch|p1a: Pangea|Landorus-Therian, M|100/100
+|-ability|p1a: Pangea|Intimidate|boost
+|-unboost|p2a: Conkeldurr|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641745122
+|move|p1a: Pangea|Stealth Rock|p2a: Conkeldurr
+|-sidestart|p2: emi15|move: Stealth Rock
+|move|p2a: Conkeldurr|Facade|p1a: Pangea
+|-damage|p1a: Pangea|87/100
+|-damage|p2a: Conkeldurr|84/100|[from] item: Rocky Helmet|[of] p1a: Pangea
+|
+|-fieldend|Misty Terrain
+|-status|p2a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|
+|t:|1641745133
+|move|p1a: Pangea|U-turn|p2a: Conkeldurr
+|-resisted|p2a: Conkeldurr
+|-damage|p2a: Conkeldurr|75/100 brn
+|
+|t:|1641745136
+|switch|p1a: Mothra|Volcarona, M, shiny|100/100|[from]move: U-turn
+|move|p2a: Conkeldurr|Knock Off|p1a: Mothra
+|-damage|p1a: Mothra|65/100
+|-enditem|p1a: Mothra|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Conkeldurr
+|
+|-damage|p2a: Conkeldurr|69/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641745145
+|switch|p2a: Alakazam|Alakazam, M|100/100
+|move|p1a: Mothra|Quiver Dance|p1a: Mothra
+|-boost|p1a: Mothra|spa|1
+|-boost|p1a: Mothra|spd|1
+|-boost|p1a: Mothra|spe|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641745152
+|move|p1a: Mothra|Quiver Dance|p1a: Mothra
+|-boost|p1a: Mothra|spa|1
+|-boost|p1a: Mothra|spd|1
+|-boost|p1a: Mothra|spe|1
+|move|p2a: Alakazam|Shadow Ball|p1a: Mothra
+|-damage|p1a: Mothra|53/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641745158
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|100/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Alakazam|Psychic|p1a: Mothra
+|-damage|p1a: Mothra|80/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641745165
+|move|p1a: Mothra|Flamethrower|p2a: Alakazam
+|-enditem|p2a: Alakazam|Focus Sash
+|-damage|p2a: Alakazam|1/100
+|move|p2a: Alakazam|Psychic|p1a: Mothra
+|-damage|p1a: Mothra|59/100
+|
+|upkeep
+|turn|11
+|inactive|SoleSurvivorVGC has 120 seconds left.
+|
+|t:|1641745211
+|move|p1a: Mothra|Flamethrower|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|upkeep
+|
+|t:|1641745215
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-damage|p2a: Rotom|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641745220
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|100/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Rotom|Hydro Pump|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|50/100
+|
+|-heal|p2a: Rotom|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641745230
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|99/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Rotom|Hydro Pump|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|50/100
+|
+|-heal|p2a: Rotom|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641745238
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|99/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Rotom|Hydro Pump|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|48/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641745244
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|98/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Rotom|Hydro Pump|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|49/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641745251
+|move|p1a: Mothra|Quiver Dance|p1a: Mothra
+|-boost|p1a: Mothra|spa|1
+|-boost|p1a: Mothra|spd|1
+|-boost|p1a: Mothra|spe|1
+|move|p2a: Rotom|Hydro Pump|p1a: Mothra|[miss]
+|-miss|p2a: Rotom|p1a: Mothra
+|
+|upkeep
+|turn|17
+|
+|t:|1641745256
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|99/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Rotom|Hydro Pump|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|58/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641745264
+|move|p1a: Mothra|Psychic|p2a: Rotom
+|-damage|p2a: Rotom|33/100
+|move|p2a: Rotom|Hydro Pump|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|21/100
+|
+|-heal|p2a: Rotom|39/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641745273
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|71/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Rotom|Hydro Pump|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|36/100
+|
+|-heal|p2a: Rotom|45/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641745279
+|move|p1a: Mothra|Psychic|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|upkeep
+|
+|t:|1641745287
+|switch|p2a: Togekiss|Togekiss, M|79/100
+|turn|21
+|
+|t:|1641745292
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|86/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Togekiss|Air Slash|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|57/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641745297
+|move|p1a: Mothra|Flamethrower|p2a: Togekiss
+|-damage|p2a: Togekiss|0 fnt
+|faint|p2a: Togekiss
+|
+|upkeep
+|
+|t:|1641745302
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641745306
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|100/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Dragapult|Draco Meteor|p1a: Mothra
+|-damage|p1a: Mothra|70/100
+|-unboost|p2a: Dragapult|spa|2
+|
+|upkeep
+|turn|24
+|-message|emi15 forfeited.
+|
+|win|SoleSurvivorVGC
+|raw|SoleSurvivorVGC's rating: 1263 &rarr; <strong>1283</strong><br />(+20 for winning)
+|raw|emi15's rating: 1192 &rarr; <strong>1172</strong><br />(-20 for losing)
+|l|☆emi15

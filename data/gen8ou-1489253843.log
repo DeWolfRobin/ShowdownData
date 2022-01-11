@@ -1,0 +1,519 @@
+|j|☆Batsoup123
+|j|☆insania test v2
+|t:|1641878112
+|gametype|singles
+|player|p1|Batsoup123|beauty-gen4dp|1167
+|player|p2|insania test v2|pokekid|1114
+|teamsize|p1|6
+|teamsize|p2|4
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Cottonee, L1, F|
+|poke|p1|Pyukumuku, F|
+|poke|p1|Chansey, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Heatran, M|
+|poke|p2|Blacephalon|
+|poke|p2|Mew|
+|poke|p2|Ditto|
+|poke|p2|Clefable, M|
+|teampreview
+|
+|t:|1641878130
+|start
+|switch|p1a: Useless lol right|Cottonee, L1, F|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641878136
+|move|p1a: Useless lol right|Leech Seed|p2a: Clefable
+|-start|p2a: Clefable|move: Leech Seed
+|move|p2a: Clefable|Trick|p1a: Useless lol right
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Useless lol right
+|-item|p1a: Useless lol right|Choice Scarf|[from] move: Trick
+|-item|p2a: Clefable|Focus Sash|[from] move: Trick
+|
+|upkeep
+|turn|2
+|
+|t:|1641878143
+|move|p1a: Useless lol right|Encore|p2a: Clefable
+|-start|p2a: Clefable|Encore
+|move|p2a: Clefable|Trick|p1a: Useless lol right
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Useless lol right
+|-item|p1a: Useless lol right|Focus Sash|[from] move: Trick
+|-item|p2a: Clefable|Choice Scarf|[from] move: Trick
+|
+|upkeep
+|turn|3
+|c|☆insania test v2|you b
+|c|☆insania test v2|SHOOT
+|
+|t:|1641878151
+|move|p1a: Useless lol right|Substitute|p1a: Useless lol right
+|-start|p1a: Useless lol right|Substitute
+|-damage|p1a: Useless lol right|75/100
+|move|p2a: Clefable|Trick||[still]
+|-fail|p2a: Clefable
+|
+|upkeep
+|turn|4
+|
+|t:|1641878158
+|switch|p2a: :)|Mew|100/100
+|switch|p1a: Gay rock|Pyukumuku, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641878169
+|move|p2a: :)|Taunt|p1a: Gay rock
+|-start|p1a: Gay rock|move: Taunt
+|cant|p1a: Gay rock|move: Taunt|Toxic
+|
+|upkeep
+|turn|6
+|
+|t:|1641878177
+|switch|p1a: Fire frog|Heatran, M|100/100
+|move|p2a: :)|Cosmic Power|p2a: :)
+|-boost|p2a: :)|def|1
+|-boost|p2a: :)|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641878182
+|move|p2a: :)|Taunt|p1a: Fire frog
+|-start|p1a: Fire frog|move: Taunt
+|cant|p1a: Fire frog|move: Taunt|Taunt
+|
+|upkeep
+|turn|8
+|
+|t:|1641878189
+|move|p2a: :)|Stored Power|p1a: Fire frog
+|-resisted|p1a: Fire frog
+|-damage|p1a: Fire frog|94/100
+|move|p1a: Fire frog|Magma Storm|p2a: :)
+|-damage|p2a: :)|75/100
+|-activate|p2a: :)|move: Magma Storm|[of] p1a: Fire frog
+|
+|-heal|p1a: Fire frog|100/100|[from] item: Leftovers
+|-damage|p2a: :)|62/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641878193
+|move|p2a: :)|Soft-Boiled|p2a: :)
+|-heal|p2a: :)|100/100
+|move|p1a: Fire frog|Magma Storm|p2a: :)|[miss]
+|-miss|p1a: Fire frog|p2a: :)
+|
+|-damage|p2a: :)|88/100|[from] move: Magma Storm|[partiallytrapped]
+|-end|p1a: Fire frog|move: Taunt
+|upkeep
+|turn|10
+|
+|t:|1641878201
+|move|p2a: :)|Taunt|p1a: Fire frog
+|-start|p1a: Fire frog|move: Taunt
+|move|p1a: Fire frog|Magma Storm|p2a: :)
+|-damage|p2a: :)|61/100
+|
+|-damage|p2a: :)|49/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1641878211
+|move|p2a: :)|Soft-Boiled|p2a: :)
+|-heal|p2a: :)|99/100
+|move|p1a: Fire frog|Magma Storm|p2a: :)
+|-damage|p2a: :)|76/100
+|
+|-damage|p2a: :)|63/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1641878214
+|move|p2a: :)|Soft-Boiled|p2a: :)
+|-heal|p2a: :)|100/100
+|move|p1a: Fire frog|Earth Power|p2a: :)
+|-damage|p2a: :)|87/100
+|
+|-damage|p2a: :)|74/100|[from] move: Magma Storm|[partiallytrapped]
+|-end|p1a: Fire frog|move: Taunt
+|upkeep
+|turn|13
+|
+|t:|1641878228
+|move|p2a: :)|Taunt|p1a: Fire frog
+|-start|p1a: Fire frog|move: Taunt
+|move|p1a: Fire frog|Earth Power|p2a: :)
+|-damage|p2a: :)|60/100
+|
+|-end|p2a: :)|Magma Storm|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1641878236
+|move|p2a: :)|Cosmic Power|p2a: :)
+|-boost|p2a: :)|def|1
+|-boost|p2a: :)|spd|1
+|move|p1a: Fire frog|Magma Storm|p2a: :)
+|-damage|p2a: :)|41/100
+|-activate|p2a: :)|move: Magma Storm|[of] p1a: Fire frog
+|
+|-damage|p2a: :)|29/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1641878247
+|move|p2a: :)|Soft-Boiled|p2a: :)
+|-heal|p2a: :)|79/100
+|move|p1a: Fire frog|Earth Power|p2a: :)
+|-damage|p2a: :)|67/100
+|
+|-damage|p2a: :)|55/100|[from] move: Magma Storm|[partiallytrapped]
+|-end|p1a: Fire frog|move: Taunt
+|upkeep
+|turn|16
+|
+|t:|1641878257
+|move|p2a: :)|Taunt|p1a: Fire frog
+|-start|p1a: Fire frog|move: Taunt
+|move|p1a: Fire frog|Magma Storm|p2a: :)
+|-damage|p2a: :)|36/100
+|
+|-damage|p2a: :)|24/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1641878278
+|switch|p1a: Spikey boi|Toxapex, M|100/100
+|move|p2a: :)|Soft-Boiled|p2a: :)
+|-heal|p2a: :)|74/100
+|
+|-end|p2a: :)|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|18
+|
+|t:|1641878287
+|move|p2a: :)|Taunt|p1a: Spikey boi
+|-start|p1a: Spikey boi|move: Taunt
+|move|p1a: Spikey boi|Knock Off|p2a: :)
+|-supereffective|p2a: :)
+|-damage|p2a: :)|63/100
+|-enditem|p2a: :)|Weakness Policy
+|-boost|p2a: :)|atk|2|[from] item: Weakness Policy
+|-boost|p2a: :)|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|19
+|
+|t:|1641878294
+|move|p2a: :)|Stored Power|p1a: Spikey boi
+|-supereffective|p1a: Spikey boi
+|-damage|p1a: Spikey boi|0 fnt
+|faint|p1a: Spikey boi
+|
+|upkeep
+|
+|t:|1641878314
+|switch|p1a: Useless lol right|Cottonee, L1, F|75/100
+|turn|20
+|
+|t:|1641878333
+|move|p1a: Useless lol right|Substitute|p1a: Useless lol right
+|-start|p1a: Useless lol right|Substitute
+|-damage|p1a: Useless lol right|50/100
+|move|p2a: :)|Stored Power|p1a: Useless lol right
+|-end|p1a: Useless lol right|Substitute
+|
+|upkeep
+|turn|21
+|
+|t:|1641878341
+|move|p1a: Useless lol right|Substitute|p1a: Useless lol right
+|-start|p1a: Useless lol right|Substitute
+|-damage|p1a: Useless lol right|25/100
+|move|p2a: :)|Taunt|p1a: Useless lol right
+|-start|p1a: Useless lol right|move: Taunt
+|
+|upkeep
+|turn|22
+|
+|t:|1641878349
+|move|p2a: :)|Stored Power|p1a: Useless lol right
+|-end|p1a: Useless lol right|Substitute
+|move|p1a: Useless lol right|Endeavor|p2a: :)
+|-damage|p2a: :)|1/100
+|
+|upkeep
+|turn|23
+|c|☆insania test v2|sheit
+|
+|t:|1641878362
+|switch|p1a: Fire frog|Heatran, M|100/100
+|move|p2a: :)|Stored Power|p1a: Fire frog
+|-resisted|p1a: Fire frog
+|-damage|p1a: Fire frog|62/100
+|
+|-heal|p1a: Fire frog|68/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641878369
+|move|p2a: :)|Soft-Boiled|p2a: :)
+|-heal|p2a: :)|51/100
+|move|p1a: Fire frog|Magma Storm|p2a: :)
+|-damage|p2a: :)|34/100
+|-activate|p2a: :)|move: Magma Storm|[of] p1a: Fire frog
+|
+|-heal|p1a: Fire frog|74/100|[from] item: Leftovers
+|-damage|p2a: :)|22/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|25
+|
+|t:|1641878379
+|move|p2a: :)|Soft-Boiled|p2a: :)
+|-heal|p2a: :)|72/100
+|move|p1a: Fire frog|Taunt|p2a: :)
+|-start|p2a: :)|move: Taunt
+|
+|-heal|p1a: Fire frog|81/100|[from] item: Leftovers
+|-damage|p2a: :)|59/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|26
+|
+|t:|1641878395
+|move|p2a: :)|Stored Power|p1a: Fire frog
+|-resisted|p1a: Fire frog
+|-damage|p1a: Fire frog|43/100
+|move|p1a: Fire frog|Toxic|p2a: :)
+|-status|p2a: :)|tox
+|-activate|p2a: :)|ability: Synchronize
+|-immune|p1a: Fire frog
+|
+|-heal|p1a: Fire frog|49/100|[from] item: Leftovers
+|-damage|p2a: :)|53/100 tox|[from] psn
+|-damage|p2a: :)|41/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|27
+|c|☆insania test v2|u got me
+|
+|t:|1641878410
+|move|p2a: :)|Stored Power|p1a: Fire frog
+|-resisted|p1a: Fire frog
+|-damage|p1a: Fire frog|10/100
+|move|p1a: Fire frog|Magma Storm|p2a: :)|[miss]
+|-miss|p1a: Fire frog|p2a: :)
+|
+|-heal|p1a: Fire frog|16/100|[from] item: Leftovers
+|-damage|p2a: :)|28/100 tox|[from] psn
+|-damage|p2a: :)|16/100 tox|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|28
+|
+|t:|1641878423
+|move|p2a: :)|Stored Power|p1a: Fire frog
+|-resisted|p1a: Fire frog
+|-damage|p1a: Fire frog|0 fnt
+|faint|p1a: Fire frog
+|
+|-damage|p2a: :)|0 fnt|[from] psn
+|faint|p2a: :)
+|upkeep
+|
+|t:|1641878431
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|switch|p1a: Gay rock|Pyukumuku, F|100/100
+|turn|29
+|
+|t:|1641878449
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Gay rock|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|
+|upkeep
+|turn|30
+|
+|t:|1641878462
+|switch|p1a: Useless lol right|Cottonee, L1, F|25/100
+|move|p2a: Clefable|Trick|p1a: Useless lol right
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Useless lol right
+|-item|p1a: Useless lol right|Choice Scarf|[from] move: Trick
+|-item|p2a: Clefable|Focus Sash|[from] move: Trick
+|
+|upkeep
+|turn|31
+|
+|t:|1641878472
+|switch|p2a: no u|Ditto|100/100
+|-transform|p2a: no u|p1a: Useless lol right|[from] ability: Imposter
+|move|p1a: Useless lol right|Encore||[still]
+|-fail|p1a: Useless lol right
+|
+|upkeep
+|turn|32
+|
+|t:|1641878491
+|move|p2a: no u|Leech Seed|p1a: Useless lol right
+|-immune|p1a: Useless lol right
+|move|p1a: Useless lol right|Encore|p2a: no u
+|-start|p2a: no u|Encore
+|
+|upkeep
+|turn|33
+|
+|t:|1641878500
+|move|p2a: no u|Leech Seed|p1a: Useless lol right
+|-immune|p1a: Useless lol right
+|move|p1a: Useless lol right|Encore||[still]
+|-fail|p1a: Useless lol right
+|
+|upkeep
+|turn|34
+|
+|t:|1641878509
+|switch|p1a: Nurse joy|Chansey, F|100/100
+|move|p2a: no u|Leech Seed|p1a: Nurse joy
+|-start|p1a: Nurse joy|move: Leech Seed
+|
+|-damage|p1a: Nurse joy|88/100|[from] Leech Seed|[of] p2a: no u
+|upkeep
+|turn|35
+|
+|t:|1641878531
+|switch|p2a: Clefable|Clefable, M|100/100 tox
+|move|p1a: Nurse joy|Seismic Toss|p2a: Clefable
+|-damage|p2a: Clefable|75/100 tox
+|
+|-damage|p1a: Nurse joy|76/100|[from] Leech Seed|[of] p2a: Clefable
+|-heal|p2a: Clefable|97/100 tox|[silent]
+|upkeep
+|turn|36
+|
+|t:|1641878541
+|switch|p1a: Brib|Corviknight, M|100/100
+|-ability|p1a: Brib|Pressure
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|37
+|
+|t:|1641878549
+|move|p1a: Brib|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|62/100 tox
+|cant|p2a: Clefable|flinch
+|
+|upkeep
+|turn|38
+|
+|t:|1641878553
+|move|p1a: Brib|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|24/100 tox
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|74/100 tox
+|
+|upkeep
+|turn|39
+|
+|t:|1641878558
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|move|p1a: Brib|Iron Head|p2a: Blacephalon
+|-resisted|p2a: Blacephalon
+|-damage|p2a: Blacephalon|72/100
+|
+|upkeep
+|turn|40
+|
+|t:|1641878567
+|switch|p1a: Gay rock|Pyukumuku, F|100/100
+|move|p2a: Blacephalon|Trick|p1a: Gay rock
+|-activate|p2a: Blacephalon|move: Trick|[of] p1a: Gay rock
+|-item|p1a: Gay rock|Choice Scarf|[from] move: Trick
+|-item|p2a: Blacephalon|Leftovers|[from] move: Trick
+|
+|-heal|p2a: Blacephalon|78/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641878577
+|move|p2a: Blacephalon|Substitute|p2a: Blacephalon
+|-start|p2a: Blacephalon|Substitute
+|-damage|p2a: Blacephalon|53/100
+|move|p1a: Gay rock|Toxic||[still]
+|-fail|p1a: Gay rock
+|
+|-heal|p2a: Blacephalon|59/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641878586
+|switch|p1a: Nurse joy|Chansey, F|76/100
+|move|p2a: Blacephalon|Flamethrower|p1a: Nurse joy
+|-damage|p1a: Nurse joy|60/100
+|
+|-heal|p2a: Blacephalon|65/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1641878600
+|switch|p1a: Brib|Corviknight, M|100/100
+|-ability|p1a: Brib|Pressure
+|move|p2a: Blacephalon|Flamethrower|p1a: Brib
+|-supereffective|p1a: Brib
+|-damage|p1a: Brib|0 fnt
+|faint|p1a: Brib
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|-heal|p2a: Blacephalon|71/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641878609
+|switch|p1a: Gay rock|Pyukumuku, F|100/100
+|turn|44
+|
+|t:|1641878614
+|move|p2a: Blacephalon|Shadow Ball|p1a: Gay rock
+|-damage|p1a: Gay rock|59/100
+|move|p1a: Gay rock|Block||[still]
+|-fail|p1a: Gay rock
+|
+|-heal|p2a: Blacephalon|77/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1641878621
+|switch|p1a: Useless lol right|Cottonee, L1, F|25/100
+|move|p2a: Blacephalon|Shadow Ball|p1a: Useless lol right
+|-crit|p1a: Useless lol right
+|-damage|p1a: Useless lol right|0 fnt
+|faint|p1a: Useless lol right
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|-heal|p2a: Blacephalon|83/100|[from] item: Leftovers
+|upkeep
+|-message|Batsoup123 forfeited.
+|
+|win|insania test v2
+|raw|Batsoup123's rating: 1167 &rarr; <strong>1138</strong><br />(-29 for losing)
+|raw|insania test v2's rating: 1114 &rarr; <strong>1143</strong><br />(+29 for winning)
+|l|☆Batsoup123

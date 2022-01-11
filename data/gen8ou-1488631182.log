@@ -1,0 +1,239 @@
+|j|☆TerryIV
+|j|☆Lanterns98
+|t:|1641792498
+|gametype|singles
+|player|p1|TerryIV|dancer|1163
+|player|p2|Lanterns98|byron|1151
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Garchomp, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Melmetal|
+|poke|p1|Volcarona, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Goodra, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Mamoswine, F|
+|poke|p2|Blissey, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Blacephalon|
+|teampreview
+|
+|t:|1641792518
+|start
+|switch|p1a: Garchomp|Garchomp, F, shiny|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Lanterns98)
+|
+|t:|1641792551
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Landorus|U-turn|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|87/100
+|inactive|Lanterns98 has 120 seconds left.
+|
+|t:|1641792610
+|switch|p2a: Dragonite|Dragonite, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641792619
+|move|p1a: Urshifu|Surging Strikes|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|95/100
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|83/100
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|72/100
+|-hitcount|p2a: Dragonite|3
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|3
+|inactive|Lanterns98 has 90 seconds left.
+|
+|t:|1641792667
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|21/100
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-hitcount|p1: Urshifu|2
+|
+|upkeep
+|
+|t:|1641792678
+|switch|p1a: Garchomp|Garchomp, F, shiny|100/100
+|turn|4
+|
+|t:|1641792682
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Garchomp
+|-damage|p1a: Garchomp|62/100
+|-damage|p2a: Dragonite|60/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p1a: Garchomp|25/100
+|-damage|p2a: Dragonite|47/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-hitcount|p1a: Garchomp|2
+|move|p1a: Garchomp|Draco Meteor|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-unboost|p1a: Garchomp|spa|2
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641792706
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|5
+|
+|t:|1641792713
+|move|p2a: Landorus|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Landorus|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Assault Vest|[from] move: Knock Off|[of] p2a: Landorus
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641792726
+|switch|p1a: Mew|Mew, shiny|100/100
+|turn|6
+|inactive|Lanterns98 has 90 seconds left.
+|inactive|Lanterns98 has 60 seconds left.
+|
+|t:|1641792768
+|move|p2a: Landorus|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|54/100
+|-enditem|p1a: Mew|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Mew|Bulk Up|p1a: Mew
+|-boost|p1a: Mew|atk|1
+|-boost|p1a: Mew|def|1
+|
+|upkeep
+|turn|7
+|inactive|Lanterns98 has 60 seconds left.
+|
+|t:|1641792776
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|100/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|upkeep
+|turn|8
+|
+|t:|1641792781
+|move|p2a: Blacephalon|Dark Pulse|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|49/100
+|move|p1a: Mew|Calm Mind|p1a: Mew
+|-boost|p1a: Mew|spa|1
+|-boost|p1a: Mew|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641792787
+|move|p2a: Blacephalon|Dark Pulse|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|16/100
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|66/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1641792793
+|move|p2a: Blacephalon|Dark Pulse|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|31/100
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|81/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1641792799
+|move|p2a: Blacephalon|Dark Pulse|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|45/100
+|cant|p1a: Mew|flinch
+|
+|upkeep
+|turn|12
+|
+|t:|1641792804
+|move|p2a: Blacephalon|Dark Pulse|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|6/100
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|56/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|upkeep
+|turn|13
+|
+|t:|1641792811
+|move|p2a: Blacephalon|Dark Pulse|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|23/100
+|cant|p1a: Mew|flinch
+|
+|upkeep
+|turn|14
+|
+|t:|1641792834
+|move|p2a: Blacephalon|Dark Pulse|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641792842
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|15
+|
+|t:|1641792844
+|move|p2a: Blacephalon|Dark Pulse|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|19/100
+|cant|p1a: Dragapult|flinch
+|
+|upkeep
+|turn|16
+|inactive|Lanterns98 has 120 seconds left.
+|-message|TerryIV forfeited.
+|
+|win|Lanterns98
+|raw|TerryIV's rating: 1163 &rarr; <strong>1135</strong><br />(-28 for losing)
+|raw|Lanterns98's rating: 1125 &rarr; <strong>1153</strong><br />(+28 for winning)
+|l|☆TerryIV

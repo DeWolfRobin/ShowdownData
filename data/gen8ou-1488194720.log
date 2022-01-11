@@ -1,0 +1,286 @@
+|j|☆kid who likes pkmn
+|j|☆DOGROO
+|t:|1641731764
+|gametype|singles
+|player|p1|kid who likes pkmn|red|1311
+|player|p2|DOGROO|ltsurge|1302
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Weavile, M|
+|poke|p1|Zapdos-Galar|
+|poke|p1|Swampert, F|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Kartana|
+|poke|p2|Melmetal|
+|poke|p2|Polteageist|
+|poke|p2|Azumarill, F|
+|poke|p2|Togekiss, F|
+|poke|p2|Nidoking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DOGROO)
+|c|☆kid who likes pkmn|glhf
+|inactive|DOGROO has 120 seconds left.
+|
+|t:|1641731796
+|start
+|switch|p1a: Swampert|Swampert, F|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|1
+|
+|t:|1641731801
+|move|p1a: Swampert|Stealth Rock|p2a: Melmetal
+|-sidestart|p2: DOGROO|move: Stealth Rock
+|move|p2a: Melmetal|Double Iron Bash|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|82/100
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|62/100
+|-hitcount|p1a: Swampert|2
+|
+|-heal|p1a: Swampert|68/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641731806
+|move|p1a: Swampert|Earthquake|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|58/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|48/100
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|27/100
+|-hitcount|p1a: Swampert|2
+|
+|-heal|p1a: Swampert|34/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|-activate|p2a: Melmetal|item: Quick Claw
+|
+|t:|1641731814
+|move|p2a: Melmetal|Double Iron Bash|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|13/100
+|-resisted|p1a: Swampert
+|-crit|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|-hitcount|p1: Swampert|2
+|
+|upkeep
+|
+|t:|1641731826
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|4
+|
+|t:|1641731832
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Spikes|p2a: Kartana
+|-sidestart|p2: DOGROO|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1641731861
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|move|p2a: Kartana|Swords Dance|p2a: Kartana
+|-boost|p2a: Kartana|atk|2
+|
+|upkeep
+|turn|6
+|inactive|kid who likes pkmn has 120 seconds left.
+|
+|t:|1641731876
+|move|p2a: Kartana|Psycho Cut|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641731879
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|7
+|
+|t:|1641731885
+|switch|p2a: Melmetal|Melmetal|58/100
+|-damage|p2a: Melmetal|46/100|[from] Spikes
+|-damage|p2a: Melmetal|40/100|[from] Stealth Rock
+|move|p1a: Dragapult|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641731891
+|switch|p2a: Azumarill|Azumarill, F|100/100
+|-damage|p2a: Azumarill|88/100|[from] Stealth Rock
+|-damage|p2a: Azumarill|76/100|[from] Spikes
+|turn|8
+|
+|t:|1641731900
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|26/100
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|51/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|9
+|
+|t:|1641731904
+|move|p2a: Azumarill|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|12/100
+|-damage|p2a: Azumarill|39/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Azumarill|22/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p2a: Azumarill
+|move|p1a: Ferrothorn|Power Whip|p2a: Azumarill|[miss]
+|-miss|p1a: Ferrothorn|p2a: Azumarill
+|
+|upkeep
+|turn|10
+|
+|t:|1641731912
+|move|p2a: Azumarill|Aqua Jet|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Azumarill|10/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641731919
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|11
+|
+|t:|1641731925
+|move|p1a: Weavile|Ice Shard|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1641731929
+|switch|p2a: Kartana|Kartana|94/100
+|-damage|p2a: Kartana|82/100|[from] Spikes
+|-damage|p2a: Kartana|76/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641731933
+|move|p1a: Weavile|Knock Off|p2a: Kartana
+|-damage|p2a: Kartana|24/100
+|-enditem|p2a: Kartana|Razor Claw|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Kartana|Leaf Blade|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641731938
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|13
+|
+|t:|1641731943
+|move|p1a: Dragapult|Shadow Ball|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641731945
+|switch|p2a: Togekiss|Togekiss, F|100/100
+|-damage|p2a: Togekiss|76/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641731947
+|move|p2a: Togekiss|Air Slash|p1a: Dragapult|[miss]
+|-miss|p2a: Togekiss|p1a: Dragapult
+|move|p1a: Dragapult|Shadow Ball|p2a: Togekiss
+|-damage|p2a: Togekiss|21/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641731952
+|move|p2a: Togekiss|Air Slash|p1a: Dragapult
+|-damage|p1a: Dragapult|48/100
+|cant|p1a: Dragapult|flinch
+|
+|upkeep
+|turn|16
+|
+|t:|1641731956
+|move|p2a: Togekiss|Air Slash|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641731958
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|17
+|
+|t:|1641731963
+|move|p2a: Togekiss|Air Slash|p1a: Garchomp
+|-damage|p1a: Garchomp|57/100
+|move|p1a: Garchomp|Fire Fang|p2a: Togekiss
+|-damage|p2a: Togekiss|0 fnt
+|faint|p2a: Togekiss
+|
+|-heal|p1a: Garchomp|64/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641731968
+|switch|p2a: Polteageist|Polteageist|100/100
+|-damage|p2a: Polteageist|88/100|[from] Spikes
+|-damage|p2a: Polteageist|76/100|[from] Stealth Rock
+|turn|18
+|c|☆kid who likes pkmn|scarf togekiss?
+|
+|t:|1641731978
+|move|p1a: Garchomp|Earthquake|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|-heal|p1a: Garchomp|70/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641731982
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|-damage|p2a: Nidoking|95/100|[from] Stealth Rock
+|-damage|p2a: Nidoking|82/100|[from] Spikes
+|turn|19
+|
+|t:|1641731983
+|move|p1a: Garchomp|Earthquake|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|0 fnt
+|faint|p2a: Nidoking
+|
+|win|kid who likes pkmn
+|raw|kid who likes pkmn's rating: 1311 &rarr; <strong>1330</strong><br />(+19 for winning)
+|raw|DOGROO's rating: 1302 &rarr; <strong>1283</strong><br />(-19 for losing)
+|c|☆kid who likes pkmn|gg
+|l|☆DOGROO

@@ -1,0 +1,165 @@
+|j|☆AvatarAang15
+|j|☆Tunny
+|t:|1641709214
+|gametype|singles
+|player|p1|AvatarAang15|169|1283
+|player|p2|Tunny|benga|1317
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Tapu Koko|
+|poke|p1|Sceptile, F|
+|poke|p1|Nidoking, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Clefable, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Heatran, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Rillaboom, F|
+|poke|p2|Zeraora|
+|teampreview
+|
+|t:|1641709246
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|
+|t:|1641709255
+|move|p1a: Tapu Koko|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|76/100
+|
+|t:|1641709276
+|switch|p1a: Regieleki|Regieleki|100/100|[from]move: Volt Switch
+|move|p2a: Heatran|Earth Power|p1a: Regieleki
+|-supereffective|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|-heal|p2a: Heatran|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641709299
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|turn|2
+|
+|t:|1641709309
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Nidoking|atk|1
+|move|p1a: Nidoking|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641709320
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|3
+|
+|t:|1641709325
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Tapu Fini|Scald|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|57/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641709334
+|switch|p2a: Heatran|Heatran, F|82/100
+|move|p1a: Tapu Koko|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|54/100
+|
+|t:|1641709340
+|switch|p1a: Nidoking|Nidoking, M|100/100|[from]move: Volt Switch
+|
+|-heal|p2a: Heatran|60/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641709352
+|move|p1a: Nidoking|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641709358
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|6
+|
+|t:|1641709367
+|switch|p1a: Tapu Koko|Tapu Koko|57/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Tapu Fini|Scald|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|15/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641709375
+|move|p2a: Tapu Fini|Scald|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641709384
+|switch|p1a: Sceptile|Sceptile, F|100/100
+|-enditem|p1a: Sceptile|Electric Seed
+|-boost|p1a: Sceptile|def|1|[from] item: Electric Seed
+|turn|8
+|
+|t:|1641709401
+|switch|p2a: Rillaboom|Rillaboom, F, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Sceptile|Swords Dance|p1a: Sceptile
+|-boost|p1a: Sceptile|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641709410
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Sceptile|Acrobatics|p2a: Dragapult
+|-damage|p2a: Dragapult|14/100
+|
+|-heal|p2a: Dragapult|20/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641709419
+|move|p1a: Sceptile|Acrobatics|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|c|☆Tunny|wait wut
+|c|☆Tunny|i forgot
+|c|☆Tunny|sceptile gets unburden
+|c|☆Tunny|rip
+|c|☆Tunny|gg
+|c|☆AvatarAang15|Gg
+|-message|Tunny forfeited.
+|
+|win|AvatarAang15
+|raw|AvatarAang15's rating: 1283 &rarr; <strong>1310</strong><br />(+27 for winning)
+|raw|Tunny's rating: 1317 &rarr; <strong>1295</strong><br />(-22 for losing)

@@ -1,0 +1,623 @@
+|j|☆Dandilocks
+|j|☆KingEmpy
+|t:|1641854833
+|gametype|singles
+|player|p1|Dandilocks|pokefanf-gen4|1174
+|player|p2|KingEmpy|169|1171
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Sylveon, F|
+|poke|p1|Mudsdale, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Sharpedo, M|
+|poke|p1|Ninetales, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Latios, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Gengar, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Swampert, M|
+|teampreview
+|
+|t:|1641854844
+|start
+|switch|p1a: Clear|Ninetales, F, shiny|100/100
+|switch|p2a: Swampert|Swampert, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Clear
+|turn|1
+|
+|t:|1641854853
+|move|p1a: Clear|Solar Beam||[still]
+|-prepare|p1a: Clear|Solar Beam
+|-anim|p1a: Clear|Solar Beam|p2a: Swampert
+|-supereffective|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641854865
+|switch|p2a: Gengar|Gengar, F, shiny|100/100
+|turn|2
+|
+|t:|1641854873
+|switch|p1a: Lenny|Corviknight, M, shiny|100/100
+|-ability|p1a: Lenny|Pressure
+|move|p2a: Gengar|Shadow Ball|p1a: Lenny
+|-damage|p1a: Lenny|62/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641854882
+|switch|p1a: Mercy|Sylveon, F|100/100
+|move|p2a: Gengar|Shadow Ball|p1a: Mercy
+|-damage|p1a: Mercy|78/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641854890
+|move|p1a: Mercy|Protect|p1a: Mercy
+|-singleturn|p1a: Mercy|Protect
+|move|p2a: Gengar|Sludge Wave|p1a: Mercy
+|-activate|p1a: Mercy|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641854898
+|switch|p1a: Lenny|Corviknight, M, shiny|62/100
+|-ability|p1a: Lenny|Pressure
+|move|p2a: Gengar|Sludge Wave|p1a: Lenny
+|-immune|p1a: Lenny
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641854907
+|move|p2a: Gengar|Shadow Ball|p1a: Lenny
+|-damage|p1a: Lenny|19/100
+|-unboost|p1a: Lenny|spd|1
+|move|p1a: Lenny|U-turn|p2a: Gengar
+|-resisted|p2a: Gengar
+|-damage|p2a: Gengar|92/100
+|
+|t:|1641854909
+|switch|p1a: Gambit|Sharpedo, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1641854921
+|move|p1a: Gambit|Protect|p1a: Gambit
+|-singleturn|p1a: Gambit|Protect
+|move|p2a: Gengar|Destiny Bond|p2a: Gengar
+|-singlemove|p2a: Gengar|Destiny Bond
+|
+|-ability|p1a: Gambit|Speed Boost|boost
+|-boost|p1a: Gambit|spe|1
+|upkeep
+|turn|8
+|
+|t:|1641854932
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|move|p1a: Gambit|Protect||[still]
+|-fail|p1a: Gambit
+|
+|-ability|p1a: Gambit|Speed Boost|boost
+|-boost|p1a: Gambit|spe|1
+|upkeep
+|turn|9
+|
+|t:|1641854940
+|switch|p1a: Clear|Ninetales, F, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Clear
+|move|p2a: Ferrothorn|Leech Seed|p1a: Clear
+|-start|p1a: Clear|move: Leech Seed
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Clear|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|10
+|
+|t:|1641854955
+|switch|p2a: Latios|Latios, M, shiny|100/100
+|move|p1a: Clear|Weather Ball|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|71/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Clear|76/100|[from] Leech Seed|[of] p2a: Latios
+|-heal|p2a: Latios|82/100|[silent]
+|upkeep
+|turn|11
+|
+|t:|1641854979
+|switch|p1a: Mercy|Sylveon, F|78/100
+|move|p2a: Latios|Dragon Pulse|p1a: Mercy
+|-immune|p1a: Mercy
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641854987
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|move|p1a: Mercy|Wish|p1a: Mercy
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641854994
+|switch|p1a: Lenny|Corviknight, M, shiny|19/100
+|-ability|p1a: Lenny|Pressure
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Lenny
+|-sidestart|p1: Dandilocks|move: Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Lenny|68/100|[from] move: Wish|[wisher] Mercy
+|upkeep
+|turn|14
+|
+|t:|1641855006
+|move|p1a: Lenny|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Dandilocks|Stealth Rock|[from] move: Defog|[of] p1a: Lenny
+|move|p2a: Ferrothorn|Leech Seed|p1a: Lenny|[miss]
+|-miss|p2a: Ferrothorn|p1a: Lenny
+|
+|upkeep
+|turn|15
+|
+|t:|1641855013
+|switch|p1a: Dre|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Dre
+|move|p2a: Ferrothorn|Leech Seed|p1a: Dre
+|-immune|p1a: Dre
+|
+|upkeep
+|turn|16
+|
+|t:|1641855025
+|move|p1a: Dre|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|80/100
+|-damage|p1a: Dre|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Dre|72/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p1a: Dre
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Dre
+|-sidestart|p1: Dandilocks|move: Stealth Rock
+|
+|-heal|p1a: Dre|78/100|[from] Grassy Terrain
+|-heal|p2a: Ferrothorn|86/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KingEmpy)
+|
+|t:|1641855075
+|switch|p2a: Volcarona|Volcarona, F, shiny|100/100
+|move|p1a: Dre|Swords Dance|p1a: Dre
+|-boost|p1a: Dre|atk|2
+|
+|-heal|p1a: Dre|84/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1641855084
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Dre|Knock Off|p2a: Volcarona
+|-damage|p2a: Volcarona|30/100
+|-enditem|p2a: Volcarona|Leftovers|[from] move: Knock Off|[of] p1a: Dre
+|
+|-heal|p2a: Volcarona|36/100|[from] Grassy Terrain
+|-heal|p1a: Dre|90/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1641855106
+|move|p2a: Volcarona|Bug Buzz|p1a: Dre
+|-supereffective|p1a: Dre
+|-damage|p1a: Dre|0 fnt
+|faint|p1a: Dre
+|
+|-heal|p2a: Volcarona|42/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641855109
+|switch|p1a: Banshee|Mudsdale, F|100/100
+|-damage|p1a: Banshee|94/100|[from] Stealth Rock
+|turn|20
+|c|☆KingEmpy|!weak mudsdale
+|c| KingEmpy|/raw <div class="infobox">Mudsdale (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Grass, Ice, Water<br /><span class="message-effect-resist">Resistances</span>: Poison, Rock<br /><span class="message-effect-immune">Immunities</span>: Electric, Sandstorm damage</div>
+|
+|t:|1641855133
+|switch|p2a: Latios|Latios, M, shiny|82/100
+|move|p1a: Banshee|Rock Slide|p2a: Latios
+|-damage|p2a: Latios|55/100
+|
+|-heal|p1a: Banshee|100/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641855150
+|switch|p1a: Mercy|Sylveon, F|78/100
+|-damage|p1a: Mercy|65/100|[from] Stealth Rock
+|move|p2a: Latios|Psychic|p1a: Mercy
+|-damage|p1a: Mercy|38/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641855173
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|86/100
+|move|p1a: Mercy|Wish|p1a: Mercy
+|
+|upkeep
+|turn|23
+|
+|t:|1641855182
+|switch|p2a: Volcarona|Volcarona, F, shiny|42/100
+|move|p1a: Mercy|Protect||[still]
+|-fail|p1a: Mercy
+|
+|-heal|p1a: Mercy|88/100|[from] move: Wish|[wisher] Mercy
+|upkeep
+|turn|24
+|
+|t:|1641855191
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|92/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Mercy|Wish|p1a: Mercy
+|
+|upkeep
+|turn|25
+|
+|t:|1641855206
+|switch|p1a: Banshee|Mudsdale, F|100/100
+|-damage|p1a: Banshee|94/100|[from] Stealth Rock
+|move|p2a: Volcarona|Flamethrower|p1a: Banshee
+|-damage|p1a: Banshee|57/100
+|-status|p1a: Banshee|brn
+|-ability|p1a: Banshee|Stamina|boost
+|-boost|p1a: Banshee|def|1
+|
+|-heal|p1a: Banshee|100/100 brn|[from] move: Wish|[wisher] Mercy
+|-damage|p1a: Banshee|94/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641855225
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|86/100
+|move|p1a: Banshee|Toxic|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|-heal|p1a: Banshee|100/100 brn|[from] item: Leftovers
+|-damage|p1a: Banshee|94/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641855234
+|switch|p1a: Mercy|Sylveon, F|88/100
+|-damage|p1a: Mercy|76/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Leech Seed|p1a: Mercy
+|-start|p1a: Mercy|move: Leech Seed
+|
+|-damage|p1a: Mercy|63/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|99/100|[silent]
+|upkeep
+|turn|28
+|inactive|Dandilocks has 120 seconds left.
+|
+|t:|1641855276
+|move|p1a: Mercy|Heal Bell|p1a: Mercy
+|-activate|p1a: Mercy|move: Heal Bell
+|-curestatus|p1: Banshee|brn|[msg]
+|move|p2a: Ferrothorn|Spikes|p1a: Mercy
+|-sidestart|p1: Dandilocks|Spikes
+|
+|-damage|p1a: Mercy|51/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|29
+|
+|t:|1641855286
+|move|p1a: Mercy|Wish|p1a: Mercy
+|move|p2a: Ferrothorn|Spikes|p1a: Mercy
+|-sidestart|p1: Dandilocks|Spikes
+|
+|-damage|p1a: Mercy|39/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|30
+|inactive|Dandilocks has 120 seconds left.
+|inactive|Dandilocks has 90 seconds left.
+|
+|t:|1641855342
+|switch|p2a: Volcarona|Volcarona, F, shiny|92/100
+|move|p1a: Mercy|Protect||[still]
+|-fail|p1a: Mercy
+|
+|-heal|p1a: Mercy|89/100|[from] move: Wish|[wisher] Mercy
+|-damage|p1a: Mercy|76/100|[from] Leech Seed|[of] p2a: Volcarona
+|-heal|p2a: Volcarona|100/100|[silent]
+|upkeep
+|turn|31
+|c|☆KingEmpy|!weak sylveon
+|c| KingEmpy|/raw <div class="infobox">Sylveon (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Poison, Steel<br /><span class="message-effect-resist">Resistances</span>: Bug, Dark, Fighting<br /><span class="message-effect-immune">Immunities</span>: Dragon</div>
+|
+|t:|1641855368
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Mercy|Wish|p1a: Mercy
+|
+|-damage|p1a: Mercy|64/100|[from] Leech Seed|[of] p2a: Volcarona
+|upkeep
+|turn|32
+|
+|t:|1641855378
+|switch|p1a: Banshee|Mudsdale, F|94/100
+|-damage|p1a: Banshee|78/100|[from] Spikes
+|-damage|p1a: Banshee|71/100|[from] Stealth Rock
+|move|p2a: Volcarona|Flamethrower|p1a: Banshee
+|-damage|p1a: Banshee|20/100
+|-ability|p1a: Banshee|Stamina|boost
+|-boost|p1a: Banshee|def|1
+|
+|-heal|p1a: Banshee|69/100|[from] move: Wish|[wisher] Mercy
+|-heal|p1a: Banshee|75/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|inactive|KingEmpy has 120 seconds left.
+|
+|t:|1641855395
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|switch|p1a: Lenny|Corviknight, M, shiny|68/100
+|-damage|p1a: Lenny|56/100|[from] Stealth Rock
+|-ability|p1a: Lenny|Pressure
+|
+|upkeep
+|turn|34
+|inactive|KingEmpy has 120 seconds left.
+|
+|t:|1641855407
+|move|p1a: Lenny|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Dandilocks|Spikes|[from] move: Defog|[of] p1a: Lenny
+|-sideend|p1: Dandilocks|Stealth Rock|[from] move: Defog|[of] p1a: Lenny
+|move|p2a: Ferrothorn|Leech Seed|p1a: Lenny
+|-start|p1a: Lenny|move: Leech Seed
+|
+|-damage|p1a: Lenny|43/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|35
+|
+|t:|1641855418
+|switch|p1a: Clear|Ninetales, F, shiny|76/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Clear
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Clear
+|-sidestart|p1: Dandilocks|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|36
+|
+|t:|1641855430
+|switch|p2a: Volcarona|Volcarona, F, shiny|100/100
+|move|p1a: Clear|Nasty Plot|p1a: Clear
+|-boost|p1a: Clear|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|37
+|
+|t:|1641855438
+|move|p1a: Clear|Weather Ball|p2a: Volcarona
+|-damage|p2a: Volcarona|7/100
+|move|p2a: Volcarona|Bug Buzz|p1a: Clear
+|-resisted|p1a: Clear
+|-damage|p1a: Clear|52/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|38
+|
+|t:|1641855453
+|switch|p2a: Latios|Latios, M, shiny|55/100
+|move|p1a: Clear|Weather Ball|p2a: Latios
+|-resisted|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641855464
+|switch|p2a: Gengar|Gengar, F, shiny|92/100
+|turn|39
+|
+|t:|1641855488
+|switch|p1a: Lenny|Corviknight, M, shiny|43/100
+|-damage|p1a: Lenny|31/100|[from] Stealth Rock
+|-ability|p1a: Lenny|Pressure
+|move|p2a: Gengar|Shadow Ball|p1a: Lenny
+|-damage|p1a: Lenny|0 fnt
+|faint|p1a: Lenny
+|
+|-weather|none
+|upkeep
+|inactive|Dandilocks has 120 seconds left.
+|
+|t:|1641855507
+|switch|p1a: Gambit|Sharpedo, M|100/100
+|-damage|p1a: Gambit|88/100|[from] Stealth Rock
+|turn|40
+|inactive|Dandilocks has 120 seconds left.
+|
+|t:|1641855515
+|move|p1a: Gambit|Protect|p1a: Gambit
+|-singleturn|p1a: Gambit|Protect
+|move|p2a: Gengar|Destiny Bond|p2a: Gengar
+|-singlemove|p2a: Gengar|Destiny Bond
+|
+|-ability|p1a: Gambit|Speed Boost|boost
+|-boost|p1a: Gambit|spe|1
+|upkeep
+|turn|41
+|
+|t:|1641855523
+|move|p2a: Gengar|Sucker Punch|p1a: Gambit
+|-resisted|p1a: Gambit
+|-damage|p1a: Gambit|74/100
+|move|p1a: Gambit|Crunch|p2a: Gengar
+|-supereffective|p2a: Gengar
+|-crit|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|-damage|p1a: Gambit|64/100|[from] item: Life Orb
+|
+|-ability|p1a: Gambit|Speed Boost|boost
+|-boost|p1a: Gambit|spe|1
+|upkeep
+|
+|t:|1641855535
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|turn|42
+|
+|t:|1641855553
+|switch|p1a: Mercy|Sylveon, F|64/100
+|-damage|p1a: Mercy|51/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Leech Seed|p1a: Mercy
+|-start|p1a: Mercy|move: Leech Seed
+|
+|-damage|p1a: Mercy|39/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|43
+|c|☆KingEmpy|Stop wishing
+|c|☆Dandilocks|Make me
+|
+|t:|1641855563
+|move|p1a: Mercy|Wish|p1a: Mercy
+|move|p2a: Ferrothorn|Spikes|p1a: Mercy
+|-sidestart|p1: Dandilocks|Spikes
+|
+|-damage|p1a: Mercy|26/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|44
+|c|☆KingEmpy|Kinda turning kinky now eh?
+|
+|t:|1641855580
+|move|p1a: Mercy|Protect|p1a: Mercy
+|-singleturn|p1a: Mercy|Protect
+|move|p2a: Ferrothorn|Spikes|p1a: Mercy
+|-sidestart|p1: Dandilocks|Spikes
+|
+|-heal|p1a: Mercy|76/100|[from] move: Wish|[wisher] Mercy
+|-damage|p1a: Mercy|64/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|45
+|
+|t:|1641855592
+|move|p1a: Mercy|Wish|p1a: Mercy
+|move|p2a: Ferrothorn|Leech Seed||[still]
+|-fail|p2a: Ferrothorn
+|
+|-damage|p1a: Mercy|52/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|46
+|c|☆Dandilocks|Not at all
+|
+|t:|1641855603
+|switch|p1a: Clear|Ninetales, F, shiny|52/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Clear
+|move|p2a: Ferrothorn|Leech Seed|p1a: Clear
+|-start|p1a: Clear|move: Leech Seed
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Clear|100/100|[from] move: Wish|[wisher] Mercy
+|-damage|p1a: Clear|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|47
+|c|☆KingEmpy|Oh shit
+|c|☆KingEmpy|Thought we had something going on
+|
+|t:|1641855631
+|move|p1a: Clear|Weather Ball|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641855639
+|switch|p2a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|48
+|
+|t:|1641855647
+|switch|p1a: Mercy|Sylveon, F|52/100
+|-damage|p1a: Mercy|35/100|[from] Spikes
+|-damage|p1a: Mercy|23/100|[from] Stealth Rock
+|move|p2a: Ninetales|Ice Beam|p1a: Mercy
+|-damage|p1a: Mercy|5/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Mercy|0 fnt|[from] Hail
+|faint|p1a: Mercy
+|upkeep
+|
+|t:|1641855649
+|switch|p1a: Clear|Ninetales, F, shiny|88/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Clear
+|turn|49
+|
+|t:|1641855663
+|move|p2a: Ninetales|Moonblast|p1a: Clear
+|-resisted|p1a: Clear
+|-damage|p1a: Clear|66/100
+|move|p1a: Clear|Weather Ball|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641855673
+|switch|p2a: Volcarona|Volcarona, F, shiny|7/100
+|turn|50
+|
+|t:|1641855685
+|move|p1a: Clear|Weather Ball|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|win|Dandilocks
+|raw|Dandilocks's rating: 1203 &rarr; <strong>1226</strong><br />(+23 for winning)
+|raw|KingEmpy's rating: 1171 &rarr; <strong>1148</strong><br />(-23 for losing)
+|c|☆KingEmpy|Gg
+|c|☆Dandilocks|That was fun

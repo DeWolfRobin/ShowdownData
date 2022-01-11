@@ -1,0 +1,308 @@
+|j|☆8jaggery
+|j|☆Lord Spink
+|t:|1641808005
+|gametype|singles
+|player|p1|8jaggery|265|1216
+|player|p2|Lord Spink|1|1133
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Heatran, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Clefable, F|
+|poke|p1|Blastoise, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Arcanine, M|
+|poke|p2|Talonflame, F|
+|poke|p2|Torkoal, F|
+|poke|p2|Victini|
+|poke|p2|Ninetales, F|
+|teampreview
+|
+|t:|1641808033
+|start
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|switch|p2a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|1
+|
+|t:|1641808041
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|move|p2a: Torkoal|Yawn|p1a: Blastoise
+|-start|p1a: Blastoise|move: Yawn|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641808065
+|move|p1a: Blastoise|Surf|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|39/100
+|move|p2a: Torkoal|Overheat|p1a: Blastoise
+|-resisted|p1a: Blastoise
+|-damage|p1a: Blastoise|67/100
+|-unboost|p2a: Torkoal|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Blastoise|move: Yawn|[silent]
+|-status|p1a: Blastoise|slp
+|upkeep
+|turn|3
+|
+|t:|1641808082
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|cant|p1a: Blastoise|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641808088
+|cant|p1a: Blastoise|slp
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Blastoise
+|-supereffective|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641808097
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|5
+|
+|t:|1641808112
+|switch|p2a: Talonflame|Talonflame, F, shiny|100/100
+|move|p1a: Heatran|Earth Power|p2a: Talonflame
+|-immune|p2a: Talonflame
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641808127
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Talonflame|Tailwind|p2a: Talonflame
+|-sidestart|p2: Lord Spink|move: Tailwind
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641808133
+|move|p2a: Talonflame|Brave Bird|p1a: Dragapult
+|-damage|p1a: Dragapult|35/100
+|-damage|p2a: Talonflame|78/100|[from] Recoil
+|move|p1a: Dragapult|Draco Meteor|p2a: Talonflame|[miss]
+|-miss|p1a: Dragapult|p2a: Talonflame
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641808142
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Talonflame|Brave Bird|p1a: Clefable
+|-damage|p1a: Clefable|48/100
+|-damage|p2a: Talonflame|55/100|[from] Recoil
+|
+|-weather|none
+|-heal|p1a: Clefable|55/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641808153
+|move|p2a: Talonflame|Brave Bird|p1a: Clefable
+|-damage|p1a: Clefable|7/100
+|-damage|p2a: Talonflame|34/100|[from] Recoil
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|57/100
+|
+|-heal|p1a: Clefable|63/100|[from] item: Leftovers
+|-sideend|p2: Lord Spink|move: Tailwind
+|upkeep
+|turn|10
+|
+|t:|1641808162
+|move|p2a: Talonflame|Tailwind|p2a: Talonflame
+|-sidestart|p2: Lord Spink|move: Tailwind
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641808178
+|switch|p2a: Torkoal|Torkoal, F|39/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Clefable|Psychic|p2a: Torkoal
+|-damage|p2a: Torkoal|19/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641808189
+|move|p1a: Clefable|Moonblast|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|6/100
+|move|p2a: Torkoal|Yawn|p1a: Clefable
+|-start|p1a: Clefable|move: Yawn|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641808197
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Torkoal|Overheat|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|-weather|SunnyDay|[upkeep]
+|-sideend|p2: Lord Spink|move: Tailwind
+|upkeep
+|turn|14
+|
+|t:|1641808207
+|move|p1a: Heatran|Flash Cannon|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641808214
+|switch|p2a: Blaziken|Blaziken, M, shiny|100/100
+|turn|15
+|
+|t:|1641808219
+|-end|p1a: Heatran|ability: Flash Fire|[silent]
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|move|p2a: Blaziken|Close Combat|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|49/100
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|16
+|
+|t:|1641808235
+|move|p2a: Blaziken|Close Combat|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|faint|p1a: Hawlucha
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641808243
+|switch|p1a: Clefable|Clefable, F|100/100
+|turn|17
+|
+|t:|1641808259
+|move|p2a: Blaziken|Flare Blitz|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-damage|p2a: Blaziken|57/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641808275
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|18
+|
+|t:|1641808282
+|move|p2a: Blaziken|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|-enditem|p1a: Heatran|Air Balloon
+|faint|p1a: Heatran
+|
+|-weather|none
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641808292
+|switch|p1a: Dragapult|Dragapult, F|35/100
+|turn|19
+|
+|t:|1641808296
+|move|p2a: Blaziken|Brave Bird|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Blaziken|45/100|[from] Recoil
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641808304
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|20
+|
+|t:|1641808308
+|move|p1a: Rillaboom|Grassy Glide|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1641808314
+|switch|p2a: Victini|Victini|100/100
+|turn|21
+|
+|t:|1641808324
+|move|p2a: Victini|V-create|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|faint|p1a: Rillaboom
+|
+|win|Lord Spink
+|raw|8jaggery's rating: 1216 &rarr; <strong>1185</strong><br />(-31 for losing)
+|raw|Lord Spink's rating: 1133 &rarr; <strong>1164</strong><br />(+31 for winning)
+|l|☆Lord Spink

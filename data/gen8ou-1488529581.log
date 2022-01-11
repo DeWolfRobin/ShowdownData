@@ -1,0 +1,81 @@
+|j|☆Monlyth29
+|j|☆Jtakuz
+|t:|1641777547
+|gametype|singles
+|player|p1|Monlyth29|cyrus|1125
+|player|p2|Jtakuz|101|1157
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Salamence, F|
+|poke|p1|Zoroark, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Metagross|
+|poke|p1|Aegislash, M|
+|poke|p1|Scizor, M|
+|poke|p2|Clefable, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1641777574
+|start
+|switch|p1a: Thundercross Split|Aegislash, M|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|
+|t:|1641777579
+|move|p1a: Thundercross Split|Flamethrower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|c|☆Monlyth29|PRANKED
+|c|☆Jtakuz|lmao good one
+|
+|t:|1641777598
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|2
+|
+|t:|1641777612
+|switch|p1a: Steely Dan|Metagross|100/100
+|move|p2a: Clefable|Teleport|p2a: Clefable
+|
+|t:|1641777626
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: Teleport
+|-ability|p2a: Landorus|Intimidate|boost
+|-fail|p1a: Steely Dan|unboost|[from] ability: Clear Body|[of] p1a: Steely Dan
+|
+|upkeep
+|turn|3
+|
+|t:|1641777639
+|move|p2a: Landorus|Earthquake|p1a: Steely Dan
+|-supereffective|p1a: Steely Dan
+|-damage|p1a: Steely Dan|22/100
+|move|p1a: Steely Dan|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|-message|Jtakuz forfeited.
+|
+|win|Monlyth29
+|raw|Monlyth29's rating: 1125 &rarr; <strong>1152</strong><br />(+27 for winning)
+|raw|Jtakuz's rating: 1157 &rarr; <strong>1130</strong><br />(-27 for losing)
+|l|☆Jtakuz

@@ -1,0 +1,391 @@
+|j|☆vader batman 5
+|j|☆greystaple
+|t:|1641861777
+|gametype|singles
+|player|p1|vader batman 5|teamaquabeta-gen3|1509
+|player|p2|greystaple|hilbert-wonderlauncher|1604
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scolipede, M|
+|poke|p1|Polteageist|
+|poke|p1|Butterfree, F|
+|poke|p1|Cloyster, M|
+|poke|p1|Turtonator, M|
+|poke|p1|Ribombee, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Tyranitar, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|c|☆vader batman 5|wooohoooo
+|
+|t:|1641861796
+|start
+|switch|p1a: Polteageist|Polteageist, shiny|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1641861800
+|move|p2a: Tapu Fini|Trick|p1a: Polteageist
+|-activate|p2a: Tapu Fini|move: Trick|[of] p1a: Polteageist
+|-item|p1a: Polteageist|Choice Scarf|[from] move: Trick
+|-item|p2a: Tapu Fini|Focus Sash|[from] move: Trick
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|
+|upkeep
+|turn|2
+|c|☆vader batman 5|putoooo
+|c|☆greystaple|understandable reaction
+|
+|t:|1641861822
+|switch|p1a: Scolipede|Scolipede, M, shiny|100/100
+|move|p2a: Tapu Fini|Taunt|p1a: Scolipede
+|-start|p1a: Scolipede|move: Taunt
+|
+|upkeep
+|turn|3
+|
+|t:|1641861831
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Scolipede|Poison Jab|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|83/100
+|-damage|p1a: Scolipede|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|-heal|p2a: Garchomp|90/100|[from] item: Leftovers
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|turn|4
+|
+|t:|1641861835
+|move|p1a: Scolipede|Megahorn|p2a: Garchomp
+|-damage|p2a: Garchomp|44/100
+|-damage|p1a: Scolipede|76/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|move|p2a: Garchomp|Stealth Rock|p1a: Scolipede
+|-sidestart|p1: vader batman 5|move: Stealth Rock
+|
+|-heal|p2a: Garchomp|50/100|[from] item: Leftovers
+|-end|p1a: Scolipede|move: Taunt
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|turn|5
+|
+|t:|1641861855
+|move|p1a: Scolipede|Swords Dance|p1a: Scolipede
+|-boost|p1a: Scolipede|atk|2
+|move|p2a: Garchomp|Earthquake|p1a: Scolipede
+|-damage|p1a: Scolipede|20/100
+|
+|-heal|p2a: Garchomp|56/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|turn|6
+|
+|t:|1641861869
+|move|p1a: Scolipede|Megahorn|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Scolipede|8/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|
+|t:|1641861874
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|7
+|
+|t:|1641861878
+|move|p1a: Scolipede|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|7/100
+|-unboost|p1a: Scolipede|atk|1
+|-unboost|p1a: Scolipede|def|1
+|-damage|p1a: Scolipede|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p1a: Scolipede
+|move|p2a: Ferrothorn|Body Press|p1: Scolipede|[notarget]
+|-fail|p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|13/100|[from] item: Leftovers
+|upkeep
+|c|☆vader batman 5|OOOOOOOOOHHHHHH
+|c|☆vader batman 5|DAMMIT
+|
+|t:|1641861894
+|switch|p1a: Turtonator|Turtonator, M, shiny|100/100
+|-damage|p1a: Turtonator|76/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641861903
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Turtonator|Rapid Spin|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|96/100
+|-boost|p1a: Turtonator|spe|1
+|-sideend|p1: vader batman 5|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Turtonator
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Turtonator|69/100|[from] Sandstorm
+|upkeep
+|turn|9
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by greystaple)
+|
+|t:|1641861950
+|move|p1a: Turtonator|Dragon Pulse|p2a: Tyranitar
+|-damage|p2a: Tyranitar|69/100
+|move|p2a: Tyranitar|Stone Edge|p1a: Turtonator|[miss]
+|-miss|p2a: Tyranitar|p1a: Turtonator
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Turtonator|63/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1641861955
+|move|p1a: Turtonator|Shell Smash|p1a: Turtonator
+|-unboost|p1a: Turtonator|def|1
+|-unboost|p1a: Turtonator|spd|1
+|-boost|p1a: Turtonator|atk|2
+|-boost|p1a: Turtonator|spa|2
+|-boost|p1a: Turtonator|spe|2
+|move|p2a: Tyranitar|Stone Edge|p1a: Turtonator
+|-supereffective|p1a: Turtonator
+|-damage|p1a: Turtonator|0 fnt
+|faint|p1a: Turtonator
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641861974
+|switch|p1a: Ribombee|Ribombee, F, shiny|100/100
+|turn|11
+|
+|t:|1641861981
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Ribombee|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ribombee|94/100|[from] Sandstorm
+|-damage|p2a: Tapu Fini|62/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1641861990
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1641862004
+|move|p1a: Ribombee|Bug Buzz|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|72/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641862008
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641862023
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|16
+|
+|t:|1641862034
+|move|p1a: Ribombee|Quiver Dance|p1a: Ribombee
+|-boost|p1a: Ribombee|spa|1
+|-boost|p1a: Ribombee|spd|1
+|-boost|p1a: Ribombee|spe|1
+|move|p2a: Volcarona|Flamethrower|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|upkeep
+|
+|t:|1641862038
+|switch|p1a: Cloyster|Cloyster, M, shiny|100/100
+|turn|17
+|
+|t:|1641862049
+|move|p2a: Volcarona|Psychic|p1a: Cloyster
+|-enditem|p1a: Cloyster|Focus Sash
+|-damage|p1a: Cloyster|1/100
+|move|p1a: Cloyster|Rock Blast|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|47/100
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|22/100
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|-hitcount|p2: Volcarona|3
+|
+|upkeep
+|
+|t:|1641862055
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|18
+|
+|t:|1641862059
+|move|p2a: Tornadus|U-turn|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|t:|1641862068
+|switch|p2a: Ferrothorn|Ferrothorn, F|13/100|[from]move: U-turn
+|
+|-heal|p2a: Ferrothorn|19/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641862075
+|switch|p1a: Polteageist|Polteageist, shiny|100/100
+|turn|19
+|
+|t:|1641862086
+|switch|p2a: Tapu Fini|Tapu Fini|62/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|
+|upkeep
+|turn|20
+|c|☆vader batman 5|oh dammit
+|
+|t:|1641862097
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|move|p2a: Tapu Fini|Moonblast|p1a: Polteageist
+|-damage|p1a: Polteageist|32/100
+|-unboost|p1a: Polteageist|spa|1
+|
+|upkeep
+|turn|21
+|c|☆greystaple|yeah being choice-locked can be tough
+|
+|t:|1641862124
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|move|p2a: Tapu Fini|Moonblast|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|
+|upkeep
+|
+|t:|1641862126
+|switch|p1a: Butterfree|Butterfree, F, shiny|100/100
+|turn|22
+|
+|t:|1641862131
+|move|p2a: Tapu Fini|Taunt|p1a: Butterfree
+|-start|p1a: Butterfree|move: Taunt
+|cant|p1a: Butterfree|move: Taunt|Quiver Dance
+|
+|upkeep
+|turn|23
+|
+|t:|1641862134
+|move|p2a: Tapu Fini|Moonblast|p1a: Butterfree
+|-damage|p1a: Butterfree|47/100
+|move|p1a: Butterfree|Hurricane|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|27/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|24
+|
+|t:|1641862137
+|move|p2a: Tapu Fini|Moonblast|p1a: Butterfree
+|-damage|p1a: Butterfree|2/100
+|move|p1a: Butterfree|Hurricane|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-end|p1a: Butterfree|move: Taunt
+|upkeep
+|
+|t:|1641862143
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|25
+|c|☆vader batman 5|ggggggg
+|c|☆vader batman 5|i didnt played well
+|c|☆greystaple|gg
+|
+|t:|1641862150
+|move|p2a: Tornadus|Knock Off|p1a: Butterfree
+|-damage|p1a: Butterfree|0 fnt
+|-enditem|p1a: Butterfree|Focus Sash|[from] move: Knock Off|[of] p2a: Tornadus
+|faint|p1a: Butterfree
+|
+|win|greystaple
+|raw|vader batman 5's rating: 1509 &rarr; <strong>1494</strong><br />(-15 for losing)
+|raw|greystaple's rating: 1604 &rarr; <strong>1619</strong><br />(+15 for winning)
+|l|☆vader batman 5

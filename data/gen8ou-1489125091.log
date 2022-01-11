@@ -1,0 +1,229 @@
+|j|☆WarNboy
+|j|☆yago_gimenez
+|t:|1641859933
+|gametype|singles
+|player|p1|WarNboy|acetrainer-gen4dp|1059
+|player|p2|yago_gimenez|pokekid|1060
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Scrafty, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Blacephalon|
+|poke|p2|Lurantis, M|
+|poke|p2|Bellossom, M|
+|poke|p2|Shuckle, F|
+|poke|p2|Centiskorch, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Crobat, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yago_gimenez)
+|
+|t:|1641859940
+|start
+|switch|p1a: Cancer man|Ferrothorn, F|100/100
+|switch|p2a: Shuckle|Shuckle, F|100/100
+|turn|1
+|
+|t:|1641859948
+|move|p2a: Shuckle|Sticky Web|p1a: Cancer man
+|-sidestart|p1: WarNboy|move: Sticky Web
+|move|p1a: Cancer man|Stealth Rock|p2a: Shuckle
+|-sidestart|p2: yago_gimenez|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641859953
+|move|p2a: Shuckle|Stealth Rock|p1a: Cancer man
+|-sidestart|p1: WarNboy|move: Stealth Rock
+|move|p1a: Cancer man|Spikes|p2a: Shuckle
+|-sidestart|p2: yago_gimenez|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641859959
+|move|p2a: Shuckle|Encore|p1a: Cancer man
+|-start|p1a: Cancer man|Encore
+|move|p1a: Cancer man|Spikes|p2a: Shuckle
+|-sidestart|p2: yago_gimenez|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1641859965
+|move|p2a: Shuckle|Final Gambit|p1a: Cancer man
+|-damage|p1a: Cancer man|30/100
+|faint|p2a: Shuckle
+|move|p1a: Cancer man|Spikes|p2: Shuckle
+|-sidestart|p2: yago_gimenez|Spikes
+|
+|upkeep
+|
+|t:|1641859970
+|switch|p2a: Crobat|Crobat, M|100/100
+|-damage|p2a: Crobat|76/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641859978
+|move|p2a: Crobat|Taunt|p1a: Cancer man
+|-start|p1a: Cancer man|move: Taunt
+|cant|p1a: Cancer man|move: Taunt|Spikes
+|
+|-end|p1a: Cancer man|Encore
+|upkeep
+|turn|6
+|
+|t:|1641859985
+|move|p2a: Crobat|Super Fang|p1a: Cancer man
+|-damage|p1a: Cancer man|16/100
+|-damage|p2a: Crobat|64/100|[from] ability: Iron Barbs|[of] p1a: Cancer man
+|-damage|p2a: Crobat|47/100|[from] item: Rocky Helmet|[of] p1a: Cancer man
+|move|p1a: Cancer man|Explosion|p2a: Crobat
+|-damage|p2a: Crobat|0 fnt
+|faint|p1a: Cancer man
+|faint|p2a: Crobat
+|
+|upkeep
+|
+|t:|1641860001
+|switch|p2a: nemo_drogado|Barraskewda, F|100/100
+|switch|p1a: Lui|Landorus-Therian, M|100/100
+|-damage|p1a: Lui|88/100|[from] Stealth Rock
+|-ability|p1a: Lui|Intimidate|boost
+|-unboost|p2a: nemo_drogado|atk|1
+|turn|7
+|
+|t:|1641860020
+|switch|p1a: Origami|Kartana, shiny|100/100
+|-activate|p1a: Origami|move: Sticky Web
+|-unboost|p1a: Origami|spe|1
+|-damage|p1a: Origami|94/100|[from] Stealth Rock
+|move|p2a: nemo_drogado|Liquidation|p1a: Origami
+|-resisted|p1a: Origami
+|-damage|p1a: Origami|78/100
+|-unboost|p1a: Origami|def|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641860038
+|move|p2a: nemo_drogado|Close Combat|p1a: Origami
+|-supereffective|p1a: Origami
+|-damage|p1a: Origami|0 fnt
+|-unboost|p2a: nemo_drogado|def|1
+|-unboost|p2a: nemo_drogado|spd|1
+|faint|p1a: Origami
+|
+|upkeep
+|inactive|WarNboy has 120 seconds left.
+|
+|t:|1641860056
+|switch|p1a: Racker|Garchomp, M|100/100
+|-activate|p1a: Racker|move: Sticky Web
+|-unboost|p1a: Racker|spe|1
+|-damage|p1a: Racker|94/100|[from] Stealth Rock
+|turn|9
+|inactive|WarNboy has 120 seconds left.
+|
+|t:|1641860068
+|move|p2a: nemo_drogado|Liquidation|p1a: Racker
+|-damage|p1a: Racker|71/100
+|-damage|p2a: nemo_drogado|88/100|[from] ability: Rough Skin|[of] p1a: Racker
+|move|p1a: Racker|Dragon Claw|p2a: nemo_drogado
+|-damage|p2a: nemo_drogado|0 fnt
+|faint|p2a: nemo_drogado
+|
+|upkeep
+|
+|t:|1641860077
+|switch|p2a: Bellossom|Bellossom, M|100/100
+|-damage|p2a: Bellossom|88/100|[from] Stealth Rock
+|-damage|p2a: Bellossom|63/100|[from] Spikes
+|turn|10
+|
+|t:|1641860082
+|move|p2a: Bellossom|Sleep Powder|p1a: Racker|[miss]
+|-miss|p2a: Bellossom|p1a: Racker
+|move|p1a: Racker|Dragon Claw|p2a: Bellossom
+|-damage|p2a: Bellossom|0 fnt
+|faint|p2a: Bellossom
+|
+|upkeep
+|
+|t:|1641860087
+|switch|p2a: Lurantis|Lurantis, M|100/100
+|-damage|p2a: Lurantis|88/100|[from] Stealth Rock
+|-damage|p2a: Lurantis|63/100|[from] Spikes
+|turn|11
+|
+|t:|1641860095
+|move|p1a: Racker|Dragon Claw|p2a: Lurantis
+|-damage|p2a: Lurantis|14/100
+|move|p2a: Lurantis|Leaf Storm|p1a: Racker
+|-damage|p1a: Racker|34/100
+|-boost|p2a: Lurantis|spa|2
+|
+|-heal|p2a: Lurantis|20/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641860105
+|move|p1a: Racker|Dragon Claw|p2a: Lurantis
+|-crit|p2a: Lurantis
+|-damage|p2a: Lurantis|0 fnt
+|faint|p2a: Lurantis
+|
+|upkeep
+|
+|t:|1641860109
+|switch|p2a: Centiskorch|Centiskorch, M, shiny|100/100
+|turn|13
+|
+|t:|1641860115
+|move|p2a: Centiskorch|Leech Life|p1a: Racker
+|-damage|p1a: Racker|0 fnt
+|-damage|p2a: Centiskorch|88/100|[from] ability: Rough Skin|[of] p1a: Racker
+|faint|p1a: Racker
+|
+|upkeep
+|
+|t:|1641860124
+|switch|p1a: Lui|Landorus-Therian, M|88/100
+|-damage|p1a: Lui|76/100|[from] Stealth Rock
+|-ability|p1a: Lui|Intimidate|boost
+|-unboost|p2a: Centiskorch|atk|1
+|turn|14
+|
+|t:|1641860131
+|move|p1a: Lui|Earthquake|p2a: Centiskorch
+|-damage|p2a: Centiskorch|3/100
+|move|p2a: Centiskorch|Power Whip|p1a: Lui
+|-damage|p1a: Lui|48/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641860139
+|move|p1a: Lui|Earthquake|p2a: Centiskorch
+|-damage|p2a: Centiskorch|0 fnt
+|faint|p2a: Centiskorch
+|
+|win|WarNboy
+|raw|WarNboy's rating: 1059 &rarr; <strong>1090</strong><br />(+31 for winning)
+|raw|yago_gimenez's rating: 1060 &rarr; <strong>1041</strong><br />(-19 for losing)
+|l|☆yago_gimenez

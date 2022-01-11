@@ -1,0 +1,445 @@
+|j|☆Grimm 9
+|j|☆Hamdidu06
+|t:|1641727773
+|gametype|singles
+|player|p1|Grimm 9|brock|1389
+|player|p2|Hamdidu06|veteran|1409
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Weavile, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Regieleki|
+|poke|p2|Dragapult, F|
+|poke|p2|Zeraora|
+|poke|p2|Nidoking, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, F|
+|poke|p2|Toxapex, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hamdidu06)
+|inactive|Grimm 9 has 120 seconds left.
+|
+|t:|1641727817
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Nidoking|atk|1
+|turn|1
+|
+|t:|1641727829
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Nidoking|Ice Beam|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|67/100
+|
+|-heal|p1a: Ferrothorn|73/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641727844
+|move|p2a: Nidoking|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641727851
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|3
+|
+|t:|1641727857
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Weavile|Triple Axel|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|98/100
+|-damage|p1a: Weavile|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|92/100
+|-damage|p1a: Weavile|68/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|83/100
+|-damage|p1a: Weavile|51/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-hitcount|p2a: Toxapex|3
+|
+|upkeep
+|turn|4
+|
+|t:|1641727870
+|move|p1a: Weavile|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|55/100
+|-damage|p1a: Weavile|35/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-enditem|p2a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Toxapex|Scald|p1a: Weavile
+|-damage|p1a: Weavile|12/100
+|-status|p1a: Weavile|brn
+|
+|-damage|p1a: Weavile|6/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641727887
+|move|p1a: Weavile|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|45/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|95/100
+|
+|-damage|p1a: Weavile|0 fnt|[from] brn
+|faint|p1a: Weavile
+|upkeep
+|
+|t:|1641727898
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|6
+|
+|t:|1641727905
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|-ability|p1a: Zapdos|Defiant
+|-boost|p1a: Zapdos|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641727919
+|move|p1a: Zapdos|Drill Peck|p2a: Landorus
+|-damage|p2a: Landorus|38/100
+|move|p2a: Landorus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|94/100
+|
+|t:|1641727930
+|switch|p2a: Zeraora|Zeraora|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1641727935
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|move|p2a: Zeraora|Volt Switch|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|9
+|
+|t:|1641727944
+|switch|p2a: Landorus|Landorus-Therian, M|38/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-heal|p2a: Landorus|44/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|38/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641727957
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|move|p2a: Landorus|Defog|p1a: Slowbro
+|-unboost|p1a: Slowbro|evasion|1
+|
+|-heal|p2a: Landorus|44/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|32/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641727967
+|move|p2a: Landorus|Stealth Rock|p1a: Slowbro
+|-sidestart|p1: Grimm 9|move: Stealth Rock
+|move|p1a: Slowbro|Future Sight|p2a: Landorus
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Landorus|38/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|20/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641727976
+|move|p2a: Landorus|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|73/100
+|
+|t:|1641727979
+|switch|p2a: Heatran|Heatran, F|100/100|[from]move: U-turn
+|move|p1a: Slowbro|Scald|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|66/100
+|
+|-heal|p2a: Heatran|73/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641727990
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641727997
+|switch|p1a: Zapdos|Zapdos-Galar|94/100|[from]move: Teleport
+|-damage|p1a: Zapdos|82/100|[from] Stealth Rock
+|
+|-end|p2a: Heatran|move: Future Sight
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|59/100
+|-heal|p2a: Heatran|65/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641728008
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Zapdos|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|90/100
+|
+|t:|1641728014
+|switch|p1a: Regieleki|Regieleki|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1641728022
+|move|p1a: Regieleki|Volt Switch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|8/100
+|
+|t:|1641728028
+|switch|p1a: Slowbro|Slowbro, M|100/100|[from]move: Volt Switch
+|move|p2a: Toxapex|Toxic|p1a: Slowbro
+|-status|p1a: Slowbro|tox
+|
+|-damage|p1a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641728037
+|switch|p2a: Landorus|Landorus-Therian, M|20/100 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Slowbro|atk|1
+|move|p1a: Slowbro|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-damage|p1a: Slowbro|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1641728042
+|switch|p2a: Toxapex|Toxapex, F|41/100
+|turn|17
+|
+|t:|1641728052
+|switch|p2a: Zeraora|Zeraora|100/100
+|move|p1a: Slowbro|Future Sight|p2a: Zeraora
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|64/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641728060
+|switch|p2a: Toxapex|Toxapex, F|75/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641728072
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Landorus|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|31/100
+|
+|-end|p2a: Dragapult|move: Future Sight
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-heal|p1a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641728084
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|20
+|
+|t:|1641728094
+|switch|p1a: Slowbro|Slowbro, M|97/100 tox
+|move|p2a: Nidoking|Ice Beam|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|77/100 tox
+|
+|-damage|p1a: Slowbro|70/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641728104
+|move|p2a: Nidoking|Sludge Wave|p1a: Slowbro
+|-damage|p1a: Slowbro|2/100 tox
+|move|p1a: Slowbro|Future Sight|p2a: Nidoking
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Slowbro|0 fnt|[from] psn
+|faint|p1a: Slowbro
+|upkeep
+|
+|t:|1641728117
+|switch|p1a: Zapdos|Zapdos-Galar|82/100
+|-damage|p1a: Zapdos|69/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641728128
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Zapdos|Drill Peck|p2a: Toxapex
+|-damage|p2a: Toxapex|62/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641728138
+|switch|p2a: Heatran|Heatran, F|65/100
+|move|p1a: Zapdos|Drill Peck|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|38/100
+|
+|-end|p2a: Heatran|move: Future Sight
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|25/100
+|-heal|p2a: Heatran|31/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641728148
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Zapdos|Drill Peck|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p2a: Heatran|38/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641728156
+|move|p1a: Zapdos|Drill Peck|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|13/100
+|move|p2a: Heatran|Magma Storm|p1a: Zapdos
+|-damage|p1a: Zapdos|17/100
+|-activate|p1a: Zapdos|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|20/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|5/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|26
+|
+|t:|1641728166
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Zapdos|Drill Peck|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p2a: Heatran|26/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p1a: Zapdos
+|upkeep
+|inactive|Grimm 9 has 120 seconds left.
+|
+|t:|1641728206
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|27
+|
+|t:|1641728211
+|move|p1a: Regieleki|Ancient Power|p2a: Heatran
+|-damage|p2a: Heatran|15/100
+|move|p2a: Heatran|Earth Power|p1a: Regieleki
+|-supereffective|p1a: Regieleki
+|-damage|p1a: Regieleki|10/100
+|
+|-heal|p2a: Heatran|21/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|inactive|Grimm 9 has 120 seconds left.
+|
+|t:|1641728223
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Regieleki|Electro Ball|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p2a: Heatran|27/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|inactive|Grimm 9 has 120 seconds left.
+|
+|t:|1641728231
+|move|p1a: Regieleki|Electro Ball|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641728237
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|30
+|
+|t:|1641728240
+|move|p1a: Regieleki|Ancient Power|p2a: Zeraora
+|-damage|p2a: Zeraora|79/100
+|move|p2a: Zeraora|Knock Off|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|-enditem|p1a: Regieleki|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Zeraora
+|faint|p1a: Regieleki
+|
+|upkeep
+|
+|t:|1641728249
+|switch|p1a: Landorus|Landorus-Therian, M|99/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|turn|31
+|
+|t:|1641728255
+|move|p2a: Zeraora|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|71/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Zeraora
+|move|p1a: Landorus|Earthquake|p2a: Zeraora
+|-supereffective|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|upkeep
+|
+|t:|1641728259
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|32
+|
+|t:|1641728265
+|move|p2a: Nidoking|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|win|Hamdidu06
+|raw|Grimm 9's rating: 1389 &rarr; <strong>1370</strong><br />(-19 for losing)
+|raw|Hamdidu06's rating: 1409 &rarr; <strong>1428</strong><br />(+19 for winning)
+|l|☆Hamdidu06

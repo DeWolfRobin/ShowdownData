@@ -1,0 +1,210 @@
+|j|☆Rainbow Ghirahim
+|j|☆asdagsadf
+|t:|1641869158
+|gametype|singles
+|player|p1|Rainbow Ghirahim|richboy-gen4|1179
+|player|p2|asdagsadf|ethan|1155
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Sigilyph, F|
+|poke|p1|Eiscue, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Zoroark, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Regieleki|
+|poke|p2|Toxicroak, F|
+|poke|p2|Politoed, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by asdagsadf)
+|
+|t:|1641869184
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Mel|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Mel
+|turn|1
+|
+|t:|1641869193
+|move|p2a: Mel|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|77/100
+|-start|p1a: Ferrothorn|confusion
+|-activate|p1a: Ferrothorn|confusion
+|move|p1a: Ferrothorn|Iron Defense|p1a: Ferrothorn
+|-boost|p1a: Ferrothorn|def|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641869200
+|move|p2a: Mel|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|55/100
+|-activate|p1a: Ferrothorn|confusion
+|-damage|p1a: Ferrothorn|51/100|[from] confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641869207
+|move|p2a: Mel|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|30/100
+|-activate|p1a: Ferrothorn|confusion
+|move|p1a: Ferrothorn|Leech Seed|p2a: Mel
+|-start|p2a: Mel|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Mel|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|42/100|[silent]
+|upkeep
+|turn|4
+|
+|t:|1641869216
+|move|p2a: Mel|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|18/100
+|-end|p1a: Ferrothorn|confusion
+|move|p1a: Ferrothorn|Knock Off|p2a: Mel
+|-damage|p2a: Mel|71/100
+|-enditem|p2a: Mel|Damp Rock|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Mel|59/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|29/100|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641869231
+|move|p2a: Mel|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|8/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Mel
+|-damage|p2a: Mel|47/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Mel|34/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|19/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641869236
+|move|p2a: Mel|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641869246
+|switch|p1a: Eiscue|Eiscue, M|100/100
+|turn|7
+|
+|t:|1641869251
+|move|p1a: Eiscue|Nasty Plot|p1a: Eiscue
+|-boost|p1a: Eiscue|spa|2
+|move|p2a: Mel|U-turn|p1a: Eiscue
+|-supereffective|p1a: Eiscue
+|-damage|p1a: Eiscue|66/100
+|replace|p1a: Zoroark|Zoroark, F
+|-end|p1a: Zoroark|Illusion
+|
+|t:|1641869265
+|switch|p2a: Esqueletico|Barraskewda, F, shiny|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641869275
+|move|p2a: Esqueletico|Flip Turn|p1a: Zoroark
+|-damage|p1a: Zoroark|0 fnt
+|faint|p1a: Zoroark
+|
+|t:|1641869286
+|switch|p2a: Rã|Toxicroak, F|100/100|[from]move: Flip Turn
+|
+|-weather|none
+|upkeep
+|
+|t:|1641869297
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Rã|atk|1
+|turn|9
+|
+|t:|1641869306
+|switch|p2a: Mel|Pelipper, F, shiny|34/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Mel
+|move|p1a: Landorus|Stealth Rock|p2a: Mel
+|-sidestart|p2: asdagsadf|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641869314
+|move|p1a: Landorus|Swords Dance|p1a: Landorus
+|-boost|p1a: Landorus|atk|2
+|move|p2a: Mel|Roost|p2a: Mel
+|-heal|p2a: Mel|84/100
+|-singleturn|p2a: Mel|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641869319
+|move|p1a: Landorus|Smack Down|p2a: Mel
+|-supereffective|p2a: Mel
+|-damage|p2a: Mel|25/100
+|-start|p2a: Mel|Smack Down
+|move|p2a: Mel|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|53/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641869332
+|switch|p2a: Harry|Politoed, M|100/100
+|-damage|p2a: Harry|88/100|[from] Stealth Rock
+|move|p1a: Landorus|Smack Down|p2a: Harry
+|-damage|p2a: Harry|47/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641869358
+|move|p1a: Landorus|Earthquake|p2a: Harry
+|-damage|p2a: Harry|0 fnt
+|faint|p2a: Harry
+|
+|-weather|none
+|upkeep
+|inactive|asdagsadf has 120 seconds left.
+|
+|t:|1641869370
+|switch|p2a: Mel|Pelipper, F, shiny|25/100
+|-damage|p2a: Mel|0 fnt|[from] Stealth Rock
+|faint|p2a: Mel
+|inactive|asdagsadf has 120 seconds left.
+|-message|asdagsadf forfeited.
+|
+|win|Rainbow Ghirahim
+|raw|Rainbow Ghirahim's rating: 1179 &rarr; <strong>1202</strong><br />(+23 for winning)
+|raw|asdagsadf's rating: 1155 &rarr; <strong>1132</strong><br />(-23 for losing)
+|l|☆asdagsadf

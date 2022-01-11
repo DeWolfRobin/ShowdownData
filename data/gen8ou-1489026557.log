@@ -1,0 +1,208 @@
+|j|☆Le-Perpetrator
+|j|☆Brandon A Hole
+|t:|1641847850
+|gametype|singles
+|player|p1|Le-Perpetrator|1|1625
+|player|p2|Brandon A Hole|hiker-gen4|1618
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Victini|
+|poke|p1|Dragapult, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Melmetal|
+|poke|p2|Starmie|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Blaziken, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Brandon A Hole)
+|
+|t:|1641847864
+|start
+|switch|p1a: NastyInsertion|Toxapex, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|j|+iron☂water ♫
+|
+|t:|1641847870
+|switch|p2a: Starmie|Starmie|100/100
+|move|p1a: NastyInsertion|Scald|p2a: Starmie
+|-resisted|p2a: Starmie
+|-damage|p2a: Starmie|85/100
+|-status|p2a: Starmie|brn
+|
+|-heal|p2a: Starmie|91/100 brn|[from] Grassy Terrain
+|-damage|p2a: Starmie|85/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641847880
+|switch|p1a: SoftontheInside|Ferrothorn, F|100/100
+|move|p2a: Starmie|Scald|p1a: SoftontheInside
+|-resisted|p1a: SoftontheInside
+|-damage|p1a: SoftontheInside|78/100
+|-damage|p2a: Starmie|75/100 brn|[from] item: Life Orb
+|
+|-heal|p2a: Starmie|81/100 brn|[from] Grassy Terrain
+|-heal|p1a: SoftontheInside|85/100|[from] Grassy Terrain
+|-damage|p2a: Starmie|75/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641847890
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: SoftontheInside|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: Brandon A Hole|move: Stealth Rock
+|
+|-heal|p1a: SoftontheInside|91/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641847896
+|switch|p1a: NastyInsertion|Toxapex, M|100/100
+|move|p2a: Tornadus|Defog|p1a: NastyInsertion
+|-unboost|p1a: NastyInsertion|evasion|1
+|-sideend|p2: Brandon A Hole|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|5
+|
+|t:|1641847905
+|move|p1a: NastyInsertion|Baneful Bunker|p1a: NastyInsertion
+|-singleturn|p1a: NastyInsertion|move: Protect
+|move|p2a: Tornadus|Hurricane|p1a: NastyInsertion
+|-activate|p1a: NastyInsertion|move: Protect
+|
+|upkeep
+|turn|6
+|
+|t:|1641847910
+|move|p2a: Tornadus|Hurricane|p1a: NastyInsertion|[miss]
+|-miss|p2a: Tornadus|p1a: NastyInsertion
+|move|p1a: NastyInsertion|Scald|p2a: Tornadus
+|-damage|p2a: Tornadus|76/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641847916
+|move|p2a: Tornadus|Hurricane|p1a: NastyInsertion
+|-damage|p1a: NastyInsertion|64/100
+|move|p1a: NastyInsertion|Scald|p2a: Tornadus
+|-damage|p2a: Tornadus|49/100
+|
+|-heal|p1a: NastyInsertion|70/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1641847926
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|move|p1a: NastyInsertion|Scald|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|34/100
+|
+|-heal|p1a: NastyInsertion|76/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|j| Shimeon91
+|
+|t:|1641847936
+|switch|p2a: Starmie|Starmie|75/100 brn
+|move|p1a: NastyInsertion|Scald|p2a: Starmie
+|-resisted|p2a: Starmie
+|-damage|p2a: Starmie|59/100 brn
+|
+|-heal|p1a: NastyInsertion|82/100|[from] item: Black Sludge
+|-damage|p2a: Starmie|53/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641847946
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Starmie|Psychic|p1a: Dragapult
+|-damage|p1a: Dragapult|8/100
+|-damage|p2a: Starmie|43/100 brn|[from] item: Life Orb
+|
+|-damage|p2a: Starmie|37/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641847965
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Melmetal
+|-damage|p2a: Melmetal|51/100
+|-unboost|p2a: Melmetal|spd|1
+|
+|-heal|p2a: Melmetal|57/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641847973
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Dragapult|Shadow Ball|p2a: Rillaboom
+|-damage|p2a: Rillaboom|63/100
+|
+|-heal|p1a: Dragapult|14/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|70/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641847982
+|switch|p1a: SoftontheInside|Ferrothorn, F|91/100
+|move|p2a: Rillaboom|Knock Off|p1a: SoftontheInside
+|-damage|p1a: SoftontheInside|67/100
+|-damage|p2a: Rillaboom|57/100|[from] ability: Iron Barbs|[of] p1a: SoftontheInside
+|-damage|p2a: Rillaboom|41/100|[from] item: Rocky Helmet|[of] p1a: SoftontheInside
+|-enditem|p1a: SoftontheInside|Rocky Helmet|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|47/100|[from] Grassy Terrain
+|-heal|p1a: SoftontheInside|74/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641847992
+|switch|p2a: Blaziken|Blaziken, F|34/100
+|move|p1a: SoftontheInside|Stealth Rock|p2a: Blaziken
+|-sidestart|p2: Brandon A Hole|move: Stealth Rock
+|
+|-heal|p2a: Blaziken|40/100|[from] Grassy Terrain
+|-heal|p1a: SoftontheInside|80/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641848001
+|move|p2a: Blaziken|Earthquake|p1a: SoftontheInside
+|-damage|p1a: SoftontheInside|64/100
+|-damage|p2a: Blaziken|30/100|[from] item: Life Orb
+|move|p1a: SoftontheInside|Gyro Ball|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|-heal|p1a: SoftontheInside|70/100|[from] Grassy Terrain
+|upkeep
+|j| Congwuyu
+|-message|Brandon A Hole forfeited.
+|
+|win|Le-Perpetrator
+|raw|Le-Perpetrator's rating: 1625 &rarr; <strong>1645</strong><br />(+20 for winning)
+|raw|Brandon A Hole's rating: 1618 &rarr; <strong>1598</strong><br />(-20 for losing)
+|l|☆Brandon A Hole

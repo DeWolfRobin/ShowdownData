@@ -1,0 +1,136 @@
+|j|☆Envied
+|j|☆Khinelalala
+|t:|1641872614
+|gametype|singles
+|player|p1|Envied|266|1681
+|player|p2|Khinelalala|firebreather|1559
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Melmetal|
+|poke|p1|Crawdaunt, F|
+|poke|p1|Zapdos|
+|poke|p2|Drednaw, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Seismitoad, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Ferrothorn, M|
+|teampreview
+|
+|t:|1641872626
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|1
+|
+|t:|1641872631
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Dragapult|Shadow Ball|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1641872662
+|move|p2a: Dragapult|Shadow Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|50/100
+|move|p1a: Garchomp|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-heal|p1a: Garchomp|56/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641872666
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Garchomp|Protect||[still]
+|-fail|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garchomp|62/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641872670
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Pelipper|U-turn|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garchomp|68/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641872677
+|move|p1a: Garchomp|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: Khinelalala|move: Stealth Rock
+|move|p2a: Pelipper|U-turn|p1a: Garchomp
+|-damage|p1a: Garchomp|64/100
+|-damage|p2a: Pelipper|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|t:|1641872680
+|switch|p2a: Seismitoad|Seismitoad, M|100/100|[from]move: U-turn
+|-damage|p2a: Seismitoad|95/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garchomp|70/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641872686
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Seismitoad|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: Envied|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garchomp|76/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641872691
+|move|p2a: Seismitoad|Weather Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-damage|p2a: Seismitoad|85/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641872697
+|switch|p1a: Crawdaunt|Crawdaunt, F|100/100
+|-damage|p1a: Crawdaunt|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641872702
+|move|p2a: Seismitoad|Earth Power|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|-damage|p2a: Seismitoad|75/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|Envied forfeited.
+|
+|win|Khinelalala
+|raw|Envied's rating: 1681 &rarr; <strong>1654</strong><br />(-27 for losing)
+|raw|Khinelalala's rating: 1559 &rarr; <strong>1586</strong><br />(+27 for winning)
+|l|☆Envied

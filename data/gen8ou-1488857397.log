@@ -1,0 +1,361 @@
+|j|☆Denger09964
+|j|☆Yellowpanda483
+|t:|1641829941
+|gametype|singles
+|player|p1|Denger09964|n|1079
+|player|p2|Yellowpanda483|266|1100
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Volcanion|
+|poke|p1|Gardevoir, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Diancie|
+|poke|p2|Melmetal|
+|poke|p2|Tyrantrum, F|
+|poke|p2|Nidoking, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Mimikyu, M|
+|poke|p2|Rotom|
+|teampreview
+|c|☆Denger09964|hi gl
+|
+|t:|1641829947
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Tyrantrum|Tyrantrum, F|100/100
+|turn|1
+|
+|t:|1641829955
+|move|p2a: Tyrantrum|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: Denger09964|move: Stealth Rock
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Tyrantrum
+|-sidestart|p2: Yellowpanda483|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641829959
+|move|p1a: Ferrothorn|Toxic|p2a: Tyrantrum
+|-status|p2a: Tyrantrum|tox
+|move|p2a: Tyrantrum|Roar|p1a: Ferrothorn
+|drag|p1a: Volcanion|Volcanion|100/100
+|-damage|p1a: Volcanion|76/100|[from] Stealth Rock
+|
+|-damage|p2a: Tyrantrum|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641829966
+|move|p2a: Tyrantrum|Toxic|p1a: Volcanion
+|-status|p1a: Volcanion|tox
+|move|p1a: Volcanion|Hydro Pump|p2a: Tyrantrum
+|-damage|p2a: Tyrantrum|0 fnt
+|faint|p2a: Tyrantrum
+|
+|-damage|p1a: Volcanion|70/100 tox|[from] psn
+|upkeep
+|
+|t:|1641829976
+|switch|p2a: Rotom|Rotom|100/100
+|-damage|p2a: Rotom|88/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1641829982
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|
+|-heal|p2a: Rotom|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yellowpanda483)
+|
+|t:|1641829990
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|move|p1a: Ferrothorn|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|
+|-heal|p2a: Rotom|99/100 tox|[from] item: Leftovers
+|-damage|p2a: Rotom|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641829998
+|move|p2a: Rotom|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|51/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Rotom
+|-start|p2a: Rotom|move: Leech Seed
+|
+|-heal|p2a: Rotom|99/100 tox|[from] item: Leftovers
+|-damage|p2a: Rotom|88/100 tox|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|62/100|[silent]
+|-damage|p2a: Rotom|76/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641830011
+|move|p2a: Rotom|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|17/100
+|move|p1a: Ferrothorn|Iron Defense|p1a: Ferrothorn
+|-boost|p1a: Ferrothorn|def|2
+|
+|-heal|p2a: Rotom|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Rotom|70/100 tox|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|27/100|[silent]
+|-damage|p2a: Rotom|52/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641830021
+|move|p2a: Rotom|Thunderbolt|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Rotom|58/100 tox|[from] item: Leftovers
+|-damage|p2a: Rotom|35/100 tox|[from] psn
+|upkeep
+|
+|t:|1641830028
+|switch|p1a: Weavile|Weavile, F|100/100
+|-damage|p1a: Weavile|76/100|[from] Stealth Rock
+|-ability|p1a: Weavile|Pressure
+|turn|9
+|
+|t:|1641830041
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Weavile|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|69/100
+|-enditem|p2a: Melmetal|Weakness Policy|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|10
+|
+|t:|1641830052
+|switch|p1a: Volcanion|Volcanion|70/100 tox
+|-damage|p1a: Volcanion|45/100 tox|[from] Stealth Rock
+|move|p2a: Melmetal|Double Iron Bash|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|37/100 tox
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|30/100 tox
+|-hitcount|p1a: Volcanion|2
+|
+|-damage|p1a: Volcanion|24/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641830067
+|switch|p2a: Rotom|Rotom|35/100 tox
+|-damage|p2a: Rotom|22/100 tox|[from] Stealth Rock
+|move|p1a: Volcanion|Fire Blast|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-damage|p1a: Volcanion|12/100 tox|[from] psn
+|upkeep
+|
+|t:|1641830074
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|-damage|p2a: Urshifu|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641830080
+|move|p2a: Urshifu|Acrobatics|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|-damage|p2a: Urshifu|84/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641830086
+|switch|p1a: Gardevoir|Gardevoir, F, shiny|100/100
+|-damage|p1a: Gardevoir|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641830093
+|switch|p2a: Melmetal|Melmetal|69/100
+|-damage|p2a: Melmetal|63/100|[from] Stealth Rock
+|move|p1a: Gardevoir|Shadow Ball|p2a: Melmetal
+|-damage|p2a: Melmetal|35/100
+|
+|-heal|p1a: Gardevoir|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641830102
+|move|p1a: Gardevoir|Shadow Ball|p2a: Melmetal
+|-damage|p2a: Melmetal|4/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Gardevoir
+|-supereffective|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|-hitcount|p1: Gardevoir|1
+|
+|upkeep
+|
+|t:|1641830109
+|switch|p1a: Weavile|Weavile, F|76/100
+|-damage|p1a: Weavile|51/100|[from] Stealth Rock
+|-ability|p1a: Weavile|Pressure
+|turn|15
+|
+|t:|1641830116
+|move|p1a: Weavile|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641830122
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|84/100
+|-damage|p2a: Urshifu|78/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641830126
+|move|p1a: Weavile|Knock Off|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|59/100
+|-enditem|p2a: Urshifu|Life Orb|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Urshifu|Drain Punch|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|-heal|p2a: Urshifu|78/100|[from] drain|[of] p1a: Weavile
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1641830134
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|17
+|
+|t:|1641830144
+|move|p2a: Urshifu|Surging Strikes|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|92/100
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|83/100
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|74/100
+|-hitcount|p1a: Dragonite|3
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|38/100
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|-hitcount|p2: Urshifu|2
+|
+|upkeep
+|
+|t:|1641830149
+|switch|p2a: Mimikyu|Mimikyu, M|100/100
+|-damage|p2a: Mimikyu|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641830164
+|switch|p1a: Diancie|Diancie|100/100
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|upkeep
+|turn|19
+|
+|t:|1641830171
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Diancie|Diamond Storm|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|88/100
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, M
+|-damage|p2a: Mimikyu|75/100|[from] pokemon: Mimikyu-Busted
+|
+|upkeep
+|turn|20
+|
+|t:|1641830179
+|move|p2a: Mimikyu|Drain Punch|p1a: Diancie
+|-damage|p1a: Diancie|55/100
+|-heal|p2a: Mimikyu|96/100|[from] drain|[of] p1a: Diancie
+|move|p1a: Diancie|Diamond Storm|p2a: Mimikyu
+|-damage|p2a: Mimikyu|48/100
+|-boost|p1a: Diancie|def|2
+|
+|upkeep
+|turn|21
+|
+|t:|1641830186
+|move|p2a: Mimikyu|Drain Punch|p1a: Diancie
+|-damage|p1a: Diancie|31/100
+|-heal|p2a: Mimikyu|59/100|[from] drain|[of] p1a: Diancie
+|move|p1a: Diancie|Diamond Storm|p2a: Mimikyu
+|-damage|p2a: Mimikyu|13/100
+|-boost|p1a: Diancie|def|2
+|
+|upkeep
+|turn|22
+|
+|t:|1641830194
+|move|p2a: Mimikyu|Drain Punch|p1a: Diancie
+|-damage|p1a: Diancie|16/100
+|-heal|p2a: Mimikyu|19/100|[from] drain|[of] p1a: Diancie
+|move|p1a: Diancie|Diamond Storm|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|-boost|p1a: Diancie|def|2
+|faint|p2a: Mimikyu
+|
+|upkeep
+|
+|t:|1641830197
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|-damage|p2a: Nidoking|94/100|[from] Stealth Rock
+|-item|p2a: Nidoking|Air Balloon
+|turn|23
+|
+|t:|1641830211
+|move|p2a: Nidoking|Earth Power|p1a: Diancie
+|-supereffective|p1a: Diancie
+|-damage|p1a: Diancie|0 fnt
+|faint|p1a: Diancie
+|
+|upkeep
+|
+|t:|1641830216
+|switch|p1a: Dragonite|Dragonite, M|74/100
+|turn|24
+|
+|t:|1641830220
+|move|p1a: Dragonite|Dual Wingbeat|p2a: Nidoking
+|-damage|p2a: Nidoking|66/100
+|-enditem|p2a: Nidoking|Air Balloon
+|-damage|p2a: Nidoking|37/100
+|-hitcount|p2a: Nidoking|2
+|move|p2a: Nidoking|Ice Beam|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|win|Yellowpanda483
+|raw|Denger09964's rating: 1079 &rarr; <strong>1058</strong><br />(-21 for losing)
+|raw|Yellowpanda483's rating: 1100 &rarr; <strong>1123</strong><br />(+23 for winning)

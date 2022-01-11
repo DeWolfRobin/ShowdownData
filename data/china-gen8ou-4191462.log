@@ -1,0 +1,479 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC姐ISthequeen
+|j|☆SL21CC 91舒先生
+|t:|1641820528
+|gametype|singles
+|player|p1|SL21CC姐ISthequeen|cynthia|1321
+|player|p2|SL21CC 91舒先生|chickwayne.gif|1419
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Thundurus, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Scizor, F|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, M|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Magnezone|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC 91舒先生)
+|j| abdksr
+|j| sl21cckhl
+|j|&starmind
+|c|☆SL21CC 91舒先生|小小箜篌
+|j| yinfoxfreak
+|c|☆SL21CC姐ISthequeen|助你登顶
+|c|☆SL21CC 91舒先生|就你也想阻止我的霸业！？
+|j| SL22CC 蜜雪冰城
+|inactive|SL21CC姐ISthequeen has 120 seconds left.
+|inactive|SL21CC 91舒先生 has 120 seconds left.
+|c|☆SL21CC姐ISthequeen|我这不是来帮你？
+|j| SL21CC jiuaibailan
+|c|☆SL21CC姐ISthequeen|别误会我
+|c| SL22CC 蜜雪冰城|这能忍？
+|c| SL22CC 蜜雪冰城|干他
+|l|&starmind
+|j| SL21CC KFC
+|c| abdksr|草
+|l| abdksr
+|c|☆SL21CC姐ISthequeen|我投了
+|inactive|SL21CC姐ISthequeen has 90 seconds left.
+|
+|t:|1641820593
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|
+|t:|1641820599
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Dragapult|Dragon Darts|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|upkeep
+|turn|2
+|j| rffydsdhh
+|
+|t:|1641820611
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|87/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|73/100
+|
+|upkeep
+|turn|3
+|j|♚Master Origami♕
+|
+|t:|1641820626
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Scizor|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|90/100
+|-enditem|p2a: Toxapex|Eject Button
+|
+|t:|1641820628
+|switch|p2a: Magnezone|Magnezone|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641820630
+|move|p2a: Magnezone|Thunderbolt|p1a: Scizor
+|-damage|p1a: Scizor|15/100
+|move|p1a: Scizor|U-turn|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|84/100
+|
+|t:|1641820635
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1641820640
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Garchomp|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: SL21CC 91舒先生|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|j| SL21CC Winona
+|
+|t:|1641820644
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|move|p2a: Corviknight|Defog|p1a: Thundurus
+|-unboost|p1a: Thundurus|evasion|1
+|-ability|p1a: Thundurus|Defiant
+|-boost|p1a: Thundurus|atk|2
+|-sideend|p2: SL21CC 91舒先生|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|upkeep
+|turn|7
+|
+|t:|1641820650
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Thundurus|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|60/100
+|-enditem|p2a: Hippowdon|Leftovers|[from] move: Knock Off|[of] p1a: Thundurus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Thundurus|94/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641820655
+|move|p1a: Thundurus|Superpower|p2a: Hippowdon
+|-damage|p2a: Hippowdon|4/100
+|-unboost|p1a: Thundurus|atk|1
+|-unboost|p1a: Thundurus|def|1
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|54/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Thundurus|88/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1641820663
+|move|p1a: Thundurus|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|31/100
+|
+|t:|1641820665
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|81/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641820670
+|move|p2a: Hippowdon|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: SL21CC姐ISthequeen|move: Stealth Rock
+|move|p1a: Ferrothorn|Leech Seed|p2a: Hippowdon
+|-start|p2a: Hippowdon|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|68/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|11
+|
+|t:|1641820675
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: SL21CC 91舒先生|Spikes
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641820681
+|move|p2a: Clefable|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|36/100
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Clefable
+|-status|p2a: Clefable|par
+|
+|upkeep
+|turn|13
+|j|♚Jqlove
+|
+|t:|1641820693
+|switch|p2a: Hippowdon|Hippowdon, M|68/100
+|-damage|p2a: Hippowdon|56/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641820699
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Spikes
+|move|p1a: Heatran|Magma Storm|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|68/100
+|-activate|p2a: Toxapex|move: Magma Storm|[of] p1a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|62/100|[from] Sandstorm
+|-damage|p2a: Toxapex|50/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1641820709
+|move|p1a: Heatran|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641820714
+|switch|p2a: Magnezone|Magnezone|84/100
+|-damage|p2a: Magnezone|72/100|[from] Spikes
+|turn|16
+|
+|t:|1641820717
+|move|p1a: Heatran|Earth Power|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|l| SL21CC Winona
+|c|☆SL21CC姐ISthequeen|你在干嘛
+|
+|t:|1641820730
+|switch|p2a: Clefable|Clefable, F|100/100 par
+|turn|17
+|
+|t:|1641820734
+|move|p1a: Heatran|Eruption|p2a: Clefable
+|-damage|p2a: Clefable|27/100 par
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-weather|none
+|upkeep
+|turn|18
+|
+|t:|1641820739
+|move|p1a: Heatran|Eruption|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641820742
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Spikes
+|turn|19
+|
+|t:|1641820750
+|switch|p1a: Ferrothorn|Ferrothorn, F|36/100
+|-damage|p1a: Ferrothorn|30/100|[from] Stealth Rock
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641820756
+|move|p2a: Dragapult|Phantom Force|p1a: Ferrothorn|[from]lockedmove
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Dragapult|82/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Dragapult|65/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Dragapult|72/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820761
+|switch|p1a: Thundurus|Thundurus, M|88/100
+|turn|21
+|
+|t:|1641820766
+|switch|p2a: Hippowdon|Hippowdon, M|56/100
+|-damage|p2a: Hippowdon|44/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Thundurus|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|29/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Thundurus|82/100|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1641820769
+|move|p1a: Thundurus|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|13/100
+|
+|t:|1641820771
+|switch|p1a: Heatran|Heatran, M|88/100|[from]move: U-turn
+|-damage|p1a: Heatran|76/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|63/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641820778
+|move|p1a: Heatran|Magma Storm|p2a: Hippowdon
+|-damage|p2a: Hippowdon|20/100
+|-activate|p2a: Hippowdon|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Hippowdon|Stealth Rock||[still]
+|-fail|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|7/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|24
+|c|☆SL21CC 91舒先生|点错了
+|
+|t:|1641820787
+|move|p1a: Heatran|Earth Power|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641820790
+|switch|p2a: Dragapult|Dragapult, F|72/100
+|-damage|p2a: Dragapult|59/100|[from] Spikes
+|turn|25
+|
+|t:|1641820795
+|switch|p1a: Scizor|Scizor, F|15/100
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|-weather|none
+|-heal|p2a: Dragapult|65/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641820803
+|move|p1a: Scizor|Bullet Punch|p2a: Dragapult
+|-damage|p2a: Dragapult|32/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-heal|p2a: Dragapult|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820807
+|switch|p1a: Heatran|Heatran, M|76/100
+|-damage|p1a: Heatran|63/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|turn|27
+|
+|t:|1641820814
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Heatran|Earth Power|p2a: Dragapult|[miss]
+|-miss|p1a: Heatran|p2a: Dragapult
+|
+|-heal|p2a: Dragapult|44/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|j| sl21cc ryekie
+|j| adreamew
+|
+|t:|1641820820
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|move|p2a: Dragapult|Phantom Force|p1a: Garchomp|[from]lockedmove
+|-damage|p1a: Garchomp|34/100
+|-damage|p2a: Dragapult|32/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-heal|p2a: Dragapult|38/100|[from] item: Leftovers
+|-heal|p1a: Garchomp|40/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641820823
+|move|p2a: Dragapult|Dragon Darts|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Dragapult|44/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820825
+|switch|p1a: Thundurus|Thundurus, M|82/100
+|turn|30
+|j|+dragonitenb
+|
+|t:|1641820827
+|move|p2a: Dragapult|Dragon Darts|p1a: Thundurus
+|-damage|p1a: Thundurus|22/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|-heal|p2a: Dragapult|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820830
+|switch|p1a: Heatran|Heatran, M|63/100
+|-damage|p1a: Heatran|51/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|turn|31
+|
+|t:|1641820834
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Heatran|Earth Power|p2a: Dragapult|[miss]
+|-miss|p1a: Heatran|p2a: Dragapult
+|
+|-heal|p2a: Dragapult|57/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|l|♚Jqlove
+|
+|t:|1641820836
+|move|p2a: Dragapult|Phantom Force|p1a: Heatran|[from]lockedmove
+|-damage|p1a: Heatran|0 fnt
+|-enditem|p1a: Heatran|Air Balloon
+|faint|p1a: Heatran
+|
+|-heal|p2a: Dragapult|63/100|[from] item: Leftovers
+|upkeep
+|l| SL21CC jiuaibailan
+|c|+dragonitenb|狗运这么好啊
+|c|+dragonitenb|鸡头
+|
+|t:|1641820845
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|33
+|c|☆SL21CC 91舒先生|？
+|
+|t:|1641820847
+|move|p2a: Dragapult|Dragon Darts|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|SL21CC 91舒先生
+|raw|SL21CC姐ISthequeen's rating: 1321 &rarr; <strong>1310</strong><br />(-11 for losing)
+|raw|SL21CC 91舒先生's rating: 1419 &rarr; <strong>1434</strong><br />(+15 for winning)
+|l|☆SL21CC 91舒先生
+|l|☆SL21CC姐ISthequeen
+|l| SL21CC KFC

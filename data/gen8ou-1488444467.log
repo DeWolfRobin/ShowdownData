@@ -1,0 +1,260 @@
+|j|☆pokedog123
+|j|☆alpharius20
+|t:|1641766064
+|gametype|singles
+|player|p1|pokedog123|169|1137
+|player|p2|alpharius20|unknown|1170
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Lycanroc-Dusk, M|
+|poke|p1|Goodra, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Absol, F|
+|poke|p1|Toxicroak, F|
+|poke|p2|Mew|
+|poke|p2|Regirock|
+|poke|p2|Celebi|
+|poke|p2|Raikou|
+|poke|p2|Marowak-Alola, M|
+|poke|p2|Latios, M|
+|teampreview
+|j| ronankelsey
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pokedog123)
+|
+|t:|1641766081
+|start
+|switch|p1a: Weavile|Weavile, M, shiny|100/100
+|switch|p2a: Celebi|Celebi|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1641766092
+|move|p1a: Weavile|Triple Axel|p2a: Celebi
+|-supereffective|p2a: Celebi
+|-damage|p2a: Celebi|68/100
+|-supereffective|p2a: Celebi
+|-damage|p2a: Celebi|5/100
+|-supereffective|p2a: Celebi
+|-damage|p2a: Celebi|0 fnt
+|faint|p2a: Celebi
+|-hitcount|p2: Celebi|3
+|
+|upkeep
+|
+|t:|1641766101
+|switch|p2a: Regirock|Regirock|100/100
+|turn|2
+|
+|t:|1641766105
+|switch|p1a: Toxicroak|Toxicroak, F|100/100
+|move|p2a: Regirock|Block|p1a: Toxicroak
+|-activate|p1a: Toxicroak|trapped
+|
+|upkeep
+|turn|3
+|
+|t:|1641766113
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|72/100
+|move|p2a: Regirock|Curse|p2a: Regirock
+|-unboost|p2a: Regirock|spe|1
+|-boost|p2a: Regirock|atk|1
+|-boost|p2a: Regirock|def|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641766125
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|54/100
+|move|p2a: Regirock|Curse|p2a: Regirock
+|-unboost|p2a: Regirock|spe|1
+|-boost|p2a: Regirock|atk|1
+|-boost|p2a: Regirock|def|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641766142
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|40/100
+|move|p2a: Regirock|Curse|p2a: Regirock
+|-unboost|p2a: Regirock|spe|1
+|-boost|p2a: Regirock|atk|1
+|-boost|p2a: Regirock|def|1
+|
+|upkeep
+|turn|6
+|
+|t:|1641766150
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|29/100
+|move|p2a: Regirock|Rest|p2a: Regirock
+|-status|p2a: Regirock|slp|[from] move: Rest
+|-heal|p2a: Regirock|100/100 slp|[silent]
+|
+|upkeep
+|turn|7
+|inactive|pokedog123 has 120 seconds left.
+|
+|t:|1641766184
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|88/100 slp
+|cant|p2a: Regirock|slp
+|
+|upkeep
+|turn|8
+|l| ronankelsey
+|
+|t:|1641766189
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|76/100 slp
+|cant|p2a: Regirock|slp
+|
+|upkeep
+|turn|9
+|
+|t:|1641766196
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|65/100 slp
+|-curestatus|p2a: Regirock|slp|[msg]
+|move|p2a: Regirock|Curse|p2a: Regirock
+|-unboost|p2a: Regirock|spe|1
+|-boost|p2a: Regirock|atk|1
+|-boost|p2a: Regirock|def|1
+|
+|upkeep
+|turn|10
+|c|☆pokedog123|damn
+|
+|t:|1641766204
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|56/100
+|move|p2a: Regirock|Curse|p2a: Regirock
+|-unboost|p2a: Regirock|spe|1
+|-boost|p2a: Regirock|atk|1
+|-boost|p2a: Regirock|def|1
+|
+|upkeep
+|turn|11
+|c|☆pokedog123|thats one hell of a strategy
+|c|☆alpharius20|lol
+|c|☆pokedog123|i fucking love it man
+|
+|t:|1641766217
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|47/100
+|move|p2a: Regirock|Curse|p2a: Regirock
+|-unboost|p2a: Regirock|spe|1
+|-boost|p2a: Regirock|atk|1
+|-boost|p2a: Regirock|def|1
+|
+|upkeep
+|turn|12
+|
+|t:|1641766225
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|40/100
+|move|p2a: Regirock|Rest|p2a: Regirock
+|-status|p2a: Regirock|slp|[from] move: Rest
+|-heal|p2a: Regirock|100/100 slp|[silent]
+|
+|upkeep
+|turn|13
+|c|☆alpharius20|thanks
+|c|☆alpharius20|ghost is a problem
+|
+|t:|1641766237
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|92/100 slp
+|cant|p2a: Regirock|slp
+|
+|upkeep
+|turn|14
+|
+|t:|1641766251
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|85/100 slp
+|cant|p2a: Regirock|slp
+|
+|upkeep
+|turn|15
+|
+|t:|1641766270
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|78/100 slp
+|-curestatus|p2a: Regirock|slp|[msg]
+|move|p2a: Regirock|Rock Blast|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|76/100
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|49/100
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|21/100
+|-hitcount|p1a: Toxicroak|3
+|
+|upkeep
+|turn|16
+|
+|t:|1641766284
+|move|p1a: Toxicroak|Drain Punch|p2a: Regirock
+|-supereffective|p2a: Regirock
+|-damage|p2a: Regirock|71/100
+|-heal|p1a: Toxicroak|25/100|[from] drain|[of] p2a: Regirock
+|move|p2a: Regirock|Rock Blast|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|-hitcount|p1: Toxicroak|1
+|
+|upkeep
+|inactive|pokedog123 has 120 seconds left.
+|
+|t:|1641766319
+|switch|p1a: Goodra|Goodra, F|100/100
+|turn|17
+|
+|t:|1641766323
+|move|p1a: Goodra|Sludge Bomb|p2a: Regirock
+|-resisted|p2a: Regirock
+|-damage|p2a: Regirock|57/100
+|-status|p2a: Regirock|psn
+|move|p2a: Regirock|Rock Blast|p1a: Goodra
+|-damage|p1a: Goodra|27/100
+|-damage|p1a: Goodra|0 fnt
+|faint|p1a: Goodra
+|-hitcount|p1: Goodra|2
+|
+|-damage|p2a: Regirock|44/100 psn|[from] psn
+|upkeep
+|-message|pokedog123 forfeited.
+|
+|win|alpharius20
+|raw|pokedog123's rating: 1137 &rarr; <strong>1114</strong><br />(-23 for losing)
+|raw|alpharius20's rating: 1170 &rarr; <strong>1193</strong><br />(+23 for winning)
+|l|☆pokedog123

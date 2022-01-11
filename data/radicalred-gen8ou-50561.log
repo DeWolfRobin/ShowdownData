@@ -1,0 +1,234 @@
+|j|☆yourundertaker25
+|j|☆Uninteleon
+|t:|1641774173
+|gametype|singles
+|player|p1|yourundertaker25|rr-gary2|1102
+|player|p2|Uninteleon|rr-ingochandelure|1209
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|rule|Z-Move Clause: Z-Moves are banned
+|clearpoke
+|poke|p1|Ampharos, F|
+|poke|p1|Alomomola, F|
+|poke|p1|Breloom, F|
+|poke|p1|Mantine, F|
+|poke|p1|Krookodile, M|
+|poke|p1|Chesnaught, M|
+|poke|p2|Drampa, F|
+|poke|p2|Appletun, M|
+|poke|p2|Cofagrigus, F|
+|poke|p2|Beheeyem, M|
+|poke|p2|Stakataka|
+|poke|p2|Pincurchin, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yourundertaker25)
+|inactive|Uninteleon has 120 seconds left.
+|
+|t:|1641774217
+|start
+|switch|p1a: Ampharos|Ampharos, F|100/100
+|switch|p2a: AppIetun-Mega|Beheeyem, M|100/100
+|turn|1
+|
+|t:|1641774226
+|move|p1a: Ampharos|Tail Glow|p1a: Ampharos
+|-boost|p1a: Ampharos|spa|3
+|move|p2a: AppIetun-Mega|Hidden Power|p1a: Ampharos
+|-supereffective|p1a: Ampharos
+|-damage|p1a: Ampharos|51/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641774237
+|detailschange|p1a: Ampharos|Ampharos-Mega, F
+|-mega|p1a: Ampharos|Ampharos|Ampharosite
+|move|p1a: Ampharos|Thunderbolt|p2a: AppIetun-Mega
+|-enditem|p2a: AppIetun-Mega|Focus Sash
+|-damage|p2a: AppIetun-Mega|1/100
+|move|p2a: AppIetun-Mega|Trick Room|p2a: AppIetun-Mega
+|-fieldstart|move: Trick Room|[of] p2a: AppIetun-Mega
+|
+|upkeep
+|turn|3
+|
+|t:|1641774250
+|move|p2a: AppIetun-Mega|Psychic|p1a: Ampharos
+|-damage|p1a: Ampharos|15/100
+|-unboost|p1a: Ampharos|spd|1
+|move|p1a: Ampharos|Thunderbolt|p2a: AppIetun-Mega
+|-damage|p2a: AppIetun-Mega|0 fnt
+|faint|p2a: AppIetun-Mega
+|
+|upkeep
+|
+|t:|1641774254
+|switch|p2a: Cofagri|Appletun, M|100/100
+|turn|4
+|
+|t:|1641774262
+|detailschange|p2a: Cofagri|Appletun-Mega, M
+|-mega|p2a: Cofagri|Appletun|Appletunite
+|move|p2a: Cofagri|Draco Meteor|p1a: Ampharos
+|-supereffective|p1a: Ampharos
+|-damage|p1a: Ampharos|0 fnt
+|-boost|p2a: Cofagri|spa|2
+|faint|p1a: Ampharos
+|
+|upkeep
+|
+|t:|1641774269
+|switch|p1a: Mantine|Mantine, F|100/100
+|turn|5
+|
+|t:|1641774272
+|move|p2a: Cofagri|Leaf Storm|p1a: Mantine
+|-damage|p1a: Mantine|2/100
+|-boost|p2a: Cofagri|spa|2
+|move|p1a: Mantine|Toxic|p2a: Cofagri
+|-status|p2a: Cofagri|tox
+|
+|-damage|p2a: Cofagri|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641774281
+|switch|p1a: Breloom|Breloom, F|100/100
+|move|p2a: Cofagri|Leaf Storm|p1a: Breloom
+|-resisted|p1a: Breloom
+|-damage|p1a: Breloom|0 fnt
+|-boost|p2a: Cofagri|spa|2
+|faint|p1a: Breloom
+|
+|-damage|p2a: Cofagri|82/100 tox|[from] psn
+|-fieldend|move: Trick Room
+|upkeep
+|c|☆Uninteleon|sad
+|
+|t:|1641774292
+|switch|p1a: Krookodile|Krookodile, M|100/100
+|turn|7
+|
+|t:|1641774300
+|move|p1a: Krookodile|Dragon Claw|p2a: Cofagri
+|-supereffective|p2a: Cofagri
+|-damage|p2a: Cofagri|37/100 tox
+|move|p2a: Cofagri|Leaf Storm|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|faint|p1a: Krookodile
+|
+|-damage|p2a: Cofagri|18/100 tox|[from] psn
+|upkeep
+|
+|t:|1641774309
+|switch|p1a: Chesnaught|Chesnaught, M|100/100
+|turn|8
+|
+|t:|1641774318
+|switch|p2a: Cofagrigus|Cofagrigus, F|100/100
+|move|p1a: Chesnaught|Substitute|p1a: Chesnaught
+|-start|p1a: Chesnaught|Substitute
+|-damage|p1a: Chesnaught|76/100
+|
+|-heal|p1a: Chesnaught|82/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641774322
+|move|p1a: Chesnaught|Bulk Up|p1a: Chesnaught
+|-boost|p1a: Chesnaught|atk|1
+|-boost|p1a: Chesnaught|def|1
+|move|p2a: Cofagrigus|Trick Room|p2a: Cofagrigus
+|-fieldstart|move: Trick Room|[of] p2a: Cofagrigus
+|
+|-heal|p1a: Chesnaught|88/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641774324
+|move|p2a: Cofagrigus|Shadow Ball|p1a: Chesnaught
+|-immune|p1a: Chesnaught|[from] ability: Bulletproof
+|move|p1a: Chesnaught|Bulk Up|p1a: Chesnaught
+|-boost|p1a: Chesnaught|atk|1
+|-boost|p1a: Chesnaught|def|1
+|
+|-heal|p1a: Chesnaught|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641774329
+|move|p2a: Cofagrigus|Knock Off|p1a: Chesnaught
+|-resisted|p1a: Chesnaught
+|-activate|p1a: Chesnaught|move: Substitute|[damage]
+|move|p1a: Chesnaught|Bulk Up|p1a: Chesnaught
+|-boost|p1a: Chesnaught|atk|1
+|-boost|p1a: Chesnaught|def|1
+|
+|-heal|p1a: Chesnaught|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641774334
+|switch|p2a: Drampa|Drampa, F|100/100
+|move|p1a: Chesnaught|Bulk Up|p1a: Chesnaught
+|-boost|p1a: Chesnaught|atk|1
+|-boost|p1a: Chesnaught|def|1
+|
+|upkeep
+|turn|13
+|c|☆Uninteleon|stop
+|
+|t:|1641774346
+|move|p2a: Drampa|Fire Blast|p1a: Chesnaught
+|-supereffective|p1a: Chesnaught
+|-end|p1a: Chesnaught|Substitute
+|move|p1a: Chesnaught|Horn Leech|p2a: Drampa
+|-resisted|p2a: Drampa
+|-crit|p2a: Drampa
+|-damage|p2a: Drampa|16/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|14
+|c|☆yourundertaker25|um
+|c|☆yourundertaker25|no
+|
+|t:|1641774357
+|move|p1a: Chesnaught|Horn Leech|p2a: Drampa
+|-resisted|p2a: Drampa
+|-damage|p2a: Drampa|0 fnt
+|faint|p2a: Drampa
+|
+|upkeep
+|
+|t:|1641774360
+|switch|p2a: Cofagrigus|Cofagrigus, F|100/100
+|turn|15
+|
+|t:|1641774363
+|move|p1a: Chesnaught|Substitute|p1a: Chesnaught
+|-start|p1a: Chesnaught|Substitute
+|-damage|p1a: Chesnaught|76/100
+|move|p2a: Cofagrigus|Trick Room|p2a: Cofagrigus
+|-fieldstart|move: Trick Room|[of] p2a: Cofagrigus
+|
+|-heal|p1a: Chesnaught|82/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|-message|Uninteleon forfeited.
+|
+|win|yourundertaker25
+|raw|yourundertaker25's rating: 1102 &rarr; <strong>1147</strong><br />(+45 for winning)
+|raw|Uninteleon's rating: 1209 &rarr; <strong>1188</strong><br />(-21 for losing)
+|l|☆Uninteleon

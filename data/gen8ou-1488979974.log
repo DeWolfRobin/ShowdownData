@@ -1,0 +1,239 @@
+|j|☆Lil Pokemane
+|j|☆lapt1
+|t:|1641842854
+|gametype|singles
+|player|p1|Lil Pokemane|flannery|1413
+|player|p2|lapt1|red-gen7|1415
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Venusaur, F|
+|poke|p1|Weavile, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Nidoking, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowbro, F|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1641842871
+|start
+|switch|p1a: Toadally Original|Torkoal, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Toadally Original|atk|1
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Toadally Original
+|turn|1
+|
+|t:|1641842884
+|switch|p1a: Big Head lil hand|Dragapult, F|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Big Head lil hand
+|-sidestart|p1: Lil Pokemane|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641842893
+|move|p1a: Big Head lil hand|Draco Meteor|p2a: Landorus
+|-damage|p2a: Landorus|7/100
+|-unboost|p1a: Big Head lil hand|spa|2
+|move|p2a: Landorus|Toxic|p1a: Big Head lil hand
+|-status|p1a: Big Head lil hand|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Landorus|13/100|[from] item: Leftovers
+|-damage|p1a: Big Head lil hand|95/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641842910
+|switch|p1a: Underused|Landorus-Therian, M|100/100
+|-damage|p1a: Underused|88/100|[from] Stealth Rock
+|-ability|p1a: Underused|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Underused|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641842922
+|move|p2a: Tornadus|Knock Off|p1a: Underused
+|-damage|p1a: Underused|76/100
+|-enditem|p1a: Underused|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Underused|Defog|p2a: Tornadus
+|-unboost|p2a: Tornadus|evasion|1
+|-sideend|p1: Lil Pokemane|Stealth Rock|[from] move: Defog|[of] p1a: Underused
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641842932
+|move|p2a: Tornadus|U-turn|p1a: Underused
+|-resisted|p1a: Underused
+|-damage|p1a: Underused|69/100
+|
+|t:|1641842936
+|switch|p2a: Landorus|Landorus-Therian, M|13/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Underused|atk|1
+|move|p1a: Underused|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|7/100
+|
+|t:|1641842954
+|switch|p1a: Didn't Steal This|Venusaur, F|100/100|[from]move: U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Landorus|13/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641842963
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Didn't Steal This|Weather Ball|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641842973
+|move|p1a: Didn't Steal This|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|9/100
+|-damage|p1a: Didn't Steal This|91/100|[from] item: Life Orb
+|move|p2a: Heatran|Magma Storm|p1a: Didn't Steal This
+|-supereffective|p1a: Didn't Steal This
+|-crit|p1a: Didn't Steal This
+|-damage|p1a: Didn't Steal This|0 fnt
+|faint|p1a: Didn't Steal This
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Heatran|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641842977
+|switch|p1a: Big Head lil hand|Dragapult, F|95/100 tox
+|turn|8
+|
+|t:|1641842995
+|-end|p2a: Heatran|ability: Flash Fire|[silent]
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Big Head lil hand|Shadow Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|43/100
+|
+|-weather|none
+|-damage|p1a: Big Head lil hand|89/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641843008
+|switch|p2a: Heatran|Heatran, M|15/100
+|move|p1a: Big Head lil hand|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-damage|p1a: Big Head lil hand|77/100 tox|[from] psn
+|upkeep
+|
+|t:|1641843024
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|10
+|
+|t:|1641843030
+|switch|p1a: Underused|Landorus-Therian, M|69/100
+|-ability|p1a: Underused|Intimidate|boost
+|-unboost|p2a: Nidoking|atk|1
+|move|p2a: Nidoking|Poison Jab|p1a: Underused
+|-resisted|p1a: Underused
+|-damage|p1a: Underused|48/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641843050
+|switch|p2a: Tornadus|Tornadus-Therian, M|76/100
+|move|p1a: Underused|U-turn|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|64/100
+|
+|t:|1641843061
+|switch|p1a: New Weavile Merch|Weavile, M|100/100|[from]move: U-turn
+|-ability|p1a: New Weavile Merch|Pressure
+|
+|upkeep
+|turn|12
+|
+|t:|1641843072
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: New Weavile Merch|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|23/100
+|-enditem|p2a: Slowbro|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: New Weavile Merch
+|
+|upkeep
+|turn|13
+|
+|t:|1641843084
+|switch|p2a: Tornadus|Tornadus-Therian, M|97/100
+|move|p1a: New Weavile Merch|Knock Off|p2a: Tornadus
+|-crit|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|-enditem|p2a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: New Weavile Merch
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1641843092
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|14
+|
+|t:|1641843100
+|move|p1a: New Weavile Merch|Knock Off|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|67/100
+|-enditem|p2a: Urshifu|Choice Band|[from] move: Knock Off|[of] p1a: New Weavile Merch
+|move|p2a: Urshifu|U-turn|p1a: New Weavile Merch
+|-supereffective|p1a: New Weavile Merch
+|-damage|p1a: New Weavile Merch|19/100
+|
+|t:|1641843107
+|switch|p2a: Nidoking|Nidoking, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|15
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by lapt1)
+|inactive|Lil Pokemane has 120 seconds left.
+|inactive|Lil Pokemane has 90 seconds left.
+|inactive|Lil Pokemane has 60 seconds left.
+|inactive|Lil Pokemane has 30 seconds left.
+|inactive|Lil Pokemane has 20 seconds left.
+|inactive|Lil Pokemane has 15 seconds left.
+|inactive|Lil Pokemane has 10 seconds left.
+|inactive|Lil Pokemane has 5 seconds left.
+|-message|Lil Pokemane lost due to inactivity.
+|
+|win|lapt1
+|raw|Lil Pokemane's rating: 1413 &rarr; <strong>1393</strong><br />(-20 for losing)
+|raw|lapt1's rating: 1415 &rarr; <strong>1435</strong><br />(+20 for winning)
+|l|☆Lil Pokemane
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

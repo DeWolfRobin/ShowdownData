@@ -1,0 +1,563 @@
+|j|☆dxlf_
+|j|☆ggdoublebros
+|t:|1641876600
+|gametype|singles
+|player|p1|dxlf_|bruno|1156
+|player|p2|ggdoublebros|cynthia-gen4|1108
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Togekiss, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Jirachi|
+|poke|p1|Garchomp, M|
+|poke|p1|Skarmory, M|
+|poke|p1|Umbreon, M|
+|poke|p2|Lucario, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Dragapult, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1641876610
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ggdoublebros)
+|
+|t:|1641876618
+|switch|p1a: Umbreon|Umbreon, M|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Umbreon|[miss]
+|-miss|p2a: Heatran|p1a: Umbreon
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heatran|94/100|[from] Hail
+|-damage|p1a: Umbreon|94/100|[from] Hail
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-heal|p1a: Umbreon|100/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641876632
+|move|p2a: Heatran|Toxic|p1a: Umbreon
+|-status|p1a: Umbreon|tox
+|-activate|p1a: Umbreon|ability: Synchronize
+|-immune|p2a: Heatran
+|move|p1a: Umbreon|Yawn|p2a: Heatran
+|-start|p2a: Heatran|move: Yawn|[of] p1a: Umbreon
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heatran|94/100|[from] Hail
+|-damage|p1a: Umbreon|94/100 tox|[from] Hail
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-heal|p1a: Umbreon|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Umbreon|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|dxlf_ has 120 seconds left.
+|
+|t:|1641876663
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tapu Fini|94/100|[from] Hail
+|-damage|p1a: Umbreon|88/100 tox|[from] Hail
+|-heal|p1a: Umbreon|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Umbreon|82/100 tox|[from] psn
+|upkeep
+|turn|4
+|inactive|dxlf_ has 120 seconds left.
+|
+|t:|1641876689
+|switch|p1a: Jirachi|Jirachi|100/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|84/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tapu Fini|88/100|[from] Hail
+|-damage|p1a: Jirachi|78/100|[from] Hail
+|-heal|p1a: Jirachi|100/100|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|turn|5
+|
+|t:|1641876703
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Jirachi|Cosmic Power|p1a: Jirachi
+|-boost|p1a: Jirachi|def|1
+|-boost|p1a: Jirachi|spd|1
+|
+|-weather|none
+|upkeep
+|turn|6
+|inactive|dxlf_ has 120 seconds left.
+|
+|t:|1641876723
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|move|p2a: Heatran|Magma Storm|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|44/100
+|-activate|p1a: Jirachi|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Jirachi|50/100|[from] item: Leftovers
+|-damage|p1a: Jirachi|38/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1641876739
+|move|p1a: Jirachi|Iron Head|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|93/100
+|move|p2a: Heatran|Magma Storm|p1a: Jirachi|[miss]
+|-miss|p2a: Heatran|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|88/100|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Jirachi|94/100|[from] item: Leftovers
+|-heal|p2a: Heatran|99/100|[from] item: Leftovers
+|-damage|p1a: Jirachi|82/100|[from] move: Magma Storm|[partiallytrapped]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|8
+|inactive|dxlf_ has 120 seconds left.
+|c|☆ggdoublebros|Bruh what is this
+|
+|t:|1641876766
+|move|p1a: Jirachi|Power-Up Punch|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|81/100
+|-boost|p1a: Jirachi|atk|1
+|move|p2a: Heatran|Taunt|p1a: Jirachi
+|-start|p1a: Jirachi|move: Taunt
+|
+|-heal|p1a: Jirachi|88/100|[from] item: Leftovers
+|-heal|p2a: Heatran|87/100|[from] item: Leftovers
+|-damage|p1a: Jirachi|75/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641876779
+|move|p1a: Jirachi|Power-Up Punch|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|60/100
+|-boost|p1a: Jirachi|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Jirachi|[miss]
+|-miss|p2a: Heatran|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|82/100|[from] item: Leftovers
+|-heal|p2a: Heatran|66/100|[from] item: Leftovers
+|-damage|p1a: Jirachi|69/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|c|☆dxlf_|u getting rekt
+|
+|t:|1641876791
+|move|p1a: Jirachi|Power-Up Punch|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|32/100
+|-boost|p1a: Jirachi|atk|1
+|move|p2a: Heatran|Toxic|p1a: Jirachi
+|-immune|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|75/100|[from] item: Leftovers
+|-heal|p2a: Heatran|39/100|[from] item: Leftovers
+|-damage|p1a: Jirachi|63/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|inactive|dxlf_ has 120 seconds left.
+|c|☆dxlf_|nice
+|
+|t:|1641876805
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Jirachi|Power-Up Punch|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|-heal|p1a: Jirachi|69/100|[from] item: Leftovers
+|-end|p1a: Jirachi|Magma Storm|[partiallytrapped]
+|-end|p1a: Jirachi|move: Taunt
+|upkeep
+|turn|12
+|
+|t:|1641876818
+|move|p2a: Dragapult|Fire Blast|p1a: Jirachi|[miss]
+|-miss|p2a: Dragapult|p1a: Jirachi
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|75/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|c|☆ggdoublebros|Bruh
+|
+|t:|1641876829
+|move|p2a: Dragapult|Fire Blast|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|24/100
+|move|p1a: Jirachi|Cosmic Power|p1a: Jirachi
+|-boost|p1a: Jirachi|def|1
+|-boost|p1a: Jirachi|spd|1
+|
+|-heal|p1a: Jirachi|74/100|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Jirachi|80/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641876841
+|move|p2a: Dragapult|Fire Blast|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|36/100
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|42/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641876860
+|move|p2a: Dragapult|Fire Blast|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|5/100
+|move|p1a: Jirachi|Cosmic Power|p1a: Jirachi
+|-boost|p1a: Jirachi|def|1
+|-boost|p1a: Jirachi|spd|1
+|
+|-heal|p1a: Jirachi|55/100|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Jirachi|61/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641876872
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|68/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|ggdoublebros has 120 seconds left.
+|
+|t:|1641876895
+|switch|p2a: Lucario|Lucario, F|100/100
+|move|p1a: Jirachi|Power-Up Punch|p2a: Lucario
+|-supereffective|p2a: Lucario
+|-damage|p2a: Lucario|29/100
+|-boost|p1a: Jirachi|atk|1
+|
+|-heal|p1a: Jirachi|100/100|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|18
+|inactive|ggdoublebros has 120 seconds left.
+|
+|t:|1641876908
+|move|p1a: Jirachi|Power-Up Punch|p2a: Lucario
+|-supereffective|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|-boost|p1a: Jirachi|atk|1
+|faint|p2a: Lucario
+|
+|upkeep
+|
+|t:|1641876917
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|19
+|
+|t:|1641876921
+|move|p1a: Jirachi|Iron Head|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|66/100
+|-status|p1a: Jirachi|par|[from] ability: Static|[of] p2a: Zapdos
+|cant|p2a: Zapdos|flinch
+|
+|upkeep
+|turn|20
+|
+|t:|1641876929
+|move|p2a: Zapdos|Heat Wave|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|83/100 par
+|move|p1a: Jirachi|Iron Head|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|29/100
+|
+|-heal|p1a: Jirachi|89/100 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641876941
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|79/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Jirachi|Iron Head|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|45/100
+|
+|-heal|p1a: Jirachi|95/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641876952
+|move|p2a: Zapdos|Heat Wave|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|78/100 par
+|move|p1a: Jirachi|Power-Up Punch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|33/100
+|-boost|p1a: Jirachi|atk|1
+|
+|-heal|p1a: Jirachi|84/100 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641876957
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|83/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Jirachi|Iron Head|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|41/100
+|
+|-heal|p1a: Jirachi|91/100 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆ggdoublebros|Paralyze
+|
+|t:|1641876971
+|move|p2a: Zapdos|Heat Wave|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|74/100 par
+|move|p1a: Jirachi|Iron Head|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|2/100
+|
+|-heal|p1a: Jirachi|80/100 par|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641876983
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|52/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Jirachi|Iron Head|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|12/100
+|
+|-heal|p1a: Jirachi|86/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641877000
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Jirachi|atk|1
+|move|p1a: Jirachi|Iron Head|p2a: Landorus
+|-damage|p2a: Landorus|2/100
+|
+|-heal|p2a: Landorus|8/100|[from] item: Leftovers
+|-heal|p1a: Jirachi|92/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641877019
+|move|p2a: Landorus|Earthquake|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-crit|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|-heal|p2a: Landorus|14/100|[from] item: Leftovers
+|upkeep
+|c|☆dxlf_|nooo
+|c|☆ggdoublebros|Finaallly
+|
+|t:|1641877036
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|28
+|
+|t:|1641877042
+|move|p1a: Ninetales|Freeze-Dry|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641877047
+|switch|p2a: Heatran|Heatran, M|39/100
+|turn|29
+|
+|t:|1641877061
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|72/100
+|-activate|p1a: Garchomp|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Garchomp|66/100|[from] Hail
+|-damage|p2a: Heatran|32/100|[from] Hail
+|-heal|p1a: Garchomp|72/100|[from] item: Leftovers
+|-heal|p2a: Heatran|39/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|60/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|30
+|
+|t:|1641877075
+|move|p1a: Garchomp|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Garchomp|54/100|[from] Hail
+|-heal|p1a: Garchomp|60/100|[from] item: Leftovers
+|-end|p1a: Garchomp|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641877084
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|31
+|
+|t:|1641877090
+|move|p2a: Dragapult|Fire Blast|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|32/100
+|move|p1a: Garchomp|Dragon Tail|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|15/100
+|drag|p2a: Zapdos|Zapdos|12/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Garchomp|26/100|[from] Hail
+|-damage|p2a: Zapdos|6/100|[from] Hail
+|-heal|p1a: Garchomp|32/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|c|☆ggdoublebros|I accidentaly clicked fire blast
+|c|☆ggdoublebros|I wanted to do draci meteor
+|inactive|ggdoublebros has 120 seconds left.
+|c|☆dxlf_|dang sun
+|c|☆ggdoublebros|Draci
+|c|☆dxlf_|that might've change the whole game
+|c|☆ggdoublebros|Draco
+|c|☆ggdoublebros|Ya
+|
+|t:|1641877136
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|none
+|upkeep
+|c|☆ggdoublebros|Omg
+|inactive|dxlf_ has 120 seconds left.
+|
+|t:|1641877149
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|33
+|c|☆ggdoublebros|1 attack that doesnt miss
+|
+|t:|1641877154
+|move|p1a: Ninetales|Freeze-Dry|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641877164
+|switch|p2a: Dragapult|Dragapult, F|15/100
+|turn|34
+|inactive|ggdoublebros has 120 seconds left.
+|
+|t:|1641877170
+|move|p2a: Dragapult|Fire Blast|p1a: Ninetales|[miss]
+|-miss|p2a: Dragapult|p1a: Ninetales
+|move|p1a: Ninetales|Freeze-Dry|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|inactive|ggdoublebros has 120 seconds left.
+|c|☆ggdoublebros|Really
+|
+|t:|1641877182
+|switch|p2a: Tapu Fini|Tapu Fini|88/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|35
+|c|☆dxlf_|lmfao
+|inactive|ggdoublebros has 120 seconds left.
+|
+|t:|1641877192
+|move|p2a: Tapu Fini|Moonblast|p1a: Ninetales
+|-damage|p1a: Ninetales|55/100
+|-unboost|p1a: Ninetales|spa|1
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: dxlf_|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tapu Fini|82/100|[from] Hail
+|-heal|p1a: Ninetales|61/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|inactive|ggdoublebros has 120 seconds left.
+|
+|t:|1641877202
+|move|p2a: Tapu Fini|Moonblast|p1a: Ninetales
+|-damage|p1a: Ninetales|39/100
+|move|p1a: Ninetales|Freeze-Dry|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|47/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tapu Fini|41/100|[from] Hail
+|-heal|p1a: Ninetales|45/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|inactive|ggdoublebros has 120 seconds left.
+|
+|t:|1641877213
+|move|p2a: Tapu Fini|Moonblast|p1a: Ninetales
+|-damage|p1a: Ninetales|20/100
+|move|p1a: Ninetales|Freeze-Dry|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|5/100
+|
+|-weather|none
+|-heal|p1a: Ninetales|26/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641877223
+|move|p2a: Tapu Fini|Moonblast|p1a: Ninetales
+|-damage|p1a: Ninetales|4/100
+|move|p1a: Ninetales|Freeze-Dry|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|win|dxlf_
+|raw|dxlf_'s rating: 1156 &rarr; <strong>1178</strong><br />(+22 for winning)
+|raw|ggdoublebros's rating: 1108 &rarr; <strong>1086</strong><br />(-22 for losing)
+|c|☆ggdoublebros|Gg
+|c|☆dxlf_|gg
+|l|☆dxlf_
+|c|☆ggdoublebros|Wtf was this game

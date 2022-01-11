@@ -1,0 +1,488 @@
+|j|☆gator gator gator
+|j|☆Hijiri Airen
+|t:|1641774490
+|gametype|singles
+|player|p1|gator gator gator|unknown|1473
+|player|p2|Hijiri Airen|teamrocket|1508
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kommo-o, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Zapdos|
+|poke|p1|Melmetal|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Mamoswine, M|
+|poke|p2|Gardevoir, F|
+|poke|p2|Blaziken, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Rotom-Wash|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gator gator gator)
+|c|☆gator gator gator|hey daddy...
+|inactive|gator gator gator has 120 seconds left.
+|
+|t:|1641774522
+|start
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|1
+|
+|t:|1641774532
+|move|p1a: Dragapult|Shadow Ball|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|61/100
+|move|p2a: Slowking|Psychic|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|25/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641774554
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Slowking|Psychic|p1a: Volcarona
+|-damage|p1a: Volcarona|70/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641774558
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641774568
+|move|p1a: Volcarona|Psychic|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1641774583
+|switch|p2a: Gardevoir|Gardevoir, F|100/100
+|-ability|p2a: Gardevoir|Flame Body|[from] ability: Trace|[of] p1a: Volcarona
+|turn|5
+|
+|t:|1641774592
+|move|p2a: Gardevoir|Trick|p1a: Volcarona
+|-activate|p2a: Gardevoir|move: Trick|[of] p1a: Volcarona
+|-item|p1a: Volcarona|Choice Scarf|[from] move: Trick
+|-item|p2a: Gardevoir|Heavy-Duty Boots|[from] move: Trick
+|move|p1a: Volcarona|Fiery Dance|p2a: Gardevoir
+|-damage|p2a: Gardevoir|44/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641774599
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Volcarona|Fiery Dance|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|68/100
+|
+|-heal|p2a: Tapu Fini|74/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641774601
+|move|p1a: Volcarona|Fiery Dance|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|52/100
+|move|p2a: Tapu Fini|Whirlpool|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|56/100
+|-activate|p1a: Volcarona|move: Whirlpool|[of] p2a: Tapu Fini
+|
+|-heal|p2a: Tapu Fini|58/100|[from] item: Leftovers
+|-damage|p1a: Volcarona|43/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641774613
+|move|p1a: Volcarona|Fiery Dance|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|39/100
+|-boost|p1a: Volcarona|spa|1
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Volcarona
+|-damage|p1a: Volcarona|22/100
+|
+|-heal|p2a: Tapu Fini|45/100|[from] item: Leftovers
+|-damage|p1a: Volcarona|10/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641774617
+|move|p1a: Volcarona|Fiery Dance|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-end|p1a: Volcarona|Whirlpool|[partiallytrapped]|[silent]
+|upkeep
+|c|☆gator gator gator|YES
+|
+|t:|1641774622
+|switch|p2a: Mamoswine|Mamoswine, M|100/100
+|turn|10
+|c|☆gator gator gator|LETS GO
+|
+|t:|1641774626
+|move|p2a: Mamoswine|Ice Shard|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: Mamoswine|91/100|[from] item: Life Orb
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641774630
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|11
+|
+|t:|1641774635
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|93/100
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|86/100
+|-hitcount|p2a: Rotom|2
+|
+|-heal|p2a: Rotom|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641774639
+|move|p2a: Rotom|Will-O-Wisp|p1a: Melmetal|[miss]
+|-miss|p2a: Rotom|p1a: Melmetal
+|move|p1a: Melmetal|Thunder Punch|p2a: Rotom
+|-damage|p2a: Rotom|68/100
+|
+|-heal|p2a: Rotom|74/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641774646
+|switch|p1a: Dragapult|Dragapult, M|25/100
+|move|p2a: Rotom|Will-O-Wisp|p1a: Dragapult|[miss]
+|-miss|p2a: Rotom|p1a: Dragapult
+|
+|-heal|p2a: Rotom|80/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641774659
+|switch|p2a: Gardevoir|Gardevoir, F|44/100
+|-ability|p2a: Gardevoir|Infiltrator|[from] ability: Trace|[of] p1a: Dragapult
+|move|p1a: Dragapult|Draco Meteor|p2a: Gardevoir
+|-immune|p2a: Gardevoir
+|
+|upkeep
+|turn|15
+|
+|t:|1641774672
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Gardevoir|Moonblast|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|89/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641774680
+|switch|p2a: Rotom|Rotom-Wash|80/100
+|move|p1a: Melmetal|Thunder Punch|p2a: Rotom
+|-damage|p2a: Rotom|55/100
+|
+|-heal|p2a: Rotom|62/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641774683
+|move|p2a: Rotom|Will-O-Wisp|p1a: Melmetal|[miss]
+|-miss|p2a: Rotom|p1a: Melmetal
+|move|p1a: Melmetal|Thunder Punch|p2a: Rotom
+|-damage|p2a: Rotom|39/100
+|
+|-heal|p2a: Rotom|45/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|c|☆gator gator gator|dude
+|c|☆gator gator gator|wtf
+|c|☆gator gator gator|lol
+|
+|t:|1641774688
+|move|p2a: Rotom|Will-O-Wisp|p1a: Melmetal
+|-status|p1a: Melmetal|brn
+|move|p1a: Melmetal|Thunder Punch|p2a: Rotom
+|-damage|p2a: Rotom|32/100
+|
+|-heal|p2a: Rotom|39/100|[from] item: Leftovers
+|-damage|p1a: Melmetal|83/100 brn|[from] brn
+|upkeep
+|turn|19
+|c|☆Hijiri Airen|sucks, but it happens
+|
+|t:|1641774698
+|move|p2a: Rotom|Hydro Pump|p1a: Melmetal
+|-damage|p1a: Melmetal|62/100 brn
+|move|p1a: Melmetal|Thunder Punch|p2a: Rotom
+|-damage|p2a: Rotom|27/100
+|
+|-heal|p2a: Rotom|33/100|[from] item: Leftovers
+|-damage|p1a: Melmetal|56/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641774707
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Rotom|Hydro Pump|p1a: Zapdos|[miss]
+|-miss|p2a: Rotom|p1a: Zapdos
+|
+|-heal|p2a: Rotom|40/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641774722
+|switch|p2a: Slowking|Slowking-Galar, F|94/100
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|75/100
+|-start|p2a: Slowking|confusion
+|
+|upkeep
+|turn|22
+|
+|t:|1641774737
+|move|p1a: Zapdos|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|62/100
+|inactive|gator gator gator has 120 seconds left.
+|
+|t:|1641774773
+|switch|p1a: Melmetal|Melmetal|56/100 brn|[from]move: Volt Switch
+|-activate|p2a: Slowking|confusion
+|-damage|p2a: Slowking|57/100|[from] confusion
+|
+|-damage|p1a: Melmetal|50/100 brn|[from] brn
+|upkeep
+|turn|23
+|inactive|gator gator gator has 120 seconds left.
+|
+|t:|1641774797
+|switch|p2a: Rotom|Rotom-Wash|40/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|36/100
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|32/100
+|-hitcount|p2a: Rotom|2
+|
+|-heal|p2a: Rotom|39/100|[from] item: Leftovers
+|-damage|p1a: Melmetal|44/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641774807
+|move|p2a: Rotom|Hydro Pump|p1a: Melmetal
+|-damage|p1a: Melmetal|25/100 brn
+|move|p1a: Melmetal|Thunder Punch|p2a: Rotom
+|-damage|p2a: Rotom|28/100
+|
+|-heal|p2a: Rotom|34/100|[from] item: Leftovers
+|-damage|p1a: Melmetal|19/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641774819
+|move|p2a: Rotom|Volt Switch|p1a: Melmetal
+|-damage|p1a: Melmetal|6/100 brn
+|
+|t:|1641774824
+|switch|p2a: Gardevoir|Gardevoir, F|44/100|[from]move: Volt Switch
+|-ability|p2a: Gardevoir|Iron Fist|[from] ability: Trace|[of] p1a: Melmetal
+|move|p1a: Melmetal|Double Iron Bash|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|-hitcount|p2: Gardevoir|1
+|
+|-damage|p1a: Melmetal|0 fnt|[from] brn
+|faint|p1a: Melmetal
+|upkeep
+|
+|t:|1641774834
+|switch|p2a: Slowking|Slowking-Galar, F|90/100
+|switch|p1a: Dragapult|Dragapult, M|25/100
+|turn|26
+|
+|t:|1641774841
+|move|p1a: Dragapult|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|71/100
+|
+|t:|1641774863
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|move|p2a: Slowking|Future Sight|p1a: Zapdos
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|27
+|
+|t:|1641774868
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|52/100
+|move|p2a: Slowking|Psychic|p1a: Zapdos
+|-damage|p1a: Zapdos|67/100
+|
+|upkeep
+|turn|28
+|
+|t:|1641774878
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Slowking|Psychic|p1a: Zapdos
+|-damage|p1a: Zapdos|68/100
+|
+|-end|p1a: Zapdos|move: Future Sight
+|-damage|p1a: Zapdos|25/100
+|upkeep
+|turn|29
+|
+|t:|1641774898
+|switch|p2a: Mamoswine|Mamoswine, M|91/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|75/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|30
+|
+|t:|1641774901
+|move|p2a: Mamoswine|Icicle Crash|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Mamoswine|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641774916
+|switch|p1a: Dragapult|Dragapult, M|25/100
+|turn|31
+|
+|t:|1641774920
+|move|p2a: Mamoswine|Ice Shard|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Mamoswine|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641774924
+|switch|p1a: Kommo-o|Kommo-o, F, shiny|100/100
+|turn|32
+|
+|t:|1641774930
+|move|p1a: Kommo-o|Drain Punch|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|faint|p2a: Mamoswine
+|
+|upkeep
+|
+|t:|1641774933
+|switch|p2a: Slowking|Slowking-Galar, F|85/100
+|turn|33
+|
+|t:|1641774941
+|move|p1a: Kommo-o|Belly Drum|p1a: Kommo-o
+|-damage|p1a: Kommo-o|50/100
+|-setboost|p1a: Kommo-o|atk|6|[from] move: Belly Drum
+|move|p2a: Slowking|Psychic|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1641774943
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|turn|34
+|
+|t:|1641774951
+|switch|p2a: Rotom|Rotom-Wash|34/100
+|move|p1a: Landorus|Earthquake|p2a: Rotom
+|-immune|p2a: Rotom|[from] ability: Levitate
+|
+|-heal|p2a: Rotom|40/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641774953
+|move|p1a: Landorus|U-turn|p2a: Rotom
+|-damage|p2a: Rotom|24/100
+|move|p2a: Rotom|Will-O-Wisp|p1a: Landorus|[miss]
+|-miss|p2a: Rotom|p1a: Landorus
+|
+|-heal|p2a: Rotom|30/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641774961
+|move|p1a: Landorus|Toxic|p2a: Rotom
+|-status|p2a: Rotom|tox
+|move|p2a: Rotom|Will-O-Wisp|p1a: Landorus
+|-status|p1a: Landorus|brn
+|
+|-heal|p2a: Rotom|36/100 tox|[from] item: Leftovers
+|-damage|p2a: Rotom|30/100 tox|[from] psn
+|-damage|p1a: Landorus|94/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641774965
+|move|p1a: Landorus|U-turn|p2a: Rotom
+|-damage|p2a: Rotom|21/100 tox
+|move|p2a: Rotom|Hydro Pump|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|6/100 brn
+|
+|-heal|p1a: Landorus|12/100 brn|[from] item: Leftovers
+|-heal|p2a: Rotom|27/100 tox|[from] item: Leftovers
+|-damage|p2a: Rotom|15/100 tox|[from] psn
+|-damage|p1a: Landorus|6/100 brn|[from] brn
+|upkeep
+|turn|38
+|c|☆gator gator gator|gg
+|-message|gator gator gator forfeited.
+|
+|win|Hijiri Airen
+|raw|gator gator gator's rating: 1473 &rarr; <strong>1455</strong><br />(-18 for losing)
+|raw|Hijiri Airen's rating: 1508 &rarr; <strong>1526</strong><br />(+18 for winning)
+|l|☆gator gator gator
+|c|☆Hijiri Airen|gg

@@ -1,0 +1,344 @@
+|j|☆mastered.Bu
+|j|☆Strikerorg
+|t:|1641860368
+|gametype|singles
+|player|p1|mastered.Bu|volkner|
+|player|p2|Strikerorg|acetrainer-gen4dp|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Cursola, F|
+|poke|p1|Slowbro, M|
+|poke|p1|Talonflame, M|
+|poke|p1|Mamoswine, M|
+|poke|p1|Scolipede, F|
+|poke|p1|Snorlax, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Tapu Fini|
+|poke|p2|Heatran, M|
+|poke|p2|Weavile, F|
+|poke|p2|Dragonite, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Strikerorg)
+|
+|t:|1641860383
+|start
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|switch|p2a: Caracas|Ferrothorn, M, shiny|100/100
+|turn|1
+|c|☆Strikerorg|Uwu
+|c|☆mastered.Bu|Quita el timer un
+|
+|t:|1641860410
+|move|p1a: Mamoswine|Stealth Rock|p2a: Caracas
+|-sidestart|p2: Strikerorg|move: Stealth Rock
+|move|p2a: Caracas|Stealth Rock|p1a: Mamoswine
+|-sidestart|p1: mastered.Bu|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641860423
+|move|p1a: Mamoswine|Stealth Rock||[still]
+|-fail|p1a: Mamoswine
+|move|p2a: Caracas|Leech Seed|p1a: Mamoswine
+|-start|p1a: Mamoswine|move: Leech Seed
+|
+|-damage|p1a: Mamoswine|88/100|[from] Leech Seed|[of] p2a: Caracas
+|upkeep
+|turn|3
+|c|☆Strikerorg|XD
+|inactive|mastered.Bu has 270 seconds left.
+|
+|t:|1641860458
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|move|p2a: Caracas|Spikes|p1a: Talonflame
+|-sidestart|p1: mastered.Bu|Spikes
+|
+|upkeep
+|turn|4
+|inactiveoff|Battle timer is now OFF.
+|c|☆mastered.Bu|Unu
+|c|☆Strikerorg|Okok
+|c|☆Strikerorg|Perdón :(
+|
+|t:|1641860481
+|move|p1a: Talonflame|Defog|p2a: Caracas
+|-unboost|p2a: Caracas|evasion|1
+|-sideend|p2: Strikerorg|Stealth Rock|[from] move: Defog|[of] p1a: Talonflame
+|-sideend|p1: mastered.Bu|Spikes|[from] move: Defog|[of] p1a: Talonflame
+|-sideend|p1: mastered.Bu|Stealth Rock|[from] move: Defog|[of] p1a: Talonflame
+|move|p2a: Caracas|Thunder Wave|p1a: Talonflame|[miss]
+|-miss|p2a: Caracas|p1a: Talonflame
+|
+|upkeep
+|turn|5
+|
+|t:|1641860520
+|move|p1a: Talonflame|Brave Bird|p2a: Caracas
+|-damage|p2a: Caracas|72/100
+|-damage|p1a: Talonflame|88/100|[from] ability: Iron Barbs|[of] p2a: Caracas
+|-damage|p1a: Talonflame|72/100|[from] item: Rocky Helmet|[of] p2a: Caracas
+|-damage|p1a: Talonflame|60/100|[from] Recoil
+|move|p2a: Caracas|Stealth Rock|p1a: Talonflame
+|-sidestart|p1: mastered.Bu|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1641860550
+|move|p1a: Talonflame|Roost|p1a: Talonflame
+|-heal|p1a: Talonflame|100/100
+|-singleturn|p1a: Talonflame|move: Roost
+|move|p2a: Caracas|Thunder Wave|p1a: Talonflame|[miss]
+|-miss|p2a: Caracas|p1a: Talonflame
+|
+|upkeep
+|turn|7
+|c|☆Strikerorg|Xd
+|
+|t:|1641860574
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Talonflame|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|92/100
+|
+|t:|1641860593
+|switch|p1a: Slowbro|Slowbro, M|100/100|[from]move: U-turn
+|-damage|p1a: Slowbro|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Tapu Fini|98/100|[from] item: Leftovers
+|-heal|p1a: Slowbro|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641860617
+|move|p2a: Tapu Fini|Taunt|p1a: Slowbro
+|-start|p1a: Slowbro|move: Taunt
+|move|p1a: Slowbro|Future Sight|p2a: Tapu Fini
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Tapu Fini|100/100|[from] item: Leftovers
+|-heal|p1a: Slowbro|99/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641860631
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Slowbro|Scald|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|94/100
+|
+|-heal|p2a: Tapu Fini|99/100|[from] item: Leftovers
+|-heal|p1a: Slowbro|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641860667
+|switch|p1a: Cursola|Cursola, F|100/100
+|-damage|p1a: Cursola|88/100|[from] Stealth Rock
+|move|p2a: Tapu Fini|Moonblast|p1a: Cursola
+|-damage|p1a: Cursola|45/100
+|
+|-end|p2a: Tapu Fini|move: Future Sight
+|-damage|p2a: Tapu Fini|77/100
+|-heal|p2a: Tapu Fini|83/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641860681
+|move|p2a: Tapu Fini|Moonblast|p1a: Cursola
+|-damage|p1a: Cursola|4/100
+|-unboost|p1a: Cursola|spa|1
+|move|p1a: Cursola|Strength Sap|p2a: Tapu Fini
+|-unboost|p2a: Tapu Fini|atk|1
+|-heal|p1a: Cursola|46/100
+|
+|-heal|p2a: Tapu Fini|89/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|12
+|
+|t:|1641860694
+|move|p2a: Tapu Fini|Moonblast|p1a: Cursola
+|-damage|p1a: Cursola|10/100
+|move|p1a: Cursola|Strength Sap|p2a: Tapu Fini
+|-unboost|p2a: Tapu Fini|atk|1
+|-heal|p1a: Cursola|38/100
+|
+|-heal|p2a: Tapu Fini|95/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641860708
+|move|p2a: Tapu Fini|Moonblast|p1a: Cursola
+|-damage|p1a: Cursola|0 fnt
+|faint|p1a: Cursola
+|
+|-heal|p2a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641860720
+|switch|p1a: Scolipede|Scolipede, F, shiny|100/100
+|-damage|p1a: Scolipede|76/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641860729
+|switch|p2a: Caracas|Ferrothorn, M, shiny|72/100
+|move|p1a: Scolipede|Protect||[still]
+|-fail|p1a: Scolipede
+|
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|turn|15
+|
+|t:|1641860740
+|move|p1a: Scolipede|Swords Dance|p1a: Scolipede
+|-boost|p1a: Scolipede|atk|2
+|move|p2a: Caracas|Thunder Wave|p1a: Scolipede
+|-status|p1a: Scolipede|par
+|
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|turn|16
+|
+|t:|1641860751
+|move|p1a: Scolipede|Megahorn|p2a: Caracas
+|-damage|p2a: Caracas|12/100
+|-damage|p1a: Scolipede|63/100 par|[from] ability: Iron Barbs|[of] p2a: Caracas
+|-damage|p1a: Scolipede|47/100 par|[from] item: Rocky Helmet|[of] p2a: Caracas
+|move|p2a: Caracas|Leech Seed|p1a: Scolipede|[miss]
+|-miss|p2a: Caracas|p1a: Scolipede
+|
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|turn|17
+|
+|t:|1641860766
+|move|p1a: Scolipede|Poison Jab|p2a: Caracas
+|-immune|p2a: Caracas
+|move|p2a: Caracas|Spikes|p1a: Scolipede
+|-sidestart|p1: mastered.Bu|Spikes
+|
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|turn|18
+|
+|t:|1641860787
+|move|p1a: Scolipede|Megahorn|p2a: Caracas
+|-damage|p2a: Caracas|0 fnt
+|-damage|p1a: Scolipede|35/100 par|[from] ability: Iron Barbs|[of] p2a: Caracas
+|-damage|p1a: Scolipede|18/100 par|[from] item: Rocky Helmet|[of] p2a: Caracas
+|faint|p2a: Caracas
+|
+|-ability|p1a: Scolipede|Speed Boost|boost
+|-boost|p1a: Scolipede|spe|1
+|upkeep
+|
+|t:|1641860802
+|switch|p2a: Weavile|Weavile, F|100/100
+|turn|19
+|
+|t:|1641860810
+|move|p1a: Scolipede|Megahorn|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-enditem|p2a: Weavile|Focus Sash
+|-damage|p2a: Weavile|1/100
+|-enditem|p1a: Scolipede|Focus Sash|[silent]|[from] ability: Pickpocket|[of] p1a: Scolipede
+|-item|p2a: Weavile|Focus Sash|[from] ability: Pickpocket|[of] p1a: Scolipede
+|move|p2a: Weavile|Icicle Crash|p1a: Scolipede
+|-damage|p1a: Scolipede|0 fnt
+|faint|p1a: Scolipede
+|
+|upkeep
+|
+|t:|1641860823
+|switch|p1a: Talonflame|Talonflame, M|100/100
+|turn|20
+|
+|t:|1641860834
+|move|p2a: Weavile|Ice Shard|p1a: Talonflame
+|-damage|p1a: Talonflame|71/100
+|move|p1a: Talonflame|U-turn|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|t:|1641860850
+|switch|p1a: Snorlax|Snorlax, M, shiny|100/100|[from]move: U-turn
+|-damage|p1a: Snorlax|88/100|[from] Spikes
+|-damage|p1a: Snorlax|76/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641860860
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|21
+|
+|t:|1641860870
+|switch|p1a: Talonflame|Talonflame, M|71/100
+|move|p2a: Zapdos|Bulk Up|p2a: Zapdos
+|-boost|p2a: Zapdos|atk|1
+|-boost|p2a: Zapdos|def|1
+|
+|upkeep
+|turn|22
+|
+|t:|1641860904
+|move|p1a: Talonflame|Defog|p2a: Zapdos
+|-unboost|p2a: Zapdos|evasion|1
+|-ability|p2a: Zapdos|Defiant
+|-boost|p2a: Zapdos|atk|2
+|-sideend|p1: mastered.Bu|Spikes|[from] move: Defog|[of] p1a: Talonflame
+|-sideend|p1: mastered.Bu|Stealth Rock|[from] move: Defog|[of] p1a: Talonflame
+|move|p2a: Zapdos|Brave Bird|p1a: Talonflame
+|-damage|p1a: Talonflame|0 fnt
+|faint|p1a: Talonflame
+|-damage|p2a: Zapdos|79/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641860928
+|switch|p1a: Mamoswine|Mamoswine, M|88/100
+|turn|23
+|
+|t:|1641860939
+|move|p2a: Zapdos|Thunderous Kick|p1a: Mamoswine
+|-supereffective|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|faint|p1a: Mamoswine
+|
+|upkeep
+|
+|t:|1641860949
+|switch|p1a: Snorlax|Snorlax, M, shiny|76/100
+|turn|24
+|
+|t:|1641860963
+|move|p2a: Zapdos|Thunderous Kick|p1a: Snorlax
+|-supereffective|p1a: Snorlax
+|-damage|p1a: Snorlax|0 fnt
+|faint|p1a: Snorlax
+|
+|upkeep
+|-message|mastered.Bu forfeited.
+|
+|win|Strikerorg
+|l|☆mastered.Bu

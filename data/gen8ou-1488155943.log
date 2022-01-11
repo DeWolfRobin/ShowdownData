@@ -1,0 +1,301 @@
+|j|☆Jeueh
+|j|☆underrateddd
+|t:|1641723746
+|gametype|singles
+|player|p1|Jeueh|lance|1000
+|player|p2|underrateddd|lucas|1010
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Bisharp, M|
+|poke|p1|Rotom-Mow|
+|poke|p1|Vaporeon, M|
+|poke|p1|Dracozolt|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Gengar, M|
+|poke|p2|Salamence, F|
+|poke|p2|Jirachi|
+|poke|p2|Uxie|
+|poke|p2|Mew|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Nihilego|
+|teampreview
+|
+|t:|1641723765
+|start
+|switch|p1a: just a test|Bisharp, M|100/100
+|switch|p2a: Uxie|Uxie|100/100
+|turn|1
+|
+|t:|1641723773
+|move|p1a: just a test|Swords Dance|p1a: just a test
+|-boost|p1a: just a test|atk|2
+|move|p2a: Uxie|Reflect|p2a: Uxie
+|-sidestart|p2: underrateddd|Reflect
+|
+|upkeep
+|turn|2
+|
+|t:|1641723777
+|move|p1a: just a test|Knock Off|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|2/100
+|-enditem|p2a: Uxie|Light Clay|[from] move: Knock Off|[of] p1a: just a test
+|-damage|p1a: just a test|91/100|[from] item: Life Orb
+|move|p2a: Uxie|Yawn|p1a: just a test
+|-start|p1a: just a test|move: Yawn|[of] p2a: Uxie
+|
+|upkeep
+|turn|3
+|
+|t:|1641723788
+|move|p1a: just a test|Knock Off|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|-damage|p1a: just a test|81/100|[from] item: Life Orb
+|
+|-end|p1a: just a test|move: Yawn|[silent]
+|-status|p1a: just a test|slp
+|upkeep
+|
+|t:|1641723796
+|switch|p2a: Salamence|Salamence, F|100/100
+|turn|4
+|
+|t:|1641723800
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|cant|p1a: just a test|slp
+|
+|upkeep
+|turn|5
+|
+|t:|1641723806
+|move|p2a: Salamence|Earthquake|p1a: just a test
+|-supereffective|p1a: just a test
+|-damage|p1a: just a test|0 fnt
+|faint|p1a: just a test
+|-ability|p2a: Salamence|Moxie|boost
+|-boost|p2a: Salamence|atk|1
+|
+|upkeep
+|
+|t:|1641723823
+|switch|p1a: please|Vaporeon, M|100/100
+|turn|6
+|
+|t:|1641723828
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: please|Toxic|p2a: Salamence|[miss]
+|-miss|p1a: please|p2a: Salamence
+|
+|upkeep
+|turn|7
+|
+|t:|1641723835
+|move|p2a: Salamence|Outrage|p1a: please
+|-damage|p1a: please|0 fnt
+|faint|p1a: please
+|-ability|p2a: Salamence|Moxie|boost
+|-boost|p2a: Salamence|atk|1
+|
+|upkeep
+|c|☆Jeueh|hacker
+|c|☆underrateddd|cry
+|c|☆underrateddd|cry harder kid
+|c|☆Jeueh|nope because you are a connard
+|c|☆Jeueh|cheh
+|
+|t:|1641723869
+|switch|p1a: a beginner !|Slowking-Galar, M|100/100
+|turn|8
+|
+|t:|1641723879
+|move|p2a: Salamence|Outrage|p1a: a beginner !|[from]lockedmove
+|-damage|p1a: a beginner !|0 fnt
+|faint|p1a: a beginner !
+|-ability|p2a: Salamence|Moxie|boost
+|-boost|p2a: Salamence|atk|1
+|-start|p2a: Salamence|confusion|[fatigue]
+|
+|-sideend|p2: underrateddd|Reflect
+|upkeep
+|
+|t:|1641723891
+|switch|p1a: Gengar|Gengar, M|100/100
+|turn|9
+|
+|t:|1641723895
+|-activate|p2a: Salamence|confusion
+|-damage|p2a: Salamence|41/100|[from] confusion
+|move|p1a: Gengar|Destiny Bond|p1a: Gengar
+|-singlemove|p1a: Gengar|Destiny Bond
+|
+|upkeep
+|turn|10
+|
+|t:|1641723903
+|-activate|p2a: Salamence|confusion
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Gengar|Dazzling Gleam|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|-damage|p1a: Gengar|91/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆Jeueh|cry
+|
+|t:|1641723914
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|11
+|
+|t:|1641723917
+|move|p1a: Gengar|Substitute|p1a: Gengar
+|-start|p1a: Gengar|Substitute
+|-damage|p1a: Gengar|66/100
+|move|p2a: Ferrothorn|Thunder Wave||[still]
+|-fail|p2a: Ferrothorn
+|
+|upkeep
+|turn|12
+|
+|t:|1641723924
+|move|p1a: Gengar|Shadow Ball|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|54/100
+|-unboost|p2a: Ferrothorn|spd|1
+|-enditem|p2a: Ferrothorn|Red Card|[of] p1a: Gengar
+|-damage|p1a: Gengar|56/100|[from] item: Life Orb
+|drag|p1a: so be nice please|Rotom-Mow|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: so be nice please
+|-sidestart|p1: Jeueh|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1641723938
+|switch|p2a: Nihilego|Nihilego|100/100
+|move|p1a: so be nice please|Nasty Plot|p1a: so be nice please
+|-boost|p1a: so be nice please|spa|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641723948
+|move|p2a: Nihilego|Meteor Beam||[still]
+|-prepare|p2a: Nihilego|Meteor Beam
+|-boost|p2a: Nihilego|spa|1
+|-enditem|p2a: Nihilego|Power Herb
+|-anim|p2a: Nihilego|Meteor Beam|p1a: so be nice please|[miss]
+|-miss|p2a: Nihilego|p1a: so be nice please
+|move|p1a: so be nice please|Stored Power|p2a: Nihilego
+|-supereffective|p2a: Nihilego
+|-damage|p2a: Nihilego|43/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641723958
+|move|p2a: Nihilego|Sludge Wave|p1a: so be nice please
+|-supereffective|p1a: so be nice please
+|-damage|p1a: so be nice please|0 fnt
+|faint|p1a: so be nice please
+|-ability|p2a: Nihilego|Beast Boost|boost
+|-boost|p2a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1641723964
+|switch|p1a: Gengar|Gengar, M|56/100
+|-damage|p1a: Gengar|44/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641723968
+|move|p1a: Gengar|Shadow Ball|p2a: Nihilego
+|-damage|p2a: Nihilego|4/100
+|-damage|p1a: Gengar|34/100|[from] item: Life Orb
+|move|p2a: Nihilego|Thunderbolt|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|-ability|p2a: Nihilego|Beast Boost|boost
+|-boost|p2a: Nihilego|spa|1
+|
+|upkeep
+|
+|t:|1641723977
+|switch|p1a: I am just|Dracozolt|100/100
+|-damage|p1a: I am just|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641723995
+|move|p1a: I am just|Earthquake|p2a: Nihilego
+|-supereffective|p2a: Nihilego
+|-damage|p2a: Nihilego|0 fnt
+|faint|p2a: Nihilego
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jeueh)
+|
+|t:|1641724005
+|switch|p2a: Ferrothorn|Ferrothorn, M|54/100
+|turn|18
+|
+|t:|1641724009
+|move|p1a: I am just|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|28/100
+|move|p2a: Ferrothorn|Body Press|p1a: I am just
+|-damage|p1a: I am just|54/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641724016
+|move|p1a: I am just|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|1/100
+|move|p2a: Ferrothorn|Body Press|p1a: I am just
+|-damage|p1a: I am just|15/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641724023
+|move|p1a: I am just|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641724025
+|switch|p2a: Jirachi|Jirachi|100/100
+|turn|21
+|
+|t:|1641724029
+|move|p1a: I am just|Earthquake|p2a: Jirachi
+|-supereffective|p2a: Jirachi
+|-damage|p2a: Jirachi|7/100
+|move|p2a: Jirachi|Iron Head|p1a: I am just
+|-resisted|p1a: I am just
+|-damage|p1a: I am just|0 fnt
+|faint|p1a: I am just
+|
+|win|underrateddd
+|raw|Jeueh's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|underrateddd's rating: 1010 &rarr; <strong>1047</strong><br />(+37 for winning)
+|c|☆underrateddd|lol
+|l|☆Jeueh

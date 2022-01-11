@@ -1,0 +1,214 @@
+|j|☆dbvnsjgirutu
+|j|☆SnessKY
+|t:|1641742826
+|gametype|singles
+|player|p1|dbvnsjgirutu|hilbert|1053
+|player|p2|SnessKY|hugh|1052
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Vanilluxe, F|
+|poke|p1|Eiscue, M|
+|poke|p1|Weavile, M|
+|poke|p1|Cloyster, M|
+|poke|p1|Mamoswine, M|
+|poke|p1|Froslass, F|
+|poke|p2|Dubwool, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Umbreon, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Porygon2|
+|poke|p2|Togekiss, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by dbvnsjgirutu)
+|
+|t:|1641742841
+|start
+|switch|p1a: Vanilluxe|Vanilluxe, F|100/100
+|switch|p2a: Shinra|Blaziken, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Vanilluxe
+|turn|1
+|
+|t:|1641742855
+|move|p2a: Shinra|Flare Blitz|p1a: Vanilluxe
+|-supereffective|p1a: Vanilluxe
+|-damage|p1a: Vanilluxe|0 fnt
+|faint|p1a: Vanilluxe
+|-damage|p2a: Shinra|67/100|[from] Recoil
+|-damage|p2a: Shinra|57/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Shinra|51/100|[from] Hail
+|-ability|p2a: Shinra|Speed Boost|boost
+|-boost|p2a: Shinra|spe|1
+|upkeep
+|
+|t:|1641742860
+|switch|p1a: Eiscue|Eiscue, M|100/100
+|turn|2
+|
+|t:|1641742869
+|move|p2a: Shinra|High Jump Kick|p1a: Eiscue
+|-activate|p1a: Eiscue|ability: Ice Face
+|-damage|p1a: Eiscue|100/100
+|detailschange|p1a: Eiscue|Eiscue-Noice, M
+|-damage|p2a: Shinra|41/100|[from] item: Life Orb
+|move|p1a: Eiscue|Liquidation|p2a: Shinra
+|-supereffective|p2a: Shinra
+|-damage|p2a: Shinra|0 fnt
+|faint|p2a: Shinra
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641742882
+|switch|p2a: Dubwool|Dubwool, F|100/100
+|turn|3
+|
+|t:|1641742890
+|move|p1a: Eiscue|Weather Ball|p2a: Dubwool
+|-damage|p2a: Dubwool|69/100
+|move|p2a: Dubwool|Cotton Guard|p2a: Dubwool
+|-boost|p2a: Dubwool|def|3
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Dubwool|63/100|[from] Hail
+|-heal|p2a: Dubwool|69/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641742901
+|move|p1a: Eiscue|Ice Beam|p2a: Dubwool
+|-damage|p2a: Dubwool|40/100
+|move|p2a: Dubwool|Body Press|p1a: Eiscue
+|-supereffective|p1a: Eiscue
+|-enditem|p1a: Eiscue|Focus Sash
+|-damage|p1a: Eiscue|1/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Dubwool|34/100|[from] Hail
+|-heal|p2a: Dubwool|40/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641742913
+|move|p1a: Eiscue|Weather Ball|p2a: Dubwool
+|-damage|p2a: Dubwool|7/100
+|move|p2a: Dubwool|Body Press|p1a: Eiscue
+|-supereffective|p1a: Eiscue
+|-damage|p1a: Eiscue|0 fnt
+|faint|p1a: Eiscue
+|
+|-weather|none
+|-heal|p2a: Dubwool|13/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641742921
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|6
+|
+|t:|1641742928
+|move|p1a: Weavile|Throat Chop|p2a: Dubwool
+|-damage|p2a: Dubwool|8/100
+|-start|p2a: Dubwool|Throat Chop|[silent]
+|move|p2a: Dubwool|Body Press|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|-heal|p2a: Dubwool|14/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641742934
+|switch|p1a: Froslass|Froslass, F|100/100
+|turn|7
+|
+|t:|1641742941
+|move|p1a: Froslass|Rain Dance|p1a: Froslass
+|-weather|RainDance
+|move|p2a: Dubwool|Body Press|p1a: Froslass
+|-immune|p1a: Froslass
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Dubwool|20/100|[from] item: Leftovers
+|-end|p2a: Dubwool|Throat Chop|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641742949
+|move|p1a: Froslass|Thunderbolt|p2a: Dubwool
+|-damage|p2a: Dubwool|0 fnt
+|faint|p2a: Dubwool
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641742960
+|switch|p2a: Berseker|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Berseker
+|turn|9
+|
+|t:|1641742981
+|move|p1a: Froslass|Ice Beam|p2a: Berseker
+|-supereffective|p2a: Berseker
+|-damage|p2a: Berseker|14/100
+|move|p2a: Berseker|Knock Off|p1a: Froslass
+|-supereffective|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-enditem|p1a: Froslass|Leftovers|[from] move: Knock Off|[of] p2a: Berseker
+|faint|p1a: Froslass
+|-damage|p2a: Berseker|4/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Berseker|10/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641742989
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|turn|10
+|
+|t:|1641742998
+|move|p2a: Berseker|Grassy Glide|p1a: Mamoswine
+|-supereffective|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|faint|p1a: Mamoswine
+|-damage|p2a: Berseker|0 fnt|[from] item: Life Orb
+|faint|p2a: Berseker
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641743012
+|switch|p2a: Pory|Porygon2|100/100
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|11
+|
+|t:|1641743019
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|-enditem|p1a: Cloyster|White Herb
+|-clearnegativeboost|p1a: Cloyster|[silent]
+|move|p2a: Pory|Discharge|p1a: Cloyster
+|-supereffective|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|win|SnessKY
+|raw|dbvnsjgirutu's rating: 1053 &rarr; <strong>1035</strong><br />(-18 for losing)
+|raw|SnessKY's rating: 1052 &rarr; <strong>1084</strong><br />(+32 for winning)
+|l|☆dbvnsjgirutu

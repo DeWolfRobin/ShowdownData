@@ -1,0 +1,49 @@
+|j|☆Zephyri
+|j|☆zephyri2
+|t:|1641834726
+|gametype|singles
+|player|p1|Zephyri|schoolkid-gen4|
+|player|p2|zephyri2|266|
+|teamsize|p1|1
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1641834731
+|start
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|1
+|
+|t:|1641834737
+|move|p1a: Toxapex|Toxic Spikes|p2a: Corviknight
+|-sidestart|p2: zephyri2|move: Toxic Spikes
+|move|p2a: Corviknight|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|96/100
+|-damage|p2a: Corviknight|84/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|t:|1641834740
+|switch|p2a: Tapu Fini|Tapu Fini|100/100|[from]move: U-turn
+|-status|p2a: Tapu Fini|psn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|
+|-damage|p2a: Tapu Fini|88/100 psn|[from] psn
+|upkeep
+|turn|2
+|-message|zephyri2 forfeited.
+|
+|win|Zephyri

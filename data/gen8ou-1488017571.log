@@ -1,0 +1,293 @@
+|j|☆szhnbhhh
+|j|☆daykel
+|t:|1641698023
+|gametype|singles
+|player|p1|szhnbhhh|dawn|1116
+|player|p2|daykel|265|1059
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Stakataka|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Celesteela|
+|poke|p1|Melmetal|
+|poke|p2|Swampert, M|
+|poke|p2|Lucario, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Gardevoir, M|
+|poke|p2|Gengar, M|
+|teampreview
+|l|☆szhnbhhh
+|player|p1|
+|j|☆szhnbhhh
+|player|p1|szhnbhhh|dawn
+|
+|t:|1641698065
+|start
+|switch|p1a: Dragapult|Dragapult, F, shiny|100/100
+|switch|p2a: Blaziken|Blaziken, M, shiny|100/100
+|turn|1
+|
+|t:|1641698083
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Dragapult|Dragon Darts|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|43/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641698095
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|turn|2
+|
+|t:|1641698103
+|switch|p1a: Melmetal|Melmetal, shiny|100/100
+|move|p2a: Gardevoir|Moonblast|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|80/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641698112
+|switch|p2a: Blaziken|Blaziken, M, shiny|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|74/100
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|47/100
+|-hitcount|p2a: Blaziken|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641698132
+|move|p2a: Blaziken|Brave Bird|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|68/100
+|-damage|p2a: Blaziken|42/100|[from] Recoil
+|move|p1a: Melmetal|Double Iron Bash|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|16/100
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|-hitcount|p2: Blaziken|2
+|
+|upkeep
+|
+|t:|1641698146
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|5
+|
+|t:|1641698163
+|move|p2a: Swampert|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|17/100
+|move|p1a: Melmetal|Body Press|p2a: Swampert
+|-damage|p2a: Swampert|78/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641698174
+|move|p2a: Swampert|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641698185
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Swampert|atk|1
+|turn|7
+|
+|t:|1641698194
+|move|p1a: Landorus|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|31/100
+|-enditem|p2a: Swampert|Mystic Water|[from] move: Knock Off|[of] p1a: Landorus
+|-damage|p1a: Landorus|91/100|[from] item: Life Orb
+|move|p2a: Swampert|Aqua Tail|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641698211
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|8
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by daykel)
+|l|☆szhnbhhh
+|inactive|szhnbhhh disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆szhnbhhh
+|inactive|szhnbhhh reconnected and has 125 seconds left.
+|player|p1|szhnbhhh|dawn
+|inactive|szhnbhhh has 120 seconds left.
+|
+|t:|1641698272
+|move|p1a: Urshifu|Surging Strikes|p2a: Swampert
+|-crit|p2a: Swampert
+|-damage|p2a: Swampert|11/100
+|-crit|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-hitcount|p2: Swampert|2
+|
+|upkeep
+|
+|t:|1641698289
+|switch|p2a: Gengar|Gengar, M|100/100
+|turn|9
+|l|☆szhnbhhh
+|inactive|szhnbhhh disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆szhnbhhh
+|inactive|szhnbhhh reconnected and has 125 seconds left.
+|player|p1|szhnbhhh|dawn
+|inactive|szhnbhhh has 120 seconds left.
+|
+|t:|1641698320
+|move|p1a: Urshifu|Surging Strikes|p2a: Gengar
+|-crit|p2a: Gengar
+|-damage|p2a: Gengar|64/100
+|-crit|p2a: Gengar
+|-damage|p2a: Gengar|28/100
+|-start|p1a: Urshifu|Disable|Surging Strikes|[from] ability: Cursed Body|[of] p2a: Gengar
+|-crit|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|-hitcount|p2: Gengar|3
+|
+|upkeep
+|
+|t:|1641698337
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|turn|10
+|
+|t:|1641698351
+|switch|p1a: Celesteela|Celesteela, shiny|100/100
+|move|p2a: Gardevoir|Psychic|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|84/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641698361
+|move|p2a: Gardevoir|Thunderbolt|p1a: Celesteela
+|-supereffective|p1a: Celesteela
+|-damage|p1a: Celesteela|40/100
+|move|p1a: Celesteela|Leech Seed|p2a: Gardevoir
+|-start|p2a: Gardevoir|move: Leech Seed
+|
+|-damage|p2a: Gardevoir|88/100|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|50/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641698371
+|move|p1a: Celesteela|Protect|p1a: Celesteela
+|-singleturn|p1a: Celesteela|Protect
+|move|p2a: Gardevoir|Thunderbolt|p1a: Celesteela
+|-activate|p1a: Celesteela|move: Protect
+|
+|-damage|p2a: Gardevoir|76/100|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|59/100|[silent]
+|upkeep
+|turn|13
+|
+|t:|1641698382
+|move|p2a: Gardevoir|Thunderbolt|p1a: Celesteela
+|-supereffective|p1a: Celesteela
+|-damage|p1a: Celesteela|17/100
+|-enditem|p1a: Celesteela|Aguav Berry|[eat]
+|-heal|p1a: Celesteela|50/100|[from] item: Aguav Berry
+|move|p1a: Celesteela|Toxic|p2a: Gardevoir
+|-status|p2a: Gardevoir|tox
+|-activate|p2a: Gardevoir|ability: Synchronize
+|-immune|p1a: Celesteela
+|
+|-damage|p2a: Gardevoir|64/100 tox|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|60/100|[silent]
+|-damage|p2a: Gardevoir|58/100 tox|[from] psn
+|upkeep
+|turn|14
+|l|☆szhnbhhh
+|inactive|szhnbhhh disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆szhnbhhh
+|inactive|szhnbhhh reconnected and has 125 seconds left.
+|player|p1|szhnbhhh|dawn
+|inactive|szhnbhhh has 120 seconds left.
+|
+|t:|1641698413
+|move|p1a: Celesteela|Protect|p1a: Celesteela
+|-singleturn|p1a: Celesteela|Protect
+|move|p2a: Gardevoir|Thunderbolt|p1a: Celesteela
+|-activate|p1a: Celesteela|move: Protect
+|
+|-damage|p2a: Gardevoir|46/100 tox|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|69/100|[silent]
+|-damage|p2a: Gardevoir|34/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641698427
+|switch|p1a: Dragapult|Dragapult, F, shiny|100/100
+|move|p2a: Gardevoir|Thunderbolt|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|78/100
+|
+|-damage|p2a: Gardevoir|21/100 tox|[from] Leech Seed|[of] p1a: Dragapult
+|-heal|p1a: Dragapult|90/100|[silent]
+|-damage|p2a: Gardevoir|3/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641698440
+|move|p1a: Dragapult|U-turn|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|
+|t:|1641698449
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641698456
+|switch|p2a: Lucario|Lucario, M|100/100
+|turn|17
+|
+|t:|1641698464
+|move|p1a: Urshifu|Close Combat|p2a: Lucario
+|-supereffective|p2a: Lucario
+|-damage|p2a: Lucario|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Lucario
+|
+|win|szhnbhhh
+|raw|szhnbhhh's rating: 1116 &rarr; <strong>1137</strong><br />(+21 for winning)
+|raw|daykel's rating: 1059 &rarr; <strong>1043</strong><br />(-16 for losing)
+|l|☆daykel

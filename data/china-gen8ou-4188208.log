@@ -1,0 +1,480 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Winona
+|j|☆SL21CC Pichiu
+|t:|1641742511
+|gametype|singles
+|player|p1|SL21CC Winona|winona|1292
+|player|p2|SL21CC Pichiu|elesa|1208
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Weavile, M|
+|poke|p1|Slowking, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Volcanion|
+|poke|p2|Melmetal|
+|poke|p2|Dragonite, M|
+|poke|p2|Seismitoad, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Winona)
+|
+|t:|1641742529
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|j| adreamew
+|
+|t:|1641742534
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Volcanion
+|-damage|p2a: Volcanion|81/100
+|-enditem|p2a: Volcanion|Choice Specs|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641742537
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|65/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641742544
+|move|p2a: Volcanion|Steam Eruption|p1a: Slowking
+|-resisted|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|16/100
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|66/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641742546
+|move|p2a: Volcanion|Steam Eruption|p1a: Slowking|[miss]
+|-miss|p2a: Volcanion|p1a: Slowking
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|j| water GH0ST
+|
+|t:|1641742551
+|move|p2a: Volcanion|Steam Eruption|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|65/100
+|move|p1a: Slowking|Future Sight|p2a: Volcanion
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641742554
+|move|p2a: Volcanion|Steam Eruption|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|31/100
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|81/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641742559
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|j|+dragonitenb
+|inactive|SL21CC Winona has 120 seconds left.
+|
+|t:|1641742595
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: Teleport
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Melmetal|atk|1
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Melmetal|move: Future Sight
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|90/100
+|upkeep
+|turn|8
+|inactive|SL21CC Winona has 120 seconds left.
+|
+|t:|1641742602
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|move|p1a: Landorus|Earthquake|p2a: Barraskewda
+|-damage|p2a: Barraskewda|13/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|l|+dragonitenb
+|
+|t:|1641742610
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Barraskewda|Close Combat|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|74/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641742616
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Slowking|Future Sight|p2a: Pelipper
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641742623
+|move|p2a: Pelipper|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|44/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641742627
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: Teleport
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641742630
+|switch|p2a: Melmetal|Melmetal|90/100
+|move|p1a: Zapdos|Hurricane|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|77/100
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Melmetal|move: Future Sight
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|68/100
+|upkeep
+|turn|13
+|
+|t:|1641742640
+|move|p1a: Zapdos|Volt Switch|p2a: Melmetal
+|-damage|p2a: Melmetal|51/100
+|
+|t:|1641742657
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: Volt Switch
+|move|p2a: Melmetal|Double Iron Bash|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|83/100
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|63/100
+|-hitcount|p1a: Urshifu|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641742665
+|move|p1a: Urshifu|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Melmetal
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641742669
+|switch|p2a: Barraskewda|Barraskewda, F|13/100
+|turn|15
+|
+|t:|1641742673
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|75/100
+|-damage|p2a: Barraskewda|0 fnt|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|81/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641742679
+|switch|p2a: Volcanion|Volcanion|81/100
+|turn|16
+|
+|t:|1641742686
+|switch|p1a: Slowking|Slowking, F|78/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|46/100
+|-status|p1a: Slowking|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Slowking|39/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641742695
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|90/100 brn
+|
+|-weather|none
+|-damage|p1a: Slowking|83/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641742706
+|move|p2a: Seismitoad|Stealth Rock|p1a: Slowking
+|-sidestart|p1: SL21CC Winona|move: Stealth Rock
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|j|+dragonitenb
+|
+|t:|1641742719
+|switch|p1a: Ferrothorn|Ferrothorn, M|81/100|[from]move: Teleport
+|-damage|p1a: Ferrothorn|75/100|[from] Stealth Rock
+|
+|-heal|p1a: Ferrothorn|81/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641742723
+|move|p2a: Seismitoad|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|46/100
+|-damage|p2a: Seismitoad|91/100|[from] item: Life Orb
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Seismitoad
+|-sidestart|p2: SL21CC Pichiu|move: Stealth Rock
+|
+|-heal|p1a: Ferrothorn|52/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641742730
+|switch|p1a: Slowking|Slowking, F|100/100 brn
+|move|p2a: Seismitoad|Earth Power|p1a: Slowking
+|-damage|p1a: Slowking|64/100 brn
+|-damage|p2a: Seismitoad|81/100|[from] item: Life Orb
+|
+|-damage|p1a: Slowking|58/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641742735
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|100/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641742739
+|move|p2a: Pelipper|U-turn|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|82/100 brn
+|
+|t:|1641742742
+|switch|p2a: Volcanion|Volcanion|81/100|[from]move: U-turn
+|-damage|p2a: Volcanion|56/100|[from] Stealth Rock
+|move|p1a: Slowking|Future Sight|p2a: Volcanion
+|-start|p1a: Slowking|move: Future Sight
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Slowking|76/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641742750
+|move|p2a: Volcanion|Earth Power|p1a: Slowking
+|-damage|p1a: Slowking|52/100 brn
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|100/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Slowking|94/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641742756
+|move|p2a: Volcanion|Earth Power|p1a: Slowking
+|-damage|p1a: Slowking|69/100 brn
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641742760
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: Teleport
+|
+|-weather|RainDance|[upkeep]
+|-end|p2a: Volcanion|move: Future Sight
+|-damage|p2a: Volcanion|6/100
+|upkeep
+|turn|25
+|
+|t:|1641742766
+|move|p1a: Zapdos|Hurricane|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641742767
+|switch|p2a: Seismitoad|Seismitoad, F|81/100
+|-damage|p2a: Seismitoad|74/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641742776
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|63/100
+|-damage|p1a: Urshifu|57/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|27
+|
+|t:|1641742781
+|move|p1a: Urshifu|Surging Strikes|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|88/100
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|64/100
+|-resisted|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|38/100
+|-hitcount|p2a: Dragonite|3
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1641742789
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-hitcount|p1: Urshifu|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1641742799
+|switch|p1a: Weavile|Weavile, M|100/100
+|turn|29
+|
+|t:|1641742801
+|switch|p2a: Pelipper|Pelipper, M|76/100
+|-damage|p2a: Pelipper|51/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Weavile|Ice Shard|p2a: Pelipper
+|-damage|p2a: Pelipper|35/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|30
+|
+|t:|1641742804
+|move|p1a: Weavile|Knock Off|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641742806
+|switch|p2a: Seismitoad|Seismitoad, F|74/100
+|-damage|p2a: Seismitoad|68/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1641742811
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Seismitoad|atk|1
+|move|p2a: Seismitoad|Weather Ball|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Seismitoad|58/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641742818
+|switch|p1a: Slowking|Slowking, F|100/100 brn
+|turn|32
+|
+|t:|1641742822
+|move|p2a: Seismitoad|Earth Power|p1a: Slowking
+|-damage|p1a: Slowking|61/100 brn
+|-damage|p2a: Seismitoad|48/100|[from] item: Life Orb
+|move|p1a: Slowking|Scald|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Slowking|55/100 brn|[from] brn
+|upkeep
+|
+|t:|1641742824
+|switch|p2a: Dragonite|Dragonite, M|38/100
+|turn|33
+|
+|t:|1641742827
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641742828
+|switch|p1a: Weavile|Weavile, M|100/100|[from]move: Teleport
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|34
+|
+|t:|1641742830
+|move|p1a: Weavile|Ice Shard|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|win|SL21CC Winona
+|raw|SL21CC Winona's rating: 1292 &rarr; <strong>1305</strong><br />(+13 for winning)
+|raw|SL21CC Pichiu's rating: 1208 &rarr; <strong>1196</strong><br />(-12 for losing)
+|l|☆SL21CC Winona
+|l|☆SL21CC Pichiu

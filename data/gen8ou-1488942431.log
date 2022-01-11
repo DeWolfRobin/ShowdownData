@@ -1,0 +1,232 @@
+|j|☆Haxxhatred
+|j|☆LIBERTINE
+|t:|1641838988
+|gametype|singles
+|player|p1|Haxxhatred|170|1306
+|player|p2|LIBERTINE|veteran|1302
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Salazzle, F|
+|poke|p1|Latios, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Hydreigon, M|
+|poke|p1|Moltres|
+|poke|p2|Electivire, M|
+|poke|p2|Clawitzer, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Heracross, M|
+|poke|p2|Snorlax, M|
+|poke|p2|Metagross|
+|teampreview
+|
+|t:|1641839000
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Rompe ortos 3000|Heracross, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|
+|t:|1641839015
+|switch|p2a: Osama Bin Laden|Metagross, shiny|100/100
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Osama Bin Laden
+|-resisted|p2a: Osama Bin Laden
+|-damage|p2a: Osama Bin Laden|80/100
+|-damage|p1a: Tapu Koko|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1641839032
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|move|p2a: Osama Bin Laden|Earthquake|p1a: Hydreigon
+|-immune|p1a: Hydreigon|[from] ability: Levitate
+|
+|upkeep
+|turn|3
+|
+|t:|1641839039
+|switch|p2a: bro|Snorlax, M, shiny|100/100
+|move|p1a: Hydreigon|Flamethrower|p2a: bro
+|-damage|p2a: bro|79/100
+|-status|p2a: bro|brn
+|-damage|p1a: Hydreigon|90/100|[from] item: Life Orb
+|
+|-heal|p2a: bro|85/100 brn|[from] item: Leftovers
+|-damage|p2a: bro|79/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641839051
+|move|p1a: Hydreigon|Outrage|p2a: bro
+|-damage|p2a: bro|4/100 brn
+|-damage|p1a: Hydreigon|80/100|[from] item: Life Orb
+|move|p2a: bro|Yawn|p1a: Hydreigon
+|-start|p1a: Hydreigon|move: Yawn|[of] p2a: bro
+|
+|-heal|p2a: bro|10/100 brn|[from] item: Leftovers
+|-damage|p2a: bro|4/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641839062
+|move|p1a: Hydreigon|Outrage|p2a: bro|[from]lockedmove
+|-damage|p2a: bro|0 fnt
+|faint|p2a: bro
+|-damage|p1a: Hydreigon|70/100|[from] item: Life Orb
+|
+|-end|p1a: Hydreigon|move: Yawn|[silent]
+|-status|p1a: Hydreigon|slp
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641839070
+|switch|p2a: Rompe ortos 3000|Heracross, M|100/100
+|turn|6
+|
+|t:|1641839074
+|switch|p1a: Moltres|Moltres|100/100
+|move|p2a: Rompe ortos 3000|Megahorn|p1a: Moltres
+|-resisted|p1a: Moltres
+|-crit|p1a: Moltres
+|-damage|p1a: Moltres|69/100
+|
+|-status|p2a: Rompe ortos 3000|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|
+|t:|1641839086
+|move|p2a: Rompe ortos 3000|Facade|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|-damage|p2a: Rompe ortos 3000|95/100 brn|[from] brn
+|upkeep
+|
+|t:|1641839096
+|switch|p1a: Salazzle|Salazzle, F|100/100
+|turn|8
+|
+|t:|1641839105
+|switch|p2a: Garchador|Garchomp, M, shiny|100/100
+|move|p1a: Salazzle|Fire Blast|p2a: Garchador
+|-resisted|p2a: Garchador
+|-damage|p2a: Garchador|64/100
+|-damage|p1a: Salazzle|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1641839119
+|switch|p1a: Tapu Koko|Tapu Koko|91/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Garchador|Dragon Tail|p1a: Tapu Koko
+|-immune|p1a: Tapu Koko
+|
+|upkeep
+|turn|10
+|
+|t:|1641839127
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Garchador
+|-supereffective|p2a: Garchador
+|-damage|p2a: Garchador|0 fnt
+|faint|p2a: Garchador
+|-damage|p1a: Tapu Koko|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641839135
+|switch|p2a: Osama Bin Laden|Metagross, shiny|80/100
+|turn|11
+|
+|t:|1641839146
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|move|p2a: Osama Bin Laden|Earthquake|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|11/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641839155
+|move|p1a: Bisharp|Knock Off|p2a: Osama Bin Laden
+|-supereffective|p2a: Osama Bin Laden
+|-damage|p2a: Osama Bin Laden|2/100
+|-enditem|p2a: Osama Bin Laden|Assault Vest|[from] move: Knock Off|[of] p1a: Bisharp
+|move|p2a: Osama Bin Laden|Power-Up Punch|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|-boost|p2a: Osama Bin Laden|atk|1
+|faint|p1a: Bisharp
+|
+|upkeep
+|
+|t:|1641839170
+|switch|p1a: Latios|Latios, M|100/100
+|turn|13
+|
+|t:|1641839174
+|move|p2a: Osama Bin Laden|Bullet Punch|p1a: Latios
+|-damage|p1a: Latios|56/100
+|move|p1a: Latios|Psyshock|p2a: Osama Bin Laden
+|-resisted|p2a: Osama Bin Laden
+|-damage|p2a: Osama Bin Laden|0 fnt
+|faint|p2a: Osama Bin Laden
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641839182
+|switch|p2a: Kemmit|Clawitzer, M|100/100
+|turn|14
+|
+|t:|1641839186
+|switch|p1a: Tapu Koko|Tapu Koko|81/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Kemmit|Ice Beam|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|38/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641839196
+|move|p1a: Tapu Koko|Thunder|p2a: Kemmit
+|-supereffective|p2a: Kemmit
+|-damage|p2a: Kemmit|0 fnt
+|faint|p2a: Kemmit
+|-damage|p1a: Tapu Koko|28/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641839203
+|switch|p2a: Rompe ortos 3000|Heracross, M|95/100 brn
+|turn|16
+|
+|t:|1641839206
+|switch|p2a: Electrocachondo|Electivire, M|100/100
+|-item|p2a: Electrocachondo|Air Balloon
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Electrocachondo
+|-damage|p2a: Electrocachondo|33/100
+|-enditem|p2a: Electrocachondo|Air Balloon
+|-damage|p1a: Tapu Koko|18/100|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|-message|LIBERTINE forfeited.
+|
+|win|Haxxhatred
+|raw|Haxxhatred's rating: 1306 &rarr; <strong>1326</strong><br />(+20 for winning)
+|raw|LIBERTINE's rating: 1302 &rarr; <strong>1282</strong><br />(-20 for losing)
+|l|☆LIBERTINE
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

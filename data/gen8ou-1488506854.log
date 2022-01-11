@@ -1,0 +1,269 @@
+|j|☆Ackesh
+|j|☆Trenton420$
+|t:|1641774383
+|gametype|singles
+|player|p1|Ackesh|169|1425
+|player|p2|Trenton420$|hiker-gen4|1397
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyrantrum, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Regieleki|
+|poke|p1|Zapdos|
+|poke|p1|Clefable, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Buzzwole|
+|poke|p2|Dragonite, M|
+|poke|p2|Incineroar, M|
+|poke|p2|Magnezone|
+|teampreview
+|
+|t:|1641774399
+|start
+|switch|p1a: Tyrantrum|Tyrantrum, M|100/100
+|switch|p2a: gerald|Ninetales-Alola, F, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: gerald
+|turn|1
+|
+|t:|1641774422
+|move|p1a: Tyrantrum|Head Smash|p2a: gerald
+|-supereffective|p2a: gerald
+|-damage|p2a: gerald|0 fnt
+|faint|p2a: gerald
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tyrantrum|94/100|[from] Hail
+|upkeep
+|
+|t:|1641774433
+|switch|p2a: zareld|Magnezone|100/100
+|turn|2
+|
+|t:|1641774438
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: zareld|Flash Cannon|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|85/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: zareld|94/100|[from] Hail
+|-damage|p1a: Zapdos|79/100|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1641774453
+|switch|p2a: herald|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: herald
+|move|p1a: Zapdos|Volt Switch|p2a: herald
+|-resisted|p2a: herald
+|-damage|p2a: herald|78/100
+|
+|t:|1641774459
+|switch|p1a: Regieleki|Regieleki|100/100|[from]move: Volt Switch
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Regieleki|95/100|[from] Hail
+|-damage|p2a: herald|72/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641774468
+|move|p1a: Regieleki|Volt Switch|p2a: herald
+|-resisted|p2a: herald
+|-damage|p2a: herald|0 fnt
+|faint|p2a: herald
+|c|☆Trenton420$|hey can i get a poke paste of your team i like it
+|
+|t:|1641774515
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Landorus|95/100|[from] Hail
+|upkeep
+|
+|t:|1641774525
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|5
+|
+|t:|1641774531
+|move|p1a: Landorus|U-turn|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|86/100
+|-damage|p1a: Landorus|78/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|
+|t:|1641774533
+|switch|p1a: Zapdos|Zapdos|79/100|[from]move: U-turn
+|move|p2a: Buzzwole|Bulk Up|p2a: Buzzwole
+|-boost|p2a: Buzzwole|atk|1
+|-boost|p2a: Buzzwole|def|1
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641774541
+|move|p1a: Zapdos|Volt Switch|p2a: Buzzwole
+|-damage|p2a: Buzzwole|53/100
+|
+|t:|1641774544
+|switch|p1a: Clefable|Clefable, M|100/100|[from]move: Volt Switch
+|move|p2a: Buzzwole|Ice Punch|p1a: Clefable
+|-damage|p1a: Clefable|80/100
+|
+|-heal|p1a: Clefable|86/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Trenton420$)
+|
+|t:|1641774570
+|switch|p2a: zareld|Magnezone|94/100
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|92/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|8
+|
+|t:|1641774583
+|switch|p1a: Zapdos|Zapdos|79/100
+|move|p2a: zareld|Flash Cannon|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|62/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641774593
+|switch|p2a: mareld|Incineroar, M|100/100
+|-ability|p2a: mareld|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Volt Switch|p2a: mareld
+|-damage|p2a: mareld|73/100
+|
+|t:|1641774597
+|switch|p1a: Regieleki|Regieleki|95/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|10
+|
+|t:|1641774603
+|move|p1a: Regieleki|Volt Switch|p2a: mareld
+|-damage|p2a: mareld|10/100
+|
+|t:|1641774606
+|switch|p1a: Landorus|Landorus-Therian, M|78/100|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: mareld|atk|1
+|move|p2a: mareld|Flare Blitz|p1a: Landorus
+|-damage|p1a: Landorus|9/100
+|-damage|p2a: mareld|0 fnt|[from] Recoil
+|faint|p2a: mareld
+|
+|upkeep
+|
+|t:|1641774618
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|11
+|
+|t:|1641774622
+|move|p1a: Landorus|U-turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|89/100
+|
+|t:|1641774624
+|switch|p1a: Clefable|Clefable, M|92/100|[from]move: U-turn
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-heal|p1a: Clefable|98/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641774645
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Clefable|[miss]
+|-miss|p2a: Dragonite|p1a: Clefable
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641774653
+|switch|p2a: zareld|Magnezone|94/100
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641774660
+|move|p2a: zareld|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|59/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641774665
+|move|p2a: zareld|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|64/100
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|70/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641774673
+|move|p2a: zareld|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|41/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|91/100
+|
+|-heal|p1a: Clefable|97/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641774680
+|move|p2a: zareld|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|66/100
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|72/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|c|☆Ackesh|Can do it after the match
+|-message|Trenton420$ forfeited.
+|
+|win|Ackesh
+|raw|Ackesh's rating: 1425 &rarr; <strong>1443</strong><br />(+18 for winning)
+|raw|Trenton420$'s rating: 1397 &rarr; <strong>1379</strong><br />(-18 for losing)
+|c|☆Ackesh|Oh
+|c|☆Trenton420$|ok

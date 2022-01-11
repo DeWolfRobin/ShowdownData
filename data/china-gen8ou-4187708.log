@@ -1,0 +1,590 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Mcdonald's
+|j|☆SL21CC Leviathan
+|t:|1641730884
+|gametype|singles
+|player|p1|SL21CC Mcdonald's|aromalady|1289
+|player|p2|SL21CC Leviathan|guitarist|1274
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro-Galar, M|
+|poke|p1|Seismitoad, M|
+|poke|p1|Mew|
+|poke|p1|Melmetal|
+|poke|p1|Clefable, M|
+|poke|p1|Zapdos|
+|poke|p2|Moltres-Galar|
+|poke|p2|Dragapult, M|
+|poke|p2|Clefable, F|
+|poke|p2|Swampert, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zapdos|
+|teampreview
+|j| tianyutulongwu
+|j|%kitoothe
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Mcdonald's)
+|j| shandianxuanfengpi
+|j| sl21cckhl
+|j| SL21CCxiaomiaomiao
+|j| SL21CCCHINESENGEIL
+|inactive|SL21CC Mcdonald's has 120 seconds left.
+|inactive|SL21CC Leviathan has 120 seconds left.
+|j| sl21cc ap
+|
+|t:|1641730932
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|1
+|
+|t:|1641730937
+|move|p1a: Zapdos|Hurricane|p2a: Swampert
+|-damage|p2a: Swampert|43/100
+|-start|p2a: Swampert|confusion
+|-activate|p2a: Swampert|confusion
+|move|p2a: Swampert|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: SL21CC Mcdonald's|move: Stealth Rock
+|
+|-heal|p2a: Swampert|50/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641730945
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Zapdos|Defog|p2a: Zapdos
+|-unboost|p2a: Zapdos|evasion|1
+|-sideend|p1: SL21CC Mcdonald's|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|upkeep
+|turn|3
+|
+|t:|1641730961
+|switch|p2a: Swampert|Swampert, M|50/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Swampert
+|-immune|p2a: Swampert
+|
+|-heal|p2a: Swampert|56/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641730975
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Clefable
+|-damage|p2a: Clefable|58/100
+|-start|p2a: Clefable|confusion
+|
+|-heal|p2a: Clefable|64/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|j| Metallica126
+|l| Metallica126
+|
+|t:|1641731002
+|switch|p1a: Clefable|Clefable, M|100/100
+|switch|p2a: Swampert|Swampert, M|56/100
+|
+|-heal|p2a: Swampert|62/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641731009
+|move|p1a: Clefable|Ice Beam|p2a: Swampert
+|-damage|p2a: Swampert|31/100
+|move|p2a: Swampert|Stealth Rock|p1a: Clefable
+|-sidestart|p1: SL21CC Mcdonald's|move: Stealth Rock
+|
+|-heal|p2a: Swampert|37/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641731017
+|move|p1a: Clefable|Focus Blast|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|upkeep
+|
+|t:|1641731026
+|switch|p2a: Clefable|Clefable, F|64/100
+|turn|8
+|j| Suta Pulachina
+|
+|t:|1641731036
+|move|p1a: Clefable|Thunder|p2a: Clefable|[miss]
+|-miss|p1a: Clefable|p2a: Clefable
+|move|p2a: Clefable|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|-heal|p2a: Clefable|70/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641731041
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|80/100
+|
+|-heal|p2a: Clefable|77/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641731046
+|move|p2a: Clefable|Thunder Wave|p1a: Melmetal
+|-status|p1a: Melmetal|par
+|move|p1a: Melmetal|Superpower|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|48/100
+|-unboost|p1a: Melmetal|atk|1
+|-unboost|p1a: Melmetal|def|1
+|
+|-heal|p2a: Clefable|54/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|-activate|p1a: Melmetal|item: Quick Claw
+|
+|t:|1641731051
+|move|p1a: Melmetal|Double Iron Bash|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-hitcount|p2: Clefable|1
+|
+|upkeep
+|
+|t:|1641731056
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|12
+|
+|t:|1641731068
+|move|p2a: Moltres|Nasty Plot|p2a: Moltres
+|-boost|p2a: Moltres|spa|2
+|move|p1a: Melmetal|Double Iron Bash|p2a: Moltres
+|-damage|p2a: Moltres|65/100
+|-damage|p2a: Moltres|32/100
+|-hitcount|p2a: Moltres|2
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|
+|upkeep
+|turn|13
+|j| sl21cc ryekie
+|
+|t:|1641731086
+|move|p2a: Moltres|Fiery Wrath|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641731089
+|switch|p1a: Mew|Mew|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641731093
+|move|p1a: Mew|Close Combat|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|-unboost|p1a: Mew|def|1
+|-unboost|p1a: Mew|spd|1
+|faint|p2a: Moltres
+|
+|-heal|p1a: Mew|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641731096
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|15
+|
+|t:|1641731126
+|switch|p1a: Seismitoad|Seismitoad, M|100/100
+|-damage|p1a: Seismitoad|94/100|[from] Stealth Rock
+|move|p2a: Dragapult|Hex|p1a: Seismitoad
+|-damage|p1a: Seismitoad|73/100
+|
+|-heal|p1a: Seismitoad|79/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641731138
+|move|p2a: Dragapult|U-turn|p1a: Seismitoad
+|-damage|p1a: Seismitoad|57/100
+|
+|t:|1641731140
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|move|p1a: Seismitoad|Toxic|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|-heal|p1a: Seismitoad|63/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|j|♚cscl
+|
+|t:|1641731148
+|switch|p1a: Clefable|Clefable, M|100/100 par
+|move|p2a: Ferrothorn|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|87/100 par
+|-enditem|p1a: Clefable|Life Orb|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|18
+|
+|t:|1641731161
+|move|p1a: Clefable|Fire Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641731164
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|19
+|
+|t:|1641731167
+|move|p2a: Dragapult|Hex|p1a: Clefable
+|-damage|p1a: Clefable|16/100 par
+|cant|p1a: Clefable|par
+|
+|upkeep
+|turn|20
+|
+|t:|1641731171
+|move|p2a: Dragapult|Hex|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641731177
+|switch|p1a: Seismitoad|Seismitoad, M|63/100
+|-damage|p1a: Seismitoad|57/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641731183
+|move|p2a: Dragapult|Dragon Darts|p1a: Seismitoad
+|-damage|p1a: Seismitoad|36/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Seismitoad
+|-damage|p1a: Seismitoad|16/100
+|move|p1a: Seismitoad|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-heal|p1a: Seismitoad|22/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641731186
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Dragapult|Hex|p1a: Zapdos
+|-damage|p1a: Zapdos|68/100
+|
+|-damage|p2a: Dragapult|83/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641731188
+|move|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|44/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|23/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|73/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p2a: Dragapult|65/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641731193
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|25
+|
+|t:|1641731195
+|move|p1a: Zapdos|Defog|p2a: Zapdos
+|-unboost|p2a: Zapdos|evasion|1
+|-sideend|p1: SL21CC Mcdonald's|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|73/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641731205
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|52/100
+|move|p2a: Zapdos|Discharge|p1a: Zapdos
+|-damage|p1a: Zapdos|43/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641731207
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|93/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|28
+|
+|t:|1641731210
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|52/100
+|move|p2a: Zapdos|Discharge|p1a: Zapdos
+|-damage|p1a: Zapdos|62/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641731214
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|6/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|56/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|30
+|
+|t:|1641731217
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|6/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|56/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|31
+|
+|t:|1641731219
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|4/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|55/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|32
+|
+|t:|1641731222
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|8/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|58/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|33
+|
+|t:|1641731224
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|11/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|62/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|34
+|
+|t:|1641731226
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|15/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|65/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|35
+|
+|t:|1641731228
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|17/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|68/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|36
+|
+|t:|1641731231
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|21/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|72/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|37
+|
+|t:|1641731233
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|24/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|74/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|38
+|
+|t:|1641731235
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|28/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|78/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|39
+|
+|t:|1641731238
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|27/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|77/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|40
+|
+|t:|1641731241
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|2/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|52/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|41
+|
+|t:|1641731244
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|4/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|55/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|42
+|
+|t:|1641731246
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|8/100
+|move|p2a: Zapdos|Discharge|p1a: Zapdos
+|-damage|p1a: Zapdos|29/100
+|
+|upkeep
+|turn|43
+|
+|t:|1641731249
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|79/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|54/100
+|
+|upkeep
+|turn|44
+|
+|t:|1641731254
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|76/100
+|
+|upkeep
+|turn|45
+|
+|t:|1641731255
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|j| adreamew
+|
+|t:|1641731256
+|switch|p2a: Dragapult|Dragapult, M|65/100 tox
+|turn|46
+|
+|t:|1641731258
+|move|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|53/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|30/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|80/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p2a: Dragapult|59/100 tox|[from] psn
+|upkeep
+|turn|47
+|
+|t:|1641731260
+|move|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|59/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|35/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|85/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p2a: Dragapult|47/100 tox|[from] psn
+|upkeep
+|turn|48
+|
+|t:|1641731262
+|move|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|64/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|29/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|79/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p2a: Dragapult|29/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1641731264
+|move|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|58/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Zapdos
+|-damage|p1a: Zapdos|35/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|win|SL21CC Mcdonald's
+|raw|SL21CC Mcdonald&apos;s's rating: 1289 &rarr; <strong>1305</strong><br />(+16 for winning)
+|raw|SL21CC Leviathan's rating: 1274 &rarr; <strong>1259</strong><br />(-15 for losing)
+|l|☆SL21CC Leviathan
+|l|☆SL21CC Mcdonald's
+|l|%kitoothe
+|l| sl21cckhl
+|l| Suta Pulachina
+|l| SL21CCCHINESENGEIL

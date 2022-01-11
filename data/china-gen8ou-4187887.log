@@ -1,0 +1,558 @@
+|j|☆acerolamywaifu
+|j|☆adreamew
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641734077
+|gametype|singles
+|player|p1|acerolamywaifu|101|
+|player|p2|adreamew|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Zapdos|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kommo-o, M|
+|poke|p2|Mew|
+|poke|p2|Zeraora|
+|poke|p2|Clefable, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|j| habixia
+|
+|t:|1641734089
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|j| Waterghosts
+|
+|t:|1641734095
+|move|p1a: Pelipper|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|97/100
+|l| Waterghosts
+|
+|t:|1641734098
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|move|p2a: Clefable|Trick|p1a: Ferrothorn
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Ferrothorn
+|-item|p1a: Ferrothorn|Sticky Barb|[from] move: Trick
+|-item|p2a: Clefable|Leftovers|[from] move: Trick
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Clefable|100/100|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|88/100|[from] item: Sticky Barb
+|upkeep
+|turn|2
+|
+|t:|1641734103
+|move|p2a: Clefable|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: acerolamywaifu|move: Stealth Rock
+|move|p1a: Ferrothorn|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|90/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ferrothorn|75/100|[from] item: Sticky Barb
+|upkeep
+|turn|3
+|l| habixia
+|inactive|acerolamywaifu has 120 seconds left.
+|inactive|acerolamywaifu has 90 seconds left.
+|j| Waterghosts
+|inactive|acerolamywaifu has 60 seconds left.
+|
+|t:|1641734203
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|65/100
+|move|p1a: Ferrothorn|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|43/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ferrothorn|52/100|[from] item: Sticky Barb
+|upkeep
+|turn|4
+|
+|t:|1641734210
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|93/100
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: adreamew|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ferrothorn|40/100|[from] item: Sticky Barb
+|upkeep
+|turn|5
+|
+|t:|1641734213
+|move|p2a: Clefable|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|29/100
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: adreamew|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ferrothorn|17/100|[from] item: Sticky Barb
+|upkeep
+|turn|6
+|
+|t:|1641734217
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|move|p1a: Ferrothorn|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|55/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ferrothorn|4/100|[from] item: Sticky Barb
+|upkeep
+|turn|7
+|
+|t:|1641734222
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Clefable
+|-sidestart|p2: adreamew|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ferrothorn|0 fnt|[from] item: Sticky Barb
+|faint|p1a: Ferrothorn
+|upkeep
+|
+|t:|1641734226
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|turn|8
+|
+|t:|1641734232
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Weather Ball|p2a: Corviknight
+|-damage|p2a: Corviknight|32/100
+|
+|-weather|none
+|-heal|p2a: Corviknight|38/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641734237
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-damage|p1a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|88/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641734240
+|move|p1a: Pelipper|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|59/100
+|move|p2a: Corviknight|Defog|p1a: Pelipper
+|-unboost|p1a: Pelipper|evasion|1
+|-sideend|p1: acerolamywaifu|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: adreamew|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|65/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641734251
+|move|p1a: Pelipper|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|29/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|78/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641734253
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Pelipper|Scald|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|80/100
+|-status|p2a: Toxapex|brn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|86/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|80/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641734260
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Toxapex|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|86/100 brn|[from] item: Black Sludge
+|-damage|p1a: Zapdos|94/100 tox|[from] psn
+|-damage|p2a: Toxapex|80/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641734272
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: Zapdos|Thunder|p2a: Mew
+|-damage|p2a: Mew|67/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Mew|73/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|82/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641734277
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|100/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641734288
+|move|p1a: Barraskewda|Flip Turn|p2a: Mew
+|-damage|p2a: Mew|37/100
+|
+|t:|1641734292
+|switch|p1a: Kommo-o|Kommo-o, M|100/100|[from]move: Flip Turn
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|87/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|-weather|none
+|-heal|p2a: Mew|93/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641734296
+|move|p2a: Mew|Will-O-Wisp|p1a: Kommo-o
+|-status|p1a: Kommo-o|brn
+|move|p1a: Kommo-o|Stealth Rock|p2a: Mew
+|-sidestart|p2: adreamew|move: Stealth Rock
+|
+|-heal|p2a: Mew|99/100|[from] item: Leftovers
+|-damage|p1a: Kommo-o|94/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641734303
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Kommo-o|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|
+|-damage|p1a: Kommo-o|88/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641734306
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Stealth Rock|p1a: Landorus
+|-sidestart|p1: acerolamywaifu|move: Stealth Rock
+|
+|upkeep
+|turn|20
+|
+|t:|1641734314
+|move|p1a: Landorus|Sludge Wave|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|31/100 tox
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|81/100 tox
+|
+|upkeep
+|turn|21
+|
+|t:|1641734320
+|switch|p1a: Pelipper|Pelipper, F|76/100
+|-damage|p1a: Pelipper|51/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|switch|p2a: Corviknight|Corviknight, M|85/100
+|-damage|p2a: Corviknight|72/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|78/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641734325
+|switch|p2a: Toxapex|Toxapex, F|100/100 brn
+|-damage|p2a: Toxapex|88/100 brn|[from] Stealth Rock
+|move|p1a: Pelipper|Scald|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|74/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|80/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|74/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641734329
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-damage|p1a: Landorus|76/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|move|p2a: Toxapex|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|70/100
+|-enditem|p1a: Landorus|Choice Specs|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|80/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|74/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641734337
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|move|p1a: Landorus|Earth Power|p2a: Dragonite
+|-immune|p2a: Dragonite
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1641734341
+|move|p1a: Landorus|U-turn|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|97/100
+|
+|t:|1641734344
+|switch|p1a: Barraskewda|Barraskewda, F|100/100|[from]move: U-turn
+|-damage|p1a: Barraskewda|88/100|[from] Stealth Rock
+|move|p2a: Dragonite|Ice Beam|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|65/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1641734349
+|move|p1a: Barraskewda|Liquidation|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|60/100
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|27
+|
+|t:|1641734352
+|move|p1a: Barraskewda|Liquidation|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|81/100
+|move|p2a: Dragonite|Earthquake|p1a: Barraskewda
+|-damage|p1a: Barraskewda|12/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1641734356
+|move|p1a: Barraskewda|Liquidation|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|45/100
+|-unboost|p2a: Dragonite|def|1
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|95/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|29
+|
+|t:|1641734359
+|move|p1a: Barraskewda|Liquidation|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|58/100
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|upkeep
+|turn|30
+|
+|t:|1641734361
+|move|p1a: Barraskewda|Liquidation|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|84/100
+|move|p2a: Dragonite|Earthquake|p1a: Barraskewda
+|-crit|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|upkeep
+|
+|t:|1641734364
+|switch|p1a: Kommo-o|Kommo-o, M|88/100 brn
+|-damage|p1a: Kommo-o|82/100 brn|[from] Stealth Rock
+|turn|31
+|
+|t:|1641734367
+|switch|p2a: Clefable|Clefable, M|81/100 tox
+|move|p1a: Kommo-o|Rock Slide|p2a: Clefable
+|-damage|p2a: Clefable|72/100 tox
+|
+|-damage|p1a: Kommo-o|76/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641734372
+|move|p1a: Kommo-o|Rock Slide|p2a: Clefable
+|-damage|p2a: Clefable|63/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1641734374
+|switch|p1a: Zapdos|Zapdos|82/100 tox
+|turn|33
+|
+|t:|1641734379
+|move|p1a: Zapdos|Thunder|p2a: Clefable|[miss]
+|-miss|p1a: Zapdos|p2a: Clefable
+|move|p2a: Clefable|Trick|p1a: Zapdos
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Zapdos
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[silent]|[from] move: Trick
+|-item|p2a: Clefable|Heavy-Duty Boots|[from] move: Trick
+|
+|-damage|p1a: Zapdos|76/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641734381
+|move|p1a: Zapdos|Thunder|p2a: Clefable
+|-damage|p2a: Clefable|23/100 tox
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|73/100 tox
+|
+|-damage|p1a: Zapdos|63/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641734383
+|move|p1a: Zapdos|Thunder|p2a: Clefable
+|-damage|p2a: Clefable|32/100 tox
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|82/100 tox
+|
+|-damage|p1a: Zapdos|44/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641734385
+|move|p1a: Zapdos|Thunder|p2a: Clefable
+|-damage|p2a: Clefable|36/100 tox
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|86/100 tox
+|
+|-damage|p1a: Zapdos|20/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641734387
+|move|p1a: Zapdos|Thunder|p2a: Clefable|[miss]
+|-miss|p1a: Zapdos|p2a: Clefable
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100 tox
+|
+|-damage|p1a: Zapdos|0 fnt|[from] psn
+|faint|p1a: Zapdos
+|upkeep
+|
+|t:|1641734389
+|switch|p1a: Pelipper|Pelipper, F|51/100
+|-damage|p1a: Pelipper|26/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|38
+|
+|t:|1641734392
+|move|p1a: Pelipper|Scald|p2a: Clefable
+|-damage|p2a: Clefable|67/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641734394
+|switch|p1a: Landorus|Landorus-Therian, M|70/100
+|-damage|p1a: Landorus|58/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|turn|39
+|
+|t:|1641734396
+|move|p1a: Landorus|Weather Ball|p2a: Clefable
+|-damage|p2a: Clefable|26/100 tox
+|move|p2a: Clefable|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|17/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|40
+|
+|t:|1641734399
+|move|p1a: Landorus|Weather Ball|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641734401
+|switch|p2a: Dragonite|Dragonite, F|84/100
+|turn|41
+|
+|t:|1641734404
+|move|p1a: Landorus|Sludge Wave|p2a: Dragonite
+|-damage|p2a: Dragonite|60/100
+|move|p2a: Dragonite|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|win|adreamew
+|n|☆acerolamywaifu|acerolamywaifu
+|n|☆adreamew|adreamew
+|n| Waterghosts|waterghosts

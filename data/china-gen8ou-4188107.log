@@ -1,0 +1,301 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|‽sl21 ccpj
+|j|☆sl21cc enfalleba
+|t:|1641740472
+|gametype|singles
+|player|p1|sl21 ccpj|1|1358
+|player|p2|sl21cc enfalleba|102|1264
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zeraora|
+|poke|p1|Zapdos-Galar|
+|poke|p1|Tapu Fini|
+|poke|p1|Melmetal|
+|poke|p1|Victini|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Melmetal|
+|teampreview
+|j| eastnovel
+|c|☆sl21cc enfalleba|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by sl21 ccpj)
+|inactive|sl21cc enfalleba also wants the timer to be on.
+|
+|t:|1641740483
+|start
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|1
+|j| sl21cckhl
+|
+|t:|1641740497
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Toxapex
+|-damage|p2a: Toxapex|51/100
+|move|p2a: Toxapex|Knock Off|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|94/100
+|-enditem|p1a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|2
+|j| adreamew
+|inactive|sl21cc enfalleba has 120 seconds left.
+|
+|t:|1641740528
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|100/100
+|move|p1a: Tapu Fini|Whirlpool|p2a: Tornadus
+|-damage|p2a: Tornadus|90/100
+|-activate|p2a: Tornadus|move: Whirlpool|[of] p1a: Tapu Fini
+|
+|-damage|p2a: Tornadus|78/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1641740532
+|move|p2a: Tornadus|Hurricane|p1a: Tapu Fini|[miss]
+|-miss|p2a: Tornadus|p1a: Tapu Fini
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Tornadus
+|-damage|p2a: Tornadus|39/100
+|
+|-damage|p2a: Tornadus|27/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|4
+|l| sl21cckhl
+|
+|t:|1641740536
+|move|p2a: Tornadus|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|87/100
+|
+|t:|1641740537
+|switch|p2a: Toxapex|Toxapex, F, shiny|84/100|[from]move: U-turn
+|move|p1a: Tapu Fini|Whirlpool|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|79/100
+|-activate|p2a: Toxapex|move: Whirlpool|[of] p1a: Tapu Fini
+|
+|-damage|p2a: Toxapex|67/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1641740542
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Melmetal
+|-damage|p2a: Melmetal|50/100
+|
+|-heal|p2a: Melmetal|57/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641740549
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|88/100
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|75/100
+|-hitcount|p1a: Melmetal|2
+|
+|-heal|p2a: Melmetal|63/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641740556
+|move|p2a: Melmetal|Protect|p2a: Melmetal
+|-singleturn|p2a: Melmetal|Protect
+|move|p1a: Melmetal|Earthquake|p2a: Melmetal
+|-activate|p2a: Melmetal|move: Protect
+|
+|-heal|p2a: Melmetal|69/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641740560
+|switch|p2a: Toxapex|Toxapex, F, shiny|99/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|87/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|75/100
+|-hitcount|p2a: Toxapex|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641740566
+|move|p1a: Melmetal|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|5/100
+|move|p2a: Toxapex|Scald|p1a: Melmetal
+|-damage|p1a: Melmetal|67/100
+|-status|p1a: Melmetal|brn
+|
+|-damage|p1a: Melmetal|61/100 brn|[from] brn
+|upkeep
+|turn|10
+|j| 9skythunderouskick
+|
+|t:|1641740575
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|-ability|p1a: Zapdos|Defiant
+|-boost|p1a: Zapdos|atk|2
+|
+|upkeep
+|turn|11
+|
+|t:|1641740582
+|switch|p2a: Melmetal|Melmetal, shiny|69/100
+|move|p1a: Zapdos|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|faint|p2a: Melmetal
+|
+|upkeep
+|j|♚aro nova
+|
+|t:|1641740586
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|12
+|
+|t:|1641740593
+|switch|p1a: Victini|Victini|100/100
+|move|p2a: Tapu Lele|Thunderbolt|p1a: Victini
+|-damage|p1a: Victini|59/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641740599
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Victini|atk|1
+|move|p1a: Victini|V-create|p2a: Landorus
+|-damage|p2a: Landorus|51/100
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|
+|-heal|p2a: Landorus|57/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641740607
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|switch|p2a: Toxapex|Toxapex, F, shiny|39/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641740618
+|switch|p2a: Tornadus|Tornadus-Therian, M, shiny|60/100
+|move|p1a: Landorus|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: sl21cc enfalleba|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|inactive|sl21cc enfalleba has 120 seconds left.
+|l|☆sl21cc enfalleba
+|inactive|sl21cc enfalleba disconnected and has a minute to reconnect!
+|player|p2|
+|j|☆sl21cc enfalleba
+|inactive|sl21cc enfalleba reconnected and has 115 seconds left.
+|player|p2|sl21cc enfalleba|102
+|
+|t:|1641740659
+|move|p2a: Tornadus|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p2: sl21cc enfalleba|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|-fieldend|move: Psychic Terrain
+|move|p1a: Landorus|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-damage|p2a: Tornadus|54/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641740664
+|move|p2a: Tornadus|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|86/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Landorus|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: sl21cc enfalleba|move: Stealth Rock
+|
+|-damage|p2a: Tornadus|42/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641740669
+|move|p2a: Tornadus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|80/100
+|
+|t:|1641740670
+|switch|p2a: Weavile|Weavile, F, shiny|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Landorus|U-turn|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|26/100
+|
+|t:|1641740676
+|switch|p1a: Zeraora|Zeraora|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|19
+|
+|t:|1641740682
+|move|p1a: Zeraora|Knock Off|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-enditem|p2a: Weavile|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Zeraora
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641740690
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|57/100
+|-damage|p2a: Landorus|45/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zeraora|atk|1
+|turn|20
+|
+|t:|1641740693
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: sl21 ccpj|move: Stealth Rock
+|
+|-heal|p2a: Landorus|51/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|-message|sl21cc enfalleba forfeited.
+|
+|win|sl21 ccpj
+|raw|sl21 ccpj's rating: 1358 &rarr; <strong>1373</strong><br />(+15 for winning)
+|raw|sl21cc enfalleba's rating: 1264 &rarr; <strong>1252</strong><br />(-12 for losing)
+|l|☆sl21cc enfalleba
+|l|‽sl21 ccpj

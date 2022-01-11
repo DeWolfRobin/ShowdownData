@@ -1,0 +1,335 @@
+|j|☆lintlord
+|j|☆stelmarg
+|t:|1641769641
+|gametype|singles
+|player|p1|lintlord|roxanne|1121
+|player|p2|stelmarg|swimmer-gen4|1101
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Nihilego|
+|poke|p1|Swampert, F|
+|poke|p1|Heatran, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Weavile, F|
+|poke|p1|Zapdos-Galar|
+|poke|p2|Tyranitar, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Dracozolt|
+|poke|p2|Aggron, M|
+|poke|p2|Gigalith, M|
+|poke|p2|Stoutland, M|
+|teampreview
+|
+|t:|1641769662
+|start
+|switch|p1a: Swampert|Swampert, F|100/100
+|switch|p2a: Gigalith|Gigalith, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gigalith
+|turn|1
+|
+|t:|1641769725
+|switch|p2a: Aggron|Aggron, M|100/100
+|move|p1a: Swampert|Flip Turn|p2a: Aggron
+|-supereffective|p2a: Aggron
+|-damage|p2a: Aggron|68/100
+|c|☆stelmarg|Cmon sissy boy
+|c|☆lintlord|:((((
+|
+|t:|1641769814
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: Flip Turn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641769830
+|move|p2a: Aggron|Head Smash|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|72/100
+|-damage|p2a: Aggron|56/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Aggron
+|-start|p2a: Aggron|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|79/100|[from] item: Leftovers
+|-damage|p2a: Aggron|44/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|89/100|[silent]
+|upkeep
+|turn|3
+|
+|t:|1641769851
+|switch|p2a: Stoutland|Stoutland, M, shiny|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Stoutland
+|-sidestart|p2: stelmarg|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|96/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|j|%Eli
+|c|%Eli|/log stelmarg was warned by Eli. (don't be rude)
+|hidelines|unlink|stelmarg
+|c|&|/raw If you have questions about this action, please contact staff by making a <a href="view-help-request" class="button">help ticket</a>
+|l|%Eli
+|
+|t:|1641769873
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|move|p2a: Stoutland|Ice Fang|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|39/100
+|-damage|p2a: Stoutland|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|33/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641769894
+|move|p2a: Stoutland|Ice Fang|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Stoutland|81/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641769910
+|switch|p1a: Swampert|Swampert, F|100/100
+|turn|6
+|
+|t:|1641769921
+|move|p2a: Stoutland|Superpower|p1a: Swampert
+|-crit|p1a: Swampert
+|-damage|p1a: Swampert|31/100
+|-unboost|p2a: Stoutland|atk|1
+|-unboost|p2a: Stoutland|def|1
+|-damage|p2a: Stoutland|71/100|[from] item: Life Orb
+|move|p1a: Swampert|Toxic|p2a: Stoutland
+|-status|p2a: Stoutland|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Swampert|37/100|[from] item: Leftovers
+|-damage|p2a: Stoutland|65/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641769936
+|switch|p1a: Ferrothorn|Ferrothorn, M|96/100
+|move|p2a: Stoutland|Superpower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|56/100
+|-unboost|p2a: Stoutland|atk|1
+|-unboost|p2a: Stoutland|def|1
+|-damage|p2a: Stoutland|52/100 tox|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Stoutland|43/100 tox|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Ferrothorn|62/100|[from] item: Leftovers
+|-damage|p2a: Stoutland|30/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641769952
+|switch|p2a: Aggron|Aggron, M|44/100
+|-damage|p2a: Aggron|31/100|[from] Spikes
+|move|p1a: Ferrothorn|Leech Seed|p2a: Aggron
+|-start|p2a: Aggron|move: Leech Seed
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|68/100|[from] item: Leftovers
+|-damage|p2a: Aggron|19/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|79/100|[silent]
+|upkeep
+|turn|9
+|
+|t:|1641769974
+|move|p2a: Aggron|Brick Break|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|38/100
+|-damage|p2a: Aggron|6/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Aggron
+|-sidestart|p2: stelmarg|Spikes
+|
+|-heal|p1a: Ferrothorn|44/100|[from] item: Leftovers
+|-damage|p2a: Aggron|0 fnt|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|49/100|[silent]
+|faint|p2a: Aggron
+|upkeep
+|
+|t:|1641769985
+|switch|p2a: Tyranitar|Tyranitar, M, shiny|100/100
+|-damage|p2a: Tyranitar|84/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|10
+|
+|t:|1641769994
+|move|p2a: Tyranitar|Fire Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Tyranitar|72/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|-damage|p2a: Tyranitar|62/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641769999
+|switch|p1a: Nihilego|Nihilego|100/100
+|turn|11
+|
+|t:|1641770017
+|switch|p2a: Dracozolt|Dracozolt|100/100
+|-damage|p2a: Dracozolt|84/100|[from] Spikes
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|-enditem|p1a: Nihilego|Power Herb
+|-anim|p1a: Nihilego|Meteor Beam|p2a: Dracozolt
+|-damage|p2a: Dracozolt|0 fnt
+|faint|p2a: Dracozolt
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641770035
+|switch|p2a: Stoutland|Stoutland, M, shiny|30/100 tox
+|-damage|p2a: Stoutland|14/100 tox|[from] Spikes
+|turn|12
+|
+|t:|1641770048
+|move|p1a: Nihilego|Thunderbolt|p2a: Stoutland
+|-damage|p2a: Stoutland|0 fnt
+|faint|p2a: Stoutland
+|-ability|p1a: Nihilego|Beast Boost|boost
+|-boost|p1a: Nihilego|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641770063
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-damage|p2a: Excadrill|84/100|[from] Spikes
+|turn|13
+|
+|t:|1641770076
+|switch|p1a: Swampert|Swampert, F|37/100
+|move|p2a: Excadrill|Drill Run|p1a: Swampert|[miss]
+|-miss|p2a: Excadrill|p1a: Swampert
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Swampert|43/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641770096
+|move|p2a: Excadrill|Drill Run|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|-damage|p2a: Excadrill|74/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641770131
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|15
+|
+|t:|1641770155
+|switch|p2a: Tyranitar|Tyranitar, M, shiny|62/100
+|-damage|p2a: Tyranitar|45/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Heatran|Magma Storm|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|33/100
+|-activate|p2a: Tyranitar|move: Magma Storm|[of] p1a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|21/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1641770169
+|move|p1a: Heatran|Earth Power|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641770177
+|switch|p2a: Excadrill|Excadrill, F|74/100
+|-damage|p2a: Excadrill|58/100|[from] Spikes
+|turn|17
+|
+|t:|1641770182
+|move|p2a: Excadrill|Drill Run|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-damage|p2a: Excadrill|48/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641770203
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|18
+|
+|t:|1641770238
+|switch|p2a: Gigalith|Gigalith, M, shiny|100/100
+|-damage|p2a: Gigalith|84/100|[from] Spikes
+|move|p1a: Weavile|Triple Axel|p2a: Gigalith
+|-damage|p2a: Gigalith|77/100
+|-damage|p2a: Gigalith|63/100
+|-damage|p2a: Gigalith|40/100
+|-hitcount|p2a: Gigalith|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|94/100|[from] Sandstorm
+|upkeep
+|turn|19
+|
+|t:|1641770257
+|move|p1a: Weavile|Triple Axel|p2a: Gigalith
+|-damage|p2a: Gigalith|33/100
+|-damage|p2a: Gigalith|18/100
+|-damage|p2a: Gigalith|0 fnt
+|faint|p2a: Gigalith
+|-hitcount|p2: Gigalith|3
+|
+|-weather|none
+|upkeep
+|
+|t:|1641770267
+|switch|p2a: Excadrill|Excadrill, F|48/100
+|-damage|p2a: Excadrill|31/100|[from] Spikes
+|turn|20
+|
+|t:|1641770272
+|move|p1a: Weavile|Triple Axel|p2a: Excadrill
+|-damage|p2a: Excadrill|19/100
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|-hitcount|p2: Excadrill|2
+|
+|win|lintlord
+|raw|lintlord's rating: 1121 &rarr; <strong>1145</strong><br />(+24 for winning)
+|raw|stelmarg's rating: 1101 &rarr; <strong>1077</strong><br />(-24 for losing)
+|c|☆lintlord|ez
+|l|☆stelmarg

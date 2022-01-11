@@ -1,0 +1,288 @@
+|j|☆Deadwhit idc
+|j|☆HokageNarudo
+|t:|1641778229
+|gametype|singles
+|player|p1|Deadwhit idc|clerk|
+|player|p2|HokageNarudo|palmer|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Tapu Fini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Heatran, M|
+|poke|p1|Kartana|
+|poke|p2|Bisharp, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Blacephalon|
+|poke|p2|Zeraora|
+|poke|p2|Volcarona, M|
+|teampreview
+|
+|t:|1641778246
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1641778274
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|move|p1a: Tapu Koko|Grass Knot|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|79/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Koko|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641778288
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641778318
+|move|p2a: Bisharp|Sucker Punch|p1a: Heatran
+|-damage|p1a: Heatran|40/100
+|move|p1a: Heatran|Magma Storm|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Heatran|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641778341
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|4
+|
+|t:|1641778359
+|switch|p2a: Zeraora|Zeraora|100/100
+|move|p1a: Heatran|Protect||[still]
+|-fail|p1a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zeraora|95/100|[from] Sandstorm
+|-heal|p1a: Heatran|52/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641778366
+|move|p2a: Zeraora|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|faint|p1a: Heatran
+|-damage|p2a: Zeraora|85/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641778385
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|turn|6
+|
+|t:|1641778393
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Landorus|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|73/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|79/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641778399
+|move|p1a: Landorus|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|64/100
+|
+|t:|1641778401
+|switch|p1a: Kartana|Kartana|100/100|[from]move: U-turn
+|move|p2a: Hippowdon|Toxic|p1a: Kartana
+|-immune|p1a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|70/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641778420
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|move|p1a: Kartana|Leaf Blade|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcarona|60/100|[from] Sandstorm
+|-fieldend|Misty Terrain
+|upkeep
+|turn|9
+|
+|t:|1641778480
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|switch|p2a: Zeraora|Zeraora|85/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zeraora|79/100|[from] Sandstorm
+|-damage|p1a: Tapu Fini|94/100|[from] Sandstorm
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641778504
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|move|p2a: Zeraora|Play Rough|p1a: Landorus
+|-damage|p1a: Landorus|74/100
+|-damage|p2a: Zeraora|69/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|11
+|
+|t:|1641778512
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|move|p1a: Landorus|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|86/100
+|
+|t:|1641778518
+|switch|p1a: Tapu Koko|Tapu Koko|94/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|-heal|p2a: Tapu Fini|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641778526
+|switch|p2a: Volcarona|Volcarona, M|60/100
+|move|p1a: Tapu Koko|U-turn|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|47/100
+|
+|t:|1641778531
+|switch|p1a: Hawlucha|Hawlucha, M|100/100|[from]move: U-turn
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|
+|upkeep
+|turn|13
+|
+|t:|1641778566
+|move|p1a: Hawlucha|Acrobatics|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-status|p1a: Hawlucha|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|faint|p2a: Volcarona
+|
+|-damage|p1a: Hawlucha|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1641778579
+|switch|p2a: Hippowdon|Hippowdon, M|70/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|14
+|
+|t:|1641778597
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Hippowdon|Stealth Rock|p1a: Hawlucha
+|-sidestart|p1: Deadwhit idc|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hawlucha|88/100 brn|[from] Sandstorm
+|-heal|p2a: Hippowdon|76/100|[from] item: Leftovers
+|-damage|p1a: Hawlucha|82/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641778605
+|switch|p2a: Zeraora|Zeraora|69/100
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hawlucha|76/100 brn|[from] Sandstorm
+|-damage|p2a: Zeraora|63/100|[from] Sandstorm
+|-damage|p1a: Hawlucha|70/100 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|16
+|
+|t:|1641778631
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|move|p1a: Hawlucha|Close Combat|p2a: Blacephalon
+|-immune|p2a: Blacephalon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hawlucha|64/100 brn|[from] Sandstorm
+|-damage|p2a: Blacephalon|94/100|[from] Sandstorm
+|-damage|p1a: Hawlucha|58/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641778643
+|move|p1a: Hawlucha|Acrobatics|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hawlucha|52/100 brn|[from] Sandstorm
+|-damage|p1a: Hawlucha|46/100 brn|[from] brn
+|upkeep
+|
+|t:|1641778650
+|switch|p2a: Hippowdon|Hippowdon, M|76/100
+|turn|18
+|
+|t:|1641778660
+|move|p1a: Hawlucha|Acrobatics|p2a: Hippowdon
+|-damage|p2a: Hippowdon|37/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|87/100
+|
+|-weather|none
+|-heal|p2a: Hippowdon|93/100|[from] item: Leftovers
+|-damage|p1a: Hawlucha|40/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641778666
+|move|p1a: Hawlucha|Roost|p1a: Hawlucha
+|-heal|p1a: Hawlucha|90/100 brn
+|-singleturn|p1a: Hawlucha|move: Roost
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-damage|p1a: Hawlucha|84/100 brn|[from] brn
+|upkeep
+|turn|20
+|-message|HokageNarudo forfeited.
+|
+|win|Deadwhit idc
+|l|☆HokageNarudo

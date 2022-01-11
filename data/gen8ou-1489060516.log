@@ -1,0 +1,206 @@
+|j|☆ultimatesimp9292
+|j|☆Dray_07
+|t:|1641851712
+|gametype|singles
+|player|p1|ultimatesimp9292|jasmine|1000
+|player|p2|Dray_07|101|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, M|
+|poke|p1|Scizor, M|
+|poke|p1|Weavile, F|
+|poke|p1|Blissey, F|
+|poke|p1|Magnezone|
+|poke|p1|Pelipper, F|
+|poke|p2|Aggron, F|
+|poke|p2|Gastrodon-East, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Vespiquen, F|
+|poke|p2|Whimsicott, F|
+|poke|p2|Chandelure, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ultimatesimp9292)
+|
+|t:|1641851760
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Algodon|Whimsicott, F|100/100
+|turn|1
+|
+|t:|1641851785
+|move|p1a: Pelipper|Tailwind|p1a: Pelipper
+|-sidestart|p1: ultimatesimp9292|move: Tailwind
+|move|p2a: Algodon|Trick Room|p2a: Algodon
+|-fieldstart|move: Trick Room|[of] p2a: Algodon
+|
+|upkeep
+|turn|2
+|inactive|Dray_07 has 120 seconds left.
+|inactive|Dray_07 has 90 seconds left.
+|
+|t:|1641851845
+|switch|p2a: Candelabro|Chandelure, F|100/100
+|move|p1a: Pelipper|U-turn|p2a: Candelabro
+|-resisted|p2a: Candelabro
+|-crit|p2a: Candelabro
+|-damage|p2a: Candelabro|97/100
+|
+|t:|1641851852
+|switch|p1a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|inactive|Dray_07 has 90 seconds left.
+|
+|t:|1641851868
+|move|p2a: Candelabro|Flamethrower|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|-damage|p2a: Candelabro|87/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641851876
+|switch|p1a: Blissey|Blissey, F|100/100
+|turn|4
+|
+|t:|1641851879
+|move|p2a: Candelabro|Will-O-Wisp|p1a: Blissey
+|-status|p1a: Blissey|brn
+|move|p1a: Blissey|Stealth Rock|p2a: Candelabro
+|-sidestart|p2: Dray_07|move: Stealth Rock
+|
+|-damage|p1a: Blissey|94/100 brn|[from] brn
+|-sideend|p1: ultimatesimp9292|move: Tailwind
+|upkeep
+|turn|5
+|
+|t:|1641851893
+|switch|p2a: The Queen|Vespiquen, F|100/100
+|-damage|p2a: The Queen|50/100|[from] Stealth Rock
+|-ability|p2a: The Queen|Pressure
+|move|p1a: Blissey|Aromatherapy|p1a: Blissey
+|-activate|p1a: Blissey|move: Aromatherapy
+|-curestatus|p1a: Blissey|brn|[msg]
+|
+|-heal|p1a: Blissey|100/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641851904
+|move|p1a: Blissey|Protect|p1a: Blissey
+|-singleturn|p1a: Blissey|Protect
+|move|p2a: The Queen|Toxic Spikes|p1a: Blissey
+|-sidestart|p1: ultimatesimp9292|move: Toxic Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641851912
+|switch|p1a: Magnezone|Magnezone|100/100
+|move|p2a: The Queen|Toxic Spikes|p1a: Magnezone
+|-sidestart|p1: ultimatesimp9292|move: Toxic Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1641851919
+|move|p1a: Magnezone|Thunder Wave|p2a: The Queen
+|-status|p2a: The Queen|par
+|move|p2a: The Queen|U-turn|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|88/100
+|
+|t:|1641851930
+|switch|p2a: Tryharami|Gastrodon-East, F|100/100|[from]move: U-turn
+|-damage|p2a: Tryharami|94/100|[from] Stealth Rock
+|
+|-heal|p1a: Magnezone|94/100|[from] item: Leftovers
+|-heal|p2a: Tryharami|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641851949
+|move|p1a: Magnezone|Magnet Rise|p1a: Magnezone
+|-start|p1a: Magnezone|Magnet Rise
+|move|p2a: Tryharami|Earth Power|p1a: Magnezone
+|-immune|p1a: Magnezone
+|
+|-heal|p1a: Magnezone|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641851960
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|move|p2a: Tryharami|Ice Beam|p1a: Pelipper
+|-damage|p1a: Pelipper|81/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641851972
+|switch|p2a: Elaisa|Hatterene, F|100/100
+|-damage|p2a: Elaisa|88/100|[from] Stealth Rock
+|move|p1a: Pelipper|Tailwind|p1a: Pelipper
+|-sidestart|p1: ultimatesimp9292|move: Tailwind
+|
+|-heal|p2a: Elaisa|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641851984
+|move|p1a: Pelipper|Scald|p2a: Elaisa
+|-damage|p2a: Elaisa|73/100
+|move|p2a: Elaisa|Trick Room|p2a: Elaisa
+|-fieldstart|move: Trick Room|[of] p2a: Elaisa
+|
+|-heal|p2a: Elaisa|78/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641851994
+|switch|p1a: Magnezone|Magnezone|100/100
+|move|p2a: Elaisa|Mystical Fire|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|48/100
+|-unboost|p1a: Magnezone|spa|1
+|
+|-heal|p2a: Elaisa|84/100|[from] item: Leftovers
+|-heal|p1a: Magnezone|54/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641852006
+|move|p2a: Elaisa|Mystical Fire|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|5/100
+|-unboost|p1a: Magnezone|spa|1
+|move|p1a: Magnezone|Thunder Wave|p2a: Elaisa
+|move|p2a: Elaisa|Thunder Wave|p1a: Magnezone|[from]ability: Magic Bounce
+|-immune|p1a: Magnezone
+|
+|-heal|p2a: Elaisa|90/100|[from] item: Leftovers
+|-heal|p1a: Magnezone|12/100|[from] item: Leftovers
+|-sideend|p1: ultimatesimp9292|move: Tailwind
+|upkeep
+|turn|15
+|-message|ultimatesimp9292 forfeited.
+|
+|win|Dray_07
+|raw|ultimatesimp9292's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Dray_07's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|l|☆ultimatesimp9292
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

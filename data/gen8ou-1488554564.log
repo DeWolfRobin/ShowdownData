@@ -1,0 +1,291 @@
+|j|☆TestRunner619
+|j|☆Klavyus
+|t:|1641781088
+|gametype|singles
+|player|p1|TestRunner619|scientist-gen4|1509
+|player|p2|Klavyus|101|1437
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Dragapult, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Cloyster, F|
+|poke|p1|Blacephalon|
+|poke|p1|Melmetal|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Weavile, M|
+|poke|p2|Magnezone|
+|poke|p2|Garchomp, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Klavyus)
+|
+|t:|1641781100
+|start
+|switch|p1a: Gigachad|Melmetal|100/100
+|switch|p2a: Garchomp|Garchomp, M, shiny|100/100
+|turn|1
+|
+|t:|1641781106
+|move|p2a: Garchomp|Stealth Rock|p1a: Gigachad
+|-sidestart|p1: TestRunner619|move: Stealth Rock
+|move|p1a: Gigachad|Ice Punch|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|11/100
+|-damage|p1a: Gigachad|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|-heal|p2a: Garchomp|17/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641781115
+|switch|p1a: Brock Lesnar|Landorus-Therian, M|100/100
+|-damage|p1a: Brock Lesnar|88/100|[from] Stealth Rock
+|-ability|p1a: Brock Lesnar|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|move|p2a: Garchomp|Earthquake|p1a: Brock Lesnar
+|-immune|p1a: Brock Lesnar
+|
+|-heal|p2a: Garchomp|23/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641781127
+|move|p2a: Garchomp|Toxic|p1a: Brock Lesnar
+|-status|p1a: Brock Lesnar|tox
+|move|p1a: Brock Lesnar|Defog|p2a: Garchomp
+|-unboost|p2a: Garchomp|evasion|1
+|-sideend|p1: TestRunner619|Stealth Rock|[from] move: Defog|[of] p1a: Brock Lesnar
+|
+|-heal|p2a: Garchomp|30/100|[from] item: Leftovers
+|-damage|p1a: Brock Lesnar|82/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641781135
+|move|p2a: Garchomp|Protect|p2a: Garchomp
+|-singleturn|p2a: Garchomp|Protect
+|move|p1a: Brock Lesnar|Earthquake|p2a: Garchomp
+|-activate|p2a: Garchomp|move: Protect
+|
+|-heal|p2a: Garchomp|36/100|[from] item: Leftovers
+|-damage|p1a: Brock Lesnar|70/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641781143
+|move|p2a: Garchomp|Stealth Rock|p1a: Brock Lesnar
+|-sidestart|p1: TestRunner619|move: Stealth Rock
+|move|p1a: Brock Lesnar|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-damage|p1a: Brock Lesnar|52/100 tox|[from] psn
+|upkeep
+|
+|t:|1641781151
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|6
+|
+|t:|1641781156
+|switch|p1a: Gigachad|Melmetal|88/100
+|-damage|p1a: Gigachad|82/100|[from] Stealth Rock
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641781166
+|move|p2a: Weavile|Knock Off|p1a: Gigachad
+|-damage|p1a: Gigachad|30/100
+|-enditem|p1a: Gigachad|Assault Vest|[from] move: Knock Off|[of] p2a: Weavile
+|move|p1a: Gigachad|Double Iron Bash|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-hitcount|p2: Weavile|1
+|
+|upkeep
+|
+|t:|1641781174
+|switch|p2a: Magnezone|Magnezone|100/100
+|turn|8
+|
+|t:|1641781177
+|move|p2a: Magnezone|Thunderbolt|p1a: Gigachad
+|-damage|p1a: Gigachad|0 fnt
+|faint|p1a: Gigachad
+|
+|upkeep
+|
+|t:|1641781186
+|switch|p1a: Brock Lesnar|Landorus-Therian, M|52/100 tox
+|-damage|p1a: Brock Lesnar|40/100 tox|[from] Stealth Rock
+|-ability|p1a: Brock Lesnar|Intimidate|boost
+|-unboost|p2a: Magnezone|atk|1
+|turn|9
+|
+|t:|1641781192
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Brock Lesnar|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-damage|p1a: Brock Lesnar|34/100 tox|[from] psn
+|upkeep
+|
+|t:|1641781200
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|10
+|
+|t:|1641781203
+|move|p2a: Urshifu|Surging Strikes|p1a: Brock Lesnar
+|-supereffective|p1a: Brock Lesnar
+|-crit|p1a: Brock Lesnar
+|-damage|p1a: Brock Lesnar|0 fnt
+|-damage|p2a: Urshifu|84/100|[from] item: Rocky Helmet|[of] p1a: Brock Lesnar
+|faint|p1a: Brock Lesnar
+|-hitcount|p1: Brock Lesnar|1
+|
+|upkeep
+|
+|t:|1641781220
+|switch|p1a: Apollo 13|Dragapult, M|100/100
+|-damage|p1a: Apollo 13|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641781226
+|move|p1a: Apollo 13|Dragon Darts|p2a: Urshifu
+|-damage|p2a: Urshifu|47/100
+|-anim|p1a: Apollo 13|Dragon Darts|p2a: Urshifu
+|-damage|p2a: Urshifu|11/100
+|-damage|p1a: Apollo 13|78/100|[from] item: Life Orb
+|move|p2a: Urshifu|Surging Strikes|p1a: Apollo 13
+|-resisted|p1a: Apollo 13
+|-crit|p1a: Apollo 13
+|-damage|p1a: Apollo 13|59/100
+|-start|p2a: Urshifu|Disable|Surging Strikes|[from] ability: Cursed Body|[of] p1a: Apollo 13
+|-resisted|p1a: Apollo 13
+|-crit|p1a: Apollo 13
+|-damage|p1a: Apollo 13|39/100
+|-resisted|p1a: Apollo 13
+|-crit|p1a: Apollo 13
+|-damage|p1a: Apollo 13|21/100
+|-hitcount|p1a: Apollo 13|3
+|
+|upkeep
+|turn|12
+|
+|t:|1641781240
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Apollo 13|Dragon Darts|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|91/100
+|-anim|p1a: Apollo 13|Dragon Darts|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|81/100
+|-damage|p1a: Apollo 13|11/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1641781261
+|move|p1a: Apollo 13|Dragon Dance|p1a: Apollo 13
+|-boost|p1a: Apollo 13|atk|1
+|-boost|p1a: Apollo 13|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|14
+|
+|t:|1641781270
+|move|p1a: Apollo 13|Dragon Darts|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|86/100
+|-anim|p1a: Apollo 13|Dragon Darts|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|69/100
+|-damage|p1a: Apollo 13|1/100|[from] item: Life Orb
+|move|p2a: Corviknight|Brave Bird|p1a: Apollo 13
+|-damage|p1a: Apollo 13|0 fnt
+|faint|p1a: Apollo 13
+|-damage|p2a: Corviknight|69/100|[from] Recoil
+|
+|upkeep
+|inactive|TestRunner619 has 120 seconds left.
+|
+|t:|1641781298
+|switch|p1a: SuperBass|Tapu Lele|100/100
+|-damage|p1a: SuperBass|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: SuperBass
+|turn|15
+|inactive|TestRunner619 has 120 seconds left.
+|
+|t:|1641781308
+|move|p1a: SuperBass|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641781312
+|switch|p2a: Magnezone|Magnezone|100/100
+|turn|16
+|inactive|TestRunner619 has 120 seconds left.
+|
+|t:|1641781333
+|move|p1a: SuperBass|Thunderbolt|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|65/100
+|move|p2a: Magnezone|Volt Switch|p1a: SuperBass
+|-damage|p1a: SuperBass|27/100
+|
+|t:|1641781338
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|11/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|17
+|
+|t:|1641781342
+|switch|p2a: Magnezone|Magnezone|65/100
+|move|p1a: SuperBass|Thunderbolt|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|30/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641781348
+|move|p1a: SuperBass|Thunderbolt|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|j| klklkll 2
+|l| klklkll 2
+|-message|Klavyus forfeited.
+|
+|win|TestRunner619
+|raw|TestRunner619's rating: 1509 &rarr; <strong>1525</strong><br />(+16 for winning)
+|raw|Klavyus's rating: 1437 &rarr; <strong>1421</strong><br />(-16 for losing)
+|l|☆Klavyus

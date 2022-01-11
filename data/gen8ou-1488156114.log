@@ -1,0 +1,213 @@
+|j|☆ransir
+|j|☆VergilElVergin
+|t:|1641723784
+|gametype|singles
+|player|p1|ransir|170|1370
+|player|p2|VergilElVergin|colress|1380
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Weavile, M|
+|poke|p1|Slowking, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Leafeon, M|
+|poke|p2|Torkoal, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, M|
+|teampreview
+|
+|t:|1641723789
+|start
+|switch|p1a: ELIMINATOR|Zapdos|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: ELIMINATOR|atk|1
+|turn|1
+|
+|t:|1641723797
+|move|p1a: ELIMINATOR|Hurricane|p2a: Landorus
+|-damage|p2a: Landorus|33/100
+|move|p2a: Landorus|Stealth Rock|p1a: ELIMINATOR
+|-sidestart|p1: ransir|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641723809
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: ELIMINATOR|Heat Wave|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|68/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641723820
+|move|p1a: ELIMINATOR|Volt Switch|p2a: Torkoal
+|-damage|p2a: Torkoal|22/100
+|
+|t:|1641723826
+|switch|p1a: Mandragora|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-damage|p1a: Mandragora|88/100|[from] Stealth Rock
+|-ability|p1a: Mandragora|Intimidate|boost
+|-unboost|p2a: Torkoal|atk|1
+|move|p2a: Torkoal|Lava Plume|p1a: Mandragora
+|-damage|p1a: Mandragora|61/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mandragora|67/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641723839
+|move|p1a: Mandragora|Defog|p2a: Torkoal
+|-unboost|p2a: Torkoal|evasion|1
+|-sideend|p1: ransir|Stealth Rock|[from] move: Defog|[of] p1a: Mandragora
+|move|p2a: Torkoal|Rapid Spin|p1a: Mandragora
+|-damage|p1a: Mandragora|61/100
+|-boost|p2a: Torkoal|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mandragora|68/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641723847
+|move|p1a: Mandragora|Earthquake|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Mandragora|74/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641723850
+|switch|p2a: Leafeon|Leafeon, M|100/100
+|turn|6
+|
+|t:|1641723864
+|switch|p1a: Pleisure|Ferrothorn, M|100/100
+|move|p2a: Leafeon|Swords Dance|p2a: Leafeon
+|-boost|p2a: Leafeon|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641723873
+|move|p2a: Leafeon|Weather Ball|p1a: Pleisure
+|-supereffective|p1a: Pleisure
+|-damage|p1a: Pleisure|0 fnt
+|faint|p1a: Pleisure
+|-damage|p2a: Leafeon|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641723880
+|switch|p1a: ELIMINATOR|Zapdos|100/100
+|turn|8
+|
+|t:|1641723885
+|move|p2a: Leafeon|Knock Off|p1a: ELIMINATOR
+|-damage|p1a: ELIMINATOR|0 fnt
+|-enditem|p1a: ELIMINATOR|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Leafeon
+|faint|p1a: ELIMINATOR
+|-damage|p2a: Leafeon|81/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641723896
+|switch|p1a: Mandragora|Landorus-Therian, M|74/100
+|-ability|p1a: Mandragora|Intimidate|boost
+|-unboost|p2a: Leafeon|atk|1
+|turn|9
+|
+|t:|1641723903
+|move|p2a: Leafeon|Leaf Blade|p1a: Mandragora
+|-damage|p1a: Mandragora|0 fnt
+|faint|p1a: Mandragora
+|-damage|p2a: Leafeon|71/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641723914
+|switch|p1a: glacier’s poetry|Weavile, M|100/100
+|turn|10
+|
+|t:|1641723920
+|move|p1a: glacier’s poetry|Swords Dance|p1a: glacier’s poetry
+|-boost|p1a: glacier’s poetry|atk|2
+|move|p2a: Leafeon|Leaf Blade|p1a: glacier’s poetry
+|-damage|p1a: glacier’s poetry|0 fnt
+|faint|p1a: glacier’s poetry
+|-damage|p2a: Leafeon|61/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641723932
+|switch|p1a: FAKE LIFE|Urshifu-Rapid-Strike, M|100/100
+|turn|11
+|
+|t:|1641723941
+|switch|p2a: Landorus|Landorus-Therian, M|33/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: FAKE LIFE|atk|1
+|move|p1a: FAKE LIFE|Surging Strikes|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|1
+|
+|upkeep
+|
+|t:|1641723945
+|switch|p2a: Leafeon|Leafeon, M|61/100
+|turn|12
+|
+|t:|1641723957
+|move|p1a: FAKE LIFE|Surging Strikes|p2a: Leafeon
+|-resisted|p2a: Leafeon
+|-crit|p2a: Leafeon
+|-damage|p2a: Leafeon|46/100
+|-resisted|p2a: Leafeon
+|-crit|p2a: Leafeon
+|-damage|p2a: Leafeon|30/100
+|-resisted|p2a: Leafeon
+|-crit|p2a: Leafeon
+|-damage|p2a: Leafeon|16/100
+|-hitcount|p2a: Leafeon|3
+|move|p2a: Leafeon|Leaf Blade|p1a: FAKE LIFE
+|-supereffective|p1a: FAKE LIFE
+|-damage|p1a: FAKE LIFE|0 fnt
+|faint|p1a: FAKE LIFE
+|-damage|p2a: Leafeon|6/100|[from] item: Life Orb
+|
+|upkeep
+|-message|ransir forfeited.
+|
+|win|VergilElVergin
+|raw|ransir's rating: 1370 &rarr; <strong>1351</strong><br />(-19 for losing)
+|raw|VergilElVergin's rating: 1380 &rarr; <strong>1399</strong><br />(+19 for winning)
+|l|☆ransir

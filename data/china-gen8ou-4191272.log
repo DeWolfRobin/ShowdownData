@@ -1,0 +1,397 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Winona
+|j|☆SL21CC姐ISthequeen
+|t:|1641815759
+|gametype|singles
+|player|p1|SL21CC Winona|winona|1281
+|player|p2|SL21CC姐ISthequeen|cynthia|1300
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Heatran, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Cloyster, M|
+|poke|p1|Scizor, F|
+|poke|p2|Registeel|
+|poke|p2|Clefable, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|j| jiokopg_fkok43
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Winona)
+|c|☆SL21CC姐ISthequeen|hf
+|c|☆SL21CC Winona|u2
+|j| SL22CC 蜜雪冰城
+|j| suicidu
+|
+|t:|1641815786
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: separation女王|Toxapex, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|1
+|
+|t:|1641815801
+|switch|p2a: separation fans|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: separation fans
+|move|p1a: Heatran|Stealth Rock|p2a: separation fans
+|-sidestart|p2: SL21CC姐ISthequeen|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|j| adreamew
+|
+|t:|1641815814
+|move|p1a: Heatran|Taunt|p2a: separation fans
+|-start|p2a: separation fans|move: Taunt
+|cant|p2a: separation fans|move: Taunt|Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641815840
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: separation fans|Rock Blast|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|95/100
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|90/100
+|-hitcount|p1a: Garchomp|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garchomp|96/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641815850
+|switch|p2a: separation的护卫|Landorus-Therian, M|100/100
+|-damage|p2a: separation的护卫|88/100|[from] Stealth Rock
+|-ability|p2a: separation的护卫|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garchomp|100/100|[from] item: Leftovers
+|-heal|p2a: separation的护卫|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641815855
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: separation的护卫|Toxic|p1a: Garchomp
+|-status|p1a: Garchomp|tox
+|
+|-weather|none
+|-heal|p2a: separation的护卫|99/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|94/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641815860
+|switch|p2a: Confidence shines|Clefable, F|100/100
+|move|p1a: Garchomp|Aqua Tail|p2a: Confidence shines
+|-damage|p2a: Confidence shines|44/100
+|
+|-heal|p1a: Garchomp|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Garchomp|88/100 tox|[from] psn
+|upkeep
+|turn|7
+|j|+dragonitenb
+|
+|t:|1641815870
+|move|p1a: Garchomp|Aqua Tail|p2a: Confidence shines
+|-damage|p2a: Confidence shines|0 fnt
+|faint|p2a: Confidence shines
+|
+|-heal|p1a: Garchomp|94/100 tox|[from] item: Leftovers
+|-damage|p1a: Garchomp|76/100 tox|[from] psn
+|upkeep
+|
+|t:|1641815874
+|switch|p2a: separation的护卫|Landorus-Therian, M|99/100
+|-damage|p2a: separation的护卫|88/100|[from] Stealth Rock
+|-ability|p2a: separation的护卫|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|8
+|
+|t:|1641815883
+|switch|p2a: wandebucuo|Tornadus-Therian, M|100/100
+|move|p1a: Garchomp|Aqua Tail|p2a: wandebucuo
+|-damage|p2a: wandebucuo|42/100
+|
+|-heal|p1a: Garchomp|82/100 tox|[from] item: Leftovers
+|-damage|p1a: Garchomp|57/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641815887
+|move|p2a: wandebucuo|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|9/100 tox
+|move|p1a: Garchomp|Scale Shot|p2a: wandebucuo
+|-damage|p2a: wandebucuo|14/100
+|-damage|p2a: wandebucuo|0 fnt
+|faint|p2a: wandebucuo
+|-hitcount|p2: wandebucuo|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-heal|p1a: Garchomp|15/100 tox|[from] item: Leftovers
+|-damage|p1a: Garchomp|0 fnt|[from] psn
+|faint|p1a: Garchomp
+|upkeep
+|
+|t:|1641815899
+|switch|p2a: separation fans|Tyranitar, M|100/100
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|-damage|p2a: separation fans|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: separation fans
+|turn|10
+|
+|t:|1641815903
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: separation fans|Stealth Rock|p1a: Scizor
+|-sidestart|p1: SL21CC Winona|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: separation fans|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|j| rffydsdhh
+|l| rffydsdhh
+|
+|t:|1641815916
+|switch|p2a: separation的护卫|Landorus-Therian, M|88/100
+|-damage|p2a: separation的护卫|76/100|[from] Stealth Rock
+|-ability|p2a: separation的护卫|Intimidate|boost
+|-unboost|p1a: Scizor|atk|1
+|move|p1a: Scizor|Sand Tomb|p2a: separation的护卫
+|-immune|p2a: separation的护卫
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: separation的护卫|82/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641815926
+|move|p2a: separation的护卫|Earthquake|p1a: Scizor
+|-damage|p1a: Scizor|53/100
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: separation的护卫|88/100|[from] item: Leftovers
+|-heal|p1a: Scizor|59/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641815935
+|move|p2a: separation的护卫|Earthquake|p1a: Scizor
+|-damage|p1a: Scizor|15/100
+|move|p1a: Scizor|Knock Off|p2a: separation的护卫
+|-damage|p2a: separation的护卫|34/100
+|-enditem|p2a: separation的护卫|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Scizor|21/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641815940
+|move|p1a: Scizor|Bullet Punch|p2a: separation的护卫
+|-damage|p2a: separation的护卫|0 fnt
+|faint|p2a: separation的护卫
+|
+|-weather|none
+|-heal|p1a: Scizor|27/100|[from] item: Leftovers
+|upkeep
+|j| SL21CC ginko
+|
+|t:|1641815943
+|switch|p2a: separation女王|Toxapex, M|100/100
+|-damage|p2a: separation女王|88/100|[from] Stealth Rock
+|turn|15
+|l| SL21CC ginko
+|
+|t:|1641815952
+|move|p1a: Scizor|Knock Off|p2a: separation女王
+|-damage|p2a: separation女王|58/100
+|-damage|p1a: Scizor|11/100|[from] item: Rocky Helmet|[of] p2a: separation女王
+|-enditem|p2a: separation女王|Rocky Helmet|[from] move: Knock Off|[of] p1a: Scizor
+|move|p2a: separation女王|Haze|p2a: separation女王
+|-clearallboost
+|
+|-heal|p1a: Scizor|17/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|j| sl21cckhl
+|
+|t:|1641815959
+|move|p1a: Scizor|Sand Tomb|p2a: separation女王
+|-supereffective|p2a: separation女王
+|-damage|p2a: separation女王|33/100
+|-activate|p2a: separation女王|move: Sand Tomb|[of] p1a: Scizor
+|move|p2a: separation女王|Knock Off|p1a: Scizor
+|-damage|p1a: Scizor|2/100
+|-enditem|p1a: Scizor|Leftovers|[from] move: Knock Off|[of] p2a: separation女王
+|
+|-damage|p2a: separation女王|20/100|[from] move: Sand Tomb|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1641815966
+|move|p1a: Scizor|Sand Tomb|p2a: separation女王
+|-supereffective|p2a: separation女王
+|-damage|p2a: separation女王|0 fnt
+|faint|p2a: separation女王
+|
+|upkeep
+|
+|t:|1641815969
+|switch|p2a: I am the queen|Registeel, shiny|100/100
+|-damage|p2a: I am the queen|94/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641815977
+|move|p1a: Scizor|Knock Off|p2a: I am the queen
+|-damage|p2a: I am the queen|68/100
+|-enditem|p2a: I am the queen|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|move|p2a: I am the queen|Amnesia|p2a: I am the queen
+|-boost|p2a: I am the queen|spd|2
+|
+|upkeep
+|turn|19
+|
+|t:|1641815981
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: I am the queen|Amnesia|p2a: I am the queen
+|-boost|p2a: I am the queen|spd|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: I am the queen|62/100|[from] Hail
+|upkeep
+|turn|20
+|
+|t:|1641815984
+|switch|p2a: separation fans|Tyranitar, M|94/100
+|-damage|p2a: separation fans|82/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: separation fans
+|move|p1a: Ninetales|Encore||[still]
+|-fail|p1a: Ninetales
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ninetales|70/100|[from] Sandstorm
+|-heal|p2a: separation fans|88/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641815992
+|switch|p1a: Scizor|Scizor, F|2/100
+|-damage|p1a: Scizor|0 fnt|[from] Stealth Rock
+|faint|p1a: Scizor
+|move|p2a: separation fans|Rock Blast|p1: Scizor|[notarget]
+|-fail|p2a: separation fans
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: separation fans|94/100|[from] item: Leftovers
+|upkeep
+|j|♚Jqlove
+|
+|t:|1641816021
+|switch|p1a: Ninetales|Ninetales-Alola, F|70/100
+|-damage|p1a: Ninetales|45/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|22
+|
+|t:|1641816029
+|switch|p2a: I am the queen|Registeel, shiny|62/100
+|-damage|p2a: I am the queen|56/100|[from] Stealth Rock
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: SL21CC Winona|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: I am the queen|50/100|[from] Hail
+|upkeep
+|turn|23
+|l| suicidu
+|
+|t:|1641816039
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|switch|p2a: separation fans|Tyranitar, M|94/100
+|-damage|p2a: separation fans|82/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: separation fans
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|82/100|[from] Sandstorm
+|-heal|p2a: separation fans|88/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641816046
+|switch|p2a: I am the queen|Registeel, shiny|50/100
+|-damage|p2a: I am the queen|44/100|[from] Stealth Rock
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|76/100|[from] Sandstorm
+|upkeep
+|turn|25
+|
+|t:|1641816053
+|move|p1a: Dragapult|Flamethrower|p2a: I am the queen
+|-supereffective|p2a: I am the queen
+|-damage|p2a: I am the queen|19/100
+|move|p2a: I am the queen|Amnesia|p2a: I am the queen
+|-boost|p2a: I am the queen|spd|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|70/100|[from] Sandstorm
+|upkeep
+|turn|26
+|
+|t:|1641816060
+|move|p1a: Dragapult|Dragon Darts|p2a: I am the queen
+|-resisted|p2a: I am the queen
+|-damage|p2a: I am the queen|5/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: I am the queen
+|-resisted|p2a: I am the queen
+|-damage|p2a: I am the queen|0 fnt
+|faint|p2a: I am the queen
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|64/100|[from] Sandstorm
+|upkeep
+|-message|SL21CC姐ISthequeen forfeited.
+|
+|win|SL21CC Winona
+|raw|SL21CC Winona's rating: 1281 &rarr; <strong>1298</strong><br />(+17 for winning)
+|raw|SL21CC姐ISthequeen's rating: 1300 &rarr; <strong>1283</strong><br />(-17 for losing)
+|l|☆SL21CC姐ISthequeen
+|l|☆SL21CC Winona
+|l| sl21cckhl
+|l|+dragonitenb
+|j| sl21cckhl
+|l| sl21cckhl

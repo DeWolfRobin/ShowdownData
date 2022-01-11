@@ -1,0 +1,296 @@
+|j|☆Onarasantos
+|j|☆JeffS69
+|t:|1641875461
+|gametype|singles
+|player|p1|Onarasantos|cynthia-gen4|1363
+|player|p2|JeffS69|elesa|1395
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mamoswine, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Zeraora|
+|poke|p1|Dragapult, F|
+|poke|p1|Conkeldurr, M|
+|poke|p2|Magnezone|
+|poke|p2|Swampert, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Arctozolt|
+|teampreview
+|
+|t:|1641875483
+|start
+|switch|p1a: Afeminadah|Conkeldurr, M|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JeffS69)
+|
+|t:|1641875489
+|move|p1a: Afeminadah|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|65/100
+|-enditem|p2a: Swampert|Leftovers|[from] move: Knock Off|[of] p1a: Afeminadah
+|move|p2a: Swampert|Stealth Rock|p1a: Afeminadah
+|-sidestart|p1: Onarasantos|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641875496
+|move|p1a: Afeminadah|Poison Jab|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|51/100
+|-status|p2a: Swampert|psn
+|move|p2a: Swampert|Yawn|p1a: Afeminadah
+|-start|p1a: Afeminadah|move: Yawn|[of] p2a: Swampert
+|
+|-damage|p2a: Swampert|38/100 psn|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641875502
+|switch|p1a: Senai|Rotom-Wash|100/100
+|-damage|p1a: Senai|88/100|[from] Stealth Rock
+|move|p2a: Swampert|Flip Turn|p1a: Senai
+|-resisted|p1a: Senai
+|-damage|p1a: Senai|74/100
+|
+|t:|1641875507
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from]move: Flip Turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641875513
+|move|p2a: Dragapult|Dragon Darts|p1a: Senai
+|-damage|p1a: Senai|22/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Senai
+|-damage|p1a: Senai|0 fnt
+|faint|p1a: Senai
+|
+|upkeep
+|
+|t:|1641875519
+|switch|p1a: Bixa Travesti|Zeraora|100/100
+|-damage|p1a: Bixa Travesti|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641875527
+|switch|p2a: Swampert|Swampert, M|38/100 psn
+|move|p1a: Bixa Travesti|Bulk Up|p1a: Bixa Travesti
+|-boost|p1a: Bixa Travesti|atk|1
+|-boost|p1a: Bixa Travesti|def|1
+|
+|-heal|p1a: Bixa Travesti|94/100|[from] item: Leftovers
+|-damage|p2a: Swampert|26/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641875532
+|move|p1a: Bixa Travesti|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|-heal|p1a: Bixa Travesti|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641875538
+|switch|p2a: Magnezone|Magnezone|100/100
+|turn|7
+|
+|t:|1641875543
+|move|p1a: Bixa Travesti|Drain Punch|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|45/100
+|-heal|p1a: Bixa Travesti|100/100|[from] drain|[of] p2a: Magnezone
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|-heal|p2a: Magnezone|51/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641875554
+|move|p1a: Bixa Travesti|Bulk Up|p1a: Bixa Travesti
+|-boost|p1a: Bixa Travesti|atk|1
+|-boost|p1a: Bixa Travesti|def|1
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|-heal|p2a: Magnezone|57/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641875557
+|move|p1a: Bixa Travesti|Knock Off|p2a: Magnezone
+|-damage|p2a: Magnezone|41/100
+|-enditem|p2a: Magnezone|Leftovers|[from] move: Knock Off|[of] p1a: Bixa Travesti
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|upkeep
+|turn|10
+|
+|t:|1641875561
+|move|p1a: Bixa Travesti|Drain Punch|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|22/100
+|move|p2a: Magnezone|Body Press|p1a: Bixa Travesti
+|-damage|p1a: Bixa Travesti|30/100
+|
+|-heal|p1a: Bixa Travesti|36/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641875570
+|move|p1a: Bixa Travesti|Drain Punch|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|2/100
+|-heal|p1a: Bixa Travesti|44/100|[from] drain|[of] p2a: Magnezone
+|move|p2a: Magnezone|Body Press|p1a: Bixa Travesti
+|-damage|p1a: Bixa Travesti|0 fnt
+|faint|p1a: Bixa Travesti
+|
+|upkeep
+|
+|t:|1641875576
+|switch|p1a: Afeminadah|Conkeldurr, M|100/100
+|-damage|p1a: Afeminadah|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641875580
+|move|p1a: Afeminadah|Mach Punch|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1641875587
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|13
+|
+|t:|1641875591
+|move|p2a: Dragapult|U-turn|p1a: Afeminadah
+|-resisted|p1a: Afeminadah
+|-damage|p1a: Afeminadah|79/100
+|
+|t:|1641875593
+|switch|p2a: Mandibuzz|Mandibuzz, F|100/100|[from]move: U-turn
+|move|p1a: Afeminadah|Knock Off|p2a: Mandibuzz
+|-resisted|p2a: Mandibuzz
+|-damage|p2a: Mandibuzz|90/100
+|-enditem|p2a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Afeminadah
+|
+|upkeep
+|turn|14
+|
+|t:|1641875601
+|switch|p1a: Mammo boys|Mamoswine, M|100/100
+|-damage|p1a: Mammo boys|88/100|[from] Stealth Rock
+|move|p2a: Mandibuzz|Foul Play|p1a: Mammo boys
+|-damage|p1a: Mammo boys|28/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641875605
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Mammo boys|Icicle Crash|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-damage|p2a: Ninetales|60/100
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641875613
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: JeffS69|move: Aurora Veil
+|move|p1a: Mammo boys|Earthquake|p2a: Ninetales
+|-damage|p2a: Ninetales|28/100
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1641875617
+|move|p2a: Ninetales|Moonblast|p1a: Mammo boys
+|-damage|p1a: Mammo boys|0 fnt
+|faint|p1a: Mammo boys
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641875620
+|switch|p1a: Afeminadah|Conkeldurr, M|79/100
+|-damage|p1a: Afeminadah|73/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641875624
+|move|p2a: Ninetales|Moonblast|p1a: Afeminadah
+|-supereffective|p1a: Afeminadah
+|-damage|p1a: Afeminadah|34/100
+|-unboost|p1a: Afeminadah|spa|1
+|move|p1a: Afeminadah|Poison Jab|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Afeminadah|28/100|[from] Hail
+|upkeep
+|
+|t:|1641875632
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|turn|19
+|
+|t:|1641875637
+|switch|p1a: Ta chocada?|Toxapex, F|100/100
+|-damage|p1a: Ta chocada?|88/100|[from] Stealth Rock
+|move|p2a: Arctozolt|Bolt Beak|p1a: Ta chocada?
+|-supereffective|p1a: Ta chocada?
+|-damage|p1a: Ta chocada?|0 fnt
+|-damage|p2a: Arctozolt|84/100|[from] item: Rocky Helmet|[of] p1a: Ta chocada?
+|faint|p1a: Ta chocada?
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641875643
+|switch|p1a: Afeminadah|Conkeldurr, M|28/100
+|-damage|p1a: Afeminadah|22/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641875647
+|move|p1a: Afeminadah|Mach Punch|p2a: Arctozolt
+|-supereffective|p2a: Arctozolt
+|-damage|p2a: Arctozolt|54/100
+|move|p2a: Arctozolt|Low Kick|p1a: Afeminadah
+|-damage|p1a: Afeminadah|0 fnt
+|faint|p1a: Afeminadah
+|
+|-weather|Hail|[upkeep]
+|-sideend|p2: JeffS69|move: Aurora Veil
+|upkeep
+|-message|Onarasantos forfeited.
+|
+|win|JeffS69
+|raw|Onarasantos's rating: 1363 &rarr; <strong>1345</strong><br />(-18 for losing)
+|raw|JeffS69's rating: 1395 &rarr; <strong>1413</strong><br />(+18 for winning)
+|l|☆Onarasantos

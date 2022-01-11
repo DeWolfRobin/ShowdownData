@@ -1,0 +1,562 @@
+|j|☆DamoG69
+|j|☆enigmachasm
+|t:|1641819631
+|gametype|singles
+|player|p1|DamoG69|266|1426
+|player|p2|enigmachasm|2|1413
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Mamoswine, F|
+|poke|p1|Zeraora|
+|poke|p1|Dragonite, F|
+|poke|p1|Heatran, F|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Buzzwole|
+|poke|p2|Gastrodon, M|
+|poke|p2|Amoonguss, M|
+|poke|p2|Zapdos|
+|poke|p2|Aegislash, F|
+|poke|p2|Heatran, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DamoG69)
+|
+|t:|1641819665
+|start
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|switch|p2a: Aegislash|Aegislash, F|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|1
+|
+|t:|1641819673
+|move|p1a: Tapu Fini|Scald|p2a: Aegislash
+|-damage|p2a: Aegislash|70/100
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|35/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641819683
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641819690
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Heatran
+|-sidestart|p2: enigmachasm|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641819696
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Heatran|Earth Power|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|upkeep
+|turn|5
+|
+|t:|1641819707
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|move|p1a: Heatran|Flamethrower|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-damage|p2a: Gastrodon|79/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641819719
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641819727
+|move|p2a: Zapdos|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: enigmachasm|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|move|p1a: Ferrothorn|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-damage|p2a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641819737
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Heatran
+|-sidestart|p2: enigmachasm|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1641819745
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-damage|p2a: Buzzwole|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Leech Seed|p2a: Buzzwole|[miss]
+|-miss|p1a: Ferrothorn|p2a: Buzzwole
+|
+|upkeep
+|turn|10
+|
+|t:|1641819752
+|-singleturn|p2a: Buzzwole|move: Focus Punch
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Buzzwole|Focus Punch|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|upkeep
+|turn|11
+|
+|t:|1641819761
+|switch|p2a: Zapdos|Zapdos|94/100 tox
+|move|p1a: Ferrothorn|Leech Seed|p2a: Zapdos
+|-start|p2a: Zapdos|move: Leech Seed
+|
+|-damage|p2a: Zapdos|82/100 tox|[from] Leech Seed|[of] p1a: Ferrothorn
+|-damage|p2a: Zapdos|76/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641819770
+|move|p2a: Zapdos|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p2: enigmachasm|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: enigmachasm|move: Stealth Rock
+|
+|-damage|p2a: Zapdos|64/100 tox|[from] Leech Seed|[of] p1a: Ferrothorn
+|-damage|p2a: Zapdos|52/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641819779
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100 tox
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Ferrothorn|Leech Seed||[still]
+|-fail|p1a: Ferrothorn
+|
+|-damage|p2a: Zapdos|88/100 tox|[from] Leech Seed|[of] p1a: Ferrothorn
+|-damage|p2a: Zapdos|70/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641819789
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|-damage|p2a: Amoonguss|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Stealth Rock||[still]
+|-fail|p1a: Ferrothorn
+|
+|upkeep
+|turn|15
+|
+|t:|1641819808
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641819817
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|-damage|p2a: Amoonguss|88/100|[from] Stealth Rock
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|17
+|
+|t:|1641819825
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Amoonguss|Spore|p1a: Dragonite
+|-status|p1a: Dragonite|slp|[from] move: Spore
+|
+|upkeep
+|turn|18
+|
+|t:|1641819837
+|switch|p2a: Aegislash|Aegislash, F|70/100
+|-damage|p2a: Aegislash|64/100|[from] Stealth Rock
+|cant|p1a: Dragonite|slp
+|
+|upkeep
+|turn|19
+|
+|t:|1641819844
+|cant|p1a: Dragonite|slp
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|64/100 slp
+|
+|upkeep
+|turn|20
+|
+|t:|1641819851
+|cant|p1a: Dragonite|slp
+|move|p2a: Aegislash|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641819858
+|switch|p1a: Mamoswine|Mamoswine, F|100/100
+|turn|21
+|
+|t:|1641819866
+|switch|p2a: Buzzwole|Buzzwole|88/100
+|-damage|p2a: Buzzwole|76/100|[from] Stealth Rock
+|move|p1a: Mamoswine|Earthquake|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|61/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641819876
+|switch|p1a: Tapu Fini|Tapu Fini|35/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|switch|p2a: Zapdos|Zapdos|70/100 tox
+|
+|-damage|p2a: Zapdos|64/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641819886
+|move|p1a: Tapu Fini|Ice Beam|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|2/100 tox
+|move|p2a: Zapdos|Defog|p1a: Tapu Fini
+|-unboost|p1a: Tapu Fini|evasion|1
+|-sideend|p2: enigmachasm|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|-fieldend|Misty Terrain
+|
+|-damage|p2a: Zapdos|0 fnt|[from] psn
+|faint|p2a: Zapdos
+|upkeep
+|
+|t:|1641819900
+|switch|p2a: Aegislash|Aegislash, F|64/100
+|turn|24
+|
+|t:|1641819904
+|move|p1a: Tapu Fini|Scald|p2a: Aegislash
+|-damage|p2a: Aegislash|29/100
+|-status|p2a: Aegislash|brn
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|-damage|p2a: Aegislash|23/100 brn|[from] brn
+|upkeep
+|
+|t:|1641819917
+|switch|p1a: Zeraora|Zeraora|100/100
+|turn|25
+|
+|t:|1641819921
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|move|p1a: Zeraora|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|75/100
+|-enditem|p2a: Amoonguss|Life Orb|[from] move: Knock Off|[of] p1a: Zeraora
+|
+|upkeep
+|turn|26
+|
+|t:|1641819930
+|switch|p2a: Heatran|Heatran, F|94/100
+|move|p1a: Zeraora|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|80/100
+|
+|t:|1641819938
+|switch|p1a: Heatran|Heatran, F|100/100|[from]move: Volt Switch
+|-item|p1a: Heatran|Air Balloon
+|
+|-heal|p2a: Heatran|86/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641819947
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Gastrodon|Gastrodon, M|79/100
+|
+|upkeep
+|turn|28
+|
+|t:|1641819957
+|switch|p2a: Heatran|Heatran, F|86/100
+|move|p1a: Ferrothorn|Toxic|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|-heal|p2a: Heatran|92/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641819968
+|switch|p2a: Aegislash|Aegislash, F|23/100 brn
+|move|p1a: Ferrothorn|Protect||[still]
+|-fail|p1a: Ferrothorn
+|
+|-damage|p2a: Aegislash|17/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641819976
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Close Combat|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|66/100
+|-unboost|p2a: Aegislash|def|1
+|-unboost|p2a: Aegislash|spd|1
+|-damage|p2a: Aegislash|5/100 brn|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Aegislash
+|-start|p2a: Aegislash|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|72/100|[from] item: Leftovers
+|-damage|p2a: Aegislash|0 fnt|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|76/100|[silent]
+|faint|p2a: Aegislash
+|upkeep
+|
+|t:|1641819990
+|switch|p2a: Buzzwole|Buzzwole|61/100
+|turn|31
+|
+|t:|1641819999
+|-singleturn|p2a: Buzzwole|move: Focus Punch
+|move|p1a: Ferrothorn|Toxic|p2a: Buzzwole
+|-status|p2a: Buzzwole|tox
+|move|p2a: Buzzwole|Focus Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Buzzwole|49/100 tox|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|def|1
+|
+|-damage|p2a: Buzzwole|42/100 tox|[from] psn
+|upkeep
+|
+|t:|1641820013
+|switch|p1a: Zeraora|Zeraora|100/100
+|turn|32
+|
+|t:|1641820019
+|move|p1a: Zeraora|Knock Off|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|37/100 tox
+|-damage|p1a: Zeraora|84/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-enditem|p2a: Buzzwole|Rocky Helmet|[from] move: Knock Off|[of] p1a: Zeraora
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|87/100 tox
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|-damage|p2a: Buzzwole|75/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641820030
+|move|p1a: Zeraora|Plasma Fists|p2a: Buzzwole
+|-crit|p2a: Buzzwole
+|-damage|p2a: Buzzwole|40/100 tox
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p2a: Buzzwole|Earthquake|p1a: Zeraora
+|-supereffective|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|def|1
+|
+|-damage|p2a: Buzzwole|21/100 tox|[from] psn
+|upkeep
+|
+|t:|1641820043
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|34
+|
+|t:|1641820048
+|switch|p2a: Gastrodon|Gastrodon, M|79/100
+|move|p1a: Heatran|Flamethrower|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-damage|p2a: Gastrodon|64/100
+|-status|p2a: Gastrodon|brn
+|
+|-damage|p2a: Gastrodon|58/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1641820058
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Gastrodon|Scald|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-damage|p2a: Gastrodon|51/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641820067
+|move|p1a: Heatran|Flash Cannon|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-crit|p2a: Gastrodon
+|-damage|p2a: Gastrodon|31/100 brn
+|move|p2a: Gastrodon|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|28/100
+|-enditem|p1a: Heatran|Air Balloon
+|-damage|p2a: Gastrodon|21/100 brn|[from] item: Life Orb
+|
+|-damage|p2a: Gastrodon|15/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641820079
+|move|p1a: Heatran|Flamethrower|p2a: Gastrodon
+|-resisted|p2a: Gastrodon
+|-crit|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|
+|upkeep
+|
+|t:|1641820086
+|switch|p2a: Heatran|Heatran, F|92/100
+|turn|38
+|
+|t:|1641820090
+|move|p1a: Heatran|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|14/100
+|move|p2a: Heatran|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-heal|p2a: Heatran|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820101
+|switch|p1a: Mamoswine|Mamoswine, F|100/100
+|turn|39
+|
+|t:|1641820107
+|move|p1a: Mamoswine|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641820110
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|turn|40
+|
+|t:|1641820116
+|move|p1a: Mamoswine|Icicle Crash|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|31/100
+|move|p2a: Amoonguss|Spore|p1a: Mamoswine
+|-status|p1a: Mamoswine|slp|[from] move: Spore
+|
+|upkeep
+|turn|41
+|
+|t:|1641820123
+|switch|p2a: Buzzwole|Buzzwole|21/100 tox
+|cant|p1a: Mamoswine|slp
+|
+|-damage|p2a: Buzzwole|15/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641820131
+|-curestatus|p1a: Mamoswine|slp|[msg]
+|move|p1a: Mamoswine|Ice Shard|p2a: Buzzwole
+|-damage|p2a: Buzzwole|3/100 tox
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|53/100 tox
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|-damage|p2a: Buzzwole|41/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1641820141
+|move|p1a: Mamoswine|Icicle Crash|p2a: Buzzwole
+|-damage|p2a: Buzzwole|18/100 tox
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|68/100 tox
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|-damage|p2a: Buzzwole|50/100 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1641820151
+|switch|p2a: Amoonguss|Amoonguss, M|64/100
+|move|p1a: Mamoswine|Icicle Crash|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|
+|upkeep
+|
+|t:|1641820154
+|switch|p2a: Buzzwole|Buzzwole|50/100 tox
+|turn|45
+|
+|t:|1641820161
+|move|p1a: Mamoswine|Icicle Crash|p2a: Buzzwole
+|-damage|p2a: Buzzwole|24/100 tox
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|74/100 tox
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|-damage|p2a: Buzzwole|68/100 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1641820170
+|-singleturn|p2a: Buzzwole|move: Focus Punch
+|move|p1a: Mamoswine|Icicle Crash|p2a: Buzzwole|[miss]
+|-miss|p1a: Mamoswine|p2a: Buzzwole
+|move|p2a: Buzzwole|Focus Punch|p1a: Mamoswine
+|-supereffective|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|faint|p1a: Mamoswine
+|
+|win|enigmachasm
+|raw|DamoG69's rating: 1426 &rarr; <strong>1405</strong><br />(-21 for losing)
+|raw|enigmachasm's rating: 1413 &rarr; <strong>1434</strong><br />(+21 for winning)
+|c|☆enigmachasm|LMAO
+|l|☆DamoG69

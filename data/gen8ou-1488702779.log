@@ -1,0 +1,221 @@
+|j|☆8jaggery
+|j|☆you see ghosts
+|t:|1641806314
+|gametype|singles
+|player|p1|8jaggery|265|1192
+|player|p2|you see ghosts|silver|1212
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Clefable, M|
+|poke|p1|Blastoise, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Victini|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|poke|p2|Melmetal|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1641806326
+|start
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by you see ghosts)
+|
+|t:|1641806339
+|switch|p1a: Heatran|Heatran, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Tapu Lele|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|42/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|2
+|
+|t:|1641806348
+|switch|p2a: Victini|Victini|100/100
+|move|p1a: Heatran|Flash Cannon|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|79/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641806378
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|move|p2a: Victini|Scorching Sands|p1a: Blastoise
+|-damage|p1a: Blastoise|79/100
+|-status|p1a: Blastoise|brn
+|
+|-damage|p1a: Blastoise|73/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641806386
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Victini|Expanding Force|p1a: Clefable
+|-damage|p1a: Clefable|58/100
+|
+|-heal|p1a: Clefable|64/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641806393
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1: Blastoise|brn|[msg]
+|
+|-heal|p1a: Clefable|71/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641806403
+|switch|p1a: Heatran|Heatran, M|42/100
+|move|p2a: Melmetal|Superpower|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: Melmetal|atk|1
+|-unboost|p2a: Melmetal|def|1
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641806413
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|turn|7
+|
+|t:|1641806416
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hawlucha|atk|1
+|move|p1a: Hawlucha|Close Combat|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|82/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641806428
+|switch|p1a: Blastoise|Blastoise, M|73/100
+|move|p2a: Landorus|U-turn|p1a: Blastoise
+|-damage|p1a: Blastoise|40/100
+|
+|t:|1641806434
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|upkeep
+|turn|9
+|
+|t:|1641806439
+|move|p2a: Tapu Lele|Psychic|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|upkeep
+|
+|t:|1641806456
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|10
+|
+|t:|1641806461
+|switch|p2a: Victini|Victini|79/100
+|move|p1a: Rillaboom|Knock Off|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|5/100
+|-enditem|p2a: Victini|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p2a: Victini|11/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641806471
+|move|p1a: Rillaboom|Grassy Glide|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|upkeep
+|
+|t:|1641806473
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|12
+|
+|t:|1641806479
+|move|p2a: Tapu Lele|Psychic|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1641806489
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|turn|13
+|
+|t:|1641806500
+|switch|p1a: Clefable|Clefable, M|71/100
+|move|p2a: Tapu Lele|Psychic|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641806506
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|turn|14
+|
+|t:|1641806511
+|move|p1a: Hawlucha|Close Combat|p2a: Tapu Lele
+|-resisted|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|79/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|move|p2a: Tapu Lele|Psychic|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1641806520
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|15
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641806563
+|move|p1a: Dragapult|Scald|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|44/100
+|-status|p2a: Tapu Lele|brn
+|-damage|p1a: Dragapult|91/100|[from] item: Life Orb
+|move|p2a: Tapu Lele|Psychic|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|you see ghosts
+|raw|8jaggery's rating: 1192 &rarr; <strong>1168</strong><br />(-24 for losing)
+|raw|you see ghosts's rating: 1212 &rarr; <strong>1236</strong><br />(+24 for winning)

@@ -1,0 +1,239 @@
+|j|☆Clifffheart
+|j|☆Poccadeu
+|t:|1641853170
+|gametype|singles
+|player|p1|Clifffheart|rr-klaraglowking|1280
+|player|p2|Poccadeu|rr-brendan|1243
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|rule|Z-Move Clause: Z-Moves are banned
+|clearpoke
+|poke|p1|Gyarados, M|
+|poke|p1|Victini|
+|poke|p1|Serperior, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Krookodile, M|
+|poke|p2|Politoed, F|
+|poke|p2|Swampert, F|
+|poke|p2|Chansey, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Serperior, M|
+|poke|p2|Gliscor, F|
+|teampreview
+|c|☆Clifffheart|Glhf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Poccadeu)
+|inactive|Poccadeu has 120 seconds left.
+|
+|t:|1641853213
+|start
+|switch|p1a: Serperior|Serperior, F, shiny|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|1
+|
+|t:|1641853219
+|switch|p2a: Chansey|Chansey, F|100/100
+|move|p1a: Serperior|Hidden Power|p2a: Chansey
+|-damage|p2a: Chansey|94/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641853226
+|switch|p1a: Victini|Victini, shiny|100/100
+|move|p2a: Chansey|Toxic|p1a: Victini
+|-status|p1a: Victini|tox
+|
+|-damage|p1a: Victini|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641853235
+|switch|p2a: Gliscor|Gliscor, F|100/100
+|move|p1a: Victini|U-turn|p2a: Gliscor
+|-resisted|p2a: Gliscor
+|-damage|p2a: Gliscor|93/100
+|
+|t:|1641853239
+|switch|p1a: Gyarados|Gyarados, M, shiny|100/100|[from]move: U-turn
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Gliscor|atk|1
+|
+|-status|p2a: Gliscor|tox|[from] item: Toxic Orb
+|upkeep
+|turn|4
+|
+|t:|1641853245
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Gliscor|U-turn|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|94/100
+|
+|t:|1641853248
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1641853255
+|detailschange|p1a: Gyarados|Gyarados-Mega, M, shiny
+|-mega|p1a: Gyarados|Gyarados|Gyaradosite
+|-ability|p1a: Gyarados|Mold Breaker
+|move|p1a: Gyarados|Crunch|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|58/100
+|-damage|p1a: Gyarados|81/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Gyarados
+|-start|p1a: Gyarados|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|64/100|[from] item: Leftovers
+|-damage|p1a: Gyarados|69/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|75/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641853265
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Ferrothorn|Protect||[still]
+|-fail|p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641853271
+|switch|p2a: Chansey|Chansey, F|94/100
+|move|p1a: Weezing|Will-O-Wisp|p2a: Chansey|[miss]
+|-miss|p1a: Weezing|p2a: Chansey
+|
+|upkeep
+|turn|8
+|
+|t:|1641853276
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|switch|p1a: Krookodile|Krookodile, M, shiny|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Chansey|atk|1
+|move|p2a: Chansey|Seismic Toss|p1a: Krookodile
+|-damage|p1a: Krookodile|70/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641853287
+|switch|p2a: Gliscor|Gliscor, F|93/100 tox
+|move|p1a: Krookodile|Wicked Blow|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|25/100 tox
+|
+|-heal|p2a: Gliscor|37/100 tox|[from] ability: Poison Heal
+|upkeep
+|turn|10
+|
+|t:|1641853291
+|move|p1a: Krookodile|Wicked Blow|p2a: Gliscor
+|-crit|p2a: Gliscor
+|-damage|p2a: Gliscor|0 fnt
+|faint|p2a: Gliscor
+|
+|upkeep
+|
+|t:|1641853296
+|switch|p2a: Serperior|Serperior, M|100/100
+|turn|11
+|
+|t:|1641853304
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|-ability|p1a: Weezing|Neutralizing Gas
+|move|p2a: Serperior|Leaf Storm|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|61/100
+|-unboost|p2a: Serperior|spa|2
+|-damage|p2a: Serperior|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Weezing|67/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1641853315
+|move|p2a: Serperior|Leaf Storm|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|46/100
+|-unboost|p2a: Serperior|spa|2
+|-damage|p2a: Serperior|81/100|[from] item: Life Orb
+|move|p1a: Weezing|Sludge Bomb|p2a: Serperior
+|-supereffective|p2a: Serperior
+|-damage|p2a: Serperior|15/100
+|
+|-heal|p1a: Weezing|52/100|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1641853331
+|move|p2a: Serperior|Leaf Storm|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|37/100
+|-unboost|p2a: Serperior|spa|2
+|-damage|p2a: Serperior|5/100|[from] item: Life Orb
+|move|p1a: Weezing|Will-O-Wisp|p2a: Serperior
+|-status|p2a: Serperior|brn
+|
+|-heal|p1a: Weezing|43/100|[from] item: Black Sludge
+|-damage|p2a: Serperior|0 fnt|[from] brn
+|faint|p2a: Serperior
+|upkeep
+|
+|t:|1641853333
+|switch|p2a: Politoed|Politoed, F|100/100
+|turn|14
+|
+|t:|1641853346
+|-end|p1a: Weezing|ability: Neutralizing Gas
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|switch|p1a: Serperior|Serperior, F, shiny|100/100
+|move|p2a: Politoed|Scald|p1a: Serperior
+|-resisted|p1a: Serperior
+|-damage|p1a: Serperior|78/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641853356
+|switch|p2a: Chansey|Chansey, F|94/100
+|move|p1a: Serperior|Leaf Storm|p2a: Chansey
+|-damage|p2a: Chansey|70/100
+|-boost|p1a: Serperior|spa|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641853359
+|move|p1a: Serperior|Leaf Storm|p2a: Chansey
+|-damage|p2a: Chansey|23/100
+|-boost|p1a: Serperior|spa|2
+|move|p2a: Chansey|Toxic|p1a: Serperior|[miss]
+|-miss|p2a: Chansey|p1a: Serperior
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|-message|Poccadeu forfeited.
+|
+|win|Clifffheart
+|raw|Clifffheart's rating: 1280 &rarr; <strong>1294</strong><br />(+14 for winning)
+|raw|Poccadeu's rating: 1243 &rarr; <strong>1229</strong><br />(-14 for losing)
+|l|☆Poccadeu

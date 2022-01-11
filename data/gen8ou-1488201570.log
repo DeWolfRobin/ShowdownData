@@ -1,0 +1,276 @@
+|j|☆8jaggery
+|j|☆Giel2002
+|t:|1641733080
+|gametype|singles
+|player|p1|8jaggery|102|1185
+|player|p2|Giel2002|blaine|1234
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Heatran, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Clefable, F|
+|poke|p1|Blastoise, M|
+|poke|p2|Blissey, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|poke|p2|Blacephalon|
+|poke|p2|Slowbro, F|
+|poke|p2|Thundurus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Giel2002)
+|
+|t:|1641733108
+|start
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blastoise|atk|1
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|turn|1
+|
+|t:|1641733116
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641733124
+|move|p1a: Blastoise|Ice Beam|p2a: Thundurus
+|-supereffective|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|upkeep
+|
+|t:|1641733129
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|3
+|
+|t:|1641733140
+|move|p1a: Blastoise|Aura Sphere|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|76/100
+|move|p2a: Blissey|Toxic|p1a: Blastoise
+|-status|p1a: Blastoise|tox
+|
+|-heal|p2a: Blissey|82/100|[from] item: Leftovers
+|-damage|p1a: Blastoise|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641733152
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|move|p2a: Blissey|Toxic|p1a: Hawlucha
+|-status|p1a: Hawlucha|tox
+|
+|-heal|p2a: Blissey|88/100|[from] item: Leftovers
+|-damage|p1a: Hawlucha|94/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641733163
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hawlucha|atk|1
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|-damage|p1a: Hawlucha|82/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641733178
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|86/100
+|
+|t:|1641733183
+|switch|p2a: Kartana|Kartana|100/100|[from]move: U-turn
+|
+|-heal|p1a: Clefable|92/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641733190
+|move|p2a: Kartana|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|62/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Kartana
+|-damage|p2a: Kartana|91/100|[from] item: Life Orb
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1: Hawlucha|tox|[msg]
+|-curestatus|p1: Blastoise|tox|[msg]
+|
+|upkeep
+|turn|8
+|
+|t:|1641733204
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Kartana|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|50/100
+|-enditem|p1a: Heatran|Air Balloon
+|-damage|p2a: Kartana|81/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1641733218
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|move|p1a: Heatran|Flamethrower|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|74/100
+|
+|-heal|p2a: Slowbro|80/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641733226
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641733235
+|switch|p2a: Blacephalon|Blacephalon|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|11
+|
+|t:|1641733264
+|switch|p1a: Blastoise|Blastoise, M|94/100
+|move|p2a: Blacephalon|Shadow Ball|p1a: Blastoise
+|-damage|p1a: Blastoise|14/100
+|-unboost|p1a: Blastoise|spd|1
+|
+|-heal|p1a: Blastoise|20/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641733273
+|move|p2a: Blacephalon|Shadow Ball|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641733293
+|switch|p1a: Heatran|Heatran, F|50/100
+|turn|13
+|
+|t:|1641733298
+|move|p2a: Blacephalon|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641733329
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|turn|14
+|
+|t:|1641733333
+|move|p2a: Blacephalon|Shadow Ball|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641733348
+|switch|p1a: Hawlucha|Hawlucha, F|82/100
+|turn|15
+|
+|t:|1641733352
+|move|p2a: Blacephalon|Shadow Ball|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641733361
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|16
+|
+|t:|1641733365
+|switch|p1a: Clefable|Clefable, F|62/100
+|move|p2a: Blacephalon|Shadow Ball|p1a: Clefable
+|-damage|p1a: Clefable|19/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641733371
+|move|p2a: Blacephalon|Shadow Ball|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641733377
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|18
+|
+|t:|1641733390
+|move|p1a: Dragapult|Scald|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|-damage|p1a: Dragapult|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641733396
+|switch|p2a: Blissey|Blissey, F|88/100
+|turn|19
+|
+|t:|1641733404
+|move|p1a: Dragapult|Draco Meteor|p2a: Blissey
+|-damage|p2a: Blissey|67/100
+|-unboost|p1a: Dragapult|spa|2
+|-damage|p1a: Dragapult|81/100|[from] item: Life Orb
+|move|p2a: Blissey|Toxic|p1a: Dragapult
+|-status|p1a: Dragapult|tox
+|
+|-heal|p2a: Blissey|73/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|75/100 tox|[from] psn
+|upkeep
+|turn|20
+|-message|8jaggery forfeited.
+|
+|win|Giel2002
+|raw|8jaggery's rating: 1185 &rarr; <strong>1164</strong><br />(-21 for losing)
+|raw|Giel2002's rating: 1234 &rarr; <strong>1255</strong><br />(+21 for winning)

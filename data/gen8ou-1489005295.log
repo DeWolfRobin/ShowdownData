@@ -1,0 +1,309 @@
+|j|☆BogSot
+|j|☆cheshirespire
+|t:|1641845552
+|gametype|singles
+|player|p1|BogSot|unknown|1085
+|player|p2|cheshirespire|170|1114
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Galvantula, M|
+|poke|p1|Malamar, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Salamence, F|
+|poke|p1|Blaziken, M|
+|poke|p1|Toxapex, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Aegislash, F|
+|poke|p2|Gardevoir, M|
+|poke|p2|Melmetal|
+|poke|p2|Inteleon, F|
+|poke|p2|Blacephalon|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cheshirespire)
+|
+|t:|1641845575
+|start
+|switch|p1a: Galvantula|Galvantula, M, shiny|100/100
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|turn|1
+|
+|t:|1641845582
+|move|p1a: Galvantula|Sticky Web|p2a: Melmetal
+|-sidestart|p2: cheshirespire|move: Sticky Web
+|move|p2a: Melmetal|Double Iron Bash|p1a: Galvantula
+|-resisted|p1a: Galvantula
+|-damage|p1a: Galvantula|59/100
+|-resisted|p1a: Galvantula
+|-damage|p1a: Galvantula|19/100
+|-hitcount|p1a: Galvantula|2
+|-damage|p2a: Melmetal|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1641845590
+|move|p1a: Galvantula|Volt Switch|p2a: Melmetal
+|-damage|p2a: Melmetal|59/100
+|-damage|p1a: Galvantula|9/100|[from] item: Life Orb
+|
+|t:|1641845593
+|switch|p1a: Blaziken|Blaziken, M|100/100|[from]move: Volt Switch
+|move|p2a: Melmetal|Double Iron Bash|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|69/100
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|36/100
+|-hitcount|p1a: Blaziken|2
+|-damage|p2a: Melmetal|49/100|[from] item: Life Orb
+|
+|upkeep
+|turn|3
+|
+|t:|1641845612
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Melmetal|Ice Punch|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|8/100
+|-damage|p2a: Melmetal|39/100|[from] item: Life Orb
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|4
+|
+|t:|1641845617
+|move|p1a: Blaziken|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Melmetal
+|-damage|p1a: Blaziken|0 fnt|[from] item: Life Orb
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1641845637
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|switch|p2a: Kommo-o|Kommo-o, M, shiny|100/100
+|-activate|p2a: Kommo-o|move: Sticky Web
+|-unboost|p2a: Kommo-o|spe|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|5
+|
+|t:|1641845646
+|switch|p1a: Salamence|Salamence, F|100/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Kommo-o|atk|1
+|move|p2a: Kommo-o|Clangorous Soul|p2a: Kommo-o
+|-boost|p2a: Kommo-o|atk|1
+|-boost|p2a: Kommo-o|def|1
+|-boost|p2a: Kommo-o|spa|1
+|-boost|p2a: Kommo-o|spd|1
+|-boost|p2a: Kommo-o|spe|1
+|-damage|p2a: Kommo-o|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Salamence|94/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1641845658
+|move|p1a: Salamence|Draco Meteor|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|-unboost|p1a: Salamence|spa|2
+|faint|p2a: Kommo-o
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Salamence|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641845672
+|switch|p2a: Gardevoir|Gardevoir, M, shiny|100/100
+|-activate|p2a: Gardevoir|move: Sticky Web
+|-unboost|p2a: Gardevoir|spe|1
+|-ability|p2a: Gardevoir|Intimidate|[from] ability: Trace|[of] p1a: Salamence
+|-ability|p2a: Gardevoir|Intimidate|boost
+|-unboost|p1a: Salamence|atk|1
+|turn|7
+|inactive|BogSot has 120 seconds left.
+|
+|t:|1641845709
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|move|p2a: Gardevoir|Dazzling Gleam|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|48/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gardevoir|94/100|[from] Sandstorm
+|-heal|p2a: Gardevoir|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641845719
+|move|p1a: Tyranitar|Stone Edge|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641845740
+|switch|p2a: Inteleon|Inteleon, F, shiny|100/100
+|-activate|p2a: Inteleon|move: Sticky Web
+|-unboost|p2a: Inteleon|spe|1
+|turn|9
+|
+|t:|1641845745
+|move|p2a: Inteleon|Snipe Shot|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|none
+|upkeep
+|
+|t:|1641845749
+|switch|p1a: Galvantula|Galvantula, M, shiny|9/100
+|turn|10
+|
+|t:|1641845759
+|move|p2a: Inteleon|Ice Shard|p1a: Galvantula
+|-damage|p1a: Galvantula|0 fnt
+|faint|p1a: Galvantula
+|
+|upkeep
+|
+|t:|1641845764
+|switch|p1a: Salamence|Salamence, F|88/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Inteleon|atk|1
+|turn|11
+|
+|t:|1641845779
+|move|p1a: Salamence|Draco Meteor|p2a: Inteleon
+|-damage|p2a: Inteleon|0 fnt
+|-unboost|p1a: Salamence|spa|2
+|faint|p2a: Inteleon
+|
+|upkeep
+|
+|t:|1641845796
+|switch|p2a: Aegislash|Aegislash, F, shiny|100/100
+|-activate|p2a: Aegislash|move: Sticky Web
+|-unboost|p2a: Aegislash|spe|1
+|turn|12
+|
+|t:|1641845810
+|move|p1a: Salamence|Flamethrower|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|79/100
+|move|p2a: Aegislash|Swords Dance|p2a: Aegislash
+|-boost|p2a: Aegislash|atk|2
+|
+|-heal|p2a: Aegislash|85/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|cheshirespire has 120 seconds left.
+|inactive|cheshirespire has 90 seconds left.
+|
+|t:|1641845865
+|switch|p1a: Malamar|Malamar, M|100/100
+|move|p2a: Aegislash|Swords Dance|p2a: Aegislash
+|-boost|p2a: Aegislash|atk|2
+|
+|-heal|p2a: Aegislash|91/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641845876
+|move|p1a: Malamar|Knock Off|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|45/100
+|-enditem|p2a: Aegislash|Leftovers|[from] move: Knock Off|[of] p1a: Malamar
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Sacred Sword|p1a: Malamar
+|-damage|p1a: Malamar|18/100
+|
+|-heal|p1a: Malamar|24/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641845886
+|-formechange|p2a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Malamar|Knock Off|p2a: Aegislash
+|-activate|p2a: Aegislash|move: Protect
+|-boost|p1a: Malamar|atk|1
+|
+|-heal|p1a: Malamar|30/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641845895
+|move|p1a: Malamar|Knock Off|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|faint|p2a: Aegislash
+|
+|-heal|p1a: Malamar|36/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641845903
+|switch|p2a: Blacephalon|Blacephalon, shiny|100/100
+|-activate|p2a: Blacephalon|move: Sticky Web
+|-unboost|p2a: Blacephalon|spe|1
+|turn|17
+|
+|t:|1641845920
+|move|p2a: Blacephalon|Fire Blast|p1a: Malamar
+|-damage|p1a: Malamar|0 fnt
+|faint|p1a: Malamar
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641845924
+|switch|p1a: Salamence|Salamence, F|88/100
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Blacephalon|atk|1
+|turn|18
+|
+|t:|1641845937
+|move|p1a: Salamence|Draco Meteor|p2a: Blacephalon
+|-damage|p2a: Blacephalon|18/100
+|-unboost|p1a: Salamence|spa|2
+|move|p2a: Blacephalon|Shadow Ball|p1a: Salamence
+|-damage|p1a: Salamence|10/100
+|-unboost|p1a: Salamence|spd|1
+|
+|-heal|p2a: Blacephalon|24/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641845953
+|move|p1a: Salamence|Draco Meteor|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|-unboost|p1a: Salamence|spa|2
+|faint|p2a: Blacephalon
+|
+|win|BogSot
+|raw|BogSot's rating: 1085 &rarr; <strong>1115</strong><br />(+30 for winning)
+|raw|cheshirespire's rating: 1114 &rarr; <strong>1087</strong><br />(-27 for losing)
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

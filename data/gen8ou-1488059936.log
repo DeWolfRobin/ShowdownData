@@ -1,0 +1,61 @@
+|j|☆Caguayylmao
+|j|☆Ryu_NLF
+|t:|1641704398
+|gametype|singles
+|player|p1|Caguayylmao|cress|
+|player|p2|Ryu_NLF|blue|
+|teamsize|p1|1
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Togepi, M|
+|poke|p2|Togepi, F|
+|teampreview
+|
+|t:|1641704403
+|start
+|switch|p1a: Eggbert|Togepi, M|100/100
+|switch|p2a: killer idiots|Togepi, F, shiny|100/100
+|turn|1
+|
+|t:|1641704410
+|move|p2a: killer idiots|Metronome|p2a: killer idiots
+|move|p2a: killer idiots|Acid Armor|p2a: killer idiots|[from]move: Metronome
+|-boost|p2a: killer idiots|def|2
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Wing Attack|p2a: killer idiots|[from]move: Metronome
+|-damage|p2a: killer idiots|96/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641704419
+|move|p2a: killer idiots|Metronome|p2a: killer idiots
+|move|p2a: killer idiots|Court Change||[from]move: Metronome|[still]
+|-swapsideconditions
+|-fail|p2a: killer idiots
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Flying Press|p2a: killer idiots|[from]move: Metronome
+|-resisted|p2a: killer idiots
+|-damage|p2a: killer idiots|93/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641704428
+|move|p1a: Eggbert|Metronome|p1a: Eggbert
+|move|p1a: Eggbert|Guillotine|p2a: killer idiots|[from]move: Metronome
+|-damage|p2a: killer idiots|0 fnt
+|faint|p2a: killer idiots
+|-ohko
+|
+|win|Caguayylmao
+|c|☆Ryu_NLF|......

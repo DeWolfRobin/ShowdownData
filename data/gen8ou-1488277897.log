@@ -1,0 +1,258 @@
+|j|☆win÷getter
+|j|☆Coach from L4D2
+|t:|1641745151
+|gametype|singles
+|player|p1|win÷getter|lucas|1525
+|player|p2|Coach from L4D2|linebacker|1494
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Incineroar, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Magnezone|
+|poke|p1|Diggersby, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Raichu-Alola, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Slowking, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|
+|t:|1641745168
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Eagle|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Eagle
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|c|☆Coach from L4D2|Red, The Fighter dates Yellow, The Healer,
+|
+|t:|1641745178
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Rillaboom|Wood Hammer|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|48/100
+|-damage|p1a: Rillaboom|81/100|[from] Recoil
+|
+|-heal|p1a: Rillaboom|87/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1641745184
+|move|p2a: Zapdos|Heat Wave|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|15/100
+|move|p1a: Rillaboom|Wood Hammer|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-status|p1a: Rillaboom|par|[from] ability: Static|[of] p2a: Zapdos
+|faint|p2a: Zapdos
+|-damage|p1a: Rillaboom|0 fnt|[from] Recoil
+|faint|p1a: Rillaboom
+|
+|upkeep
+|
+|t:|1641745196
+|switch|p2a: Eagle|Tapu Koko|100/100
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Eagle
+|turn|3
+|
+|t:|1641745200
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Urshifu
+|-sidestart|p2: Coach from L4D2|Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1641745204
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Urshifu|U-turn|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|90/100
+|-damage|p2a: Urshifu|84/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|t:|1641745205
+|switch|p2a: Voltsail|Raichu-Alola, F, shiny|100/100|[from]move: U-turn
+|-damage|p2a: Voltsail|88/100|[from] Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1641745219
+|switch|p1a: Incineroar|Incineroar, M|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Voltsail|atk|1
+|move|p2a: Voltsail|Focus Blast|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|29/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641745230
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Incineroar|atk|1
+|move|p1a: Incineroar|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|77/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|7
+|
+|t:|1641745246
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: win÷getter|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1641745252
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|84/100
+|-damage|p2a: Urshifu|72/100|[from] Spikes
+|move|p1a: Ferrothorn|Leech Seed|p2a: Urshifu
+|-start|p2a: Urshifu|move: Leech Seed
+|
+|-damage|p2a: Urshifu|59/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|9
+|
+|t:|1641745258
+|move|p2a: Urshifu|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|70/100
+|-damage|p2a: Urshifu|47/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641745260
+|switch|p2a: Slowking|Slowking, M|100/100|[from]move: U-turn
+|move|p1a: Ferrothorn|Spikes|p2a: Slowking
+|-sidestart|p2: Coach from L4D2|Spikes
+|
+|-heal|p1a: Ferrothorn|76/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641745268
+|switch|p1a: Incineroar|Incineroar, M|29/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|move|p2a: Slowking|Future Sight|p1a: Incineroar
+|-start|p2a: Slowking|move: Future Sight
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|11
+|
+|t:|1641745285
+|move|p1a: Incineroar|Toxic|p2a: Slowking
+|-status|p2a: Slowking|tox
+|move|p2a: Slowking|Scald|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|-damage|p2a: Slowking|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641745302
+|switch|p1a: Ferrothorn|Ferrothorn, M|76/100
+|-damage|p1a: Ferrothorn|70/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641745306
+|move|p1a: Ferrothorn|Leech Seed|p2a: Slowking
+|-start|p2a: Slowking|move: Leech Seed
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641745310
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|47/100|[from]move: Teleport
+|-damage|p2a: Urshifu|31/100|[from] Spikes
+|
+|-end|p1a: Ferrothorn|move: Future Sight
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|56/100
+|-heal|p1a: Ferrothorn|63/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641745314
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Urshifu|Close Combat|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|59/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|-damage|p2a: Urshifu|14/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|upkeep
+|turn|14
+|
+|t:|1641745321
+|switch|p2a: Eagle|Tapu Koko|100/100
+|-damage|p2a: Eagle|84/100|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Eagle
+|move|p1a: Toxapex|Light Screen|p1a: Toxapex
+|-sidestart|p1: win÷getter|move: Light Screen
+|
+|upkeep
+|turn|15
+|
+|t:|1641745327
+|switch|p1a: Diggersby|Diggersby, M|100/100
+|-damage|p1a: Diggersby|94/100|[from] Stealth Rock
+|move|p2a: Eagle|U-turn|p1a: Diggersby
+|-damage|p1a: Diggersby|71/100
+|
+|t:|1641745329
+|switch|p2a: Landorus|Landorus-Therian, M|77/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Diggersby|atk|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641745337
+|move|p1a: Diggersby|Body Slam|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Diggersby|61/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641745342
+|switch|p2a: Voltsail|Raichu-Alola, F, shiny|88/100
+|-damage|p2a: Voltsail|72/100|[from] Spikes
+|turn|17
+|
+|t:|1641745345
+|move|p1a: Diggersby|Quick Attack|p2a: Voltsail
+|-crit|p2a: Voltsail
+|-damage|p2a: Voltsail|0 fnt
+|faint|p2a: Voltsail
+|-damage|p1a: Diggersby|51/100|[from] item: Life Orb
+|
+|upkeep
+|-message|Coach from L4D2 forfeited.
+|
+|win|win÷getter
+|raw|win÷getter's rating: 1525 &rarr; <strong>1543</strong><br />(+18 for winning)
+|raw|Coach from L4D2's rating: 1494 &rarr; <strong>1476</strong><br />(-18 for losing)
+|l|☆Coach from L4D2
+|c|☆win÷getter|ez

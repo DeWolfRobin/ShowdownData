@@ -1,0 +1,382 @@
+|j|☆Kantoooo
+|j|☆8jaggery
+|t:|1641743827
+|gametype|singles
+|player|p1|Kantoooo|waiter|1189
+|player|p2|8jaggery|102|1237
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, F|
+|poke|p1|Krookodile, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Heatran, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Hawlucha, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Clefable, M|
+|poke|p2|Blastoise, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kantoooo)
+|
+|t:|1641743840
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641743861
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Kantoooo|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heatran|94/100|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641743879
+|switch|p1a: Krookodile|Krookodile, M|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Stealth Rock|p1a: Krookodile
+|-sidestart|p1: Kantoooo|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Krookodile|94/100|[from] Hail
+|-damage|p2a: Heatran|88/100|[from] Hail
+|-heal|p1a: Krookodile|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641743908
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Krookodile|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|72/100
+|-enditem|p2a: Rillaboom|Miracle Seed|[from] move: Knock Off|[of] p1a: Krookodile
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Krookodile|94/100|[from] Hail
+|-damage|p2a: Rillaboom|65/100|[from] Hail
+|-heal|p1a: Krookodile|100/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|72/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|inactive|8jaggery has 120 seconds left.
+|inactive|Kantoooo has 120 seconds left.
+|
+|t:|1641743933
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Grassy Glide|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|83/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rillaboom|65/100|[from] Hail
+|-damage|p1a: Heatran|77/100|[from] Hail
+|-heal|p2a: Rillaboom|72/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|83/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Kantoooo has 120 seconds left.
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641743958
+|move|p2a: Rillaboom|High Horsepower|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|38/100
+|move|p1a: Heatran|Toxic|p2a: Rillaboom
+|-status|p2a: Rillaboom|tox
+|
+|-weather|none
+|-heal|p2a: Rillaboom|78/100 tox|[from] Grassy Terrain
+|-heal|p1a: Heatran|44/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|50/100|[from] item: Leftovers
+|-damage|p2a: Rillaboom|72/100 tox|[from] psn
+|upkeep
+|turn|6
+|inactive|Kantoooo has 120 seconds left.
+|
+|t:|1641743969
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Rillaboom|High Horsepower|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|-heal|p2a: Rillaboom|78/100 tox|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|65/100 tox|[from] psn
+|upkeep
+|turn|7
+|inactive|Kantoooo has 120 seconds left.
+|
+|t:|1641743983
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Tornadus|Defog|p2a: Clefable
+|-unboost|p2a: Clefable|evasion|1
+|-sideend|p1: Kantoooo|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|8
+|inactive|Kantoooo has 120 seconds left.
+|
+|t:|1641743994
+|move|p1a: Tornadus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|93/100
+|inactive|Kantoooo has 120 seconds left.
+|
+|t:|1641744011
+|switch|p1a: Krookodile|Krookodile, M|100/100|[from]move: U-turn
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2: Rillaboom|tox|[msg]
+|
+|-heal|p2a: Clefable|99/100|[from] item: Leftovers
+|-sideend|p1: Kantoooo|move: Aurora Veil
+|upkeep
+|turn|9
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641744031
+|switch|p1a: Heatran|Heatran, M|50/100
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|
+|-heal|p1a: Heatran|57/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641744048
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Hawlucha|Close Combat|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|84/100
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|
+|-heal|p1a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641744071
+|switch|p2a: Heatran|Heatran, F|88/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Toxapex|Toxic Spikes|p2a: Heatran
+|-sidestart|p2: 8jaggery|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|96/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1641744089
+|switch|p1a: Krookodile|Krookodile, M|100/100
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Stealth Rock|p1a: Krookodile
+|-sidestart|p1: Kantoooo|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1641744105
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|move|p1a: Krookodile|Stone Edge|p2a: Hawlucha
+|-damage|p2a: Hawlucha|63/100
+|
+|upkeep
+|turn|14
+|inactive|Kantoooo has 90 seconds left.
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641744144
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|15
+|inactive|Kantoooo has 90 seconds left.
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641744157
+|move|p2a: Hawlucha|Brave Bird|p1a: Toxapex
+|-damage|p1a: Toxapex|28/100
+|-damage|p2a: Hawlucha|41/100|[from] Recoil
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p1a: Toxapex|34/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|inactive|8jaggery has 90 seconds left.
+|inactive|Kantoooo has 90 seconds left.
+|
+|t:|1641744181
+|switch|p1a: Heatran|Heatran, M|57/100
+|-damage|p1a: Heatran|44/100|[from] Stealth Rock
+|move|p2a: Hawlucha|Brave Bird|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|21/100
+|-damage|p2a: Hawlucha|31/100|[from] Recoil
+|
+|-heal|p1a: Heatran|27/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641744194
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Hawlucha|Close Combat|p1a: Ninetales
+|-damage|p1a: Ninetales|14/100
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Hawlucha|25/100|[from] Hail
+|upkeep
+|turn|18
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641744215
+|switch|p2a: Heatran|Heatran, F|88/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Kantoooo|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heatran|82/100|[from] Hail
+|upkeep
+|turn|19
+|
+|t:|1641744228
+|switch|p1a: Krookodile|Krookodile, M|100/100
+|-damage|p1a: Krookodile|94/100|[from] Stealth Rock
+|-ability|p1a: Krookodile|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Flamethrower|p1a: Krookodile
+|-damage|p1a: Krookodile|69/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Krookodile|63/100|[from] Hail
+|-damage|p2a: Heatran|76/100|[from] Hail
+|-heal|p1a: Krookodile|69/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|Kantoooo has 90 seconds left.
+|
+|t:|1641744241
+|switch|p2a: Hawlucha|Hawlucha, M|25/100
+|move|p1a: Krookodile|Stone Edge|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Krookodile|63/100|[from] Hail
+|-heal|p1a: Krookodile|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641744259
+|switch|p2a: Clefable|Clefable, M|99/100
+|-status|p2a: Clefable|psn
+|turn|21
+|
+|t:|1641744265
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|psn|[msg]
+|
+|-weather|none
+|-heal|p2a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641744277
+|move|p1a: Tornadus|Hurricane|p2a: Clefable
+|-damage|p2a: Clefable|72/100
+|-start|p2a: Clefable|confusion
+|-activate|p2a: Clefable|confusion
+|move|p2a: Clefable|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|84/100
+|
+|-heal|p2a: Clefable|78/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|inactive|8jaggery has 90 seconds left.
+|inactive|Kantoooo has 90 seconds left.
+|
+|t:|1641744296
+|move|p1a: Tornadus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|71/100
+|
+|t:|1641744300
+|switch|p1a: Heatran|Heatran, M|27/100|[from]move: U-turn
+|-damage|p1a: Heatran|14/100|[from] Stealth Rock
+|-end|p2a: Clefable|confusion
+|move|p2a: Clefable|Moonblast|p1a: Heatran
+|-resisted|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|7/100
+|-unboost|p1a: Heatran|spa|1
+|
+|-heal|p1a: Heatran|13/100|[from] item: Leftovers
+|-heal|p2a: Clefable|77/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|Kantoooo has 90 seconds left.
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641744325
+|switch|p2a: Heatran|Heatran, F|76/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Heatran|Magma Storm|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|-heal|p1a: Heatran|20/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|inactive|Kantoooo has 90 seconds left.
+|
+|t:|1641744342
+|move|p1a: Heatran|Earth Power|p2a: Heatran
+|-immune|p2a: Heatran
+|move|p2a: Heatran|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-sideend|p1: Kantoooo|move: Aurora Veil
+|upkeep
+|inactive|Kantoooo has 90 seconds left.
+|-message|Kantoooo forfeited.
+|
+|win|8jaggery
+|raw|Kantoooo's rating: 1189 &rarr; <strong>1167</strong><br />(-22 for losing)
+|raw|8jaggery's rating: 1237 &rarr; <strong>1259</strong><br />(+22 for winning)
+|l|☆Kantoooo

@@ -1,0 +1,306 @@
+|j|☆Leeeelo
+|j|☆Chreeeeeee
+|t:|1641771750
+|gametype|singles
+|player|p1|Leeeelo|lillie|1079
+|player|p2|Chreeeeeee|102|1069
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Alakazam, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Toxapex, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Zapdos|
+|poke|p2|Heatran, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Bisharp, M|
+|teampreview
+|
+|t:|1641771771
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|1
+|
+|t:|1641771778
+|move|p2a: Toxapex|Toxic Spikes|p1a: Ferrothorn
+|-sidestart|p1: Leeeelo|move: Toxic Spikes
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Toxapex
+|-sidestart|p2: Chreeeeeee|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641771788
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|64/100
+|-enditem|p2a: Heatran|Expert Belt|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|3
+|
+|t:|1641771802
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|-sideend|p1: Leeeelo|move: Toxic Spikes|[of] p1a: Toxapex
+|move|p2a: Heatran|Toxic|p1a: Toxapex
+|-immune|p1a: Toxapex
+|
+|upkeep
+|turn|4
+|
+|t:|1641771823
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Toxapex|Scald|p2a: Zapdos
+|-damage|p2a: Zapdos|84/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641771835
+|move|p2a: Zapdos|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|51/100
+|-enditem|p1a: Toxapex|Eject Button
+|
+|t:|1641771853
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|
+|upkeep
+|turn|6
+|
+|t:|1641771862
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Landorus|Toxic|p2a: Toxapex
+|-immune|p2a: Toxapex
+|
+|-heal|p2a: Toxapex|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641771870
+|move|p1a: Landorus|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|27/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Landorus
+|-sidestart|p1: Leeeelo|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|33/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641771879
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|-damage|p2a: Bisharp|95/100|[from] Stealth Rock
+|-item|p2a: Bisharp|Air Balloon
+|move|p1a: Landorus|Earthquake|p2a: Bisharp
+|-immune|p2a: Bisharp
+|
+|upkeep
+|turn|9
+|
+|t:|1641771888
+|move|p2a: Bisharp|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|63/100
+|move|p1a: Landorus|U-turn|p2a: Bisharp
+|-damage|p2a: Bisharp|65/100
+|-enditem|p2a: Bisharp|Air Balloon
+|
+|t:|1641771896
+|switch|p1a: Toxapex|Toxapex, M|84/100|[from]move: U-turn
+|-sideend|p1: Leeeelo|move: Toxic Spikes|[of] p1a: Toxapex
+|
+|upkeep
+|turn|10
+|
+|t:|1641771904
+|move|p2a: Bisharp|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|64/100
+|move|p1a: Toxapex|Scald|p2a: Bisharp
+|-damage|p2a: Bisharp|33/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641771911
+|switch|p2a: Zapdos|Zapdos|84/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Toxapex|Scald|p2a: Zapdos
+|-damage|p2a: Zapdos|68/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641771926
+|move|p2a: Zapdos|Volt Switch|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|14/100
+|
+|t:|1641771931
+|switch|p2a: Tyranitar|Tyranitar, F|100/100|[from]move: Volt Switch
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|64/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|58/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641771974
+|switch|p1a: Landorus|Landorus-Therian, M|63/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|move|p2a: Tyranitar|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|69/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641771984
+|move|p1a: Landorus|Toxic|p2a: Tyranitar
+|-status|p2a: Tyranitar|tox
+|move|p2a: Tyranitar|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|5/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|11/100|[from] item: Leftovers
+|-damage|p2a: Tyranitar|82/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641772001
+|move|p1a: Landorus|Earthquake|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|17/100 tox
+|move|p2a: Tyranitar|Body Press|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|4/100 tox|[from] psn
+|upkeep
+|
+|t:|1641772036
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|16
+|
+|t:|1641772042
+|move|p1a: Moltres|Nasty Plot|p1a: Moltres
+|-boost|p1a: Moltres|spa|2
+|move|p2a: Tyranitar|Ice Punch|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|63/100
+|
+|-weather|none
+|-damage|p2a: Tyranitar|0 fnt|[from] psn
+|faint|p2a: Tyranitar
+|upkeep
+|
+|t:|1641772052
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Moltres|atk|1
+|turn|17
+|
+|t:|1641772058
+|move|p2a: Landorus|Stealth Rock|p1a: Moltres
+|-sidestart|p1: Leeeelo|move: Stealth Rock
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641772066
+|move|p1a: Moltres|Fiery Wrath|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641772073
+|switch|p2a: Toxapex|Toxapex, F|66/100
+|-damage|p2a: Toxapex|53/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641772077
+|move|p1a: Moltres|Fiery Wrath|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641772084
+|switch|p2a: Zapdos|Zapdos|68/100
+|-ability|p2a: Zapdos|Pressure
+|turn|20
+|
+|t:|1641772087
+|move|p1a: Moltres|Fiery Wrath|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641772092
+|switch|p2a: Bisharp|Bisharp, M|33/100
+|-damage|p2a: Bisharp|27/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641772096
+|move|p2a: Bisharp|Sucker Punch|p1a: Moltres
+|-resisted|p1a: Moltres
+|-damage|p1a: Moltres|44/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|move|p1a: Moltres|Hurricane|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641772104
+|switch|p2a: Heatran|Heatran, M|64/100
+|-damage|p2a: Heatran|51/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641772111
+|move|p1a: Moltres|Fiery Wrath|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|win|Leeeelo
+|raw|Leeeelo's rating: 1079 &rarr; <strong>1106</strong><br />(+27 for winning)
+|raw|Chreeeeeee's rating: 1069 &rarr; <strong>1049</strong><br />(-20 for losing)
+|c|☆Leeeelo|ggs
+|c|☆Chreeeeeee|gg
+|l|☆Chreeeeeee

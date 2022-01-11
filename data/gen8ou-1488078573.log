@@ -1,0 +1,1065 @@
+|j|☆lbjdagoat67
+|j|☆Me hate me
+|t:|1641707527
+|gametype|singles
+|player|p1|lbjdagoat67|dancer|1310
+|player|p2|Me hate me|preschooler|1343
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Clefable, M|
+|poke|p1|Blissey, F|
+|poke|p2|Skarmory, M|
+|poke|p2|Blissey, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Zeraora|
+|poke|p2|Nidoking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Me hate me)
+|inactive|lbjdagoat67 also wants the timer to be on.
+|inactive|lbjdagoat67 has 120 seconds left.
+|inactive|lbjdagoat67 has 90 seconds left.
+|inactive|lbjdagoat67 has 60 seconds left.
+|inactive|lbjdagoat67 has 30 seconds left.
+|
+|t:|1641707654
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|turn|1
+|inactive|lbjdagoat67 has 90 seconds left.
+|
+|t:|1641707673
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Skarmory|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: lbjdagoat67|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641707678
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Dragapult|Flamethrower|p2a: Blissey
+|-damage|p2a: Blissey|90/100
+|
+|-heal|p2a: Blissey|96/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641707688
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Blissey|Toxic|p1a: Dragonite
+|-status|p1a: Dragonite|tox
+|
+|-heal|p2a: Blissey|100/100|[from] item: Leftovers
+|-damage|p1a: Dragonite|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641707699
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-damage|p1a: Dragonite|82/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641707709
+|move|p1a: Dragonite|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p1: lbjdagoat67|Stealth Rock|[from] move: Defog|[of] p1a: Dragonite
+|move|p2a: Toxapex|Scald|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|75/100 tox
+|
+|-damage|p1a: Dragonite|56/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641707721
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|95/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641707727
+|move|p1a: Blissey|Reflect|p1a: Blissey
+|-sidestart|p1: lbjdagoat67|Reflect
+|move|p2a: Toxapex|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-damage|p1a: Blissey|89/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641707745
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Toxapex|Scald|p1a: Garchomp
+|-damage|p1a: Garchomp|85/100
+|
+|-heal|p1a: Garchomp|91/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641707753
+|move|p1a: Garchomp|Substitute|p1a: Garchomp
+|-start|p1a: Garchomp|Substitute
+|-damage|p1a: Garchomp|66/100
+|move|p2a: Toxapex|Toxic||[still]
+|-fail|p2a: Toxapex
+|
+|-heal|p1a: Garchomp|73/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641707758
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-heal|p1a: Garchomp|79/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|lbjdagoat67 has 120 seconds left.
+|
+|t:|1641707763
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Skarmory|Body Press|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Substitute|[damage]
+|
+|-heal|p1a: Garchomp|85/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641707774
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Skarmory|Body Press|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Substitute|[damage]
+|
+|-heal|p1a: Garchomp|91/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641707782
+|move|p1a: Garchomp|Scale Shot|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|88/100
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|75/100
+|-hitcount|p2a: Skarmory|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Skarmory|Body Press|p1a: Garchomp
+|-end|p1a: Garchomp|Substitute
+|
+|-heal|p1a: Garchomp|97/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641707793
+|move|p1a: Garchomp|Scale Shot|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|63/100
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|50/100
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|39/100
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|26/100
+|-hitcount|p2a: Skarmory|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Skarmory|Body Press|p1a: Garchomp
+|-damage|p1a: Garchomp|75/100
+|-damage|p2a: Skarmory|13/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-heal|p1a: Garchomp|82/100|[from] item: Leftovers
+|-sideend|p1: lbjdagoat67|Reflect
+|upkeep
+|turn|15
+|
+|t:|1641707807
+|move|p1a: Garchomp|Scale Shot|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|1/100
+|-resisted|p2a: Skarmory
+|-crit|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|-hitcount|p2: Skarmory|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-heal|p1a: Garchomp|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641707818
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|16
+|c|☆Me hate me|!weak garchomp
+|c| Me hate me|/raw <div class="infobox">Garchomp (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Dragon, Fairy, <b>Ice</b><br /><span class="message-effect-resist">Resistances</span>: Fire, Poison, Rock<br /><span class="message-effect-immune">Immunities</span>: Electric, Sandstorm damage</div>
+|
+|t:|1641707830
+|switch|p1a: Dragonite|Dragonite, F|56/100 tox
+|move|p2a: Urshifu|Close Combat|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|28/100 tox
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|
+|-damage|p1a: Dragonite|22/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641707836
+|move|p2a: Urshifu|Surging Strikes|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|12/100 tox
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|2/100 tox
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-hitcount|p1: Dragonite|3
+|
+|upkeep
+|
+|t:|1641707845
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|18
+|
+|t:|1641707850
+|move|p1a: Dragapult|Draco Meteor|p2a: Urshifu
+|-enditem|p2a: Urshifu|Focus Sash
+|-damage|p2a: Urshifu|1/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Urshifu|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|84/100
+|
+|t:|1641707856
+|switch|p2a: Zeraora|Zeraora|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|19
+|
+|t:|1641707859
+|switch|p1a: Garchomp|Garchomp, F|88/100
+|move|p2a: Zeraora|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|67/100
+|-damage|p2a: Zeraora|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Leftovers|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|20
+|
+|t:|1641707878
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|1/100
+|move|p1a: Garchomp|Scale Shot|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|-hitcount|p2: Urshifu|1
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1641707884
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|21
+|inactive|lbjdagoat67 has 120 seconds left.
+|
+|t:|1641707926
+|move|p2a: Nidoking|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641707936
+|switch|p1a: Blissey|Blissey, F|89/100
+|turn|22
+|
+|t:|1641707945
+|switch|p2a: Zeraora|Zeraora|88/100
+|move|p1a: Blissey|Reflect|p1a: Blissey
+|-sidestart|p1: lbjdagoat67|Reflect
+|
+|upkeep
+|turn|23
+|inactive|lbjdagoat67 has 120 seconds left.
+|
+|t:|1641707956
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|move|p2a: Zeraora|Knock Off|p1a: Blaziken
+|-resisted|p1a: Blaziken
+|-damage|p1a: Blaziken|89/100
+|-enditem|p1a: Blaziken|Life Orb|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|24
+|inactive|lbjdagoat67 has 120 seconds left.
+|
+|t:|1641707967
+|move|p2a: Zeraora|Close Combat|p1a: Blaziken
+|-damage|p1a: Blaziken|58/100
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|25
+|
+|t:|1641707971
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Zeraora|Close Combat|p1a: Blaziken
+|-damage|p1a: Blaziken|28/100
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|26
+|
+|t:|1641707978
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Zeraora|Close Combat|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|27
+|
+|t:|1641707989
+|move|p1a: Blaziken|Close Combat|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Zeraora
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641707993
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|28
+|
+|t:|1641708002
+|move|p1a: Blaziken|Close Combat|p2a: Nidoking
+|-resisted|p2a: Nidoking
+|-crit|p2a: Nidoking
+|-damage|p2a: Nidoking|0 fnt
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|faint|p2a: Nidoking
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|c|☆Me hate me|Oof crit
+|c|☆Me hate me|:(
+|
+|t:|1641708012
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|29
+|
+|t:|1641708020
+|switch|p1a: Blissey|Blissey, F|89/100
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|84/100
+|-status|p1a: Blissey|brn
+|
+|-damage|p1a: Blissey|78/100 brn|[from] brn
+|-sideend|p1: lbjdagoat67|Reflect
+|upkeep
+|turn|30
+|
+|t:|1641708028
+|move|p1a: Blissey|Light Screen|p1a: Blissey
+|-sidestart|p1: lbjdagoat67|move: Light Screen
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|76/100 brn
+|
+|-damage|p1a: Blissey|70/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641708035
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|67/100 brn
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641708038
+|-curestatus|p1a: Blissey|brn|[from] ability: Natural Cure
+|switch|p1a: Clefable|Clefable, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|32
+|
+|t:|1641708044
+|move|p1a: Clefable|Wish|p1a: Clefable
+|move|p2a: Toxapex|Toxic|p1a: Clefable
+|-status|p1a: Clefable|tox
+|
+|-damage|p1a: Clefable|94/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641708048
+|move|p2a: Toxapex|Scald|p1a: Clefable
+|-damage|p1a: Clefable|89/100 tox
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641708052
+|switch|p1a: Blaziken|Blaziken, M|28/100|[from]move: Teleport
+|
+|-heal|p1a: Blaziken|93/100|[from] move: Wish|[wisher] Clefable
+|upkeep
+|turn|34
+|
+|t:|1641708058
+|switch|p1a: Dragapult|Dragapult, M|84/100
+|move|p2a: Toxapex|Scald|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|78/100
+|-status|p1a: Dragapult|brn
+|
+|-damage|p1a: Dragapult|72/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1641708067
+|move|p1a: Dragapult|Draco Meteor|p2a: Toxapex
+|-damage|p2a: Toxapex|51/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Toxapex|Scald|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|66/100 brn
+|
+|-heal|p2a: Toxapex|57/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|60/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641708074
+|switch|p1a: Blissey|Blissey, F|67/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|upkeep
+|turn|37
+|c|☆Me hate me|Goddamit toxapex ur burning too many things
+|
+|t:|1641708089
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|98/100
+|-status|p1a: Blissey|brn
+|
+|-damage|p1a: Blissey|92/100 brn|[from] brn
+|-sideend|p1: lbjdagoat67|move: Light Screen
+|upkeep
+|turn|38
+|
+|t:|1641708096
+|move|p1a: Blissey|Light Screen|p1a: Blissey
+|-sidestart|p1: lbjdagoat67|move: Light Screen
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|89/100 brn
+|
+|-damage|p1a: Blissey|83/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1641708099
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|81/100 brn
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641708102
+|-curestatus|p1a: Blissey|brn|[from] ability: Natural Cure
+|switch|p1a: Dragapult|Dragapult, M|60/100 brn|[from]move: Teleport
+|
+|-damage|p1a: Dragapult|54/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1641708105
+|move|p1a: Dragapult|Draco Meteor|p2a: Toxapex
+|-damage|p2a: Toxapex|55/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Toxapex|Scald|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|47/100 brn
+|
+|-heal|p2a: Toxapex|61/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|41/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1641708115
+|move|p1a: Dragapult|Draco Meteor|p2a: Toxapex
+|-damage|p2a: Toxapex|37/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Toxapex|Scald|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|35/100 brn
+|
+|-heal|p2a: Toxapex|44/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|29/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1641708125
+|switch|p1a: Blaziken|Blaziken, M|93/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|94/100
+|
+|-heal|p2a: Toxapex|99/100|[from] item: Black Sludge
+|upkeep
+|turn|43
+|
+|t:|1641708138
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Toxapex|Scald|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|66/100
+|
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|44
+|
+|t:|1641708144
+|move|p1a: Blaziken|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|66/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|move|p2a: Toxapex|Scald|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|28/100
+|
+|-heal|p2a: Toxapex|72/100|[from] item: Black Sludge
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|45
+|
+|t:|1641708154
+|move|p1a: Blaziken|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|36/100
+|-unboost|p1a: Blaziken|def|1
+|-unboost|p1a: Blaziken|spd|1
+|move|p2a: Toxapex|Scald|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-heal|p2a: Toxapex|43/100|[from] item: Black Sludge
+|-sideend|p1: lbjdagoat67|move: Light Screen
+|upkeep
+|
+|t:|1641708161
+|switch|p1a: Dragapult|Dragapult, M|29/100 brn
+|turn|46
+|
+|t:|1641708163
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Blissey
+|-damage|p2a: Blissey|79/100
+|-unboost|p1a: Dragapult|spa|2
+|
+|-heal|p2a: Blissey|85/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|23/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1641708167
+|switch|p1a: Blissey|Blissey, F|81/100
+|move|p2a: Blissey|Seismic Toss|p1a: Blissey
+|-damage|p1a: Blissey|67/100
+|
+|-heal|p2a: Blissey|91/100|[from] item: Leftovers
+|upkeep
+|turn|48
+|
+|t:|1641708174
+|move|p2a: Blissey|Toxic|p1a: Blissey|[miss]
+|-miss|p2a: Blissey|p1a: Blissey
+|move|p1a: Blissey|Reflect|p1a: Blissey
+|-sidestart|p1: lbjdagoat67|Reflect
+|
+|-heal|p2a: Blissey|98/100|[from] item: Leftovers
+|upkeep
+|turn|49
+|
+|t:|1641708179
+|switch|p2a: Toxapex|Toxapex, F|76/100
+|move|p1a: Blissey|Light Screen|p1a: Blissey
+|-sidestart|p1: lbjdagoat67|move: Light Screen
+|
+|-heal|p2a: Toxapex|82/100|[from] item: Black Sludge
+|upkeep
+|turn|50
+|
+|t:|1641708184
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|64/100
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641708187
+|switch|p1a: Clefable|Clefable, M|89/100 tox|[from]move: Teleport
+|
+|-heal|p1a: Clefable|95/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|88/100|[from] item: Black Sludge
+|-damage|p1a: Clefable|89/100 tox|[from] psn
+|upkeep
+|turn|51
+|
+|t:|1641708191
+|move|p1a: Clefable|Wish|p1a: Clefable
+|move|p2a: Toxapex|Scald|p1a: Clefable
+|-damage|p1a: Clefable|83/100 tox
+|
+|-heal|p1a: Clefable|89/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|95/100|[from] item: Black Sludge
+|-damage|p1a: Clefable|77/100 tox|[from] psn
+|upkeep
+|turn|52
+|
+|t:|1641708195
+|move|p1a: Clefable|Protect|p1a: Clefable
+|-singleturn|p1a: Clefable|Protect
+|move|p2a: Toxapex|Scald|p1a: Clefable
+|-activate|p1a: Clefable|move: Protect
+|
+|-heal|p1a: Clefable|100/100 tox|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Clefable|82/100 tox|[from] psn
+|upkeep
+|turn|53
+|
+|t:|1641708199
+|move|p1a: Clefable|Wish|p1a: Clefable
+|move|p2a: Toxapex|Scald|p1a: Clefable
+|-damage|p1a: Clefable|77/100 tox
+|
+|-heal|p1a: Clefable|83/100 tox|[from] item: Leftovers
+|-damage|p1a: Clefable|59/100 tox|[from] psn
+|upkeep
+|turn|54
+|
+|t:|1641708205
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641708210
+|switch|p1a: Dragapult|Dragapult, M|23/100 brn|[from]move: Teleport
+|
+|-heal|p1a: Dragapult|85/100 brn|[from] move: Wish|[wisher] Clefable
+|-damage|p1a: Dragapult|79/100 brn|[from] brn
+|upkeep
+|turn|55
+|
+|t:|1641708217
+|move|p1a: Dragapult|Draco Meteor|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Toxapex|Scald|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|73/100 brn
+|
+|-heal|p2a: Toxapex|63/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|67/100 brn|[from] brn
+|-sideend|p1: lbjdagoat67|Reflect
+|upkeep
+|turn|56
+|
+|t:|1641708227
+|switch|p1a: Blissey|Blissey, F|64/100
+|move|p2a: Toxapex|Scald|p1a: Blissey
+|-damage|p1a: Blissey|62/100
+|
+|-heal|p2a: Toxapex|70/100|[from] item: Black Sludge
+|-sideend|p1: lbjdagoat67|move: Light Screen
+|upkeep
+|turn|57
+|
+|t:|1641708239
+|move|p1a: Blissey|Light Screen|p1a: Blissey
+|-sidestart|p1: lbjdagoat67|move: Light Screen
+|move|p2a: Toxapex|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-heal|p2a: Toxapex|76/100|[from] item: Black Sludge
+|-damage|p1a: Blissey|56/100 tox|[from] psn
+|upkeep
+|turn|58
+|
+|t:|1641708244
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641708246
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Dragapult|Dragapult, M|67/100 brn|[from]move: Teleport
+|
+|-heal|p2a: Toxapex|82/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|61/100 brn|[from] brn
+|upkeep
+|turn|59
+|
+|t:|1641708251
+|move|p1a: Dragapult|Draco Meteor|p2a: Toxapex
+|-damage|p2a: Toxapex|32/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Toxapex|Scald|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|54/100 brn
+|
+|-heal|p2a: Toxapex|39/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|48/100 brn|[from] brn
+|upkeep
+|turn|60
+|
+|t:|1641708257
+|move|p1a: Dragapult|Draco Meteor|p2a: Toxapex
+|-damage|p2a: Toxapex|16/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|66/100
+|
+|-heal|p2a: Toxapex|72/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|42/100 brn|[from] brn
+|upkeep
+|turn|61
+|
+|t:|1641708264
+|switch|p1a: Blissey|Blissey, F|56/100
+|move|p2a: Toxapex|Baneful Bunker||[still]
+|-fail|p2a: Toxapex
+|
+|-heal|p2a: Toxapex|78/100|[from] item: Black Sludge
+|upkeep
+|turn|62
+|
+|t:|1641708274
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641708279
+|switch|p1a: Clefable|Clefable, M|59/100 tox|[from]move: Teleport
+|
+|-heal|p1a: Clefable|65/100 tox|[from] item: Leftovers
+|-damage|p1a: Clefable|59/100 tox|[from] psn
+|upkeep
+|turn|63
+|
+|t:|1641708284
+|switch|p2a: Blissey|Blissey, F|98/100
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-heal|p1a: Clefable|65/100 tox|[from] item: Leftovers
+|-heal|p2a: Blissey|100/100|[from] item: Leftovers
+|-damage|p1a: Clefable|53/100 tox|[from] psn
+|upkeep
+|turn|64
+|
+|t:|1641708293
+|move|p1a: Clefable|Protect|p1a: Clefable
+|-singleturn|p1a: Clefable|Protect
+|move|p2a: Blissey|Seismic Toss|p1a: Clefable
+|-activate|p1a: Clefable|move: Protect
+|
+|-heal|p1a: Clefable|100/100 tox|[from] move: Wish|[wisher] Clefable
+|-damage|p1a: Clefable|82/100 tox|[from] psn
+|-sideend|p1: lbjdagoat67|move: Light Screen
+|upkeep
+|turn|65
+|
+|t:|1641708301
+|switch|p1a: Dragapult|Dragapult, M|42/100 brn
+|move|p2a: Blissey|Seismic Toss|p1a: Dragapult
+|-immune|p1a: Dragapult
+|
+|-damage|p1a: Dragapult|36/100 brn|[from] brn
+|upkeep
+|turn|66
+|
+|t:|1641708309
+|move|p1a: Dragapult|Shadow Ball|p2a: Blissey
+|-immune|p2a: Blissey
+|move|p2a: Blissey|Toxic||[still]
+|-fail|p2a: Blissey
+|
+|-damage|p1a: Dragapult|30/100 brn|[from] brn
+|upkeep
+|turn|67
+|
+|t:|1641708313
+|switch|p1a: Blissey|Blissey, F|56/100
+|move|p2a: Blissey|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-damage|p1a: Blissey|50/100 tox|[from] psn
+|upkeep
+|turn|68
+|
+|t:|1641708322
+|move|p2a: Blissey|Toxic|p1a: Blissey
+|-fail|p1a: Blissey|tox
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|99/100 tox
+|
+|-damage|p1a: Blissey|88/100 tox|[from] psn
+|upkeep
+|turn|69
+|
+|t:|1641708329
+|move|p2a: Blissey|Seismic Toss|p1a: Blissey
+|-damage|p1a: Blissey|74/100 tox
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641708333
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Dragapult|Dragapult, M|30/100 brn|[from]move: Teleport
+|
+|-damage|p1a: Dragapult|24/100 brn|[from] brn
+|upkeep
+|turn|70
+|
+|t:|1641708338
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|98/100
+|
+|t:|1641708343
+|switch|p1a: Clefable|Clefable, M|82/100 tox|[from]move: U-turn
+|
+|-heal|p1a: Clefable|88/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Clefable|82/100 tox|[from] psn
+|upkeep
+|turn|71
+|
+|t:|1641708345
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-heal|p1a: Clefable|88/100 tox|[from] item: Leftovers
+|-damage|p1a: Clefable|76/100 tox|[from] psn
+|upkeep
+|turn|72
+|
+|t:|1641708349
+|switch|p1a: Dragapult|Dragapult, M|24/100 brn
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-heal|p1a: Dragapult|87/100 brn|[from] move: Wish|[wisher] Clefable
+|-damage|p1a: Dragapult|81/100 brn|[from] brn
+|upkeep
+|turn|73
+|
+|t:|1641708356
+|switch|p1a: Blissey|Blissey, F|74/100
+|switch|p2a: Blissey|Blissey, F|100/100
+|
+|upkeep
+|turn|74
+|
+|t:|1641708365
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Blissey|Light Screen|p1a: Blissey
+|-sidestart|p1: lbjdagoat67|move: Light Screen
+|
+|upkeep
+|turn|75
+|
+|t:|1641708368
+|switch|p1a: Dragapult|Dragapult, M|81/100 brn
+|switch|p2a: Blissey|Blissey, F|100/100
+|
+|-damage|p1a: Dragapult|75/100 brn|[from] brn
+|upkeep
+|turn|76
+|
+|t:|1641708373
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|72/100
+|
+|-heal|p2a: Toxapex|78/100|[from] item: Black Sludge
+|-damage|p1a: Dragapult|69/100 brn|[from] brn
+|upkeep
+|turn|77
+|
+|t:|1641708380
+|switch|p1a: Clefable|Clefable, M|76/100 tox
+|switch|p2a: Blissey|Blissey, F|100/100
+|
+|-heal|p1a: Clefable|82/100 tox|[from] item: Leftovers
+|-damage|p1a: Clefable|76/100 tox|[from] psn
+|upkeep
+|turn|78
+|
+|t:|1641708386
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Clefable|Moonblast|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|87/100
+|-unboost|p2a: Toxapex|spa|1
+|
+|-heal|p1a: Clefable|82/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|93/100|[from] item: Black Sludge
+|-damage|p1a: Clefable|70/100 tox|[from] psn
+|upkeep
+|turn|79
+|
+|t:|1641708389
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Clefable|Moonblast|p2a: Blissey
+|-damage|p2a: Blissey|90/100
+|
+|-heal|p1a: Clefable|76/100 tox|[from] item: Leftovers
+|-heal|p2a: Blissey|96/100|[from] item: Leftovers
+|-damage|p1a: Clefable|58/100 tox|[from] psn
+|upkeep
+|turn|80
+|
+|t:|1641708393
+|switch|p1a: Dragapult|Dragapult, M|69/100 brn
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-damage|p1a: Dragapult|63/100 brn|[from] brn
+|upkeep
+|turn|81
+|
+|t:|1641708400
+|switch|p2a: Blissey|Blissey, F|96/100
+|move|p1a: Dragapult|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|87/100
+|
+|t:|1641708403
+|switch|p1a: Blissey|Blissey, F|74/100|[from]move: U-turn
+|
+|-heal|p2a: Blissey|93/100|[from] item: Leftovers
+|-sideend|p1: lbjdagoat67|move: Light Screen
+|upkeep
+|turn|82
+|
+|t:|1641708407
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|switch|p1a: Dragapult|Dragapult, M|63/100 brn
+|
+|-damage|p1a: Dragapult|57/100 brn|[from] brn
+|upkeep
+|turn|83
+|
+|t:|1641708409
+|switch|p2a: Blissey|Blissey, F|93/100
+|move|p1a: Dragapult|U-turn|p2a: Blissey
+|-damage|p2a: Blissey|85/100
+|
+|t:|1641708415
+|switch|p1a: Clefable|Clefable, M|58/100 tox|[from]move: U-turn
+|
+|-heal|p1a: Clefable|64/100 tox|[from] item: Leftovers
+|-heal|p2a: Blissey|91/100|[from] item: Leftovers
+|-damage|p1a: Clefable|58/100 tox|[from] psn
+|upkeep
+|turn|84
+|c|☆Me hate me|Lesgo 1000 turns
+|
+|t:|1641708422
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-heal|p1a: Clefable|64/100 tox|[from] item: Leftovers
+|-damage|p1a: Clefable|52/100 tox|[from] psn
+|upkeep
+|turn|85
+|
+|t:|1641708428
+|switch|p2a: Blissey|Blissey, F|91/100
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641708429
+|switch|p1a: Dragapult|Dragapult, M|57/100 brn|[from]move: Teleport
+|
+|-heal|p1a: Dragapult|100/100 brn|[from] move: Wish|[wisher] Clefable
+|-heal|p2a: Blissey|97/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|95/100 brn|[from] brn
+|upkeep
+|turn|86
+|
+|t:|1641708434
+|switch|p1a: Clefable|Clefable, M|52/100 tox
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-heal|p1a: Clefable|58/100 tox|[from] item: Leftovers
+|-damage|p1a: Clefable|52/100 tox|[from] psn
+|upkeep
+|turn|87
+|
+|t:|1641708440
+|switch|p1a: Dragapult|Dragapult, M|95/100 brn
+|switch|p2a: Blissey|Blissey, F|97/100
+|
+|-heal|p2a: Blissey|100/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|89/100 brn|[from] brn
+|upkeep
+|turn|88
+|-message|lbjdagoat67 forfeited.
+|
+|win|Me hate me
+|raw|lbjdagoat67's rating: 1310 &rarr; <strong>1293</strong><br />(-17 for losing)
+|raw|Me hate me's rating: 1361 &rarr; <strong>1378</strong><br />(+17 for winning)
+|l|☆lbjdagoat67
+|c|☆Me hate me|Oof
+|l|☆Me hate me
+|j|☆Me hate me
+|player|p2|Me hate me|preschooler
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Me hate me)

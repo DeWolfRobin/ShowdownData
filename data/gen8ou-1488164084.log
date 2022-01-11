@@ -1,0 +1,194 @@
+|j|☆Beedrill<3Davis
+|j|☆mouse21
+|t:|1641725459
+|gametype|singles
+|player|p1|Beedrill<3Davis|169|1000
+|player|p2|mouse21|266|1132
+|teamsize|p1|2
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Regigigas|
+|poke|p2|Snorlax, F|
+|poke|p2|Umbreon, M|
+|poke|p2|Zapdos|
+|poke|p2|Melmetal|
+|poke|p2|Cinccino, F|
+|poke|p2|Dragapult, M|
+|teampreview
+|
+|t:|1641725483
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|
+|t:|1641725489
+|move|p1a: Tapu Koko|Reflect|p1a: Tapu Koko
+|-sidestart|p1: Beedrill<3Davis|Reflect
+|move|p2a: Melmetal|Earthquake|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|20/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641725494
+|move|p1a: Tapu Koko|Light Screen|p1a: Tapu Koko
+|-sidestart|p1: Beedrill<3Davis|move: Light Screen
+|move|p2a: Melmetal|Earthquake|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641725497
+|switch|p1a: Regigigas|Regigigas|100/100
+|-start|p1a: Regigigas|ability: Slow Start
+|turn|3
+|
+|t:|1641725502
+|move|p1a: Regigigas|Power-Up Punch|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|90/100
+|-boost|p1a: Regigigas|atk|1
+|move|p2a: Melmetal|Earthquake|p1a: Regigigas
+|-damage|p1a: Regigigas|75/100
+|
+|-heal|p1a: Regigigas|81/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641725510
+|move|p1a: Regigigas|Rock Polish|p1a: Regigigas
+|-boost|p1a: Regigigas|spe|2
+|move|p2a: Melmetal|Earthquake|p1a: Regigigas
+|-damage|p1a: Regigigas|59/100
+|
+|-heal|p1a: Regigigas|65/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641725518
+|move|p1a: Regigigas|Power-Up Punch|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|76/100
+|-boost|p1a: Regigigas|atk|1
+|move|p2a: Melmetal|Earthquake|p1a: Regigigas
+|-damage|p1a: Regigigas|42/100
+|
+|-heal|p1a: Regigigas|48/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641725526
+|move|p1a: Regigigas|Power-Up Punch|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|58/100
+|-boost|p1a: Regigigas|atk|1
+|move|p2a: Melmetal|Earthquake|p1a: Regigigas
+|-damage|p1a: Regigigas|25/100
+|
+|-heal|p1a: Regigigas|31/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641725539
+|move|p1a: Regigigas|Power-Up Punch|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|36/100
+|-boost|p1a: Regigigas|atk|1
+|move|p2a: Melmetal|Earthquake|p1a: Regigigas
+|-damage|p1a: Regigigas|6/100
+|
+|-heal|p1a: Regigigas|12/100|[from] item: Leftovers
+|-end|p1a: Regigigas|Slow Start
+|upkeep
+|turn|8
+|
+|t:|1641725548
+|move|p1a: Regigigas|Power-Up Punch|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-boost|p1a: Regigigas|atk|1
+|faint|p2a: Melmetal
+|
+|-heal|p1a: Regigigas|19/100|[from] item: Leftovers
+|-sideend|p1: Beedrill<3Davis|Reflect
+|upkeep
+|
+|t:|1641725562
+|switch|p2a: Snorlax|Snorlax, F, shiny|100/100
+|turn|9
+|
+|t:|1641725566
+|move|p1a: Regigigas|Crush Grip|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|
+|-heal|p1a: Regigigas|25/100|[from] item: Leftovers
+|-sideend|p1: Beedrill<3Davis|move: Light Screen
+|upkeep
+|
+|t:|1641725583
+|switch|p2a: Cinccino|Cinccino, F, shiny|100/100
+|turn|10
+|
+|t:|1641725586
+|move|p1a: Regigigas|Crush Grip|p2a: Cinccino
+|-damage|p2a: Cinccino|0 fnt
+|faint|p2a: Cinccino
+|
+|-heal|p1a: Regigigas|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641725590
+|switch|p2a: Dragapult|Dragapult, M, shiny|100/100
+|turn|11
+|
+|t:|1641725593
+|move|p1a: Regigigas|Darkest Lariat|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Regigigas|37/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641725596
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|turn|12
+|
+|t:|1641725602
+|move|p1a: Regigigas|Crush Grip|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-heal|p1a: Regigigas|43/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641725606
+|switch|p2a: Umbreon|Umbreon, M, shiny|100/100
+|turn|13
+|
+|t:|1641725612
+|move|p1a: Regigigas|Crush Grip|p2a: Umbreon
+|-damage|p2a: Umbreon|0 fnt
+|faint|p2a: Umbreon
+|
+|win|Beedrill<3Davis
+|raw|Beedrill&lt;3Davis's rating: 1000 &rarr; <strong>1055</strong><br />(+55 for winning)
+|raw|mouse21's rating: 1132 &rarr; <strong>1098</strong><br />(-34 for losing)

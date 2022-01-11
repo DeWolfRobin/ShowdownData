@@ -1,0 +1,1271 @@
+|j|☆Envied
+|j|☆Jalhiem Rabey
+|t:|1641761891
+|gametype|singles
+|player|p1|Envied|101|1559
+|player|p2|Jalhiem Rabey|101|1519
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Hippowdon, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Melmetal|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Zapdos|
+|poke|p2|Kommo-o, M|
+|poke|p2|Melmetal|
+|poke|p2|Blissey, F|
+|poke|p2|Buzzwole|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Zapdos|
+|teampreview
+|
+|t:|1641761897
+|start
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jalhiem Rabey)
+|
+|t:|1641761902
+|move|p2a: Kommo-o|Stealth Rock|p1a: Slowbro
+|-sidestart|p1: Envied|move: Stealth Rock
+|move|p1a: Slowbro|Trick Room|p1a: Slowbro
+|-fieldstart|move: Trick Room|[of] p1a: Slowbro
+|
+|upkeep
+|turn|2
+|
+|t:|1641761906
+|move|p2a: Kommo-o|Toxic|p1a: Slowbro
+|-status|p1a: Slowbro|tox
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641761912
+|switch|p1a: Melmetal|Melmetal|100/100|[from]move: Teleport
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|3
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641761953
+|move|p1a: Melmetal|Double Iron Bash|p2a: Kommo-o
+|-damage|p2a: Kommo-o|61/100
+|-damage|p2a: Kommo-o|17/100
+|-hitcount|p2a: Kommo-o|2
+|cant|p2a: Kommo-o|flinch
+|
+|-heal|p2a: Kommo-o|23/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641761965
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|81/100
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|64/100
+|-hitcount|p2a: Melmetal|2
+|
+|upkeep
+|turn|5
+|c|☆Envied|Ugly scale drago dude
+|
+|t:|1641761977
+|move|p1a: Melmetal|Double Iron Bash|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|45/100
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|28/100
+|-hitcount|p2a: Melmetal|2
+|move|p2a: Melmetal|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|60/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641761987
+|switch|p1a: Slowbro|Slowbro, F|100/100 tox
+|-damage|p1a: Slowbro|88/100 tox|[from] Stealth Rock
+|move|p2a: Melmetal|Superpower|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|75/100 tox
+|-unboost|p2a: Melmetal|atk|1
+|-unboost|p2a: Melmetal|def|1
+|-damage|p2a: Melmetal|12/100|[from] item: Rocky Helmet|[of] p1a: Slowbro
+|
+|-damage|p1a: Slowbro|69/100 tox|[from] psn
+|upkeep
+|turn|7
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641761999
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Slowbro|Trick Room|p1a: Slowbro
+|-fieldstart|move: Trick Room|[of] p1a: Slowbro
+|
+|-damage|p1a: Slowbro|57/100 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641762005
+|move|p2a: Blissey|Wish|p2a: Blissey
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641762007
+|switch|p1a: Melmetal|Melmetal|60/100|[from]move: Teleport
+|-damage|p1a: Melmetal|54/100|[from] Stealth Rock
+|
+|upkeep
+|turn|9
+|j| Blareglare
+|
+|t:|1641762013
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Buzzwole
+|-damage|p2a: Buzzwole|67/100
+|-damage|p1a: Melmetal|37/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-damage|p2a: Buzzwole|30/100
+|-damage|p1a: Melmetal|21/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-hitcount|p2a: Buzzwole|2
+|
+|-heal|p2a: Buzzwole|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|10
+|
+|t:|1641762023
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Buzzwole|Roost||[still]
+|-fail|p2a: Buzzwole|heal
+|
+|upkeep
+|turn|11
+|
+|t:|1641762029
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Zapdos|Defog|p2a: Slowking
+|-unboost|p2a: Slowking|evasion|1
+|-sideend|p1: Envied|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|12
+|
+|t:|1641762037
+|move|p1a: Zapdos|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|85/100
+|
+|t:|1641762046
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100|[from]move: Volt Switch
+|move|p2a: Slowking|Sludge Bomb|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|21/100
+|-status|p1a: Crawdaunt|psn
+|
+|-damage|p1a: Crawdaunt|8/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641762061
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Crawdaunt|Crabhammer|p2a: Buzzwole
+|-damage|p2a: Buzzwole|38/100
+|-damage|p1a: Crawdaunt|0 fnt|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1641762067
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|14
+|
+|t:|1641762072
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|90/100
+|
+|t:|1641762075
+|switch|p1a: Melmetal|Melmetal|21/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|15
+|
+|t:|1641762083
+|switch|p2a: Melmetal|Melmetal|12/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|-hitcount|p2: Melmetal|1
+|
+|upkeep
+|
+|t:|1641762096
+|switch|p2a: Kommo-o|Kommo-o, M|23/100
+|turn|16
+|
+|t:|1641762099
+|switch|p1a: Slowbro|Slowbro, F|90/100 tox
+|move|p2a: Kommo-o|Body Press|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|79/100 tox
+|-damage|p2a: Kommo-o|6/100|[from] item: Rocky Helmet|[of] p1a: Slowbro
+|
+|-heal|p2a: Kommo-o|13/100|[from] item: Leftovers
+|-damage|p1a: Slowbro|73/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641762109
+|move|p2a: Kommo-o|Stealth Rock|p1a: Slowbro
+|-sidestart|p1: Envied|move: Stealth Rock
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641762123
+|switch|p1a: Hippowdon|Hippowdon, F|100/100|[from]move: Teleport
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kommo-o|6/100|[from] Sandstorm
+|-heal|p2a: Kommo-o|13/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641762161
+|switch|p2a: Buzzwole|Buzzwole|38/100
+|move|p1a: Hippowdon|Stealth Rock|p2a: Buzzwole
+|-sidestart|p2: Jalhiem Rabey|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|32/100|[from] Sandstorm
+|upkeep
+|turn|19
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641762169
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|82/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|move|p1a: Hippowdon|Toxic|p2a: Buzzwole|[miss]
+|-miss|p1a: Hippowdon|p2a: Buzzwole
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|76/100|[from] Sandstorm
+|upkeep
+|turn|20
+|
+|t:|1641762177
+|switch|p2a: Kommo-o|Kommo-o, M|13/100
+|-damage|p2a: Kommo-o|6/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Toxic|p2a: Kommo-o
+|-status|p2a: Kommo-o|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kommo-o|0 fnt|[from] Sandstorm
+|faint|p2a: Kommo-o
+|upkeep
+|
+|t:|1641762187
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641762191
+|move|p1a: Hippowdon|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|6/100
+|move|p2a: Slowking|Future Sight|p1a: Hippowdon
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|none
+|upkeep
+|turn|22
+|
+|t:|1641762197
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Hippowdon|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-damage|p2a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641762208
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos|[miss]
+|-miss|p2a: Zapdos|p1a: Zapdos
+|
+|-end|p1a: Zapdos|move: Future Sight
+|-damage|p1a: Zapdos|41/100
+|-damage|p2a: Zapdos|82/100 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641762254
+|move|p2a: Zapdos|Volt Switch|p1a: Zapdos
+|-damage|p1a: Zapdos|13/100
+|
+|t:|1641762258
+|switch|p2a: Blissey|Blissey, F|90/100|[from]move: Volt Switch
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|63/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|25
+|
+|t:|1641762282
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|79/100
+|
+|t:|1641762287
+|switch|p1a: Slowbro|Slowbro, F|100/100 tox|[from]move: Volt Switch
+|-damage|p1a: Slowbro|88/100 tox|[from] Stealth Rock
+|move|p2a: Blissey|Aromatherapy|p2a: Blissey
+|-activate|p2a: Blissey|move: Aromatherapy
+|-curestatus|p2: Zapdos|tox|[msg]
+|
+|-damage|p1a: Slowbro|82/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641762296
+|move|p2a: Blissey|Wish|p2a: Blissey
+|move|p1a: Slowbro|Trick Room|p1a: Slowbro
+|-fieldstart|move: Trick Room|[of] p1a: Slowbro
+|
+|-damage|p1a: Slowbro|70/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641762302
+|switch|p2a: Slowking|Slowking-Galar, M|39/100
+|-damage|p2a: Slowking|27/100|[from] Stealth Rock
+|move|p1a: Slowbro|Scald|p2a: Slowking
+|-damage|p2a: Slowking|14/100
+|
+|-heal|p2a: Slowking|100/100|[from] move: Wish|[wisher] Blissey
+|-damage|p1a: Slowbro|52/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641762313
+|move|p2a: Slowking|Future Sight|p1a: Slowbro
+|-start|p2a: Slowking|move: Future Sight
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641762315
+|switch|p1a: Melmetal|Melmetal|21/100|[from]move: Teleport
+|-damage|p1a: Melmetal|15/100|[from] Stealth Rock
+|
+|upkeep
+|turn|29
+|
+|t:|1641762320
+|switch|p2a: Buzzwole|Buzzwole|76/100
+|-damage|p2a: Buzzwole|63/100|[from] Stealth Rock
+|move|p1a: Melmetal|Double Iron Bash|p2a: Buzzwole
+|-damage|p2a: Buzzwole|29/100
+|-damage|p1a: Melmetal|0 fnt|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|faint|p1a: Melmetal
+|-hitcount|p2a: Buzzwole|1
+|
+|upkeep
+|
+|t:|1641762328
+|switch|p1a: Zapdos|Zapdos|63/100
+|turn|30
+|
+|t:|1641762331
+|switch|p2a: Zapdos|Zapdos|82/100
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|54/100
+|
+|t:|1641762334
+|switch|p1a: Hippowdon|Hippowdon, F|94/100|[from]move: Volt Switch
+|-damage|p1a: Hippowdon|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|48/100|[from] Sandstorm
+|-end|p1a: Hippowdon|move: Future Sight
+|-damage|p1a: Hippowdon|26/100
+|-fieldend|move: Trick Room
+|upkeep
+|turn|31
+|
+|t:|1641762360
+|move|p2a: Zapdos|Hurricane|p1a: Hippowdon|[miss]
+|-miss|p2a: Zapdos|p1a: Hippowdon
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|42/100|[from] Sandstorm
+|upkeep
+|turn|32
+|
+|t:|1641762369
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|92/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Hippowdon|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|86/100 tox|[from] Sandstorm
+|-damage|p2a: Zapdos|80/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641762380
+|switch|p2a: Blissey|Blissey, F|79/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|73/100|[from] Sandstorm
+|upkeep
+|turn|34
+|
+|t:|1641762387
+|switch|p2a: Zapdos|Zapdos|80/100 tox
+|move|p1a: Hippowdon|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-weather|none
+|-damage|p2a: Zapdos|74/100 tox|[from] psn
+|upkeep
+|turn|35
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641762419
+|move|p2a: Zapdos|Hurricane|p1a: Hippowdon|[miss]
+|-miss|p2a: Zapdos|p1a: Hippowdon
+|move|p1a: Hippowdon|Slack Off||[still]
+|-fail|p1a: Hippowdon|heal
+|
+|-damage|p2a: Zapdos|62/100 tox|[from] psn
+|upkeep
+|turn|36
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641762426
+|switch|p2a: Buzzwole|Buzzwole|29/100
+|-damage|p2a: Buzzwole|16/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Slack Off||[still]
+|-fail|p1a: Hippowdon|heal
+|
+|upkeep
+|turn|37
+|
+|t:|1641762432
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|66/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|move|p1a: Hippowdon|Toxic|p2a: Buzzwole
+|-status|p2a: Buzzwole|tox
+|
+|-damage|p2a: Buzzwole|60/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1641762439
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|100/100 tox
+|-singleturn|p2a: Buzzwole|move: Roost
+|move|p1a: Hippowdon|Earthquake|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|90/100 tox
+|
+|-damage|p2a: Buzzwole|78/100 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1641762446
+|move|p2a: Buzzwole|Ice Punch|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|69/100
+|-damage|p2a: Buzzwole|61/100 tox|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|move|p1a: Hippowdon|Earthquake|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|50/100 tox
+|
+|-damage|p2a: Buzzwole|32/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641762456
+|switch|p2a: Zapdos|Zapdos|62/100 tox
+|move|p1a: Hippowdon|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-damage|p2a: Zapdos|56/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1641762470
+|move|p2a: Zapdos|Hurricane|p1a: Hippowdon|[miss]
+|-miss|p2a: Zapdos|p1a: Hippowdon
+|move|p1a: Hippowdon|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-damage|p2a: Zapdos|44/100 tox|[from] psn
+|upkeep
+|turn|42
+|c|☆Jalhiem Rabey|FUCK
+|c|☆Jalhiem Rabey|FUCK
+|
+|t:|1641762477
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|94/100 tox
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-damage|p2a: Zapdos|76/100 tox|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1641762485
+|switch|p2a: Buzzwole|Buzzwole|32/100 tox
+|-damage|p2a: Buzzwole|19/100 tox|[from] Stealth Rock
+|switch|p1a: Clefable|Clefable, M|100/100
+|
+|-damage|p2a: Buzzwole|13/100 tox|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1641762494
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|-damage|p2a: Slowking|88/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|80/100
+|
+|upkeep
+|turn|45
+|c| Blareglare|Hurricane is unreliable
+|
+|t:|1641762501
+|move|p2a: Slowking|Future Sight|p1a: Clefable
+|-start|p2a: Slowking|move: Future Sight
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641762505
+|switch|p1a: Hippowdon|Hippowdon, F|100/100|[from]move: Teleport
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|74/100|[from] Sandstorm
+|upkeep
+|turn|46
+|
+|t:|1641762513
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Slowking|Scald|p1a: Clefable
+|-damage|p1a: Clefable|83/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Clefable|77/100|[from] Sandstorm
+|-damage|p2a: Slowking|68/100|[from] Sandstorm
+|upkeep
+|turn|47
+|
+|t:|1641762521
+|switch|p1a: Slowbro|Slowbro, F|85/100 tox
+|-damage|p1a: Slowbro|72/100 tox|[from] Stealth Rock
+|move|p2a: Slowking|Sludge Bomb|p1a: Slowbro
+|-damage|p1a: Slowbro|27/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|61/100|[from] Sandstorm
+|-damage|p1a: Slowbro|21/100 tox|[from] Sandstorm
+|-end|p1a: Slowbro|move: Future Sight
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|upkeep
+|
+|t:|1641762528
+|switch|p1a: Hippowdon|Hippowdon, F|94/100
+|-damage|p1a: Hippowdon|88/100|[from] Stealth Rock
+|turn|48
+|
+|t:|1641762538
+|switch|p2a: Zapdos|Zapdos|76/100 tox
+|move|p1a: Hippowdon|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|70/100 tox|[from] Sandstorm
+|-damage|p2a: Zapdos|64/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1641762548
+|move|p2a: Zapdos|Hurricane|p1a: Hippowdon|[miss]
+|-miss|p2a: Zapdos|p1a: Hippowdon
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|none
+|-damage|p2a: Zapdos|52/100 tox|[from] psn
+|upkeep
+|turn|50
+|c|☆Jalhiem Rabey|7 MISS
+|
+|t:|1641762555
+|switch|p2a: Buzzwole|Buzzwole|13/100 tox
+|-damage|p2a: Buzzwole|0 fnt|[from] Stealth Rock
+|faint|p2a: Buzzwole
+|move|p1a: Hippowdon|Earthquake|p2: Buzzwole|[notarget]
+|-fail|p1a: Hippowdon
+|
+|upkeep
+|c| Blareglare|lmao
+|
+|t:|1641762563
+|switch|p2a: Zapdos|Zapdos|52/100 tox
+|turn|51
+|
+|t:|1641762573
+|move|p2a: Zapdos|Hurricane|p1a: Hippowdon
+|-damage|p1a: Hippowdon|48/100
+|move|p1a: Hippowdon|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-damage|p2a: Zapdos|46/100 tox|[from] psn
+|upkeep
+|turn|52
+|
+|t:|1641762586
+|switch|p1a: Clefable|Clefable, M|77/100
+|move|p2a: Zapdos|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|46/100
+|-start|p1a: Clefable|confusion
+|
+|-damage|p2a: Zapdos|34/100 tox|[from] psn
+|upkeep
+|turn|53
+|
+|t:|1641762594
+|switch|p2a: Blissey|Blissey, F|73/100
+|-activate|p1a: Clefable|confusion
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|96/100
+|
+|upkeep
+|turn|54
+|j| registorm
+|
+|t:|1641762601
+|move|p2a: Blissey|Wish|p2a: Blissey
+|-activate|p1a: Clefable|confusion
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641762605
+|switch|p1a: Hippowdon|Hippowdon, F|48/100|[from]move: Teleport
+|-damage|p1a: Hippowdon|41/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|67/100|[from] Sandstorm
+|upkeep
+|turn|55
+|
+|t:|1641762613
+|switch|p2a: Zapdos|Zapdos|34/100 tox
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|91/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|28/100 tox|[from] Sandstorm
+|-heal|p2a: Zapdos|100/100 tox|[from] move: Wish|[wisher] Blissey
+|-damage|p2a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|56
+|
+|t:|1641762623
+|switch|p1a: Zapdos|Zapdos|63/100
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|43/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|88/100 tox|[from] Sandstorm
+|-damage|p1a: Zapdos|37/100|[from] Sandstorm
+|-damage|p2a: Zapdos|76/100 tox|[from] psn
+|upkeep
+|turn|57
+|
+|t:|1641762634
+|move|p2a: Zapdos|Volt Switch|p1a: Zapdos
+|-damage|p1a: Zapdos|8/100
+|
+|t:|1641762639
+|switch|p2a: Blissey|Blissey, F|67/100|[from]move: Volt Switch
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|58/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|52/100|[from] Sandstorm
+|-damage|p2a: Blissey|61/100|[from] Sandstorm
+|upkeep
+|turn|58
+|
+|t:|1641762648
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-weather|none
+|upkeep
+|turn|59
+|
+|t:|1641762654
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|51/100
+|
+|t:|1641762656
+|switch|p1a: Hippowdon|Hippowdon, F|91/100|[from]move: Volt Switch
+|-damage|p1a: Hippowdon|85/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Blissey|Aromatherapy|p2a: Blissey
+|-activate|p2a: Blissey|move: Aromatherapy
+|-curestatus|p2: Zapdos|tox|[msg]
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|45/100|[from] Sandstorm
+|-heal|p2a: Blissey|95/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|60
+|
+|t:|1641762668
+|move|p2a: Blissey|Wish|p2a: Blissey
+|move|p1a: Hippowdon|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|88/100 tox|[from] Sandstorm
+|-damage|p2a: Blissey|82/100 tox|[from] psn
+|upkeep
+|turn|61
+|
+|t:|1641762676
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Zapdos|Zapdos|76/100
+|move|p1a: Hippowdon|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|70/100 tox|[from] Sandstorm
+|-heal|p2a: Zapdos|100/100 tox|[from] move: Wish|[wisher] Blissey
+|-damage|p2a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|62
+|
+|t:|1641762687
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|77/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|88/100 tox|[from] Sandstorm
+|-damage|p1a: Zapdos|71/100|[from] Sandstorm
+|-damage|p2a: Zapdos|76/100 tox|[from] psn
+|upkeep
+|turn|63
+|
+|t:|1641762696
+|switch|p2a: Blissey|Blissey, F|82/100
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|72/100
+|
+|t:|1641762702
+|switch|p1a: Hippowdon|Hippowdon, F|85/100|[from]move: Volt Switch
+|-damage|p1a: Hippowdon|79/100|[from] Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|64
+|
+|t:|1641762708
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|move|p1a: Hippowdon|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|70/100
+|
+|upkeep
+|turn|65
+|
+|t:|1641762717
+|move|p2a: Blissey|Wish|p2a: Blissey
+|move|p1a: Hippowdon|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|
+|-damage|p2a: Blissey|64/100 tox|[from] psn
+|upkeep
+|turn|66
+|
+|t:|1641762723
+|switch|p1a: Clefable|Clefable, M|96/100
+|move|p2a: Blissey|Aromatherapy|p2a: Blissey
+|-activate|p2a: Blissey|move: Aromatherapy
+|-curestatus|p2a: Blissey|tox|[msg]
+|-curestatus|p2: Zapdos|tox|[msg]
+|
+|-heal|p2a: Blissey|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|67
+|
+|t:|1641762734
+|move|p1a: Clefable|Moonblast|p2a: Blissey
+|-damage|p2a: Blissey|89/100
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|upkeep
+|turn|68
+|
+|t:|1641762739
+|switch|p2a: Slowking|Slowking-Galar, M|95/100
+|-damage|p2a: Slowking|82/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|75/100
+|
+|-heal|p2a: Slowking|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|69
+|
+|t:|1641762749
+|move|p2a: Slowking|Future Sight|p1a: Clefable
+|-start|p2a: Slowking|move: Future Sight
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641762751
+|switch|p1a: Hippowdon|Hippowdon, F|79/100|[from]move: Teleport
+|-damage|p1a: Hippowdon|73/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|70
+|
+|t:|1641762758
+|move|p1a: Hippowdon|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|13/100
+|move|p2a: Slowking|Scald|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|22/100
+|-status|p1a: Hippowdon|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowking|7/100|[from] Sandstorm
+|-damage|p1a: Hippowdon|16/100 brn|[from] brn
+|upkeep
+|turn|71
+|
+|t:|1641762769
+|switch|p1a: Clefable|Clefable, M|96/100
+|switch|p2a: Blissey|Blissey, F|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Clefable|90/100|[from] Sandstorm
+|-damage|p2a: Blissey|82/100|[from] Sandstorm
+|-end|p1a: Clefable|move: Future Sight
+|-damage|p1a: Clefable|50/100
+|upkeep
+|turn|72
+|
+|t:|1641762790
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1: Hippowdon|brn|[msg]
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Clefable|44/100|[from] Sandstorm
+|-damage|p2a: Blissey|76/100|[from] Sandstorm
+|upkeep
+|turn|73
+|
+|t:|1641762797
+|switch|p2a: Slowking|Slowking-Galar, M|40/100
+|-damage|p2a: Slowking|28/100|[from] Stealth Rock
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641762799
+|switch|p1a: Hippowdon|Hippowdon, F|16/100|[from]move: Teleport
+|-damage|p1a: Hippowdon|10/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p2a: Slowking|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|74
+|
+|t:|1641762809
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|60/100
+|move|p2a: Slowking|Scald|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|11/100
+|
+|upkeep
+|turn|75
+|
+|t:|1641762815
+|move|p1a: Hippowdon|Earthquake|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1641762820
+|switch|p2a: Blissey|Blissey, F|76/100
+|turn|76
+|c|☆Jalhiem Rabey|critical
+|c|☆Jalhiem Rabey|hax
+|
+|t:|1641762834
+|switch|p1a: Zapdos|Zapdos|71/100
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|45/100
+|-status|p2a: Blissey|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|upkeep
+|turn|77
+|
+|t:|1641762841
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|95/100
+|-singleturn|p1a: Zapdos|move: Roost
+|cant|p2a: Blissey|par
+|
+|upkeep
+|turn|78
+|
+|t:|1641762847
+|move|p1a: Zapdos|Defog|p2a: Blissey
+|-unboost|p2a: Blissey|evasion|1
+|-sideend|p2: Jalhiem Rabey|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: Envied|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|69/100
+|
+|upkeep
+|turn|79
+|
+|t:|1641762857
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|65/100 par
+|c| Blareglare|Haxed
+|
+|t:|1641762860
+|switch|p1a: Clefable|Clefable, M|44/100|[from]move: Volt Switch
+|cant|p2a: Blissey|par
+|
+|upkeep
+|turn|80
+|
+|t:|1641762865
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|94/100
+|move|p2a: Blissey|Aromatherapy|p2a: Blissey
+|-activate|p2a: Blissey|move: Aromatherapy
+|-curestatus|p2a: Blissey|par|[msg]
+|
+|upkeep
+|turn|81
+|
+|t:|1641762892
+|move|p2a: Blissey|Wish|p2a: Blissey
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|c|☆Jalhiem Rabey|H A X
+|inactive|Envied has 120 seconds left.
+|
+|t:|1641762909
+|switch|p1a: Hippowdon|Hippowdon, F|11/100|[from]move: Teleport
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|58/100|[from] Sandstorm
+|upkeep
+|turn|82
+|
+|t:|1641762915
+|switch|p1a: Zapdos|Zapdos|69/100
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|43/100
+|-status|p2a: Blissey|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|37/100|[from] Sandstorm
+|-damage|p2a: Blissey|52/100 par|[from] Sandstorm
+|-heal|p2a: Blissey|100/100 par|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|83
+|l| registorm
+|
+|t:|1641762926
+|-curestatus|p2a: Blissey|par|[from] ability: Natural Cure
+|switch|p2a: Zapdos|Zapdos|76/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|87/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|70/100|[from] Sandstorm
+|-damage|p1a: Zapdos|81/100|[from] Sandstorm
+|upkeep
+|turn|84
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641762937
+|move|p2a: Zapdos|Volt Switch|p1a: Zapdos
+|-damage|p1a: Zapdos|51/100
+|
+|t:|1641762940
+|switch|p2a: Blissey|Blissey, F|100/100|[from]move: Volt Switch
+|move|p1a: Zapdos|Heat Wave|p2a: Blissey
+|-damage|p2a: Blissey|90/100
+|-status|p2a: Blissey|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|45/100|[from] Sandstorm
+|-damage|p2a: Blissey|84/100 brn|[from] Sandstorm
+|-damage|p2a: Blissey|78/100 brn|[from] brn
+|upkeep
+|turn|85
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641762952
+|-curestatus|p2a: Blissey|brn|[from] ability: Natural Cure
+|switch|p2a: Zapdos|Zapdos|70/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|95/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|86
+|inactive|Jalhiem Rabey has 120 seconds left.
+|c| Blareglare|Naturally horned luck
+|
+|t:|1641762967
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|75/100
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|41/100
+|
+|t:|1641762974
+|switch|p1a: Hippowdon|Hippowdon, F|11/100|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|35/100|[from] Sandstorm
+|upkeep
+|turn|87
+|
+|t:|1641762981
+|switch|p1a: Zapdos|Zapdos|75/100
+|move|p2a: Zapdos|Hurricane|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|54/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|29/100|[from] Sandstorm
+|-damage|p1a: Zapdos|48/100|[from] Sandstorm
+|upkeep
+|turn|88
+|
+|t:|1641762990
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|79/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|98/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|73/100|[from] Sandstorm
+|-damage|p1a: Zapdos|92/100|[from] Sandstorm
+|upkeep
+|turn|89
+|
+|t:|1641762999
+|move|p2a: Zapdos|Volt Switch|p1a: Zapdos
+|-damage|p1a: Zapdos|64/100
+|
+|t:|1641763002
+|switch|p2a: Blissey|Blissey, F|78/100|[from]move: Volt Switch
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|67/100
+|c|☆Jalhiem Rabey|H A X
+|c|☆Jalhiem Rabey|HAX
+|c|☆Jalhiem Rabey|HAX HAX HAX HAX HAX
+|c|☆Jalhiem Rabey|HAX
+|c|☆Jalhiem Rabey|HAX
+|c|☆Jalhiem Rabey|HAX
+|
+|t:|1641763009
+|switch|p1a: Hippowdon|Hippowdon, F|11/100|[from]move: Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|61/100|[from] Sandstorm
+|upkeep
+|turn|90
+|c|☆Jalhiem Rabey|HAX
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641763034
+|switch|p1a: Zapdos|Zapdos|64/100
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|38/100
+|
+|-weather|none
+|upkeep
+|turn|91
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641763041
+|switch|p2a: Zapdos|Zapdos|73/100
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|88/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|turn|92
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641763048
+|switch|p1a: Clefable|Clefable, M|94/100
+|move|p2a: Zapdos|Volt Switch|p1a: Clefable
+|-damage|p1a: Clefable|73/100
+|j| A green yes
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641763053
+|switch|p2a: Blissey|Blissey, F|61/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|93
+|
+|t:|1641763062
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641763066
+|switch|p1a: Hippowdon|Hippowdon, F|11/100|[from]move: Teleport
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|94/100|[from] Sandstorm
+|upkeep
+|turn|94
+|inactive|Jalhiem Rabey has 120 seconds left.
+|l|☆Envied
+|inactive|Envied disconnected and has a minute to reconnect!
+|player|p1|
+|
+|t:|1641763110
+|switch|p1a: Zapdos|Zapdos|88/100
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|62/100
+|-status|p2a: Blissey|par|[from] ability: Static|[of] p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|56/100|[from] Sandstorm
+|-damage|p2a: Blissey|88/100 par|[from] Sandstorm
+|upkeep
+|turn|95
+|j|☆Envied
+|inactive|Envied reconnected and has 150 seconds left.
+|player|p1|Envied|101
+|
+|t:|1641763119
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|74/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|68/100|[from] Sandstorm
+|-damage|p2a: Blissey|82/100 par|[from] Sandstorm
+|upkeep
+|turn|96
+|
+|t:|1641763128
+|move|p1a: Zapdos|Volt Switch|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|67/100 par
+|
+|t:|1641763135
+|switch|p1a: Clefable|Clefable, M|73/100|[from]move: Volt Switch
+|cant|p2a: Blissey|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Clefable|67/100|[from] Sandstorm
+|-damage|p2a: Blissey|61/100 par|[from] Sandstorm
+|upkeep
+|turn|97
+|
+|t:|1641763142
+|cant|p2a: Blissey|par
+|move|p1a: Clefable|Teleport|p1a: Clefable
+|
+|t:|1641763145
+|switch|p1a: Hippowdon|Hippowdon, F|11/100|[from]move: Teleport
+|
+|-weather|none
+|upkeep
+|turn|98
+|
+|t:|1641763150
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|61/100
+|move|p2a: Blissey|Seismic Toss|p1a: Hippowdon
+|-damage|p1a: Hippowdon|38/100
+|-damage|p2a: Blissey|44/100 par|[from] item: Rocky Helmet|[of] p1a: Hippowdon
+|
+|upkeep
+|turn|99
+|-message|Jalhiem Rabey forfeited.
+|
+|win|Envied
+|raw|Envied's rating: 1559 &rarr; <strong>1577</strong><br />(+18 for winning)
+|raw|Jalhiem Rabey's rating: 1519 &rarr; <strong>1501</strong><br />(-18 for losing)
+|l|☆Jalhiem Rabey
+|c|☆Envied|Good game
+|l|☆Envied
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

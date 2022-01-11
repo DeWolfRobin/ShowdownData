@@ -1,0 +1,222 @@
+|j|☆DillyDallyer
+|j|☆kuhrii
+|t:|1641823868
+|gametype|singles
+|player|p1|DillyDallyer|170|1170
+|player|p2|kuhrii|hugh|1188
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Heatran, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Scizor, F|
+|poke|p1|Vaporeon, F|
+|poke|p2|Polteageist|
+|poke|p2|Incineroar, F|
+|poke|p2|Toxtricity, F|
+|poke|p2|Melmetal|
+|poke|p2|Hawlucha, M|
+|poke|p2|Thundurus, M|
+|teampreview
+|
+|t:|1641823877
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|turn|1
+|
+|t:|1641823885
+|move|p2a: Thundurus|Taunt|p1a: Heatran
+|-start|p1a: Heatran|move: Taunt
+|cant|p1a: Heatran|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641823895
+|move|p2a: Thundurus|Thunder Wave|p1a: Heatran
+|-status|p1a: Heatran|par
+|cant|p1a: Heatran|par
+|
+|upkeep
+|turn|3
+|
+|t:|1641823903
+|move|p2a: Thundurus|Volt Switch|p1a: Heatran
+|-damage|p1a: Heatran|77/100 par
+|
+|t:|1641823907
+|switch|p2a: Incineroar|Incineroar, F|100/100|[from]move: Volt Switch
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|cant|p1a: Heatran|par
+|
+|-heal|p1a: Heatran|83/100 par|[from] item: Leftovers
+|-end|p1a: Heatran|move: Taunt
+|upkeep
+|turn|4
+|
+|t:|1641823920
+|move|p2a: Incineroar|Parting Shot|p1a: Heatran
+|-unboost|p1a: Heatran|atk|1
+|-unboost|p1a: Heatran|spa|1
+|
+|t:|1641823925
+|switch|p2a: Thundurus|Thundurus, M|100/100|[from]move: Parting Shot
+|move|p1a: Heatran|Stealth Rock|p2a: Thundurus
+|-sidestart|p2: kuhrii|move: Stealth Rock
+|
+|-heal|p1a: Heatran|90/100 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641823936
+|move|p2a: Thundurus|Taunt|p1a: Heatran
+|-start|p1a: Heatran|move: Taunt
+|cant|p1a: Heatran|move: Taunt|Roar
+|
+|-heal|p1a: Heatran|96/100 par|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641823982
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Thundurus|atk|1
+|move|p2a: Thundurus|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p2: kuhrii|Stealth Rock|[from] move: Defog|[of] p2a: Thundurus
+|
+|upkeep
+|turn|7
+|
+|t:|1641824000
+|move|p2a: Thundurus|Taunt|p1a: Landorus
+|-start|p1a: Landorus|move: Taunt
+|move|p1a: Landorus|U-turn|p2a: Thundurus
+|-resisted|p2a: Thundurus
+|-damage|p2a: Thundurus|84/100
+|
+|t:|1641824023
+|switch|p1a: Rotom|Rotom-Wash|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1641824034
+|move|p2a: Thundurus|Volt Switch|p1a: Rotom
+|-damage|p1a: Rotom|67/100
+|
+|t:|1641824050
+|switch|p2a: Toxtricity|Toxtricity, F|100/100|[from]move: Volt Switch
+|move|p1a: Rotom|Volt Switch|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|80/100
+|
+|t:|1641824092
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxtricity|atk|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641824104
+|switch|p2a: Thundurus|Thundurus, M|84/100
+|move|p1a: Landorus|Knock Off|p2a: Thundurus
+|-damage|p2a: Thundurus|38/100
+|-enditem|p2a: Thundurus|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Landorus
+|
+|upkeep
+|turn|10
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kuhrii)
+|
+|t:|1641824152
+|switch|p1a: Rotom|Rotom-Wash|67/100
+|switch|p2a: Incineroar|Incineroar, F|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Rotom|atk|1
+|
+|-heal|p1a: Rotom|73/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641824180
+|move|p1a: Rotom|Hydro Pump|p2a: Incineroar|[miss]
+|-miss|p1a: Rotom|p2a: Incineroar
+|move|p2a: Incineroar|Parting Shot|p1a: Rotom
+|-unboost|p1a: Rotom|atk|1
+|-unboost|p1a: Rotom|spa|1
+|
+|t:|1641824189
+|switch|p2a: Polteageist|Polteageist|100/100|[from]move: Parting Shot
+|
+|-heal|p1a: Rotom|79/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641824198
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|move|p1a: Rotom|Thunder Wave|p2a: Polteageist|[miss]
+|-miss|p1a: Rotom|p2a: Polteageist
+|
+|-heal|p1a: Rotom|85/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641824213
+|move|p2a: Polteageist|Giga Drain|p1a: Rotom
+|-supereffective|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1641824230
+|switch|p1a: Heatran|Heatran, M|96/100 par
+|turn|14
+|
+|t:|1641824244
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|move|p1a: Heatran|Stealth Rock|p2a: Polteageist
+|-sidestart|p2: kuhrii|move: Stealth Rock
+|
+|-heal|p1a: Heatran|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641824255
+|move|p2a: Polteageist|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|inactive|DillyDallyer has 120 seconds left.
+|-message|DillyDallyer forfeited.
+|
+|win|kuhrii
+|raw|DillyDallyer's rating: 1170 &rarr; <strong>1146</strong><br />(-24 for losing)
+|raw|kuhrii's rating: 1188 &rarr; <strong>1212</strong><br />(+24 for winning)
+|l|☆DillyDallyer

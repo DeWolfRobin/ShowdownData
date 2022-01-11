@@ -1,0 +1,341 @@
+|j|☆The Young OG
+|j|☆RuneTempest
+|t:|1641698426
+|gametype|singles
+|player|p1|The Young OG|riley|
+|player|p2|RuneTempest|acetrainerf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Golurk|
+|poke|p1|Togekiss, F|
+|poke|p1|Heatran, M|
+|poke|p1|Weavile, F|
+|poke|p1|Cobalion|
+|poke|p1|Qwilfish, F|
+|poke|p2|Silvally-*|
+|poke|p2|Tauros, M|
+|poke|p2|Araquanid, F|
+|poke|p2|Arcanine, M|
+|poke|p2|Pinsir, F|
+|poke|p2|Porygon-Z|
+|teampreview
+|j| Dougtepug
+|j| thewerehog88
+|c| Dougtepug|Glhf
+|j| Uulhan
+|j| erniesbro
+|j| desal
+|j| unfazed lol
+|l| desal
+|
+|t:|1641698675
+|start
+|switch|p1a: Who Uses This?|Cobalion, shiny|100/100
+|switch|p2a: What are stats|Silvally-Fairy|100/100
+|turn|1
+|j| desal
+|
+|t:|1641698689
+|move|p1a: Who Uses This?|Stealth Rock|p2a: What are stats
+|-sidestart|p2: RuneTempest|move: Stealth Rock
+|move|p2a: What are stats|Reversal|p1a: Who Uses This?
+|-supereffective|p1a: Who Uses This?
+|-damage|p1a: Who Uses This?|92/100
+|
+|-heal|p1a: Who Uses This?|98/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641698699
+|move|p1a: Who Uses This?|Thunder Wave|p2a: What are stats
+|-status|p2a: What are stats|par
+|move|p2a: What are stats|Multi-Attack|p1a: Who Uses This?
+|-damage|p1a: Who Uses This?|55/100
+|
+|-heal|p1a: Who Uses This?|61/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641698716
+|switch|p1a: Gross.|Qwilfish, F, shiny|100/100
+|-ability|p1a: Gross.|Intimidate|boost
+|-unboost|p2a: What are stats|atk|1
+|move|p2a: What are stats|Multi-Attack|p1a: Gross.
+|-resisted|p1a: Gross.
+|-damage|p1a: Gross.|86/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641698726
+|switch|p1a: Uselessness|Heatran, M|100/100
+|move|p2a: What are stats|Parting Shot|p1a: Uselessness
+|-unboost|p1a: Uselessness|atk|1
+|-unboost|p1a: Uselessness|spa|1
+|
+|t:|1641698731
+|switch|p2a: Toilet Spider|Araquanid, F|100/100|[from]move: Parting Shot
+|-damage|p2a: Toilet Spider|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Toilet Spider|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641698743
+|switch|p1a: Never Been Here|Togekiss, F, shiny|100/100
+|move|p2a: Toilet Spider|Liquidation|p1a: Never Been Here
+|-damage|p1a: Never Been Here|40/100
+|
+|-heal|p2a: Toilet Spider|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|c| desal|Damn
+|c| desal|That did a grip
+|
+|t:|1641698754
+|switch|p1a: Gross.|Qwilfish, F, shiny|86/100
+|-ability|p1a: Gross.|Intimidate|boost
+|-unboost|p2a: Toilet Spider|atk|1
+|switch|p2a: Alaskan Bull|Tauros, M|100/100
+|-damage|p2a: Alaskan Bull|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1641698764
+|move|p2a: Alaskan Bull|Earthquake|p1a: Gross.
+|-supereffective|p1a: Gross.
+|-damage|p1a: Gross.|25/100
+|-damage|p2a: Alaskan Bull|78/100|[from] item: Life Orb
+|move|p1a: Gross.|Thunder Wave|p2a: Alaskan Bull
+|-status|p2a: Alaskan Bull|par
+|
+|upkeep
+|turn|8
+|
+|t:|1641698771
+|move|p1a: Gross.|Rest|p1a: Gross.
+|-status|p1a: Gross.|slp|[from] move: Rest
+|-heal|p1a: Gross.|100/100 slp|[silent]
+|-enditem|p1a: Gross.|Chesto Berry|[eat]
+|-curestatus|p1a: Gross.|slp|[msg]
+|move|p2a: Alaskan Bull|Earthquake|p1a: Gross.
+|-supereffective|p1a: Gross.
+|-damage|p1a: Gross.|41/100
+|-damage|p2a: Alaskan Bull|68/100 par|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1641698788
+|switch|p1a: Never Been Here|Togekiss, F, shiny|40/100
+|move|p2a: Alaskan Bull|Earthquake|p1a: Never Been Here
+|-immune|p1a: Never Been Here
+|
+|upkeep
+|turn|10
+|j| Albedo's Ambition
+|
+|t:|1641698793
+|move|p1a: Never Been Here|Roost|p1a: Never Been Here
+|-heal|p1a: Never Been Here|90/100
+|-singleturn|p1a: Never Been Here|move: Roost
+|cant|p2a: Alaskan Bull|par
+|
+|upkeep
+|turn|11
+|
+|t:|1641698803
+|switch|p2a: Seizure Episode|Porygon-Z|100/100
+|-damage|p2a: Seizure Episode|88/100|[from] Stealth Rock
+|move|p1a: Never Been Here|Aura Sphere|p2a: Seizure Episode
+|-supereffective|p2a: Seizure Episode
+|-damage|p2a: Seizure Episode|12/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641698824
+|switch|p1a: Gross.|Qwilfish, F, shiny|41/100
+|-ability|p1a: Gross.|Intimidate|boost
+|-unboost|p2a: Seizure Episode|atk|1
+|move|p2a: Seizure Episode|Ice Beam|p1a: Gross.
+|-resisted|p1a: Gross.
+|-damage|p1a: Gross.|12/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641698832
+|move|p2a: Seizure Episode|Ice Beam|p1a: Gross.
+|-resisted|p1a: Gross.
+|-damage|p1a: Gross.|0 fnt
+|faint|p1a: Gross.
+|
+|upkeep
+|
+|t:|1641698838
+|switch|p1a: Uselessness|Heatran, M|100/100
+|turn|14
+|
+|t:|1641698846
+|move|p2a: Seizure Episode|Ice Beam|p1a: Uselessness
+|-resisted|p1a: Uselessness
+|-damage|p1a: Uselessness|92/100
+|move|p1a: Uselessness|Earth Power|p2a: Seizure Episode
+|-damage|p2a: Seizure Episode|0 fnt
+|faint|p2a: Seizure Episode
+|
+|upkeep
+|
+|t:|1641698857
+|switch|p2a: Toilet Spider|Araquanid, F|88/100
+|-damage|p2a: Toilet Spider|63/100|[from] Stealth Rock
+|turn|15
+|j| Dextriad
+|
+|t:|1641698869
+|switch|p1a: Who Uses This?|Cobalion, shiny|61/100
+|move|p2a: Toilet Spider|Liquidation|p1a: Who Uses This?
+|-crit|p1a: Who Uses This?
+|-damage|p1a: Who Uses This?|0 fnt
+|faint|p1a: Who Uses This?
+|
+|-heal|p2a: Toilet Spider|70/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641698876
+|switch|p1a: Never Been Here|Togekiss, F, shiny|90/100
+|turn|16
+|c| desal|Crit mattered
+|
+|t:|1641698883
+|move|p1a: Never Been Here|Air Slash|p2a: Toilet Spider
+|-supereffective|p2a: Toilet Spider
+|-damage|p2a: Toilet Spider|2/100
+|move|p2a: Toilet Spider|Liquidation|p1a: Never Been Here
+|-damage|p1a: Never Been Here|34/100
+|
+|-heal|p2a: Toilet Spider|8/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|l| unfazed lol
+|
+|t:|1641698890
+|move|p1a: Never Been Here|Air Slash|p2a: Toilet Spider
+|-supereffective|p2a: Toilet Spider
+|-damage|p2a: Toilet Spider|0 fnt
+|faint|p2a: Toilet Spider
+|
+|upkeep
+|
+|t:|1641698895
+|switch|p2a: Metapod Breakdown|Pinsir, F|100/100
+|-damage|p2a: Metapod Breakdown|76/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641698901
+|switch|p1a: Uselessness|Heatran, M|92/100
+|move|p2a: Metapod Breakdown|Stone Edge|p1a: Uselessness
+|-crit|p1a: Uselessness
+|-damage|p1a: Uselessness|42/100
+|
+|upkeep
+|turn|19
+|c| desal|Goddam
+|
+|t:|1641698916
+|move|p1a: Uselessness|Earth Power|p2a: Metapod Breakdown
+|-resisted|p2a: Metapod Breakdown
+|-crit|p2a: Metapod Breakdown
+|-damage|p2a: Metapod Breakdown|34/100
+|move|p2a: Metapod Breakdown|Earthquake|p1a: Uselessness
+|-supereffective|p1a: Uselessness
+|-damage|p1a: Uselessness|0 fnt
+|faint|p1a: Uselessness
+|-ability|p2a: Metapod Breakdown|Moxie|boost
+|-boost|p2a: Metapod Breakdown|atk|1
+|
+|upkeep
+|
+|t:|1641698927
+|switch|p1a: TiredofBeingTired|Weavile, F|100/100
+|-ability|p1a: TiredofBeingTired|Pressure
+|turn|20
+|
+|t:|1641698932
+|move|p1a: TiredofBeingTired|Fake Out|p2a: Metapod Breakdown
+|-damage|p2a: Metapod Breakdown|18/100
+|cant|p2a: Metapod Breakdown|flinch
+|
+|upkeep
+|turn|21
+|
+|t:|1641698937
+|move|p1a: TiredofBeingTired|Triple Axel|p2a: Metapod Breakdown
+|-damage|p2a: Metapod Breakdown|5/100
+|-hitcount|p2a: Metapod Breakdown|1
+|move|p2a: Metapod Breakdown|Brick Break|p1a: TiredofBeingTired
+|-supereffective|p1a: TiredofBeingTired
+|-damage|p1a: TiredofBeingTired|0 fnt
+|faint|p1a: TiredofBeingTired
+|-ability|p2a: Metapod Breakdown|Moxie|boost
+|-boost|p2a: Metapod Breakdown|atk|1
+|
+|upkeep
+|
+|t:|1641698943
+|switch|p1a: Never Been Here|Togekiss, F, shiny|34/100
+|turn|22
+|c| desal|NOO
+|
+|t:|1641698949
+|move|p2a: Metapod Breakdown|Stone Edge|p1a: Never Been Here
+|-supereffective|p1a: Never Been Here
+|-damage|p1a: Never Been Here|0 fnt
+|faint|p1a: Never Been Here
+|-ability|p2a: Metapod Breakdown|Moxie|boost
+|-boost|p2a: Metapod Breakdown|atk|1
+|
+|upkeep
+|
+|t:|1641698951
+|switch|p1a: Has a Use|Golurk, shiny|100/100
+|turn|23
+|
+|t:|1641698964
+|move|p2a: Metapod Breakdown|Earthquake|p1a: Has a Use
+|-damage|p1a: Has a Use|12/100
+|move|p1a: Has a Use|Drain Punch|p2a: Metapod Breakdown
+|-resisted|p2a: Metapod Breakdown
+|-damage|p2a: Metapod Breakdown|0 fnt
+|-heal|p1a: Has a Use|14/100|[from] drain|[of] p2a: Metapod Breakdown
+|faint|p2a: Metapod Breakdown
+|
+|upkeep
+|
+|t:|1641698978
+|switch|p2a: KUNAI AND CHAIN|Arcanine, M|100/100
+|-damage|p2a: KUNAI AND CHAIN|76/100|[from] Stealth Rock
+|-ability|p2a: KUNAI AND CHAIN|Intimidate|boost
+|-unboost|p1a: Has a Use|atk|1
+|turn|24
+|
+|t:|1641698984
+|move|p2a: KUNAI AND CHAIN|Fire Fang|p1a: Has a Use
+|-damage|p1a: Has a Use|0 fnt
+|faint|p1a: Has a Use
+|
+|win|RuneTempest
+|c| desal|KUNAI AND CHAIN
+|l|☆The Young OG

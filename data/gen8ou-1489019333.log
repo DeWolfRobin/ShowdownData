@@ -1,0 +1,218 @@
+|j|☆Moon Empress
+|j|☆Ghidx
+|t:|1641847073
+|gametype|singles
+|player|p1|Moon Empress|aromalady|1429
+|player|p2|Ghidx|lucas|1478
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, F|
+|poke|p1|Kartana|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Melmetal|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Snorlax, M|
+|poke|p2|Froslass, F|
+|poke|p2|Bisharp, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Dragapult, M|
+|poke|p2|Heatran, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Moon Empress)
+|
+|t:|1641847088
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|1
+|
+|t:|1641847094
+|move|p1a: Urshifu|U-turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|84/100
+|
+|t:|1641847097
+|switch|p1a: Snorlax|Snorlax, M|100/100|[from]move: U-turn
+|move|p2a: Dragapult|Draco Meteor|p1a: Snorlax
+|-damage|p1a: Snorlax|52/100
+|-unboost|p2a: Dragapult|spa|2
+|
+|-heal|p1a: Snorlax|58/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641847106
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|move|p1a: Snorlax|Rock Slide|p2a: Zapdos
+|-damage|p2a: Zapdos|73/100
+|
+|-heal|p1a: Snorlax|65/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641847115
+|move|p2a: Zapdos|Thunderous Kick|p1a: Snorlax
+|-supereffective|p1a: Snorlax
+|-damage|p1a: Snorlax|0 fnt
+|faint|p1a: Snorlax
+|
+|upkeep
+|
+|t:|1641847126
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|4
+|
+|t:|1641847138
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|move|p1a: Urshifu|Surging Strikes|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|75/100
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|45/100
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|16/100
+|-hitcount|p2a: Landorus|3
+|
+|-heal|p2a: Landorus|22/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641847150
+|move|p1a: Urshifu|Surging Strikes|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|1
+|
+|upkeep
+|
+|t:|1641847152
+|switch|p2a: Dragapult|Dragapult, M|84/100
+|turn|6
+|
+|t:|1641847162
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Melmetal
+|-damage|p1a: Melmetal|64/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641847174
+|move|p2a: Dragapult|Shadow Ball|p1a: Melmetal
+|-crit|p1a: Melmetal
+|-damage|p1a: Melmetal|12/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Dragapult
+|-damage|p2a: Dragapult|23/100
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-hitcount|p2: Dragapult|2
+|
+|upkeep
+|
+|t:|1641847182
+|switch|p2a: Zapdos|Zapdos-Galar|73/100
+|turn|8
+|
+|t:|1641847185
+|move|p2a: Zapdos|Brave Bird|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|-damage|p2a: Zapdos|67/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641847190
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|9
+|
+|t:|1641847193
+|move|p2a: Zapdos|Brave Bird|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-damage|p2a: Zapdos|32/100|[from] Recoil
+|
+|upkeep
+|inactive|Moon Empress has 120 seconds left.
+|
+|t:|1641847236
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|10
+|
+|t:|1641847242
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Weavile|Ice Shard|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|93/100
+|
+|-heal|p2a: Heatran|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Moon Empress has 120 seconds left.
+|
+|t:|1641847249
+|move|p1a: Weavile|Ice Shard|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|92/100
+|move|p2a: Heatran|Magma Storm|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|-heal|p2a: Heatran|98/100|[from] item: Leftovers
+|upkeep
+|inactive|Moon Empress has 120 seconds left.
+|
+|t:|1641847257
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|turn|12
+|
+|t:|1641847262
+|move|p1a: Landorus|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-damage|p1a: Landorus|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641847266
+|switch|p2a: Froslass|Froslass, F|100/100
+|turn|13
+|
+|t:|1641847277
+|switch|p1a: Kartana|Kartana|100/100
+|move|p2a: Froslass|Ice Beam|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|-message|Moon Empress forfeited.
+|
+|win|Ghidx
+|raw|Moon Empress's rating: 1429 &rarr; <strong>1412</strong><br />(-17 for losing)
+|raw|Ghidx's rating: 1478 &rarr; <strong>1495</strong><br />(+17 for winning)
+|l|☆Moon Empress

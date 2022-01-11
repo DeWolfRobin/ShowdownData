@@ -1,0 +1,428 @@
+|j|☆PokemonFanboys
+|j|☆kmj31
+|t:|1641714792
+|gametype|singles
+|player|p1|PokemonFanboys|nate|1493
+|player|p2|kmj31|n|1595
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Tangrowth, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Tapu Bulu|
+|poke|p1|Garchomp, M|
+|poke|p1|Mandibuzz, F|
+|poke|p2|Hydreigon, F|
+|poke|p2|Azumarill, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Tangrowth, M|
+|poke|p2|Zapdos|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PokemonFanboys)
+|inactive|PokemonFanboys has 120 seconds left.
+|
+|t:|1641714823
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|1
+|
+|t:|1641714836
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp|[miss]
+|-miss|p2a: Zapdos|p1a: Garchomp
+|move|p1a: Garchomp|Rock Slide|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|63/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641714849
+|switch|p2a: Tangrowth|Tangrowth, M|100/100
+|move|p1a: Garchomp|Rock Slide|p2a: Tangrowth
+|-damage|p2a: Tangrowth|86/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641714856
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Tangrowth|Sleep Powder|p1a: Ferrothorn
+|-immune|p1a: Ferrothorn
+|
+|upkeep
+|turn|4
+|
+|t:|1641714866
+|move|p2a: Tangrowth|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|85/100
+|-damage|p2a: Tangrowth|74/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Tangrowth
+|move|p1a: Ferrothorn|Swords Dance|p1a: Ferrothorn
+|-boost|p1a: Ferrothorn|atk|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641714873
+|move|p2a: Tangrowth|Focus Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|11/100
+|move|p1a: Ferrothorn|Swords Dance|p1a: Ferrothorn
+|-boost|p1a: Ferrothorn|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1641714887
+|move|p2a: Tangrowth|Focus Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641714892
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|turn|7
+|
+|t:|1641714900
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|move|p1a: Mandibuzz|Nasty Plot|p1a: Mandibuzz
+|-boost|p1a: Mandibuzz|spa|2
+|
+|upkeep
+|turn|8
+|c|☆kmj31|什么地雷配置
+|
+|t:|1641714929
+|move|p1a: Mandibuzz|Nasty Plot|p1a: Mandibuzz
+|-boost|p1a: Mandibuzz|spa|2
+|move|p2a: Corviknight|Taunt|p1a: Mandibuzz
+|-start|p1a: Mandibuzz|move: Taunt
+|
+|upkeep
+|turn|9
+|
+|t:|1641714934
+|move|p1a: Mandibuzz|Dark Pulse|p2a: Corviknight
+|-damage|p2a: Corviknight|10/100
+|cant|p2a: Corviknight|flinch
+|
+|-heal|p2a: Corviknight|16/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641714939
+|move|p1a: Mandibuzz|Air Slash|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641714944
+|switch|p2a: Zapdos|Zapdos|63/100
+|turn|11
+|
+|t:|1641714950
+|move|p1a: Mandibuzz|Dark Pulse|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-end|p1a: Mandibuzz|move: Taunt
+|upkeep
+|
+|t:|1641714964
+|switch|p2a: Azumarill|Azumarill, M|100/100
+|turn|12
+|
+|t:|1641714968
+|move|p1a: Mandibuzz|Air Slash|p2a: Azumarill
+|-damage|p2a: Azumarill|5/100
+|-enditem|p2a: Azumarill|Aguav Berry|[eat]
+|-heal|p2a: Azumarill|38/100|[from] item: Aguav Berry
+|move|p2a: Azumarill|Play Rough|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|21/100
+|-ability|p1a: Mandibuzz|Weak Armor|boost
+|-unboost|p1a: Mandibuzz|def|1
+|-boost|p1a: Mandibuzz|spe|2
+|
+|upkeep
+|turn|13
+|
+|t:|1641714976
+|move|p2a: Azumarill|Aqua Jet|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|3/100
+|-ability|p1a: Mandibuzz|Weak Armor|boost
+|-unboost|p1a: Mandibuzz|def|1
+|-boost|p1a: Mandibuzz|spe|2
+|move|p1a: Mandibuzz|Air Slash|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|upkeep
+|
+|t:|1641714987
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|14
+|
+|t:|1641714991
+|move|p1a: Mandibuzz|Air Slash|p2a: Hydreigon
+|-damage|p2a: Hydreigon|9/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|-heal|p2a: Hydreigon|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641715003
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|15
+|
+|t:|1641715008
+|move|p1a: Heatran|Heat Crash|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|1/100
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|52/100
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|-heal|p2a: Hydreigon|58/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641715017
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|100/100
+|-singleturn|p2a: Hydreigon|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1641715020
+|switch|p2a: Tangrowth|Tangrowth, M|100/100
+|move|p1a: Garchomp|Poison Jab|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|69/100
+|-status|p2a: Tangrowth|psn
+|-damage|p1a: Garchomp|84/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|
+|-damage|p2a: Tangrowth|57/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641715027
+|switch|p1a: Tangrowth|Tangrowth, F|100/100
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|
+|upkeep
+|turn|19
+|
+|t:|1641715032
+|switch|p2a: Tangrowth|Tangrowth, M|90/100 psn
+|move|p1a: Tangrowth|Brick Break|p2a: Tangrowth
+|-damage|p2a: Tangrowth|79/100 psn
+|-damage|p1a: Tangrowth|84/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|
+|-damage|p2a: Tangrowth|66/100 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641715039
+|move|p1a: Tangrowth|Swords Dance|p1a: Tangrowth
+|-boost|p1a: Tangrowth|atk|2
+|move|p2a: Tangrowth|Knock Off|p1a: Tangrowth
+|-damage|p1a: Tangrowth|68/100
+|-enditem|p1a: Tangrowth|Coba Berry|[from] move: Knock Off|[of] p2a: Tangrowth
+|
+|-damage|p2a: Tangrowth|54/100 psn|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641715048
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|move|p1a: Tangrowth|Swords Dance|p1a: Tangrowth
+|-boost|p1a: Tangrowth|atk|2
+|
+|upkeep
+|turn|22
+|
+|t:|1641715053
+|move|p2a: Hydreigon|Dark Pulse|p1a: Tangrowth
+|-damage|p1a: Tangrowth|3/100
+|move|p1a: Tangrowth|Brick Break|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1641715059
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|23
+|
+|t:|1641715063
+|switch|p1a: Tapu Bulu|Tapu Bulu|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tapu Bulu
+|move|p2a: Excadrill|Rapid Spin|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|83/100
+|-boost|p2a: Excadrill|spe|1
+|
+|-heal|p1a: Tapu Bulu|89/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1641715070
+|switch|p1a: Garchomp|Garchomp, M|84/100
+|move|p2a: Excadrill|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|60/100
+|
+|-heal|p1a: Garchomp|66/100|[from] Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1641715075
+|move|p2a: Excadrill|Iron Head|p1a: Garchomp
+|-damage|p1a: Garchomp|24/100
+|-damage|p2a: Excadrill|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|cant|p1a: Garchomp|flinch
+|
+|-heal|p2a: Excadrill|94/100|[from] Grassy Terrain
+|-heal|p2a: Excadrill|99/100|[from] item: Leftovers
+|-heal|p1a: Garchomp|30/100|[from] Grassy Terrain
+|upkeep
+|turn|26
+|
+|t:|1641715078
+|move|p2a: Excadrill|Iron Head|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Excadrill|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Excadrill|94/100|[from] Grassy Terrain
+|-heal|p2a: Excadrill|99/100|[from] item: Leftovers
+|upkeep
+|c|☆PokemonFanboys|ur so good
+|
+|t:|1641715085
+|switch|p1a: Tangrowth|Tangrowth, F|36/100
+|turn|27
+|
+|t:|1641715088
+|switch|p1a: Tapu Bulu|Tapu Bulu|89/100
+|move|p2a: Excadrill|Iron Head|p1a: Tapu Bulu
+|-supereffective|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|10/100
+|
+|-heal|p2a: Excadrill|100/100|[from] Grassy Terrain
+|-heal|p1a: Tapu Bulu|16/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1641715095
+|move|p2a: Excadrill|Iron Head|p1a: Tapu Bulu
+|-supereffective|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|0 fnt
+|faint|p1a: Tapu Bulu
+|
+|upkeep
+|
+|t:|1641715099
+|switch|p1a: Tangrowth|Tangrowth, F|70/100
+|turn|29
+|
+|t:|1641715111
+|move|p2a: Excadrill|Iron Head|p1a: Tangrowth
+|-damage|p1a: Tangrowth|34/100
+|move|p1a: Tangrowth|Power Whip|p2a: Excadrill
+|-damage|p2a: Excadrill|17/100
+|
+|-heal|p2a: Excadrill|23/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641715118
+|move|p2a: Excadrill|Iron Head|p1a: Tangrowth
+|-damage|p1a: Tangrowth|1/100
+|move|p1a: Tangrowth|Power Whip|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1641715121
+|switch|p2a: Tangrowth|Tangrowth, M|87/100 psn
+|turn|31
+|
+|t:|1641715131
+|move|p1a: Tangrowth|Rock Slide|p2a: Tangrowth
+|-damage|p2a: Tangrowth|75/100 psn
+|move|p2a: Tangrowth|Knock Off|p1a: Tangrowth
+|-damage|p1a: Tangrowth|0 fnt
+|faint|p1a: Tangrowth
+|
+|-damage|p2a: Tangrowth|63/100 psn|[from] psn
+|upkeep
+|
+|t:|1641715135
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|32
+|
+|t:|1641715137
+|move|p1a: Heatran|Heat Crash|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|29/100 psn
+|-damage|p1a: Heatran|84/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|move|p2a: Tangrowth|Sleep Powder|p1a: Heatran
+|-status|p1a: Heatran|slp|[from] move: Sleep Powder
+|
+|-damage|p2a: Tangrowth|17/100 psn|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641715145
+|cant|p1a: Heatran|slp
+|move|p2a: Tangrowth|Focus Blast|p1a: Heatran|[miss]
+|-miss|p2a: Tangrowth|p1a: Heatran
+|
+|-damage|p2a: Tangrowth|4/100 psn|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641715149
+|cant|p1a: Heatran|slp
+|move|p2a: Tangrowth|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|20/100 slp
+|
+|-damage|p2a: Tangrowth|0 fnt|[from] psn
+|faint|p2a: Tangrowth
+|
+|win|PokemonFanboys
+|upkeep
+|raw|PokemonFanboys's rating: 1470 &rarr; <strong>1497</strong><br />(+27 for winning)
+|raw|kmj31's rating: 1595 &rarr; <strong>1568</strong><br />(-27 for losing)
+|l|☆PokemonFanboys

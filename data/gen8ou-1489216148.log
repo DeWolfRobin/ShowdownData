@@ -1,0 +1,121 @@
+|j|☆nomura25
+|j|☆Erekt tile
+|t:|1641872392
+|gametype|singles
+|player|p1|nomura25|pokekid|1105
+|player|p2|Erekt tile|1|1076
+|teamsize|p1|6
+|teamsize|p2|2
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pikachu, M|
+|poke|p1|Azumarill, F|
+|poke|p1|Butterfree, F|
+|poke|p1|Gardevoir, F|
+|poke|p1|Flygon, M|
+|poke|p1|Whimsicott, F|
+|poke|p2|Buzzwole|
+|poke|p2|Uxie|
+|teampreview
+|
+|t:|1641872399
+|start
+|switch|p1a: Gardevoir|Gardevoir, F|100/100
+|switch|p2a: Uxie|Uxie|100/100
+|-ability|p1a: Gardevoir|Levitate|[from] ability: Trace|[of] p2a: Uxie
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Erekt tile)
+|
+|t:|1641872409
+|move|p2a: Uxie|Light Screen|p2a: Uxie
+|-sidestart|p2: Erekt tile|move: Light Screen
+|move|p1a: Gardevoir|Light Screen|p1a: Gardevoir
+|-sidestart|p1: nomura25|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1641872415
+|move|p2a: Uxie|Reflect|p2a: Uxie
+|-sidestart|p2: Erekt tile|Reflect
+|move|p1a: Gardevoir|Reflect|p1a: Gardevoir
+|-sidestart|p1: nomura25|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1641872423
+|move|p2a: Uxie|Protect|p2a: Uxie
+|-singleturn|p2a: Uxie|Protect
+|move|p1a: Gardevoir|Memento|p2a: Uxie
+|-activate|p2a: Uxie|move: Protect
+|
+|upkeep
+|turn|4
+|
+|t:|1641872434
+|move|p2a: Uxie|Memento|p1a: Gardevoir
+|-unboost|p1a: Gardevoir|atk|2
+|-unboost|p1a: Gardevoir|spa|2
+|faint|p2a: Uxie
+|move|p1a: Gardevoir|Memento|p2: Uxie|[notarget]
+|-fail|p1a: Gardevoir
+|
+|upkeep
+|
+|t:|1641872442
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|5
+|
+|t:|1641872447
+|move|p1a: Gardevoir|Memento|p2a: Buzzwole
+|-unboost|p2a: Buzzwole|atk|2
+|-unboost|p2a: Buzzwole|spa|2
+|faint|p1a: Gardevoir
+|move|p2a: Buzzwole|Darkest Lariat|p1: Gardevoir|[notarget]
+|-fail|p2a: Buzzwole
+|
+|-sideend|p2: Erekt tile|move: Light Screen
+|upkeep
+|
+|t:|1641872466
+|switch|p1a: Butterfree|Butterfree, F|100/100
+|turn|6
+|
+|t:|1641872471
+|move|p1a: Butterfree|Sleep Powder|p2a: Buzzwole
+|-status|p2a: Buzzwole|slp|[from] move: Sleep Powder
+|cant|p2a: Buzzwole|slp
+|
+|-sideend|p2: Erekt tile|Reflect
+|upkeep
+|turn|7
+|
+|t:|1641872479
+|move|p1a: Butterfree|Substitute|p1a: Butterfree
+|-start|p1a: Butterfree|Substitute
+|-damage|p1a: Butterfree|76/100
+|cant|p2a: Buzzwole|slp
+|
+|-heal|p1a: Butterfree|82/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641872489
+|move|p1a: Butterfree|Hurricane|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|faint|p2a: Buzzwole
+|
+|win|nomura25
+|raw|nomura25's rating: 1105 &rarr; <strong>1128</strong><br />(+23 for winning)
+|raw|Erekt tile's rating: 1076 &rarr; <strong>1056</strong><br />(-20 for losing)

@@ -1,0 +1,235 @@
+|j|☆KiteBalmungh
+|j|☆Lalou1919
+|t:|1641724798
+|gametype|singles
+|player|p1|KiteBalmungh|red|1271
+|player|p2|Lalou1919|102|1284
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Clefable, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Magnezone|
+|poke|p1|Rillaboom, F|
+|poke|p1|Volcarona, F|
+|poke|p2|Ribombee, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Cloyster, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Scizor, M|
+|poke|p2|Volcarona, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KiteBalmungh)
+|j| Zorkan123
+|
+|t:|1641724824
+|start
+|switch|p1a: Magnezone|Magnezone|100/100
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|1
+|
+|t:|1641724832
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Magnezone|Flash Cannon|p2a: Garchomp
+|-enditem|p2a: Garchomp|Focus Sash
+|-damage|p2a: Garchomp|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641724841
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|-ability|p2a: Zapdos|Defiant
+|-boost|p2a: Zapdos|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641724853
+|move|p2a: Zapdos|Drill Peck|p1a: Landorus
+|-damage|p1a: Landorus|49/100
+|move|p1a: Landorus|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: Lalou1919|move: Stealth Rock
+|
+|-heal|p1a: Landorus|55/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641724866
+|move|p2a: Zapdos|Thunderous Kick|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|22/100
+|-unboost|p1a: Landorus|def|1
+|move|p1a: Landorus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|95/100
+|
+|t:|1641724879
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|5
+|l| Zorkan123
+|
+|t:|1641724889
+|move|p1a: Dragapult|Psychic Fangs|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641724896
+|switch|p2a: Ribombee|Ribombee, F|100/100
+|-damage|p2a: Ribombee|76/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641724903
+|switch|p1a: Magnezone|Magnezone|100/100
+|move|p2a: Ribombee|Sticky Web|p1a: Magnezone
+|-sidestart|p1: KiteBalmungh|move: Sticky Web
+|
+|upkeep
+|turn|7
+|
+|t:|1641724912
+|switch|p2a: Garchomp|Garchomp, M|1/100
+|-damage|p2a: Garchomp|0 fnt|[from] Stealth Rock
+|faint|p2a: Garchomp
+|move|p1a: Magnezone|Volt Switch|p2: Garchomp|[notarget]
+|-fail|p1a: Magnezone
+|
+|upkeep
+|
+|t:|1641724923
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|turn|8
+|
+|t:|1641724926
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Magnezone|Volt Switch|p2a: Volcarona
+|-damage|p2a: Volcarona|49/100
+|
+|t:|1641724952
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: Volt Switch
+|-activate|p1a: Dragapult|move: Sticky Web
+|-unboost|p1a: Dragapult|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641724962
+|move|p2a: Volcarona|Fiery Dance|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|55/100
+|-boost|p2a: Volcarona|spa|1
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|upkeep
+|turn|10
+|
+|t:|1641724973
+|switch|p2a: Ribombee|Ribombee, F|76/100
+|-damage|p2a: Ribombee|51/100|[from] Stealth Rock
+|move|p1a: Dragapult|Phantom Force|p2a: Ribombee|[from]lockedmove
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|upkeep
+|
+|t:|1641724984
+|switch|p2a: Scizor|Scizor, M|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641724992
+|switch|p1a: Magnezone|Magnezone|100/100
+|-activate|p1a: Magnezone|move: Sticky Web
+|-unboost|p1a: Magnezone|spe|1
+|move|p2a: Scizor|Bullet Punch|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|91/100
+|-damage|p2a: Scizor|78/100|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1641725003
+|move|p2a: Scizor|Sand Tomb|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|7/100
+|-activate|p1a: Magnezone|move: Sand Tomb|[of] p2a: Scizor
+|-damage|p2a: Scizor|68/100|[from] item: Life Orb
+|move|p1a: Magnezone|Thunderbolt|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|-end|p1a: Magnezone|Sand Tomb|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641725013
+|switch|p2a: Volcarona|Volcarona, M|49/100
+|turn|13
+|
+|t:|1641725017
+|move|p2a: Volcarona|Fiery Dance|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|upkeep
+|
+|t:|1641725032
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|turn|14
+|
+|t:|1641725038
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Volcarona|Fiery Dance|p2a: Volcarona
+|-damage|p2a: Volcarona|19/100
+|-boost|p1a: Volcarona|spa|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641725050
+|move|p2a: Volcarona|Giga Drain|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|90/100
+|-heal|p2a: Volcarona|25/100|[from] drain|[of] p1a: Volcarona
+|move|p1a: Volcarona|Fiery Dance|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|-message|Lalou1919 forfeited.
+|
+|win|KiteBalmungh
+|raw|KiteBalmungh's rating: 1271 &rarr; <strong>1297</strong><br />(+26 for winning)
+|raw|Lalou1919's rating: 1284 &rarr; <strong>1258</strong><br />(-26 for losing)
+|l|☆Lalou1919
+|l|☆KiteBalmungh
+|j|☆KiteBalmungh
+|player|p1|KiteBalmungh|red
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by KiteBalmungh)

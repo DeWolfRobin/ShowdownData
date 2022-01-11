@@ -1,0 +1,281 @@
+|j|☆Vennoxdark
+|j|☆KobraXv
+|t:|1641888481
+|gametype|singles
+|player|p1|Vennoxdark|169|
+|player|p2|KobraXv|265|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gengar, F|
+|poke|p1|Charizard, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Zeraora|
+|poke|p1|Mew|
+|poke|p2|Mew|
+|poke|p2|Scizor, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Corviknight, F|
+|teampreview
+|c|☆KobraXv|Finally
+|n|☆Vennoxdark|vennoxdark
+|c|☆KobraXv|BRO DO
+|c|☆KobraXv|neg
+|c|☆KobraXv|nigge
+|n|‽KobraXv|kobraxv
+|
+|t:|1641888600
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|1
+|
+|t:|1641888627
+|move|p1a: Urshifu|Aura Sphere|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|move|p2a: Corviknight|Body Press|p1a: Urshifu
+|-damage|p1a: Urshifu|76/100
+|
+|-heal|p2a: Corviknight|88/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641888638
+|move|p1a: Urshifu|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|46/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|move|p2a: Corviknight|Body Press|p1a: Urshifu
+|-damage|p1a: Urshifu|41/100
+|
+|-heal|p2a: Corviknight|53/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641888648
+|move|p1a: Urshifu|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|15/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|65/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|71/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641888659
+|move|p1a: Urshifu|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|29/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|move|p2a: Corviknight|Body Press|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|-heal|p2a: Corviknight|35/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641888670
+|switch|p1a: Gengar|Gengar, F|100/100
+|turn|5
+|
+|t:|1641888703
+|switch|p1a: Charizard|Charizard, F|100/100
+|move|p2a: Corviknight|U-turn|p1a: Charizard
+|-resisted|p1a: Charizard
+|-damage|p1a: Charizard|95/100
+|
+|t:|1641888716
+|switch|p2a: Dragonite|Dragonite, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1641888743
+|move|p1a: Charizard|Outrage|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|66/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-heal|p2a: Dragonite|72/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641888779
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Charizard
+|-damage|p1a: Charizard|46/100
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|-hitcount|p1: Charizard|2
+|
+|-heal|p2a: Dragonite|78/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641888788
+|switch|p1a: Gengar|Gengar, F|100/100
+|turn|8
+|
+|t:|1641888795
+|move|p2a: Dragonite|Earthquake|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|-heal|p2a: Dragonite|84/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641888820
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|turn|9
+|
+|t:|1641888847
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Garchomp
+|-damage|p1a: Garchomp|68/100
+|-damage|p2a: Dragonite|72/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-damage|p1a: Garchomp|36/100
+|-damage|p2a: Dragonite|60/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-hitcount|p1a: Garchomp|2
+|move|p1a: Garchomp|Draco Meteor|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-unboost|p1a: Garchomp|spa|2
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641888862
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|10
+|
+|t:|1641888870
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Pelipper|Scald|p1a: Zeraora
+|-damage|p1a: Zeraora|52/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zeraora|58/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641888881
+|move|p1a: Zeraora|Discharge|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zeraora|64/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641888890
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|turn|12
+|
+|t:|1641888897
+|move|p2a: Barraskewda|Close Combat|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|faint|p1a: Zeraora
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641888908
+|switch|p1a: Mew|Mew|100/100
+|turn|13
+|
+|t:|1641888914
+|move|p2a: Barraskewda|Aqua Jet|p1a: Mew
+|-damage|p1a: Mew|71/100
+|move|p1a: Mew|Toxic|p2a: Barraskewda
+|-status|p2a: Barraskewda|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641888922
+|move|p2a: Barraskewda|Close Combat|p1a: Mew
+|-resisted|p1a: Mew
+|-damage|p1a: Mew|52/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|move|p1a: Mew|Dragon Dance|p1a: Mew
+|-boost|p1a: Mew|atk|1
+|-boost|p1a: Mew|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|82/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641888932
+|move|p1a: Mew|Protect|p1a: Mew
+|-singleturn|p1a: Mew|Protect
+|move|p2a: Barraskewda|Liquidation|p1a: Mew
+|-activate|p1a: Mew|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|64/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641888957
+|move|p2a: Barraskewda|Liquidation|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|40/100 tox|[from] psn
+|upkeep
+|
+|t:|1641888963
+|switch|p1a: Garchomp|Garchomp, F|36/100
+|turn|17
+|
+|t:|1641888980
+|move|p2a: Barraskewda|Aqua Jet|p1a: Garchomp
+|-damage|p1a: Garchomp|4/100
+|-damage|p2a: Barraskewda|27/100 tox|[from] ability: Rough Skin|[of] p1a: Garchomp
+|move|p1a: Garchomp|Draco Meteor|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|-unboost|p1a: Garchomp|spa|2
+|faint|p2a: Barraskewda
+|
+|-weather|none
+|upkeep
+|
+|t:|1641888992
+|switch|p2a: Corviknight|Corviknight, F|35/100
+|-ability|p2a: Corviknight|Pressure
+|turn|18
+|
+|t:|1641889001
+|move|p1a: Garchomp|Fire Blast|p2a: Corviknight|[miss]
+|-miss|p1a: Garchomp|p2a: Corviknight
+|move|p2a: Corviknight|Body Press|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Corviknight|23/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|win|KobraXv

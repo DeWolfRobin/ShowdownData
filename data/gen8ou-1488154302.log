@@ -1,0 +1,131 @@
+|j|☆Celsius44
+|j|☆lei_qie_er
+|t:|1641723382
+|gametype|singles
+|player|p1|Celsius44|102|1116
+|player|p2|lei_qie_er|169|1094
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Bisharp, M|
+|poke|p1|Alakazam, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Swampert, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Volcanion|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Blastoise, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Celsius44)
+|
+|t:|1641723399
+|start
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|turn|1
+|
+|t:|1641723420
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|2
+|
+|t:|1641723433
+|move|p2a: Blastoise|Surf|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|
+|t:|1641723445
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|turn|3
+|
+|t:|1641723451
+|move|p2a: Blastoise|Earthquake|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|55/100
+|move|p1a: Crawdaunt|Endeavor|p2a: Blastoise
+|-damage|p2a: Blastoise|61/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641723467
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|move|p1a: Crawdaunt|Endeavor|p2a: Blastoise
+|-immune|p2a: Blastoise
+|
+|upkeep
+|turn|5
+|
+|t:|1641723491
+|move|p2a: Blastoise|Earthquake|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1641723498
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|turn|6
+|
+|t:|1641723502
+|move|p2a: Blastoise|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|31/100
+|move|p1a: Toxapex|Toxic|p2a: Blastoise
+|-status|p2a: Blastoise|tox
+|
+|-heal|p1a: Toxapex|38/100|[from] item: Black Sludge
+|-damage|p2a: Blastoise|55/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641723512
+|move|p2a: Blastoise|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-damage|p2a: Blastoise|43/100 tox|[from] psn
+|upkeep
+|-message|Celsius44 forfeited.
+|
+|win|lei_qie_er
+|raw|Celsius44's rating: 1116 &rarr; <strong>1089</strong><br />(-27 for losing)
+|raw|lei_qie_er's rating: 1094 &rarr; <strong>1122</strong><br />(+28 for winning)
+|l|☆Celsius44
+|l|☆lei_qie_er
+|j|☆lei_qie_er
+|player|p2|lei_qie_er|169

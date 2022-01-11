@@ -1,0 +1,385 @@
+|j|☆ransir
+|j|☆zachydachy326
+|t:|1641723042
+|gametype|singles
+|player|p1|ransir|170|1370
+|player|p2|zachydachy326|101|1351
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Weavile, F|
+|poke|p1|Slowking, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Clefable, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Garchomp, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zachydachy326)
+|
+|t:|1641723050
+|start
+|switch|p1a: ELIMINATOR|Zapdos|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|1
+|
+|t:|1641723067
+|switch|p1a: Pleisure|Ferrothorn, M|100/100
+|move|p2a: Garchomp|Toxic|p1a: Pleisure
+|-immune|p1a: Pleisure
+|
+|upkeep
+|turn|2
+|
+|t:|1641723075
+|move|p2a: Garchomp|Fire Blast|p1a: Pleisure
+|-supereffective|p1a: Pleisure
+|-damage|p1a: Pleisure|41/100
+|move|p1a: Pleisure|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: zachydachy326|move: Stealth Rock
+|
+|-heal|p1a: Pleisure|48/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641723088
+|move|p2a: Garchomp|Fire Blast|p1a: Pleisure
+|-supereffective|p1a: Pleisure
+|-damage|p1a: Pleisure|0 fnt
+|faint|p1a: Pleisure
+|
+|upkeep
+|
+|t:|1641723103
+|switch|p1a: enchantment|Slowking, M|100/100
+|turn|4
+|
+|t:|1641723115
+|move|p2a: Garchomp|Toxic|p1a: enchantment
+|-status|p1a: enchantment|tox
+|move|p1a: enchantment|Future Sight|p2a: Garchomp
+|-start|p1a: enchantment|move: Future Sight
+|
+|-damage|p1a: enchantment|94/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641723121
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|-damage|p2a: Hydreigon|88/100|[from] Stealth Rock
+|move|p1a: enchantment|Teleport|p1a: enchantment
+|
+|t:|1641723134
+|switch|p1a: glacier’s poetry|Weavile, F|100/100|[from]move: Teleport
+|
+|-heal|p2a: Hydreigon|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641723143
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: glacier’s poetry|Swords Dance|p1a: glacier’s poetry
+|-boost|p1a: glacier’s poetry|atk|2
+|
+|-end|p2a: Heatran|move: Future Sight
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|75/100
+|-heal|p2a: Heatran|81/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641723155
+|move|p1a: glacier’s poetry|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-enditem|p2a: Heatran|Leftovers|[from] move: Knock Off|[of] p1a: glacier’s poetry
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641723158
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641723163
+|move|p1a: glacier’s poetry|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|17/100
+|-enditem|p2a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p1a: glacier’s poetry
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|9
+|
+|t:|1641723174
+|move|p1a: glacier’s poetry|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641723182
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|10
+|
+|t:|1641723193
+|switch|p1a: Mandragora|Landorus-Therian, M|100/100
+|-ability|p1a: Mandragora|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641723206
+|move|p1a: Mandragora|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|93/100
+|
+|t:|1641723213
+|switch|p1a: FAKE LIFE|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|99/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641723230
+|move|p1a: FAKE LIFE|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|91/100
+|
+|t:|1641723249
+|switch|p1a: ELIMINATOR|Zapdos|100/100|[from]move: U-turn
+|move|p2a: Clefable|Stored Power|p1a: ELIMINATOR
+|-damage|p1a: ELIMINATOR|77/100
+|
+|-heal|p2a: Clefable|97/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641723258
+|move|p1a: ELIMINATOR|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|80/100
+|
+|t:|1641723265
+|switch|p1a: glacier’s poetry|Weavile, F|100/100|[from]move: Volt Switch
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|86/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641723275
+|move|p1a: glacier’s poetry|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|76/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: glacier’s poetry
+|move|p2a: Clefable|Charge Beam|p1a: glacier’s poetry
+|-damage|p1a: glacier’s poetry|86/100
+|-boost|p2a: Clefable|spa|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641723285
+|move|p1a: glacier’s poetry|Triple Axel|p2a: Clefable|[miss]
+|-miss|p1a: glacier’s poetry|p2a: Clefable
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641723292
+|move|p1a: glacier’s poetry|Triple Axel|p2a: Clefable
+|-damage|p2a: Clefable|72/100
+|-damage|p2a: Clefable|65/100
+|-damage|p2a: Clefable|56/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1641723308
+|switch|p1a: FAKE LIFE|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641723315
+|move|p1a: FAKE LIFE|Surging Strikes|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|73/100
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|44/100
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|16/100
+|-hitcount|p2a: Clefable|3
+|move|p2a: Clefable|Stored Power|p1a: FAKE LIFE
+|-supereffective|p1a: FAKE LIFE
+|-damage|p1a: FAKE LIFE|0 fnt
+|faint|p1a: FAKE LIFE
+|
+|upkeep
+|inactive|ransir has 120 seconds left.
+|
+|t:|1641723341
+|switch|p1a: glacier’s poetry|Weavile, F|86/100
+|turn|19
+|
+|t:|1641723346
+|move|p1a: glacier’s poetry|Triple Axel|p2a: Clefable
+|-damage|p2a: Clefable|13/100
+|-damage|p2a: Clefable|8/100
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-hitcount|p2: Clefable|3
+|
+|upkeep
+|
+|t:|1641723351
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|95/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641723358
+|switch|p1a: ELIMINATOR|Zapdos|77/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: ELIMINATOR
+|-start|p1a: ELIMINATOR|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p1a: ELIMINATOR|64/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|21
+|
+|t:|1641723367
+|move|p1a: ELIMINATOR|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|84/100
+|
+|t:|1641723371
+|switch|p1a: enchantment|Slowking, M|100/100 tox|[from]move: Volt Switch
+|move|p2a: Ferrothorn|Spikes|p1a: enchantment
+|-sidestart|p1: ransir|Spikes
+|
+|-heal|p2a: Ferrothorn|90/100|[from] item: Leftovers
+|-damage|p1a: enchantment|94/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641723383
+|move|p2a: Ferrothorn|Spikes|p1a: enchantment
+|-sidestart|p1: ransir|Spikes
+|move|p1a: enchantment|Teleport|p1a: enchantment
+|
+|t:|1641723386
+|switch|p1a: ELIMINATOR|Zapdos|64/100|[from]move: Teleport
+|
+|-heal|p2a: Ferrothorn|96/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641723391
+|move|p1a: ELIMINATOR|Heat Wave|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641723396
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641723406
+|switch|p1a: Mandragora|Landorus-Therian, M|100/100
+|-ability|p1a: Mandragora|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|move|p2a: Garchomp|Toxic|p1a: Mandragora
+|-status|p1a: Mandragora|tox
+|
+|-damage|p1a: Mandragora|94/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641723415
+|move|p2a: Garchomp|Stealth Rock|p1a: Mandragora
+|-sidestart|p1: ransir|move: Stealth Rock
+|move|p1a: Mandragora|Toxic|p2a: Garchomp
+|-status|p2a: Garchomp|tox
+|
+|-heal|p1a: Mandragora|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|88/100 tox|[from] psn
+|-damage|p1a: Mandragora|88/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641723429
+|move|p2a: Garchomp|Fire Blast|p1a: Mandragora|[miss]
+|-miss|p2a: Garchomp|p1a: Mandragora
+|move|p1a: Mandragora|Defog|p2a: Garchomp
+|-unboost|p2a: Garchomp|evasion|1
+|-sideend|p2: zachydachy326|Stealth Rock|[from] move: Defog|[of] p1a: Mandragora
+|-sideend|p1: ransir|Spikes|[from] move: Defog|[of] p1a: Mandragora
+|-sideend|p1: ransir|Stealth Rock|[from] move: Defog|[of] p1a: Mandragora
+|
+|-heal|p1a: Mandragora|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|76/100 tox|[from] psn
+|-damage|p1a: Mandragora|76/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641723442
+|move|p2a: Garchomp|Fire Blast|p1a: Mandragora
+|-damage|p1a: Mandragora|63/100 tox
+|move|p1a: Mandragora|Earthquake|p2a: Garchomp
+|-damage|p2a: Garchomp|33/100 tox
+|
+|-heal|p1a: Mandragora|69/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|15/100 tox|[from] psn
+|-damage|p1a: Mandragora|45/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641723453
+|switch|p2a: Hydreigon|Hydreigon, F|94/100
+|move|p1a: Mandragora|U-turn|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-crit|p2a: Hydreigon
+|-damage|p2a: Hydreigon|11/100
+|-message|zachydachy326 forfeited.
+|
+|win|ransir
+|raw|ransir's rating: 1370 &rarr; <strong>1389</strong><br />(+19 for winning)
+|raw|zachydachy326's rating: 1351 &rarr; <strong>1332</strong><br />(-19 for losing)
+|l|☆zachydachy326

@@ -1,0 +1,95 @@
+|j|☆Pok et glace
+|j|☆Kyerndo
+|t:|1641842205
+|gametype|singles
+|player|p1|Pok et glace|cynthia-gen4|1613
+|player|p2|Kyerndo|psychic|1613
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scizor, F|
+|poke|p1|Magnezone|
+|poke|p1|Tapu Fini|
+|poke|p1|Kartana|
+|poke|p1|Garchomp, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Volcarona, F|
+|poke|p2|Scizor, F|
+|poke|p2|Thundurus, M|
+|teampreview
+|
+|t:|1641842252
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|turn|1
+|
+|t:|1641842264
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Thundurus|Knock Off|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|48/100
+|-damage|p2a: Thundurus|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Leftovers|[from] move: Knock Off|[of] p2a: Thundurus
+|
+|upkeep
+|turn|2
+|
+|t:|1641842274
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Garchomp|Toxic|p2a: Tapu Fini
+|-activate|p2a: Tapu Fini|move: Misty Terrain
+|
+|upkeep
+|turn|3
+|c|☆Pok et glace|turn 1
+|
+|t:|1641842284
+|move|p2a: Tapu Fini|Moonblast|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641842292
+|switch|p1a: Kartana|Kartana|100/100
+|turn|4
+|c|☆Pok et glace|I am tired of losing because of crits and freezes
+|
+|t:|1641842309
+|move|p1a: Kartana|Sacred Sword|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|78/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|37/100
+|-unboost|p1a: Kartana|spa|1
+|
+|upkeep
+|turn|5
+|c|☆Pok et glace|stupid fucking play
+|-message|Pok et glace forfeited.
+|
+|win|Kyerndo
+|raw|Pok et glace's rating: 1613 &rarr; <strong>1593</strong><br />(-20 for losing)
+|raw|Kyerndo's rating: 1613 &rarr; <strong>1633</strong><br />(+20 for winning)
+|l|☆Pok et glace
+|c|☆Kyerndo|I have 3 4x leaf blade resists
+|j| hihhhi
+|l| hihhhi
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

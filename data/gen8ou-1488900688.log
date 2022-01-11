@@ -1,0 +1,131 @@
+|j|☆Kageyama(gasy)
+|j|☆EdPushing1500
+|t:|1641834637
+|gametype|singles
+|player|p1|Kageyama(gasy)|benga|1134
+|player|p2|EdPushing1500|2|1192
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Klefki, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Regieleki|
+|poke|p1|Pyukumuku, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kommo-o, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Virizion|
+|poke|p2|Tangrowth, F|
+|poke|p2|Rotom-Mow|
+|poke|p2|Kartana|
+|poke|p2|Abomasnow, F|
+|teampreview
+|
+|t:|1641834654
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Abomasnow|Abomasnow, F|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Abomasnow
+|turn|1
+|
+|t:|1641834660
+|move|p1a: Tapu Koko|Volt Switch|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|73/100
+|-damage|p1a: Tapu Koko|91/100|[from] item: Life Orb
+|
+|t:|1641834668
+|switch|p1a: Kommo-o|Kommo-o, M|100/100|[from]move: Volt Switch
+|move|p2a: Abomasnow|Aurora Veil|p2a: Abomasnow
+|-sidestart|p2: EdPushing1500|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Kommo-o|94/100|[from] Hail
+|-heal|p1a: Kommo-o|100/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641834678
+|move|p1a: Kommo-o|Drain Punch|p2a: Abomasnow
+|-supereffective|p2a: Abomasnow
+|-damage|p2a: Abomasnow|29/100
+|move|p2a: Abomasnow|Blizzard|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641834688
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|3
+|
+|t:|1641834692
+|move|p1a: Regieleki|Rising Voltage|p2a: Abomasnow
+|-resisted|p2a: Abomasnow
+|-damage|p2a: Abomasnow|0 fnt
+|faint|p2a: Abomasnow
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Regieleki|95/100|[from] Hail
+|upkeep
+|
+|t:|1641834695
+|switch|p2a: Virizion|Virizion|100/100
+|turn|4
+|
+|t:|1641834700
+|move|p1a: Regieleki|Rising Voltage|p2a: Virizion
+|-resisted|p2a: Virizion
+|-damage|p2a: Virizion|75/100
+|move|p2a: Virizion|Calm Mind|p2a: Virizion
+|-boost|p2a: Virizion|spa|1
+|-boost|p2a: Virizion|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Regieleki|89/100|[from] Hail
+|-damage|p2a: Virizion|69/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641834707
+|move|p1a: Regieleki|Rising Voltage|p2a: Virizion
+|-resisted|p2a: Virizion
+|-damage|p2a: Virizion|47/100
+|move|p2a: Virizion|Calm Mind|p2a: Virizion
+|-boost|p2a: Virizion|spa|1
+|-boost|p2a: Virizion|spd|1
+|
+|-weather|none
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641834713
+|move|p1a: Regieleki|Rising Voltage|p2a: Virizion
+|-resisted|p2a: Virizion
+|-damage|p2a: Virizion|40/100
+|move|p2a: Virizion|Giga Drain|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|-heal|p2a: Virizion|74/100|[from] drain|[of] p1a: Regieleki
+|faint|p1a: Regieleki
+|
+|upkeep
+|-message|Kageyama(gasy) forfeited.
+|
+|win|EdPushing1500
+|raw|Kageyama(gasy)'s rating: 1134 &rarr; <strong>1113</strong><br />(-21 for losing)
+|raw|EdPushing1500's rating: 1192 &rarr; <strong>1213</strong><br />(+21 for winning)
+|l|☆Kageyama(gasy)

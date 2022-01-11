@@ -1,0 +1,405 @@
+|j|☆Storm879
+|j|☆SuprBallr
+|t:|1641841471
+|gametype|singles
+|player|p1|Storm879|steven|1335
+|player|p2|SuprBallr|2|1384
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Terrakion|
+|poke|p1|Volcarona, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Azumarill, F|
+|poke|p1|Dragapult, F|
+|poke|p2|Buzzwole|
+|poke|p2|Electabuzz, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Blaziken, F|
+|poke|p2|Slowking-Galar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SuprBallr)
+|
+|t:|1641841492
+|start
+|switch|p1a: Terrakion|Terrakion|100/100
+|switch|p2a: The Buzz Jr|Mandibuzz, F|100/100
+|turn|1
+|
+|t:|1641841500
+|move|p1a: Terrakion|Stone Edge|p2a: The Buzz Jr|[miss]
+|-miss|p1a: Terrakion|p2a: The Buzz Jr
+|move|p2a: The Buzz Jr|Toxic|p1a: Terrakion
+|-status|p1a: Terrakion|tox
+|
+|-damage|p1a: Terrakion|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641841506
+|move|p1a: Terrakion|Stone Edge|p2a: The Buzz Jr|[miss]
+|-miss|p1a: Terrakion|p2a: The Buzz Jr
+|move|p2a: The Buzz Jr|U-turn|p1a: Terrakion
+|-resisted|p1a: Terrakion
+|-damage|p1a: Terrakion|88/100 tox
+|c|☆SuprBallr|Ur bas
+|c|☆SuprBallr|bad
+|
+|t:|1641841519
+|switch|p2a: The Buzz|Buzzwole|100/100|[from]move: U-turn
+|
+|-damage|p1a: Terrakion|76/100 tox|[from] psn
+|upkeep
+|turn|3
+|c|☆Storm879|lol
+|
+|t:|1641841538
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|move|p2a: The Buzz|Earthquake|p1a: Volcarona
+|-damage|p1a: Volcarona|68/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641841547
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: The Buzz Jr|Mandibuzz, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641841552
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Rotom|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|90/100
+|
+|t:|1641841564
+|switch|p1a: Terrakion|Terrakion|76/100 tox|[from]move: Volt Switch
+|
+|-damage|p1a: Terrakion|70/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641841578
+|switch|p2a: The Buzz|Buzzwole|100/100
+|move|p1a: Terrakion|Earthquake|p2a: The Buzz
+|-resisted|p2a: The Buzz
+|-damage|p2a: The Buzz|89/100
+|
+|-damage|p1a: Terrakion|57/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641841595
+|move|p1a: Terrakion|Earthquake|p2a: The Buzz
+|-resisted|p2a: The Buzz
+|-damage|p2a: The Buzz|75/100
+|move|p2a: The Buzz|Drain Punch|p1a: Terrakion
+|-supereffective|p1a: Terrakion
+|-crit|p1a: Terrakion
+|-damage|p1a: Terrakion|0 fnt
+|-heal|p2a: The Buzz|97/100|[from] drain|[of] p1a: Terrakion
+|faint|p1a: Terrakion
+|-ability|p2a: The Buzz|Beast Boost|boost
+|-boost|p2a: The Buzz|def|1
+|
+|upkeep
+|
+|t:|1641841606
+|switch|p1a: Volcarona|Volcarona, F|68/100
+|turn|8
+|
+|t:|1641841610
+|switch|p2a: The Buzz Jr|Mandibuzz, F|100/100
+|move|p1a: Volcarona|Flamethrower|p2a: The Buzz Jr
+|-damage|p2a: The Buzz Jr|71/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641841618
+|move|p1a: Volcarona|Safeguard|p1a: Volcarona
+|-sidestart|p1: Storm879|Safeguard
+|move|p2a: The Buzz Jr|Toxic|p1a: Volcarona
+|-activate|p1a: Volcarona|move: Safeguard
+|
+|upkeep
+|turn|10
+|
+|t:|1641841630
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: The Buzz III|Electabuzz, M|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641841636
+|move|p2a: The Buzz III|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|move|p1a: Ferrothorn|Knock Off|p2a: The Buzz III
+|-damage|p2a: The Buzz III|68/100
+|-enditem|p2a: The Buzz III|Light Clay|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|12
+|
+|t:|1641841645
+|move|p2a: The Buzz III|Reflect|p2a: The Buzz III
+|-sidestart|p2: SuprBallr|Reflect
+|move|p1a: Ferrothorn|Power Whip|p2a: The Buzz III
+|-damage|p2a: The Buzz III|36/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641841650
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: The Buzz III|Light Screen|p2a: The Buzz III
+|-sidestart|p2: SuprBallr|move: Light Screen
+|
+|-sideend|p1: Storm879|Safeguard
+|upkeep
+|turn|14
+|
+|t:|1641841656
+|move|p1a: Rotom|Defog|p2a: The Buzz III
+|-unboost|p2a: The Buzz III|evasion|1
+|-sideend|p2: SuprBallr|Reflect
+|-sideend|p2: SuprBallr|move: Light Screen
+|move|p2a: The Buzz III|Teleport|p2a: The Buzz III
+|
+|t:|1641841663
+|switch|p2a: Slowking|Slowking-Galar, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|15
+|
+|t:|1641841671
+|move|p1a: Rotom|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|90/100
+|
+|t:|1641841674
+|switch|p1a: Volcarona|Volcarona, F|68/100|[from]move: Volt Switch
+|move|p2a: Slowking|Future Sight|p1a: Volcarona
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|16
+|
+|t:|1641841681
+|switch|p2a: The Buzzer|Volcarona, F|100/100
+|move|p1a: Volcarona|Safeguard|p1a: Volcarona
+|-sidestart|p1: Storm879|Safeguard
+|
+|upkeep
+|turn|17
+|
+|t:|1641841691
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: The Buzzer|Quiver Dance|p2a: The Buzzer
+|-boost|p2a: The Buzzer|spa|1
+|-boost|p2a: The Buzzer|spd|1
+|-boost|p2a: The Buzzer|spe|1
+|
+|-end|p1a: Volcarona|move: Future Sight
+|-damage|p1a: Volcarona|42/100
+|upkeep
+|turn|18
+|
+|t:|1641841701
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: The Buzzer|Flamethrower|p1a: Volcarona
+|-damage|p1a: Volcarona|16/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641841709
+|move|p1a: Volcarona|Roost|p1a: Volcarona
+|-heal|p1a: Volcarona|66/100
+|-singleturn|p1a: Volcarona|move: Roost
+|move|p2a: The Buzzer|Flamethrower|p1a: Volcarona
+|-damage|p1a: Volcarona|39/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641841714
+|move|p1a: Volcarona|Flamethrower|p2a: The Buzzer
+|-damage|p2a: The Buzzer|51/100
+|move|p2a: The Buzzer|Quiver Dance|p2a: The Buzzer
+|-boost|p2a: The Buzzer|spa|1
+|-boost|p2a: The Buzzer|spd|1
+|-boost|p2a: The Buzzer|spe|1
+|
+|-sideend|p1: Storm879|Safeguard
+|upkeep
+|turn|21
+|
+|t:|1641841721
+|move|p1a: Volcarona|Flamethrower|p2a: The Buzzer
+|-damage|p2a: The Buzzer|18/100
+|move|p2a: The Buzzer|Flamethrower|p1a: Volcarona
+|-damage|p1a: Volcarona|3/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641841731
+|switch|p2a: The Buzz III|Electabuzz, M|36/100
+|move|p1a: Volcarona|Flamethrower|p2a: The Buzz III
+|-damage|p2a: The Buzz III|0 fnt
+|faint|p2a: The Buzz III
+|
+|upkeep
+|
+|t:|1641841736
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|23
+|
+|t:|1641841739
+|move|p1a: Volcarona|Roost|p1a: Volcarona
+|-heal|p1a: Volcarona|53/100
+|-singleturn|p1a: Volcarona|move: Roost
+|move|p2a: Slowking|Sludge Bomb|p1a: Volcarona
+|-damage|p1a: Volcarona|37/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641841746
+|move|p1a: Volcarona|Safeguard|p1a: Volcarona
+|-sidestart|p1: Storm879|Safeguard
+|move|p2a: Slowking|Future Sight|p1a: Volcarona
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|25
+|
+|t:|1641841750
+|move|p1a: Volcarona|Roost|p1a: Volcarona
+|-heal|p1a: Volcarona|87/100
+|-singleturn|p1a: Volcarona|move: Roost
+|move|p2a: Slowking|Sludge Bomb|p1a: Volcarona
+|-damage|p1a: Volcarona|72/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641841755
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Volcarona
+|-damage|p1a: Volcarona|59/100
+|
+|-end|p1a: Volcarona|move: Future Sight
+|-damage|p1a: Volcarona|43/100
+|upkeep
+|turn|27
+|
+|t:|1641841767
+|move|p1a: Volcarona|Roost|p1a: Volcarona
+|-heal|p1a: Volcarona|93/100
+|-singleturn|p1a: Volcarona|move: Roost
+|move|p2a: Slowking|Sludge Bomb|p1a: Volcarona
+|-damage|p1a: Volcarona|80/100
+|
+|upkeep
+|turn|28
+|
+|t:|1641841772
+|switch|p2a: The Buzz Jr|Mandibuzz, F|71/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-sideend|p1: Storm879|Safeguard
+|upkeep
+|turn|29
+|
+|t:|1641841780
+|move|p1a: Volcarona|Flamethrower|p2a: The Buzz Jr
+|-damage|p2a: The Buzz Jr|0 fnt
+|faint|p2a: The Buzz Jr
+|
+|upkeep
+|
+|t:|1641841786
+|switch|p2a: Buzziken|Blaziken, F|100/100
+|turn|30
+|
+|t:|1641841788
+|move|p1a: Volcarona|Flamethrower|p2a: Buzziken
+|-resisted|p2a: Buzziken
+|-damage|p2a: Buzziken|9/100
+|move|p2a: Buzziken|Flare Blitz|p1a: Volcarona
+|-damage|p1a: Volcarona|7/100
+|-damage|p2a: Buzziken|0 fnt|[from] Recoil
+|faint|p2a: Buzziken
+|
+|upkeep
+|
+|t:|1641841798
+|switch|p2a: The Buzz|Buzzwole|97/100
+|turn|31
+|
+|t:|1641841801
+|move|p1a: Volcarona|Flamethrower|p2a: The Buzz
+|-supereffective|p2a: The Buzz
+|-damage|p2a: The Buzz|0 fnt
+|faint|p2a: The Buzz
+|
+|upkeep
+|
+|t:|1641841804
+|switch|p2a: The Buzzer|Volcarona, F|18/100
+|turn|32
+|
+|t:|1641841807
+|move|p1a: Volcarona|Flamethrower|p2a: The Buzzer
+|-damage|p2a: The Buzzer|0 fnt
+|faint|p2a: The Buzzer
+|
+|upkeep
+|
+|t:|1641841808
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|33
+|
+|t:|1641841812
+|move|p1a: Volcarona|Flamethrower|p2a: Slowking
+|-damage|p2a: Slowking|48/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|upkeep
+|-message|SuprBallr forfeited.
+|
+|win|Storm879
+|raw|Storm879's rating: 1335 &rarr; <strong>1358</strong><br />(+23 for winning)
+|raw|SuprBallr's rating: 1384 &rarr; <strong>1361</strong><br />(-23 for losing)
+|l|☆SuprBallr
+|c|☆Storm879|gg
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

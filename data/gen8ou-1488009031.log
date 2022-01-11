@@ -1,0 +1,346 @@
+|j|☆Snakeisgoing2getu
+|j|☆SquiidBee
+|t:|1641696806
+|gametype|singles
+|player|p1|Snakeisgoing2getu|steven|
+|player|p2|SquiidBee|102|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Rhyperior, M|
+|poke|p1|Milotic, M|
+|poke|p1|Alakazam, M|
+|poke|p1|Salamence, M|
+|poke|p1|Magnezone|
+|poke|p2|Krookodile, M|
+|poke|p2|Conkeldurr, F|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Aegislash, F|
+|poke|p2|Reuniclus, F|
+|poke|p2|Heracross, M|
+|teampreview
+|
+|t:|1641696825
+|start
+|switch|p1a: Grimmsnarl|Grimmsnarl, M, shiny|100/100
+|switch|p2a: Beetle|Heracross, M, shiny|100/100
+|turn|1
+|
+|t:|1641696837
+|move|p1a: Grimmsnarl|Fake Out|p2a: Beetle
+|-damage|p2a: Beetle|81/100
+|cant|p2a: Beetle|flinch
+|
+|-heal|p2a: Beetle|87/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641696848
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Beetle
+|-status|p2a: Beetle|par
+|cant|p2a: Beetle|par
+|
+|-heal|p2a: Beetle|93/100 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641696859
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Beetle
+|-supereffective|p2a: Beetle
+|-damage|p2a: Beetle|0 fnt
+|faint|p2a: Beetle
+|
+|upkeep
+|
+|t:|1641696867
+|switch|p2a: Wee Wee|Conkeldurr, F, shiny|100/100
+|turn|4
+|
+|t:|1641696873
+|move|p1a: Grimmsnarl|Thunder Wave|p2a: Wee Wee
+|-status|p2a: Wee Wee|par
+|move|p2a: Wee Wee|Drain Punch|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|40/100
+|
+|-heal|p1a: Grimmsnarl|46/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641696883
+|move|p1a: Grimmsnarl|Spirit Break|p2a: Wee Wee
+|-supereffective|p2a: Wee Wee
+|-damage|p2a: Wee Wee|38/100 par
+|-unboost|p2a: Wee Wee|spa|1
+|-enditem|p2a: Wee Wee|Sitrus Berry|[eat]
+|-heal|p2a: Wee Wee|63/100 par|[from] item: Sitrus Berry
+|move|p2a: Wee Wee|Drain Punch|p1a: Grimmsnarl
+|-crit|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|-heal|p2a: Wee Wee|84/100 par|[from] drain|[of] p1a: Grimmsnarl
+|faint|p1a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1641696901
+|switch|p1a: Alakazam|Alakazam, M, shiny|100/100
+|turn|6
+|
+|t:|1641696907
+|move|p2a: Wee Wee|Mach Punch|p1a: Alakazam
+|-resisted|p1a: Alakazam
+|-damage|p1a: Alakazam|63/100
+|move|p1a: Alakazam|Psychic|p2a: Wee Wee
+|-supereffective|p2a: Wee Wee
+|-crit|p2a: Wee Wee
+|-damage|p2a: Wee Wee|0 fnt
+|faint|p2a: Wee Wee
+|
+|upkeep
+|
+|t:|1641696920
+|switch|p2a: Krookodiie|Krookodile, M, shiny|100/100
+|turn|7
+|
+|t:|1641696928
+|move|p2a: Krookodiie|Throat Chop|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|-ability|p2a: Krookodiie|Moxie|boost
+|-boost|p2a: Krookodiie|atk|1
+|
+|upkeep
+|
+|t:|1641696935
+|switch|p1a: Rhyperior|Rhyperior, M, shiny|100/100
+|turn|8
+|
+|t:|1641696943
+|move|p2a: Krookodiie|Aqua Tail|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|15/100
+|move|p1a: Rhyperior|Hammer Arm|p2a: Krookodiie
+|-supereffective|p2a: Krookodiie
+|-damage|p2a: Krookodiie|0 fnt
+|-unboost|p1a: Rhyperior|spe|1
+|faint|p2a: Krookodiie
+|
+|upkeep
+|
+|t:|1641696952
+|switch|p2a: Kherpi|Crawdaunt, M, shiny|100/100
+|turn|9
+|
+|t:|1641696956
+|move|p2a: Kherpi|Aqua Jet|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|faint|p1a: Rhyperior
+|
+|upkeep
+|
+|t:|1641696964
+|switch|p1a: Magnezone|Magnezone, shiny|100/100
+|-item|p1a: Magnezone|Air Balloon
+|turn|10
+|
+|t:|1641696972
+|move|p2a: Kherpi|Swords Dance|p2a: Kherpi
+|-boost|p2a: Kherpi|atk|2
+|move|p1a: Magnezone|Thunderbolt|p2a: Kherpi
+|-supereffective|p2a: Kherpi
+|-damage|p2a: Kherpi|0 fnt
+|faint|p2a: Kherpi
+|
+|upkeep
+|
+|t:|1641696983
+|switch|p2a: King shield|Aegislash, F, shiny|100/100
+|turn|11
+|
+|t:|1641696989
+|-formechange|p2a: King shield|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: King shield|Sacred Sword|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|51/100
+|-enditem|p1a: Magnezone|Air Balloon
+|move|p1a: Magnezone|Thunderbolt|p2a: King shield
+|-damage|p2a: King shield|0 fnt
+|faint|p2a: King shield
+|
+|upkeep
+|
+|t:|1641697000
+|switch|p2a: Bubble baby|Reuniclus, F, shiny|100/100
+|turn|12
+|
+|t:|1641697008
+|move|p1a: Magnezone|Flash Cannon|p2a: Bubble baby
+|-damage|p2a: Bubble baby|60/100
+|move|p2a: Bubble baby|Psychic|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|15/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641697021
+|move|p1a: Magnezone|Rest|p1a: Magnezone
+|-status|p1a: Magnezone|slp|[from] move: Rest
+|-heal|p1a: Magnezone|100/100 slp|[silent]
+|move|p2a: Bubble baby|Trick Room|p2a: Bubble baby
+|-fieldstart|move: Trick Room|[of] p2a: Bubble baby
+|
+|upkeep
+|turn|14
+|
+|t:|1641697028
+|move|p2a: Bubble baby|Recover|p2a: Bubble baby
+|-heal|p2a: Bubble baby|100/100
+|cant|p1a: Magnezone|slp
+|move|p1a: Magnezone|Sleep Talk|p1a: Magnezone
+|move|p1a: Magnezone|Rest||[from]move: Sleep Talk|[still]
+|-fail|p1a: Magnezone
+|
+|upkeep
+|turn|15
+|
+|t:|1641697037
+|move|p2a: Bubble baby|Calm Mind|p2a: Bubble baby
+|-boost|p2a: Bubble baby|spa|1
+|-boost|p2a: Bubble baby|spd|1
+|cant|p1a: Magnezone|slp
+|move|p1a: Magnezone|Sleep Talk|p1a: Magnezone
+|move|p1a: Magnezone|Thunderbolt|p2a: Bubble baby|[from]move: Sleep Talk
+|-damage|p2a: Bubble baby|63/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641697053
+|switch|p1a: Salamence|Salamence, M|100/100
+|move|p2a: Bubble baby|Calm Mind|p2a: Bubble baby
+|-boost|p2a: Bubble baby|spa|1
+|-boost|p2a: Bubble baby|spd|1
+|
+|upkeep
+|turn|17
+|
+|t:|1641697064
+|move|p2a: Bubble baby|Psychic|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641697072
+|switch|p1a: Milotic|Milotic, M, shiny|100/100
+|turn|18
+|
+|t:|1641697078
+|move|p1a: Milotic|Surf|p2a: Bubble baby
+|-damage|p2a: Bubble baby|42/100
+|move|p2a: Bubble baby|Recover|p2a: Bubble baby
+|-heal|p2a: Bubble baby|92/100
+|
+|-status|p1a: Milotic|brn|[from] item: Flame Orb
+|upkeep
+|turn|19
+|
+|t:|1641697087
+|move|p1a: Milotic|Surf|p2a: Bubble baby
+|-crit|p2a: Bubble baby
+|-damage|p2a: Bubble baby|32/100
+|move|p2a: Bubble baby|Trick Room|p2a: Bubble baby
+|-fieldstart|move: Trick Room|[of] p2a: Bubble baby
+|
+|-damage|p1a: Milotic|94/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641697094
+|move|p2a: Bubble baby|Recover|p2a: Bubble baby
+|-heal|p2a: Bubble baby|82/100
+|move|p1a: Milotic|Surf|p2a: Bubble baby
+|-damage|p2a: Bubble baby|64/100
+|
+|-damage|p1a: Milotic|88/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641697103
+|move|p2a: Bubble baby|Psychic|p1a: Milotic
+|-damage|p1a: Milotic|19/100 brn
+|move|p1a: Milotic|Ice Beam|p2a: Bubble baby
+|-damage|p2a: Bubble baby|50/100
+|
+|-damage|p1a: Milotic|13/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641697111
+|move|p2a: Bubble baby|Recover|p2a: Bubble baby
+|-heal|p2a: Bubble baby|100/100
+|move|p1a: Milotic|Ice Beam|p2a: Bubble baby
+|-damage|p2a: Bubble baby|88/100
+|
+|-damage|p1a: Milotic|7/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641697147
+|move|p2a: Bubble baby|Recover|p2a: Bubble baby
+|-heal|p2a: Bubble baby|100/100
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|57/100 brn
+|
+|-damage|p1a: Milotic|51/100 brn|[from] brn
+|-fieldend|move: Trick Room
+|upkeep
+|turn|24
+|
+|t:|1641697156
+|move|p1a: Milotic|Ice Beam|p2a: Bubble baby
+|-damage|p2a: Bubble baby|87/100
+|move|p2a: Bubble baby|Psychic|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|
+|upkeep
+|
+|t:|1641697163
+|switch|p1a: Magnezone|Magnezone, shiny|100/100 slp
+|turn|25
+|
+|t:|1641697169
+|-curestatus|p1a: Magnezone|slp|[msg]
+|move|p1a: Magnezone|Thunderbolt|p2a: Bubble baby
+|-damage|p2a: Bubble baby|63/100
+|move|p2a: Bubble baby|Psychic|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|39/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641697177
+|move|p1a: Magnezone|Thunderbolt|p2a: Bubble baby
+|-damage|p2a: Bubble baby|39/100
+|move|p2a: Bubble baby|Psychic|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|win|SquiidBee
+|l|☆Snakeisgoing2getu

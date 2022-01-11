@@ -1,0 +1,369 @@
+|j|☆Plulo
+|j|☆ironheart360
+|t:|1641865809
+|gametype|singles
+|player|p1|Plulo|bugcatcher-gen4dp|1197
+|player|p2|ironheart360|265|1165
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Regidrago|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Mienshao, M|
+|poke|p1|Buzzwole|
+|poke|p1|Dhelmise|
+|poke|p1|Sirfetch’d, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Clefable, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Buzzwole|
+|poke|p2|Heatran, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Plulo)
+|inactive|ironheart360 has 120 seconds left.
+|inactive|Plulo has 120 seconds left.
+|
+|t:|1641865863
+|start
+|switch|p1a: Sirfetch’d|Sirfetch’d, F|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|1
+|
+|t:|1641865874
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Sirfetch’d|Close Combat|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-crit|p2a: Buzzwole
+|-damage|p2a: Buzzwole|76/100
+|-unboost|p1a: Sirfetch’d|def|1
+|-unboost|p1a: Sirfetch’d|spd|1
+|-damage|p1a: Sirfetch’d|84/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|
+|upkeep
+|turn|2
+|
+|t:|1641865886
+|switch|p1a: Dhelmise|Dhelmise|100/100
+|move|p2a: Buzzwole|Toxic|p1a: Dhelmise
+|-status|p1a: Dhelmise|tox
+|
+|-damage|p1a: Dhelmise|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641865898
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Dhelmise|Anchor Shot|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|87/100
+|-activate|p2a: Ferrothorn|trapped
+|-damage|p1a: Dhelmise|82/100 tox|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p1a: Dhelmise|88/100 tox|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|93/100|[from] item: Leftovers
+|-damage|p1a: Dhelmise|76/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641865913
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|94/100
+|-damage|p2a: Ferrothorn|76/100|[from] item: Rocky Helmet|[of] p1a: Buzzwole
+|-enditem|p1a: Buzzwole|Rocky Helmet|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641865929
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Buzzwole|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|79/100
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|
+|-heal|p2a: Toxapex|85/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1641865941
+|switch|p1a: Regispeed|Regidrago|100/100
+|move|p2a: Toxapex|Scald|p1a: Regispeed
+|-resisted|p1a: Regispeed
+|-damage|p1a: Regispeed|92/100
+|
+|-heal|p2a: Toxapex|91/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1641865953
+|move|p1a: Regispeed|Dragon Energy|p2a: Toxapex
+|-damage|p2a: Toxapex|23/100
+|move|p2a: Toxapex|Knock Off|p1a: Regispeed
+|-damage|p1a: Regispeed|74/100
+|-enditem|p1a: Regispeed|Choice Scarf|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-heal|p2a: Toxapex|29/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1641865966
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Regispeed|Dragon Energy|p2a: Clefable
+|-immune|p2a: Clefable
+|
+|upkeep
+|turn|9
+|
+|t:|1641865973
+|move|p1a: Regispeed|Hyper Beam|p2a: Clefable
+|-damage|p2a: Clefable|62/100
+|-mustrecharge|p1a: Regispeed
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641865980
+|cant|p1a: Regispeed|recharge
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641865986
+|move|p1a: Regispeed|Hyper Beam|p2a: Clefable
+|-damage|p2a: Clefable|45/100
+|-mustrecharge|p1a: Regispeed
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|95/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641865993
+|cant|p1a: Regispeed|recharge
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1641865999
+|move|p1a: Regispeed|Hyper Beam|p2a: Clefable
+|-damage|p2a: Clefable|81/100
+|-mustrecharge|p1a: Regispeed
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641866006
+|cant|p1a: Regispeed|recharge
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641866012
+|move|p1a: Regispeed|Hyper Beam|p2a: Clefable
+|-damage|p2a: Clefable|70/100
+|-mustrecharge|p1a: Regispeed
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641866019
+|cant|p1a: Regispeed|recharge
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641866024
+|move|p1a: Regispeed|Hyper Beam|p2a: Clefable
+|-damage|p2a: Clefable|92/100
+|-mustrecharge|p1a: Regispeed
+|move|p2a: Clefable|Moonblast|p1a: Regispeed
+|-supereffective|p1a: Regispeed
+|-damage|p1a: Regispeed|0 fnt
+|faint|p1a: Regispeed
+|
+|upkeep
+|
+|t:|1641866036
+|switch|p1a: Simp|Ferrothorn, M|100/100
+|turn|18
+|
+|t:|1641866039
+|move|p2a: Clefable|Flamethrower|p1a: Simp
+|-supereffective|p1a: Simp
+|-damage|p1a: Simp|0 fnt
+|faint|p1a: Simp
+|
+|upkeep
+|
+|t:|1641866044
+|switch|p1a: Xi Jiping|Mienshao, M|100/100
+|turn|19
+|
+|t:|1641866047
+|move|p1a: Xi Jiping|Poison Jab|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|26/100
+|-damage|p1a: Xi Jiping|91/100|[from] item: Life Orb
+|move|p2a: Clefable|Moonblast|p1a: Xi Jiping
+|-supereffective|p1a: Xi Jiping
+|-damage|p1a: Xi Jiping|0 fnt
+|faint|p1a: Xi Jiping
+|
+|upkeep
+|
+|t:|1641866053
+|switch|p1a: Buzzwole|Buzzwole|94/100
+|turn|20
+|
+|t:|1641866063
+|move|p1a: Buzzwole|Thunder Punch|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641866071
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|21
+|
+|t:|1641866074
+|move|p1a: Buzzwole|Close Combat|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|faint|p2a: Heatran
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641866085
+|switch|p2a: Toxapex|Toxapex, M|62/100
+|turn|22
+|
+|t:|1641866088
+|move|p1a: Buzzwole|Thunder Punch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641866096
+|switch|p2a: Ferrothorn|Ferrothorn, F|82/100
+|turn|23
+|
+|t:|1641866100
+|move|p1a: Buzzwole|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|-damage|p1a: Buzzwole|82/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641866110
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|24
+|
+|t:|1641866115
+|move|p2a: Dragonite|Ice Punch|p1a: Buzzwole
+|-damage|p1a: Buzzwole|48/100
+|move|p1a: Buzzwole|Thunder Punch|p2a: Dragonite
+|-damage|p2a: Dragonite|52/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641866121
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Buzzwole|Thunder Punch|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|78/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641866130
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Buzzwole|Thunder Punch|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|79/100
+|
+|upkeep
+|turn|27
+|l|☆Plulo
+|inactive|Plulo disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|Plulo has 30 seconds to reconnect!
+|inactive|Plulo has 20 seconds to reconnect!
+|j|☆Plulo
+|inactive|Plulo reconnected and has 100 seconds left.
+|player|p1|Plulo|bugcatcher-gen4dp
+|
+|t:|1641866186
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Buzzwole|Thunder Punch|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|-message|ironheart360 forfeited.
+|
+|win|Plulo
+|raw|Plulo's rating: 1197 &rarr; <strong>1220</strong><br />(+23 for winning)
+|raw|ironheart360's rating: 1165 &rarr; <strong>1142</strong><br />(-23 for losing)
+|l|☆ironheart360

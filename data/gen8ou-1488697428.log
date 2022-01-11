@@ -1,0 +1,190 @@
+|j|☆Smart Falcon
+|j|☆ThatGumnutGuy
+|t:|1641805206
+|gametype|singles
+|player|p1|Smart Falcon|shauntal|1206
+|player|p2|ThatGumnutGuy|blackbelt-gen4|1172
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Clefable, F|
+|poke|p1|Excadrill, M|
+|poke|p1|Kartana|
+|poke|p1|Zapdos|
+|poke|p1|Cloyster, F|
+|poke|p2|Galvantula, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Barraskewda, M|
+|poke|p2|Blacephalon|
+|poke|p2|Corviknight, M|
+|poke|p2|Dragapult, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ThatGumnutGuy)
+|
+|t:|1641805214
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Australia|Galvantula, F|100/100
+|turn|1
+|
+|t:|1641805218
+|move|p2a: Australia|Sticky Web|p1a: Zapdos
+|-sidestart|p1: Smart Falcon|move: Sticky Web
+|move|p1a: Zapdos|Heat Wave|p2a: Australia
+|-supereffective|p2a: Australia
+|-enditem|p2a: Australia|Focus Sash
+|-damage|p2a: Australia|1/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641805221
+|move|p2a: Australia|Bug Buzz|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|81/100
+|move|p1a: Zapdos|Volt Switch|p2a: Australia
+|-resisted|p2a: Australia
+|-damage|p2a: Australia|0 fnt
+|faint|p2a: Australia
+|
+|t:|1641805224
+|switch|p1a: Excadrill|Excadrill, M|100/100|[from]move: Volt Switch
+|-activate|p1a: Excadrill|move: Sticky Web
+|-unboost|p1a: Excadrill|spe|1
+|
+|upkeep
+|
+|t:|1641805233
+|switch|p2a: Barry Skewda|Barraskewda, M|100/100
+|turn|3
+|
+|t:|1641805237
+|switch|p1a: Zapdos|Zapdos|81/100
+|move|p2a: Barry Skewda|Aqua Jet|p1a: Zapdos
+|-damage|p1a: Zapdos|66/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641805246
+|move|p2a: Barry Skewda|Ice Fang|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|30/100
+|-status|p1a: Zapdos|frz
+|cant|p1a: Zapdos|frz
+|
+|upkeep
+|turn|5
+|
+|t:|1641805251
+|switch|p2a: Paddy the Pelican|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Paddy the Pelican
+|cant|p1a: Zapdos|frz
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641805255
+|cant|p1a: Zapdos|frz
+|move|p2a: Paddy the Pelican|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|27/100 frz
+|
+|t:|1641805257
+|switch|p2a: Barry Skewda|Barraskewda, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641805260
+|move|p2a: Barry Skewda|Ice Fang|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-status|p2a: Barry Skewda|par|[from] ability: Static|[of] p1a: Zapdos
+|faint|p1a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641805264
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-activate|p1a: Tyranitar|move: Sticky Web
+|-unboost|p1a: Tyranitar|spe|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|8
+|
+|t:|1641805268
+|switch|p1a: Kartana|Kartana|100/100
+|-activate|p1a: Kartana|move: Sticky Web
+|-unboost|p1a: Kartana|spe|1
+|cant|p2a: Barry Skewda|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Barry Skewda|94/100 par|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1641805288
+|move|p1a: Kartana|Knock Off|p2a: Barry Skewda
+|-damage|p2a: Barry Skewda|0 fnt
+|-enditem|p2a: Barry Skewda|Focus Sash|[from] move: Knock Off|[of] p1a: Kartana
+|faint|p2a: Barry Skewda
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641805299
+|switch|p2a: Paddy the Pelican|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Paddy the Pelican
+|turn|10
+|
+|t:|1641805306
+|move|p1a: Kartana|Leaf Blade|p2a: Paddy the Pelican
+|-damage|p2a: Paddy the Pelican|0 fnt
+|faint|p2a: Paddy the Pelican
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641805309
+|switch|p2a: Krusty the Clown|Blacephalon|100/100
+|turn|11
+|
+|t:|1641805311
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-activate|p1a: Tyranitar|move: Sticky Web
+|-unboost|p1a: Tyranitar|spe|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Krusty the Clown|Flamethrower|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Krusty the Clown|94/100|[from] Sandstorm
+|upkeep
+|turn|12
+|-message|ThatGumnutGuy forfeited.
+|
+|win|Smart Falcon
+|raw|Smart Falcon's rating: 1206 &rarr; <strong>1229</strong><br />(+23 for winning)
+|raw|ThatGumnutGuy's rating: 1172 &rarr; <strong>1149</strong><br />(-23 for losing)
+|l|☆ThatGumnutGuy

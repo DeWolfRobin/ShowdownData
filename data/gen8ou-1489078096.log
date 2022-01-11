@@ -1,0 +1,251 @@
+|j|☆GiveHead
+|j|☆SpicyNewMeta
+|t:|1641853853
+|gametype|singles
+|player|p1|GiveHead|brock|1187
+|player|p2|SpicyNewMeta|wallace|1287
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Mamoswine, F|
+|poke|p1|Magnezone|
+|poke|p1|Dragonite, F|
+|poke|p1|Heatran, F|
+|poke|p1|Kartana|
+|poke|p2|Scizor, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Moltres|
+|poke|p2|Hippopotas, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GiveHead)
+|
+|t:|1641853866
+|start
+|switch|p1a: Mamoswine|Mamoswine, F|100/100
+|switch|p2a: Dragaputa|Dragapult, F|100/100
+|turn|1
+|
+|t:|1641853890
+|switch|p2a: sexokkkkkk|Slowbro, F|100/100
+|move|p1a: Mamoswine|Icicle Crash|p2a: sexokkkkkk
+|-resisted|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|87/100
+|
+|-heal|p2a: sexokkkkkk|93/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641853898
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: sexokkkkkk|Curse|p2a: sexokkkkkk
+|-unboost|p2a: sexokkkkkk|spe|1
+|-boost|p2a: sexokkkkkk|atk|1
+|-boost|p2a: sexokkkkkk|def|1
+|
+|-heal|p2a: sexokkkkkk|99/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641853910
+|move|p1a: Heatran|Magma Storm|p2a: sexokkkkkk|[miss]
+|-miss|p1a: Heatran|p2a: sexokkkkkk
+|move|p2a: sexokkkkkk|Calm Mind|p2a: sexokkkkkk
+|-boost|p2a: sexokkkkkk|spa|1
+|-boost|p2a: sexokkkkkk|spd|1
+|
+|-heal|p2a: sexokkkkkk|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641853922
+|move|p1a: Heatran|Magma Storm|p2a: sexokkkkkk
+|-resisted|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|85/100
+|-activate|p2a: sexokkkkkk|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: sexokkkkkk|Calm Mind|p2a: sexokkkkkk
+|-boost|p2a: sexokkkkkk|spa|1
+|-boost|p2a: sexokkkkkk|spd|1
+|
+|-heal|p2a: sexokkkkkk|91/100|[from] item: Leftovers
+|-damage|p2a: sexokkkkkk|78/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1641853933
+|move|p1a: Heatran|Taunt|p2a: sexokkkkkk
+|-immune|p2a: sexokkkkkk|[from] ability: Oblivious
+|move|p2a: sexokkkkkk|Curse|p2a: sexokkkkkk
+|-unboost|p2a: sexokkkkkk|spe|1
+|-boost|p2a: sexokkkkkk|atk|1
+|-boost|p2a: sexokkkkkk|def|1
+|
+|-heal|p2a: sexokkkkkk|84/100|[from] item: Leftovers
+|-damage|p2a: sexokkkkkk|72/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1641853954
+|move|p1a: Heatran|Stealth Rock|p2a: sexokkkkkk
+|-sidestart|p2: SpicyNewMeta|move: Stealth Rock
+|move|p2a: sexokkkkkk|Curse|p2a: sexokkkkkk
+|-unboost|p2a: sexokkkkkk|spe|1
+|-boost|p2a: sexokkkkkk|atk|1
+|-boost|p2a: sexokkkkkk|def|1
+|
+|-heal|p2a: sexokkkkkk|78/100|[from] item: Leftovers
+|-damage|p2a: sexokkkkkk|65/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1641853965
+|switch|p1a: Kartana|Kartana, shiny|100/100
+|move|p2a: sexokkkkkk|Calm Mind|p2a: sexokkkkkk
+|-boost|p2a: sexokkkkkk|spa|1
+|-boost|p2a: sexokkkkkk|spd|1
+|
+|-heal|p2a: sexokkkkkk|72/100|[from] item: Leftovers
+|-end|p2a: sexokkkkkk|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641853972
+|move|p1a: Kartana|Leaf Blade|p2a: sexokkkkkk
+|-supereffective|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|43/100
+|move|p2a: sexokkkkkk|Stored Power|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|-heal|p2a: sexokkkkkk|49/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641853978
+|switch|p1a: Magnezone|Magnezone, shiny|100/100
+|-item|p1a: Magnezone|Air Balloon
+|turn|9
+|
+|t:|1641853989
+|move|p1a: Magnezone|Thunderbolt|p2a: sexokkkkkk
+|-supereffective|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|15/100
+|move|p2a: sexokkkkkk|Slack Off|p2a: sexokkkkkk
+|-heal|p2a: sexokkkkkk|65/100
+|
+|-heal|p2a: sexokkkkkk|71/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641854016
+|move|p1a: Magnezone|Thunderbolt|p2a: sexokkkkkk
+|-supereffective|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|34/100
+|move|p2a: sexokkkkkk|Stored Power|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|-enditem|p1a: Magnezone|Air Balloon
+|faint|p1a: Magnezone
+|
+|-heal|p2a: sexokkkkkk|40/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641854023
+|switch|p1a: Tapu Fini|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|11
+|
+|t:|1641854031
+|move|p1a: Tapu Fini|Moonblast|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|23/100
+|move|p2a: sexokkkkkk|Slack Off|p2a: sexokkkkkk
+|-heal|p2a: sexokkkkkk|73/100
+|
+|-heal|p2a: sexokkkkkk|79/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641854045
+|move|p1a: Tapu Fini|Knock Off|p2a: sexokkkkkk
+|-supereffective|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|70/100
+|-enditem|p2a: sexokkkkkk|Leftovers|[from] move: Knock Off|[of] p1a: Tapu Fini
+|move|p2a: sexokkkkkk|Stored Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641854052
+|switch|p1a: Dragonite|Dragonite, F, shiny|100/100
+|turn|13
+|
+|t:|1641854055
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: sexokkkkkk|Stored Power|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641854066
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|14
+|
+|t:|1641854069
+|move|p1a: Heatran|Magma Storm|p2a: sexokkkkkk
+|-resisted|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|61/100
+|-activate|p2a: sexokkkkkk|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: sexokkkkkk|Stored Power|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|26/100
+|
+|-heal|p1a: Heatran|32/100|[from] item: Leftovers
+|-damage|p2a: sexokkkkkk|49/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1641854079
+|move|p1a: Heatran|Earth Power|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|38/100
+|move|p2a: sexokkkkkk|Stored Power|p1a: Heatran
+|-resisted|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-end|p2a: sexokkkkkk|Magma Storm|[partiallytrapped]|[silent]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641854085
+|switch|p1a: Mamoswine|Mamoswine, F|100/100
+|turn|16
+|
+|t:|1641854089
+|move|p1a: Mamoswine|Earthquake|p2a: sexokkkkkk
+|-damage|p2a: sexokkkkkk|26/100
+|move|p2a: sexokkkkkk|Stored Power|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|faint|p1a: Mamoswine
+|
+|win|SpicyNewMeta
+|raw|GiveHead's rating: 1187 &rarr; <strong>1169</strong><br />(-18 for losing)
+|raw|SpicyNewMeta's rating: 1287 &rarr; <strong>1305</strong><br />(+18 for winning)
+|l|☆GiveHead
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

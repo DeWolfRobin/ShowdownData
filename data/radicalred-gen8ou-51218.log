@@ -1,0 +1,230 @@
+|j|☆Filo2801
+|j|☆lulortio
+|t:|1641855426
+|gametype|singles
+|player|p1|Filo2801|rr-misty|1154
+|player|p2|lulortio|rr-giovanni|1101
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|rule|Z-Move Clause: Z-Moves are banned
+|clearpoke
+|poke|p1|Hoopa-Unbound|
+|poke|p1|Torkoal, M|
+|poke|p1|Venusaur, F|
+|poke|p1|Chansey, F|
+|poke|p1|Greninja, F|
+|poke|p1|Electivire, F|
+|poke|p2|Electivire, M|
+|poke|p2|Slowking, F|
+|poke|p2|Melmetal|
+|poke|p2|Audino, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Greninja, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Filo2801)
+|
+|t:|1641855461
+|start
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100
+|switch|p2a: Slowking|Slowking, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1641855468
+|switch|p1a: Venusaur|Venusaur, F, shiny|100/100
+|move|p2a: Slowking|Future Sight|p1a: Venusaur
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641855475
+|switch|p1a: Greninja|Greninja, F|100/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641855478
+|switch|p2a: Melmetal|Melmetal|100/100|[from]move: Teleport
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641855485
+|move|p1a: Greninja|U-turn|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|97/100
+|
+|t:|1641855488
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100|[from]move: U-turn
+|move|p2a: Melmetal|Thunder Punch|p1a: Torkoal
+|-damage|p1a: Torkoal|85/100
+|
+|-weather|SunnyDay|[upkeep]
+|-end|p1a: Torkoal|move: Future Sight
+|-damage|p1a: Torkoal|28/100
+|upkeep
+|turn|4
+|
+|t:|1641855494
+|move|p2a: Melmetal|Earthquake|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641855520
+|switch|p1a: Electivire|Electivire, F|100/100
+|turn|5
+|j| V1king64
+|
+|t:|1641855540
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Electivire|atk|1
+|move|p1a: Electivire|Fire Punch|p2a: Landorus
+|-damage|p2a: Landorus|70/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641855551
+|move|p2a: Landorus|Earthquake|p1a: Electivire
+|-supereffective|p1a: Electivire
+|-damage|p1a: Electivire|0 fnt
+|faint|p1a: Electivire
+|
+|upkeep
+|
+|t:|1641855568
+|switch|p1a: Greninja|Greninja, F|100/100
+|turn|7
+|
+|t:|1641855575
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Greninja|Ice Beam|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|92/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641855579
+|move|p1a: Greninja|Dark Pulse|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|45/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641855583
+|switch|p2a: Audino|Audino, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|9
+|
+|t:|1641855587
+|detailschange|p2a: Audino|Audino-Mega, F
+|-mega|p2a: Audino|Audino|Audinite
+|move|p1a: Greninja|U-turn|p2a: Audino
+|-resisted|p2a: Audino
+|-damage|p2a: Audino|97/100
+|
+|t:|1641855590
+|switch|p1a: Venusaur|Venusaur, F, shiny|100/100|[from]move: U-turn
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|upkeep
+|turn|10
+|
+|t:|1641855602
+|switch|p2a: Slowking|Slowking, F|78/100
+|detailschange|p1a: Venusaur|Venusaur-Mega, F, shiny
+|-mega|p1a: Venusaur|Venusaur|Venusaurite
+|move|p1a: Venusaur|Earth Power|p2a: Slowking
+|-damage|p2a: Slowking|57/100
+|
+|-heal|p2a: Slowking|100/100|[from] move: Wish|[wisher] Audino
+|upkeep
+|turn|11
+|
+|t:|1641855616
+|move|p1a: Venusaur|Sludge Bomb|p2a: Slowking
+|-damage|p2a: Slowking|70/100
+|move|p2a: Slowking|Future Sight|p1a: Venusaur
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|12
+|
+|t:|1641855623
+|move|p1a: Venusaur|Giga Drain|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|14/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641855627
+|switch|p2a: Electivire|Electivire, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|13
+|
+|t:|1641855633
+|switch|p1a: Hoopa|Hoopa-Unbound|100/100
+|move|p2a: Electivire|Ice Punch|p1a: Hoopa
+|-damage|p1a: Hoopa|25/100
+|-status|p1a: Hoopa|frz
+|
+|-end|p1a: Hoopa|move: Future Sight
+|-immune|p1a: Hoopa
+|upkeep
+|turn|14
+|
+|t:|1641855641
+|move|p2a: Electivire|Ice Punch|p1a: Hoopa
+|-damage|p1a: Hoopa|0 fnt
+|faint|p1a: Hoopa
+|
+|upkeep
+|
+|t:|1641855645
+|switch|p1a: Greninja|Greninja, F|100/100
+|turn|15
+|
+|t:|1641855654
+|switch|p2a: Audino|Audino-Mega, F|100/100
+|move|p1a: Greninja|Dark Pulse|p2a: Audino
+|-resisted|p2a: Audino
+|-damage|p2a: Audino|87/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641855659
+|move|p1a: Greninja|U-turn|p2a: Audino
+|-resisted|p2a: Audino
+|-damage|p2a: Audino|84/100
+|
+|t:|1641855660
+|switch|p1a: Venusaur|Venusaur-Mega, F, shiny|100/100|[from]move: U-turn
+|move|p2a: Audino|Wish|p2a: Audino
+|
+|upkeep
+|turn|17
+|-message|Filo2801 forfeited.
+|
+|win|lulortio
+|raw|Filo2801's rating: 1154 &rarr; <strong>1130</strong><br />(-24 for losing)
+|raw|lulortio's rating: 1101 &rarr; <strong>1141</strong><br />(+40 for winning)
+|l|☆Filo2801

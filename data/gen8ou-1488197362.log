@@ -1,0 +1,411 @@
+|j|☆8jaggery
+|j|☆vetoildefeu125r
+|t:|1641732285
+|gametype|singles
+|player|p1|8jaggery|102|1206
+|player|p2|vetoildefeu125r|n|1267
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Clefable, F|
+|poke|p1|Blastoise, M|
+|poke|p2|Magnezone|
+|poke|p2|Porygon-Z|
+|poke|p2|Dragonite, M|
+|poke|p2|Hippowdon, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Ribombee, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by vetoildefeu125r)
+|inactive|8jaggery has 120 seconds left.
+|inactive|8jaggery has 90 seconds left.
+|inactive|8jaggery has 60 seconds left.
+|inactive|8jaggery has 30 seconds left.
+|
+|t:|1641732412
+|start
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|switch|p2a: Flora|Ribombee, F|100/100
+|turn|1
+|c|☆8jaggery|extremely sorry for the delay
+|inactive|8jaggery has 90 seconds left.
+|c|☆vetoildefeu125r|np
+|
+|t:|1641732449
+|switch|p1a: Heatran|Heatran, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Flora|Sticky Web|p1a: Heatran
+|-sidestart|p1: 8jaggery|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1641732471
+|switch|p2a: annal do|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: annal do
+|move|p1a: Heatran|Stealth Rock|p2a: annal do
+|-sidestart|p2: vetoildefeu125r|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641732490
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-activate|p1a: Rillaboom|move: Sticky Web
+|-unboost|p1a: Rillaboom|spe|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: annal do|Earthquake|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|93/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rillaboom|86/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|inactive|vetoildefeu125r has 120 seconds left.
+|
+|t:|1641732514
+|move|p1a: Rillaboom|Grassy Glide|p2a: annal do
+|-supereffective|p2a: annal do
+|-damage|p2a: annal do|49/100
+|move|p2a: annal do|Stealth Rock|p1a: Rillaboom
+|-sidestart|p1: 8jaggery|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rillaboom|86/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|93/100|[from] Grassy Terrain
+|-heal|p2a: annal do|55/100|[from] Grassy Terrain
+|-heal|p2a: annal do|61/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|vetoildefeu125r has 120 seconds left.
+|inactive|8jaggery has 60 seconds left.
+|
+|t:|1641732537
+|switch|p2a: friedrich|Zapdos-Galar|100/100
+|-damage|p2a: friedrich|88/100|[from] Stealth Rock
+|move|p1a: Rillaboom|Grassy Glide|p2a: friedrich
+|-resisted|p2a: friedrich
+|-damage|p2a: friedrich|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: friedrich|53/100|[from] Sandstorm
+|-damage|p1a: Rillaboom|86/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|inactive|8jaggery has 60 seconds left.
+|inactive|vetoildefeu125r has 120 seconds left.
+|
+|t:|1641732564
+|switch|p1a: Clefable|Clefable, F|100/100
+|-activate|p1a: Clefable|move: Sticky Web
+|-unboost|p1a: Clefable|spe|1
+|-damage|p1a: Clefable|88/100|[from] Stealth Rock
+|move|p2a: friedrich|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|72/100
+|-damage|p2a: friedrich|43/100|[from] item: Life Orb
+|inactive|vetoildefeu125r has 120 seconds left.
+|
+|t:|1641732574
+|switch|p2a: Le Z|Porygon-Z, shiny|100/100|[from]move: U-turn
+|-damage|p2a: Le Z|88/100|[from] Stealth Rock
+|-ability|p2a: Le Z|Download|boost
+|-boost|p2a: Le Z|atk|1
+|
+|-weather|none
+|-heal|p2a: Le Z|94/100|[from] Grassy Terrain
+|-heal|p2a: Le Z|100/100|[from] item: Leftovers
+|-heal|p1a: Clefable|78/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|84/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|vetoildefeu125r has 120 seconds left.
+|
+|t:|1641732588
+|move|p2a: Le Z|Substitute|p2a: Le Z
+|-start|p2a: Le Z|Substitute
+|-damage|p2a: Le Z|76/100
+|move|p1a: Clefable|Moonblast|p2a: Le Z
+|-end|p2a: Le Z|Substitute
+|
+|-heal|p2a: Le Z|82/100|[from] Grassy Terrain
+|-heal|p2a: Le Z|88/100|[from] item: Leftovers
+|-heal|p1a: Clefable|90/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|96/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641732599
+|move|p2a: Le Z|Tri Attack|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|52/100
+|move|p1a: Clefable|Moonblast|p2a: Le Z
+|-damage|p2a: Le Z|47/100
+|-unboost|p2a: Le Z|spa|1
+|
+|-heal|p2a: Le Z|54/100|[from] item: Leftovers
+|-heal|p1a: Clefable|58/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641732612
+|move|p2a: Le Z|Tri Attack|p1a: Clefable
+|-damage|p1a: Clefable|30/100
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|80/100
+|
+|-heal|p2a: Le Z|60/100|[from] item: Leftovers
+|-heal|p1a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641732632
+|switch|p2a: Big brother|Magnezone|100/100
+|-damage|p2a: Big brother|94/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Big brother
+|-resisted|p2a: Big brother
+|-damage|p2a: Big brother|83/100
+|
+|-heal|p2a: Big brother|89/100|[from] item: Leftovers
+|-heal|p1a: Clefable|93/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|vetoildefeu125r has 120 seconds left.
+|inactive|8jaggery has 30 seconds left.
+|
+|t:|1641732665
+|switch|p1a: Rillaboom|Rillaboom, F|93/100
+|-activate|p1a: Rillaboom|move: Sticky Web
+|-unboost|p1a: Rillaboom|spe|1
+|-damage|p1a: Rillaboom|80/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Big brother|Iron Defense|p2a: Big brother
+|-boost|p2a: Big brother|def|2
+|
+|-heal|p2a: Big brother|95/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|100/100|[from] item: Leftovers
+|-heal|p1a: Rillaboom|86/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|inactive|8jaggery has 30 seconds left.
+|inactive|vetoildefeu125r has 120 seconds left.
+|
+|t:|1641732677
+|move|p2a: Big brother|Iron Defense|p2a: Big brother
+|-boost|p2a: Big brother|def|2
+|move|p1a: Rillaboom|High Horsepower|p2a: Big brother
+|-supereffective|p2a: Big brother
+|-damage|p2a: Big brother|62/100
+|
+|-heal|p2a: Big brother|68/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|74/100|[from] item: Leftovers
+|-heal|p1a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|inactive|8jaggery has 30 seconds left.
+|inactive|vetoildefeu125r has 120 seconds left.
+|
+|t:|1641732693
+|move|p2a: Big brother|Iron Defense|p2a: Big brother
+|-boost|p2a: Big brother|def|2
+|move|p1a: Rillaboom|High Horsepower|p2a: Big brother
+|-supereffective|p2a: Big brother
+|-damage|p2a: Big brother|48/100
+|
+|-heal|p2a: Big brother|54/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|60/100|[from] item: Leftovers
+|-heal|p1a: Rillaboom|99/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|inactive|vetoildefeu125r has 120 seconds left.
+|inactive|8jaggery has 30 seconds left.
+|
+|t:|1641732707
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Big brother|Body Press|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-enditem|p1a: Heatran|Air Balloon
+|faint|p1a: Heatran
+|
+|-heal|p2a: Big brother|66/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|72/100|[from] item: Leftovers
+|upkeep
+|inactive|8jaggery has 30 seconds left.
+|inactive|8jaggery has 20 seconds left.
+|inactive|8jaggery has 15 seconds left.
+|
+|t:|1641732729
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|-damage|p1a: Blastoise|88/100|[from] Stealth Rock
+|-activate|p1a: Blastoise|move: Sticky Web
+|-unboost|p1a: Blastoise|spe|1
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|turn|15
+|inactive|8jaggery has 25 seconds left this turn.
+|inactive|8jaggery has 20 seconds left.
+|
+|t:|1641732736
+|move|p1a: Blastoise|Aura Sphere|p2a: Big brother
+|-supereffective|p2a: Big brother
+|-damage|p2a: Big brother|40/100
+|move|p2a: Big brother|Discharge|p1a: Blastoise
+|-supereffective|p1a: Blastoise
+|-damage|p1a: Blastoise|16/100
+|
+|-heal|p1a: Blastoise|22/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|46/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|52/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|16
+|inactive|8jaggery has 30 seconds left this turn.
+|inactive|8jaggery has 20 seconds left.
+|
+|t:|1641732748
+|switch|p1a: Rillaboom|Rillaboom, F|99/100
+|-activate|p1a: Rillaboom|move: Sticky Web
+|-unboost|p1a: Rillaboom|spe|1
+|-damage|p1a: Rillaboom|86/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Big brother|Discharge|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|65/100
+|
+|-heal|p2a: Big brother|58/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|64/100|[from] item: Leftovers
+|-heal|p1a: Rillaboom|71/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|inactive|8jaggery has 30 seconds left this turn.
+|inactive|8jaggery has 20 seconds left.
+|
+|t:|1641732762
+|move|p2a: Big brother|Body Press|p1a: Rillaboom
+|-crit|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Big brother|71/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|77/100|[from] item: Leftovers
+|upkeep
+|inactive|8jaggery has 25 seconds left this turn.
+|inactive|8jaggery has 20 seconds left.
+|inactive|8jaggery has 15 seconds left.
+|inactive|8jaggery has 10 seconds left.
+|
+|t:|1641732779
+|switch|p1a: Clefable|Clefable, F|93/100
+|-damage|p1a: Clefable|80/100|[from] Stealth Rock
+|-activate|p1a: Clefable|move: Sticky Web
+|-unboost|p1a: Clefable|spe|1
+|turn|18
+|inactive|8jaggery has 20 seconds left this turn.
+|inactive|8jaggery has 15 seconds left.
+|
+|t:|1641732789
+|move|p2a: Big brother|Discharge|p1a: Clefable
+|-damage|p1a: Clefable|56/100
+|move|p1a: Clefable|Psychic|p2a: Big brother
+|-resisted|p2a: Big brother
+|-damage|p2a: Big brother|69/100
+|
+|-heal|p2a: Big brother|75/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|81/100|[from] item: Leftovers
+|-heal|p1a: Clefable|62/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|68/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|8jaggery has 25 seconds left this turn.
+|inactive|8jaggery has 20 seconds left.
+|inactive|8jaggery has 15 seconds left.
+|
+|t:|1641732803
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-damage|p1a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p2a: Big brother|Discharge|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-heal|p2a: Big brother|87/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|93/100|[from] item: Leftovers
+|upkeep
+|inactive|8jaggery has 20 seconds left this turn.
+|inactive|8jaggery has 15 seconds left.
+|inactive|8jaggery has 10 seconds left.
+|
+|t:|1641732815
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-activate|p1a: Dragapult|move: Sticky Web
+|-unboost|p1a: Dragapult|spe|1
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|20
+|inactive|8jaggery has 20 seconds left this turn.
+|inactive|8jaggery has 15 seconds left.
+|inactive|8jaggery has 10 seconds left.
+|
+|t:|1641732827
+|move|p1a: Dragapult|Scald|p2a: Big brother
+|-damage|p2a: Big brother|71/100
+|-damage|p1a: Dragapult|78/100|[from] item: Life Orb
+|move|p2a: Big brother|Discharge|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|56/100
+|-status|p1a: Dragapult|par
+|
+|-heal|p2a: Big brother|78/100|[from] Grassy Terrain
+|-heal|p2a: Big brother|84/100|[from] item: Leftovers
+|-heal|p1a: Dragapult|62/100 par|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|21
+|inactive|8jaggery has 20 seconds left this turn.
+|inactive|8jaggery has 15 seconds left.
+|inactive|8jaggery has 10 seconds left.
+|
+|t:|1641732853
+|move|p2a: Big brother|Discharge|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|39/100 par
+|move|p1a: Dragapult|Scald|p2a: Big brother
+|-damage|p2a: Big brother|62/100
+|-status|p2a: Big brother|brn
+|-damage|p1a: Dragapult|29/100 par|[from] item: Life Orb
+|
+|-heal|p2a: Big brother|68/100 brn|[from] item: Leftovers
+|-damage|p2a: Big brother|62/100 brn|[from] brn
+|upkeep
+|turn|22
+|inactive|8jaggery has 20 seconds left this turn.
+|-message|8jaggery forfeited.
+|
+|win|vetoildefeu125r
+|inactive|8jaggery has 25 seconds left this turn.
+|raw|8jaggery's rating: 1206 &rarr; <strong>1185</strong><br />(-21 for losing)
+|raw|vetoildefeu125r's rating: 1267 &rarr; <strong>1288</strong><br />(+21 for winning)
+|l|☆vetoildefeu125r

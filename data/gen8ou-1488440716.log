@@ -1,0 +1,560 @@
+|j|☆nikezim
+|j|☆efeda3532
+|t:|1641765584
+|gametype|singles
+|player|p1|nikezim|102|1391
+|player|p2|efeda3532|cynthia-gen4|1425
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Hydreigon, M|
+|poke|p2|Zygarde-10%|
+|poke|p2|Rillaboom, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Zeraora|
+|poke|p2|Heatran, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1641765619
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Corviknight|atk|1
+|-ability|p2a: Corviknight|Pressure
+|turn|1
+|
+|t:|1641765626
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|96/100
+|-damage|p1a: Landorus|84/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641765630
+|switch|p1a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|move|p2a: Corviknight|U-turn|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|95/100
+|
+|t:|1641765633
+|switch|p2a: Garchom|Zygarde-10%|100/100|[from]move: U-turn
+|-ability|p2a: Garchom|Aura Break
+|
+|upkeep
+|turn|2
+|
+|t:|1641765639
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Garchom|Thousand Arrows|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|9/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641765648
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Tapu Lele|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|91/100
+|
+|-heal|p2a: Heatran|97/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641765656
+|switch|p1a: Landorus|Landorus-Therian, M|84/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Stealth Rock|p1a: Landorus
+|-sidestart|p1: nikezim|move: Stealth Rock
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-heal|p1a: Landorus|90/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641765664
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Landorus|Stealth Rock|p2a: Rillaboom
+|-sidestart|p2: efeda3532|move: Stealth Rock
+|
+|-heal|p1a: Landorus|96/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641765676
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Rillaboom|Grassy Glide|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|76/100
+|-damage|p2a: Rillaboom|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-heal|p2a: Rillaboom|90/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1641765686
+|switch|p2a: Corviknight|Corviknight, M|96/100
+|-damage|p2a: Corviknight|84/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Corviknight|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|-damage|p1a: Corviknight|59/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641765690
+|switch|p1a: Magnezone|Magnezone|95/100|[from]move: U-turn
+|-damage|p1a: Magnezone|89/100|[from] Stealth Rock
+|
+|-heal|p1a: Magnezone|95/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641765693
+|move|p1a: Magnezone|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-heal|p1a: Magnezone|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641765695
+|switch|p2a: Garchom|Zygarde-10%|100/100
+|-damage|p2a: Garchom|94/100|[from] Stealth Rock
+|-ability|p2a: Garchom|Aura Break
+|turn|9
+|
+|t:|1641765700
+|switch|p1a: Landorus|Landorus-Therian, M|96/100
+|-damage|p1a: Landorus|84/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garchom|atk|1
+|move|p2a: Garchom|Thousand Arrows|p1a: Landorus
+|-damage|p1a: Landorus|48/100
+|-start|p1a: Landorus|Smack Down
+|
+|-heal|p2a: Garchom|100/100|[from] Grassy Terrain
+|-heal|p1a: Landorus|54/100|[from] Grassy Terrain
+|-heal|p1a: Landorus|60/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|10
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by efeda3532)
+|
+|t:|1641765713
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Landorus|Toxic|p2a: Toxapex
+|-immune|p2a: Toxapex
+|
+|-heal|p1a: Landorus|66/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641765718
+|switch|p2a: Rillaboom|Rillaboom, F|90/100
+|-damage|p2a: Rillaboom|78/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Landorus|U-turn|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|26/100
+|
+|t:|1641765732
+|switch|p1a: Corviknight|Corviknight, F|59/100|[from]move: U-turn
+|-damage|p1a: Corviknight|47/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|
+|-heal|p2a: Rillaboom|32/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641765737
+|move|p2a: Rillaboom|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|14/100
+|-damage|p2a: Rillaboom|16/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|64/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: Rillaboom|22/100|[from] Grassy Terrain
+|-heal|p1a: Corviknight|70/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641765745
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: Heatran|94/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641765753
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Urshifu|[miss]
+|-miss|p2a: Heatran|p1a: Urshifu
+|
+|-heal|p1a: Urshifu|100/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641765763
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Urshifu|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|68/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|-heal|p2a: Toxapex|74/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641765773
+|move|p1a: Urshifu|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|67/100
+|
+|t:|1641765777
+|switch|p1a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|move|p2a: Toxapex|Scald|p1a: Magnezone
+|-damage|p1a: Magnezone|76/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641765794
+|switch|p2a: Zeraora|Zeraora|100/100
+|move|p1a: Magnezone|Flash Cannon|p2a: Zeraora
+|-resisted|p2a: Zeraora
+|-damage|p2a: Zeraora|52/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641765800
+|switch|p1a: Landorus|Landorus-Therian, M|66/100
+|-damage|p1a: Landorus|54/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|move|p2a: Zeraora|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|34/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|19
+|
+|t:|1641765811
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|35/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641765819
+|switch|p2a: Rillaboom|Rillaboom, F|22/100
+|-damage|p2a: Rillaboom|10/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Landorus|Earthquake|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1641765821
+|switch|p2a: Garchom|Zygarde-10%|100/100
+|-damage|p2a: Garchom|94/100|[from] Stealth Rock
+|-ability|p2a: Garchom|Aura Break
+|turn|21
+|
+|t:|1641765827
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Garchom|Thousand Arrows|p1a: Corviknight
+|-damage|p1a: Corviknight|52/100
+|-start|p1a: Corviknight|Smack Down
+|
+|-heal|p2a: Garchom|100/100|[from] Grassy Terrain
+|-heal|p1a: Corviknight|59/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1641765840
+|switch|p1a: Landorus|Landorus-Therian, M|34/100
+|-damage|p1a: Landorus|21/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garchom|atk|1
+|move|p2a: Garchom|Thousand Arrows|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641765863
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|turn|23
+|inactive|nikezim has 120 seconds left.
+|
+|t:|1641765879
+|switch|p2a: Toxapex|Toxapex, M|68/100
+|-damage|p2a: Toxapex|55/100|[from] Stealth Rock
+|move|p1a: Urshifu|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|inactive|nikezim has 120 seconds left.
+|
+|t:|1641765887
+|switch|p1a: Magnezone|Magnezone|76/100|[from]move: U-turn
+|-damage|p1a: Magnezone|70/100|[from] Stealth Rock
+|
+|-heal|p1a: Magnezone|76/100|[from] Grassy Terrain
+|-heal|p2a: Toxapex|54/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1641765896
+|move|p1a: Magnezone|Flash Cannon|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|24/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|74/100
+|
+|-heal|p1a: Magnezone|82/100|[from] Grassy Terrain
+|-heal|p2a: Toxapex|80/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1641765903
+|switch|p1a: Corviknight|Corviknight, F|59/100
+|-damage|p1a: Corviknight|46/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: Zeraora|Zeraora|52/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641765911
+|move|p2a: Zeraora|Volt Switch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|7/100
+|
+|t:|1641765914
+|switch|p2a: Garchom|Zygarde-10%|100/100|[from]move: Volt Switch
+|-damage|p2a: Garchom|94/100|[from] Stealth Rock
+|-ability|p2a: Garchom|Aura Break
+|move|p1a: Corviknight|U-turn|p2a: Garchom
+|-damage|p2a: Garchom|68/100
+|
+|t:|1641765920
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|94/100|[from]move: U-turn
+|-damage|p1a: Urshifu|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|27
+|
+|t:|1641765929
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Urshifu|Surging Strikes|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|82/100
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|75/100
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|69/100
+|-hitcount|p2a: Toxapex|3
+|
+|upkeep
+|turn|28
+|
+|t:|1641765941
+|move|p1a: Urshifu|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|58/100
+|
+|t:|1641765944
+|switch|p1a: Magnezone|Magnezone|82/100|[from]move: U-turn
+|-damage|p1a: Magnezone|76/100|[from] Stealth Rock
+|move|p2a: Toxapex|Knock Off|p1a: Magnezone
+|-crit|p1a: Magnezone
+|-damage|p1a: Magnezone|50/100
+|-enditem|p1a: Magnezone|Choice Specs|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|29
+|inactive|efeda3532 has 120 seconds left.
+|
+|t:|1641765975
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Magnezone|Flash Cannon|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|80/100
+|
+|-heal|p2a: Heatran|86/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641765985
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|88/100
+|-damage|p1a: Urshifu|82/100|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|51/100
+|-activate|p1a: Urshifu|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|92/100|[from] item: Leftovers
+|-damage|p1a: Urshifu|39/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|31
+|inactive|efeda3532 has 120 seconds left.
+|
+|t:|1641766020
+|move|p1a: Urshifu|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|87/100
+|
+|t:|1641766024
+|switch|p1a: Hydreigon|Hydreigon, M|100/100|[from]move: U-turn
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|move|p2a: Heatran|Earth Power|p1a: Hydreigon
+|-immune|p1a: Hydreigon|[from] ability: Levitate
+|
+|-heal|p1a: Hydreigon|94/100|[from] item: Leftovers
+|-heal|p2a: Heatran|93/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641766028
+|switch|p2a: Toxapex|Toxapex, M|91/100
+|-damage|p2a: Toxapex|79/100|[from] Stealth Rock
+|move|p1a: Hydreigon|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|30/100
+|
+|-heal|p1a: Hydreigon|100/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|inactive|efeda3532 has 120 seconds left.
+|
+|t:|1641766040
+|move|p1a: Hydreigon|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641766042
+|switch|p2a: Zeraora|Zeraora|52/100
+|turn|34
+|
+|t:|1641766046
+|move|p2a: Zeraora|Close Combat|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|17/100
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|move|p1a: Hydreigon|Earth Power|p2a: Zeraora
+|-supereffective|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|-heal|p1a: Hydreigon|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641766053
+|switch|p2a: Garchom|Zygarde-10%|68/100
+|-damage|p2a: Garchom|62/100|[from] Stealth Rock
+|-ability|p2a: Garchom|Aura Break
+|turn|35
+|
+|t:|1641766070
+|switch|p1a: Magnezone|Magnezone|50/100
+|-damage|p1a: Magnezone|44/100|[from] Stealth Rock
+|move|p2a: Garchom|Thousand Arrows|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|upkeep
+|
+|t:|1641766077
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|39/100
+|-damage|p1a: Urshifu|33/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1641766081
+|move|p2a: Garchom|Thousand Arrows|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641766086
+|switch|p1a: Tapu Lele|Tapu Lele|9/100
+|-damage|p1a: Tapu Lele|0 fnt|[from] Stealth Rock
+|faint|p1a: Tapu Lele
+|
+|t:|1641766090
+|switch|p1a: Corviknight|Corviknight, F|7/100
+|-damage|p1a: Corviknight|0 fnt|[from] Stealth Rock
+|faint|p1a: Corviknight
+|
+|t:|1641766092
+|switch|p1a: Hydreigon|Hydreigon, M|24/100
+|-damage|p1a: Hydreigon|11/100|[from] Stealth Rock
+|turn|37
+|c|☆efeda3532|gg
+|
+|t:|1641766098
+|move|p2a: Garchom|Thousand Arrows|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|win|efeda3532
+|raw|nikezim's rating: 1391 &rarr; <strong>1373</strong><br />(-18 for losing)
+|raw|efeda3532's rating: 1425 &rarr; <strong>1443</strong><br />(+18 for winning)
+|l|☆nikezim
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

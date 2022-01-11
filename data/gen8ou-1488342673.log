@@ -1,0 +1,526 @@
+|j|☆flaming_wolf111
+|j|☆matsuda shingen
+|t:|1641753515
+|gametype|singles
+|player|p1|flaming_wolf111|266|1062
+|player|p2|matsuda shingen|veteran|1090
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Blacephalon|
+|poke|p1|Kartana|
+|poke|p1|Dragonite, F|
+|poke|p1|Tapu Lele|
+|poke|p2|Blaziken, M|
+|poke|p2|Venusaur, M|
+|poke|p2|Swampert, M|
+|poke|p2|Zapdos|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Heatran, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by matsuda shingen)
+|
+|t:|1641753559
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|1
+|
+|t:|1641753571
+|move|p1a: Kartana|Leaf Blade|p2a: Swampert
+|-supereffective|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641753579
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|turn|2
+|
+|t:|1641753605
+|move|p1a: Kartana|Leaf Blade|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|39/100
+|move|p2a: Blaziken|Flamethrower|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|-heal|p2a: Blaziken|45/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|inactive|flaming_wolf111 has 120 seconds left.
+|
+|t:|1641753620
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|3
+|inactive|flaming_wolf111 has 120 seconds left.
+|
+|t:|1641753646
+|move|p2a: Blaziken|U-turn|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|72/100
+|
+|t:|1641753654
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|move|p1a: Tapu Lele|Psychic|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|80/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641753670
+|switch|p1a: Blacephalon|Blacephalon, shiny|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Blacephalon
+|-sidestart|p1: flaming_wolf111|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1641753680
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Blacephalon|Flamethrower|p2a: Heatran
+|-start|p2a: Heatran|ability: Flash Fire
+|
+|upkeep
+|turn|6
+|inactive|flaming_wolf111 has 90 seconds left.
+|
+|t:|1641753711
+|move|p1a: Blacephalon|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|77/100
+|-enditem|p2a: Heatran|Air Balloon
+|move|p2a: Heatran|Eruption|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|47/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641753721
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|38/100
+|-unboost|p2a: Heatran|spd|1
+|move|p2a: Heatran|Toxic|p1a: Blacephalon
+|-status|p1a: Blacephalon|tox
+|
+|-damage|p1a: Blacephalon|41/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|8
+|
+|t:|1641753735
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-damage|p1a: Blacephalon|29/100 tox|[from] psn
+|upkeep
+|
+|t:|1641753747
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|9
+|inactive|flaming_wolf111 has 90 seconds left.
+|
+|t:|1641753756
+|move|p1a: Blacephalon|Flamethrower|p2a: Zapdos
+|-damage|p2a: Zapdos|30/100
+|move|p2a: Zapdos|Brave Bird|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|-damage|p2a: Zapdos|23/100|[from] Recoil
+|
+|upkeep
+|inactive|flaming_wolf111 has 90 seconds left.
+|
+|t:|1641753769
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|10
+|inactive|flaming_wolf111 has 90 seconds left.
+|
+|t:|1641753789
+|switch|p2a: Ferrothorn|Ferrothorn, F|80/100
+|move|p1a: Landorus|Toxic|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|flaming_wolf111 has 60 seconds left.
+|
+|t:|1641753824
+|move|p1a: Landorus|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|18/100
+|-unboost|p1a: Landorus|atk|1
+|-unboost|p1a: Landorus|def|1
+|-damage|p1a: Landorus|82/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Landorus
+|-start|p1a: Landorus|move: Leech Seed
+|
+|-heal|p1a: Landorus|88/100|[from] item: Leftovers
+|-damage|p1a: Landorus|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|30/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641753841
+|move|p1a: Landorus|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|5/100
+|move|p2a: Ferrothorn|Endeavor|p1a: Landorus
+|-damage|p1a: Landorus|5/100
+|
+|-heal|p1a: Landorus|11/100|[from] item: Leftovers
+|-damage|p1a: Landorus|0 fnt|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|15/100|[silent]
+|faint|p1a: Landorus
+|upkeep
+|
+|t:|1641753857
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|turn|13
+|inactive|flaming_wolf111 has 30 seconds left.
+|
+|t:|1641753877
+|move|p1a: Dragonite|Agility|p1a: Dragonite
+|-boost|p1a: Dragonite|spe|2
+|move|p2a: Ferrothorn|Endeavor|p1a: Dragonite
+|-damage|p1a: Dragonite|14/100
+|
+|-heal|p1a: Dragonite|20/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|flaming_wolf111 has 30 seconds left.
+|inactive|flaming_wolf111 has 20 seconds left.
+|inactive|flaming_wolf111 has 15 seconds left.
+|
+|t:|1641753898
+|move|p1a: Dragonite|Outrage|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Dragonite|8/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-heal|p1a: Dragonite|14/100|[from] item: Leftovers
+|upkeep
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|
+|t:|1641753906
+|switch|p2a: Zapdos|Zapdos|23/100
+|turn|15
+|inactive|flaming_wolf111 has 30 seconds left this turn.
+|
+|t:|1641753916
+|move|p1a: Dragonite|Outrage|p2a: Zapdos|[from]lockedmove
+|-damage|p2a: Zapdos|0 fnt
+|-damage|p1a: Dragonite|0 fnt|[from] item: Rocky Helmet|[of] p2a: Zapdos
+|faint|p2a: Zapdos
+|faint|p1a: Dragonite
+|
+|upkeep
+|inactive|flaming_wolf111 has 30 seconds left.
+|inactive|flaming_wolf111 has 20 seconds left.
+|inactive|flaming_wolf111 has 15 seconds left.
+|inactive|flaming_wolf111 has 10 seconds left.
+|inactive|flaming_wolf111 has 5 seconds left.
+|
+|t:|1641753947
+|switch|p2a: Blaziken|Blaziken, M|45/100
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|16
+|inactive|flaming_wolf111 has 15 seconds left this turn.
+|inactive|flaming_wolf111 has 10 seconds left.
+|inactive|flaming_wolf111 has 5 seconds left.
+|
+|t:|1641753961
+|move|p1a: Dragapult|Dragon Darts|p2a: Blaziken
+|-damage|p2a: Blaziken|19/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|upkeep
+|inactive|flaming_wolf111 has 10 seconds left this turn.
+|
+|t:|1641753966
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|turn|17
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|inactive|flaming_wolf111 has 15 seconds left.
+|inactive|flaming_wolf111 has 10 seconds left.
+|
+|t:|1641753977
+|move|p1a: Dragapult|Dragon Darts|p2a: Venusaur
+|-damage|p2a: Venusaur|75/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Venusaur
+|-damage|p2a: Venusaur|49/100
+|move|p2a: Venusaur|Sleep Powder|p1a: Dragapult
+|-status|p1a: Dragapult|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|18
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|inactive|flaming_wolf111 has 15 seconds left.
+|inactive|flaming_wolf111 has 10 seconds left.
+|inactive|flaming_wolf111 has 5 seconds left.
+|
+|t:|1641754001
+|cant|p1a: Dragapult|slp
+|move|p2a: Venusaur|Sunny Day|p2a: Venusaur
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|inactive|flaming_wolf111 has 15 seconds left this turn.
+|inactive|flaming_wolf111 has 10 seconds left.
+|
+|t:|1641754010
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-heal|p2a: Venusaur|100/100
+|-curestatus|p1a: Dragapult|slp|[msg]
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|inactive|flaming_wolf111 has 15 seconds left.
+|inactive|flaming_wolf111 has 10 seconds left.
+|
+|t:|1641754021
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-fail|p2a: Venusaur|heal
+|move|p1a: Dragapult|Phantom Force|p2a: Venusaur|[from]lockedmove
+|-damage|p2a: Venusaur|57/100
+|-damage|p1a: Dragapult|72/100|[from] item: Rocky Helmet|[of] p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|21
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|inactive|flaming_wolf111 has 15 seconds left.
+|inactive|flaming_wolf111 has 10 seconds left.
+|
+|t:|1641754032
+|move|p2a: Venusaur|Sleep Powder|p1a: Dragapult
+|-status|p1a: Dragapult|slp|[from] move: Sleep Powder
+|cant|p1a: Dragapult|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|inactive|flaming_wolf111 has 15 seconds left.
+|inactive|flaming_wolf111 has 10 seconds left.
+|
+|t:|1641754048
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-heal|p2a: Venusaur|100/100
+|cant|p1a: Dragapult|slp
+|
+|-weather|none
+|upkeep
+|turn|23
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|inactive|flaming_wolf111 has 15 seconds left.
+|inactive|flaming_wolf111 has 10 seconds left.
+|inactive|matsuda shingen has 120 seconds left.
+|
+|t:|1641754085
+|-curestatus|p1a: Dragapult|slp|[msg]
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Venusaur|Sunny Day|p2a: Venusaur
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|24
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|inactive|flaming_wolf111 has 15 seconds left.
+|inactive|flaming_wolf111 has 10 seconds left.
+|
+|t:|1641754096
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Venusaur|Leaf Storm|p1a: Dragapult|[miss]
+|-miss|p2a: Venusaur|p1a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|25
+|inactive|flaming_wolf111 has 20 seconds left this turn.
+|inactive|flaming_wolf111 has 15 seconds left.
+|
+|t:|1641754102
+|move|p1a: Dragapult|Phantom Force|p2a: Venusaur|[from]lockedmove
+|-crit|p2a: Venusaur
+|-damage|p2a: Venusaur|9/100
+|-damage|p1a: Dragapult|55/100|[from] item: Rocky Helmet|[of] p2a: Venusaur
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-heal|p2a: Venusaur|76/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|26
+|inactive|flaming_wolf111 has 25 seconds left this turn.
+|inactive|flaming_wolf111 has 20 seconds left.
+|inactive|flaming_wolf111 has 15 seconds left.
+|
+|t:|1641754117
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Venusaur|Leaf Storm|p1a: Dragapult|[miss]
+|-miss|p2a: Venusaur|p1a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|27
+|inactive|flaming_wolf111 has 25 seconds left this turn.
+|inactive|flaming_wolf111 has 20 seconds left.
+|
+|t:|1641754122
+|move|p1a: Dragapult|Phantom Force|p2a: Venusaur|[from]lockedmove
+|-damage|p2a: Venusaur|11/100
+|-damage|p1a: Dragapult|39/100|[from] item: Rocky Helmet|[of] p2a: Venusaur
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-heal|p2a: Venusaur|77/100
+|
+|-weather|none
+|upkeep
+|turn|28
+|inactive|flaming_wolf111 has 30 seconds left this turn.
+|
+|t:|1641754132
+|switch|p1a: Tapu Lele|Tapu Lele|72/100
+|-damage|p1a: Tapu Lele|60/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Venusaur|Sunny Day|p2a: Venusaur
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|29
+|inactive|flaming_wolf111 has 30 seconds left.
+|
+|t:|1641754142
+|move|p2a: Venusaur|Sleep Powder|p1a: Tapu Lele|[miss]
+|-miss|p2a: Venusaur|p1a: Tapu Lele
+|move|p1a: Tapu Lele|Thunderbolt|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|64/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|30
+|inactive|flaming_wolf111 has 30 seconds left.
+|
+|t:|1641754156
+|switch|p1a: Dragapult|Dragapult, F|39/100
+|-damage|p1a: Dragapult|26/100|[from] Stealth Rock
+|move|p2a: Venusaur|Sleep Powder|p1a: Dragapult
+|-status|p1a: Dragapult|slp|[from] move: Sleep Powder
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|31
+|inactive|flaming_wolf111 has 30 seconds left.
+|
+|t:|1641754168
+|move|p2a: Venusaur|Leaf Storm|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-unboost|p2a: Venusaur|spa|2
+|faint|p1a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|flaming_wolf111 has 30 seconds left.
+|
+|t:|1641754174
+|switch|p1a: Tapu Lele|Tapu Lele|60/100
+|-damage|p1a: Tapu Lele|47/100|[from] Stealth Rock
+|turn|32
+|inactive|flaming_wolf111 has 30 seconds left.
+|
+|t:|1641754187
+|move|p2a: Venusaur|Sleep Powder|p1a: Tapu Lele
+|-status|p1a: Tapu Lele|slp|[from] move: Sleep Powder
+|cant|p1a: Tapu Lele|slp
+|
+|-weather|none
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|33
+|
+|t:|1641754194
+|cant|p1a: Tapu Lele|slp
+|move|p2a: Venusaur|Sunny Day|p2a: Venusaur
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|34
+|
+|t:|1641754202
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-heal|p2a: Venusaur|100/100
+|cant|p1a: Tapu Lele|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1641754208
+|move|p2a: Venusaur|Leaf Storm|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|22/100 slp
+|-unboost|p2a: Venusaur|spa|2
+|-curestatus|p1a: Tapu Lele|slp|[msg]
+|move|p1a: Tapu Lele|Psyshock|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|14/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|36
+|
+|t:|1641754222
+|move|p2a: Venusaur|Sleep Powder|p1a: Tapu Lele|[miss]
+|-miss|p2a: Venusaur|p1a: Tapu Lele
+|move|p1a: Tapu Lele|Psyshock|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|win|flaming_wolf111
+|raw|flaming_wolf111's rating: 1062 &rarr; <strong>1095</strong><br />(+33 for winning)
+|raw|matsuda shingen's rating: 1090 &rarr; <strong>1065</strong><br />(-25 for losing)

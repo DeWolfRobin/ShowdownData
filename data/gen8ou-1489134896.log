@@ -1,0 +1,221 @@
+|j|☆pcengine
+|j|☆HerbSeller
+|t:|1641861240
+|gametype|singles
+|player|p1|pcengine|palmer|1034
+|player|p2|HerbSeller|clemont|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Corviknight, F|
+|poke|p1|Blacephalon|
+|poke|p1|Regieleki|
+|poke|p1|Bisharp, M|
+|poke|p1|Tapu Fini|
+|poke|p2|Starmie|
+|poke|p2|Nihilego|
+|poke|p2|Celesteela|
+|poke|p2|Sceptile, F|
+|poke|p2|Hawlucha, M|
+|poke|p2|Bisharp, M|
+|teampreview
+|
+|t:|1641861251
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Sceptile|Sceptile, F|100/100
+|turn|1
+|
+|t:|1641861262
+|move|p1a: Regieleki|Protect|p1a: Regieleki
+|-singleturn|p1a: Regieleki|Protect
+|move|p2a: Sceptile|Solar Beam||[still]
+|-prepare|p2a: Sceptile|Solar Beam
+|-enditem|p2a: Sceptile|Power Herb
+|-anim|p2a: Sceptile|Solar Beam|p1a: Regieleki
+|-activate|p1a: Regieleki|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1641861275
+|move|p2a: Sceptile|Energy Ball|p1a: Regieleki
+|-damage|p1a: Regieleki|21/100
+|move|p1a: Regieleki|Agility|p1a: Regieleki
+|-boost|p1a: Regieleki|spe|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641861284
+|move|p1a: Regieleki|Electro Ball|p2a: Sceptile
+|-resisted|p2a: Sceptile
+|-damage|p2a: Sceptile|80/100
+|move|p2a: Sceptile|Energy Ball|p1a: Regieleki
+|-damage|p1a: Regieleki|0 fnt
+|faint|p1a: Regieleki
+|
+|upkeep
+|
+|t:|1641861293
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|4
+|
+|t:|1641861298
+|move|p2a: Sceptile|Dragon Pulse|p1a: Blacephalon
+|-damage|p1a: Blacephalon|59/100
+|move|p1a: Blacephalon|Calm Mind|p1a: Blacephalon
+|-boost|p1a: Blacephalon|spa|1
+|-boost|p1a: Blacephalon|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641861307
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|move|p1a: Blacephalon|Flamethrower|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pcengine)
+|
+|t:|1641861317
+|switch|p2a: Starmie|Starmie|100/100
+|turn|6
+|
+|t:|1641861320
+|move|p2a: Starmie|Meteor Beam||[still]
+|-prepare|p2a: Starmie|Meteor Beam
+|-boost|p2a: Starmie|spa|1
+|-enditem|p2a: Starmie|Power Herb
+|-anim|p2a: Starmie|Meteor Beam|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|upkeep
+|
+|t:|1641861329
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|turn|7
+|
+|t:|1641861334
+|move|p1a: Bisharp|Sucker Punch|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-damage|p2a: Starmie|0 fnt
+|faint|p2a: Starmie
+|
+|upkeep
+|
+|t:|1641861344
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|turn|8
+|
+|t:|1641861351
+|move|p2a: Hawlucha|Sky Attack||[still]
+|-prepare|p2a: Hawlucha|Sky Attack
+|-enditem|p2a: Hawlucha|Power Herb
+|-anim|p2a: Hawlucha|Sky Attack|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|66/100
+|move|p1a: Bisharp|Psycho Cut|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-crit|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1641861360
+|switch|p2a: Celesteela|Celesteela|100/100
+|turn|9
+|
+|t:|1641861368
+|move|p1a: Bisharp|Sucker Punch|p2a: Celesteela
+|-damage|p2a: Celesteela|63/100
+|move|p2a: Celesteela|Meteor Beam||[still]
+|-prepare|p2a: Celesteela|Meteor Beam
+|-boost|p2a: Celesteela|spa|1
+|-enditem|p2a: Celesteela|Power Herb
+|-anim|p2a: Celesteela|Meteor Beam|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|30/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641861381
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: Celesteela|Autotomize|p2a: Celesteela
+|-boost|p2a: Celesteela|spe|2
+|-start|p2a: Celesteela|Autotomize
+|
+|upkeep
+|turn|11
+|
+|t:|1641861390
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: Celesteela|Autotomize|p2a: Celesteela
+|-boost|p2a: Celesteela|spe|2
+|-start|p2a: Celesteela|Autotomize
+|
+|upkeep
+|turn|12
+|
+|t:|1641861397
+|move|p2a: Celesteela|Flamethrower|p1a: Bisharp
+|-supereffective|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|upkeep
+|
+|t:|1641861405
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Celesteela|atk|1
+|turn|13
+|
+|t:|1641861412
+|move|p2a: Celesteela|Air Slash|p1a: Landorus
+|-damage|p1a: Landorus|16/100
+|move|p1a: Landorus|Rock Slide|p2a: Celesteela|[miss]
+|-miss|p1a: Landorus|p2a: Celesteela
+|
+|upkeep
+|turn|14
+|
+|t:|1641861417
+|move|p2a: Celesteela|Air Slash|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|upkeep
+|-message|pcengine forfeited.
+|
+|win|HerbSeller
+|raw|pcengine's rating: 1034 &rarr; <strong>1017</strong><br />(-17 for losing)
+|raw|HerbSeller's rating: 1000 &rarr; <strong>1044</strong><br />(+44 for winning)
+|l|☆pcengine
+|c|☆HerbSeller|Gg

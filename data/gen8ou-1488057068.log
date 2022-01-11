@@ -1,0 +1,377 @@
+|j|☆comradekomko
+|j|‽testingbot42o
+|t:|1641703935
+|gametype|singles
+|player|p1|comradekomko|170|1305
+|player|p2|testingbot42o|102|1341
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Ditto|
+|poke|p1|Swampert, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Kartana|
+|poke|p2|Clefable, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Hippowdon, F|
+|poke|p2|Excadrill, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingbot42o)
+|
+|t:|1641703946
+|start
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|1
+|
+|t:|1641703949
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Slowbro|Trick Room|p1a: Slowbro
+|-fieldstart|move: Trick Room|[of] p1a: Slowbro
+|
+|upkeep
+|turn|2
+|
+|t:|1641703952
+|move|p1a: Slowbro|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|21/100
+|-damage|p1a: Slowbro|91/100|[from] item: Life Orb
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|
+|-heal|p2a: Corviknight|27/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641703954
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Slowbro|Flamethrower|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|78/100
+|-damage|p1a: Slowbro|81/100|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1641703958
+|move|p1a: Slowbro|Psyshock|p2a: Rotom
+|-damage|p2a: Rotom|16/100
+|-damage|p1a: Slowbro|71/100|[from] item: Life Orb
+|move|p2a: Rotom|Volt Switch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|t:|1641703958
+|switch|p2a: Clefable|Clefable, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|
+|t:|1641703965
+|switch|p1a: Mine Clearer|Corviknight, M|100/100
+|turn|5
+|
+|t:|1641703968
+|move|p1a: Mine Clearer|Iron Defense|p1a: Mine Clearer
+|-boost|p1a: Mine Clearer|def|2
+|move|p2a: Clefable|Flamethrower|p1a: Mine Clearer
+|-supereffective|p1a: Mine Clearer
+|-damage|p1a: Mine Clearer|55/100
+|
+|-heal|p1a: Mine Clearer|61/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641703972
+|move|p2a: Clefable|Flamethrower|p1a: Mine Clearer
+|-supereffective|p1a: Mine Clearer
+|-damage|p1a: Mine Clearer|8/100
+|move|p1a: Mine Clearer|Roost|p1a: Mine Clearer
+|-heal|p1a: Mine Clearer|58/100
+|-singleturn|p1a: Mine Clearer|move: Roost
+|
+|-heal|p1a: Mine Clearer|64/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641703974
+|move|p2a: Clefable|Flamethrower|p1a: Mine Clearer
+|-supereffective|p1a: Mine Clearer
+|-damage|p1a: Mine Clearer|12/100
+|move|p1a: Mine Clearer|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|43/100
+|
+|-heal|p1a: Mine Clearer|18/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641703978
+|switch|p1a: Swolepert|Swampert, M|100/100
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|93/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641703981
+|move|p2a: Clefable|Moonblast|p1a: Swolepert
+|-damage|p1a: Swolepert|68/100
+|move|p1a: Swolepert|Flip Turn|p2a: Clefable
+|-damage|p2a: Clefable|66/100
+|
+|t:|1641703983
+|switch|p1a: Kartana|Kartana|100/100|[from]move: Flip Turn
+|
+|upkeep
+|turn|10
+|
+|t:|1641703992
+|switch|p2a: Rotom|Rotom-Wash|16/100
+|move|p1a: Kartana|Sacred Sword|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641703992
+|switch|p2a: Clefable|Clefable, M|66/100
+|turn|11
+|
+|t:|1641703994
+|move|p1a: Kartana|Sacred Sword|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|10/100
+|move|p2a: Clefable|Flamethrower|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641703999
+|switch|p1a: Bugging You|Volcarona, F|100/100
+|turn|12
+|
+|t:|1641704005
+|move|p1a: Bugging You|Giga Drain|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641704005
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|13
+|
+|t:|1641704007
+|move|p1a: Bugging You|Quiver Dance|p1a: Bugging You
+|-boost|p1a: Bugging You|spa|1
+|-boost|p1a: Bugging You|spd|1
+|-boost|p1a: Bugging You|spe|1
+|move|p2a: Hippowdon|Whirlwind|p1a: Bugging You
+|drag|p1a: Swolepert|Swampert, M|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641704011
+|move|p1a: Swolepert|Flip Turn|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|79/100
+|
+|t:|1641704015
+|switch|p1a: Bugging You|Volcarona, F|100/100|[from]move: Flip Turn
+|move|p2a: Hippowdon|Stealth Rock|p1a: Bugging You
+|-sidestart|p1: comradekomko|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bugging You|94/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641704017
+|move|p1a: Bugging You|Giga Drain|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|21/100
+|-heal|p1a: Bugging You|100/100|[from] drain|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Whirlwind|p1a: Bugging You
+|drag|p1a: Swolepert|Swampert, M|68/100
+|-damage|p1a: Swolepert|61/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641704020
+|move|p1a: Swolepert|Flip Turn|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|t:|1641704028
+|switch|p1a: Mine Clearer|Corviknight, M|18/100|[from]move: Flip Turn
+|-damage|p1a: Mine Clearer|6/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Mine Clearer|12/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641704028
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|turn|17
+|
+|t:|1641704031
+|move|p2a: Hydreigon|Dark Pulse|p1a: Mine Clearer
+|-crit|p1a: Mine Clearer
+|-damage|p1a: Mine Clearer|0 fnt
+|faint|p1a: Mine Clearer
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|94/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641704036
+|switch|p1a: Swolepert|Swampert, M|61/100
+|-damage|p1a: Swolepert|55/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641704038
+|move|p2a: Hydreigon|Dark Pulse|p1a: Swolepert
+|-damage|p1a: Swolepert|30/100
+|move|p1a: Swolepert|Superpower|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|38/100
+|-unboost|p1a: Swolepert|atk|1
+|-unboost|p1a: Swolepert|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|32/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|38/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641704043
+|move|p2a: Hydreigon|Dark Pulse|p1a: Swolepert
+|-damage|p1a: Swolepert|6/100
+|move|p1a: Swolepert|Flip Turn|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|26/100
+|
+|t:|1641704048
+|switch|p1a: Ditto|Ditto|100/100|[from]move: Flip Turn
+|-damage|p1a: Ditto|88/100|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Hydreigon|[from] ability: Imposter
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ditto|82/100|[from] Sandstorm
+|-damage|p2a: Hydreigon|20/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|26/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641704052
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|move|p1a: Ditto|Dark Pulse|p2a: Excadrill
+|-damage|p2a: Excadrill|43/100
+|
+|-weather|none
+|upkeep
+|turn|21
+|
+|t:|1641704054
+|switch|p2a: Hydreigon|Hydreigon, M|26/100
+|move|p1a: Ditto|Dark Pulse|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|2/100
+|
+|-heal|p2a: Hydreigon|8/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641704057
+|move|p1a: Ditto|Dark Pulse|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1641704057
+|switch|p2a: Corviknight|Corviknight, M|27/100
+|-ability|p2a: Corviknight|Pressure
+|turn|23
+|
+|t:|1641704059
+|move|p1a: Ditto|Dark Pulse|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641704059
+|switch|p2a: Excadrill|Excadrill, M|43/100
+|turn|24
+|
+|t:|1641704062
+|-activate|p1a: Ditto|move: Struggle
+|move|p1a: Ditto|Struggle|p2a: Excadrill
+|-damage|p2a: Excadrill|28/100
+|-damage|p1a: Ditto|57/100|[from] recoil
+|move|p2a: Excadrill|Earthquake|p1a: Ditto
+|-immune|p1a: Ditto|[from] ability: Levitate
+|
+|upkeep
+|turn|25
+|
+|t:|1641704064
+|switch|p1a: Swolepert|Swampert, M|6/100
+|-damage|p1a: Swolepert|0 fnt|[from] Stealth Rock
+|faint|p1a: Swolepert
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|
+|upkeep
+|
+|t:|1641704069
+|switch|p1a: Ditto|Ditto|57/100
+|-damage|p1a: Ditto|45/100|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Excadrill|[from] ability: Imposter
+|turn|26
+|
+|t:|1641704071
+|move|p1a: Ditto|Earthquake|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|win|comradekomko
+|raw|comradekomko's rating: 1305 &rarr; <strong>1327</strong><br />(+22 for winning)
+|raw|testingbot42o's rating: 1341 &rarr; <strong>1319</strong><br />(-22 for losing)
+|l|‽testingbot42o

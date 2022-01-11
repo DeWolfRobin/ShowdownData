@@ -1,0 +1,321 @@
+|j|☆rock thunder bird
+|j|☆battlebob69
+|t:|1641698678
+|gametype|singles
+|player|p1|rock thunder bird|giovanni|1213
+|player|p2|battlebob69|boarder|1187
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Latios, M|
+|poke|p1|Heatran, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Ribombee, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Electivire, F|
+|poke|p2|Gyarados, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Roserade, M|
+|poke|p2|Lapras, F|
+|poke|p2|Flygon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by battlebob69)
+|
+|t:|1641698691
+|start
+|switch|p1a: Ribombee|Ribombee, F, shiny|100/100
+|switch|p2a: Roserade|Roserade, M|100/100
+|turn|1
+|
+|t:|1641698697
+|move|p1a: Ribombee|Sticky Web|p2a: Roserade
+|-sidestart|p2: battlebob69|move: Sticky Web
+|move|p2a: Roserade|Sludge Bomb|p1a: Ribombee
+|-supereffective|p1a: Ribombee
+|-damage|p1a: Ribombee|0 fnt
+|faint|p1a: Ribombee
+|
+|upkeep
+|
+|t:|1641698706
+|switch|p1a: Heatran|Heatran, M, shiny|100/100
+|turn|2
+|
+|t:|1641698709
+|move|p2a: Roserade|Sleep Powder|p1a: Heatran
+|-status|p1a: Heatran|slp|[from] move: Sleep Powder
+|cant|p1a: Heatran|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1641698717
+|switch|p1a: Latios|Latios, M, shiny|100/100
+|move|p2a: Roserade|Toxic Spikes|p1a: Latios
+|-sidestart|p1: rock thunder bird|move: Toxic Spikes
+|
+|upkeep
+|turn|4
+|
+|t:|1641698723
+|move|p1a: Latios|Psychic|p2a: Roserade
+|-supereffective|p2a: Roserade
+|-damage|p2a: Roserade|0 fnt
+|faint|p2a: Roserade
+|
+|upkeep
+|
+|t:|1641698727
+|switch|p2a: Electivire|Electivire, F|100/100
+|-item|p2a: Electivire|Air Balloon
+|turn|5
+|
+|t:|1641698731
+|move|p1a: Latios|Draco Meteor|p2a: Electivire
+|-damage|p2a: Electivire|0 fnt
+|-unboost|p1a: Latios|spa|2
+|-enditem|p2a: Electivire|Air Balloon
+|faint|p2a: Electivire
+|
+|upkeep
+|
+|t:|1641698737
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|turn|6
+|
+|t:|1641698742
+|switch|p1a: Thundurus|Thundurus-Therian, M, shiny|100/100
+|move|p2a: Gyarados|Substitute|p2a: Gyarados
+|-start|p2a: Gyarados|Substitute
+|-damage|p2a: Gyarados|76/100
+|
+|-heal|p2a: Gyarados|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641698748
+|move|p1a: Thundurus|Thunderbolt|p2a: Gyarados
+|-supereffective|p2a: Gyarados
+|-end|p2a: Gyarados|Substitute
+|move|p2a: Gyarados|Dragon Tail|p1a: Thundurus
+|-damage|p1a: Thundurus|72/100
+|drag|p1a: Dragapult|Dragapult, M, shiny|100/100
+|-status|p1a: Dragapult|psn
+|
+|-heal|p2a: Gyarados|88/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|88/100 psn|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641698760
+|move|p1a: Dragapult|Dragon Darts|p2a: Gyarados
+|-damage|p2a: Gyarados|45/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|-damage|p1a: Dragapult|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1641698766
+|switch|p2a: Lapras|Lapras, F|100/100
+|-activate|p2a: Lapras|move: Sticky Web
+|-unboost|p2a: Lapras|spe|1
+|turn|9
+|
+|t:|1641698774
+|switch|p1a: Heatran|Heatran, M, shiny|100/100 slp
+|move|p2a: Lapras|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|93/100 slp
+|
+|upkeep
+|turn|10
+|
+|t:|1641698780
+|cant|p1a: Heatran|slp
+|move|p2a: Lapras|Hydro Pump|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|20/100 slp
+|
+|upkeep
+|turn|11
+|
+|t:|1641698785
+|cant|p1a: Heatran|slp
+|move|p2a: Lapras|Hydro Pump|p1a: Heatran|[miss]
+|-miss|p2a: Lapras|p1a: Heatran
+|
+|upkeep
+|turn|12
+|
+|t:|1641698790
+|-curestatus|p1a: Heatran|slp|[msg]
+|move|p1a: Heatran|Overheat|p2a: Lapras
+|-damage|p2a: Lapras|21/100
+|-unboost|p1a: Heatran|spa|2
+|move|p2a: Lapras|Hydro Pump|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-heal|p2a: Lapras|27/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641698795
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|-status|p1a: Tyranitar|psn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|13
+|
+|t:|1641698807
+|move|p1a: Tyranitar|Shadow Claw|p2a: Lapras
+|-damage|p2a: Lapras|7/100
+|move|p2a: Lapras|Hydro Pump|p1a: Tyranitar|[miss]
+|-miss|p2a: Lapras|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lapras|0 fnt|[from] Sandstorm
+|faint|p2a: Lapras
+|-damage|p1a: Tyranitar|88/100 psn|[from] psn
+|upkeep
+|
+|t:|1641698817
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|-activate|p2a: Blaziken|move: Sticky Web
+|-unboost|p2a: Blaziken|spe|1
+|turn|14
+|
+|t:|1641698823
+|move|p1a: Tyranitar|Shadow Claw|p2a: Blaziken
+|-damage|p2a: Blaziken|71/100
+|move|p2a: Blaziken|Power-Up Punch|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|18/100 psn
+|-boost|p2a: Blaziken|atk|1
+|-enditem|p1a: Tyranitar|Weakness Policy
+|-boost|p1a: Tyranitar|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Tyranitar|spa|2|[from] item: Weakness Policy
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blaziken|64/100|[from] Sandstorm
+|-heal|p2a: Blaziken|71/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|5/100 psn|[from] psn
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1641698837
+|move|p2a: Blaziken|Power-Up Punch|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-boost|p2a: Blaziken|atk|1
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blaziken|64/100|[from] Sandstorm
+|-heal|p2a: Blaziken|71/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641698844
+|switch|p1a: Dragapult|Dragapult, M, shiny|76/100 psn
+|turn|16
+|
+|t:|1641698853
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Blaziken|Fire Punch|p1a: Dragapult|[miss]
+|-miss|p2a: Blaziken|p1a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|70/100 psn|[from] Sandstorm
+|-damage|p2a: Blaziken|64/100|[from] Sandstorm
+|-heal|p2a: Blaziken|71/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|58/100 psn|[from] psn
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|17
+|
+|t:|1641698863
+|move|p2a: Blaziken|Fire Punch|p1a: Dragapult|[miss]
+|-miss|p2a: Blaziken|p1a: Dragapult
+|move|p1a: Dragapult|Phantom Force|p2a: Blaziken|[from]lockedmove
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|-weather|none
+|-damage|p1a: Dragapult|45/100 psn|[from] psn
+|upkeep
+|
+|t:|1641698871
+|switch|p2a: Flygon|Flygon, F|100/100
+|turn|18
+|
+|t:|1641698877
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Flygon|Dragon Claw|p1a: Dragapult|[miss]
+|-miss|p2a: Flygon|p1a: Dragapult
+|
+|-damage|p1a: Dragapult|33/100 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641698884
+|move|p1a: Dragapult|Phantom Force|p2a: Flygon|[from]lockedmove
+|-damage|p2a: Flygon|15/100
+|-damage|p1a: Dragapult|17/100 psn|[from] item: Rocky Helmet|[of] p2a: Flygon
+|move|p2a: Flygon|Dragon Dance|p2a: Flygon
+|-boost|p2a: Flygon|atk|1
+|-boost|p2a: Flygon|spe|1
+|
+|-damage|p1a: Dragapult|4/100 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641698893
+|switch|p1a: Thundurus|Thundurus-Therian, M, shiny|72/100
+|move|p2a: Flygon|Dragon Claw|p1a: Thundurus
+|-damage|p1a: Thundurus|2/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641698900
+|move|p2a: Flygon|Stone Edge|p1a: Thundurus
+|-supereffective|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|upkeep
+|
+|t:|1641698904
+|switch|p1a: Dragapult|Dragapult, M, shiny|4/100 psn
+|turn|22
+|
+|t:|1641698907
+|move|p1a: Dragapult|Sucker Punch|p2a: Flygon
+|-damage|p2a: Flygon|0 fnt
+|-damage|p1a: Dragapult|0 fnt|[from] item: Rocky Helmet|[of] p2a: Flygon
+|faint|p2a: Flygon
+|faint|p1a: Dragapult
+|
+|win|rock thunder bird
+|raw|rock thunder bird's rating: 1213 &rarr; <strong>1236</strong><br />(+23 for winning)
+|raw|battlebob69's rating: 1187 &rarr; <strong>1164</strong><br />(-23 for losing)
+|l|☆battlebob69

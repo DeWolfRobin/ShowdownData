@@ -1,0 +1,446 @@
+|j|☆TheBoopening
+|j|☆MkBoy
+|t:|1641707823
+|gametype|singles
+|player|p1|TheBoopening|schoolkidf|1079
+|player|p2|MkBoy|266|1023
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Wailord, F|
+|poke|p1|Blissey, F|
+|poke|p1|Quagsire, F|
+|poke|p1|Celesteela|
+|poke|p1|Nihilego|
+|poke|p1|Mew|
+|poke|p2|Jolteon, F|
+|poke|p2|Salamence, F|
+|poke|p2|Bisharp, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Heatran, F|
+|poke|p2|Scizor, F|
+|teampreview
+|
+|t:|1641707846
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|1
+|
+|t:|1641707859
+|switch|p1a: Wailord|Wailord, F|100/100
+|-ability|p1a: Wailord|Pressure
+|move|p2a: Heatran|Flamethrower|p1a: Wailord
+|-resisted|p1a: Wailord
+|-damage|p1a: Wailord|70/100
+|
+|-heal|p1a: Wailord|76/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641707868
+|move|p2a: Heatran|Flamethrower|p1a: Wailord
+|-resisted|p1a: Wailord
+|-damage|p1a: Wailord|45/100
+|move|p1a: Wailord|Block|p2a: Heatran
+|-activate|p2a: Heatran|trapped
+|
+|-heal|p1a: Wailord|51/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641707875
+|move|p2a: Heatran|Flamethrower|p1a: Wailord
+|-resisted|p1a: Wailord
+|-damage|p1a: Wailord|18/100
+|move|p1a: Wailord|Noble Roar|p2a: Heatran
+|-unboost|p2a: Heatran|atk|1
+|-unboost|p2a: Heatran|spa|1
+|
+|-heal|p1a: Wailord|24/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641707883
+|move|p2a: Heatran|Flamethrower|p1a: Wailord
+|-resisted|p1a: Wailord
+|-damage|p1a: Wailord|0 fnt
+|faint|p1a: Wailord
+|
+|upkeep
+|
+|t:|1641707887
+|switch|p1a: Quagsire|Quagsire, F|100/100
+|turn|5
+|
+|t:|1641707892
+|move|p2a: Heatran|Flamethrower|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|61/100
+|move|p1a: Quagsire|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Quagsire|67/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641707908
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|6
+|
+|t:|1641707913
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|move|p1a: Quagsire|Scald|p2a: Scizor
+|-damage|p2a: Scizor|79/100
+|
+|-heal|p1a: Quagsire|73/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641707924
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|move|p1a: Quagsire|Scald|p2a: Scizor
+|-damage|p2a: Scizor|57/100
+|
+|-heal|p1a: Quagsire|79/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641707935
+|move|p2a: Scizor|Bullet Punch|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|60/100
+|-damage|p2a: Scizor|48/100|[from] item: Life Orb
+|move|p1a: Quagsire|Scald|p2a: Scizor
+|-damage|p2a: Scizor|25/100
+|-status|p2a: Scizor|brn
+|
+|-heal|p1a: Quagsire|66/100|[from] item: Leftovers
+|-damage|p2a: Scizor|19/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641707945
+|move|p2a: Scizor|Brick Break|p1a: Quagsire
+|-damage|p1a: Quagsire|51/100
+|-damage|p2a: Scizor|10/100 brn|[from] item: Life Orb
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|100/100
+|
+|-damage|p2a: Scizor|3/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641707959
+|move|p2a: Scizor|U-turn|p1a: Quagsire
+|-damage|p1a: Quagsire|77/100
+|-damage|p2a: Scizor|0 fnt|[from] item: Life Orb
+|faint|p2a: Scizor
+|move|p1a: Quagsire|Scald|p2: Scizor|[notarget]
+|-fail|p1a: Quagsire
+|
+|-heal|p1a: Quagsire|83/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641707987
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|11
+|
+|t:|1641707994
+|move|p1a: Quagsire|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|79/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Quagsire
+|-sidestart|p1: TheBoopening|move: Stealth Rock
+|
+|-heal|p1a: Quagsire|89/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|85/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641708002
+|switch|p1a: Mew|Mew|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Leech Seed|p1a: Mew
+|-start|p1a: Mew|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|91/100|[from] item: Leftovers
+|-damage|p1a: Mew|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|13
+|
+|t:|1641708011
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Mew
+|-damage|p1a: Mew|25/100
+|
+|-damage|p1a: Mew|13/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|14
+|
+|t:|1641708018
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Mew|Flamethrower|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-damage|p1a: Mew|0 fnt|[from] Leech Seed|[of] p2a: Ferrothorn
+|faint|p1a: Mew
+|upkeep
+|
+|t:|1641708029
+|switch|p1a: Celesteela|Celesteela|100/100
+|-damage|p1a: Celesteela|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641708033
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|move|p2a: Ferrothorn|Leech Seed|p1a: Celesteela
+|-start|p1a: Celesteela|move: Leech Seed
+|
+|-damage|p1a: Celesteela|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|16
+|
+|t:|1641708042
+|move|p1a: Celesteela|Flamethrower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|21/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|52/100
+|
+|-heal|p2a: Ferrothorn|27/100|[from] item: Leftovers
+|-damage|p1a: Celesteela|40/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|39/100|[silent]
+|upkeep
+|turn|17
+|
+|t:|1641708051
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Celesteela|Flamethrower|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-heal|p2a: Ferrothorn|46/100|[from] item: Leftovers
+|-damage|p1a: Celesteela|27/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|58/100|[silent]
+|upkeep
+|turn|18
+|
+|t:|1641708062
+|move|p1a: Celesteela|Flamethrower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|-ability|p1a: Celesteela|Beast Boost|boost
+|-boost|p1a: Celesteela|spa|1
+|
+|upkeep
+|
+|t:|1641708076
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|19
+|
+|t:|1641708079
+|move|p2a: Bisharp|Sucker Punch|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|-damage|p2a: Bisharp|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641708083
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641708088
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|move|p1a: Blissey|Counter||[still]
+|-fail|p1a: Blissey
+|
+|-heal|p1a: Blissey|94/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641708095
+|switch|p1a: Quagsire|Quagsire, F|89/100
+|-damage|p1a: Quagsire|83/100|[from] Stealth Rock
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|-heal|p1a: Quagsire|89/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641708108
+|move|p2a: Bisharp|Knock Off|p1a: Quagsire
+|-damage|p1a: Quagsire|26/100
+|-enditem|p1a: Quagsire|Leftovers|[from] move: Knock Off|[of] p2a: Bisharp
+|-damage|p2a: Bisharp|81/100|[from] item: Life Orb
+|move|p1a: Quagsire|Earthquake|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|14/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641708116
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|76/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641708122
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|100/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641708128
+|move|p2a: Bisharp|Sucker Punch|p1a: Quagsire
+|-damage|p1a: Quagsire|60/100
+|-damage|p2a: Bisharp|4/100|[from] item: Life Orb
+|move|p1a: Quagsire|Earthquake|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641708138
+|switch|p2a: Salamence|Salamence, F|100/100
+|turn|26
+|
+|t:|1641708148
+|switch|p1a: Nihilego|Nihilego|100/100
+|-damage|p1a: Nihilego|88/100|[from] Stealth Rock
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|
+|upkeep
+|turn|27
+|
+|t:|1641708178
+|move|p2a: Salamence|Zen Headbutt|p1a: Nihilego
+|-supereffective|p1a: Nihilego
+|-damage|p1a: Nihilego|0 fnt
+|faint|p1a: Nihilego
+|-ability|p2a: Salamence|Moxie|boost
+|-boost|p2a: Salamence|atk|1
+|-damage|p2a: Salamence|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641708182
+|switch|p1a: Quagsire|Quagsire, F|60/100
+|-damage|p1a: Quagsire|54/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641708189
+|move|p2a: Salamence|Dragon Claw|p1a: Quagsire
+|-damage|p1a: Quagsire|10/100
+|-damage|p2a: Salamence|81/100|[from] item: Life Orb
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|60/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641708218
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|100/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641708232
+|move|p2a: Salamence|Dragon Dance|p2a: Salamence
+|-boost|p2a: Salamence|atk|1
+|-boost|p2a: Salamence|spe|1
+|move|p1a: Quagsire|Toxic|p2a: Salamence
+|-status|p2a: Salamence|tox
+|
+|-damage|p2a: Salamence|75/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641708241
+|move|p2a: Salamence|Dragon Claw|p1a: Quagsire
+|-damage|p1a: Quagsire|55/100
+|-damage|p2a: Salamence|65/100 tox|[from] item: Life Orb
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|100/100
+|
+|-damage|p2a: Salamence|53/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641708256
+|move|p2a: Salamence|Fly||[still]
+|-prepare|p2a: Salamence|Fly
+|move|p1a: Quagsire|Recover||[still]
+|-fail|p1a: Quagsire|heal
+|
+|-damage|p2a: Salamence|35/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641708263
+|move|p2a: Salamence|Fly|p1a: Quagsire|[from]lockedmove
+|-damage|p1a: Quagsire|46/100
+|-damage|p2a: Salamence|25/100 tox|[from] item: Life Orb
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|96/100
+|
+|-damage|p2a: Salamence|0 fnt|[from] psn
+|faint|p2a: Salamence
+|upkeep
+|
+|t:|1641708271
+|switch|p2a: Jolteon|Jolteon, F|100/100
+|turn|34
+|
+|t:|1641708276
+|move|p2a: Jolteon|Thunderbolt|p1a: Quagsire
+|-immune|p1a: Quagsire
+|move|p1a: Quagsire|Toxic|p2a: Jolteon
+|-status|p2a: Jolteon|tox
+|
+|-damage|p2a: Jolteon|94/100 tox|[from] psn
+|upkeep
+|turn|35
+|-message|MkBoy forfeited.
+|
+|win|TheBoopening
+|raw|TheBoopening's rating: 1079 &rarr; <strong>1103</strong><br />(+24 for winning)
+|raw|MkBoy's rating: 1023 &rarr; <strong>1012</strong><br />(-11 for losing)
+|l|☆MkBoy

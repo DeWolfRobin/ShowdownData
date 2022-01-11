@@ -1,0 +1,356 @@
+|j|☆Loudclouds103
+|j|☆Jwinkler
+|t:|1641781477
+|gametype|singles
+|player|p1|Loudclouds103|102|1151
+|player|p2|Jwinkler|linebacker|1218
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Perrserker, F|
+|poke|p1|Araquanid, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Dracozolt|
+|poke|p1|Blacephalon|
+|poke|p2|Pelipper, F|
+|poke|p2|Kingdra, M|
+|poke|p2|Swampert, M|
+|poke|p2|Latios, M|
+|poke|p2|Seismitoad, F|
+|poke|p2|Thundurus, M|
+|teampreview
+|
+|t:|1641781488
+|start
+|switch|p1a: Araquanid|Araquanid, M|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641781498
+|move|p2a: Pelipper|U-turn|p1a: Araquanid
+|-crit|p1a: Araquanid
+|-damage|p1a: Araquanid|87/100
+|
+|t:|1641781502
+|switch|p2a: Swampert|Swampert, M|100/100|[from]move: U-turn
+|move|p1a: Araquanid|Toxic|p2a: Swampert
+|-status|p2a: Swampert|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Araquanid|93/100|[from] item: Leftovers
+|-damage|p2a: Swampert|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641781513
+|move|p2a: Swampert|Toxic|p1a: Araquanid
+|-status|p1a: Araquanid|tox
+|move|p1a: Araquanid|Sticky Web|p2a: Swampert
+|-sidestart|p2: Jwinkler|move: Sticky Web
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Swampert|100/100 tox|[from] item: Leftovers
+|-heal|p1a: Araquanid|99/100 tox|[from] item: Leftovers
+|-damage|p2a: Swampert|88/100 tox|[from] psn
+|-damage|p1a: Araquanid|93/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641781523
+|move|p2a: Swampert|Stealth Rock|p1a: Araquanid
+|-sidestart|p1: Loudclouds103|move: Stealth Rock
+|move|p1a: Araquanid|Liquidation|p2a: Swampert
+|-damage|p2a: Swampert|30/100 tox
+|-unboost|p2a: Swampert|def|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Swampert|36/100 tox|[from] item: Leftovers
+|-heal|p1a: Araquanid|99/100 tox|[from] item: Leftovers
+|-damage|p2a: Swampert|18/100 tox|[from] psn
+|-damage|p1a: Araquanid|87/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641781536
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Swampert|atk|1
+|move|p2a: Swampert|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|7/100
+|
+|t:|1641781548
+|switch|p2a: Kingdra|Kingdra, M|100/100|[from]move: Flip Turn
+|-activate|p2a: Kingdra|move: Sticky Web
+|-unboost|p2a: Kingdra|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|13/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641781565
+|switch|p1a: Araquanid|Araquanid, M|87/100 tox
+|-damage|p1a: Araquanid|62/100 tox|[from] Stealth Rock
+|move|p2a: Kingdra|Flip Turn|p1a: Araquanid
+|-resisted|p1a: Araquanid
+|-damage|p1a: Araquanid|38/100 tox
+|
+|t:|1641781573
+|switch|p2a: Pelipper|Pelipper, F|100/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Araquanid|44/100 tox|[from] item: Leftovers
+|-damage|p1a: Araquanid|38/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641781581
+|move|p2a: Pelipper|Defog|p1a: Araquanid
+|-unboost|p1a: Araquanid|evasion|1
+|-sideend|p1: Loudclouds103|Stealth Rock|[from] move: Defog|[of] p2a: Pelipper
+|-sideend|p2: Jwinkler|Sticky Web|[from] move: Defog|[of] p2a: Pelipper
+|move|p1a: Araquanid|Toxic|p2a: Pelipper
+|-status|p2a: Pelipper|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Araquanid|44/100 tox|[from] item: Leftovers
+|-damage|p2a: Pelipper|94/100 tox|[from] psn
+|-damage|p1a: Araquanid|32/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641781592
+|move|p2a: Pelipper|Hurricane|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1641781597
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|8
+|
+|t:|1641781611
+|move|p2a: Pelipper|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|86/100
+|
+|t:|1641781618
+|switch|p2a: Thundurus|Thundurus, M|100/100|[from]move: U-turn
+|move|p1a: Tyranitar|Crunch|p2a: Thundurus
+|-damage|p2a: Thundurus|30/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Thundurus|24/100|[from] Sandstorm
+|upkeep
+|turn|9
+|
+|t:|1641781630
+|move|p2a: Thundurus|Volt Switch|p1a: Tyranitar
+|-damage|p1a: Tyranitar|60/100
+|-damage|p2a: Thundurus|14/100|[from] item: Life Orb
+|
+|t:|1641781638
+|switch|p2a: Pelipper|Pelipper, F|82/100 tox|[from]move: Volt Switch
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Tyranitar|Crunch|p2a: Pelipper
+|-damage|p2a: Pelipper|43/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|37/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641781649
+|switch|p2a: Kingdra|Kingdra, M|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|13/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kingdra|atk|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|19/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641781661
+|move|p2a: Kingdra|Scale Shot|p1a: Landorus
+|-damage|p1a: Landorus|10/100
+|-damage|p1a: Landorus|1/100
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-hitcount|p1: Landorus|3
+|-unboost|p2a: Kingdra|def|1
+|-boost|p2a: Kingdra|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641781665
+|switch|p1a: Tyranitar|Tyranitar, M|60/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|12
+|
+|t:|1641781677
+|move|p2a: Kingdra|Liquidation|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|22/100
+|move|p1a: Tyranitar|Crunch|p2a: Kingdra
+|-damage|p2a: Kingdra|19/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kingdra|13/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641781687
+|switch|p1a: Perrserker|Perrserker, F|100/100
+|move|p2a: Kingdra|Liquidation|p1a: Perrserker
+|-damage|p1a: Perrserker|70/100
+|-unboost|p1a: Perrserker|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kingdra|6/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1641781699
+|move|p2a: Kingdra|Flip Turn|p1a: Perrserker
+|-damage|p1a: Perrserker|36/100
+|
+|t:|1641781707
+|switch|p2a: Seismitoad|Seismitoad, F|100/100|[from]move: Flip Turn
+|move|p1a: Perrserker|U-turn|p2a: Seismitoad
+|-damage|p2a: Seismitoad|45/100
+|
+|t:|1641781730
+|switch|p1a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|94/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641781739
+|move|p1a: Blacephalon|Shadow Ball|p2a: Seismitoad
+|-crit|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641781750
+|switch|p2a: Latios|Latios, M|100/100
+|turn|16
+|
+|t:|1641781756
+|switch|p1a: Perrserker|Perrserker, F|36/100
+|move|p2a: Latios|Thunderbolt|p1a: Perrserker
+|-crit|p1a: Perrserker
+|-damage|p1a: Perrserker|0 fnt
+|faint|p1a: Perrserker
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Latios|95/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641781765
+|switch|p1a: Tyranitar|Tyranitar, M|22/100
+|turn|17
+|
+|t:|1641781772
+|switch|p1a: Dracozolt|Dracozolt|100/100
+|move|p2a: Latios|Aura Sphere|p1a: Dracozolt
+|-damage|p1a: Dracozolt|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Latios|89/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1641781782
+|move|p1a: Dracozolt|Thunder Wave|p2a: Latios
+|-status|p2a: Latios|par
+|move|p2a: Latios|Psychic|p1a: Dracozolt
+|-damage|p1a: Dracozolt|0 fnt
+|faint|p1a: Dracozolt
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Latios|83/100 par|[from] Sandstorm
+|upkeep
+|
+|t:|1641781787
+|switch|p1a: Blacephalon|Blacephalon|88/100
+|turn|19
+|
+|t:|1641781799
+|switch|p2a: Pelipper|Pelipper, F|37/100 tox
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Blacephalon|Shadow Ball|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641781813
+|switch|p2a: Kingdra|Kingdra, M|6/100
+|turn|20
+|
+|t:|1641781819
+|switch|p1a: Tyranitar|Tyranitar, M|22/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Kingdra|Liquidation|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kingdra|0 fnt|[from] Sandstorm
+|faint|p2a: Kingdra
+|upkeep
+|
+|t:|1641781831
+|switch|p2a: Thundurus|Thundurus, M|14/100
+|switch|p1a: Blacephalon|Blacephalon|88/100
+|turn|21
+|
+|t:|1641781839
+|move|p1a: Blacephalon|Shadow Ball|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|82/100|[from] Sandstorm
+|upkeep
+|-message|Jwinkler forfeited.
+|
+|win|Loudclouds103
+|raw|Loudclouds103's rating: 1151 &rarr; <strong>1181</strong><br />(+30 for winning)
+|raw|Jwinkler's rating: 1218 &rarr; <strong>1188</strong><br />(-30 for losing)
+|l|☆Jwinkler

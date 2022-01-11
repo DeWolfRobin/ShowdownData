@@ -1,0 +1,399 @@
+|j|☆Count Karnstein
+|j|☆Deserta
+|t:|1641776802
+|gametype|singles
+|player|p1|Count Karnstein|ingo|1375
+|player|p2|Deserta|cynthia-gen4|1375
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, M|
+|poke|p1|Blissey, F|
+|poke|p1|Steelix, F|
+|poke|p1|Lopunny, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Ditto|
+|poke|p2|Latios, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Cloyster, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Koko|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Deserta)
+|
+|t:|1641776817
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|1
+|
+|t:|1641776826
+|move|p2a: Tapu Koko|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|cant|p1a: Ferrothorn|move: Taunt|Leech Seed
+|
+|upkeep
+|turn|2
+|
+|t:|1641776832
+|switch|p1a: Steelix|Steelix, F|100/100
+|move|p2a: Tapu Koko|Reflect|p2a: Tapu Koko
+|-sidestart|p2: Deserta|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1641776838
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tapu Koko|Light Screen|p2a: Tapu Koko
+|-sidestart|p2: Deserta|move: Light Screen
+|
+|upkeep
+|turn|4
+|
+|t:|1641776846
+|move|p2a: Tapu Koko|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|82/100
+|
+|t:|1641776861
+|switch|p2a: Latios|Latios, M|100/100|[from]move: U-turn
+|move|p1a: Blissey|Seismic Toss|p2a: Latios
+|-damage|p2a: Latios|67/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641776870
+|move|p2a: Latios|Aura Sphere|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|61/100
+|move|p1a: Blissey|Seismic Toss|p2a: Latios
+|-damage|p2a: Latios|34/100
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641776877
+|move|p2a: Latios|Recover|p2a: Latios
+|-heal|p2a: Latios|84/100
+|move|p1a: Blissey|Wish|p1a: Blissey
+|
+|upkeep
+|turn|7
+|inactive|Deserta has 120 seconds left.
+|
+|t:|1641776909
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|move|p1a: Blissey|Stealth Rock|p2a: Bisharp
+|-sidestart|p2: Deserta|move: Stealth Rock
+|
+|-heal|p1a: Blissey|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|8
+|
+|t:|1641776918
+|switch|p1a: Steelix|Steelix, F|100/100
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641776928
+|move|p2a: Bisharp|Knock Off|p1a: Steelix
+|-damage|p1a: Steelix|50/100
+|-enditem|p1a: Steelix|Chesto Berry|[from] move: Knock Off|[of] p2a: Bisharp
+|move|p1a: Steelix|Body Press|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|-sideend|p2: Deserta|Reflect
+|upkeep
+|inactive|Deserta has 120 seconds left.
+|
+|t:|1641776939
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641776946
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|-sideend|p2: Deserta|move: Light Screen
+|upkeep
+|turn|11
+|
+|t:|1641776958
+|switch|p1a: Steelix|Steelix, F|50/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Steelix
+|-resisted|p1a: Steelix
+|-damage|p1a: Steelix|41/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Steelix
+|-resisted|p1a: Steelix
+|-damage|p1a: Steelix|31/100
+|-damage|p2a: Dragapult|78/100|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1641776972
+|move|p2a: Dragapult|Fire Blast|p1a: Steelix
+|-supereffective|p1a: Steelix
+|-damage|p1a: Steelix|0 fnt
+|faint|p1a: Steelix
+|-damage|p2a: Dragapult|69/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641776980
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: Dragapult|[from] ability: Imposter
+|turn|13
+|
+|t:|1641776988
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ditto|atk|1
+|move|p1a: Ditto|Phantom Force||[still]
+|-prepare|p1a: Ditto|Phantom Force
+|
+|upkeep
+|turn|14
+|
+|t:|1641777000
+|move|p1a: Ditto|Phantom Force|p2a: Landorus|[from]lockedmove
+|-damage|p2a: Landorus|40/100
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|
+|upkeep
+|turn|15
+|
+|t:|1641777009
+|move|p1a: Ditto|Phantom Force||[still]
+|-prepare|p1a: Ditto|Phantom Force
+|move|p2a: Landorus|Stealth Rock|p1a: Ditto
+|-sidestart|p1: Count Karnstein|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1641777021
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-damage|p2a: Tapu Koko|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Ditto|Phantom Force|p2a: Tapu Koko|[from]lockedmove
+|-damage|p2a: Tapu Koko|38/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641777032
+|switch|p1a: Lopunny|Lopunny, F|100/100
+|-damage|p1a: Lopunny|88/100|[from] Stealth Rock
+|move|p2a: Tapu Koko|Reflect|p2a: Tapu Koko
+|-sidestart|p2: Deserta|Reflect
+|
+|upkeep
+|turn|18
+|
+|t:|1641777040
+|move|p2a: Tapu Koko|Light Screen|p2a: Tapu Koko
+|-sidestart|p2: Deserta|move: Light Screen
+|move|p1a: Lopunny|Switcheroo|p2a: Tapu Koko
+|-activate|p1a: Lopunny|move: Trick|[of] p2a: Tapu Koko
+|-item|p2a: Tapu Koko|Assault Vest|[from] move: Switcheroo
+|-item|p1a: Lopunny|Light Clay|[from] move: Switcheroo
+|
+|upkeep
+|turn|19
+|
+|t:|1641777058
+|move|p2a: Tapu Koko|U-turn|p1a: Lopunny
+|-damage|p1a: Lopunny|65/100
+|
+|t:|1641777081
+|switch|p2a: Dragapult|Dragapult, F|69/100|[from]move: U-turn
+|-damage|p2a: Dragapult|56/100|[from] Stealth Rock
+|move|p1a: Lopunny|U-turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|52/100
+|
+|t:|1641777093
+|switch|p1a: Toxapex|Toxapex, M|100/100|[from]move: U-turn
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|20
+|inactive|Deserta has 120 seconds left.
+|
+|t:|1641777120
+|switch|p2a: Latios|Latios, M|84/100
+|-damage|p2a: Latios|72/100|[from] Stealth Rock
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p1a: Toxapex|100/100|[from] item: Black Sludge
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|21
+|
+|t:|1641777129
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Latios|Recover|p2a: Latios
+|-heal|p2a: Latios|100/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641777141
+|switch|p2a: Cloyster|Cloyster, F|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Cloyster
+|-damage|p2a: Cloyster|59/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641777148
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|move|p1a: Blissey|Seismic Toss|p2a: Cloyster
+|-damage|p2a: Cloyster|18/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641777159
+|move|p1a: Blissey|Protect|p1a: Blissey
+|-singleturn|p1a: Blissey|Protect
+|move|p2a: Cloyster|Icicle Spear|p1a: Blissey
+|-activate|p1a: Blissey|move: Protect
+|
+|-sideend|p2: Deserta|Reflect
+|upkeep
+|turn|25
+|
+|t:|1641777166
+|switch|p1a: Lopunny|Lopunny, F|65/100
+|-damage|p1a: Lopunny|53/100|[from] Stealth Rock
+|move|p2a: Cloyster|Icicle Spear|p1a: Lopunny
+|-damage|p1a: Lopunny|26/100
+|-damage|p1a: Lopunny|0 fnt
+|faint|p1a: Lopunny
+|-hitcount|p1: Lopunny|2
+|
+|-sideend|p2: Deserta|move: Light Screen
+|upkeep
+|
+|t:|1641777177
+|switch|p1a: Ditto|Ditto|100/100
+|-damage|p1a: Ditto|88/100|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Cloyster|[from] ability: Imposter
+|turn|26
+|
+|t:|1641777189
+|move|p1a: Ditto|Icicle Spear|p2a: Cloyster
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|11/100
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|3/100
+|-resisted|p2a: Cloyster
+|-crit|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|-hitcount|p2: Cloyster|3
+|
+|upkeep
+|
+|t:|1641777210
+|switch|p2a: Tapu Koko|Tapu Koko|38/100
+|-damage|p2a: Tapu Koko|25/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|27
+|
+|t:|1641777216
+|move|p1a: Ditto|Icicle Spear|p2a: Tapu Koko
+|-crit|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|-hitcount|p2: Tapu Koko|1
+|
+|upkeep
+|
+|t:|1641777223
+|switch|p2a: Dragapult|Dragapult, F|52/100
+|-damage|p2a: Dragapult|40/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641777232
+|move|p1a: Ditto|Icicle Spear|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-hitcount|p2: Dragapult|1
+|
+|upkeep
+|
+|t:|1641777243
+|switch|p2a: Landorus|Landorus-Therian, M|40/100
+|-damage|p2a: Landorus|28/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ditto|atk|1
+|turn|29
+|
+|t:|1641777248
+|move|p1a: Ditto|Icicle Spear|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|1
+|
+|upkeep
+|
+|t:|1641777252
+|switch|p2a: Latios|Latios, M|100/100
+|-damage|p2a: Latios|88/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641777262
+|move|p1a: Ditto|Icicle Spear|p2a: Latios
+|-supereffective|p2a: Latios
+|-crit|p2a: Latios
+|-damage|p2a: Latios|14/100
+|-enditem|p2a: Latios|Weakness Policy
+|-boost|p2a: Latios|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Latios|spa|2|[from] item: Weakness Policy
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|-hitcount|p2: Latios|2
+|
+|win|Count Karnstein
+|raw|Count Karnstein's rating: 1375 &rarr; <strong>1395</strong><br />(+20 for winning)
+|raw|Deserta's rating: 1375 &rarr; <strong>1355</strong><br />(-20 for losing)
+|c|☆Deserta|gg
+|c|☆Count Karnstein|gg
+|l|☆Deserta

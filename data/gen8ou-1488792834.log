@@ -1,0 +1,240 @@
+|j|☆kadeem_heron
+|j|☆Kurury
+|t:|1641822250
+|gametype|singles
+|player|p1|kadeem_heron|101|1030
+|player|p2|Kurury|2|1049
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Alakazam, M|
+|poke|p1|Blacephalon|
+|poke|p1|Kartana|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Tyranitar, F|
+|poke|p2|Mimikyu, M|
+|poke|p2|Aegislash, F|
+|poke|p2|Polteageist|
+|poke|p2|Sableye, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Jellicent, F|
+|teampreview
+|
+|t:|1641822263
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Polteageist|Polteageist, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kurury)
+|
+|t:|1641822273
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Polteageist|94/100|[from] Hail
+|-damage|p1a: Toxapex|95/100|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641822292
+|move|p2a: Polteageist|Stored Power|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Polteageist|88/100|[from] Hail
+|upkeep
+|
+|t:|1641822303
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|turn|3
+|
+|t:|1641822306
+|move|p2a: Polteageist|Shadow Ball|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-enditem|p1a: Alakazam|Focus Sash
+|-damage|p1a: Alakazam|1/100
+|move|p1a: Alakazam|Shadow Ball|p2a: Polteageist
+|-supereffective|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641822321
+|switch|p2a: Aegislash|Aegislash, F|100/100
+|turn|4
+|
+|t:|1641822339
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Sneak|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Aegislash|94/100|[from] Hail
+|upkeep
+|
+|t:|1641822348
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|5
+|
+|t:|1641822356
+|-formechange|p2a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p2a: Aegislash|King's Shield|p2a: Aegislash
+|-singleturn|p2a: Aegislash|Protect
+|move|p1a: Tyranitar|Thunder Wave|p2a: Aegislash
+|-status|p2a: Aegislash|par
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641822370
+|cant|p2a: Aegislash|par
+|move|p1a: Tyranitar|Stealth Rock|p2a: Aegislash
+|-sidestart|p2: Kurury|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641822380
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Iron Head|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Aegislash|88/100 par|[from] Hail
+|upkeep
+|
+|t:|1641822383
+|switch|p1a: Kartana|Kartana|100/100
+|turn|8
+|
+|t:|1641822394
+|cant|p2a: Aegislash|par
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Kartana|94/100|[from] Hail
+|-damage|p2a: Aegislash|82/100 par|[from] Hail
+|upkeep
+|turn|9
+|
+|t:|1641822420
+|move|p2a: Aegislash|Shadow Sneak|p1a: Kartana
+|-damage|p1a: Kartana|71/100
+|move|p1a: Kartana|Knock Off|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|-enditem|p2a: Aegislash|Weakness Policy|[from] move: Knock Off|[of] p1a: Kartana
+|faint|p2a: Aegislash
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|61/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Kartana|55/100|[from] Hail
+|upkeep
+|inactive|Kurury has 120 seconds left.
+|
+|t:|1641822445
+|switch|p2a: Mimikyu|Mimikyu, M|100/100
+|-damage|p2a: Mimikyu|88/100|[from] Stealth Rock
+|turn|10
+|inactive|Kurury has 120 seconds left.
+|
+|t:|1641822460
+|move|p1a: Kartana|Knock Off|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|88/100
+|-enditem|p2a: Mimikyu|Life Orb|[from] move: Knock Off|[of] p1a: Kartana
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, M
+|-damage|p2a: Mimikyu|76/100|[from] pokemon: Mimikyu-Busted
+|-damage|p1a: Kartana|45/100|[from] item: Life Orb
+|move|p2a: Mimikyu|Drain Punch|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|-heal|p2a: Mimikyu|99/100|[from] drain|[of] p1a: Kartana
+|faint|p1a: Kartana
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Mimikyu|93/100|[from] Hail
+|upkeep
+|
+|t:|1641822469
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|11
+|
+|t:|1641822480
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|13/100
+|move|p1a: Blacephalon|Flamethrower|p2a: Mimikyu
+|-damage|p2a: Mimikyu|11/100
+|-damage|p1a: Blacephalon|3/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Blacephalon|0 fnt|[from] Hail
+|-damage|p2a: Mimikyu|5/100|[from] Hail
+|faint|p1a: Blacephalon
+|upkeep
+|
+|t:|1641822486
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|12
+|
+|t:|1641822495
+|move|p2a: Mimikyu|Drain Punch|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|32/100
+|-heal|p2a: Mimikyu|60/100|[from] drain|[of] p1a: Tyranitar
+|move|p1a: Tyranitar|Rock Blast|p2a: Mimikyu|[miss]
+|-miss|p1a: Tyranitar|p2a: Mimikyu
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mimikyu|54/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|38/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641822508
+|move|p2a: Mimikyu|Drain Punch|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|-heal|p2a: Mimikyu|84/100|[from] drain|[of] p1a: Tyranitar
+|faint|p1a: Tyranitar
+|
+|win|Kurury
+|raw|kadeem_heron's rating: 1030 &rarr; <strong>1016</strong><br />(-14 for losing)
+|raw|Kurury's rating: 1049 &rarr; <strong>1080</strong><br />(+31 for winning)
+|l|☆kadeem_heron

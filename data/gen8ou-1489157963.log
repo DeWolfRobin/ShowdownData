@@ -1,0 +1,548 @@
+|j|☆Theworstatstuff
+|j|☆shinwa10
+|t:|1641864361
+|gametype|singles
+|player|p1|Theworstatstuff|pokemonbreeder-gen4|1119
+|player|p2|shinwa10|170|1138
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Alakazam, F|
+|poke|p1|Kommo-o, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Torkoal, M|
+|poke|p2|Venusaur, F|
+|poke|p2|Politoed, F|
+|poke|p2|Zapdos|
+|poke|p2|Rhyperior, M|
+|poke|p2|Miltank, F|
+|teampreview
+|
+|t:|1641864404
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Rhyperior|Rhyperior, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Rhyperior|atk|1
+|turn|1
+|
+|t:|1641864410
+|move|p1a: Landorus|Earthquake|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|45/100
+|move|p2a: Rhyperior|Avalanche|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641864421
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|2
+|
+|t:|1641864427
+|switch|p2a: Turtley|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Turtley
+|move|p1a: Ferrothorn|Spikes|p2a: Turtley
+|-sidestart|p2: shinwa10|Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641864435
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Turtley|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: Theworstatstuff|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641864444
+|switch|p2a: Flash|Zapdos, shiny|100/100
+|move|p1a: Toxapex|Scald|p2a: Flash
+|-damage|p2a: Flash|89/100
+|-status|p2a: Flash|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Flash|83/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641864461
+|move|p2a: Flash|Weather Ball|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|78/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Flash|77/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641864475
+|switch|p2a: Bloom|Venusaur, F, shiny|100/100
+|-damage|p2a: Bloom|88/100|[from] Spikes
+|move|p1a: Toxapex|Recover||[still]
+|-fail|p1a: Toxapex|heal
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1641864484
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Bloom|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|61/100
+|-damage|p2a: Bloom|78/100|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1641864493
+|move|p2a: Bloom|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|23/100
+|-damage|p2a: Bloom|68/100|[from] item: Life Orb
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Bloom
+|-damage|p2a: Bloom|0 fnt
+|faint|p2a: Bloom
+|
+|upkeep
+|
+|t:|1641864506
+|switch|p2a: Rhyperior|Rhyperior, M|45/100
+|-damage|p2a: Rhyperior|32/100|[from] Spikes
+|turn|9
+|
+|t:|1641864515
+|move|p2a: Rhyperior|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641864531
+|switch|p1a: Alakazam|Alakazam, F|100/100
+|turn|10
+|
+|t:|1641864536
+|move|p1a: Alakazam|Psychic|p2a: Rhyperior
+|-damage|p2a: Rhyperior|5/100
+|move|p2a: Rhyperior|Earthquake|p1a: Alakazam
+|-crit|p1a: Alakazam
+|-enditem|p1a: Alakazam|Focus Sash
+|-damage|p1a: Alakazam|1/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641864568
+|move|p1a: Alakazam|Psychic|p2a: Rhyperior
+|-damage|p2a: Rhyperior|0 fnt
+|faint|p2a: Rhyperior
+|
+|upkeep
+|
+|t:|1641864573
+|switch|p2a: Miltank|Miltank, F|100/100
+|-damage|p2a: Miltank|88/100|[from] Spikes
+|turn|12
+|
+|t:|1641864581
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Miltank|Power-Up Punch|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|85/100
+|-boost|p2a: Miltank|atk|1
+|
+|-heal|p2a: Miltank|94/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|91/100|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1641864591
+|move|p2a: Miltank|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|60/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Miltank|99/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|66/100|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1641864600
+|move|p2a: Miltank|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|46/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Miltank
+|-sidestart|p2: shinwa10|move: Toxic Spikes
+|
+|-heal|p2a: Miltank|100/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|52/100|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1641864607
+|move|p2a: Miltank|Body Slam|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|21/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Miltank
+|-sidestart|p2: shinwa10|move: Toxic Spikes
+|
+|-heal|p1a: Toxapex|27/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|t:|1641864614
+|move|p2a: Miltank|Body Slam|p1a: Toxapex
+|-damage|p1a: Toxapex|7/100
+|-status|p1a: Toxapex|par
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|57/100 par
+|
+|-heal|p1a: Toxapex|64/100 par|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|t:|1641864623
+|switch|p2a: Flash|Zapdos, shiny|77/100 brn
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100 par
+|
+|-damage|p2a: Flash|71/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641864639
+|move|p2a: Flash|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|-sideend|p1: Theworstatstuff|Stealth Rock|[from] move: Defog|[of] p2a: Flash
+|-sideend|p2: shinwa10|Spikes|[from] move: Defog|[of] p2a: Flash
+|-sideend|p2: shinwa10|Toxic Spikes|[from] move: Defog|[of] p2a: Flash
+|move|p1a: Toxapex|Scald|p2a: Flash
+|-damage|p2a: Flash|48/100 brn
+|
+|-damage|p2a: Flash|42/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641864649
+|switch|p2a: Toe|Politoed, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Toe
+|move|p1a: Toxapex|Toxic Spikes|p2a: Toe
+|-sidestart|p2: shinwa10|move: Toxic Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641864657
+|move|p2a: Toe|Encore|p1a: Toxapex
+|-start|p1a: Toxapex|Encore
+|move|p1a: Toxapex|Toxic Spikes|p2a: Toe
+|-sidestart|p2: shinwa10|move: Toxic Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1641864663
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Toe|Psychic|p1a: Ninetales
+|-damage|p1a: Ninetales|77/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toe|94/100|[from] Hail
+|-heal|p2a: Toe|100/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641864675
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Theworstatstuff|move: Aurora Veil
+|move|p2a: Toe|Hydro Pump|p1a: Ninetales
+|-damage|p1a: Ninetales|57/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toe|94/100|[from] Hail
+|-heal|p2a: Toe|100/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641864683
+|move|p1a: Ninetales|Freeze-Dry|p2a: Toe
+|-supereffective|p2a: Toe
+|-damage|p2a: Toe|68/100
+|move|p2a: Toe|Encore|p1a: Ninetales
+|-start|p1a: Ninetales|Encore
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toe|61/100|[from] Hail
+|-heal|p2a: Toe|68/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641864696
+|switch|p2a: Turtley|Torkoal, M, shiny|100/100
+|-status|p2a: Turtley|tox
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Turtley
+|move|p1a: Ninetales|Freeze-Dry|p2a: Turtley
+|-resisted|p2a: Turtley
+|-damage|p2a: Turtley|84/100 tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Turtley|78/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641864711
+|switch|p1a: Toxapex|Toxapex, M|100/100 par
+|switch|p2a: Flash|Zapdos, shiny|42/100 brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Flash|36/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641864718
+|move|p2a: Flash|Defog|p1a: Toxapex
+|-unboost|p1a: Toxapex|evasion|1
+|-sideend|p1: Theworstatstuff|move: Aurora Veil
+|-sideend|p2: shinwa10|Toxic Spikes|[from] move: Defog|[of] p2a: Flash
+|cant|p1a: Toxapex|par
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Flash|29/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641864727
+|switch|p2a: Miltank|Miltank, F|100/100
+|move|p1a: Toxapex|Recover||[still]
+|-fail|p1a: Toxapex|heal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|28
+|
+|t:|1641864733
+|move|p2a: Miltank|Heal Bell|p2a: Miltank
+|-activate|p2a: Miltank|move: Heal Bell
+|-curestatus|p2: Flash|brn|[msg]
+|-curestatus|p2: Turtley|tox|[msg]
+|cant|p1a: Toxapex|par
+|
+|-weather|none
+|upkeep
+|turn|29
+|
+|t:|1641864742
+|switch|p2a: Toe|Politoed, F, shiny|68/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Toe
+|cant|p1a: Toxapex|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toe|74/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641864750
+|switch|p2a: Flash|Zapdos, shiny|29/100
+|cant|p1a: Toxapex|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|31
+|
+|t:|1641864757
+|move|p2a: Flash|Thunder|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641864762
+|switch|p1a: Ninetales|Ninetales-Alola, F|57/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|32
+|
+|t:|1641864766
+|switch|p2a: Turtley|Torkoal, M, shiny|78/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Turtley
+|move|p1a: Ninetales|Aurora Veil||[still]
+|-fail|p1a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1641864782
+|switch|p1a: Alakazam|Alakazam, F|1/100
+|move|p2a: Turtley|Stealth Rock|p1a: Alakazam
+|-sidestart|p1: Theworstatstuff|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|34
+|
+|t:|1641864791
+|move|p1a: Alakazam|Psychic|p2a: Turtley
+|-damage|p2a: Turtley|11/100
+|move|p2a: Turtley|Body Press|p1a: Alakazam
+|-resisted|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641864797
+|switch|p1a: Ninetales|Ninetales-Alola, F|57/100
+|-damage|p1a: Ninetales|33/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|35
+|
+|t:|1641864803
+|switch|p2a: Toe|Politoed, F, shiny|74/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Toe
+|move|p1a: Ninetales|Blizzard|p2a: Toe
+|-resisted|p2a: Toe
+|-damage|p2a: Toe|60/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toe|66/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641864811
+|move|p1a: Ninetales|Freeze-Dry|p2a: Toe
+|-supereffective|p2a: Toe
+|-damage|p2a: Toe|34/100
+|move|p2a: Toe|Hydro Pump|p1a: Ninetales|[miss]
+|-miss|p2a: Toe|p1a: Ninetales
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toe|41/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641864819
+|move|p1a: Ninetales|Freeze-Dry|p2a: Toe
+|-supereffective|p2a: Toe
+|-damage|p2a: Toe|7/100
+|move|p2a: Toe|Hydro Pump|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toe|14/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641864823
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|-damage|p1a: Kommo-o|94/100|[from] Stealth Rock
+|turn|38
+|
+|t:|1641864833
+|move|p1a: Kommo-o|Drain Punch|p2a: Toe
+|-damage|p2a: Toe|0 fnt
+|-heal|p1a: Kommo-o|100/100|[from] drain|[of] p2a: Toe
+|faint|p2a: Toe
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641864842
+|switch|p2a: Turtley|Torkoal, M, shiny|11/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Turtley
+|turn|39
+|
+|t:|1641864848
+|move|p1a: Kommo-o|Earthquake|p2a: Turtley
+|-supereffective|p2a: Turtley
+|-damage|p2a: Turtley|0 fnt
+|faint|p2a: Turtley
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641864856
+|switch|p2a: Miltank|Miltank, F|100/100
+|turn|40
+|
+|t:|1641864861
+|move|p2a: Miltank|Body Slam|p1a: Kommo-o
+|-damage|p1a: Kommo-o|73/100
+|move|p1a: Kommo-o|Clangorous Soul|p1a: Kommo-o
+|-boost|p1a: Kommo-o|atk|1
+|-boost|p1a: Kommo-o|def|1
+|-boost|p1a: Kommo-o|spa|1
+|-boost|p1a: Kommo-o|spd|1
+|-boost|p1a: Kommo-o|spe|1
+|-damage|p1a: Kommo-o|40/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|41
+|
+|t:|1641864870
+|move|p1a: Kommo-o|Drain Punch|p2a: Miltank
+|-supereffective|p2a: Miltank
+|-damage|p2a: Miltank|21/100
+|-heal|p1a: Kommo-o|94/100|[from] drain|[of] p2a: Miltank
+|-heal|p1a: Kommo-o|100/100|[from] item: Shell Bell|[of] p2a: Miltank
+|move|p2a: Miltank|Body Slam|p1a: Kommo-o
+|-damage|p1a: Kommo-o|83/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Miltank|27/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641864881
+|move|p1a: Kommo-o|Drain Punch|p2a: Miltank
+|-supereffective|p2a: Miltank
+|-damage|p2a: Miltank|0 fnt
+|-heal|p1a: Kommo-o|100/100|[from] drain|[of] p2a: Miltank
+|faint|p2a: Miltank
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆Theworstatstuff|gg
+|
+|t:|1641864887
+|switch|p2a: Flash|Zapdos, shiny|29/100
+|turn|43
+|
+|t:|1641864890
+|move|p2a: Flash|Hurricane|p1a: Kommo-o|[miss]
+|-miss|p2a: Flash|p1a: Kommo-o
+|move|p1a: Kommo-o|Outrage|p2a: Flash
+|-damage|p2a: Flash|0 fnt
+|faint|p2a: Flash
+|
+|win|Theworstatstuff
+|raw|Theworstatstuff's rating: 1119 &rarr; <strong>1145</strong><br />(+26 for winning)
+|raw|shinwa10's rating: 1138 &rarr; <strong>1112</strong><br />(-26 for losing)
+|l|☆shinwa10

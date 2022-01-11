@@ -1,0 +1,298 @@
+|j|☆Mocked
+|j|☆sheay
+|t:|1641698880
+|gametype|singles
+|player|p1|Mocked|101|1000
+|player|p2|sheay|bruno|1048
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gardevoir, M|
+|poke|p1|Lopunny, F|
+|poke|p1|Incineroar, M|
+|poke|p1|Lucario, M|
+|poke|p1|Machamp, M|
+|poke|p1|Rillaboom, F|
+|poke|p2|Clefable, M|
+|poke|p2|Scizor, F|
+|poke|p2|Amoonguss, M|
+|poke|p2|Heatran, M|
+|poke|p2|Sableye, F|
+|poke|p2|Excadrill, F|
+|teampreview
+|
+|t:|1641698898
+|start
+|switch|p1a: Incineroar|Incineroar, M|100/100
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Amoonguss|atk|1
+|turn|1
+|
+|t:|1641698908
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Incineroar|Will-O-Wisp|p2a: Excadrill
+|-status|p2a: Excadrill|brn
+|
+|-damage|p2a: Excadrill|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641698925
+|switch|p2a: Sableye|Sableye, F|100/100
+|move|p1a: Incineroar|Flare Blitz|p2a: Sableye
+|-damage|p2a: Sableye|50/100
+|-damage|p1a: Incineroar|88/100|[from] Recoil
+|
+|upkeep
+|turn|3
+|c|☆sheay|hey man
+|
+|t:|1641698935
+|move|p2a: Sableye|Will-O-Wisp|p1a: Incineroar
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Incineroar
+|move|p1a: Incineroar|Flare Blitz|p2a: Sableye
+|-damage|p2a: Sableye|0 fnt
+|faint|p2a: Sableye
+|-damage|p1a: Incineroar|75/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641698947
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|4
+|c|☆Mocked|hey
+|
+|t:|1641698955
+|move|p2a: Scizor|Bullet Punch|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|67/100
+|move|p1a: Incineroar|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|62/100
+|-enditem|p2a: Scizor|Lum Berry|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|upkeep
+|turn|5
+|
+|t:|1641698965
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Incineroar|Flare Blitz|p2a: Clefable
+|-damage|p2a: Clefable|63/100
+|-damage|p1a: Incineroar|55/100|[from] Recoil
+|
+|-heal|p2a: Clefable|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641698975
+|move|p2a: Clefable|Moonblast|p1a: Incineroar
+|-damage|p1a: Incineroar|23/100
+|move|p1a: Incineroar|Parting Shot|p2a: Clefable
+|-unboost|p2a: Clefable|atk|1
+|-unboost|p2a: Clefable|spa|1
+|
+|t:|1641698981
+|switch|p1a: Lucario|Lucario, M|100/100|[from]move: Parting Shot
+|
+|-heal|p2a: Clefable|75/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641698990
+|move|p1a: Lucario|Swords Dance|p1a: Lucario
+|-boost|p1a: Lucario|atk|2
+|move|p2a: Clefable|Moonblast|p1a: Lucario
+|-damage|p1a: Lucario|66/100
+|
+|-heal|p2a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641698998
+|move|p1a: Lucario|Meteor Mash|p2a: Clefable|[miss]
+|-miss|p1a: Lucario|p2a: Clefable
+|move|p2a: Clefable|Flamethrower|p1a: Lucario
+|-supereffective|p1a: Lucario
+|-damage|p1a: Lucario|25/100
+|
+|-heal|p2a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641699006
+|move|p1a: Lucario|Meteor Mash|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|9/100
+|-damage|p1a: Lucario|15/100|[from] item: Life Orb
+|move|p2a: Clefable|Flamethrower|p1a: Lucario
+|-supereffective|p1a: Lucario
+|-damage|p1a: Lucario|0 fnt
+|faint|p1a: Lucario
+|
+|-heal|p2a: Clefable|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641699015
+|switch|p1a: Lopunny|Lopunny, F|100/100
+|turn|10
+|
+|t:|1641699042
+|switch|p2a: Amoonguss|Amoonguss, M|100/100
+|move|p1a: Lopunny|Fake Out|p2a: Amoonguss
+|-damage|p2a: Amoonguss|91/100
+|
+|-heal|p2a: Amoonguss|97/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1641699051
+|move|p1a: Lopunny|U-turn|p2a: Amoonguss
+|-damage|p2a: Amoonguss|85/100
+|
+|t:|1641699053
+|switch|p1a: Rillaboom|Rillaboom, F|100/100|[from]move: U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|32/100
+|
+|-heal|p1a: Rillaboom|38/100|[from] Grassy Terrain
+|-heal|p2a: Amoonguss|91/100|[from] Grassy Terrain
+|-heal|p2a: Amoonguss|97/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1641699070
+|move|p1a: Rillaboom|Knock Off|p2a: Amoonguss
+|-damage|p2a: Amoonguss|50/100
+|-enditem|p2a: Amoonguss|Black Sludge|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Amoonguss|Sludge Bomb|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Amoonguss|56/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641699092
+|switch|p1a: Gardevoir|Gardevoir, M|100/100
+|-ability|p1a: Gardevoir|Regenerator|[from] ability: Trace|[of] p2a: Amoonguss
+|turn|13
+|
+|t:|1641699101
+|move|p1a: Gardevoir|Psychic|p2a: Amoonguss
+|-supereffective|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|
+|upkeep
+|
+|t:|1641699144
+|switch|p2a: Scizor|Scizor, F|62/100
+|turn|14
+|
+|t:|1641699162
+|switch|p1a: Lopunny|Lopunny, F|100/100
+|move|p2a: Scizor|Bullet Punch|p1a: Lopunny
+|-damage|p1a: Lopunny|75/100
+|
+|-heal|p1a: Lopunny|81/100|[from] Grassy Terrain
+|-heal|p1a: Lopunny|87/100|[from] item: Leftovers
+|-heal|p2a: Scizor|68/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641699178
+|move|p1a: Lopunny|U-turn|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|62/100
+|
+|t:|1641699181
+|switch|p1a: Incineroar|Incineroar, M|23/100|[from]move: U-turn
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-heal|p2a: Scizor|68/100|[from] Grassy Terrain
+|-heal|p1a: Incineroar|30/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641699192
+|move|p2a: Scizor|Bullet Punch|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|19/100
+|move|p1a: Incineroar|Flare Blitz|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-crit|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|-damage|p1a: Incineroar|0 fnt|[from] Recoil
+|faint|p1a: Incineroar
+|
+|upkeep
+|
+|t:|1641699207
+|switch|p2a: Heatran|Heatran, M|100/100
+|switch|p1a: Machamp|Machamp, M|100/100
+|turn|17
+|
+|t:|1641699213
+|move|p2a: Heatran|Earth Power|p1a: Machamp
+|-damage|p1a: Machamp|57/100
+|move|p1a: Machamp|Close Combat|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-unboost|p1a: Machamp|def|1
+|-unboost|p1a: Machamp|spd|1
+|faint|p2a: Heatran
+|
+|-status|p1a: Machamp|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1641699223
+|switch|p2a: Clefable|Clefable, M|15/100
+|turn|18
+|
+|t:|1641699229
+|move|p1a: Machamp|Bullet Punch|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-damage|p1a: Machamp|51/100 brn|[from] brn
+|upkeep
+|
+|t:|1641699235
+|switch|p2a: Excadrill|Excadrill, F|94/100 brn
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|19
+|
+|t:|1641699251
+|move|p2a: Excadrill|Earthquake|p1a: Machamp
+|-damage|p1a: Machamp|1/100 brn
+|move|p1a: Machamp|Close Combat|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|-unboost|p1a: Machamp|def|1
+|-unboost|p1a: Machamp|spd|1
+|faint|p2a: Excadrill
+|
+|win|Mocked
+|raw|Mocked's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|sheay's rating: 1048 &rarr; <strong>1028</strong><br />(-20 for losing)
+|l|☆sheay

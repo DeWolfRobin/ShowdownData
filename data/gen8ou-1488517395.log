@@ -1,0 +1,327 @@
+|j|☆goldenguy950
+|j|☆D→luxe
+|t:|1641775842
+|gametype|singles
+|player|p1|goldenguy950|iris-gen5bw2|
+|player|p2|D→luxe|cyclist|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Togekiss, M|
+|poke|p1|Melmetal|
+|poke|p1|Dragapult, F|
+|poke|p1|Kartana|
+|poke|p1|Zeraora|
+|poke|p1|Umbreon, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Tapu Lele|
+|poke|p2|Zeraora|
+|poke|p2|Toxapex, F|
+|teampreview
+|
+|t:|1641775876
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Basket|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Basket
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by goldenguy950)
+|
+|t:|1641775895
+|switch|p2a: Thicc boi|Toxapex, F|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Thicc boi
+|-resisted|p2a: Thicc boi
+|-damage|p2a: Thicc boi|87/100
+|-damage|p1a: Melmetal|84/100|[from] item: Rocky Helmet|[of] p2a: Thicc boi
+|-resisted|p2a: Thicc boi
+|-damage|p2a: Thicc boi|74/100
+|-damage|p1a: Melmetal|67/100|[from] item: Rocky Helmet|[of] p2a: Thicc boi
+|-hitcount|p2a: Thicc boi|2
+|
+|-heal|p1a: Melmetal|73/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641775908
+|move|p2a: Thicc boi|Recover|p2a: Thicc boi
+|-heal|p2a: Thicc boi|100/100
+|move|p1a: Melmetal|Thunder Punch|p2a: Thicc boi
+|-supereffective|p2a: Thicc boi
+|-damage|p2a: Thicc boi|58/100
+|-damage|p1a: Melmetal|57/100|[from] item: Rocky Helmet|[of] p2a: Thicc boi
+|
+|-heal|p1a: Melmetal|63/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|c|☆goldenguy950|thunder punch for the win
+|
+|t:|1641775931
+|move|p2a: Thicc boi|Recover|p2a: Thicc boi
+|-heal|p2a: Thicc boi|100/100
+|move|p1a: Melmetal|Thunder Punch|p2a: Thicc boi
+|-supereffective|p2a: Thicc boi
+|-damage|p2a: Thicc boi|58/100
+|-damage|p1a: Melmetal|46/100|[from] item: Rocky Helmet|[of] p2a: Thicc boi
+|
+|-heal|p1a: Melmetal|52/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|goldenguy950 has 270 seconds left.
+|
+|t:|1641775956
+|move|p2a: Thicc boi|Recover|p2a: Thicc boi
+|-heal|p2a: Thicc boi|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Thicc boi
+|-resisted|p2a: Thicc boi
+|-damage|p2a: Thicc boi|87/100
+|-damage|p1a: Melmetal|36/100|[from] item: Rocky Helmet|[of] p2a: Thicc boi
+|-resisted|p2a: Thicc boi
+|-damage|p2a: Thicc boi|73/100
+|-damage|p1a: Melmetal|19/100|[from] item: Rocky Helmet|[of] p2a: Thicc boi
+|-hitcount|p2a: Thicc boi|2
+|
+|-heal|p1a: Melmetal|25/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|goldenguy950 has 270 seconds left.
+|
+|t:|1641775968
+|move|p2a: Thicc boi|Recover|p2a: Thicc boi
+|-heal|p2a: Thicc boi|100/100
+|move|p1a: Melmetal|Thunder Punch|p2a: Thicc boi
+|-supereffective|p2a: Thicc boi
+|-damage|p2a: Thicc boi|58/100
+|-damage|p1a: Melmetal|8/100|[from] item: Rocky Helmet|[of] p2a: Thicc boi
+|
+|-heal|p1a: Melmetal|14/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641775983
+|move|p2a: Thicc boi|Scald|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|inactive|goldenguy950 has 270 seconds left.
+|
+|t:|1641775996
+|switch|p1a: Zeraora|Zeraora, shiny|100/100
+|turn|7
+|
+|t:|1641776001
+|switch|p2a: Mray of OU|Landorus-Therian, M|100/100
+|-ability|p2a: Mray of OU|Intimidate|boost
+|-unboost|p1a: Zeraora|atk|1
+|move|p1a: Zeraora|Acrobatics|p2a: Mray of OU
+|-damage|p2a: Mray of OU|92/100
+|
+|-heal|p2a: Mray of OU|98/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|goldenguy950 has 270 seconds left.
+|
+|t:|1641776021
+|switch|p1a: Kartana|Kartana|100/100
+|move|p2a: Mray of OU|Knock Off|p1a: Kartana
+|-damage|p1a: Kartana|66/100
+|-enditem|p1a: Kartana|Mago Berry|[from] move: Knock Off|[of] p2a: Mray of OU
+|
+|-heal|p2a: Mray of OU|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|goldenguy950 has 270 seconds left.
+|
+|t:|1641776035
+|switch|p2a: Darkmode Skarmory|Corviknight, F|100/100
+|-ability|p2a: Darkmode Skarmory|Pressure
+|move|p1a: Kartana|Leaf Blade|p2a: Darkmode Skarmory
+|-resisted|p2a: Darkmode Skarmory
+|-damage|p2a: Darkmode Skarmory|90/100
+|
+|-heal|p2a: Darkmode Skarmory|97/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|goldenguy950 has 270 seconds left.
+|
+|t:|1641776049
+|move|p1a: Kartana|Sacred Sword|p2a: Darkmode Skarmory
+|-damage|p2a: Darkmode Skarmory|72/100
+|move|p2a: Darkmode Skarmory|U-turn|p1a: Kartana
+|-damage|p1a: Kartana|50/100
+|
+|t:|1641776059
+|switch|p2a: Thunder kitty|Zeraora|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|11
+|
+|t:|1641776069
+|move|p2a: Thunder kitty|Close Combat|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|-unboost|p2a: Thunder kitty|def|1
+|-unboost|p2a: Thunder kitty|spd|1
+|faint|p1a: Kartana
+|
+|upkeep
+|inactive|goldenguy950 has 270 seconds left.
+|
+|t:|1641776081
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|12
+|
+|t:|1641776095
+|move|p2a: Thunder kitty|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|23/100
+|-enditem|p1a: Dragapult|Aguav Berry|[from] move: Knock Off|[of] p2a: Thunder kitty
+|move|p1a: Dragapult|Dragon Darts|p2a: Thunder kitty
+|-damage|p2a: Thunder kitty|48/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Thunder kitty
+|-damage|p2a: Thunder kitty|0 fnt
+|faint|p2a: Thunder kitty
+|
+|upkeep
+|
+|t:|1641776106
+|switch|p2a: Abandonment issues|Urshifu-Rapid-Strike, F|100/100
+|turn|13
+|
+|t:|1641776124
+|switch|p1a: Togekiss|Togekiss, M|100/100
+|move|p2a: Abandonment issues|Aqua Jet|p1a: Togekiss
+|-damage|p1a: Togekiss|68/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641776140
+|switch|p2a: Darkmode Skarmory|Corviknight, F|72/100
+|-ability|p2a: Darkmode Skarmory|Pressure
+|move|p1a: Togekiss|Dazzling Gleam|p2a: Darkmode Skarmory
+|-resisted|p2a: Darkmode Skarmory
+|-damage|p2a: Darkmode Skarmory|50/100
+|
+|-heal|p2a: Darkmode Skarmory|56/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641776150
+|move|p1a: Togekiss|Heat Wave|p2a: Darkmode Skarmory
+|-supereffective|p2a: Darkmode Skarmory
+|-crit|p2a: Darkmode Skarmory
+|-damage|p2a: Darkmode Skarmory|0 fnt
+|faint|p2a: Darkmode Skarmory
+|
+|upkeep
+|
+|t:|1641776157
+|switch|p2a: Abandonment issues|Urshifu-Rapid-Strike, F|100/100
+|turn|16
+|
+|t:|1641776162
+|move|p2a: Abandonment issues|Surging Strikes|p1a: Togekiss
+|-crit|p1a: Togekiss
+|-damage|p1a: Togekiss|40/100
+|-crit|p1a: Togekiss
+|-damage|p1a: Togekiss|10/100
+|-crit|p1a: Togekiss
+|-damage|p1a: Togekiss|0 fnt
+|faint|p1a: Togekiss
+|-hitcount|p1: Togekiss|3
+|
+|upkeep
+|
+|t:|1641776172
+|switch|p1a: Zeraora|Zeraora, shiny|100/100
+|turn|17
+|
+|t:|1641776176
+|switch|p2a: Mray of OU|Landorus-Therian, M|100/100
+|-ability|p2a: Mray of OU|Intimidate|boost
+|-unboost|p1a: Zeraora|atk|1
+|move|p1a: Zeraora|Plasma Fists|p2a: Mray of OU
+|-immune|p2a: Mray of OU
+|
+|upkeep
+|turn|18
+|
+|t:|1641776187
+|move|p1a: Zeraora|Acrobatics|p2a: Mray of OU
+|-damage|p2a: Mray of OU|92/100
+|move|p2a: Mray of OU|Earthquake|p1a: Zeraora
+|-supereffective|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|
+|-heal|p2a: Mray of OU|98/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641776196
+|switch|p1a: Dragapult|Dragapult, F|23/100
+|turn|19
+|
+|t:|1641776199
+|move|p1a: Dragapult|Dragon Darts|p2a: Mray of OU
+|-damage|p2a: Mray of OU|79/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Mray of OU
+|-damage|p2a: Mray of OU|59/100
+|move|p2a: Mray of OU|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-start|p2a: Mray of OU|Disable|Earthquake|[from] ability: Cursed Body|[of] p1a: Dragapult
+|faint|p1a: Dragapult
+|
+|-heal|p2a: Mray of OU|65/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641776212
+|switch|p1a: Umbreon|Umbreon, M|100/100
+|turn|20
+|
+|t:|1641776216
+|move|p2a: Mray of OU|Knock Off|p1a: Umbreon
+|-resisted|p1a: Umbreon
+|-damage|p1a: Umbreon|89/100
+|-enditem|p1a: Umbreon|Leftovers|[from] move: Knock Off|[of] p2a: Mray of OU
+|move|p1a: Umbreon|Psychic|p2a: Mray of OU
+|-damage|p2a: Mray of OU|44/100
+|
+|-heal|p2a: Mray of OU|50/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641776226
+|move|p2a: Mray of OU|U-turn|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|53/100
+|
+|t:|1641776228
+|switch|p2a: Basket|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Basket
+|move|p1a: Umbreon|Psychic|p2a: Basket
+|-resisted|p2a: Basket
+|-damage|p2a: Basket|87/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641776237
+|move|p2a: Basket|Moonblast|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|
+|win|D→luxe

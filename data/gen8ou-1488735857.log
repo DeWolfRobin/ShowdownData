@@ -1,0 +1,233 @@
+|j|☆EdGummet
+|j|☆all in check
+|t:|1641812810
+|gametype|singles
+|player|p1|EdGummet|fisherman|1650
+|player|p2|all in check|dawn|1754
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Mantine, F|
+|poke|p1|Rotom-Mow|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Blacephalon|
+|poke|p2|Weavile, M|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by EdGummet)
+|
+|t:|1641812838
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|1
+|
+|t:|1641812850
+|move|p1a: Landorus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|85/100
+|j| bigboiboosterpack
+|
+|t:|1641812852
+|switch|p1a: Rotom|Rotom-Mow|100/100|[from]move: U-turn
+|move|p2a: Zapdos|Hurricane|p1a: Rotom
+|-damage|p1a: Rotom|6/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641812877
+|move|p1a: Rotom|Trick|p2a: Zapdos
+|-activate|p1a: Rotom|move: Trick|[of] p2a: Zapdos
+|-item|p2a: Zapdos|Choice Scarf|[from] move: Trick
+|-item|p1a: Rotom|Choice Specs|[from] move: Trick
+|move|p2a: Zapdos|Hurricane|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1641812881
+|switch|p1a: Magnezone|Magnezone|100/100
+|turn|3
+|
+|t:|1641812901
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|move|p1a: Magnezone|Flash Cannon|p2a: Landorus
+|-damage|p2a: Landorus|30/100
+|
+|-heal|p2a: Landorus|36/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641812906
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Mandibuzz
+|-sidestart|p1: EdGummet|move: Stealth Rock
+|
+|-heal|p2a: Landorus|42/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641812909
+|move|p2a: Landorus|Imprison|p2a: Landorus
+|-start|p2a: Landorus|move: Imprison
+|cant|p1a: Mandibuzz|move: Imprison|U-turn
+|
+|-heal|p2a: Landorus|48/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641812913
+|move|p2a: Landorus|U-turn|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|87/100
+|
+|t:|1641812918
+|switch|p2a: Zapdos|Zapdos|85/100|[from]move: U-turn
+|move|p1a: Mandibuzz|Foul Play|p2a: Zapdos
+|-damage|p2a: Zapdos|59/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641812927
+|switch|p1a: Magnezone|Magnezone|100/100
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|move|p2a: Zapdos|Volt Switch|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|74/100
+|j| trad asf
+|
+|t:|1641812938
+|switch|p2a: Blacephalon|Blacephalon|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|8
+|
+|t:|1641812941
+|switch|p1a: Mantine|Mantine, F|100/100
+|move|p2a: Blacephalon|Trick|p1a: Mantine
+|-activate|p2a: Blacephalon|move: Trick|[of] p1a: Mantine
+|-item|p1a: Mantine|Choice Scarf|[from] move: Trick
+|-item|p2a: Blacephalon|Heavy-Duty Boots|[from] move: Trick
+|
+|upkeep
+|turn|9
+|
+|t:|1641812953
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Mantine|Defog|p2a: Tapu Fini
+|-unboost|p2a: Tapu Fini|evasion|1
+|-sideend|p1: EdGummet|Stealth Rock|[from] move: Defog|[of] p1a: Mantine
+|-fieldend|Misty Terrain
+|
+|upkeep
+|turn|10
+|j| Lane_Alih
+|
+|t:|1641812961
+|switch|p1a: Magnezone|Magnezone|74/100
+|move|p2a: Tapu Fini|Surf|p1a: Magnezone
+|-damage|p1a: Magnezone|38/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641812968
+|switch|p2a: Landorus|Landorus-Therian, M|48/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|move|p1a: Magnezone|Thunderbolt|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-heal|p2a: Landorus|54/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641812973
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Volcarona
+|-sidestart|p1: EdGummet|move: Stealth Rock
+|
+|-heal|p2a: Landorus|60/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641812978
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Landorus|U-turn|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|84/100
+|-status|p2a: Landorus|brn|[from] ability: Flame Body|[of] p1a: Volcarona
+|
+|t:|1641812991
+|switch|p2a: Tapu Fini|Tapu Fini|100/100|[from]move: U-turn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|
+|upkeep
+|turn|14
+|
+|t:|1641812994
+|move|p1a: Volcarona|Giga Drain|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|33/100
+|-heal|p1a: Volcarona|100/100|[from] drain|[of] p2a: Tapu Fini
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-heal|p2a: Tapu Fini|39/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641812998
+|move|p1a: Volcarona|Giga Drain|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641813011
+|switch|p2a: Zapdos|Zapdos|59/100
+|turn|16
+|
+|t:|1641813013
+|move|p1a: Volcarona|Fiery Dance|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Zapdos
+|
+|upkeep
+|-message|all in check forfeited.
+|
+|win|EdGummet
+|raw|EdGummet's rating: 1650 &rarr; <strong>1676</strong><br />(+26 for winning)
+|raw|all in check's rating: 1754 &rarr; <strong>1728</strong><br />(-26 for losing)
+|l|☆all in check
+|l| bigboiboosterpack
+|l|☆EdGummet

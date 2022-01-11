@@ -1,0 +1,645 @@
+|j|☆hayden302
+|j|☆yoi42
+|t:|1641825903
+|gametype|singles
+|player|p1|hayden302|266|1187
+|player|p2|yoi42|psychicf-gen4|1176
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Wobbuffet, M|
+|poke|p1|Blissey, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Chansey, F|
+|poke|p1|Mew|
+|poke|p1|Latios, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Zapdos|
+|poke|p2|Volcarona, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Bisharp, M|
+|poke|p2|Rillaboom, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hayden302)
+|
+|t:|1641825915
+|start
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Noble Knight|Bisharp, M|100/100
+|turn|1
+|
+|t:|1641825921
+|move|p2a: Noble Knight|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|59/100
+|-enditem|p1a: Blissey|Leftovers|[from] move: Knock Off|[of] p2a: Noble Knight
+|move|p1a: Blissey|Thunder Wave|p2a: Noble Knight
+|-status|p2a: Noble Knight|par
+|
+|upkeep
+|turn|2
+|
+|t:|1641825929
+|move|p1a: Blissey|Seismic Toss|p2a: Noble Knight
+|-damage|p2a: Noble Knight|68/100 par
+|move|p2a: Noble Knight|Iron Head|p1a: Blissey
+|-damage|p1a: Blissey|21/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641825943
+|move|p2a: Noble Knight|Sucker Punch||[still]
+|-fail|p2a: Noble Knight
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|71/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641825952
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Ugabugabuga|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Ugabugabuga
+|
+|upkeep
+|turn|5
+|
+|t:|1641825958
+|move|p2a: Ugabugabuga|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|87/100
+|-damage|p2a: Ugabugabuga|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641825963
+|switch|p2a: Sacred Sun|Volcarona, F, shiny|100/100|[from]move: U-turn
+|move|p1a: Ferrothorn|Body Press|p2a: Sacred Sun
+|-resisted|p2a: Sacred Sun
+|-damage|p2a: Sacred Sun|76/100
+|
+|-heal|p2a: Sacred Sun|82/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|93/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|99/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641825978
+|switch|p1a: Blissey|Blissey, F|71/100
+|move|p2a: Sacred Sun|Fiery Dance|p1a: Blissey
+|-damage|p1a: Blissey|52/100
+|-boost|p2a: Sacred Sun|spa|1
+|
+|-heal|p2a: Sacred Sun|88/100|[from] Grassy Terrain
+|-heal|p1a: Blissey|58/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1641825990
+|switch|p2a: Landorus T-Pose|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus T-Pose|Intimidate|boost
+|-unboost|p1a: Blissey|atk|1
+|move|p1a: Blissey|Thunder Wave|p2a: Landorus T-Pose
+|-immune|p2a: Landorus T-Pose
+|
+|-heal|p1a: Blissey|64/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641826001
+|move|p2a: Landorus T-Pose|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|41/100
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641826012
+|switch|p1a: Ferrothorn|Ferrothorn, M|99/100|[from]move: Teleport
+|
+|-heal|p1a: Ferrothorn|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1641826026
+|switch|p2a: Sacred Sun|Volcarona, F, shiny|88/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Sacred Sun
+|-sidestart|p2: yoi42|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1641826037
+|switch|p2a: Thunderbird|Zapdos|100/100
+|-damage|p2a: Thunderbird|76/100|[from] Stealth Rock
+|switch|p1a: Blissey|Blissey, F|41/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641826053
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: Thunderbird|Hurricane|p1a: Latios|[miss]
+|-miss|p2a: Thunderbird|p1a: Latios
+|
+|upkeep
+|turn|12
+|
+|t:|1641826061
+|switch|p2a: Curebeauty|Ninetales-Alola, F|100/100
+|-damage|p2a: Curebeauty|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Curebeauty
+|move|p1a: Latios|Draco Meteor|p2a: Curebeauty
+|-immune|p2a: Curebeauty
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Latios|95/100|[from] Hail
+|upkeep
+|turn|13
+|
+|t:|1641826070
+|move|p2a: Curebeauty|Blizzard|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|4/100
+|move|p1a: Latios|Mystical Fire|p2a: Curebeauty
+|-supereffective|p2a: Curebeauty
+|-damage|p2a: Curebeauty|9/100
+|-unboost|p2a: Curebeauty|spa|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Latios|0 fnt|[from] Hail
+|faint|p1a: Latios
+|upkeep
+|
+|t:|1641826092
+|switch|p1a: Wobbuffet|Wobbuffet, M|100/100
+|turn|14
+|
+|t:|1641826105
+|move|p2a: Curebeauty|Blizzard|p1a: Wobbuffet
+|-damage|p1a: Wobbuffet|83/100
+|move|p1a: Wobbuffet|Mirror Coat|p2a: Curebeauty
+|-damage|p2a: Curebeauty|0 fnt
+|faint|p2a: Curebeauty
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Wobbuffet|77/100|[from] Hail
+|-heal|p1a: Wobbuffet|83/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641826114
+|switch|p2a: Thunderbird|Zapdos|76/100
+|-damage|p2a: Thunderbird|51/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641826120
+|move|p2a: Thunderbird|Defog|p1a: Wobbuffet
+|-unboost|p1a: Wobbuffet|evasion|1
+|-sideend|p2: yoi42|Stealth Rock|[from] move: Defog|[of] p2a: Thunderbird
+|move|p1a: Wobbuffet|Encore|p2a: Thunderbird
+|-start|p2a: Thunderbird|Encore
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Thunderbird|45/100|[from] Hail
+|-damage|p1a: Wobbuffet|77/100|[from] Hail
+|-heal|p1a: Wobbuffet|83/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641826149
+|switch|p2a: Noble Knight|Bisharp, M|68/100 par
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1641826156
+|switch|p2a: Sacred Sun|Volcarona, F, shiny|88/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Sacred Sun
+|-sidestart|p2: yoi42|move: Stealth Rock
+|
+|upkeep
+|turn|18
+|
+|t:|1641826162
+|switch|p1a: Blissey|Blissey, F|41/100
+|move|p2a: Sacred Sun|Fiery Dance|p1a: Blissey
+|-damage|p1a: Blissey|24/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641826176
+|switch|p2a: Thunderbird|Zapdos|45/100
+|-damage|p2a: Thunderbird|20/100|[from] Stealth Rock
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|74/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641826186
+|move|p2a: Thunderbird|Roost|p2a: Thunderbird
+|-heal|p2a: Thunderbird|70/100
+|-singleturn|p2a: Thunderbird|move: Roost
+|move|p1a: Blissey|Seismic Toss|p2a: Thunderbird
+|-damage|p2a: Thunderbird|44/100
+|-damage|p1a: Blissey|57/100|[from] item: Rocky Helmet|[of] p2a: Thunderbird
+|
+|upkeep
+|turn|21
+|
+|t:|1641826195
+|move|p2a: Thunderbird|Roost|p2a: Thunderbird
+|-heal|p2a: Thunderbird|94/100
+|-singleturn|p2a: Thunderbird|move: Roost
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641826203
+|move|p2a: Thunderbird|Defog|p1a: Blissey
+|-unboost|p1a: Blissey|evasion|1
+|-sideend|p2: yoi42|Stealth Rock|[from] move: Defog|[of] p2a: Thunderbird
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641826207
+|switch|p1a: Wobbuffet|Wobbuffet, M|83/100|[from]move: Teleport
+|
+|-heal|p1a: Wobbuffet|89/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641826217
+|switch|p2a: Landorus T-Pose|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus T-Pose|Intimidate|boost
+|-unboost|p1a: Wobbuffet|atk|1
+|move|p1a: Wobbuffet|Mirror Coat||[still]
+|-fail|p1a: Wobbuffet
+|
+|-heal|p1a: Wobbuffet|95/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641826227
+|move|p2a: Landorus T-Pose|Stealth Rock|p1a: Wobbuffet
+|-sidestart|p1: hayden302|move: Stealth Rock
+|move|p1a: Wobbuffet|Encore|p2a: Landorus T-Pose
+|-start|p2a: Landorus T-Pose|Encore
+|
+|-heal|p1a: Wobbuffet|100/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641826239
+|switch|p2a: Sacred Sun|Volcarona, F, shiny|88/100
+|switch|p1a: Mew|Mew|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Mew|94/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641826248
+|move|p2a: Sacred Sun|Fiery Dance|p1a: Mew
+|-damage|p1a: Mew|66/100
+|-boost|p2a: Sacred Sun|spa|1
+|move|p1a: Mew|Defog|p2a: Sacred Sun
+|-unboost|p2a: Sacred Sun|evasion|1
+|-sideend|p1: hayden302|Stealth Rock|[from] move: Defog|[of] p1a: Mew
+|
+|-heal|p1a: Mew|72/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641826258
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Sacred Sun|Fiery Dance|p1a: Blissey
+|-damage|p1a: Blissey|75/100
+|-boost|p2a: Sacred Sun|spa|1
+|
+|upkeep
+|turn|28
+|
+|t:|1641826269
+|switch|p2a: Landorus T-Pose|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus T-Pose|Intimidate|boost
+|-unboost|p1a: Blissey|atk|1
+|move|p1a: Blissey|Thunder Wave|p2a: Landorus T-Pose
+|-immune|p2a: Landorus T-Pose
+|
+|upkeep
+|turn|29
+|
+|t:|1641826279
+|switch|p1a: Mew|Mew|72/100
+|move|p2a: Landorus T-Pose|Earthquake|p1a: Mew
+|-damage|p1a: Mew|28/100
+|
+|-heal|p1a: Mew|34/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641826288
+|move|p2a: Landorus T-Pose|Earthquake|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641826295
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|31
+|
+|t:|1641826308
+|switch|p2a: Sacred Sun|Volcarona, F, shiny|88/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Sacred Sun
+|-start|p2a: Sacred Sun|move: Leech Seed
+|
+|-damage|p2a: Sacred Sun|76/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|32
+|
+|t:|1641826319
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Sacred Sun|Fiery Dance|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|-damage|p2a: Sacred Sun|64/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|33
+|
+|t:|1641826324
+|switch|p1a: Blissey|Blissey, F|75/100
+|move|p2a: Sacred Sun|Fiery Dance|p1a: Blissey
+|-damage|p1a: Blissey|57/100
+|
+|-damage|p2a: Sacred Sun|52/100|[from] Leech Seed|[of] p1a: Blissey
+|-heal|p1a: Blissey|62/100|[silent]
+|upkeep
+|turn|34
+|
+|t:|1641826334
+|switch|p2a: Noble Knight|Bisharp, M|68/100 par
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641826339
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|35
+|
+|t:|1641826347
+|switch|p2a: Ugabugabuga|Rillaboom, M|88/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Ugabugabuga
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Ugabugabuga
+|-sidestart|p2: yoi42|move: Stealth Rock
+|
+|-heal|p2a: Ugabugabuga|94/100|[from] Grassy Terrain
+|upkeep
+|turn|36
+|
+|t:|1641826357
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Ugabugabuga|Knock Off|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|-heal|p2a: Ugabugabuga|100/100|[from] Grassy Terrain
+|upkeep
+|turn|37
+|
+|t:|1641826368
+|switch|p1a: Blissey|Blissey, F|62/100
+|move|p2a: Ugabugabuga|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|43/100
+|
+|-heal|p1a: Blissey|50/100|[from] Grassy Terrain
+|upkeep
+|turn|38
+|
+|t:|1641826382
+|move|p2a: Ugabugabuga|Drain Punch|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|6/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|56/100
+|
+|-heal|p1a: Blissey|62/100|[from] Grassy Terrain
+|upkeep
+|turn|39
+|
+|t:|1641826390
+|move|p2a: Ugabugabuga|Grassy Glide|p1a: Blissey
+|-damage|p1a: Blissey|21/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|71/100
+|
+|-heal|p1a: Blissey|77/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|40
+|
+|t:|1641826398
+|move|p2a: Ugabugabuga|Grassy Glide|p1a: Blissey
+|-damage|p1a: Blissey|46/100
+|move|p1a: Blissey|Thunder Wave|p2a: Ugabugabuga
+|-status|p2a: Ugabugabuga|par
+|
+|upkeep
+|turn|41
+|
+|t:|1641826406
+|switch|p2a: Thunderbird|Zapdos|94/100
+|-damage|p2a: Thunderbird|69/100|[from] Stealth Rock
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|96/100
+|
+|upkeep
+|turn|42
+|
+|t:|1641826416
+|move|p2a: Thunderbird|Hurricane|p1a: Blissey|[miss]
+|-miss|p2a: Thunderbird|p1a: Blissey
+|move|p1a: Blissey|Seismic Toss|p2a: Thunderbird
+|-damage|p2a: Thunderbird|42/100
+|-damage|p1a: Blissey|79/100|[from] item: Rocky Helmet|[of] p2a: Thunderbird
+|-status|p1a: Blissey|par|[from] ability: Static|[of] p2a: Thunderbird
+|
+|upkeep
+|turn|43
+|
+|t:|1641826425
+|-curestatus|p1a: Blissey|par|[from] ability: Natural Cure
+|switch|p1a: Wobbuffet|Wobbuffet, M|100/100
+|move|p2a: Thunderbird|Roost|p2a: Thunderbird
+|-heal|p2a: Thunderbird|93/100
+|-singleturn|p2a: Thunderbird|move: Roost
+|
+|upkeep
+|turn|44
+|
+|t:|1641826437
+|move|p2a: Thunderbird|Defog|p1a: Wobbuffet
+|-unboost|p1a: Wobbuffet|evasion|1
+|-sideend|p2: yoi42|Stealth Rock|[from] move: Defog|[of] p2a: Thunderbird
+|move|p1a: Wobbuffet|Encore|p2a: Thunderbird
+|-start|p2a: Thunderbird|Encore
+|
+|upkeep
+|turn|45
+|
+|t:|1641826445
+|switch|p2a: Landorus T-Pose|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus T-Pose|Intimidate|boost
+|-unboost|p1a: Wobbuffet|atk|1
+|switch|p1a: Chansey|Chansey, F|100/100
+|
+|upkeep
+|turn|46
+|
+|t:|1641826454
+|move|p2a: Landorus T-Pose|Earthquake|p1a: Chansey
+|-damage|p1a: Chansey|66/100
+|move|p1a: Chansey|Toxic|p2a: Landorus T-Pose|[miss]
+|-miss|p1a: Chansey|p2a: Landorus T-Pose
+|
+|upkeep
+|turn|47
+|
+|t:|1641826462
+|move|p2a: Landorus T-Pose|U-turn|p1a: Chansey
+|-damage|p1a: Chansey|49/100
+|
+|t:|1641826468
+|switch|p2a: Noble Knight|Bisharp, M|68/100 par|[from]move: U-turn
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|99/100
+|
+|upkeep
+|turn|48
+|
+|t:|1641826475
+|move|p1a: Chansey|Seismic Toss|p2a: Noble Knight
+|-damage|p2a: Noble Knight|36/100 par
+|move|p2a: Noble Knight|Knock Off|p1a: Chansey
+|-damage|p1a: Chansey|63/100
+|-enditem|p1a: Chansey|Eviolite|[from] move: Knock Off|[of] p2a: Noble Knight
+|
+|upkeep
+|turn|49
+|
+|t:|1641826488
+|switch|p2a: Thunderbird|Zapdos|93/100
+|move|p1a: Chansey|Seismic Toss|p2a: Thunderbird
+|-damage|p2a: Thunderbird|66/100
+|-damage|p1a: Chansey|46/100|[from] item: Rocky Helmet|[of] p2a: Thunderbird
+|
+|upkeep
+|turn|50
+|
+|t:|1641826499
+|switch|p2a: Noble Knight|Bisharp, M|36/100 par
+|move|p1a: Chansey|Toxic||[still]
+|-fail|p1a: Chansey
+|
+|upkeep
+|turn|51
+|
+|t:|1641826507
+|move|p2a: Noble Knight|Sucker Punch||[still]
+|-fail|p2a: Noble Knight
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|96/100
+|
+|upkeep
+|turn|52
+|
+|t:|1641826519
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Ugabugabuga|Rillaboom, M|100/100 par
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Ugabugabuga
+|
+|upkeep
+|turn|53
+|
+|t:|1641826531
+|move|p2a: Ugabugabuga|Knock Off|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|71/100
+|-damage|p2a: Ugabugabuga|88/100 par|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Ugabugabuga
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Ugabugabuga
+|-sidestart|p2: yoi42|move: Stealth Rock
+|
+|-heal|p2a: Ugabugabuga|94/100 par|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|77/100|[from] Grassy Terrain
+|upkeep
+|turn|54
+|
+|t:|1641826541
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Ugabugabuga|Drain Punch|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|-heal|p2a: Ugabugabuga|100/100 par|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|83/100|[from] Grassy Terrain
+|upkeep
+|turn|55
+|
+|t:|1641826551
+|switch|p1a: Wobbuffet|Wobbuffet, M|100/100
+|move|p2a: Ugabugabuga|Knock Off|p1a: Wobbuffet
+|-supereffective|p1a: Wobbuffet
+|-damage|p1a: Wobbuffet|41/100
+|-enditem|p1a: Wobbuffet|Leftovers|[from] move: Knock Off|[of] p2a: Ugabugabuga
+|
+|-heal|p1a: Wobbuffet|47/100|[from] Grassy Terrain
+|upkeep
+|turn|56
+|
+|t:|1641826563
+|cant|p2a: Ugabugabuga|par
+|move|p1a: Wobbuffet|Destiny Bond|p1a: Wobbuffet
+|-singlemove|p1a: Wobbuffet|Destiny Bond
+|
+|-heal|p1a: Wobbuffet|53/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|57
+|
+|t:|1641826583
+|switch|p2a: Thunderbird|Zapdos|66/100
+|-damage|p2a: Thunderbird|41/100|[from] Stealth Rock
+|move|p1a: Wobbuffet|Encore||[still]
+|-fail|p1a: Wobbuffet
+|
+|upkeep
+|turn|58
+|
+|t:|1641826593
+|move|p2a: Thunderbird|Defog|p1a: Wobbuffet
+|-unboost|p1a: Wobbuffet|evasion|1
+|-sideend|p2: yoi42|Stealth Rock|[from] move: Defog|[of] p2a: Thunderbird
+|move|p1a: Wobbuffet|Mirror Coat||[still]
+|-fail|p1a: Wobbuffet
+|
+|upkeep
+|turn|59
+|-message|hayden302 forfeited.
+|
+|win|yoi42
+|raw|hayden302's rating: 1187 &rarr; <strong>1161</strong><br />(-26 for losing)
+|raw|yoi42's rating: 1176 &rarr; <strong>1202</strong><br />(+26 for winning)
+|l|☆hayden302
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

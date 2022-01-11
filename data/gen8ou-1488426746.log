@@ -1,0 +1,357 @@
+|j|☆Blue'sLeftNut
+|j|☆SaltzDaddy
+|t:|1641763878
+|gametype|singles
+|player|p1|Blue'sLeftNut|blue|1175
+|player|p2|SaltzDaddy|2|1208
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Venusaur, M|
+|poke|p1|Ninetales, F|
+|poke|p1|Gengar, M|
+|poke|p1|Cloyster, F|
+|poke|p1|Aerodactyl, M|
+|poke|p1|Jolteon, M|
+|poke|p2|Druddigon, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Obstagoon, F|
+|poke|p2|Slurpuff, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Volcarona, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Blue'sLeftNut)
+|
+|t:|1641763922
+|start
+|switch|p1a: Ninetales|Ninetales, F|100/100
+|switch|p2a: Druddigon|Druddigon, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641763930
+|move|p1a: Ninetales|Will-O-Wisp|p2a: Druddigon
+|-status|p2a: Druddigon|brn
+|move|p2a: Druddigon|Glare|p1a: Ninetales
+|-status|p1a: Ninetales|par
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Druddigon|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641763938
+|cant|p1a: Ninetales|par
+|move|p2a: Druddigon|Stealth Rock|p1a: Ninetales
+|-sidestart|p1: Blue'sLeftNut|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Druddigon|88/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641763946
+|move|p1a: Ninetales|Fire Spin|p2a: Druddigon
+|-resisted|p2a: Druddigon
+|-damage|p2a: Druddigon|81/100 brn
+|-activate|p2a: Druddigon|move: Fire Spin|[of] p1a: Ninetales
+|move|p2a: Druddigon|Taunt|p1a: Ninetales
+|-start|p1a: Ninetales|move: Taunt
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Druddigon|74/100 brn|[from] brn
+|-damage|p2a: Druddigon|62/100 brn|[from] move: Fire Spin|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1641763952
+|move|p1a: Ninetales|Fire Spin|p2a: Druddigon
+|-resisted|p2a: Druddigon
+|-damage|p2a: Druddigon|55/100 brn
+|move|p2a: Druddigon|Dragon Tail|p1a: Ninetales
+|-damage|p1a: Ninetales|81/100 par
+|drag|p1a: Venusaur|Venusaur, M|100/100
+|-damage|p1a: Venusaur|88/100|[from] Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Druddigon|48/100 brn|[from] brn
+|-end|p2a: Druddigon|Fire Spin|[partiallytrapped]|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641763965
+|move|p1a: Venusaur|Sludge Bomb|p2a: Druddigon
+|-damage|p2a: Druddigon|0 fnt
+|faint|p2a: Druddigon
+|-damage|p1a: Venusaur|78/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641763977
+|switch|p2a: Oopa Loompa|Slurpuff, M, shiny|100/100
+|turn|6
+|
+|t:|1641763982
+|move|p1a: Venusaur|Sludge Bomb|p2a: Oopa Loompa
+|-supereffective|p2a: Oopa Loompa
+|-enditem|p2a: Oopa Loompa|Focus Sash
+|-damage|p2a: Oopa Loompa|1/100
+|-status|p2a: Oopa Loompa|psn
+|-damage|p1a: Venusaur|68/100|[from] item: Life Orb
+|move|p2a: Oopa Loompa|Sticky Web|p1a: Venusaur
+|-sidestart|p1: Blue'sLeftNut|move: Sticky Web
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Oopa Loompa|0 fnt|[from] psn
+|faint|p2a: Oopa Loompa
+|upkeep
+|c|☆SaltzDaddy|lucky
+|
+|t:|1641764012
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|7
+|
+|t:|1641764018
+|move|p1a: Venusaur|Sludge Bomb|p2a: Volcarona
+|-damage|p2a: Volcarona|42/100
+|-enditem|p2a: Volcarona|Red Card|[of] p1a: Venusaur
+|-damage|p1a: Venusaur|58/100|[from] item: Life Orb
+|drag|p1a: Ninetales|Ninetales, F|81/100 par
+|-damage|p1a: Ninetales|56/100 par|[from] Stealth Rock
+|-activate|p1a: Ninetales|move: Sticky Web
+|-unboost|p1a: Ninetales|spe|1
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641764035
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|92/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Ninetales|Toxic|p2a: Volcarona
+|-status|p2a: Volcarona|tox
+|
+|-weather|none
+|-damage|p2a: Volcarona|86/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641764041
+|move|p2a: Volcarona|Bug Buzz|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|19/100 par
+|move|p1a: Ninetales|Fire Spin|p2a: Volcarona
+|-damage|p2a: Volcarona|78/100 tox
+|-activate|p2a: Volcarona|move: Fire Spin|[of] p1a: Ninetales
+|
+|-damage|p2a: Volcarona|66/100 tox|[from] psn
+|-damage|p2a: Volcarona|54/100 tox|[from] move: Fire Spin|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1641764055
+|move|p1a: Ninetales|Protect|p1a: Ninetales
+|-singleturn|p1a: Ninetales|Protect
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|100/100 tox
+|-singleturn|p2a: Volcarona|move: Roost
+|
+|-damage|p2a: Volcarona|82/100 tox|[from] psn
+|-damage|p2a: Volcarona|70/100 tox|[from] move: Fire Spin|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1641764065
+|cant|p1a: Ninetales|par
+|move|p2a: Volcarona|Bug Buzz|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-damage|p2a: Volcarona|45/100 tox|[from] psn
+|-end|p2a: Volcarona|Fire Spin|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641764074
+|switch|p1a: Venusaur|Venusaur, M|58/100
+|-activate|p1a: Venusaur|move: Sticky Web
+|-unboost|p1a: Venusaur|spe|1
+|-damage|p1a: Venusaur|46/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641764077
+|move|p2a: Volcarona|Fiery Dance|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-damage|p2a: Volcarona|15/100 tox|[from] psn
+|upkeep
+|
+|t:|1641764080
+|switch|p1a: Aerodactyl|Aerodactyl, M|100/100
+|-ability|p1a: Aerodactyl|Pressure
+|turn|13
+|
+|t:|1641764107
+|move|p2a: Volcarona|Bug Buzz|p1a: Aerodactyl
+|-resisted|p1a: Aerodactyl
+|-damage|p1a: Aerodactyl|43/100
+|move|p1a: Aerodactyl|Defog|p2a: Volcarona
+|-unboost|p2a: Volcarona|evasion|1
+|-sideend|p1: Blue'sLeftNut|Stealth Rock|[from] move: Defog|[of] p1a: Aerodactyl
+|-sideend|p1: Blue'sLeftNut|Sticky Web|[from] move: Defog|[of] p1a: Aerodactyl
+|
+|-damage|p2a: Volcarona|0 fnt|[from] psn
+|faint|p2a: Volcarona
+|upkeep
+|
+|t:|1641764116
+|switch|p2a: Obstagoon|Obstagoon, F|100/100
+|turn|14
+|
+|t:|1641764130
+|move|p1a: Aerodactyl|Rock Tomb|p2a: Obstagoon
+|-damage|p2a: Obstagoon|70/100
+|-unboost|p2a: Obstagoon|spe|1
+|move|p2a: Obstagoon|Knock Off|p1a: Aerodactyl
+|-damage|p1a: Aerodactyl|0 fnt
+|-enditem|p1a: Aerodactyl|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Obstagoon
+|faint|p1a: Aerodactyl
+|
+|-status|p2a: Obstagoon|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1641764137
+|switch|p1a: Cloyster|Cloyster, F|100/100
+|turn|15
+|
+|t:|1641764142
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: Obstagoon|Knock Off|p1a: Cloyster
+|-damage|p1a: Cloyster|24/100
+|-enditem|p1a: Cloyster|Focus Sash|[from] move: Knock Off|[of] p2a: Obstagoon
+|
+|-damage|p2a: Obstagoon|64/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641764156
+|move|p1a: Cloyster|Icicle Crash|p2a: Obstagoon
+|-damage|p2a: Obstagoon|0 fnt
+|faint|p2a: Obstagoon
+|
+|upkeep
+|
+|t:|1641764160
+|switch|p2a: Excadrill|Excadrill, M, shiny|100/100
+|-ability|p2a: Excadrill|Mold Breaker
+|turn|17
+|inactive|SaltzDaddy has 120 seconds left.
+|
+|t:|1641764205
+|move|p1a: Cloyster|Liquidation|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-enditem|p2a: Excadrill|Focus Sash
+|-damage|p2a: Excadrill|1/100
+|move|p2a: Excadrill|Earthquake|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|upkeep
+|
+|t:|1641764216
+|switch|p1a: Jolteon|Jolteon, M|100/100
+|turn|18
+|inactive|SaltzDaddy has 120 seconds left.
+|
+|t:|1641764221
+|move|p1a: Jolteon|Shadow Ball|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|inactive|SaltzDaddy has 120 seconds left.
+|
+|t:|1641764234
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|19
+|inactive|SaltzDaddy has 120 seconds left.
+|
+|t:|1641764260
+|move|p2a: Dragapult|Draco Meteor|p1a: Jolteon
+|-enditem|p1a: Jolteon|Focus Sash
+|-damage|p1a: Jolteon|1/100
+|-unboost|p2a: Dragapult|spa|2
+|move|p1a: Jolteon|Thunder Wave|p2a: Dragapult
+|-status|p2a: Dragapult|par
+|
+|upkeep
+|turn|20
+|c|☆SaltzDaddy|gg
+|
+|t:|1641764270
+|move|p1a: Jolteon|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|29/100 par
+|move|p2a: Dragapult|Draco Meteor|p1a: Jolteon
+|-damage|p1a: Jolteon|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Jolteon
+|
+|upkeep
+|
+|t:|1641764277
+|switch|p1a: Gengar|Gengar, M|100/100
+|turn|21
+|c|☆Blue'sLeftNut|SMELL YA!
+|c|☆SaltzDaddy|you got lucky lol
+|c|☆Blue'sLeftNut|SUREEE
+|inactive|SaltzDaddy has 90 seconds left.
+|inactive|SaltzDaddy has 60 seconds left.
+|c|☆Blue'sLeftNut|Lol. Cvck
+|c|☆SaltzDaddy|uh oh not very nice
+|inactive|SaltzDaddy has 30 seconds left.
+|inactive|SaltzDaddy has 20 seconds left.
+|c|☆SaltzDaddy|im just thinking how i can win this :O
+|inactive|SaltzDaddy has 15 seconds left.
+|c|☆SaltzDaddy|:3
+|inactive|SaltzDaddy has 10 seconds left.
+|inactive|SaltzDaddy has 5 seconds left.
+|
+|t:|1641764411
+|move|p1a: Gengar|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|win|Blue'sLeftNut
+|inactive|SaltzDaddy has 10 seconds left this turn.
+|raw|Blue&apos;sLeftNut's rating: 1175 &rarr; <strong>1202</strong><br />(+27 for winning)
+|raw|SaltzDaddy's rating: 1208 &rarr; <strong>1181</strong><br />(-27 for losing)
+|c|☆Blue'sLeftNut|Have sex incel
+|l|☆Blue'sLeftNut
+|c|☆SaltzDaddy|lol have fun getting uted
+|l|☆SaltzDaddy
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

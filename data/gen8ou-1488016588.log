@@ -1,0 +1,459 @@
+|j|☆So so so bad
+|j|☆gamw thn panagia
+|t:|1641697881
+|gametype|singles
+|player|p1|So so so bad|1|1632
+|player|p2|gamw thn panagia|170|1643
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Primarina, F|
+|poke|p1|Dragonite, F|
+|poke|p1|Hatterene, F|
+|poke|p1|Heatran, M|
+|poke|p1|Blacephalon|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Victini|
+|poke|p2|Weavile, F|
+|teampreview
+|
+|t:|1641697937
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|turn|1
+|
+|t:|1641697956
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|80/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by So so so bad)
+|
+|t:|1641698012
+|switch|p2a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|-heal|p1a: Landorus|86/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|gamw thn panagia has 120 seconds left.
+|j| from you
+|inactive|gamw thn panagia has 90 seconds left.
+|
+|t:|1641698077
+|switch|p1a: Heatran|Heatran, M|100/100
+|move|p2a: Weavile|Beat Up|p1a: Heatran
+|-damage|p1a: Heatran|89/100
+|-damage|p1a: Heatran|79/100
+|-damage|p1a: Heatran|71/100
+|-damage|p1a: Heatran|62/100
+|-damage|p1a: Heatran|52/100
+|-damage|p1a: Heatran|40/100
+|-hitcount|p1a: Heatran|6
+|
+|-heal|p1a: Heatran|46/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641698096
+|switch|p1a: Primarina|Primarina, F|100/100
+|move|p2a: Weavile|Beat Up|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|95/100
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|91/100
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|87/100
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|83/100
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|77/100
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|71/100
+|-hitcount|p1a: Primarina|6
+|
+|-heal|p1a: Primarina|77/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|gamw thn panagia has 90 seconds left.
+|
+|t:|1641698114
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Primarina|Scald|p2a: Zapdos
+|-damage|p2a: Zapdos|63/100
+|
+|-heal|p1a: Primarina|83/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|gamw thn panagia has 90 seconds left.
+|
+|t:|1641698131
+|switch|p1a: Landorus|Landorus-Therian, M|86/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|move|p2a: Zapdos|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|8/100
+|
+|-heal|p1a: Landorus|14/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|gamw thn panagia has 90 seconds left.
+|
+|t:|1641698146
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Toxic|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p1a: Landorus|20/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641698163
+|switch|p1a: Heatran|Heatran, M|46/100
+|move|p2a: Corviknight|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|43/100
+|inactive|gamw thn panagia has 90 seconds left.
+|
+|t:|1641698181
+|switch|p2a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|-heal|p1a: Heatran|49/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641698189
+|switch|p1a: Primarina|Primarina, F|83/100
+|move|p2a: Weavile|Knock Off|p1a: Primarina
+|-resisted|p1a: Primarina
+|-damage|p1a: Primarina|53/100
+|-enditem|p1a: Primarina|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|9
+|
+|t:|1641698197
+|switch|p2a: Zapdos|Zapdos|63/100
+|move|p1a: Primarina|Scald|p2a: Zapdos
+|-damage|p2a: Zapdos|26/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641698204
+|switch|p1a: Landorus|Landorus-Therian, M|20/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|76/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-heal|p1a: Landorus|26/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641698214
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|97/100
+|-damage|p1a: Landorus|9/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641698222
+|switch|p1a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1641698236
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|13
+|inactive|gamw thn panagia has 120 seconds left.
+|
+|t:|1641698288
+|move|p1a: Dragonite|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|38/100
+|-enditem|p2a: Toxapex|Eject Button
+|inactive|gamw thn panagia has 90 seconds left.
+|
+|t:|1641698303
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|14
+|inactive|gamw thn panagia has 90 seconds left.
+|
+|t:|1641698314
+|move|p2a: Weavile|Triple Axel|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|61/100
+|-hitcount|p1a: Dragonite|1
+|move|p1a: Dragonite|Iron Head|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|inactive|gamw thn panagia has 90 seconds left.
+|
+|t:|1641698329
+|switch|p2a: Zapdos|Zapdos|76/100
+|turn|15
+|
+|t:|1641698343
+|switch|p1a: Landorus|Landorus-Therian, M|9/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|move|p2a: Zapdos|Discharge|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p1a: Landorus|15/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641698353
+|switch|p1a: Heatran|Heatran, M|49/100
+|switch|p2a: Corviknight|Corviknight, M|97/100
+|-ability|p2a: Corviknight|Pressure
+|
+|-heal|p1a: Heatran|56/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641698366
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Stealth Rock|p2a: Landorus
+|-sidestart|p2: gamw thn panagia|move: Stealth Rock
+|
+|-heal|p1a: Heatran|62/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641698374
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Landorus|Defog|p1a: Hatterene
+|move|p1a: Hatterene|Defog|p2a: Landorus|[from]ability: Magic Bounce
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p2: gamw thn panagia|Stealth Rock|[from] move: Defog|[of] p1a: Hatterene
+|
+|upkeep
+|turn|19
+|
+|t:|1641698384
+|move|p2a: Landorus|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|83/100
+|
+|t:|1641698386
+|switch|p2a: Victini|Victini|100/100|[from]move: U-turn
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|89/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|gamw thn panagia has 120 seconds left.
+|
+|t:|1641698396
+|move|p2a: Victini|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|61/100
+|inactive|gamw thn panagia has 120 seconds left.
+|
+|t:|1641698401
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hatterene|atk|1
+|move|p1a: Hatterene|Psyshock|p2a: Landorus
+|-damage|p2a: Landorus|52/100
+|
+|-heal|p2a: Landorus|59/100|[from] item: Leftovers
+|-heal|p1a: Hatterene|67/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641698411
+|move|p2a: Landorus|U-turn|p1a: Hatterene
+|-damage|p1a: Hatterene|50/100
+|
+|t:|1641698415
+|switch|p2a: Victini|Victini|100/100|[from]move: U-turn
+|move|p1a: Hatterene|Draining Kiss|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|86/100
+|-heal|p1a: Hatterene|63/100|[from] drain|[of] p2a: Victini
+|
+|-heal|p1a: Hatterene|69/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|j| Lackland
+|
+|t:|1641698425
+|switch|p1a: Heatran|Heatran, M|62/100
+|move|p2a: Victini|V-create|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|-heal|p1a: Heatran|68/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641698433
+|switch|p2a: Landorus|Landorus-Therian, M|59/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Magma Storm|p2a: Landorus
+|-damage|p2a: Landorus|14/100
+|-activate|p2a: Landorus|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p2a: Landorus|20/100|[from] item: Leftovers
+|-heal|p1a: Heatran|74/100|[from] item: Leftovers
+|-damage|p2a: Landorus|8/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|24
+|
+|t:|1641698451
+|-end|p1a: Heatran|ability: Flash Fire|[silent]
+|switch|p1a: Dragonite|Dragonite, F|61/100
+|move|p2a: Landorus|Earthquake|p1a: Dragonite
+|-immune|p1a: Dragonite
+|
+|-heal|p2a: Landorus|14/100|[from] item: Leftovers
+|-end|p2a: Landorus|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|25
+|
+|t:|1641698461
+|switch|p2a: Corviknight|Corviknight, M|97/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dragonite|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|38/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641698469
+|switch|p2a: Zapdos|Zapdos|76/100
+|move|p1a: Dragonite|Fire Blast|p2a: Zapdos
+|-damage|p2a: Zapdos|50/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641698476
+|switch|p1a: Heatran|Heatran, M|74/100
+|move|p2a: Zapdos|Hurricane|p1a: Heatran|[miss]
+|-miss|p2a: Zapdos|p1a: Heatran
+|
+|-heal|p1a: Heatran|81/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641698486
+|move|p2a: Zapdos|Volt Switch|p1a: Heatran
+|-damage|p1a: Heatran|60/100
+|
+|t:|1641698491
+|switch|p2a: Victini|Victini|86/100|[from]move: Volt Switch
+|move|p1a: Heatran|Magma Storm|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|68/100
+|-activate|p2a: Victini|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|66/100|[from] item: Leftovers
+|-damage|p2a: Victini|56/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|29
+|
+|t:|1641698502
+|move|p2a: Victini|Bolt Strike|p1a: Heatran
+|-damage|p1a: Heatran|14/100
+|move|p1a: Heatran|Stealth Rock|p2a: Victini
+|-sidestart|p2: gamw thn panagia|move: Stealth Rock
+|
+|-heal|p1a: Heatran|20/100|[from] item: Leftovers
+|-damage|p2a: Victini|43/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|30
+|
+|t:|1641698511
+|switch|p1a: Landorus|Landorus-Therian, M|15/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Victini|atk|1
+|move|p2a: Victini|Bolt Strike|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p1a: Landorus|21/100|[from] item: Leftovers
+|-end|p2a: Victini|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|31
+|
+|t:|1641698519
+|switch|p2a: Corviknight|Corviknight, M|38/100
+|-damage|p2a: Corviknight|26/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|20/100
+|-damage|p1a: Landorus|4/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641698529
+|switch|p1a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|32
+|
+|t:|1641698538
+|switch|p2a: Toxapex|Toxapex, F|71/100
+|-damage|p2a: Toxapex|59/100|[from] Stealth Rock
+|move|p1a: Blacephalon|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|29/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641698546
+|move|p1a: Blacephalon|Shadow Ball|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|c|☆gamw thn panagia|gg
+|-message|gamw thn panagia forfeited.
+|
+|win|So so so bad
+|raw|So so so bad's rating: 1632 &rarr; <strong>1653</strong><br />(+21 for winning)
+|raw|gamw thn panagia's rating: 1643 &rarr; <strong>1622</strong><br />(-21 for losing)
+|l|☆gamw thn panagia

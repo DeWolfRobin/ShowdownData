@@ -1,0 +1,407 @@
+|j|☆Bearclaw11d7
+|j|☆light333
+|t:|1641875357
+|gametype|singles
+|player|p1|Bearclaw11d7|blaine|1028
+|player|p2|light333|ghetsis|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Escavalier, F|
+|poke|p1|Silvally-*|
+|poke|p1|Cofagrigus, M|
+|poke|p1|Mudsdale, M|
+|poke|p1|Basculin, M|
+|poke|p1|Whimsicott, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Volcanion|
+|poke|p2|Hatterene, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Snorlax, F|
+|teampreview
+|
+|t:|1641875365
+|start
+|switch|p1a: Horse Manuel|Mudsdale, M|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|1
+|
+|t:|1641875375
+|move|p1a: Horse Manuel|Stealth Rock|p2a: Hatterene
+|move|p2a: Hatterene|Stealth Rock|p1a: Horse Manuel|[from]ability: Magic Bounce
+|-sidestart|p1: Bearclaw11d7|move: Stealth Rock
+|move|p2a: Hatterene|Play Rough|p1a: Horse Manuel
+|-damage|p1a: Horse Manuel|83/100
+|-ability|p1a: Horse Manuel|Stamina|boost
+|-boost|p1a: Horse Manuel|def|1
+|
+|-heal|p1a: Horse Manuel|90/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641875397
+|move|p1a: Horse Manuel|Protect|p1a: Horse Manuel
+|-singleturn|p1a: Horse Manuel|Protect
+|move|p2a: Hatterene|Power Whip|p1a: Horse Manuel
+|-activate|p1a: Horse Manuel|move: Protect
+|
+|-heal|p1a: Horse Manuel|96/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641875409
+|switch|p1a: SPARTANS|Escavalier, F|100/100
+|-damage|p1a: SPARTANS|88/100|[from] Stealth Rock
+|move|p2a: Hatterene|Power Whip|p1a: SPARTANS
+|-resisted|p1a: SPARTANS
+|-damage|p1a: SPARTANS|81/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641875417
+|move|p1a: SPARTANS|Iron Head|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-enditem|p2a: Hatterene|Focus Sash
+|-damage|p2a: Hatterene|1/100
+|move|p2a: Hatterene|Play Rough|p1a: SPARTANS
+|-resisted|p1a: SPARTANS
+|-damage|p1a: SPARTANS|65/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641875430
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: SPARTANS|Iron Head|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|87/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641875445
+|switch|p1a: Ramses|Cofagrigus, M|100/100
+|-damage|p1a: Ramses|88/100|[from] Stealth Rock
+|move|p2a: Volcanion|Fire Blast|p1a: Ramses|[miss]
+|-miss|p2a: Volcanion|p1a: Ramses
+|
+|upkeep
+|turn|7
+|
+|t:|1641875463
+|switch|p2a: Toxapex|Toxapex, M, shiny|100/100
+|move|p1a: Ramses|Will-O-Wisp|p2a: Toxapex
+|-status|p2a: Toxapex|brn
+|
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641875471
+|move|p1a: Ramses|Iron Defense|p1a: Ramses
+|-boost|p1a: Ramses|def|2
+|move|p2a: Toxapex|Toxic Spikes|p1a: Ramses
+|-sidestart|p1: Bearclaw11d7|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641875480
+|move|p1a: Ramses|Iron Defense|p1a: Ramses
+|-boost|p1a: Ramses|def|2
+|move|p2a: Toxapex|Toxic Spikes|p1a: Ramses
+|-sidestart|p1: Bearclaw11d7|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641875489
+|move|p1a: Ramses|Iron Defense|p1a: Ramses
+|-boost|p1a: Ramses|def|2
+|move|p2a: Toxapex|Gunk Shot|p1a: Ramses
+|-resisted|p1a: Ramses
+|-damage|p1a: Ramses|87/100
+|
+|-heal|p2a: Toxapex|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641875503
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Ramses|Hex|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1641875523
+|move|p1a: Ramses|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100 brn
+|move|p2a: Toxapex|Gunk Shot|p1a: Ramses
+|-resisted|p1a: Ramses
+|-damage|p1a: Ramses|86/100
+|
+|-heal|p2a: Toxapex|63/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|57/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641875537
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Ramses|Hex|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|63/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|57/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641875547
+|move|p1a: Ramses|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|17/100 brn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|67/100 brn
+|
+|-heal|p2a: Toxapex|74/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|67/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641875559
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Ramses|Hex|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|74/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|67/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641875570
+|move|p1a: Ramses|Body Press|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|28/100 brn
+|move|p2a: Toxapex|Gunk Shot|p1a: Ramses
+|-resisted|p1a: Ramses
+|-damage|p1a: Ramses|85/100
+|
+|-heal|p2a: Toxapex|34/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|28/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641875580
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Ramses|Hex|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|34/100 brn|[from] item: Leftovers
+|-damage|p2a: Toxapex|28/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641875591
+|move|p1a: Ramses|Body Press|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641875599
+|switch|p2a: Hatterene|Hatterene, F|1/100
+|turn|19
+|
+|t:|1641875604
+|move|p1a: Ramses|Body Press|p2a: Hatterene
+|-resisted|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1641875608
+|switch|p2a: Dragapult|Dragapult, M, shiny|100/100
+|turn|20
+|
+|t:|1641875614
+|move|p2a: Dragapult|Psychic Fangs|p1a: Ramses
+|-damage|p1a: Ramses|78/100
+|-activate|p1a: Ramses|ability: Mummy|Infiltrator|[of] p2a: Dragapult
+|move|p1a: Ramses|Will-O-Wisp|p2a: Dragapult
+|-status|p2a: Dragapult|brn
+|
+|-damage|p2a: Dragapult|95/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641875630
+|move|p2a: Dragapult|Shadow Ball|p1a: Ramses
+|-supereffective|p1a: Ramses
+|-damage|p1a: Ramses|36/100
+|-unboost|p1a: Ramses|spd|1
+|move|p1a: Ramses|Hex|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641875639
+|switch|p2a: Corviknight|Corviknight, M, shiny|100/100
+|turn|22
+|
+|t:|1641875641
+|move|p2a: Corviknight|Flash Cannon|p1a: Ramses
+|-damage|p1a: Ramses|4/100
+|move|p1a: Ramses|Body Press|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641875647
+|switch|p2a: Volcanion|Volcanion|87/100
+|turn|23
+|
+|t:|1641875654
+|move|p2a: Volcanion|Hydro Pump|p1a: Ramses
+|-damage|p1a: Ramses|0 fnt
+|faint|p1a: Ramses
+|
+|upkeep
+|
+|t:|1641875662
+|switch|p1a: Masculin|Basculin, M|100/100
+|-damage|p1a: Masculin|88/100|[from] Stealth Rock
+|-status|p1a: Masculin|tox
+|turn|24
+|
+|t:|1641875671
+|move|p1a: Masculin|Liquidation|p2a: Volcanion
+|-heal|p2a: Volcanion|100/100|[from] ability: Water Absorb|[of] p1a: Masculin
+|move|p2a: Volcanion|Earthquake|p1a: Masculin
+|-damage|p1a: Masculin|27/100 tox
+|
+|-damage|p1a: Masculin|21/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641875681
+|switch|p1a: Whimsical|Whimsicott, M|100/100
+|-status|p1a: Whimsical|tox
+|-damage|p1a: Whimsical|88/100 tox|[from] Stealth Rock
+|move|p2a: Volcanion|Earthquake|p1a: Whimsical
+|-resisted|p1a: Whimsical
+|-damage|p1a: Whimsical|63/100 tox
+|
+|-damage|p1a: Whimsical|57/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641875688
+|move|p1a: Whimsical|Moonblast|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-crit|p2a: Volcanion
+|-damage|p2a: Volcanion|54/100
+|move|p2a: Volcanion|Fire Blast|p1a: Whimsical
+|-supereffective|p1a: Whimsical
+|-damage|p1a: Whimsical|0 fnt
+|faint|p1a: Whimsical
+|
+|upkeep
+|
+|t:|1641875692
+|switch|p1a: Assceus|Silvally-Dark|100/100
+|-damage|p1a: Assceus|88/100|[from] Stealth Rock
+|-status|p1a: Assceus|tox
+|turn|27
+|
+|t:|1641875705
+|move|p1a: Assceus|Defog|p2a: Volcanion
+|-unboost|p2a: Volcanion|evasion|1
+|-sideend|p1: Bearclaw11d7|Toxic Spikes|[from] move: Defog|[of] p1a: Assceus
+|-sideend|p1: Bearclaw11d7|Stealth Rock|[from] move: Defog|[of] p1a: Assceus
+|move|p2a: Volcanion|Earthquake|p1a: Assceus
+|-damage|p1a: Assceus|49/100 tox
+|
+|-damage|p1a: Assceus|43/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641875715
+|move|p1a: Assceus|Multi-Attack|p2a: Volcanion
+|-damage|p2a: Volcanion|14/100
+|move|p2a: Volcanion|Earthquake|p1a: Assceus
+|-damage|p1a: Assceus|8/100 tox
+|
+|-damage|p1a: Assceus|0 fnt|[from] psn
+|faint|p1a: Assceus
+|upkeep
+|
+|t:|1641875719
+|switch|p1a: Masculin|Basculin, M|21/100 tox
+|turn|29
+|
+|t:|1641875732
+|move|p1a: Masculin|Psychic Fangs|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|-damage|p1a: Masculin|15/100 tox|[from] psn
+|upkeep
+|
+|t:|1641875736
+|switch|p2a: Snorlax|Snorlax, F|100/100
+|turn|30
+|
+|t:|1641875744
+|move|p1a: Masculin|Psychic Fangs|p2a: Snorlax
+|-damage|p2a: Snorlax|69/100
+|move|p2a: Snorlax|Blizzard|p1a: Masculin
+|-resisted|p1a: Masculin
+|-damage|p1a: Masculin|0 fnt
+|faint|p1a: Masculin
+|
+|upkeep
+|
+|t:|1641875748
+|switch|p1a: SPARTANS|Escavalier, F|65/100
+|turn|31
+|
+|t:|1641875755
+|move|p1a: SPARTANS|Close Combat|p2a: Snorlax
+|-supereffective|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|-unboost|p1a: SPARTANS|def|1
+|-unboost|p1a: SPARTANS|spd|1
+|faint|p2a: Snorlax
+|
+|win|Bearclaw11d7
+|raw|Bearclaw11d7's rating: 1028 &rarr; <strong>1061</strong><br />(+33 for winning)
+|raw|light333's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆light333

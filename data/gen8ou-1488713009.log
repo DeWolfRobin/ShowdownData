@@ -1,0 +1,227 @@
+|j|☆zhiyi
+|j|☆8jaggery
+|t:|1641808354
+|gametype|singles
+|player|p1|zhiyi|wallace|1178
+|player|p2|8jaggery|265|1185
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Frosmoth, F|
+|poke|p1|Politoed, F|
+|poke|p1|Pelipper, F|
+|poke|p1|Heatran, M|
+|poke|p1|Kingdra, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Hawlucha, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Clefable, M|
+|poke|p2|Blastoise, M|
+|teampreview
+|
+|t:|1641808367
+|start
+|switch|p1a: Frosmoth|Frosmoth, F, shiny|100/100
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|turn|1
+|
+|t:|1641808380
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Frosmoth|Giga Drain|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|96/100
+|-enditem|p2a: Heatran|Air Balloon
+|
+|upkeep
+|turn|2
+|
+|t:|1641808390
+|switch|p1a: Politoed|Politoed, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Heatran|Stealth Rock|p1a: Politoed
+|-sidestart|p1: zhiyi|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641808405
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Politoed|Ice Beam|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 8jaggery)
+|
+|t:|1641808415
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|turn|4
+|
+|t:|1641808422
+|switch|p1a: Frosmoth|Frosmoth, F, shiny|100/100
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641808437
+|move|p2a: Blastoise|Surf|p1a: Frosmoth
+|-damage|p1a: Frosmoth|25/100
+|move|p1a: Frosmoth|Giga Drain|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|24/100
+|-heal|p1a: Frosmoth|66/100|[from] drain|[of] p2a: Blastoise
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Blastoise|30/100|[from] Grassy Terrain
+|-heal|p1a: Frosmoth|72/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641808448
+|move|p2a: Blastoise|Surf|p1a: Frosmoth
+|-damage|p1a: Frosmoth|0 fnt
+|faint|p1a: Frosmoth
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Blastoise|36/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641808455
+|switch|p1a: Kingdra|Kingdra, M|100/100
+|-damage|p1a: Kingdra|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641808466
+|move|p2a: Blastoise|Ice Beam|p1a: Kingdra
+|-damage|p1a: Kingdra|32/100
+|move|p1a: Kingdra|Surf|p2a: Blastoise
+|-resisted|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kingdra|38/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641808476
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|8
+|
+|t:|1641808479
+|move|p1a: Kingdra|Surf|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|34/100
+|move|p2a: Dragapult|Draco Meteor|p1a: Kingdra
+|-supereffective|p1a: Kingdra
+|-damage|p1a: Kingdra|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Kingdra
+|-damage|p2a: Dragapult|24/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641808493
+|switch|p1a: Politoed|Politoed, F|100/100
+|-damage|p1a: Politoed|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641808505
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Politoed|Surf|p2a: Clefable
+|-damage|p2a: Clefable|61/100
+|
+|-weather|none
+|-heal|p2a: Clefable|67/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641808515
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|83/100
+|
+|-heal|p2a: Clefable|73/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641808527
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Hawlucha
+|-damage|p2a: Hawlucha|8/100
+|-activate|p2a: Hawlucha|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Hawlucha|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p2a: Hawlucha
+|upkeep
+|
+|t:|1641808534
+|switch|p2a: Heatran|Heatran, F|96/100
+|turn|12
+|
+|t:|1641808542
+|move|p2a: Heatran|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|8/100
+|move|p1a: Heatran|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|3/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641808554
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Earth Power|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641808566
+|switch|p2a: Clefable|Clefable, M|73/100
+|move|p1a: Landorus|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|-message|8jaggery forfeited.
+|
+|win|zhiyi
+|raw|zhiyi's rating: 1178 &rarr; <strong>1204</strong><br />(+26 for winning)
+|raw|8jaggery's rating: 1185 &rarr; <strong>1159</strong><br />(-26 for losing)

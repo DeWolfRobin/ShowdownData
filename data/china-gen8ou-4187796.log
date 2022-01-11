@@ -1,0 +1,340 @@
+|j|☆sl21cc jialing
+|j|☆tianyutulongwu
+|t:|1641733579
+|gametype|singles
+|player|p1|sl21cc jialing|bellelba|1315
+|player|p2|tianyutulongwu|feida.png|1233
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Arctozolt|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowking, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Heatran, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Cloyster, F|
+|poke|p2|Scizor, M|
+|teampreview
+|j| SL21CCxiaomiaomiao
+|j| SL21CC姐ISthequeen
+|j| SL21CC tangkeke
+|j| sl21cc ryekie
+|
+|t:|1641733598
+|start
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|turn|1
+|
+|t:|1641733606
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|65/100
+|-activate|p1a: Urshifu|move: Magma Storm|[of] p2a: Heatran
+|
+|-damage|p1a: Urshifu|52/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by tianyutulongwu)
+|j| SL21CC Pichiu
+|
+|t:|1641733615
+|move|p1a: Urshifu|Surging Strikes|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|52/100
+|-enditem|p2a: Heatran|Air Balloon
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-hitcount|p2: Heatran|2
+|
+|-end|p1a: Urshifu|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641733618
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|3
+|
+|t:|1641733632
+|move|p2a: Ninetales|Freeze-Dry|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641733635
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|turn|4
+|
+|t:|1641733644
+|move|p1a: Arctozolt|Bolt Beak|p2a: Ninetales
+|-damage|p2a: Ninetales|3/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: tianyutulongwu|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|5
+|l| SL21CC Pichiu
+|j| sl21cc ap
+|j|♚cscl
+|
+|t:|1641733665
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Arctozolt|Bolt Beak|p2a: Garchomp
+|-immune|p2a: Garchomp
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Garchomp|94/100|[from] Hail
+|-heal|p2a: Garchomp|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|j| adreamew
+|j|&starmind
+|
+|t:|1641733672
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|move|p2a: Garchomp|Earthquake|p1a: Ninetales
+|-damage|p1a: Ninetales|19/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Garchomp|94/100|[from] Hail
+|-heal|p2a: Garchomp|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641733680
+|move|p1a: Ninetales|Blizzard|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|6/100
+|move|p2a: Garchomp|Earthquake|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|none
+|-heal|p2a: Garchomp|13/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641733687
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|8
+|
+|t:|1641733693
+|move|p1a: Tornadus|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641733699
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|9
+|l|cscl
+|
+|t:|1641733714
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Tornadus|Hurricane|p2a: Dragapult
+|-damage|p2a: Dragapult|71/100
+|
+|upkeep
+|turn|10
+|j| hutaotao
+|
+|t:|1641733722
+|move|p2a: Dragapult|Dragon Darts|p1a: Tornadus
+|-damage|p1a: Tornadus|50/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Tornadus
+|-damage|p1a: Tornadus|3/100
+|move|p1a: Tornadus|Hurricane|p2a: Dragapult|[miss]
+|-miss|p1a: Tornadus|p2a: Dragapult
+|
+|upkeep
+|turn|11
+|
+|t:|1641733733
+|move|p2a: Dragapult|Dragon Darts|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-sideend|p2: tianyutulongwu|move: Aurora Veil
+|upkeep
+|j| Suta Pulachina
+|
+|t:|1641733735
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-fail|p2a: Dragapult|unboost|[from] ability: Clear Body|[of] p2a: Dragapult
+|turn|12
+|
+|t:|1641733741
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Landorus|Earthquake|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641733752
+|switch|p2a: Ninetales|Ninetales-Alola, F|3/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|13
+|
+|t:|1641733761
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: tianyutulongwu|move: Aurora Veil
+|move|p1a: Landorus|U-turn|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|t:|1641733765
+|switch|p1a: Arctozolt|Arctozolt|100/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641733770
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|14
+|inactive|tianyutulongwu has 120 seconds left.
+|
+|t:|1641733811
+|move|p1a: Arctozolt|Bolt Beak|p2a: Scizor
+|-damage|p2a: Scizor|62/100
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Scizor|56/100|[from] Hail
+|-heal|p2a: Scizor|62/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|tianyutulongwu has 90 seconds left.
+|
+|t:|1641733850
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Scizor|Bullet Punch|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|75/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Scizor|56/100|[from] Hail
+|-damage|p1a: Slowking|69/100|[from] Hail
+|-heal|p2a: Scizor|62/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641733864
+|move|p2a: Scizor|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-enditem|p1a: Slowking|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Scizor
+|faint|p1a: Slowking
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Scizor|56/100|[from] Hail
+|-heal|p2a: Scizor|62/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641733868
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|turn|17
+|
+|t:|1641733881
+|move|p1a: Landorus|Earthquake|p2a: Scizor
+|-damage|p2a: Scizor|37/100
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-weather|none
+|-heal|p2a: Scizor|43/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641733892
+|move|p1a: Landorus|Earthquake|p2a: Scizor
+|-damage|p2a: Scizor|21/100
+|move|p2a: Scizor|Swords Dance|p2a: Scizor
+|-boost|p2a: Scizor|atk|2
+|
+|-heal|p2a: Scizor|27/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641733895
+|move|p2a: Scizor|Bullet Punch|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-heal|p2a: Scizor|33/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641733897
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|turn|20
+|
+|t:|1641733900
+|move|p2a: Scizor|Bullet Punch|p1a: Arctozolt
+|-damage|p1a: Arctozolt|0 fnt
+|faint|p1a: Arctozolt
+|
+|win|tianyutulongwu
+|raw|sl21cc jialing's rating: 1315 &rarr; <strong>1295</strong><br />(-20 for losing)
+|raw|tianyutulongwu's rating: 1215 &rarr; <strong>1235</strong><br />(+20 for winning)
+|l| sl21cc ryekie
+|l| Suta Pulachina
+|l| SL21CCxiaomiaomiao
+|l|☆tianyutulongwu
+|j| water GH0ST
+|l| SL21CC姐ISthequeen
+|l| water GH0ST
+|j| water GH0ST
+|l| water GH0ST
+|j| water GH0ST
+|l| water GH0ST
+|l| SL21CC tangkeke
+|l|&starmind
+|l|☆sl21cc jialing
+|j|☆tianyutulongwu
+|player|p2|tianyutulongwu|feida.png
+|l|☆tianyutulongwu
+|player|p2|
+|j| water GH0ST
+|l| water GH0ST
+|l| sl21cc ap
+|j|☆sl21cc jialing
+|player|p1|sl21cc jialing|bellelba
+|j|&starmind
+|l|&starmind
+|j| SL21CCxiaomiaomiao
+|l| SL21CCxiaomiaomiao
+|l| hutaotao

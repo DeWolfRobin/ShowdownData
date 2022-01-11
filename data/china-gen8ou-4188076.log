@@ -1,0 +1,264 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC ginko
+|j|☆water GH0ST
+|t:|1641739129
+|gametype|singles
+|player|p1|SL21CC ginko|line38324.png|1324
+|player|p2|water GH0ST|picnicker|1254
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Dragapult, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Cloyster, M|
+|poke|p1|Kartana|
+|poke|p2|Pelipper, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Seismitoad, F|
+|poke|p2|Ludicolo, F|
+|poke|p2|Omastar, M|
+|poke|p2|Inteleon, F|
+|teampreview
+|j| tianyutulongwu
+|j| pokonghanbingkan
+|j| jingtianlangtaosha
+|j| adreamew
+|j| eastnovel
+|
+|t:|1641739150
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641739160
+|switch|p2a: Ludicolo|Ludicolo, F|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Ludicolo
+|-sidestart|p2: water GH0ST|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|j| sl21cckhl
+|
+|t:|1641739168
+|move|p2a: Ludicolo|Weather Ball|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-enditem|p1a: Heatran|Air Balloon
+|faint|p1a: Heatran
+|-damage|p2a: Ludicolo|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641739175
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|3
+|
+|t:|1641739179
+|move|p2a: Ludicolo|Weather Ball|p1a: Moltres
+|-damage|p1a: Moltres|32/100
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|-damage|p2a: Ludicolo|81/100|[from] item: Life Orb
+|move|p1a: Moltres|Hurricane|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|faint|p2a: Ludicolo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641739187
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|-damage|p2a: Seismitoad|95/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1641739191
+|move|p2a: Seismitoad|Weather Ball|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|-damage|p2a: Seismitoad|85/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641739194
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|5
+|
+|t:|1641739199
+|move|p2a: Seismitoad|Weather Ball|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|43/100
+|-damage|p2a: Seismitoad|75/100|[from] item: Life Orb
+|move|p1a: Dragapult|Dragon Darts|p2a: Seismitoad
+|-damage|p2a: Seismitoad|28/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641739212
+|switch|p2a: Inteleon|Inteleon, F|100/100
+|-damage|p2a: Inteleon|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641739222
+|move|p2a: Inteleon|Weather Ball|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641739236
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|7
+|
+|t:|1641739241
+|move|p2a: Inteleon|Weather Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|22/100
+|move|p1a: Garchomp|Scale Shot|p2a: Inteleon
+|-damage|p2a: Inteleon|65/100
+|-damage|p2a: Inteleon|42/100
+|-hitcount|p2a: Inteleon|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garchomp|29/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641739249
+|move|p2a: Inteleon|Weather Ball|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|none
+|upkeep
+|
+|t:|1641739251
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|turn|9
+|j|♚aro nova
+|j| 9skythunderouskick
+|
+|t:|1641739262
+|switch|p2a: Omastar|Omastar, M|100/100
+|-damage|p2a: Omastar|88/100|[from] Stealth Rock
+|-item|p2a: Omastar|Air Balloon
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|upkeep
+|turn|10
+|j| SL21CC tangkeke
+|
+|t:|1641739266
+|move|p1a: Cloyster|Liquidation|p2a: Omastar
+|-damage|p2a: Omastar|15/100
+|-enditem|p2a: Omastar|Air Balloon
+|move|p2a: Omastar|Surf|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|12/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641739269
+|move|p1a: Cloyster|Liquidation|p2a: Omastar
+|-damage|p2a: Omastar|0 fnt
+|faint|p2a: Omastar
+|
+|upkeep
+|
+|t:|1641739270
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|12
+|
+|t:|1641739274
+|move|p1a: Cloyster|Icicle Spear|p2a: Pelipper
+|-damage|p2a: Pelipper|53/100
+|-damage|p2a: Pelipper|30/100
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-hitcount|p2: Pelipper|3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641739276
+|switch|p2a: Inteleon|Inteleon, F|42/100
+|-damage|p2a: Inteleon|30/100|[from] Stealth Rock
+|turn|13
+|j| SL21CCCHINESENGEIL
+|
+|t:|1641739279
+|move|p2a: Inteleon|Weather Ball|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| Renwu
+|
+|t:|1641739281
+|switch|p1a: Kartana|Kartana|100/100
+|turn|14
+|
+|t:|1641739283
+|move|p2a: Inteleon|Weather Ball|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|win|water GH0ST
+|raw|SL21CC ginko's rating: 1324 &rarr; <strong>1305</strong><br />(-19 for losing)
+|raw|water GH0ST's rating: 1254 &rarr; <strong>1273</strong><br />(+19 for winning)
+|l|☆SL21CC ginko
+|l| SL21CC tangkeke
+|l|♚aro nova
+|l| 9skythunderouskick
+|l| jingtianlangtaosha
+|l|☆water GH0ST
+|l| pokonghanbingkan
+|l| Renwu
+|j| SL21CC Pichiu
+|l| sl21cckhl
+|l| SL21CC Pichiu
+|j| sl21cckhl
+|j| vjdinf_dfji12
+|j| SL21CC tangkeke
+|l| sl21cckhl
+|l| SL21CC tangkeke
+|l| SL21CCCHINESENGEIL
+|l| vjdinf_dfji12

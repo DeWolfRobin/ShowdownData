@@ -1,0 +1,98 @@
+|j|☆P0KESHOW
+|j|☆JoseFuego93
+|t:|1641743250
+|gametype|singles
+|player|p1|P0KESHOW|battlegirl-gen4|1069
+|player|p2|JoseFuego93|gentleman-gen4|1014
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Aggron, M|
+|poke|p1|Victini|
+|poke|p1|Mew|
+|poke|p1|Druddigon, M|
+|poke|p1|Shuckle, M|
+|poke|p1|Mamoswine, M|
+|poke|p2|Blastoise, M|
+|poke|p2|Blaziken, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Zapdos|
+|poke|p2|Volcarona, M|
+|poke|p2|Pelipper, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by P0KESHOW)
+|
+|t:|1641743264
+|start
+|switch|p1a: Victini|Victini|100/100
+|switch|p2a: Pelipper|Pelipper, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641743276
+|move|p1a: Victini|Energy Ball|p2a: Pelipper
+|-damage|p2a: Pelipper|61/100
+|move|p2a: Pelipper|Toxic|p1a: Victini
+|-status|p1a: Victini|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|67/100|[from] item: Leftovers
+|-damage|p1a: Victini|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641743288
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Victini|Glaciate|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|16/100
+|-unboost|p2a: Garchomp|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Garchomp|22/100|[from] item: Leftovers
+|-damage|p1a: Victini|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641743300
+|move|p1a: Victini|Glaciate|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Victini|64/100 tox|[from] psn
+|upkeep
+|inactive|JoseFuego93 has 120 seconds left.
+|
+|t:|1641743329
+|switch|p2a: Pelipper|Pelipper, F, shiny|67/100
+|turn|4
+|
+|t:|1641743335
+|move|p1a: Victini|Energy Ball|p2a: Pelipper
+|-damage|p2a: Pelipper|31/100
+|move|p2a: Pelipper|Hurricane|p1a: Victini
+|-damage|p1a: Victini|24/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Pelipper|37/100|[from] item: Leftovers
+|-damage|p1a: Victini|0 fnt|[from] psn
+|faint|p1a: Victini
+|upkeep
+|-message|P0KESHOW forfeited.
+|
+|win|JoseFuego93
+|raw|P0KESHOW's rating: 1069 &rarr; <strong>1045</strong><br />(-24 for losing)
+|raw|JoseFuego93's rating: 1014 &rarr; <strong>1058</strong><br />(+44 for winning)
+|l|☆JoseFuego93

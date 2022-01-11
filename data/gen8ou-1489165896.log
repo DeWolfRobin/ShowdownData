@@ -1,0 +1,256 @@
+|j|☆AikoRed
+|j|☆Lugia 4 OU
+|t:|1641865433
+|gametype|singles
+|player|p1|AikoRed|acetrainer-gen4dp|1386
+|player|p2|Lugia 4 OU|101|1406
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gengar, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Scizor, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Hippowdon, M|
+|poke|p1|Darmanitan, M|
+|poke|p2|Alakazam, M|
+|poke|p2|Indeedee-F, F|
+|poke|p2|Buzzwole|
+|poke|p2|Dragapult, F|
+|poke|p2|Raikou|
+|poke|p2|Articuno|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AikoRed)
+|
+|t:|1641865453
+|start
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|100/100
+|switch|p2a: Raikou|Raikou|100/100
+|-ability|p2a: Raikou|Pressure
+|turn|1
+|
+|t:|1641865459
+|switch|p2a: Articuno|Articuno|100/100
+|-ability|p2a: Articuno|Pressure
+|move|p1a: Mandibuzz|Knock Off|p2a: Articuno
+|-damage|p2a: Articuno|78/100
+|-enditem|p2a: Articuno|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Mandibuzz
+|
+|upkeep
+|turn|2
+|
+|t:|1641865472
+|switch|p1a: Darmanitan|Darmanitan, M, shiny|100/100
+|move|p2a: Articuno|Toxic|p1a: Darmanitan|[miss]
+|-miss|p2a: Articuno|p1a: Darmanitan
+|
+|upkeep
+|turn|3
+|
+|t:|1641865482
+|move|p1a: Darmanitan|Flare Blitz|p2a: Articuno
+|-supereffective|p2a: Articuno
+|-damage|p2a: Articuno|0 fnt
+|faint|p2a: Articuno
+|-damage|p1a: Darmanitan|73/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641865490
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|4
+|
+|t:|1641865497
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|100/100
+|move|p2a: Dragapult|U-turn|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|75/100
+|
+|t:|1641865501
+|switch|p2a: Raikou|Raikou|100/100|[from]move: U-turn
+|-ability|p2a: Raikou|Pressure
+|
+|upkeep
+|turn|5
+|
+|t:|1641865508
+|switch|p1a: Hippowdon|Hippowdon, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Raikou|Discharge|p1a: Hippowdon
+|-immune|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Raikou|94/100|[from] Sandstorm
+|-heal|p2a: Raikou|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641865513
+|switch|p2a: Indeedee|Indeedee-F, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Indeedee
+|move|p1a: Hippowdon|Stealth Rock|p2a: Indeedee
+|-sidestart|p2: Lugia 4 OU|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Indeedee|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641865542
+|move|p2a: Indeedee|Expanding Force|p1a: Hippowdon
+|-damage|p1a: Hippowdon|33/100
+|move|p1a: Hippowdon|Yawn|p2a: Indeedee
+|-start|p2a: Indeedee|move: Yawn|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Indeedee|88/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641865549
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|75/100
+|move|p2a: Indeedee|Healing Wish|p2a: Indeedee
+|faint|p2a: Indeedee
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641865564
+|switch|p2a: Alakazam|Alakazam, M|100/100
+|turn|9
+|
+|t:|1641865570
+|move|p2a: Alakazam|Dazzling Gleam|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|19/100
+|move|p1a: Mandibuzz|Knock Off|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|-enditem|p2a: Alakazam|Life Orb|[from] move: Knock Off|[of] p1a: Mandibuzz
+|faint|p2a: Alakazam
+|
+|-weather|none
+|upkeep
+|
+|t:|1641865576
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-damage|p2a: Buzzwole|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641865583
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|69/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Buzzwole|Drain Punch|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|2/100
+|-heal|p2a: Buzzwole|100/100|[from] drain|[of] p1a: Mandibuzz
+|
+|upkeep
+|turn|11
+|
+|t:|1641865592
+|switch|p1a: Gengar|Gengar, M|100/100
+|move|p2a: Buzzwole|Fell Stinger|p1a: Gengar
+|-resisted|p1a: Gengar
+|-damage|p1a: Gengar|86/100
+|-start|p2a: Buzzwole|Disable|Fell Stinger|[from] ability: Cursed Body|[of] p1a: Gengar
+|
+|upkeep
+|turn|12
+|
+|t:|1641865602
+|switch|p2a: Raikou|Raikou|100/100
+|-damage|p2a: Raikou|88/100|[from] Stealth Rock
+|-ability|p2a: Raikou|Pressure
+|move|p1a: Gengar|Nasty Plot|p1a: Gengar
+|-boost|p1a: Gengar|spa|2
+|
+|-heal|p2a: Raikou|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641865616
+|move|p2a: Raikou|Discharge|p1a: Gengar
+|-damage|p1a: Gengar|22/100
+|-status|p1a: Gengar|par
+|-start|p2a: Raikou|Disable|Discharge|[from] ability: Cursed Body|[of] p1a: Gengar
+|move|p1a: Gengar|Sludge Bomb|p2a: Raikou
+|-damage|p2a: Raikou|0 fnt
+|faint|p2a: Raikou
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641865622
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-damage|p2a: Buzzwole|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641865629
+|move|p2a: Buzzwole|Ice Punch|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-heal|p2a: Buzzwole|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641865634
+|switch|p1a: Darmanitan|Darmanitan, M, shiny|73/100
+|turn|15
+|
+|t:|1641865638
+|move|p1a: Darmanitan|Flare Blitz|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|faint|p2a: Buzzwole
+|-damage|p1a: Darmanitan|36/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641865641
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641865650
+|move|p1a: Darmanitan|Flare Blitz|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|27/100
+|-damage|p1a: Darmanitan|18/100|[from] Recoil
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|upkeep
+|turn|17
+|
+|t:|1641865657
+|switch|p1a: Mandibuzz|Mandibuzz, F, shiny|2/100
+|move|p2a: Dragapult|Phantom Force|p1a: Mandibuzz|[from]lockedmove
+|-resisted|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|upkeep
+|
+|t:|1641865668
+|switch|p1a: Darmanitan|Darmanitan, M, shiny|18/100
+|turn|18
+|-message|Lugia 4 OU forfeited.
+|
+|win|AikoRed
+|raw|AikoRed's rating: 1386 &rarr; <strong>1407</strong><br />(+21 for winning)
+|raw|Lugia 4 OU's rating: 1406 &rarr; <strong>1385</strong><br />(-21 for losing)
+|l|☆Lugia 4 OU

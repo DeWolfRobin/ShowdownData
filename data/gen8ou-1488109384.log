@@ -1,0 +1,309 @@
+|j|☆poke 1 man
+|j|☆belfegor4all
+|t:|1641713345
+|gametype|singles
+|player|p1|poke 1 man|102|1150
+|player|p2|belfegor4all|hilda-wonderlauncher|1183
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Urshifu-*, F|
+|poke|p1|Obstagoon, M|
+|poke|p1|Scizor, F|
+|poke|p1|Zapdos|
+|poke|p1|Dragapult, M|
+|poke|p1|Gastrodon, F|
+|poke|p2|Bisharp, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Gyarados, M|
+|poke|p2|Hydreigon, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Togekiss, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by belfegor4all)
+|
+|t:|1641713357
+|start
+|switch|p1a: Gastrodon|Gastrodon, F|100/100
+|switch|p2a: Hydreigon|Hydreigon, M|100/100
+|turn|1
+|
+|t:|1641713364
+|move|p2a: Hydreigon|Dark Pulse|p1a: Gastrodon
+|-damage|p1a: Gastrodon|38/100
+|cant|p1a: Gastrodon|flinch
+|
+|-heal|p1a: Gastrodon|44/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641713371
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Scizor
+|-damage|p1a: Scizor|14/100
+|
+|-heal|p1a: Scizor|20/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641713383
+|move|p1a: Scizor|Bullet Punch|p2a: Hydreigon
+|-damage|p2a: Hydreigon|64/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641713396
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|4
+|
+|t:|1641713406
+|switch|p2a: Togekiss|Togekiss, F|100/100
+|move|p1a: Urshifu|U-turn|p2a: Togekiss
+|-resisted|p2a: Togekiss
+|-damage|p2a: Togekiss|94/100
+|
+|t:|1641713412
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1641713420
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Zapdos|Light Screen|p1a: Zapdos
+|-sidestart|p1: poke 1 man|move: Light Screen
+|
+|upkeep
+|turn|6
+|
+|t:|1641713441
+|move|p1a: Zapdos|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|81/100
+|
+|t:|1641713446
+|switch|p1a: Obstagoon|Obstagoon, M|100/100|[from]move: Volt Switch
+|move|p2a: Ferrothorn|Spikes|p1a: Obstagoon
+|-sidestart|p1: poke 1 man|Spikes
+|
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|-status|p1a: Obstagoon|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|
+|t:|1641713455
+|move|p1a: Obstagoon|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|55/100
+|-damage|p1a: Obstagoon|88/100 brn|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Obstagoon
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Obstagoon
+|-damage|p1a: Obstagoon|35/100 brn
+|
+|-damage|p1a: Obstagoon|29/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641713465
+|move|p1a: Obstagoon|Facade|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|32/100
+|-damage|p1a: Obstagoon|16/100 brn|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Power Whip|p1a: Obstagoon
+|-damage|p1a: Obstagoon|0 fnt
+|faint|p1a: Obstagoon
+|
+|upkeep
+|
+|t:|1641713476
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Spikes
+|turn|9
+|
+|t:|1641713481
+|move|p1a: Dragapult|Dragon Claw|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|14/100
+|-damage|p1a: Dragapult|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Spikes|p1a: Dragapult
+|-sidestart|p1: poke 1 man|Spikes
+|
+|-sideend|p1: poke 1 man|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641713496
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Dragapult
+|-damage|p1a: Dragapult|13/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641713503
+|move|p1a: Dragapult|Dragon Claw|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Dragapult|1/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641713513
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|turn|12
+|
+|t:|1641713527
+|move|p2a: Bisharp|Sucker Punch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Bisharp|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641713535
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|13
+|
+|t:|1641713540
+|move|p1a: Zapdos|Reflect|p1a: Zapdos
+|-sidestart|p1: poke 1 man|Reflect
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641713545
+|move|p1a: Zapdos|Discharge|p2a: Bisharp
+|-damage|p2a: Bisharp|15/100
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|upkeep
+|turn|15
+|
+|t:|1641713552
+|move|p2a: Bisharp|Sucker Punch|p1a: Zapdos
+|-damage|p1a: Zapdos|12/100
+|-damage|p2a: Bisharp|5/100|[from] item: Life Orb
+|move|p1a: Zapdos|Discharge|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641713558
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|16
+|
+|t:|1641713566
+|move|p2a: Dragapult|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|2/100
+|
+|t:|1641713571
+|switch|p2a: Hydreigon|Hydreigon, M|64/100|[from]move: U-turn
+|move|p1a: Zapdos|Volt Switch|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|41/100
+|
+|t:|1641713579
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: Volt Switch
+|-damage|p1a: Urshifu|84/100|[from] Spikes
+|
+|upkeep
+|turn|17
+|
+|t:|1641713587
+|move|p2a: Hydreigon|Draco Meteor|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|-unboost|p2a: Hydreigon|spa|2
+|faint|p1a: Urshifu
+|
+|-sideend|p1: poke 1 man|Reflect
+|upkeep
+|
+|t:|1641713595
+|switch|p1a: Zapdos|Zapdos|2/100
+|turn|18
+|
+|t:|1641713602
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Zapdos|Discharge|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|69/100
+|-status|p2a: Dragapult|par
+|
+|upkeep
+|turn|19
+|
+|t:|1641713616
+|move|p1a: Zapdos|Volt Switch|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|40/100 par
+|c|☆belfegor4all|gg
+|
+|t:|1641713619
+|switch|p1a: Gastrodon|Gastrodon, F|44/100|[from]move: Volt Switch
+|-damage|p1a: Gastrodon|28/100|[from] Spikes
+|move|p2a: Dragapult|Shadow Ball|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|upkeep
+|
+|t:|1641713627
+|switch|p1a: Zapdos|Zapdos|2/100
+|turn|20
+|
+|t:|1641713631
+|move|p1a: Zapdos|Discharge|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|5/100 par
+|cant|p2a: Dragapult|par
+|
+|upkeep
+|turn|21
+|
+|t:|1641713636
+|move|p1a: Zapdos|Discharge|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641713641
+|switch|p2a: Hydreigon|Hydreigon, M|41/100
+|turn|22
+|c|☆belfegor4all|gg
+|
+|t:|1641713649
+|move|p1a: Zapdos|Discharge|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|12/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|belfegor4all
+|raw|poke 1 man's rating: 1150 &rarr; <strong>1127</strong><br />(-23 for losing)
+|raw|belfegor4all's rating: 1183 &rarr; <strong>1206</strong><br />(+23 for winning)

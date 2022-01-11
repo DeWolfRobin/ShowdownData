@@ -1,0 +1,95 @@
+|j|☆spectral secrets
+|j|☆wridyl
+|t:|1641830468
+|gametype|singles
+|player|p1|spectral secrets|misty-gen2|1378
+|player|p2|wridyl|170|1373
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, F|
+|poke|p1|Gengar, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Heatran, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Zapdos|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by wridyl)
+|
+|t:|1641830476
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|1
+|
+|t:|1641830481
+|move|p1a: Heatran|Eruption|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641830486
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|turn|2
+|
+|t:|1641830490
+|move|p1a: Heatran|Eruption|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641830502
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|3
+|
+|t:|1641830505
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|75/100
+|move|p1a: Heatran|Eruption|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|upkeep
+|turn|4
+|
+|t:|1641830511
+|move|p2a: Kommo-o|Belly Drum|p2a: Kommo-o
+|-damage|p2a: Kommo-o|25/100
+|-setboost|p2a: Kommo-o|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Kommo-o|Salac Berry|[eat]
+|-boost|p2a: Kommo-o|spe|1|[from] item: Salac Berry
+|move|p1a: Heatran|Eruption|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|-message|wridyl forfeited.
+|
+|win|spectral secrets
+|raw|spectral secrets's rating: 1378 &rarr; <strong>1398</strong><br />(+20 for winning)
+|raw|wridyl's rating: 1373 &rarr; <strong>1353</strong><br />(-20 for losing)
+|l|☆wridyl
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,165 @@
+|j|☆Buraino
+|j|☆deyseyyy
+|t:|1641849528
+|gametype|singles
+|player|p1|Buraino|silver|1338
+|player|p2|deyseyyy|wally|1385
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Pelipper, M|
+|poke|p1|Volcanion|
+|poke|p1|Seismitoad, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Barraskewda, M|
+|poke|p2|Jirachi|
+|poke|p2|Regieleki|
+|poke|p2|Dragonite, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Bisharp, M|
+|teampreview
+|
+|t:|1641849535
+|start
+|switch|p1a: Messenger|Pelipper, M, shiny|100/100
+|switch|p2a: Jirachi|Jirachi|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Messenger
+|turn|1
+|
+|t:|1641849547
+|move|p2a: Jirachi|Stealth Rock|p1a: Messenger
+|-sidestart|p1: Buraino|move: Stealth Rock
+|move|p1a: Messenger|Scald|p2a: Jirachi
+|-damage|p2a: Jirachi|62/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641849555
+|move|p2a: Jirachi|Iron Head|p1a: Messenger
+|-resisted|p1a: Messenger
+|-damage|p1a: Messenger|87/100
+|cant|p1a: Messenger|flinch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641849563
+|move|p2a: Jirachi|Trick|p1a: Messenger
+|-activate|p2a: Jirachi|move: Trick|[of] p1a: Messenger
+|-item|p1a: Messenger|Ring Target|[from] move: Trick
+|-item|p2a: Jirachi|Damp Rock|[from] move: Trick
+|move|p1a: Messenger|Scald|p2a: Jirachi
+|-damage|p2a: Jirachi|22/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641849572
+|move|p2a: Jirachi|Iron Head|p1a: Messenger
+|-resisted|p1a: Messenger
+|-damage|p1a: Messenger|73/100
+|cant|p1a: Messenger|flinch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641849579
+|move|p2a: Jirachi|Iron Head|p1a: Messenger
+|-resisted|p1a: Messenger
+|-damage|p1a: Messenger|61/100
+|cant|p1a: Messenger|flinch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641849587
+|move|p2a: Jirachi|Iron Head|p1a: Messenger
+|-resisted|p1a: Messenger
+|-damage|p1a: Messenger|48/100
+|cant|p1a: Messenger|flinch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641849594
+|move|p2a: Jirachi|Iron Head|p1a: Messenger
+|-resisted|p1a: Messenger
+|-damage|p1a: Messenger|35/100
+|cant|p1a: Messenger|flinch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641849601
+|move|p2a: Jirachi|Iron Head|p1a: Messenger
+|-resisted|p1a: Messenger
+|-damage|p1a: Messenger|23/100
+|cant|p1a: Messenger|flinch
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641849608
+|move|p2a: Jirachi|Iron Head|p1a: Messenger
+|-resisted|p1a: Messenger
+|-damage|p1a: Messenger|10/100
+|cant|p1a: Messenger|flinch
+|
+|upkeep
+|turn|10
+|
+|t:|1641849616
+|switch|p1a: Globox|Seismitoad, M, shiny|100/100
+|-damage|p1a: Globox|95/100|[from] Stealth Rock
+|move|p2a: Jirachi|Iron Head|p1a: Globox
+|-resisted|p1a: Globox
+|-damage|p1a: Globox|73/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641849627
+|move|p2a: Jirachi|Iron Head|p1a: Globox
+|-resisted|p1a: Globox
+|-damage|p1a: Globox|48/100
+|cant|p1a: Globox|flinch
+|
+|upkeep
+|turn|12
+|
+|t:|1641849635
+|switch|p1a: Messenger|Pelipper, M, shiny|10/100
+|-damage|p1a: Messenger|0 fnt|[from] Stealth Rock
+|faint|p1a: Messenger
+|move|p2a: Jirachi|Iron Head|p1: Messenger|[notarget]
+|-fail|p2a: Jirachi
+|
+|upkeep
+|-message|Buraino forfeited.
+|
+|win|deyseyyy
+|raw|Buraino's rating: 1338 &rarr; <strong>1321</strong><br />(-17 for losing)
+|raw|deyseyyy's rating: 1385 &rarr; <strong>1402</strong><br />(+17 for winning)
+|l|☆Buraino
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

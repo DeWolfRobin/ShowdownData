@@ -1,0 +1,777 @@
+|j|☆hchw90
+|j|☆isekaied
+|t:|1641819834
+|gametype|singles
+|player|p1|hchw90|102|1347
+|player|p2|isekaied|marley|1396
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Chansey, F|
+|poke|p1|Heatran, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Obstagoon, M|
+|poke|p1|Zapdos|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Seismitoad, F|
+|poke|p2|Zapdos|
+|poke|p2|Blissey, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by isekaied)
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641819880
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641819890
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Rotom|Trick|p2a: Blissey
+|-activate|p1a: Rotom|move: Trick|[of] p2a: Blissey
+|-item|p2a: Blissey|Choice Scarf|[from] move: Trick
+|-item|p1a: Rotom|Heavy-Duty Boots|[from] move: Trick
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641819907
+|move|p1a: Rotom|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|88/100
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641819928
+|switch|p1a: Heatran|Heatran, F|100/100|[from]move: Volt Switch
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Blissey|Stealth Rock|p1a: Heatran
+|-sidestart|p1: hchw90|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641819939
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: isekaied|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641819954
+|move|p2a: Zapdos|Volt Switch|p1a: Heatran
+|-damage|p1a: Heatran|77/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|t:|1641819958
+|switch|p2a: Blissey|Blissey, F|88/100|[from]move: Volt Switch
+|-damage|p2a: Blissey|75/100|[from] Stealth Rock
+|move|p1a: Heatran|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Blissey|69/100 tox|[from] psn
+|upkeep
+|turn|5
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641819985
+|switch|p1a: Zapdos|Zapdos|100/100
+|-damage|p1a: Zapdos|76/100|[from] Stealth Rock
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641819994
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Seismitoad|Seismitoad, F|100/100|[from]move: Teleport
+|-damage|p2a: Seismitoad|95/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641820010
+|switch|p1a: Chansey|Chansey, F|100/100
+|-damage|p1a: Chansey|88/100|[from] Stealth Rock
+|move|p2a: Seismitoad|Weather Ball|p1a: Chansey
+|-damage|p1a: Chansey|64/100
+|-damage|p2a: Seismitoad|85/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641820014
+|move|p2a: Seismitoad|Focus Blast|p1a: Chansey
+|-supereffective|p1a: Chansey
+|-damage|p1a: Chansey|34/100
+|-damage|p2a: Seismitoad|75/100|[from] item: Life Orb
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|84/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641820022
+|move|p2a: Seismitoad|Weather Ball|p1a: Chansey
+|-damage|p1a: Chansey|56/100
+|-damage|p2a: Seismitoad|65/100|[from] item: Life Orb
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641820026
+|switch|p2a: Blissey|Blissey, F|69/100
+|-damage|p2a: Blissey|57/100|[from] Stealth Rock
+|move|p1a: Chansey|Seismic Toss|p2a: Blissey
+|-damage|p2a: Blissey|43/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641820046
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|93/100
+|move|p1a: Chansey|Seismic Toss|p2a: Blissey
+|-damage|p2a: Blissey|79/100
+|
+|upkeep
+|turn|11
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641820072
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|switch|p1a: Zapdos|Zapdos|82/100
+|-damage|p1a: Zapdos|57/100|[from] Stealth Rock
+|-ability|p1a: Zapdos|Pressure
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|63/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641820083
+|switch|p2a: Blissey|Blissey, F|79/100
+|-damage|p2a: Blissey|66/100|[from] Stealth Rock
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|38/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|44/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641820088
+|move|p1a: Zapdos|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|51/100|[from] item: Leftovers
+|-damage|p2a: Blissey|60/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641820092
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|69/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|76/100|[from] item: Leftovers
+|-damage|p2a: Blissey|48/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641820096
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Seismitoad|Seismitoad, F|65/100
+|-damage|p2a: Seismitoad|59/100|[from] Stealth Rock
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|51/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|57/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641820099
+|move|p2a: Seismitoad|Weather Ball|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|-damage|p2a: Seismitoad|49/100|[from] item: Life Orb
+|move|p1a: Zapdos|Toxic|p2a: Seismitoad
+|-status|p2a: Seismitoad|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|63/100|[from] item: Leftovers
+|-damage|p2a: Seismitoad|43/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641820104
+|switch|p1a: Chansey|Chansey, F|100/100
+|-damage|p1a: Chansey|88/100|[from] Stealth Rock
+|move|p2a: Seismitoad|Weather Ball|p1a: Chansey
+|-damage|p1a: Chansey|62/100
+|-damage|p2a: Seismitoad|33/100 tox|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Seismitoad|21/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641820107
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1641820110
+|move|p2a: Barraskewda|Flip Turn|p1a: Chansey
+|-damage|p1a: Chansey|70/100
+|
+|t:|1641820114
+|switch|p2a: Pelipper|Pelipper, F|76/100|[from]move: Flip Turn
+|-damage|p2a: Pelipper|51/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Chansey|Thunder Wave|p2a: Pelipper
+|-status|p2a: Pelipper|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641820122
+|switch|p2a: Barraskewda|Barraskewda, M|88/100
+|-damage|p2a: Barraskewda|76/100|[from] Stealth Rock
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1641820130
+|move|p2a: Barraskewda|Liquidation|p1a: Chansey
+|-damage|p1a: Chansey|27/100
+|move|p1a: Chansey|Soft-Boiled|p1a: Chansey
+|-heal|p1a: Chansey|77/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1641820150
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Barraskewda|Liquidation|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|35/100
+|-unboost|p1a: Rotom|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641820195
+|move|p2a: Barraskewda|Liquidation|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641820206
+|switch|p1a: Chansey|Chansey, F|77/100
+|-damage|p1a: Chansey|65/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641820212
+|move|p2a: Barraskewda|Liquidation|p1a: Chansey
+|-damage|p1a: Chansey|0 fnt
+|faint|p1a: Chansey
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|hchw90 has 90 seconds left.
+|
+|t:|1641820247
+|switch|p1a: Obstagoon|Obstagoon, M|100/100
+|-damage|p1a: Obstagoon|88/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1641820253
+|move|p1a: Obstagoon|Obstruct|p1a: Obstagoon
+|-singleturn|p1a: Obstagoon|Protect
+|move|p2a: Barraskewda|Liquidation|p1a: Obstagoon
+|-activate|p1a: Obstagoon|move: Protect
+|-unboost|p2a: Barraskewda|def|2
+|
+|-weather|RainDance|[upkeep]
+|-status|p1a: Obstagoon|brn|[from] item: Flame Orb
+|upkeep
+|turn|26
+|
+|t:|1641820261
+|move|p2a: Barraskewda|Liquidation|p1a: Obstagoon
+|-damage|p1a: Obstagoon|0 fnt
+|faint|p1a: Obstagoon
+|
+|-weather|none
+|upkeep
+|
+|t:|1641820269
+|switch|p1a: Zapdos|Zapdos|63/100
+|-damage|p1a: Zapdos|38/100|[from] Stealth Rock
+|-ability|p1a: Zapdos|Pressure
+|turn|27
+|
+|t:|1641820280
+|switch|p2a: Blissey|Blissey, F|48/100
+|-damage|p2a: Blissey|35/100|[from] Stealth Rock
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|88/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p1a: Zapdos|95/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641820292
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|70/100
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641820296
+|switch|p2a: Pelipper|Pelipper, F|51/100 par|[from]move: Teleport
+|-damage|p2a: Pelipper|26/100 par|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|76/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641820305
+|switch|p2a: Blissey|Blissey, F|35/100
+|-damage|p2a: Blissey|23/100|[from] Stealth Rock
+|move|p1a: Zapdos|Thunderbolt|p2a: Blissey
+|-crit|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|faint|p2a: Blissey
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820310
+|switch|p2a: Seismitoad|Seismitoad, F|21/100 tox
+|-damage|p2a: Seismitoad|15/100 tox|[from] Stealth Rock
+|turn|30
+|
+|t:|1641820322
+|move|p2a: Seismitoad|Weather Ball|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|-damage|p2a: Seismitoad|5/100 tox|[from] item: Life Orb
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|57/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|63/100|[from] item: Leftovers
+|-damage|p2a: Seismitoad|0 fnt|[from] psn
+|faint|p2a: Seismitoad
+|upkeep
+|
+|t:|1641820327
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|31
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641820334
+|move|p1a: Zapdos|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|move|p2a: Zapdos|Thunder|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|70/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|32
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641820346
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|45/100
+|move|p2a: Zapdos|Thunder|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|51/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|82/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641820352
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Zapdos|Thunder|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|67/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|73/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|63/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641820359
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|48/100
+|move|p2a: Zapdos|Thunder|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|54/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|38/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641820368
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Zapdos|Thunder|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|62/100
+|
+|-weather|none
+|-heal|p1a: Zapdos|68/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|7/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641820372
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|43/100
+|move|p2a: Zapdos|Volt Switch|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|t:|1641820376
+|switch|p2a: Pelipper|Pelipper, F|26/100 par|[from]move: Volt Switch
+|-damage|p2a: Pelipper|1/100 par|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|50/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641820386
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|25/100
+|move|p2a: Pelipper|Scald|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|31/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641820393
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|81/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Pelipper|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|35/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|42/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641820402
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|92/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Pelipper|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|49/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|55/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1641820412
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|30/100
+|move|p2a: Pelipper|Scald|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|36/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641820416
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|86/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Pelipper|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|44/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|51/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|c|☆isekaied|burn ?
+|
+|t:|1641820423
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|26/100
+|move|p2a: Pelipper|Scald|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|32/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1641820429
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|82/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Pelipper|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|36/100
+|-status|p1a: Zapdos|brn
+|
+|-weather|none
+|-heal|p1a: Zapdos|43/100 brn|[from] item: Leftovers
+|-damage|p1a: Zapdos|36/100 brn|[from] brn
+|upkeep
+|turn|44
+|
+|t:|1641820437
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|86/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|52/100 par
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-heal|p1a: Zapdos|93/100 brn|[from] item: Leftovers
+|-damage|p1a: Zapdos|86/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1641820443
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|62/100 brn
+|
+|-heal|p1a: Zapdos|68/100 brn|[from] item: Leftovers
+|-damage|p1a: Zapdos|62/100 brn|[from] brn
+|upkeep
+|turn|46
+|
+|t:|1641820452
+|move|p1a: Zapdos|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|10/100
+|move|p2a: Corviknight|Defog|p1a: Zapdos
+|-sideend|p1: hchw90|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|-sideend|p2: isekaied|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-heal|p1a: Zapdos|68/100 brn|[from] item: Leftovers
+|-damage|p1a: Zapdos|62/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1641820465
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100 brn
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Corviknight|Body Press|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-damage|p1a: Zapdos|94/100 brn|[from] brn
+|upkeep
+|turn|48
+|inactive|isekaied has 120 seconds left.
+|
+|t:|1641820500
+|switch|p2a: Pelipper|Pelipper, F|52/100 par
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|69/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|76/100 brn|[from] item: Leftovers
+|-damage|p1a: Zapdos|69/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1641820508
+|switch|p2a: Corviknight|Corviknight, F|10/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Zapdos|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|76/100 brn|[from] item: Leftovers
+|-damage|p1a: Zapdos|69/100 brn|[from] brn
+|upkeep
+|inactive|isekaied has 120 seconds left.
+|c|☆hchw90|could have killed me earlier
+|
+|t:|1641820526
+|switch|p2a: Zapdos|Zapdos|7/100 tox
+|turn|50
+|c|☆hchw90|why did u hold back
+|c|☆isekaied|how
+|inactive|isekaied has 120 seconds left.
+|
+|t:|1641820531
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|76/100 brn|[from] item: Leftovers
+|-damage|p1a: Zapdos|69/100 brn|[from] brn
+|upkeep
+|
+|t:|1641820535
+|switch|p2a: Barraskewda|Barraskewda, M|76/100
+|turn|51
+|c|☆hchw90|u watch the replay again lol
+|
+|t:|1641820543
+|move|p2a: Barraskewda|Flip Turn|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|inactive|isekaied has 120 seconds left.
+|c|☆isekaied|I have other things to do
+|c|☆hchw90|ok
+|
+|t:|1641820574
+|switch|p2a: Pelipper|Pelipper, F|52/100 par|[from]move: Flip Turn
+|move|p1a: Zapdos|Thunderbolt|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Zapdos|76/100 brn|[from] item: Leftovers
+|-damage|p1a: Zapdos|69/100 brn|[from] brn
+|upkeep
+|
+|t:|1641820576
+|switch|p2a: Barraskewda|Barraskewda, M|76/100
+|turn|52
+|
+|t:|1641820584
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Barraskewda|atk|1
+|move|p2a: Barraskewda|Liquidation|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|3/100
+|-damage|p2a: Barraskewda|60/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|53
+|
+|t:|1641820589
+|switch|p1a: Heatran|Heatran, F|77/100
+|move|p2a: Barraskewda|Liquidation|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641820594
+|switch|p1a: Landorus|Landorus-Therian, M|3/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Barraskewda|atk|1
+|turn|54
+|
+|t:|1641820602
+|move|p2a: Barraskewda|Liquidation|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Barraskewda|43/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641820604
+|switch|p1a: Zapdos|Zapdos|69/100 brn
+|-ability|p1a: Zapdos|Pressure
+|turn|55
+|
+|t:|1641820614
+|move|p2a: Barraskewda|Liquidation|p1a: Zapdos
+|-damage|p1a: Zapdos|4/100 brn
+|move|p1a: Zapdos|Thunderbolt|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|win|hchw90
+|raw|hchw90's rating: 1347 &rarr; <strong>1370</strong><br />(+23 for winning)
+|raw|isekaied's rating: 1396 &rarr; <strong>1373</strong><br />(-23 for losing)

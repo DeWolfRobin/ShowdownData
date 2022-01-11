@@ -1,0 +1,287 @@
+|j|‽deeznuts sama1
+|j|☆chelios919
+|t:|1641888338
+|gametype|singles
+|player|p1|deeznuts sama1|volkner|1395
+|player|p2|chelios919|101|1406
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Weavile, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Melmetal|
+|poke|p1|Tapu Fini|
+|poke|p1|Victini|
+|poke|p2|Rillaboom, F|
+|poke|p2|Zapdos|
+|poke|p2|Kartana|
+|poke|p2|Diancie|
+|poke|p2|Garchomp, M|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by deeznuts sama1)
+|
+|t:|1641888361
+|start
+|switch|p1a: Weavile|Weavile, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1641888380
+|switch|p2a: Diancie|Diancie|100/100
+|move|p1a: Weavile|Triple Axel|p2a: Diancie|[miss]
+|-miss|p1a: Weavile|p2a: Diancie
+|
+|upkeep
+|turn|2
+|
+|t:|1641888393
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Diancie|Diamond Storm|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|89/100
+|-boost|p2a: Diancie|def|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641888399
+|move|p2a: Diancie|Mystical Fire|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|35/100
+|-unboost|p1a: Ferrothorn|spa|1
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Diancie
+|-sidestart|p2: chelios919|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641888410
+|switch|p1a: Tapu Fini|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Diancie|Stealth Rock|p1a: Tapu Fini
+|-sidestart|p1: deeznuts sama1|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1641888434
+|switch|p1a: Victini|Victini|100/100
+|-damage|p1a: Victini|76/100|[from] Stealth Rock
+|move|p2a: Diancie|Endeavor|p1a: Victini
+|-immune|p1a: Victini
+|
+|upkeep
+|turn|6
+|
+|t:|1641888445
+|move|p1a: Victini|U-turn|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|96/100
+|
+|t:|1641888451
+|switch|p1a: Tapu Fini|Tapu Fini, shiny|100/100|[from]move: U-turn
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|move|p2a: Diancie|Diamond Storm|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|52/100
+|-boost|p2a: Diancie|def|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641888462
+|move|p1a: Tapu Fini|Surf|p2a: Diancie
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|42/100
+|move|p2a: Diancie|Mystical Fire|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|44/100
+|-unboost|p1a: Tapu Fini|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641888470
+|move|p1a: Tapu Fini|Surf|p2a: Diancie
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|6/100
+|move|p2a: Diancie|Mystical Fire|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|36/100
+|-unboost|p1a: Tapu Fini|spa|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|9
+|
+|t:|1641888486
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Tapu Fini|Surf|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|76/100
+|
+|-heal|p1a: Tapu Fini|42/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|83/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641888500
+|switch|p1a: Ferrothorn|Ferrothorn, M|35/100
+|-damage|p1a: Ferrothorn|29/100|[from] Stealth Rock
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|
+|-heal|p1a: Ferrothorn|35/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641888508
+|move|p2a: Tornadus|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p1: deeznuts sama1|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|-sideend|p2: chelios919|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|-fieldend|move: Grassy Terrain
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Tornadus
+|-damage|p2a: Tornadus|41/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641888515
+|move|p2a: Tornadus|Heat Wave|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641888521
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|13
+|
+|t:|1641888532
+|move|p1a: Weavile|Triple Axel|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|5/100
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-hitcount|p2: Tornadus|2
+|
+|upkeep
+|
+|t:|1641888540
+|switch|p2a: Diancie|Diancie|6/100
+|turn|14
+|-enditem|p2a: Diancie|Custap Berry|[eat]
+|-activate|p2a: Diancie|item: Custap Berry|[consumed]
+|
+|t:|1641888546
+|move|p2a: Diancie|Diamond Storm|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1641888563
+|switch|p1a: Victini|Victini|76/100
+|turn|15
+|inactive|deeznuts sama1 has 120 seconds left.
+|
+|t:|1641888594
+|move|p1a: Victini|U-turn|p2a: Diancie
+|-resisted|p2a: Diancie
+|-damage|p2a: Diancie|0 fnt
+|faint|p2a: Diancie
+|
+|t:|1641888605
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|
+|upkeep
+|c|☆chelios919|...
+|
+|t:|1641888609
+|switch|p2a: Garchomp|Garchomp, M, shiny|100/100
+|turn|16
+|inactive|deeznuts sama1 has 120 seconds left.
+|
+|t:|1641888617
+|switch|p1a: Tapu Fini|Tapu Fini, shiny|42/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|17
+|inactive|deeznuts sama1 has 120 seconds left.
+|
+|t:|1641888653
+|move|p1a: Tapu Fini|Moonblast|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|9/100
+|move|p2a: Garchomp|Earthquake|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|-heal|p2a: Garchomp|15/100|[from] item: Leftovers
+|upkeep
+|inactive|deeznuts sama1 has 90 seconds left.
+|
+|t:|1641888674
+|switch|p1a: Victini|Victini|76/100
+|turn|18
+|
+|t:|1641888677
+|move|p1a: Victini|U-turn|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Victini|63/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|t:|1641888679
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641888686
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|19
+|
+|t:|1641888702
+|move|p2a: Zapdos|Heat Wave|p1a: Zapdos
+|-damage|p1a: Zapdos|71/100
+|move|p1a: Zapdos|Volt Switch|p2a: Zapdos
+|-damage|p2a: Zapdos|63/100
+|
+|t:|1641888710
+|switch|p1a: Melmetal|Melmetal|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|20
+|inactive|chelios919 has 120 seconds left.
+|inactive|chelios919 has 90 seconds left.
+|inactive|chelios919 has 60 seconds left.
+|inactive|chelios919 has 30 seconds left.
+|inactive|chelios919 has 20 seconds left.
+|inactive|chelios919 has 15 seconds left.
+|inactive|chelios919 has 10 seconds left.
+|inactive|chelios919 has 5 seconds left.
+|-message|chelios919 lost due to inactivity.
+|
+|win|deeznuts sama1
+|raw|deeznuts sama1's rating: 1395 &rarr; <strong>1416</strong><br />(+21 for winning)
+|raw|chelios919's rating: 1406 &rarr; <strong>1385</strong><br />(-21 for losing)

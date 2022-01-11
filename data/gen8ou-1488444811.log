@@ -1,0 +1,397 @@
+|j|☆Octilleryman600
+|j|☆Solosist
+|t:|1641766107
+|gametype|singles
+|player|p1|Octilleryman600|marshal|
+|player|p2|Solosist|101|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kommo-o, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Zapdos|
+|poke|p1|Melmetal|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Scizor, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1641766131
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Scizor|Scizor, F|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|turn|1
+|
+|t:|1641766141
+|move|p1a: Landorus|Stealth Rock|p2a: Scizor
+|-sidestart|p2: Solosist|move: Stealth Rock
+|move|p2a: Scizor|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|86/100
+|
+|t:|1641766145
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|
+|-heal|p1a: Landorus|92/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641766182
+|move|p2a: Landorus|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p2: Solosist|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|move|p1a: Landorus|Toxic|p2a: Landorus|[miss]
+|-miss|p1a: Landorus|p2a: Landorus
+|
+|-heal|p1a: Landorus|98/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641766193
+|move|p2a: Landorus|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|65/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|-damage|p2a: Landorus|79/100|[from] item: Life Orb
+|move|p1a: Landorus|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Solosist|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641766202
+|move|p2a: Landorus|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p2: Solosist|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|70/100
+|
+|t:|1641766225
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1641766228
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Dragapult|Hydro Pump|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|43/100
+|
+|-heal|p2a: Heatran|49/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641766237
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Dragapult|Hydro Pump|p2a: Dragapult|[miss]
+|-miss|p1a: Dragapult|p2a: Dragapult
+|
+|upkeep
+|turn|7
+|
+|t:|1641766247
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Dragapult|Draco Meteor|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|84/100
+|-unboost|p2a: Dragapult|spa|2
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1641766268
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Melmetal|Earthquake|p2a: Hippowdon
+|-damage|p2a: Hippowdon|82/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|89/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641766286
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Kommo-o
+|-sidestart|p1: Octilleryman600|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kommo-o|94/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|95/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641766294
+|move|p1a: Kommo-o|Belly Drum|p1a: Kommo-o
+|-damage|p1a: Kommo-o|44/100
+|-setboost|p1a: Kommo-o|atk|6|[from] move: Belly Drum
+|move|p2a: Hippowdon|Toxic|p1a: Kommo-o
+|-status|p1a: Kommo-o|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kommo-o|38/100 tox|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|-damage|p1a: Kommo-o|32/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641766312
+|switch|p2a: Heatran|Heatran, M|49/100
+|move|p1a: Kommo-o|Drain Punch|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-heal|p1a: Kommo-o|61/100 tox|[from] drain|[of] p2a: Heatran
+|faint|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kommo-o|55/100 tox|[from] Sandstorm
+|-damage|p1a: Kommo-o|42/100 tox|[from] psn
+|upkeep
+|
+|t:|1641766317
+|switch|p2a: Dragapult|Dragapult, F|91/100
+|turn|12
+|
+|t:|1641766321
+|move|p2a: Dragapult|Dragon Darts|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-crit|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|-damage|p2a: Dragapult|81/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641766401
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641766410
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Dragapult|Draco Meteor|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641766417
+|switch|p2a: Dragapult|Dragapult, F|81/100
+|turn|14
+|
+|t:|1641766423
+|move|p1a: Dragapult|Draco Meteor|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|76/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641766433
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|15
+|
+|t:|1641766442
+|switch|p1a: Melmetal|Melmetal|84/100
+|-damage|p1a: Melmetal|77/100|[from] Stealth Rock
+|move|p2a: Scizor|Superpower|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|-unboost|p2a: Scizor|atk|1
+|-unboost|p2a: Scizor|def|1
+|faint|p1a: Melmetal
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641766454
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|turn|16
+|
+|t:|1641766465
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Volcarona|94/100|[from] Sandstorm
+|-damage|p2a: Urshifu|94/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1641766485
+|move|p1a: Volcarona|Flamethrower|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|49/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-crit|p1a: Volcarona
+|-damage|p1a: Volcarona|46/100
+|-supereffective|p1a: Volcarona
+|-crit|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-hitcount|p1: Volcarona|2
+|-damage|p2a: Urshifu|39/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641766503
+|switch|p1a: Dragapult|Dragapult, M|76/100
+|-damage|p1a: Dragapult|64/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641766510
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|48/100
+|-unboost|p1a: Dragapult|spa|2
+|
+|upkeep
+|turn|19
+|
+|t:|1641766518
+|switch|p1a: Landorus|Landorus-Therian, M|65/100
+|-damage|p1a: Landorus|52/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|move|p2a: Scizor|Bullet Punch|p1a: Landorus
+|-damage|p1a: Landorus|26/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641766528
+|move|p2a: Scizor|Bullet Punch|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641766533
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|21
+|
+|t:|1641766540
+|switch|p2a: Landorus|Landorus-Therian, M|70/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Hurricane|p2a: Landorus
+|-damage|p2a: Landorus|14/100
+|-start|p2a: Landorus|confusion
+|
+|upkeep
+|turn|22
+|
+|t:|1641766552
+|-activate|p2a: Landorus|confusion
+|move|p2a: Landorus|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|69/100
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Landorus
+|-damage|p2a: Landorus|5/100|[from] item: Life Orb
+|move|p1a: Zapdos|Hurricane|p2a: Landorus|[miss]
+|-miss|p1a: Zapdos|p2a: Landorus
+|
+|upkeep
+|turn|23
+|
+|t:|1641766569
+|-activate|p2a: Landorus|confusion
+|-damage|p2a: Landorus|0 fnt|[from] confusion
+|faint|p2a: Landorus
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|upkeep
+|
+|t:|1641766573
+|switch|p2a: Scizor|Scizor, F|48/100
+|turn|24
+|
+|t:|1641766579
+|move|p1a: Zapdos|Hurricane|p2a: Scizor|[miss]
+|-miss|p1a: Zapdos|p2a: Scizor
+|move|p2a: Scizor|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|79/100
+|
+|t:|1641766585
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|39/100|[from]move: U-turn
+|
+|upkeep
+|turn|25
+|
+|t:|1641766590
+|move|p2a: Urshifu|Surging Strikes|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|60/100
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|41/100
+|-status|p2a: Urshifu|par|[from] ability: Static|[of] p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|22/100
+|-hitcount|p1a: Zapdos|3
+|-damage|p2a: Urshifu|29/100 par|[from] item: Life Orb
+|move|p1a: Zapdos|Volt Switch|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|t:|1641766605
+|switch|p1a: Dragapult|Dragapult, M|64/100|[from]move: Volt Switch
+|-damage|p1a: Dragapult|52/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641766608
+|switch|p2a: Scizor|Scizor, F|48/100
+|turn|26
+|
+|t:|1641766614
+|move|p2a: Scizor|Bullet Punch|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641766619
+|switch|p1a: Zapdos|Zapdos|22/100
+|-damage|p1a: Zapdos|0 fnt|[from] Stealth Rock
+|faint|p1a: Zapdos
+|
+|win|Solosist

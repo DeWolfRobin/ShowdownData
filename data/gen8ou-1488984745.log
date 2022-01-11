@@ -1,0 +1,310 @@
+|j|☆CalCurry123
+|j|☆DumbLick1337
+|t:|1641843355
+|gametype|singles
+|player|p1|CalCurry123|acetrainer-gen4dp|1301
+|player|p2|DumbLick1337|102|1349
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Hawlucha, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Toxapex, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, F|
+|poke|p2|Clefable, M|
+|poke|p2|Seismitoad, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Gyarados, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by CalCurry123)
+|
+|t:|1641843357
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|c|☆DumbLick1337|hf
+|inactive|DumbLick1337 also wants the timer to be on.
+|
+|t:|1641843363
+|move|p1a: Tapu Koko|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|cant|p2a: Clefable|move: Taunt|Wish
+|
+|upkeep
+|turn|2
+|c|☆CalCurry123|u2
+|
+|t:|1641843370
+|move|p1a: Tapu Koko|Light Screen|p1a: Tapu Koko
+|-sidestart|p1: CalCurry123|move: Light Screen
+|move|p2a: Clefable|Moonblast|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|80/100
+|
+|upkeep
+|turn|3
+|j| haywirehax
+|
+|t:|1641843375
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tapu Koko|Reflect|p1a: Tapu Koko
+|-sidestart|p1: CalCurry123|Reflect
+|
+|upkeep
+|turn|4
+|
+|t:|1641843380
+|move|p1a: Tapu Koko|Taunt|p2a: Corviknight
+|-start|p2a: Corviknight|move: Taunt
+|cant|p2a: Corviknight|move: Taunt|Defog
+|
+|upkeep
+|turn|5
+|
+|t:|1641843384
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Tapu Koko|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|93/100
+|
+|t:|1641843399
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|-heal|p2a: Clefable|99/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641843404
+|move|p2a: Clefable|Thunder Wave|p1a: Ferrothorn
+|-status|p1a: Ferrothorn|par
+|move|p1a: Ferrothorn|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|89/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|7
+|
+|t:|1641843414
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ferrothorn|Spikes|p2a: Corviknight
+|-sidestart|p2: DumbLick1337|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1641843421
+|move|p2a: Corviknight|Defog|p1a: Ferrothorn
+|-unboost|p1a: Ferrothorn|evasion|1
+|-sideend|p1: CalCurry123|Reflect
+|-sideend|p1: CalCurry123|move: Light Screen
+|-sideend|p2: DumbLick1337|Spikes|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Ferrothorn|Leech Seed|p2a: Corviknight
+|-start|p2a: Corviknight|move: Leech Seed
+|
+|-damage|p2a: Corviknight|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|9
+|
+|t:|1641843429
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|89/100
+|-enditem|p2a: Hydreigon|Choice Scarf|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|10
+|
+|t:|1641843436
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Hydreigon|Dark Pulse|p1a: Toxapex
+|-damage|p1a: Toxapex|69/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641843445
+|move|p2a: Hydreigon|Dark Pulse|p1a: Toxapex
+|-damage|p1a: Toxapex|35/100
+|move|p1a: Toxapex|Knock Off|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|84/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641843452
+|switch|p1a: Tapu Koko|Tapu Koko|80/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Hydreigon|Dark Pulse|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|54/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641843459
+|switch|p2a: Corviknight|Corviknight, F|88/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tapu Koko|Light Screen|p1a: Tapu Koko
+|-sidestart|p1: CalCurry123|move: Light Screen
+|
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641843465
+|move|p1a: Tapu Koko|Taunt|p2a: Corviknight
+|-start|p2a: Corviknight|move: Taunt
+|cant|p2a: Corviknight|move: Taunt|Defog
+|
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641843472
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|move|p1a: Tapu Koko|Taunt|p2a: Seismitoad
+|-start|p2a: Seismitoad|move: Taunt
+|
+|upkeep
+|turn|16
+|
+|t:|1641843477
+|move|p1a: Tapu Koko|U-turn|p2a: Seismitoad
+|-damage|p2a: Seismitoad|88/100
+|
+|t:|1641843480
+|switch|p1a: Hawlucha|Hawlucha, F|100/100|[from]move: U-turn
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p2a: Seismitoad|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|-heal|p2a: Seismitoad|94/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|17
+|
+|t:|1641843488
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1641843494
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Corviknight|Brave Bird|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|37/100
+|-damage|p2a: Corviknight|82/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|88/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641843503
+|move|p1a: Hawlucha|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641843503
+|switch|p2a: Clefable|Clefable, M|89/100
+|turn|20
+|
+|t:|1641843511
+|move|p2a: Clefable|Protect|p2a: Clefable
+|-singleturn|p2a: Clefable|Protect
+|move|p1a: Hawlucha|Acrobatics|p2a: Clefable
+|-activate|p2a: Clefable|move: Protect
+|
+|-sideend|p1: CalCurry123|move: Light Screen
+|upkeep
+|turn|21
+|
+|t:|1641843517
+|switch|p2a: Hydreigon|Hydreigon, F|84/100
+|move|p1a: Hawlucha|Acrobatics|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1641843517
+|switch|p2a: Clefable|Clefable, M|89/100
+|turn|22
+|
+|t:|1641843524
+|move|p1a: Hawlucha|Acrobatics|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641843524
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|23
+|c|☆CalCurry123|gg
+|
+|t:|1641843530
+|move|p1a: Hawlucha|Close Combat|p2a: rotomheat
+|-damage|p2a: rotomheat|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: rotomheat
+|
+|upkeep
+|
+|t:|1641843530
+|switch|p2a: Seismitoad|Seismitoad, M|94/100
+|turn|24
+|
+|t:|1641843537
+|move|p1a: Hawlucha|Close Combat|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Seismitoad
+|
+|upkeep
+|
+|t:|1641843537
+|switch|p2a: Gyarados|Gyarados, F|100/100
+|turn|25
+|
+|t:|1641843544
+|move|p1a: Hawlucha|Acrobatics|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|win|CalCurry123
+|raw|CalCurry123's rating: 1301 &rarr; <strong>1324</strong><br />(+23 for winning)
+|raw|DumbLick1337's rating: 1349 &rarr; <strong>1326</strong><br />(-23 for losing)
+|c|☆DumbLick1337|gg

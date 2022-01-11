@@ -1,0 +1,89 @@
+|j|☆JayMangyTangy
+|j|☆RRtdmRR
+|t:|1641754162
+|gametype|singles
+|player|p1|JayMangyTangy|170|1241
+|player|p2|RRtdmRR|ruinmaniac|1207
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ludicolo, M|
+|poke|p1|Pelipper, F|
+|poke|p1|Nidoking, M|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Tangrowth, F|
+|poke|p1|Zapdos|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Gyarados, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, F|
+|teampreview
+|c|☆RRtdmRR|glhf
+|
+|t:|1641754188
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Noacier|Ferrothorn, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1641754206
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|move|p2a: Noacier|Stealth Rock|p1a: Nidoking
+|-sidestart|p1: JayMangyTangy|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641754218
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|move|p1a: Nidoking|Fire Blast|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-damage|p2a: Gyarados|87/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Gyarados|93/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641754239
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Gyarados|99/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641754263
+|move|p2a: Gyarados|Aqua Tail|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-ability|p2a: Gyarados|Moxie|boost
+|-boost|p2a: Gyarados|atk|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Gyarados|100/100|[from] item: Leftovers
+|upkeep
+|-message|JayMangyTangy forfeited.
+|
+|win|RRtdmRR
+|raw|JayMangyTangy's rating: 1241 &rarr; <strong>1214</strong><br />(-27 for losing)
+|raw|RRtdmRR's rating: 1207 &rarr; <strong>1234</strong><br />(+27 for winning)
+|l|☆JayMangyTangy
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

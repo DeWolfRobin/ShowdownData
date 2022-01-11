@@ -1,0 +1,77 @@
+|j|☆shibaal
+|j|☆Manjack
+|t:|1641863711
+|gametype|singles
+|player|p1|shibaal|265|1295
+|player|p2|Manjack|266|1342
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Melmetal|
+|poke|p1|Tapu Lele|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Rotom-Wash|
+|poke|p2|Boltund, M|
+|poke|p2|Magnezone|
+|poke|p2|Azumarill, F|
+|poke|p2|Togekiss, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Scolipede, F|
+|teampreview
+|
+|t:|1641863727
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|
+|t:|1641863732
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641863736
+|move|p2a: Dragapult|Dragon Darts|p1a: Rotom
+|-damage|p1a: Rotom|48/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641863745
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|3
+|
+|t:|1641863749
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Tapu Lele|Moonblast|p2a: Dragapult|[miss]
+|-miss|p1a: Tapu Lele|p2a: Dragapult
+|
+|upkeep
+|turn|4
+|-message|shibaal forfeited.
+|
+|win|Manjack
+|raw|shibaal's rating: 1295 &rarr; <strong>1273</strong><br />(-22 for losing)
+|raw|Manjack's rating: 1342 &rarr; <strong>1359</strong><br />(+17 for winning)
+|l|☆shibaal

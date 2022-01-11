@@ -1,0 +1,294 @@
+|j|☆E3viL
+|j|☆Zyakata
+|t:|1641770829
+|gametype|singles
+|player|p1|E3viL|swimmerf|1141
+|player|p2|Zyakata|lucas|1150
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Blaziken, M|
+|poke|p1|Swampert, M|
+|poke|p1|Kartana|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Regieleki|
+|poke|p2|Terrakion|
+|poke|p2|Tapu Lele|
+|poke|p2|Volcarona, M|
+|poke|p2|Milotic, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zyakata)
+|
+|t:|1641770842
+|start
+|switch|p1a: ABCDEFU|Blissey, F|100/100
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|1
+|
+|t:|1641770852
+|switch|p2a: Milotic|Milotic, F|100/100
+|move|p1a: ABCDEFU|Stealth Rock|p2a: Milotic
+|-sidestart|p2: Zyakata|move: Stealth Rock
+|
+|-status|p2a: Milotic|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1641770868
+|switch|p1a: paper go brr|Kartana, shiny|100/100
+|move|p2a: Milotic|Toxic|p1a: paper go brr
+|-immune|p1a: paper go brr
+|
+|-damage|p2a: Milotic|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641770886
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|move|p1a: paper go brr|Knock Off|p2a: Volcarona
+|-damage|p2a: Volcarona|53/100
+|-enditem|p2a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: paper go brr
+|
+|upkeep
+|turn|4
+|
+|t:|1641770895
+|switch|p1a: usage go brr|Landorus-Therian, M|100/100
+|-ability|p1a: usage go brr|Intimidate|boost
+|-unboost|p2a: Volcarona|atk|1
+|move|p2a: Volcarona|Flamethrower|p1a: usage go brr
+|-damage|p1a: usage go brr|53/100
+|
+|-heal|p1a: usage go brr|58/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641770908
+|move|p1a: usage go brr|Rock Slide|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|-heal|p1a: usage go brr|64/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641770914
+|switch|p2a: Terrakion|Terrakion|100/100
+|-damage|p2a: Terrakion|94/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641770918
+|move|p2a: Terrakion|Close Combat|p1a: usage go brr
+|-resisted|p1a: usage go brr
+|-damage|p1a: usage go brr|19/100
+|-unboost|p2a: Terrakion|def|1
+|-unboost|p2a: Terrakion|spd|1
+|-damage|p2a: Terrakion|84/100|[from] item: Life Orb
+|move|p1a: usage go brr|Earthquake|p2a: Terrakion
+|-supereffective|p2a: Terrakion
+|-crit|p2a: Terrakion
+|-damage|p2a: Terrakion|0 fnt
+|faint|p2a: Terrakion
+|
+|-heal|p1a: usage go brr|25/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641770930
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|7
+|
+|t:|1641770937
+|move|p2a: Tapu Lele|Psyshock|p1a: usage go brr
+|-damage|p1a: usage go brr|0 fnt
+|faint|p1a: usage go brr
+|
+|upkeep
+|
+|t:|1641770944
+|switch|p1a: figher jet go brr|Dragapult, F|100/100
+|turn|8
+|
+|t:|1641770952
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: figher jet go brr|Shadow Ball|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|74/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641770963
+|switch|p1a: Bruce Lee|Blaziken, M, shiny|100/100
+|-item|p1a: Bruce Lee|Air Balloon
+|move|p2a: Ferrothorn|Leech Seed|p1a: Bruce Lee
+|-start|p1a: Bruce Lee|move: Leech Seed
+|
+|-damage|p1a: Bruce Lee|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|86/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641770971
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Bruce Lee|Swords Dance|p1a: Bruce Lee
+|-boost|p1a: Bruce Lee|atk|2
+|
+|-damage|p1a: Bruce Lee|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|97/100|[silent]
+|-ability|p1a: Bruce Lee|Speed Boost|boost
+|-boost|p1a: Bruce Lee|spe|1
+|upkeep
+|turn|11
+|
+|t:|1641770981
+|move|p1a: Bruce Lee|Flare Blitz|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Bruce Lee|64/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Bruce Lee|47/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|-damage|p1a: Bruce Lee|12/100|[from] Recoil
+|
+|-fieldend|move: Psychic Terrain
+|-ability|p1a: Bruce Lee|Speed Boost|boost
+|-boost|p1a: Bruce Lee|spe|1
+|upkeep
+|
+|t:|1641770994
+|switch|p2a: Milotic|Milotic, F|94/100 brn
+|-damage|p2a: Milotic|82/100 brn|[from] Stealth Rock
+|turn|12
+|
+|t:|1641771001
+|move|p1a: Bruce Lee|Thunder Punch|p2a: Milotic
+|-supereffective|p2a: Milotic
+|-damage|p2a: Milotic|2/100 brn
+|move|p2a: Milotic|Toxic|p1a: Bruce Lee
+|-status|p1a: Bruce Lee|tox
+|
+|-damage|p1a: Bruce Lee|0 fnt|[from] Leech Seed|[of] p2a: Milotic
+|-heal|p2a: Milotic|11/100 brn|[silent]
+|faint|p1a: Bruce Lee
+|-damage|p2a: Milotic|5/100 brn|[from] brn
+|upkeep
+|
+|t:|1641771023
+|switch|p1a: figher jet go brr|Dragapult, F|100/100
+|turn|13
+|
+|t:|1641771027
+|move|p1a: figher jet go brr|Shadow Ball|p2a: Milotic
+|-crit|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|faint|p2a: Milotic
+|
+|upkeep
+|
+|t:|1641771034
+|switch|p2a: Tapu Lele|Tapu Lele|88/100
+|-damage|p2a: Tapu Lele|76/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|14
+|
+|t:|1641771042
+|move|p1a: figher jet go brr|Shadow Ball|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|16/100
+|move|p2a: Tapu Lele|Shadow Ball|p1a: figher jet go brr
+|-supereffective|p1a: figher jet go brr
+|-damage|p1a: figher jet go brr|15/100
+|
+|upkeep
+|turn|15
+|c|☆Zyakata|Why the fuck are you scarfed
+|inactive|Zyakata has 120 seconds left.
+|c|☆Zyakata|On dragapult
+|
+|t:|1641771079
+|move|p1a: figher jet go brr|Shadow Ball|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641771084
+|switch|p2a: Regieleki|Regieleki|100/100
+|-damage|p2a: Regieleki|88/100|[from] Stealth Rock
+|turn|16
+|c|☆E3viL|of lele
+|c|☆E3viL|i mean cuz of lele
+|c|☆E3viL|i see her scarfed alot
+|inactive|E3viL has 120 seconds left.
+|
+|t:|1641771118
+|move|p1a: figher jet go brr|Shadow Ball|p2a: Regieleki
+|-damage|p2a: Regieleki|28/100
+|move|p2a: Regieleki|Ancient Power|p1a: figher jet go brr
+|-damage|p1a: figher jet go brr|0 fnt
+|-boost|p2a: Regieleki|atk|1
+|-boost|p2a: Regieleki|def|1
+|-boost|p2a: Regieleki|spa|1
+|-boost|p2a: Regieleki|spd|1
+|-boost|p2a: Regieleki|spe|1
+|faint|p1a: figher jet go brr
+|
+|upkeep
+|inactive|E3viL has 120 seconds left.
+|c|☆Zyakata|But..
+|c|☆Zyakata|You have kartana
+|c|☆E3viL|i do have kartana
+|
+|t:|1641771142
+|switch|p1a: GET OUT MY SWAMP|Swampert, M|100/100
+|turn|17
+|c|☆Zyakata|YOU HAVE FUCKIN BLISSEY TOO
+|c|☆E3viL|blissey cant hurt a fuckin lele
+|inactive|E3viL has 90 seconds left.
+|c|☆Zyakata|And Lele can't hurt Blissey for shit
+|inactive|E3viL has 60 seconds left.
+|c|☆E3viL|ok and?
+|c|☆Zyakata|Blissey has huge HP and SPD
+|inactive|E3viL has 30 seconds left.
+|c|☆Zyakata|But u could like
+|c|☆E3viL|it also beats other fucking dragon types with scarfs not only lele
+|c|☆Zyakata|Use specs
+|c|☆E3viL|no
+|inactive|E3viL has 20 seconds left.
+|c|☆Zyakata|And do way more damage with draga
+|inactive|E3viL has 15 seconds left.
+|
+|t:|1641771246
+|move|p2a: Regieleki|Ancient Power|p1a: GET OUT MY SWAMP
+|-resisted|p1a: GET OUT MY SWAMP
+|-damage|p1a: GET OUT MY SWAMP|86/100
+|move|p1a: GET OUT MY SWAMP|Earthquake|p2a: Regieleki
+|-supereffective|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|win|E3viL
+|inactive|E3viL has 20 seconds left this turn.
+|raw|E3viL's rating: 1141 &rarr; <strong>1167</strong><br />(+26 for winning)
+|raw|Zyakata's rating: 1150 &rarr; <strong>1124</strong><br />(-26 for losing)
+|c|☆Zyakata|And then just switch to Blissey instead?
+|c|☆E3viL|imma run my own set
+|c|☆E3viL|scarf isnt evne rare on draga
+|c|☆E3viL|gg
+|l|☆Zyakata

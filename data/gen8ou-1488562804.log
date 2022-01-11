@@ -1,0 +1,216 @@
+|j|☆Pks BloodEagle
+|j|☆Howlpp
+|t:|1641782209
+|gametype|singles
+|player|p1|Pks BloodEagle|170|
+|player|p2|Howlpp|hilbert|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Nidoking, M|
+|poke|p1|Moltres|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Blissey, F|
+|poke|p1|Clefable, F|
+|poke|p2|Blissey, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Blaziken, F|
+|poke|p2|Blastoise, M|
+|poke|p2|Alakazam, M|
+|poke|p2|Aerodactyl, F|
+|teampreview
+|
+|t:|1641782248
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Aerodactyl|Aerodactyl, F, shiny|100/100
+|-ability|p2a: Aerodactyl|Unnerve
+|turn|1
+|
+|t:|1641782268
+|move|p2a: Aerodactyl|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: Pks BloodEagle|move: Stealth Rock
+|move|p1a: Dragapult|Substitute|p1a: Dragapult
+|-start|p1a: Dragapult|Substitute
+|-damage|p1a: Dragapult|76/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641782275
+|move|p2a: Aerodactyl|Rock Slide|p1a: Dragapult
+|-end|p1a: Dragapult|Substitute
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641782282
+|move|p1a: Dragapult|Dragon Darts|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|17/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Aerodactyl
+|-damage|p2a: Aerodactyl|0 fnt
+|faint|p2a: Aerodactyl
+|
+|upkeep
+|
+|t:|1641782328
+|switch|p2a: Blastoise|Blastoise, M, shiny|100/100
+|turn|4
+|
+|t:|1641782334
+|move|p1a: Dragapult|Dragon Darts|p2a: Blastoise
+|-damage|p2a: Blastoise|41/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|upkeep
+|
+|t:|1641782343
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|5
+|
+|t:|1641782351
+|move|p1a: Dragapult|Dragon Darts|p2a: Rillaboom
+|-damage|p2a: Rillaboom|51/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Rillaboom
+|-damage|p2a: Rillaboom|1/100
+|move|p2a: Rillaboom|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-enditem|p1a: Dragapult|Dragon Fang|[from] move: Knock Off|[of] p2a: Rillaboom
+|faint|p1a: Dragapult
+|-damage|p2a: Rillaboom|0 fnt|[from] item: Life Orb
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1641782373
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|-damage|p1a: Nidoking|95/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641782387
+|move|p1a: Nidoking|Earth Power|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-enditem|p2a: Blaziken|Focus Sash
+|-damage|p2a: Blaziken|1/100
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|
+|-heal|p1a: Nidoking|100/100|[from] Grassy Terrain
+|-heal|p2a: Blaziken|7/100|[from] Grassy Terrain
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|7
+|
+|t:|1641782399
+|move|p2a: Blaziken|Protect|p2a: Blaziken
+|-singleturn|p2a: Blaziken|Protect
+|move|p1a: Nidoking|Earth Power|p2a: Blaziken
+|-activate|p2a: Blaziken|move: Protect
+|
+|-heal|p2a: Blaziken|13/100|[from] Grassy Terrain
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|8
+|
+|t:|1641782410
+|move|p2a: Blaziken|Blaze Kick|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|faint|p1a: Nidoking
+|
+|-heal|p2a: Blaziken|19/100|[from] Grassy Terrain
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641782417
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641782421
+|move|p2a: Blaziken|Protect|p2a: Blaziken
+|-singleturn|p2a: Blaziken|Protect
+|move|p1a: Urshifu|Aqua Jet|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|-heal|p1a: Urshifu|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641782431
+|switch|p2a: Alakazam|Alakazam, M, shiny|100/100
+|turn|10
+|
+|t:|1641782439
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|move|p2a: Alakazam|Psyshock|p1a: Blissey
+|-damage|p1a: Blissey|36/100
+|
+|-heal|p1a: Blissey|43/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641782452
+|move|p2a: Alakazam|Psyshock|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|upkeep
+|
+|t:|1641782461
+|switch|p1a: Moltres|Moltres|100/100
+|turn|12
+|
+|t:|1641782466
+|move|p2a: Alakazam|Psyshock|p1a: Moltres
+|-damage|p1a: Moltres|54/100
+|move|p1a: Moltres|U-turn|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-crit|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|t:|1641782473
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641782478
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|13
+|
+|t:|1641782484
+|move|p1a: Urshifu|Close Combat|p2a: Blissey
+|-supereffective|p2a: Blissey
+|-damage|p2a: Blissey|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Blissey
+|
+|win|Pks BloodEagle
+|l|☆Howlpp
+|c|☆Pks BloodEagle|Gg bro

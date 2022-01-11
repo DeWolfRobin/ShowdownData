@@ -1,0 +1,412 @@
+|j|☆Dude974
+|j|☆nomura25
+|t:|1641725040
+|gametype|singles
+|player|p1|Dude974|marlon|1065
+|player|p2|nomura25|pokekid|1044
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Wobbuffet, M|
+|poke|p1|Swampert, M|
+|poke|p1|Bronzong|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Heracross, F|
+|poke|p1|Sylveon, M|
+|poke|p2|Pikachu, F|
+|poke|p2|Azumarill, F|
+|poke|p2|Butterfree, M|
+|poke|p2|Gardevoir, F|
+|poke|p2|Flygon, M|
+|poke|p2|Whimsicott, F|
+|teampreview
+|
+|t:|1641725058
+|start
+|switch|p1a: DetypeAcier|Bronzong|100/100
+|switch|p2a: Gardevoir|Gardevoir, F|100/100
+|-ability|p2a: Gardevoir|Levitate|[from] ability: Trace|[of] p1a: DetypeAcier
+|turn|1
+|
+|t:|1641725071
+|move|p2a: Gardevoir|Reflect|p2a: Gardevoir
+|-sidestart|p2: nomura25|Reflect
+|move|p1a: DetypeAcier|Gyro Ball|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-damage|p2a: Gardevoir|49/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641725078
+|move|p2a: Gardevoir|Memento|p1a: DetypeAcier
+|-unboost|p1a: DetypeAcier|atk|2
+|-unboost|p1a: DetypeAcier|spa|2
+|faint|p2a: Gardevoir
+|move|p1a: DetypeAcier|Reflect|p1a: DetypeAcier
+|-sidestart|p1: Dude974|Reflect
+|
+|upkeep
+|
+|t:|1641725085
+|switch|p2a: Azumarill|Azumarill, F|100/100
+|turn|3
+|
+|t:|1641725091
+|move|p2a: Azumarill|Belly Drum|p2a: Azumarill
+|-damage|p2a: Azumarill|50/100
+|-setboost|p2a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Azumarill|Sitrus Berry|[eat]
+|-heal|p2a: Azumarill|75/100|[from] item: Sitrus Berry
+|move|p1a: DetypeAcier|Light Screen|p1a: DetypeAcier
+|-sidestart|p1: Dude974|move: Light Screen
+|
+|upkeep
+|turn|4
+|
+|t:|1641725105
+|move|p2a: Azumarill|Aqua Jet|p1a: DetypeAcier
+|-damage|p1a: DetypeAcier|65/100
+|move|p1a: DetypeAcier|Gyro Ball|p2a: Azumarill
+|-crit|p2a: Azumarill
+|-damage|p2a: Azumarill|49/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641725113
+|move|p2a: Azumarill|Play Rough|p1a: DetypeAcier
+|-resisted|p1a: DetypeAcier
+|-damage|p1a: DetypeAcier|23/100
+|move|p1a: DetypeAcier|Stealth Rock|p2a: Azumarill
+|-sidestart|p2: nomura25|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1641725121
+|move|p2a: Azumarill|Aqua Jet|p1a: DetypeAcier
+|-damage|p1a: DetypeAcier|0 fnt
+|faint|p1a: DetypeAcier
+|
+|upkeep
+|
+|t:|1641725127
+|switch|p1a: WarrenBuffet|Wobbuffet, M|100/100
+|turn|7
+|
+|t:|1641725132
+|move|p2a: Azumarill|Substitute|p2a: Azumarill
+|-start|p2a: Azumarill|Substitute
+|-damage|p2a: Azumarill|24/100
+|move|p1a: WarrenBuffet|Counter||[still]
+|-fail|p1a: WarrenBuffet
+|
+|upkeep
+|turn|8
+|
+|t:|1641725148
+|move|p2a: Azumarill|Aqua Jet|p1a: WarrenBuffet
+|-damage|p1a: WarrenBuffet|55/100
+|move|p1a: WarrenBuffet|Destiny Bond|p1a: WarrenBuffet
+|-singlemove|p1a: WarrenBuffet|Destiny Bond
+|
+|-sideend|p2: nomura25|Reflect
+|upkeep
+|turn|9
+|
+|t:|1641725159
+|move|p2a: Azumarill|Play Rough|p1a: WarrenBuffet
+|-damage|p1a: WarrenBuffet|0 fnt
+|faint|p1a: WarrenBuffet
+|-activate|p1a: WarrenBuffet|move: Destiny Bond
+|faint|p2a: Azumarill
+|
+|-sideend|p1: Dude974|Reflect
+|upkeep
+|
+|t:|1641725173
+|switch|p2a: Flygon|Flygon, M|100/100
+|switch|p1a: Dumbo|Swampert, M|100/100
+|-damage|p2a: Flygon|95/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641725185
+|move|p2a: Flygon|Dragon Dance|p2a: Flygon
+|-boost|p2a: Flygon|atk|1
+|-boost|p2a: Flygon|spe|1
+|move|p1a: Dumbo|Flip Turn|p2a: Flygon
+|-damage|p2a: Flygon|59/100
+|
+|t:|1641725192
+|switch|p1a: ChoupinouStyle|Sylveon, M|100/100|[from]move: Flip Turn
+|
+|-sideend|p1: Dude974|move: Light Screen
+|upkeep
+|turn|11
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dude974)
+|
+|t:|1641725230
+|switch|p2a: Whimsicott|Whimsicott, F|100/100
+|-damage|p2a: Whimsicott|88/100|[from] Stealth Rock
+|move|p1a: ChoupinouStyle|Moonblast|p2a: Whimsicott
+|-damage|p2a: Whimsicott|44/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641725243
+|move|p2a: Whimsicott|Leech Seed|p1a: ChoupinouStyle
+|-start|p1a: ChoupinouStyle|move: Leech Seed
+|move|p1a: ChoupinouStyle|Mystical Fire|p2a: Whimsicott
+|-supereffective|p2a: Whimsicott
+|-damage|p2a: Whimsicott|4/100
+|-unboost|p2a: Whimsicott|spa|1
+|
+|-damage|p1a: ChoupinouStyle|88/100|[from] Leech Seed|[of] p2a: Whimsicott
+|-heal|p2a: Whimsicott|16/100|[silent]
+|upkeep
+|turn|13
+|
+|t:|1641725255
+|switch|p1a: Toréador|Tornadus-Therian, M|100/100
+|move|p2a: Whimsicott|Hurricane|p1a: Toréador|[miss]
+|-miss|p2a: Whimsicott|p1a: Toréador
+|-enditem|p2a: Whimsicott|Blunder Policy
+|-boost|p2a: Whimsicott|spe|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641725265
+|move|p2a: Whimsicott|Hurricane|p1a: Toréador
+|-damage|p1a: Toréador|86/100
+|move|p1a: Toréador|U-turn|p2a: Whimsicott
+|-damage|p2a: Whimsicott|0 fnt
+|faint|p2a: Whimsicott
+|
+|t:|1641725275
+|switch|p1a: BouvierMan|Heracross, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641725282
+|switch|p2a: Butterfree|Butterfree, M|100/100
+|-damage|p2a: Butterfree|50/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641725291
+|switch|p1a: Toréador|Tornadus-Therian, M|100/100
+|move|p2a: Butterfree|Sleep Powder|p1a: Toréador
+|-status|p1a: Toréador|slp|[from] move: Sleep Powder
+|
+|-heal|p2a: Butterfree|57/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641725303
+|cant|p1a: Toréador|slp
+|move|p2a: Butterfree|Quiver Dance|p2a: Butterfree
+|-boost|p2a: Butterfree|spa|1
+|-boost|p2a: Butterfree|spd|1
+|-boost|p2a: Butterfree|spe|1
+|
+|-heal|p2a: Butterfree|63/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641725312
+|move|p2a: Butterfree|Substitute|p2a: Butterfree
+|-start|p2a: Butterfree|Substitute
+|-damage|p2a: Butterfree|38/100
+|cant|p1a: Toréador|slp
+|
+|-heal|p2a: Butterfree|44/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641725320
+|move|p2a: Butterfree|Quiver Dance|p2a: Butterfree
+|-boost|p2a: Butterfree|spa|1
+|-boost|p2a: Butterfree|spd|1
+|-boost|p2a: Butterfree|spe|1
+|-curestatus|p1a: Toréador|slp|[msg]
+|move|p1a: Toréador|Knock Off|p2a: Butterfree
+|-end|p2a: Butterfree|Substitute
+|
+|-heal|p2a: Butterfree|50/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641725336
+|switch|p1a: ChoupinouStyle|Sylveon, M|88/100
+|move|p2a: Butterfree|Sleep Powder|p1a: ChoupinouStyle
+|-status|p1a: ChoupinouStyle|slp|[from] move: Sleep Powder
+|
+|-heal|p2a: Butterfree|56/100|[from] item: Leftovers
+|-heal|p1a: ChoupinouStyle|94/100 slp|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641725346
+|move|p2a: Butterfree|Substitute|p2a: Butterfree
+|-start|p2a: Butterfree|Substitute
+|-damage|p2a: Butterfree|31/100
+|cant|p1a: ChoupinouStyle|slp
+|
+|-heal|p2a: Butterfree|38/100|[from] item: Leftovers
+|-heal|p1a: ChoupinouStyle|99/100 slp|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641725355
+|move|p2a: Butterfree|Quiver Dance|p2a: Butterfree
+|-boost|p2a: Butterfree|spa|1
+|-boost|p2a: Butterfree|spd|1
+|-boost|p2a: Butterfree|spe|1
+|cant|p1a: ChoupinouStyle|slp
+|
+|-heal|p2a: Butterfree|44/100|[from] item: Leftovers
+|-heal|p1a: ChoupinouStyle|100/100 slp|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641725365
+|move|p2a: Butterfree|Hurricane|p1a: ChoupinouStyle
+|-damage|p1a: ChoupinouStyle|8/100 slp
+|-curestatus|p1a: ChoupinouStyle|slp|[msg]
+|move|p1a: ChoupinouStyle|Calm Mind|p1a: ChoupinouStyle
+|-boost|p1a: ChoupinouStyle|spa|1
+|-boost|p1a: ChoupinouStyle|spd|1
+|
+|-heal|p2a: Butterfree|50/100|[from] item: Leftovers
+|-heal|p1a: ChoupinouStyle|14/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641725376
+|move|p2a: Butterfree|Sleep Powder|p1a: ChoupinouStyle
+|-status|p1a: ChoupinouStyle|slp|[from] move: Sleep Powder
+|cant|p1a: ChoupinouStyle|slp
+|
+|-heal|p2a: Butterfree|56/100|[from] item: Leftovers
+|-heal|p1a: ChoupinouStyle|20/100 slp|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641725385
+|move|p2a: Butterfree|Quiver Dance|p2a: Butterfree
+|-boost|p2a: Butterfree|spa|1
+|-boost|p2a: Butterfree|spd|1
+|-boost|p2a: Butterfree|spe|1
+|-curestatus|p1a: ChoupinouStyle|slp|[msg]
+|move|p1a: ChoupinouStyle|Mystical Fire|p2a: Butterfree
+|-supereffective|p2a: Butterfree
+|-end|p2a: Butterfree|Substitute
+|
+|-heal|p2a: Butterfree|62/100|[from] item: Leftovers
+|-heal|p1a: ChoupinouStyle|26/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641725398
+|move|p2a: Butterfree|Sleep Powder|p1a: ChoupinouStyle
+|-status|p1a: ChoupinouStyle|slp|[from] move: Sleep Powder
+|cant|p1a: ChoupinouStyle|slp
+|
+|-heal|p2a: Butterfree|68/100|[from] item: Leftovers
+|-heal|p1a: ChoupinouStyle|32/100 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641725407
+|move|p2a: Butterfree|Substitute|p2a: Butterfree
+|-start|p2a: Butterfree|Substitute
+|-damage|p2a: Butterfree|43/100
+|cant|p1a: ChoupinouStyle|slp
+|
+|-heal|p2a: Butterfree|49/100|[from] item: Leftovers
+|-heal|p1a: ChoupinouStyle|38/100 slp|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641725416
+|move|p2a: Butterfree|Hurricane|p1a: ChoupinouStyle
+|-damage|p1a: ChoupinouStyle|0 fnt
+|faint|p1a: ChoupinouStyle
+|
+|-heal|p2a: Butterfree|55/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641725433
+|switch|p1a: BouvierMan|Heracross, F|100/100
+|turn|28
+|
+|t:|1641725443
+|move|p2a: Butterfree|Sleep Powder|p1a: BouvierMan
+|-status|p1a: BouvierMan|slp|[from] move: Sleep Powder
+|cant|p1a: BouvierMan|slp
+|
+|-heal|p2a: Butterfree|62/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641725452
+|move|p2a: Butterfree|Quiver Dance|p2a: Butterfree
+|-boost|p2a: Butterfree|spa|1
+|-boost|p2a: Butterfree|spd|1
+|-boost|p2a: Butterfree|spe|1
+|cant|p1a: BouvierMan|slp
+|
+|-heal|p2a: Butterfree|68/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641725461
+|move|p2a: Butterfree|Hurricane|p1a: BouvierMan
+|-supereffective|p1a: BouvierMan
+|-damage|p1a: BouvierMan|0 fnt
+|faint|p1a: BouvierMan
+|
+|-heal|p2a: Butterfree|74/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641725468
+|switch|p1a: Toréador|Tornadus-Therian, M|100/100
+|turn|31
+|
+|t:|1641725472
+|move|p2a: Butterfree|Sleep Powder|p1a: Toréador
+|-status|p1a: Toréador|slp|[from] move: Sleep Powder
+|cant|p1a: Toréador|slp
+|
+|-heal|p2a: Butterfree|80/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641725480
+|move|p2a: Butterfree|Quiver Dance|p2a: Butterfree
+|-boost|p2a: Butterfree|spa|1
+|-boost|p2a: Butterfree|spd|1
+|-boost|p2a: Butterfree|spe|1
+|cant|p1a: Toréador|slp
+|
+|-heal|p2a: Butterfree|86/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|-message|Dude974 forfeited.
+|
+|win|nomura25
+|raw|Dude974's rating: 1065 &rarr; <strong>1044</strong><br />(-21 for losing)
+|raw|nomura25's rating: 1044 &rarr; <strong>1079</strong><br />(+35 for winning)
+|l|☆Dude974

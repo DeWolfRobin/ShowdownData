@@ -1,0 +1,398 @@
+|j|☆sa1
+|j|☆Dreikh
+|t:|1641769566
+|gametype|singles
+|player|p1|sa1|265|1000
+|player|p2|Dreikh|blaine|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Metagross|
+|poke|p1|Moltres-Galar|
+|poke|p1|Hippowdon, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Dracozolt|
+|poke|p1|Klefki, F|
+|poke|p2|Malamar, F|
+|poke|p2|Shuckle, M|
+|poke|p2|Zarude|
+|poke|p2|Froslass, F|
+|poke|p2|Jellicent, M|
+|poke|p2|Machamp, F|
+|teampreview
+|
+|t:|1641769579
+|start
+|switch|p1a: Llavero|Klefki, F|100/100
+|switch|p2a: Machamp|Machamp, F|100/100
+|turn|1
+|
+|t:|1641769586
+|move|p1a: Llavero|Thunder Wave|p2a: Machamp
+|-status|p2a: Machamp|par
+|cant|p2a: Machamp|par
+|
+|upkeep
+|turn|2
+|
+|t:|1641769593
+|move|p1a: Llavero|Spikes|p2a: Machamp
+|-sidestart|p2: Dreikh|Spikes
+|move|p2a: Machamp|Dynamic Punch|p1a: Llavero
+|-damage|p1a: Llavero|28/100
+|-start|p1a: Llavero|confusion
+|
+|-heal|p1a: Llavero|34/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641769606
+|-activate|p1a: Llavero|confusion
+|move|p1a: Llavero|Spikes|p2a: Machamp
+|-sidestart|p2: Dreikh|Spikes
+|move|p2a: Machamp|Dynamic Punch|p1a: Llavero
+|-damage|p1a: Llavero|0 fnt
+|faint|p1a: Llavero
+|
+|upkeep
+|
+|t:|1641769616
+|switch|p1a: Ñam|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Ñam
+|turn|4
+|
+|t:|1641769621
+|move|p1a: Ñam|Stealth Rock|p2a: Machamp
+|-sidestart|p2: Dreikh|move: Stealth Rock
+|move|p2a: Machamp|Dynamic Punch|p1a: Ñam
+|-damage|p1a: Ñam|63/100
+|-start|p1a: Ñam|confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Machamp|94/100 par|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641769636
+|switch|p1a: SoyDaltonico|Dracozolt, shiny|100/100
+|cant|p2a: Machamp|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Machamp|88/100 par|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1641769647
+|move|p1a: SoyDaltonico|Bolt Beak|p2a: Machamp
+|-damage|p2a: Machamp|0 fnt
+|faint|p2a: Machamp
+|-damage|p1a: SoyDaltonico|91/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641769665
+|switch|p2a: Shuckle|Shuckle, M|100/100
+|-damage|p2a: Shuckle|75/100|[from] Stealth Rock
+|-damage|p2a: Shuckle|59/100|[from] Spikes
+|turn|7
+|
+|t:|1641769675
+|move|p1a: SoyDaltonico|Bolt Beak|p2a: Shuckle
+|-damage|p2a: Shuckle|2/100
+|-damage|p1a: SoyDaltonico|81/100|[from] item: Life Orb
+|move|p2a: Shuckle|Rest|p2a: Shuckle
+|-status|p2a: Shuckle|slp|[from] move: Rest
+|-heal|p2a: Shuckle|100/100 slp|[silent]
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641769703
+|move|p1a: SoyDaltonico|Bolt Beak|p2a: Shuckle
+|-damage|p2a: Shuckle|38/100 slp
+|-damage|p1a: SoyDaltonico|71/100|[from] item: Life Orb
+|cant|p2a: Shuckle|slp
+|
+|-weather|none
+|-heal|p2a: Shuckle|44/100 slp|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641769724
+|switch|p1a: Ñam|Hippowdon, M|63/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Ñam
+|cant|p2a: Shuckle|slp
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Shuckle|50/100 slp|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641769733
+|move|p1a: Ñam|Slack Off|p1a: Ñam
+|-heal|p1a: Ñam|100/100
+|-curestatus|p2a: Shuckle|slp|[msg]
+|move|p2a: Shuckle|Toxic|p1a: Ñam
+|-status|p1a: Ñam|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Shuckle|56/100|[from] item: Leftovers
+|-damage|p1a: Ñam|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641769744
+|move|p1a: Ñam|Toxic|p2a: Shuckle
+|-status|p2a: Shuckle|tox
+|move|p2a: Shuckle|Shell Smash|p2a: Shuckle
+|-boost|p2a: Shuckle|def|1
+|-boost|p2a: Shuckle|spd|1
+|-unboost|p2a: Shuckle|atk|2
+|-unboost|p2a: Shuckle|spa|2
+|-unboost|p2a: Shuckle|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Shuckle|62/100 tox|[from] item: Leftovers
+|-damage|p1a: Ñam|82/100 tox|[from] psn
+|-damage|p2a: Shuckle|56/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641769755
+|move|p1a: Ñam|Earthquake|p2a: Shuckle
+|-damage|p2a: Shuckle|41/100 tox
+|move|p2a: Shuckle|Infestation|p1a: Ñam
+|-damage|p1a: Ñam|81/100 tox
+|-activate|p1a: Ñam|move: Infestation|[of] p2a: Shuckle
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Shuckle|48/100 tox|[from] item: Leftovers
+|-damage|p1a: Ñam|63/100 tox|[from] psn
+|-damage|p2a: Shuckle|35/100 tox|[from] psn
+|-damage|p1a: Ñam|50/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|13
+|
+|t:|1641769765
+|move|p1a: Ñam|Slack Off|p1a: Ñam
+|-heal|p1a: Ñam|99/100 tox
+|move|p2a: Shuckle|Rest|p2a: Shuckle
+|-status|p2a: Shuckle|slp|[from] move: Rest
+|-heal|p2a: Shuckle|100/100 slp|[silent]
+|
+|-weather|none
+|-damage|p1a: Ñam|75/100 tox|[from] psn
+|-damage|p1a: Ñam|63/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1641769794
+|move|p1a: Ñam|Earthquake|p2a: Shuckle
+|-damage|p2a: Shuckle|85/100 slp
+|cant|p2a: Shuckle|slp
+|
+|-heal|p2a: Shuckle|91/100 slp|[from] item: Leftovers
+|-damage|p1a: Ñam|32/100 tox|[from] psn
+|-damage|p1a: Ñam|20/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|-enditem|p1a: Ñam|Figy Berry|[eat]
+|-heal|p1a: Ñam|53/100 tox|[from] item: Figy Berry
+|turn|15
+|
+|t:|1641769809
+|move|p1a: Ñam|Earthquake|p2a: Shuckle
+|-damage|p2a: Shuckle|77/100 slp
+|cant|p2a: Shuckle|slp
+|
+|-heal|p2a: Shuckle|83/100 slp|[from] item: Leftovers
+|-damage|p1a: Ñam|15/100 tox|[from] psn
+|-damage|p1a: Ñam|3/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1641769818
+|move|p1a: Ñam|Toxic||[still]
+|-fail|p1a: Ñam
+|-curestatus|p2a: Shuckle|slp|[msg]
+|move|p2a: Shuckle|Shell Smash|p2a: Shuckle
+|-boost|p2a: Shuckle|def|1
+|-boost|p2a: Shuckle|spd|1
+|-unboost|p2a: Shuckle|atk|2
+|-unboost|p2a: Shuckle|spa|2
+|-unboost|p2a: Shuckle|spe|2
+|
+|-heal|p2a: Shuckle|89/100|[from] item: Leftovers
+|-damage|p1a: Ñam|0 fnt|[from] psn
+|faint|p1a: Ñam
+|upkeep
+|
+|t:|1641769833
+|switch|p1a: Equis|Metagross, shiny|100/100
+|turn|17
+|
+|t:|1641769840
+|move|p1a: Equis|Meteor Mash|p2a: Shuckle
+|-supereffective|p2a: Shuckle
+|-damage|p2a: Shuckle|56/100
+|-boost|p1a: Equis|atk|1
+|move|p2a: Shuckle|Infestation|p1a: Equis
+|-damage|p1a: Equis|99/100
+|-activate|p1a: Equis|move: Infestation|[of] p2a: Shuckle
+|
+|-heal|p2a: Shuckle|62/100|[from] item: Leftovers
+|-damage|p1a: Equis|87/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|18
+|
+|t:|1641769850
+|move|p1a: Equis|Meteor Mash|p2a: Shuckle
+|-supereffective|p2a: Shuckle
+|-damage|p2a: Shuckle|17/100
+|-boost|p1a: Equis|atk|1
+|move|p2a: Shuckle|Shell Smash|p2a: Shuckle
+|-boost|p2a: Shuckle|def|1
+|-boost|p2a: Shuckle|spd|1
+|-unboost|p2a: Shuckle|atk|2
+|-unboost|p2a: Shuckle|spa|2
+|-unboost|p2a: Shuckle|spe|2
+|
+|-heal|p2a: Shuckle|23/100|[from] item: Leftovers
+|-damage|p1a: Equis|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|19
+|
+|t:|1641769862
+|move|p1a: Equis|Meteor Mash|p2a: Shuckle
+|-supereffective|p2a: Shuckle
+|-damage|p2a: Shuckle|0 fnt
+|faint|p2a: Shuckle
+|
+|-end|p1a: Equis|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641769875
+|switch|p2a: Jellicent|Jellicent, M|100/100
+|-damage|p2a: Jellicent|88/100|[from] Stealth Rock
+|-damage|p2a: Jellicent|72/100|[from] Spikes
+|turn|20
+|
+|t:|1641769895
+|move|p1a: Equis|Zen Headbutt|p2a: Jellicent
+|-damage|p2a: Jellicent|0 fnt
+|faint|p2a: Jellicent
+|
+|upkeep
+|
+|t:|1641769902
+|switch|p2a: Froslass|Froslass, F, shiny|100/100
+|-damage|p2a: Froslass|84/100|[from] Spikes
+|-damage|p2a: Froslass|59/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641769917
+|move|p2a: Froslass|Destiny Bond|p2a: Froslass
+|-singlemove|p2a: Froslass|Destiny Bond
+|move|p1a: Equis|Meteor Mash|p2a: Froslass
+|-supereffective|p2a: Froslass
+|-damage|p2a: Froslass|0 fnt
+|-boost|p1a: Equis|atk|1
+|faint|p2a: Froslass
+|-activate|p2a: Froslass|move: Destiny Bond
+|faint|p1a: Equis
+|
+|upkeep
+|
+|t:|1641769934
+|switch|p2a: Malamar|Malamar, F|100/100
+|switch|p1a: ª|Moltres-Galar|100/100
+|-damage|p2a: Malamar|84/100|[from] Spikes
+|-damage|p2a: Malamar|72/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641769946
+|move|p1a: ª|Fiery Wrath|p2a: Malamar
+|-damage|p2a: Malamar|36/100
+|move|p2a: Malamar|Acupressure|p2a: Malamar
+|-boost|p2a: Malamar|def|2
+|
+|-heal|p2a: Malamar|42/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641769955
+|move|p1a: ª|Fiery Wrath|p2a: Malamar
+|-damage|p2a: Malamar|7/100
+|move|p2a: Malamar|Rest|p2a: Malamar
+|-status|p2a: Malamar|slp|[from] move: Rest
+|-heal|p2a: Malamar|100/100 slp|[silent]
+|
+|upkeep
+|turn|24
+|
+|t:|1641769962
+|move|p1a: ª|Fiery Wrath|p2a: Malamar
+|-damage|p2a: Malamar|65/100 slp
+|cant|p2a: Malamar|slp
+|
+|-heal|p2a: Malamar|71/100 slp|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641769969
+|move|p1a: ª|Fiery Wrath|p2a: Malamar
+|-damage|p2a: Malamar|37/100 slp
+|cant|p2a: Malamar|slp
+|
+|-heal|p2a: Malamar|44/100 slp|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641769975
+|move|p1a: ª|Fiery Wrath|p2a: Malamar
+|-damage|p2a: Malamar|7/100 slp
+|-curestatus|p2a: Malamar|slp|[msg]
+|cant|p2a: Malamar|flinch
+|
+|-heal|p2a: Malamar|14/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641769983
+|move|p1a: ª|Fiery Wrath|p2a: Malamar
+|-damage|p2a: Malamar|0 fnt
+|faint|p2a: Malamar
+|
+|upkeep
+|
+|t:|1641769988
+|switch|p2a: Zarude|Zarude|100/100
+|-damage|p2a: Zarude|84/100|[from] Spikes
+|-damage|p2a: Zarude|72/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641770002
+|move|p2a: Zarude|Darkest Lariat|p1a: ª
+|-resisted|p1a: ª
+|-damage|p1a: ª|70/100
+|-damage|p2a: Zarude|62/100|[from] item: Life Orb
+|move|p1a: ª|Air Slash|p2a: Zarude
+|-supereffective|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|faint|p2a: Zarude
+|
+|win|sa1
+|raw|sa1's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|Dreikh's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Dreikh

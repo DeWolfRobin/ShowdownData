@@ -1,0 +1,319 @@
+|j|☆AmphibiansRiseUp
+|j|☆A_Stupid_Fish
+|t:|1641837313
+|gametype|singles
+|player|p1|AmphibiansRiseUp|2|1479
+|player|p2|A_Stupid_Fish|colress|1499
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Cloyster, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Zapdos-Galar|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Clefable, F|
+|poke|p2|Regieleki|
+|poke|p2|Zapdos-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by A_Stupid_Fish)
+|j| JDMonika
+|
+|t:|1641837330
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|1
+|
+|t:|1641837349
+|move|p1a: Mew|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|cant|p2a: Clefable|move: Taunt|Calm Mind
+|
+|upkeep
+|turn|2
+|
+|t:|1641837358
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|move|p1a: Mew|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: A_Stupid_Fish|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641837361
+|move|p1a: Mew|Spikes|p2a: Zapdos
+|-sidestart|p2: A_Stupid_Fish|Spikes
+|move|p2a: Zapdos|U-turn|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|25/100
+|
+|t:|1641837365
+|switch|p2a: Regieleki|Regieleki|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641837372
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Regieleki|Rapid Spin|p1a: Garchomp
+|-damage|p1a: Garchomp|87/100
+|-boost|p2a: Regieleki|spe|1
+|-damage|p2a: Regieleki|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-sideend|p2: A_Stupid_Fish|Spikes|[from] move: Rapid Spin|[of] p2a: Regieleki
+|-sideend|p2: A_Stupid_Fish|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Regieleki
+|
+|upkeep
+|turn|5
+|
+|t:|1641837376
+|switch|p2a: Clefable|Clefable, F|100/100
+|switch|p1a: Mew|Mew|25/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641837380
+|move|p1a: Mew|Stealth Rock|p2a: Clefable
+|-sidestart|p2: A_Stupid_Fish|move: Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641837393
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|turn|7
+|
+|t:|1641837398
+|move|p1a: Bisharp|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|22/100
+|cant|p2a: Clefable|flinch
+|
+|-heal|p2a: Clefable|28/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641837402
+|move|p1a: Bisharp|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641837407
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|-damage|p2a: Zapdos|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641837419
+|move|p2a: Zapdos|U-turn|p1a: Bisharp
+|-damage|p1a: Bisharp|54/100
+|
+|t:|1641837424
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Bisharp|Iron Head|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|82/100
+|-damage|p1a: Bisharp|41/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|88/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641837428
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|move|p2a: Ferrothorn|Knock Off|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|27/100
+|-enditem|p1a: Bisharp|Black Glasses|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|95/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641837430
+|move|p1a: Bisharp|Knock Off|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Bisharp|15/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641837441
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641837445
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|move|p2a: Barraskewda|Aqua Jet|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|86/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641837447
+|switch|p2a: Zapdos|Zapdos-Galar|88/100
+|-damage|p2a: Zapdos|76/100|[from] Stealth Rock
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641837449
+|move|p1a: Cloyster|Icicle Spear|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|23/100
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-hitcount|p2: Zapdos|2
+|
+|upkeep
+|
+|t:|1641837452
+|switch|p2a: Regieleki|Regieleki|88/100
+|turn|15
+|
+|t:|1641837455
+|switch|p1a: Garchomp|Garchomp, M|87/100
+|move|p2a: Regieleki|Thunder|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|upkeep
+|turn|16
+|
+|t:|1641837461
+|move|p2a: Regieleki|Rapid Spin|p1a: Garchomp
+|-damage|p1a: Garchomp|75/100
+|-boost|p2a: Regieleki|spe|1
+|-damage|p2a: Regieleki|76/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-sideend|p2: A_Stupid_Fish|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Regieleki
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641837470
+|move|p2a: Regieleki|Explosion|p1a: Garchomp
+|-damage|p1a: Garchomp|13/100
+|faint|p2a: Regieleki
+|move|p1a: Garchomp|Scale Shot|p2: Regieleki|[notarget]
+|-fail|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641837473
+|switch|p2a: Barraskewda|Barraskewda, M|88/100
+|turn|18
+|
+|t:|1641837478
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Barraskewda|Aqua Jet|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|-status|p2a: Barraskewda|brn|[from] ability: Flame Body|[of] p1a: Volcarona
+|faint|p1a: Volcarona
+|
+|-damage|p2a: Barraskewda|82/100 brn|[from] brn
+|upkeep
+|
+|t:|1641837483
+|switch|p1a: Cloyster|Cloyster, M|86/100
+|turn|19
+|
+|t:|1641837486
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641837489
+|move|p1a: Cloyster|Rock Blast|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|66/100
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|33/100
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-hitcount|p2: Pelipper|3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641837493
+|switch|p2a: Barraskewda|Barraskewda, M|82/100 brn
+|turn|21
+|
+|t:|1641837495
+|switch|p1a: Garchomp|Garchomp, M|13/100
+|move|p2a: Barraskewda|Close Combat|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|-damage|p2a: Barraskewda|70/100 brn|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|64/100 brn|[from] brn
+|upkeep
+|
+|t:|1641837498
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|turn|22
+|
+|t:|1641837501
+|move|p2a: Barraskewda|Close Combat|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|83/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|move|p1a: Zapdos|Close Combat|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|faint|p2a: Barraskewda
+|
+|win|AmphibiansRiseUp
+|raw|AmphibiansRiseUp's rating: 1479 &rarr; <strong>1500</strong><br />(+21 for winning)
+|raw|A_Stupid_Fish's rating: 1499 &rarr; <strong>1478</strong><br />(-21 for losing)
+|l|☆AmphibiansRiseUp
+|l|☆A_Stupid_Fish

@@ -1,0 +1,278 @@
+|j|☆wremosr
+|j|☆lisosomer
+|t:|1641810365
+|gametype|singles
+|player|p1|wremosr|policeman-gen4|
+|player|p2|lisosomer|170|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gengar, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Zeraora|
+|poke|p1|Slowking, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Regidrago|
+|poke|p2|Pelipper, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Butterfree, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Ditto|
+|teampreview
+|
+|t:|1641810377
+|start
+|switch|p1a: Zeraora|Zeraora, shiny|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|1
+|
+|t:|1641810387
+|move|p1a: Zeraora|Facade|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|94/100
+|-damage|p1a: Zeraora|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Zeraora
+|-sidestart|p1: wremosr|move: Stealth Rock
+|
+|-heal|p2a: Ferrothorn|99/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641810398
+|move|p1a: Zeraora|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|27/100
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|-damage|p1a: Zeraora|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Zeraora
+|-start|p1a: Zeraora|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|33/100|[from] item: Leftovers
+|-damage|p1a: Zeraora|63/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|45/100|[silent]
+|upkeep
+|turn|3
+|
+|t:|1641810427
+|move|p1a: Zeraora|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Zeraora|def|1
+|-unboost|p1a: Zeraora|spd|1
+|-damage|p1a: Zeraora|51/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641810444
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|4
+|
+|t:|1641810453
+|move|p1a: Zeraora|Thunder|p2a: Rotom
+|-damage|p2a: Rotom|48/100
+|move|p2a: Rotom|Will-O-Wisp|p1a: Zeraora|[miss]
+|-miss|p2a: Rotom|p1a: Zeraora
+|
+|-damage|p1a: Zeraora|39/100|[from] Leech Seed|[of] p2a: Rotom
+|-heal|p2a: Rotom|64/100|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641810464
+|move|p1a: Zeraora|Thunder|p2a: Rotom
+|-damage|p2a: Rotom|15/100
+|-enditem|p2a: Rotom|Iapapa Berry|[eat]
+|-heal|p2a: Rotom|48/100|[from] item: Iapapa Berry
+|move|p2a: Rotom|Hydro Pump|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|
+|upkeep
+|
+|t:|1641810476
+|switch|p1a: Tyranitar|Tyranitar, F, shiny|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|6
+|
+|t:|1641810486
+|move|p2a: Rotom|Hydro Pump|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|31/100
+|move|p1a: Tyranitar|Earth Power|p2a: Rotom
+|-immune|p2a: Rotom|[from] ability: Levitate
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|42/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641810498
+|move|p2a: Rotom|Hydro Pump|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|36/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641810511
+|switch|p1a: Gengar|Gengar, F, shiny|100/100
+|-damage|p1a: Gengar|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641810526
+|move|p2a: Rotom|Hydro Pump|p1a: Gengar|[miss]
+|-miss|p2a: Rotom|p1a: Gengar
+|move|p1a: Gengar|Shadow Ball|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gengar|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641810535
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|9
+|
+|t:|1641810546
+|move|p1a: Gengar|Sludge Bomb|p2a: Pelipper
+|-damage|p2a: Pelipper|46/100
+|move|p2a: Pelipper|Scald|p1a: Gengar
+|-damage|p1a: Gengar|26/100
+|-start|p2a: Pelipper|Disable|Scald|[from] ability: Cursed Body|[of] p1a: Gengar
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641810564
+|move|p1a: Gengar|Sludge Bomb|p2a: Pelipper
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641810572
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|turn|11
+|
+|t:|1641810579
+|switch|p1a: Regidrago|Regidrago|100/100
+|-damage|p1a: Regidrago|88/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Liquidation|p1a: Regidrago
+|-resisted|p1a: Regidrago
+|-damage|p1a: Regidrago|42/100
+|-damage|p2a: Barraskewda|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641810597
+|move|p2a: Barraskewda|Liquidation|p1a: Regidrago
+|-resisted|p1a: Regidrago
+|-damage|p1a: Regidrago|1/100
+|-damage|p2a: Barraskewda|81/100|[from] item: Life Orb
+|move|p1a: Regidrago|Outrage|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641810608
+|switch|p2a: Ditto|Ditto, shiny|100/100
+|-transform|p2a: Ditto|p1a: Regidrago|[from] ability: Imposter
+|turn|13
+|
+|t:|1641810616
+|move|p2a: Ditto|Outrage|p1a: Regidrago
+|-supereffective|p1a: Regidrago
+|-crit|p1a: Regidrago
+|-damage|p1a: Regidrago|0 fnt
+|faint|p1a: Regidrago
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641810626
+|switch|p1a: Dragapult|Dragapult, F, shiny|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641810632
+|move|p2a: Ditto|Outrage|p1a: Dragapult|[from]lockedmove
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641810639
+|switch|p1a: Gengar|Gengar, F, shiny|26/100
+|-damage|p1a: Gengar|14/100|[from] Stealth Rock
+|-enditem|p1a: Gengar|Aguav Berry|[eat]
+|-heal|p1a: Gengar|47/100|[from] item: Aguav Berry
+|turn|15
+|
+|t:|1641810647
+|move|p2a: Ditto|Outrage|p1a: Gengar|[from]lockedmove
+|-damage|p1a: Gengar|0 fnt
+|-start|p2a: Ditto|Disable|Outrage|[from] ability: Cursed Body|[of] p1a: Gengar
+|faint|p1a: Gengar
+|-start|p2a: Ditto|confusion|[fatigue]
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641810656
+|switch|p1a: Slowking|Slowking, M, shiny|100/100
+|-damage|p1a: Slowking|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641810666
+|-activate|p2a: Ditto|confusion
+|-activate|p2a: Ditto|move: Struggle
+|move|p2a: Ditto|Struggle|p1a: Slowking
+|-damage|p1a: Slowking|77/100
+|-damage|p2a: Ditto|75/100|[from] recoil
+|move|p1a: Slowking|Blizzard|p2a: Ditto
+|-supereffective|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p2a: Ditto
+|
+|-weather|none
+|upkeep
+|
+|t:|1641810677
+|switch|p2a: Butterfree|Butterfree, F|100/100
+|turn|17
+|
+|t:|1641810682
+|move|p2a: Butterfree|Bug Buzz|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|win|lisosomer
+|l|☆lisosomer

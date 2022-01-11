@@ -1,0 +1,144 @@
+|j|☆Papst Gorki
+|j|☆PeanutsSandwich
+|t:|1641746972
+|gametype|singles
+|player|p1|Papst Gorki|1|1035
+|player|p2|PeanutsSandwich|170|1079
+|teamsize|p1|6
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Butterfree, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Gyarados, M|
+|poke|p1|Alakazam, F|
+|poke|p1|Entei|
+|poke|p1|Tapu Koko|
+|poke|p2|Rhyperior, M|
+|teampreview
+|
+|t:|1641746983
+|start
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|switch|p2a: Rhyperior|Rhyperior, M|100/100
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Rhyperior|atk|1
+|turn|1
+|
+|t:|1641746997
+|move|p2a: Rhyperior|Rock Polish|p2a: Rhyperior
+|-boost|p2a: Rhyperior|spe|2
+|move|p1a: Gyarados|Avalanche|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|77/100
+|-enditem|p2a: Rhyperior|Weakness Policy
+|-boost|p2a: Rhyperior|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Rhyperior|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|2
+|j| Adnantrey
+|
+|t:|1641747009
+|move|p2a: Rhyperior|Rock Slide|p1a: Gyarados|[miss]
+|-miss|p2a: Rhyperior|p1a: Gyarados
+|move|p1a: Gyarados|Earthquake|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|39/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641747016
+|move|p2a: Rhyperior|Rock Slide|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|upkeep
+|
+|t:|1641747023
+|switch|p1a: Alakazam|Alakazam, F|100/100
+|turn|4
+|
+|t:|1641747031
+|move|p2a: Rhyperior|Earthquake|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|upkeep
+|
+|t:|1641747043
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|5
+|
+|t:|1641747052
+|move|p2a: Rhyperior|Earthquake|p1a: Tapu Koko
+|-supereffective|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641747059
+|switch|p1a: Entei|Entei|100/100
+|turn|6
+|
+|t:|1641747062
+|move|p1a: Entei|Extreme Speed|p2a: Rhyperior
+|-resisted|p2a: Rhyperior
+|-damage|p2a: Rhyperior|30/100
+|move|p2a: Rhyperior|Earthquake|p1a: Entei
+|-supereffective|p1a: Entei
+|-crit|p1a: Entei
+|-damage|p1a: Entei|0 fnt
+|faint|p1a: Entei
+|
+|upkeep
+|
+|t:|1641747071
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|turn|7
+|
+|t:|1641747078
+|move|p2a: Rhyperior|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|39/100
+|move|p1a: Ferrothorn|Toxic|p2a: Rhyperior
+|-status|p2a: Rhyperior|tox
+|
+|-heal|p1a: Ferrothorn|45/100|[from] item: Leftovers
+|-damage|p2a: Rhyperior|24/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641747087
+|move|p2a: Rhyperior|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-damage|p2a: Rhyperior|11/100 tox|[from] psn
+|upkeep
+|
+|t:|1641747094
+|switch|p1a: Butterfree|Butterfree, M|100/100
+|turn|9
+|
+|t:|1641747100
+|move|p2a: Rhyperior|Rock Slide|p1a: Butterfree
+|-supereffective|p1a: Butterfree
+|-damage|p1a: Butterfree|0 fnt
+|faint|p1a: Butterfree
+|
+|win|PeanutsSandwich
+|raw|Papst Gorki's rating: 1035 &rarr; <strong>1022</strong><br />(-13 for losing)
+|raw|PeanutsSandwich's rating: 1079 &rarr; <strong>1104</strong><br />(+25 for winning)

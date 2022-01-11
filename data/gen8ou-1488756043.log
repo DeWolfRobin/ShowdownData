@@ -1,0 +1,406 @@
+|j|☆nobnob333
+|j|☆DumbLick1337
+|t:|1641816560
+|gametype|singles
+|player|p1|nobnob333|101|1033
+|player|p2|DumbLick1337|102|1075
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, M|
+|poke|p1|Mew|
+|poke|p1|Azelf|
+|poke|p1|Toxapex, M|
+|poke|p1|Pyukumuku, F|
+|poke|p1|Aegislash, M|
+|poke|p2|Seismitoad, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Hippowdon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by nobnob333)
+|c|☆DumbLick1337|hf
+|inactive|DumbLick1337 also wants the timer to be on.
+|
+|t:|1641816565
+|start
+|switch|p1a: Azelf|Azelf|100/100
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|1
+|c|☆nobnob333|u2
+|
+|t:|1641816573
+|move|p1a: Azelf|Trick|p2a: rotomheat
+|-activate|p1a: Azelf|move: Trick|[of] p2a: rotomheat
+|-item|p2a: rotomheat|Choice Scarf|[from] move: Trick
+|-item|p1a: Azelf|Choice Scarf|[from] move: Trick
+|move|p2a: rotomheat|Volt Switch|p1a: Azelf
+|-damage|p1a: Azelf|47/100
+|
+|t:|1641816573
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1641816582
+|move|p1a: Azelf|Trick|p2a: Dragapult
+|-activate|p1a: Azelf|move: Trick|[of] p2a: Dragapult
+|-item|p2a: Dragapult|Choice Scarf|[from] move: Trick
+|-item|p1a: Azelf|Choice Specs|[from] move: Trick
+|move|p2a: Dragapult|Shadow Ball|p1a: Azelf
+|-supereffective|p1a: Azelf
+|-damage|p1a: Azelf|0 fnt
+|faint|p1a: Azelf
+|
+|upkeep
+|
+|t:|1641816596
+|switch|p1a: Pyukumuku|Pyukumuku, F, shiny|100/100
+|turn|3
+|
+|t:|1641816599
+|move|p2a: Dragapult|Shadow Ball|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|64/100
+|move|p1a: Pyukumuku|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-heal|p1a: Pyukumuku|70/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641816616
+|move|p1a: Pyukumuku|Protect|p1a: Pyukumuku
+|-singleturn|p1a: Pyukumuku|Protect
+|move|p2a: Dragapult|Shadow Ball|p1a: Pyukumuku
+|-activate|p1a: Pyukumuku|move: Protect
+|
+|-heal|p1a: Pyukumuku|76/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|83/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641816624
+|move|p2a: Dragapult|Shadow Ball|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|41/100
+|move|p1a: Pyukumuku|Block||[still]
+|-fail|p1a: Pyukumuku
+|
+|-heal|p1a: Pyukumuku|47/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|65/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641816633
+|move|p1a: Pyukumuku|Protect|p1a: Pyukumuku
+|-singleturn|p1a: Pyukumuku|Protect
+|move|p2a: Dragapult|Shadow Ball|p1a: Pyukumuku
+|-activate|p1a: Pyukumuku|move: Protect
+|
+|-heal|p1a: Pyukumuku|53/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|41/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641816641
+|move|p2a: Dragapult|Shadow Ball|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|19/100
+|move|p1a: Pyukumuku|Soak|p2a: Dragapult
+|-start|p2a: Dragapult|typechange|Water
+|
+|-heal|p1a: Pyukumuku|25/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|11/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641816650
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Pyukumuku|Protect||[still]
+|-fail|p1a: Pyukumuku
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Pyukumuku|19/100|[from] Sandstorm
+|-heal|p1a: Pyukumuku|25/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641816660
+|move|p2a: Hippowdon|Earthquake|p1a: Pyukumuku
+|-damage|p1a: Pyukumuku|0 fnt
+|-damage|p2a: Hippowdon|86/100|[from] ability: Innards Out|[of] p1a: Pyukumuku
+|faint|p1a: Pyukumuku
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641816666
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|turn|10
+|
+|t:|1641816677
+|move|p2a: Hippowdon|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|34/100
+|move|p1a: Toxapex|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|27/100|[from] Sandstorm
+|-heal|p1a: Toxapex|34/100|[from] item: Black Sludge
+|-damage|p2a: Hippowdon|80/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641816687
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|move|p1a: Toxapex|Baneful Bunker||[still]
+|-fail|p1a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|27/100|[from] Sandstorm
+|-damage|p2a: Hatterene|95/100|[from] Sandstorm
+|-heal|p1a: Toxapex|34/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1641816701
+|move|p1a: Toxapex|Infestation|p2a: Hatterene
+|-damage|p2a: Hatterene|93/100
+|-activate|p2a: Hatterene|move: Infestation|[of] p1a: Toxapex
+|move|p2a: Hatterene|Psychic|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-weather|none
+|-end|p2a: Hatterene|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641816715
+|switch|p1a: Mew|Mew|100/100
+|turn|13
+|
+|t:|1641816722
+|move|p1a: Mew|Block|p2a: Hatterene
+|move|p2a: Hatterene|Block|p1a: Mew|[from]ability: Magic Bounce
+|-activate|p1a: Mew|trapped
+|move|p2a: Hatterene|Nuzzle|p1a: Mew
+|-damage|p1a: Mew|97/100
+|-status|p1a: Mew|par
+|-activate|p1a: Mew|ability: Synchronize
+|-status|p2a: Hatterene|par
+|
+|-heal|p1a: Mew|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641816734
+|move|p1a: Mew|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|71/100 par
+|-enditem|p2a: Hatterene|Assault Vest|[from] move: Knock Off|[of] p1a: Mew
+|move|p2a: Hatterene|Nuzzle|p1a: Mew
+|-damage|p1a: Mew|97/100 par
+|
+|-heal|p1a: Mew|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641816742
+|move|p1a: Mew|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|56/100 par
+|move|p2a: Hatterene|Draining Kiss|p1a: Mew
+|-damage|p1a: Mew|80/100 par
+|-heal|p2a: Hatterene|76/100 par|[from] drain|[of] p1a: Mew
+|
+|-heal|p1a: Mew|86/100 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641816759
+|move|p1a: Mew|Imprison|p1a: Mew
+|-start|p1a: Mew|move: Imprison
+|cant|p2a: Hatterene|par
+|
+|-heal|p1a: Mew|92/100 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641816766
+|move|p1a: Mew|Transform|p2a: Hatterene
+|-transform|p1a: Mew|p2a: Hatterene
+|cant|p2a: Hatterene|move: Imprison|Draining Kiss
+|
+|-heal|p1a: Mew|98/100 par|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641816778
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Mew|Mystical Fire|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|34/100
+|-unboost|p2a: Corviknight|spa|1
+|
+|-heal|p2a: Corviknight|40/100|[from] item: Leftovers
+|-heal|p1a: Mew|100/100 par|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641816789
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|90/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Mew|Mystical Fire|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|50/100
+|-unboost|p2a: Corviknight|spa|1
+|
+|-heal|p2a: Corviknight|56/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641816798
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|cant|p1a: Mew|par
+|
+|upkeep
+|turn|21
+|
+|t:|1641816804
+|move|p2a: Corviknight|Iron Head|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|57/100 par
+|cant|p1a: Mew|flinch
+|
+|-heal|p1a: Mew|64/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641816814
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Corviknight|Iron Head|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|91/100
+|-damage|p2a: Corviknight|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Corviknight|71/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|-heal|p2a: Corviknight|78/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641816828
+|move|p2a: Corviknight|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|80/100
+|-damage|p2a: Corviknight|65/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Corviknight|49/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|t:|1641816829
+|switch|p2a: rotomheat|Rotom-Heat|100/100|[from]move: U-turn
+|move|p1a: Ferrothorn|Leech Seed|p2a: rotomheat
+|-start|p2a: rotomheat|move: Leech Seed
+|
+|-damage|p2a: rotomheat|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|90/100|[silent]
+|upkeep
+|turn|24
+|
+|t:|1641816840
+|switch|p2a: Hatterene|Hatterene, F|76/100 par
+|move|p1a: Ferrothorn|Protect||[still]
+|-fail|p1a: Ferrothorn
+|
+|upkeep
+|turn|25
+|
+|t:|1641816846
+|move|p2a: Hatterene|Mystical Fire|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|14/100
+|-unboost|p1a: Ferrothorn|spa|1
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|51/100 par
+|
+|upkeep
+|turn|26
+|
+|t:|1641816853
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Hatterene|Mystical Fire|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|upkeep
+|turn|27
+|
+|t:|1641816862
+|switch|p1a: Mew|Mew|64/100 par
+|move|p2a: Hatterene|Mystical Fire|p1a: Mew
+|-damage|p1a: Mew|42/100 par
+|-unboost|p1a: Mew|spa|1
+|
+|-heal|p1a: Mew|48/100 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641816874
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|cant|p1a: Mew|par
+|
+|-heal|p1a: Mew|54/100 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641816880
+|move|p2a: Seismitoad|Earthquake|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641816885
+|switch|p1a: Ferrothorn|Ferrothorn, M|14/100
+|turn|30
+|
+|t:|1641816888
+|move|p2a: Seismitoad|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641816892
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|turn|31
+|
+|t:|1641816896
+|move|p2a: Seismitoad|Earthquake|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|
+|win|DumbLick1337
+|raw|nobnob333's rating: 1033 &rarr; <strong>1020</strong><br />(-13 for losing)
+|raw|DumbLick1337's rating: 1075 &rarr; <strong>1100</strong><br />(+25 for winning)
+|c|☆DumbLick1337|gg
+|c|☆nobnob333|gg
+|l|☆nobnob333
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

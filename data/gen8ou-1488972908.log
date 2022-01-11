@@ -1,0 +1,251 @@
+|j|☆QuebecLibre
+|j|☆TransSumia
+|t:|1641842126
+|gametype|singles
+|player|p1|QuebecLibre|gambler|1378
+|player|p2|TransSumia|fantina|1457
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Victini|
+|poke|p1|Zeraora|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Slowking-Galar, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Kartana|
+|poke|p2|Magnezone|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Swampert, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by QuebecLibre)
+|
+|t:|1641842134
+|start
+|switch|p1a: Victini|Victini|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|1
+|
+|t:|1641842143
+|move|p1a: Victini|U-turn|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|44/100
+|
+|t:|1641842148
+|switch|p1a: Keldeo|Keldeo-Resolute|100/100|[from]move: U-turn
+|move|p2a: Weavile|Triple Axel|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|92/100
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|73/100
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|44/100
+|-hitcount|p1a: Keldeo|3
+|
+|upkeep
+|turn|2
+|
+|t:|1641842163
+|move|p2a: Weavile|Triple Axel|p1a: Keldeo
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|34/100
+|-resisted|p1a: Keldeo
+|-crit|p1a: Keldeo
+|-damage|p1a: Keldeo|5/100
+|-resisted|p1a: Keldeo
+|-damage|p1a: Keldeo|0 fnt
+|faint|p1a: Keldeo
+|-hitcount|p1: Keldeo|3
+|
+|upkeep
+|
+|t:|1641842167
+|switch|p1a: Victini|Victini|100/100
+|turn|3
+|
+|t:|1641842181
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Victini|Thunder Wave|p2a: Magnezone
+|-immune|p2a: Magnezone
+|
+|upkeep
+|turn|4
+|
+|t:|1641842188
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Magnezone|atk|1
+|switch|p2a: Swampert|Swampert, M|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641842197
+|move|p1a: Landorus|Toxic|p2a: Swampert
+|-status|p2a: Swampert|tox
+|move|p2a: Swampert|Flip Turn|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|8/100
+|
+|t:|1641842213
+|switch|p2a: Weavile|Weavile, F|44/100|[from]move: Flip Turn
+|-ability|p2a: Weavile|Pressure
+|
+|-heal|p1a: Landorus|14/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641842224
+|move|p2a: Weavile|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641842230
+|switch|p1a: Victini|Victini|100/100
+|turn|7
+|
+|t:|1641842239
+|switch|p2a: Swampert|Swampert, M|100/100 tox
+|move|p1a: Victini|V-create|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|71/100 tox
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|
+|-damage|p2a: Swampert|65/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641842248
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Swampert|Stone Edge|p1a: Zeraora
+|-damage|p1a: Zeraora|37/100
+|
+|-damage|p2a: Swampert|52/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641842257
+|move|p1a: Zeraora|Grass Knot|p2a: Swampert
+|-supereffective|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|upkeep
+|
+|t:|1641842272
+|switch|p2a: Magnezone|Magnezone|100/100
+|turn|10
+|
+|t:|1641842286
+|move|p1a: Zeraora|Focus Blast|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1641842293
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|11
+|
+|t:|1641842297
+|move|p1a: Zeraora|Volt Switch|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|20/100
+|
+|t:|1641842303
+|switch|p1a: Slowking|Slowking-Galar, M|100/100|[from]move: Volt Switch
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|
+|upkeep
+|turn|12
+|
+|t:|1641842310
+|move|p2a: Tornadus|Hurricane|p1a: Slowking|[miss]
+|-miss|p2a: Tornadus|p1a: Slowking
+|move|p1a: Slowking|Sludge Bomb|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|upkeep
+|
+|t:|1641842315
+|switch|p2a: Weavile|Weavile, F|44/100
+|-ability|p2a: Weavile|Pressure
+|turn|13
+|
+|t:|1641842323
+|move|p2a: Weavile|Knock Off|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-enditem|p1a: Slowking|Assault Vest|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1641842327
+|switch|p1a: Victini|Victini|100/100
+|turn|14
+|
+|t:|1641842333
+|move|p1a: Victini|V-create|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641842339
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|15
+|
+|t:|1641842346
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|80/100
+|-damage|p2a: Rillaboom|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|97/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641842355
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Mandibuzz|Foul Play|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|-message|TransSumia forfeited.
+|
+|win|QuebecLibre
+|raw|QuebecLibre's rating: 1378 &rarr; <strong>1402</strong><br />(+24 for winning)
+|raw|TransSumia's rating: 1457 &rarr; <strong>1433</strong><br />(-24 for losing)
+|l|☆TransSumia
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,370 @@
+|j|☆illegalamigo1
+|j|☆PlayMaker55
+|t:|1641881317
+|gametype|singles
+|player|p1|illegalamigo1|swimmer-gen4|1350
+|player|p2|PlayMaker55|palmer|1360
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales, M|
+|poke|p1|Diggersby, F|
+|poke|p1|Venusaur, F|
+|poke|p1|Slowbro-Galar, M|
+|poke|p1|Zapdos|
+|poke|p1|Mienshao, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Blacephalon|
+|poke|p2|Weavile, M|
+|poke|p2|Garchomp, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PlayMaker55)
+|
+|t:|1641881336
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|1
+|
+|t:|1641881344
+|move|p2a: Garchomp|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|19/100
+|move|p1a: Zapdos|Toxic|p2a: Garchomp
+|-status|p2a: Garchomp|tox
+|
+|-heal|p1a: Zapdos|25/100|[from] item: Leftovers
+|-damage|p2a: Garchomp|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641881354
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Zapdos|Heat Wave|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|18/100
+|
+|-heal|p1a: Zapdos|31/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|24/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641881364
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|6/100
+|
+|-heal|p1a: Zapdos|12/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641881372
+|move|p2a: Tornadus|Knock Off|p1a: Zapdos
+|-activate|p1a: Zapdos|move: Substitute|[damage]
+|move|p1a: Zapdos|Heat Wave|p2a: Tornadus
+|-damage|p2a: Tornadus|74/100
+|
+|-heal|p1a: Zapdos|18/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641881380
+|move|p2a: Tornadus|Knock Off|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|move|p1a: Zapdos|Thunderbolt|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-crit|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|-heal|p1a: Zapdos|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641881388
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|6
+|
+|t:|1641881394
+|move|p2a: Weavile|Ice Shard|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641881403
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|turn|7
+|
+|t:|1641881412
+|switch|p2a: Ferrothorn|Ferrothorn, F|24/100
+|move|p1a: Mienshao|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|1/100
+|-damage|p1a: Mienshao|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Mienshao
+|
+|upkeep
+|turn|8
+|
+|t:|1641881421
+|move|p1a: Mienshao|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Mienshao|75/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|t:|1641881433
+|switch|p1a: Cotija|Slowbro-Galar, M|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641881440
+|switch|p2a: Garchomp|Garchomp, M|94/100 tox
+|turn|9
+|
+|t:|1641881444
+|move|p2a: Garchomp|Earthquake|p1a: Cotija
+|-supereffective|p1a: Cotija
+|-damage|p1a: Cotija|1/100
+|move|p1a: Cotija|Ice Beam|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641881460
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|10
+|-activate|p1a: Cotija|ability: Quick Draw
+|
+|t:|1641881463
+|move|p1a: Cotija|Surf|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|9/100
+|move|p2a: Blacephalon|Shadow Ball|p1a: Cotija
+|-supereffective|p1a: Cotija
+|-damage|p1a: Cotija|0 fnt
+|faint|p1a: Cotija
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641881473
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|turn|11
+|inactive|PlayMaker55 has 120 seconds left.
+|
+|t:|1641881521
+|switch|p1a: Diggersby|Diggersby, F|100/100
+|move|p2a: Blacephalon|Shadow Ball|p1a: Diggersby
+|-immune|p1a: Diggersby
+|
+|upkeep
+|turn|12
+|
+|t:|1641881530
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Diggersby|U-turn|p2a: Rotom
+|-damage|p2a: Rotom|55/100
+|-damage|p1a: Diggersby|91/100|[from] item: Life Orb
+|
+|t:|1641881537
+|switch|p1a: Mienshao|Mienshao, F|100/100|[from]move: U-turn
+|
+|-heal|p2a: Rotom|61/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|PlayMaker55 has 120 seconds left.
+|
+|t:|1641881543
+|move|p1a: Mienshao|Fake Out|p2a: Rotom
+|-damage|p2a: Rotom|46/100
+|cant|p2a: Rotom|flinch
+|
+|-heal|p2a: Rotom|52/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641881552
+|move|p1a: Mienshao|U-turn|p2a: Rotom
+|-damage|p2a: Rotom|25/100
+|
+|t:|1641881555
+|switch|p1a: Feta|Ninetales, M|100/100|[from]move: U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Feta
+|move|p2a: Rotom|Pain Split|p1a: Feta
+|-sethp|p1a: Feta|63/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|60/100|[from] move: Pain Split
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rotom|66/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641881567
+|move|p1a: Feta|Flamethrower|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|51/100
+|move|p2a: Rotom|Hydro Pump|p1a: Feta
+|-supereffective|p1a: Feta
+|-damage|p1a: Feta|29/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rotom|57/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641881577
+|move|p1a: Feta|Pain Split|p2a: Rotom
+|-sethp|p2a: Rotom|42/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Feta|45/100|[from] move: Pain Split
+|move|p2a: Rotom|Hydro Pump|p1a: Feta|[miss]
+|-miss|p2a: Rotom|p1a: Feta
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rotom|49/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641881585
+|move|p1a: Feta|Flamethrower|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|32/100
+|move|p2a: Rotom|Hydro Pump|p1a: Feta
+|-supereffective|p1a: Feta
+|-damage|p1a: Feta|5/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rotom|39/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641881596
+|move|p1a: Feta|Pain Split|p2a: Rotom
+|-sethp|p2a: Rotom|22/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Feta|23/100|[from] move: Pain Split
+|move|p2a: Rotom|Hydro Pump|p1a: Feta|[miss]
+|-miss|p2a: Rotom|p1a: Feta
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rotom|28/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641881604
+|move|p1a: Feta|Flamethrower|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|14/100
+|move|p2a: Rotom|Hydro Pump|p1a: Feta
+|-supereffective|p1a: Feta
+|-damage|p1a: Feta|0 fnt
+|faint|p1a: Feta
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Rotom|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641881614
+|switch|p1a: Venusaur|Venusaur, F|100/100
+|turn|20
+|
+|t:|1641881619
+|move|p1a: Venusaur|Sludge Bomb|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|inactive|PlayMaker55 has 120 seconds left.
+|
+|t:|1641881661
+|switch|p2a: Blacephalon|Blacephalon|9/100
+|turn|21
+|
+|t:|1641881666
+|move|p1a: Venusaur|Sludge Bomb|p2a: Blacephalon
+|-resisted|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-weather|none
+|upkeep
+|inactive|PlayMaker55 has 120 seconds left.
+|
+|t:|1641881671
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|22
+|
+|t:|1641881678
+|move|p2a: Weavile|Triple Axel|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|71/100
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|17/100
+|-supereffective|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|-hitcount|p1: Venusaur|3
+|
+|upkeep
+|
+|t:|1641881690
+|switch|p1a: Diggersby|Diggersby, F|91/100
+|turn|23
+|inactive|PlayMaker55 has 120 seconds left.
+|
+|t:|1641881721
+|move|p1a: Diggersby|Quick Attack|p2a: Weavile
+|-damage|p2a: Weavile|35/100
+|-damage|p1a: Diggersby|81/100|[from] item: Life Orb
+|move|p2a: Weavile|Triple Axel|p1a: Diggersby
+|-supereffective|p1a: Diggersby
+|-damage|p1a: Diggersby|54/100
+|-supereffective|p1a: Diggersby
+|-damage|p1a: Diggersby|0 fnt
+|faint|p1a: Diggersby
+|-hitcount|p1: Diggersby|2
+|
+|upkeep
+|
+|t:|1641881730
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|turn|24
+|
+|t:|1641881733
+|move|p1a: Mienshao|Fake Out|p2a: Weavile
+|-damage|p2a: Weavile|11/100
+|cant|p2a: Weavile|flinch
+|
+|upkeep
+|turn|25
+|
+|t:|1641881738
+|move|p2a: Weavile|Triple Axel|p1a: Mienshao
+|-damage|p1a: Mienshao|77/100
+|-damage|p1a: Mienshao|38/100
+|-damage|p1a: Mienshao|0 fnt
+|faint|p1a: Mienshao
+|-hitcount|p1: Mienshao|3
+|
+|win|PlayMaker55
+|raw|illegalamigo1's rating: 1350 &rarr; <strong>1331</strong><br />(-19 for losing)
+|raw|PlayMaker55's rating: 1360 &rarr; <strong>1379</strong><br />(+19 for winning)

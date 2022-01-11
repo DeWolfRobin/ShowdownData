@@ -1,0 +1,406 @@
+|j|☆SkyRider69
+|j|☆Royalmothness
+|t:|1641850837
+|gametype|singles
+|player|p1|SkyRider69|170|1241
+|player|p2|Royalmothness|1|1223
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Victini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p1|Melmetal|
+|poke|p1|Dragapult, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Zapdos|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Royalmothness)
+|
+|t:|1641850849
+|start
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|turn|1
+|
+|t:|1641850865
+|move|p1a: Dragapult|U-turn|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|93/100
+|
+|t:|1641850873
+|switch|p1a: Victini|Victini|100/100|[from]move: U-turn
+|move|p2a: Volcarona|Toxic|p1a: Victini
+|-status|p1a: Victini|tox
+|
+|-damage|p1a: Victini|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641850888
+|move|p1a: Victini|Scorching Sands|p2a: Volcarona
+|-damage|p2a: Volcarona|74/100
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|100/100
+|-singleturn|p2a: Volcarona|move: Roost
+|
+|-damage|p1a: Victini|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|inactive|SkyRider69 has 120 seconds left.
+|inactive|SkyRider69 has 90 seconds left.
+|
+|t:|1641850946
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Volcarona|atk|1
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|4
+|inactive|SkyRider69 has 90 seconds left.
+|
+|t:|1641850956
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Landorus|Smack Down|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|25/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641850964
+|move|p2a: Volcarona|Roost|p2a: Volcarona
+|-heal|p2a: Volcarona|75/100
+|-singleturn|p2a: Volcarona|move: Roost
+|move|p1a: Landorus|Smack Down|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|
+|t:|1641850970
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|6
+|
+|t:|1641850979
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|7
+|inactive|SkyRider69 has 90 seconds left.
+|
+|t:|1641851011
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|Smack Down|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|79/100
+|-start|p2a: Landorus|Smack Down
+|
+|-heal|p2a: Landorus|85/100|[from] item: Leftovers
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|SkyRider69 has 90 seconds left.
+|
+|t:|1641851025
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|83/100 tox
+|
+|t:|1641851036
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|move|p1a: Landorus|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-damage|p1a: Landorus|71/100 tox|[from] psn
+|upkeep
+|turn|9
+|inactive|SkyRider69 has 90 seconds left.
+|
+|t:|1641851061
+|switch|p2a: Landorus|Landorus-Therian, M|85/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|68/100
+|inactive|SkyRider69 has 60 seconds left.
+|
+|t:|1641851097
+|switch|p1a: Victini|Victini|82/100 tox|[from]move: U-turn
+|
+|-heal|p2a: Landorus|74/100|[from] item: Leftovers
+|-damage|p1a: Victini|76/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641851105
+|move|p1a: Victini|Glaciate|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-damage|p1a: Victini|64/100 tox|[from] psn
+|upkeep
+|
+|t:|1641851114
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|11
+|inactive|SkyRider69 has 60 seconds left.
+|
+|t:|1641851132
+|move|p1a: Victini|Glaciate|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|68/100
+|-unboost|p2a: Zapdos|spe|1
+|move|p2a: Zapdos|Volt Switch|p1a: Victini
+|-damage|p1a: Victini|36/100 tox
+|
+|t:|1641851139
+|switch|p2a: Melmetal|Melmetal|100/100|[from]move: Volt Switch
+|
+|-damage|p1a: Victini|18/100 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|SkyRider69 has 60 seconds left.
+|
+|t:|1641851162
+|move|p1a: Victini|V-create|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|29/100
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|move|p2a: Melmetal|Earthquake|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|upkeep
+|
+|t:|1641851186
+|switch|p1a: Landorus|Landorus-Therian, M|71/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Melmetal|atk|1
+|turn|13
+|
+|t:|1641851193
+|move|p1a: Landorus|Smack Down|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|23/100
+|move|p2a: Melmetal|Ice Punch|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641851206
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|14
+|
+|t:|1641851210
+|move|p1a: Dragapult|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641851217
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|15
+|inactive|SkyRider69 has 60 seconds left.
+|
+|t:|1641851237
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|
+|upkeep
+|turn|16
+|inactive|SkyRider69 has 30 seconds left.
+|
+|t:|1641851268
+|move|p1a: Kartana|Sacred Sword|p2a: Kommo-o
+|-damage|p2a: Kommo-o|65/100
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|40/100
+|
+|upkeep
+|turn|17
+|inactive|SkyRider69 has 30 seconds left.
+|
+|t:|1641851278
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Kommo-o|Drain Punch|p1a: Tapu Lele
+|-resisted|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|89/100
+|-heal|p2a: Kommo-o|45/100|[from] drain|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|18
+|inactive|SkyRider69 has 30 seconds left.
+|
+|t:|1641851291
+|move|p2a: Kommo-o|Thunder Punch|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|55/100
+|move|p1a: Tapu Lele|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|upkeep
+|turn|19
+|
+|t:|1641851301
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|20/100
+|-enditem|p2a: Kommo-o|Salac Berry|[eat]
+|-boost|p2a: Kommo-o|spe|1|[from] item: Salac Berry
+|move|p1a: Tapu Lele|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|upkeep
+|turn|20
+|
+|t:|1641851311
+|move|p2a: Kommo-o|Thunder Punch|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|23/100
+|move|p1a: Tapu Lele|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|
+|t:|1641851314
+|switch|p2a: Zapdos|Zapdos|68/100
+|turn|21
+|inactive|SkyRider69 has 30 seconds left.
+|inactive|SkyRider69 has 20 seconds left.
+|
+|t:|1641851350
+|switch|p1a: Kartana|Kartana|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|inactive|SkyRider69 has 25 seconds left this turn.
+|inactive|SkyRider69 has 20 seconds left.
+|
+|t:|1641851360
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|22
+|inactive|SkyRider69 has 30 seconds left this turn.
+|
+|t:|1641851368
+|move|p1a: Dragapult|Draco Meteor|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Zapdos
+|
+|upkeep
+|inactive|SkyRider69 has 30 seconds left this turn.
+|
+|t:|1641851370
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|23
+|
+|t:|1641851380
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Melmetal
+|-damage|p1a: Melmetal|65/100
+|-unboost|p1a: Melmetal|spd|1
+|
+|upkeep
+|turn|24
+|inactive|SkyRider69 has 30 seconds left.
+|inactive|SkyRider69 has 20 seconds left.
+|inactive|SkyRider69 has 15 seconds left.
+|c|☆Royalmothness|wasting both our time with the damage calcs
+|
+|t:|1641851415
+|move|p2a: Dragapult|Shadow Ball|p1a: Melmetal
+|-damage|p1a: Melmetal|9/100
+|move|p1a: Melmetal|Superpower|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|25
+|inactive|SkyRider69 has 25 seconds left this turn.
+|inactive|SkyRider69 has 20 seconds left.
+|
+|t:|1641851423
+|move|p2a: Dragapult|Shadow Ball|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|inactive|SkyRider69 has 25 seconds left this turn.
+|inactive|SkyRider69 has 20 seconds left.
+|
+|t:|1641851429
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|26
+|inactive|SkyRider69 has 30 seconds left this turn.
+|
+|t:|1641851432
+|move|p2a: Dragapult|Shadow Ball|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|inactive|SkyRider69 has 30 seconds left.
+|
+|t:|1641851438
+|switch|p1a: Tapu Lele|Tapu Lele|23/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|27
+|
+|t:|1641851442
+|move|p2a: Dragapult|Shadow Ball|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|win|Royalmothness
+|raw|SkyRider69's rating: 1241 &rarr; <strong>1215</strong><br />(-26 for losing)
+|raw|Royalmothness's rating: 1223 &rarr; <strong>1249</strong><br />(+26 for winning)
+|c|☆Royalmothness|gg dumbass
+|l|☆SkyRider69
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

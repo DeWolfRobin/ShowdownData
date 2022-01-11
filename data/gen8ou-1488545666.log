@@ -1,0 +1,292 @@
+|j|☆Brow jack
+|j|☆shennerz43
+|t:|1641779829
+|gametype|singles
+|player|p1|Brow jack|tuber|1321
+|player|p2|shennerz43|1|1329
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Diggersby, F|
+|poke|p1|Necrozma|
+|poke|p1|Aegislash, F|
+|poke|p1|Porygon-Z|
+|poke|p1|Diancie|
+|poke|p1|Crawdaunt, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Weavile, F|
+|poke|p2|Sandaconda, M|
+|poke|p2|Drapion, M|
+|poke|p2|Uxie|
+|poke|p2|Snorlax, F|
+|teampreview
+|
+|t:|1641779881
+|start
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|switch|p2a: Sandaconda|Sandaconda, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Brow jack)
+|
+|t:|1641779920
+|move|p2a: Sandaconda|Glare|p1a: Crawdaunt
+|-status|p1a: Crawdaunt|par
+|move|p1a: Crawdaunt|Liquidation|p2a: Sandaconda
+|-supereffective|p2a: Sandaconda
+|-damage|p2a: Sandaconda|6/100
+|-damage|p1a: Crawdaunt|84/100 par|[from] item: Rocky Helmet|[of] p2a: Sandaconda
+|-damage|p1a: Crawdaunt|74/100 par|[from] item: Life Orb
+|
+|upkeep
+|turn|2
+|
+|t:|1641779931
+|cant|p1a: Crawdaunt|par
+|move|p2a: Sandaconda|Stealth Rock|p1a: Crawdaunt
+|-sidestart|p1: Brow jack|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|inactive|shennerz43 has 120 seconds left.
+|
+|t:|1641779971
+|switch|p2a: Snorlax|Snorlax, F|100/100
+|cant|p1a: Crawdaunt|par
+|
+|upkeep
+|turn|4
+|
+|t:|1641779978
+|move|p2a: Snorlax|Body Slam|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|18/100 par
+|cant|p1a: Crawdaunt|par
+|
+|upkeep
+|turn|5
+|inactive|shennerz43 has 120 seconds left.
+|
+|t:|1641779992
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Snorlax
+|-damage|p2a: Snorlax|73/100
+|-damage|p1a: Crawdaunt|8/100 par|[from] item: Life Orb
+|move|p2a: Snorlax|Body Slam|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|upkeep
+|
+|t:|1641780001
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|-damage|p1a: Aegislash|94/100|[from] Stealth Rock
+|turn|6
+|inactive|shennerz43 has 120 seconds left.
+|
+|t:|1641780036
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|move|p2a: Snorlax|Earthquake|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|29/100
+|-enditem|p1a: Aegislash|Weakness Policy
+|-boost|p1a: Aegislash|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Aegislash|spa|2|[from] item: Weakness Policy
+|
+|upkeep
+|turn|7
+|
+|t:|1641780046
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Close Combat|p2a: Snorlax
+|-supereffective|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|-unboost|p1a: Aegislash|def|1
+|-unboost|p1a: Aegislash|spd|1
+|faint|p2a: Snorlax
+|
+|upkeep
+|inactive|shennerz43 has 90 seconds left.
+|inactive|shennerz43 has 60 seconds left.
+|
+|t:|1641780109
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|8
+|
+|t:|1641780119
+|move|p2a: Tapu Lele|Moonblast|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|
+|upkeep
+|
+|t:|1641780125
+|switch|p1a: Diancie|Diancie|100/100
+|-damage|p1a: Diancie|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641780131
+|move|p2a: Tapu Lele|Moonblast|p1a: Diancie
+|-damage|p1a: Diancie|28/100
+|move|p1a: Diancie|Trick Room|p1a: Diancie
+|-fieldstart|move: Trick Room|[of] p1a: Diancie
+|
+|upkeep
+|turn|10
+|
+|t:|1641780154
+|move|p1a: Diancie|Explosion|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p1a: Diancie
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641780168
+|switch|p1a: Diggersby|Diggersby, F|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|-damage|p1a: Diggersby|94/100|[from] Stealth Rock
+|-ability|p2a: Weavile|Pressure
+|turn|11
+|
+|t:|1641780181
+|move|p1a: Diggersby|Fire Punch|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641780193
+|switch|p2a: Sandaconda|Sandaconda, M|6/100
+|turn|12
+|
+|t:|1641780217
+|move|p2a: Sandaconda|Glare|p1a: Diggersby
+|-status|p1a: Diggersby|par
+|move|p1a: Diggersby|Fire Punch|p2a: Sandaconda
+|-damage|p2a: Sandaconda|0 fnt
+|-damage|p1a: Diggersby|78/100 par|[from] item: Rocky Helmet|[of] p2a: Sandaconda
+|faint|p2a: Sandaconda
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641780240
+|switch|p2a: Uxie|Uxie|100/100
+|turn|13
+|
+|t:|1641780245
+|move|p1a: Diggersby|Fire Punch|p2a: Uxie
+|-damage|p2a: Uxie|81/100
+|move|p2a: Uxie|Reflect|p2a: Uxie
+|-sidestart|p2: shennerz43|Reflect
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|14
+|
+|t:|1641780253
+|move|p2a: Uxie|Reflect||[still]
+|-fail|p2a: Uxie
+|move|p1a: Diggersby|Swords Dance|p1a: Diggersby
+|-boost|p1a: Diggersby|atk|2
+|
+|upkeep
+|turn|15
+|
+|t:|1641780260
+|move|p2a: Uxie|Memento|p1a: Diggersby
+|-unboost|p1a: Diggersby|atk|2
+|-unboost|p1a: Diggersby|spa|2
+|faint|p2a: Uxie
+|move|p1a: Diggersby|Fire Punch|p2: Uxie|[notarget]
+|-fail|p1a: Diggersby
+|
+|upkeep
+|
+|t:|1641780262
+|switch|p2a: Drapion|Drapion, M|100/100
+|turn|16
+|
+|t:|1641780269
+|move|p2a: Drapion|Acupressure|p2a: Drapion
+|-boost|p2a: Drapion|accuracy|2
+|move|p1a: Diggersby|Earthquake|p2a: Drapion
+|-supereffective|p2a: Drapion
+|-damage|p2a: Drapion|39/100
+|
+|upkeep
+|turn|17
+|inactive|shennerz43 has 120 seconds left.
+|
+|t:|1641780293
+|move|p2a: Drapion|Rest|p2a: Drapion
+|-status|p2a: Drapion|slp|[from] move: Rest
+|-heal|p2a: Drapion|100/100 slp|[silent]
+|-enditem|p2a: Drapion|Chesto Berry|[eat]
+|-curestatus|p2a: Drapion|slp|[msg]
+|cant|p1a: Diggersby|par
+|
+|upkeep
+|turn|18
+|
+|t:|1641780306
+|move|p2a: Drapion|Dark Pulse|p1a: Diggersby
+|-damage|p1a: Diggersby|47/100 par
+|cant|p1a: Diggersby|flinch
+|
+|upkeep
+|turn|19
+|
+|t:|1641780315
+|move|p2a: Drapion|Dark Pulse|p1a: Diggersby
+|-damage|p1a: Diggersby|16/100 par
+|cant|p1a: Diggersby|par
+|
+|upkeep
+|turn|20
+|
+|t:|1641780321
+|move|p2a: Drapion|Dark Pulse|p1a: Diggersby
+|-damage|p1a: Diggersby|0 fnt
+|faint|p1a: Diggersby
+|
+|-sideend|p2: shennerz43|Reflect
+|upkeep
+|
+|t:|1641780328
+|switch|p1a: Porygon-Z|Porygon-Z|100/100
+|-damage|p1a: Porygon-Z|88/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641780348
+|move|p1a: Porygon-Z|Tri Attack|p2a: Drapion
+|-damage|p2a: Drapion|29/100
+|move|p2a: Drapion|Acupressure|p2a: Drapion
+|-boost|p2a: Drapion|spe|2
+|
+|upkeep
+|turn|22
+|
+|t:|1641780359
+|move|p2a: Drapion|Dark Pulse|p1a: Porygon-Z
+|-damage|p1a: Porygon-Z|56/100
+|move|p1a: Porygon-Z|Tri Attack|p2a: Drapion
+|-damage|p2a: Drapion|0 fnt
+|faint|p2a: Drapion
+|
+|win|Brow jack
+|raw|Brow jack's rating: 1321 &rarr; <strong>1342</strong><br />(+21 for winning)
+|raw|shennerz43's rating: 1332 &rarr; <strong>1311</strong><br />(-21 for losing)
+|l|☆shennerz43

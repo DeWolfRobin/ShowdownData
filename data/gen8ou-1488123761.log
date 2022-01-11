@@ -1,0 +1,599 @@
+|j|☆Implixit
+|j|☆xiaofengdsss小峰
+|t:|1641716518
+|gametype|singles
+|player|p1|Implixit|dawn|1165
+|player|p2|xiaofengdsss小峰|cowgirl|1148
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Glaceon, F|
+|poke|p1|Gengar, F|
+|poke|p1|Whimsicott, F|
+|poke|p1|Milotic, F|
+|poke|p1|Sylveon, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|poke|p2|Porygon2|
+|poke|p2|Nidoking, M|
+|poke|p2|Garchomp, M|
+|teampreview
+|
+|t:|1641716529
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|switch|p2a: Rotom|Rotom-Wash, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641716537
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Implixit|move: Aurora Veil
+|move|p2a: Rotom|Will-O-Wisp|p1a: Ninetales
+|-status|p1a: Ninetales|brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rotom|94/100|[from] Hail
+|-heal|p2a: Rotom|100/100|[from] item: Leftovers
+|-damage|p1a: Ninetales|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641716546
+|switch|p1a: Whimsicott|Whimsicott, F|100/100
+|move|p2a: Rotom|Volt Switch|p1a: Whimsicott
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|93/100
+|
+|t:|1641716557
+|switch|p2a: Nidoking|Nidoking, M, shiny|100/100|[from]move: Volt Switch
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Nidoking|95/100|[from] Hail
+|-damage|p1a: Whimsicott|87/100|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1641716564
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: Implixit|move: Tailwind
+|move|p2a: Nidoking|Flamethrower|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott
+|-damage|p1a: Whimsicott|39/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Whimsicott|33/100|[from] Hail
+|-damage|p2a: Nidoking|89/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641716574
+|move|p1a: Whimsicott|U-turn|p2a: Nidoking
+|-resisted|p2a: Nidoking
+|-damage|p2a: Nidoking|80/100
+|
+|t:|1641716577
+|switch|p1a: Milotic|Milotic, F|100/100|[from]move: U-turn
+|move|p2a: Nidoking|Flamethrower|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|93/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Milotic|87/100|[from] Hail
+|-damage|p2a: Nidoking|74/100|[from] Hail
+|-heal|p1a: Milotic|93/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641716586
+|switch|p2a: Rotom|Rotom-Wash, shiny|100/100
+|move|p1a: Milotic|Scald|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|81/100
+|
+|-weather|none
+|-heal|p1a: Milotic|99/100|[from] item: Leftovers
+|-heal|p2a: Rotom|87/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641716599
+|switch|p1a: Whimsicott|Whimsicott, F|33/100
+|move|p2a: Rotom|Volt Switch|p1a: Whimsicott
+|-resisted|p1a: Whimsicott
+|-damage|p1a: Whimsicott|26/100
+|
+|t:|1641716610
+|switch|p2a: Nidoking|Nidoking, M, shiny|74/100|[from]move: Volt Switch
+|
+|-sideend|p1: Implixit|move: Tailwind
+|upkeep
+|turn|7
+|
+|t:|1641716622
+|move|p1a: Whimsicott|Tailwind|p1a: Whimsicott
+|-sidestart|p1: Implixit|move: Tailwind
+|move|p2a: Nidoking|Flamethrower|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott
+|-damage|p1a: Whimsicott|0 fnt
+|faint|p1a: Whimsicott
+|
+|upkeep
+|
+|t:|1641716629
+|switch|p1a: Milotic|Milotic, F|99/100
+|turn|8
+|
+|t:|1641716633
+|switch|p2a: Rotom|Rotom-Wash, shiny|87/100
+|move|p1a: Milotic|Scald|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|69/100
+|-status|p2a: Rotom|brn
+|
+|-heal|p1a: Milotic|100/100|[from] item: Leftovers
+|-heal|p2a: Rotom|75/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|69/100 brn|[from] brn
+|-sideend|p1: Implixit|move: Aurora Veil
+|upkeep
+|turn|9
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by xiaofengdsss小峰)
+|
+|t:|1641716643
+|move|p1a: Milotic|Aqua Ring|p1a: Milotic
+|-start|p1a: Milotic|Aqua Ring
+|move|p2a: Rotom|Pain Split|p1a: Milotic
+|-sethp|p1a: Milotic|77/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Rotom|99/100 brn|[from] move: Pain Split
+|
+|-heal|p1a: Milotic|83/100|[from] item: Leftovers
+|-heal|p2a: Rotom|100/100 brn|[from] item: Leftovers
+|-heal|p1a: Milotic|89/100|[from] Aqua Ring
+|-damage|p2a: Rotom|94/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641716654
+|move|p1a: Milotic|Ice Beam|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|79/100 brn
+|move|p2a: Rotom|Volt Switch|p1a: Milotic
+|-supereffective|p1a: Milotic
+|-damage|p1a: Milotic|49/100
+|
+|t:|1641716662
+|switch|p2a: Kartana|Kartana, shiny|100/100|[from]move: Volt Switch
+|
+|-heal|p1a: Milotic|56/100|[from] item: Leftovers
+|-heal|p1a: Milotic|62/100|[from] Aqua Ring
+|-sideend|p1: Implixit|move: Tailwind
+|upkeep
+|turn|11
+|
+|t:|1641716669
+|move|p2a: Kartana|Knock Off|p1a: Milotic
+|-damage|p1a: Milotic|18/100
+|-enditem|p1a: Milotic|Leftovers|[from] move: Knock Off|[of] p2a: Kartana
+|move|p1a: Milotic|Scald|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|37/100
+|
+|-heal|p1a: Milotic|24/100|[from] Aqua Ring
+|upkeep
+|turn|12
+|
+|t:|1641716681
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|94/100 brn
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Kartana|Knock Off|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|64/100 brn
+|-enditem|p1a: Ninetales|Light Clay|[from] move: Knock Off|[of] p2a: Kartana
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Kartana|31/100|[from] Hail
+|-damage|p1a: Ninetales|58/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641716693
+|switch|p2a: Porygon2|Porygon2, shiny|100/100
+|-ability|p2a: Porygon2|Snow Warning|[from] ability: Trace|[of] p1a: Ninetales
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Implixit|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Porygon2|94/100|[from] Hail
+|-damage|p1a: Ninetales|52/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641716703
+|move|p1a: Ninetales|Blizzard|p2a: Porygon2
+|-damage|p2a: Porygon2|74/100
+|move|p2a: Porygon2|Ice Beam|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|45/100 brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Porygon2|68/100|[from] Hail
+|-damage|p1a: Ninetales|39/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641716715
+|move|p1a: Ninetales|Blizzard|p2a: Porygon2
+|-damage|p2a: Porygon2|49/100
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|99/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Porygon2|93/100|[from] Hail
+|-damage|p1a: Ninetales|33/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641716725
+|switch|p1a: Milotic|Milotic, F|24/100
+|move|p2a: Porygon2|Ice Beam|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|20/100
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1641716732
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|70/100
+|move|p2a: Porygon2|Toxic|p1a: Milotic
+|-status|p1a: Milotic|tox
+|
+|-damage|p1a: Milotic|64/100 tox|[from] psn
+|-sideend|p1: Implixit|move: Aurora Veil
+|upkeep
+|turn|18
+|
+|t:|1641716743
+|switch|p1a: Gengar|Gengar, F|100/100
+|move|p2a: Porygon2|Ice Beam|p1a: Gengar
+|-damage|p1a: Gengar|67/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641716752
+|move|p1a: Gengar|Sludge Bomb|p2a: Porygon2
+|-damage|p2a: Porygon2|60/100
+|move|p2a: Porygon2|Thunder Wave|p1a: Gengar
+|-status|p1a: Gengar|par
+|
+|upkeep
+|turn|20
+|
+|t:|1641716758
+|move|p1a: Gengar|Sludge Bomb|p2a: Porygon2
+|-damage|p2a: Porygon2|26/100
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|76/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641716763
+|move|p1a: Gengar|Sludge Bomb|p2a: Porygon2
+|-damage|p2a: Porygon2|46/100
+|move|p2a: Porygon2|Ice Beam|p1a: Gengar
+|-damage|p1a: Gengar|30/100 par
+|-start|p2a: Porygon2|Disable|Ice Beam|[from] ability: Cursed Body|[of] p1a: Gengar
+|
+|upkeep
+|turn|22
+|
+|t:|1641716769
+|move|p1a: Gengar|Sludge Bomb|p2a: Porygon2
+|-damage|p2a: Porygon2|15/100
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|65/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641716774
+|move|p1a: Gengar|Sludge Bomb|p2a: Porygon2
+|-crit|p2a: Porygon2
+|-damage|p2a: Porygon2|14/100
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|64/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641716780
+|move|p1a: Gengar|Sludge Bomb|p2a: Porygon2
+|-damage|p2a: Porygon2|34/100
+|-status|p2a: Porygon2|psn
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|84/100 psn
+|
+|-damage|p2a: Porygon2|72/100 psn|[from] psn
+|-end|p2a: Porygon2|Disable
+|upkeep
+|turn|25
+|
+|t:|1641716791
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|33/100 brn
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Porygon2|Ice Beam|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|20/100 brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Porygon2|65/100 psn|[from] Hail
+|-damage|p2a: Porygon2|53/100 psn|[from] psn
+|-damage|p1a: Ninetales|14/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641716801
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: Implixit|move: Aurora Veil
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|100/100 psn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Porygon2|94/100 psn|[from] Hail
+|-damage|p2a: Porygon2|82/100 psn|[from] psn
+|-damage|p1a: Ninetales|8/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641716812
+|move|p1a: Ninetales|Moonblast|p2a: Porygon2
+|-damage|p2a: Porygon2|66/100 psn
+|move|p2a: Porygon2|Ice Beam|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|2/100 brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Porygon2|60/100 psn|[from] Hail
+|-damage|p2a: Porygon2|47/100 psn|[from] psn
+|-damage|p1a: Ninetales|0 fnt|[from] brn
+|faint|p1a: Ninetales
+|upkeep
+|
+|t:|1641716829
+|switch|p1a: Glaceon|Glaceon, F|100/100
+|turn|28
+|
+|t:|1641716834
+|move|p1a: Glaceon|Freeze-Dry|p2a: Porygon2
+|-damage|p2a: Porygon2|30/100 psn
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|80/100 psn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Porygon2|74/100 psn|[from] Hail
+|-damage|p2a: Porygon2|62/100 psn|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641716843
+|move|p1a: Glaceon|Protect|p1a: Glaceon
+|-singleturn|p1a: Glaceon|Protect
+|move|p2a: Porygon2|Toxic|p1a: Glaceon
+|-activate|p1a: Glaceon|move: Protect
+|
+|-weather|none
+|-damage|p2a: Porygon2|50/100 psn|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641716852
+|switch|p1a: Gengar|Gengar, F|30/100 par
+|move|p2a: Porygon2|Toxic||[still]
+|-fail|p2a: Porygon2
+|
+|-damage|p2a: Porygon2|37/100 psn|[from] psn
+|-sideend|p1: Implixit|move: Aurora Veil
+|upkeep
+|turn|31
+|
+|t:|1641716863
+|switch|p1a: Glaceon|Glaceon, F|100/100
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|87/100 psn
+|
+|-damage|p2a: Porygon2|75/100 psn|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641716870
+|move|p1a: Glaceon|Protect|p1a: Glaceon
+|-singleturn|p1a: Glaceon|Protect
+|move|p2a: Porygon2|Ice Beam|p1a: Glaceon
+|-activate|p1a: Glaceon|move: Protect
+|
+|-damage|p2a: Porygon2|63/100 psn|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641716883
+|move|p1a: Glaceon|Freeze-Dry|p2a: Porygon2
+|-damage|p2a: Porygon2|46/100 psn
+|move|p2a: Porygon2|Thunder Wave|p1a: Glaceon
+|-status|p1a: Glaceon|par
+|
+|-damage|p2a: Porygon2|33/100 psn|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641716891
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|83/100 psn
+|move|p1a: Glaceon|Freeze-Dry|p2a: Porygon2
+|-damage|p2a: Porygon2|64/100 psn
+|
+|-damage|p2a: Porygon2|52/100 psn|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641716899
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|100/100 psn
+|move|p1a: Glaceon|Freeze-Dry|p2a: Porygon2
+|-damage|p2a: Porygon2|80/100 psn
+|
+|-damage|p2a: Porygon2|68/100 psn|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641716906
+|move|p2a: Porygon2|Ice Beam|p1a: Glaceon
+|-resisted|p1a: Glaceon
+|-damage|p1a: Glaceon|89/100 par
+|move|p1a: Glaceon|Freeze-Dry|p2a: Porygon2
+|-damage|p2a: Porygon2|48/100 psn
+|
+|-heal|p1a: Glaceon|95/100 par|[from] item: Leftovers
+|-damage|p2a: Porygon2|36/100 psn|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641716914
+|move|p2a: Porygon2|Recover|p2a: Porygon2
+|-heal|p2a: Porygon2|86/100 psn
+|move|p1a: Glaceon|Freeze-Dry|p2a: Porygon2
+|-damage|p2a: Porygon2|69/100 psn
+|
+|-heal|p1a: Glaceon|100/100 par|[from] item: Leftovers
+|-damage|p2a: Porygon2|56/100 psn|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1641716925
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Glaceon|atk|1
+|move|p1a: Glaceon|Freeze-Dry|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641716930
+|switch|p2a: Kartana|Kartana, shiny|31/100
+|turn|39
+|
+|t:|1641716936
+|move|p2a: Kartana|Sacred Sword|p1a: Glaceon
+|-supereffective|p1a: Glaceon
+|-damage|p1a: Glaceon|22/100 par
+|move|p1a: Glaceon|Freeze-Dry|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|-heal|p1a: Glaceon|28/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716940
+|switch|p2a: Nidoking|Nidoking, M, shiny|74/100
+|turn|40
+|
+|t:|1641716949
+|move|p1a: Glaceon|Protect|p1a: Glaceon
+|-singleturn|p1a: Glaceon|Protect
+|move|p2a: Nidoking|Flamethrower|p1a: Glaceon
+|-activate|p1a: Glaceon|move: Protect
+|
+|-heal|p1a: Glaceon|34/100 par|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641716958
+|switch|p1a: Milotic|Milotic, F|64/100 tox
+|move|p2a: Nidoking|Flamethrower|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|48/100 tox
+|
+|-damage|p1a: Milotic|42/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641716966
+|move|p2a: Nidoking|Sludge Wave|p1a: Milotic
+|-damage|p1a: Milotic|0 fnt
+|faint|p1a: Milotic
+|
+|upkeep
+|
+|t:|1641716974
+|switch|p1a: Gengar|Gengar, F|30/100 par
+|turn|43
+|
+|t:|1641716979
+|move|p2a: Nidoking|Earth Power|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|upkeep
+|
+|t:|1641716985
+|switch|p1a: Sylveon|Sylveon, F|100/100
+|turn|44
+|
+|t:|1641716991
+|move|p2a: Nidoking|Sludge Wave|p1a: Sylveon
+|-supereffective|p1a: Sylveon
+|-damage|p1a: Sylveon|6/100
+|move|p1a: Sylveon|Yawn|p2a: Nidoking
+|-start|p2a: Nidoking|move: Yawn|[of] p1a: Sylveon
+|
+|upkeep
+|turn|45
+|
+|t:|1641716997
+|move|p1a: Sylveon|Protect|p1a: Sylveon
+|-singleturn|p1a: Sylveon|Protect
+|move|p2a: Nidoking|Sludge Wave|p1a: Sylveon
+|-activate|p1a: Sylveon|move: Protect
+|
+|-end|p2a: Nidoking|move: Yawn|[silent]
+|-status|p2a: Nidoking|slp
+|upkeep
+|turn|46
+|
+|t:|1641717003
+|switch|p2a: Rotom|Rotom-Wash, shiny|79/100 brn
+|move|p1a: Sylveon|Quick Attack|p2a: Rotom
+|-damage|p2a: Rotom|65/100 brn
+|
+|-heal|p2a: Rotom|71/100 brn|[from] item: Leftovers
+|-damage|p2a: Rotom|65/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1641717016
+|move|p2a: Rotom|Volt Switch|p1a: Sylveon
+|-damage|p1a: Sylveon|0 fnt
+|faint|p1a: Sylveon
+|-message|Implixit forfeited.
+|
+|win|xiaofengdsss小峰
+|raw|Implixit's rating: 1165 &rarr; <strong>1139</strong><br />(-26 for losing)
+|raw|xiaofengdsss小峰's rating: 1148 &rarr; <strong>1174</strong><br />(+26 for winning)
+|l|☆Implixit

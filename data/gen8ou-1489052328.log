@@ -1,0 +1,233 @@
+|j|☆er4re4re4re4
+|j|☆WarNboy
+|t:|1641850757
+|gametype|singles
+|player|p1|er4re4re4re4|pokekid|1000
+|player|p2|WarNboy|acetrainer-gen4dp|1000
+|teamsize|p1|5
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Slowbro, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Clefable, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Scrafty, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Blissey, F|
+|poke|p2|Weavile, F|
+|poke|p2|Barraskewda, M|
+|teampreview
+|
+|t:|1641850763
+|start
+|switch|p1a: Clefable|Clefable, M|100/100
+|switch|p2a: Cancer man|Ferrothorn, F|100/100
+|turn|1
+|
+|t:|1641850771
+|move|p1a: Clefable|Trick|p2a: Cancer man
+|-activate|p1a: Clefable|move: Trick|[of] p2a: Cancer man
+|-item|p2a: Cancer man|Choice Scarf|[from] move: Trick
+|-item|p1a: Clefable|Rocky Helmet|[from] move: Trick
+|move|p2a: Cancer man|Spikes|p1a: Clefable
+|-sidestart|p1: er4re4re4re4|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641850783
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Cancer man|Spikes|p1a: Clefable
+|-sidestart|p1: er4re4re4re4|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641850795
+|switch|p2a: Cancer girl|Blissey, F|100/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641850805
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Cancer girl|Thunder Wave|p1a: Clefable
+|-status|p1a: Clefable|par
+|
+|upkeep
+|turn|5
+|c|☆er4re4re4re4|MOTHERFUCKER
+|
+|t:|1641850814
+|switch|p2a: Cancer man|Ferrothorn, F|100/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1641850822
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Cancer man|Toxic||[still]
+|-fail|p2a: Cancer man
+|
+|upkeep
+|turn|7
+|
+|t:|1641850829
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Cancer man|Toxic||[still]
+|-fail|p2a: Cancer man
+|
+|upkeep
+|turn|8
+|
+|t:|1641850836
+|switch|p2a: WarN|Scrafty, M, shiny|100/100
+|move|p1a: Clefable|Moonblast|p2a: WarN
+|-supereffective|p2a: WarN
+|-damage|p2a: WarN|0 fnt
+|faint|p2a: WarN
+|
+|upkeep
+|
+|t:|1641850850
+|switch|p2a: Cancer girl|Blissey, F|100/100
+|turn|9
+|
+|t:|1641850862
+|move|p2a: Cancer girl|Wish|p2a: Cancer girl
+|move|p1a: Clefable|Moonblast|p2a: Cancer girl
+|-damage|p2a: Cancer girl|56/100
+|
+|-heal|p2a: Cancer girl|62/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641850871
+|move|p2a: Cancer girl|Aromatherapy||[still]
+|-activate|p2a: Cancer girl|move: Aromatherapy
+|-fail|p2a: Cancer girl
+|move|p1a: Clefable|Moonblast|p2a: Cancer girl
+|-damage|p2a: Cancer girl|19/100
+|
+|-heal|p2a: Cancer girl|69/100|[from] move: Wish|[wisher] Cancer girl
+|-heal|p2a: Cancer girl|75/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641850886
+|switch|p2a: Cancer man|Ferrothorn, F|100/100
+|move|p1a: Clefable|Trick|p2a: Cancer man
+|-activate|p1a: Clefable|move: Trick|[of] p2a: Cancer man
+|-item|p2a: Cancer man|Rocky Helmet|[from] move: Trick
+|-item|p1a: Clefable|Choice Scarf|[from] move: Trick
+|
+|upkeep
+|turn|12
+|
+|t:|1641850896
+|cant|p1a: Clefable|par
+|move|p2a: Cancer man|Facade|p1a: Clefable
+|-damage|p1a: Clefable|90/100 par
+|
+|upkeep
+|turn|13
+|
+|t:|1641850904
+|move|p1a: Clefable|Trick|p2a: Cancer man
+|-activate|p1a: Clefable|move: Trick|[of] p2a: Cancer man
+|-item|p2a: Cancer man|Choice Scarf|[from] move: Trick
+|-item|p1a: Clefable|Rocky Helmet|[from] move: Trick
+|move|p2a: Cancer man|Stealth Rock|p1a: Clefable
+|-sidestart|p1: er4re4re4re4|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1641850915
+|switch|p2a: Cancer girl|Blissey, F|75/100
+|move|p1a: Clefable|Moonblast|p2a: Cancer girl
+|-damage|p2a: Cancer girl|31/100
+|
+|-heal|p2a: Cancer girl|37/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|c|☆er4re4re4re4|hand it over
+|
+|t:|1641850928
+|move|p2a: Cancer girl|Rest|p2a: Cancer girl
+|-status|p2a: Cancer girl|slp|[from] move: Rest
+|-heal|p2a: Cancer girl|100/100 slp|[silent]
+|cant|p1a: Clefable|par
+|
+|upkeep
+|turn|16
+|
+|t:|1641850948
+|switch|p2a: Morue|Barraskewda, M|100/100
+|cant|p1a: Clefable|par
+|
+|upkeep
+|turn|17
+|
+|t:|1641850959
+|move|p2a: Morue|Aqua Jet|p1a: Clefable
+|-damage|p1a: Clefable|73/100 par
+|-damage|p2a: Morue|84/100|[from] item: Rocky Helmet|[of] p1a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Morue
+|-crit|p2a: Morue
+|-damage|p2a: Morue|0 fnt
+|faint|p2a: Morue
+|
+|upkeep
+|
+|t:|1641850969
+|switch|p2a: Racker|Garchomp, M|100/100
+|turn|18
+|
+|t:|1641851009
+|move|p2a: Racker|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|14/100 par
+|cant|p1a: Clefable|par
+|
+|upkeep
+|turn|19
+|
+|t:|1641851015
+|move|p2a: Racker|Earthquake|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|c|☆er4re4re4re4|gg
+|-message|er4re4re4re4 forfeited.
+|
+|win|WarNboy
+|raw|er4re4re4re4's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|WarNboy's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)

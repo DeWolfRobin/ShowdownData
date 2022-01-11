@@ -1,0 +1,248 @@
+|j|☆DashIsBack
+|j|☆OUTH MO
+|t:|1641781427
+|gametype|singles
+|player|p1|DashIsBack|170|1668
+|player|p2|OUTH MO|crasherwake|1653
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blaziken, F|
+|poke|p1|Weavile, M|
+|poke|p1|Scizor, M|
+|poke|p1|Hitmonchan, M|
+|poke|p1|Swampert, M|
+|poke|p1|Vikavolt, F|
+|poke|p2|Melmetal|
+|poke|p2|Pelipper, M|
+|poke|p2|Volcanion|
+|poke|p2|Barraskewda, M|
+|poke|p2|Zapdos|
+|poke|p2|Seismitoad, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by OUTH MO)
+|inactive|OUTH MO has 120 seconds left.
+|
+|t:|1641781468
+|start
+|switch|p1a: Gradius|Vikavolt, F|100/100
+|switch|p2a: Volcanion|Volcanion|100/100
+|turn|1
+|
+|t:|1641781478
+|switch|p1a: Tychan|Hitmonchan, M|100/100
+|move|p2a: Volcanion|Flamethrower|p1a: Tychan
+|-damage|p1a: Tychan|47/100
+|-status|p1a: Tychan|brn
+|
+|-damage|p1a: Tychan|41/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641781483
+|move|p1a: Tychan|Mach Punch|p2a: Volcanion
+|-damage|p2a: Volcanion|88/100
+|move|p2a: Volcanion|Flamethrower|p1a: Tychan
+|-damage|p1a: Tychan|0 fnt
+|faint|p1a: Tychan
+|
+|upkeep
+|
+|t:|1641781489
+|switch|p1a: Kipper|Swampert, M|100/100
+|turn|3
+|
+|t:|1641781495
+|switch|p2a: Pelipper|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Kipper|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: OUTH MO|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641781500
+|switch|p1a: Gradius|Vikavolt, F|100/100
+|move|p2a: Pelipper|U-turn|p1a: Gradius
+|-damage|p1a: Gradius|91/100
+|-damage|p2a: Pelipper|84/100|[from] item: Rocky Helmet|[of] p1a: Gradius
+|
+|t:|1641781503
+|switch|p2a: Barraskewda|Barraskewda, M, shiny|100/100|[from]move: U-turn
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641781507
+|switch|p1a: Kipper|Swampert, M|100/100
+|move|p2a: Barraskewda|Liquidation|p1a: Kipper
+|-damage|p1a: Kipper|15/100
+|-unboost|p1a: Kipper|def|1
+|-damage|p2a: Barraskewda|71/100|[from] item: Rocky Helmet|[of] p1a: Kipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641781513
+|move|p2a: Barraskewda|Liquidation|p1a: Kipper
+|-damage|p1a: Kipper|0 fnt
+|-damage|p2a: Barraskewda|55/100|[from] item: Rocky Helmet|[of] p1a: Kipper
+|faint|p1a: Kipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641781527
+|switch|p1a: Ken|Blaziken, F|100/100
+|turn|7
+|
+|t:|1641781538
+|move|p1a: Ken|Vacuum Wave|p2a: Barraskewda
+|-damage|p2a: Barraskewda|7/100
+|move|p2a: Barraskewda|Liquidation|p1a: Ken
+|-supereffective|p1a: Ken
+|-enditem|p1a: Ken|Focus Sash
+|-damage|p1a: Ken|1/100
+|-unboost|p1a: Ken|def|1
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Ken|Speed Boost|boost
+|-boost|p1a: Ken|spe|1
+|upkeep
+|turn|8
+|
+|t:|1641781546
+|move|p2a: Barraskewda|Liquidation|p1a: Ken
+|-supereffective|p1a: Ken
+|-damage|p1a: Ken|0 fnt
+|faint|p1a: Ken
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641781550
+|switch|p1a: Sin|Weavile, M|100/100
+|turn|9
+|
+|t:|1641781553
+|move|p1a: Sin|Ice Shard|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|-damage|p1a: Sin|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641781556
+|switch|p2a: Seismitoad|Seismitoad, M, shiny|100/100
+|-damage|p2a: Seismitoad|95/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641781561
+|switch|p1a: Akashi|Scizor, M|100/100
+|move|p2a: Seismitoad|Weather Ball|p1a: Akashi
+|-damage|p1a: Akashi|0 fnt
+|faint|p1a: Akashi
+|-damage|p2a: Seismitoad|85/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641781563
+|switch|p1a: Sin|Weavile, M|91/100
+|turn|11
+|
+|t:|1641781575
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Sin|Swords Dance|p1a: Sin
+|-boost|p1a: Sin|atk|2
+|
+|upkeep
+|turn|12
+|
+|t:|1641781581
+|move|p1a: Sin|Low Kick|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|-damage|p1a: Sin|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641781585
+|switch|p2a: Pelipper|Pelipper, M, shiny|84/100
+|-damage|p2a: Pelipper|59/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|13
+|
+|t:|1641781587
+|move|p1a: Sin|Knock Off|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: Sin
+|faint|p2a: Pelipper
+|-damage|p1a: Sin|71/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641781591
+|switch|p2a: Seismitoad|Seismitoad, M, shiny|85/100
+|-damage|p2a: Seismitoad|79/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641781593
+|move|p1a: Sin|Ice Shard|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|-damage|p1a: Sin|61/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641781599
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|turn|15
+|inactive|DashIsBack has 120 seconds left.
+|
+|t:|1641781629
+|move|p1a: Sin|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Sin
+|faint|p2a: Zapdos
+|-damage|p1a: Sin|51/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641781632
+|switch|p2a: Volcanion|Volcanion|88/100
+|-damage|p2a: Volcanion|63/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641781634
+|move|p1a: Sin|Knock Off|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|-enditem|p2a: Volcanion|Choice Specs|[from] move: Knock Off|[of] p1a: Sin
+|faint|p2a: Volcanion
+|-damage|p1a: Sin|41/100|[from] item: Life Orb
+|
+|win|DashIsBack
+|raw|DashIsBack's rating: 1668 &rarr; <strong>1687</strong><br />(+19 for winning)
+|raw|OUTH MO's rating: 1653 &rarr; <strong>1634</strong><br />(-19 for losing)

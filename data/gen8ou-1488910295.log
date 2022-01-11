@@ -1,0 +1,211 @@
+|j|☆WyattIsSoulZ
+|j|‽ratiogod111
+|t:|1641835647
+|gametype|singles
+|player|p1|WyattIsSoulZ|marlon|1096
+|player|p2|ratiogod111|linebacker|1083
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zoroark, F|
+|poke|p1|Toxicroak, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Kommo-o, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Meowstic, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Magnezone|
+|poke|p2|Hydreigon, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ratiogod111)
+|
+|t:|1641835653
+|start
+|switch|p1a: Meowstic|Meowstic, M, shiny|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|1
+|
+|t:|1641835659
+|move|p1a: Meowstic|Reflect|p1a: Meowstic
+|-sidestart|p1: WyattIsSoulZ|Reflect
+|move|p2a: Urshifu|U-turn|p1a: Meowstic
+|-supereffective|p1a: Meowstic
+|-damage|p1a: Meowstic|70/100
+|
+|t:|1641835666
+|switch|p2a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641835672
+|move|p1a: Meowstic|Light Screen|p1a: Meowstic
+|-sidestart|p1: WyattIsSoulZ|move: Light Screen
+|move|p2a: Magnezone|Volt Switch|p1a: Meowstic
+|-damage|p1a: Meowstic|38/100
+|
+|t:|1641835680
+|switch|p2a: Hydreigon|Hydreigon, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|3
+|
+|t:|1641835688
+|move|p1a: Meowstic|Thunder Wave|p2a: Hydreigon
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: Hydreigon
+|move|p2a: Hydreigon|Dark Pulse|p1a: Meowstic
+|-supereffective|p1a: Meowstic
+|-damage|p1a: Meowstic|0 fnt
+|faint|p1a: Meowstic
+|
+|upkeep
+|
+|t:|1641835699
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|turn|4
+|
+|t:|1641835703
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Ferrothorn|Spikes|p2a: Hydreigon
+|-sidestart|p2: ratiogod111|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1641835708
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Ferrothorn|Knock Off|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|89/100
+|-enditem|p2a: Hydreigon|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|6
+|
+|t:|1641835715
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Ferrothorn|Power Whip|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-crit|p2a: Hydreigon
+|-damage|p2a: Hydreigon|53/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641835722
+|move|p2a: Hydreigon|Roost|p2a: Hydreigon
+|-heal|p2a: Hydreigon|100/100
+|-singleturn|p2a: Hydreigon|move: Roost
+|move|p1a: Ferrothorn|Spikes|p2a: Hydreigon
+|-sidestart|p2: ratiogod111|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1641835729
+|move|p2a: Hydreigon|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|54/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Hydreigon
+|-start|p2a: Hydreigon|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|60/100|[from] item: Leftovers
+|-damage|p2a: Hydreigon|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|74/100|[silent]
+|-sideend|p1: WyattIsSoulZ|Reflect
+|upkeep
+|turn|9
+|
+|t:|1641835736
+|move|p2a: Hydreigon|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|28/100
+|-unboost|p1a: Ferrothorn|spd|1
+|move|p1a: Ferrothorn|Spikes|p2a: Hydreigon
+|-sidestart|p2: ratiogod111|Spikes
+|
+|-heal|p1a: Ferrothorn|34/100|[from] item: Leftovers
+|-damage|p2a: Hydreigon|76/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|48/100|[silent]
+|-sideend|p1: WyattIsSoulZ|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641835749
+|move|p2a: Hydreigon|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641835753
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|turn|11
+|
+|t:|1641835756
+|move|p2a: Hydreigon|Earth Power|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|upkeep
+|
+|t:|1641835763
+|switch|p1a: Toxicroak|Toxicroak, M|100/100
+|turn|12
+|
+|t:|1641835766
+|move|p1a: Toxicroak|Sucker Punch|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|58/100
+|move|p2a: Hydreigon|Earth Power|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|replace|p1a: Zoroark|Zoroark, F
+|-end|p1a: Zoroark|Illusion
+|faint|p1a: Zoroark
+|
+|upkeep
+|
+|t:|1641835773
+|switch|p1a: Toxicroak|Toxicroak, M|100/100
+|turn|13
+|
+|t:|1641835780
+|move|p2a: Hydreigon|Earth Power|p1a: Toxicroak
+|-supereffective|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|faint|p1a: Toxicroak
+|
+|upkeep
+|
+|t:|1641835784
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|14
+|
+|t:|1641835790
+|move|p1a: Rillaboom|Grassy Glide|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|19/100
+|-damage|p1a: Rillaboom|91/100|[from] item: Life Orb
+|move|p2a: Hydreigon|Dark Pulse|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|
+|win|ratiogod111
+|raw|WyattIsSoulZ's rating: 1096 &rarr; <strong>1071</strong><br />(-25 for losing)
+|raw|ratiogod111's rating: 1083 &rarr; <strong>1112</strong><br />(+29 for winning)

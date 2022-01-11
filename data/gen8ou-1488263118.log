@@ -1,0 +1,188 @@
+|j|☆SoleSurvivorVGC
+|j|☆rayan.ayadi
+|t:|1641743082
+|gametype|singles
+|player|p1|SoleSurvivorVGC|hilbert|1218
+|player|p2|rayan.ayadi|lucas-gen4pt|1193
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Kartana|
+|poke|p1|Weavile, M|
+|poke|p1|Tapu Fini|
+|poke|p2|Tyranitar, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Milotic, M|
+|poke|p2|Scizor, F|
+|poke|p2|Togekiss, M|
+|poke|p2|Gengar, M|
+|teampreview
+|c|☆SoleSurvivorVGC|glhf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rayan.ayadi)
+|
+|t:|1641743118
+|start
+|switch|p1a: Pangea|Landorus-Therian, M|100/100
+|switch|p2a: Milotic|Milotic, M|100/100
+|-ability|p1a: Pangea|Intimidate|boost
+|-unboost|p2a: Milotic|atk|1
+|-ability|p2a: Milotic|Competitive
+|-boost|p2a: Milotic|spa|2
+|turn|1
+|
+|t:|1641743131
+|move|p1a: Pangea|U-turn|p2a: Milotic
+|-damage|p2a: Milotic|83/100
+|
+|t:|1641743136
+|switch|p1a: Ariel|Tapu Fini, shiny|100/100|[from]move: U-turn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Ariel
+|move|p2a: Milotic|Ice Beam|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|88/100
+|
+|-heal|p1a: Ariel|94/100|[from] item: Leftovers
+|-heal|p2a: Milotic|89/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641743156
+|switch|p1a: Pangea|Landorus-Therian, M|100/100
+|-ability|p1a: Pangea|Intimidate|boost
+|-unboost|p2a: Milotic|atk|1
+|-ability|p2a: Milotic|Competitive
+|-boost|p2a: Milotic|spa|2
+|move|p2a: Milotic|Scald|p1a: Pangea
+|-supereffective|p1a: Pangea
+|-damage|p1a: Pangea|0 fnt
+|faint|p1a: Pangea
+|
+|-heal|p2a: Milotic|95/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641743175
+|switch|p1a: Papercut|Kartana, shiny|100/100
+|turn|3
+|
+|t:|1641743184
+|switch|p2a: Garchomp|Garchomp, F, shiny|100/100
+|move|p1a: Papercut|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|56/100
+|-damage|p1a: Papercut|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Expert Belt|[from] move: Knock Off|[of] p1a: Papercut
+|-damage|p1a: Papercut|78/100|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1641743199
+|move|p1a: Papercut|Leaf Blade|p2a: Garchomp
+|-crit|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Papercut|66/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|-ability|p1a: Papercut|Beast Boost|boost
+|-boost|p1a: Papercut|spe|1
+|-damage|p1a: Papercut|56/100|[from] item: Life Orb
+|
+|upkeep
+|j| Iceman8911
+|
+|t:|1641743213
+|switch|p2a: Gengar|Gengar, M|100/100
+|turn|5
+|
+|t:|1641743230
+|switch|p1a: Subzero|Weavile, M|100/100
+|-ability|p1a: Subzero|Pressure
+|move|p2a: Gengar|Shadow Ball|p1a: Subzero
+|-resisted|p1a: Subzero
+|-damage|p1a: Subzero|72/100
+|-unboost|p1a: Subzero|spd|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641743243
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Subzero|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|66/100
+|-enditem|p2a: Scizor|Leftovers|[from] move: Knock Off|[of] p1a: Subzero
+|
+|upkeep
+|turn|7
+|
+|t:|1641743250
+|switch|p1a: Mothra|Volcarona, M, shiny|100/100
+|move|p2a: Scizor|Bullet Punch|p1a: Mothra
+|-resisted|p1a: Mothra
+|-damage|p1a: Mothra|88/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641743260
+|switch|p2a: Togekiss|Togekiss, M, shiny|100/100
+|move|p1a: Mothra|Flamethrower|p2a: Togekiss
+|-damage|p2a: Togekiss|60/100
+|
+|-heal|p2a: Togekiss|66/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641743269
+|switch|p1a: Not Choice Scarf|Magnezone|100/100
+|move|p2a: Togekiss|Air Slash|p1a: Not Choice Scarf
+|-resisted|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|95/100
+|
+|-heal|p2a: Togekiss|72/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641743275
+|move|p2a: Togekiss|Aura Sphere|p1a: Not Choice Scarf
+|-supereffective|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|57/100
+|move|p1a: Not Choice Scarf|Volt Switch|p2a: Togekiss
+|-supereffective|p2a: Togekiss
+|-damage|p2a: Togekiss|4/100
+|
+|t:|1641743300
+|switch|p1a: Papercut|Kartana, shiny|56/100|[from]move: Volt Switch
+|
+|-heal|p2a: Togekiss|10/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641743305
+|move|p1a: Papercut|Knock Off|p2a: Togekiss
+|-resisted|p2a: Togekiss
+|-damage|p2a: Togekiss|0 fnt
+|-enditem|p2a: Togekiss|Leftovers|[from] move: Knock Off|[of] p1a: Papercut
+|faint|p2a: Togekiss
+|-ability|p1a: Papercut|Beast Boost|boost
+|-boost|p1a: Papercut|spe|1
+|-damage|p1a: Papercut|46/100|[from] item: Life Orb
+|
+|upkeep
+|-message|rayan.ayadi forfeited.
+|
+|win|SoleSurvivorVGC
+|raw|SoleSurvivorVGC's rating: 1218 &rarr; <strong>1241</strong><br />(+23 for winning)
+|raw|rayan.ayadi's rating: 1193 &rarr; <strong>1170</strong><br />(-23 for losing)
+|l|☆rayan.ayadi

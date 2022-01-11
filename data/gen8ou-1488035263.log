@@ -1,0 +1,174 @@
+|j|☆Magnussz
+|j|☆Draxlayer
+|t:|1641700579
+|gametype|singles
+|player|p1|Magnussz|hilbert-wonderlauncher|1114
+|player|p2|Draxlayer|265|1089
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Alakazam, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Buzzwole|
+|poke|p2|Regieleki|
+|poke|p2|Dragonite, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Thundurus, M|
+|poke|p2|Registeel|
+|poke|p2|Clefable, M|
+|teampreview
+|
+|t:|1641700586
+|start
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|1
+|
+|t:|1641700595
+|move|p2a: Regieleki|Reflect|p2a: Regieleki
+|-sidestart|p2: Draxlayer|Reflect
+|move|p1a: Buzzwole|Earthquake|p2a: Regieleki
+|-supereffective|p2a: Regieleki
+|-damage|p2a: Regieleki|36/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641700602
+|move|p2a: Regieleki|Light Screen|p2a: Regieleki
+|-sidestart|p2: Draxlayer|move: Light Screen
+|move|p1a: Buzzwole|Earthquake|p2a: Regieleki
+|-supereffective|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641700612
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|3
+|
+|t:|1641700616
+|move|p1a: Buzzwole|Brick Break|p2a: Clefable
+|-sideend|p2: Draxlayer|Reflect
+|-sideend|p2: Draxlayer|move: Light Screen
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|60/100
+|-damage|p1a: Buzzwole|84/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641700634
+|move|p1a: Buzzwole|Close Combat|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|16/100
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|-damage|p1a: Buzzwole|67/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|66/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641700649
+|move|p1a: Buzzwole|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|24/100
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1641700659
+|move|p1a: Buzzwole|Close Combat|p2a: Clefable
+|-resisted|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|-damage|p1a: Buzzwole|51/100|[from] item: Rocky Helmet|[of] p2a: Clefable
+|faint|p2a: Clefable
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641700674
+|switch|p2a: Thundurus|Thundurus, M|100/100
+|turn|7
+|
+|t:|1641700693
+|switch|p1a: Alakazam|Alakazam, F|100/100
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1641700706
+|move|p2a: Thundurus|Nasty Plot|p2a: Thundurus
+|-boost|p2a: Thundurus|spa|2
+|move|p1a: Alakazam|Psychic|p2a: Thundurus
+|-damage|p2a: Thundurus|24/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641700716
+|move|p1a: Alakazam|Psychic|p2a: Thundurus
+|-damage|p2a: Thundurus|0 fnt
+|faint|p2a: Thundurus
+|
+|upkeep
+|
+|t:|1641700731
+|switch|p2a: Registeel|Registeel|100/100
+|turn|10
+|
+|t:|1641700740
+|switch|p1a: Buzzwole|Buzzwole|51/100
+|move|p2a: Registeel|Amnesia|p2a: Registeel
+|-boost|p2a: Registeel|spd|2
+|
+|upkeep
+|turn|11
+|
+|t:|1641700746
+|move|p1a: Buzzwole|Close Combat|p2a: Registeel
+|-supereffective|p2a: Registeel
+|-damage|p2a: Registeel|6/100
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|move|p2a: Registeel|Iron Defense|p2a: Registeel
+|-boost|p2a: Registeel|def|2
+|
+|-heal|p2a: Registeel|12/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|-message|Draxlayer forfeited.
+|
+|win|Magnussz
+|raw|Magnussz's rating: 1114 &rarr; <strong>1137</strong><br />(+23 for winning)
+|raw|Draxlayer's rating: 1089 &rarr; <strong>1067</strong><br />(-22 for losing)
+|l|☆Draxlayer

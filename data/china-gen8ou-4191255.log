@@ -1,0 +1,549 @@
+|j|☆SL21CC姐ISthequeen
+|j|☆SL21CC 东方不败
+|t:|1641814750
+|gametype|singles
+|player|p1|SL21CC姐ISthequeen|cynthia|1316
+|player|p2|SL21CC 东方不败|101|1277
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Thundurus, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Scizor, M|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, F|
+|poke|p2|Aegislash, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Toxapex, F|
+|poke|p2|Weavile, F|
+|teampreview
+|c|☆SL21CC姐ISthequeen|hf
+|j|+dragonitenb
+|c|☆SL21CC 东方不败|hf
+|j| adreamew
+|
+|t:|1641814789
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|1
+|
+|t:|1641814799
+|move|p1a: Garchomp|Toxic|p2a: Landorus|[miss]
+|-miss|p1a: Garchomp|p2a: Landorus
+|move|p2a: Landorus|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: SL21CC姐ISthequeen|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|j| suicidu
+|
+|t:|1641814805
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: SL21CC 东方不败|move: Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Garchomp
+|-damage|p1a: Garchomp|80/100
+|-damage|p2a: Landorus|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|t:|1641814807
+|switch|p2a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|-heal|p1a: Garchomp|86/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|l| suicidu
+|
+|t:|1641814814
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|95/100|[from] Stealth Rock
+|move|p2a: Weavile|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|69/100
+|-damage|p2a: Weavile|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Weavile|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|4
+|
+|t:|1641814818
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|-damage|p2a: Urshifu|94/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Leech Seed|p2a: Urshifu
+|-start|p2a: Urshifu|move: Leech Seed
+|
+|-damage|p2a: Urshifu|82/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|81/100|[silent]
+|upkeep
+|turn|5
+|j| SL21CC KFC
+|
+|t:|1641814837
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|move|p2a: Urshifu|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|71/100
+|
+|t:|1641814840
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|upkeep
+|turn|6
+|
+|t:|1641814850
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Tapu Lele|Future Sight|p1a: Scizor
+|-start|p2a: Tapu Lele|move: Future Sight
+|
+|upkeep
+|turn|7
+|j| SL21CC Leviathan
+|
+|t:|1641814856
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Scizor|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|78/100
+|-enditem|p2a: Toxapex|Eject Button
+|
+|t:|1641814860
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|82/100
+|-damage|p2a: Urshifu|76/100|[from] Stealth Rock
+|
+|upkeep
+|turn|8
+|j| SL21CC tangkeke
+|
+|t:|1641814902
+|switch|p1a: Ferrothorn|Ferrothorn, M|81/100
+|-damage|p1a: Ferrothorn|75/100|[from] Stealth Rock
+|move|p2a: Urshifu|Surging Strikes|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|69/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|62/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|56/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-hitcount|p1a: Ferrothorn|3
+|
+|-end|p1a: Ferrothorn|move: Future Sight
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|15/100
+|upkeep
+|turn|9
+|
+|t:|1641814914
+|move|p2a: Urshifu|Surging Strikes|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|9/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|3/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|faint|p1a: Ferrothorn
+|-hitcount|p1: Ferrothorn|3
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641814917
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|turn|10
+|
+|t:|1641814925
+|move|p1a: Thundurus|Knock Off|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|61/100
+|-enditem|p2a: Urshifu|Protective Pads|[from] move: Knock Off|[of] p1a: Thundurus
+|move|p2a: Urshifu|Surging Strikes|p1a: Thundurus
+|-crit|p1a: Thundurus
+|-damage|p1a: Thundurus|72/100
+|-crit|p1a: Thundurus
+|-damage|p1a: Thundurus|41/100
+|-crit|p1a: Thundurus
+|-damage|p1a: Thundurus|11/100
+|-hitcount|p1a: Thundurus|3
+|
+|upkeep
+|turn|11
+|
+|t:|1641814932
+|switch|p2a: Landorus|Landorus-Therian, M|88/100
+|-damage|p2a: Landorus|76/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Thundurus|atk|1
+|-ability|p1a: Thundurus|Defiant
+|-boost|p1a: Thundurus|atk|2
+|move|p1a: Thundurus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|59/100
+|
+|t:|1641814936
+|switch|p1a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|
+|-heal|p2a: Landorus|65/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641814945
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Heatran|Eruption|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641814953
+|move|p1a: Heatran|Magma Storm|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|35/100
+|-activate|p2a: Toxapex|move: Magma Storm|[of] p1a: Heatran
+|move|p2a: Toxapex|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|74/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|-damage|p2a: Toxapex|22/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1641814955
+|move|p1a: Heatran|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641814958
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|61/100
+|-damage|p2a: Urshifu|54/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641814970
+|switch|p1a: Garchomp|Garchomp, F|86/100
+|-damage|p1a: Garchomp|80/100|[from] Stealth Rock
+|move|p2a: Urshifu|U-turn|p1a: Garchomp
+|-damage|p1a: Garchomp|59/100
+|-damage|p2a: Urshifu|42/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|t:|1641814975
+|switch|p2a: Weavile|Weavile, F|72/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|-heal|p1a: Garchomp|65/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|j| Renwu
+|j| SL21CCxiaomiaomiao
+|
+|t:|1641814983
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Weavile|Knock Off|p1a: Scizor
+|-damage|p1a: Scizor|52/100
+|-enditem|p1a: Scizor|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|17
+|j| cloud20220110
+|
+|t:|1641814988
+|switch|p2a: Aegislash|Aegislash, F|100/100
+|-damage|p2a: Aegislash|94/100|[from] Stealth Rock
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|
+|upkeep
+|turn|18
+|
+|t:|1641814992
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Scizor
+|-damage|p1a: Scizor|45/100
+|move|p1a: Scizor|U-turn|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|78/100
+|
+|t:|1641815000
+|switch|p1a: Dragapult|Dragapult, F|71/100|[from]move: U-turn
+|-damage|p1a: Dragapult|58/100|[from] Stealth Rock
+|
+|upkeep
+|turn|19
+|j| zap the justice
+|
+|t:|1641815009
+|switch|p2a: Weavile|Weavile, F|72/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Dragapult|Shadow Ball|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|33/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641815025
+|move|p2a: Weavile|Ice Shard|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|3/100
+|move|p1a: Dragapult|Shadow Ball|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|l| cloud20220110
+|
+|t:|1641815037
+|switch|p2a: Aegislash|Aegislash, F|78/100
+|-damage|p2a: Aegislash|71/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641815042
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Sneak|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641815057
+|switch|p1a: Scizor|Scizor, M|45/100
+|-damage|p1a: Scizor|32/100|[from] Stealth Rock
+|turn|22
+|j| SL22CC 蜜雪冰城
+|
+|t:|1641815065
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|42/100
+|-damage|p2a: Urshifu|36/100|[from] Stealth Rock
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|82/100
+|-singleturn|p1a: Scizor|move: Roost
+|
+|upkeep
+|turn|23
+|j|♚Jqlove
+|
+|t:|1641815078
+|switch|p1a: Garchomp|Garchomp, F|65/100
+|-damage|p1a: Garchomp|59/100|[from] Stealth Rock
+|move|p2a: Urshifu|Close Combat|p1a: Garchomp
+|-damage|p1a: Garchomp|4/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|-damage|p2a: Urshifu|24/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-heal|p1a: Garchomp|10/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641815085
+|move|p1a: Garchomp|Earthquake|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-heal|p1a: Garchomp|17/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641815090
+|switch|p2a: Tapu Lele|Tapu Lele|88/100
+|-damage|p2a: Tapu Lele|76/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|25
+|
+|t:|1641815095
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Tapu Lele|Focus Blast|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-heal|p1a: Garchomp|23/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641815106
+|move|p2a: Tapu Lele|Focus Blast|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641815110
+|switch|p1a: Scizor|Scizor, M|82/100
+|-damage|p1a: Scizor|70/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1641815123
+|switch|p2a: Landorus|Landorus-Therian, M|65/100
+|-damage|p2a: Landorus|53/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scizor|atk|1
+|move|p1a: Scizor|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|33/100
+|
+|t:|1641815126
+|switch|p1a: Heatran|Heatran, M|74/100|[from]move: U-turn
+|-damage|p1a: Heatran|62/100|[from] Stealth Rock
+|
+|-heal|p2a: Landorus|39/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641815130
+|move|p1a: Heatran|Eruption|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641815133
+|switch|p2a: Tapu Lele|Tapu Lele|76/100
+|-damage|p2a: Tapu Lele|63/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641815135
+|switch|p1a: Thundurus|Thundurus, M|11/100
+|move|p2a: Tapu Lele|Focus Blast|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641815140
+|switch|p1a: Scizor|Scizor, M|70/100
+|-damage|p1a: Scizor|58/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641815145
+|switch|p2a: Aegislash|Aegislash, F|71/100
+|-damage|p2a: Aegislash|65/100|[from] Stealth Rock
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|
+|upkeep
+|turn|31
+|
+|t:|1641815147
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Ball|p1a: Scizor
+|-damage|p1a: Scizor|36/100
+|move|p1a: Scizor|U-turn|p2a: Aegislash
+|-resisted|p2a: Aegislash
+|-damage|p2a: Aegislash|49/100
+|
+|t:|1641815149
+|switch|p1a: Heatran|Heatran, M|62/100|[from]move: U-turn
+|-damage|p1a: Heatran|50/100|[from] Stealth Rock
+|
+|upkeep
+|turn|32
+|
+|t:|1641815152
+|move|p1a: Heatran|Eruption|p2a: Aegislash
+|-supereffective|p2a: Aegislash
+|-damage|p2a: Aegislash|0 fnt
+|faint|p2a: Aegislash
+|
+|upkeep
+|
+|t:|1641815154
+|switch|p2a: Tapu Lele|Tapu Lele|63/100
+|-damage|p2a: Tapu Lele|51/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|33
+|
+|t:|1641815155
+|move|p2a: Tapu Lele|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641815157
+|switch|p1a: Scizor|Scizor, M|36/100
+|-damage|p1a: Scizor|24/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1641815159
+|move|p2a: Tapu Lele|Focus Blast|p1a: Scizor|[miss]
+|-miss|p2a: Tapu Lele|p1a: Scizor
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|74/100
+|-singleturn|p1a: Scizor|move: Roost
+|
+|upkeep
+|turn|35
+|
+|t:|1641815161
+|move|p2a: Tapu Lele|Focus Blast|p1a: Scizor
+|-damage|p1a: Scizor|35/100
+|move|p1a: Scizor|U-turn|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|7/100
+|
+|upkeep
+|turn|36
+|
+|t:|1641815166
+|move|p2a: Tapu Lele|Focus Blast|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|win|SL21CC 东方不败
+|raw|SL21CC姐ISthequeen's rating: 1316 &rarr; <strong>1298</strong><br />(-18 for losing)
+|raw|SL21CC 东方不败's rating: 1277 &rarr; <strong>1294</strong><br />(+17 for winning)
+|l|☆SL21CC姐ISthequeen
+|l|+dragonitenb
+|l| SL21CC KFC
+|j| rffydsdhh
+|l|☆SL21CC 东方不败
+|l| rffydsdhh
+|l| Renwu
+|l|♚Jqlove

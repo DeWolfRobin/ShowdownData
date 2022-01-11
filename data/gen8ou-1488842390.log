@@ -1,0 +1,245 @@
+|j|☆Enoch-Lux
+|j|☆GalarianN00b
+|t:|1641828278
+|gametype|singles
+|player|p1|Enoch-Lux|265|1490
+|player|p2|GalarianN00b|ethan|1510
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gastrodon, F|
+|poke|p1|Clefable, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Heatran, F|
+|poke|p1|Zapdos|
+|poke|p2|Torkoal, F|
+|poke|p2|Venusaur, F|
+|poke|p2|Blaziken, F|
+|poke|p2|Charizard, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Fini|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GalarianN00b)
+|
+|t:|1641828300
+|start
+|switch|p1a: Gastrodon|Gastrodon, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Gastrodon|atk|1
+|turn|1
+|
+|t:|1641828308
+|move|p2a: Landorus|Toxic|p1a: Gastrodon
+|-status|p1a: Gastrodon|tox
+|move|p1a: Gastrodon|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|47/100
+|-status|p2a: Landorus|brn
+|
+|-heal|p2a: Landorus|53/100 brn|[from] item: Leftovers
+|-damage|p1a: Gastrodon|94/100 tox|[from] psn
+|-damage|p2a: Landorus|47/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641828329
+|switch|p1a: Weezing|Weezing-Galar, F|100/100
+|move|p2a: Landorus|U-turn|p1a: Weezing
+|-resisted|p1a: Weezing
+|-damage|p1a: Weezing|99/100
+|
+|t:|1641828334
+|switch|p2a: Torkoal|Torkoal, F|100/100|[from]move: U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Weezing|100/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1641828345
+|move|p1a: Weezing|Aromatherapy|p1a: Weezing
+|-activate|p1a: Weezing|move: Aromatherapy
+|-curestatus|p1: Gastrodon|tox|[msg]
+|move|p2a: Torkoal|Stealth Rock|p1a: Weezing
+|-sidestart|p1: Enoch-Lux|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641828365
+|switch|p1a: Gastrodon|Gastrodon, F|94/100
+|-damage|p1a: Gastrodon|88/100|[from] Stealth Rock
+|switch|p2a: Landorus|Landorus-Therian, M|47/100 brn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Gastrodon|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Landorus|53/100 brn|[from] item: Leftovers
+|-heal|p1a: Gastrodon|94/100|[from] item: Leftovers
+|-damage|p2a: Landorus|47/100 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|Enoch-Lux has 120 seconds left.
+|
+|t:|1641828383
+|move|p2a: Landorus|U-turn|p1a: Gastrodon
+|-damage|p1a: Gastrodon|83/100
+|
+|t:|1641828386
+|switch|p2a: Venusaur|Venusaur, F|100/100|[from]move: U-turn
+|move|p1a: Gastrodon|Scald|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|94/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Gastrodon|89/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|Enoch-Lux has 120 seconds left.
+|
+|t:|1641828402
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p1a: Ferrothorn|95/100|[from] Stealth Rock
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Enoch-Lux has 120 seconds left.
+|
+|t:|1641828423
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Venusaur|Earth Power|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641828444
+|switch|p1a: Clefable|Clefable, M|100/100
+|-damage|p1a: Clefable|88/100|[from] Stealth Rock
+|move|p2a: Venusaur|Weather Ball|p1a: Clefable
+|-damage|p1a: Clefable|30/100
+|-damage|p2a: Venusaur|84/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Clefable|36/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641828461
+|switch|p1a: Heatran|Heatran, F|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|move|p2a: Venusaur|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-damage|p2a: Venusaur|74/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641828471
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|10
+|
+|t:|1641828476
+|switch|p2a: Landorus|Landorus-Therian, M|47/100 brn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|move|p1a: Zapdos|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p1: Enoch-Lux|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-heal|p2a: Landorus|53/100 brn|[from] item: Leftovers
+|-damage|p2a: Landorus|47/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641828488
+|move|p1a: Zapdos|Heat Wave|p2a: Landorus
+|-damage|p2a: Landorus|18/100 brn
+|move|p2a: Landorus|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|96/100
+|
+|t:|1641828493
+|switch|p2a: Torkoal|Torkoal, F|100/100|[from]move: U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641828502
+|move|p1a: Zapdos|Thunderbolt|p2a: Torkoal
+|-damage|p2a: Torkoal|50/100
+|move|p2a: Torkoal|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: Enoch-Lux|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|inactive|Enoch-Lux has 120 seconds left.
+|
+|t:|1641828509
+|switch|p2a: Charizard|Charizard, F|100/100
+|move|p1a: Zapdos|Defog|p2a: Charizard
+|-unboost|p2a: Charizard|evasion|1
+|-sideend|p1: Enoch-Lux|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Charizard|88/100|[from] ability: Solar Power|[of] p2a: Charizard
+|upkeep
+|turn|14
+|inactive|Enoch-Lux has 120 seconds left.
+|
+|t:|1641828525
+|switch|p1a: Gastrodon|Gastrodon, F|89/100
+|move|p2a: Charizard|Flamethrower|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-damage|p1a: Gastrodon|34/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Charizard|76/100|[from] ability: Solar Power|[of] p2a: Charizard
+|-heal|p1a: Gastrodon|40/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|Enoch-Lux has 120 seconds left.
+|
+|t:|1641828536
+|move|p2a: Charizard|Flamethrower|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-crit|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Charizard|63/100|[from] ability: Solar Power|[of] p2a: Charizard
+|upkeep
+|-message|Enoch-Lux forfeited.
+|
+|win|GalarianN00b
+|raw|Enoch-Lux's rating: 1490 &rarr; <strong>1471</strong><br />(-19 for losing)
+|raw|GalarianN00b's rating: 1510 &rarr; <strong>1529</strong><br />(+19 for winning)
+|l|☆Enoch-Lux
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

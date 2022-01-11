@@ -1,0 +1,227 @@
+|j|☆justsayhello
+|j|‽VenomBoner0
+|t:|1641801051
+|gametype|singles
+|player|p1|justsayhello|266|1328
+|player|p2|VenomBoner0|1|1253
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Pelipper, M|
+|poke|p1|Volcanion|
+|poke|p1|Seismitoad, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Barraskewda, M|
+|poke|p2|Weezing, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Drapion, M|
+|poke|p2|Salazzle, F|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Crobat, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by VenomBoner0)
+|
+|t:|1641801075
+|start
+|switch|p1a: Messenger|Pelipper, M, shiny|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Messenger
+|turn|1
+|inactive|justsayhello has 120 seconds left.
+|inactive|justsayhello has 90 seconds left.
+|
+|t:|1641801160
+|move|p1a: Messenger|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|98/100
+|
+|t:|1641801163
+|switch|p1a: Fate|Melmetal, shiny|100/100|[from]move: U-turn
+|move|p2a: Toxapex|Toxic Spikes|p1a: Fate
+|-sidestart|p1: justsayhello|move: Toxic Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1641801173
+|move|p1a: Fate|Double Iron Bash|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|88/100
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|75/100
+|-hitcount|p2a: Toxapex|2
+|move|p2a: Toxapex|Scald|p1a: Fate
+|-damage|p1a: Fate|82/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|81/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1641801181
+|move|p1a: Fate|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|33/100
+|move|p2a: Toxapex|Scald|p1a: Fate
+|-damage|p1a: Fate|63/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|40/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641801189
+|switch|p2a: Weezing|Weezing, M|100/100
+|move|p1a: Fate|Earthquake|p2a: Weezing
+|-immune|p2a: Weezing|[from] ability: Levitate
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641801196
+|switch|p1a: Messenger|Pelipper, M, shiny|100/100
+|move|p2a: Weezing|Sludge Bomb|p1a: Messenger
+|-damage|p1a: Messenger|60/100
+|-status|p1a: Messenger|psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Messenger|48/100 psn|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641801202
+|move|p1a: Messenger|Roost|p1a: Messenger
+|-heal|p1a: Messenger|98/100 psn
+|-singleturn|p1a: Messenger|move: Roost
+|move|p2a: Weezing|Sludge Bomb|p1a: Messenger
+|-damage|p1a: Messenger|57/100 psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Messenger|44/100 psn|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641801204
+|move|p1a: Messenger|Defog|p2a: Weezing
+|-unboost|p2a: Weezing|evasion|1
+|-sideend|p1: justsayhello|Toxic Spikes|[from] move: Defog|[of] p1a: Messenger
+|move|p2a: Weezing|Sludge Bomb|p1a: Messenger
+|-damage|p1a: Messenger|5/100 psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Messenger|0 fnt|[from] psn
+|faint|p1a: Messenger
+|upkeep
+|inactive|justsayhello has 120 seconds left.
+|
+|t:|1641801210
+|switch|p1a: King VIG|Volcanion|100/100
+|turn|8
+|
+|t:|1641801214
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: King VIG|Steam Eruption|p2a: Slowking
+|-damage|p2a: Slowking|39/100
+|-status|p2a: Slowking|brn
+|
+|-weather|none
+|-damage|p2a: Slowking|33/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641801224
+|switch|p2a: Toxapex|Toxapex, M|73/100
+|move|p1a: King VIG|Steam Eruption|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|32/100
+|
+|-heal|p2a: Toxapex|38/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|inactive|justsayhello has 120 seconds left.
+|
+|t:|1641801251
+|switch|p1a: Leviathan|Dragonite, M, shiny|100/100
+|switch|p2a: Drapion|Drapion, M|100/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641801258
+|move|p1a: Leviathan|Dragon Dance|p1a: Leviathan
+|-boost|p1a: Leviathan|atk|1
+|-boost|p1a: Leviathan|spe|1
+|move|p2a: Drapion|Poison Fang|p1a: Leviathan
+|-damage|p1a: Leviathan|92/100
+|-status|p1a: Leviathan|tox
+|
+|-damage|p1a: Leviathan|86/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641801267
+|switch|p2a: Weezing|Weezing, M|100/100
+|move|p1a: Leviathan|Earthquake|p2a: Weezing
+|-immune|p2a: Weezing|[from] ability: Levitate
+|
+|-damage|p1a: Leviathan|74/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641801274
+|move|p1a: Leviathan|Dragon Dance|p1a: Leviathan
+|-boost|p1a: Leviathan|atk|1
+|-boost|p1a: Leviathan|spe|1
+|move|p2a: Weezing|Sludge Bomb|p1a: Leviathan
+|-damage|p1a: Leviathan|49/100 tox
+|
+|-damage|p1a: Leviathan|31/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641801279
+|move|p1a: Leviathan|Ice Punch|p2a: Weezing
+|-damage|p2a: Weezing|69/100
+|move|p2a: Weezing|Sludge Bomb|p1a: Leviathan
+|-damage|p1a: Leviathan|5/100 tox
+|
+|-heal|p2a: Weezing|75/100|[from] item: Black Sludge
+|-damage|p1a: Leviathan|0 fnt|[from] psn
+|faint|p1a: Leviathan
+|upkeep
+|
+|t:|1641801288
+|switch|p1a: Predator|Barraskewda, M, shiny|100/100
+|turn|15
+|
+|t:|1641801294
+|move|p1a: Predator|Psychic Fangs|p2a: Weezing
+|-supereffective|p2a: Weezing
+|-damage|p2a: Weezing|9/100
+|move|p2a: Weezing|Will-O-Wisp|p1a: Predator
+|-status|p1a: Predator|brn
+|
+|-heal|p2a: Weezing|15/100|[from] item: Black Sludge
+|-damage|p1a: Predator|94/100 brn|[from] brn
+|upkeep
+|turn|16
+|-message|justsayhello forfeited.
+|
+|win|VenomBoner0
+|raw|justsayhello's rating: 1328 &rarr; <strong>1304</strong><br />(-24 for losing)
+|raw|VenomBoner0's rating: 1253 &rarr; <strong>1283</strong><br />(+30 for winning)
+|l|☆justsayhello

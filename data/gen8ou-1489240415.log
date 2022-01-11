@@ -1,0 +1,351 @@
+|j|☆Ddraig210
+|j|☆Lynnocent
+|t:|1641875957
+|gametype|singles
+|player|p1|Ddraig210|hilbert|1178
+|player|p2|Lynnocent|hilda-wonderlauncher|1232
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Melmetal|
+|poke|p1|Zapdos|
+|poke|p1|Dragapult, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Regieleki|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Tapu Lele|
+|teampreview
+|
+|t:|1641875970
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|turn|1
+|
+|t:|1641875983
+|move|p1a: Landorus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|76/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Landorus
+|move|p2a: Landorus|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|75/100
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1641875998
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|67/100
+|
+|t:|1641876001
+|switch|p1a: Melmetal|Melmetal|100/100|[from]move: U-turn
+|move|p2a: Landorus|Stealth Rock|p1a: Melmetal
+|-sidestart|p1: Ddraig210|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641876012
+|move|p2a: Landorus|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|65/100
+|move|p1a: Melmetal|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641876025
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|4
+|
+|t:|1641876034
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Zapdos|[miss]
+|-miss|p2a: Ferrothorn|p1a: Zapdos
+|
+|upkeep
+|turn|5
+|
+|t:|1641876042
+|move|p1a: Zapdos|Roost||[still]
+|-fail|p1a: Zapdos|heal
+|move|p2a: Ferrothorn|Leech Seed|p1a: Zapdos
+|-start|p1a: Zapdos|move: Leech Seed
+|
+|-damage|p1a: Zapdos|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|6
+|
+|t:|1641876050
+|move|p1a: Zapdos|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Ddraig210|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Ferrothorn|Spikes|p1a: Zapdos
+|-sidestart|p1: Ddraig210|Spikes
+|
+|-damage|p1a: Zapdos|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|7
+|
+|t:|1641876059
+|move|p1a: Zapdos|Heat Wave|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|8/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|55/100
+|-status|p2a: Ferrothorn|par|[from] ability: Static|[of] p1a: Zapdos
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|14/100 par|[from] item: Leftovers
+|-damage|p1a: Zapdos|43/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|28/100 par|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641876079
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|93/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-damage|p1a: Zapdos|80/100|[from] Leech Seed|[of] p2a: Tapu Lele
+|upkeep
+|turn|9
+|
+|t:|1641876093
+|move|p2a: Tapu Lele|Psyshock|p1a: Zapdos
+|-damage|p1a: Zapdos|19/100
+|move|p1a: Zapdos|Defog|p2a: Tapu Lele
+|-unboost|p2a: Tapu Lele|evasion|1
+|-sideend|p1: Ddraig210|Spikes|[from] move: Defog|[of] p1a: Zapdos
+|-fieldend|move: Psychic Terrain
+|
+|-damage|p1a: Zapdos|6/100|[from] Leech Seed|[of] p2a: Tapu Lele
+|upkeep
+|turn|10
+|
+|t:|1641876107
+|move|p2a: Tapu Lele|Psyshock|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641876120
+|switch|p1a: Melmetal|Melmetal|65/100
+|turn|11
+|
+|t:|1641876128
+|switch|p2a: Ferrothorn|Ferrothorn, F|28/100 par
+|move|p1a: Melmetal|Double Iron Bash|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|1/100 par
+|-damage|p1a: Melmetal|52/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Melmetal|40/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|-hitcount|p2: Ferrothorn|2
+|
+|upkeep
+|
+|t:|1641876138
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|12
+|
+|t:|1641876147
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Pelipper|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|92/100
+|
+|t:|1641876154
+|switch|p2a: Barraskewda|Barraskewda, F, shiny|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641876167
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Barraskewda|Assurance|p1a: Rillaboom
+|-damage|p1a: Rillaboom|65/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rillaboom|71/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641876181
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Pelipper
+|-damage|p2a: Pelipper|12/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rillaboom|78/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641876190
+|move|p1a: Rillaboom|Grassy Glide|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Rillaboom|84/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641876199
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|16
+|
+|t:|1641876209
+|switch|p1a: Melmetal|Melmetal|40/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|24/100
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1641876220
+|switch|p2a: Regieleki|Regieleki, shiny|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Regieleki
+|-resisted|p2a: Regieleki
+|-damage|p2a: Regieleki|62/100
+|-resisted|p2a: Regieleki
+|-damage|p2a: Regieleki|17/100
+|-hitcount|p2a: Regieleki|2
+|
+|upkeep
+|turn|18
+|
+|t:|1641876232
+|switch|p1a: Landorus|Landorus-Therian, M|75/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Regieleki|atk|1
+|move|p2a: Regieleki|Electro Ball|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|19
+|
+|t:|1641876241
+|switch|p2a: Barraskewda|Barraskewda, F, shiny|100/100
+|move|p1a: Landorus|Knock Off|p2a: Barraskewda
+|-damage|p2a: Barraskewda|31/100
+|-enditem|p2a: Barraskewda|Choice Band|[from] move: Knock Off|[of] p1a: Landorus
+|
+|upkeep
+|turn|20
+|
+|t:|1641876251
+|move|p2a: Barraskewda|Liquidation|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641876260
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|21
+|
+|t:|1641876269
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Dragapult|Shadow Ball|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|21/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641876287
+|move|p2a: Tapu Lele|Moonblast|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641876296
+|switch|p1a: Melmetal|Melmetal|24/100
+|turn|23
+|
+|t:|1641876302
+|move|p2a: Tapu Lele|Moonblast|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641876308
+|switch|p1a: Rillaboom|Rillaboom, M|84/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|24
+|
+|t:|1641876314
+|move|p1a: Rillaboom|Grassy Glide|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-heal|p1a: Rillaboom|90/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641876325
+|switch|p2a: Barraskewda|Barraskewda, F, shiny|31/100
+|turn|25
+|
+|t:|1641876331
+|move|p1a: Rillaboom|Grassy Glide|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-heal|p1a: Rillaboom|96/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641876337
+|switch|p2a: Regieleki|Regieleki, shiny|17/100
+|turn|26
+|c|☆Lynnocent|gg
+|c|☆Ddraig210|gg
+|
+|t:|1641876346
+|move|p1a: Rillaboom|Grassy Glide|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|win|Ddraig210
+|raw|Ddraig210's rating: 1178 &rarr; <strong>1207</strong><br />(+29 for winning)
+|raw|Lynnocent's rating: 1232 &rarr; <strong>1203</strong><br />(-29 for losing)

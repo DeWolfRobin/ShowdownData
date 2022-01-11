@@ -1,0 +1,308 @@
+|j|☆toxicshucklejuice
+|j|☆eeveeleon154
+|t:|1641769018
+|gametype|singles
+|player|p1|toxicshucklejuice|lillie-z|
+|player|p2|eeveeleon154|ethan-pokeathlon|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Zeraora|
+|poke|p1|Kartana|
+|poke|p1|Regieleki|
+|poke|p1|Tapu Lele|
+|poke|p2|Incineroar, M|
+|poke|p2|Krookodile, M|
+|poke|p2|Regieleki|
+|poke|p2|Shuckle, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Barraskewda, M|
+|teampreview
+|
+|t:|1641769026
+|start
+|switch|p1a: landtiger|Landorus-Therian, M|100/100
+|switch|p2a: Shuckle|Shuckle, F|100/100
+|-ability|p1a: landtiger|Intimidate|boost
+|-unboost|p2a: Shuckle|atk|1
+|turn|1
+|
+|t:|1641769036
+|move|p1a: landtiger|Body Slam|p2a: Shuckle
+|-resisted|p2a: Shuckle
+|-damage|p2a: Shuckle|86/100
+|-status|p2a: Shuckle|par
+|move|p2a: Shuckle|Sticky Web|p1a: landtiger
+|-sidestart|p1: toxicshucklejuice|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1641769043
+|move|p1a: landtiger|Body Slam|p2a: Shuckle
+|-resisted|p2a: Shuckle
+|-damage|p2a: Shuckle|70/100 par
+|move|p2a: Shuckle|Stealth Rock|p1a: landtiger
+|-sidestart|p1: toxicshucklejuice|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641769053
+|move|p1a: landtiger|Body Slam|p2a: Shuckle
+|-resisted|p2a: Shuckle
+|-damage|p2a: Shuckle|54/100 par
+|move|p2a: Shuckle|Infestation|p1a: landtiger
+|-resisted|p1a: landtiger
+|-damage|p1a: landtiger|99/100
+|-activate|p1a: landtiger|move: Infestation|[of] p2a: Shuckle
+|
+|-damage|p1a: landtiger|87/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1641769064
+|move|p1a: landtiger|Body Slam|p2a: Shuckle
+|-resisted|p2a: Shuckle
+|-damage|p2a: Shuckle|39/100 par
+|-enditem|p2a: Shuckle|Sitrus Berry|[eat]
+|-heal|p2a: Shuckle|63/100 par|[from] item: Sitrus Berry
+|move|p2a: Shuckle|Toxic|p1a: landtiger|[miss]
+|-miss|p2a: Shuckle|p1a: landtiger
+|
+|-damage|p1a: landtiger|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1641769075
+|move|p1a: landtiger|Body Slam|p2a: Shuckle
+|-resisted|p2a: Shuckle
+|-damage|p2a: Shuckle|48/100 par
+|move|p2a: Shuckle|Toxic|p1a: landtiger
+|-status|p1a: landtiger|tox
+|
+|-damage|p1a: landtiger|69/100 tox|[from] psn
+|-damage|p1a: landtiger|57/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1641769083
+|switch|p2a: Regieleki|Regieleki|100/100
+|move|p1a: landtiger|Body Slam|p2a: Regieleki
+|-damage|p2a: Regieleki|20/100
+|
+|-damage|p1a: landtiger|45/100 tox|[from] psn
+|-end|p1a: landtiger|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|7
+|
+|t:|1641769099
+|switch|p1a: SACRED SWORD|Kartana|100/100
+|-damage|p1a: SACRED SWORD|94/100|[from] Stealth Rock
+|-activate|p1a: SACRED SWORD|move: Sticky Web
+|-unboost|p1a: SACRED SWORD|spe|1
+|move|p2a: Regieleki|Reflect|p2a: Regieleki
+|-sidestart|p2: eeveeleon154|Reflect
+|
+|upkeep
+|turn|8
+|
+|t:|1641769104
+|move|p2a: Regieleki|Light Screen|p2a: Regieleki
+|-sidestart|p2: eeveeleon154|move: Light Screen
+|move|p1a: SACRED SWORD|Swords Dance|p1a: SACRED SWORD
+|-boost|p1a: SACRED SWORD|atk|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641769115
+|move|p2a: Regieleki|Explosion|p1a: SACRED SWORD
+|-resisted|p1a: SACRED SWORD
+|-damage|p1a: SACRED SWORD|63/100
+|faint|p2a: Regieleki
+|move|p1a: SACRED SWORD|Leaf Blade|p2: Regieleki|[notarget]
+|-fail|p1a: SACRED SWORD
+|
+|upkeep
+|
+|t:|1641769123
+|switch|p2a: Krookodile|Krookodile, M|100/100
+|turn|10
+|
+|t:|1641769131
+|switch|p1a: tapu siren|Tapu Fini|100/100
+|-damage|p1a: tapu siren|88/100|[from] Stealth Rock
+|-activate|p1a: tapu siren|move: Sticky Web
+|-unboost|p1a: tapu siren|spe|1
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: tapu siren
+|move|p2a: Krookodile|Hone Claws|p2a: Krookodile
+|-boost|p2a: Krookodile|atk|1
+|-boost|p2a: Krookodile|accuracy|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641769146
+|switch|p1a: landtiger|Landorus-Therian, M|45/100 tox
+|-damage|p1a: landtiger|33/100 tox|[from] Stealth Rock
+|-ability|p1a: landtiger|Intimidate|boost
+|-unboost|p2a: Krookodile|atk|1
+|move|p2a: Krookodile|Hone Claws|p2a: Krookodile
+|-boost|p2a: Krookodile|atk|1
+|-boost|p2a: Krookodile|accuracy|1
+|
+|-damage|p1a: landtiger|27/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641769157
+|move|p1a: landtiger|Brick Break|p2a: Krookodile
+|-sideend|p2: eeveeleon154|Reflect
+|-sideend|p2: eeveeleon154|move: Light Screen
+|-supereffective|p2a: Krookodile
+|-damage|p2a: Krookodile|19/100
+|-enditem|p2a: Krookodile|Weakness Policy
+|-boost|p2a: Krookodile|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Krookodile|spa|2|[from] item: Weakness Policy
+|move|p2a: Krookodile|Hone Claws|p2a: Krookodile
+|-boost|p2a: Krookodile|atk|1
+|-boost|p2a: Krookodile|accuracy|1
+|
+|-damage|p1a: landtiger|15/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641769171
+|switch|p1a: electric delcaty|Zeraora, shiny|100/100
+|move|p2a: Krookodile|Scale Shot|p1a: electric delcaty
+|-damage|p1a: electric delcaty|88/100
+|-crit|p1a: electric delcaty
+|-damage|p1a: electric delcaty|69/100
+|-damage|p1a: electric delcaty|56/100
+|-hitcount|p1a: electric delcaty|3
+|-unboost|p2a: Krookodile|def|1
+|-boost|p2a: Krookodile|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641769186
+|move|p1a: electric delcaty|Bulk Up|p1a: electric delcaty
+|-boost|p1a: electric delcaty|atk|1
+|-boost|p1a: electric delcaty|def|1
+|move|p2a: Krookodile|Scale Shot|p1a: electric delcaty
+|-damage|p1a: electric delcaty|47/100
+|-damage|p1a: electric delcaty|38/100
+|-damage|p1a: electric delcaty|29/100
+|-damage|p1a: electric delcaty|19/100
+|-hitcount|p1a: electric delcaty|4
+|-unboost|p2a: Krookodile|def|1
+|-boost|p2a: Krookodile|spe|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|15
+|
+|t:|1641769207
+|move|p2a: Krookodile|High Horsepower|p1a: electric delcaty
+|-supereffective|p1a: electric delcaty
+|-damage|p1a: electric delcaty|0 fnt
+|faint|p1a: electric delcaty
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1641769214
+|switch|p1a: ash's regieleki|Regieleki|100/100
+|-damage|p1a: ash's regieleki|88/100|[from] Stealth Rock
+|-activate|p1a: ash's regieleki|move: Sticky Web
+|-unboost|p1a: ash's regieleki|spe|1
+|turn|16
+|
+|t:|1641769224
+|move|p2a: Krookodile|High Horsepower|p1a: ash's regieleki
+|-supereffective|p1a: ash's regieleki
+|-damage|p1a: ash's regieleki|0 fnt
+|faint|p1a: ash's regieleki
+|-ability|p2a: Krookodile|Moxie|boost
+|-boost|p2a: Krookodile|atk|1
+|
+|upkeep
+|
+|t:|1641769232
+|switch|p1a: tapu siren|Tapu Fini|88/100
+|-activate|p1a: tapu siren|move: Sticky Web
+|-unboost|p1a: tapu siren|spe|1
+|-damage|p1a: tapu siren|76/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: tapu siren
+|turn|17
+|
+|t:|1641769239
+|move|p2a: Krookodile|Power Trip|p1a: tapu siren
+|-resisted|p1a: tapu siren
+|-damage|p1a: tapu siren|0 fnt
+|faint|p1a: tapu siren
+|
+|upkeep
+|
+|t:|1641769246
+|switch|p1a: SACRED SWORD|Kartana|63/100
+|-damage|p1a: SACRED SWORD|57/100|[from] Stealth Rock
+|-activate|p1a: SACRED SWORD|move: Sticky Web
+|-unboost|p1a: SACRED SWORD|spe|1
+|turn|18
+|
+|t:|1641769260
+|move|p2a: Krookodile|Power Trip|p1a: SACRED SWORD
+|-damage|p1a: SACRED SWORD|0 fnt
+|faint|p1a: SACRED SWORD
+|
+|upkeep
+|
+|t:|1641769267
+|switch|p1a: landtiger|Landorus-Therian, M|15/100 tox
+|-damage|p1a: landtiger|3/100 tox|[from] Stealth Rock
+|-ability|p1a: landtiger|Intimidate|boost
+|-unboost|p2a: Krookodile|atk|1
+|turn|19
+|
+|t:|1641769278
+|switch|p1a: tapu fly|Tapu Lele|100/100
+|-activate|p1a: tapu fly|move: Sticky Web
+|-unboost|p1a: tapu fly|spe|1
+|-damage|p1a: tapu fly|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: tapu fly
+|move|p2a: Krookodile|Hone Claws|p2a: Krookodile
+|-boost|p2a: Krookodile|atk|1
+|-boost|p2a: Krookodile|accuracy|1
+|
+|-heal|p1a: tapu fly|94/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641769288
+|move|p2a: Krookodile|Power Trip|p1a: tapu fly
+|-damage|p1a: tapu fly|0 fnt
+|faint|p1a: tapu fly
+|
+|upkeep
+|
+|t:|1641769294
+|switch|p1a: landtiger|Landorus-Therian, M|3/100 tox
+|-damage|p1a: landtiger|0 fnt|[from] Stealth Rock
+|faint|p1a: landtiger
+|
+|win|eeveeleon154

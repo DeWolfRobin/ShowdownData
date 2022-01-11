@@ -1,0 +1,271 @@
+|j|☆TwoHolyBackhands
+|j|☆Moth.o
+|t:|1641828708
+|gametype|singles
+|player|p1|TwoHolyBackhands|ghetsis-gen5bw|1190
+|player|p2|Moth.o|roxie|1198
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Aegislash, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Blacephalon|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Heatran, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Sylveon, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Scolipede, F|
+|poke|p2|Moltres|
+|poke|p2|Krookodile, F|
+|poke|p2|Lurantis, M|
+|teampreview
+|
+|t:|1641828741
+|start
+|switch|p1a: TheEntireCircus|Blacephalon|100/100
+|switch|p2a: TransLivesMatter|Sylveon, M|100/100
+|turn|1
+|c|☆TwoHolyBackhands|ayyyy
+|c|☆TwoHolyBackhands|trans rights
+|c|☆TwoHolyBackhands|quite pog
+|
+|t:|1641828787
+|move|p1a: TheEntireCircus|Mind Blown|p2a: TransLivesMatter
+|-damage|p2a: TransLivesMatter|0 fnt
+|-damage|p1a: TheEntireCircus|50/100|[from] mindblown
+|faint|p2a: TransLivesMatter
+|-ability|p1a: TheEntireCircus|Beast Boost|boost
+|-boost|p1a: TheEntireCircus|spa|1
+|
+|upkeep
+|
+|t:|1641828794
+|switch|p2a: Aerodynamo|Dragapult, M|100/100
+|turn|2
+|
+|t:|1641828801
+|switch|p1a: How original|Landorus-Therian, M|100/100
+|-ability|p1a: How original|Intimidate|boost
+|-fail|p2a: Aerodynamo|unboost|[from] ability: Clear Body|[of] p2a: Aerodynamo
+|move|p2a: Aerodynamo|Shadow Ball|p1a: How original
+|-damage|p1a: How original|48/100
+|-unboost|p1a: How original|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641828810
+|move|p2a: Aerodynamo|Shadow Ball|p1a: How original
+|-damage|p1a: How original|0 fnt
+|faint|p1a: How original
+|
+|upkeep
+|
+|t:|1641828819
+|switch|p1a: IJustWantHugs:(|Ferrothorn, F|100/100
+|turn|4
+|
+|t:|1641828824
+|switch|p2a: Guillot|Lurantis, M|100/100
+|move|p1a: IJustWantHugs:(|Spikes|p2a: Guillot
+|-sidestart|p2: Moth.o|Spikes
+|
+|upkeep
+|turn|5
+|
+|t:|1641828835
+|switch|p1a: TheEntireCircus|Blacephalon|50/100
+|move|p2a: Guillot|Substitute|p2a: Guillot
+|-start|p2a: Guillot|Substitute
+|-damage|p2a: Guillot|76/100
+|
+|-heal|p2a: Guillot|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆TwoHolyBackhands|i have made a mistake
+|
+|t:|1641828848
+|move|p1a: TheEntireCircus|Flamethrower|p2a: Guillot
+|-supereffective|p2a: Guillot
+|-end|p2a: Guillot|Substitute
+|move|p2a: Guillot|Night Slash|p1a: TheEntireCircus
+|-supereffective|p1a: TheEntireCircus
+|-crit|p1a: TheEntireCircus
+|-damage|p1a: TheEntireCircus|0 fnt
+|faint|p1a: TheEntireCircus
+|
+|-heal|p2a: Guillot|88/100|[from] item: Leftovers
+|upkeep
+|c|☆TwoHolyBackhands|ow
+|
+|t:|1641828868
+|switch|p1a: I love Fire|Heatran, M|100/100
+|turn|7
+|
+|t:|1641828878
+|switch|p2a: Perséfone|Moltres|100/100
+|move|p1a: I love Fire|Magma Storm|p2a: Perséfone
+|-resisted|p2a: Perséfone
+|-damage|p2a: Perséfone|79/100
+|-activate|p2a: Perséfone|move: Magma Storm|[of] p1a: I love Fire
+|
+|-damage|p2a: Perséfone|66/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641828888
+|move|p2a: Perséfone|Scorching Sands|p1a: I love Fire
+|-supereffective|p1a: I love Fire
+|-damage|p1a: I love Fire|51/100
+|move|p1a: I love Fire|Stealth Rock|p2a: Perséfone
+|-sidestart|p2: Moth.o|move: Stealth Rock
+|
+|-heal|p1a: I love Fire|57/100|[from] item: Leftovers
+|-damage|p2a: Perséfone|54/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641828903
+|switch|p1a: Hoo?|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Hoo?
+|move|p2a: Perséfone|Scorching Sands|p1a: Hoo?
+|-resisted|p1a: Hoo?
+|-damage|p1a: Hoo?|87/100
+|-status|p1a: Hoo?|brn
+|
+|-heal|p1a: Hoo?|93/100 brn|[from] Grassy Terrain
+|-damage|p1a: Hoo?|87/100 brn|[from] brn
+|-end|p2a: Perséfone|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641828916
+|switch|p1a: Nerf Or Nothin|Aegislash, F|100/100
+|move|p2a: Perséfone|Roost|p2a: Perséfone
+|-heal|p2a: Perséfone|100/100
+|-singleturn|p2a: Perséfone|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1641828924
+|switch|p2a: Lagartera|Krookodile, F, shiny|100/100
+|-damage|p2a: Lagartera|94/100|[from] Stealth Rock
+|-damage|p2a: Lagartera|82/100|[from] Spikes
+|move|p1a: Nerf Or Nothin|King's Shield||[still]
+|-fail|p1a: Nerf Or Nothin
+|
+|-heal|p2a: Lagartera|88/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641828935
+|move|p1a: Nerf Or Nothin|King's Shield|p1a: Nerf Or Nothin
+|-singleturn|p1a: Nerf Or Nothin|Protect
+|move|p2a: Lagartera|Bulk Up|p2a: Lagartera
+|-boost|p2a: Lagartera|atk|1
+|-boost|p2a: Lagartera|def|1
+|
+|-heal|p2a: Lagartera|94/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641828947
+|move|p2a: Lagartera|Knock Off|p1a: Nerf Or Nothin
+|-supereffective|p1a: Nerf Or Nothin
+|-damage|p1a: Nerf Or Nothin|0 fnt
+|-enditem|p1a: Nerf Or Nothin|Leftovers|[from] move: Knock Off|[of] p2a: Lagartera
+|faint|p1a: Nerf Or Nothin
+|-ability|p2a: Lagartera|Moxie|boost
+|-boost|p2a: Lagartera|atk|1
+|-damage|p2a: Lagartera|84/100|[from] item: Life Orb
+|
+|-heal|p2a: Lagartera|90/100|[from] Grassy Terrain
+|upkeep
+|c|☆TwoHolyBackhands|ow
+|c|☆TwoHolyBackhands|very much o
+|c|☆TwoHolyBackhands|ow
+|
+|t:|1641828965
+|switch|p1a: IJustWantHugs:(|Ferrothorn, F|100/100
+|turn|14
+|
+|t:|1641828969
+|move|p2a: Lagartera|Knock Off|p1a: IJustWantHugs:(
+|-damage|p1a: IJustWantHugs:(|12/100
+|-damage|p2a: Lagartera|78/100|[from] ability: Iron Barbs|[of] p1a: IJustWantHugs:(
+|-enditem|p1a: IJustWantHugs:(|Leftovers|[from] move: Knock Off|[of] p2a: Lagartera
+|-damage|p2a: Lagartera|68/100|[from] item: Life Orb
+|move|p1a: IJustWantHugs:(|Iron Defense|p1a: IJustWantHugs:(
+|-boost|p1a: IJustWantHugs:(|def|2
+|
+|-heal|p2a: Lagartera|74/100|[from] Grassy Terrain
+|-heal|p1a: IJustWantHugs:(|18/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641828984
+|move|p2a: Lagartera|Knock Off|p1a: IJustWantHugs:(
+|-damage|p1a: IJustWantHugs:(|0 fnt
+|-damage|p2a: Lagartera|62/100|[from] ability: Iron Barbs|[of] p1a: IJustWantHugs:(
+|faint|p1a: IJustWantHugs:(
+|-ability|p2a: Lagartera|Moxie|boost
+|-boost|p2a: Lagartera|atk|1
+|-damage|p2a: Lagartera|52/100|[from] item: Life Orb
+|
+|-heal|p2a: Lagartera|58/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641828988
+|switch|p1a: Hoo?|Rillaboom, M|87/100 brn
+|turn|16
+|c|☆TwoHolyBackhands|welp
+|c|☆TwoHolyBackhands|gg
+|
+|t:|1641828998
+|move|p1a: Hoo?|Grassy Glide|p2a: Lagartera
+|-supereffective|p2a: Lagartera
+|-damage|p2a: Lagartera|19/100
+|move|p2a: Lagartera|Knock Off|p1a: Hoo?
+|-crit|p1a: Hoo?
+|-damage|p1a: Hoo?|0 fnt
+|-enditem|p1a: Hoo?|Terrain Extender|[from] move: Knock Off|[of] p2a: Lagartera
+|faint|p1a: Hoo?
+|-ability|p2a: Lagartera|Moxie|boost
+|-boost|p2a: Lagartera|atk|1
+|-damage|p2a: Lagartera|9/100|[from] item: Life Orb
+|
+|-heal|p2a: Lagartera|15/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641829003
+|switch|p1a: I love Fire|Heatran, M|57/100
+|turn|17
+|c|☆Moth.o|You kill trans rights you die 😈
+|
+|t:|1641829030
+|move|p2a: Lagartera|Earthquake|p1a: I love Fire
+|-supereffective|p1a: I love Fire
+|-damage|p1a: I love Fire|0 fnt
+|faint|p1a: I love Fire
+|-damage|p2a: Lagartera|5/100|[from] item: Life Orb
+|
+|win|Moth.o
+|raw|TwoHolyBackhands's rating: 1190 &rarr; <strong>1166</strong><br />(-24 for losing)
+|raw|Moth.o's rating: 1198 &rarr; <strong>1222</strong><br />(+24 for winning)
+|c|☆TwoHolyBackhands|Fair enough
+|c|☆TwoHolyBackhands|Honestly i deserve it
+||Ladder isn't responding, score probably updated but might not have (Request timeout).
+|l|☆TwoHolyBackhands

@@ -1,0 +1,389 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641750257
+|gametype|singles
+|player|p1|Tace㋛|#splxiiibigs|
+|player|p2|mind gaming|hilbert|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Garchomp, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Tapu Fini|
+|poke|p2|Dragapult, F|
+|poke|p2|Kartana|
+|poke|p2|Bisharp, F|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, M|
+|teampreview
+|inactive|Tace㋛ also wants the timer to be on.
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Tace㋛ has 270 seconds left.
+|inactive|mind gaming has 270 seconds left.
+|inactive|Tace㋛ has 240 seconds left.
+|inactive|mind gaming has 240 seconds left.
+|inactive|Tace㋛ has 210 seconds left.
+|inactive|mind gaming has 210 seconds left.
+|
+|t:|1641750350
+|start
+|switch|p1a: BIG SHOT|Zapdos-Galar|100/100
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|turn|1
+|inactive|Tace㋛ has 270 seconds left.
+|inactive|mind gaming has 270 seconds left.
+|inactive|mind gaming has 240 seconds left.
+|inactive|Tace㋛ has 240 seconds left.
+|
+|t:|1641750401
+|move|p1a: BIG SHOT|Brave Bird|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|48/100
+|-damage|p1a: BIG SHOT|86/100|[from] Recoil
+|move|p2a: Bisharp|Beat Up|p1a: BIG SHOT
+|-resisted|p1a: BIG SHOT
+|-damage|p1a: BIG SHOT|79/100
+|-resisted|p1a: BIG SHOT
+|-damage|p1a: BIG SHOT|69/100
+|-resisted|p1a: BIG SHOT
+|-damage|p1a: BIG SHOT|62/100
+|-resisted|p1a: BIG SHOT
+|-damage|p1a: BIG SHOT|53/100
+|-resisted|p1a: BIG SHOT
+|-damage|p1a: BIG SHOT|45/100
+|-resisted|p1a: BIG SHOT
+|-damage|p1a: BIG SHOT|38/100
+|-hitcount|p1a: BIG SHOT|6
+|
+|upkeep
+|turn|2
+|inactive|mind gaming has 240 seconds left.
+|inactive|Tace㋛ has 240 seconds left.
+|
+|t:|1641750425
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: BIG SHOT|Brave Bird|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|73/100
+|-damage|p1a: BIG SHOT|26/100|[from] Recoil
+|
+|upkeep
+|turn|3
+|inactive|Tace㋛ has 240 seconds left.
+|
+|t:|1641750456
+|switch|p1a: Cool Beat|Ferrothorn, F|100/100
+|move|p2a: Melmetal|Superpower|p1a: Cool Beat
+|-supereffective|p1a: Cool Beat
+|-damage|p1a: Cool Beat|8/100
+|-unboost|p2a: Melmetal|atk|1
+|-unboost|p2a: Melmetal|def|1
+|-damage|p2a: Melmetal|61/100|[from] ability: Iron Barbs|[of] p1a: Cool Beat
+|
+|-heal|p1a: Cool Beat|14/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Tace㋛ has 210 seconds left.
+|
+|t:|1641750485
+|switch|p2a: Kartana|Kartana|100/100
+|switch|p1a: Giga Size|Garchomp, M|100/100
+|
+|upkeep
+|turn|5
+|inactive|Tace㋛ has 210 seconds left.
+|inactive|mind gaming has 210 seconds left.
+|
+|t:|1641750502
+|switch|p2a: Weavile|Weavile, M|100/100
+|switch|p1a: Pandora Palace|Tornadus-Therian, M|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641750508
+|switch|p1a: Cool Beat|Ferrothorn, F|14/100
+|move|p2a: Weavile|Beat Up|p1a: Cool Beat
+|-damage|p1a: Cool Beat|5/100
+|-damage|p1a: Cool Beat|0 fnt
+|faint|p1a: Cool Beat
+|-hitcount|p1: Cool Beat|2
+|
+|upkeep
+|inactive|Tace㋛ has 210 seconds left.
+|
+|t:|1641750528
+|switch|p1a: A CYBER'S WORLD?|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: A CYBER'S WORLD?
+|turn|7
+|inactive|Tace㋛ has 210 seconds left.
+|
+|t:|1641750536
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: A CYBER'S WORLD?|atk|1
+|move|p1a: A CYBER'S WORLD?|Dazzling Gleam|p2a: Landorus
+|-damage|p2a: Landorus|76/100
+|-enditem|p2a: Landorus|Eject Button
+|
+|t:|1641750544
+|switch|p2a: Melmetal|Melmetal|61/100
+|
+|upkeep
+|turn|8
+|inactive|Tace㋛ has 210 seconds left.
+|
+|t:|1641750561
+|switch|p1a: BIG SHOT|Zapdos-Galar|26/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: BIG SHOT
+|-damage|p1a: BIG SHOT|0 fnt
+|faint|p1a: BIG SHOT
+|-hitcount|p1: BIG SHOT|1
+|
+|upkeep
+|
+|t:|1641750563
+|switch|p1a: Giga Size|Garchomp, M|100/100
+|turn|9
+|
+|t:|1641750571
+|switch|p2a: Weavile|Weavile, M|100/100
+|move|p1a: Giga Size|Stealth Rock|p2a: Weavile
+|-sidestart|p2: mind gaming|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1641750581
+|switch|p1a: Faint Glow|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Faint Glow
+|move|p2a: Weavile|Beat Up|p1a: Faint Glow
+|-resisted|p1a: Faint Glow
+|-crit|p1a: Faint Glow
+|-damage|p1a: Faint Glow|91/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|85/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|80/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|74/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|68/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|60/100
+|-hitcount|p1a: Faint Glow|6
+|
+|-heal|p1a: Faint Glow|66/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641750592
+|move|p2a: Weavile|Beat Up|p1a: Faint Glow
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|60/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|54/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|48/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|42/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|37/100
+|-resisted|p1a: Faint Glow
+|-damage|p1a: Faint Glow|29/100
+|-hitcount|p1a: Faint Glow|6
+|move|p1a: Faint Glow|Moonblast|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|8/100
+|-unboost|p2a: Weavile|spa|1
+|
+|-heal|p1a: Faint Glow|35/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Tace㋛ has 240 seconds left.
+|inactive|Tace㋛ has 210 seconds left.
+|
+|t:|1641750631
+|switch|p1a: A CYBER'S WORLD?|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: A CYBER'S WORLD?
+|move|p2a: Weavile|Beat Up|p1a: A CYBER'S WORLD?
+|-resisted|p1a: A CYBER'S WORLD?
+|-damage|p1a: A CYBER'S WORLD?|91/100
+|-resisted|p1a: A CYBER'S WORLD?
+|-damage|p1a: A CYBER'S WORLD?|81/100
+|-resisted|p1a: A CYBER'S WORLD?
+|-damage|p1a: A CYBER'S WORLD?|70/100
+|-resisted|p1a: A CYBER'S WORLD?
+|-damage|p1a: A CYBER'S WORLD?|61/100
+|-resisted|p1a: A CYBER'S WORLD?
+|-damage|p1a: A CYBER'S WORLD?|51/100
+|-resisted|p1a: A CYBER'S WORLD?
+|-damage|p1a: A CYBER'S WORLD?|38/100
+|-hitcount|p1a: A CYBER'S WORLD?|6
+|
+|upkeep
+|turn|13
+|inactive|mind gaming has 270 seconds left.
+|
+|t:|1641750636
+|move|p1a: A CYBER'S WORLD?|Dazzling Gleam|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641750639
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641750643
+|switch|p1a: Pandora Palace|Tornadus-Therian, M|100/100
+|move|p2a: Dragapult|Double-Edge|p1a: Pandora Palace
+|-damage|p1a: Pandora Palace|37/100
+|-damage|p2a: Dragapult|64/100|[from] Recoil
+|
+|upkeep
+|turn|15
+|
+|t:|1641750647
+|switch|p1a: Giga Size|Garchomp, M|100/100
+|move|p2a: Dragapult|Double-Edge|p1a: Giga Size
+|-damage|p1a: Giga Size|54/100
+|-damage|p2a: Dragapult|52/100|[from] ability: Rough Skin|[of] p1a: Giga Size
+|-damage|p2a: Dragapult|32/100|[from] Recoil
+|
+|-heal|p1a: Giga Size|60/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|Tace㋛ has 240 seconds left.
+|
+|t:|1641750666
+|switch|p2a: Landorus|Landorus-Therian, M|76/100
+|-damage|p2a: Landorus|64/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Giga Size|atk|1
+|move|p1a: Giga Size|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-heal|p1a: Giga Size|67/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|17
+|
+|t:|1641750679
+|move|p1a: Giga Size|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|move|p2a: Landorus|Stealth Rock|p1a: Giga Size
+|-sidestart|p1: Tace㋛|move: Stealth Rock
+|
+|-heal|p1a: Giga Size|73/100|[from] item: Leftovers
+|-damage|p2a: Landorus|58/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641750683
+|move|p1a: Giga Size|Protect|p1a: Giga Size
+|-singleturn|p1a: Giga Size|Protect
+|move|p2a: Landorus|U-turn|p1a: Giga Size
+|-activate|p1a: Giga Size|move: Protect
+|
+|-heal|p1a: Giga Size|79/100|[from] item: Leftovers
+|-damage|p2a: Landorus|46/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641750700
+|move|p1a: Giga Size|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|move|p2a: Landorus|U-turn|p1a: Giga Size
+|-damage|p1a: Giga Size|62/100
+|-damage|p2a: Landorus|33/100 tox|[from] ability: Rough Skin|[of] p1a: Giga Size
+|
+|t:|1641750703
+|switch|p2a: Dragapult|Dragapult, F|32/100|[from]move: U-turn
+|-damage|p2a: Dragapult|19/100|[from] Stealth Rock
+|
+|-heal|p1a: Giga Size|68/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641750707
+|move|p1a: Giga Size|Protect|p1a: Giga Size
+|-singleturn|p1a: Giga Size|Protect
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|-heal|p1a: Giga Size|74/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|Tace㋛ has 270 seconds left.
+|
+|t:|1641750714
+|move|p2a: Dragapult|Phantom Force|p1a: Giga Size|[from]lockedmove
+|-damage|p1a: Giga Size|23/100
+|-damage|p2a: Dragapult|7/100|[from] ability: Rough Skin|[of] p1a: Giga Size
+|move|p1a: Giga Size|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Giga Size|29/100|[from] item: Leftovers
+|upkeep
+|inactive|mind gaming has 270 seconds left.
+|
+|t:|1641750757
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641750768
+|move|p1a: Giga Size|Protect|p1a: Giga Size
+|-singleturn|p1a: Giga Size|Protect
+|move|p2a: Kartana|Smart Strike|p1a: Giga Size
+|-activate|p1a: Giga Size|move: Protect
+|
+|-heal|p1a: Giga Size|35/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641750778
+|move|p2a: Kartana|Smart Strike|p1a: Giga Size
+|-damage|p1a: Giga Size|0 fnt
+|-damage|p2a: Kartana|82/100|[from] ability: Rough Skin|[of] p1a: Giga Size
+|faint|p1a: Giga Size
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641750781
+|switch|p1a: Pandora Palace|Tornadus-Therian, M|70/100
+|-damage|p1a: Pandora Palace|45/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641750787
+|move|p2a: Kartana|Smart Strike|p1a: Pandora Palace
+|-damage|p1a: Pandora Palace|0 fnt
+|faint|p1a: Pandora Palace
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|c|☆Tace㋛|gg
+|-message|Tace㋛ forfeited.
+|
+|win|mind gaming
+|c|☆mind gaming|gg

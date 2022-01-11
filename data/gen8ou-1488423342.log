@@ -1,0 +1,498 @@
+|j|☆Solosist
+|j|☆AwakSs
+|t:|1641763452
+|gametype|singles
+|player|p1|Solosist|266|1108
+|player|p2|AwakSs|cynthia|1077
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Hippowdon, M|
+|poke|p1|Scizor, M|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Melmetal|
+|poke|p2|Tapu Fini|
+|poke|p2|Garchomp, M|
+|teampreview
+|
+|t:|1641763464
+|start
+|switch|p1a: Scizor|Scizor, M|100/100
+|switch|p2a: SlowbroXD|Ferrothorn, M|100/100
+|turn|1
+|
+|t:|1641763472
+|move|p1a: Scizor|Superpower|p2a: SlowbroXD
+|-supereffective|p2a: SlowbroXD
+|-damage|p2a: SlowbroXD|0 fnt
+|-unboost|p1a: Scizor|atk|1
+|-unboost|p1a: Scizor|def|1
+|-damage|p1a: Scizor|88/100|[from] ability: Iron Barbs|[of] p2a: SlowbroXD
+|faint|p2a: SlowbroXD
+|
+|upkeep
+|
+|t:|1641763488
+|switch|p2a: ImFastestBoi|Dragapult, F, shiny|100/100
+|turn|2
+|
+|t:|1641763495
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: ImFastestBoi|Hex|p1a: Heatran
+|-damage|p1a: Heatran|83/100
+|
+|-heal|p1a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641763505
+|switch|p2a: Démétéros|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Démétéros|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Toxic|p2a: Démétéros
+|-status|p2a: Démétéros|tox
+|
+|-heal|p1a: Heatran|96/100|[from] item: Leftovers
+|-damage|p2a: Démétéros|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641763515
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Démétéros|atk|1
+|move|p2a: Démétéros|Stealth Rock|p1a: Landorus
+|-sidestart|p1: Solosist|move: Stealth Rock
+|
+|-damage|p2a: Démétéros|82/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641763531
+|switch|p2a: Tokopisco|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tokopisco
+|move|p1a: Landorus|Defog|p2a: Tokopisco
+|-unboost|p2a: Tokopisco|evasion|1
+|-sideend|p1: Solosist|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|-fieldend|Misty Terrain
+|
+|upkeep
+|turn|6
+|
+|t:|1641763540
+|move|p1a: Landorus|U-turn|p2a: Tokopisco
+|-resisted|p2a: Tokopisco
+|-damage|p2a: Tokopisco|90/100
+|-damage|p1a: Landorus|91/100|[from] item: Life Orb
+|
+|t:|1641763547
+|switch|p1a: Heatran|Heatran, F|96/100|[from]move: U-turn
+|move|p2a: Tokopisco|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|66/100
+|
+|-heal|p2a: Tokopisco|96/100|[from] item: Leftovers
+|-heal|p1a: Heatran|72/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641763569
+|switch|p2a: LeTypeAcier|Melmetal, shiny|100/100
+|switch|p1a: Scizor|Scizor, M|88/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641763581
+|switch|p1a: Landorus|Landorus-Therian, M|91/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: LeTypeAcier|atk|1
+|switch|p2a: Démétéros|Landorus-Therian, M, shiny|82/100 tox
+|-ability|p2a: Démétéros|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|
+|-damage|p2a: Démétéros|76/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641763603
+|switch|p2a: Tokopisco|Tapu Fini|96/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tokopisco
+|move|p1a: Landorus|Knock Off|p2a: Tokopisco
+|-resisted|p2a: Tokopisco
+|-damage|p2a: Tokopisco|85/100
+|-enditem|p2a: Tokopisco|Leftovers|[from] move: Knock Off|[of] p1a: Landorus
+|-damage|p1a: Landorus|81/100|[from] item: Life Orb
+|
+|upkeep
+|turn|10
+|
+|t:|1641763611
+|move|p1a: Landorus|U-turn|p2a: Tokopisco
+|-resisted|p2a: Tokopisco
+|-damage|p2a: Tokopisco|76/100
+|-damage|p1a: Landorus|71/100|[from] item: Life Orb
+|
+|t:|1641763615
+|switch|p1a: Scizor|Scizor, M|88/100|[from]move: U-turn
+|move|p2a: Tokopisco|Scald|p1a: Scizor
+|-damage|p1a: Scizor|59/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641763632
+|switch|p2a: LeTypeAcier|Melmetal, shiny|100/100
+|move|p1a: Scizor|Bullet Punch|p2a: LeTypeAcier
+|-resisted|p2a: LeTypeAcier
+|-damage|p2a: LeTypeAcier|84/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641763644
+|switch|p1a: Landorus|Landorus-Therian, M|71/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: LeTypeAcier|atk|1
+|switch|p2a: Démétéros|Landorus-Therian, M, shiny|76/100 tox
+|-ability|p2a: Démétéros|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|
+|-damage|p2a: Démétéros|70/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641763658
+|move|p1a: Landorus|Knock Off|p2a: Démétéros
+|-damage|p2a: Démétéros|44/100 tox
+|-damage|p1a: Landorus|55/100|[from] item: Rocky Helmet|[of] p2a: Démétéros
+|-enditem|p2a: Démétéros|Rocky Helmet|[from] move: Knock Off|[of] p1a: Landorus
+|-damage|p1a: Landorus|45/100|[from] item: Life Orb
+|move|p2a: Démétéros|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|32/100
+|
+|t:|1641763668
+|switch|p2a: ImFastestBoi|Dragapult, F, shiny|100/100|[from]move: U-turn
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|14
+|
+|t:|1641763675
+|move|p2a: ImFastestBoi|Hex|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641763678
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|15
+|
+|t:|1641763686
+|move|p2a: ImFastestBoi|Draco Meteor|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-unboost|p2a: ImFastestBoi|spa|2
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641763695
+|switch|p1a: Heatran|Heatran, F|72/100
+|turn|16
+|
+|t:|1641763707
+|switch|p2a: Tokopisco|Tapu Fini|76/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tokopisco
+|move|p1a: Heatran|Toxic|p2a: Tokopisco
+|-activate|p2a: Tokopisco|move: Misty Terrain
+|
+|-heal|p1a: Heatran|78/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641763716
+|switch|p1a: Scizor|Scizor, M|59/100
+|move|p2a: Tokopisco|Scald|p1a: Scizor
+|-damage|p1a: Scizor|29/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641763727
+|switch|p2a: UNINSTALL BRO|Garchomp, M|100/100
+|move|p1a: Scizor|Superpower|p2a: UNINSTALL BRO
+|-damage|p2a: UNINSTALL BRO|46/100
+|-unboost|p1a: Scizor|atk|1
+|-unboost|p1a: Scizor|def|1
+|-damage|p1a: Scizor|17/100|[from] ability: Rough Skin|[of] p2a: UNINSTALL BRO
+|-damage|p1a: Scizor|0 fnt|[from] item: Rocky Helmet|[of] p2a: UNINSTALL BRO
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641763742
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|19
+|
+|t:|1641763750
+|move|p2a: UNINSTALL BRO|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|76/100
+|move|p1a: Hippowdon|Stealth Rock|p2a: UNINSTALL BRO
+|-sidestart|p2: AwakSs|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641763760
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: UNINSTALL BRO|Toxic|p1a: Urshifu
+|-activate|p1a: Urshifu|move: Misty Terrain
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|94/100|[from] Sandstorm
+|-fieldend|Misty Terrain
+|upkeep
+|turn|21
+|
+|t:|1641763772
+|switch|p2a: Tokopisco|Tapu Fini|76/100
+|-damage|p2a: Tokopisco|64/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tokopisco
+|move|p1a: Urshifu|Surging Strikes|p2a: Tokopisco
+|-resisted|p2a: Tokopisco
+|-crit|p2a: Tokopisco
+|-damage|p2a: Tokopisco|55/100
+|-resisted|p2a: Tokopisco
+|-crit|p2a: Tokopisco
+|-damage|p2a: Tokopisco|47/100
+|-resisted|p2a: Tokopisco
+|-crit|p2a: Tokopisco
+|-damage|p2a: Tokopisco|38/100
+|-hitcount|p2a: Tokopisco|3
+|-damage|p1a: Urshifu|84/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|78/100|[from] Sandstorm
+|-damage|p2a: Tokopisco|32/100|[from] Sandstorm
+|upkeep
+|turn|22
+|
+|t:|1641763790
+|move|p1a: Urshifu|Thunder Punch|p2a: Tokopisco
+|-supereffective|p2a: Tokopisco
+|-damage|p2a: Tokopisco|0 fnt
+|faint|p2a: Tokopisco
+|-damage|p1a: Urshifu|68/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|62/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641763801
+|switch|p2a: Démétéros|Landorus-Therian, M, shiny|44/100 tox
+|-damage|p2a: Démétéros|31/100 tox|[from] Stealth Rock
+|-ability|p2a: Démétéros|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|turn|23
+|
+|t:|1641763810
+|switch|p1a: Hippowdon|Hippowdon, M|82/100
+|move|p2a: Démétéros|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|56/100
+|
+|-weather|none
+|-heal|p1a: Hippowdon|62/100|[from] item: Leftovers
+|-damage|p2a: Démétéros|25/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641763819
+|move|p2a: Démétéros|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|51/100
+|
+|t:|1641763829
+|switch|p2a: ImFastestBoi|Dragapult, F, shiny|100/100|[from]move: U-turn
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641763846
+|move|p2a: ImFastestBoi|Draco Meteor|p1a: Hippowdon
+|-damage|p1a: Hippowdon|72/100
+|-unboost|p2a: ImFastestBoi|spa|2
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|26
+|
+|t:|1641763854
+|move|p2a: ImFastestBoi|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|91/100
+|
+|t:|1641763863
+|switch|p2a: Démétéros|Landorus-Therian, M, shiny|25/100 tox|[from]move: U-turn
+|-damage|p2a: Démétéros|13/100 tox|[from] Stealth Rock
+|-ability|p2a: Démétéros|Intimidate|boost
+|-unboost|p1a: Hippowdon|atk|1
+|move|p1a: Hippowdon|Earthquake|p2a: Démétéros
+|-immune|p2a: Démétéros
+|
+|-heal|p1a: Hippowdon|97/100|[from] item: Leftovers
+|-damage|p2a: Démétéros|7/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641763883
+|move|p2a: Démétéros|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|72/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-damage|p2a: Démétéros|0 fnt|[from] psn
+|faint|p2a: Démétéros
+|upkeep
+|
+|t:|1641763897
+|switch|p2a: ImFastestBoi|Dragapult, F, shiny|100/100
+|turn|28
+|
+|t:|1641763911
+|switch|p1a: Heatran|Heatran, F|78/100
+|move|p2a: ImFastestBoi|Hex|p1a: Heatran
+|-damage|p1a: Heatran|61/100
+|
+|-heal|p1a: Heatran|68/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641763923
+|switch|p2a: UNINSTALL BRO|Garchomp, M|46/100
+|-damage|p2a: UNINSTALL BRO|40/100|[from] Stealth Rock
+|move|p1a: Heatran|Toxic|p2a: UNINSTALL BRO
+|-status|p2a: UNINSTALL BRO|tox
+|
+|-heal|p1a: Heatran|74/100|[from] item: Leftovers
+|-damage|p2a: UNINSTALL BRO|34/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641763932
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: UNINSTALL BRO|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|80/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|86/100|[from] item: Leftovers
+|-damage|p2a: UNINSTALL BRO|21/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641763942
+|move|p2a: UNINSTALL BRO|Toxic|p1a: Hippowdon
+|-status|p1a: Hippowdon|tox
+|move|p1a: Hippowdon|Earthquake|p2a: UNINSTALL BRO
+|-damage|p2a: UNINSTALL BRO|0 fnt
+|faint|p2a: UNINSTALL BRO
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|92/100 tox|[from] item: Leftovers
+|-damage|p1a: Hippowdon|86/100 tox|[from] psn
+|upkeep
+|
+|t:|1641763954
+|switch|p2a: ImFastestBoi|Dragapult, F, shiny|100/100
+|turn|32
+|
+|t:|1641763964
+|move|p2a: ImFastestBoi|Hex|p1a: Hippowdon
+|-damage|p1a: Hippowdon|28/100 tox
+|move|p1a: Hippowdon|Toxic|p2a: ImFastestBoi
+|-status|p2a: ImFastestBoi|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ImFastestBoi|95/100 tox|[from] Sandstorm
+|-heal|p1a: Hippowdon|35/100 tox|[from] item: Leftovers
+|-damage|p2a: ImFastestBoi|89/100 tox|[from] psn
+|-damage|p1a: Hippowdon|22/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641763973
+|switch|p1a: Heatran|Heatran, F|74/100
+|move|p2a: ImFastestBoi|Hex|p1a: Heatran
+|-damage|p1a: Heatran|56/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: ImFastestBoi|83/100 tox|[from] Sandstorm
+|-heal|p1a: Heatran|63/100|[from] item: Leftovers
+|-damage|p2a: ImFastestBoi|71/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641763991
+|move|p2a: ImFastestBoi|Will-O-Wisp|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|move|p1a: Heatran|Lava Plume|p2a: ImFastestBoi
+|-resisted|p2a: ImFastestBoi
+|-damage|p2a: ImFastestBoi|33/100 tox
+|
+|-weather|none
+|-heal|p1a: Heatran|69/100|[from] item: Leftovers
+|-damage|p2a: ImFastestBoi|15/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641764004
+|move|p2a: ImFastestBoi|Hex|p1a: Heatran
+|-damage|p1a: Heatran|50/100
+|move|p1a: Heatran|Lava Plume|p2a: ImFastestBoi
+|-resisted|p2a: ImFastestBoi
+|-damage|p2a: ImFastestBoi|0 fnt
+|faint|p2a: ImFastestBoi
+|
+|-heal|p1a: Heatran|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641764012
+|switch|p2a: LeTypeAcier|Melmetal, shiny|84/100
+|-damage|p2a: LeTypeAcier|78/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1641764017
+|move|p1a: Heatran|Lava Plume|p2a: LeTypeAcier
+|-supereffective|p2a: LeTypeAcier
+|-damage|p2a: LeTypeAcier|0 fnt
+|faint|p2a: LeTypeAcier
+|
+|win|Solosist
+|raw|Solosist's rating: 1108 &rarr; <strong>1131</strong><br />(+23 for winning)
+|raw|AwakSs's rating: 1077 &rarr; <strong>1057</strong><br />(-20 for losing)
+|l|☆AwakSs
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

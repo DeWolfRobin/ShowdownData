@@ -1,0 +1,423 @@
+|j|☆ThereturnofGrayson
+|j|☆Wewo5841
+|t:|1641776747
+|gametype|singles
+|player|p1|ThereturnofGrayson|cynthia|1229
+|player|p2|Wewo5841|evelyn|1203
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Victini|
+|poke|p1|Tapu Fini|
+|poke|p2|Bronzong|
+|poke|p2|Moltres-Galar|
+|poke|p2|Tsareena, F|
+|poke|p2|Barbaracle, M|
+|poke|p2|Scrafty, F|
+|poke|p2|Escavalier, F|
+|teampreview
+|
+|t:|1641776760
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Scrafty|Scrafty, F|100/100
+|turn|1
+|
+|t:|1641776765
+|move|p2a: Scrafty|Super Fang|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|50/100
+|-damage|p2a: Scrafty|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Scrafty|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Scrafty
+|-sidestart|p2: Wewo5841|move: Stealth Rock
+|
+|-heal|p2a: Scrafty|78/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641776775
+|move|p2a: Scrafty|Bulk Up|p2a: Scrafty
+|-boost|p2a: Scrafty|atk|1
+|-boost|p2a: Scrafty|def|1
+|move|p1a: Ferrothorn|Toxic|p2a: Scrafty
+|-status|p2a: Scrafty|tox
+|
+|-heal|p2a: Scrafty|84/100 tox|[from] item: Leftovers
+|-damage|p2a: Scrafty|78/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641776782
+|move|p2a: Scrafty|Brick Break|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|4/100
+|-damage|p2a: Scrafty|65/100 tox|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Scrafty|49/100 tox|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Scrafty|[miss]
+|-miss|p1a: Ferrothorn|p2a: Scrafty
+|
+|-activate|p2a: Scrafty|ability: Shed Skin
+|-curestatus|p2a: Scrafty|tox|[msg]
+|-heal|p2a: Scrafty|55/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641776793
+|move|p2a: Scrafty|Brick Break|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Scrafty|43/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Scrafty|26/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Scrafty|32/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641776810
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|5
+|
+|t:|1641776825
+|switch|p2a: Bronzong|Bronzong|100/100
+|-damage|p2a: Bronzong|94/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Bronzong
+|-resisted|p2a: Bronzong
+|-damage|p2a: Bronzong|86/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641776832
+|switch|p1a: Victini|Victini|100/100
+|move|p2a: Bronzong|Stealth Rock|p1a: Victini
+|-sidestart|p1: ThereturnofGrayson|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1641776847
+|move|p1a: Victini|Bolt Strike|p2a: Bronzong
+|-damage|p2a: Bronzong|54/100
+|move|p2a: Bronzong|Reflect|p2a: Bronzong
+|-sidestart|p2: Wewo5841|Reflect
+|
+|upkeep
+|turn|8
+|
+|t:|1641776853
+|move|p1a: Victini|V-create|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-enditem|p2a: Bronzong|Occa Berry|[eat]
+|-enditem|p2a: Bronzong|Occa Berry|[weaken]
+|-damage|p2a: Bronzong|19/100
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|move|p2a: Bronzong|Zen Headbutt|p1a: Victini
+|-resisted|p1a: Victini
+|-damage|p1a: Victini|72/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641776863
+|switch|p2a: Barbaracle|Barbaracle, M|100/100
+|-damage|p2a: Barbaracle|88/100|[from] Stealth Rock
+|move|p1a: Victini|V-create|p2a: Barbaracle
+|-resisted|p2a: Barbaracle
+|-damage|p2a: Barbaracle|78/100
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|10
+|
+|t:|1641776873
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Barbaracle|Night Slash|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-crit|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|69/100
+|
+|-heal|p1a: Tapu Fini|75/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641776884
+|switch|p2a: Tsareena|Tsareena, F|100/100
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Tsareena
+|-damage|p2a: Tsareena|87/100
+|-heal|p1a: Tapu Fini|83/100|[from] drain|[of] p2a: Tsareena
+|
+|-heal|p1a: Tapu Fini|89/100|[from] item: Leftovers
+|-sideend|p2: Wewo5841|Reflect
+|upkeep
+|turn|12
+|
+|t:|1641776892
+|switch|p1a: Victini|Victini|72/100
+|move|p2a: Tsareena|Rapid Spin|p1a: Victini
+|-damage|p1a: Victini|56/100
+|-boost|p2a: Tsareena|spe|1
+|-sideend|p2: Wewo5841|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Tsareena
+|
+|upkeep
+|turn|13
+|
+|t:|1641776908
+|switch|p2a: Bronzong|Bronzong|19/100
+|move|p1a: Victini|V-create|p2a: Bronzong
+|-supereffective|p2a: Bronzong
+|-damage|p2a: Bronzong|0 fnt
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|faint|p2a: Bronzong
+|
+|upkeep
+|
+|t:|1641776929
+|switch|p2a: Barbaracle|Barbaracle, M|78/100
+|turn|14
+|
+|t:|1641776935
+|switch|p1a: Tapu Fini|Tapu Fini|89/100
+|-damage|p1a: Tapu Fini|77/100|[from] Stealth Rock
+|move|p2a: Barbaracle|Night Slash|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|69/100
+|
+|-heal|p1a: Tapu Fini|75/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|15
+|
+|t:|1641776944
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Barbaracle
+|-damage|p2a: Barbaracle|57/100
+|-heal|p1a: Tapu Fini|88/100|[from] drain|[of] p2a: Barbaracle
+|move|p2a: Barbaracle|Stone Edge|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|53/100
+|
+|-heal|p1a: Tapu Fini|59/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641776959
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|65/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641776965
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|59/100
+|-heal|p1a: Tapu Fini|94/100|[from] drain|[of] p2a: Moltres
+|-enditem|p2a: Moltres|Weakness Policy
+|-boost|p2a: Moltres|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Moltres|spa|2|[from] item: Weakness Policy
+|
+|-heal|p1a: Tapu Fini|99/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641776976
+|move|p2a: Moltres|Air Slash|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|62/100
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|18/100
+|-heal|p1a: Tapu Fini|91/100|[from] drain|[of] p2a: Moltres
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|
+|-heal|p1a: Tapu Fini|97/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641776986
+|switch|p2a: Escavalier|Escavalier, F|100/100
+|move|p1a: Tapu Fini|Draining Kiss|p2a: Escavalier
+|-resisted|p2a: Escavalier
+|-damage|p2a: Escavalier|88/100
+|-heal|p1a: Tapu Fini|100/100|[from] drain|[of] p2a: Escavalier
+|
+|-heal|p2a: Escavalier|94/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641776993
+|switch|p1a: Victini|Victini|56/100
+|move|p2a: Escavalier|Drill Run|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|-heal|p2a: Escavalier|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641777002
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641777007
+|switch|p2a: Tsareena|Tsareena, F|87/100
+|move|p1a: Garchomp|Brick Break|p2a: Tsareena
+|-damage|p2a: Tsareena|35/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641777020
+|move|p1a: Garchomp|Brick Break|p2a: Tsareena
+|-damage|p2a: Tsareena|0 fnt
+|faint|p2a: Tsareena
+|
+|upkeep
+|
+|t:|1641777027
+|switch|p2a: Scrafty|Scrafty, F|32/100
+|turn|23
+|
+|t:|1641777030
+|move|p1a: Garchomp|Brick Break|p2a: Scrafty
+|-supereffective|p2a: Scrafty
+|-damage|p2a: Scrafty|0 fnt
+|faint|p2a: Scrafty
+|
+|upkeep
+|
+|t:|1641777032
+|switch|p2a: Escavalier|Escavalier, F|99/100
+|turn|24
+|
+|t:|1641777035
+|move|p1a: Garchomp|Brick Break|p2a: Escavalier
+|-damage|p2a: Escavalier|61/100
+|move|p2a: Escavalier|X-Scissor|p1a: Garchomp
+|-damage|p1a: Garchomp|43/100
+|-damage|p2a: Escavalier|49/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-heal|p2a: Escavalier|55/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641777043
+|move|p1a: Garchomp|Brick Break|p2a: Escavalier
+|-damage|p2a: Escavalier|17/100
+|move|p2a: Escavalier|X-Scissor|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Escavalier|5/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Escavalier|11/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641777052
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-enditem|p1a: Rillaboom|Grassy Seed
+|-boost|p1a: Rillaboom|def|1|[from] item: Grassy Seed
+|turn|26
+|
+|t:|1641777058
+|move|p1a: Rillaboom|Drain Punch|p2a: Escavalier
+|-damage|p2a: Escavalier|0 fnt
+|-heal|p1a: Rillaboom|93/100|[from] drain|[of] p2a: Escavalier
+|faint|p2a: Escavalier
+|
+|-heal|p1a: Rillaboom|99/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641777067
+|switch|p2a: Moltres|Moltres-Galar|18/100
+|turn|27
+|
+|t:|1641777072
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Moltres|Air Slash|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|82/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Moltres|11/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|88/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1641777085
+|move|p2a: Moltres|Fiery Wrath|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|81/100
+|move|p1a: Tyranitar|Thunder Punch|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|87/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641777090
+|switch|p2a: Barbaracle|Barbaracle, M|57/100
+|turn|29
+|
+|t:|1641777095
+|move|p2a: Barbaracle|X-Scissor|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|47/100
+|move|p1a: Tyranitar|Thunder Punch|p2a: Barbaracle
+|-supereffective|p2a: Barbaracle
+|-damage|p2a: Barbaracle|4/100
+|-status|p2a: Barbaracle|par
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|53/100|[from] Grassy Terrain
+|-heal|p2a: Barbaracle|10/100 par|[from] Grassy Terrain
+|upkeep
+|turn|30
+|c|☆ThereturnofGrayson|clowned on
+|
+|t:|1641777106
+|move|p1a: Tyranitar|Earthquake|p2a: Barbaracle
+|-supereffective|p2a: Barbaracle
+|-damage|p2a: Barbaracle|0 fnt
+|faint|p2a: Barbaracle
+|
+|win|ThereturnofGrayson
+|raw|ThereturnofGrayson's rating: 1229 &rarr; <strong>1252</strong><br />(+23 for winning)
+|raw|Wewo5841's rating: 1203 &rarr; <strong>1180</strong><br />(-23 for losing)
+|c|☆Wewo5841|rip
+|c|☆Wewo5841|lmao gg
+|c|☆ThereturnofGrayson|gg
+|l|☆Wewo5841

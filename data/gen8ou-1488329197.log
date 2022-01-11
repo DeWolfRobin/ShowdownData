@@ -1,0 +1,316 @@
+|j|☆Brow jack
+|j|☆Wetnapkin27
+|t:|1641751842
+|gametype|singles
+|player|p1|Brow jack|tuber|1314
+|player|p2|Wetnapkin27|102|1232
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Bisharp, F|
+|poke|p1|Zeraora|
+|poke|p1|Torkoal, F|
+|poke|p1|Hydreigon, M|
+|poke|p1|Hippowdon, F|
+|poke|p1|Gastrodon, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Mew|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Zeraora|
+|poke|p2|Tapu Lele|
+|poke|p2|Blacephalon|
+|teampreview
+|
+|t:|1641751871
+|start
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|switch|p2a: Mew|Mew|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Brow jack)
+|
+|t:|1641751889
+|move|p2a: Mew|Stealth Rock|p1a: Hippowdon
+|-sidestart|p1: Brow jack|move: Stealth Rock
+|move|p1a: Hippowdon|Stealth Rock|p2a: Mew
+|-sidestart|p2: Wetnapkin27|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mew|94/100|[from] Sandstorm
+|-heal|p2a: Mew|100/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641751900
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Mew|Explosion|p1a: Torkoal
+|-damage|p1a: Torkoal|57/100
+|faint|p2a: Mew
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641751917
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|-damage|p2a: Blacephalon|75/100|[from] Stealth Rock
+|turn|3
+|inactive|Brow jack has 120 seconds left.
+|
+|t:|1641751975
+|move|p2a: Blacephalon|Flame Charge|p1a: Torkoal
+|-resisted|p1a: Torkoal
+|-damage|p1a: Torkoal|46/100
+|-boost|p2a: Blacephalon|spe|1
+|-damage|p2a: Blacephalon|66/100|[from] item: Life Orb
+|move|p1a: Torkoal|Toxic|p2a: Blacephalon
+|-status|p2a: Blacephalon|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Blacephalon|60/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641751988
+|move|p2a: Blacephalon|Shadow Ball|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|-damage|p2a: Blacephalon|50/100 tox|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Blacephalon|38/100 tox|[from] psn
+|upkeep
+|inactive|Brow jack has 90 seconds left.
+|
+|t:|1641752008
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|5
+|inactive|Brow jack has 90 seconds left.
+|
+|t:|1641752015
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|move|p2a: Blacephalon|Flamethrower|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|27/100
+|-damage|p2a: Blacephalon|28/100 tox|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blacephalon|22/100 tox|[from] Sandstorm
+|-damage|p1a: Hydreigon|20/100|[from] Sandstorm
+|-heal|p1a: Hydreigon|27/100|[from] item: Leftovers
+|-damage|p2a: Blacephalon|4/100 tox|[from] psn
+|upkeep
+|turn|6
+|inactive|Brow jack has 90 seconds left.
+|
+|t:|1641752039
+|move|p2a: Blacephalon|Flamethrower|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|-damage|p2a: Blacephalon|0 fnt|[from] item: Life Orb
+|faint|p2a: Blacephalon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641752051
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|switch|p1a: Gastrodon|Gastrodon, F|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|-damage|p1a: Gastrodon|94/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641752069
+|move|p2a: Rillaboom|Knock Off|p1a: Gastrodon
+|-damage|p1a: Gastrodon|37/100
+|-enditem|p1a: Gastrodon|Choice Specs|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Gastrodon|Ice Beam|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|11/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rillaboom|5/100|[from] Sandstorm
+|-heal|p2a: Rillaboom|11/100|[from] Grassy Terrain
+|-heal|p1a: Gastrodon|43/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641752086
+|move|p2a: Rillaboom|Knock Off|p1a: Gastrodon
+|-damage|p1a: Gastrodon|6/100
+|move|p1a: Gastrodon|Weather Ball|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Gastrodon|12/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641752092
+|switch|p2a: Zeraora|Zeraora|100/100
+|-damage|p2a: Zeraora|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641752101
+|move|p2a: Zeraora|Drain Punch|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|-heal|p2a: Zeraora|96/100|[from] drain|[of] p1a: Gastrodon
+|faint|p1a: Gastrodon
+|
+|-weather|none
+|-heal|p2a: Zeraora|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641752113
+|switch|p1a: Hippowdon|Hippowdon, F|94/100
+|-damage|p1a: Hippowdon|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|10
+|
+|t:|1641752135
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p2a: Tornadus|76/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Yawn|p2a: Tornadus
+|-start|p2a: Tornadus|move: Yawn|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|70/100|[from] Sandstorm
+|-heal|p2a: Tornadus|76/100|[from] item: Leftovers
+|-heal|p1a: Hippowdon|94/100|[from] Grassy Terrain
+|-heal|p1a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641752148
+|switch|p1a: Zeraora|Zeraora|100/100
+|-damage|p1a: Zeraora|88/100|[from] Stealth Rock
+|move|p2a: Tornadus|U-turn|p1a: Zeraora
+|-damage|p1a: Zeraora|69/100
+|
+|t:|1641752163
+|switch|p2a: Zeraora|Zeraora|100/100|[from]move: U-turn
+|-damage|p2a: Zeraora|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zeraora|82/100|[from] Sandstorm
+|-damage|p1a: Zeraora|64/100|[from] Sandstorm
+|-heal|p2a: Zeraora|88/100|[from] Grassy Terrain
+|-heal|p1a: Zeraora|69/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|inactive|Brow jack has 90 seconds left.
+|
+|t:|1641752179
+|move|p1a: Zeraora|Knock Off|p2a: Zeraora
+|-damage|p2a: Zeraora|32/100
+|-enditem|p2a: Zeraora|Choice Band|[from] move: Knock Off|[of] p1a: Zeraora
+|-damage|p1a: Zeraora|60/100|[from] item: Life Orb
+|move|p2a: Zeraora|Outrage|p1a: Zeraora
+|-damage|p1a: Zeraora|10/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zeraora|26/100|[from] Sandstorm
+|-damage|p1a: Zeraora|4/100|[from] Sandstorm
+|upkeep
+|turn|13
+|inactive|Brow jack has 90 seconds left.
+|
+|t:|1641752199
+|move|p2a: Zeraora|Outrage|p1a: Zeraora|[from]lockedmove
+|-damage|p1a: Zeraora|0 fnt
+|faint|p1a: Zeraora
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zeraora|20/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641752214
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641752230
+|move|p2a: Zeraora|Outrage|p1a: Hippowdon|[from]lockedmove
+|-damage|p1a: Hippowdon|74/100
+|-start|p2a: Zeraora|confusion|[fatigue]
+|move|p1a: Hippowdon|Yawn|p2a: Zeraora
+|-start|p2a: Zeraora|move: Yawn|[of] p1a: Hippowdon
+|
+|-weather|none
+|-heal|p1a: Hippowdon|80/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641752248
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-damage|p2a: Tornadus|76/100|[from] Stealth Rock
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|-damage|p1a: Bisharp|94/100|[from] Stealth Rock
+|
+|-heal|p2a: Tornadus|82/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641752264
+|move|p2a: Tornadus|U-turn|p1a: Bisharp
+|-damage|p1a: Bisharp|78/100
+|
+|t:|1641752270
+|switch|p2a: Zeraora|Zeraora|20/100|[from]move: U-turn
+|-damage|p2a: Zeraora|7/100|[from] Stealth Rock
+|move|p1a: Bisharp|Rock Polish|p1a: Bisharp
+|-boost|p1a: Bisharp|spe|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641752279
+|move|p1a: Bisharp|Knock Off|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|upkeep
+|
+|t:|1641752281
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|18
+|
+|t:|1641752289
+|move|p1a: Bisharp|Knock Off|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|13/100
+|-enditem|p2a: Tapu Lele|Leftovers|[from] move: Knock Off|[of] p1a: Bisharp
+|move|p2a: Tapu Lele|Focus Blast|p1a: Bisharp|[miss]
+|-miss|p2a: Tapu Lele|p1a: Bisharp
+|
+|upkeep
+|turn|19
+|inactive|Brow jack has 90 seconds left.
+|c|☆Wetnapkin27|gg
+|-message|Wetnapkin27 forfeited.
+|
+|win|Brow jack
+|raw|Brow jack's rating: 1314 &rarr; <strong>1329</strong><br />(+15 for winning)
+|raw|Wetnapkin27's rating: 1232 &rarr; <strong>1213</strong><br />(-19 for losing)
+|l|☆Wetnapkin27

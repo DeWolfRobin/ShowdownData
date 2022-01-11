@@ -1,0 +1,380 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc ryekie
+|j|☆SL21CC sadfrog
+|t:|1641824221
+|gametype|singles
+|player|p1|sl21cc ryekie|pokemonrangerf-gen4|1294
+|player|p2|SL21CC sadfrog|170|1229
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Melmetal|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Dragapult, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Weavile, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Victini|
+|poke|p2|Tapu Fini|
+|teampreview
+|
+|t:|1641824268
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Fini|atk|1
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|j| adreamew
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC sadfrog)
+|
+|t:|1641824297
+|move|p1a: Landorus|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|60/100
+|move|p2a: Tapu Fini|Surf|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|56/100
+|
+|-heal|p1a: Landorus|62/100|[from] item: Leftovers
+|-heal|p2a: Tapu Fini|66/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641824305
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|96/100
+|-damage|p1a: Landorus|46/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|inactive|sl21cc ryekie has 120 seconds left.
+|
+|t:|1641824340
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641824353
+|move|p2a: Landorus|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: sl21cc ryekie|move: Stealth Rock
+|move|p1a: Ferrothorn|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|82/100
+|-damage|p1a: Ferrothorn|84/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|-enditem|p2a: Landorus|Rocky Helmet|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|90/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|sl21cc ryekie has 120 seconds left.
+|
+|t:|1641824382
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: SL21CC sadfrog|move: Stealth Rock
+|
+|-heal|p1a: Ferrothorn|97/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641824386
+|move|p1a: Ferrothorn|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|88/100
+|-damage|p1a: Ferrothorn|84/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|move|p2a: Ferrothorn|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|73/100
+|-damage|p2a: Ferrothorn|75/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641824390
+|move|p1a: Ferrothorn|Body Press|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|34/100
+|-damage|p1a: Ferrothorn|60/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Spikes|p1a: Ferrothorn
+|-sidestart|p1: sl21cc ryekie|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641824396
+|switch|p2a: Victini|Victini|100/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Victini
+|-start|p2a: Victini|move: Leech Seed
+|
+|-damage|p2a: Victini|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|72/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641824402
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|-damage|p1a: Dragapult|76/100|[from] Spikes
+|move|p2a: Victini|V-create|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|26/100
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|
+|-damage|p2a: Victini|76/100|[from] Leech Seed|[of] p1a: Dragapult
+|-heal|p1a: Dragapult|39/100|[silent]
+|upkeep
+|turn|9
+|inactive|SL21CC sadfrog has 120 seconds left.
+|
+|t:|1641824436
+|switch|p2a: Ferrothorn|Ferrothorn, F|34/100
+|-damage|p2a: Ferrothorn|27/100|[from] Stealth Rock
+|move|p1a: Dragapult|Shadow Ball|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641824440
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|10
+|
+|t:|1641824449
+|switch|p1a: Ferrothorn|Ferrothorn, M|72/100
+|-damage|p1a: Ferrothorn|66/100|[from] Stealth Rock
+|-damage|p1a: Ferrothorn|53/100|[from] Spikes
+|move|p2a: Weavile|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|34/100
+|-damage|p2a: Weavile|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|upkeep
+|turn|11
+|
+|t:|1641824459
+|switch|p2a: Victini|Victini|76/100
+|move|p1a: Ferrothorn|Body Press|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|58/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641824469
+|move|p2a: Victini|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|23/100
+|-damage|p2a: Victini|46/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641824471
+|switch|p2a: Landorus|Landorus-Therian, M|82/100|[from]move: U-turn
+|-damage|p2a: Landorus|70/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ferrothorn|atk|1
+|move|p1a: Ferrothorn|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|63/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641824488
+|switch|p1a: Landorus|Landorus-Therian, M|46/100
+|-damage|p1a: Landorus|33/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p1a: Landorus|39/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641824516
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p2: SL21CC sadfrog|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|-sideend|p1: sl21cc ryekie|Spikes|[from] move: Defog|[of] p1a: Landorus
+|-sideend|p1: sl21cc ryekie|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|45/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|39/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641824521
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: sl21cc ryekie|move: Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|55/100
+|
+|t:|1641824523
+|switch|p1a: Ferrothorn|Ferrothorn, M|23/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|16/100|[from] Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1641824527
+|switch|p1a: Landorus|Landorus-Therian, M|39/100 tox
+|-damage|p1a: Landorus|27/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-heal|p1a: Landorus|33/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|27/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641824537
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-fail|p1a: Landorus|tox
+|move|p1a: Landorus|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p1: sl21cc ryekie|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|33/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|21/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641824539
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: sl21cc ryekie|move: Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|48/100
+|
+|t:|1641824541
+|switch|p1a: Melmetal|Melmetal|100/100|[from]move: U-turn
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|
+|-heal|p1a: Melmetal|100/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641824548
+|move|p2a: Landorus|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|79/100
+|move|p1a: Melmetal|Substitute|p1a: Melmetal
+|-start|p1a: Melmetal|Substitute
+|-damage|p1a: Melmetal|54/100
+|
+|-heal|p1a: Melmetal|60/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641824553
+|move|p2a: Landorus|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-activate|p1a: Melmetal|move: Substitute|[damage]
+|move|p1a: Melmetal|Acid Armor|p1a: Melmetal
+|-boost|p1a: Melmetal|def|2
+|
+|-heal|p1a: Melmetal|66/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641824555
+|move|p2a: Landorus|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-end|p1a: Melmetal|Substitute
+|move|p1a: Melmetal|Acid Armor|p1a: Melmetal
+|-boost|p1a: Melmetal|def|2
+|
+|-heal|p1a: Melmetal|72/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641824558
+|switch|p2a: Victini|Victini|46/100
+|move|p1a: Melmetal|Substitute|p1a: Melmetal
+|-start|p1a: Melmetal|Substitute
+|-damage|p1a: Melmetal|47/100
+|
+|-heal|p1a: Melmetal|53/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641824564
+|move|p2a: Victini|Blue Flare|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-end|p1a: Melmetal|Substitute
+|move|p1a: Melmetal|Body Press|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|-heal|p1a: Melmetal|59/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641824576
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|24
+|
+|t:|1641824587
+|move|p2a: Tapu Lele|Focus Blast|p1a: Melmetal|[miss]
+|-miss|p2a: Tapu Lele|p1a: Melmetal
+|move|p1a: Melmetal|Double Iron Bash|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|-hitcount|p2: Tapu Lele|1
+|
+|-heal|p1a: Melmetal|65/100|[from] item: Leftovers
+|upkeep
+|c|☆SL21CC sadfrog|nb
+|
+|t:|1641824595
+|switch|p2a: Tapu Fini|Tapu Fini|66/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|25
+|c|☆sl21cc ryekie|中了也赢不了啊
+|
+|t:|1641824625
+|move|p2a: Tapu Fini|Surf|p1a: Melmetal
+|-damage|p1a: Melmetal|38/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|38/100
+|-damage|p2a: Tapu Fini|11/100
+|-hitcount|p2a: Tapu Fini|2
+|
+|-heal|p2a: Tapu Fini|17/100|[from] item: Leftovers
+|-heal|p1a: Melmetal|44/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|c|☆SL21CC sadfrog|我说这个改的nb
+|c|☆SL21CC sadfrog|替身铁壁的
+|inactive|SL21CC sadfrog has 120 seconds left.
+|c|☆sl21cc ryekie|1
+|-message|SL21CC sadfrog forfeited.
+|
+|win|sl21cc ryekie
+|raw|sl21cc ryekie's rating: 1310 &rarr; <strong>1323</strong><br />(+13 for winning)
+|raw|SL21CC sadfrog's rating: 1229 &rarr; <strong>1217</strong><br />(-12 for losing)
+|l|☆SL21CC sadfrog
+|l|☆sl21cc ryekie

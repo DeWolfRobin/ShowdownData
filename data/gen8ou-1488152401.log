@@ -1,0 +1,264 @@
+|j|☆carlsheriffhat
+|j|☆ItsLuca57
+|t:|1641722955
+|gametype|singles
+|player|p1|carlsheriffhat|hilbert|1126
+|player|p2|ItsLuca57|169|1069
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zeraora|
+|poke|p1|Hawlucha, F|
+|poke|p1|Inteleon, M|
+|poke|p1|Conkeldurr, M|
+|poke|p1|Bisharp, M|
+|poke|p1|Kartana|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Sandslash-Alola, F|
+|poke|p2|Rotom-Frost|
+|poke|p2|Swampert, M|
+|poke|p2|Chandelure, F|
+|poke|p2|Shiftry, F|
+|teampreview
+|j| PerryL'Ornitorinco
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by carlsheriffhat)
+|
+|t:|1641722976
+|start
+|switch|p1a: Last Boss|Kartana|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723009
+|switch|p2a: Chandelure|Chandelure, F|100/100
+|move|p1a: Last Boss|Smart Strike|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|66/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Last Boss|94/100|[from] Hail
+|-damage|p2a: Chandelure|60/100|[from] Hail
+|upkeep
+|turn|2
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723019
+|switch|p1a: Chishiya|Inteleon, M|100/100
+|move|p2a: Chandelure|Flamethrower|p1a: Chishiya
+|-resisted|p1a: Chishiya
+|-damage|p1a: Chishiya|48/100
+|-damage|p2a: Chandelure|50/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Chishiya|42/100|[from] Hail
+|-damage|p2a: Chandelure|44/100|[from] Hail
+|upkeep
+|turn|3
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723032
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|move|p1a: Chishiya|Snipe Shot|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Chishiya|36/100|[from] Hail
+|upkeep
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723047
+|switch|p2a: Rotom|Rotom-Frost|100/100
+|turn|4
+|
+|t:|1641723055
+|switch|p1a: Arisu|Zeraora|100/100
+|-item|p1a: Arisu|Air Balloon
+|move|p2a: Rotom|Nasty Plot|p2a: Rotom
+|-boost|p2a: Rotom|spa|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Arisu|95/100|[from] Hail
+|upkeep
+|turn|5
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723068
+|move|p1a: Arisu|Close Combat|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|-unboost|p1a: Arisu|def|1
+|-unboost|p1a: Arisu|spd|1
+|faint|p2a: Rotom
+|
+|-weather|none
+|upkeep
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723085
+|switch|p2a: Swampert|Swampert, M|100/100
+|turn|6
+|
+|t:|1641723096
+|switch|p1a: Last Boss|Kartana|94/100
+|move|p2a: Swampert|Hammer Arm|p1a: Last Boss
+|-supereffective|p1a: Last Boss
+|-damage|p1a: Last Boss|27/100
+|-unboost|p2a: Swampert|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641723105
+|switch|p2a: Chandelure|Chandelure, F|44/100
+|move|p1a: Last Boss|Leaf Blade|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-damage|p2a: Chandelure|4/100
+|
+|upkeep
+|turn|8
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723114
+|move|p1a: Last Boss|Leaf Blade|p2a: Chandelure
+|-resisted|p2a: Chandelure
+|-crit|p2a: Chandelure
+|-damage|p2a: Chandelure|0 fnt
+|faint|p2a: Chandelure
+|-ability|p1a: Last Boss|Beast Boost|boost
+|-boost|p1a: Last Boss|atk|1
+|
+|upkeep
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723143
+|switch|p2a: Shiftry|Shiftry, F|100/100
+|turn|9
+|
+|t:|1641723154
+|switch|p1a: Aguni|Conkeldurr, M|100/100
+|move|p2a: Shiftry|Fake Out|p1a: Aguni
+|-damage|p1a: Aguni|91/100
+|
+|-status|p1a: Aguni|brn|[from] item: Flame Orb
+|upkeep
+|turn|10
+|
+|t:|1641723161
+|switch|p2a: Swampert|Swampert, M|100/100
+|move|p1a: Aguni|Fire Punch|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|81/100
+|-status|p2a: Swampert|brn
+|
+|-heal|p2a: Swampert|87/100 brn|[from] item: Leftovers
+|-damage|p2a: Swampert|81/100 brn|[from] brn
+|-damage|p1a: Aguni|85/100 brn|[from] brn
+|upkeep
+|turn|11
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723172
+|switch|p1a: Last Boss|Kartana|27/100
+|move|p2a: Swampert|Toxic|p1a: Last Boss
+|-immune|p1a: Last Boss
+|
+|-heal|p2a: Swampert|87/100 brn|[from] item: Leftovers
+|-damage|p2a: Swampert|81/100 brn|[from] brn
+|upkeep
+|turn|12
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723180
+|switch|p2a: Shiftry|Shiftry, F|100/100
+|move|p1a: Last Boss|Leaf Blade|p2a: Shiftry
+|-resisted|p2a: Shiftry
+|-damage|p2a: Shiftry|51/100
+|-enditem|p1a: Last Boss|Choice Scarf|[silent]|[from] ability: Pickpocket|[of] p1a: Last Boss
+|-item|p2a: Shiftry|Choice Scarf|[from] ability: Pickpocket|[of] p1a: Last Boss
+|
+|upkeep
+|turn|13
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723197
+|switch|p1a: Usagi|Hawlucha, F|100/100
+|move|p2a: Shiftry|Fake Out|p1a: Usagi
+|-damage|p1a: Usagi|84/100
+|
+|upkeep
+|turn|14
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723206
+|switch|p2a: Swampert|Swampert, M|81/100 brn
+|move|p1a: Usagi|Hone Claws|p1a: Usagi
+|-boost|p1a: Usagi|atk|1
+|-boost|p1a: Usagi|accuracy|1
+|
+|-heal|p2a: Swampert|87/100 brn|[from] item: Leftovers
+|-damage|p2a: Swampert|81/100 brn|[from] brn
+|upkeep
+|turn|15
+|inactive|ItsLuca57 has 120 seconds left.
+|
+|t:|1641723218
+|move|p1a: Usagi|Sky Attack||[still]
+|-prepare|p1a: Usagi|Sky Attack
+|-enditem|p1a: Usagi|Power Herb
+|-anim|p1a: Usagi|Sky Attack|p2a: Swampert
+|-damage|p2a: Swampert|4/100 brn
+|cant|p2a: Swampert|flinch
+|
+|-heal|p2a: Swampert|10/100 brn|[from] item: Leftovers
+|-damage|p2a: Swampert|4/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641723226
+|move|p1a: Usagi|High Jump Kick|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|upkeep
+|
+|t:|1641723233
+|switch|p2a: Shiftry|Shiftry, F|51/100
+|turn|17
+|
+|t:|1641723241
+|move|p1a: Usagi|High Jump Kick|p2a: Shiftry
+|-supereffective|p2a: Shiftry
+|-damage|p2a: Shiftry|0 fnt
+|faint|p2a: Shiftry
+|
+|upkeep
+|
+|t:|1641723247
+|switch|p2a: Sandslash|Sandslash-Alola, F|100/100
+|turn|18
+|
+|t:|1641723252
+|move|p1a: Usagi|High Jump Kick|p2a: Sandslash
+|-supereffective|p2a: Sandslash
+|-damage|p2a: Sandslash|0 fnt
+|faint|p2a: Sandslash
+|
+|win|carlsheriffhat
+|raw|carlsheriffhat's rating: 1126 &rarr; <strong>1147</strong><br />(+21 for winning)
+|raw|ItsLuca57's rating: 1069 &rarr; <strong>1052</strong><br />(-17 for losing)
+|l|☆ItsLuca57
+|l| PerryL'Ornitorinco

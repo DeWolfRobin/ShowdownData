@@ -1,0 +1,315 @@
+|j|☆Solosist
+|j|☆Bronco77
+|t:|1641867957
+|gametype|singles
+|player|p1|Solosist|102|1241
+|player|p2|Bronco77|2|1210
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Hippowdon, M|
+|poke|p1|Scizor, M|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Mew|
+|poke|p2|Toxapex, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Heatran, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos-Galar|
+|teampreview
+|
+|t:|1641867963
+|start
+|switch|p1a: Scizor|Scizor, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Scizor|atk|1
+|turn|1
+|
+|t:|1641867971
+|move|p2a: Landorus|Stealth Rock|p1a: Scizor
+|-sidestart|p1: Solosist|move: Stealth Rock
+|move|p1a: Scizor|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|81/100
+|
+|t:|1641867976
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|
+|-heal|p2a: Landorus|87/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641867984
+|move|p1a: Landorus|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p1: Solosist|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-heal|p2a: Landorus|93/100|[from] item: Leftovers
+|-damage|p1a: Landorus|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641867994
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Landorus|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|73/100
+|-damage|p1a: Landorus|66/100 tox|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-enditem|p2a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p1a: Landorus
+|-damage|p1a: Landorus|56/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Landorus|44/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641868006
+|move|p1a: Landorus|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|62/100
+|-damage|p1a: Landorus|34/100 tox|[from] item: Life Orb
+|
+|t:|1641868012
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|move|p2a: Toxapex|Knock Off|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|94/100
+|-enditem|p1a: Urshifu|Life Orb|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|5
+|
+|t:|1641868023
+|move|p1a: Urshifu|Thunder Punch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|28/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Urshifu
+|-sidestart|p1: Solosist|move: Toxic Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1641868032
+|switch|p2a: Landorus|Landorus-Therian, M|93/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|move|p1a: Urshifu|Close Combat|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|74/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|-heal|p2a: Landorus|80/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641868067
+|move|p1a: Urshifu|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|15/100
+|move|p2a: Landorus|Toxic|p1a: Urshifu
+|-status|p1a: Urshifu|tox
+|
+|-heal|p2a: Landorus|21/100|[from] item: Leftovers
+|-damage|p1a: Urshifu|88/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641868081
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|66/100
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|35/100
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-hitcount|p2: Heatran|3
+|
+|-damage|p1a: Urshifu|76/100 tox|[from] psn
+|upkeep
+|
+|t:|1641868095
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|9
+|
+|t:|1641868101
+|switch|p1a: Landorus|Landorus-Therian, M|34/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Urshifu|atk|1
+|move|p2a: Urshifu|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|22/100 tox
+|-damage|p2a: Urshifu|91/100|[from] item: Life Orb
+|
+|t:|1641868110
+|switch|p2a: Toxapex|Toxapex, F|62/100|[from]move: U-turn
+|
+|-damage|p1a: Landorus|16/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641868118
+|move|p1a: Landorus|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-damage|p1a: Landorus|7/100 tox|[from] item: Life Orb
+|
+|-damage|p1a: Landorus|0 fnt|[from] psn
+|faint|p1a: Landorus
+|upkeep
+|
+|t:|1641868132
+|switch|p1a: Heatran|Heatran, F|100/100
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|11
+|
+|t:|1641868138
+|move|p2a: Zapdos|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: Zapdos|def|1
+|-unboost|p2a: Zapdos|spd|1
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641868142
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-status|p1a: Dragapult|psn
+|turn|12
+|
+|t:|1641868151
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|91/100
+|move|p1a: Dragapult|Draco Meteor|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Urshifu
+|-damage|p1a: Dragapult|91/100 psn|[from] item: Life Orb
+|
+|-damage|p1a: Dragapult|78/100 psn|[from] psn
+|upkeep
+|
+|t:|1641868163
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|13
+|
+|t:|1641868166
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-status|p1a: Hippowdon|psn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Zapdos|Brave Bird|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|26/100 psn
+|-damage|p2a: Zapdos|68/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|62/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|32/100 psn|[from] item: Leftovers
+|-damage|p1a: Hippowdon|20/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641868180
+|move|p2a: Zapdos|Brave Bird|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|-damage|p2a: Zapdos|54/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|48/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641868198
+|switch|p1a: Dragapult|Dragapult, M|78/100 psn
+|turn|15
+|
+|t:|1641868202
+|move|p1a: Dragapult|Dragon Darts|p2a: Zapdos
+|-damage|p2a: Zapdos|18/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Dragapult|69/100 psn|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|63/100 psn|[from] Sandstorm
+|-damage|p1a: Dragapult|50/100 psn|[from] psn
+|upkeep
+|
+|t:|1641868216
+|switch|p2a: Mew|Mew|100/100
+|turn|16
+|
+|t:|1641868223
+|move|p1a: Dragapult|Shadow Ball|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|26/100
+|-damage|p1a: Dragapult|41/100 psn|[from] item: Life Orb
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|35/100 psn|[from] Sandstorm
+|-damage|p2a: Mew|20/100|[from] Sandstorm
+|-heal|p2a: Mew|26/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|22/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641868236
+|switch|p2a: Landorus|Landorus-Therian, M|21/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-fail|p1a: Dragapult|unboost|[from] ability: Clear Body|[of] p1a: Dragapult
+|move|p1a: Dragapult|Shadow Ball|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Dragapult|12/100 psn|[from] item: Life Orb
+|
+|-weather|none
+|-damage|p1a: Dragapult|0 fnt|[from] psn
+|faint|p1a: Dragapult
+|upkeep
+|
+|t:|1641868249
+|switch|p1a: Scizor|Scizor, M|100/100
+|switch|p2a: Mew|Mew|26/100
+|turn|18
+|
+|t:|1641868255
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|76/100
+|-singleturn|p2a: Mew|move: Roost
+|move|p1a: Scizor|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|win|Solosist
+|raw|Solosist's rating: 1241 &rarr; <strong>1264</strong><br />(+23 for winning)
+|raw|Bronco77's rating: 1210 &rarr; <strong>1187</strong><br />(-23 for losing)
+|c|☆Solosist|gg
+|l|☆Bronco77

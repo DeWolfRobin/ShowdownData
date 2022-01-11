@@ -1,0 +1,326 @@
+|j|☆cowboy cracker boy
+|j|‽testingbot42o
+|t:|1641857922
+|gametype|singles
+|player|p1|cowboy cracker boy|doctor|1170
+|player|p2|testingbot42o|102|1229
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Swampert, F|
+|poke|p1|Jirachi|
+|poke|p1|Snorlax, M|
+|poke|p1|Latios, M|
+|poke|p1|Lucario, F|
+|poke|p1|Volcarona, F|
+|poke|p2|Clefable, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Hippowdon, F|
+|poke|p2|Excadrill, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by testingbot42o)
+|
+|t:|1641857932
+|start
+|switch|p1a: Snorlax|Snorlax, M, shiny|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1641857939
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Snorlax|Body Slam|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|-status|p2a: Corviknight|par
+|
+|-heal|p2a: Corviknight|88/100 par|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641857946
+|move|p2a: Corviknight|Brave Bird|p1a: Snorlax
+|-damage|p1a: Snorlax|63/100
+|-damage|p2a: Corviknight|72/100 par|[from] Recoil
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p2a: Corviknight|79/100 par|[from] item: Leftovers
+|-heal|p1a: Snorlax|69/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641857958
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|54/100 par
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p2a: Corviknight|60/100 par|[from] item: Leftovers
+|-heal|p1a: Snorlax|75/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641857965
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p2a: Corviknight|66/100 par|[from] item: Leftovers
+|-heal|p1a: Snorlax|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641857973
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Snorlax|Crunch|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|-heal|p2a: Corviknight|72/100 par|[from] item: Leftovers
+|-heal|p1a: Snorlax|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641857981
+|move|p2a: Corviknight|Brave Bird|p1a: Snorlax
+|-damage|p1a: Snorlax|60/100
+|-damage|p2a: Corviknight|60/100 par|[from] Recoil
+|move|p1a: Snorlax|Crunch|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-heal|p1a: Snorlax|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641857982
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|7
+|
+|t:|1641857991
+|move|p2a: Hippowdon|Stealth Rock|p1a: Snorlax
+|-sidestart|p1: cowboy cracker boy|move: Stealth Rock
+|move|p1a: Snorlax|Body Slam|p2a: Hippowdon
+|-damage|p2a: Hippowdon|47/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Snorlax|60/100|[from] Sandstorm
+|-heal|p1a: Snorlax|66/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641857998
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|97/100
+|move|p1a: Snorlax|Body Slam|p2a: Hippowdon
+|-damage|p2a: Hippowdon|41/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Snorlax|60/100|[from] Sandstorm
+|-heal|p1a: Snorlax|66/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641858007
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|91/100
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Snorlax|60/100|[from] Sandstorm
+|-heal|p1a: Snorlax|66/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641858012
+|move|p2a: Hippowdon|Earthquake|p1a: Snorlax
+|-damage|p1a: Snorlax|54/100
+|move|p1a: Snorlax|Body Slam|p2a: Hippowdon
+|-damage|p2a: Hippowdon|24/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Snorlax|48/100|[from] Sandstorm
+|-heal|p1a: Snorlax|54/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641858018
+|move|p2a: Hippowdon|Earthquake|p1a: Snorlax
+|-damage|p1a: Snorlax|41/100
+|move|p1a: Snorlax|Body Slam|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Snorlax|35/100|[from] Sandstorm
+|-heal|p1a: Snorlax|41/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641858019
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|12
+|
+|t:|1641858024
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|76/100
+|move|p1a: Snorlax|Body Slam|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|69/100|[from] Sandstorm
+|-damage|p1a: Snorlax|35/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|76/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|41/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641858029
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|51/100
+|move|p1a: Snorlax|Body Slam|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|44/100|[from] Sandstorm
+|-damage|p1a: Snorlax|35/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|51/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|41/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641858034
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|26/100
+|move|p1a: Snorlax|Body Slam|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|
+|-weather|none
+|-heal|p2a: Hydreigon|32/100|[from] item: Leftovers
+|-heal|p1a: Snorlax|47/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641858041
+|move|p2a: Hydreigon|Dark Pulse|p1a: Snorlax
+|-damage|p1a: Snorlax|23/100
+|move|p1a: Snorlax|Body Slam|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|-heal|p1a: Snorlax|29/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641858041
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|16
+|
+|t:|1641858053
+|move|p2a: Rotom|Will-O-Wisp|p1a: Snorlax
+|-status|p1a: Snorlax|brn
+|move|p1a: Snorlax|Body Slam|p2a: Rotom
+|-damage|p2a: Rotom|21/100
+|
+|-heal|p1a: Snorlax|35/100 brn|[from] item: Leftovers
+|-damage|p1a: Snorlax|29/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641858059
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|100/100 slp|[silent]
+|
+|upkeep
+|turn|18
+|
+|t:|1641858067
+|switch|p2a: Rotom|Rotom-Wash|21/100
+|cant|p1a: Snorlax|slp
+|
+|upkeep
+|turn|19
+|
+|t:|1641858073
+|move|p2a: Rotom|Hydro Pump|p1a: Snorlax
+|-damage|p1a: Snorlax|72/100 slp
+|cant|p1a: Snorlax|slp
+|
+|-heal|p1a: Snorlax|78/100 slp|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641858082
+|move|p2a: Rotom|Hydro Pump|p1a: Snorlax|[miss]
+|-miss|p2a: Rotom|p1a: Snorlax
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Body Slam|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-heal|p1a: Snorlax|84/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641858082
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|turn|21
+|
+|t:|1641858088
+|move|p2a: Excadrill|Iron Head|p1a: Snorlax
+|-damage|p1a: Snorlax|67/100
+|-damage|p2a: Excadrill|91/100|[from] item: Life Orb
+|move|p1a: Snorlax|Crunch|p2a: Excadrill
+|-crit|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-heal|p1a: Snorlax|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641858089
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|22
+|
+|t:|1641858101
+|move|p2a: Clefable|Moonblast|p1a: Snorlax
+|-damage|p1a: Snorlax|38/100
+|move|p1a: Snorlax|Body Slam|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|win|cowboy cracker boy
+|raw|cowboy cracker boy's rating: 1170 &rarr; <strong>1199</strong><br />(+29 for winning)
+|raw|testingbot42o's rating: 1229 &rarr; <strong>1200</strong><br />(-29 for losing)
+|l|‽testingbot42o
+|c|☆cowboy cracker boy|ggs
+|c|☆cowboy cracker boy|close one

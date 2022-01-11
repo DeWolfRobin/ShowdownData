@@ -1,0 +1,168 @@
+|j|☆veryluckybro
+|j|☆8jaggery
+|t:|1641842379
+|gametype|singles
+|player|p1|veryluckybro|ingo|1110
+|player|p2|8jaggery|2|1158
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Barraskewda, F|
+|poke|p1|Mew|
+|poke|p1|Regieleki|
+|poke|p1|Melmetal|
+|poke|p1|Marowak-Alola, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Hawlucha, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Clefable, M|
+|poke|p2|Blastoise, F|
+|teampreview
+|
+|t:|1641842386
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1641842401
+|move|p1a: Mew|Stealth Rock|p2a: Rillaboom
+|-sidestart|p2: 8jaggery|move: Stealth Rock
+|move|p2a: Rillaboom|Taunt|p1a: Mew
+|-start|p1a: Mew|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1641842409
+|move|p1a: Mew|Psychic|p2a: Rillaboom
+|-damage|p2a: Rillaboom|61/100
+|move|p2a: Rillaboom|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|41/100
+|-enditem|p1a: Mew|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|
+|-heal|p1a: Mew|47/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|68/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1641842418
+|move|p2a: Rillaboom|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|6/100
+|move|p1a: Mew|Counter|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: Mew|12/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641842427
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-damage|p2a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|4
+|
+|t:|1641842437
+|move|p2a: Hawlucha|Throat Chop|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641842441
+|switch|p1a: Regieleki|Regieleki|100/100
+|turn|5
+|
+|t:|1641842455
+|switch|p2a: Heatran|Heatran, F|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Regieleki|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|11/100
+|-enditem|p2a: Heatran|Air Balloon
+|
+|-heal|p2a: Heatran|17/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641842468
+|move|p1a: Regieleki|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641842473
+|switch|p2a: Hawlucha|Hawlucha, M|88/100
+|-damage|p2a: Hawlucha|76/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641842481
+|move|p1a: Regieleki|Thunderbolt|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1641842488
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641842495
+|move|p1a: Regieleki|Thunderbolt|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641842501
+|switch|p2a: Clefable|Clefable, M|100/100
+|-damage|p2a: Clefable|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641842505
+|move|p1a: Regieleki|Thunderbolt|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641842510
+|switch|p2a: Blastoise|Blastoise, F|100/100
+|-damage|p2a: Blastoise|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641842516
+|move|p1a: Regieleki|Thunderbolt|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|win|veryluckybro
+|raw|veryluckybro's rating: 1110 &rarr; <strong>1138</strong><br />(+28 for winning)
+|raw|8jaggery's rating: 1158 &rarr; <strong>1130</strong><br />(-28 for losing)
+|c|☆8jaggery|crazy
+|l|☆veryluckybro

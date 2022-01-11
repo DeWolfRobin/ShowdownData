@@ -1,0 +1,362 @@
+|j|☆Phlatipus9
+|j|☆Perropsicopata17
+|t:|1641839071
+|gametype|singles
+|player|p1|Phlatipus9|pokemaniac|1137
+|player|p2|Perropsicopata17|1|1185
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Barraskewda, F|
+|poke|p1|Zapdos|
+|poke|p1|Kartana|
+|poke|p1|Politoed, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Lucario, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Clefable, F|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1641839103
+|start
+|switch|p1a: Kawaïïïï|Politoed, M, shiny|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kawaïïïï
+|turn|1
+|
+|t:|1641839117
+|move|p2a: Tornadus|Knock Off|p1a: Kawaïïïï
+|-damage|p1a: Kawaïïïï|73/100
+|-enditem|p1a: Kawaïïïï|Damp Rock|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Kawaïïïï|Ice Beam|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|29/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641839126
+|move|p2a: Tornadus|U-turn|p1a: Kawaïïïï
+|-damage|p1a: Kawaïïïï|49/100
+|
+|t:|1641839135
+|switch|p2a: Clefable|Clefable, F|100/100|[from]move: U-turn
+|move|p1a: Kawaïïïï|Scald|p2a: Clefable
+|-damage|p2a: Clefable|53/100
+|-status|p2a: Clefable|brn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641839147
+|move|p1a: Kawaïïïï|Scald|p2a: Clefable
+|-damage|p2a: Clefable|3/100 brn
+|move|p2a: Clefable|Thunder|p1a: Kawaïïïï
+|-supereffective|p1a: Kawaïïïï
+|-damage|p1a: Kawaïïïï|0 fnt
+|faint|p1a: Kawaïïïï
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641839156
+|switch|p1a: Artémis|Barraskewda, F, shiny|100/100
+|turn|4
+|
+|t:|1641839162
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Artémis|Liquidation|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|79/100
+|-damage|p1a: Artémis|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|85/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641839176
+|switch|p1a: Fenrir|Lucario, M|100/100
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Fenrir
+|-status|p1a: Fenrir|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|92/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641839188
+|move|p1a: Fenrir|Drain Punch|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|24/100
+|-damage|p1a: Fenrir|88/100 par|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Fenrir
+|-start|p1a: Fenrir|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|30/100|[from] item: Leftovers
+|-damage|p1a: Fenrir|76/100 par|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|40/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1641839201
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Fenrir|Drain Punch|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|76/100
+|-heal|p1a: Fenrir|93/100 par|[from] drain|[of] p2a: Slowbro
+|-damage|p1a: Fenrir|76/100 par|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Fenrir|64/100 par|[from] Leech Seed|[of] p2a: Slowbro
+|-heal|p2a: Slowbro|85/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641839222
+|switch|p1a: Konan|Kartana, shiny|100/100
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641839228
+|switch|p2a: Heatran|Heatran, M|100/100|[from]move: Teleport
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641839238
+|switch|p1a: Artémis|Barraskewda, F, shiny|88/100
+|move|p2a: Heatran|Magma Storm|p1a: Artémis
+|-resisted|p1a: Artémis
+|-damage|p1a: Artémis|43/100
+|-activate|p1a: Artémis|move: Magma Storm|[of] p2a: Heatran
+|
+|-damage|p1a: Artémis|30/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1641839252
+|switch|p2a: Ferrothorn|Ferrothorn, M|40/100
+|move|p1a: Artémis|Drill Run|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|24/100
+|-damage|p1a: Artémis|18/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|30/100|[from] item: Leftovers
+|-end|p1a: Artémis|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|11
+|
+|t:|1641839263
+|move|p1a: Artémis|Liquidation|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|16/100
+|-damage|p1a: Artémis|5/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Artémis
+|-start|p1a: Artémis|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|22/100|[from] item: Leftovers
+|-damage|p1a: Artémis|0 fnt|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|26/100|[silent]
+|faint|p1a: Artémis
+|upkeep
+|
+|t:|1641839277
+|switch|p1a: Deep Blue|Garchomp, M|100/100
+|turn|12
+|
+|t:|1641839284
+|move|p1a: Deep Blue|Dragon Claw|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|10/100
+|-damage|p1a: Deep Blue|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Deep Blue|78/100|[from] item: Life Orb
+|move|p2a: Ferrothorn|Leech Seed|p1a: Deep Blue|[miss]
+|-miss|p2a: Ferrothorn|p1a: Deep Blue
+|
+|-heal|p2a: Ferrothorn|16/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641839301
+|move|p1a: Deep Blue|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|-damage|p1a: Deep Blue|69/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641839308
+|switch|p2a: Clefable|Clefable, F|3/100 brn
+|turn|14
+|
+|t:|1641839314
+|move|p1a: Deep Blue|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-damage|p1a: Deep Blue|59/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641839320
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Deep Blue|atk|1
+|turn|15
+|
+|t:|1641839334
+|move|p2a: Landorus|U-turn|p1a: Deep Blue
+|-damage|p1a: Deep Blue|33/100
+|-damage|p2a: Landorus|88/100|[from] ability: Rough Skin|[of] p1a: Deep Blue
+|
+|t:|1641839341
+|switch|p2a: Tornadus|Tornadus-Therian, M|62/100|[from]move: U-turn
+|move|p1a: Deep Blue|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: Perropsicopata17|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1641839356
+|move|p2a: Tornadus|Defog|p1a: Deep Blue
+|-unboost|p1a: Deep Blue|evasion|1
+|-sideend|p2: Perropsicopata17|Stealth Rock|[from] move: Defog|[of] p2a: Tornadus
+|move|p1a: Deep Blue|Stone Edge|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-damage|p1a: Deep Blue|24/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641839368
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|turn|17
+|
+|t:|1641839380
+|move|p1a: Deep Blue|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|69/100
+|-damage|p1a: Deep Blue|14/100|[from] item: Life Orb
+|move|p2a: Slowbro|Scald|p1a: Deep Blue
+|-damage|p1a: Deep Blue|0 fnt
+|faint|p1a: Deep Blue
+|
+|upkeep
+|
+|t:|1641839408
+|switch|p1a: Konan|Kartana, shiny|100/100
+|turn|18
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Perropsicopata17)
+|
+|t:|1641839435
+|move|p1a: Konan|Leaf Blade|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|4/100
+|-damage|p1a: Konan|84/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|move|p2a: Slowbro|Fire Blast|p1a: Konan
+|-supereffective|p1a: Konan
+|-damage|p1a: Konan|0 fnt
+|faint|p1a: Konan
+|
+|upkeep
+|
+|t:|1641839461
+|switch|p1a: Fenrir|Lucario, M|64/100 par
+|turn|19
+|c|☆Phlatipus9|d
+|inactive|Phlatipus9 has 120 seconds left.
+|
+|t:|1641839483
+|switch|p2a: Landorus|Landorus-Therian, M|88/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-fail|p1a: Fenrir|unboost|Attack|[from] ability: Inner Focus|[of] p1a: Fenrir
+|move|p1a: Fenrir|Bullet Punch|p2a: Landorus
+|-damage|p2a: Landorus|54/100
+|
+|-heal|p2a: Landorus|60/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|Phlatipus9 has 120 seconds left.
+|
+|t:|1641839493
+|cant|p1a: Fenrir|par
+|move|p2a: Landorus|Earthquake|p1a: Fenrir
+|-supereffective|p1a: Fenrir
+|-damage|p1a: Fenrir|0 fnt
+|faint|p1a: Fenrir
+|
+|-heal|p2a: Landorus|66/100|[from] item: Leftovers
+|upkeep
+|inactive|Phlatipus9 has 120 seconds left.
+|
+|t:|1641839508
+|switch|p1a: KFC chez Zeus|Zapdos|100/100
+|turn|21
+|inactive|Phlatipus9 has 120 seconds left.
+|
+|t:|1641839515
+|move|p1a: KFC chez Zeus|Hurricane|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641839532
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|22
+|inactive|Phlatipus9 has 120 seconds left.
+|inactive|Phlatipus9 has 90 seconds left.
+|inactive|Phlatipus9 has 60 seconds left.
+|inactive|Phlatipus9 has 30 seconds left.
+|inactive|Phlatipus9 has 20 seconds left.
+|inactive|Phlatipus9 has 15 seconds left.
+|
+|t:|1641839653
+|move|p1a: KFC chez Zeus|Hurricane|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|85/100
+|move|p2a: Heatran|Magma Storm|p1a: KFC chez Zeus
+|-damage|p1a: KFC chez Zeus|54/100
+|-activate|p1a: KFC chez Zeus|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: KFC chez Zeus|60/100|[from] item: Leftovers
+|-heal|p2a: Heatran|91/100|[from] item: Leftovers
+|-damage|p1a: KFC chez Zeus|48/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|23
+|inactive|Phlatipus9 has 25 seconds left this turn.
+|inactive|Phlatipus9 has 20 seconds left.
+|inactive|Phlatipus9 has 15 seconds left.
+|inactive|Phlatipus9 has 10 seconds left.
+|inactive|Phlatipus9 has 5 seconds left.
+|
+|t:|1641839677
+|move|p1a: KFC chez Zeus|Thunder|p2a: Heatran|[miss]
+|-miss|p1a: KFC chez Zeus|p2a: Heatran
+|move|p2a: Heatran|Magma Storm|p1a: KFC chez Zeus
+|-damage|p1a: KFC chez Zeus|0 fnt
+|faint|p1a: KFC chez Zeus
+|
+|win|Perropsicopata17
+|inactive|Phlatipus9 has 10 seconds left this turn.
+|raw|Phlatipus9's rating: 1137 &rarr; <strong>1115</strong><br />(-22 for losing)
+|raw|Perropsicopata17's rating: 1185 &rarr; <strong>1207</strong><br />(+22 for winning)
+|l|☆Phlatipus9
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

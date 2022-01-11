@@ -1,0 +1,124 @@
+|j|☆P0KESHOW
+|j|☆siddharthjoshi123
+|t:|1641743721
+|gametype|singles
+|player|p1|P0KESHOW|battlegirl-gen4|1027
+|player|p2|siddharthjoshi123|265|1040
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Aggron, F|
+|poke|p1|Victini|
+|poke|p1|Mew|
+|poke|p1|Druddigon, F|
+|poke|p1|Shuckle, M|
+|poke|p1|Mamoswine, F|
+|poke|p2|Clefable, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Togedemaru, L1, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by P0KESHOW)
+|
+|t:|1641743744
+|start
+|switch|p1a: Aggron|Aggron, F|100/100
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1641743753
+|switch|p2a: Togedemaru|Togedemaru, L1, M|100/100
+|move|p1a: Aggron|Body Press|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-ability|p2a: Togedemaru|Sturdy
+|-damage|p2a: Togedemaru|9/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Togedemaru|17/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641743780
+|move|p2a: Togedemaru|Spiky Shield|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|move: Protect
+|move|p1a: Aggron|Stealth Rock|p2a: Togedemaru
+|-sidestart|p2: siddharthjoshi123|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Togedemaru|25/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641743789
+|move|p2a: Togedemaru|Protect|p2a: Togedemaru
+|-singleturn|p2a: Togedemaru|Protect
+|move|p1a: Aggron|Body Press|p2a: Togedemaru
+|-activate|p2a: Togedemaru|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Togedemaru|34/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641743808
+|move|p2a: Togedemaru|Spiky Shield||[still]
+|-fail|p2a: Togedemaru
+|move|p1a: Aggron|Body Press|p2a: Togedemaru
+|-supereffective|p2a: Togedemaru
+|-damage|p2a: Togedemaru|0 fnt
+|faint|p2a: Togedemaru
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|inactive|siddharthjoshi123 has 120 seconds left.
+|
+|t:|1641743819
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641743825
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|move|p1a: Aggron|Ice Punch|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Aggron|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Aggron|72/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-weather|none
+|upkeep
+|inactive|siddharthjoshi123 has 120 seconds left.
+|
+|t:|1641743838
+|switch|p2a: Clefable|Clefable, M|100/100
+|-damage|p2a: Clefable|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641743843
+|move|p2a: Clefable|Focus Blast|p1a: Aggron
+|-supereffective|p1a: Aggron
+|-damage|p1a: Aggron|0 fnt
+|faint|p1a: Aggron
+|
+|-heal|p2a: Clefable|94/100|[from] item: Leftovers
+|upkeep
+|-message|P0KESHOW forfeited.
+|
+|win|siddharthjoshi123
+|raw|P0KESHOW's rating: 1027 &rarr; <strong>1013</strong><br />(-14 for losing)
+|raw|siddharthjoshi123's rating: 1040 &rarr; <strong>1073</strong><br />(+33 for winning)

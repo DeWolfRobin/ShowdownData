@@ -1,0 +1,540 @@
+|j|☆raykzu ♪
+|j|☆carre26
+|t:|1641761830
+|gametype|singles
+|player|p1|raykzu ♪|liza|1227
+|player|p2|carre26|170|1261
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Mew|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Toxapex, M|
+|poke|p2|Scizor, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by raykzu ♪)
+|
+|t:|1641761846
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|turn|1
+|
+|t:|1641761855
+|move|p2a: Landorus|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|85/100
+|
+|t:|1641761861
+|switch|p2a: Toxapex|Toxapex, M|100/100|[from]move: U-turn
+|move|p1a: Tornadus|Toxic|p2a: Toxapex
+|-immune|p2a: Toxapex
+|
+|upkeep
+|turn|2
+|
+|t:|1641761870
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Toxapex|Scald|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|94/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641761877
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Toxapex|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|92/100
+|-damage|p1a: Toxapex|82/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|upkeep
+|turn|4
+|
+|t:|1641761884
+|switch|p1a: Mew|Mew|100/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|67/100
+|-enditem|p1a: Mew|Leftovers|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|5
+|
+|t:|1641761894
+|move|p1a: Mew|Taunt|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|move: Taunt
+|cant|p2a: Ferrothorn|move: Taunt|Leech Seed
+|
+|upkeep
+|turn|6
+|
+|t:|1641761912
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|
+|upkeep
+|turn|7
+|inactive|raykzu ♪ has 120 seconds left.
+|
+|t:|1641761947
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Scizor|U-turn|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|42/100
+|
+|t:|1641761958
+|switch|p2a: Toxapex|Toxapex, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|8
+|
+|t:|1641761966
+|move|p1a: Mew|Taunt|p2a: Toxapex
+|-start|p2a: Toxapex|move: Taunt
+|cant|p2a: Toxapex|move: Taunt|Haze
+|
+|upkeep
+|turn|9
+|
+|t:|1641761971
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|93/100
+|-singleturn|p1a: Mew|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1641761981
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641761989
+|move|p1a: Mew|Taunt|p2a: Tapu Lele
+|-start|p2a: Tapu Lele|move: Taunt
+|cant|p2a: Tapu Lele|move: Taunt|Calm Mind
+|
+|upkeep
+|turn|12
+|
+|t:|1641761995
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|64/100
+|-damage|p2a: Tapu Lele|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|c|☆raykzu ♪|what the fuck
+|
+|t:|1641762002
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|100/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|67/100
+|-damage|p2a: Tapu Lele|81/100|[from] item: Life Orb
+|
+|-end|p2a: Tapu Lele|move: Taunt
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|14
+|
+|t:|1641762011
+|move|p1a: Mew|Taunt|p2a: Tapu Lele
+|-start|p2a: Tapu Lele|move: Taunt
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|36/100
+|-unboost|p1a: Mew|spd|1
+|-damage|p2a: Tapu Lele|71/100|[from] item: Life Orb
+|
+|upkeep
+|turn|15
+|
+|t:|1641762020
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|86/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|51/100
+|-unboost|p1a: Mew|spd|1
+|-damage|p2a: Tapu Lele|61/100|[from] item: Life Orb
+|
+|upkeep
+|turn|16
+|
+|t:|1641762028
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|100/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|53/100
+|-unboost|p1a: Mew|spd|1
+|-damage|p2a: Tapu Lele|51/100|[from] item: Life Orb
+|
+|-end|p2a: Tapu Lele|move: Taunt
+|upkeep
+|turn|17
+|
+|t:|1641762044
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|6/100
+|-damage|p2a: Tapu Lele|41/100|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|
+|t:|1641762052
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|56/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1641762065
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|9/100
+|-damage|p2a: Tapu Lele|31/100|[from] item: Life Orb
+|
+|upkeep
+|turn|20
+|
+|t:|1641762073
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|59/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1641762084
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|0
+|-boost|p1a: Mew|spd|1
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|4/100
+|-damage|p2a: Tapu Lele|21/100|[from] item: Life Orb
+|
+|upkeep
+|turn|22
+|
+|t:|1641762092
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|54/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|3/100
+|-damage|p2a: Tapu Lele|11/100|[from] item: Life Orb
+|
+|upkeep
+|turn|23
+|
+|t:|1641762112
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|54/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Tapu Lele|Shadow Ball|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|5/100
+|-damage|p2a: Tapu Lele|1/100|[from] item: Life Orb
+|
+|upkeep
+|turn|24
+|
+|t:|1641762124
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|55/100
+|-singleturn|p1a: Mew|move: Roost
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|
+|upkeep
+|turn|25
+|
+|t:|1641762132
+|move|p1a: Mew|Stored Power|p2a: Tapu Lele
+|-resisted|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641762140
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Mew|atk|1
+|turn|26
+|
+|t:|1641762146
+|move|p2a: Landorus|Toxic|p1a: Mew
+|-status|p1a: Mew|tox
+|-activate|p1a: Mew|ability: Synchronize
+|-status|p2a: Landorus|tox
+|move|p1a: Mew|Taunt|p2a: Landorus
+|-start|p2a: Landorus|move: Taunt
+|
+|-damage|p2a: Landorus|95/100 tox|[from] psn
+|-damage|p1a: Mew|49/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641762158
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|99/100 tox
+|-singleturn|p1a: Mew|move: Roost
+|
+|-damage|p1a: Mew|87/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641762167
+|move|p1a: Mew|Stored Power|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|60/100
+|move|p2a: Scizor|U-turn|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|73/100 tox
+|
+|t:|1641762174
+|switch|p2a: Landorus|Landorus-Therian, M|95/100 tox|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Mew|atk|1
+|
+|-damage|p2a: Landorus|89/100 tox|[from] psn
+|-damage|p1a: Mew|55/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641762182
+|move|p2a: Landorus|U-turn|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|44/100 tox
+|
+|t:|1641762185
+|switch|p2a: Scizor|Scizor, M|60/100|[from]move: U-turn
+|move|p1a: Mew|Roost|p1a: Mew
+|-heal|p1a: Mew|94/100 tox
+|-singleturn|p1a: Mew|move: Roost
+|
+|-heal|p2a: Scizor|66/100|[from] item: Leftovers
+|-damage|p1a: Mew|69/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641762193
+|move|p1a: Mew|Stored Power|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|23/100
+|move|p2a: Scizor|Roost|p2a: Scizor
+|-heal|p2a: Scizor|73/100
+|-singleturn|p2a: Scizor|move: Roost
+|
+|-heal|p2a: Scizor|79/100|[from] item: Leftovers
+|-damage|p1a: Mew|38/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641762202
+|move|p1a: Mew|Taunt|p2a: Scizor
+|-start|p2a: Scizor|move: Taunt
+|cant|p2a: Scizor|move: Taunt|Roost
+|
+|-heal|p2a: Scizor|85/100|[from] item: Leftovers
+|-damage|p1a: Mew|1/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641762210
+|move|p1a: Mew|Stored Power|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|47/100
+|move|p2a: Scizor|U-turn|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|t:|1641762217
+|switch|p2a: Ferrothorn|Ferrothorn, M|92/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641762235
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|33
+|
+|t:|1641762246
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Heatran|Lava Plume|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|89/100
+|-status|p2a: Toxapex|brn
+|
+|-damage|p2a: Toxapex|83/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1641762261
+|move|p1a: Heatran|Stealth Rock|p2a: Toxapex
+|-sidestart|p2: carre26|move: Stealth Rock
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100 brn
+|
+|-damage|p2a: Toxapex|94/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1641762266
+|move|p1a: Heatran|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|59/100 brn
+|move|p2a: Toxapex|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|74/100
+|
+|-heal|p1a: Heatran|80/100|[from] item: Leftovers
+|-damage|p2a: Toxapex|53/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641762276
+|switch|p2a: Landorus|Landorus-Therian, M|89/100 tox
+|-damage|p2a: Landorus|76/100 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Earth Power|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-heal|p1a: Heatran|86/100|[from] item: Leftovers
+|-damage|p2a: Landorus|70/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641762288
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-damage|p2a: Landorus|58/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1641762297
+|switch|p2a: Scizor|Scizor, M|47/100
+|-damage|p2a: Scizor|35/100|[from] Stealth Rock
+|move|p1a: Landorus|Substitute|p1a: Landorus
+|-start|p1a: Landorus|Substitute
+|-damage|p1a: Landorus|76/100
+|
+|-heal|p1a: Landorus|82/100|[from] item: Leftovers
+|-heal|p2a: Scizor|41/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641762307
+|move|p1a: Landorus|Bulk Up|p1a: Landorus
+|-boost|p1a: Landorus|atk|1
+|-boost|p1a: Landorus|def|1
+|move|p2a: Scizor|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-activate|p1a: Landorus|move: Substitute|[damage]
+|
+|t:|1641762314
+|switch|p2a: Ferrothorn|Ferrothorn, M|92/100|[from]move: U-turn
+|-damage|p2a: Ferrothorn|85/100|[from] Stealth Rock
+|
+|-heal|p1a: Landorus|88/100|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1641762321
+|move|p1a: Landorus|Bulk Up|p1a: Landorus
+|-boost|p1a: Landorus|atk|1
+|-boost|p1a: Landorus|def|1
+|move|p2a: Ferrothorn|Body Press|p1a: Landorus
+|-resisted|p1a: Landorus
+|-activate|p1a: Landorus|move: Substitute|[damage]
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641762338
+|move|p1a: Landorus|Bulk Up|p1a: Landorus
+|-boost|p1a: Landorus|atk|1
+|-boost|p1a: Landorus|def|1
+|move|p2a: Ferrothorn|Body Press|p1a: Landorus
+|-resisted|p1a: Landorus
+|-activate|p1a: Landorus|move: Substitute|[damage]
+|
+|-heal|p1a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|-message|carre26 forfeited.
+|
+|win|raykzu ♪
+|raw|raykzu ♪'s rating: 1227 &rarr; <strong>1254</strong><br />(+27 for winning)
+|raw|carre26's rating: 1261 &rarr; <strong>1234</strong><br />(-27 for losing)
+|l|☆carre26
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

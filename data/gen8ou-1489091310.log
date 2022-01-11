@@ -1,0 +1,181 @@
+|j|☆Tohru_D
+|j|☆gabe was he
+|t:|1641855480
+|gametype|singles
+|player|p1|Tohru_D|swimmerf|1076
+|player|p2|gabe was he|265|1132
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Vikavolt, M|
+|poke|p1|Dhelmise|
+|poke|p1|Hawlucha, M|
+|poke|p1|Dragalge, F|
+|poke|p1|Conkeldurr, F|
+|poke|p1|Darmanitan, F|
+|poke|p2|Gyarados, F|
+|poke|p2|Nidoking, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Scizor, F|
+|poke|p2|Blastoise, F|
+|poke|p2|Blissey, F|
+|teampreview
+|
+|t:|1641855493
+|start
+|switch|p1a: Hawlucha|Hawlucha, M, shiny|100/100
+|switch|p2a: Blastoise|Blastoise, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gabe was he)
+|
+|t:|1641855518
+|move|p1a: Hawlucha|Sky Attack||[still]
+|-prepare|p1a: Hawlucha|Sky Attack
+|-enditem|p1a: Hawlucha|Power Herb
+|-anim|p1a: Hawlucha|Sky Attack|p2a: Blastoise
+|-damage|p2a: Blastoise|41/100
+|cant|p2a: Blastoise|flinch
+|
+|upkeep
+|turn|2
+|
+|t:|1641855550
+|move|p1a: Hawlucha|Close Combat|p2a: Blastoise
+|-crit|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Blastoise
+|
+|upkeep
+|
+|t:|1641855557
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|3
+|
+|t:|1641855571
+|move|p1a: Hawlucha|Acrobatics|p2a: Dragonite
+|-damage|p2a: Dragonite|79/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641855582
+|move|p2a: Dragonite|Extreme Speed|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1641855591
+|switch|p1a: Conkeldurr|Conkeldurr, F, shiny|100/100
+|turn|5
+|
+|t:|1641855601
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|30/100
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|-hitcount|p1: Conkeldurr|2
+|
+|upkeep
+|
+|t:|1641855614
+|switch|p1a: Vikavolt|Vikavolt, M, shiny|100/100
+|turn|6
+|inactive|Tohru_D has 120 seconds left.
+|
+|t:|1641855650
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Vikavolt
+|-damage|p1a: Vikavolt|67/100
+|-damage|p1a: Vikavolt|28/100
+|-hitcount|p1a: Vikavolt|2
+|move|p1a: Vikavolt|Thunderbolt|p2a: Dragonite
+|-damage|p2a: Dragonite|22/100
+|-damage|p1a: Vikavolt|18/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|inactive|Tohru_D has 120 seconds left.
+|
+|t:|1641855659
+|move|p2a: Dragonite|Extreme Speed|p1a: Vikavolt
+|-damage|p1a: Vikavolt|0 fnt
+|faint|p1a: Vikavolt
+|
+|upkeep
+|inactive|Tohru_D has 120 seconds left.
+|
+|t:|1641855669
+|switch|p1a: Dragalge|Dragalge, F, shiny|100/100
+|turn|8
+|
+|t:|1641855675
+|move|p2a: Dragonite|Earthquake|p1a: Dragalge
+|-supereffective|p1a: Dragalge
+|-damage|p1a: Dragalge|0 fnt
+|faint|p1a: Dragalge
+|
+|upkeep
+|
+|t:|1641855681
+|switch|p1a: Dhelmise|Dhelmise, shiny|100/100
+|turn|9
+|
+|t:|1641855688
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Dhelmise
+|-supereffective|p1a: Dhelmise
+|-damage|p1a: Dhelmise|36/100
+|-supereffective|p1a: Dhelmise
+|-damage|p1a: Dhelmise|0 fnt
+|faint|p1a: Dhelmise
+|-hitcount|p1: Dhelmise|2
+|
+|upkeep
+|
+|t:|1641855696
+|switch|p1a: Darmanitan|Darmanitan, F|100/100
+|turn|10
+|
+|t:|1641855700
+|move|p2a: Dragonite|Extreme Speed|p1a: Darmanitan
+|-damage|p1a: Darmanitan|22/100
+|move|p1a: Darmanitan|Rock Slide|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-crit|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641855706
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|11
+|
+|t:|1641855712
+|move|p1a: Darmanitan|Zen Headbutt|p2a: Blissey
+|-damage|p2a: Blissey|61/100
+|move|p2a: Blissey|Seismic Toss|p1a: Darmanitan
+|-damage|p1a: Darmanitan|0 fnt
+|faint|p1a: Darmanitan
+|
+|win|gabe was he
+|raw|Tohru_D's rating: 1076 &rarr; <strong>1058</strong><br />(-18 for losing)
+|raw|gabe was he's rating: 1132 &rarr; <strong>1153</strong><br />(+21 for winning)
+|l|☆Tohru_D
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,326 @@
+|j|☆I Suck Smh
+|j|☆marchin
+|t:|1641791742
+|gametype|singles
+|player|p1|I Suck Smh|265|1400
+|player|p2|marchin|benga|1409
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Gigalith, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Excadrill, F|
+|poke|p1|Buzzwole|
+|poke|p1|Tapu Lele|
+|poke|p2|Corviknight, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Victini|
+|poke|p2|Tapu Lele|
+|poke|p2|Kartana|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by I Suck Smh)
+|
+|t:|1641791780
+|start
+|switch|p1a: Nurse Depression|Clefable, M, shiny|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|1
+|
+|t:|1641791791
+|move|p1a: Nurse Depression|Gravity|p1a: Nurse Depression
+|-fieldstart|move: Gravity
+|move|p2a: Toxapex|Toxic Spikes|p1a: Nurse Depression
+|-sidestart|p1: I Suck Smh|move: Toxic Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641791798
+|move|p2a: Toxapex|Toxic Spikes|p1a: Nurse Depression
+|-sidestart|p1: I Suck Smh|move: Toxic Spikes
+|move|p1a: Nurse Depression|Teleport|p1a: Nurse Depression
+|
+|t:|1641791808
+|switch|p1a: Holey Moley|Excadrill, F, shiny|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|3
+|
+|t:|1641791819
+|move|p1a: Holey Moley|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641791824
+|switch|p2a: Victini|Victini|100/100
+|turn|4
+|
+|t:|1641791829
+|switch|p1a: Obsidian|Gigalith, F, shiny|100/100
+|-status|p1a: Obsidian|tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Obsidian
+|move|p2a: Victini|Blue Flare|p1a: Obsidian
+|-resisted|p1a: Obsidian
+|-damage|p1a: Obsidian|86/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Victini|94/100|[from] Sandstorm
+|-damage|p1a: Obsidian|80/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641791842
+|switch|p1a: Holey Moley|Excadrill, F, shiny|100/100
+|move|p2a: Victini|U-turn|p1a: Holey Moley
+|-resisted|p1a: Holey Moley
+|-damage|p1a: Holey Moley|90/100
+|
+|t:|1641791849
+|switch|p2a: Corviknight|Corviknight, M|100/100|[from]move: U-turn
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|move: Gravity
+|upkeep
+|turn|6
+|inactive|I Suck Smh has 120 seconds left.
+|
+|t:|1641791888
+|move|p1a: Holey Moley|Rapid Spin|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|91/100
+|-boost|p1a: Holey Moley|spe|1
+|-damage|p1a: Holey Moley|73/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|-sideend|p1: I Suck Smh|Toxic Spikes|[from] move: Rapid Spin|[of] p1a: Holey Moley
+|move|p2a: Corviknight|U-turn|p1a: Holey Moley
+|-resisted|p1a: Holey Moley
+|-damage|p1a: Holey Moley|63/100
+|
+|t:|1641791895
+|switch|p2a: Kartana|Kartana|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641791902
+|switch|p1a: NachoThighJuice|Buzzwole, shiny|100/100
+|move|p2a: Kartana|Sacred Sword|p1a: NachoThighJuice
+|-resisted|p1a: NachoThighJuice
+|-damage|p1a: NachoThighJuice|87/100
+|-damage|p2a: Kartana|84/100|[from] item: Rocky Helmet|[of] p1a: NachoThighJuice
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: NachoThighJuice|81/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641791917
+|switch|p2a: Corviknight|Corviknight, M|91/100
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Nurse Depression|Clefable, M, shiny|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641791927
+|move|p2a: Corviknight|U-turn|p1a: Nurse Depression
+|-resisted|p1a: Nurse Depression
+|-damage|p1a: Nurse Depression|94/100
+|
+|t:|1641791930
+|switch|p2a: Excadrill|Excadrill, F|100/100|[from]move: U-turn
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Nurse Depression|Gravity|p1a: Nurse Depression
+|-fieldstart|move: Gravity
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Nurse Depression|99/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641791939
+|move|p2a: Excadrill|Stealth Rock|p1a: Nurse Depression
+|-sidestart|p1: I Suck Smh|move: Stealth Rock
+|move|p1a: Nurse Depression|Teleport|p1a: Nurse Depression
+|
+|t:|1641791943
+|switch|p1a: Holey Moley|Excadrill, F, shiny|63/100|[from]move: Teleport
+|-damage|p1a: Holey Moley|60/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641791952
+|move|p1a: Holey Moley|Earthquake|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|none
+|upkeep
+|
+|t:|1641791961
+|switch|p2a: Kartana|Kartana|84/100
+|turn|12
+|
+|t:|1641791964
+|switch|p1a: NachoThighJuice|Buzzwole, shiny|81/100
+|-damage|p1a: NachoThighJuice|69/100|[from] Stealth Rock
+|move|p2a: Kartana|Smart Strike|p1a: NachoThighJuice
+|-damage|p1a: NachoThighJuice|38/100
+|-damage|p2a: Kartana|67/100|[from] item: Rocky Helmet|[of] p1a: NachoThighJuice
+|
+|upkeep
+|turn|13
+|c|☆I Suck Smh|nachothighjuice
+|
+|t:|1641791979
+|switch|p2a: Corviknight|Corviknight, M|91/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: NachoThighJuice|Roost|p1a: NachoThighJuice
+|-heal|p1a: NachoThighJuice|88/100
+|-singleturn|p1a: NachoThighJuice|move: Roost
+|
+|-fieldend|move: Gravity
+|upkeep
+|turn|14
+|
+|t:|1641791989
+|switch|p1a: Pain|Ferrothorn, M, shiny|100/100
+|-damage|p1a: Pain|94/100|[from] Stealth Rock
+|move|p2a: Corviknight|U-turn|p1a: Pain
+|-damage|p1a: Pain|83/100
+|-damage|p2a: Corviknight|78/100|[from] ability: Iron Barbs|[of] p1a: Pain
+|
+|t:|1641791993
+|switch|p2a: Victini|Victini|94/100|[from]move: U-turn
+|
+|-heal|p1a: Pain|89/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641792001
+|move|p2a: Victini|Blue Flare|p1a: Pain
+|-supereffective|p1a: Pain
+|-damage|p1a: Pain|0 fnt
+|faint|p1a: Pain
+|
+|upkeep
+|
+|t:|1641792008
+|switch|p1a: Obsidian|Gigalith, F, shiny|80/100 tox
+|-damage|p1a: Obsidian|67/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Obsidian
+|turn|16
+|c|☆I Suck Smh|gg
+|
+|t:|1641792016
+|move|p2a: Victini|U-turn|p1a: Obsidian
+|-damage|p1a: Obsidian|57/100 tox
+|
+|t:|1641792017
+|switch|p2a: Corviknight|Corviknight, M|78/100|[from]move: U-turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Obsidian|Gravity|p1a: Obsidian
+|-fieldstart|move: Gravity
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Obsidian|50/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641792030
+|move|p2a: Corviknight|Brave Bird|p1a: Obsidian
+|-resisted|p1a: Obsidian
+|-damage|p1a: Obsidian|38/100 tox
+|-damage|p2a: Corviknight|74/100|[from] Recoil
+|move|p1a: Obsidian|Explosion|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|51/100
+|faint|p1a: Obsidian
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641792046
+|switch|p1a: Holey Moley|Excadrill, F, shiny|60/100
+|-damage|p1a: Holey Moley|57/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641792058
+|move|p1a: Holey Moley|Earthquake|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641792071
+|switch|p2a: Kartana|Kartana|67/100
+|turn|19
+|
+|t:|1641792078
+|move|p1a: Holey Moley|Earthquake|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641792082
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|20
+|
+|t:|1641792093
+|move|p1a: Holey Moley|Earthquake|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|move: Gravity
+|upkeep
+|
+|t:|1641792096
+|switch|p2a: Victini|Victini|94/100
+|turn|21
+|
+|t:|1641792101
+|move|p1a: Holey Moley|Earthquake|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|win|I Suck Smh
+|raw|I Suck Smh's rating: 1400 &rarr; <strong>1421</strong><br />(+21 for winning)
+|raw|marchin's rating: 1409 &rarr; <strong>1388</strong><br />(-21 for losing)
+|l|☆marchin
+|j| RepeatUntilDrunk9
+|j| fruityiscool423
+|j| breadupt
+|j| RTSG 2
+|l| fruityiscool423
+|l| RTSG 2
+|j| VanillaTwilight23
+|j| Mimikyu VG6
+|j| 1❄Coffy
+|l| Mimikyu VG6

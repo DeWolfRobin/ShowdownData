@@ -1,0 +1,298 @@
+|j|☆Immanuelmun
+|j|☆Agatha666
+|t:|1641775182
+|gametype|singles
+|player|p1|Immanuelmun|lance|1220
+|player|p2|Agatha666|ghetsis-gen5bw|1182
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Buzzwole|
+|poke|p1|Tapu Lele|
+|poke|p1|Magnezone|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Pelipper, M|
+|poke|p1|Barraskewda, F|
+|poke|p2|Bisharp, F|
+|poke|p2|Tapu Bulu|
+|poke|p2|Ninetales, F|
+|poke|p2|Latias, F|
+|poke|p2|Kabutops, M|
+|poke|p2|Pelipper, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Immanuelmun)
+|
+|t:|1641775196
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Bisharp|atk|1
+|-ability|p2a: Bisharp|Defiant
+|-boost|p2a: Bisharp|atk|2
+|turn|1
+|
+|t:|1641775206
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Landorus|U-turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|83/100
+|
+|t:|1641775214
+|switch|p1a: Barraskewda|Barraskewda, F|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641775224
+|move|p1a: Barraskewda|Liquidation|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|11/100
+|move|p2a: Pelipper|Hurricane|p1a: Barraskewda
+|-damage|p1a: Barraskewda|2/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641775239
+|switch|p2a: Latias|Latias, F|100/100
+|move|p1a: Barraskewda|Liquidation|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|36/100
+|-unboost|p2a: Latias|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641775248
+|switch|p2a: Tapu Bulu|Tapu Bulu|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|move|p1a: Barraskewda|Liquidation|p2a: Tapu Bulu
+|-resisted|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|56/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Barraskewda|8/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|62/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641775263
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Tapu Bulu|Giga Drain|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|74/100
+|-heal|p2a: Tapu Bulu|86/100|[from] drain|[of] p1a: Buzzwole
+|
+|-weather|none
+|-heal|p1a: Buzzwole|80/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|92/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641775274
+|move|p1a: Buzzwole|Ice Punch|p2a: Tapu Bulu
+|-supereffective|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|40/100
+|move|p2a: Tapu Bulu|Dazzling Gleam|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|-heal|p2a: Tapu Bulu|46/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641775285
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|7
+|
+|t:|1641775312
+|move|p1a: Tapu Lele|Moonblast|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|0 fnt
+|faint|p2a: Tapu Bulu
+|
+|upkeep
+|
+|t:|1641775316
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|turn|8
+|
+|t:|1641775321
+|move|p1a: Tapu Lele|Moonblast|p2a: Bisharp
+|-damage|p2a: Bisharp|62/100
+|move|p2a: Bisharp|Iron Head|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641775330
+|switch|p1a: Barraskewda|Barraskewda, F|8/100
+|turn|9
+|
+|t:|1641775335
+|move|p2a: Bisharp|Sucker Punch|p1a: Barraskewda
+|-activate|p1a: Barraskewda|move: Psychic Terrain
+|move|p1a: Barraskewda|Liquidation|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|c|☆Agatha666|Oof
+|
+|t:|1641775360
+|switch|p2a: Kabutops|Kabutops, M|100/100
+|turn|10
+|
+|t:|1641775365
+|move|p1a: Barraskewda|Liquidation|p2a: Kabutops
+|-damage|p2a: Kabutops|7/100
+|move|p2a: Kabutops|Liquidation|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|upkeep
+|
+|t:|1641775375
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kabutops|atk|1
+|turn|11
+|
+|t:|1641775381
+|switch|p2a: Latias|Latias, F|36/100
+|move|p1a: Landorus|U-turn|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|
+|t:|1641775393
+|switch|p1a: Pelipper|Pelipper, M|100/100|[from]move: U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641775406
+|switch|p2a: Kabutops|Kabutops, M|7/100
+|turn|12
+|
+|t:|1641775411
+|move|p2a: Kabutops|Stone Edge|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-crit|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641775418
+|switch|p1a: Magnezone|Magnezone|100/100
+|turn|13
+|
+|t:|1641775442
+|move|p2a: Kabutops|Low Kick|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|45/100
+|move|p1a: Magnezone|Thunderbolt|p2a: Kabutops
+|-supereffective|p2a: Kabutops
+|-crit|p2a: Kabutops
+|-damage|p2a: Kabutops|0 fnt
+|faint|p2a: Kabutops
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Magnezone|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641775455
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|-item|p2a: Ninetales|Air Balloon
+|turn|14
+|
+|t:|1641775461
+|move|p2a: Ninetales|Fire Blast|p1a: Magnezone|[miss]
+|-miss|p2a: Ninetales|p1a: Magnezone
+|move|p1a: Magnezone|Thunderbolt|p2a: Ninetales
+|-damage|p2a: Ninetales|57/100
+|-enditem|p2a: Ninetales|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Magnezone|57/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641775476
+|move|p2a: Ninetales|Scorching Sands|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|4/100
+|move|p1a: Magnezone|Thunderbolt|p2a: Ninetales
+|-damage|p2a: Ninetales|7/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Magnezone|10/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641775485
+|move|p2a: Ninetales|Scorching Sands|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641775492
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ninetales|atk|1
+|turn|17
+|
+|t:|1641775497
+|move|p2a: Ninetales|Fire Blast|p1a: Landorus
+|-damage|p1a: Landorus|13/100
+|move|p1a: Landorus|Smack Down|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Landorus|19/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641775501
+|switch|p2a: Pelipper|Pelipper, F|11/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|18
+|
+|t:|1641775511
+|move|p2a: Pelipper|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|win|Agatha666
+|raw|Immanuelmun's rating: 1220 &rarr; <strong>1192</strong><br />(-28 for losing)
+|raw|Agatha666's rating: 1182 &rarr; <strong>1210</strong><br />(+28 for winning)
+|l|☆Immanuelmun
+|c|☆Agatha666|Gg

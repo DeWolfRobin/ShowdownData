@@ -1,0 +1,363 @@
+|j|☆Hundred Thousand
+|j|☆hchw90
+|t:|1641829479
+|gametype|singles
+|player|p1|Hundred Thousand|lady|1490
+|player|p2|hchw90|102|1534
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Kartana|
+|poke|p1|Slowbro, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Polteageist|
+|poke|p2|Chansey, F|
+|poke|p2|Heatran, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Dragapult, M|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hundred Thousand)
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641829548
+|start
+|switch|p1a: DDLP|Tapu Lele, shiny|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DDLP
+|turn|1
+|
+|t:|1641829557
+|switch|p1a: 吧主丁|Slowking-Galar, M|100/100
+|move|p2a: Rotom|Volt Switch|p1a: 吧主丁
+|-damage|p1a: 吧主丁|76/100
+|
+|t:|1641829567
+|switch|p2a: Heatran|Heatran, F|100/100|[from]move: Volt Switch
+|-item|p2a: Heatran|Air Balloon
+|
+|-heal|p1a: 吧主丁|82/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|
+|t:|1641829570
+|switch|p1a: 老吧|Slowbro, M|100/100
+|move|p2a: Heatran|Stealth Rock|p1a: 老吧
+|-sidestart|p1: Hundred Thousand|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641829581
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: 老吧|Teleport|p1a: 老吧
+|
+|t:|1641829598
+|switch|p1a: 吧主丁|Slowking-Galar, M|100/100|[from]move: Teleport
+|-damage|p1a: 吧主丁|88/100|[from] Stealth Rock
+|
+|-heal|p1a: 吧主丁|94/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641829617
+|move|p2a: Rotom|Volt Switch|p1a: 吧主丁
+|-damage|p1a: 吧主丁|72/100
+|
+|t:|1641829630
+|switch|p2a: Chansey|Chansey, F|100/100|[from]move: Volt Switch
+|move|p1a: 吧主丁|Future Sight|p2a: Chansey
+|-start|p1a: 吧主丁|move: Future Sight
+|
+|-heal|p1a: 吧主丁|78/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1641829636
+|move|p2a: Chansey|Thunder Wave|p1a: 吧主丁
+|-status|p1a: 吧主丁|par
+|cant|p1a: 吧主丁|par
+|
+|-heal|p1a: 吧主丁|84/100 par|[from] item: Black Sludge
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641829641
+|move|p2a: Chansey|Seismic Toss|p1a: 吧主丁
+|-damage|p1a: 吧主丁|55/100 par
+|move|p1a: 吧主丁|Nasty Plot|p1a: 吧主丁
+|-boost|p1a: 吧主丁|spa|2
+|
+|-end|p2a: Chansey|move: Future Sight
+|-damage|p2a: Chansey|60/100
+|-heal|p1a: 吧主丁|61/100 par|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1641829655
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|100/100
+|cant|p1a: 吧主丁|par
+|
+|-heal|p1a: 吧主丁|67/100 par|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1641829664
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: 吧主丁|Nasty Plot|p1a: 吧主丁
+|-boost|p1a: 吧主丁|spa|2
+|
+|-heal|p1a: 吧主丁|73/100 par|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1641829670
+|switch|p1a: 老吧|Slowbro, M|100/100
+|-damage|p1a: 老吧|88/100|[from] Stealth Rock
+|move|p2a: Heatran|Earth Power|p1a: 老吧
+|-damage|p1a: 老吧|61/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641829678
+|switch|p2a: Chansey|Chansey, F|100/100
+|move|p1a: 老吧|Scald|p2a: Chansey
+|-damage|p2a: Chansey|89/100
+|-status|p2a: Chansey|brn
+|
+|-damage|p2a: Chansey|82/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641829683
+|switch|p1a: 吧主丁|Slowking-Galar, M|100/100 par
+|-damage|p1a: 吧主丁|88/100 par|[from] Stealth Rock
+|move|p2a: Chansey|Thunder Wave|p1a: 吧主丁
+|-fail|p1a: 吧主丁|par
+|
+|-heal|p1a: 吧主丁|94/100 par|[from] item: Black Sludge
+|-damage|p2a: Chansey|76/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1641829687
+|-curestatus|p2a: Chansey|brn|[from] ability: Natural Cure
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|switch|p1a: 是虎不是猫|Landorus-Therian, M|100/100
+|-damage|p1a: 是虎不是猫|88/100|[from] Stealth Rock
+|-ability|p1a: 是虎不是猫|Intimidate|boost
+|-unboost|p2a: Rotom|atk|1
+|
+|-heal|p1a: 是虎不是猫|94/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641829695
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: 是虎不是猫|atk|1
+|switch|p1a: 吧主丁|Slowking-Galar, M|100/100 par
+|-damage|p1a: 吧主丁|88/100 par|[from] Stealth Rock
+|
+|-heal|p1a: 吧主丁|94/100 par|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1641829699
+|switch|p1a: 是虎不是猫|Landorus-Therian, M|94/100
+|-damage|p1a: 是虎不是猫|82/100|[from] Stealth Rock
+|-ability|p1a: 是虎不是猫|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|U-turn|p1a: 是虎不是猫
+|-resisted|p1a: 是虎不是猫
+|-damage|p1a: 是虎不是猫|77/100
+|
+|t:|1641829703
+|switch|p2a: Rotom|Rotom-Wash|100/100|[from]move: U-turn
+|
+|-heal|p1a: 是虎不是猫|83/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641829706
+|switch|p1a: 吧主丁|Slowking-Galar, M|100/100 par
+|-damage|p1a: 吧主丁|88/100 par|[from] Stealth Rock
+|move|p2a: Rotom|Trick|p1a: 吧主丁
+|-activate|p2a: Rotom|move: Trick|[of] p1a: 吧主丁
+|-item|p1a: 吧主丁|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Black Sludge|[from] move: Trick
+|
+|-damage|p2a: Rotom|88/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|t:|1641829710
+|move|p2a: Rotom|Volt Switch|p1a: 吧主丁
+|-damage|p1a: 吧主丁|62/100 par
+|
+|t:|1641829715
+|switch|p2a: Heatran|Heatran, F|100/100|[from]move: Volt Switch
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: 吧主丁|Future Sight|p2a: Heatran
+|-start|p1a: 吧主丁|move: Future Sight
+|
+|upkeep
+|turn|17
+|
+|t:|1641829724
+|switch|p1a: 老吧|Slowbro, M|95/100
+|-damage|p1a: 老吧|82/100|[from] Stealth Rock
+|move|p2a: Heatran|Lava Plume|p1a: 老吧
+|-resisted|p1a: 老吧
+|-crit|p1a: 老吧
+|-damage|p1a: 老吧|54/100
+|-status|p1a: 老吧|brn
+|
+|-damage|p1a: 老吧|48/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641829740
+|switch|p2a: Rotom|Rotom-Wash|88/100
+|move|p1a: 老吧|Scald|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|60/100
+|
+|-end|p2a: Rotom|move: Future Sight
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|-damage|p1a: 老吧|42/100 brn|[from] brn
+|upkeep
+|
+|t:|1641829756
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|19
+|
+|t:|1641829764
+|switch|p1a: 吧主丁|Slowking-Galar, M|95/100 par
+|-damage|p1a: 吧主丁|82/100 par|[from] Stealth Rock
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641829768
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: 吧主丁|Future Sight|p2a: Dragapult
+|-start|p1a: 吧主丁|move: Future Sight
+|
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641829779
+|switch|p1a: 是虎不是猫|Landorus-Therian, M|83/100
+|-damage|p1a: 是虎不是猫|71/100|[from] Stealth Rock
+|-ability|p1a: 是虎不是猫|Intimidate|boost
+|-immune|p2a: Dragapult
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|-heal|p2a: Dragapult|94/100|[from] item: Leftovers
+|-heal|p1a: 是虎不是猫|77/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641829783
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: 是虎不是猫|Defog|p2a: Dragapult|[miss]|[miss]
+|-miss|p1a: 是虎不是猫|p2a: Dragapult
+|
+|-end|p2a: Dragapult|move: Future Sight
+|-miss|p1: 吧主丁|p2a: Dragapult
+|-heal|p2a: Dragapult|99/100|[from] item: Leftovers
+|-heal|p1a: 是虎不是猫|83/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641829789
+|move|p2a: Dragapult|Phantom Force|p1a: 是虎不是猫|[from]lockedmove
+|-damage|p1a: 是虎不是猫|20/100
+|move|p1a: 是虎不是猫|Defog|p2a: Dragapult
+|-sideend|p1: Hundred Thousand|Stealth Rock|[from] move: Defog|[of] p1a: 是虎不是猫
+|
+|-heal|p2a: Dragapult|100/100|[from] item: Leftovers
+|-heal|p1a: 是虎不是猫|26/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641829794
+|move|p2a: Dragapult|Dragon Darts|p1a: 是虎不是猫
+|-damage|p1a: 是虎不是猫|0 fnt
+|faint|p1a: 是虎不是猫
+|
+|upkeep
+|
+|t:|1641829806
+|switch|p1a: DDLP|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: DDLP
+|turn|25
+|
+|t:|1641829809
+|switch|p1a: Polteageist|Polteageist, shiny|100/100
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|upkeep
+|turn|26
+|
+|t:|1641829817
+|move|p2a: Dragapult|Phantom Force|p1a: Polteageist|[from]lockedmove
+|-supereffective|p1a: Polteageist
+|-enditem|p1a: Polteageist|Focus Sash
+|-damage|p1a: Polteageist|1/100
+|-ability|p1a: Polteageist|Weak Armor|boost
+|-unboost|p1a: Polteageist|def|1
+|-boost|p1a: Polteageist|spe|2
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|
+|upkeep
+|turn|27
+|
+|t:|1641829822
+|move|p2a: Dragapult|Dragon Darts|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|
+|upkeep
+|c|☆hchw90|ok?
+|-message|Hundred Thousand forfeited.
+|
+|win|hchw90
+|raw|Hundred Thousand's rating: 1490 &rarr; <strong>1473</strong><br />(-17 for losing)
+|raw|hchw90's rating: 1534 &rarr; <strong>1551</strong><br />(+17 for winning)
+|l|☆Hundred Thousand

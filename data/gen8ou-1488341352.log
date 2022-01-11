@@ -1,0 +1,98 @@
+|j|☆NeoPalurda
+|j|☆Immagamer
+|t:|1641753347
+|gametype|singles
+|player|p1|NeoPalurda|karen|1168
+|player|p2|Immagamer|1|1169
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Sharpedo, F|
+|poke|p1|Sylveon, M|
+|poke|p1|Chandelure, F|
+|poke|p1|Chansey, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p2|Crawdaunt, F|
+|poke|p2|Nidoking, M|
+|poke|p2|Zeraora|
+|poke|p2|Tangrowth, M|
+|poke|p2|Chansey, F|
+|poke|p2|Skarmory, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by NeoPalurda)
+|
+|t:|1641753366
+|start
+|switch|p1a: Chandelure|Chandelure, F, shiny|100/100
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|1
+|
+|t:|1641753380
+|move|p1a: Chandelure|Flamethrower|p2a: Nidoking
+|-damage|p2a: Nidoking|34/100
+|move|p2a: Nidoking|Earth Power|p1a: Chandelure
+|-supereffective|p1a: Chandelure
+|-damage|p1a: Chandelure|0 fnt
+|faint|p1a: Chandelure
+|
+|upkeep
+|
+|t:|1641753389
+|switch|p1a: Sharpedo|Sharpedo, F, shiny|100/100
+|turn|2
+|
+|t:|1641753403
+|switch|p2a: Tangrowth|Tangrowth, M|100/100
+|move|p1a: Sharpedo|Protect||[still]
+|-fail|p1a: Sharpedo
+|
+|-ability|p1a: Sharpedo|Speed Boost|boost
+|-boost|p1a: Sharpedo|spe|1
+|upkeep
+|turn|3
+|
+|t:|1641753410
+|switch|p1a: Sylveon|Sylveon, M, shiny|100/100
+|move|p2a: Tangrowth|Knock Off|p1a: Sylveon
+|-resisted|p1a: Sylveon
+|-damage|p1a: Sylveon|87/100
+|-enditem|p1a: Sylveon|Expert Belt|[from] move: Knock Off|[of] p2a: Tangrowth
+|
+|upkeep
+|turn|4
+|
+|t:|1641753421
+|switch|p2a: Chansey|Chansey, F|100/100
+|move|p1a: Sylveon|Mystical Fire|p2a: Chansey
+|-damage|p2a: Chansey|93/100
+|-unboost|p2a: Chansey|spa|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641753427
+|move|p1a: Sylveon|Psyshock|p2a: Chansey
+|-damage|p2a: Chansey|76/100
+|move|p2a: Chansey|Toxic|p1a: Sylveon
+|-status|p1a: Sylveon|tox
+|
+|-damage|p1a: Sylveon|80/100 tox|[from] psn
+|upkeep
+|turn|6
+|-message|NeoPalurda forfeited.
+|
+|win|Immagamer
+|raw|NeoPalurda's rating: 1168 &rarr; <strong>1143</strong><br />(-25 for losing)
+|raw|Immagamer's rating: 1169 &rarr; <strong>1194</strong><br />(+25 for winning)
+|l|☆NeoPalurda

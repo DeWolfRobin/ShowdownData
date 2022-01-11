@@ -1,0 +1,384 @@
+|j|‽G3n0YT
+|j|☆arkanixxx
+|t:|1641805786
+|gametype|singles
+|player|p1|G3n0YT|wallace|1134
+|player|p2|arkanixxx|parasollady|1121
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zygarde-10%|
+|poke|p1|Inteleon, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Weezing-Galar, F|
+|poke|p1|Cloyster, F|
+|poke|p1|Victini|
+|poke|p2|Cofagrigus, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Mandibuzz, F|
+|poke|p2|Salazzle, F|
+|poke|p2|Shuckle, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by G3n0YT)
+|
+|t:|1641805800
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|switch|p2a: you already know|Shuckle, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641805806
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: G3n0YT|move: Aurora Veil
+|move|p2a: you already know|Encore|p1a: Ninetales
+|-start|p1a: Ninetales|Encore
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: you already know|94/100|[from] Hail
+|-heal|p2a: you already know|100/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641805812
+|switch|p1a: Cloyster|Cloyster, F, shiny|100/100
+|move|p2a: you already know|Power Split|p1a: Cloyster
+|-activate|p2a: you already know|move: Power Split|[of] p1a: Cloyster
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: you already know|94/100|[from] Hail
+|-heal|p2a: you already know|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641805818
+|move|p1a: Cloyster|Icicle Spear|p2a: you already know
+|-damage|p2a: you already know|97/100
+|-crit|p2a: you already know
+|-damage|p2a: you already know|91/100
+|-damage|p2a: you already know|87/100
+|-damage|p2a: you already know|82/100
+|-damage|p2a: you already know|78/100
+|-hitcount|p2a: you already know|5
+|move|p2a: you already know|Sticky Web|p1a: Cloyster
+|-sidestart|p1: G3n0YT|move: Sticky Web
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: you already know|72/100|[from] Hail
+|-heal|p2a: you already know|78/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641805825
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: you already know|Stealth Rock|p1a: Cloyster
+|-sidestart|p1: G3n0YT|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: you already know|72/100|[from] Hail
+|-heal|p2a: you already know|78/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641805832
+|move|p1a: Cloyster|Rock Blast|p2a: you already know
+|-supereffective|p2a: you already know
+|-damage|p2a: you already know|68/100
+|-supereffective|p2a: you already know
+|-damage|p2a: you already know|57/100
+|-supereffective|p2a: you already know
+|-damage|p2a: you already know|47/100
+|-supereffective|p2a: you already know
+|-damage|p2a: you already know|37/100
+|-supereffective|p2a: you already know
+|-damage|p2a: you already know|25/100
+|-hitcount|p2a: you already know|5
+|move|p2a: you already know|Encore|p1a: Cloyster
+|-start|p1a: Cloyster|Encore
+|
+|-weather|none
+|-heal|p2a: you already know|31/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641805848
+|switch|p2a: mommy|Cofagrigus, F|100/100
+|move|p1a: Cloyster|Rock Blast|p2a: mommy
+|-damage|p2a: mommy|94/100
+|-damage|p2a: mommy|88/100
+|-damage|p2a: mommy|82/100
+|-damage|p2a: mommy|76/100
+|-damage|p2a: mommy|70/100
+|-hitcount|p2a: mommy|5
+|
+|upkeep
+|turn|7
+|
+|t:|1641805858
+|move|p1a: Cloyster|Rock Blast|p2a: mommy|[miss]
+|-miss|p1a: Cloyster|p2a: mommy
+|move|p2a: mommy|Trick|p1a: Cloyster
+|-activate|p2a: mommy|move: Trick|[of] p1a: Cloyster
+|-item|p1a: Cloyster|Choice Scarf|[from] move: Trick
+|-item|p2a: mommy|Figy Berry|[from] move: Trick
+|
+|upkeep
+|turn|8
+|
+|t:|1641805865
+|move|p1a: Cloyster|Rock Blast|p2a: mommy
+|-damage|p2a: mommy|64/100
+|-damage|p2a: mommy|57/100
+|-damage|p2a: mommy|51/100
+|-damage|p2a: mommy|44/100
+|-crit|p2a: mommy
+|-damage|p2a: mommy|34/100
+|-hitcount|p2a: mommy|5
+|move|p2a: mommy|Toxic Spikes|p1a: Cloyster
+|-sidestart|p1: G3n0YT|move: Toxic Spikes
+|
+|-end|p1a: Cloyster|Encore
+|-sideend|p1: G3n0YT|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1641805867
+|move|p1a: Cloyster|Rock Blast|p2a: mommy
+|-crit|p2a: mommy
+|-damage|p2a: mommy|25/100
+|-enditem|p2a: mommy|Figy Berry|[eat]
+|-heal|p2a: mommy|58/100|[from] item: Figy Berry
+|-start|p2a: mommy|confusion
+|-damage|p2a: mommy|52/100
+|-damage|p2a: mommy|45/100
+|-damage|p2a: mommy|39/100
+|-damage|p2a: mommy|33/100
+|-hitcount|p2a: mommy|5
+|-activate|p2a: mommy|confusion
+|move|p2a: mommy|Haze|p2a: mommy
+|-clearallboost
+|
+|upkeep
+|turn|10
+|
+|t:|1641805877
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|-activate|p1a: Ninetales|move: Sticky Web
+|-unboost|p1a: Ninetales|spe|1
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-status|p1a: Ninetales|psn
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|switch|p2a: you already know|Shuckle, M|31/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: you already know|25/100|[from] Hail
+|-heal|p2a: you already know|31/100|[from] item: Leftovers
+|-damage|p1a: Ninetales|63/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641805881
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: G3n0YT|move: Aurora Veil
+|move|p2a: you already know|Encore|p1a: Ninetales
+|-start|p1a: Ninetales|Encore
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: you already know|25/100|[from] Hail
+|-heal|p2a: you already know|31/100|[from] item: Leftovers
+|-damage|p1a: Ninetales|51/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641805888
+|switch|p1a: Cloyster|Cloyster, F, shiny|100/100
+|-status|p1a: Cloyster|psn
+|-activate|p1a: Cloyster|move: Sticky Web
+|-unboost|p1a: Cloyster|spe|1
+|-damage|p1a: Cloyster|76/100 psn|[from] Stealth Rock
+|move|p2a: you already know|Power Split|p1a: Cloyster
+|-activate|p2a: you already know|move: Power Split|[of] p1a: Cloyster
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: you already know|25/100|[from] Hail
+|-heal|p2a: you already know|31/100|[from] item: Leftovers
+|-damage|p1a: Cloyster|63/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641805897
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: you already know|Encore|p1a: Cloyster
+|-start|p1a: Cloyster|Encore
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: you already know|25/100|[from] Hail
+|-heal|p2a: you already know|31/100|[from] item: Leftovers
+|-damage|p1a: Cloyster|51/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641805904
+|switch|p1a: Inteleon|Inteleon, M, shiny|100/100
+|-activate|p1a: Inteleon|move: Sticky Web
+|-unboost|p1a: Inteleon|spe|1
+|-status|p1a: Inteleon|psn
+|-damage|p1a: Inteleon|88/100 psn|[from] Stealth Rock
+|switch|p2a: Drill me|Excadrill, M|100/100
+|-ability|p2a: Drill me|Mold Breaker
+|
+|-weather|none
+|-damage|p1a: Inteleon|76/100 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641805918
+|switch|p2a: cancer incarnate|Toxapex, M|100/100
+|move|p1a: Inteleon|Focus Energy|p1a: Inteleon
+|-start|p1a: Inteleon|move: Focus Energy
+|
+|-damage|p1a: Inteleon|63/100 psn|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641805927
+|move|p1a: Inteleon|Snipe Shot|p2a: cancer incarnate
+|-resisted|p2a: cancer incarnate
+|-crit|p2a: cancer incarnate
+|-damage|p2a: cancer incarnate|62/100
+|move|p2a: cancer incarnate|Recover|p2a: cancer incarnate
+|-heal|p2a: cancer incarnate|100/100
+|
+|-damage|p1a: Inteleon|51/100 psn|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641805933
+|move|p1a: Inteleon|Snipe Shot|p2a: cancer incarnate
+|-resisted|p2a: cancer incarnate
+|-crit|p2a: cancer incarnate
+|-damage|p2a: cancer incarnate|63/100
+|move|p2a: cancer incarnate|Recover|p2a: cancer incarnate
+|-heal|p2a: cancer incarnate|100/100
+|
+|-damage|p1a: Inteleon|38/100 psn|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641805944
+|move|p1a: Inteleon|U-turn|p2a: cancer incarnate
+|-resisted|p2a: cancer incarnate
+|-crit|p2a: cancer incarnate
+|-damage|p2a: cancer incarnate|92/100
+|
+|t:|1641805962
+|switch|p1a: Weezing|Weezing-Galar, F, shiny|100/100|[from]move: U-turn
+|-activate|p1a: Weezing|move: Sticky Web
+|-unboost|p1a: Weezing|spe|1
+|-damage|p1a: Weezing|88/100|[from] Stealth Rock
+|-sideend|p1: G3n0YT|move: Toxic Spikes|[of] p1a: Weezing
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Weezing
+|move|p2a: cancer incarnate|Poison Jab|p1a: Weezing
+|-damage|p1a: Weezing|79/100
+|
+|-heal|p2a: cancer incarnate|99/100|[from] item: Black Sludge
+|-sideend|p1: G3n0YT|move: Aurora Veil
+|upkeep
+|turn|19
+|
+|t:|1641805978
+|switch|p2a: Drill me|Excadrill, M|100/100
+|-ability|p2a: Drill me|Mold Breaker
+|move|p1a: Weezing|Taunt|p2a: Drill me
+|-start|p2a: Drill me|move: Taunt
+|
+|upkeep
+|turn|20
+|
+|t:|1641805987
+|move|p2a: Drill me|Earthquake|p1a: Weezing
+|-supereffective|p1a: Weezing
+|-damage|p1a: Weezing|0 fnt
+|faint|p1a: Weezing
+|-damage|p2a: Drill me|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641805992
+|switch|p1a: Victini|Victini|100/100
+|turn|21
+|
+|t:|1641805999
+|switch|p2a: mommy|Cofagrigus, F|33/100
+|move|p1a: Victini|V-create|p2a: mommy
+|-crit|p2a: mommy
+|-damage|p2a: mommy|0 fnt
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|-activate|p2a: mommy|ability: Mummy|Victory Star|[of] p1a: Victini
+|faint|p2a: mommy
+|
+|upkeep
+|inactive|arkanixxx has 120 seconds left.
+|
+|t:|1641806032
+|switch|p2a: Drill me|Excadrill, M|91/100
+|-ability|p2a: Drill me|Mold Breaker
+|turn|22
+|
+|t:|1641806062
+|move|p2a: Drill me|Earthquake|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|-damage|p2a: Drill me|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641806065
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|51/100 psn
+|-damage|p1a: Ninetales|26/100 psn|[from] Stealth Rock
+|-activate|p1a: Ninetales|move: Sticky Web
+|-unboost|p1a: Ninetales|spe|1
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|23
+|
+|t:|1641806070
+|move|p2a: Drill me|Iron Head|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|-damage|p2a: Drill me|71/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Drill me|64/100|[from] Hail
+|upkeep
+|-message|G3n0YT forfeited.
+|
+|win|arkanixxx
+|raw|G3n0YT's rating: 1134 &rarr; <strong>1108</strong><br />(-26 for losing)
+|raw|arkanixxx's rating: 1121 &rarr; <strong>1147</strong><br />(+26 for winning)
+|l|‽G3n0YT
+|c|☆arkanixxx|ggwp

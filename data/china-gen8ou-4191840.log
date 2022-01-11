@@ -1,0 +1,422 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC 东方不败
+|j|☆SL21CC Mcdonald's
+|t:|1641830122
+|gametype|singles
+|player|p1|SL21CC 东方不败|cheryl|1349
+|player|p2|SL21CC Mcdonald's|aromalady|1242
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Weavile, M|
+|poke|p1|Magnezone|
+|poke|p1|Garchomp, F|
+|poke|p1|Corviknight, F|
+|poke|p1|Urshifu-*, M|
+|poke|p2|Slowbro-Galar, M|
+|poke|p2|Seismitoad, F|
+|poke|p2|Mew|
+|poke|p2|Melmetal|
+|poke|p2|Clefable, F|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Mcdonald's)
+|
+|t:|1641830148
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|1
+|j| SL21CC姐ISthequeen
+|inactive|SL21CC 东方不败 has 120 seconds left.
+|inactive|SL21CC Mcdonald's has 120 seconds left.
+|l| SL21CC姐ISthequeen
+|
+|t:|1641830205
+|move|p1a: Urshifu|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|78/100
+|
+|t:|1641830208
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100|[from]move: U-turn
+|move|p2a: Clefable|Thunder|p1a: Slowking|[miss]
+|-miss|p2a: Clefable|p1a: Slowking
+|
+|upkeep
+|turn|2
+|
+|t:|1641830214
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Slowking|Future Sight|p2a: Melmetal
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|3
+|
+|t:|1641830218
+|switch|p1a: Corviknight|Corviknight, F, shiny|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Melmetal|Thunder Punch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|58/100
+|-damage|p2a: Melmetal|84/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|upkeep
+|turn|4
+|
+|t:|1641830225
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-end|p2a: Zapdos|move: Future Sight
+|-damage|p2a: Zapdos|40/100
+|upkeep
+|turn|5
+|j| jiokopg_fkok43
+|
+|t:|1641830230
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|90/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|6
+|j|+dragonitenb
+|l|+dragonitenb
+|j| SL21CC Winona
+|inactive|SL21CC Mcdonald's has 120 seconds left.
+|
+|t:|1641830275
+|move|p2a: Zapdos|Hurricane|p1a: Slowking
+|-damage|p1a: Slowking|67/100
+|move|p1a: Slowking|Future Sight|p2a: Zapdos
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|7
+|
+|t:|1641830280
+|switch|p1a: Garchomp|Garchomp, F, shiny|100/100
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|48/100
+|
+|-heal|p1a: Garchomp|54/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641830289
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-end|p2a: Zapdos|move: Future Sight
+|-damage|p2a: Zapdos|37/100
+|-heal|p1a: Garchomp|60/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|j| water GH0ST
+|inactive|SL21CC Mcdonald's has 120 seconds left.
+|
+|t:|1641830301
+|move|p1a: Garchomp|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|6/100
+|
+|-heal|p1a: Garchomp|12/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|31/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641830305
+|move|p1a: Garchomp|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: SL21CC Mcdonald's|move: Stealth Rock
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|81/100 tox
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-heal|p1a: Garchomp|18/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|69/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641830313
+|move|p1a: Garchomp|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|move|p2a: Zapdos|Defog|p1a: Garchomp
+|-unboost|p1a: Garchomp|evasion|1
+|-sideend|p2: SL21CC Mcdonald's|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|-heal|p1a: Garchomp|25/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|51/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641830318
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-heal|p1a: Garchomp|31/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|27/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641830325
+|move|p1a: Garchomp|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: SL21CC Mcdonald's|move: Stealth Rock
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|77/100 tox
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-heal|p1a: Garchomp|37/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|47/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641830331
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Zapdos|Hurricane|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-heal|p1a: Garchomp|43/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|10/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641830336
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|61/100 tox
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-damage|p2a: Zapdos|18/100 tox|[from] psn
+|upkeep
+|turn|16
+|l| water GH0ST
+|
+|t:|1641830350
+|switch|p2a: Melmetal|Melmetal|84/100
+|-damage|p2a: Melmetal|78/100|[from] Stealth Rock
+|move|p1a: Slowking|Future Sight|p2a: Melmetal
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|17
+|
+|t:|1641830357
+|switch|p1a: Corviknight|Corviknight, F, shiny|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Melmetal|Thunder Punch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|53/100
+|-damage|p2a: Melmetal|61/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|upkeep
+|turn|18
+|j| SL21CC Leviathan
+|
+|t:|1641830372
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Melmetal|Thunder Punch|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|66/100
+|-damage|p2a: Melmetal|44/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-end|p2a: Melmetal|move: Future Sight
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|15/100
+|upkeep
+|turn|19
+|-activate|p2a: Melmetal|item: Quick Claw
+|
+|t:|1641830375
+|move|p2a: Melmetal|Thunder Punch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-damage|p2a: Melmetal|0 fnt|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p1a: Corviknight
+|faint|p2a: Melmetal
+|
+|upkeep
+|c|☆SL21CC 东方不败|这
+|
+|t:|1641830386
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Slowbro|Slowbro-Galar, M|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|turn|20
+|-activate|p2a: Slowbro|item: Quick Claw
+|
+|t:|1641830388
+|move|p2a: Slowbro|Psychic|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-crit|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641830393
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|21
+|
+|t:|1641830401
+|switch|p2a: Zapdos|Zapdos|18/100 tox
+|move|p1a: Weavile|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641830405
+|switch|p2a: Clefable|Clefable, F|78/100
+|turn|22
+|j|♚aro nova
+|
+|t:|1641830408
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|move|p2a: Clefable|Focus Blast|p1a: Slowking|[miss]
+|-miss|p2a: Clefable|p1a: Slowking
+|
+|upkeep
+|turn|23
+|
+|t:|1641830412
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|-damage|p2a: Seismitoad|94/100|[from] Stealth Rock
+|move|p1a: Slowking|Future Sight|p2a: Seismitoad
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Seismitoad|100/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|raw|<div class="broadcast-red"><b>The server is restarting soon.</b><br />Please finish your battles quickly. No new battles can be started until the server resets in a few minutes.</div>
+|inactive|staff also wants the timer to be on.
+|raw|<div class="broadcast-red"><b>Moderated chat was set to +!</b><br />Only users of rank + and higher can talk.</div>
+|
+|t:|1641830416
+|switch|p1a: Garchomp|Garchomp, F, shiny|43/100
+|move|p2a: Seismitoad|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|21/100
+|
+|-heal|p1a: Garchomp|27/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641830426
+|move|p1a: Garchomp|Earthquake|p2a: Seismitoad
+|-damage|p2a: Seismitoad|56/100
+|move|p2a: Seismitoad|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|1/100
+|
+|-end|p2a: Seismitoad|move: Future Sight
+|-damage|p2a: Seismitoad|11/100
+|-heal|p1a: Garchomp|7/100|[from] item: Leftovers
+|-heal|p2a: Seismitoad|17/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641830430
+|move|p1a: Garchomp|Earthquake|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|-heal|p1a: Garchomp|14/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641830436
+|switch|p2a: Mew|Mew|100/100
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1641830440
+|move|p2a: Mew|Triple Axel|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-activate|p1a: Garchomp|ability: Rough Skin
+|-activate|p2a: Mew|item: Protective Pads
+|faint|p1a: Garchomp
+|-hitcount|p1: Garchomp|1
+|
+|upkeep
+|
+|t:|1641830442
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|28
+|
+|t:|1641830449
+|switch|p2a: Clefable|Clefable, F|78/100
+|move|p1a: Weavile|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|42/100
+|-enditem|p2a: Clefable|Life Orb|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|29
+|
+|t:|1641830457
+|move|p1a: Weavile|Triple Axel|p2a: Clefable
+|-damage|p2a: Clefable|29/100
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-hitcount|p2: Clefable|2
+|
+|upkeep
+|
+|t:|1641830460
+|switch|p2a: Slowbro|Slowbro-Galar, M|88/100
+|-damage|p2a: Slowbro|76/100|[from] Stealth Rock
+|turn|30
+|-activate|p2a: Slowbro|item: Quick Claw
+|
+|t:|1641830464
+|move|p2a: Slowbro|Nasty Plot|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|2
+|move|p1a: Weavile|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|-enditem|p2a: Slowbro|Quick Claw|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1641830466
+|switch|p2a: Mew|Mew|88/100
+|-damage|p2a: Mew|76/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1641830469
+|move|p1a: Weavile|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|-enditem|p2a: Mew|Protective Pads|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Mew
+|
+|win|SL21CC 东方不败
+|raw|SL21CC 东方不败's rating: 1349 &rarr; <strong>1360</strong><br />(+11 for winning)
+|raw|SL21CC Mcdonald&apos;s's rating: 1229 &rarr; <strong>1218</strong><br />(-11 for losing)
+|l|☆SL21CC Mcdonald's

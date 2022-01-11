@@ -1,0 +1,335 @@
+|j|☆Machala
+|j|☆El Choro 37
+|t:|1641779338
+|gametype|singles
+|player|p1|Machala|170|1303
+|player|p2|El Choro 37|drayden|1315
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Torkoal, F|
+|poke|p1|Venusaur, M|
+|poke|p1|Charizard, F|
+|poke|p1|Heliolisk, M|
+|poke|p1|Heatran, M|
+|poke|p1|Victini|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Corsola-Galar, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Machala)
+|
+|t:|1641779358
+|start
+|switch|p1a: Victini|Victini|100/100
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|turn|1
+|
+|t:|1641779364
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Victini|V-create|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|72/100
+|-unboost|p1a: Victini|spe|1
+|-unboost|p1a: Victini|def|1
+|-unboost|p1a: Victini|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Victini|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641779377
+|switch|p1a: Torkoal|Torkoal, F, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Tyranitar|Stone Edge|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|39/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641779386
+|switch|p1a: Venusaur|Venusaur, M, shiny|100/100
+|move|p2a: Tyranitar|Stone Edge|p1a: Venusaur|[miss]
+|-miss|p2a: Tyranitar|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641779391
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|2
+|-boost|p1a: Venusaur|spa|2
+|move|p2a: Tyranitar|Thunder Wave|p1a: Venusaur
+|-status|p1a: Venusaur|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641779398
+|switch|p2a: Corsola|Corsola-Galar, M|100/100
+|move|p1a: Venusaur|Giga Drain|p2a: Corsola
+|-damage|p2a: Corsola|34/100
+|-damage|p1a: Venusaur|91/100 par|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641779414
+|switch|p2a: Tyranitar|Tyranitar, M|72/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|cant|p1a: Venusaur|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Venusaur|85/100 par|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641779428
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Venusaur|Giga Drain|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|86/100
+|-heal|p1a: Venusaur|93/100 par|[from] drain|[of] p2a: Ferrothorn
+|-damage|p1a: Venusaur|83/100 par|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Venusaur|77/100 par|[from] Sandstorm
+|-heal|p2a: Ferrothorn|92/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641779439
+|switch|p1a: Torkoal|Torkoal, F, shiny|39/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Ferrothorn|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|26/100
+|-enditem|p1a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ferrothorn|98/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641779448
+|switch|p2a: Tyranitar|Tyranitar, M|72/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Torkoal|Lava Plume|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|65/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Torkoal|20/100|[from] Sandstorm
+|upkeep
+|turn|10
+|
+|t:|1641779468
+|move|p2a: Tyranitar|Stone Edge|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641779477
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|11
+|
+|t:|1641779485
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Heatran|Earth Power|p2a: Rotom
+|-immune|p2a: Rotom|[from] ability: Levitate
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Rotom|94/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1641779493
+|switch|p1a: Victini|Victini|94/100
+|move|p2a: Rotom|Volt Switch|p1a: Victini
+|-damage|p1a: Victini|65/100
+|
+|t:|1641779496
+|switch|p2a: Excadrill|Excadrill, M|100/100|[from]move: Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Victini|59/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641779503
+|move|p2a: Excadrill|Earthquake|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|-weather|none
+|upkeep
+|
+|t:|1641779513
+|switch|p1a: Heatran|Heatran, M|100/100
+|turn|14
+|
+|t:|1641779524
+|move|p2a: Excadrill|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641779530
+|switch|p1a: Charizard|Charizard, F, shiny|100/100
+|turn|15
+|
+|t:|1641779541
+|switch|p2a: Tyranitar|Tyranitar, M|65/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Charizard|Flamethrower|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|53/100
+|-status|p2a: Tyranitar|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Charizard|94/100|[from] Sandstorm
+|-damage|p2a: Tyranitar|47/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641779560
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|move|p1a: Charizard|Air Slash|p2a: Dragapult
+|-damage|p2a: Dragapult|50/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|44/100|[from] Sandstorm
+|-damage|p1a: Charizard|88/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1641779568
+|move|p2a: Dragapult|Draco Meteor|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Charizard
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|38/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641779575
+|switch|p1a: Heliolisk|Heliolisk, M, shiny|100/100
+|turn|18
+|
+|t:|1641779580
+|switch|p2a: Ferrothorn|Ferrothorn, F|98/100
+|move|p1a: Heliolisk|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|81/100
+|
+|t:|1641779585
+|switch|p1a: Venusaur|Venusaur, M, shiny|77/100 par|[from]move: Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Venusaur|71/100 par|[from] Sandstorm
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641779591
+|switch|p2a: Corsola|Corsola-Galar, M|34/100
+|move|p1a: Venusaur|Growth|p1a: Venusaur
+|-boost|p1a: Venusaur|atk|1
+|-boost|p1a: Venusaur|spa|1
+|
+|-weather|none
+|upkeep
+|turn|20
+|
+|t:|1641779598
+|move|p1a: Venusaur|Giga Drain|p2a: Corsola
+|-damage|p2a: Corsola|0 fnt
+|-heal|p1a: Venusaur|89/100 par|[from] drain|[of] p2a: Corsola
+|-start|p1a: Venusaur|Disable|Giga Drain|[from] ability: Cursed Body|[of] p2a: Corsola
+|faint|p2a: Corsola
+|-damage|p1a: Venusaur|79/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641779610
+|switch|p2a: Rotom|Rotom-Wash|94/100
+|turn|21
+|
+|t:|1641779614
+|move|p2a: Rotom|Trick|p1a: Venusaur
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Venusaur
+|-item|p1a: Venusaur|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Life Orb|[from] move: Trick
+|cant|p1a: Venusaur|par
+|
+|upkeep
+|turn|22
+|
+|t:|1641779620
+|move|p2a: Rotom|Volt Switch|p1a: Venusaur
+|-resisted|p1a: Venusaur
+|-damage|p1a: Venusaur|56/100 par
+|-damage|p2a: Rotom|84/100|[from] item: Life Orb
+|
+|t:|1641779627
+|switch|p2a: Tyranitar|Tyranitar, M|47/100 brn|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Venusaur|Sludge Bomb|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|29/100 brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Venusaur|50/100 par|[from] Sandstorm
+|-damage|p2a: Tyranitar|23/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641779638
+|switch|p1a: Heliolisk|Heliolisk, M, shiny|100/100
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Heliolisk|94/100|[from] Sandstorm
+|upkeep
+|turn|24
+|
+|t:|1641779649
+|move|p2a: Excadrill|Earthquake|p1a: Heliolisk
+|-supereffective|p1a: Heliolisk
+|-damage|p1a: Heliolisk|0 fnt
+|faint|p1a: Heliolisk
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|Machala forfeited.
+|
+|win|El Choro 37
+|raw|Machala's rating: 1303 &rarr; <strong>1284</strong><br />(-19 for losing)
+|raw|El Choro 37's rating: 1315 &rarr; <strong>1334</strong><br />(+19 for winning)
+|l|☆Machala

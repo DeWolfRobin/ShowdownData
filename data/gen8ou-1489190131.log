@@ -1,0 +1,385 @@
+|j|☆Saryx
+|j|☆woo-shiesty
+|t:|1641868734
+|gametype|singles
+|player|p1|Saryx|roxie|1048
+|player|p2|woo-shiesty|265|1096
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Cloyster, F|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Scizor, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Toxapex, F|
+|poke|p2|Pelipper, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Barraskewda, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Zapdos|
+|poke|p2|Crawdaunt, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Saryx)
+|
+|t:|1641868744
+|start
+|switch|p1a: Seiya|Grimmsnarl, M, shiny|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641868753
+|move|p1a: Seiya|Taunt|p2a: Pelipper
+|-start|p2a: Pelipper|move: Taunt
+|move|p2a: Pelipper|U-turn|p1a: Seiya
+|-damage|p1a: Seiya|91/100
+|inactive|woo-shiesty has 120 seconds left.
+|
+|t:|1641868792
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|inactive|woo-shiesty has 120 seconds left.
+|
+|t:|1641868818
+|move|p1a: Seiya|Reflect|p1a: Seiya
+|-sidestart|p1: Saryx|Reflect
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Seiya
+|-sidestart|p1: Saryx|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641868823
+|move|p1a: Seiya|Taunt|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|move: Taunt
+|cant|p2a: Ferrothorn|move: Taunt|Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641868837
+|move|p1a: Seiya|Light Screen|p1a: Seiya
+|-sidestart|p1: Saryx|move: Light Screen
+|move|p2a: Ferrothorn|Knock Off|p1a: Seiya
+|-resisted|p1a: Seiya
+|-damage|p1a: Seiya|88/100
+|-enditem|p1a: Seiya|Light Clay|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641868851
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|move|p1a: Seiya|Spirit Break|p2a: Barraskewda
+|-damage|p2a: Barraskewda|40/100
+|-unboost|p2a: Barraskewda|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641868860
+|move|p2a: Barraskewda|Close Combat|p1a: Seiya
+|-damage|p1a: Seiya|47/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|move|p1a: Seiya|Spirit Break|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641868867
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|7
+|inactive|woo-shiesty has 120 seconds left.
+|
+|t:|1641868874
+|move|p1a: Seiya|Taunt|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|move: Taunt
+|move|p2a: Ferrothorn|Power Whip|p1a: Seiya
+|-damage|p1a: Seiya|23/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641868897
+|switch|p1a: Noi|Volcarona, F, shiny|100/100
+|-damage|p1a: Noi|50/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Power Whip|p1a: Noi
+|-resisted|p1a: Noi
+|-damage|p1a: Noi|42/100
+|-status|p2a: Ferrothorn|brn|[from] ability: Flame Body|[of] p1a: Noi
+|
+|-weather|none
+|-heal|p1a: Noi|49/100|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641868907
+|switch|p2a: Crawdaunt|Crawdaunt, F|100/100
+|move|p1a: Noi|Roost|p1a: Noi
+|-heal|p1a: Noi|99/100
+|-singleturn|p1a: Noi|move: Roost
+|
+|-heal|p1a: Noi|100/100|[from] item: Leftovers
+|-sideend|p1: Saryx|Reflect
+|upkeep
+|turn|10
+|
+|t:|1641868915
+|switch|p1a: Sprite|Scizor, M, shiny|100/100
+|-damage|p1a: Sprite|88/100|[from] Stealth Rock
+|move|p2a: Crawdaunt|Swords Dance|p2a: Crawdaunt
+|-boost|p2a: Crawdaunt|atk|2
+|
+|-heal|p1a: Sprite|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641868924
+|move|p2a: Crawdaunt|Knock Off|p1a: Sprite
+|-damage|p1a: Sprite|0 fnt
+|-enditem|p1a: Sprite|Leftovers|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: Sprite
+|-damage|p2a: Crawdaunt|91/100|[from] item: Life Orb
+|
+|-sideend|p1: Saryx|move: Light Screen
+|upkeep
+|
+|t:|1641868931
+|switch|p1a: Bottles|Excadrill, M, shiny|100/100
+|-damage|p1a: Bottles|97/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641868935
+|move|p1a: Bottles|Rapid Spin|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|55/100
+|-boost|p1a: Bottles|spe|1
+|-sideend|p1: Saryx|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Bottles
+|-damage|p1a: Bottles|88/100|[from] item: Life Orb
+|move|p2a: Crawdaunt|Crabhammer|p1a: Bottles
+|-supereffective|p1a: Bottles
+|-damage|p1a: Bottles|0 fnt
+|faint|p1a: Bottles
+|-damage|p2a: Crawdaunt|45/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641868943
+|switch|p1a: Moister than a|Cloyster, F, shiny|100/100
+|turn|13
+|
+|t:|1641868946
+|move|p2a: Crawdaunt|Knock Off|p1a: Moister than a
+|-damage|p1a: Moister than a|0 fnt
+|-enditem|p1a: Moister than a|White Herb|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: Moister than a
+|-damage|p2a: Crawdaunt|36/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641868949
+|switch|p1a: Seiya|Grimmsnarl, M, shiny|23/100
+|turn|14
+|
+|t:|1641868959
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Seiya
+|-damage|p1a: Seiya|0 fnt
+|faint|p1a: Seiya
+|-damage|p2a: Crawdaunt|26/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641868961
+|switch|p1a: ☆E V I L☆|Toxapex, F, shiny|100/100
+|turn|15
+|
+|t:|1641868965
+|move|p2a: Crawdaunt|Knock Off|p1a: ☆E V I L☆
+|-damage|p1a: ☆E V I L☆|0 fnt
+|-enditem|p1a: ☆E V I L☆|Black Sludge|[from] move: Knock Off|[of] p2a: Crawdaunt
+|faint|p1a: ☆E V I L☆
+|-damage|p2a: Crawdaunt|16/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641868967
+|switch|p1a: Noi|Volcarona, F, shiny|100/100
+|turn|16
+|c|☆Saryx|gg
+|
+|t:|1641868974
+|move|p1a: Noi|Bug Buzz|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|c|☆Saryx|oh woah
+|c|☆Saryx|i expected aqua jet
+|c|☆woo-shiesty|u right lol
+|inactive|woo-shiesty has 120 seconds left.
+|
+|t:|1641869008
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|17
+|
+|t:|1641869014
+|move|p1a: Noi|Quiver Dance|p1a: Noi
+|-boost|p1a: Noi|spa|1
+|-boost|p1a: Noi|spd|1
+|-boost|p1a: Noi|spe|1
+|move|p2a: Pelipper|Hurricane|p1a: Noi
+|-supereffective|p1a: Noi
+|-damage|p1a: Noi|56/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Noi|62/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641869023
+|move|p1a: Noi|Roost|p1a: Noi
+|-heal|p1a: Noi|100/100
+|-singleturn|p1a: Noi|move: Roost
+|move|p2a: Pelipper|Hurricane|p1a: Noi
+|-supereffective|p1a: Noi
+|-damage|p1a: Noi|61/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Noi|67/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641869026
+|move|p1a: Noi|Quiver Dance|p1a: Noi
+|-boost|p1a: Noi|spa|1
+|-boost|p1a: Noi|spd|1
+|-boost|p1a: Noi|spe|1
+|move|p2a: Pelipper|Hurricane|p1a: Noi
+|-supereffective|p1a: Noi
+|-damage|p1a: Noi|36/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Noi|42/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641869035
+|move|p1a: Noi|Roost|p1a: Noi
+|-heal|p1a: Noi|92/100
+|-singleturn|p1a: Noi|move: Roost
+|move|p2a: Pelipper|Hurricane|p1a: Noi
+|-supereffective|p1a: Noi
+|-damage|p1a: Noi|61/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Noi|67/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641869045
+|move|p1a: Noi|Quiver Dance|p1a: Noi
+|-boost|p1a: Noi|spa|1
+|-boost|p1a: Noi|spd|1
+|-boost|p1a: Noi|spe|1
+|move|p2a: Pelipper|Hurricane|p1a: Noi
+|-supereffective|p1a: Noi
+|-damage|p1a: Noi|43/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Noi|49/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641869052
+|move|p1a: Noi|Roost|p1a: Noi
+|-heal|p1a: Noi|99/100
+|-singleturn|p1a: Noi|move: Roost
+|move|p2a: Pelipper|Hurricane|p1a: Noi
+|-supereffective|p1a: Noi
+|-damage|p1a: Noi|74/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Noi|80/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641869059
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Noi|Quiver Dance|p1a: Noi
+|-boost|p1a: Noi|spa|1
+|-boost|p1a: Noi|spd|1
+|-boost|p1a: Noi|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Noi|86/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641869065
+|move|p1a: Noi|Bug Buzz|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-weather|none
+|-heal|p1a: Noi|92/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641869069
+|switch|p2a: Ferrothorn|Ferrothorn, M|94/100 brn
+|turn|25
+|
+|t:|1641869074
+|move|p1a: Noi|Fiery Dance|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-boost|p1a: Noi|spa|1
+|faint|p2a: Ferrothorn
+|
+|-heal|p1a: Noi|98/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641869079
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|26
+|
+|t:|1641869086
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Noi|Bug Buzz|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Noi|100/100|[from] item: Leftovers
+|upkeep
+|-message|woo-shiesty forfeited.
+|
+|win|Saryx
+|raw|Saryx's rating: 1048 &rarr; <strong>1085</strong><br />(+37 for winning)
+|raw|woo-shiesty's rating: 1096 &rarr; <strong>1068</strong><br />(-28 for losing)
+|l|☆woo-shiesty

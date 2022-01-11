@@ -1,0 +1,159 @@
+|j|☆SoleSurvivorVGC
+|j|☆Frechdaks_official
+|t:|1641743323
+|gametype|singles
+|player|p1|SoleSurvivorVGC|hilbert|1241
+|player|p2|Frechdaks_official|acetrainer-gen4dp|1208
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Kartana|
+|poke|p1|Weavile, M|
+|poke|p1|Tapu Fini|
+|poke|p2|Slowbro, M|
+|poke|p2|Slowking, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Darmanitan, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Swampert, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Frechdaks_official)
+|c|☆SoleSurvivorVGC|glhf
+|c|☆Frechdaks_official|hf
+|
+|t:|1641743344
+|start
+|switch|p1a: Papercut|Kartana, shiny|100/100
+|switch|p2a: Swampert|Swampert, F|100/100
+|turn|1
+|
+|t:|1641743350
+|move|p1a: Papercut|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|61/100
+|-damage|p1a: Papercut|84/100|[from] item: Rocky Helmet|[of] p2a: Swampert
+|-enditem|p2a: Swampert|Rocky Helmet|[from] move: Knock Off|[of] p1a: Papercut
+|-damage|p1a: Papercut|74/100|[from] item: Life Orb
+|move|p2a: Swampert|Yawn|p1a: Papercut
+|-start|p1a: Papercut|move: Yawn|[of] p2a: Swampert
+|
+|upkeep
+|turn|2
+|
+|t:|1641743359
+|switch|p1a: Ariel|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Ariel
+|move|p2a: Swampert|Flip Turn|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|90/100
+|
+|t:|1641743364
+|switch|p2a: Excadrill|Excadrill, F|100/100|[from]move: Flip Turn
+|-ability|p2a: Excadrill|Mold Breaker
+|
+|-heal|p1a: Ariel|96/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641743374
+|switch|p1a: Pangea|Landorus-Therian, M|100/100
+|-ability|p1a: Pangea|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|move|p2a: Excadrill|Protect||[still]
+|-fail|p2a: Excadrill
+|
+|upkeep
+|turn|4
+|
+|t:|1641743379
+|move|p1a: Pangea|Stealth Rock|p2a: Excadrill
+|-sidestart|p2: Frechdaks_official|move: Stealth Rock
+|move|p2a: Excadrill|Stealth Rock|p1a: Pangea
+|-sidestart|p1: SoleSurvivorVGC|move: Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1641743389
+|move|p1a: Pangea|Earthquake|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1641743395
+|switch|p2a: Swampert|Swampert, F|61/100
+|-damage|p2a: Swampert|54/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641743418
+|move|p1a: Pangea|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|10/100
+|move|p2a: Swampert|Toxic|p1a: Pangea
+|-status|p1a: Pangea|tox
+|
+|-damage|p1a: Pangea|94/100 tox|[from] psn
+|-fieldend|Misty Terrain
+|upkeep
+|turn|7
+|
+|t:|1641743430
+|move|p1a: Pangea|Earthquake|p2a: Swampert
+|-crit|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|-damage|p1a: Pangea|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1641743438
+|switch|p2a: Kommo-o|Kommo-o, M, shiny|100/100
+|-damage|p2a: Kommo-o|94/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641743446
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|69/100
+|move|p1a: Pangea|U-turn|p2a: Kommo-o
+|-resisted|p2a: Kommo-o
+|-activate|p2a: Kommo-o|move: Substitute|[damage]
+|
+|t:|1641743454
+|switch|p1a: Subzero|Weavile, M|100/100|[from]move: U-turn
+|-ability|p1a: Subzero|Pressure
+|
+|upkeep
+|turn|9
+|
+|t:|1641743458
+|move|p1a: Subzero|Triple Axel|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|28/100
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|-hitcount|p2: Kommo-o|3
+|
+|upkeep
+|-message|Frechdaks_official forfeited.
+|
+|win|SoleSurvivorVGC
+|raw|SoleSurvivorVGC's rating: 1241 &rarr; <strong>1264</strong><br />(+23 for winning)
+|raw|Frechdaks_official's rating: 1208 &rarr; <strong>1185</strong><br />(-23 for losing)
+|l|☆Frechdaks_official

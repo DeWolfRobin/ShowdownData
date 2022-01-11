@@ -1,0 +1,443 @@
+|j|☆kekml
+|j|☆cliffheart
+|t:|1641817775
+|gametype|singles
+|player|p1|kekml|1|1000
+|player|p2|cliffheart|rr-soniayamper|1201
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|rule|Z-Move Clause: Z-Moves are banned
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Tangrowth, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Lopunny, F|
+|poke|p1|Kyurem|
+|poke|p2|Pelipper, M|
+|poke|p2|Rhyperior, M|
+|poke|p2|Lapras, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Tapu Koko|
+|teampreview
+|c|☆cliffheart|glhf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by cliffheart)
+|c|☆kekml|hf
+|j| Czarlsrizo
+|c| Czarlsrizo|hello
+|
+|t:|1641817795
+|start
+|switch|p1a: Kyurem|Kyurem|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-ability|p1a: Kyurem|Pressure
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641817804
+|switch|p2a: Rhyperior|Rhyperior, M, shiny|100/100
+|move|p1a: Kyurem|Ice Beam|p2a: Rhyperior
+|-supereffective|p2a: Rhyperior
+|-damage|p2a: Rhyperior|0 fnt
+|faint|p2a: Rhyperior
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641817813
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|2
+|
+|t:|1641817817
+|switch|p1a: Tangrowth|Tangrowth, F|100/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Tangrowth
+|-resisted|p1a: Tangrowth
+|-crit|p1a: Tangrowth
+|-damage|p1a: Tangrowth|92/100
+|-resisted|p1a: Tangrowth
+|-crit|p1a: Tangrowth
+|-damage|p1a: Tangrowth|85/100
+|-resisted|p1a: Tangrowth
+|-crit|p1a: Tangrowth
+|-damage|p1a: Tangrowth|77/100
+|-hitcount|p1a: Tangrowth|3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641817822
+|move|p2a: Urshifu|U-turn|p1a: Tangrowth
+|-supereffective|p1a: Tangrowth
+|-damage|p1a: Tangrowth|52/100
+|
+|t:|1641817828
+|switch|p2a: Pelipper|Pelipper, M|100/100|[from]move: U-turn
+|move|p1a: Tangrowth|Knock Off|p2a: Pelipper
+|-damage|p2a: Pelipper|86/100
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: Tangrowth
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|j| Yuji Idotodiri
+|
+|t:|1641817834
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Pelipper|U-turn|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|85/100
+|
+|t:|1641817837
+|switch|p2a: Lapras|Lapras, M|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lapras|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641817840
+|detailschange|p2a: Lapras|Lapras-Mega, M
+|-mega|p2a: Lapras|Lapras|Laprasite
+|move|p2a: Lapras|Boomburst|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Lapras|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641817850
+|switch|p1a: Kyurem|Kyurem|100/100
+|-ability|p1a: Kyurem|Pressure
+|turn|6
+|
+|t:|1641817853
+|switch|p2a: Corviknight|Corviknight, M, shiny|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kyurem|Freeze-Dry|p2a: Corviknight
+|-damage|p2a: Corviknight|56/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Kyurem|94/100|[from] Sandstorm
+|-heal|p2a: Corviknight|62/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641817863
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Corviknight|atk|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641817866
+|move|p1a: Landorus|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: cliffheart|move: Stealth Rock
+|move|p2a: Corviknight|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|97/100
+|
+|t:|1641817870
+|switch|p2a: Pelipper|Pelipper, M|86/100|[from]move: U-turn
+|-damage|p2a: Pelipper|61/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641817874
+|move|p1a: Landorus|Toxic|p2a: Pelipper|[miss]
+|-miss|p1a: Landorus|p2a: Pelipper
+|move|p2a: Pelipper|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|97/100
+|
+|t:|1641817887
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|-damage|p2a: Urshifu|94/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|l| Yuji Idotodiri
+|
+|t:|1641817891
+|switch|p2a: Lapras|Lapras-Mega, M|88/100
+|-damage|p2a: Lapras|75/100|[from] Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Lapras
+|-damage|p2a: Lapras|55/100
+|
+|t:|1641817899
+|switch|p1a: Lopunny|Lopunny, F|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641817907
+|switch|p2a: Corviknight|Corviknight, M, shiny|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|detailschange|p1a: Lopunny|Lopunny-Mega, F
+|-mega|p1a: Lopunny|Lopunny|Lopunnite
+|move|p1a: Lopunny|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|46/100
+|-unboost|p1a: Lopunny|def|1
+|-unboost|p1a: Lopunny|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|53/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641817917
+|move|p1a: Lopunny|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|48/100
+|
+|t:|1641817919
+|switch|p1a: Kyurem|Kyurem|94/100|[from]move: U-turn
+|-ability|p1a: Kyurem|Pressure
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|98/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-weather|none
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641817922
+|move|p1a: Kyurem|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|41/100
+|move|p2a: Corviknight|U-turn|p1a: Kyurem
+|-damage|p1a: Kyurem|81/100
+|
+|t:|1641817926
+|switch|p2a: Tapu Koko|Tapu Koko|100/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|
+|upkeep
+|turn|14
+|
+|t:|1641817931
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Koko|atk|1
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Landorus
+|-damage|p1a: Landorus|65/100
+|
+|-heal|p1a: Landorus|71/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641817937
+|move|p2a: Tapu Koko|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|67/100
+|
+|t:|1641817939
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|94/100|[from]move: U-turn
+|-damage|p2a: Urshifu|88/100|[from] Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|77/100
+|
+|t:|1641817944
+|switch|p1a: Tapu Fini|Tapu Fini|100/100|[from]move: U-turn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|
+|upkeep
+|turn|16
+|
+|t:|1641817951
+|move|p2a: Urshifu|Thunder Punch|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|54/100
+|move|p1a: Tapu Fini|Surf|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|53/100
+|
+|-heal|p1a: Tapu Fini|60/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|l| Czarlsrizo
+|
+|t:|1641817963
+|switch|p1a: Lopunny|Lopunny-Mega, F|100/100
+|move|p2a: Urshifu|Thunder Punch|p1a: Lopunny
+|-damage|p1a: Lopunny|65/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641817974
+|move|p1a: Lopunny|Fake Out|p2a: Urshifu
+|-damage|p2a: Urshifu|29/100
+|cant|p2a: Urshifu|flinch
+|
+|upkeep
+|turn|19
+|
+|t:|1641817980
+|move|p1a: Lopunny|Frustration|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641817982
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|20
+|
+|t:|1641817993
+|move|p1a: Lopunny|U-turn|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|84/100
+|
+|t:|1641817998
+|switch|p1a: Tangrowth|Tangrowth, F|86/100|[from]move: U-turn
+|move|p2a: Tapu Koko|U-turn|p1a: Tangrowth
+|-supereffective|p1a: Tangrowth
+|-damage|p1a: Tangrowth|70/100
+|-damage|p2a: Tapu Koko|67/100|[from] item: Rocky Helmet|[of] p1a: Tangrowth
+|
+|t:|1641818002
+|switch|p2a: Lapras|Lapras-Mega, M|55/100|[from]move: U-turn
+|-damage|p2a: Lapras|43/100|[from] Stealth Rock
+|
+|upkeep
+|turn|21
+|
+|t:|1641818009
+|move|p2a: Lapras|Boomburst|p1a: Tangrowth
+|-resisted|p1a: Tangrowth
+|-crit|p1a: Tangrowth
+|-damage|p1a: Tangrowth|0 fnt
+|faint|p1a: Tangrowth
+|
+|upkeep
+|
+|t:|1641818013
+|switch|p1a: Kyurem|Kyurem|81/100
+|-ability|p1a: Kyurem|Pressure
+|turn|22
+|
+|t:|1641818021
+|switch|p2a: Pelipper|Pelipper, M|61/100
+|-damage|p2a: Pelipper|37/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Kyurem|Freeze-Dry|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641818025
+|switch|p2a: Tapu Koko|Tapu Koko|67/100
+|turn|23
+|
+|t:|1641818034
+|switch|p1a: Landorus|Landorus-Therian, M|67/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Koko|atk|1
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Landorus
+|-damage|p1a: Landorus|29/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|35/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641818040
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641818042
+|switch|p1a: Lopunny|Lopunny-Mega, F|65/100
+|turn|25
+|
+|t:|1641818057
+|switch|p2a: Corviknight|Corviknight, M, shiny|41/100
+|-damage|p2a: Corviknight|29/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Lopunny|Fake Out|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|22/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|28/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641818060
+|move|p1a: Lopunny|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Lopunny|def|1
+|-unboost|p1a: Lopunny|spd|1
+|faint|p2a: Corviknight
+|
+|-weather|none
+|upkeep
+|
+|t:|1641818063
+|switch|p2a: Tapu Koko|Tapu Koko|67/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|27
+|
+|t:|1641818068
+|move|p1a: Lopunny|Frustration|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641818072
+|switch|p2a: Lapras|Lapras-Mega, M|43/100
+|-damage|p2a: Lapras|30/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641818074
+|move|p1a: Lopunny|Frustration|p2a: Lapras
+|-damage|p2a: Lapras|0 fnt
+|faint|p2a: Lapras
+|
+|win|kekml
+|raw|kekml's rating: 1000 &rarr; <strong>1068</strong><br />(+68 for winning)
+|raw|cliffheart's rating: 1201 &rarr; <strong>1177</strong><br />(-24 for losing)
+|c|☆cliffheart|gg
+|l|☆cliffheart
+|c|☆kekml|gg

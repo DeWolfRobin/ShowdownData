@@ -1,0 +1,314 @@
+|j|☆8jaggery
+|j|☆Tomato is fruit
+|t:|1641843836
+|gametype|singles
+|player|p1|8jaggery|2|1131
+|player|p2|Tomato is fruit|giovanni|1165
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, M|
+|poke|p1|Rillaboom, F|
+|poke|p1|Heatran, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Clefable, M|
+|poke|p1|Blastoise, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Alakazam, M|
+|poke|p2|Moltres-Galar|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Toxapex, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tomato is fruit)
+|
+|t:|1641843881
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Mimi|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Mimi
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641843914
+|switch|p2a: David|Ferrothorn, F, shiny|100/100
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|2
+|
+|t:|1641843925
+|switch|p2a: Happy camper|Toxapex, F, shiny|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Happy camper
+|-sidestart|p2: Tomato is fruit|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641843942
+|move|p1a: Heatran|Earth Power|p2a: Happy camper
+|-supereffective|p2a: Happy camper
+|-damage|p2a: Happy camper|46/100
+|-enditem|p2a: Happy camper|Eject Button
+|
+|t:|1641843957
+|switch|p2a: Mimi|Tapu Lele, shiny|100/100
+|-damage|p2a: Mimi|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Mimi
+|
+|upkeep
+|turn|4
+|
+|t:|1641843975
+|switch|p2a: Happy camper|Toxapex, F, shiny|79/100
+|-damage|p2a: Happy camper|67/100|[from] Stealth Rock
+|move|p1a: Heatran|Flash Cannon|p2a: Happy camper
+|-resisted|p2a: Happy camper
+|-damage|p2a: Happy camper|49/100
+|
+|upkeep
+|turn|5
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641844001
+|move|p1a: Heatran|Earth Power|p2a: Happy camper
+|-supereffective|p2a: Happy camper
+|-damage|p2a: Happy camper|0 fnt
+|faint|p2a: Happy camper
+|
+|upkeep
+|
+|t:|1641844013
+|switch|p2a: Spooner|Alakazam, M|100/100
+|turn|6
+|
+|t:|1641844020
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Spooner|Nasty Plot|p2a: Spooner
+|-boost|p2a: Spooner|spa|2
+|
+|upkeep
+|turn|7
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641844045
+|move|p1a: Rillaboom|Grassy Glide|p2a: Spooner
+|-enditem|p2a: Spooner|Focus Sash
+|-damage|p2a: Spooner|1/100
+|move|p2a: Spooner|Expanding Force|p1a: Rillaboom
+|-damage|p1a: Rillaboom|8/100
+|
+|-heal|p2a: Spooner|7/100|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|14/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|inactive|Tomato is fruit has 120 seconds left.
+|
+|t:|1641844060
+|switch|p2a: Hank|Landorus-Therian, M|100/100
+|-damage|p2a: Hank|88/100|[from] Stealth Rock
+|-ability|p2a: Hank|Intimidate|boost
+|-unboost|p1a: Rillaboom|atk|1
+|move|p1a: Rillaboom|Grassy Glide|p2a: Hank
+|-damage|p2a: Hank|60/100
+|
+|-heal|p2a: Hank|66/100|[from] item: Leftovers
+|-heal|p1a: Rillaboom|20/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|inactive|8jaggery has 120 seconds left.
+|inactive|Tomato is fruit has 120 seconds left.
+|
+|t:|1641844078
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Hank|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|89/100
+|inactive|Tomato is fruit has 120 seconds left.
+|
+|t:|1641844086
+|switch|p2a: Mimi|Tapu Lele, shiny|88/100|[from]move: U-turn
+|-damage|p2a: Mimi|76/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Mimi
+|
+|-heal|p1a: Clefable|95/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|8jaggery has 120 seconds left.
+|inactive|Tomato is fruit has 120 seconds left.
+|
+|t:|1641844098
+|move|p2a: Mimi|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641844103
+|switch|p1a: Rillaboom|Rillaboom, F|20/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|11
+|
+|t:|1641844108
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Mimi|Psyshock|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|73/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|-heal|p2a: Mimi|82/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|79/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641844121
+|switch|p2a: Hank|Landorus-Therian, M|66/100
+|-damage|p2a: Hank|53/100|[from] Stealth Rock
+|-ability|p2a: Hank|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Flash Cannon|p2a: Hank
+|-damage|p2a: Hank|17/100
+|
+|-heal|p2a: Hank|23/100|[from] item: Leftovers
+|-heal|p1a: Heatran|85/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|inactive|8jaggery has 120 seconds left.
+|
+|t:|1641844137
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p2a: Hank|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|-heal|p2a: Hank|29/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|8jaggery has 120 seconds left.
+|inactive|Tomato is fruit has 120 seconds left.
+|
+|t:|1641844168
+|switch|p2a: Mimi|Tapu Lele, shiny|82/100
+|-damage|p2a: Mimi|69/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Mimi
+|move|p1a: Hawlucha|Brave Bird|p2a: Mimi
+|-damage|p2a: Mimi|0 fnt
+|faint|p2a: Mimi
+|-damage|p1a: Hawlucha|79/100|[from] Recoil
+|
+|upkeep
+|inactive|Tomato is fruit has 120 seconds left.
+|
+|t:|1641844178
+|switch|p2a: Spooner|Alakazam, M|7/100
+|turn|15
+|inactive|Tomato is fruit has 120 seconds left.
+|
+|t:|1641844196
+|move|p1a: Hawlucha|Throat Chop|p2a: Spooner
+|-supereffective|p2a: Spooner
+|-damage|p2a: Spooner|0 fnt
+|faint|p2a: Spooner
+|
+|upkeep
+|inactive|Tomato is fruit has 120 seconds left.
+|
+|t:|1641844201
+|switch|p2a: Roast chicken|Moltres-Galar|100/100
+|turn|16
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641844231
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|move|p2a: Roast chicken|Hurricane|p1a: Blastoise
+|-damage|p1a: Blastoise|42/100
+|
+|upkeep
+|turn|17
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641844250
+|move|p1a: Blastoise|Ice Beam|p2a: Roast chicken
+|-supereffective|p2a: Roast chicken
+|-damage|p2a: Roast chicken|63/100
+|move|p2a: Roast chicken|Fiery Wrath|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|upkeep
+|inactive|8jaggery has 60 seconds left.
+|
+|t:|1641844285
+|switch|p1a: Heatran|Heatran, F|85/100
+|turn|18
+|inactive|8jaggery has 60 seconds left.
+|
+|t:|1641844292
+|switch|p2a: Hank|Landorus-Therian, M|29/100
+|-damage|p2a: Hank|17/100|[from] Stealth Rock
+|-ability|p2a: Hank|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|move|p1a: Heatran|Flamethrower|p2a: Hank
+|-damage|p2a: Hank|0 fnt
+|faint|p2a: Hank
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641844308
+|switch|p2a: David|Ferrothorn, F, shiny|100/100
+|-damage|p2a: David|95/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641844314
+|move|p1a: Heatran|Flamethrower|p2a: David
+|-supereffective|p2a: David
+|-damage|p2a: David|0 fnt
+|faint|p2a: David
+|
+|upkeep
+|
+|t:|1641844319
+|switch|p2a: Roast chicken|Moltres-Galar|63/100
+|turn|20
+|
+|t:|1641844325
+|move|p2a: Roast chicken|Nasty Plot|p2a: Roast chicken
+|-boost|p2a: Roast chicken|spa|2
+|move|p1a: Heatran|Flamethrower|p2a: Roast chicken
+|-damage|p2a: Roast chicken|24/100
+|-ability|p2a: Roast chicken|Berserk|boost
+|-boost|p2a: Roast chicken|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1641844333
+|move|p2a: Roast chicken|Fiery Wrath|p1a: Heatran
+|-damage|p1a: Heatran|4/100
+|move|p1a: Heatran|Flamethrower|p2a: Roast chicken
+|-damage|p2a: Roast chicken|0 fnt
+|faint|p2a: Roast chicken
+|
+|win|8jaggery
+|raw|8jaggery's rating: 1131 &rarr; <strong>1158</strong><br />(+27 for winning)
+|raw|Tomato is fruit's rating: 1165 &rarr; <strong>1138</strong><br />(-27 for losing)
+|l|☆Tomato is fruit
+|c|☆8jaggery|gg
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

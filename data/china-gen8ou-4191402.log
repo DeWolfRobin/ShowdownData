@@ -1,0 +1,289 @@
+|j|☆s121cc 华莱士
+|j|☆abdksr
+|t:|1641819252
+|gametype|singles
+|player|p1|s121cc 华莱士|nobeta.png|1037
+|player|p2|abdksr|liza|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Urshifu-*, M|
+|poke|p1|Weavile, M|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Corviknight, F|
+|poke|p2|Zapdos|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Weavile, M|
+|poke|p2|Slowking, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by abdksr)
+|
+|t:|1641819272
+|start
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|switch|p2a: FAKE LIFE|Urshifu-Rapid-Strike, M|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|1
+|
+|t:|1641819278
+|switch|p2a: enchantment|Slowking, M, shiny|100/100
+|move|p1a: Tapu Fini|Moonblast|p2a: enchantment
+|-damage|p2a: enchantment|80/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641819283
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: enchantment|Teleport|p2a: enchantment
+|
+|t:|1641819293
+|switch|p2a: glacier’s poetry|Weavile, M, shiny|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|3
+|
+|t:|1641819301
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: glacier’s poetry|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|70/100
+|-enditem|p1a: Corviknight|Leftovers|[from] move: Knock Off|[of] p2a: glacier’s poetry
+|
+|upkeep
+|turn|4
+|j| adreamew
+|
+|t:|1641819308
+|switch|p2a: Pleisure|Ferrothorn, M, shiny|100/100
+|move|p1a: Corviknight|U-turn|p2a: Pleisure
+|-damage|p2a: Pleisure|91/100
+|-damage|p1a: Corviknight|58/100|[from] ability: Iron Barbs|[of] p2a: Pleisure
+|
+|t:|1641819311
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|
+|-heal|p2a: Pleisure|97/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641819316
+|switch|p2a: enchantment|Slowking, M, shiny|100/100
+|move|p1a: Urshifu|Close Combat|p2a: enchantment
+|-resisted|p2a: enchantment
+|-damage|p2a: enchantment|71/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641819318
+|move|p1a: Urshifu|U-turn|p2a: enchantment
+|-supereffective|p2a: enchantment
+|-damage|p2a: enchantment|30/100
+|
+|t:|1641819321
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from]move: U-turn
+|move|p2a: enchantment|Teleport|p2a: enchantment
+|
+|t:|1641819331
+|switch|p2a: glacier’s poetry|Weavile, M, shiny|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|7
+|
+|t:|1641819335
+|switch|p2a: Pleisure|Ferrothorn, M, shiny|97/100
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|
+|-heal|p2a: Pleisure|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641819341
+|switch|p2a: ELIMINATOR|Zapdos, shiny|100/100
+|move|p1a: Urshifu|Close Combat|p2a: ELIMINATOR
+|-resisted|p2a: ELIMINATOR
+|-damage|p2a: ELIMINATOR|59/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641819349
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: ELIMINATOR|Roost|p2a: ELIMINATOR
+|-heal|p2a: ELIMINATOR|100/100
+|-singleturn|p2a: ELIMINATOR|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1641819352
+|move|p2a: ELIMINATOR|Volt Switch|p1a: Slowking
+|-damage|p1a: Slowking|84/100
+|
+|t:|1641819357
+|switch|p2a: Mandragora|Landorus-Therian, M, shiny|100/100|[from]move: Volt Switch
+|-ability|p2a: Mandragora|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|move|p1a: Slowking|Sludge Bomb|p2a: Mandragora
+|-resisted|p2a: Mandragora
+|-damage|p2a: Mandragora|87/100
+|-status|p2a: Mandragora|psn
+|
+|-heal|p2a: Mandragora|93/100 psn|[from] item: Leftovers
+|-damage|p2a: Mandragora|81/100 psn|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641819362
+|switch|p1a: Corviknight|Corviknight, F|58/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Mandragora|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-heal|p2a: Mandragora|87/100 psn|[from] item: Leftovers
+|-damage|p2a: Mandragora|75/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641819366
+|move|p2a: Mandragora|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|54/100
+|
+|t:|1641819368
+|switch|p2a: Pleisure|Ferrothorn, M, shiny|100/100|[from]move: U-turn
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|upkeep
+|turn|13
+|
+|t:|1641819376
+|move|p1a: Corviknight|Brave Bird|p2a: Pleisure
+|-damage|p2a: Pleisure|76/100
+|-damage|p1a: Corviknight|88/100|[from] ability: Iron Barbs|[of] p2a: Pleisure
+|-damage|p1a: Corviknight|81/100|[from] Recoil
+|move|p2a: Pleisure|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: s121cc 华莱士|move: Stealth Rock
+|
+|-heal|p2a: Pleisure|82/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641819381
+|move|p1a: Corviknight|Defog|p2a: Pleisure
+|-unboost|p2a: Pleisure|evasion|1
+|-sideend|p1: s121cc 华莱士|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|move|p2a: Pleisure|Leech Seed|p1a: Corviknight
+|-start|p1a: Corviknight|move: Leech Seed
+|
+|-heal|p2a: Pleisure|88/100|[from] item: Leftovers
+|-damage|p1a: Corviknight|68/100|[from] Leech Seed|[of] p2a: Pleisure
+|-heal|p2a: Pleisure|100/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641819385
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Pleisure|Stealth Rock|p1a: Slowking
+|-sidestart|p1: s121cc 华莱士|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1641819390
+|switch|p2a: enchantment|Slowking, M, shiny|64/100
+|move|p1a: Slowking|Flamethrower|p2a: enchantment
+|-resisted|p2a: enchantment
+|-damage|p2a: enchantment|55/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641819395
+|move|p1a: Slowking|Sludge Bomb|p2a: enchantment
+|-damage|p2a: enchantment|32/100
+|move|p2a: enchantment|Future Sight|p1a: Slowking
+|-start|p2a: enchantment|move: Future Sight
+|
+|upkeep
+|turn|18
+|
+|t:|1641819400
+|move|p1a: Slowking|Sludge Bomb|p2a: enchantment
+|-damage|p2a: enchantment|5/100
+|move|p2a: enchantment|Slack Off|p2a: enchantment
+|-heal|p2a: enchantment|55/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641819406
+|move|p1a: Slowking|Sludge Bomb|p2a: enchantment
+|-damage|p2a: enchantment|31/100
+|move|p2a: enchantment|Teleport|p2a: enchantment
+|
+|t:|1641819410
+|switch|p2a: FAKE LIFE|Urshifu-Rapid-Strike, M|100/100|[from]move: Teleport
+|
+|-end|p1a: Slowking|move: Future Sight
+|-damage|p1a: Slowking|82/100
+|upkeep
+|turn|20
+|
+|t:|1641819416
+|move|p2a: FAKE LIFE|Surging Strikes|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|50/100
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|20/100
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-hitcount|p1: Slowking|3
+|
+|upkeep
+|
+|t:|1641819420
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-damage|p1a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|21
+|
+|t:|1641819424
+|switch|p2a: ELIMINATOR|Zapdos, shiny|100/100
+|move|p1a: Tapu Fini|Trick|p2a: ELIMINATOR
+|-activate|p1a: Tapu Fini|move: Trick|[of] p2a: ELIMINATOR
+|-item|p2a: ELIMINATOR|Choice Scarf|[from] move: Trick
+|-item|p1a: Tapu Fini|Heavy-Duty Boots|[from] move: Trick
+|
+|upkeep
+|turn|22
+|-message|s121cc 华莱士 forfeited.
+|
+|win|abdksr
+|raw|s121cc 华莱士's rating: 1037 &rarr; <strong>1027</strong><br />(-10 for losing)
+|raw|abdksr's rating: 1000 &rarr; <strong>1050</strong><br />(+50 for winning)
+|l|☆s121cc 华莱士
+|l|☆abdksr

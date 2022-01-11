@@ -1,0 +1,400 @@
+|j|☆flygonisdragon
+|j|☆Noobisyoulul
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641709869
+|gametype|singles
+|player|p1|flygonisdragon|ninjaboy|
+|player|p2|Noobisyoulul|preschooler|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mandibuzz, F|
+|poke|p1|Jellicent, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Nidoqueen, F|
+|poke|p1|Rillaboom, M|
+|poke|p1|Hatterene, F|
+|poke|p2|Dragonite, F|
+|poke|p2|Tapu Lele|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Magnezone|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Chansey, F|
+|teampreview
+|j| Mani1517
+|j| Jazzy2
+|c|☆flygonisdragon|gl hf
+|c|☆Noobisyoulul|glhf
+|
+|t:|1641709892
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1641709904
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Rillaboom|atk|1
+|move|p1a: Rillaboom|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|91/100
+|
+|t:|1641709908
+|switch|p1a: Nidoqueen|Nidoqueen, F|100/100|[from]move: U-turn
+|
+|-heal|p2a: Landorus|97/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|j| I Have A Plan
+|
+|t:|1641709920
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Nidoqueen|Ice Beam|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|71/100
+|
+|-heal|p2a: Urshifu|78/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1641709928
+|switch|p1a: Jellicent|Jellicent, M|100/100
+|move|p2a: Urshifu|Bulk Up|p2a: Urshifu
+|-boost|p2a: Urshifu|atk|1
+|-boost|p2a: Urshifu|def|1
+|
+|-heal|p2a: Urshifu|84/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641709931
+|move|p2a: Urshifu|Thunder Punch|p1a: Jellicent
+|-supereffective|p1a: Jellicent
+|-damage|p1a: Jellicent|43/100
+|move|p1a: Jellicent|Will-O-Wisp|p2a: Urshifu
+|-status|p2a: Urshifu|brn
+|
+|-heal|p2a: Urshifu|90/100 brn|[from] Grassy Terrain
+|-heal|p1a: Jellicent|49/100|[from] Grassy Terrain
+|-damage|p2a: Urshifu|84/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641709938
+|move|p2a: Urshifu|Bulk Up|p2a: Urshifu
+|-boost|p2a: Urshifu|atk|1
+|-boost|p2a: Urshifu|def|1
+|move|p1a: Jellicent|Strength Sap|p2a: Urshifu
+|-unboost|p2a: Urshifu|atk|1
+|-heal|p1a: Jellicent|100/100
+|
+|-heal|p2a: Urshifu|90/100 brn|[from] Grassy Terrain
+|-damage|p2a: Urshifu|84/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641709944
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Jellicent|Hex|p2a: Magnezone
+|-damage|p2a: Magnezone|72/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641709950
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Magnezone|Flash Cannon|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|66/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641709957
+|switch|p2a: Landorus|Landorus-Therian, M|97/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Mandibuzz|atk|1
+|move|p1a: Mandibuzz|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|91/100
+|
+|t:|1641709962
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from]move: U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-heal|p2a: Landorus|97/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641709964
+|move|p1a: Rillaboom|Wood Hammer|p2a: Landorus
+|-damage|p2a: Landorus|2/100
+|-damage|p1a: Rillaboom|65/100|[from] Recoil
+|move|p2a: Landorus|U-turn|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|19/100
+|
+|t:|1641709971
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|upkeep
+|turn|10
+|
+|t:|1641709980
+|switch|p1a: Mandibuzz|Mandibuzz, F|66/100
+|move|p2a: Tapu Lele|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|3/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641709983
+|switch|p1a: Nidoqueen|Nidoqueen, F|100/100
+|move|p2a: Tapu Lele|Moonblast|p1a: Nidoqueen
+|-resisted|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|72/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641709987
+|move|p2a: Tapu Lele|Moonblast|p1a: Nidoqueen
+|-resisted|p1a: Nidoqueen
+|-damage|p1a: Nidoqueen|41/100
+|move|p1a: Nidoqueen|Stealth Rock|p2a: Tapu Lele
+|-sidestart|p2: Noobisyoulul|move: Stealth Rock
+|
+|upkeep
+|turn|13
+|
+|t:|1641709994
+|switch|p2a: Chansey|Chansey, F|100/100
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|move|p1a: Nidoqueen|Sludge Wave|p2a: Chansey
+|-damage|p2a: Chansey|70/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|14
+|
+|t:|1641709998
+|switch|p1a: Hatterene|Hatterene, F|100/100
+|move|p2a: Chansey|Wish|p2a: Chansey
+|
+|upkeep
+|turn|15
+|
+|t:|1641710004
+|move|p2a: Chansey|Seismic Toss|p1a: Hatterene
+|-damage|p1a: Hatterene|69/100
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p2a: Chansey|100/100|[from] move: Wish|[wisher] Chansey
+|-heal|p1a: Hatterene|75/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641710015
+|move|p2a: Chansey|Wish|p2a: Chansey
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p1a: Hatterene|81/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|c| Mani1517|nidoking or queen is trash stealth rocker
+|
+|t:|1641710021
+|switch|p2a: Magnezone|Magnezone|72/100
+|-damage|p2a: Magnezone|66/100|[from] Stealth Rock
+|move|p1a: Hatterene|Calm Mind|p1a: Hatterene
+|-boost|p1a: Hatterene|spa|1
+|-boost|p1a: Hatterene|spd|1
+|
+|-heal|p2a: Magnezone|100/100|[from] move: Wish|[wisher] Chansey
+|-heal|p1a: Hatterene|87/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641710024
+|move|p2a: Magnezone|Flash Cannon|p1a: Hatterene
+|-supereffective|p1a: Hatterene
+|-damage|p1a: Hatterene|30/100
+|move|p1a: Hatterene|Mystical Fire|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|-heal|p1a: Hatterene|36/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641710029
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|19
+|c|☆flygonisdragon|it's fine
+|
+|t:|1641710038
+|move|p2a: Tapu Lele|Moonblast|p1a: Hatterene
+|-damage|p1a: Hatterene|15/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|24/100
+|-heal|p1a: Hatterene|57/100|[from] drain|[of] p2a: Tapu Lele
+|
+|-heal|p1a: Hatterene|63/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆Noobisyoulul|ok..
+|c| Mani1517|Lando is 50/50 for this pair
+|
+|t:|1641710056
+|switch|p2a: Landorus|Landorus-Therian, M|2/100
+|-damage|p2a: Landorus|0 fnt|[from] Stealth Rock
+|faint|p2a: Landorus
+|move|p1a: Hatterene|Draining Kiss|p2: Landorus|[notarget]
+|-fail|p1a: Hatterene
+|
+|-heal|p1a: Hatterene|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641710059
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|84/100 brn
+|-damage|p2a: Urshifu|78/100 brn|[from] Stealth Rock
+|turn|21
+|c| Mani1517|specially on low ladder
+|
+|t:|1641710070
+|move|p2a: Urshifu|Surging Strikes|p1a: Hatterene
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|61/100
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|52/100
+|-crit|p1a: Hatterene
+|-damage|p1a: Hatterene|44/100
+|-hitcount|p1a: Hatterene|3
+|move|p1a: Hatterene|Draining Kiss|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Urshifu
+|faint|p2a: Urshifu
+|
+|upkeep
+|c|☆Noobisyoulul|shit
+|c| I Have A Plan|gg
+|c| Mani1517|that was some damage
+|c|☆flygonisdragon|less lando's running speed nowadays
+|c|☆Noobisyoulul|i thought u would go mandi
+|c|☆flygonisdragon|nah hat tanks
+|c|☆Noobisyoulul|im running half speed
+|inactive|Noobisyoulul has 120 seconds left.
+|
+|t:|1641710100
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641710103
+|move|p2a: Dragonite|Earthquake|p1a: Hatterene
+|-damage|p1a: Hatterene|55/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|-heal|p1a: Hatterene|100/100|[from] drain|[of] p2a: Dragonite
+|faint|p2a: Dragonite
+|
+|upkeep
+|c|☆Noobisyoulul|def evs too
+|j| BonkFace
+|j| Anonymous43567
+|c|☆Noobisyoulul|dang
+|c| Mani1517|hat is underrated
+|inactive|Noobisyoulul has 120 seconds left.
+|c|☆flygonisdragon|yeah absolute lad
+|c| I Have A Plan|why not psyshock?
+|c|☆Noobisyoulul|its at full hp
+|
+|t:|1641710135
+|switch|p2a: Tapu Lele|Tapu Lele|24/100
+|-damage|p2a: Tapu Lele|12/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641710141
+|move|p2a: Tapu Lele|Psyshock|p1a: Hatterene
+|-resisted|p1a: Hatterene
+|-damage|p1a: Hatterene|78/100
+|move|p1a: Hatterene|Draining Kiss|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|-heal|p1a: Hatterene|85/100|[from] drain|[of] p2a: Tapu Lele
+|faint|p2a: Tapu Lele
+|
+|-heal|p1a: Hatterene|91/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|j| IBeBuiltDifferent
+|c|☆Noobisyoulul|it can swotch too
+|c|☆Noobisyoulul|plus jn
+|c| I Have A Plan|man that did nothing
+|c|☆Noobisyoulul|when is was 2.5 spdef
+|c|☆Noobisyoulul|it had 36 percent
+|c|☆Noobisyoulul|hp
+|inactive|Noobisyoulul has 90 seconds left.
+|c| Mani1517|imagine chansey sweeps this team lol
+|c|☆Noobisyoulul|so unless i had crit
+|c|☆Noobisyoulul|i cant win either way
+|c|☆Noobisyoulul|gg
+|c| Mani1517|or pp stall it
+|
+|t:|1641710187
+|switch|p2a: Chansey|Chansey, F|100/100
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|turn|24
+|c|☆flygonisdragon|gg
+|c| Mani1517|gg
+|c|☆Noobisyoulul|i run wish counter chansey lol
+|
+|t:|1641710199
+|move|p1a: Hatterene|Psyshock|p2a: Chansey
+|-damage|p2a: Chansey|35/100
+|move|p2a: Chansey|Counter||[still]
+|-fail|p2a: Chansey
+|
+|-heal|p1a: Hatterene|97/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|j|+susciety
+|
+|t:|1641710204
+|move|p1a: Hatterene|Psyshock|p2a: Chansey
+|-damage|p2a: Chansey|0 fnt
+|faint|p2a: Chansey
+|
+|win|flygonisdragon
+|n|☆flygonisdragon|flygonisdragon
+|n|☆Noobisyoulul|noobisyoulul
+|n| Mani1517|mani1517
+|n| Jazzy2|jazzy2
+|n| I Have A Plan|ihaveaplan
+|n| BonkFace|bonkface
+|n| Anonymous43567|anonymous43567
+|n| IBeBuiltDifferent|ibebuiltdifferent
+|n|+susciety|susciety

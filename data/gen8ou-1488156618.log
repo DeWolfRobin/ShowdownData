@@ -1,0 +1,112 @@
+|j|☆cmhjl
+|j|☆trumpwon303
+|t:|1641723897
+|gametype|singles
+|player|p1|cmhjl|265|1233
+|player|p2|trumpwon303|102|1221
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Barraskewda, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Pelipper, F|
+|poke|p1|Volcanion|
+|poke|p1|Thundurus-Therian, M|
+|poke|p1|Blastoise, F|
+|poke|p2|Ninetales, F|
+|poke|p2|Venusaur, M|
+|poke|p2|Blacephalon|
+|poke|p2|Heatran, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Blaziken, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by trumpwon303)
+|
+|t:|1641723942
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Ninetales|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1641723954
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Pelipper|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|60/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corviknight|66/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641723964
+|move|p2a: Corviknight|U-turn|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|95/100
+|
+|t:|1641723969
+|switch|p2a: Ninetales|Ninetales, F|100/100|[from]move: U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|move|p1a: Pelipper|U-turn|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|95/100
+|
+|t:|1641723984
+|switch|p1a: Barraskewda|Barraskewda, F|100/100|[from]move: U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641723991
+|switch|p2a: Corviknight|Corviknight, M|66/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Barraskewda|Flip Turn|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|
+|t:|1641724005
+|switch|p1a: Thundurus|Thundurus-Therian, M|100/100|[from]move: Flip Turn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Corviknight|63/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641724016
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|move|p1a: Thundurus|Nasty Plot|p1a: Thundurus
+|-boost|p1a: Thundurus|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641724024
+|move|p2a: Venusaur|Growth|p2a: Venusaur
+|-boost|p2a: Venusaur|atk|2
+|-boost|p2a: Venusaur|spa|2
+|move|p1a: Thundurus|Weather Ball|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|trumpwon303 forfeited.
+|
+|win|cmhjl
+|raw|cmhjl's rating: 1233 &rarr; <strong>1257</strong><br />(+24 for winning)
+|raw|trumpwon303's rating: 1221 &rarr; <strong>1197</strong><br />(-24 for losing)
+|l|☆trumpwon303

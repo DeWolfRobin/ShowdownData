@@ -1,0 +1,275 @@
+|j|☆111gjh
+|j|☆Kudows
+|t:|1641772447
+|gametype|singles
+|player|p1|111gjh|265|1025
+|player|p2|Kudows|proton|1054
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gengar, M|
+|poke|p1|Conkeldurr, F|
+|poke|p1|Gyarados, F|
+|poke|p1|Skarmory, M|
+|poke|p1|Araquanid, F|
+|poke|p1|Volcarona, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Mew|
+|poke|p2|Zapdos|
+|poke|p2|Melmetal|
+|poke|p2|Blissey, F|
+|teampreview
+|
+|t:|1641772482
+|start
+|switch|p1a: Araquanid|Araquanid, F|100/100
+|switch|p2a: Blissey|Blissey, F|100/100
+|turn|1
+|
+|t:|1641772530
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Araquanid|Sticky Web|p2a: Zapdos
+|-sidestart|p2: Kudows|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1641772553
+|move|p2a: Zapdos|Zap Cannon|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|1/100
+|-status|p1a: Araquanid|par
+|-damage|p2a: Zapdos|91/100|[from] item: Life Orb
+|move|p1a: Araquanid|Leech Life|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|79/100
+|-heal|p1a: Araquanid|7/100 par|[from] drain|[of] p2a: Zapdos
+|
+|-heal|p1a: Araquanid|13/100 par|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641772570
+|move|p2a: Zapdos|Zap Cannon|p1a: Araquanid
+|-supereffective|p1a: Araquanid
+|-damage|p1a: Araquanid|0 fnt
+|faint|p1a: Araquanid
+|-damage|p2a: Zapdos|69/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641772585
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|turn|4
+|
+|t:|1641772597
+|move|p1a: Volcarona|Fiery Dance|p2a: Zapdos
+|-damage|p2a: Zapdos|30/100
+|move|p2a: Zapdos|Zap Cannon|p1a: Volcarona
+|-damage|p1a: Volcarona|4/100
+|-status|p1a: Volcarona|par
+|-damage|p2a: Zapdos|20/100|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1641772608
+|move|p2a: Zapdos|Hurricane|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: Zapdos|10/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641772615
+|switch|p1a: Conkeldurr|Conkeldurr, F, shiny|100/100
+|turn|6
+|
+|t:|1641772622
+|move|p1a: Conkeldurr|Mach Punch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-status|p1a: Conkeldurr|par|[from] ability: Static|[of] p2a: Zapdos
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641772641
+|switch|p2a: Mew|Mew, shiny|100/100
+|-activate|p2a: Mew|move: Sticky Web
+|-unboost|p2a: Mew|spe|1
+|turn|7
+|
+|t:|1641772650
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: Mew|Tailwind|p2a: Mew
+|-sidestart|p2: Kudows|move: Tailwind
+|
+|upkeep
+|turn|8
+|
+|t:|1641772668
+|move|p2a: Mew|Future Sight|p1a: Skarmory
+|-start|p2a: Mew|move: Future Sight
+|move|p1a: Skarmory|Stealth Rock|p2a: Mew
+|-sidestart|p2: Kudows|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1641772696
+|move|p2a: Mew|Dark Pulse|p1a: Skarmory
+|-damage|p1a: Skarmory|52/100
+|-damage|p2a: Mew|91/100|[from] item: Life Orb
+|move|p1a: Skarmory|Spikes|p2a: Mew
+|-sidestart|p2: Kudows|Spikes
+|
+|upkeep
+|turn|10
+|
+|t:|1641772720
+|move|p2a: Mew|Dark Pulse|p1a: Skarmory
+|-damage|p1a: Skarmory|9/100
+|-damage|p2a: Mew|81/100|[from] item: Life Orb
+|move|p1a: Skarmory|Roost|p1a: Skarmory
+|-heal|p1a: Skarmory|59/100
+|-singleturn|p1a: Skarmory|move: Roost
+|
+|-end|p1a: Skarmory|move: Future Sight
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|6/100
+|-damage|p2a: Mew|71/100|[from] item: Life Orb
+|-sideend|p2: Kudows|move: Tailwind
+|upkeep
+|turn|11
+|
+|t:|1641772734
+|move|p2a: Mew|Dark Pulse|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|-damage|p2a: Mew|61/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641772746
+|switch|p1a: Gengar|Gengar, M, shiny|100/100
+|turn|12
+|
+|t:|1641772769
+|move|p1a: Gengar|Psychic|p2a: Mew
+|-resisted|p2a: Mew
+|-damage|p2a: Mew|44/100
+|move|p2a: Mew|Dark Pulse|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-crit|p1a: Gengar
+|-enditem|p1a: Gengar|Focus Sash
+|-damage|p1a: Gengar|1/100
+|-damage|p2a: Mew|34/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1641772786
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Gengar|Sludge Bomb|p2a: Blissey
+|-damage|p2a: Blissey|86/100
+|-status|p2a: Blissey|psn
+|
+|-damage|p2a: Blissey|74/100 psn|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641772798
+|move|p1a: Gengar|Giga Drain|p2a: Blissey
+|-damage|p2a: Blissey|66/100 psn
+|-heal|p1a: Gengar|12/100|[from] drain|[of] p2a: Blissey
+|move|p2a: Blissey|Fire Blast|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|-damage|p2a: Blissey|53/100 psn|[from] psn
+|upkeep
+|
+|t:|1641772809
+|switch|p1a: Gyarados|Gyarados, F|100/100
+|turn|15
+|
+|t:|1641772825
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Spikes
+|-activate|p2a: Rillaboom|move: Sticky Web
+|-unboost|p2a: Rillaboom|spe|1
+|-damage|p2a: Rillaboom|76/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|-heal|p2a: Rillaboom|82/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641772843
+|move|p1a: Gyarados|Earthquake|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|70/100
+|move|p2a: Rillaboom|Drum Beating|p1a: Gyarados
+|-damage|p1a: Gyarados|27/100
+|-unboost|p1a: Gyarados|spe|1
+|
+|-heal|p1a: Gyarados|33/100|[from] item: Leftovers
+|-heal|p2a: Rillaboom|76/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1641772861
+|move|p1a: Gyarados|Waterfall|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|44/100
+|move|p2a: Rillaboom|Drum Beating|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|-heal|p2a: Rillaboom|51/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641772872
+|switch|p1a: Conkeldurr|Conkeldurr, F, shiny|100/100 par
+|turn|18
+|
+|t:|1641772877
+|move|p2a: Rillaboom|Drum Beating|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|30/100 par
+|-unboost|p1a: Conkeldurr|spe|1
+|move|p1a: Conkeldurr|Bulk Up|p1a: Conkeldurr
+|-boost|p1a: Conkeldurr|atk|1
+|-boost|p1a: Conkeldurr|def|1
+|
+|-heal|p2a: Rillaboom|57/100|[from] Grassy Terrain
+|-heal|p1a: Conkeldurr|36/100 par|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1641772890
+|cant|p1a: Conkeldurr|par
+|move|p2a: Rillaboom|Drum Beating|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|win|Kudows
+|raw|111gjh's rating: 1025 &rarr; <strong>1012</strong><br />(-13 for losing)
+|raw|Kudows's rating: 1054 &rarr; <strong>1083</strong><br />(+29 for winning)
+|l|☆111gjh
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

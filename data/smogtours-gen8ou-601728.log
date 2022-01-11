@@ -1,0 +1,371 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641753515
+|gametype|singles
+|player|p1|Rubyblood|#splxiiityrants|
+|player|p2|BIHI|#splxiiraiders|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Heatran, M|
+|poke|p1|Weavile, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Zeraora|
+|poke|p1|Slowbro, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Bisharp, F|
+|poke|p2|Blacephalon|
+|teampreview
+|c|+pais|in
+|c|☆BIHI|hf bro
+|c|☆Rubyblood|hf frérot 
+|c|+Deckline|gl
+|c|%emma|SUNDAY RAID
+|raw|<div class="broadcast-red"><strong>Moderated chat was set to ☆!</strong><br />Only users of rank ☆ and higher can talk.</div>
+|inactive|Rubyblood has 270 seconds left.
+|inactive|BIHI has 270 seconds left.
+|inactive|BIHI has 240 seconds left.
+|inactive|Rubyblood has 240 seconds left.
+|inactive|BIHI has 210 seconds left.
+|inactive|Rubyblood has 210 seconds left.
+|inactive|BIHI has 180 seconds left.
+|inactive|Rubyblood has 180 seconds left.
+|inactive|BIHI has 150 seconds left.
+|
+|t:|1641753675
+|start
+|switch|p1a: ANOTHER DAY|Slowbro, M|100/100
+|switch|p2a: Not so fast!|Landorus-Therian, M|100/100
+|-ability|p2a: Not so fast!|Intimidate|boost
+|-unboost|p1a: ANOTHER DAY|atk|1
+|turn|1
+|inactive|BIHI has 210 seconds left.
+|
+|t:|1641753680
+|move|p2a: Not so fast!|U-turn|p1a: ANOTHER DAY
+|-supereffective|p1a: ANOTHER DAY
+|-damage|p1a: ANOTHER DAY|73/100
+|
+|t:|1641753683
+|switch|p2a: Objection!|Ninetales-Alola, F|100/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Objection!
+|move|p1a: ANOTHER DAY|Future Sight|p2a: Objection!
+|-start|p1a: ANOTHER DAY|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: ANOTHER DAY|66/100|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641753712
+|move|p2a: Objection!|Aurora Veil|p2a: Objection!
+|-sidestart|p2: BIHI|move: Aurora Veil
+|move|p1a: ANOTHER DAY|Teleport|p1a: ANOTHER DAY
+|
+|t:|1641753717
+|switch|p1a: 4 DA KIDZ|Heatran, M|100/100|[from]move: Teleport
+|-item|p1a: 4 DA KIDZ|Air Balloon
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: 4 DA KIDZ|94/100|[from] Hail
+|upkeep
+|turn|3
+|inactive|Rubyblood has 210 seconds left.
+|inactive|BIHI has 210 seconds left.
+|
+|t:|1641753754
+|move|p2a: Objection!|Hypnosis|p1a: 4 DA KIDZ
+|-status|p1a: 4 DA KIDZ|slp|[from] move: Hypnosis
+|cant|p1a: 4 DA KIDZ|slp
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: 4 DA KIDZ|88/100 slp|[from] Hail
+|-end|p2a: Objection!|move: Future Sight
+|-damage|p2a: Objection!|79/100
+|upkeep
+|turn|4
+|inactive|Rubyblood has 210 seconds left.
+|
+|t:|1641753764
+|switch|p2a: Such insolence!|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Such insolence!
+|switch|p1a: TEQUILA SHOTS|Landorus-Therian, M|100/100
+|-ability|p1a: TEQUILA SHOTS|Intimidate|boost
+|-unboost|p2a: Such insolence!|atk|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: TEQUILA SHOTS|95/100|[from] Hail
+|-damage|p2a: Such insolence!|94/100|[from] Hail
+|-heal|p2a: Such insolence!|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|inactive|Rubyblood has 210 seconds left.
+|inactive|BIHI has 210 seconds left.
+|
+|t:|1641753802
+|move|p1a: TEQUILA SHOTS|U-turn|p2a: Such insolence!
+|-resisted|p2a: Such insolence!
+|-damage|p2a: Such insolence!|92/100
+|
+|t:|1641753808
+|switch|p1a: THE VOID|Tornadus-Therian, M|100/100|[from]move: U-turn
+|move|p2a: Such insolence!|Calm Mind|p2a: Such insolence!
+|-boost|p2a: Such insolence!|spa|1
+|-boost|p2a: Such insolence!|spd|1
+|
+|-weather|none
+|-heal|p2a: Such insolence!|98/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641753813
+|move|p1a: THE VOID|Defog|p2a: Such insolence!
+|-unboost|p2a: Such insolence!|evasion|1
+|-sideend|p2: BIHI|move: Aurora Veil
+|-fieldend|Misty Terrain
+|move|p2a: Such insolence!|Substitute|p2a: Such insolence!
+|-start|p2a: Such insolence!|Substitute
+|-damage|p2a: Such insolence!|73/100
+|
+|-heal|p2a: Such insolence!|80/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Rubyblood has 180 seconds left.
+|inactive|BIHI has 210 seconds left.
+|
+|t:|1641753861
+|move|p1a: THE VOID|Hurricane|p2a: Such insolence!
+|-activate|p2a: Such insolence!|move: Substitute|[damage]
+|move|p2a: Such insolence!|Calm Mind|p2a: Such insolence!
+|-boost|p2a: Such insolence!|spa|1
+|-boost|p2a: Such insolence!|spd|1
+|
+|-heal|p2a: Such insolence!|86/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641753867
+|move|p1a: THE VOID|U-turn|p2a: Such insolence!
+|-resisted|p2a: Such insolence!
+|-end|p2a: Such insolence!|Substitute
+|
+|t:|1641753869
+|switch|p1a: BEAUTIFUL TRIP|Zeraora|100/100|[from]move: U-turn
+|move|p2a: Such insolence!|Substitute|p2a: Such insolence!
+|-start|p2a: Such insolence!|Substitute
+|-damage|p2a: Such insolence!|61/100
+|
+|-heal|p2a: Such insolence!|67/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641753878
+|move|p1a: BEAUTIFUL TRIP|Plasma Fists|p2a: Such insolence!
+|-supereffective|p2a: Such insolence!
+|-end|p2a: Such insolence!|Substitute
+|move|p2a: Such insolence!|Draining Kiss|p1a: BEAUTIFUL TRIP
+|-damage|p1a: BEAUTIFUL TRIP|56/100
+|-heal|p2a: Such insolence!|98/100|[from] drain|[of] p1a: BEAUTIFUL TRIP
+|
+|-heal|p1a: BEAUTIFUL TRIP|62/100|[from] item: Leftovers
+|-heal|p2a: Such insolence!|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641753884
+|switch|p1a: THE VOID|Tornadus-Therian, M|100/100
+|switch|p2a: Not so fast!|Landorus-Therian, M|100/100
+|-ability|p2a: Not so fast!|Intimidate|boost
+|-unboost|p1a: THE VOID|atk|1
+|
+|upkeep
+|turn|11
+|inactive|BIHI has 240 seconds left.
+|
+|t:|1641753890
+|move|p1a: THE VOID|Toxic|p2a: Not so fast!
+|-status|p2a: Not so fast!|tox
+|move|p2a: Not so fast!|Toxic|p1a: THE VOID
+|-status|p1a: THE VOID|tox
+|
+|-damage|p1a: THE VOID|94/100 tox|[from] psn
+|-damage|p2a: Not so fast!|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641753904
+|move|p1a: THE VOID|Hurricane|p2a: Not so fast!|[miss]
+|-miss|p1a: THE VOID|p2a: Not so fast!
+|move|p2a: Not so fast!|U-turn|p1a: THE VOID
+|-resisted|p1a: THE VOID
+|-crit|p1a: THE VOID
+|-damage|p1a: THE VOID|79/100 tox
+|
+|t:|1641753918
+|switch|p2a: Objection!|Ninetales-Alola, F|79/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Objection!
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: THE VOID|73/100 tox|[from] Hail
+|-damage|p1a: THE VOID|61/100 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|Rubyblood has 210 seconds left.
+|inactive|BIHI has 240 seconds left.
+|
+|t:|1641753939
+|move|p1a: THE VOID|Toxic|p2a: Objection!
+|-status|p2a: Objection!|tox
+|move|p2a: Objection!|Aurora Veil|p2a: Objection!
+|-sidestart|p2: BIHI|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: THE VOID|55/100 tox|[from] Hail
+|-damage|p1a: THE VOID|37/100 tox|[from] psn
+|-damage|p2a: Objection!|73/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641753943
+|move|p1a: THE VOID|U-turn|p2a: Objection!
+|-resisted|p2a: Objection!
+|-damage|p2a: Objection!|70/100 tox
+|
+|t:|1641753959
+|switch|p1a: LORD I KNOW|Weavile, M|100/100|[from]move: U-turn
+|-ability|p1a: LORD I KNOW|Pressure
+|move|p2a: Objection!|Blizzard|p1a: LORD I KNOW
+|-resisted|p1a: LORD I KNOW
+|-damage|p1a: LORD I KNOW|77/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Objection!|58/100 tox|[from] psn
+|upkeep
+|turn|15
+|inactive|Rubyblood has 180 seconds left.
+|inactive|BIHI has 240 seconds left.
+|inactive|Rubyblood has 150 seconds left.
+|inactive|BIHI has 210 seconds left.
+|inactive|Rubyblood has 120 seconds left.
+|inactive|BIHI has 180 seconds left.
+|inactive|Rubyblood has 90 seconds left.
+|
+|t:|1641754084
+|switch|p2a: Take that!|Bisharp, F|100/100
+|move|p1a: LORD I KNOW|Knock Off|p2a: Take that!
+|-resisted|p2a: Take that!
+|-damage|p2a: Take that!|85/100
+|-enditem|p2a: Take that!|Chople Berry|[from] move: Knock Off|[of] p1a: LORD I KNOW
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Take that!|79/100|[from] Hail
+|upkeep
+|turn|16
+|inactive|Rubyblood has 90 seconds left.
+|inactive|Rubyblood has 60 seconds left.
+|
+|t:|1641754127
+|switch|p1a: ANOTHER DAY|Slowbro, M|99/100
+|move|p2a: Take that!|Swords Dance|p2a: Take that!
+|-boost|p2a: Take that!|atk|2
+|
+|-weather|none
+|upkeep
+|turn|17
+|inactive|Rubyblood has 60 seconds left.
+|
+|t:|1641754134
+|move|p2a: Take that!|Knock Off|p1a: ANOTHER DAY
+|-supereffective|p1a: ANOTHER DAY
+|-enditem|p1a: ANOTHER DAY|Colbur Berry|[eat]
+|-enditem|p1a: ANOTHER DAY|Colbur Berry|[weaken]
+|-damage|p1a: ANOTHER DAY|32/100
+|move|p1a: ANOTHER DAY|Body Press|p2a: Take that!
+|-supereffective|p2a: Take that!
+|-damage|p2a: Take that!|17/100
+|
+|upkeep
+|turn|18
+|inactive|Rubyblood has 60 seconds left.
+|
+|t:|1641754162
+|move|p2a: Take that!|Knock Off|p1a: ANOTHER DAY
+|-supereffective|p1a: ANOTHER DAY
+|-damage|p1a: ANOTHER DAY|0 fnt
+|faint|p1a: ANOTHER DAY
+|
+|upkeep
+|inactive|Rubyblood has 30 seconds left.
+|
+|t:|1641754186
+|switch|p1a: LORD I KNOW|Weavile, M|77/100
+|-ability|p1a: LORD I KNOW|Pressure
+|turn|19
+|inactive|BIHI has 180 seconds left.
+|
+|t:|1641754205
+|move|p1a: LORD I KNOW|Triple Axel|p2a: Take that!|[miss]
+|-miss|p1a: LORD I KNOW|p2a: Take that!
+|move|p2a: Take that!|Iron Head|p1a: LORD I KNOW
+|-supereffective|p1a: LORD I KNOW
+|-damage|p1a: LORD I KNOW|0 fnt
+|faint|p1a: LORD I KNOW
+|
+|upkeep
+|inactive|Rubyblood has 30 seconds left.
+|
+|t:|1641754215
+|switch|p1a: THE VOID|Tornadus-Therian, M|71/100 tox
+|turn|20
+|inactive|Rubyblood has 30 seconds left.
+|
+|t:|1641754233
+|move|p1a: THE VOID|Hurricane|p2a: Take that!|[miss]
+|-miss|p1a: THE VOID|p2a: Take that!
+|move|p2a: Take that!|Rock Polish|p2a: Take that!
+|-boost|p2a: Take that!|spe|2
+|
+|-damage|p1a: THE VOID|65/100 tox|[from] psn
+|-sideend|p2: BIHI|move: Aurora Veil
+|upkeep
+|turn|21
+|
+|t:|1641754237
+|move|p2a: Take that!|Knock Off|p1a: THE VOID
+|-damage|p1a: THE VOID|0 fnt
+|-enditem|p1a: THE VOID|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Take that!
+|faint|p1a: THE VOID
+|
+|upkeep
+|
+|t:|1641754240
+|switch|p1a: 4 DA KIDZ|Heatran, M|88/100 slp
+|-item|p1a: 4 DA KIDZ|Air Balloon
+|turn|22
+|
+|t:|1641754242
+|move|p2a: Take that!|Knock Off|p1a: 4 DA KIDZ
+|-damage|p1a: 4 DA KIDZ|0 fnt
+|-enditem|p1a: 4 DA KIDZ|Air Balloon
+|faint|p1a: 4 DA KIDZ
+|
+|upkeep
+|-message|Rubyblood forfeited.
+|
+|win|BIHI
+|c|☆BIHI|déso mec
+|c|☆BIHI|gg
+|c|☆Rubyblood|gg
+|player|p1|Rubyblood|#splxiiityrants

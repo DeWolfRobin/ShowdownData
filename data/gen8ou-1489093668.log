@@ -1,0 +1,347 @@
+|j|☆Bunnyhop 54
+|j|☆Kengan_Omega_Koga
+|t:|1641855777
+|gametype|singles
+|player|p1|Bunnyhop 54|lyra|1087
+|player|p2|Kengan_Omega_Koga|1|1137
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Celesteela|
+|poke|p1|Regieleki|
+|poke|p1|Blissey, F|
+|poke|p1|Primarina, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Zarude|
+|poke|p2|Tapu Koko|
+|poke|p2|Thundurus-Therian, M|
+|poke|p2|Xurkitree|
+|teampreview
+|
+|t:|1641855781
+|start
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blissey|atk|1
+|turn|1
+|
+|t:|1641855790
+|move|p2a: Landorus|Stealth Rock|p1a: Blissey
+|-sidestart|p1: Bunnyhop 54|move: Stealth Rock
+|move|p1a: Blissey|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Kengan_Omega_Koga|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641855808
+|switch|p1a: Primarina|Primarina, F|100/100
+|-damage|p1a: Primarina|88/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Primarina
+|-damage|p1a: Primarina|8/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641855818
+|switch|p1a: Celesteela|Celesteela|100/100
+|-damage|p1a: Celesteela|88/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Celesteela
+|-immune|p1a: Celesteela
+|
+|upkeep
+|turn|4
+|c|☆Kengan_Omega_Koga|!weakness celesteela
+|c| Kengan_Omega_Koga|/raw <div class="infobox">Celesteela (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Electric, Fire<br /><span class="message-effect-resist">Resistances</span>: <b>Bug</b>, Dragon, Fairy, Flying, <b>Grass</b>, Normal, Psychic, Steel<br /><span class="message-effect-immune">Immunities</span>: Ground, Poison, Sandstorm damage, Toxic</div>
+|
+|t:|1641855853
+|move|p2a: Landorus|Stone Edge|p1a: Celesteela
+|-damage|p1a: Celesteela|56/100
+|move|p1a: Celesteela|Meteor Beam||[still]
+|-prepare|p1a: Celesteela|Meteor Beam
+|-boost|p1a: Celesteela|spa|1
+|-enditem|p1a: Celesteela|Power Herb
+|-anim|p1a: Celesteela|Meteor Beam|p2a: Landorus|[miss]
+|-miss|p1a: Celesteela|p2a: Landorus
+|
+|upkeep
+|turn|5
+|
+|t:|1641855866
+|move|p2a: Landorus|Stone Edge|p1a: Celesteela
+|-damage|p1a: Celesteela|20/100
+|move|p1a: Celesteela|Air Slash|p2a: Landorus
+|-damage|p2a: Landorus|29/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641855876
+|move|p2a: Landorus|Stone Edge|p1a: Celesteela
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|
+|upkeep
+|
+|t:|1641855883
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|7
+|
+|t:|1641855890
+|move|p1a: Rillaboom|Fake Out|p2a: Landorus
+|-damage|p2a: Landorus|13/100
+|cant|p2a: Landorus|flinch
+|
+|-heal|p1a: Rillaboom|94/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641855898
+|move|p1a: Rillaboom|Grassy Glide|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641855912
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-damage|p2a: Tapu Koko|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|9
+|
+|t:|1641855922
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Blissey
+|-damage|p1a: Blissey|59/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641855951
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Blissey
+|-damage|p1a: Blissey|29/100
+|move|p1a: Blissey|Toxic|p2a: Tapu Koko
+|-status|p2a: Tapu Koko|tox
+|
+|-damage|p2a: Tapu Koko|82/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641855960
+|switch|p1a: Regieleki|Regieleki|100/100
+|-damage|p1a: Regieleki|88/100|[from] Stealth Rock
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Regieleki
+|-resisted|p1a: Regieleki
+|-damage|p1a: Regieleki|10/100
+|
+|-damage|p2a: Tapu Koko|70/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641855973
+|move|p1a: Regieleki|Volt Switch|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|28/100 tox
+|
+|t:|1641855977
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from]move: Volt Switch
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|62/100
+|
+|-heal|p2a: Tapu Koko|34/100 tox|[from] Grassy Terrain
+|-heal|p1a: Rillaboom|68/100|[from] Grassy Terrain
+|-damage|p2a: Tapu Koko|15/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641855991
+|move|p1a: Rillaboom|Fake Out|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|-heal|p1a: Rillaboom|74/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641856004
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641856009
+|move|p2a: Dragapult|Flamethrower|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|2/100
+|move|p1a: Rillaboom|Wood Hammer|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|36/100
+|-damage|p1a: Rillaboom|0 fnt|[from] Recoil
+|faint|p1a: Rillaboom
+|
+|-heal|p2a: Dragapult|42/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641856032
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641856042
+|switch|p2a: Zarude|Zarude|100/100
+|-damage|p2a: Zarude|88/100|[from] Stealth Rock
+|move|p1a: Dragapult|Dragon Darts|p2a: Zarude
+|-damage|p2a: Zarude|67/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Zarude
+|-damage|p2a: Zarude|43/100
+|
+|-heal|p1a: Dragapult|94/100|[from] Grassy Terrain
+|-heal|p2a: Zarude|49/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641856069
+|move|p1a: Dragapult|Dragon Darts|p2a: Zarude
+|-damage|p2a: Zarude|24/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Zarude
+|-damage|p2a: Zarude|0 fnt
+|faint|p2a: Zarude
+|
+|-heal|p1a: Dragapult|99/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641856077
+|switch|p2a: Dragapult|Dragapult, F|42/100
+|-damage|p2a: Dragapult|30/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641856085
+|move|p2a: Dragapult|Draco Meteor|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641856093
+|switch|p1a: Blissey|Blissey, F|29/100
+|-damage|p1a: Blissey|16/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641856099
+|move|p2a: Dragapult|Draco Meteor|p1a: Blissey|[miss]
+|-miss|p2a: Dragapult|p1a: Blissey
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|66/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641856109
+|switch|p2a: Thundurus|Thundurus-Therian, M|100/100
+|-damage|p2a: Thundurus|76/100|[from] Stealth Rock
+|move|p1a: Blissey|Toxic|p2a: Thundurus
+|-status|p2a: Thundurus|tox
+|
+|-damage|p2a: Thundurus|70/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641856122
+|move|p2a: Thundurus|Focus Blast|p1a: Blissey|[miss]
+|-miss|p2a: Thundurus|p1a: Blissey
+|move|p1a: Blissey|Seismic Toss|p2a: Thundurus
+|-damage|p2a: Thundurus|36/100 tox
+|
+|-damage|p2a: Thundurus|24/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641856131
+|move|p2a: Thundurus|Focus Blast|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|14/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|64/100
+|
+|-damage|p2a: Thundurus|6/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641856140
+|move|p2a: Thundurus|Focus Blast|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|4/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|54/100
+|
+|-damage|p2a: Thundurus|0 fnt|[from] psn
+|faint|p2a: Thundurus
+|upkeep
+|
+|t:|1641856169
+|switch|p2a: Dragapult|Dragapult, F|30/100
+|-damage|p2a: Dragapult|17/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641856177
+|move|p2a: Dragapult|Shadow Ball|p1a: Blissey
+|-immune|p1a: Blissey
+|move|p1a: Blissey|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-damage|p2a: Dragapult|11/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641856186
+|move|p2a: Dragapult|Shadow Ball|p1a: Blissey
+|-immune|p1a: Blissey
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|-damage|p2a: Dragapult|0 fnt|[from] psn
+|faint|p2a: Dragapult
+|upkeep
+|
+|t:|1641856193
+|switch|p2a: Xurkitree|Xurkitree|100/100
+|-damage|p2a: Xurkitree|88/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1641856207
+|move|p2a: Xurkitree|Thunderbolt|p1a: Blissey
+|-damage|p1a: Blissey|78/100
+|move|p1a: Blissey|Toxic|p2a: Xurkitree
+|-status|p2a: Xurkitree|tox
+|
+|-damage|p2a: Xurkitree|82/100 tox|[from] psn
+|upkeep
+|turn|26
+|-message|Kengan_Omega_Koga forfeited.
+|
+|win|Bunnyhop 54
+|raw|Bunnyhop 54's rating: 1087 &rarr; <strong>1118</strong><br />(+31 for winning)
+|raw|Kengan_Omega_Koga's rating: 1137 &rarr; <strong>1108</strong><br />(-29 for losing)
+|l|☆Kengan_Omega_Koga

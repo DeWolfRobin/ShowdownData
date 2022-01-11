@@ -1,0 +1,362 @@
+|j|☆jayvonQquizzle
+|j|☆AmeDragmire
+|t:|1641704353
+|gametype|singles
+|player|p1|jayvonQquizzle|265|
+|player|p2|AmeDragmire|backersf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Terrakion|
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Toxicroak, M|
+|poke|p1|Kingdra, F|
+|poke|p1|Magmortar, F|
+|poke|p2|Comfey, F|
+|poke|p2|Primarina, F|
+|poke|p2|Mew|
+|poke|p2|Drapion, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Venusaur, F|
+|teampreview
+|j| xXYuuXx
+|j| jetrage
+|j| thewerehog88
+|j| wheatonwhiscash
+|j| Dougtepug
+|c| Dougtepug|Glhf
+|
+|t:|1641704982
+|start
+|switch|p1a: Adonis|Toxicroak, M|100/100
+|switch|p2a: DiscoverSans|Primarina, F|100/100
+|turn|1
+|
+|t:|1641704990
+|move|p2a: DiscoverSans|Psychic|p1a: Adonis
+|-supereffective|p1a: Adonis
+|-damage|p1a: Adonis|0 fnt
+|faint|p1a: Adonis
+|
+|upkeep
+|
+|t:|1641705006
+|switch|p1a: Tamber|Magmortar, F|100/100
+|turn|2
+|
+|t:|1641705017
+|switch|p2a: Stress Free|Venusaur, F|100/100
+|move|p1a: Tamber|Thunderbolt|p2a: Stress Free
+|-resisted|p2a: Stress Free
+|-damage|p2a: Stress Free|84/100
+|
+|upkeep
+|turn|3
+|j| Crowo
+|
+|t:|1641705026
+|switch|p1a: Zapdos?|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Zapdos?|Intimidate|boost
+|-unboost|p2a: Stress Free|atk|1
+|move|p2a: Stress Free|Earthquake|p1a: Zapdos?
+|-immune|p1a: Zapdos?
+|
+|upkeep
+|turn|4
+|
+|t:|1641705034
+|move|p1a: Zapdos?|Stealth Rock|p2a: Stress Free
+|-sidestart|p2: AmeDragmire|move: Stealth Rock
+|move|p2a: Stress Free|Giga Drain|p1a: Zapdos?
+|-damage|p1a: Zapdos?|57/100
+|-heal|p2a: Stress Free|100/100|[from] drain|[of] p1a: Zapdos?
+|
+|upkeep
+|turn|5
+|
+|t:|1641705038
+|move|p1a: Zapdos?|U-turn|p2a: Stress Free
+|-damage|p2a: Stress Free|71/100
+|
+|t:|1641705040
+|switch|p1a: Tamber|Magmortar, F|100/100|[from]move: U-turn
+|move|p2a: Stress Free|Giga Drain|p1a: Tamber
+|-resisted|p1a: Tamber
+|-damage|p1a: Tamber|80/100
+|-heal|p2a: Stress Free|80/100|[from] drain|[of] p1a: Tamber
+|
+|upkeep
+|turn|6
+|
+|t:|1641705047
+|move|p1a: Tamber|Thunderbolt|p2a: Stress Free
+|-resisted|p2a: Stress Free
+|-damage|p2a: Stress Free|65/100
+|move|p2a: Stress Free|Earthquake|p1a: Tamber
+|-supereffective|p1a: Tamber
+|-damage|p1a: Tamber|47/100
+|
+|upkeep
+|turn|7
+|l| Dougtepug
+|j| Dougtepug
+|
+|t:|1641705060
+|switch|p1a: Zapdos?|Landorus-Therian, M, shiny|57/100
+|-ability|p1a: Zapdos?|Intimidate|boost
+|-unboost|p2a: Stress Free|atk|1
+|switch|p2a: DiscoverSans|Primarina, F|100/100
+|-damage|p2a: DiscoverSans|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1641705072
+|switch|p1a: MontgumAssit|Keldeo-Resolute|100/100
+|move|p2a: DiscoverSans|Surf|p1a: MontgumAssit
+|-resisted|p1a: MontgumAssit
+|-damage|p1a: MontgumAssit|71/100
+|
+|-heal|p1a: MontgumAssit|78/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641705085
+|switch|p2a: 💋|Comfey, F|100/100
+|-damage|p2a: 💋|88/100|[from] Stealth Rock
+|move|p1a: MontgumAssit|Calm Mind|p1a: MontgumAssit
+|-boost|p1a: MontgumAssit|spa|1
+|-boost|p1a: MontgumAssit|spd|1
+|
+|-heal|p1a: MontgumAssit|84/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641705091
+|move|p1a: MontgumAssit|Scald|p2a: 💋
+|-damage|p2a: 💋|24/100
+|move|p2a: 💋|Calm Mind|p2a: 💋
+|-boost|p2a: 💋|spa|1
+|-boost|p2a: 💋|spd|1
+|
+|-heal|p1a: MontgumAssit|90/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|c| Dougtepug|Megalovania intensifies
+|
+|t:|1641705098
+|move|p2a: 💋|Draining Kiss|p1a: MontgumAssit
+|-supereffective|p1a: MontgumAssit
+|-damage|p1a: MontgumAssit|50/100
+|-heal|p2a: 💋|65/100|[from] drain|[of] p1a: MontgumAssit
+|move|p1a: MontgumAssit|Scald|p2a: 💋
+|-damage|p2a: 💋|24/100
+|
+|-heal|p1a: MontgumAssit|57/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641705103
+|move|p2a: 💋|Draining Kiss|p1a: MontgumAssit
+|-supereffective|p1a: MontgumAssit
+|-damage|p1a: MontgumAssit|19/100
+|-heal|p2a: 💋|63/100|[from] drain|[of] p1a: MontgumAssit
+|move|p1a: MontgumAssit|Scald|p2a: 💋
+|-damage|p2a: 💋|18/100
+|-status|p2a: 💋|brn
+|
+|-heal|p1a: MontgumAssit|25/100|[from] item: Leftovers
+|-damage|p2a: 💋|12/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641705116
+|switch|p1a: Zapdos?|Landorus-Therian, M, shiny|57/100
+|-ability|p1a: Zapdos?|Intimidate|boost
+|-unboost|p2a: 💋|atk|1
+|move|p2a: 💋|Draining Kiss|p1a: Zapdos?
+|-damage|p1a: Zapdos?|27/100
+|-heal|p2a: 💋|42/100 brn|[from] drain|[of] p1a: Zapdos?
+|
+|-damage|p2a: 💋|36/100 brn|[from] brn
+|upkeep
+|turn|14
+|j| Crimsora
+|
+|t:|1641705124
+|move|p2a: 💋|Draining Kiss|p1a: Zapdos?
+|-damage|p1a: Zapdos?|0 fnt
+|-heal|p2a: 💋|63/100 brn|[from] drain|[of] p1a: Zapdos?
+|faint|p1a: Zapdos?
+|
+|-damage|p2a: 💋|57/100 brn|[from] brn
+|upkeep
+|
+|t:|1641705130
+|switch|p1a: Hes Washed|Terrakion|100/100
+|turn|15
+|
+|t:|1641705138
+|move|p2a: 💋|Draining Kiss|p1a: Hes Washed
+|-supereffective|p1a: Hes Washed
+|-damage|p1a: Hes Washed|44/100
+|-heal|p2a: 💋|100/100 brn|[from] drain|[of] p1a: Hes Washed
+|move|p1a: Hes Washed|Stone Edge|p2a: 💋
+|-damage|p2a: 💋|44/100 brn
+|
+|-damage|p2a: 💋|37/100 brn|[from] brn
+|upkeep
+|turn|16
+|c| Dougtepug|Dear lord Draining kiss sweep
+|
+|t:|1641705151
+|switch|p1a: MontgumAssit|Keldeo-Resolute|25/100
+|move|p2a: 💋|Draining Kiss|p1a: MontgumAssit
+|-supereffective|p1a: MontgumAssit
+|-damage|p1a: MontgumAssit|0 fnt
+|-heal|p2a: 💋|63/100 brn|[from] drain|[of] p1a: MontgumAssit
+|faint|p1a: MontgumAssit
+|
+|-damage|p2a: 💋|56/100 brn|[from] brn
+|upkeep
+|
+|t:|1641705153
+|switch|p1a: Tamber|Magmortar, F|47/100
+|turn|17
+|
+|t:|1641705157
+|move|p2a: 💋|Draining Kiss|p1a: Tamber
+|-resisted|p1a: Tamber
+|-damage|p1a: Tamber|32/100
+|-heal|p2a: 💋|70/100 brn|[from] drain|[of] p1a: Tamber
+|move|p1a: Tamber|Clear Smog|p2a: 💋
+|-supereffective|p2a: 💋
+|-damage|p2a: 💋|32/100 brn
+|-clearboost|p2a: 💋
+|
+|-damage|p2a: 💋|26/100 brn|[from] brn
+|upkeep
+|turn|18
+|l| wheatonwhiscash
+|
+|t:|1641705165
+|switch|p2a: Stress Free|Venusaur, F|65/100
+|-damage|p2a: Stress Free|52/100|[from] Stealth Rock
+|move|p1a: Tamber|Clear Smog|p2a: Stress Free
+|-damage|p2a: Stress Free|34/100
+|-clearboost|p2a: Stress Free
+|
+|upkeep
+|turn|19
+|c| Dougtepug|Venu vs Mag?
+|j| wheatonwhiscash
+|
+|t:|1641705181
+|switch|p2a: 🤦‍♂️|Zapdos-Galar|100/100
+|-damage|p2a: 🤦‍♂️|88/100|[from] Stealth Rock
+|move|p1a: Tamber|Clear Smog|p2a: 🤦‍♂️
+|-damage|p2a: 🤦‍♂️|58/100
+|-clearboost|p2a: 🤦‍♂️
+|
+|upkeep
+|turn|20
+|
+|t:|1641705188
+|move|p2a: 🤦‍♂️|Thunderous Kick|p1a: Tamber
+|-damage|p1a: Tamber|0 fnt
+|-status|p2a: 🤦‍♂️|brn|[from] ability: Flame Body|[of] p1a: Tamber
+|faint|p1a: Tamber
+|
+|-damage|p2a: 🤦‍♂️|52/100 brn|[from] brn
+|upkeep
+|j| Albedo's Ambition
+|
+|t:|1641705192
+|switch|p1a: 1%|Kingdra, F|100/100
+|turn|21
+|
+|t:|1641705196
+|move|p2a: 🤦‍♂️|Thunderous Kick|p1a: 1%
+|-damage|p1a: 1%|67/100
+|-unboost|p1a: 1%|def|1
+|move|p1a: 1%|Dragon Dance|p1a: 1%
+|-boost|p1a: 1%|atk|1
+|-boost|p1a: 1%|spe|1
+|
+|-damage|p2a: 🤦‍♂️|46/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641705204
+|move|p2a: 🤦‍♂️|Thunderous Kick|p1a: 1%
+|-damage|p1a: 1%|21/100
+|-unboost|p1a: 1%|def|1
+|move|p1a: 1%|Dragon Dance|p1a: 1%
+|-boost|p1a: 1%|atk|1
+|-boost|p1a: 1%|spe|1
+|
+|-damage|p2a: 🤦‍♂️|39/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641705209
+|move|p1a: 1%|Liquidation|p2a: 🤦‍♂️
+|-damage|p2a: 🤦‍♂️|0 fnt
+|faint|p2a: 🤦‍♂️
+|
+|upkeep
+|l| wheatonwhiscash
+|
+|t:|1641705214
+|switch|p2a: 💋|Comfey, F|26/100 brn
+|-damage|p2a: 💋|14/100 brn|[from] Stealth Rock
+|turn|24
+|
+|t:|1641705218
+|move|p2a: 💋|Draining Kiss|p1a: 1%
+|-supereffective|p1a: 1%
+|-damage|p1a: 1%|0 fnt
+|-heal|p2a: 💋|33/100 brn|[from] drain|[of] p1a: 1%
+|faint|p1a: 1%
+|
+|-damage|p2a: 💋|26/100 brn|[from] brn
+|upkeep
+|
+|t:|1641705220
+|switch|p1a: Hes Washed|Terrakion|44/100
+|turn|25
+|c| Dougtepug|GG
+|
+|t:|1641705226
+|move|p2a: 💋|Draining Kiss|p1a: Hes Washed
+|-supereffective|p1a: Hes Washed
+|-damage|p1a: Hes Washed|3/100
+|-heal|p2a: 💋|69/100 brn|[from] drain|[of] p1a: Hes Washed
+|move|p1a: Hes Washed|Megahorn|p2a: 💋|[miss]
+|-miss|p1a: Hes Washed|p2a: 💋
+|
+|-damage|p2a: 💋|63/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641705231
+|move|p2a: 💋|Draining Kiss|p1a: Hes Washed
+|-supereffective|p1a: Hes Washed
+|-damage|p1a: Hes Washed|0 fnt
+|-heal|p2a: 💋|65/100 brn|[from] drain|[of] p1a: Hes Washed
+|faint|p1a: Hes Washed
+|
+|win|AmeDragmire
+|c| Dougtepug|NANI
+|j| wheatonwhiscash
+|l| Dougtepug

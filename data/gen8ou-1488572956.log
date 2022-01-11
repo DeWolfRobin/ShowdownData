@@ -1,0 +1,465 @@
+|j|☆Beatstick12
+|j|☆Mr502
+|t:|1641783597
+|gametype|singles
+|player|p1|Beatstick12|burglar|1221
+|player|p2|Mr502|guitarist-gen4|1195
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Victini|
+|poke|p1|Umbreon, M|
+|poke|p1|Regieleki|
+|poke|p1|Skarmory, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Dragonite, M|
+|poke|p2|Regieleki|
+|poke|p2|Articuno-Galar|
+|poke|p2|Slowbro, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Clefable, F|
+|poke|p2|Orbeetle, M|
+|teampreview
+|
+|t:|1641783604
+|start
+|switch|p1a: French Fry|Regieleki|100/100
+|switch|p2a: Orbeetle|Orbeetle, M|100/100
+|turn|1
+|
+|t:|1641783609
+|move|p1a: French Fry|Volt Switch|p2a: Orbeetle
+|-damage|p2a: Orbeetle|58/100
+|
+|t:|1641783614
+|switch|p1a: Troy Bolton|Victini|100/100|[from]move: Volt Switch
+|move|p2a: Orbeetle|Light Screen|p2a: Orbeetle
+|-sidestart|p2: Mr502|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1641783639
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Troy Bolton|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|61/100
+|
+|t:|1641783644
+|switch|p1a: French Fry|Regieleki|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|
+|t:|1641783655
+|move|p1a: French Fry|Volt Switch|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|23/100
+|
+|t:|1641783664
+|switch|p1a: Troy Bolton|Victini|100/100|[from]move: Volt Switch
+|move|p2a: Slowbro|Body Press|p1a: Troy Bolton
+|-resisted|p1a: Troy Bolton
+|-damage|p1a: Troy Bolton|87/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641783674
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Troy Bolton|V-create|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|-unboost|p1a: Troy Bolton|spe|1
+|-unboost|p1a: Troy Bolton|def|1
+|-unboost|p1a: Troy Bolton|spd|1
+|faint|p2a: Clefable
+|
+|upkeep
+|c|☆Beatstick12|predicted
+|c|☆Mr502|lol k
+|
+|t:|1641783690
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|5
+|
+|t:|1641783696
+|switch|p1a: Umbreon|Umbreon, M|100/100
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|75/100
+|
+|-heal|p2a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|c|☆Mr502|weirdo ngl
+|c|☆Beatstick12|i wouldnt be laughing, you lost
+|c|☆Mr502|lol k
+|c|☆Beatstick12|you think you won?
+|c|☆Mr502|no
+|c|☆Beatstick12|exactly so stfu
+|c|☆Mr502|its turn 6 lol
+|
+|t:|1641783720
+|move|p2a: Dragapult|Dragon Darts|p1a: Umbreon
+|-damage|p1a: Umbreon|79/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Umbreon
+|-damage|p1a: Umbreon|58/100
+|move|p1a: Umbreon|Foul Play|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|88/100|[from] item: Leftovers
+|-heal|p1a: Umbreon|64/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|c|☆Mr502|you started this wtf lmao
+|
+|t:|1641783730
+|switch|p2a: Orbeetle|Orbeetle, M|58/100
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-heal|p1a: Umbreon|70/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|c|☆Mr502|PrEdIcTeD
+|
+|t:|1641783740
+|move|p2a: Orbeetle|Sticky Web|p1a: Umbreon
+|-sidestart|p1: Beatstick12|move: Sticky Web
+|move|p1a: Umbreon|Toxic|p2a: Orbeetle
+|-status|p2a: Orbeetle|tox
+|
+|-heal|p1a: Umbreon|100/100|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Orbeetle|52/100 tox|[from] psn
+|-sideend|p2: Mr502|move: Light Screen
+|upkeep
+|turn|9
+|c|☆Beatstick12|woahhh good job!!!!!!
+|
+|t:|1641783754
+|move|p2a: Orbeetle|Reflect|p2a: Orbeetle
+|-sidestart|p2: Mr502|Reflect
+|move|p1a: Umbreon|Wish|p1a: Umbreon
+|
+|-damage|p2a: Orbeetle|39/100 tox|[from] psn
+|upkeep
+|turn|10
+|c|☆Mr502|THANKS MAN!!!!!
+|
+|t:|1641783759
+|switch|p1a: French Fry|Regieleki|100/100
+|-activate|p1a: French Fry|move: Sticky Web
+|-unboost|p1a: French Fry|spe|1
+|move|p2a: Orbeetle|Bug Buzz|p1a: French Fry
+|-damage|p1a: French Fry|53/100
+|
+|-heal|p1a: French Fry|100/100|[from] move: Wish|[wisher] Umbreon
+|-damage|p2a: Orbeetle|21/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641783771
+|move|p1a: French Fry|Rapid Spin|p2a: Orbeetle
+|-damage|p2a: Orbeetle|16/100 tox
+|-boost|p1a: French Fry|spe|1
+|-sideend|p1: Beatstick12|Sticky Web|[from] move: Rapid Spin|[of] p1a: French Fry
+|move|p2a: Orbeetle|Bug Buzz|p1a: French Fry
+|-damage|p1a: French Fry|22/100
+|
+|-damage|p2a: Orbeetle|0 fnt|[from] psn
+|faint|p2a: Orbeetle
+|upkeep
+|c|☆Mr502|ez predict
+|
+|t:|1641783788
+|switch|p2a: Dragapult|Dragapult, M|88/100
+|turn|12
+|c|☆Beatstick12|i dont even need rocks to beat you, youre a joke
+|
+|t:|1641783802
+|move|p1a: French Fry|Volt Switch|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|56/100
+|c|☆Mr502|lol k
+|
+|t:|1641783806
+|switch|p1a: Umbreon|Umbreon, M|100/100|[from]move: Volt Switch
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|-heal|p2a: Dragapult|63/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641783811
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|38/100
+|move|p1a: Umbreon|Foul Play|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|44/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641783815
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|19/100
+|move|p1a: Umbreon|Foul Play|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-heal|p2a: Dragapult|25/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|c|☆Beatstick12|LOLOL
+|c|☆Mr502|lol
+|
+|t:|1641783822
+|switch|p2a: Slowbro|Slowbro, M|57/100
+|move|p1a: Umbreon|Foul Play|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|43/100
+|
+|upkeep
+|turn|16
+|c|☆Beatstick12|watch this
+|c|☆Mr502|predicted
+|c|☆Mr502|ngl
+|c|☆Mr502|ur kinda ass
+|c|☆Mr502|lowkey
+|
+|t:|1641783835
+|switch|p1a: French Fry|Regieleki|22/100
+|move|p2a: Slowbro|Zap Cannon|p1a: French Fry|[miss]
+|-miss|p2a: Slowbro|p1a: French Fry
+|
+|-sideend|p2: Mr502|Reflect
+|upkeep
+|turn|17
+|c|☆Beatstick12|youre losing lol
+|c|☆Beatstick12|LOL
+|c|☆Beatstick12|ZAP CANNON
+|c|☆Mr502|nice agency dodge
+|c|☆Beatstick12|LOLOLOLOLOLOLOL
+|c|☆Mr502|lol
+|c|☆Beatstick12|its a 50% accuracy move
+|c|☆Mr502|yes
+|c|☆Mr502|its amazing
+|c|☆Beatstick12|ur a dumbass for carrying it
+|
+|t:|1641783864
+|switch|p2a: Regieleki|Regieleki|100/100
+|move|p1a: French Fry|Volt Switch|p2a: Regieleki
+|-resisted|p2a: Regieleki
+|-damage|p2a: Regieleki|54/100
+|c|☆Mr502|ok lol
+|
+|t:|1641783871
+|switch|p1a: Caller ID|Dragonite, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|18
+|c|☆Mr502|nice predict my guy B)
+|
+|t:|1641783876
+|move|p1a: Caller ID|Extreme Speed|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|upkeep
+|c|☆Mr502|sheeeeeeeeeeesh
+|
+|t:|1641783882
+|switch|p2a: Articuno|Articuno-Galar|100/100
+|turn|19
+|c|☆Beatstick12|fucking iddiot
+|
+|t:|1641783889
+|move|p2a: Articuno|Substitute|p2a: Articuno
+|-start|p2a: Articuno|Substitute
+|-damage|p2a: Articuno|76/100
+|move|p1a: Caller ID|Outrage|p2a: Articuno
+|-end|p2a: Articuno|Substitute
+|
+|-heal|p2a: Articuno|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆Mr502|my guy too clean with it ngl
+|
+|t:|1641783896
+|move|p2a: Articuno|Substitute|p2a: Articuno
+|-start|p2a: Articuno|Substitute
+|-damage|p2a: Articuno|57/100
+|move|p1a: Caller ID|Outrage|p2a: Articuno|[from]lockedmove
+|-end|p2a: Articuno|Substitute
+|-start|p1a: Caller ID|confusion|[fatigue]
+|
+|-heal|p2a: Articuno|63/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641783901
+|switch|p1a: French Fry|Regieleki|22/100
+|move|p2a: Articuno|Freezing Glare|p1a: French Fry
+|-damage|p1a: French Fry|0 fnt
+|faint|p1a: French Fry
+|
+|-heal|p2a: Articuno|69/100|[from] item: Leftovers
+|upkeep
+|c|☆Mr502|ez predicts lol
+|
+|t:|1641783909
+|switch|p1a: Troy Bolton|Victini|87/100
+|turn|22
+|
+|t:|1641783915
+|switch|p2a: Slowbro|Slowbro, M|76/100
+|move|p1a: Troy Bolton|V-create|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|38/100
+|-unboost|p1a: Troy Bolton|spe|1
+|-unboost|p1a: Troy Bolton|def|1
+|-unboost|p1a: Troy Bolton|spd|1
+|
+|upkeep
+|turn|23
+|c|☆Mr502|pretty trash predict there my guy
+|c|☆Beatstick12|im pissed i didnt 6-0 ur sorry ass
+|
+|t:|1641783931
+|switch|p2a: Dragapult|Dragapult, M|25/100
+|move|p1a: Troy Bolton|V-create|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-unboost|p1a: Troy Bolton|spe|1
+|-unboost|p1a: Troy Bolton|def|1
+|-unboost|p1a: Troy Bolton|spd|1
+|faint|p2a: Dragapult
+|
+|upkeep
+|c|☆Mr502|lol k
+|c|☆Beatstick12|youre shit at this game
+|c|☆Mr502|lol
+|c|☆Beatstick12|find a new hobby
+|c|☆Mr502|says the guy who cant even 6-0 smh
+|c|☆Beatstick12|lololol
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mr502)
+|c|☆Mr502|haha
+|c|☆Mr502|top eke
+|c|☆Mr502|kek
+|c|☆Beatstick12|you lost 5-0
+|c|☆Mr502|and?
+|c|☆Beatstick12|talk when ur not ass
+|c|☆Beatstick12|loser is trying to run down the clock
+|c|☆Mr502|at least im not a salty bitch about it using a copy paste team lol
+|c|☆Beatstick12|LOLOLOLOL
+|inactive|Mr502 has 120 seconds left.
+|inactive|Mr502 has 90 seconds left.
+|c|☆Beatstick12|name one blaziken that carries earth power... you wouldnt know because you didnt even get to it lol
+|c|☆Beatstick12|hiding behind a clock lolol
+|c|☆Mr502|or maybe your so ass you couldnt find a switch-in lol
+|inactive|Mr502 has 60 seconds left.
+|n|!Beatstick12|beatstick12
+|inactive|Mr502 has 30 seconds left.
+|inactive|Mr502 has 20 seconds left.
+|inactive|Mr502 has 15 seconds left.
+|inactiveoff|Battle timer is now OFF.
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Beatstick12)
+|c|☆Mr502|should i play again?
+|c|☆Mr502|im enjoying our talk too much haha
+|inactive|Mr502 has 60 seconds left.
+|inactive|Mr502 has 30 seconds left.
+|inactive|Mr502 has 20 seconds left.
+|inactive|Mr502 has 15 seconds left.
+|
+|t:|1641784162
+|switch|p2a: Articuno|Articuno-Galar|69/100
+|turn|24
+|inactive|Mr502 has 25 seconds left this turn.
+|
+|t:|1641784167
+|move|p2a: Articuno|Agility|p2a: Articuno
+|-boost|p2a: Articuno|spe|2
+|move|p1a: Troy Bolton|V-create|p2a: Articuno
+|-crit|p2a: Articuno
+|-damage|p2a: Articuno|0 fnt
+|-unboost|p1a: Troy Bolton|spe|1
+|-unboost|p1a: Troy Bolton|def|1
+|-unboost|p1a: Troy Bolton|spd|1
+|faint|p2a: Articuno
+|
+|upkeep
+|inactive|Mr502 has 30 seconds left this turn.
+|
+|t:|1641784170
+|switch|p2a: Slowbro|Slowbro, M|72/100
+|turn|25
+|
+|t:|1641784173
+|switch|p1a: Umbreon|Umbreon, M|100/100
+|move|p2a: Slowbro|Zap Cannon|p1a: Umbreon
+|-damage|p1a: Umbreon|83/100
+|-status|p1a: Umbreon|par
+|-activate|p1a: Umbreon|ability: Synchronize
+|-status|p2a: Slowbro|par
+|
+|-heal|p1a: Umbreon|90/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|c|☆Mr502|I WILL HIT ZAP CANNON
+|c|☆Mr502|lmaooooooooooo
+|c|☆Mr502|oops
+|c|☆Mr502|gg my guy :)
+|
+|t:|1641784194
+|switch|p1a: Any %|Blaziken, M|100/100
+|move|p2a: Slowbro|Body Press|p1a: Any %
+|-damage|p1a: Any %|60/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641784199
+|move|p1a: Any %|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|38/100 par
+|-enditem|p2a: Slowbro|Assault Vest|[from] move: Knock Off|[of] p1a: Any %
+|move|p2a: Slowbro|Scald|p1a: Any %
+|-supereffective|p1a: Any %
+|-crit|p1a: Any %
+|-damage|p1a: Any %|0 fnt
+|faint|p1a: Any %
+|
+|upkeep
+|
+|t:|1641784206
+|switch|p1a: Troy Bolton|Victini|87/100
+|turn|28
+|inactive|Mr502 has 30 seconds left.
+|
+|t:|1641784243
+|move|p1a: Troy Bolton|Bolt Strike|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|win|Beatstick12
+|inactive|Mr502 has 30 seconds left this turn.
+|raw|Beatstick12's rating: 1221 &rarr; <strong>1244</strong><br />(+23 for winning)
+|raw|Mr502's rating: 1195 &rarr; <strong>1172</strong><br />(-23 for losing)
+|l|☆Mr502

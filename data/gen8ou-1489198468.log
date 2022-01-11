@@ -1,0 +1,506 @@
+|j|☆Kutscher
+|j|☆buzbee2000
+|t:|1641869862
+|gametype|singles
+|player|p1|Kutscher|265|1546
+|player|p2|buzbee2000|rood|1605
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Regieleki|
+|poke|p1|Weavile, F|
+|poke|p1|Slowking, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Reuniclus, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Kartana|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Kutscher)
+|
+|t:|1641869894
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Hippowdon|Hippowdon, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hippowdon|atk|1
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1641869897
+|move|p1a: Landorus|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|move|p2a: Hippowdon|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|-damage|p2a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641869903
+|move|p1a: Landorus|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: buzbee2000|move: Stealth Rock
+|move|p2a: Hippowdon|Stealth Rock|p1a: Landorus
+|-sidestart|p1: Kutscher|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|100/100 tox|[from] item: Leftovers
+|-heal|p2a: Hippowdon|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|88/100 tox|[from] psn
+|-damage|p2a: Hippowdon|88/100 tox|[from] psn
+|upkeep
+|turn|3
+|j| Batataplays
+|
+|t:|1641869917
+|switch|p2a: Corviknight|Corviknight, M, shiny|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100
+|
+|t:|1641869925
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|95/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641869931
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|100/100
+|move|p1a: Ferrothorn|Power Whip|p2a: Reuniclus
+|-damage|p2a: Reuniclus|72/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Reuniclus|78/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641869941
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Reuniclus|Focus Blast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|85/100
+|
+|-weather|none
+|-heal|p2a: Reuniclus|84/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641869950
+|move|p2a: Reuniclus|Calm Mind|p2a: Reuniclus
+|-boost|p2a: Reuniclus|spa|1
+|-boost|p2a: Reuniclus|spd|1
+|move|p1a: Slowking|Future Sight|p2a: Reuniclus
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Reuniclus|90/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641869959
+|move|p2a: Reuniclus|Focus Blast|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|70/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641869973
+|switch|p1a: Zapdos|Zapdos-Galar|100/100|[from]move: Teleport
+|-damage|p1a: Zapdos|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Reuniclus|96/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641869977
+|move|p1a: Zapdos|U-turn|p2a: Reuniclus
+|-supereffective|p2a: Reuniclus
+|-damage|p2a: Reuniclus|47/100
+|
+|t:|1641869980
+|switch|p1a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Reuniclus|Psyshock|p1a: Weavile
+|-immune|p1a: Weavile
+|
+|-end|p2a: Reuniclus|move: Future Sight
+|-resisted|p2a: Reuniclus
+|-damage|p2a: Reuniclus|35/100
+|-heal|p2a: Reuniclus|41/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641869991
+|switch|p2a: Corviknight|Corviknight, M, shiny|91/100
+|-damage|p2a: Corviknight|78/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Weavile|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|49/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|10
+|
+|t:|1641870001
+|move|p1a: Weavile|Triple Axel|p2a: Corviknight
+|-damage|p2a: Corviknight|42/100
+|-damage|p2a: Corviknight|30/100
+|-damage|p2a: Corviknight|12/100
+|-hitcount|p2a: Corviknight|3
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|62/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|11
+|
+|t:|1641870016
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Corviknight|U-turn|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|76/100
+|
+|t:|1641870022
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|41/100|[from]move: U-turn
+|
+|-heal|p2a: Reuniclus|47/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641870028
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|97/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641870043
+|switch|p1a: Weavile|Weavile, F|100/100|[from]move: Teleport
+|-ability|p1a: Weavile|Pressure
+|
+|-heal|p2a: Reuniclus|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641870052
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Weavile|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|52/100
+|-enditem|p2a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|14
+|
+|t:|1641870062
+|switch|p1a: Slowking|Slowking, F|100/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641870067
+|move|p2a: Toxapex|Toxic|p1a: Slowking
+|-status|p1a: Slowking|tox
+|move|p1a: Slowking|Future Sight|p2a: Toxapex
+|-start|p1a: Slowking|move: Future Sight
+|
+|-damage|p1a: Slowking|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641870083
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|100/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641870096
+|switch|p1a: Regieleki|Regieleki|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|17
+|
+|t:|1641870103
+|switch|p2a: Hippowdon|Hippowdon, M, shiny|88/100 tox
+|-damage|p2a: Hippowdon|82/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Regieleki|Rapid Spin|p2a: Hippowdon
+|-damage|p2a: Hippowdon|75/100 tox
+|-boost|p1a: Regieleki|spe|1
+|-sideend|p1: Kutscher|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Regieleki
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|95/100|[from] Sandstorm
+|-end|p2a: Hippowdon|move: Future Sight
+|-damage|p2a: Hippowdon|45/100 tox
+|-heal|p2a: Hippowdon|52/100 tox|[from] item: Leftovers
+|-damage|p2a: Hippowdon|45/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641870129
+|switch|p1a: Zapdos|Zapdos-Galar|88/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|95/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|82/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Hippowdon|88/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641870138
+|move|p1a: Zapdos|Close Combat|p2a: Hippowdon
+|-damage|p2a: Hippowdon|29/100 tox
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|move|p2a: Hippowdon|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|76/100 tox|[from] Sandstorm
+|-heal|p2a: Hippowdon|35/100 tox|[from] item: Leftovers
+|-damage|p1a: Zapdos|69/100 tox|[from] psn
+|-damage|p2a: Hippowdon|16/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641870142
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Close Combat|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|58/100
+|-unboost|p1a: Zapdos|def|1
+|-unboost|p1a: Zapdos|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|63/100 tox|[from] Sandstorm
+|-damage|p2a: Toxapex|51/100|[from] Sandstorm
+|-damage|p1a: Zapdos|51/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641870147
+|switch|p1a: Regieleki|Regieleki|95/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-weather|none
+|upkeep
+|turn|22
+|
+|t:|1641870152
+|switch|p2a: Hippowdon|Hippowdon, M, shiny|16/100 tox
+|-damage|p2a: Hippowdon|10/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Regieleki|Ancient Power|p2a: Hippowdon
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|4/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|89/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|10/100 tox|[from] item: Leftovers
+|-damage|p2a: Hippowdon|4/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641870155
+|move|p1a: Regieleki|Ancient Power|p2a: Hippowdon
+|-resisted|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|83/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641870160
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|100/100
+|turn|24
+|
+|t:|1641870163
+|move|p1a: Regieleki|Electro Ball|p2a: Reuniclus
+|-damage|p2a: Reuniclus|8/100
+|move|p2a: Reuniclus|Focus Blast|p1a: Regieleki|[miss]
+|-miss|p2a: Reuniclus|p1a: Regieleki
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|77/100|[from] Sandstorm
+|-heal|p2a: Reuniclus|14/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641870176
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|move|p1a: Regieleki|Electro Ball|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Regieleki|71/100|[from] Sandstorm
+|-damage|p2a: Dragapult|54/100|[from] Sandstorm
+|upkeep
+|turn|26
+|
+|t:|1641870183
+|move|p1a: Regieleki|Volt Switch|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|22/100
+|
+|t:|1641870189
+|switch|p1a: Ferrothorn|Ferrothorn, F|95/100|[from]move: Volt Switch
+|move|p2a: Dragapult|Fire Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|none
+|upkeep
+|
+|t:|1641870197
+|switch|p1a: Regieleki|Regieleki|71/100
+|turn|27
+|
+|t:|1641870209
+|move|p1a: Regieleki|Volt Switch|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|t:|1641870216
+|switch|p1a: Weavile|Weavile, F|100/100|[from]move: Volt Switch
+|-ability|p1a: Weavile|Pressure
+|
+|upkeep
+|
+|t:|1641870224
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641870229
+|switch|p1a: Slowking|Slowking, F|100/100 tox
+|move|p2a: Toxapex|Toxic|p1a: Slowking
+|-fail|p1a: Slowking|tox
+|
+|-damage|p1a: Slowking|94/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641870232
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|14/100
+|move|p1a: Slowking|Future Sight|p2a: Reuniclus
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Reuniclus|20/100|[from] item: Leftovers
+|-damage|p1a: Slowking|82/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641870247
+|move|p2a: Reuniclus|Recover|p2a: Reuniclus
+|-heal|p2a: Reuniclus|70/100
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641870249
+|switch|p1a: Regieleki|Regieleki|71/100|[from]move: Teleport
+|
+|-heal|p2a: Reuniclus|76/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641870256
+|switch|p2a: Corviknight|Corviknight, M, shiny|62/100
+|-damage|p2a: Corviknight|50/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Regieleki|Electro Ball|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1641870258
+|switch|p2a: Kartana|Kartana, shiny|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1641870262
+|move|p1a: Regieleki|Volt Switch|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|24/100
+|l| Batataplays
+|
+|t:|1641870266
+|switch|p1a: Landorus|Landorus-Therian, M|88/100 tox|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|move|p2a: Kartana|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|42/100 tox
+|-damage|p2a: Kartana|14/100|[from] item: Life Orb
+|
+|-heal|p1a: Landorus|49/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|42/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641870281
+|move|p2a: Kartana|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|-damage|p2a: Kartana|4/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641870285
+|switch|p1a: Regieleki|Regieleki|71/100
+|turn|34
+|
+|t:|1641870290
+|move|p1a: Regieleki|Ancient Power|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641870291
+|switch|p2a: Reuniclus|Reuniclus, F, shiny|76/100
+|turn|35
+|
+|t:|1641870294
+|move|p1a: Regieleki|Electro Ball|p2a: Reuniclus
+|-damage|p2a: Reuniclus|0 fnt
+|faint|p2a: Reuniclus
+|
+|upkeep
+|-message|buzbee2000 forfeited.
+|
+|win|Kutscher
+|raw|Kutscher's rating: 1546 &rarr; <strong>1569</strong><br />(+23 for winning)
+|raw|buzbee2000's rating: 1605 &rarr; <strong>1582</strong><br />(-23 for losing)
+|l|☆buzbee2000

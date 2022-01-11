@@ -1,0 +1,189 @@
+|j|☆PocoLeCancer
+|j|☆StealthyKoala
+|t:|1641761576
+|gametype|singles
+|player|p1|PocoLeCancer|gladion-stance|1493
+|player|p2|StealthyKoala|blaine|1553
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Metagross|
+|poke|p1|Mamoswine, M|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Scizor, F|
+|poke|p1|Azelf|
+|poke|p2|Tornadus, M|
+|poke|p2|Volcanion|
+|poke|p2|Pelipper, F|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Diggersby, M|
+|poke|p2|Barraskewda, M|
+|teampreview
+|j| jetpackpotatoes
+|
+|t:|1641761616
+|start
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641761623
+|move|p1a: Mamoswine|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: StealthyKoala|move: Stealth Rock
+|move|p2a: Pelipper|Scald|p1a: Mamoswine
+|-supereffective|p1a: Mamoswine
+|-enditem|p1a: Mamoswine|Focus Sash
+|-damage|p1a: Mamoswine|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641761634
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|95/100|[from] Stealth Rock
+|move|p1a: Mamoswine|Endeavor|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|1/100
+|-damage|p1a: Mamoswine|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p1a: Mamoswine
+|-enditem|p2a: Ferrothorn|Eject Button
+|
+|t:|1641761638
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641761645
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|turn|3
+|
+|t:|1641761650
+|move|p2a: Barraskewda|Flip Turn|p1a: Crawdaunt
+|-resisted|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|50/100
+|
+|t:|1641761652
+|switch|p2a: Ferrothorn|Ferrothorn, M|1/100|[from]move: Flip Turn
+|-damage|p2a: Ferrothorn|0 fnt|[from] Stealth Rock
+|faint|p2a: Ferrothorn
+|move|p1a: Crawdaunt|Knock Off|p2: Ferrothorn|[notarget]
+|-fail|p1a: Crawdaunt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641761658
+|switch|p2a: Barraskewda|Barraskewda, M|88/100
+|-damage|p2a: Barraskewda|76/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1641761662
+|move|p2a: Barraskewda|Liquidation|p1a: Crawdaunt
+|-resisted|p1a: Crawdaunt
+|-crit|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641761667
+|switch|p1a: Metagross|Metagross|100/100
+|turn|5
+|
+|t:|1641761677
+|move|p2a: Barraskewda|Liquidation|p1a: Metagross
+|-damage|p1a: Metagross|12/100
+|move|p1a: Metagross|Zen Headbutt|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641761687
+|switch|p2a: Tornadus|Tornadus, M|100/100
+|-damage|p2a: Tornadus|76/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641761690
+|move|p2a: Tornadus|Hurricane|p1a: Metagross
+|-resisted|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641761701
+|switch|p1a: Kaijuu|Weavile, M|100/100
+|-ability|p1a: Kaijuu|Pressure
+|turn|7
+|
+|t:|1641761705
+|move|p2a: Tornadus|Tailwind|p2a: Tornadus
+|-sidestart|p2: StealthyKoala|move: Tailwind
+|move|p1a: Kaijuu|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|-enditem|p2a: Tornadus|Eject Button|[from] move: Knock Off|[of] p1a: Kaijuu
+|faint|p2a: Tornadus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641761710
+|switch|p2a: Volcanion|Volcanion|100/100
+|-damage|p2a: Volcanion|76/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641761713
+|move|p2a: Volcanion|Steam Eruption|p1a: Kaijuu
+|-damage|p1a: Kaijuu|0 fnt
+|faint|p1a: Kaijuu
+|
+|-weather|none
+|upkeep
+|
+|t:|1641761716
+|switch|p1a: Azelf|Azelf|100/100
+|turn|9
+|
+|t:|1641761719
+|move|p2a: Volcanion|Steam Eruption|p1a: Azelf
+|-damage|p1a: Azelf|0 fnt
+|faint|p1a: Azelf
+|
+|upkeep
+|
+|t:|1641761723
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|10
+|
+|t:|1641761725
+|move|p1a: Scizor|Quick Attack|p2a: Volcanion
+|-damage|p2a: Volcanion|40/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|win|StealthyKoala
+|raw|PocoLeCancer's rating: 1493 &rarr; <strong>1476</strong><br />(-17 for losing)
+|raw|StealthyKoala's rating: 1553 &rarr; <strong>1570</strong><br />(+17 for winning)
+|l|☆StealthyKoala
+|j|☆StealthyKoala
+|player|p2|StealthyKoala|blaine
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,348 @@
+|j|☆ilprofessorpoketYT
+|j|☆Segretaria Eelda
+|t:|1641846688
+|gametype|singles
+|player|p1|ilprofessorpoketYT|colress-gen7|
+|player|p2|Segretaria Eelda|veteranf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hippowdon, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Skarmory, M|
+|poke|p1|Incineroar, M|
+|poke|p2|Clawitzer, M|
+|poke|p2|Durant, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Incineroar, F|
+|poke|p2|Tapu Koko|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Segretaria Eelda)
+|inactiveoff|Battle timer is now OFF.
+|c|☆Segretaria Eelda|Molto bene. Mi raccomando, non mi deluda.
+|c|☆ilprofessorpoketYT|gl
+|
+|t:|1641846722
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Bruta|Hippowdon, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Bruta
+|turn|1
+|
+|t:|1641846742
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Klaus|Clawitzer, M, shiny|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|94/100|[from] Sandstorm
+|-damage|p2a: Klaus|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641846777
+|move|p1a: Urshifu|U-turn|p2a: Klaus
+|-damage|p2a: Klaus|54/100
+|
+|t:|1641846781
+|switch|p1a: Incineroar|Incineroar, M|100/100|[from]move: U-turn
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Klaus|atk|1
+|move|p2a: Klaus|Terrain Pulse|p1a: Incineroar
+|-immune|p1a: Incineroar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Klaus|48/100|[from] Sandstorm
+|-damage|p1a: Incineroar|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|c|☆Segretaria Eelda|Molto bene.
+|
+|t:|1641846800
+|move|p2a: Klaus|Aura Sphere|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|33/100
+|move|p1a: Incineroar|Knock Off|p2a: Klaus
+|-damage|p2a: Klaus|2/100
+|-enditem|p2a: Klaus|Assault Vest|[from] move: Knock Off|[of] p1a: Incineroar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Klaus|0 fnt|[from] Sandstorm
+|-damage|p1a: Incineroar|27/100|[from] Sandstorm
+|faint|p2a: Klaus
+|upkeep
+|
+|t:|1641846811
+|switch|p2a: Greif|Zapdos-Galar|100/100
+|turn|4
+|
+|t:|1641846826
+|move|p2a: Greif|U-turn|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|t:|1641846842
+|switch|p2a: Huhn|Tapu Koko|100/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Huhn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Huhn|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641846851
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|5
+|
+|t:|1641846859
+|switch|p2a: Nadia|Incineroar, F|100/100
+|-ability|p2a: Nadia|Intimidate|boost
+|-unboost|p1a: Tapu Lele|atk|1
+|move|p1a: Tapu Lele|Moonblast|p2a: Nadia
+|-damage|p2a: Nadia|61/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641846888
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|94/100
+|move|p2a: Nadia|Parting Shot|p1a: Urshifu
+|-unboost|p1a: Urshifu|atk|1
+|-unboost|p1a: Urshifu|spa|1
+|
+|t:|1641846907
+|switch|p2a: Huhn|Tapu Koko|94/100|[from]move: Parting Shot
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Huhn
+|
+|upkeep
+|turn|7
+|
+|t:|1641846931
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Huhn|Dazzling Gleam|p1a: Hippowdon
+|-damage|p1a: Hippowdon|58/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Huhn|88/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|64/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641846964
+|switch|p2a: Bruta|Hippowdon, F|100/100
+|move|p1a: Hippowdon|Earthquake|p2a: Bruta
+|-damage|p2a: Bruta|80/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|70/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641846984
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: Bruta|Stealth Rock|p1a: Skarmory
+|-sidestart|p1: ilprofessorpoketYT|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641846993
+|switch|p2a: Huhn|Tapu Koko|88/100
+|move|p1a: Skarmory|Spikes|p2a: Huhn
+|-sidestart|p2: Segretaria Eelda|Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Huhn|82/100|[from] Sandstorm
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|11
+|
+|t:|1641847001
+|move|p2a: Huhn|Volt Switch|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-ability|p1a: Skarmory|Sturdy
+|-damage|p1a: Skarmory|1/100
+|
+|t:|1641847007
+|switch|p2a: Bruta|Hippowdon, F|80/100|[from]move: Volt Switch
+|-damage|p2a: Bruta|67/100|[from] Spikes
+|move|p1a: Skarmory|Whirlwind|p2a: Bruta
+|drag|p2a: Nadia|Incineroar, F|61/100
+|-ability|p2a: Nadia|Intimidate|boost
+|-unboost|p1a: Skarmory|atk|1
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641847017
+|move|p1a: Skarmory|Body Press|p2a: Nadia
+|-supereffective|p2a: Nadia
+|-damage|p2a: Nadia|2/100
+|move|p2a: Nadia|Flare Blitz|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|-damage|p2a: Nadia|0 fnt|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|faint|p1a: Skarmory
+|faint|p2a: Nadia
+|
+|upkeep
+|c|☆Segretaria Eelda|Ottima mossa, pessima da parte mia.
+|
+|t:|1641847063
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|94/100
+|switch|p2a: Zeta|Durant, F|100/100
+|-damage|p1a: Urshifu|88/100|[from] Stealth Rock
+|-damage|p2a: Zeta|88/100|[from] Spikes
+|turn|13
+|c|☆Segretaria Eelda|Non demorda proprio ora, è su un'ottima strada per la vittoria!
+|
+|t:|1641847071
+|switch|p2a: Bruta|Hippowdon, F|67/100
+|-damage|p2a: Bruta|55/100|[from] Spikes
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Bruta
+|move|p1a: Urshifu|Surging Strikes|p2a: Bruta
+|-supereffective|p2a: Bruta
+|-crit|p2a: Bruta
+|-damage|p2a: Bruta|24/100
+|-damage|p1a: Urshifu|72/100|[from] item: Rocky Helmet|[of] p2a: Bruta
+|-supereffective|p2a: Bruta
+|-crit|p2a: Bruta
+|-damage|p2a: Bruta|0 fnt
+|-damage|p1a: Urshifu|55/100|[from] item: Rocky Helmet|[of] p2a: Bruta
+|faint|p2a: Bruta
+|-hitcount|p2: Bruta|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Urshifu|49/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641847086
+|switch|p2a: Greif|Zapdos-Galar|100/100
+|turn|14
+|
+|t:|1641847097
+|move|p2a: Greif|Brave Bird|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-damage|p2a: Greif|83/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Greif|77/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641847103
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|15
+|
+|t:|1641847115
+|move|p1a: Tapu Lele|Moonblast|p2a: Greif
+|-supereffective|p2a: Greif
+|-damage|p2a: Greif|0 fnt
+|faint|p2a: Greif
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641847119
+|switch|p2a: Zeta|Durant, F|88/100
+|-damage|p2a: Zeta|76/100|[from] Spikes
+|turn|16
+|
+|t:|1641847132
+|switch|p1a: Hippowdon|Hippowdon, M|70/100
+|-damage|p1a: Hippowdon|64/100|[from] Stealth Rock
+|switch|p2a: Huhn|Tapu Koko|82/100
+|-damage|p2a: Huhn|70/100|[from] Spikes
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Huhn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Huhn|63/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|70/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641847149
+|move|p2a: Huhn|Dazzling Gleam|p1a: Hippowdon
+|-damage|p1a: Hippowdon|31/100
+|move|p1a: Hippowdon|Earthquake|p2a: Huhn
+|-supereffective|p2a: Huhn
+|-damage|p2a: Huhn|0 fnt
+|faint|p2a: Huhn
+|
+|-weather|none
+|-heal|p1a: Hippowdon|37/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641847155
+|switch|p2a: Zeta|Durant, F|76/100
+|-damage|p2a: Zeta|63/100|[from] Spikes
+|turn|18
+|c|☆Segretaria Eelda|Complimenti, la vittoria è sua!
+|c|☆Segretaria Eelda|Zeta, fagliela sudare.
+|
+|t:|1641847170
+|move|p2a: Zeta|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|-damage|p2a: Zeta|53/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641847173
+|switch|p1a: Tapu Lele|Tapu Lele|82/100
+|-damage|p1a: Tapu Lele|70/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|19
+|
+|t:|1641847184
+|move|p1a: Tapu Lele|Psyshock|p2a: Zeta
+|-resisted|p2a: Zeta
+|-damage|p2a: Zeta|15/100
+|move|p2a: Zeta|Iron Head|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|-damage|p2a: Zeta|5/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641847189
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-damage|p1a: Hawlucha|88/100|[from] Stealth Rock
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|20
+|c|☆ilprofessorpoketYT|gg!
+|
+|t:|1641847195
+|move|p2a: Zeta|First Impression||[still]
+|-hint|First Impression only works on your first turn out.
+|-fail|p2a: Zeta
+|move|p1a: Hawlucha|Close Combat|p2a: Zeta
+|-damage|p2a: Zeta|0 fnt
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|faint|p2a: Zeta
+|
+|win|ilprofessorpoketYT
+|c|☆Segretaria Eelda|Ormai ha compreso le mie tecniche. Prosegua pure verso il secondo Superquattro!

@@ -1,0 +1,209 @@
+|j|☆badoem
+|j|☆Aegis1000
+|t:|1641732509
+|gametype|singles
+|player|p1|badoem|265|1347
+|player|p2|Aegis1000|1|1295
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Melmetal|
+|poke|p1|Garchomp, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Tangrowth, F|
+|poke|p1|Conkeldurr, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Pelipper, F|
+|poke|p2|Regieleki|
+|poke|p2|Dragapult, F|
+|teampreview
+|
+|t:|1641732523
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Conkeldurr|atk|1
+|turn|1
+|
+|t:|1641732526
+|move|p2a: Landorus|Knock Off|p1a: Conkeldurr
+|-resisted|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|83/100
+|-enditem|p1a: Conkeldurr|Assault Vest|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Conkeldurr|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641732533
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|2
+|
+|t:|1641732539
+|move|p2a: Pelipper|Ice Beam|p1a: Conkeldurr
+|-crit|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|42/100
+|move|p1a: Conkeldurr|Thunder Punch|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641732548
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|3
+|
+|t:|1641732556
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Conkeldurr|Knock Off|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|-status|p1a: Conkeldurr|psn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Conkeldurr|30/100 psn|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641732565
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Slowking
+|-sidestart|p1: badoem|move: Toxic Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641732573
+|move|p2a: Toxapex|Liquidation|p1a: Slowking
+|-damage|p1a: Slowking|67/100
+|move|p1a: Slowking|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|31/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|38/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1641732582
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1641732587
+|move|p2a: Ferrothorn|Leech Seed|p1a: Slowking
+|-start|p1a: Slowking|move: Leech Seed
+|move|p1a: Slowking|Fire Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641732595
+|switch|p2a: Toxapex|Toxapex, M|71/100
+|turn|8
+|
+|t:|1641732640
+|move|p1a: Slowking|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|7/100
+|move|p2a: Toxapex|Liquidation|p1a: Slowking
+|-damage|p1a: Slowking|43/100
+|-unboost|p1a: Slowking|def|1
+|
+|-heal|p2a: Toxapex|13/100|[from] item: Black Sludge
+|-damage|p1a: Slowking|31/100|[from] Leech Seed|[of] p2a: Toxapex
+|-heal|p2a: Toxapex|27/100|[silent]
+|upkeep
+|turn|9
+|
+|t:|1641732650
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|-status|p1a: Garchomp|psn
+|move|p2a: Toxapex|Baneful Bunker||[still]
+|-fail|p2a: Toxapex
+|
+|-heal|p2a: Toxapex|33/100|[from] item: Black Sludge
+|-damage|p1a: Garchomp|88/100 psn|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641732655
+|move|p2a: Toxapex|Toxic Spikes|p1a: Garchomp
+|-sidestart|p1: badoem|move: Toxic Spikes
+|move|p1a: Garchomp|Scale Shot|p2a: Toxapex
+|-damage|p2a: Toxapex|23/100
+|-damage|p2a: Toxapex|13/100
+|-damage|p2a: Toxapex|3/100
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-hitcount|p2: Toxapex|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-damage|p1a: Garchomp|76/100 psn|[from] psn
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641732664
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|11
+|
+|t:|1641732668
+|move|p1a: Garchomp|Scale Shot|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|68/100
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|32/100
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-hitcount|p2: Dragapult|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-damage|p1a: Garchomp|63/100 psn|[from] psn
+|upkeep
+|
+|t:|1641732673
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|12
+|
+|t:|1641732679
+|move|p1a: Garchomp|Earthquake|p2a: Regieleki
+|-supereffective|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|win|badoem
+|raw|badoem's rating: 1347 &rarr; <strong>1364</strong><br />(+17 for winning)
+|raw|Aegis1000's rating: 1295 &rarr; <strong>1274</strong><br />(-21 for losing)
+|l|☆Aegis1000
+|l|☆badoem
+|j|☆badoem
+|player|p1|badoem|265

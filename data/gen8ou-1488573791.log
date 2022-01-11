@@ -1,0 +1,314 @@
+|j|☆dach02
+|j|☆Trenton420$
+|t:|1641783713
+|gametype|singles
+|player|p1|dach02|linebacker|1384
+|player|p2|Trenton420$|hiker-gen4|1377
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Buzzwole|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Magnezone|
+|poke|p2|Tapu Koko|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Buzzwole|
+|poke|p2|Dragonite, F|
+|poke|p2|Incineroar, F|
+|poke|p2|Magnezone|
+|teampreview
+|
+|t:|1641783770
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: zareld|Magnezone|100/100
+|turn|1
+|j| josue ole
+|
+|t:|1641783778
+|move|p2a: zareld|Thunder Wave|p1a: Ferrothorn
+|-status|p1a: Ferrothorn|par
+|move|p1a: Ferrothorn|Leech Seed|p2a: zareld
+|-start|p2a: zareld|move: Leech Seed
+|
+|-damage|p2a: zareld|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|2
+|
+|t:|1641783792
+|switch|p2a: mareld|Incineroar, F|100/100
+|-ability|p2a: mareld|Intimidate|boost
+|-unboost|p1a: Ferrothorn|atk|1
+|move|p1a: Ferrothorn|Stealth Rock|p2a: mareld
+|-sidestart|p2: Trenton420$|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|l| josue ole
+|j| josue ole
+|
+|t:|1641783801
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: mareld|Flare Blitz|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|47/100
+|-damage|p2a: mareld|81/100|[from] Recoil
+|
+|upkeep
+|turn|4
+|
+|t:|1641783808
+|move|p1a: Mandibuzz|Toxic|p2a: mareld
+|-status|p2a: mareld|tox
+|move|p2a: mareld|Flare Blitz|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|-damage|p2a: mareld|65/100 tox|[from] Recoil
+|
+|-damage|p2a: mareld|59/100 tox|[from] psn
+|upkeep
+|
+|t:|1641783813
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|5
+|
+|t:|1641783822
+|move|p1a: Dragapult|U-turn|p2a: mareld
+|-damage|p2a: mareld|29/100 tox
+|
+|t:|1641783830
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100 par|[from]move: U-turn
+|move|p2a: mareld|Flare Blitz|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: mareld|16/100 tox|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|-damage|p2a: mareld|0 fnt|[from] Recoil
+|faint|p2a: mareld
+|
+|upkeep
+|l| josue ole
+|
+|t:|1641783868
+|switch|p2a: zareld|Magnezone|88/100
+|switch|p1a: Magnezone|Magnezone|100/100
+|-damage|p2a: zareld|82/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641783883
+|move|p2a: zareld|Volt Switch|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|87/100
+|
+|t:|1641783911
+|switch|p2a: Dragonite|Dragonite, F|100/100|[from]move: Volt Switch
+|move|p1a: Magnezone|Volt Switch|p2a: Dragonite
+|-damage|p2a: Dragonite|73/100
+|
+|t:|1641783915
+|switch|p1a: Dragapult|Dragapult, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|7
+|
+|t:|1641783925
+|switch|p2a: gerald|Ninetales-Alola, M, shiny|100/100
+|-damage|p2a: gerald|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: gerald
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Dragapult|95/100|[from] Hail
+|upkeep
+|turn|8
+|
+|t:|1641783938
+|move|p1a: Dragapult|Phantom Force|p2a: gerald|[from]lockedmove
+|-damage|p2a: gerald|0 fnt
+|faint|p2a: gerald
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Dragapult|89/100|[from] Hail
+|upkeep
+|
+|t:|1641783968
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|-damage|p2a: Buzzwole|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641783976
+|switch|p1a: Slowking|Slowking-Galar, F|100/100
+|move|p2a: Buzzwole|Bulk Up|p2a: Buzzwole
+|-boost|p2a: Buzzwole|atk|1
+|-boost|p2a: Buzzwole|def|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Buzzwole|82/100|[from] Hail
+|-damage|p1a: Slowking|94/100|[from] Hail
+|upkeep
+|turn|10
+|
+|t:|1641783984
+|move|p2a: Buzzwole|Earthquake|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Buzzwole|76/100|[from] Hail
+|upkeep
+|
+|t:|1641783993
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|turn|11
+|
+|t:|1641783996
+|move|p1a: Buzzwole|Dual Wingbeat|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|49/100
+|-damage|p1a: Buzzwole|84/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|20/100
+|-damage|p1a: Buzzwole|67/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-hitcount|p2a: Buzzwole|2
+|move|p2a: Buzzwole|Drain Punch|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|39/100
+|-heal|p2a: Buzzwole|34/100|[from] drain|[of] p1a: Buzzwole
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641784030
+|move|p1a: Buzzwole|Dual Wingbeat|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|4/100
+|-damage|p1a: Buzzwole|22/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|-damage|p1a: Buzzwole|5/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|faint|p2a: Buzzwole
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|-hitcount|p2: Buzzwole|2
+|
+|upkeep
+|
+|t:|1641784048
+|switch|p2a: Dragonite|Dragonite, F|73/100
+|turn|13
+|
+|t:|1641784053
+|move|p1a: Buzzwole|Dual Wingbeat|p2a: Dragonite
+|-damage|p2a: Dragonite|50/100
+|-damage|p2a: Dragonite|25/100
+|-hitcount|p2a: Dragonite|2
+|move|p2a: Dragonite|Earthquake|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-crit|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|upkeep
+|
+|t:|1641784058
+|switch|p1a: Dragapult|Dragapult, F|89/100
+|turn|14
+|
+|t:|1641784070
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Dragonite|Earthquake|p1a: Dragapult|[miss]
+|-miss|p2a: Dragonite|p1a: Dragapult
+|
+|upkeep
+|turn|15
+|
+|t:|1641784076
+|move|p1a: Dragapult|Phantom Force|p2a: Dragonite|[from]lockedmove
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641784092
+|switch|p2a: zareld|Magnezone|82/100
+|-damage|p2a: zareld|76/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641784105
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: zareld|Thunderbolt|p1a: Dragapult|[miss]
+|-miss|p2a: zareld|p1a: Dragapult
+|
+|upkeep
+|turn|17
+|
+|t:|1641784109
+|move|p1a: Dragapult|Phantom Force|p2a: zareld|[from]lockedmove
+|-damage|p2a: zareld|7/100
+|move|p2a: zareld|Thunderbolt|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|59/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641784115
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: zareld|Thunderbolt|p1a: Dragapult|[miss]
+|-miss|p2a: zareld|p1a: Dragapult
+|
+|upkeep
+|turn|19
+|
+|t:|1641784119
+|move|p1a: Dragapult|Phantom Force|p2a: zareld|[from]lockedmove
+|-crit|p2a: zareld
+|-damage|p2a: zareld|0 fnt
+|faint|p2a: zareld
+|
+|upkeep
+|
+|t:|1641784124
+|switch|p2a: herald|Tapu Koko|100/100
+|-damage|p2a: herald|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: herald
+|turn|20
+|
+|t:|1641784130
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: herald|Dazzling Gleam|p1a: Dragapult|[miss]
+|-miss|p2a: herald|p1a: Dragapult
+|
+|upkeep
+|turn|21
+|
+|t:|1641784138
+|move|p1a: Dragapult|Phantom Force|p2a: herald|[from]lockedmove
+|-damage|p2a: herald|0 fnt
+|faint|p2a: herald
+|
+|win|dach02
+|raw|dach02's rating: 1384 &rarr; <strong>1404</strong><br />(+20 for winning)
+|raw|Trenton420$'s rating: 1377 &rarr; <strong>1357</strong><br />(-20 for losing)
+|c|☆Trenton420$|fuc you

@@ -1,0 +1,554 @@
+|j|☆iceblazer
+|j|☆Dionys09
+|t:|1641737008
+|gametype|singles
+|player|p1|iceblazer|acetrainer-gen4dp|1516
+|player|p2|Dionys09|az|1482
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mienshao, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Weavile, F|
+|poke|p1|Zapdos|
+|poke|p1|Garchomp, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Dragapult, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Heatran, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dionys09)
+|
+|t:|1641737033
+|start
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1641737045
+|move|p1a: Mienshao|Poison Jab|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|64/100
+|move|p2a: Tapu Fini|Scald|p1a: Mienshao
+|-damage|p1a: Mienshao|75/100
+|
+|-heal|p2a: Tapu Fini|70/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641737061
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Mienshao|atk|1
+|move|p1a: Mienshao|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|94/100
+|
+|t:|1641737064
+|switch|p1a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|
+|-heal|p2a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641737079
+|switch|p2a: Tapu Fini|Tapu Fini|70/100
+|move|p1a: Weavile|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|53/100
+|-enditem|p2a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|4
+|
+|t:|1641737091
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641737096
+|move|p1a: Zapdos|Volt Switch|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|12/100
+|
+|t:|1641737100
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: Volt Switch
+|move|p2a: Tapu Fini|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|87/100
+|
+|-heal|p1a: Ferrothorn|94/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641737108
+|move|p2a: Tapu Fini|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-heal|p1a: Ferrothorn|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641737122
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|7
+|
+|t:|1641737127
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|move|p2a: Heatran|Stealth Rock|p1a: Mienshao
+|-sidestart|p1: iceblazer|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1641737135
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Mienshao|atk|1
+|move|p1a: Mienshao|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|82/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Mienshao
+|
+|upkeep
+|turn|9
+|
+|t:|1641737152
+|move|p1a: Mienshao|Poison Jab|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|75/100
+|move|p2a: Landorus|Knock Off|p1a: Mienshao
+|-resisted|p1a: Mienshao
+|-damage|p1a: Mienshao|74/100
+|-enditem|p1a: Mienshao|Assault Vest|[from] move: Knock Off|[of] p2a: Landorus
+|
+|upkeep
+|turn|10
+|
+|t:|1641737162
+|move|p1a: Mienshao|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|68/100
+|
+|t:|1641737169
+|switch|p1a: Slowbro|Slowbro, F|100/100|[from]move: U-turn
+|-damage|p1a: Slowbro|88/100|[from] Stealth Rock
+|move|p2a: Landorus|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-enditem|p1a: Slowbro|Colbur Berry|[eat]
+|-enditem|p1a: Slowbro|Colbur Berry|[weaken]
+|-damage|p1a: Slowbro|70/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641737182
+|move|p2a: Landorus|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|46/100
+|
+|t:|1641737196
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641737210
+|switch|p1a: Mienshao|Mienshao, F|100/100|[from]move: Teleport
+|-damage|p1a: Mienshao|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|12
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641737247
+|switch|p2a: Landorus|Landorus-Therian, M|68/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Mienshao|atk|1
+|move|p1a: Mienshao|Close Combat|p2a: Landorus
+|-resisted|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|33/100
+|-unboost|p1a: Mienshao|def|1
+|-unboost|p1a: Mienshao|spd|1
+|
+|upkeep
+|turn|13
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641737263
+|move|p1a: Mienshao|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|26/100
+|
+|t:|1641737268
+|switch|p1a: Ferrothorn|Ferrothorn, F|99/100|[from]move: U-turn
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|56/100
+|
+|-heal|p1a: Ferrothorn|62/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641737286
+|switch|p1a: Slowbro|Slowbro, F|79/100
+|-damage|p1a: Slowbro|67/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|38/100
+|
+|upkeep
+|turn|15
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641737307
+|move|p2a: Landorus|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|11/100
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|61/100
+|
+|upkeep
+|turn|16
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641737322
+|move|p2a: Landorus|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|37/100
+|
+|t:|1641737334
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|87/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641737340
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|move|p1a: Slowbro|Body Press|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|j| Thrilok04
+|
+|t:|1641737354
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|18
+|
+|t:|1641737360
+|switch|p1a: Ferrothorn|Ferrothorn, F|62/100
+|-damage|p1a: Ferrothorn|56/100|[from] Stealth Rock
+|move|p2a: Dragapult|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|44/100
+|-damage|p2a: Dragapult|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641737368
+|switch|p2a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|
+|-heal|p1a: Ferrothorn|50/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641737392
+|switch|p2a: Landorus|Landorus-Therian, M|26/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ferrothorn|atk|1
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|-damage|p1a: Mienshao|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|20
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641737405
+|move|p1a: Mienshao|Poison Jab|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|16/100
+|move|p2a: Landorus|Earthquake|p1a: Mienshao
+|-damage|p1a: Mienshao|5/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641737414
+|move|p1a: Mienshao|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|6/100
+|
+|t:|1641737421
+|switch|p1a: Slowbro|Slowbro, F|100/100|[from]move: U-turn
+|-damage|p1a: Slowbro|88/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|60/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641737429
+|move|p2a: Landorus|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|32/100
+|
+|t:|1641737438
+|switch|p2a: Dragapult|Dragapult, M|88/100|[from]move: U-turn
+|move|p1a: Slowbro|Scald|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|70/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641737459
+|switch|p1a: Mienshao|Mienshao, F|38/100
+|-damage|p1a: Mienshao|32/100|[from] Stealth Rock
+|move|p2a: Dragapult|Shadow Ball|p1a: Mienshao
+|-damage|p1a: Mienshao|0 fnt
+|faint|p1a: Mienshao
+|
+|upkeep
+|
+|t:|1641737465
+|switch|p1a: Weavile|Weavile, F|100/100
+|turn|24
+|
+|t:|1641737481
+|switch|p2a: Landorus|Landorus-Therian, M|6/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Weavile|atk|1
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|
+|-heal|p1a: Garchomp|100/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641737494
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Garchomp|Scale Shot|p2a: Tapu Lele
+|-immune|p2a: Tapu Lele
+|
+|upkeep
+|turn|26
+|
+|t:|1641737511
+|switch|p1a: Ferrothorn|Ferrothorn, F|50/100
+|-damage|p1a: Ferrothorn|44/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|19/100
+|
+|-heal|p1a: Ferrothorn|25/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641737520
+|move|p2a: Tapu Lele|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|1/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Tapu Lele
+|-start|p2a: Tapu Lele|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|7/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|17/100|[silent]
+|upkeep
+|turn|28
+|
+|t:|1641737528
+|move|p2a: Tapu Lele|Moonblast|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641737530
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|29
+|
+|t:|1641737550
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|84/100
+|
+|-heal|p2a: Heatran|90/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|30
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641737576
+|move|p1a: Zapdos|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|68/100
+|
+|t:|1641737580
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from]move: Volt Switch
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|70/100
+|-activate|p1a: Garchomp|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Garchomp|76/100|[from] item: Leftovers
+|-heal|p2a: Heatran|75/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|64/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|31
+|inactive|Dionys09 has 120 seconds left.
+|l| Thrilok04
+|
+|t:|1641737615
+|switch|p2a: Tapu Lele|Tapu Lele|88/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Garchomp|Scale Shot|p2a: Tapu Lele
+|-immune|p2a: Tapu Lele
+|
+|-heal|p1a: Garchomp|70/100|[from] item: Leftovers
+|-end|p1a: Garchomp|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|32
+|
+|t:|1641737636
+|switch|p1a: Slowbro|Slowbro, F|66/100
+|-damage|p1a: Slowbro|53/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|upkeep
+|
+|t:|1641737645
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|33
+|inactive|Dionys09 has 90 seconds left.
+|
+|t:|1641737672
+|switch|p2a: Heatran|Heatran, M|75/100
+|move|p1a: Zapdos|Hurricane|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|56/100
+|
+|-heal|p2a: Heatran|62/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|inactive|Dionys09 has 90 seconds left.
+|
+|t:|1641737679
+|switch|p2a: Dragapult|Dragapult, M|70/100
+|move|p1a: Zapdos|Hurricane|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|inactive|Dionys09 has 90 seconds left.
+|
+|t:|1641737690
+|switch|p2a: Landorus|Landorus-Therian, M|6/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|turn|35
+|inactive|Dionys09 has 90 seconds left.
+|
+|t:|1641737696
+|move|p1a: Zapdos|Heat Wave|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641737699
+|switch|p2a: Tapu Lele|Tapu Lele|88/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|36
+|
+|t:|1641737710
+|move|p1a: Zapdos|Hurricane|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|26/100
+|move|p2a: Tapu Lele|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|8/100
+|-unboost|p1a: Zapdos|spa|1
+|
+|upkeep
+|turn|37
+|
+|t:|1641737718
+|switch|p2a: Heatran|Heatran, M|62/100
+|move|p1a: Zapdos|Hurricane|p2a: Heatran|[miss]
+|-miss|p1a: Zapdos|p2a: Heatran
+|
+|-heal|p2a: Heatran|69/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641737738
+|move|p1a: Zapdos|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|55/100
+|
+|t:|1641737740
+|switch|p1a: Garchomp|Garchomp, M|70/100|[from]move: Volt Switch
+|-damage|p1a: Garchomp|64/100|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|41/100
+|-activate|p1a: Garchomp|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Garchomp|47/100|[from] item: Leftovers
+|-heal|p2a: Heatran|61/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|35/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|39
+|
+|t:|1641737747
+|move|p1a: Garchomp|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Garchomp|41/100|[from] item: Leftovers
+|-end|p1a: Garchomp|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641737750
+|switch|p2a: Tapu Lele|Tapu Lele|26/100
+|turn|40
+|
+|t:|1641737753
+|move|p1a: Garchomp|Earthquake|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|win|iceblazer
+|raw|iceblazer's rating: 1516 &rarr; <strong>1534</strong><br />(+18 for winning)
+|raw|Dionys09's rating: 1482 &rarr; <strong>1464</strong><br />(-18 for losing)
+|c|☆iceblazer|gg
+|c|☆Dionys09|gg

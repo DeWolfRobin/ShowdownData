@@ -1,0 +1,743 @@
+|j|☆ryt6ytudfh gf
+|j|☆desal
+|t:|1641863750
+|gametype|singles
+|player|p1|ryt6ytudfh gf|2|1102
+|player|p2|desal|ethan|1174
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Bronzong|
+|poke|p1|Conkeldurr, M|
+|poke|p1|Scizor, F|
+|poke|p1|Swampert, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Mandibuzz, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Gallade, M|
+|poke|p2|Amoonguss, F|
+|poke|p2|Volcarona, F|
+|poke|p2|Dusclops, F|
+|poke|p2|Spiritomb, F|
+|teampreview
+|
+|t:|1641863765
+|start
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|switch|p2a: Spiritomb|Spiritomb, F|100/100
+|turn|1
+|
+|t:|1641863773
+|move|p1a: Mandibuzz|Foul Play|p2a: Spiritomb
+|-damage|p2a: Spiritomb|77/100
+|move|p2a: Spiritomb|Will-O-Wisp|p1a: Mandibuzz
+|-status|p1a: Mandibuzz|brn
+|
+|-heal|p2a: Spiritomb|83/100|[from] item: Leftovers
+|-damage|p1a: Mandibuzz|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641863792
+|switch|p2a: Blade Ducky Momo|Gallade, M, shiny|100/100
+|move|p1a: Mandibuzz|U-turn|p2a: Blade Ducky Momo
+|-damage|p2a: Blade Ducky Momo|92/100
+|
+|t:|1641863799
+|switch|p1a: Tapu Koko|Tapu Koko|100/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|upkeep
+|turn|3
+|
+|t:|1641863812
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Blade Ducky Momo
+|-supereffective|p2a: Blade Ducky Momo
+|-damage|p2a: Blade Ducky Momo|37/100
+|move|p2a: Blade Ducky Momo|Knock Off|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|77/100
+|-enditem|p1a: Tapu Koko|Choice Scarf|[from] move: Knock Off|[of] p2a: Blade Ducky Momo
+|
+|upkeep
+|turn|4
+|
+|t:|1641863822
+|switch|p2a: Sus Ducky Momo|Amoonguss, F, shiny|100/100
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Sus Ducky Momo
+|-resisted|p2a: Sus Ducky Momo
+|-damage|p2a: Sus Ducky Momo|87/100
+|
+|-heal|p2a: Sus Ducky Momo|93/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641863833
+|move|p1a: Tapu Koko|U-turn|p2a: Sus Ducky Momo
+|-damage|p2a: Sus Ducky Momo|68/100
+|
+|t:|1641863835
+|switch|p1a: Scizor|Scizor, F|100/100|[from]move: U-turn
+|move|p2a: Sus Ducky Momo|Sludge Bomb|p1a: Scizor
+|-immune|p1a: Scizor
+|
+|-heal|p2a: Sus Ducky Momo|74/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641863842
+|move|p1a: Scizor|U-turn|p2a: Sus Ducky Momo
+|-damage|p2a: Sus Ducky Momo|39/100
+|
+|t:|1641863848
+|switch|p1a: Mandibuzz|Mandibuzz, F|94/100 brn|[from]move: U-turn
+|move|p2a: Sus Ducky Momo|Stun Spore|p1a: Mandibuzz
+|-immune|p1a: Mandibuzz|[from] ability: Overcoat
+|
+|-heal|p2a: Sus Ducky Momo|45/100|[from] item: Leftovers
+|-damage|p1a: Mandibuzz|88/100 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|7
+|
+|t:|1641863875
+|switch|p2a: Firebug Ducky Momo|Volcarona, F, shiny|100/100
+|move|p1a: Mandibuzz|U-turn|p2a: Firebug Ducky Momo
+|-resisted|p2a: Firebug Ducky Momo
+|-damage|p2a: Firebug Ducky Momo|97/100
+|
+|t:|1641863880
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100|[from]move: U-turn
+|
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|8
+|
+|t:|1641863885
+|move|p2a: Firebug Ducky Momo|Psychic|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|10/100 brn
+|move|p1a: Conkeldurr|Knock Off|p2a: Firebug Ducky Momo
+|-damage|p2a: Firebug Ducky Momo|0 fnt
+|-enditem|p2a: Firebug Ducky Momo|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Conkeldurr
+|faint|p2a: Firebug Ducky Momo
+|
+|-damage|p1a: Conkeldurr|4/100 brn|[from] brn
+|upkeep
+|
+|t:|1641863891
+|switch|p2a: Blade Ducky Momo|Gallade, M, shiny|37/100
+|turn|9
+|
+|t:|1641863904
+|move|p2a: Blade Ducky Momo|Shadow Sneak|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|
+|t:|1641863908
+|switch|p1a: Tapu Koko|Tapu Koko|77/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|10
+|
+|t:|1641863921
+|switch|p2a: Sus Ducky Momo|Amoonguss, F, shiny|79/100
+|move|p1a: Tapu Koko|Brave Bird|p2a: Sus Ducky Momo
+|-supereffective|p2a: Sus Ducky Momo
+|-damage|p2a: Sus Ducky Momo|1/100
+|-damage|p1a: Tapu Koko|38/100|[from] Recoil
+|
+|-heal|p2a: Sus Ducky Momo|7/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641863940
+|switch|p2a: Blade Ducky Momo|Gallade, M, shiny|37/100
+|move|p1a: Tapu Koko|U-turn|p2a: Blade Ducky Momo
+|-damage|p2a: Blade Ducky Momo|0 fnt
+|faint|p2a: Blade Ducky Momo
+|
+|t:|1641863948
+|switch|p1a: Scizor|Scizor, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641863957
+|switch|p2a: Spiritomb|Spiritomb, F|83/100
+|turn|12
+|
+|t:|1641863962
+|move|p1a: Scizor|U-turn|p2a: Spiritomb
+|-damage|p2a: Spiritomb|53/100
+|
+|t:|1641863966
+|switch|p1a: Mandibuzz|Mandibuzz, F|88/100 brn|[from]move: U-turn
+|move|p2a: Spiritomb|Will-O-Wisp|p1a: Mandibuzz|[miss]
+|-miss|p2a: Spiritomb|p1a: Mandibuzz
+|
+|-heal|p2a: Spiritomb|59/100|[from] item: Leftovers
+|-damage|p1a: Mandibuzz|82/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641863974
+|move|p1a: Mandibuzz|U-turn|p2a: Spiritomb
+|-damage|p2a: Spiritomb|54/100
+|
+|t:|1641863978
+|switch|p1a: Swampert|Swampert, M|100/100|[from]move: U-turn
+|move|p2a: Spiritomb|Pain Split|p1a: Swampert
+|-sethp|p1a: Swampert|70/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Spiritomb|94/100|[from] move: Pain Split
+|
+|-heal|p1a: Swampert|76/100|[from] item: Leftovers
+|-heal|p2a: Spiritomb|100/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641863987
+|move|p1a: Swampert|Toxic|p2a: Spiritomb|[miss]
+|-miss|p1a: Swampert|p2a: Spiritomb
+|move|p2a: Spiritomb|Shadow Ball|p1a: Swampert
+|-damage|p1a: Swampert|44/100
+|
+|-heal|p1a: Swampert|50/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|15
+|
+|t:|1641863994
+|switch|p2a: Sus Ducky Momo|Amoonguss, F, shiny|41/100
+|move|p1a: Swampert|Earthquake|p2a: Sus Ducky Momo
+|-damage|p2a: Sus Ducky Momo|0 fnt
+|faint|p2a: Sus Ducky Momo
+|
+|-heal|p1a: Swampert|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641864002
+|switch|p2a: Ducky Momo - Rapid|Urshifu-Rapid-Strike, F|100/100
+|turn|16
+|
+|t:|1641864024
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Ducky Momo - Rapid|Surging Strikes|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|80/100
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|62/100
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|42/100
+|-hitcount|p1a: Scizor|3
+|
+|upkeep
+|turn|17
+|
+|t:|1641864033
+|move|p1a: Scizor|Bullet Punch|p2a: Ducky Momo - Rapid
+|-resisted|p2a: Ducky Momo - Rapid
+|-damage|p2a: Ducky Momo - Rapid|87/100
+|move|p2a: Ducky Momo - Rapid|Surging Strikes|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|23/100
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|3/100
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|-hitcount|p1: Scizor|3
+|
+|upkeep
+|
+|t:|1641864043
+|switch|p1a: Tapu Koko|Tapu Koko|38/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|18
+|
+|t:|1641864051
+|move|p2a: Ducky Momo - Rapid|Surging Strikes|p1a: Tapu Koko
+|-crit|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|12/100
+|-crit|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|-hitcount|p1: Tapu Koko|2
+|
+|upkeep
+|
+|t:|1641864058
+|switch|p1a: Mandibuzz|Mandibuzz, F|82/100 brn
+|turn|19
+|
+|t:|1641864061
+|move|p2a: Ducky Momo - Rapid|Surging Strikes|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|68/100 brn
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|55/100 brn
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|42/100 brn
+|-hitcount|p1a: Mandibuzz|3
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|92/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|86/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641864073
+|switch|p2a: Ghost Ducky Momo|Dusclops, F, shiny|100/100
+|-item|p1a: Mandibuzz|Heavy-Duty Boots|[from] ability: Frisk|[of] p2a: Ghost Ducky Momo|[identify]
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|100/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|94/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641864082
+|move|p1a: Mandibuzz|Foul Play|p2a: Ghost Ducky Momo
+|-supereffective|p2a: Ghost Ducky Momo
+|-damage|p2a: Ghost Ducky Momo|92/100
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|71/100 brn
+|
+|-damage|p1a: Mandibuzz|65/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641864094
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|100/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|77/100 brn
+|
+|-damage|p1a: Mandibuzz|71/100 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|23
+|
+|t:|1641864108
+|move|p1a: Mandibuzz|U-turn|p2a: Ghost Ducky Momo
+|-resisted|p2a: Ghost Ducky Momo
+|-damage|p2a: Ghost Ducky Momo|91/100
+|
+|t:|1641864110
+|switch|p1a: Bronzong|Bronzong|100/100|[from]move: U-turn
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Bronzong
+|-damage|p1a: Bronzong|71/100
+|
+|-heal|p1a: Bronzong|77/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641864121
+|move|p1a: Bronzong|Future Sight|p2a: Ghost Ducky Momo
+|-start|p1a: Bronzong|move: Future Sight
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Bronzong
+|-damage|p1a: Bronzong|48/100
+|
+|-heal|p1a: Bronzong|54/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641864127
+|move|p1a: Bronzong|Metal Sound|p2a: Ghost Ducky Momo
+|-unboost|p2a: Ghost Ducky Momo|spd|2
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Bronzong
+|-damage|p1a: Bronzong|24/100
+|
+|-heal|p1a: Bronzong|30/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641864134
+|move|p1a: Bronzong|Metal Sound|p2a: Ghost Ducky Momo|[miss]
+|-miss|p1a: Bronzong|p2a: Ghost Ducky Momo
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Bronzong
+|-damage|p1a: Bronzong|1/100
+|
+|-end|p2a: Ghost Ducky Momo|move: Future Sight
+|-damage|p2a: Ghost Ducky Momo|46/100
+|-heal|p1a: Bronzong|7/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641864143
+|move|p1a: Bronzong|Future Sight|p2a: Ghost Ducky Momo
+|-start|p1a: Bronzong|move: Future Sight
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Bronzong
+|-damage|p1a: Bronzong|0 fnt
+|faint|p1a: Bronzong
+|
+|upkeep
+|
+|t:|1641864148
+|switch|p1a: Swampert|Swampert, M|56/100
+|turn|28
+|
+|t:|1641864158
+|switch|p2a: Spiritomb|Spiritomb, F|100/100
+|move|p1a: Swampert|Earthquake|p2a: Spiritomb
+|-damage|p2a: Spiritomb|45/100
+|
+|-heal|p1a: Swampert|62/100|[from] item: Leftovers
+|-heal|p2a: Spiritomb|51/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641864167
+|move|p1a: Swampert|Earthquake|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|-heal|p1a: Swampert|69/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641864172
+|switch|p2a: Ghost Ducky Momo|Dusclops, F, shiny|46/100
+|-item|p1a: Swampert|Leftovers|[from] ability: Frisk|[of] p2a: Ghost Ducky Momo|[identify]
+|turn|30
+|
+|t:|1641864177
+|move|p1a: Swampert|Toxic|p2a: Ghost Ducky Momo|[miss]
+|-miss|p1a: Swampert|p2a: Ghost Ducky Momo
+|move|p2a: Ghost Ducky Momo|Will-O-Wisp|p1a: Swampert
+|-status|p1a: Swampert|brn
+|
+|-heal|p1a: Swampert|75/100 brn|[from] item: Leftovers
+|-damage|p1a: Swampert|69/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641864187
+|move|p1a: Swampert|Toxic|p2a: Ghost Ducky Momo|[miss]
+|-miss|p1a: Swampert|p2a: Ghost Ducky Momo
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Swampert
+|-damage|p1a: Swampert|44/100 brn
+|
+|-heal|p1a: Swampert|50/100 brn|[from] item: Leftovers
+|-damage|p1a: Swampert|44/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641864194
+|move|p1a: Swampert|Toxic|p2a: Ghost Ducky Momo
+|-status|p2a: Ghost Ducky Momo|tox
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Swampert
+|-damage|p1a: Swampert|19/100 brn
+|
+|-heal|p1a: Swampert|25/100 brn|[from] item: Leftovers
+|-damage|p2a: Ghost Ducky Momo|40/100 tox|[from] psn
+|-damage|p1a: Swampert|19/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1641864205
+|switch|p1a: Mandibuzz|Mandibuzz, F|71/100 brn
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|47/100 brn
+|
+|-damage|p2a: Ghost Ducky Momo|28/100 tox|[from] psn
+|-damage|p1a: Mandibuzz|41/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1641864213
+|switch|p2a: Ducky Momo - Rapid|Urshifu-Rapid-Strike, F|87/100
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|91/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|85/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1641864224
+|move|p2a: Ducky Momo - Rapid|Surging Strikes|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|71/100 brn
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|59/100 brn
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|46/100 brn
+|-hitcount|p1a: Mandibuzz|3
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|96/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|90/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641864237
+|move|p2a: Ducky Momo - Rapid|Surging Strikes|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|77/100 brn
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|64/100 brn
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|52/100 brn
+|-hitcount|p1a: Mandibuzz|3
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|100/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|94/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641864253
+|switch|p2a: Ghost Ducky Momo|Dusclops, F, shiny|28/100 tox
+|-item|p1a: Mandibuzz|Heavy-Duty Boots|[from] ability: Frisk|[of] p2a: Ghost Ducky Momo|[identify]
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|100/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p2a: Ghost Ducky Momo|22/100 tox|[from] psn
+|-damage|p1a: Mandibuzz|94/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1641864266
+|switch|p1a: Swampert|Swampert, M|19/100 brn
+|move|p2a: Ghost Ducky Momo|Pain Split|p1a: Swampert
+|-sethp|p1a: Swampert|17/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p2a: Ghost Ducky Momo|24/100 tox|[from] move: Pain Split
+|
+|-heal|p1a: Swampert|24/100 brn|[from] item: Leftovers
+|-damage|p2a: Ghost Ducky Momo|12/100 tox|[from] psn
+|-damage|p1a: Swampert|17/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1641864284
+|move|p1a: Swampert|Toxic|p2a: Ghost Ducky Momo
+|-fail|p2a: Ghost Ducky Momo|tox
+|move|p2a: Ghost Ducky Momo|Seismic Toss|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|-damage|p2a: Ghost Ducky Momo|0 fnt|[from] psn
+|faint|p2a: Ghost Ducky Momo
+|upkeep
+|
+|t:|1641864292
+|switch|p1a: Mandibuzz|Mandibuzz, F|94/100 brn
+|switch|p2a: Ducky Momo - Rapid|Urshifu-Rapid-Strike, F|87/100
+|turn|40
+|
+|t:|1641864297
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|68/100 brn
+|-heal|p2a: Ducky Momo - Rapid|100/100|[from] drain|[of] p1a: Mandibuzz
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|100/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|94/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1641864313
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|69/100 brn
+|move|p1a: Mandibuzz|Foul Play|p2a: Ducky Momo - Rapid
+|-resisted|p2a: Ducky Momo - Rapid
+|-damage|p2a: Ducky Momo - Rapid|88/100
+|
+|-damage|p1a: Mandibuzz|63/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1641864323
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|39/100 brn
+|-heal|p2a: Ducky Momo - Rapid|100/100|[from] drain|[of] p1a: Mandibuzz
+|move|p1a: Mandibuzz|U-turn|p2a: Ducky Momo - Rapid
+|-resisted|p2a: Ducky Momo - Rapid
+|-damage|p2a: Ducky Momo - Rapid|98/100
+|
+|-damage|p1a: Mandibuzz|33/100 brn|[from] brn
+|upkeep
+|turn|43
+|
+|t:|1641864331
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|8/100 brn
+|-heal|p2a: Ducky Momo - Rapid|100/100|[from] drain|[of] p1a: Mandibuzz
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|58/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|51/100 brn|[from] brn
+|upkeep
+|turn|44
+|
+|t:|1641864340
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|27/100 brn
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|77/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|71/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1641864348
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|45/100 brn
+|move|p1a: Mandibuzz|Defog|p2a: Ducky Momo - Rapid
+|-unboost|p2a: Ducky Momo - Rapid|evasion|1
+|
+|-damage|p1a: Mandibuzz|39/100 brn|[from] brn
+|upkeep
+|turn|46
+|
+|t:|1641864355
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|15/100 brn
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|65/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|59/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1641864363
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|32/100 brn
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|82/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|76/100 brn|[from] brn
+|upkeep
+|turn|48
+|
+|t:|1641864373
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|50/100 brn
+|move|p1a: Mandibuzz|Foul Play|p2a: Ducky Momo - Rapid
+|-resisted|p2a: Ducky Momo - Rapid
+|-damage|p2a: Ducky Momo - Rapid|89/100
+|
+|-damage|p1a: Mandibuzz|44/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1641864387
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|19/100 brn
+|-heal|p2a: Ducky Momo - Rapid|100/100|[from] drain|[of] p1a: Mandibuzz
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|69/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|63/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1641864397
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|39/100 brn
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|89/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|83/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1641864408
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|44/100 brn
+|move|p1a: Mandibuzz|Defog|p2a: Ducky Momo - Rapid
+|-unboost|p2a: Ducky Momo - Rapid|evasion|1
+|
+|-damage|p1a: Mandibuzz|38/100 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1641864415
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|13/100 brn
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|63/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|57/100 brn|[from] brn
+|upkeep
+|turn|53
+|
+|t:|1641864423
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|32/100 brn
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|82/100 brn
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p1a: Mandibuzz|75/100 brn|[from] brn
+|upkeep
+|turn|54
+|
+|t:|1641864432
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|49/100 brn
+|move|p1a: Mandibuzz|U-turn|p2a: Ducky Momo - Rapid
+|-resisted|p2a: Ducky Momo - Rapid
+|-damage|p2a: Ducky Momo - Rapid|98/100
+|
+|-damage|p1a: Mandibuzz|43/100 brn|[from] brn
+|upkeep
+|turn|55
+|
+|t:|1641864438
+|move|p2a: Ducky Momo - Rapid|Drain Punch|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|19/100 brn
+|-heal|p2a: Ducky Momo - Rapid|100/100|[from] drain|[of] p1a: Mandibuzz
+|move|p1a: Mandibuzz|U-turn|p2a: Ducky Momo - Rapid
+|-resisted|p2a: Ducky Momo - Rapid
+|-damage|p2a: Ducky Momo - Rapid|98/100
+|
+|-damage|p1a: Mandibuzz|13/100 brn|[from] brn
+|upkeep
+|turn|56
+|
+|t:|1641864446
+|-activate|p2a: Ducky Momo - Rapid|move: Struggle
+|move|p2a: Ducky Momo - Rapid|Struggle|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|2/100 brn
+|-damage|p2a: Ducky Momo - Rapid|73/100|[from] recoil
+|move|p1a: Mandibuzz|Foul Play|p2a: Ducky Momo - Rapid
+|-resisted|p2a: Ducky Momo - Rapid
+|-damage|p2a: Ducky Momo - Rapid|60/100
+|
+|-damage|p1a: Mandibuzz|0 fnt|[from] brn
+|faint|p1a: Mandibuzz
+|
+|win|desal
+|upkeep
+|raw|ryt6ytudfh gf's rating: 1102 &rarr; <strong>1082</strong><br />(-20 for losing)
+|raw|desal's rating: 1174 &rarr; <strong>1194</strong><br />(+20 for winning)
+|c|☆desal|gg
+|l|☆ryt6ytudfh gf
+|c|☆desal|lol went to struggle haha

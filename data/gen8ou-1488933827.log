@@ -1,0 +1,232 @@
+|j|☆gasxhaxj
+|j|☆OUTH MO
+|t:|1641838104
+|gametype|singles
+|player|p1|gasxhaxj|shadowtriad|1455
+|player|p2|OUTH MO|1|1497
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blaziken, M|
+|poke|p1|Torkoal, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Victini|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Heatran, M|
+|poke|p2|Melmetal|
+|poke|p2|Pelipper, M|
+|poke|p2|Volcanion|
+|poke|p2|Barraskewda, M|
+|poke|p2|Zapdos|
+|poke|p2|Seismitoad, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by gasxhaxj)
+|
+|t:|1641838122
+|start
+|switch|p1a: Master Oogway|Torkoal, M|100/100
+|switch|p2a: Globox|Seismitoad, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Master Oogway
+|turn|1
+|
+|t:|1641838132
+|switch|p1a: Boner|Mandibuzz, F|100/100
+|move|p2a: Globox|Earth Power|p1a: Boner
+|-immune|p1a: Boner
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641838137
+|move|p2a: Globox|Toxic|p1a: Boner
+|-status|p1a: Boner|tox
+|move|p1a: Boner|U-turn|p2a: Globox
+|-damage|p2a: Globox|85/100
+|
+|t:|1641838141
+|switch|p1a: Yeetran|Heatran, M|100/100|[from]move: U-turn
+|-item|p1a: Yeetran|Air Balloon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641838159
+|switch|p2a: Messenger|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Messenger
+|move|p1a: Yeetran|Eruption|p2a: Messenger
+|-resisted|p2a: Messenger
+|-damage|p2a: Messenger|75/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641838178
+|switch|p1a: Master Oogway|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Master Oogway
+|move|p2a: Messenger|U-turn|p1a: Master Oogway
+|-resisted|p1a: Master Oogway
+|-damage|p1a: Master Oogway|98/100
+|inactive|OUTH MO has 120 seconds left.
+|
+|t:|1641838195
+|switch|p2a: King VIG|Volcanion|100/100|[from]move: U-turn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641838203
+|switch|p1a: Atlas|Garchomp, F|100/100
+|move|p2a: King VIG|Steam Eruption|p1a: Atlas
+|-damage|p1a: Atlas|46/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641838213
+|switch|p2a: Messenger|Pelipper, M, shiny|75/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Messenger
+|move|p1a: Atlas|Stealth Rock|p2a: Messenger
+|-sidestart|p2: OUTH MO|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641838230
+|move|p1a: Atlas|Draco Meteor|p2a: Messenger
+|-damage|p2a: Messenger|0 fnt
+|-unboost|p1a: Atlas|spa|2
+|faint|p2a: Messenger
+|-damage|p1a: Atlas|36/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641838232
+|switch|p2a: Predator|Barraskewda, M, shiny|100/100
+|-damage|p2a: Predator|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641838236
+|move|p2a: Predator|Liquidation|p1a: Atlas
+|-damage|p1a: Atlas|0 fnt
+|-damage|p2a: Predator|75/100|[from] ability: Rough Skin|[of] p1a: Atlas
+|faint|p1a: Atlas
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641838241
+|switch|p1a: Master Oogway|Torkoal, M|98/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Master Oogway
+|turn|9
+|
+|t:|1641838258
+|move|p2a: Predator|Liquidation|p1a: Master Oogway
+|-supereffective|p1a: Master Oogway
+|-damage|p1a: Master Oogway|56/100
+|move|p1a: Master Oogway|Body Press|p2a: Predator
+|-damage|p2a: Predator|10/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641838279
+|move|p2a: Predator|Liquidation|p1a: Master Oogway
+|-supereffective|p1a: Master Oogway
+|-damage|p1a: Master Oogway|14/100
+|move|p1a: Master Oogway|Body Press|p2a: Predator
+|-damage|p2a: Predator|0 fnt
+|faint|p2a: Predator
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641838297
+|switch|p2a: Globox|Seismitoad, M, shiny|85/100
+|-damage|p2a: Globox|79/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641838304
+|switch|p1a: Boner|Mandibuzz, F|100/100 tox
+|move|p2a: Globox|Focus Blast|p1a: Boner
+|-damage|p1a: Boner|70/100 tox
+|-damage|p2a: Globox|69/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Boner|64/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641838334
+|move|p2a: Globox|Weather Ball|p1a: Boner
+|-damage|p1a: Boner|23/100 tox
+|-damage|p2a: Globox|59/100|[from] item: Life Orb
+|move|p1a: Boner|Roost|p1a: Boner
+|-heal|p1a: Boner|73/100 tox
+|-singleturn|p1a: Boner|move: Roost
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Boner|61/100 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|OUTH MO has 120 seconds left.
+|
+|t:|1641838356
+|switch|p1a: Yeetran|Heatran, M|100/100
+|-item|p1a: Yeetran|Air Balloon
+|move|p2a: Globox|Weather Ball|p1a: Yeetran
+|-start|p1a: Yeetran|ability: Flash Fire
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641838365
+|switch|p2a: King VIG|Volcanion|100/100
+|-damage|p2a: King VIG|76/100|[from] Stealth Rock
+|move|p1a: Yeetran|Eruption|p2a: King VIG
+|-resisted|p2a: King VIG
+|-damage|p2a: King VIG|22/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641838375
+|move|p1a: Yeetran|Earth Power|p2a: King VIG
+|-supereffective|p2a: King VIG
+|-damage|p2a: King VIG|0 fnt
+|faint|p2a: King VIG
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|OUTH MO forfeited.
+|
+|win|gasxhaxj
+|raw|gasxhaxj's rating: 1455 &rarr; <strong>1477</strong><br />(+22 for winning)
+|raw|OUTH MO's rating: 1497 &rarr; <strong>1475</strong><br />(-22 for losing)
+|j| azrak
+|l| azrak
+|j| l Axelock l
+|l| l Axelock l
+|j| Krohnen
+|l|☆OUTH MO
+|j| best to be worst
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

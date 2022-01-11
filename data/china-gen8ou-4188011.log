@@ -1,0 +1,409 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Pichiu
+|j|☆SL21CC Mcdonald's
+|t:|1641736357
+|gametype|singles
+|player|p1|SL21CC Pichiu|elesa|1276
+|player|p2|SL21CC Mcdonald's|aromalady|1307
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rotom-Wash|
+|poke|p1|Clefable, M|
+|poke|p1|Heatran, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Latias, F|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Slowbro-Galar, F|
+|poke|p2|Seismitoad, M|
+|poke|p2|Mew|
+|poke|p2|Melmetal|
+|poke|p2|Clefable, F|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Mcdonald's)
+|
+|t:|1641736379
+|start
+|switch|p1a: Heatran|Heatran, F|100/100
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|1
+|j| SL21CC tangkeke
+|
+|t:|1641736387
+|move|p2a: Clefable|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|45/100
+|move|p1a: Heatran|Magma Storm|p2a: Clefable
+|-damage|p2a: Clefable|49/100
+|-activate|p2a: Clefable|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|51/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641736393
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Clefable|Focus Blast|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|80/100
+|
+|-end|p2a: Clefable|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|3
+|
+|t:|1641736415
+|move|p2a: Clefable|Thunder|p1a: Clefable
+|-damage|p1a: Clefable|44/100
+|-status|p1a: Clefable|par
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|1/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641736422
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|94/100 par
+|
+|upkeep
+|turn|5
+|
+|t:|1641736426
+|switch|p2a: Clefable|Clefable, F|1/100
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641736431
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|move|p1a: Rotom|Volt Switch|p2a: Seismitoad
+|-immune|p2a: Seismitoad
+|
+|upkeep
+|turn|7
+|
+|t:|1641736433
+|move|p1a: Rotom|Toxic|p2a: Seismitoad
+|-status|p2a: Seismitoad|tox
+|move|p2a: Seismitoad|Stealth Rock|p1a: Rotom
+|-sidestart|p1: SL21CC Pichiu|move: Stealth Rock
+|
+|-damage|p2a: Seismitoad|94/100 tox|[from] psn
+|upkeep
+|turn|8
+|j| Suta Pulachina
+|
+|t:|1641736440
+|switch|p1a: Clefable|Clefable, M|94/100 par
+|switch|p2a: Clefable|Clefable, F|1/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641736449
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641736454
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Melmetal|Double Iron Bash|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|82/100
+|-damage|p2a: Melmetal|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|69/100
+|-damage|p2a: Melmetal|76/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-hitcount|p1a: Ferrothorn|2
+|
+|-heal|p1a: Ferrothorn|75/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641736459
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|move|p2a: Melmetal|Superpower|p1a: Rotom
+|-damage|p1a: Rotom|50/100
+|-unboost|p2a: Melmetal|atk|1
+|-unboost|p2a: Melmetal|def|1
+|
+|-heal|p1a: Rotom|56/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641736464
+|switch|p2a: Seismitoad|Seismitoad, M|94/100 tox
+|move|p1a: Rotom|Pain Split|p2a: Seismitoad
+|-sethp|p2a: Seismitoad|68/100 tox|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|92/100|[from] move: Pain Split
+|
+|-heal|p1a: Rotom|98/100|[from] item: Leftovers
+|-heal|p2a: Seismitoad|74/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|68/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641736470
+|switch|p1a: Clefable|Clefable, M|94/100 par
+|move|p2a: Seismitoad|Scald|p1a: Clefable
+|-damage|p1a: Clefable|72/100 par
+|
+|-heal|p2a: Seismitoad|74/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|62/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641736478
+|switch|p2a: Slowbro|Slowbro-Galar, F|100/100
+|move|p1a: Clefable|Moonblast|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|79/100
+|
+|upkeep
+|turn|15
+|inactive|SL21CC Pichiu has 120 seconds left.
+|-activate|p2a: Slowbro|item: Quick Claw
+|
+|t:|1641736538
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowbro|atk|1
+|move|p2a: Slowbro|Nasty Plot|p2a: Slowbro
+|-boost|p2a: Slowbro|spa|2
+|
+|upkeep
+|turn|16
+|-activate|p2a: Slowbro|item: Quick Claw
+|
+|t:|1641736545
+|move|p2a: Slowbro|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641736550
+|switch|p1a: Rotom|Rotom-Wash|98/100
+|-damage|p1a: Rotom|86/100|[from] Stealth Rock
+|turn|17
+|-activate|p2a: Slowbro|item: Quick Claw
+|
+|t:|1641736553
+|move|p2a: Slowbro|Psychic|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|j| jingtianlangtaosha
+|
+|t:|1641736558
+|switch|p1a: Latias|Latias, F|100/100
+|-damage|p1a: Latias|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641736561
+|move|p1a: Latias|Calm Mind|p1a: Latias
+|-boost|p1a: Latias|spa|1
+|-boost|p1a: Latias|spd|1
+|move|p2a: Slowbro|Ice Beam|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|34/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641736572
+|move|p1a: Latias|Recover|p1a: Latias
+|-heal|p1a: Latias|84/100
+|move|p2a: Slowbro|Ice Beam|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|31/100
+|-status|p1a: Latias|frz
+|
+|upkeep
+|turn|20
+|
+|t:|1641736577
+|cant|p1a: Latias|frz
+|move|p2a: Slowbro|Ice Beam|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|
+|upkeep
+|
+|t:|1641736579
+|switch|p1a: Heatran|Heatran, F|51/100
+|-damage|p1a: Heatran|38/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641736581
+|move|p1a: Heatran|Magma Storm|p2a: Slowbro|[miss]
+|-miss|p1a: Heatran|p2a: Slowbro
+|move|p2a: Slowbro|Focus Blast|p1a: Heatran|[miss]
+|-miss|p2a: Slowbro|p1a: Heatran
+|
+|-heal|p1a: Heatran|45/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|-activate|p2a: Slowbro|ability: Quick Draw
+|
+|t:|1641736584
+|move|p2a: Slowbro|Focus Blast|p1a: Heatran|[miss]
+|-miss|p2a: Slowbro|p1a: Heatran
+|move|p1a: Heatran|Magma Storm|p2a: Slowbro
+|-damage|p2a: Slowbro|26/100
+|-activate|p2a: Slowbro|move: Magma Storm|[of] p1a: Heatran
+|
+|-heal|p1a: Heatran|51/100|[from] item: Leftovers
+|-damage|p2a: Slowbro|13/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|23
+|-activate|p2a: Slowbro|ability: Quick Draw
+|
+|t:|1641736587
+|move|p2a: Slowbro|Focus Blast|p1a: Heatran|[miss]
+|-miss|p2a: Slowbro|p1a: Heatran
+|move|p1a: Heatran|Earth Power|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|-heal|p1a: Heatran|57/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641736592
+|switch|p2a: Mew|Mew|100/100
+|turn|24
+|
+|t:|1641736598
+|move|p2a: Mew|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|3/100
+|-unboost|p2a: Mew|def|1
+|-unboost|p2a: Mew|spd|1
+|move|p1a: Heatran|Magma Storm|p2a: Mew|[miss]
+|-miss|p1a: Heatran|p2a: Mew
+|
+|-heal|p1a: Heatran|9/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641736605
+|move|p2a: Mew|Psychic Fangs|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641736607
+|switch|p1a: Ferrothorn|Ferrothorn, M|75/100
+|-damage|p1a: Ferrothorn|69/100|[from] Stealth Rock
+|turn|26
+|j| adreamew
+|
+|t:|1641736613
+|switch|p2a: Seismitoad|Seismitoad, M|62/100 tox
+|switch|p1a: Clefable|Clefable, M|72/100 par
+|
+|-heal|p2a: Seismitoad|68/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|62/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641736616
+|move|p2a: Seismitoad|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|48/100 par
+|cant|p1a: Clefable|par
+|
+|-heal|p2a: Seismitoad|68/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|56/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641736619
+|move|p2a: Seismitoad|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|21/100 par
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|71/100 par
+|
+|-heal|p2a: Seismitoad|62/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|43/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641736621
+|move|p2a: Seismitoad|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|45/100 par
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p2a: Seismitoad|50/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|25/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641736624
+|move|p2a: Seismitoad|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|20/100 par
+|cant|p1a: Clefable|par
+|
+|-heal|p2a: Seismitoad|31/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|1/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641736626
+|move|p2a: Seismitoad|Earthquake|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-heal|p2a: Seismitoad|7/100 tox|[from] item: Leftovers
+|-damage|p2a: Seismitoad|0 fnt|[from] psn
+|faint|p2a: Seismitoad
+|upkeep
+|
+|t:|1641736631
+|switch|p2a: Clefable|Clefable, F|1/100
+|switch|p1a: Ferrothorn|Ferrothorn, M|69/100
+|-damage|p1a: Ferrothorn|63/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1641736635
+|move|p2a: Clefable|Fire Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|win|SL21CC Mcdonald's
+|raw|SL21CC Pichiu's rating: 1276 &rarr; <strong>1261</strong><br />(-15 for losing)
+|raw|SL21CC Mcdonald&apos;s's rating: 1307 &rarr; <strong>1321</strong><br />(+14 for winning)
+|l|☆SL21CC Mcdonald's
+|l|☆SL21CC Pichiu
+|l| Suta Pulachina
+|l| SL21CC tangkeke
+|l| jingtianlangtaosha

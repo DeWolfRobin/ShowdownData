@@ -1,0 +1,111 @@
+|j|☆Tenechi_
+|j|☆P0KESHOW
+|t:|1641742988
+|gametype|singles
+|player|p1|Tenechi_|harlequin|1131
+|player|p2|P0KESHOW|battlegirl-gen4|1088
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Milotic, F|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Blaziken, M|
+|poke|p2|Aggron, M|
+|poke|p2|Victini|
+|poke|p2|Mew|
+|poke|p2|Druddigon, F|
+|poke|p2|Shuckle, F|
+|poke|p2|Mamoswine, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tenechi_)
+|
+|t:|1641742993
+|start
+|switch|p1a: Hatterene|Hatterene, F, shiny|100/100
+|switch|p2a: Mamoswine|Mamoswine, F|100/100
+|turn|1
+|
+|t:|1641743002
+|move|p2a: Mamoswine|Icicle Crash|p1a: Hatterene
+|-damage|p1a: Hatterene|58/100
+|cant|p1a: Hatterene|flinch
+|
+|-heal|p1a: Hatterene|64/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641743011
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Mamoswine|Icicle Crash|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|73/100
+|
+|-heal|p1a: Ferrothorn|79/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641743020
+|move|p2a: Mamoswine|Icicle Crash|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|52/100
+|cant|p1a: Ferrothorn|flinch
+|
+|-heal|p1a: Ferrothorn|58/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641743029
+|move|p2a: Mamoswine|Icicle Crash|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|29/100
+|cant|p1a: Ferrothorn|flinch
+|
+|-heal|p1a: Ferrothorn|35/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641743039
+|move|p2a: Mamoswine|Icicle Crash|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|6/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Mamoswine|[miss]
+|-miss|p1a: Ferrothorn|p2a: Mamoswine
+|
+|-heal|p1a: Ferrothorn|12/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641743048
+|move|p2a: Mamoswine|Icicle Crash|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641743053
+|switch|p1a: Blaziken|Blaziken, M, shiny|100/100
+|turn|7
+|c|☆P0KESHOW|Sorry
+|
+|t:|1641743061
+|move|p2a: Mamoswine|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|upkeep
+|-message|Tenechi_ forfeited.
+|
+|win|P0KESHOW
+|raw|Tenechi_'s rating: 1131 &rarr; <strong>1103</strong><br />(-28 for losing)
+|raw|P0KESHOW's rating: 1088 &rarr; <strong>1118</strong><br />(+30 for winning)
+|l|☆Tenechi_

@@ -1,0 +1,364 @@
+|j|☆Wa11um
+|j|☆Sanjogbiswas
+|t:|1641832569
+|gametype|singles
+|player|p1|Wa11um|red|1326
+|player|p2|Sanjogbiswas|dawn|1372
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Azumarill, M|
+|poke|p1|Amoonguss, F|
+|poke|p1|Rillaboom, F|
+|poke|p1|Hippowdon, M|
+|poke|p1|Heatran, M|
+|poke|p1|Alakazam, M|
+|poke|p2|Tapu Bulu|
+|poke|p2|Slowbro, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Heatran, F|
+|poke|p2|Zygarde-10%|
+|poke|p2|Corviknight, M|
+|teampreview
+|
+|t:|1641832606
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641832630
+|move|p2a: Urshifu|Surging Strikes|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|79/100
+|-supereffective|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|58/100
+|-supereffective|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|38/100
+|-hitcount|p1a: Hippowdon|3
+|move|p1a: Hippowdon|Yawn|p2a: Urshifu
+|-start|p2a: Urshifu|move: Yawn|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Urshifu|94/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|44/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641832641
+|switch|p2a: Tapu Bulu|Tapu Bulu|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rillaboom|94/100|[from] Sandstorm
+|-damage|p2a: Tapu Bulu|94/100|[from] Sandstorm
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|100/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1641832656
+|move|p1a: Rillaboom|U-turn|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|63/100
+|
+|t:|1641832662
+|switch|p1a: Amoonguss|Amoonguss, F|100/100|[from]move: U-turn
+|move|p2a: Tapu Bulu|Wood Hammer|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|65/100
+|-damage|p2a: Tapu Bulu|46/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tapu Bulu|40/100|[from] Sandstorm
+|-damage|p1a: Amoonguss|59/100|[from] Sandstorm
+|-heal|p2a: Tapu Bulu|46/100|[from] Grassy Terrain
+|-heal|p1a: Amoonguss|65/100|[from] Grassy Terrain
+|-heal|p1a: Amoonguss|71/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641832677
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Amoonguss|Toxic|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Amoonguss|65/100|[from] Sandstorm
+|-heal|p1a: Amoonguss|71/100|[from] Grassy Terrain
+|-heal|p1a: Amoonguss|77/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1641832692
+|move|p2a: Heatran|Magma Storm|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|20/100
+|-activate|p1a: Amoonguss|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Amoonguss|Spore|p2a: Heatran
+|-status|p2a: Heatran|slp|[from] move: Spore
+|
+|-weather|none
+|-heal|p1a: Amoonguss|26/100|[from] Grassy Terrain
+|-heal|p1a: Amoonguss|32/100|[from] item: Black Sludge
+|-damage|p1a: Amoonguss|20/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1641832705
+|cant|p2a: Heatran|slp
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|-heal|p1a: Amoonguss|26/100|[from] Grassy Terrain
+|-heal|p1a: Amoonguss|32/100|[from] item: Black Sludge
+|-damage|p1a: Amoonguss|20/100|[from] move: Magma Storm|[partiallytrapped]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1641832713
+|cant|p2a: Heatran|slp
+|move|p1a: Amoonguss|Spore|p2a: Heatran
+|-fail|p2a: Heatran|slp
+|
+|-heal|p1a: Amoonguss|26/100|[from] item: Black Sludge
+|-damage|p1a: Amoonguss|13/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641832732
+|cant|p2a: Heatran|slp
+|move|p1a: Amoonguss|Spore|p2a: Heatran
+|-fail|p2a: Heatran|slp
+|
+|-heal|p1a: Amoonguss|20/100|[from] item: Black Sludge
+|-damage|p1a: Amoonguss|7/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641832746
+|-curestatus|p2a: Heatran|slp|[msg]
+|move|p2a: Heatran|Taunt|p1a: Amoonguss
+|-start|p1a: Amoonguss|move: Taunt
+|cant|p1a: Amoonguss|move: Taunt|Spore
+|
+|-heal|p1a: Amoonguss|13/100|[from] item: Black Sludge
+|-damage|p1a: Amoonguss|1/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1641832757
+|move|p2a: Heatran|Stealth Rock|p1a: Amoonguss
+|-sidestart|p1: Wa11um|move: Stealth Rock
+|move|p1a: Amoonguss|Sludge Bomb|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|-heal|p1a: Amoonguss|7/100|[from] item: Black Sludge
+|-end|p1a: Amoonguss|Magma Storm|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1641832763
+|move|p2a: Heatran|Earth Power|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|upkeep
+|
+|t:|1641832766
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641832770
+|move|p1a: Heatran|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|11/100
+|move|p2a: Heatran|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-heal|p2a: Heatran|18/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641832779
+|switch|p1a: Azumarill|Azumarill, M|100/100
+|-damage|p1a: Azumarill|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641832783
+|move|p2a: Heatran|Taunt|p1a: Azumarill
+|-start|p1a: Azumarill|move: Taunt
+|cant|p1a: Azumarill|move: Taunt|Belly Drum
+|
+|-heal|p2a: Heatran|24/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641832791
+|move|p1a: Azumarill|Aqua Jet|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641832795
+|switch|p2a: Tapu Bulu|Tapu Bulu|46/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|turn|15
+|
+|t:|1641832800
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-damage|p1a: Rillaboom|88/100|[from] Stealth Rock
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|41/100
+|-heal|p2a: Tapu Bulu|74/100|[from] drain|[of] p1a: Rillaboom
+|
+|-heal|p1a: Rillaboom|47/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|80/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641832808
+|move|p1a: Rillaboom|U-turn|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|42/100
+|
+|t:|1641832812
+|switch|p1a: Hippowdon|Hippowdon, M|44/100|[from]move: U-turn
+|-damage|p1a: Hippowdon|38/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|-heal|p2a: Tapu Bulu|69/100|[from] drain|[of] p1a: Hippowdon
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tapu Bulu|63/100|[from] Sandstorm
+|-heal|p2a: Tapu Bulu|69/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641832816
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|turn|17
+|
+|t:|1641832821
+|move|p1a: Alakazam|Psychic|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|0 fnt
+|faint|p2a: Tapu Bulu
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641832830
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|94/100
+|turn|18
+|
+|t:|1641832838
+|switch|p1a: Rillaboom|Rillaboom, F|47/100
+|-damage|p1a: Rillaboom|35/100|[from] Stealth Rock
+|move|p2a: Urshifu|Surging Strikes|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-crit|p1a: Rillaboom
+|-damage|p1a: Rillaboom|24/100
+|-resisted|p1a: Rillaboom
+|-crit|p1a: Rillaboom
+|-damage|p1a: Rillaboom|13/100
+|-resisted|p1a: Rillaboom
+|-crit|p1a: Rillaboom
+|-damage|p1a: Rillaboom|3/100
+|-hitcount|p1a: Rillaboom|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Urshifu|88/100|[from] Sandstorm
+|-damage|p1a: Rillaboom|0 fnt|[from] Sandstorm
+|faint|p1a: Rillaboom
+|-heal|p2a: Urshifu|94/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641832842
+|switch|p1a: Azumarill|Azumarill, M|88/100
+|-damage|p1a: Azumarill|76/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641832861
+|move|p2a: Urshifu|Surging Strikes|p1a: Azumarill
+|-resisted|p1a: Azumarill
+|-crit|p1a: Azumarill
+|-damage|p1a: Azumarill|65/100
+|-resisted|p1a: Azumarill
+|-crit|p1a: Azumarill
+|-damage|p1a: Azumarill|55/100
+|-resisted|p1a: Azumarill
+|-crit|p1a: Azumarill
+|-damage|p1a: Azumarill|45/100
+|-enditem|p1a: Azumarill|Sitrus Berry|[eat]
+|-heal|p1a: Azumarill|70/100|[from] item: Sitrus Berry
+|-hitcount|p1a: Azumarill|3
+|move|p1a: Azumarill|Belly Drum|p1a: Azumarill
+|-damage|p1a: Azumarill|20/100
+|-setboost|p1a: Azumarill|atk|6|[from] move: Belly Drum
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Urshifu|88/100|[from] Sandstorm
+|-damage|p1a: Azumarill|13/100|[from] Sandstorm
+|-heal|p2a: Urshifu|94/100|[from] Grassy Terrain
+|-heal|p1a: Azumarill|20/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1641832880
+|move|p1a: Azumarill|Aqua Jet|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|42/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Azumarill
+|-resisted|p1a: Azumarill
+|-crit|p1a: Azumarill
+|-damage|p1a: Azumarill|9/100
+|-resisted|p1a: Azumarill
+|-crit|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|-hitcount|p1: Azumarill|2
+|
+|-weather|none
+|upkeep
+|
+|t:|1641832882
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|turn|21
+|
+|t:|1641832886
+|move|p2a: Urshifu|Surging Strikes|p1a: Alakazam
+|-crit|p1a: Alakazam
+|-damage|p1a: Alakazam|51/100
+|-crit|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|-hitcount|p1: Alakazam|2
+|
+|win|Sanjogbiswas
+|raw|Wa11um's rating: 1326 &rarr; <strong>1309</strong><br />(-17 for losing)
+|raw|Sanjogbiswas's rating: 1372 &rarr; <strong>1389</strong><br />(+17 for winning)
+|l|☆Wa11um
+|c|☆Sanjogbiswas|Gg
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

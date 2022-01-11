@@ -1,0 +1,748 @@
+|j|☆Lefrancais.SCII
+|j|☆P.Otaku ☯
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641832506
+|gametype|singles
+|player|p1|Lefrancais.SCII|benga|
+|player|p2|P.Otaku ☯|lyra-pokeathlon|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcanion|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Arctozolt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Alakazam, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Moltres-Galar|
+|poke|p2|Toxapex, M|
+|teampreview
+|inactive|P.Otaku ☯ also wants the timer to be on.
+|j| UU11T Mimil
+|c|☆Lefrancais.SCII|OUF
+|j| The Delta Maybca☆〜
+|c| UU11T Mimil|GO P(ROF).OTAKU
+|c|☆Lefrancais.SCII|j'ai cru que t'allais pas lancer
+|c|☆Lefrancais.SCII|gl hf
+|c|☆P.Otaku ☯|j'était entrain de rédiger un truc, c'était juste mdr
+|inactive|P.Otaku ☯ has 120 seconds left.
+|
+|t:|1641832544
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Metagrass|Ferrothorn, M|100/100
+|turn|1
+|c|☆Lefrancais.SCII|oh t'es strong en OU
+|
+|t:|1641832558
+|switch|p2a: Hello twin!|Landorus-Therian, M|100/100
+|-ability|p2a: Hello twin!|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|move|p1a: Tornadus|Heat Wave|p2a: Hello twin!
+|-damage|p2a: Hello twin!|79/100
+|
+|-heal|p2a: Hello twin!|85/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641832566
+|move|p1a: Tornadus|Knock Off|p2a: Hello twin!
+|-damage|p2a: Hello twin!|73/100
+|-enditem|p2a: Hello twin!|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Hello twin!|Toxic|p1a: Tornadus
+|-status|p1a: Tornadus|tox
+|
+|-damage|p1a: Tornadus|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641832568
+|move|p1a: Tornadus|U-turn|p2a: Hello twin!
+|-resisted|p2a: Hello twin!
+|-damage|p2a: Hello twin!|68/100
+|
+|t:|1641832572
+|switch|p1a: Corviknight|Corviknight, M|100/100|[from]move: U-turn
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Hello twin!|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|97/100
+|-damage|p2a: Hello twin!|52/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|c|☆P.Otaku ☯|et mtn la meilleure question du jour
+|c|☆P.Otaku ☯|comment je passe corvi avec ma team
+|c|☆Lefrancais.SCII|mdrrrrr
+|c|☆Lefrancais.SCII|crit?
+|
+|t:|1641832602
+|switch|p2a: ClamshellCannon|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ClamshellCannon
+|
+|upkeep
+|turn|4
+|j|@iron☂water ♫
+|inactive|Lefrancais.SCII has 120 seconds left.
+|
+|t:|1641832632
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100 tox
+|move|p2a: ClamshellCannon|Thunderbolt|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|39/100 tox
+|
+|-damage|p1a: Tornadus|33/100 tox|[from] psn
+|upkeep
+|turn|5
+|c|☆Lefrancais.SCII|oo
+|c|☆P.Otaku ☯|zut , il a réfléchis et m'as percé à jour :()
+|
+|t:|1641832647
+|switch|p2a: Don't @ Me|Toxapex, M|100/100
+|move|p1a: Tornadus|U-turn|p2a: Don't @ Me
+|-resisted|p2a: Don't @ Me
+|-damage|p2a: Don't @ Me|96/100
+|-enditem|p2a: Don't @ Me|Eject Button
+|
+|t:|1641832655
+|switch|p2a: Angriest Bird|Moltres-Galar|100/100
+|
+|-damage|p1a: Tornadus|21/100 tox|[from] psn
+|upkeep
+|turn|6
+|c|☆Lefrancais.SCII|bah nan je pensais que t'allais focus blast mdrrr
+|
+|t:|1641832671
+|move|p1a: Tornadus|U-turn|p2a: Angriest Bird
+|-damage|p2a: Angriest Bird|86/100
+|
+|t:|1641832676
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Angriest Bird|Air Slash|p1a: Ninetales
+|-damage|p1a: Ninetales|66/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Angriest Bird|80/100|[from] Hail
+|upkeep
+|turn|7
+|c|☆Lefrancais.SCII|mais du coup ça veut dire que tu l'as pas
+|c|☆P.Otaku ☯|si
+|inactive|Lefrancais.SCII has 120 seconds left.
+|c|☆P.Otaku ☯|mais je pref taper tbolt
+|c|☆P.Otaku ☯|:()
+|c|☆Lefrancais.SCII|et aussi t'es pas specs vu les dmg
+|c|☆P.Otaku ☯|alors
+|
+|t:|1641832725
+|switch|p2a: Metagrass|Ferrothorn, M|100/100
+|move|p1a: Ninetales|Freeze-Dry|p2a: Metagrass
+|-damage|p2a: Metagrass|88/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Metagrass|82/100|[from] Hail
+|-heal|p2a: Metagrass|88/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|8
+|c|☆P.Otaku ☯|je suis vrmt specs mdr
+|c|☆Lefrancais.SCII|mdrr wtf
+|c|☆P.Otaku ☯|!showset 6
+|c| P.Otaku ☯|/raw <div class="infobox">Don&apos;t @ Me (Toxapex) (M) @ Eject Button  <br />Ability: Regenerator  <br />EVs: 248 HP &#x2f; 252 Def &#x2f; 8 SpD  <br />Bold Nature  <br />IVs: 0 Atk  <br />- Recover  <br />- Scald  <br />- Light Screen  <br />- Haze  <br /><br /></div>
+|inactive|P.Otaku ☯ has 120 seconds left.
+|c|☆P.Otaku ☯|ah pas le bon mdr
+|c|☆Lefrancais.SCII|MDRRR
+|c| The Delta Maybca☆〜|Mdr
+|c|☆P.Otaku ☯|!showset 2
+|c| P.Otaku ☯|/raw <div class="infobox">ClamshellCannon (Tapu Lele) @ Choice Specs  <br />Ability: Psychic Surge  <br />EVs: 252 SpA &#x2f; 4 SpD &#x2f; 252 Spe  <br />Timid Nature  <br />IVs: 0 Atk  <br />- Moonblast  <br />- Thunderbolt  <br />- Psyshock  <br />- Psychic  <br /><br /></div>
+|c|☆P.Otaku ☯|voilà
+|c| The Delta Maybca☆〜|montre encor plus t’as team
+|c|☆Lefrancais.SCII|!showset 6
+|c| Lefrancais.SCII|/raw <div class="infobox">Tornadus (Tornadus-Therian) (M) @ Assault Vest  <br />Ability: Regenerator  <br />EVs: 248 HP &#x2f; 92 Def &#x2f; 168 Spe  <br />Timid Nature  <br />- Knock Off  <br />- Heat Wave  <br />- Weather Ball  <br />- U-turn  <br /><br /></div>
+|c|☆P.Otaku ☯|:paz:
+|inactive|P.Otaku ☯ has 90 seconds left.
+|c| The Delta Maybca☆〜|C que t assaut vest
+|c|☆P.Otaku ☯|bah je m'en fous, je joue pour rire
+|c|☆Lefrancais.SCII|je montre aussi parce que bon
+|
+|t:|1641832784
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Metagrass|Stealth Rock|p1a: Volcanion
+|-sidestart|p1: Lefrancais.SCII|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcanion|95/100|[from] Hail
+|-damage|p2a: Metagrass|82/100|[from] Hail
+|-heal|p2a: Metagrass|88/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|c|☆P.Otaku ☯|bon effectivemment vu comme ça on dirait pas que j'ai focus blast
+|c|☆P.Otaku ☯|mais
+|c|☆P.Otaku ☯|le 5e move
+|c| The Delta Maybca☆〜|Mdr
+|c|☆Lefrancais.SCII|mdrrrrrr
+|inactive|P.Otaku ☯ has 60 seconds left.
+|
+|t:|1641832815
+|switch|p2a: Don't @ Me|Toxapex, M|100/100
+|move|p1a: Volcanion|Earth Power|p2a: Don't @ Me
+|-supereffective|p2a: Don't @ Me
+|-damage|p2a: Don't @ Me|24/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcanion|89/100|[from] Hail
+|-damage|p2a: Don't @ Me|18/100|[from] Hail
+|upkeep
+|turn|10
+|c|☆Lefrancais.SCII|Oh yeah
+|
+|t:|1641832829
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|-damage|p1a: Arctozolt|76/100|[from] Stealth Rock
+|switch|p2a: Angriest Bird|Moltres-Galar|80/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Angriest Bird|74/100|[from] Hail
+|-heal|p1a: Arctozolt|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641832835
+|switch|p2a: Metagrass|Ferrothorn, M|88/100
+|move|p1a: Arctozolt|Icicle Crash|p2a: Metagrass
+|-damage|p2a: Metagrass|57/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Metagrass|51/100|[from] Hail
+|-heal|p1a: Arctozolt|88/100|[from] item: Leftovers
+|-heal|p2a: Metagrass|57/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641832841
+|move|p1a: Arctozolt|Icicle Crash|p2a: Metagrass|[miss]
+|-miss|p1a: Arctozolt|p2a: Metagrass
+|move|p2a: Metagrass|Iron Head|p1a: Arctozolt
+|-damage|p1a: Arctozolt|58/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Metagrass|51/100|[from] Hail
+|-heal|p1a: Arctozolt|64/100|[from] item: Leftovers
+|-heal|p2a: Metagrass|57/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641832845
+|move|p1a: Arctozolt|Icicle Crash|p2a: Metagrass
+|-damage|p2a: Metagrass|28/100
+|cant|p2a: Metagrass|flinch
+|
+|-weather|none
+|-heal|p1a: Arctozolt|71/100|[from] item: Leftovers
+|-heal|p2a: Metagrass|34/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641832851
+|switch|p1a: Ninetales|Ninetales-Alola, M|66/100
+|-damage|p1a: Ninetales|41/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Metagrass|Leech Seed|p1a: Ninetales
+|-start|p1a: Ninetales|move: Leech Seed
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Metagrass|28/100|[from] Hail
+|-heal|p2a: Metagrass|34/100|[from] item: Leftovers
+|-damage|p1a: Ninetales|29/100|[from] Leech Seed|[of] p2a: Metagrass
+|-heal|p2a: Metagrass|46/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641832857
+|switch|p1a: Corviknight|Corviknight, M|97/100
+|-damage|p1a: Corviknight|85/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Metagrass|Iron Head|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|77/100
+|-damage|p2a: Metagrass|30/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Corviknight|71/100|[from] Hail
+|-damage|p2a: Metagrass|24/100|[from] Hail
+|-heal|p2a: Metagrass|30/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641832861
+|move|p1a: Corviknight|Body Press|p2a: Metagrass
+|-supereffective|p2a: Metagrass
+|-damage|p2a: Metagrass|0 fnt
+|-damage|p1a: Corviknight|59/100|[from] ability: Iron Barbs|[of] p2a: Metagrass
+|faint|p2a: Metagrass
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Corviknight|52/100|[from] Hail
+|upkeep
+|
+|t:|1641832866
+|switch|p2a: ClamshellCannon|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ClamshellCannon
+|turn|17
+|j|+avarice
+|
+|t:|1641832876
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: ClamshellCannon|atk|1
+|move|p2a: ClamshellCannon|Thunderbolt|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ClamshellCannon|94/100|[from] Hail
+|-damage|p1a: Landorus|82/100|[from] Hail
+|-heal|p1a: Landorus|88/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|c|☆Lefrancais.SCII|j'ai hésité mdrr
+|c|☆Lefrancais.SCII|mais c'est ma win con
+|
+|t:|1641832898
+|switch|p2a: Hello twin!|Landorus-Therian, M|52/100
+|-ability|p2a: Hello twin!|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Defog|p2a: Hello twin!
+|-unboost|p2a: Hello twin!|evasion|1
+|-sideend|p1: Lefrancais.SCII|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|-fieldend|move: Psychic Terrain
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Hello twin!|46/100|[from] Hail
+|-damage|p1a: Landorus|82/100|[from] Hail
+|-heal|p1a: Landorus|88/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|c|☆P.Otaku ☯|moi aussi mais ça me ferait chier que tu roost
+|
+|t:|1641832904
+|switch|p1a: Corviknight|Corviknight, M|52/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Hello twin!|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|49/100
+|-damage|p2a: Hello twin!|29/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|t:|1641832908
+|switch|p2a: ClamshellCannon|Tapu Lele|94/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ClamshellCannon
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ClamshellCannon|88/100|[from] Hail
+|-damage|p1a: Corviknight|43/100|[from] Hail
+|upkeep
+|turn|20
+|l| The Delta Maybca☆〜
+|inactive|Lefrancais.SCII has 120 seconds left.
+|
+|t:|1641832967
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: ClamshellCannon|atk|1
+|move|p2a: ClamshellCannon|Thunderbolt|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ClamshellCannon|82/100|[from] Hail
+|-damage|p1a: Landorus|82/100|[from] Hail
+|-heal|p1a: Landorus|88/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|inactive|Lefrancais.SCII has 90 seconds left.
+|
+|t:|1641832983
+|switch|p2a: Hello twin!|Landorus-Therian, M|29/100
+|-ability|p2a: Hello twin!|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|switch|p1a: Arctozolt|Arctozolt|71/100
+|
+|-weather|none
+|-heal|p1a: Arctozolt|77/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|j| OB tire le premier
+|
+|t:|1641832995
+|switch|p1a: Ninetales|Ninetales-Alola, M|29/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Hello twin!|U-turn|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|15/100
+|c|☆Lefrancais.SCII|à chaque fois la petite goutte de sueur x)
+|
+|t:|1641832999
+|switch|p2a: ZammerHammer|Alakazam, M|100/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641833006
+|move|p2a: ZammerHammer|Expanding Force|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641833025
+|switch|p1a: Corviknight|Corviknight, M|43/100
+|-ability|p1a: Corviknight|Pressure
+|turn|24
+|
+|t:|1641833030
+|move|p2a: ZammerHammer|Focus Blast|p1a: Corviknight
+|-damage|p1a: Corviknight|3/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|53/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Corviknight|46/100|[from] Hail
+|upkeep
+|turn|25
+|
+|t:|1641833037
+|switch|p2a: ClamshellCannon|Tapu Lele|82/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ClamshellCannon
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|96/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ClamshellCannon|76/100|[from] Hail
+|-damage|p1a: Corviknight|90/100|[from] Hail
+|upkeep
+|turn|26
+|c|☆Lefrancais.SCII|UU
+|inactive|Lefrancais.SCII has 120 seconds left.
+|
+|t:|1641833067
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: ClamshellCannon|atk|1
+|move|p2a: ClamshellCannon|Thunderbolt|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: ClamshellCannon|70/100|[from] Hail
+|-damage|p1a: Landorus|82/100|[from] Hail
+|-heal|p1a: Landorus|88/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641833074
+|switch|p2a: Hello twin!|Landorus-Therian, M|29/100
+|-ability|p2a: Hello twin!|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|U-turn|p2a: Hello twin!
+|-resisted|p2a: Hello twin!
+|-damage|p2a: Hello twin!|22/100
+|
+|t:|1641833077
+|switch|p1a: Arctozolt|Arctozolt|77/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Hello twin!|16/100|[from] Hail
+|-heal|p1a: Arctozolt|83/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641833080
+|switch|p2a: Don't @ Me|Toxapex, M|51/100
+|move|p1a: Arctozolt|Icicle Crash|p2a: Don't @ Me|[miss]
+|-miss|p1a: Arctozolt|p2a: Don't @ Me
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Don't @ Me|45/100|[from] Hail
+|-heal|p1a: Arctozolt|89/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641833085
+|switch|p2a: Hello twin!|Landorus-Therian, M|16/100
+|-ability|p2a: Hello twin!|Intimidate|boost
+|-unboost|p1a: Arctozolt|atk|1
+|move|p1a: Arctozolt|Substitute|p1a: Arctozolt
+|-start|p1a: Arctozolt|Substitute
+|-damage|p1a: Arctozolt|64/100
+|
+|-weather|none
+|-heal|p1a: Arctozolt|71/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|30
+|
+|t:|1641833088
+|move|p1a: Arctozolt|Icicle Crash|p2a: Hello twin!|[miss]
+|-miss|p1a: Arctozolt|p2a: Hello twin!
+|move|p2a: Hello twin!|Earthquake|p1a: Arctozolt
+|-supereffective|p1a: Arctozolt
+|-end|p1a: Arctozolt|Substitute
+|
+|-heal|p1a: Arctozolt|77/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641833091
+|move|p1a: Arctozolt|Icicle Crash|p2a: Hello twin!
+|-supereffective|p2a: Hello twin!
+|-damage|p2a: Hello twin!|0 fnt
+|faint|p2a: Hello twin!
+|
+|-heal|p1a: Arctozolt|83/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641833092
+|switch|p2a: ClamshellCannon|Tapu Lele|70/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ClamshellCannon
+|turn|32
+|
+|t:|1641833098
+|switch|p1a: Corviknight|Corviknight, M|90/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: ClamshellCannon|Psychic|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|47/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641833101
+|move|p2a: ClamshellCannon|Psychic|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|c|☆Lefrancais.SCII|ooo nan
+|j| Varial Heelflip
+|c|☆P.Otaku ☯|ah oé solide lele
+|c|☆P.Otaku ☯|mais ça veux dire que t'as pas d'invest spdef
+|c|☆P.Otaku ☯|et c'est moyen ça
+|l| Varial Heelflip
+|inactive|Lefrancais.SCII has 120 seconds left.
+|c|☆Lefrancais.SCII|!showset 3
+|c| Lefrancais.SCII|/raw <div class="infobox">Corviknight @ Rocky Helmet  <br />Ability: Pressure  <br />EVs: 252 HP &#x2f; 252 Def &#x2f; 4 SpD  <br />Relaxed Nature  <br />IVs: 0 Spe  <br />- Body Press  <br />- U-turn  <br />- Defog  <br />- Roost  <br /><br /></div>
+|c|☆P.Otaku ☯|oé faut mettre un peu de spdef :(
+|c|☆Lefrancais.SCII|yep x=)
+|
+|t:|1641833158
+|switch|p1a: Tornadus|Tornadus-Therian, M|54/100 tox
+|turn|34
+|
+|t:|1641833163
+|move|p1a: Tornadus|Knock Off|p2a: ClamshellCannon
+|-crit|p2a: ClamshellCannon
+|-damage|p2a: ClamshellCannon|22/100
+|-enditem|p2a: ClamshellCannon|Choice Specs|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: ClamshellCannon|Psychic|p1a: Tornadus
+|-damage|p1a: Tornadus|15/100 tox
+|-unboost|p1a: Tornadus|spd|1
+|
+|-damage|p1a: Tornadus|9/100 tox|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641833170
+|switch|p2a: Don't @ Me|Toxapex, M|79/100
+|move|p1a: Tornadus|U-turn|p2a: Don't @ Me
+|-resisted|p2a: Don't @ Me
+|-damage|p2a: Don't @ Me|74/100
+|j| The Delta Gang
+|
+|t:|1641833182
+|switch|p1a: Arctozolt|Arctozolt|83/100|[from]move: U-turn
+|
+|-heal|p1a: Arctozolt|89/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|c|☆Lefrancais.SCII|pas simple là
+|
+|t:|1641833193
+|move|p1a: Arctozolt|Substitute|p1a: Arctozolt
+|-start|p1a: Arctozolt|Substitute
+|-damage|p1a: Arctozolt|64/100
+|move|p2a: Don't @ Me|Scald|p1a: Arctozolt
+|-activate|p1a: Arctozolt|move: Substitute|[damage]
+|
+|-heal|p1a: Arctozolt|71/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|37
+|
+|t:|1641833199
+|move|p1a: Arctozolt|Bolt Beak|p2a: Don't @ Me
+|-supereffective|p2a: Don't @ Me
+|-damage|p2a: Don't @ Me|0 fnt
+|faint|p2a: Don't @ Me
+|
+|-heal|p1a: Arctozolt|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641833201
+|switch|p2a: ZammerHammer|Alakazam, M|100/100
+|turn|38
+|
+|t:|1641833203
+|move|p2a: ZammerHammer|Expanding Force|p1a: Arctozolt
+|-end|p1a: Arctozolt|Substitute
+|move|p1a: Arctozolt|Bolt Beak|p2a: ZammerHammer
+|-damage|p2a: ZammerHammer|10/100
+|
+|-heal|p1a: Arctozolt|83/100|[from] item: Leftovers
+|upkeep
+|turn|39
+|j| The Delta Maybca☆〜
+|
+|t:|1641833211
+|move|p2a: ZammerHammer|Focus Blast|p1a: Arctozolt
+|-supereffective|p1a: Arctozolt
+|-damage|p1a: Arctozolt|0 fnt
+|faint|p1a: Arctozolt
+|
+|upkeep
+|
+|t:|1641833219
+|switch|p1a: Tornadus|Tornadus-Therian, M|42/100 tox
+|turn|40
+|inactive|Lefrancais.SCII has 120 seconds left.
+|
+|t:|1641833247
+|switch|p2a: ClamshellCannon|Tapu Lele|22/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: ClamshellCannon
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: ClamshellCannon|atk|1
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|l| UU11T Mimil
+|inactive|Lefrancais.SCII has 120 seconds left.
+|
+|t:|1641833257
+|move|p2a: ClamshellCannon|Psychic|p1a: Landorus
+|-damage|p1a: Landorus|45/100
+|move|p1a: Landorus|U-turn|p2a: ClamshellCannon
+|-damage|p2a: ClamshellCannon|0 fnt
+|faint|p2a: ClamshellCannon
+|
+|t:|1641833260
+|switch|p1a: Tornadus|Tornadus-Therian, M|75/100 tox|[from]move: U-turn
+|
+|-damage|p1a: Tornadus|69/100 tox|[from] psn
+|upkeep
+|l| The Delta Maybca☆〜
+|j| aazah
+|
+|t:|1641833265
+|switch|p2a: Angriest Bird|Moltres-Galar|74/100
+|turn|42
+|c|☆Lefrancais.SCII|gg je crois
+|
+|t:|1641833274
+|move|p1a: Tornadus|U-turn|p2a: Angriest Bird
+|-damage|p2a: Angriest Bird|59/100
+|
+|t:|1641833276
+|switch|p1a: Landorus|Landorus-Therian, M|45/100|[from]move: U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Angriest Bird|atk|1
+|move|p2a: Angriest Bird|Agility|p2a: Angriest Bird
+|-boost|p2a: Angriest Bird|spe|2
+|
+|-heal|p1a: Landorus|51/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1641833282
+|move|p2a: Angriest Bird|Nasty Plot|p2a: Angriest Bird
+|-boost|p2a: Angriest Bird|spa|2
+|move|p1a: Landorus|Toxic|p2a: Angriest Bird
+|-status|p2a: Angriest Bird|tox
+|
+|-heal|p1a: Landorus|57/100|[from] item: Leftovers
+|-damage|p2a: Angriest Bird|53/100 tox|[from] psn
+|upkeep
+|turn|44
+|c|☆Lefrancais.SCII|et m****
+|
+|t:|1641833288
+|move|p2a: Angriest Bird|Fiery Wrath|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-damage|p2a: Angriest Bird|40/100 tox|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641833301
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100 tox
+|turn|45
+|l| aazah
+|
+|t:|1641833325
+|move|p2a: Angriest Bird|Fiery Wrath|p1a: Tornadus
+|-damage|p1a: Tornadus|36/100 tox
+|move|p1a: Tornadus|Heat Wave|p2a: Angriest Bird
+|-damage|p2a: Angriest Bird|22/100 tox
+|
+|-damage|p2a: Angriest Bird|4/100 tox|[from] psn
+|-damage|p1a: Tornadus|30/100 tox|[from] psn
+|upkeep
+|turn|46
+|inactive|Lefrancais.SCII has 120 seconds left.
+|
+|t:|1641833346
+|move|p2a: Angriest Bird|Fiery Wrath|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-damage|p2a: Angriest Bird|0 fnt|[from] psn
+|faint|p2a: Angriest Bird
+|upkeep
+|
+|t:|1641833348
+|switch|p1a: Volcanion|Volcanion|89/100
+|switch|p2a: ZammerHammer|Alakazam, M|10/100
+|turn|47
+|c|☆Lefrancais.SCII|GG
+|c|☆Lefrancais.SCII|sauf crit lol
+|
+|t:|1641833366
+|move|p2a: ZammerHammer|Expanding Force|p1a: Volcanion
+|-damage|p1a: Volcanion|32/100
+|move|p1a: Volcanion|Earth Power|p2a: ZammerHammer
+|-damage|p2a: ZammerHammer|0 fnt
+|faint|p2a: ZammerHammer
+|
+|win|Lefrancais.SCII
+|n|☆Lefrancais.SCII|lefrancaisscii
+|n|☆P.Otaku ☯|potaku
+|n|+iron☂water ♫|ironwater
+|n|+avarice|avarice
+|n| OB tire le premier|obtirelepremier
+|n| The Delta Gang|thedeltagang

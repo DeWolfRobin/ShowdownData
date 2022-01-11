@@ -1,0 +1,246 @@
+|j|☆Johnchalant
+|j|☆DumbLick1337
+|t:|1641824885
+|gametype|singles
+|player|p1|Johnchalant|unknown|1247
+|player|p2|DumbLick1337|102|1231
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Vileplume, F|
+|poke|p1|Magnezone|
+|poke|p1|Dragonite, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Mamoswine, M|
+|poke|p1|Heatran, F|
+|poke|p2|Clefable, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Hydreigon, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Hippowdon, M|
+|poke|p2|Excadrill, M|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641824900
+|start
+|switch|p1a: Boreas|Mamoswine, M|100/100
+|switch|p2a: rotomwash|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1641824906
+|switch|p1a: Indra|Magnezone, shiny|100/100
+|move|p2a: rotomwash|Hydro Pump|p1a: Indra
+|-crit|p1a: Indra
+|-damage|p1a: Indra|4/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641824913
+|move|p2a: rotomwash|Hydro Pump|p1a: Indra
+|-damage|p1a: Indra|0 fnt
+|faint|p1a: Indra
+|
+|upkeep
+|
+|t:|1641824917
+|switch|p1a: Dolos|Slowking-Galar, M, shiny|100/100
+|turn|3
+|
+|t:|1641824920
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Dolos|Sludge Bomb|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|4
+|
+|t:|1641824923
+|switch|p1a: Noka|Vileplume, F|100/100
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641824926
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|75/100
+|move|p1a: Noka|Infestation|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|-heal|p2a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641824929
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Noka|Giga Drain|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|-heal|p2a: Corviknight|88/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641824935
+|switch|p1a: Dolos|Slowking-Galar, M, shiny|100/100
+|move|p2a: Corviknight|Brave Bird|p1a: Dolos
+|-damage|p1a: Dolos|21/100
+|-damage|p2a: Corviknight|62/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|68/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641824938
+|switch|p1a: Noka|Vileplume, F|100/100
+|move|p2a: Corviknight|Brave Bird|p1a: Noka
+|-supereffective|p1a: Noka
+|-damage|p1a: Noka|0 fnt
+|-damage|p2a: Corviknight|52/100|[from] item: Rocky Helmet|[of] p1a: Noka
+|faint|p1a: Noka
+|-damage|p2a: Corviknight|28/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|34/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641824943
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|9
+|
+|t:|1641824946
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|84/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Heatran|Ancient Power|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|-heal|p2a: Corviknight|90/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641824949
+|move|p2a: Corviknight|Brave Bird|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|71/100
+|-damage|p2a: Corviknight|82/100|[from] Recoil
+|move|p1a: Heatran|Ancient Power|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|-heal|p2a: Corviknight|88/100|[from] item: Leftovers
+|-heal|p1a: Heatran|77/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641824954
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|63/100
+|move|p1a: Heatran|Ancient Power|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|-heal|p2a: Corviknight|70/100|[from] item: Leftovers
+|-heal|p1a: Heatran|83/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641824957
+|move|p2a: Corviknight|Brave Bird|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|55/100
+|-damage|p2a: Corviknight|62/100|[from] Recoil
+|move|p1a: Heatran|Ancient Power|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|-heal|p2a: Corviknight|68/100|[from] item: Leftovers
+|-heal|p1a: Heatran|61/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641824962
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|43/100
+|
+|-heal|p2a: Corviknight|50/100|[from] item: Leftovers
+|-heal|p1a: Heatran|67/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641824965
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|99/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Heatran|Magma Storm|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|-heal|p1a: Heatran|74/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641824968
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|75/100
+|move|p1a: Heatran|Magma Storm|p2a: Corviknight|[miss]
+|-miss|p1a: Heatran|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|82/100|[from] item: Leftovers
+|-heal|p1a: Heatran|80/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641824972
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Corviknight|Brave Bird|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p2a: Corviknight|88/100|[from] item: Leftovers
+|-heal|p1a: Heatran|86/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641824974
+|move|p2a: Corviknight|Brave Bird|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|57/100
+|-damage|p2a: Corviknight|80/100|[from] Recoil
+|move|p1a: Heatran|Magma Storm|p2a: Corviknight|[miss]
+|-miss|p1a: Heatran|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|86/100|[from] item: Leftovers
+|-heal|p1a: Heatran|63/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|-message|Johnchalant forfeited.
+|
+|win|DumbLick1337
+|raw|Johnchalant's rating: 1247 &rarr; <strong>1221</strong><br />(-26 for losing)
+|raw|DumbLick1337's rating: 1231 &rarr; <strong>1257</strong><br />(+26 for winning)
+|c|☆DumbLick1337|gg

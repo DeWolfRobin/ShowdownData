@@ -1,0 +1,123 @@
+|j|☆SugarInFurs
+|j|☆srxyyfs
+|t:|1641696914
+|gametype|singles
+|player|p1|SugarInFurs|170|1040
+|player|p2|srxyyfs|102|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Azumarill, M|
+|poke|p1|Lucario, M|
+|poke|p1|Weavile, F|
+|poke|p1|Mimikyu, F|
+|poke|p1|Golisopod, F|
+|poke|p1|Polteageist|
+|poke|p2|Tyranitar, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Charizard, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Milotic, M|
+|teampreview
+|
+|t:|1641696926
+|start
+|switch|p1a: Azumarill|Azumarill, M|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|1
+|
+|t:|1641696944
+|move|p1a: Azumarill|Belly Drum|p1a: Azumarill
+|-damage|p1a: Azumarill|50/100
+|-setboost|p1a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Azumarill|Sitrus Berry|[eat]
+|-heal|p1a: Azumarill|75/100|[from] item: Sitrus Berry
+|move|p2a: Ferrothorn|Spikes|p1a: Azumarill
+|-sidestart|p1: SugarInFurs|Spikes
+|
+|upkeep
+|turn|2
+|l|☆srxyyfs
+|player|p2|
+|c|☆SugarInFurs|lol
+|j|☆srxyyfs
+|player|p2|srxyyfs|102
+|
+|t:|1641697026
+|move|p1a: Azumarill|Play Rough|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|18/100
+|-unboost|p2a: Ferrothorn|atk|1
+|-damage|p1a: Azumarill|63/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Spikes|p1a: Azumarill
+|-sidestart|p1: SugarInFurs|Spikes
+|
+|-heal|p2a: Ferrothorn|24/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641697037
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Azumarill|Play Rough|p2a: Hippowdon|[miss]
+|-miss|p1a: Azumarill|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Azumarill|57/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641697046
+|move|p1a: Azumarill|Aqua Jet|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Azumarill|51/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641697052
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|turn|5
+|
+|t:|1641697055
+|move|p1a: Azumarill|Aqua Jet|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Azumarill|45/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641697063
+|switch|p2a: Milotic|Milotic, M|100/100
+|turn|6
+|
+|t:|1641697067
+|move|p1a: Azumarill|Knock Off|p2a: Milotic
+|-damage|p2a: Milotic|0 fnt
+|-enditem|p2a: Milotic|Leftovers|[from] move: Knock Off|[of] p1a: Azumarill
+|faint|p2a: Milotic
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Azumarill|39/100|[from] Sandstorm
+|upkeep
+|-message|srxyyfs forfeited.
+|
+|win|SugarInFurs
+|raw|SugarInFurs's rating: 1040 &rarr; <strong>1070</strong><br />(+30 for winning)
+|raw|srxyyfs's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆srxyyfs

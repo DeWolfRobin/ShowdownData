@@ -1,0 +1,196 @@
+|j|☆EXCISIONb2b
+|j|☆JP_PN
+|t:|1641749250
+|gametype|singles
+|player|p1|EXCISIONb2b|wallace|1439
+|player|p2|JP_PN|ingo|1498
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Koko|
+|poke|p1|Regieleki|
+|poke|p1|Raikou|
+|poke|p1|Hawlucha, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Swampert, M|
+|poke|p2|Xurkitree|
+|poke|p2|Raichu-Alola, M|
+|poke|p2|Pincurchin, M|
+|poke|p2|Galvantula, M|
+|poke|p2|Toxtricity, F|
+|poke|p2|Hawlucha, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JP_PN)
+|j| Zercoz
+|
+|t:|1641749268
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Galvantula|Galvantula, M, shiny|100/100
+|turn|1
+|
+|t:|1641749273
+|move|p1a: Regieleki|Volt Switch|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|60/100
+|
+|t:|1641749278
+|switch|p1a: Raikou|Raikou|100/100|[from]move: Volt Switch
+|move|p2a: Galvantula|Sticky Web|p1a: Raikou
+|-sidestart|p1: EXCISIONb2b|move: Sticky Web
+|
+|upkeep
+|turn|2
+|
+|t:|1641749289
+|move|p1a: Raikou|Volt Switch|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|13/100
+|
+|t:|1641749298
+|switch|p1a: Regieleki|Regieleki|100/100|[from]move: Volt Switch
+|move|p2a: Galvantula|Bug Buzz|p1a: Regieleki
+|-damage|p1a: Regieleki|26/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641749302
+|move|p1a: Regieleki|Volt Switch|p2a: Galvantula
+|-resisted|p2a: Galvantula
+|-damage|p2a: Galvantula|0 fnt
+|faint|p2a: Galvantula
+|
+|t:|1641749318
+|switch|p1a: Corviknight|Corviknight, M|100/100|[from]move: Volt Switch
+|-ability|p1a: Corviknight|Pressure
+|
+|upkeep
+|
+|t:|1641749340
+|switch|p2a: Xurkitree|Xurkitree, shiny|100/100
+|turn|4
+|
+|t:|1641749360
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-activate|p1a: Tapu Koko|move: Sticky Web
+|-unboost|p1a: Tapu Koko|spe|1
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Xurkitree|Thunderbolt|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-crit|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|25/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641749364
+|move|p2a: Xurkitree|Thunderbolt|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|-ability|p2a: Xurkitree|Beast Boost|boost
+|-boost|p2a: Xurkitree|spa|1
+|
+|upkeep
+|
+|t:|1641749373
+|switch|p1a: Raikou|Raikou|100/100
+|-activate|p1a: Raikou|move: Sticky Web
+|-unboost|p1a: Raikou|spe|1
+|turn|6
+|
+|t:|1641749378
+|move|p2a: Xurkitree|Thunderbolt|p1a: Raikou
+|-resisted|p1a: Raikou
+|-damage|p1a: Raikou|44/100
+|move|p1a: Raikou|Rising Voltage|p2a: Xurkitree
+|-resisted|p2a: Xurkitree
+|-crit|p2a: Xurkitree
+|-damage|p2a: Xurkitree|0 fnt
+|faint|p2a: Xurkitree
+|
+|upkeep
+|
+|t:|1641749385
+|switch|p2a: Raichu|Raichu-Alola, M, shiny|100/100
+|turn|7
+|
+|t:|1641749390
+|move|p2a: Raichu|Rising Voltage|p1a: Raikou
+|-resisted|p1a: Raikou
+|-damage|p1a: Raikou|0 fnt
+|faint|p1a: Raikou
+|
+|upkeep
+|
+|t:|1641749396
+|switch|p1a: Swampert|Swampert, M|100/100
+|-activate|p1a: Swampert|move: Sticky Web
+|-unboost|p1a: Swampert|spe|1
+|turn|8
+|
+|t:|1641749403
+|switch|p2a: Hawlucha|Hawlucha, M, shiny|100/100
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p1a: Swampert|Earthquake|p2a: Hawlucha
+|-immune|p2a: Hawlucha
+|
+|upkeep
+|turn|9
+|c|☆JP_PN|I deserve that crit xd
+|
+|t:|1641749407
+|move|p2a: Hawlucha|Swords Dance|p2a: Hawlucha
+|-boost|p2a: Hawlucha|atk|2
+|move|p1a: Swampert|Toxic|p2a: Hawlucha
+|-status|p2a: Hawlucha|tox
+|
+|-damage|p2a: Hawlucha|94/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641749414
+|move|p2a: Hawlucha|Close Combat|p1a: Swampert
+|-crit|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Swampert
+|
+|-damage|p2a: Hawlucha|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1641749434
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|turn|11
+|
+|t:|1641749436
+|move|p2a: Hawlucha|Acrobatics|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-crit|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-damage|p2a: Hawlucha|64/100 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|-message|EXCISIONb2b forfeited.
+|
+|win|JP_PN
+|raw|EXCISIONb2b's rating: 1439 &rarr; <strong>1422</strong><br />(-17 for losing)
+|raw|JP_PN's rating: 1498 &rarr; <strong>1515</strong><br />(+17 for winning)
+|l|☆EXCISIONb2b

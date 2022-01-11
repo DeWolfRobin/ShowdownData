@@ -1,0 +1,257 @@
+|j|☆ijpa
+|j|☆TheBoopening
+|t:|1641711709
+|gametype|singles
+|player|p1|ijpa|backpackerf|1108
+|player|p2|TheBoopening|schoolkidf|1106
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcanion|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Arctozolt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Blissey, F|
+|poke|p2|Quagsire, F|
+|poke|p2|Celesteela|
+|poke|p2|Nihilego|
+|poke|p2|Mew|
+|poke|p2|Klefki, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ijpa)
+|
+|t:|1641711729
+|start
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|switch|p2a: Klefki|Klefki, M|100/100
+|turn|1
+|
+|t:|1641711733
+|move|p2a: Klefki|Switcheroo|p1a: Arctozolt
+|-activate|p2a: Klefki|move: Trick|[of] p1a: Arctozolt
+|-item|p1a: Arctozolt|Toxic Orb|[from] move: Switcheroo
+|-item|p2a: Klefki|Leftovers|[from] move: Switcheroo
+|move|p1a: Arctozolt|Substitute|p1a: Arctozolt
+|-start|p1a: Arctozolt|Substitute
+|-damage|p1a: Arctozolt|76/100
+|
+|-status|p1a: Arctozolt|tox|[from] item: Toxic Orb
+|upkeep
+|turn|2
+|
+|t:|1641711740
+|move|p1a: Arctozolt|Bolt Beak|p2a: Klefki
+|-damage|p2a: Klefki|20/100
+|move|p2a: Klefki|Foul Play|p1a: Arctozolt
+|-end|p1a: Arctozolt|Substitute
+|
+|-heal|p2a: Klefki|26/100|[from] item: Leftovers
+|-damage|p1a: Arctozolt|69/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641711754
+|switch|p1a: Volcanion|Volcanion|100/100
+|switch|p2a: Quagsire|Quagsire, F|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641711757
+|move|p1a: Volcanion|Steam Eruption|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|
+|upkeep
+|
+|t:|1641711763
+|switch|p2a: Mew|Mew|100/100
+|turn|5
+|
+|t:|1641711769
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Mew|atk|1
+|move|p2a: Mew|Nasty Plot|p2a: Mew
+|-boost|p2a: Mew|spa|2
+|
+|upkeep
+|turn|6
+|
+|t:|1641711778
+|move|p2a: Mew|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641711782
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|7
+|
+|t:|1641711784
+|move|p1a: Tornadus|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|64/100
+|-enditem|p2a: Mew|Expert Belt|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Mew|Thunderbolt|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|39/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641711794
+|move|p1a: Tornadus|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|36/100
+|
+|t:|1641711797
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Mew|Thunderbolt|p1a: Ninetales
+|-damage|p1a: Ninetales|54/100
+|-status|p1a: Ninetales|par
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Mew|30/100|[from] Hail
+|upkeep
+|turn|9
+|
+|t:|1641711803
+|switch|p1a: Arctozolt|Arctozolt|69/100 tox
+|move|p2a: Mew|Flamethrower|p1a: Arctozolt
+|-supereffective|p1a: Arctozolt
+|-damage|p1a: Arctozolt|0 fnt
+|faint|p1a: Arctozolt
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Mew|24/100|[from] Hail
+|upkeep
+|
+|t:|1641711806
+|switch|p1a: Tornadus|Tornadus-Therian, M|72/100
+|turn|10
+|
+|t:|1641711809
+|move|p1a: Tornadus|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|t:|1641711814
+|switch|p1a: Corviknight|Corviknight, M|100/100|[from]move: U-turn
+|-ability|p1a: Corviknight|Pressure
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Corviknight|94/100|[from] Hail
+|upkeep
+|
+|t:|1641711819
+|switch|p2a: Klefki|Klefki, M|26/100
+|turn|11
+|
+|t:|1641711823
+|move|p2a: Klefki|Thunder Wave|p1a: Corviknight
+|-status|p1a: Corviknight|par
+|move|p1a: Corviknight|Body Press|p2a: Klefki
+|-damage|p2a: Klefki|0 fnt
+|faint|p2a: Klefki
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Corviknight|88/100 par|[from] Hail
+|upkeep
+|
+|t:|1641711836
+|switch|p2a: Celesteela|Celesteela|100/100
+|turn|12
+|
+|t:|1641711843
+|move|p2a: Celesteela|Autotomize|p2a: Celesteela
+|-boost|p2a: Celesteela|spe|2
+|-start|p2a: Celesteela|Autotomize
+|move|p1a: Corviknight|U-turn|p2a: Celesteela
+|-resisted|p2a: Celesteela
+|-damage|p2a: Celesteela|98/100
+|
+|t:|1641711853
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Celesteela|92/100|[from] Hail
+|-damage|p1a: Tornadus|94/100|[from] Hail
+|upkeep
+|turn|13
+|
+|t:|1641711855
+|move|p2a: Celesteela|Meteor Beam||[still]
+|-prepare|p2a: Celesteela|Meteor Beam
+|-boost|p2a: Celesteela|spa|1
+|-enditem|p2a: Celesteela|Power Herb
+|-anim|p2a: Celesteela|Meteor Beam|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|24/100
+|move|p1a: Tornadus|Heat Wave|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|46/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Celesteela|40/100|[from] Hail
+|-damage|p1a: Tornadus|18/100|[from] Hail
+|upkeep
+|turn|14
+|
+|t:|1641711867
+|switch|p1a: Ninetales|Ninetales-Alola, M|54/100 par
+|move|p2a: Celesteela|Flamethrower|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Celesteela|34/100|[from] Hail
+|upkeep
+|
+|t:|1641711871
+|switch|p1a: Volcanion|Volcanion|100/100
+|turn|15
+|
+|t:|1641711880
+|move|p2a: Celesteela|Air Slash|p1a: Volcanion
+|-damage|p1a: Volcanion|25/100
+|move|p1a: Volcanion|Steam Eruption|p2a: Celesteela|[miss]
+|-miss|p1a: Volcanion|p2a: Celesteela
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1641711886
+|move|p2a: Celesteela|Air Slash|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spa|1
+|
+|upkeep
+|-message|ijpa forfeited.
+|
+|win|TheBoopening
+|raw|ijpa's rating: 1108 &rarr; <strong>1083</strong><br />(-25 for losing)
+|raw|TheBoopening's rating: 1106 &rarr; <strong>1131</strong><br />(+25 for winning)
+|l|☆ijpa

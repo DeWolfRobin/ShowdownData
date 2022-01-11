@@ -1,0 +1,270 @@
+|j|☆Jekt Tohru
+|j|☆Killingn
+|t:|1641879959
+|gametype|singles
+|player|p1|Jekt Tohru|170|1380
+|player|p2|Killingn|170|1415
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Azelf|
+|poke|p1|Scizor, M|
+|poke|p1|Dragonite, F|
+|poke|p1|Crawdaunt, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Zapdos-Galar|
+|poke|p2|Zapdos|
+|poke|p2|Tapu Lele|
+|poke|p2|Kartana|
+|poke|p2|Skarmory, F|
+|poke|p2|Swampert, M|
+|poke|p2|Ditto|
+|teampreview
+|
+|t:|1641879963
+|start
+|switch|p1a: messiah|Azelf|100/100
+|switch|p2a: Ditto|Ditto|100/100
+|-transform|p2a: Ditto|p1a: messiah|[from] ability: Imposter
+|turn|1
+|j| Alvaro UribeGOD
+|
+|t:|1641879971
+|move|p2a: Ditto|Taunt|p1a: messiah
+|-start|p1a: messiah|move: Taunt
+|cant|p1a: messiah|move: Taunt|Thunder Wave
+|
+|upkeep
+|turn|2
+|
+|t:|1641879976
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Ditto|Stealth Rock|p1a: Rotom
+|-sidestart|p1: Jekt Tohru|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641879987
+|switch|p2a: Swampert|Swampert, M|100/100
+|move|p1a: Rotom|Trick|p2a: Swampert
+|-activate|p1a: Rotom|move: Trick|[of] p2a: Swampert
+|-item|p2a: Swampert|Choice Scarf|[from] move: Trick
+|-item|p1a: Rotom|Aguav Berry|[from] move: Trick
+|
+|upkeep
+|turn|4
+|
+|t:|1641879997
+|switch|p1a: messiah|Azelf|100/100
+|-damage|p1a: messiah|88/100|[from] Stealth Rock
+|move|p2a: Swampert|Flip Turn|p1a: messiah
+|-damage|p1a: messiah|55/100
+|
+|t:|1641880010
+|switch|p2a: Ditto|Ditto|100/100|[from]move: Flip Turn
+|-transform|p2a: Ditto|p1a: messiah|[from] ability: Imposter
+|
+|upkeep
+|turn|5
+|
+|t:|1641880017
+|move|p1a: messiah|Explosion|p2a: Ditto
+|-damage|p2a: Ditto|0 fnt
+|faint|p1a: messiah
+|faint|p2a: Ditto
+|
+|upkeep
+|
+|t:|1641880029
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641880035
+|move|p1a: Rotom|Trick|p2a: Skarmory
+|-activate|p1a: Rotom|move: Trick|[of] p2a: Skarmory
+|-item|p2a: Skarmory|Aguav Berry|[from] move: Trick
+|-item|p1a: Rotom|Rocky Helmet|[from] move: Trick
+|move|p2a: Skarmory|Spikes|p1a: Rotom
+|-sidestart|p1: Jekt Tohru|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641880043
+|move|p1a: Rotom|Volt Switch|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-ability|p2a: Skarmory|Sturdy
+|-damage|p2a: Skarmory|1/100
+|-enditem|p2a: Skarmory|Aguav Berry|[eat]
+|-heal|p2a: Skarmory|34/100|[from] item: Aguav Berry
+|
+|t:|1641880051
+|switch|p1a: Dragonite|Dragonite, F|100/100|[from]move: Volt Switch
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|move|p2a: Skarmory|Spikes|p1a: Dragonite
+|-sidestart|p1: Jekt Tohru|Spikes
+|
+|upkeep
+|turn|8
+|
+|t:|1641880059
+|move|p1a: Dragonite|Fire Blast|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|-damage|p1a: Dragonite|66/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641880063
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|9
+|
+|t:|1641880083
+|switch|p1a: Rotom|Rotom-Wash|88/100
+|-damage|p1a: Rotom|76/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Moonblast|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1641880095
+|switch|p1a: Scizor|Scizor, M|100/100
+|-damage|p1a: Scizor|84/100|[from] Spikes
+|-damage|p1a: Scizor|72/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641880105
+|switch|p2a: Swampert|Swampert, M|100/100
+|move|p1a: Scizor|U-turn|p2a: Swampert
+|-damage|p2a: Swampert|47/100
+|
+|t:|1641880112
+|switch|p1a: Zapdos|Zapdos-Galar|100/100|[from]move: U-turn
+|-damage|p1a: Zapdos|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|11
+|
+|t:|1641880120
+|move|p1a: Zapdos|Brave Bird|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-damage|p1a: Zapdos|69/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641880125
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|12
+|
+|t:|1641880131
+|switch|p1a: Dragonite|Dragonite, F|66/100
+|-damage|p1a: Dragonite|41/100|[from] Stealth Rock
+|move|p2a: Zapdos|Thunder Wave|p1a: Dragonite
+|-status|p1a: Dragonite|par
+|
+|upkeep
+|turn|13
+|
+|t:|1641880148
+|move|p2a: Zapdos|Thunder|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641880185
+|switch|p1a: Zapdos|Zapdos-Galar|69/100
+|-damage|p1a: Zapdos|56/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641880201
+|move|p1a: Zapdos|Facade|p2a: Zapdos
+|-damage|p2a: Zapdos|74/100
+|-status|p1a: Zapdos|par|[from] ability: Static|[of] p2a: Zapdos
+|move|p2a: Zapdos|Thunder|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641880215
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|-damage|p1a: Crawdaunt|88/100|[from] Stealth Rock
+|-damage|p1a: Crawdaunt|72/100|[from] Spikes
+|turn|15
+|
+|t:|1641880221
+|move|p2a: Zapdos|Thunder|p1a: Crawdaunt|[miss]
+|-miss|p2a: Zapdos|p1a: Crawdaunt
+|move|p1a: Crawdaunt|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|8/100
+|-enditem|p2a: Zapdos|Custap Berry|[from] move: Knock Off|[of] p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|62/100|[from] item: Life Orb
+|
+|upkeep
+|turn|16
+|
+|t:|1641880231
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Crawdaunt|52/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641880235
+|switch|p2a: Kartana|Kartana|100/100
+|turn|17
+|
+|t:|1641880242
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|81/100
+|-damage|p1a: Crawdaunt|42/100|[from] item: Life Orb
+|move|p2a: Kartana|Leaf Blade|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|spe|1
+|-damage|p2a: Kartana|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641880254
+|switch|p1a: Scizor|Scizor, M|72/100
+|-damage|p1a: Scizor|59/100|[from] Stealth Rock
+|-damage|p1a: Scizor|43/100|[from] Spikes
+|turn|18
+|
+|t:|1641880261
+|move|p2a: Kartana|Knock Off|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|-enditem|p1a: Scizor|Choice Band|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Scizor
+|-damage|p2a: Kartana|61/100|[from] item: Life Orb
+|
+|win|Killingn
+|raw|Jekt Tohru's rating: 1380 &rarr; <strong>1362</strong><br />(-18 for losing)
+|raw|Killingn's rating: 1415 &rarr; <strong>1433</strong><br />(+18 for winning)
+|l| Alvaro UribeGOD

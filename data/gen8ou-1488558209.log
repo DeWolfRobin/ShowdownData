@@ -1,0 +1,211 @@
+|j|☆Dmytro Drakovic
+|j|☆LegendaryWarlord
+|t:|1641781589
+|gametype|singles
+|player|p1|Dmytro Drakovic|lance|1126
+|player|p2|LegendaryWarlord|hugh|1127
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scyther, F|
+|poke|p1|Espeon, F|
+|poke|p1|Obstagoon, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Sceptile, M|
+|poke|p1|Rhyperior, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Scizor, F|
+|poke|p2|Melmetal|
+|poke|p2|Uxie|
+|poke|p2|Hatterene, F|
+|poke|p2|Slowbro, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by LegendaryWarlord)
+|
+|t:|1641781604
+|start
+|switch|p1a: Espeon|Espeon, F|100/100
+|switch|p2a: Quagsire's Rival|Slowbro, F|100/100
+|turn|1
+|
+|t:|1641781610
+|move|p1a: Espeon|Trick|p2a: Quagsire's Rival
+|-activate|p1a: Espeon|move: Trick|[of] p2a: Quagsire's Rival
+|-item|p2a: Quagsire's Rival|Choice Scarf|[from] move: Trick
+|-item|p1a: Espeon|Leftovers|[from] move: Trick
+|move|p2a: Quagsire's Rival|Scald|p1a: Espeon
+|-damage|p1a: Espeon|62/100
+|-status|p1a: Espeon|brn
+|
+|-heal|p1a: Espeon|68/100 brn|[from] item: Leftovers
+|-damage|p1a: Espeon|62/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641781629
+|switch|p1a: Sceptile|Sceptile, M, shiny|100/100
+|switch|p2a: Waifu|Hatterene, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641781643
+|move|p1a: Sceptile|Leaf Storm|p2a: Waifu
+|-damage|p2a: Waifu|38/100
+|-unboost|p1a: Sceptile|spa|2
+|-enditem|p1a: Sceptile|White Herb
+|-clearnegativeboost|p1a: Sceptile|[silent]
+|move|p2a: Waifu|Trick Room|p2a: Waifu
+|-fieldstart|move: Trick Room|[of] p2a: Waifu
+|
+|-heal|p2a: Waifu|44/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641781658
+|switch|p2a: WOKE|Melmetal|100/100
+|switch|p1a: Rhyperior|Rhyperior, M|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641781666
+|move|p2a: WOKE|Double Iron Bash|p1a: Rhyperior
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|38/100
+|-supereffective|p1a: Rhyperior
+|-damage|p1a: Rhyperior|0 fnt
+|faint|p1a: Rhyperior
+|-hitcount|p1: Rhyperior|2
+|
+|upkeep
+|
+|t:|1641781682
+|switch|p1a: Espeon|Espeon, F|62/100 brn
+|turn|6
+|
+|t:|1641781703
+|move|p2a: WOKE|Double Iron Bash|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|faint|p1a: Espeon
+|-hitcount|p1: Espeon|1
+|
+|upkeep
+|
+|t:|1641781718
+|switch|p1a: Scyther|Scyther, F|100/100
+|turn|7
+|
+|t:|1641781721
+|move|p2a: WOKE|Double Iron Bash|p1a: Scyther
+|-damage|p1a: Scyther|38/100
+|-damage|p1a: Scyther|0 fnt
+|faint|p1a: Scyther
+|-hitcount|p1: Scyther|2
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641781725
+|switch|p1a: Obstagoon|Obstagoon, F|100/100
+|turn|8
+|
+|t:|1641781733
+|switch|p2a: Waifu|Hatterene, F|44/100
+|move|p1a: Obstagoon|Close Combat|p2a: Waifu
+|-resisted|p2a: Waifu
+|-damage|p2a: Waifu|35/100
+|-unboost|p1a: Obstagoon|def|1
+|-unboost|p1a: Obstagoon|spd|1
+|
+|-heal|p2a: Waifu|41/100|[from] item: Leftovers
+|-status|p1a: Obstagoon|brn|[from] item: Flame Orb
+|upkeep
+|turn|9
+|
+|t:|1641781745
+|move|p1a: Obstagoon|Facade|p2a: Waifu
+|-damage|p2a: Waifu|0 fnt
+|faint|p2a: Waifu
+|
+|-damage|p1a: Obstagoon|94/100 brn|[from] brn
+|upkeep
+|
+|t:|1641781753
+|switch|p2a: Quagsire's Rival|Slowbro, F|100/100
+|turn|10
+|
+|t:|1641781759
+|move|p1a: Obstagoon|Knock Off|p2a: Quagsire's Rival
+|-supereffective|p2a: Quagsire's Rival
+|-damage|p2a: Quagsire's Rival|37/100
+|-enditem|p2a: Quagsire's Rival|Choice Scarf|[from] move: Knock Off|[of] p1a: Obstagoon
+|move|p2a: Quagsire's Rival|Trick Room|p2a: Quagsire's Rival
+|-fieldstart|move: Trick Room|[of] p2a: Quagsire's Rival
+|
+|-damage|p1a: Obstagoon|88/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641781776
+|move|p1a: Obstagoon|Close Combat|p2a: Quagsire's Rival
+|-resisted|p2a: Quagsire's Rival
+|-damage|p2a: Quagsire's Rival|22/100
+|-unboost|p1a: Obstagoon|def|1
+|-unboost|p1a: Obstagoon|spd|1
+|move|p2a: Quagsire's Rival|Teleport|p2a: Quagsire's Rival
+|inactive|LegendaryWarlord has 120 seconds left.
+|
+|t:|1641781797
+|switch|p2a: WOKE|Melmetal|100/100|[from]move: Teleport
+|
+|-damage|p1a: Obstagoon|82/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1641781810
+|move|p2a: WOKE|Double Iron Bash|p1a: Obstagoon
+|-damage|p1a: Obstagoon|0 fnt
+|faint|p1a: Obstagoon
+|-hitcount|p1: Obstagoon|1
+|
+|upkeep
+|
+|t:|1641781812
+|switch|p1a: Sceptile|Sceptile, M, shiny|100/100
+|turn|13
+|
+|t:|1641781818
+|move|p2a: WOKE|Double Iron Bash|p1a: Sceptile
+|-damage|p1a: Sceptile|0 fnt
+|faint|p1a: Sceptile
+|-hitcount|p1: Sceptile|1
+|
+|upkeep
+|
+|t:|1641781820
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|14
+|c|☆LegendaryWarlord|gg wp
+|
+|t:|1641781826
+|move|p2a: WOKE|Double Iron Bash|p1a: Dragapult
+|-damage|p1a: Dragapult|2/100
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-hitcount|p1: Dragapult|2
+|
+|win|LegendaryWarlord
+|raw|Dmytro Drakovic's rating: 1126 &rarr; <strong>1101</strong><br />(-25 for losing)
+|raw|LegendaryWarlord's rating: 1127 &rarr; <strong>1152</strong><br />(+25 for winning)
+|l|☆Dmytro Drakovic

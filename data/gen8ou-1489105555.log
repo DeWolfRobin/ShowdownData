@@ -1,0 +1,92 @@
+|j|☆HollowSpind
+|j|☆Bunnyhop 54
+|t:|1641857310
+|gametype|singles
+|player|p1|HollowSpind|266|1000
+|player|p2|Bunnyhop 54|lyra|1074
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Venusaur, M|
+|poke|p1|Victini|
+|poke|p1|Darmanitan, M|
+|poke|p1|Torkoal, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Garchomp, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Celesteela|
+|poke|p2|Regieleki|
+|poke|p2|Blissey, F|
+|poke|p2|Primarina, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|
+|t:|1641857316
+|start
+|switch|p1a: Darmanitan|Darmanitan, M|100/100
+|switch|p2a: Primarina|Primarina, M|100/100
+|turn|1
+|
+|t:|1641857324
+|move|p1a: Darmanitan|U-turn|p2a: Primarina
+|-resisted|p2a: Primarina
+|-damage|p2a: Primarina|77/100
+|
+|t:|1641857329
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100|[from]move: U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Primarina|Sparkling Aria|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|32/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641857339
+|switch|p1a: Victini|Victini|100/100
+|move|p2a: Primarina|Sparkling Aria|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|49/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641857347
+|move|p1a: Victini|Bolt Strike|p2a: Primarina
+|-supereffective|p2a: Primarina
+|-enditem|p2a: Primarina|Wacan Berry|[eat]
+|-enditem|p2a: Primarina|Wacan Berry|[weaken]
+|-damage|p2a: Primarina|33/100
+|move|p2a: Primarina|Sparkling Aria|p1a: Victini
+|-supereffective|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|l|☆HollowSpind
+|player|p1|
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Bunnyhop 54)
+|c|☆Bunnyhop 54|LMAO
+|inactive|HollowSpind has 30 seconds to reconnect!
+|inactive|HollowSpind has 20 seconds to reconnect!
+|inactive|HollowSpind has 15 seconds to reconnect!
+|inactive|HollowSpind has 10 seconds to reconnect!
+|inactive|HollowSpind has 5 seconds to reconnect!
+|-message|HollowSpind lost due to inactivity.
+|
+|win|Bunnyhop 54
+|raw|HollowSpind's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|Bunnyhop 54's rating: 1074 &rarr; <strong>1097</strong><br />(+23 for winning)

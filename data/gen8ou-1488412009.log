@@ -1,0 +1,260 @@
+|j|☆Xadenas
+|j|☆Camhie
+|t:|1641762049
+|gametype|singles
+|player|p1|Xadenas|brawly|1160
+|player|p2|Camhie|102|1113
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blastoise, M|
+|poke|p1|Boltund, M|
+|poke|p1|Rotom-Heat|
+|poke|p1|Jirachi|
+|poke|p1|Cobalion|
+|poke|p1|Weavile, F|
+|poke|p2|Buzzwole|
+|poke|p2|Nihilego|
+|poke|p2|Alakazam, M|
+|poke|p2|Durant, F|
+|poke|p2|Swampert, F|
+|poke|p2|Ribombee, M|
+|teampreview
+|
+|t:|1641762072
+|start
+|switch|p1a: Weavile|Weavile, F|100/100
+|switch|p2a: Swampert|Swampert, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|1
+|
+|t:|1641762082
+|move|p1a: Weavile|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|57/100
+|-enditem|p2a: Swampert|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Swampert|Earthquake|p1a: Weavile
+|-damage|p1a: Weavile|23/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641762091
+|move|p1a: Weavile|Triple Axel|p2a: Swampert
+|-damage|p2a: Swampert|48/100
+|-damage|p2a: Swampert|30/100
+|-damage|p2a: Swampert|4/100
+|-hitcount|p2a: Swampert|3
+|move|p2a: Swampert|Earthquake|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1641762100
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|turn|3
+|
+|t:|1641762103
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|move|p2a: Swampert|Toxic|p1a: Blastoise
+|-status|p1a: Blastoise|tox
+|
+|-damage|p1a: Blastoise|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641762113
+|move|p1a: Blastoise|Surf|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|-damage|p1a: Blastoise|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1641762134
+|switch|p2a: Ribombee|Ribombee, M|100/100
+|turn|5
+|
+|t:|1641762142
+|move|p1a: Blastoise|Surf|p2a: Ribombee
+|-enditem|p2a: Ribombee|Focus Sash
+|-damage|p2a: Ribombee|1/100
+|move|p2a: Ribombee|Sticky Web|p1a: Blastoise
+|-sidestart|p1: Xadenas|move: Sticky Web
+|
+|-damage|p1a: Blastoise|64/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641762149
+|move|p1a: Blastoise|Surf|p2a: Ribombee
+|-damage|p2a: Ribombee|0 fnt
+|faint|p2a: Ribombee
+|
+|-damage|p1a: Blastoise|40/100 tox|[from] psn
+|upkeep
+|
+|t:|1641762152
+|switch|p2a: Alakazam|Alakazam, M|100/100
+|turn|7
+|
+|t:|1641762157
+|move|p1a: Blastoise|Surf|p2a: Alakazam
+|-enditem|p2a: Alakazam|Focus Sash
+|-damage|p2a: Alakazam|1/100
+|move|p2a: Alakazam|Psychic|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|upkeep
+|
+|t:|1641762163
+|switch|p1a: Rotom|Rotom-Heat|100/100
+|turn|8
+|
+|t:|1641762171
+|move|p2a: Alakazam|Psychic|p1a: Rotom
+|-damage|p1a: Rotom|50/100
+|move|p1a: Rotom|Volt Switch|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|t:|1641762176
+|switch|p1a: Jirachi|Jirachi|100/100|[from]move: Volt Switch
+|-activate|p1a: Jirachi|move: Sticky Web
+|-unboost|p1a: Jirachi|spe|1
+|
+|upkeep
+|
+|t:|1641762183
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|9
+|
+|t:|1641762189
+|move|p2a: Buzzwole|Leech Life|p1a: Jirachi
+|-damage|p1a: Jirachi|63/100
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|69/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641762196
+|move|p2a: Buzzwole|Leech Life|p1a: Jirachi
+|-damage|p1a: Jirachi|33/100
+|move|p1a: Jirachi|Doom Desire|p2a: Buzzwole
+|-start|p1a: Jirachi|Doom Desire
+|
+|-heal|p1a: Jirachi|83/100|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Jirachi|90/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641762204
+|move|p2a: Buzzwole|Drain Punch|p1a: Jirachi
+|-damage|p1a: Jirachi|51/100
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|58/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641762213
+|move|p1a: Jirachi|Protect|p1a: Jirachi
+|-singleturn|p1a: Jirachi|Protect
+|move|p2a: Buzzwole|Drain Punch|p1a: Jirachi
+|-activate|p1a: Jirachi|move: Protect
+|
+|-end|p2a: Buzzwole|move: Doom Desire
+|-damage|p2a: Buzzwole|56/100
+|-heal|p1a: Jirachi|100/100|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|13
+|
+|t:|1641762223
+|move|p2a: Buzzwole|Drain Punch|p1a: Jirachi
+|-damage|p1a: Jirachi|67/100
+|-heal|p2a: Buzzwole|73/100|[from] drain|[of] p1a: Jirachi
+|move|p1a: Jirachi|Psychic|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|9/100
+|
+|-heal|p1a: Jirachi|73/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641762233
+|switch|p2a: Durant|Durant, F|100/100
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|79/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641762240
+|move|p1a: Jirachi|Protect|p1a: Jirachi
+|-singleturn|p1a: Jirachi|Protect
+|move|p2a: Durant|First Impression|p1a: Jirachi
+|-activate|p1a: Jirachi|move: Protect
+|
+|-heal|p1a: Jirachi|100/100|[from] move: Wish|[wisher] Jirachi
+|upkeep
+|turn|16
+|
+|t:|1641762248
+|move|p2a: Durant|Superpower|p1a: Jirachi
+|-damage|p1a: Jirachi|44/100
+|-unboost|p2a: Durant|atk|1
+|-unboost|p2a: Durant|def|1
+|-damage|p2a: Durant|91/100|[from] item: Life Orb
+|move|p1a: Jirachi|Wish|p1a: Jirachi
+|
+|-heal|p1a: Jirachi|50/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641762254
+|move|p1a: Jirachi|Protect|p1a: Jirachi
+|-singleturn|p1a: Jirachi|Protect
+|move|p2a: Durant|Superpower|p1a: Jirachi
+|-activate|p1a: Jirachi|move: Protect
+|
+|-heal|p1a: Jirachi|99/100|[from] move: Wish|[wisher] Jirachi
+|-heal|p1a: Jirachi|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Camhie)
+|
+|t:|1641762264
+|move|p2a: Durant|Superpower|p1a: Jirachi|[miss]
+|-miss|p2a: Durant|p1a: Jirachi
+|move|p1a: Jirachi|Psychic|p2a: Durant
+|-resisted|p2a: Durant
+|-damage|p2a: Durant|52/100
+|-unboost|p2a: Durant|spd|1
+|
+|upkeep
+|turn|19
+|-message|Camhie forfeited.
+|
+|win|Xadenas
+|raw|Xadenas's rating: 1160 &rarr; <strong>1180</strong><br />(+20 for winning)
+|raw|Camhie's rating: 1087 &rarr; <strong>1069</strong><br />(-18 for losing)
+|l|☆Camhie

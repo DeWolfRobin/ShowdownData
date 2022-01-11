@@ -1,0 +1,621 @@
+|j|☆Tindall64
+|j|☆FR1DGE8
+|t:|1641775836
+|gametype|singles
+|player|p1|Tindall64|lady-gen4|
+|player|p2|FR1DGE8|265|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rillaboom, M|
+|poke|p1|Umbreon, M|
+|poke|p1|Gastrodon, M|
+|poke|p1|Pelipper, M|
+|poke|p1|Roserade, F|
+|poke|p1|Xurkitree|
+|poke|p2|Heatran, M|
+|poke|p2|Cresselia, F|
+|poke|p2|Tapu Bulu|
+|poke|p2|Beartic, F|
+|poke|p2|Darmanitan, M|
+|poke|p2|Corsola-Galar, F|
+|teampreview
+|c|☆FR1DGE8|GL HF
+|
+|t:|1641775856
+|start
+|switch|p1a: Roserade|Roserade, F, shiny|100/100
+|switch|p2a: Beartic|Beartic, F|100/100
+|turn|1
+|c|☆Tindall64|Gl hf
+|
+|t:|1641775874
+|move|p1a: Roserade|Sleep Powder|p2a: Beartic
+|-status|p2a: Beartic|slp|[from] move: Sleep Powder
+|cant|p2a: Beartic|slp
+|
+|upkeep
+|turn|2
+|
+|t:|1641775881
+|switch|p1a: Xurkitree|Xurkitree|100/100
+|cant|p2a: Beartic|slp
+|
+|upkeep
+|turn|3
+|
+|t:|1641775905
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Xurkitree|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|55/100
+|
+|-heal|p2a: Cresselia|61/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641775915
+|move|p1a: Xurkitree|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|18/100
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|68/100
+|
+|-heal|p2a: Cresselia|74/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641775931
+|switch|p1a: Pelipper|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|99/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Cresselia|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641775945
+|move|p2a: Cresselia|Ice Beam|p1a: Pelipper
+|-damage|p1a: Pelipper|79/100
+|-status|p1a: Pelipper|frz
+|cant|p1a: Pelipper|frz
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641775954
+|switch|p2a: Beartic|Beartic, F|100/100 slp
+|-curestatus|p1a: Pelipper|frz|[from] move: Scald
+|move|p1a: Pelipper|Scald|p2a: Beartic
+|-crit|p2a: Beartic
+|-damage|p2a: Beartic|29/100 slp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641775978
+|-curestatus|p2a: Beartic|slp|[msg]
+|move|p2a: Beartic|Hail|p2a: Beartic
+|-weather|Hail
+|move|p1a: Pelipper|Scald|p2a: Beartic
+|-damage|p2a: Beartic|0 fnt
+|faint|p2a: Beartic
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Pelipper|72/100|[from] Hail
+|upkeep
+|
+|t:|1641775991
+|switch|p2a: Tapu Bulu|Tapu Bulu|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|turn|9
+|j| TeamInferno Ted
+|
+|t:|1641776000
+|switch|p1a: Umbreon|Umbreon, M, shiny|100/100
+|move|p2a: Tapu Bulu|Swords Dance|p2a: Tapu Bulu
+|-boost|p2a: Tapu Bulu|atk|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tapu Bulu|94/100|[from] Hail
+|-damage|p1a: Umbreon|94/100|[from] Hail
+|-heal|p2a: Tapu Bulu|100/100|[from] Grassy Terrain
+|-heal|p1a: Umbreon|100/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641776012
+|move|p2a: Tapu Bulu|Megahorn|p1a: Umbreon
+|-supereffective|p1a: Umbreon
+|-damage|p1a: Umbreon|0 fnt
+|faint|p1a: Umbreon
+|-damage|p2a: Tapu Bulu|91/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tapu Bulu|84/100|[from] Hail
+|-heal|p2a: Tapu Bulu|91/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641776037
+|switch|p1a: Xurkitree|Xurkitree|100/100
+|turn|11
+|
+|t:|1641776043
+|move|p1a: Xurkitree|Volt Switch|p2a: Tapu Bulu
+|-resisted|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|49/100
+|
+|t:|1641776046
+|switch|p1a: Pelipper|Pelipper, M, shiny|72/100|[from]move: Volt Switch
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Tapu Bulu|High Horsepower|p1a: Pelipper
+|-immune|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tapu Bulu|55/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641776063
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|-heal|p2a: Tapu Bulu|96/100|[from] drain|[of] p1a: Pelipper
+|faint|p1a: Pelipper
+|-damage|p2a: Tapu Bulu|86/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tapu Bulu|92/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641776069
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|turn|13
+|
+|t:|1641776094
+|switch|p2a: Corsola|Corsola-Galar, F|100/100
+|move|p1a: Rillaboom|U-turn|p2a: Corsola
+|-resisted|p2a: Corsola
+|-damage|p2a: Corsola|95/100
+|
+|t:|1641776102
+|switch|p1a: Roserade|Roserade, F, shiny|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Corsola|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641776111
+|move|p1a: Roserade|Sleep Powder|p2a: Corsola
+|-status|p2a: Corsola|slp|[from] move: Sleep Powder
+|cant|p2a: Corsola|slp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641776118
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|-curestatus|p2a: Corsola|slp|[msg]
+|move|p2a: Corsola|Calm Mind|p2a: Corsola
+|-boost|p2a: Corsola|spa|1
+|-boost|p2a: Corsola|spd|1
+|
+|-weather|none
+|upkeep
+|turn|16
+|c| TeamInferno Ted|lol thr rng
+|
+|t:|1641776131
+|move|p1a: Rillaboom|U-turn|p2a: Corsola
+|-resisted|p2a: Corsola
+|-damage|p2a: Corsola|95/100
+|c| TeamInferno Ted|the*
+|
+|t:|1641776135
+|switch|p1a: Roserade|Roserade, F, shiny|100/100|[from]move: U-turn
+|move|p2a: Corsola|Will-O-Wisp|p1a: Roserade
+|-status|p1a: Roserade|brn
+|
+|-heal|p2a: Corsola|100/100|[from] Grassy Terrain
+|-damage|p1a: Roserade|94/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641776149
+|move|p1a: Roserade|Sleep Powder|p2a: Corsola
+|-status|p2a: Corsola|slp|[from] move: Sleep Powder
+|cant|p2a: Corsola|slp
+|
+|-heal|p1a: Roserade|100/100 brn|[from] Grassy Terrain
+|-damage|p1a: Roserade|94/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641776158
+|-curestatus|p1a: Roserade|brn|[from] ability: Natural Cure
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|cant|p2a: Corsola|slp
+|
+|upkeep
+|turn|19
+|
+|t:|1641776167
+|move|p1a: Rillaboom|Knock Off|p2a: Corsola
+|-supereffective|p2a: Corsola
+|-damage|p2a: Corsola|66/100 slp
+|-enditem|p2a: Corsola|Eviolite|[from] move: Knock Off|[of] p1a: Rillaboom
+|-curestatus|p2a: Corsola|slp|[msg]
+|move|p2a: Corsola|Will-O-Wisp|p1a: Rillaboom
+|-status|p1a: Rillaboom|brn
+|
+|-heal|p2a: Corsola|72/100|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|94/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|c|☆Tindall64|bruh'
+|
+|t:|1641776179
+|move|p1a: Rillaboom|U-turn|p2a: Corsola
+|-resisted|p2a: Corsola
+|-damage|p2a: Corsola|68/100
+|
+|t:|1641776183
+|switch|p1a: Xurkitree|Xurkitree|100/100|[from]move: U-turn
+|move|p2a: Corsola|Strength Sap|p1a: Xurkitree
+|-unboost|p1a: Xurkitree|atk|1
+|-heal|p2a: Corsola|100/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641776190
+|move|p1a: Xurkitree|Thunderbolt|p2a: Corsola
+|-damage|p2a: Corsola|37/100
+|move|p2a: Corsola|Hex|p1a: Xurkitree
+|-damage|p1a: Xurkitree|63/100
+|
+|upkeep
+|turn|22
+|c| TeamInferno Ted|lol
+|c| TeamInferno Ted|These one turn sleeps are killing you
+|
+|t:|1641776204
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Xurkitree|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|54/100
+|
+|-heal|p2a: Cresselia|60/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641776214
+|switch|p1a: Gastrodon|Gastrodon, M|100/100
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|100/100
+|
+|upkeep
+|turn|24
+|l| TeamInferno Ted
+|
+|t:|1641776229
+|move|p2a: Cresselia|Toxic|p1a: Gastrodon
+|-status|p1a: Gastrodon|tox
+|move|p1a: Gastrodon|Yawn|p2a: Cresselia
+|-start|p2a: Cresselia|move: Yawn|[of] p1a: Gastrodon
+|
+|-damage|p1a: Gastrodon|94/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641776250
+|switch|p2a: Tapu Bulu|Tapu Bulu|92/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|switch|p1a: Roserade|Roserade, F, shiny|94/100
+|
+|-heal|p1a: Roserade|100/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|98/100|[from] Grassy Terrain
+|upkeep
+|turn|26
+|
+|t:|1641776260
+|move|p1a: Roserade|Shadow Ball|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|61/100
+|-unboost|p2a: Tapu Bulu|spd|1
+|move|p2a: Tapu Bulu|High Horsepower|p1a: Roserade
+|-damage|p1a: Roserade|23/100
+|-damage|p2a: Tapu Bulu|51/100|[from] item: Life Orb
+|
+|-heal|p1a: Roserade|29/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|57/100|[from] Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1641776279
+|switch|p2a: Darmanitan|Darmanitan, M|100/100
+|move|p1a: Roserade|Shadow Ball|p2a: Darmanitan
+|-damage|p2a: Darmanitan|55/100
+|
+|-heal|p1a: Roserade|35/100|[from] Grassy Terrain
+|-heal|p2a: Darmanitan|61/100|[from] Grassy Terrain
+|upkeep
+|turn|28
+|
+|t:|1641776308
+|switch|p1a: Gastrodon|Gastrodon, M|94/100 tox
+|move|p2a: Darmanitan|Trick|p1a: Gastrodon
+|-activate|p2a: Darmanitan|move: Trick|[of] p1a: Gastrodon
+|-item|p1a: Gastrodon|Choice Band|[from] move: Trick
+|-item|p2a: Darmanitan|Leftovers|[from] move: Trick
+|
+|-heal|p2a: Darmanitan|67/100|[from] Grassy Terrain
+|-heal|p2a: Darmanitan|73/100|[from] item: Leftovers
+|-heal|p1a: Gastrodon|100/100 tox|[from] Grassy Terrain
+|-damage|p1a: Gastrodon|94/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641776320
+|switch|p2a: Tapu Bulu|Tapu Bulu|57/100
+|move|p1a: Gastrodon|Earth Power|p2a: Tapu Bulu
+|-resisted|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|38/100
+|
+|-heal|p2a: Tapu Bulu|44/100|[from] Grassy Terrain
+|-heal|p1a: Gastrodon|100/100 tox|[from] Grassy Terrain
+|-damage|p1a: Gastrodon|88/100 tox|[from] psn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|30
+|
+|t:|1641776332
+|switch|p1a: Roserade|Roserade, F, shiny|35/100
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Roserade
+|-resisted|p1a: Roserade
+|-damage|p1a: Roserade|11/100
+|-heal|p2a: Tapu Bulu|55/100|[from] drain|[of] p1a: Roserade
+|-damage|p2a: Tapu Bulu|45/100|[from] item: Life Orb
+|
+|upkeep
+|turn|31
+|
+|t:|1641776345
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Roserade|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|84/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641776354
+|move|p1a: Roserade|Sleep Powder|p2a: Heatran
+|-status|p2a: Heatran|slp|[from] move: Sleep Powder
+|cant|p2a: Heatran|slp
+|
+|upkeep
+|turn|33
+|
+|t:|1641776360
+|move|p1a: Roserade|Spikes|p2a: Heatran
+|-sidestart|p2: FR1DGE8|Spikes
+|cant|p2a: Heatran|slp
+|
+|upkeep
+|turn|34
+|
+|t:|1641776366
+|move|p1a: Roserade|Spikes|p2a: Heatran
+|-sidestart|p2: FR1DGE8|Spikes
+|cant|p2a: Heatran|slp
+|
+|upkeep
+|turn|35
+|
+|t:|1641776374
+|move|p1a: Roserade|Spikes|p2a: Heatran
+|-sidestart|p2: FR1DGE8|Spikes
+|-curestatus|p2a: Heatran|slp|[msg]
+|move|p2a: Heatran|Eruption|p1a: Roserade
+|-supereffective|p1a: Roserade
+|-damage|p1a: Roserade|0 fnt
+|faint|p1a: Roserade
+|
+|upkeep
+|
+|t:|1641776377
+|switch|p1a: Gastrodon|Gastrodon, M|88/100 tox
+|turn|36
+|
+|t:|1641776390
+|move|p2a: Heatran|Earth Power|p1a: Gastrodon
+|-damage|p1a: Gastrodon|66/100 tox
+|move|p1a: Gastrodon|Yawn|p2a: Heatran
+|-start|p2a: Heatran|move: Yawn|[of] p1a: Gastrodon
+|
+|-damage|p1a: Gastrodon|60/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641776415
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Gastrodon|Yawn|p2a: Cresselia
+|-start|p2a: Cresselia|move: Yawn|[of] p1a: Gastrodon
+|
+|-damage|p1a: Gastrodon|47/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1641776431
+|switch|p2a: Darmanitan|Darmanitan, M|73/100
+|-damage|p2a: Darmanitan|48/100|[from] Spikes
+|switch|p1a: Rillaboom|Rillaboom, M|94/100 brn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-heal|p1a: Rillaboom|100/100 brn|[from] Grassy Terrain
+|-heal|p2a: Darmanitan|54/100|[from] Grassy Terrain
+|-heal|p2a: Darmanitan|60/100|[from] item: Leftovers
+|-damage|p1a: Rillaboom|94/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1641776455
+|switch|p1a: Gastrodon|Gastrodon, M|47/100 tox
+|move|p2a: Darmanitan|Flare Blitz|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-damage|p1a: Gastrodon|13/100 tox
+|-damage|p2a: Darmanitan|47/100|[from] Recoil
+|
+|-heal|p2a: Darmanitan|53/100|[from] Grassy Terrain
+|-heal|p2a: Darmanitan|59/100|[from] item: Leftovers
+|-heal|p1a: Gastrodon|19/100 tox|[from] Grassy Terrain
+|-damage|p1a: Gastrodon|13/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641776469
+|move|p2a: Darmanitan|U-turn|p1a: Gastrodon
+|-damage|p1a: Gastrodon|0 fnt
+|faint|p1a: Gastrodon
+|
+|t:|1641776482
+|switch|p2a: Cresselia|Cresselia, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641776486
+|switch|p1a: Rillaboom|Rillaboom, M|94/100 brn
+|turn|41
+|
+|t:|1641776494
+|move|p1a: Rillaboom|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|78/100
+|-enditem|p2a: Cresselia|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|move|p2a: Cresselia|Ice Beam|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|67/100 brn
+|
+|-heal|p1a: Rillaboom|74/100 brn|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|67/100 brn|[from] brn
+|upkeep
+|turn|42
+|c|☆Tindall64|crit game
+|
+|t:|1641776505
+|move|p1a: Rillaboom|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|64/100
+|move|p2a: Cresselia|Psychic|p1a: Rillaboom
+|-damage|p1a: Rillaboom|46/100 brn
+|
+|-heal|p1a: Rillaboom|52/100 brn|[from] Grassy Terrain
+|-damage|p1a: Rillaboom|46/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|43
+|
+|t:|1641776514
+|move|p1a: Rillaboom|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|49/100
+|move|p2a: Cresselia|Ice Beam|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|16/100 brn
+|
+|-damage|p1a: Rillaboom|10/100 brn|[from] brn
+|upkeep
+|turn|44
+|c|☆Tindall64|crit!!
+|
+|t:|1641776523
+|move|p1a: Rillaboom|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|34/100
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|84/100
+|
+|-damage|p1a: Rillaboom|4/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1641776530
+|move|p1a: Rillaboom|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|70/100
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|100/100
+|
+|-damage|p1a: Rillaboom|0 fnt|[from] brn
+|faint|p1a: Rillaboom
+|upkeep
+|
+|t:|1641776534
+|switch|p1a: Xurkitree|Xurkitree|63/100
+|turn|46
+|c|☆Tindall64|gg
+|
+|t:|1641776542
+|move|p1a: Xurkitree|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|57/100
+|move|p2a: Cresselia|Toxic|p1a: Xurkitree
+|-status|p1a: Xurkitree|tox
+|
+|-damage|p1a: Xurkitree|57/100 tox|[from] psn
+|upkeep
+|turn|47
+|
+|t:|1641776550
+|move|p1a: Xurkitree|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|16/100
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|66/100
+|
+|-damage|p1a: Xurkitree|45/100 tox|[from] psn
+|upkeep
+|turn|48
+|
+|t:|1641776558
+|move|p1a: Xurkitree|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|26/100
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|76/100
+|
+|-damage|p1a: Xurkitree|26/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1641776565
+|move|p1a: Xurkitree|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|32/100
+|move|p2a: Cresselia|Moonlight|p2a: Cresselia
+|-heal|p2a: Cresselia|82/100
+|
+|-damage|p1a: Xurkitree|1/100 tox|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1641776573
+|move|p1a: Xurkitree|Thunderbolt|p2a: Cresselia
+|-damage|p2a: Cresselia|39/100
+|-status|p2a: Cresselia|par
+|move|p2a: Cresselia|Ice Beam|p1a: Xurkitree
+|-damage|p1a: Xurkitree|0 fnt
+|faint|p1a: Xurkitree
+|
+|win|FR1DGE8
+|l|☆Tindall64
+|c|☆FR1DGE8|GG

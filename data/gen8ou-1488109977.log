@@ -1,0 +1,333 @@
+|j|☆Dr. Elite
+|j|☆Mitsotaki Gamiesai
+|t:|1641713467
+|gametype|singles
+|player|p1|Dr. Elite|#drelite|1758
+|player|p2|Mitsotaki Gamiesai|backers|1725
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gardevoir, F|
+|poke|p1|Clefable, F|
+|poke|p1|Togekiss, M|
+|poke|p1|Hatterene, F|
+|poke|p1|Klefki, F|
+|poke|p1|Primarina, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Victini|
+|poke|p2|Weavile, F|
+|teampreview
+|
+|t:|1641713473
+|start
+|switch|p1a: Kindness|Klefki, F|100/100
+|switch|p2a: Victini|Victini|100/100
+|turn|1
+|
+|t:|1641713481
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kindness|Thunder Wave|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|upkeep
+|turn|2
+|
+|t:|1641713487
+|move|p1a: Kindness|Light Screen|p1a: Kindness
+|-sidestart|p1: Dr. Elite|move: Light Screen
+|move|p2a: Zapdos|Discharge|p1a: Kindness
+|-damage|p1a: Kindness|76/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641713491
+|switch|p1a: Patience|Hatterene, F|100/100
+|move|p2a: Zapdos|Volt Switch|p1a: Patience
+|-damage|p1a: Patience|82/100
+|
+|t:|1641713497
+|switch|p2a: Victini|Victini|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|4
+|
+|t:|1641713500
+|switch|p1a: Goodness|Primarina, F|100/100
+|move|p2a: Victini|V-create|p1a: Goodness
+|-resisted|p1a: Goodness
+|-damage|p1a: Goodness|51/100
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|
+|-heal|p1a: Goodness|57/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|j| smokey cokey
+|
+|t:|1641713506
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Goodness|Scald|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|90/100
+|-enditem|p2a: Toxapex|Eject Button
+|
+|t:|1641713513
+|switch|p2a: Zapdos|Zapdos|100/100
+|
+|-heal|p1a: Goodness|63/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641713519
+|switch|p1a: Love|Gardevoir, F|100/100
+|-ability|p1a: Love|Static|[from] ability: Trace|[of] p2a: Zapdos
+|move|p2a: Zapdos|Discharge|p1a: Love
+|-damage|p1a: Love|79/100
+|-status|p1a: Love|par
+|
+|upkeep
+|turn|7
+|
+|t:|1641713534
+|move|p2a: Zapdos|Volt Switch|p1a: Love
+|-damage|p1a: Love|61/100 par
+|
+|t:|1641713537
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Love|atk|1
+|cant|p1a: Love|par
+|
+|upkeep
+|turn|8
+|
+|t:|1641713547
+|switch|p1a: Peace|Togekiss, M, shiny|100/100
+|move|p2a: Landorus|U-turn|p1a: Peace
+|-resisted|p1a: Peace
+|-damage|p1a: Peace|94/100
+|
+|t:|1641713555
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1641713558
+|move|p2a: Zapdos|Discharge|p1a: Peace
+|-supereffective|p1a: Peace
+|-damage|p1a: Peace|57/100
+|move|p1a: Peace|Nasty Plot|p1a: Peace
+|-boost|p1a: Peace|spa|2
+|
+|-sideend|p1: Dr. Elite|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641713563
+|switch|p1a: Kindness|Klefki, F|76/100
+|move|p2a: Zapdos|Discharge|p1a: Kindness
+|-damage|p1a: Kindness|33/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641713570
+|move|p1a: Kindness|Light Screen|p1a: Kindness
+|-sidestart|p1: Dr. Elite|move: Light Screen
+|move|p2a: Zapdos|Volt Switch|p1a: Kindness
+|-damage|p1a: Kindness|10/100
+|
+|t:|1641713575
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kindness|atk|1
+|
+|upkeep
+|turn|12
+|
+|t:|1641713577
+|move|p1a: Kindness|Reflect|p1a: Kindness
+|-sidestart|p1: Dr. Elite|Reflect
+|move|p2a: Landorus|Defog|p1a: Kindness
+|-unboost|p1a: Kindness|evasion|1
+|-sideend|p1: Dr. Elite|Reflect
+|-sideend|p1: Dr. Elite|move: Light Screen
+|
+|upkeep
+|turn|13
+|
+|t:|1641713583
+|move|p1a: Kindness|Light Screen|p1a: Kindness
+|-sidestart|p1: Dr. Elite|move: Light Screen
+|move|p2a: Landorus|Earthquake|p1a: Kindness
+|-supereffective|p1a: Kindness
+|-damage|p1a: Kindness|0 fnt
+|faint|p1a: Kindness
+|
+|upkeep
+|
+|t:|1641713588
+|switch|p1a: Patience|Hatterene, F|82/100
+|turn|14
+|
+|t:|1641713592
+|move|p2a: Landorus|Earthquake|p1a: Patience
+|-damage|p1a: Patience|41/100
+|move|p1a: Patience|Calm Mind|p1a: Patience
+|-boost|p1a: Patience|spa|1
+|-boost|p1a: Patience|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641713597
+|move|p2a: Landorus|Earthquake|p1a: Patience
+|-damage|p1a: Patience|0 fnt
+|faint|p1a: Patience
+|
+|upkeep
+|
+|t:|1641713601
+|switch|p1a: Peace|Togekiss, M, shiny|57/100
+|turn|16
+|
+|t:|1641713605
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Peace|Nasty Plot|p1a: Peace
+|-boost|p1a: Peace|spa|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641713608
+|move|p2a: Zapdos|Discharge|p1a: Peace
+|-supereffective|p1a: Peace
+|-damage|p1a: Peace|21/100
+|move|p1a: Peace|Flamethrower|p2a: Zapdos
+|-damage|p2a: Zapdos|39/100
+|
+|upkeep
+|turn|18
+|j| UnzipsCrogre
+|
+|t:|1641713614
+|move|p2a: Zapdos|Discharge|p1a: Peace
+|-supereffective|p1a: Peace
+|-crit|p1a: Peace
+|-damage|p1a: Peace|0 fnt
+|faint|p1a: Peace
+|
+|upkeep
+|j| coeur de les ciel
+|
+|t:|1641713619
+|switch|p1a: Joy|Clefable, F|100/100
+|turn|19
+|
+|t:|1641713622
+|move|p2a: Zapdos|Volt Switch|p1a: Joy
+|-damage|p1a: Joy|83/100
+|
+|t:|1641713625
+|switch|p2a: Victini|Victini|100/100|[from]move: Volt Switch
+|move|p1a: Joy|Calm Mind|p1a: Joy
+|-boost|p1a: Joy|spa|1
+|-boost|p1a: Joy|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1641713629
+|move|p2a: Victini|V-create|p1a: Joy
+|-damage|p1a: Joy|0 fnt
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|faint|p1a: Joy
+|
+|-sideend|p1: Dr. Elite|move: Light Screen
+|upkeep
+|
+|t:|1641713631
+|switch|p1a: Goodness|Primarina, F|63/100
+|turn|21
+|j| CoreyTrevorSmokes
+|l| UnzipsCrogre
+|
+|t:|1641713647
+|switch|p2a: Zapdos|Zapdos|39/100
+|move|p1a: Goodness|Calm Mind|p1a: Goodness
+|-boost|p1a: Goodness|spa|1
+|-boost|p1a: Goodness|spd|1
+|
+|-heal|p1a: Goodness|69/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641713654
+|move|p2a: Zapdos|Discharge|p1a: Goodness
+|-supereffective|p1a: Goodness
+|-damage|p1a: Goodness|23/100
+|-status|p1a: Goodness|par
+|move|p1a: Goodness|Draining Kiss|p2a: Zapdos
+|-damage|p2a: Zapdos|8/100
+|-heal|p1a: Goodness|46/100 par|[from] drain|[of] p2a: Zapdos
+|
+|-heal|p1a: Goodness|52/100 par|[from] item: Leftovers
+|upkeep
+|turn|23
+|l| coeur de les ciel
+|
+|t:|1641713661
+|move|p2a: Zapdos|Discharge|p1a: Goodness
+|-supereffective|p1a: Goodness
+|-damage|p1a: Goodness|12/100 par
+|cant|p1a: Goodness|par
+|
+|-heal|p1a: Goodness|18/100 par|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641713665
+|move|p2a: Zapdos|Volt Switch|p1a: Goodness
+|-supereffective|p1a: Goodness
+|-damage|p1a: Goodness|0 fnt
+|faint|p1a: Goodness
+|
+|t:|1641713667
+|switch|p2a: Victini|Victini|100/100|[from]move: Volt Switch
+|
+|upkeep
+|
+|t:|1641713670
+|switch|p1a: Love|Gardevoir, F|61/100 par
+|-ability|p1a: Love|Victory Star|[from] ability: Trace|[of] p2a: Victini
+|turn|25
+|
+|t:|1641713673
+|move|p2a: Victini|V-create|p1a: Love
+|-damage|p1a: Love|0 fnt
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|faint|p1a: Love
+|
+|win|Mitsotaki Gamiesai
+|raw|Dr. Elite's rating: 1758 &rarr; <strong>1736</strong><br />(-22 for losing)
+|raw|Mitsotaki Gamiesai's rating: 1725 &rarr; <strong>1747</strong><br />(+22 for winning)

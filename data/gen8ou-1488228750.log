@@ -1,0 +1,239 @@
+|j|☆T mauvais
+|j|☆AnteLeShowdowner
+|t:|1641737860
+|gametype|singles
+|player|p1|T mauvais|102|1081
+|player|p2|AnteLeShowdowner|supernerd|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Scizor, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Mamoswine, F|
+|poke|p2|Tyranitar, M|
+|poke|p2|Slowbro, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Zeraora|
+|poke|p2|Buzzwole|
+|poke|p2|Blacephalon|
+|teampreview
+|
+|t:|1641737871
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Godzilla|Tyranitar, M|100/100
+|-ability|p2a: Godzilla|Unnerve
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1641737887
+|move|p2a: Godzilla|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: T mauvais|move: Stealth Rock
+|move|p1a: Pelipper|Scald|p2a: Godzilla
+|-supereffective|p2a: Godzilla
+|-damage|p2a: Godzilla|21/100
+|-enditem|p2a: Godzilla|Eject Button
+|
+|t:|1641737895
+|switch|p2a: Bro|Slowbro, F, shiny|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641737904
+|move|p1a: Pelipper|Defog|p2a: Bro
+|-unboost|p2a: Bro|evasion|1
+|-sideend|p1: T mauvais|Stealth Rock|[from] move: Defog|[of] p1a: Pelipper
+|move|p2a: Bro|Light Screen|p2a: Bro
+|-sidestart|p2: AnteLeShowdowner|move: Light Screen
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641737917
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Bro|Earthquake|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|83/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|90/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641737926
+|switch|p2a: DJMM|Blacephalon, shiny|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: DJMM
+|-sidestart|p2: AnteLeShowdowner|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|96/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641737943
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: DJMM|Will-O-Wisp|p1a: Dragapult
+|-status|p1a: Dragapult|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Dragapult|95/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641737955
+|move|p1a: Dragapult|Shadow Ball|p2a: DJMM
+|-supereffective|p2a: DJMM
+|-damage|p2a: DJMM|0 fnt
+|faint|p2a: DJMM
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Dragapult|89/100 brn|[from] brn
+|-sideend|p2: AnteLeShowdowner|move: Light Screen
+|upkeep
+|
+|t:|1641737972
+|switch|p2a: Buff dude|Buzzwole|100/100
+|-damage|p2a: Buff dude|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641737984
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|move|p2a: Buff dude|Close Combat|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|75/100
+|-unboost|p2a: Buff dude|def|1
+|-unboost|p2a: Buff dude|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641737994
+|move|p2a: Buff dude|Leech Life|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|58/100
+|-heal|p2a: Buff dude|96/100|[from] drain|[of] p1a: Pelipper
+|move|p1a: Pelipper|Hurricane|p2a: Buff dude
+|-supereffective|p2a: Buff dude
+|-damage|p2a: Buff dude|0 fnt
+|faint|p2a: Buff dude
+|
+|-weather|none
+|upkeep
+|
+|t:|1641738010
+|switch|p2a: Speedy|Zeraora, shiny|100/100
+|-damage|p2a: Speedy|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641738015
+|switch|p1a: Mamoswine|Mamoswine, F|100/100
+|move|p2a: Speedy|Plasma Fists|p1a: Mamoswine
+|-immune|p1a: Mamoswine
+|
+|upkeep
+|turn|10
+|
+|t:|1641738025
+|switch|p2a: Plane|Dragapult, M, shiny|100/100
+|-damage|p2a: Plane|88/100|[from] Stealth Rock
+|move|p1a: Mamoswine|Earthquake|p2a: Plane
+|-damage|p2a: Plane|5/100
+|-damage|p1a: Mamoswine|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Plane|11/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641738036
+|move|p1a: Mamoswine|Ice Shard|p2a: Plane
+|-supereffective|p2a: Plane
+|-damage|p2a: Plane|0 fnt
+|-start|p1a: Mamoswine|Disable|Ice Shard|[from] ability: Cursed Body|[of] p2a: Plane
+|faint|p2a: Plane
+|-damage|p1a: Mamoswine|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641738044
+|switch|p2a: Bro|Slowbro, F, shiny|100/100
+|-damage|p2a: Bro|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641738051
+|move|p1a: Mamoswine|Knock Off|p2a: Bro
+|-supereffective|p2a: Bro
+|-damage|p2a: Bro|3/100
+|-damage|p1a: Mamoswine|64/100|[from] item: Rocky Helmet|[of] p2a: Bro
+|-enditem|p2a: Bro|Rocky Helmet|[from] move: Knock Off|[of] p1a: Mamoswine
+|-damage|p1a: Mamoswine|54/100|[from] item: Life Orb
+|move|p2a: Bro|Earthquake|p1a: Mamoswine
+|-damage|p1a: Mamoswine|29/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641738064
+|switch|p2a: Speedy|Zeraora, shiny|88/100
+|-damage|p2a: Speedy|76/100|[from] Stealth Rock
+|move|p1a: Mamoswine|Knock Off|p2a: Speedy
+|-damage|p2a: Speedy|21/100
+|-enditem|p2a: Speedy|Focus Sash|[from] move: Knock Off|[of] p1a: Mamoswine
+|-damage|p1a: Mamoswine|19/100|[from] item: Life Orb
+|
+|upkeep
+|turn|14
+|
+|t:|1641738078
+|switch|p1a: Pelipper|Pelipper, F|58/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Speedy|Close Combat|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|45/100
+|-unboost|p2a: Speedy|def|1
+|-unboost|p2a: Speedy|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641738093
+|switch|p2a: Godzilla|Tyranitar, M|21/100
+|-ability|p2a: Godzilla|Unnerve
+|-damage|p2a: Godzilla|8/100|[from] Stealth Rock
+|switch|p1a: Scizor|Scizor, M|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641738105
+|switch|p2a: Speedy|Zeraora, shiny|21/100
+|-damage|p2a: Speedy|8/100|[from] Stealth Rock
+|move|p1a: Scizor|Bullet Punch|p2a: Speedy
+|-resisted|p2a: Speedy
+|-damage|p2a: Speedy|0 fnt
+|faint|p2a: Speedy
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|AnteLeShowdowner forfeited by changing their name.
+|
+|win|T mauvais
+|raw|T mauvais's rating: 1081 &rarr; <strong>1102</strong><br />(+21 for winning)
+|raw|AnteLeShowdowner's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)

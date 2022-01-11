@@ -1,0 +1,340 @@
+|j|☆TrainManAnimeAlt
+|j|☆Mocha9
+|t:|1641785890
+|gametype|singles
+|player|p1|TrainManAnimeAlt|1|1160
+|player|p2|Mocha9|101|1144
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcanion|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Corviknight, M|
+|poke|p1|Arctozolt|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Moltres-Galar|
+|poke|p2|Regieleki|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Clefable, F|
+|teampreview
+|
+|t:|1641785900
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mocha9)
+|
+|t:|1641785905
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: Mocha9|move: Aurora Veil
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: TrainManAnimeAlt|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641785914
+|move|p2a: Ninetales|Blizzard|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|91/100
+|move|p1a: Ninetales|Encore|p2a: Ninetales
+|-start|p2a: Ninetales|Encore
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641785922
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Ninetales|Blizzard|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|95/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcanion|89/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641785927
+|move|p2a: Ninetales|Blizzard|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|83/100
+|move|p1a: Volcanion|Steam Eruption|p2a: Ninetales|[miss]
+|-miss|p1a: Volcanion|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcanion|77/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641785930
+|move|p2a: Ninetales|Blizzard|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|70/100
+|move|p1a: Volcanion|Steam Eruption|p2a: Ninetales
+|-damage|p2a: Ninetales|47/100
+|
+|-weather|none
+|-end|p2a: Ninetales|Encore
+|-sideend|p1: TrainManAnimeAlt|move: Aurora Veil
+|upkeep
+|turn|6
+|
+|t:|1641785936
+|move|p2a: Ninetales|Moonblast|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|47/100
+|move|p1a: Volcanion|Steam Eruption|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|upkeep
+|
+|t:|1641785946
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|7
+|
+|t:|1641785950
+|switch|p1a: Ninetales|Ninetales-Alola, F|91/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Moltres|94/100|[from] Hail
+|upkeep
+|turn|8
+|
+|t:|1641785957
+|move|p2a: Moltres|Hurricane|p1a: Ninetales
+|-damage|p1a: Ninetales|38/100
+|move|p1a: Ninetales|Encore|p2a: Moltres
+|-start|p2a: Moltres|Encore
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Moltres|88/100|[from] Hail
+|-sideend|p2: Mocha9|move: Aurora Veil
+|upkeep
+|turn|9
+|
+|t:|1641785965
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Moltres|Hurricane|p1a: Tornadus|[miss]
+|-miss|p2a: Moltres|p1a: Tornadus
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Moltres|82/100|[from] Hail
+|-damage|p1a: Tornadus|94/100|[from] Hail
+|upkeep
+|turn|10
+|
+|t:|1641785969
+|move|p2a: Moltres|Hurricane|p1a: Tornadus
+|-damage|p1a: Tornadus|61/100
+|move|p1a: Tornadus|Weather Ball|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|38/100
+|-enditem|p2a: Moltres|Weakness Policy
+|-boost|p2a: Moltres|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Moltres|spa|2|[from] item: Weakness Policy
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Moltres|31/100|[from] Hail
+|-damage|p1a: Tornadus|55/100|[from] Hail
+|upkeep
+|turn|11
+|
+|t:|1641785973
+|move|p2a: Moltres|Hurricane|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Moltres|25/100|[from] Hail
+|-end|p2a: Moltres|Encore
+|upkeep
+|
+|t:|1641785977
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|turn|12
+|
+|t:|1641785980
+|move|p2a: Moltres|Fiery Wrath|p1a: Corviknight
+|-damage|p1a: Corviknight|8/100
+|move|p1a: Corviknight|Brave Bird|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|-damage|p1a: Corviknight|1/100|[from] Recoil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Corviknight|0 fnt|[from] Hail
+|faint|p1a: Corviknight
+|upkeep
+|
+|t:|1641785987
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|turn|13
+|
+|t:|1641785991
+|move|p1a: Arctozolt|Bolt Beak|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641785995
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|14
+|
+|t:|1641786000
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Rillaboom|atk|1
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1641786004
+|move|p2a: Rillaboom|Swords Dance|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|2
+|move|p1a: Landorus|U-turn|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|60/100
+|
+|t:|1641786007
+|switch|p1a: Ninetales|Ninetales-Alola, F|38/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rillaboom|54/100|[from] Hail
+|-heal|p1a: Ninetales|44/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|60/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641786012
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Rillaboom|atk|1
+|move|p2a: Rillaboom|Grassy Glide|p1a: Landorus
+|-damage|p1a: Landorus|11/100
+|-damage|p2a: Rillaboom|51/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rillaboom|45/100|[from] Hail
+|-damage|p1a: Landorus|5/100|[from] Hail
+|-heal|p2a: Rillaboom|51/100|[from] Grassy Terrain
+|-heal|p1a: Landorus|11/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641786018
+|move|p2a: Rillaboom|Grassy Glide|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Rillaboom|41/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rillaboom|35/100|[from] Hail
+|-heal|p2a: Rillaboom|41/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641786023
+|switch|p1a: Volcanion|Volcanion|47/100
+|turn|18
+|
+|t:|1641786026
+|move|p2a: Rillaboom|Grassy Glide|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|-damage|p2a: Rillaboom|31/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rillaboom|25/100|[from] Hail
+|-heal|p2a: Rillaboom|31/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641786028
+|switch|p1a: Arctozolt|Arctozolt|100/100
+|turn|19
+|
+|t:|1641786033
+|switch|p2a: Regieleki|Regieleki|100/100
+|move|p1a: Arctozolt|Blizzard|p2a: Regieleki
+|-damage|p2a: Regieleki|26/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Regieleki|20/100|[from] Hail
+|upkeep
+|turn|20
+|
+|t:|1641786038
+|move|p2a: Regieleki|Ancient Power|p1a: Arctozolt
+|-supereffective|p1a: Arctozolt
+|-damage|p1a: Arctozolt|32/100
+|-damage|p2a: Regieleki|10/100|[from] item: Life Orb
+|move|p1a: Arctozolt|Bolt Beak|p2a: Regieleki
+|-resisted|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|
+|-weather|Hail|[upkeep]
+|-heal|p1a: Arctozolt|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641786043
+|switch|p2a: Rillaboom|Rillaboom, F|31/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|21
+|
+|t:|1641786045
+|move|p2a: Rillaboom|Grassy Glide|p1a: Arctozolt
+|-damage|p1a: Arctozolt|0 fnt
+|faint|p1a: Arctozolt
+|-damage|p2a: Rillaboom|21/100|[from] item: Life Orb
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rillaboom|15/100|[from] Hail
+|-heal|p2a: Rillaboom|21/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641786048
+|switch|p1a: Ninetales|Ninetales-Alola, F|44/100
+|turn|22
+|
+|t:|1641786049
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|-damage|p2a: Rillaboom|12/100|[from] item: Life Orb
+|
+|win|Mocha9
+|raw|TrainManAnimeAlt's rating: 1160 &rarr; <strong>1134</strong><br />(-26 for losing)
+|raw|Mocha9's rating: 1144 &rarr; <strong>1170</strong><br />(+26 for winning)

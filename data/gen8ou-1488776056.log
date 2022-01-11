@@ -1,0 +1,481 @@
+|j|☆El Choro 37
+|j|☆lolkingston
+|t:|1641819851
+|gametype|singles
+|player|p1|El Choro 37|drayden|1389
+|player|p2|lolkingston|lance|1338
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Excadrill, F|
+|poke|p1|Tyranitar, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Corsola-Galar, F|
+|poke|p1|Dragapult, M|
+|poke|p2|Kartana|
+|poke|p2|Tapu Koko|
+|poke|p2|Celesteela|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Regieleki|
+|poke|p2|Urshifu-*, F|
+|teampreview
+|
+|t:|1641819865
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by El Choro 37)
+|
+|t:|1641819901
+|switch|p2a: Kartana|Kartana, shiny|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Kartana
+|-sidestart|p2: lolkingston|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641819905
+|move|p2a: Kartana|Swords Dance|p2a: Kartana
+|-boost|p2a: Kartana|atk|2
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Kartana
+|-status|p2a: Kartana|par
+|
+|upkeep
+|turn|3
+|inactive|El Choro 37 has 120 seconds left.
+|
+|t:|1641819953
+|switch|p1a: Corsola|Corsola-Galar, F|100/100
+|cant|p2a: Kartana|par
+|
+|upkeep
+|turn|4
+|
+|t:|1641819964
+|cant|p2a: Kartana|par
+|move|p1a: Corsola|Hex|p2a: Kartana
+|-crit|p2a: Kartana
+|-damage|p2a: Kartana|2/100 par
+|
+|upkeep
+|turn|5
+|
+|t:|1641819971
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Kartana|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|59/100
+|-damage|p2a: Kartana|0 fnt|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p2a: Kartana
+|
+|-heal|p1a: Ferrothorn|66/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641819984
+|switch|p2a: Celesteela|Celesteela|100/100
+|turn|6
+|inactive|El Choro 37 has 120 seconds left.
+|
+|t:|1641819990
+|move|p2a: Celesteela|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|1/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Celesteela
+|-start|p2a: Celesteela|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|7/100|[from] item: Leftovers
+|-damage|p2a: Celesteela|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|21/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1641820000
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Celesteela|Flamethrower|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|94/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celesteela|76/100|[from] Leech Seed|[of] p1a: Tyranitar
+|-heal|p1a: Tyranitar|100/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641820018
+|switch|p1a: Excadrill|Excadrill, F|100/100
+|move|p2a: Celesteela|Heavy Slam|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|69/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Excadrill|75/100|[from] item: Leftovers
+|-damage|p2a: Celesteela|63/100|[from] Leech Seed|[of] p1a: Excadrill
+|-heal|p1a: Excadrill|89/100|[silent]
+|upkeep
+|turn|9
+|
+|t:|1641820031
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|88/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|94/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|94/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641820040
+|move|p1a: Rotom|Trick|p2a: Ferrothorn
+|-activate|p1a: Rotom|move: Trick|[of] p2a: Ferrothorn
+|-item|p2a: Ferrothorn|Choice Scarf|[from] move: Trick
+|-item|p1a: Rotom|Leftovers|[from] move: Trick
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Rotom
+|-sidestart|p1: El Choro 37|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|88/100|[from] Sandstorm
+|-heal|p1a: Rotom|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641820049
+|switch|p2a: Regieleki|Regieleki|100/100
+|-damage|p2a: Regieleki|88/100|[from] Spikes
+|move|p1a: Rotom|Volt Switch|p2a: Regieleki
+|-resisted|p2a: Regieleki
+|-damage|p2a: Regieleki|62/100
+|
+|t:|1641820052
+|switch|p1a: Excadrill|Excadrill, F|89/100|[from]move: Volt Switch
+|-damage|p1a: Excadrill|86/100|[from] Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Excadrill|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641820061
+|move|p2a: Regieleki|Rapid Spin|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|85/100
+|-boost|p2a: Regieleki|spe|1
+|-sideend|p2: lolkingston|Spikes|[from] move: Rapid Spin|[of] p2a: Regieleki
+|move|p1a: Excadrill|Rapid Spin|p2a: Regieleki
+|-damage|p2a: Regieleki|34/100
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: El Choro 37|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|
+|-heal|p1a: Excadrill|91/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641820088
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Excadrill|Iron Head|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|78/100
+|
+|-heal|p1a: Excadrill|97/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641820099
+|switch|p1a: Ferrothorn|Ferrothorn, F|21/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|14/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|8/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|1/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-hitcount|p1a: Ferrothorn|3
+|
+|-heal|p1a: Ferrothorn|7/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641820115
+|switch|p1a: Rotom|Rotom-Wash|94/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Rotom
+|-resisted|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|81/100
+|-resisted|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|67/100
+|-resisted|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|53/100
+|-hitcount|p1a: Rotom|3
+|
+|-heal|p1a: Rotom|59/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641820126
+|switch|p2a: Ferrothorn|Ferrothorn, F|94/100
+|move|p1a: Rotom|Will-O-Wisp|p2a: Ferrothorn
+|-status|p2a: Ferrothorn|brn
+|
+|-heal|p1a: Rotom|65/100|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|88/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641820143
+|move|p1a: Rotom|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|78/100 brn
+|
+|t:|1641820147
+|switch|p1a: Corsola|Corsola-Galar, F|100/100|[from]move: Volt Switch
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Corsola
+|-sidestart|p1: El Choro 37|move: Stealth Rock
+|
+|-damage|p2a: Ferrothorn|72/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641820156
+|switch|p2a: Celesteela|Celesteela|63/100
+|move|p1a: Corsola|Will-O-Wisp|p2a: Celesteela
+|-status|p2a: Celesteela|brn
+|
+|-damage|p2a: Celesteela|57/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641820167
+|switch|p2a: Ferrothorn|Ferrothorn, F|72/100 brn
+|move|p1a: Corsola|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: lolkingston|move: Stealth Rock
+|
+|-damage|p2a: Ferrothorn|66/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641820174
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Corsola
+|-status|p1a: Corsola|par
+|cant|p1a: Corsola|par
+|
+|-damage|p2a: Ferrothorn|60/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641820182
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Corsola
+|-fail|p1a: Corsola|par
+|move|p1a: Corsola|Hex|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|40/100 brn
+|
+|-damage|p2a: Ferrothorn|34/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641820196
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-damage|p2a: Tapu Koko|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Corsola|Will-O-Wisp|p2a: Tapu Koko
+|-status|p2a: Tapu Koko|brn
+|
+|-damage|p2a: Tapu Koko|82/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641820206
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Corsola
+|-damage|p1a: Corsola|70/100 par
+|-damage|p2a: Tapu Koko|72/100 brn|[from] item: Life Orb
+|move|p1a: Corsola|Hex|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|24/100 brn
+|
+|-damage|p2a: Tapu Koko|18/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641820216
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Corsola
+|-damage|p1a: Corsola|28/100 par
+|-start|p2a: Tapu Koko|Disable|Thunderbolt|[from] ability: Cursed Body|[of] p1a: Corsola
+|-damage|p2a: Tapu Koko|8/100 brn|[from] item: Life Orb
+|move|p1a: Corsola|Strength Sap|p2a: Tapu Koko
+|-unboost|p2a: Tapu Koko|atk|1
+|-heal|p1a: Corsola|94/100 par
+|
+|-damage|p2a: Tapu Koko|2/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641820228
+|move|p2a: Tapu Koko|Volt Switch|p1a: Corsola
+|-damage|p1a: Corsola|62/100 par
+|-damage|p2a: Tapu Koko|0 fnt|[from] item: Life Orb
+|faint|p2a: Tapu Koko
+|move|p1a: Corsola|Strength Sap|p2: Tapu Koko|[notarget]
+|-fail|p1a: Corsola
+|
+|upkeep
+|
+|t:|1641820244
+|switch|p2a: Celesteela|Celesteela|57/100 brn
+|-damage|p2a: Celesteela|45/100 brn|[from] Stealth Rock
+|turn|26
+|
+|t:|1641820249
+|move|p2a: Celesteela|Flamethrower|p1a: Corsola
+|-damage|p1a: Corsola|45/100 par
+|move|p1a: Corsola|Strength Sap|p2a: Celesteela
+|-unboost|p2a: Celesteela|atk|1
+|-heal|p1a: Corsola|100/100 par
+|
+|-damage|p2a: Celesteela|39/100 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|27
+|
+|t:|1641820259
+|move|p2a: Celesteela|Leech Seed|p1a: Corsola
+|-start|p1a: Corsola|move: Leech Seed
+|move|p1a: Corsola|Will-O-Wisp|p2a: Celesteela
+|-fail|p2a: Celesteela|brn
+|
+|-damage|p1a: Corsola|88/100 par|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|49/100 brn|[silent]
+|-damage|p2a: Celesteela|43/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641820267
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|78/100
+|-damage|p2a: Urshifu|72/100|[from] Stealth Rock
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Urshifu|66/100|[from] Sandstorm
+|upkeep
+|turn|29
+|
+|t:|1641820277
+|move|p2a: Urshifu|Surging Strikes|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|59/100
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|28/100
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-hitcount|p1: Tyranitar|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Urshifu|60/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641820305
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641820323
+|switch|p2a: Regieleki|Regieleki|34/100
+|-damage|p2a: Regieleki|22/100|[from] Stealth Rock
+|move|p1a: Dragapult|Draco Meteor|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|-unboost|p1a: Dragapult|spa|2
+|faint|p2a: Regieleki
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641820334
+|switch|p2a: Celesteela|Celesteela|43/100 brn
+|-damage|p2a: Celesteela|31/100 brn|[from] Stealth Rock
+|turn|31
+|
+|t:|1641820340
+|switch|p1a: Ferrothorn|Ferrothorn, F|7/100
+|-damage|p1a: Ferrothorn|1/100|[from] Stealth Rock
+|move|p2a: Celesteela|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|-ability|p2a: Celesteela|Beast Boost|boost
+|-boost|p2a: Celesteela|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celesteela|25/100 brn|[from] brn
+|upkeep
+|
+|t:|1641820346
+|switch|p1a: Rotom|Rotom-Wash|65/100
+|-damage|p1a: Rotom|53/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1641820353
+|move|p1a: Rotom|Volt Switch|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|
+|t:|1641820358
+|switch|p1a: Dragapult|Dragapult, M|82/100|[from]move: Volt Switch
+|-damage|p1a: Dragapult|70/100|[from] Stealth Rock
+|
+|-weather|none
+|upkeep
+|
+|t:|1641820363
+|switch|p2a: Ferrothorn|Ferrothorn, F|34/100 brn
+|-damage|p2a: Ferrothorn|28/100 brn|[from] Stealth Rock
+|turn|33
+|
+|t:|1641820371
+|move|p1a: Dragapult|Shadow Ball|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641820376
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|60/100
+|-damage|p2a: Urshifu|54/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1641820382
+|move|p1a: Dragapult|Shadow Ball|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|win|El Choro 37
+|raw|El Choro 37's rating: 1389 &rarr; <strong>1406</strong><br />(+17 for winning)
+|raw|lolkingston's rating: 1338 &rarr; <strong>1321</strong><br />(-17 for losing)
+|l|☆lolkingston

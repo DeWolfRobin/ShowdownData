@@ -1,0 +1,84 @@
+|j|☆Varbas
+|j|☆Immagamer
+|t:|1641765799
+|gametype|singles
+|player|p1|Varbas|102|1147
+|player|p2|Immagamer|169|1169
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Kingdra, F|
+|poke|p1|Scizor, F|
+|poke|p1|Ludicolo, F|
+|poke|p1|Gyarados, M|
+|poke|p1|Rotom-Wash|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Nidoking, M|
+|poke|p2|Zeraora|
+|poke|p2|Chansey, F|
+|poke|p2|Tangrowth, M|
+|poke|p2|Tapu Fini|
+|teampreview
+|
+|t:|1641765815
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Immagamer)
+|inactive|Varbas has 120 seconds left.
+|
+|t:|1641765873
+|move|p2a: Zeraora|Plasma Fists|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641765880
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|turn|2
+|
+|t:|1641765886
+|move|p2a: Zeraora|Plasma Fists|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-enditem|p1a: Gyarados|Wacan Berry|[eat]
+|-enditem|p1a: Gyarados|Wacan Berry|[weaken]
+|-damage|p1a: Gyarados|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Gyarados
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|l|☆Varbas
+|inactive|Varbas disconnected and has a minute to reconnect!
+|player|p1|
+|inactive|Varbas has 30 seconds to reconnect!
+|inactive|Varbas has 20 seconds to reconnect!
+|inactive|Varbas has 15 seconds to reconnect!
+|inactive|Varbas has 10 seconds to reconnect!
+|inactive|Varbas has 5 seconds to reconnect!
+|-message|Varbas lost due to inactivity.
+|
+|win|Immagamer
+|raw|Varbas's rating: 1147 &rarr; <strong>1124</strong><br />(-23 for losing)
+|raw|Immagamer's rating: 1169 &rarr; <strong>1192</strong><br />(+23 for winning)

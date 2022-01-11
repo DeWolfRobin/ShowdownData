@@ -1,0 +1,493 @@
+|j|☆ZaidSolrock
+|j|☆wssd1233
+|t:|1641859354
+|gametype|singles
+|player|p1|ZaidSolrock|silver|1046
+|player|p2|wssd1233|102|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Appletun, F|
+|poke|p1|Venusaur, F|
+|poke|p1|Klefki, F|
+|poke|p1|Zeraora|
+|poke|p1|Rotom-Heat|
+|poke|p2|Pelipper, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Magnezone|
+|poke|p2|Dragonite, F|
+|poke|p2|Blacephalon|
+|teampreview
+|
+|t:|1641859371
+|start
+|switch|p1a: Scraps Disposal|Zeraora|100/100
+|switch|p2a: Pelipper|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641859379
+|switch|p2a: Magnezone|Magnezone, shiny|100/100
+|move|p1a: Scraps Disposal|Volt Switch|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|88/100
+|
+|t:|1641859384
+|switch|p1a: Desserts|Appletun, F, shiny|100/100|[from]move: Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641859390
+|move|p2a: Magnezone|Reflect|p2a: Magnezone
+|-sidestart|p2: wssd1233|Reflect
+|move|p1a: Desserts|Leech Seed|p2a: Magnezone
+|-start|p2a: Magnezone|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Magnezone|75/100|[from] Leech Seed|[of] p1a: Desserts
+|upkeep
+|turn|3
+|
+|t:|1641859413
+|switch|p2a: Barraskewda|Barraskewda, F, shiny|100/100
+|move|p1a: Desserts|Apple Acid|p2a: Barraskewda
+|-supereffective|p2a: Barraskewda
+|-crit|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641859433
+|switch|p2a: Dragonite|Dragonite, F, shiny|100/100
+|turn|4
+|
+|t:|1641859437
+|switch|p1a: Cabinet Keys|Klefki, F|100/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641859444
+|move|p1a: Cabinet Keys|Thunder Wave|p2a: Dragonite
+|-status|p2a: Dragonite|par
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641859454
+|move|p1a: Cabinet Keys|Reflect|p1a: Cabinet Keys
+|-sidestart|p1: ZaidSolrock|Reflect
+|cant|p2a: Dragonite|par
+|
+|-sideend|p2: wssd1233|Reflect
+|upkeep
+|turn|7
+|
+|t:|1641859459
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641859473
+|switch|p1a: Scraps Disposal|Zeraora|100/100
+|move|p2a: Dragonite|Power-Up Punch|p1a: Scraps Disposal
+|-damage|p1a: Scraps Disposal|65/100
+|-boost|p2a: Dragonite|atk|1
+|-damage|p2a: Dragonite|91/100 par|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641859483
+|move|p1a: Scraps Disposal|Play Rough|p2a: Dragonite|[miss]
+|-miss|p1a: Scraps Disposal|p2a: Dragonite
+|move|p2a: Dragonite|Dragon Claw|p1a: Scraps Disposal
+|-damage|p1a: Scraps Disposal|0 fnt
+|faint|p1a: Scraps Disposal
+|-damage|p2a: Dragonite|81/100 par|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641859489
+|switch|p1a: Beyond Meat|Venusaur, F, shiny|100/100
+|turn|10
+|
+|t:|1641859500
+|move|p1a: Beyond Meat|Sludge Bomb|p2a: Dragonite
+|-damage|p2a: Dragonite|28/100 par
+|move|p2a: Dragonite|Power-Up Punch|p1a: Beyond Meat
+|-resisted|p1a: Beyond Meat
+|-damage|p1a: Beyond Meat|81/100
+|-boost|p2a: Dragonite|atk|1
+|-damage|p2a: Dragonite|18/100 par|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641859511
+|move|p1a: Beyond Meat|Sludge Bomb|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641859517
+|switch|p2a: Pelipper|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|12
+|
+|t:|1641859530
+|switch|p1a: Desserts|Appletun, F, shiny|100/100
+|move|p2a: Pelipper|Protect||[still]
+|-fail|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641859537
+|move|p2a: Pelipper|Hurricane|p1a: Desserts
+|-supereffective|p1a: Desserts
+|-damage|p1a: Desserts|52/100
+|move|p1a: Desserts|Leech Seed|p2a: Pelipper
+|-start|p2a: Pelipper|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Desserts|58/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|88/100|[from] Leech Seed|[of] p1a: Desserts
+|-heal|p1a: Desserts|66/100|[silent]
+|-sideend|p1: ZaidSolrock|Reflect
+|upkeep
+|turn|14
+|
+|t:|1641859546
+|move|p2a: Pelipper|Hurricane|p1a: Desserts
+|-supereffective|p1a: Desserts
+|-damage|p1a: Desserts|13/100
+|-start|p1a: Desserts|confusion
+|-activate|p1a: Desserts|confusion
+|move|p1a: Desserts|Recover|p1a: Desserts
+|-heal|p1a: Desserts|63/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Desserts|69/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|76/100|[from] Leech Seed|[of] p1a: Desserts
+|-heal|p1a: Desserts|77/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641859561
+|switch|p1a: Cabinet Keys|Klefki, F|100/100
+|move|p2a: Pelipper|Hurricane|p1a: Cabinet Keys
+|-resisted|p1a: Cabinet Keys
+|-damage|p1a: Cabinet Keys|84/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|64/100|[from] Leech Seed|[of] p1a: Cabinet Keys
+|-heal|p1a: Cabinet Keys|94/100|[silent]
+|upkeep
+|turn|16
+|
+|t:|1641859575
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|move|p1a: Cabinet Keys|Light Screen|p1a: Cabinet Keys
+|-sidestart|p1: ZaidSolrock|move: Light Screen
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1641859588
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Torkoal
+|-status|p1a: Torkoal|par
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641859597
+|switch|p2a: Pelipper|Pelipper, M, shiny|64/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|cant|p1a: Torkoal|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641859606
+|switch|p1a: Cabinet Keys|Klefki, F|94/100
+|move|p2a: Pelipper|Surf|p1a: Cabinet Keys
+|-damage|p1a: Cabinet Keys|71/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641859613
+|move|p1a: Cabinet Keys|Thunder Wave|p2a: Pelipper|[miss]
+|-miss|p1a: Cabinet Keys|p2a: Pelipper
+|move|p2a: Pelipper|Hurricane|p1a: Cabinet Keys
+|-resisted|p1a: Cabinet Keys
+|-damage|p1a: Cabinet Keys|62/100
+|-start|p1a: Cabinet Keys|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1641859635
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100 par
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|switch|p2a: Ferrothorn|Ferrothorn, F, shiny|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1641859658
+|switch|p2a: Blacephalon|Blacephalon, shiny|100/100
+|move|p1a: Torkoal|Stealth Rock|p2a: Blacephalon
+|-sidestart|p2: wssd1233|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641859679
+|switch|p1a: Desserts|Appletun, F, shiny|77/100
+|move|p2a: Blacephalon|Calm Mind|p2a: Blacephalon
+|-boost|p2a: Blacephalon|spa|1
+|-boost|p2a: Blacephalon|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Desserts|83/100|[from] item: Leftovers
+|-sideend|p1: ZaidSolrock|move: Light Screen
+|upkeep
+|turn|24
+|
+|t:|1641859687
+|move|p2a: Blacephalon|Calm Mind|p2a: Blacephalon
+|-boost|p2a: Blacephalon|spa|1
+|-boost|p2a: Blacephalon|spd|1
+|move|p1a: Desserts|Leech Seed|p2a: Blacephalon
+|-start|p2a: Blacephalon|move: Leech Seed
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Desserts|89/100|[from] item: Leftovers
+|-damage|p2a: Blacephalon|88/100|[from] Leech Seed|[of] p1a: Desserts
+|-heal|p1a: Desserts|96/100|[silent]
+|upkeep
+|turn|25
+|
+|t:|1641859696
+|move|p2a: Blacephalon|Flamethrower|p1a: Desserts
+|-damage|p1a: Desserts|45/100
+|move|p1a: Desserts|Apple Acid|p2a: Blacephalon
+|-resisted|p2a: Blacephalon
+|-damage|p2a: Blacephalon|77/100
+|-unboost|p2a: Blacephalon|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Desserts|51/100|[from] item: Leftovers
+|-damage|p2a: Blacephalon|64/100|[from] Leech Seed|[of] p1a: Desserts
+|-heal|p1a: Desserts|59/100|[silent]
+|upkeep
+|turn|26
+|
+|t:|1641859714
+|move|p2a: Blacephalon|Flamethrower|p1a: Desserts
+|-damage|p1a: Desserts|10/100
+|move|p1a: Desserts|Recover|p1a: Desserts
+|-heal|p1a: Desserts|60/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Desserts|67/100|[from] item: Leftovers
+|-damage|p2a: Blacephalon|52/100|[from] Leech Seed|[of] p1a: Desserts
+|-heal|p1a: Desserts|74/100|[silent]
+|upkeep
+|turn|27
+|
+|t:|1641859727
+|move|p2a: Blacephalon|Flamethrower|p1a: Desserts
+|-damage|p1a: Desserts|22/100
+|move|p1a: Desserts|Apple Acid|p2a: Blacephalon
+|-resisted|p2a: Blacephalon
+|-damage|p2a: Blacephalon|36/100
+|-unboost|p2a: Blacephalon|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Desserts|28/100|[from] item: Leftovers
+|-damage|p2a: Blacephalon|24/100|[from] Leech Seed|[of] p1a: Desserts
+|-heal|p1a: Desserts|35/100|[silent]
+|upkeep
+|turn|28
+|
+|t:|1641859738
+|move|p1a: Desserts|Protect|p1a: Desserts
+|-singleturn|p1a: Desserts|Protect
+|move|p2a: Blacephalon|Flamethrower|p1a: Desserts
+|-activate|p1a: Desserts|move: Protect
+|
+|-weather|none
+|-heal|p1a: Desserts|42/100|[from] item: Leftovers
+|-damage|p2a: Blacephalon|11/100|[from] Leech Seed|[of] p1a: Desserts
+|-heal|p1a: Desserts|49/100|[silent]
+|upkeep
+|turn|29
+|
+|t:|1641859747
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100 par
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|move|p2a: Blacephalon|Shadow Ball|p1a: Torkoal
+|-crit|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641859752
+|switch|p1a: Beyond Meat|Venusaur, F, shiny|81/100
+|turn|30
+|
+|t:|1641859764
+|move|p1a: Beyond Meat|Solar Beam||[still]
+|-prepare|p1a: Beyond Meat|Solar Beam
+|-anim|p1a: Beyond Meat|Solar Beam|p2a: Blacephalon
+|-resisted|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641859780
+|switch|p2a: Magnezone|Magnezone, shiny|75/100
+|-damage|p2a: Magnezone|69/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1641859791
+|move|p1a: Beyond Meat|Solar Beam||[still]
+|-prepare|p1a: Beyond Meat|Solar Beam
+|-anim|p1a: Beyond Meat|Solar Beam|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|27/100
+|move|p2a: Magnezone|Thunder|p1a: Beyond Meat
+|-resisted|p1a: Beyond Meat
+|-damage|p1a: Beyond Meat|37/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|32
+|
+|t:|1641859812
+|move|p2a: Magnezone|Protect|p2a: Magnezone
+|-singleturn|p2a: Magnezone|Protect
+|move|p1a: Beyond Meat|Solar Beam||[still]
+|-prepare|p1a: Beyond Meat|Solar Beam
+|-anim|p1a: Beyond Meat|Solar Beam|p2a: Magnezone
+|-activate|p2a: Magnezone|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1641859820
+|move|p2a: Magnezone|Protect||[still]
+|-fail|p2a: Magnezone
+|move|p1a: Beyond Meat|Solar Beam||[still]
+|-prepare|p1a: Beyond Meat|Solar Beam
+|-anim|p1a: Beyond Meat|Solar Beam|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641859829
+|switch|p2a: Pelipper|Pelipper, M, shiny|64/100
+|-damage|p2a: Pelipper|39/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|34
+|
+|t:|1641859847
+|move|p1a: Beyond Meat|Solar Beam||[still]
+|-prepare|p1a: Beyond Meat|Solar Beam
+|move|p2a: Pelipper|Hurricane|p1a: Beyond Meat
+|-supereffective|p1a: Beyond Meat
+|-damage|p1a: Beyond Meat|0 fnt
+|faint|p1a: Beyond Meat
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641859855
+|switch|p1a: Cabinet Keys|Klefki, F|62/100
+|turn|35
+|
+|t:|1641859870
+|move|p2a: Pelipper|Protect|p2a: Pelipper
+|-singleturn|p2a: Pelipper|Protect
+|move|p1a: Cabinet Keys|Light Screen|p1a: Cabinet Keys
+|-sidestart|p1: ZaidSolrock|move: Light Screen
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|36
+|
+|t:|1641859882
+|move|p1a: Cabinet Keys|Thunder Wave|p2a: Pelipper
+|-status|p2a: Pelipper|par
+|move|p2a: Pelipper|Hurricane|p1a: Cabinet Keys
+|-resisted|p1a: Cabinet Keys
+|-damage|p1a: Cabinet Keys|55/100
+|-start|p1a: Cabinet Keys|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|37
+|-message|wssd1233 forfeited.
+|
+|win|ZaidSolrock
+|raw|ZaidSolrock's rating: 1046 &rarr; <strong>1075</strong><br />(+29 for winning)
+|raw|wssd1233's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆wssd1233

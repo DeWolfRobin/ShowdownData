@@ -1,0 +1,684 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆cbz123
+|j|☆SL21CC Leviathan
+|t:|1641808745
+|gametype|singles
+|player|p1|cbz123|cbz123.jpg|1241
+|player|p2|SL21CC Leviathan|guitarist|1266
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Aegislash, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Pelipper, F|
+|poke|p1|Kartana|
+|poke|p2|Suicune|
+|poke|p2|Heatran, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Zapdos|
+|poke|p2|Weavile, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|j| SL21CC interest
+|
+|t:|1641808778
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Suicune|Suicune|100/100
+|-ability|p2a: Suicune|Pressure
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1641808783
+|move|p2a: Suicune|Substitute|p2a: Suicune
+|-start|p2a: Suicune|Substitute
+|-damage|p2a: Suicune|75/100
+|move|p1a: Pelipper|Hurricane|p2a: Suicune
+|-end|p2a: Suicune|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Suicune|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641808785
+|move|p2a: Suicune|Protect|p2a: Suicune
+|-singleturn|p2a: Suicune|Protect
+|move|p1a: Pelipper|Hurricane|p2a: Suicune
+|-activate|p2a: Suicune|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Suicune|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641808787
+|move|p2a: Suicune|Substitute|p2a: Suicune
+|-start|p2a: Suicune|Substitute
+|-damage|p2a: Suicune|63/100
+|move|p1a: Pelipper|Hurricane|p2a: Suicune
+|-end|p2a: Suicune|Substitute
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Suicune|69/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641808799
+|move|p2a: Suicune|Protect|p2a: Suicune
+|-singleturn|p2a: Suicune|Protect
+|move|p1a: Pelipper|Hurricane|p2a: Suicune
+|-activate|p2a: Suicune|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Suicune|75/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641808803
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Suicune|Substitute|p2a: Suicune
+|-start|p2a: Suicune|Substitute
+|-damage|p2a: Suicune|50/100
+|
+|-weather|none
+|-heal|p2a: Suicune|56/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|j| jiokopg_fkok43
+|
+|t:|1641808811
+|move|p1a: Urshifu|Surging Strikes|p2a: Suicune
+|-resisted|p2a: Suicune
+|-crit|p2a: Suicune
+|-activate|p2a: Suicune|move: Substitute|[damage]
+|-resisted|p2a: Suicune
+|-crit|p2a: Suicune
+|-activate|p2a: Suicune|move: Substitute|[damage]
+|-resisted|p2a: Suicune
+|-crit|p2a: Suicune
+|-activate|p2a: Suicune|move: Substitute|[damage]
+|-hitcount|p2a: Suicune|3
+|move|p2a: Suicune|Scald|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|82/100
+|-status|p1a: Urshifu|brn
+|
+|-heal|p2a: Suicune|63/100|[from] item: Leftovers
+|-damage|p1a: Urshifu|76/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641808822
+|move|p1a: Urshifu|Surging Strikes|p2a: Suicune
+|-resisted|p2a: Suicune
+|-crit|p2a: Suicune
+|-activate|p2a: Suicune|move: Substitute|[damage]
+|-resisted|p2a: Suicune
+|-crit|p2a: Suicune
+|-end|p2a: Suicune|Substitute
+|-resisted|p2a: Suicune
+|-crit|p2a: Suicune
+|-damage|p2a: Suicune|59/100
+|-hitcount|p2a: Suicune|3
+|move|p2a: Suicune|Calm Mind|p2a: Suicune
+|-boost|p2a: Suicune|spa|1
+|-boost|p2a: Suicune|spd|1
+|
+|-heal|p2a: Suicune|65/100|[from] item: Leftovers
+|-damage|p1a: Urshifu|70/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641808832
+|move|p1a: Urshifu|U-turn|p2a: Suicune
+|-damage|p2a: Suicune|57/100
+|
+|t:|1641808834
+|switch|p1a: Kartana|Kartana|100/100|[from]move: U-turn
+|move|p2a: Suicune|Substitute|p2a: Suicune
+|-start|p2a: Suicune|Substitute
+|-damage|p2a: Suicune|32/100
+|
+|-heal|p2a: Suicune|38/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641808840
+|move|p1a: Kartana|Leaf Blade|p2a: Suicune
+|-supereffective|p2a: Suicune
+|-end|p2a: Suicune|Substitute
+|move|p2a: Suicune|Scald|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|46/100
+|
+|-heal|p2a: Suicune|45/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641808843
+|move|p2a: Suicune|Protect|p2a: Suicune
+|-singleturn|p2a: Suicune|Protect
+|move|p1a: Kartana|Leaf Blade|p2a: Suicune
+|-activate|p2a: Suicune|move: Protect
+|
+|-heal|p2a: Suicune|51/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641808852
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kartana|Leaf Blade|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|77/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641808864
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Zapdos|Heat Wave|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|89/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641808870
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: SL21CC Leviathan|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1641808881
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Landorus|U-turn|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|85/100
+|
+|t:|1641808882
+|switch|p2a: Zapdos|Zapdos|77/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641808888
+|switch|p1a: Garchomp|Garchomp, M|89/100
+|move|p2a: Zapdos|Defog|p1a: Garchomp
+|-unboost|p1a: Garchomp|evasion|1
+|-sideend|p2: SL21CC Leviathan|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641808895
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Garchomp|Stealth Rock|p2a: Weavile
+|-sidestart|p2: SL21CC Leviathan|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1641808907
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|70/100 brn
+|move|p2a: Weavile|Knock Off|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|44/100 brn
+|-enditem|p1a: Urshifu|Protective Pads|[from] move: Knock Off|[of] p2a: Weavile
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Urshifu|38/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641808929
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Urshifu|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|84/100
+|
+|t:|1641808941
+|switch|p1a: Pelipper|Pelipper, F|85/100|[from]move: U-turn
+|
+|-weather|none
+|-heal|p2a: Tapu Fini|90/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641808952
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|86/100
+|
+|-heal|p2a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641808962
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Aegislash|[miss]
+|-miss|p2a: Tapu Fini|p1a: Aegislash
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Ball|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|47/100
+|
+|-heal|p2a: Tapu Fini|53/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641808970
+|switch|p2a: Promised Potato|Heatran, M|100/100
+|-damage|p2a: Promised Potato|88/100|[from] Stealth Rock
+|move|p1a: Aegislash|Shadow Ball|p2a: Promised Potato
+|-damage|p2a: Promised Potato|40/100
+|-unboost|p2a: Promised Potato|spd|1
+|
+|-heal|p2a: Promised Potato|47/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641808982
+|switch|p1a: Pelipper|Pelipper, F|85/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|23
+|
+|t:|1641808995
+|switch|p2a: Promised Potato|Heatran, M|47/100
+|-damage|p2a: Promised Potato|34/100|[from] Stealth Rock
+|move|p1a: Pelipper|Weather Ball|p2a: Promised Potato
+|-supereffective|p2a: Promised Potato
+|-damage|p2a: Promised Potato|0 fnt
+|faint|p2a: Promised Potato
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641809000
+|switch|p2a: Zapdos|Zapdos|77/100
+|turn|24
+|
+|t:|1641809004
+|switch|p1a: Garchomp|Garchomp, M|89/100
+|move|p2a: Zapdos|Defog|p1a: Garchomp
+|-unboost|p1a: Garchomp|evasion|1
+|-sideend|p2: SL21CC Leviathan|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1641809008
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: SL21CC Leviathan|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1641809011
+|move|p1a: Garchomp|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|move|p2a: Landorus|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: cbz123|move: Stealth Rock
+|
+|-weather|none
+|-damage|p2a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641809014
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Landorus|Toxic|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-heal|p2a: Landorus|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|88/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641809019
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|38/100 brn
+|-damage|p1a: Urshifu|32/100 brn|[from] Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|20/100 brn
+|
+|t:|1641809027
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|-damage|p1a: Urshifu|14/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641809030
+|move|p2a: Weavile|Knock Off|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641809036
+|switch|p1a: Kartana|Kartana|46/100
+|-damage|p1a: Kartana|39/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641809058
+|switch|p2a: Tapu Fini|Tapu Fini|53/100
+|-damage|p2a: Tapu Fini|41/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Kartana|Sacred Sword|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|24/100
+|
+|-heal|p2a: Tapu Fini|30/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641809064
+|switch|p1a: Aegislash|Aegislash, F|86/100
+|-damage|p1a: Aegislash|80/100|[from] Stealth Rock
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Aegislash
+|-damage|p1a: Aegislash|40/100
+|
+|-heal|p2a: Tapu Fini|36/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641809074
+|move|p2a: Tapu Fini|Moonblast|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|25/100
+|-unboost|p1a: Aegislash|spa|1
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Flash Cannon|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|4/100
+|
+|-heal|p2a: Tapu Fini|10/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641809079
+|move|p2a: Tapu Fini|Moonblast|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|
+|-heal|p2a: Tapu Fini|16/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641809085
+|switch|p1a: Kartana|Kartana|39/100
+|-damage|p1a: Kartana|33/100|[from] Stealth Rock
+|turn|34
+|j| 9skythunderouskick
+|
+|t:|1641809093
+|move|p1a: Kartana|Leaf Blade|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641809097
+|switch|p2a: Zapdos|Zapdos|77/100
+|turn|35
+|
+|t:|1641809100
+|switch|p1a: Garchomp|Garchomp, M|89/100
+|-damage|p1a: Garchomp|83/100|[from] Stealth Rock
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|36
+|
+|t:|1641809108
+|switch|p2a: Landorus|Landorus-Therian, M|88/100 tox
+|-damage|p2a: Landorus|76/100 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Toxic|p2a: Landorus
+|-fail|p2a: Landorus|tox
+|
+|-heal|p2a: Landorus|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|76/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641809119
+|move|p1a: Garchomp|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|move|p2a: Landorus|Earthquake|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|30/100
+|
+|-heal|p2a: Landorus|82/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|70/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1641809133
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Garchomp|Protect||[still]
+|-fail|p1a: Garchomp
+|
+|upkeep
+|turn|39
+|
+|t:|1641809147
+|switch|p2a: Landorus|Landorus-Therian, M|70/100 tox
+|-damage|p2a: Landorus|58/100 tox|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Toxic|p2a: Landorus
+|-fail|p2a: Landorus|tox
+|
+|-heal|p2a: Landorus|64/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|58/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641809150
+|move|p1a: Garchomp|Protect|p1a: Garchomp
+|-singleturn|p1a: Garchomp|Protect
+|move|p2a: Landorus|Toxic|p1a: Garchomp
+|-activate|p1a: Garchomp|move: Protect
+|
+|-heal|p2a: Landorus|64/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|52/100 tox|[from] psn
+|upkeep
+|turn|41
+|
+|t:|1641809158
+|switch|p1a: Pelipper|Pelipper, F|85/100
+|-damage|p1a: Pelipper|60/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Landorus|Earthquake|p1a: Pelipper
+|-immune|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|58/100 tox|[from] item: Leftovers
+|-damage|p2a: Landorus|40/100 tox|[from] psn
+|upkeep
+|turn|42
+|
+|t:|1641809175
+|move|p1a: Pelipper|Weather Ball|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641809177
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|43
+|
+|t:|1641809182
+|switch|p1a: Garchomp|Garchomp, M|30/100
+|-damage|p1a: Garchomp|24/100|[from] Stealth Rock
+|move|p2a: Zapdos|Discharge|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|44
+|
+|t:|1641809184
+|move|p1a: Garchomp|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|move|p2a: Zapdos|Heat Wave|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|19/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|45
+|
+|t:|1641809192
+|switch|p2a: Suicune|Suicune|51/100
+|-damage|p2a: Suicune|38/100|[from] Stealth Rock
+|-ability|p2a: Suicune|Pressure
+|move|p1a: Garchomp|Toxic|p2a: Suicune|[miss]
+|-miss|p1a: Garchomp|p2a: Suicune
+|
+|-weather|none
+|-heal|p2a: Suicune|45/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1641809197
+|move|p1a: Garchomp|Toxic|p2a: Suicune|[miss]
+|-miss|p1a: Garchomp|p2a: Suicune
+|move|p2a: Suicune|Scald|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Suicune|51/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641809203
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|47
+|
+|t:|1641809220
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Moltres|Agility|p1a: Moltres
+|-boost|p1a: Moltres|spe|2
+|
+|upkeep
+|turn|48
+|
+|t:|1641809223
+|move|p1a: Moltres|Hurricane|p2a: Weavile
+|-damage|p2a: Weavile|26/100
+|move|p2a: Weavile|Triple Axel|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|77/100
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|32/100
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|-hitcount|p1: Moltres|3
+|
+|upkeep
+|
+|t:|1641809229
+|switch|p1a: Kartana|Kartana|33/100
+|-damage|p1a: Kartana|27/100|[from] Stealth Rock
+|turn|49
+|
+|t:|1641809244
+|move|p2a: Weavile|Ice Shard|p1a: Kartana
+|-damage|p1a: Kartana|6/100
+|move|p1a: Kartana|Knock Off|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-enditem|p2a: Weavile|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Kartana
+|faint|p2a: Weavile
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641809254
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|50
+|
+|t:|1641809256
+|move|p1a: Kartana|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|50/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Kartana
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|99/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|51
+|
+|t:|1641809259
+|move|p1a: Kartana|Knock Off|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|44/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|94/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|52
+|j| wasd666
+|-message|cbz123 forfeited.
+|
+|win|SL21CC Leviathan
+|raw|cbz123's rating: 1241 &rarr; <strong>1226</strong><br />(-15 for losing)
+|raw|SL21CC Leviathan's rating: 1266 &rarr; <strong>1281</strong><br />(+15 for winning)
+|l|☆SL21CC Leviathan
+|l|☆cbz123
+|l| wasd666
+|l| jiokopg_fkok43
+|n| solitary dream|9skythunderouskick
+|l| solitary dream

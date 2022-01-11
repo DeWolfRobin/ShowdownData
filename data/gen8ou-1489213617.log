@@ -1,0 +1,542 @@
+|j|☆iuiuuiiuiuiiuhuiui
+|j|☆illegalamigo1
+|t:|1641872030
+|gametype|singles
+|player|p1|iuiuuiiuiuiiuhuiui|101|1312
+|player|p2|illegalamigo1|swimmer-gen4|1350
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Obstagoon, F|
+|poke|p1|Hydreigon, M|
+|poke|p1|Corsola-Galar, F|
+|poke|p2|Ninetales, F|
+|poke|p2|Diggersby, M|
+|poke|p2|Venusaur, F|
+|poke|p2|Slowbro-Galar, F|
+|poke|p2|Zapdos|
+|poke|p2|Mienshao, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by iuiuuiiuiuiiuhuiui)
+|
+|t:|1641872048
+|start
+|switch|p1a: Corsola|Corsola-Galar, F|100/100
+|switch|p2a: Feta|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Feta
+|turn|1
+|
+|t:|1641872059
+|move|p2a: Feta|Substitute|p2a: Feta
+|-start|p2a: Feta|Substitute
+|-damage|p2a: Feta|75/100
+|move|p1a: Corsola|Stealth Rock|p2a: Feta
+|-sidestart|p2: illegalamigo1|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641872064
+|move|p2a: Feta|Flamethrower|p1a: Corsola
+|-damage|p1a: Corsola|82/100
+|move|p1a: Corsola|Night Shade|p2a: Feta
+|-end|p2a: Feta|Substitute
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641872081
+|switch|p2a: Mienshao|Mienshao, M|100/100
+|-damage|p2a: Mienshao|94/100|[from] Stealth Rock
+|move|p1a: Corsola|Will-O-Wisp|p2a: Mienshao
+|-status|p2a: Mienshao|brn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Mienshao|88/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641872095
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Mienshao|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|91/100
+|-damage|p2a: Mienshao|75/100 brn|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Mienshao
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Mienshao|69/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641872105
+|move|p2a: Mienshao|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|83/100
+|-damage|p2a: Mienshao|57/100 brn|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641872109
+|switch|p2a: Venusaur|Venusaur, F|100/100|[from]move: U-turn
+|-damage|p2a: Venusaur|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Leech Seed|p2a: Venusaur
+|-immune|p2a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641872118
+|move|p2a: Venusaur|Weather Ball|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641872128
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|turn|7
+|
+|t:|1641872137
+|move|p2a: Venusaur|Sludge Bomb|p1a: Hydreigon
+|-damage|p1a: Hydreigon|52/100
+|move|p1a: Hydreigon|Substitute|p1a: Hydreigon
+|-start|p1a: Hydreigon|Substitute
+|-damage|p1a: Hydreigon|28/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Hydreigon|34/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641872144
+|move|p2a: Venusaur|Sludge Bomb|p1a: Hydreigon
+|-end|p1a: Hydreigon|Substitute
+|move|p1a: Hydreigon|Nasty Plot|p1a: Hydreigon
+|-boost|p1a: Hydreigon|spa|2
+|
+|-weather|none
+|-heal|p1a: Hydreigon|40/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641872153
+|move|p1a: Hydreigon|Substitute|p1a: Hydreigon
+|-start|p1a: Hydreigon|Substitute
+|-damage|p1a: Hydreigon|15/100
+|move|p2a: Venusaur|Sludge Bomb|p1a: Hydreigon
+|-end|p1a: Hydreigon|Substitute
+|
+|-heal|p1a: Hydreigon|21/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641872161
+|move|p1a: Hydreigon|Dark Pulse|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|-heal|p1a: Hydreigon|27/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641872166
+|switch|p2a: Cotija|Slowbro-Galar, F|100/100
+|-damage|p2a: Cotija|88/100|[from] Stealth Rock
+|turn|11
+|-activate|p2a: Cotija|ability: Quick Draw
+|
+|t:|1641872171
+|move|p2a: Cotija|Ice Beam|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|upkeep
+|c|☆iuiuuiiuiuiiuhuiui|lol
+|c|☆iuiuuiiuiuiiuhuiui|that was risky
+|
+|t:|1641872190
+|switch|p1a: Obstagoon|Obstagoon, F|100/100
+|turn|12
+|
+|t:|1641872201
+|move|p1a: Obstagoon|Knock Off|p2a: Cotija
+|-supereffective|p2a: Cotija
+|-damage|p2a: Cotija|10/100
+|-enditem|p2a: Cotija|Quick Claw|[from] move: Knock Off|[of] p1a: Obstagoon
+|move|p2a: Cotija|Sludge Wave|p1a: Obstagoon
+|-damage|p1a: Obstagoon|52/100
+|
+|upkeep
+|turn|13
+|-activate|p2a: Cotija|ability: Quick Draw
+|
+|t:|1641872210
+|move|p2a: Cotija|Sludge Wave|p1a: Obstagoon
+|-damage|p1a: Obstagoon|5/100
+|move|p1a: Obstagoon|Knock Off|p2a: Cotija
+|-supereffective|p2a: Cotija
+|-damage|p2a: Cotija|0 fnt
+|faint|p2a: Cotija
+|
+|upkeep
+|c|☆iuiuuiiuiuiiuhuiui|wait what
+|
+|t:|1641872224
+|switch|p2a: Diggersby|Diggersby, M|100/100
+|-damage|p2a: Diggersby|94/100|[from] Stealth Rock
+|turn|14
+|c|☆iuiuuiiuiuiiuhuiui|showdown just glitched
+|c|☆iuiuuiiuiuiiuhuiui|I knocked that item off
+|
+|t:|1641872239
+|move|p2a: Diggersby|Quick Attack|p1a: Obstagoon
+|-damage|p1a: Obstagoon|0 fnt
+|faint|p1a: Obstagoon
+|-damage|p2a: Diggersby|84/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641872246
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|turn|15
+|
+|t:|1641872250
+|move|p2a: Diggersby|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|95/100
+|-damage|p2a: Diggersby|68/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-damage|p2a: Diggersby|58/100|[from] item: Life Orb
+|
+|t:|1641872255
+|switch|p2a: Feta|Ninetales, F|75/100|[from]move: U-turn
+|-damage|p2a: Feta|50/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Feta
+|move|p1a: Corviknight|Taunt|p2a: Feta
+|-start|p2a: Feta|move: Taunt
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641872264
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Feta|Flamethrower|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|88/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|t:|1641872273
+|move|p2a: Feta|Flamethrower|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|82/100
+|move|p1a: Toxapex|Toxic Spikes|p2a: Feta
+|-sidestart|p2: illegalamigo1|move: Toxic Spikes
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Toxapex|89/100|[from] item: Black Sludge
+|-end|p2a: Feta|move: Taunt
+|upkeep
+|turn|18
+|
+|t:|1641872284
+|switch|p2a: Diggersby|Diggersby, M|58/100
+|-damage|p2a: Diggersby|52/100|[from] Stealth Rock
+|-status|p2a: Diggersby|psn
+|move|p1a: Toxapex|Scald|p2a: Diggersby
+|-supereffective|p2a: Diggersby
+|-damage|p2a: Diggersby|30/100 psn
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Toxapex|95/100|[from] item: Black Sludge
+|-damage|p2a: Diggersby|18/100 psn|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641872298
+|switch|p1a: Corviknight|Corviknight, M|95/100
+|move|p2a: Diggersby|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Diggersby|6/100 psn|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641872306
+|move|p2a: Diggersby|Ice Punch|p1a: Corviknight
+|-damage|p1a: Corviknight|66/100
+|-damage|p2a: Diggersby|0 fnt|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p2a: Diggersby
+|move|p1a: Corviknight|U-turn|p2: Diggersby|[notarget]
+|-fail|p1a: Corviknight
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641872313
+|switch|p2a: Zapdos|Zapdos|100/100
+|-damage|p2a: Zapdos|76/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641872322
+|switch|p1a: Corsola|Corsola-Galar, F|82/100
+|move|p2a: Zapdos|Heat Wave|p1a: Corsola
+|-damage|p1a: Corsola|61/100
+|-start|p2a: Zapdos|Disable|Heat Wave|[from] ability: Cursed Body|[of] p1a: Corsola
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641872331
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|57/100
+|move|p1a: Corsola|Strength Sap||[still]
+|-fail|p1a: Corsola
+|
+|-weather|none
+|-heal|p2a: Zapdos|63/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641872338
+|move|p2a: Zapdos|Toxic|p1a: Corsola
+|-status|p1a: Corsola|tox
+|move|p1a: Corsola|Night Shade|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p2a: Zapdos|69/100|[from] item: Leftovers
+|-damage|p1a: Corsola|55/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641872350
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|44/100
+|move|p1a: Corsola|Night Shade|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p2a: Zapdos|50/100|[from] item: Leftovers
+|-damage|p1a: Corsola|43/100 tox|[from] psn
+|-end|p2a: Zapdos|Disable
+|upkeep
+|turn|25
+|
+|t:|1641872362
+|switch|p1a: Corviknight|Corviknight, M|66/100
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|25/100
+|
+|-heal|p2a: Zapdos|31/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641872369
+|move|p2a: Zapdos|Heat Wave|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|14/100
+|move|p1a: Corviknight|Taunt|p2a: Zapdos
+|-start|p2a: Zapdos|move: Taunt
+|
+|-heal|p2a: Zapdos|37/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641872376
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Zapdos|Heat Wave|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|91/100
+|
+|-heal|p2a: Zapdos|43/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|98/100|[from] item: Black Sludge
+|upkeep
+|turn|28
+|
+|t:|1641872384
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|48/100
+|move|p1a: Toxapex|Scald|p2a: Zapdos
+|-activate|p2a: Zapdos|move: Substitute|[damage]
+|
+|-heal|p2a: Zapdos|49/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|54/100|[from] item: Black Sludge
+|upkeep
+|turn|29
+|
+|t:|1641872393
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|10/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|60/100
+|
+|-heal|p2a: Zapdos|55/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|67/100|[from] item: Black Sludge
+|-end|p2a: Zapdos|move: Taunt
+|upkeep
+|turn|30
+|
+|t:|1641872403
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|19/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|69/100
+|
+|-heal|p2a: Zapdos|61/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|75/100|[from] item: Black Sludge
+|upkeep
+|turn|31
+|
+|t:|1641872411
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|25/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|75/100
+|
+|-heal|p2a: Zapdos|67/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|82/100|[from] item: Black Sludge
+|upkeep
+|turn|32
+|
+|t:|1641872419
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|34/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|84/100
+|
+|-heal|p2a: Zapdos|73/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|33
+|
+|t:|1641872429
+|move|p2a: Zapdos|Heat Wave|p1a: Toxapex|[miss]
+|-miss|p2a: Zapdos|p1a: Toxapex
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-heal|p2a: Zapdos|79/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641872436
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|56/100
+|move|p1a: Toxapex|Scald|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p2a: Zapdos|85/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|63/100|[from] item: Black Sludge
+|upkeep
+|turn|35
+|
+|t:|1641872445
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|60/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-heal|p2a: Zapdos|66/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641872455
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|55/100
+|move|p1a: Toxapex|Scald|p2a: Zapdos
+|-activate|p2a: Zapdos|move: Substitute|[damage]
+|
+|-heal|p2a: Zapdos|72/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|61/100|[from] item: Black Sludge
+|upkeep
+|turn|37
+|
+|t:|1641872464
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|16/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|66/100
+|
+|-heal|p2a: Zapdos|78/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|72/100|[from] item: Black Sludge
+|upkeep
+|turn|38
+|
+|t:|1641872472
+|move|p2a: Zapdos|Thunderbolt|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|25/100
+|move|p1a: Toxapex|Scald|p2a: Zapdos
+|-end|p2a: Zapdos|Substitute
+|
+|-heal|p2a: Zapdos|84/100|[from] item: Leftovers
+|-heal|p1a: Toxapex|31/100|[from] item: Black Sludge
+|upkeep
+|turn|39
+|
+|t:|1641872481
+|switch|p1a: Corviknight|Corviknight, M|14/100
+|move|p2a: Zapdos|Thunderbolt|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|-heal|p2a: Zapdos|90/100|[from] item: Leftovers
+|upkeep
+|c|☆iuiuuiiuiuiiuhuiui|the one person using sub zapdos
+|c|☆iuiuuiiuiuiiuhuiui|and I lose
+|c|☆iuiuuiiuiuiiuhuiui|well played
+|
+|t:|1641872493
+|switch|p1a: Toxapex|Toxapex, M|64/100
+|turn|40
+|c|☆illegalamigo1|gg homie
+|
+|t:|1641872498
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|65/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-heal|p2a: Zapdos|71/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|-message|iuiuuiiuiuiiuhuiui forfeited.
+|
+|win|illegalamigo1
+|raw|iuiuuiiuiuiiuhuiui's rating: 1312 &rarr; <strong>1294</strong><br />(-18 for losing)
+|raw|illegalamigo1's rating: 1350 &rarr; <strong>1368</strong><br />(+18 for winning)
+|l|☆iuiuuiiuiuiiuhuiui

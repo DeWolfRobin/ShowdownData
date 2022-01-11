@@ -1,0 +1,96 @@
+|j|☆psychokunt
+|j|☆lapt1
+|t:|1641842726
+|gametype|singles
+|player|p1|psychokunt|lucas|1438
+|player|p2|lapt1|red-gen7|1392
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Melmetal|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Barbaracle, M|
+|poke|p2|Mamoswine, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Blacephalon|
+|poke|p2|Magnezone|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|
+|t:|1641842730
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|
+|t:|1641842738
+|move|p2a: Blacephalon|Shadow Ball|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-crit|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641842743
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|2
+|
+|t:|1641842747
+|move|p2a: Blacephalon|Shadow Ball|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641842750
+|switch|p1a: Barbaracle|Barbaracle, M|100/100
+|turn|3
+|
+|t:|1641842754
+|move|p2a: Blacephalon|Shadow Ball|p1a: Barbaracle
+|-damage|p1a: Barbaracle|0 fnt
+|faint|p1a: Barbaracle
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641842757
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|turn|4
+|
+|t:|1641842761
+|move|p2a: Blacephalon|Shadow Ball|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|-message|psychokunt forfeited.
+|
+|win|lapt1
+|raw|psychokunt's rating: 1438 &rarr; <strong>1415</strong><br />(-23 for losing)
+|raw|lapt1's rating: 1392 &rarr; <strong>1415</strong><br />(+23 for winning)
+|l|☆psychokunt
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

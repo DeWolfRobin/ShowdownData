@@ -1,0 +1,315 @@
+|j|☆Fr0st o_o
+|j|☆8jaggery
+|t:|1641804997
+|gametype|singles
+|player|p1|Fr0st o_o|n|1216
+|player|p2|8jaggery|265|1211
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Haxorus, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Cloyster, F|
+|poke|p1|Kartana|
+|poke|p1|Goodra, F|
+|poke|p1|Ferrothorn, F|
+|poke|p2|Hawlucha, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Clefable, M|
+|poke|p2|Blastoise, F|
+|teampreview
+|
+|t:|1641805011
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Blastoise|Blastoise, F|100/100
+|turn|1
+|
+|t:|1641805020
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Ferrothorn|Leech Seed|p2a: Heatran|[miss]
+|-miss|p1a: Ferrothorn|p2a: Heatran
+|
+|upkeep
+|turn|2
+|
+|t:|1641805028
+|move|p2a: Heatran|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: Fr0st o_o|move: Stealth Rock
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Heatran
+|-sidestart|p2: 8jaggery|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641805032
+|switch|p1a: Goodra|Goodra, F|100/100
+|-damage|p1a: Goodra|88/100|[from] Stealth Rock
+|move|p2a: Heatran|Flamethrower|p1a: Goodra
+|-resisted|p1a: Goodra
+|-damage|p1a: Goodra|79/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641805041
+|switch|p2a: Clefable|Clefable, M|100/100
+|-damage|p2a: Clefable|88/100|[from] Stealth Rock
+|move|p1a: Goodra|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|68/100
+|
+|-heal|p2a: Clefable|74/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641805050
+|move|p1a: Goodra|Sludge Bomb|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|33/100
+|move|p2a: Clefable|Moonblast|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-damage|p1a: Goodra|54/100
+|
+|-heal|p2a: Clefable|39/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641805064
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Goodra|Sludge Bomb|p2a: Heatran
+|-immune|p2a: Heatran
+|
+|upkeep
+|turn|7
+|
+|t:|1641805096
+|move|p1a: Goodra|Thunderbolt|p2a: Heatran
+|-damage|p2a: Heatran|65/100
+|-enditem|p2a: Heatran|Air Balloon
+|move|p2a: Heatran|Flash Cannon|p1a: Goodra
+|-damage|p1a: Goodra|35/100
+|-unboost|p1a: Goodra|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641805114
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|move|p1a: Goodra|Thunderbolt|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|66/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641805124
+|move|p2a: Dragapult|Draco Meteor|p1a: Goodra
+|-supereffective|p1a: Goodra
+|-crit|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Goodra
+|-damage|p2a: Dragapult|56/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641805134
+|switch|p1a: Cloyster|Cloyster, F|100/100
+|-damage|p1a: Cloyster|76/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641805150
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Cloyster|Ice Shard|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|60/100
+|
+|-heal|p1a: Cloyster|82/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|66/100|[from] Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641805165
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|87/100
+|-damage|p2a: Rillaboom|54/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|37/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|-heal|p2a: Rillaboom|43/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|93/100|[from] Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641805178
+|switch|p2a: Heatran|Heatran, M|65/100
+|-damage|p2a: Heatran|53/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|41/100
+|
+|-heal|p2a: Heatran|48/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|99/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641805215
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Heatran|Flamethrower|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|-heal|p2a: Heatran|54/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|100/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641805224
+|move|p2a: Heatran|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Heatran|60/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641805233
+|switch|p1a: Kartana|Kartana, shiny|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641805238
+|move|p1a: Kartana|Sacred Sword|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|84/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641805252
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-damage|p2a: Hawlucha|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641805258
+|move|p1a: Kartana|Psycho Cut|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|faint|p2a: Hawlucha
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|74/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641805265
+|switch|p2a: Blastoise|Blastoise, F|100/100
+|-damage|p2a: Blastoise|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641805281
+|move|p1a: Kartana|Leaf Blade|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|64/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641805305
+|switch|p2a: Rillaboom|Rillaboom, M|43/100
+|-damage|p2a: Rillaboom|31/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|18
+|
+|t:|1641805314
+|move|p1a: Kartana|Psycho Cut|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|-damage|p1a: Kartana|54/100|[from] item: Life Orb
+|
+|-heal|p1a: Kartana|60/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641805330
+|switch|p2a: Dragapult|Dragapult, M|56/100
+|-damage|p2a: Dragapult|44/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641805339
+|move|p2a: Dragapult|Draco Meteor|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Kartana
+|-damage|p2a: Dragapult|34/100|[from] item: Life Orb
+|
+|-heal|p2a: Dragapult|40/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641805348
+|switch|p1a: Cloyster|Cloyster, F|82/100
+|-damage|p1a: Cloyster|57/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641805364
+|switch|p2a: Clefable|Clefable, M|39/100
+|-damage|p2a: Clefable|27/100|[from] Stealth Rock
+|move|p1a: Cloyster|Ice Shard|p2a: Clefable
+|-damage|p2a: Clefable|5/100
+|
+|-heal|p1a: Cloyster|63/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|11/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|18/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641805374
+|move|p1a: Cloyster|Ice Shard|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Cloyster|69/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641805380
+|switch|p2a: Dragapult|Dragapult, M|40/100
+|-damage|p2a: Dragapult|28/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641805390
+|move|p1a: Cloyster|Ice Shard|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|win|Fr0st o_o
+|raw|Fr0st o_o's rating: 1216 &rarr; <strong>1241</strong><br />(+25 for winning)
+|raw|8jaggery's rating: 1211 &rarr; <strong>1186</strong><br />(-25 for losing)

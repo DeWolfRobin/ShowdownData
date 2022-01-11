@@ -1,0 +1,168 @@
+|j|☆inferplate
+|j|☆Pks BloodEagle
+|t:|1641866278
+|gametype|singles
+|player|p1|inferplate|burglar|1197
+|player|p2|Pks BloodEagle|101|1177
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Seismitoad, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Politoed, F|
+|poke|p1|Ludicolo, M|
+|poke|p1|Pelipper, M|
+|poke|p1|Raichu, F|
+|poke|p2|Nidoking, M|
+|poke|p2|Moltres|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Blissey, F|
+|poke|p2|Clefable, F|
+|teampreview
+|
+|t:|1641866293
+|start
+|switch|p1a: Politoed|Politoed, F, shiny|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|turn|1
+|
+|t:|1641866300
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|76/100
+|move|p1a: Politoed|Hypnosis||[still]
+|-fail|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641866310
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Politoed|Hydro Pump|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641866335
+|switch|p1a: Ludicolo|Ludicolo, M, shiny|100/100
+|move|p2a: Dragapult|Substitute|p2a: Dragapult
+|-start|p2a: Dragapult|Substitute
+|-damage|p2a: Dragapult|51/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641866343
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Ludicolo|Ice Beam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-end|p2a: Dragapult|Substitute
+|-damage|p1a: Ludicolo|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641866353
+|move|p2a: Dragapult|Dragon Darts|p1a: Ludicolo
+|-damage|p1a: Ludicolo|0 fnt
+|faint|p1a: Ludicolo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641866359
+|switch|p1a: Seismitoad|Seismitoad, M|100/100
+|turn|6
+|
+|t:|1641866362
+|move|p2a: Dragapult|Dragon Darts|p1a: Seismitoad
+|-damage|p1a: Seismitoad|25/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|faint|p1a: Seismitoad
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641866369
+|switch|p1a: Barraskewda|Barraskewda, M, shiny|100/100
+|turn|7
+|
+|t:|1641866374
+|move|p2a: Dragapult|Dragon Darts|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641866383
+|switch|p1a: Raichu|Raichu, F, shiny|100/100
+|-item|p1a: Raichu|Air Balloon
+|turn|8
+|
+|t:|1641866388
+|move|p2a: Dragapult|Dragon Darts|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|-enditem|p1a: Raichu|Air Balloon
+|faint|p1a: Raichu
+|
+|-weather|none
+|upkeep
+|
+|t:|1641866395
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|9
+|
+|t:|1641866401
+|move|p2a: Dragapult|Dragon Darts|p1a: Pelipper
+|-damage|p1a: Pelipper|53/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641866407
+|switch|p1a: Politoed|Politoed, F, shiny|100/100
+|turn|10
+|
+|t:|1641866410
+|move|p2a: Dragapult|Dragon Darts|p1a: Politoed
+|-damage|p1a: Politoed|28/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|faint|p1a: Politoed
+|
+|win|Pks BloodEagle
+|raw|inferplate's rating: 1197 &rarr; <strong>1171</strong><br />(-26 for losing)
+|raw|Pks BloodEagle's rating: 1177 &rarr; <strong>1203</strong><br />(+26 for winning)
+|c|☆inferplate|gg
+|l|☆inferplate
+|c|☆Pks BloodEagle|Ggs bud
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

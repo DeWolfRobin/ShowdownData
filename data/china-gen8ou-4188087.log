@@ -1,0 +1,337 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC ginko
+|j|☆bing_gan233
+|t:|1641739545
+|gametype|singles
+|player|p1|SL21CC ginko|line38324.png|1303
+|player|p2|bing_gan233|170|1200
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Dragapult, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Cloyster, M|
+|poke|p1|Kartana|
+|poke|p2|Barraskewda, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Regieleki|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Xurkitree|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|
+|t:|1641739551
+|start
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|1
+|
+|t:|1641739556
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Regieleki|Volt Switch|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|upkeep
+|turn|2
+|
+|t:|1641739563
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|j| pokonghanbingkan
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC ginko)
+|
+|t:|1641739569
+|move|p1a: Moltres|Hurricane|p2a: Pelipper
+|-damage|p2a: Pelipper|26/100
+|move|p2a: Pelipper|U-turn|p1a: Moltres
+|-damage|p1a: Moltres|92/100
+|j| SL21CC tangkeke
+|l| SL21CC tangkeke
+|
+|t:|1641739577
+|switch|p2a: Barraskewda|Barraskewda, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|j| burstbean
+|l| burstbean
+|
+|t:|1641739584
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|71/100
+|
+|t:|1641739592
+|switch|p2a: Regieleki|Regieleki|100/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641739598
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Regieleki|Ancient Power|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|90/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garchomp|97/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641739612
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Garchomp|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|j| adreamew
+|
+|t:|1641739619
+|move|p1a: Garchomp|Scale Shot|p2a: Landorus
+|-damage|p2a: Landorus|79/100
+|-damage|p2a: Landorus|58/100
+|-damage|p2a: Landorus|36/100
+|-hitcount|p2a: Landorus|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Landorus|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|44/100
+|-damage|p2a: Landorus|24/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|30/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641739627
+|move|p1a: Garchomp|Scale Shot|p2a: Landorus|[miss]
+|-miss|p1a: Garchomp|p2a: Landorus
+|move|p2a: Landorus|U-turn|p1a: Garchomp
+|-damage|p1a: Garchomp|8/100
+|-damage|p2a: Landorus|18/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|t:|1641739631
+|switch|p2a: Barraskewda|Barraskewda, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641739635
+|move|p2a: Barraskewda|Flip Turn|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Barraskewda|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|t:|1641739642
+|switch|p2a: Regieleki|Regieleki|100/100|[from]move: Flip Turn
+|
+|-weather|none
+|upkeep
+|
+|t:|1641739649
+|switch|p1a: Kartana|Kartana|100/100
+|turn|10
+|
+|t:|1641739652
+|move|p1a: Kartana|Leaf Blade|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641739661
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|11
+|
+|t:|1641739664
+|switch|p1a: Heatran|Heatran, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Heatran
+|-status|p1a: Heatran|par
+|
+|upkeep
+|turn|12
+|
+|t:|1641739670
+|switch|p2a: Pelipper|Pelipper, M|26/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Heatran|Stealth Rock|p2a: Pelipper
+|-sidestart|p2: bing_gan233|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641739676
+|switch|p1a: Moltres|Moltres-Galar|92/100
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|76/100
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|j| Renwu
+|
+|t:|1641739680
+|move|p1a: Moltres|Fiery Wrath|p2a: Pelipper
+|-damage|p2a: Pelipper|19/100
+|move|p2a: Pelipper|U-turn|p1a: Moltres
+|-damage|p1a: Moltres|82/100
+|j| SL21CCJqlove
+|
+|t:|1641739687
+|switch|p2a: Barraskewda|Barraskewda, M|88/100|[from]move: U-turn
+|-damage|p2a: Barraskewda|76/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|j| 9skythunderouskick
+|
+|t:|1641739692
+|switch|p1a: Cloyster|Cloyster, M|71/100
+|move|p2a: Barraskewda|Liquidation|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|25/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641739696
+|move|p2a: Barraskewda|Liquidation|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641739702
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|17
+|
+|t:|1641739708
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|95/100|[from] Stealth Rock
+|move|p1a: Dragapult|Dragon Darts|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|84/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|73/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641739714
+|switch|p1a: Heatran|Heatran, M|100/100 par
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Heatran
+|-fail|p1a: Heatran|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641739721
+|move|p1a: Heatran|Eruption|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-weather|none
+|upkeep
+|
+|t:|1641739724
+|switch|p2a: Pelipper|Pelipper, M|19/100
+|-damage|p2a: Pelipper|0 fnt|[from] Stealth Rock
+|faint|p2a: Pelipper
+|
+|t:|1641739727
+|switch|p2a: Xurkitree|Xurkitree|100/100
+|-damage|p2a: Xurkitree|88/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641739730
+|move|p2a: Xurkitree|Hypnosis||[still]
+|-fail|p2a: Xurkitree
+|move|p1a: Heatran|Earth Power|p2a: Xurkitree
+|-supereffective|p2a: Xurkitree
+|-damage|p2a: Xurkitree|0 fnt
+|faint|p2a: Xurkitree
+|
+|upkeep
+|
+|t:|1641739734
+|switch|p2a: Barraskewda|Barraskewda, M|76/100
+|-damage|p2a: Barraskewda|64/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641739736
+|move|p2a: Barraskewda|Liquidation|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-enditem|p1a: Heatran|Air Balloon
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641739738
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|turn|22
+|
+|t:|1641739740
+|move|p1a: Dragapult|Dragon Darts|p2a: Barraskewda
+|-damage|p2a: Barraskewda|1/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|upkeep
+|
+|t:|1641739742
+|switch|p2a: Landorus|Landorus-Therian, M|18/100
+|-damage|p2a: Landorus|6/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-fail|p1a: Dragapult|unboost|[from] ability: Clear Body|[of] p1a: Dragapult
+|turn|23
+|-message|bing_gan233 forfeited.
+|
+|win|SL21CC ginko
+|raw|SL21CC ginko's rating: 1303 &rarr; <strong>1314</strong><br />(+11 for winning)
+|raw|bing_gan233's rating: 1200 &rarr; <strong>1189</strong><br />(-11 for losing)
+|l|☆bing_gan233
+|l|☆SL21CC ginko
+|l| pokonghanbingkan

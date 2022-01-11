@@ -1,0 +1,299 @@
+|j|☆Obamaspole
+|j|☆NotDaPi
+|t:|1641779598
+|gametype|singles
+|player|p1|Obamaspole|silver|1168
+|player|p2|NotDaPi|saturn|1138
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Urshifu-*, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Galvantula, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Thundurus, M|
+|poke|p1|Darmanitan, M|
+|poke|p2|Azelf|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Melmetal|
+|poke|p2|Gengar, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Corviknight, F|
+|teampreview
+|
+|t:|1641779615
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Tactical nuke|Azelf|100/100
+|turn|1
+|
+|t:|1641779625
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Melmetal
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|90/100
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|79/100
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|67/100
+|-hitcount|p2a: Melmetal|3
+|
+|upkeep
+|turn|2
+|
+|t:|1641779646
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|move|p2a: Melmetal|Thunder Wave|p1a: Thundurus
+|-immune|p1a: Thundurus
+|
+|upkeep
+|turn|3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by NotDaPi)
+|
+|t:|1641779666
+|switch|p1a: Galvantula|Galvantula, M|100/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Galvantula
+|-resisted|p1a: Galvantula
+|-damage|p1a: Galvantula|59/100
+|-resisted|p1a: Galvantula
+|-damage|p1a: Galvantula|16/100
+|-hitcount|p1a: Galvantula|2
+|
+|upkeep
+|turn|4
+|
+|t:|1641779677
+|switch|p2a: Tactical nuke|Azelf|100/100
+|move|p1a: Galvantula|Sticky Web|p2a: Tactical nuke
+|-sidestart|p2: NotDaPi|move: Sticky Web
+|
+|upkeep
+|turn|5
+|
+|t:|1641779694
+|move|p2a: Tactical nuke|Knock Off|p1a: Galvantula
+|-damage|p1a: Galvantula|0 fnt
+|-enditem|p1a: Galvantula|Focus Sash|[from] move: Knock Off|[of] p2a: Tactical nuke
+|faint|p1a: Galvantula
+|
+|upkeep
+|inactive|Obamaspole has 120 seconds left.
+|
+|t:|1641779726
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|6
+|
+|t:|1641779743
+|move|p2a: Tactical nuke|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: Obamaspole|move: Stealth Rock
+|move|p1a: Garchomp|Earthquake|p2a: Tactical nuke
+|-immune|p2a: Tactical nuke|[from] ability: Levitate
+|
+|upkeep
+|turn|7
+|
+|t:|1641779759
+|move|p2a: Tactical nuke|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|68/100
+|-damage|p2a: Tactical nuke|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Life Orb|[from] move: Knock Off|[of] p2a: Tactical nuke
+|move|p1a: Garchomp|Stone Edge|p2a: Tactical nuke
+|-damage|p2a: Tactical nuke|33/100
+|
+|upkeep
+|turn|8
+|c|☆NotDaPi|TACTICAL NUKE INCOMING
+|
+|t:|1641779780
+|move|p2a: Tactical nuke|Explosion|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p2a: Tactical nuke
+|faint|p1a: Garchomp
+|
+|upkeep
+|inactive|Obamaspole has 90 seconds left.
+|
+|t:|1641779801
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|-damage|p1a: Thundurus|76/100|[from] Stealth Rock
+|turn|9
+|inactive|Obamaspole has 90 seconds left.
+|
+|t:|1641779811
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|move|p1a: Thundurus|Psychic|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|80/100
+|-damage|p1a: Thundurus|66/100|[from] item: Life Orb
+|
+|-heal|p2a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641779821
+|move|p1a: Thundurus|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-damage|p1a: Thundurus|56/100|[from] item: Life Orb
+|inactive|Obamaspole has 90 seconds left.
+|
+|t:|1641779834
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100|[from]move: Volt Switch
+|-damage|p1a: Ferrothorn|95/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641779837
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|11
+|
+|t:|1641779845
+|move|p2a: Zapdos|Thunderous Kick|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|18/100
+|-unboost|p1a: Ferrothorn|def|1
+|-damage|p2a: Zapdos|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Zapdos|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|14/100
+|
+|upkeep
+|turn|12
+|c|☆NotDaPi|Bonk
+|inactive|Obamaspole has 90 seconds left.
+|
+|t:|1641779867
+|move|p2a: Zapdos|Thunderous Kick|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Zapdos|2/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Zapdos|0 fnt|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|faint|p2a: Zapdos
+|
+|upkeep
+|inactive|Obamaspole has 90 seconds left.
+|
+|t:|1641779891
+|switch|p2a: Melmetal|Melmetal|67/100
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|-activate|p2a: Melmetal|move: Sticky Web
+|-unboost|p2a: Melmetal|spe|1
+|turn|13
+|
+|t:|1641779904
+|move|p1a: Urshifu|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641779908
+|switch|p2a: Gengar|Gengar, M|100/100
+|-activate|p2a: Gengar|move: Sticky Web
+|-unboost|p2a: Gengar|spe|1
+|turn|14
+|inactive|Obamaspole has 90 seconds left.
+|
+|t:|1641779914
+|move|p1a: Urshifu|Surging Strikes|p2a: Gengar
+|-crit|p2a: Gengar
+|-damage|p2a: Gengar|59/100
+|-start|p1a: Urshifu|Disable|Surging Strikes|[from] ability: Cursed Body|[of] p2a: Gengar
+|-crit|p2a: Gengar
+|-damage|p2a: Gengar|16/100
+|-crit|p2a: Gengar
+|-damage|p2a: Gengar|0 fnt
+|faint|p2a: Gengar
+|-hitcount|p2: Gengar|3
+|
+|upkeep
+|
+|t:|1641779921
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|-activate|p2a: Garchomp|move: Sticky Web
+|-unboost|p2a: Garchomp|spe|1
+|turn|15
+|
+|t:|1641779930
+|move|p1a: Urshifu|Close Combat|p2a: Garchomp
+|-damage|p2a: Garchomp|30/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|-activate|p2a: Garchomp|ability: Rough Skin
+|-activate|p1a: Urshifu|item: Protective Pads
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|16
+|
+|t:|1641779943
+|move|p1a: Urshifu|Aqua Jet|p2a: Garchomp
+|-damage|p2a: Garchomp|5/100
+|-activate|p2a: Garchomp|ability: Rough Skin
+|-activate|p1a: Urshifu|item: Protective Pads
+|move|p2a: Garchomp|Scale Shot|p1a: Urshifu
+|-damage|p1a: Urshifu|42/100
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-hitcount|p1: Urshifu|2
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|upkeep
+|inactive|Obamaspole has 90 seconds left.
+|
+|t:|1641779962
+|switch|p1a: Thundurus|Thundurus, M|56/100
+|-damage|p1a: Thundurus|32/100|[from] Stealth Rock
+|turn|17
+|c|☆NotDaPi|Lol
+|
+|t:|1641779967
+|move|p2a: Garchomp|Scale Shot|p1a: Thundurus
+|-damage|p1a: Thundurus|0 fnt
+|faint|p1a: Thundurus
+|-hitcount|p1: Thundurus|1
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|upkeep
+|c|☆NotDaPi|Don’t show mercy
+|
+|t:|1641779980
+|switch|p1a: Darmanitan|Darmanitan, M|100/100
+|-damage|p1a: Darmanitan|76/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641779985
+|move|p2a: Garchomp|Earthquake|p1a: Darmanitan
+|-supereffective|p1a: Darmanitan
+|-damage|p1a: Darmanitan|0 fnt
+|faint|p1a: Darmanitan
+|
+|win|NotDaPi
+|raw|Obamaspole's rating: 1168 &rarr; <strong>1141</strong><br />(-27 for losing)
+|raw|NotDaPi's rating: 1138 &rarr; <strong>1165</strong><br />(+27 for winning)
+|c|☆NotDaPi|Gg
+|l|☆Obamaspole
+|l|☆NotDaPi
+|j|☆NotDaPi
+|player|p2|NotDaPi|saturn

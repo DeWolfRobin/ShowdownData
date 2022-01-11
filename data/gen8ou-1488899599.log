@@ -1,0 +1,180 @@
+|j|☆Count Karnstein
+|j|☆Gastalies
+|t:|1641834519
+|gametype|singles
+|player|p1|Count Karnstein|ingo|1394
+|player|p2|Gastalies|clair|1423
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Blissey, F|
+|poke|p1|Steelix, M|
+|poke|p1|Lopunny, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Ditto|
+|poke|p2|Skarmory, M|
+|poke|p2|Clefable, F|
+|poke|p2|Blissey, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Gastalies)
+|
+|t:|1641834537
+|start
+|switch|p1a: Lopunny|Lopunny, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1641834550
+|move|p1a: Lopunny|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|move|p2a: Hippowdon|Stealth Rock|p1a: Lopunny
+|-sidestart|p1: Count Karnstein|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lopunny|95/100|[from] Sandstorm
+|-damage|p2a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641834566
+|move|p1a: Lopunny|Encore|p2a: Hippowdon
+|-start|p2a: Hippowdon|Encore
+|move|p2a: Hippowdon|Stealth Rock||[still]
+|-fail|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lopunny|89/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Hippowdon|88/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641834575
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Lopunny|Encore||[still]
+|-fail|p1a: Lopunny
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lopunny|83/100|[from] Sandstorm
+|-damage|p2a: Blissey|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641834583
+|move|p1a: Lopunny|Switcheroo|p2a: Blissey
+|-activate|p1a: Lopunny|move: Trick|[of] p2a: Blissey
+|-item|p2a: Blissey|Assault Vest|[from] move: Switcheroo
+|-item|p1a: Lopunny|Heavy-Duty Boots|[from] move: Switcheroo
+|move|p2a: Blissey|Toxic|p1a: Lopunny
+|-status|p1a: Lopunny|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Lopunny|77/100 tox|[from] Sandstorm
+|-damage|p2a: Blissey|88/100|[from] Sandstorm
+|-damage|p1a: Lopunny|71/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641834595
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Blissey|Seismic Toss|p1a: Blissey
+|-damage|p1a: Blissey|86/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641834604
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|move|p1a: Blissey|Stealth Rock|p2a: Skarmory
+|-sidestart|p2: Gastalies|move: Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1641834611
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Skarmory|Spikes|p1a: Toxapex
+|-sidestart|p1: Count Karnstein|Spikes
+|
+|-heal|p1a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|
+|t:|1641834620
+|switch|p2a: Zapdos|Zapdos|100/100
+|-damage|p2a: Zapdos|75/100|[from] Stealth Rock
+|-ability|p2a: Zapdos|Pressure
+|switch|p1a: Ditto|Ditto|100/100
+|-damage|p1a: Ditto|88/100|[from] Spikes
+|-damage|p1a: Ditto|76/100|[from] Stealth Rock
+|-transform|p1a: Ditto|p2a: Zapdos|[from] ability: Imposter
+|-ability|p1a: Ditto|Pressure
+|
+|-heal|p2a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641834638
+|switch|p2a: Hippowdon|Hippowdon, F|88/100 tox
+|-damage|p2a: Hippowdon|82/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Ditto|Defog|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|evasion|1
+|-sideend|p2: Gastalies|Stealth Rock|[from] move: Defog|[of] p1a: Ditto
+|-sideend|p1: Count Karnstein|Spikes|[from] move: Defog|[of] p1a: Ditto
+|-sideend|p1: Count Karnstein|Stealth Rock|[from] move: Defog|[of] p1a: Ditto
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ditto|70/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|88/100 tox|[from] item: Leftovers
+|-damage|p2a: Hippowdon|82/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641834654
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Hippowdon|Toxic|p1a: Ferrothorn|[miss]
+|-miss|p2a: Hippowdon|p1a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|88/100 tox|[from] item: Leftovers
+|-damage|p2a: Hippowdon|76/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641834664
+|switch|p2a: Zapdos|Zapdos|82/100
+|-ability|p2a: Zapdos|Pressure
+|move|p1a: Ferrothorn|Leech Seed|p2a: Zapdos
+|-start|p2a: Zapdos|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|75/100|[from] Sandstorm
+|-heal|p2a: Zapdos|82/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|69/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|12
+|-message|Gastalies forfeited.
+|
+|win|Count Karnstein
+|raw|Count Karnstein's rating: 1394 &rarr; <strong>1416</strong><br />(+22 for winning)
+|raw|Gastalies's rating: 1423 &rarr; <strong>1401</strong><br />(-22 for losing)
+|l|☆Gastalies
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

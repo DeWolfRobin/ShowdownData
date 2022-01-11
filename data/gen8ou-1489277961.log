@@ -1,0 +1,320 @@
+|j|☆Psywave22
+|j|☆Schmarlon
+|t:|1641882335
+|gametype|singles
+|player|p1|Psywave22|beauty|1072
+|player|p2|Schmarlon|1|1113
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Reuniclus, F|
+|poke|p1|Magnezone|
+|poke|p1|Quagsire, F|
+|poke|p1|Togekiss, F|
+|poke|p1|Blissey, F|
+|poke|p1|Blacephalon|
+|poke|p2|Dragapult, M|
+|poke|p2|Weavile, M|
+|poke|p2|Melmetal|
+|poke|p2|Rillaboom, F|
+|poke|p2|Blissey, F|
+|poke|p2|Ninetales-Alola, M|
+|teampreview
+|
+|t:|1641882357
+|start
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|1
+|
+|t:|1641882369
+|move|p1a: Blacephalon|Protect|p1a: Blacephalon
+|-singleturn|p1a: Blacephalon|Protect
+|move|p2a: Melmetal|Earthquake|p1a: Blacephalon
+|-activate|p1a: Blacephalon|move: Protect
+|
+|upkeep
+|turn|2
+|
+|t:|1641882382
+|switch|p1a: Quagsire|Quagsire, F, shiny|100/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Quagsire
+|-resisted|p1a: Quagsire
+|-crit|p1a: Quagsire
+|-damage|p1a: Quagsire|74/100
+|-resisted|p1a: Quagsire
+|-damage|p1a: Quagsire|58/100
+|-hitcount|p1a: Quagsire|2
+|
+|-heal|p1a: Quagsire|64/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641882410
+|switch|p2a: Rillaboom|Rillaboom, F, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Quagsire|High Horsepower|p2a: Rillaboom|[miss]
+|-miss|p1a: Quagsire|p2a: Rillaboom
+|
+|-heal|p1a: Quagsire|70/100|[from] Grassy Terrain
+|-heal|p1a: Quagsire|76/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641882426
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: Rillaboom|Bulk Up|p2a: Rillaboom
+|-boost|p2a: Rillaboom|atk|1
+|-boost|p2a: Rillaboom|def|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641882445
+|move|p1a: Blacephalon|Mind Blown|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|-damage|p1a: Blacephalon|50/100|[from] mindblown
+|faint|p2a: Rillaboom
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spe|1
+|
+|-heal|p1a: Blacephalon|57/100|[from] Grassy Terrain
+|-heal|p1a: Blacephalon|63/100|[from] item: Leftovers
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Schmarlon)
+|
+|t:|1641882480
+|switch|p2a: Blissey|Blissey, F, shiny|100/100
+|turn|6
+|
+|t:|1641882486
+|move|p1a: Blacephalon|Protect|p1a: Blacephalon
+|-singleturn|p1a: Blacephalon|Protect
+|move|p2a: Blissey|Toxic|p1a: Blacephalon
+|-activate|p1a: Blacephalon|move: Protect
+|
+|-heal|p1a: Blacephalon|69/100|[from] Grassy Terrain
+|-heal|p1a: Blacephalon|75/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641882497
+|move|p1a: Blacephalon|Psyshock|p2a: Blissey
+|-damage|p2a: Blissey|79/100
+|move|p2a: Blissey|Seismic Toss|p1a: Blacephalon
+|-immune|p1a: Blacephalon
+|
+|-heal|p1a: Blacephalon|82/100|[from] Grassy Terrain
+|-heal|p1a: Blacephalon|88/100|[from] item: Leftovers
+|-heal|p2a: Blissey|85/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641882511
+|switch|p1a: Reuniclus|Reuniclus, F|100/100
+|move|p2a: Blissey|Seismic Toss|p1a: Reuniclus
+|-damage|p1a: Reuniclus|77/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641882535
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Reuniclus|Knock Off|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|88/100
+|-enditem|p2a: Weavile|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Reuniclus
+|
+|upkeep
+|turn|10
+|
+|t:|1641882558
+|switch|p1a: Quagsire|Quagsire, F, shiny|76/100
+|move|p2a: Weavile|Foul Play|p1a: Quagsire
+|-damage|p1a: Quagsire|51/100
+|
+|-heal|p1a: Quagsire|57/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641882574
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|25/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|75/100
+|
+|-heal|p1a: Quagsire|81/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641882584
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|44/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|94/100
+|
+|-heal|p1a: Quagsire|100/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641882600
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|65/100
+|cant|p1a: Quagsire|flinch
+|
+|-heal|p1a: Quagsire|71/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641882607
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|40/100
+|cant|p1a: Quagsire|flinch
+|
+|-heal|p1a: Quagsire|46/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641882627
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|14/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|64/100
+|
+|-heal|p1a: Quagsire|70/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641882634
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|35/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|85/100
+|
+|-heal|p1a: Quagsire|91/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641882642
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|58/100
+|move|p1a: Quagsire|Scald|p2a: Weavile
+|-damage|p2a: Weavile|63/100
+|
+|-heal|p1a: Quagsire|64/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641882651
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|28/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|78/100
+|
+|-heal|p1a: Quagsire|84/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641882658
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|47/100
+|cant|p1a: Quagsire|flinch
+|
+|-heal|p1a: Quagsire|53/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641882664
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|18/100
+|move|p1a: Quagsire|Scald|p2a: Weavile
+|-crit|p2a: Weavile
+|-damage|p2a: Weavile|26/100
+|-status|p2a: Weavile|brn
+|
+|-heal|p1a: Quagsire|24/100|[from] item: Leftovers
+|-damage|p2a: Weavile|20/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641882676
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|6/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|56/100
+|
+|-heal|p1a: Quagsire|62/100|[from] item: Leftovers
+|-damage|p2a: Weavile|14/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641882687
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|44/100
+|move|p1a: Quagsire|Recover|p1a: Quagsire
+|-heal|p1a: Quagsire|94/100
+|
+|-heal|p1a: Quagsire|100/100|[from] item: Leftovers
+|-damage|p2a: Weavile|8/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641882696
+|move|p2a: Weavile|Icicle Crash|p1a: Quagsire
+|-damage|p1a: Quagsire|82/100
+|move|p1a: Quagsire|Scald|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|-heal|p1a: Quagsire|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641882717
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|24
+|
+|t:|1641882726
+|switch|p1a: Blacephalon|Blacephalon|88/100
+|move|p2a: Ninetales|Nasty Plot|p2a: Ninetales
+|-boost|p2a: Ninetales|spa|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Blacephalon|82/100|[from] Hail
+|-heal|p1a: Blacephalon|88/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641882747
+|move|p2a: Ninetales|Moonblast|p1a: Blacephalon
+|-resisted|p1a: Blacephalon
+|-damage|p1a: Blacephalon|27/100
+|-damage|p2a: Ninetales|91/100|[from] item: Life Orb
+|move|p1a: Blacephalon|Mind Blown|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|-damage|p1a: Blacephalon|0 fnt|[from] mindblown
+|faint|p1a: Blacephalon
+|faint|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|-message|Schmarlon forfeited.
+|
+|win|Psywave22
+|raw|Psywave22's rating: 1072 &rarr; <strong>1105</strong><br />(+33 for winning)
+|raw|Schmarlon's rating: 1113 &rarr; <strong>1085</strong><br />(-28 for losing)
+|l|☆Schmarlon

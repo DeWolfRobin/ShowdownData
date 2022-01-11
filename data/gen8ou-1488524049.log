@@ -1,0 +1,425 @@
+|j|☆hakinbume
+|j|☆GamerModeTime
+|t:|1641776774
+|gametype|singles
+|player|p1|hakinbume|170|1224
+|player|p2|GamerModeTime|wallace|1220
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Nidoking, M|
+|poke|p1|Blissey, F|
+|poke|p1|Conkeldurr, F|
+|poke|p1|Volcarona, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Blissey, F|
+|poke|p2|Slowbro, M|
+|poke|p2|Blacephalon|
+|poke|p2|Crawdaunt, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GamerModeTime)
+|
+|t:|1641776789
+|start
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Mrs. White|Blissey, F, shiny|100/100
+|turn|1
+|
+|t:|1641776799
+|switch|p1a: Conkeldurr|Conkeldurr, F|100/100
+|move|p2a: Mrs. White|Stealth Rock|p1a: Conkeldurr
+|-sidestart|p1: hakinbume|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641776812
+|switch|p2a: Colonel Mustard|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Colonel Mustard|Intimidate|boost
+|-unboost|p1a: Conkeldurr|atk|1
+|move|p1a: Conkeldurr|Knock Off|p2a: Colonel Mustard
+|-damage|p2a: Colonel Mustard|80/100
+|-enditem|p2a: Colonel Mustard|Leftovers|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|upkeep
+|turn|3
+|
+|t:|1641776827
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|-damage|p1a: Slowbro|88/100|[from] Stealth Rock
+|move|p2a: Colonel Mustard|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|62/100
+|-damage|p2a: Colonel Mustard|64/100|[from] item: Rocky Helmet|[of] p1a: Slowbro
+|
+|t:|1641776833
+|switch|p2a: Professor Plum|Blacephalon|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|4
+|
+|t:|1641776844
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|move|p2a: Professor Plum|Trick|p1a: Blissey
+|-activate|p2a: Professor Plum|move: Trick|[of] p1a: Blissey
+|-item|p1a: Blissey|Choice Specs|[from] move: Trick
+|-item|p2a: Professor Plum|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|5
+|
+|t:|1641776854
+|switch|p2a: Miss Scarlet|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Miss Scarlet
+|move|p1a: Blissey|Toxic|p2a: Miss Scarlet
+|-activate|p2a: Miss Scarlet|move: Misty Terrain
+|
+|upkeep
+|turn|6
+|
+|t:|1641776882
+|switch|p2a: Professor Plum|Blacephalon|100/100
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|-damage|p1a: Nidoking|95/100|[from] Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1641776895
+|move|p1a: Nidoking|Earth Power|p2a: Professor Plum
+|-supereffective|p2a: Professor Plum
+|-damage|p2a: Professor Plum|0 fnt
+|faint|p2a: Professor Plum
+|
+|upkeep
+|
+|t:|1641776903
+|switch|p2a: Colonel Mustard|Landorus-Therian, M, shiny|64/100
+|-ability|p2a: Colonel Mustard|Intimidate|boost
+|-unboost|p1a: Nidoking|atk|1
+|turn|8
+|
+|t:|1641776908
+|switch|p1a: Slowbro|Slowbro, M|95/100
+|-damage|p1a: Slowbro|82/100|[from] Stealth Rock
+|move|p2a: Colonel Mustard|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|57/100
+|-damage|p2a: Colonel Mustard|47/100|[from] item: Rocky Helmet|[of] p1a: Slowbro
+|
+|t:|1641776913
+|switch|p2a: In|Crawdaunt, M, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1641776923
+|move|p2a: In|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|-damage|p2a: In|84/100|[from] item: Rocky Helmet|[of] p1a: Slowbro
+|-enditem|p1a: Slowbro|Rocky Helmet|[from] move: Knock Off|[of] p2a: In
+|faint|p1a: Slowbro
+|-damage|p2a: In|74/100|[from] item: Life Orb
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641776937
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|turn|10
+|
+|t:|1641776951
+|switch|p2a: Miss Scarlet|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Miss Scarlet
+|move|p1a: Volcarona|Bug Buzz|p2a: Miss Scarlet
+|-resisted|p2a: Miss Scarlet
+|-damage|p2a: Miss Scarlet|73/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641776957
+|move|p2a: Miss Scarlet|Hydro Pump|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|5/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|12
+|
+|t:|1641776962
+|move|p1a: Volcarona|Giga Drain|p2a: Miss Scarlet
+|-supereffective|p2a: Miss Scarlet
+|-damage|p2a: Miss Scarlet|0 fnt
+|-heal|p1a: Volcarona|38/100|[from] drain|[of] p2a: Miss Scarlet
+|faint|p2a: Miss Scarlet
+|
+|upkeep
+|
+|t:|1641776965
+|switch|p2a: In|Crawdaunt, M, shiny|74/100
+|turn|13
+|
+|t:|1641776975
+|move|p2a: In|Aqua Jet|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: In|65/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641776985
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641776993
+|switch|p2a: Colonel Mustard|Landorus-Therian, M, shiny|47/100
+|-ability|p2a: Colonel Mustard|Intimidate|boost
+|-unboost|p1a: Dragonite|atk|1
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|15
+|
+|t:|1641776997
+|move|p1a: Dragonite|Ice Punch|p2a: Colonel Mustard
+|-supereffective|p2a: Colonel Mustard
+|-damage|p2a: Colonel Mustard|0 fnt
+|faint|p2a: Colonel Mustard
+|
+|upkeep
+|
+|t:|1641777003
+|switch|p2a: Mrs. White|Blissey, F, shiny|100/100
+|turn|16
+|
+|t:|1641777012
+|move|p1a: Dragonite|Dragon Claw|p2a: Mrs. White
+|-crit|p2a: Mrs. White
+|-damage|p2a: Mrs. White|43/100
+|move|p2a: Mrs. White|Thunder Wave|p1a: Dragonite
+|-status|p1a: Dragonite|par
+|
+|upkeep
+|turn|17
+|
+|t:|1641777019
+|cant|p1a: Dragonite|par
+|move|p2a: Mrs. White|Seismic Toss|p1a: Dragonite
+|-damage|p1a: Dragonite|45/100 par
+|
+|upkeep
+|turn|18
+|
+|t:|1641777026
+|switch|p2a: Mr. Green|Slowbro, M|100/100
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|19
+|
+|t:|1641777034
+|switch|p1a: Blissey|Blissey, F|88/100
+|-damage|p1a: Blissey|76/100|[from] Stealth Rock
+|move|p2a: Mr. Green|Future Sight|p1a: Blissey
+|-start|p2a: Mr. Green|move: Future Sight
+|
+|upkeep
+|turn|20
+|
+|t:|1641777040
+|move|p1a: Blissey|Toxic|p2a: Mr. Green
+|-status|p2a: Mr. Green|tox
+|move|p2a: Mr. Green|Teleport|p2a: Mr. Green
+|
+|t:|1641777048
+|switch|p2a: In|Crawdaunt, M, shiny|65/100|[from]move: Teleport
+|
+|upkeep
+|turn|21
+|
+|t:|1641777051
+|move|p2a: In|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|-enditem|p1a: Blissey|Choice Specs|[from] move: Knock Off|[of] p2a: In
+|faint|p1a: Blissey
+|-damage|p2a: In|55/100|[from] item: Life Orb
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1641777058
+|switch|p1a: Conkeldurr|Conkeldurr, F|100/100
+|-damage|p1a: Conkeldurr|94/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641777062
+|switch|p2a: Mr. Green|Slowbro, M|100/100 tox
+|move|p1a: Conkeldurr|Drain Punch|p2a: Mr. Green
+|-resisted|p2a: Mr. Green
+|-damage|p2a: Mr. Green|86/100 tox
+|-heal|p1a: Conkeldurr|100/100|[from] drain|[of] p2a: Mr. Green
+|
+|-damage|p2a: Mr. Green|80/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641777072
+|move|p1a: Conkeldurr|Knock Off|p2a: Mr. Green
+|-supereffective|p2a: Mr. Green
+|-crit|p2a: Mr. Green
+|-enditem|p2a: Mr. Green|Colbur Berry|[eat]
+|-enditem|p2a: Mr. Green|Colbur Berry|[weaken]
+|-damage|p2a: Mr. Green|44/100 tox
+|move|p2a: Mr. Green|Future Sight|p1a: Conkeldurr
+|-start|p2a: Mr. Green|move: Future Sight
+|
+|-damage|p2a: Mr. Green|31/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641777083
+|move|p1a: Conkeldurr|Knock Off|p2a: Mr. Green
+|-supereffective|p2a: Mr. Green
+|-damage|p2a: Mr. Green|2/100 tox
+|move|p2a: Mr. Green|Slack Off|p2a: Mr. Green
+|-heal|p2a: Mr. Green|52/100 tox
+|
+|-damage|p2a: Mr. Green|34/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641777090
+|move|p1a: Conkeldurr|Knock Off|p2a: Mr. Green
+|-supereffective|p2a: Mr. Green
+|-damage|p2a: Mr. Green|1/100 tox
+|move|p2a: Mr. Green|Slack Off|p2a: Mr. Green
+|-heal|p2a: Mr. Green|51/100 tox
+|
+|-end|p1a: Conkeldurr|move: Future Sight
+|-supereffective|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|41/100
+|-damage|p2a: Mr. Green|27/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641777110
+|switch|p2a: Mrs. White|Blissey, F, shiny|43/100
+|move|p1a: Conkeldurr|Knock Off|p2a: Mrs. White
+|-damage|p2a: Mrs. White|6/100
+|-enditem|p2a: Mrs. White|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|upkeep
+|turn|27
+|
+|t:|1641777116
+|move|p2a: Mrs. White|Thunder Wave|p1a: Conkeldurr
+|-status|p1a: Conkeldurr|par
+|move|p1a: Conkeldurr|Drain Punch|p2a: Mrs. White
+|-supereffective|p2a: Mrs. White
+|-crit|p2a: Mrs. White
+|-damage|p2a: Mrs. White|0 fnt
+|-heal|p1a: Conkeldurr|46/100 par|[from] drain|[of] p2a: Mrs. White
+|faint|p2a: Mrs. White
+|
+|upkeep
+|
+|t:|1641777120
+|switch|p2a: Mr. Green|Slowbro, M|60/100 tox
+|turn|28
+|
+|t:|1641777123
+|move|p2a: Mr. Green|Body Press|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|22/100 par
+|cant|p1a: Conkeldurr|par
+|
+|-damage|p2a: Mr. Green|54/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641777131
+|switch|p1a: Nidoking|Nidoking, M|95/100
+|-damage|p1a: Nidoking|89/100|[from] Stealth Rock
+|move|p2a: Mr. Green|Future Sight|p1a: Nidoking
+|-start|p2a: Mr. Green|move: Future Sight
+|
+|-damage|p2a: Mr. Green|42/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641777139
+|move|p1a: Nidoking|Thunderbolt|p2a: Mr. Green
+|-supereffective|p2a: Mr. Green
+|-damage|p2a: Mr. Green|0 fnt
+|faint|p2a: Mr. Green
+|
+|upkeep
+|
+|t:|1641777141
+|switch|p2a: In|Crawdaunt, M, shiny|55/100
+|turn|31
+|
+|t:|1641777146
+|move|p2a: In|Aqua Jet|p1a: Nidoking
+|-supereffective|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|faint|p1a: Nidoking
+|-damage|p2a: In|45/100|[from] item: Life Orb
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|
+|t:|1641777150
+|switch|p1a: Conkeldurr|Conkeldurr, F|22/100 par
+|-damage|p1a: Conkeldurr|16/100 par|[from] Stealth Rock
+|turn|32
+|
+|t:|1641777152
+|move|p2a: In|Aqua Jet|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|-damage|p2a: In|35/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆GamerModeTime|gg
+|
+|t:|1641777156
+|switch|p1a: Dragonite|Dragonite, M|45/100 par
+|-damage|p1a: Dragonite|20/100 par|[from] Stealth Rock
+|turn|33
+|
+|t:|1641777160
+|move|p2a: In|Knock Off|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-enditem|p1a: Dragonite|Weakness Policy|[from] move: Knock Off|[of] p2a: In
+|faint|p1a: Dragonite
+|-damage|p2a: In|26/100|[from] item: Life Orb
+|
+|win|GamerModeTime
+|raw|hakinbume's rating: 1224 &rarr; <strong>1201</strong><br />(-23 for losing)
+|raw|GamerModeTime's rating: 1248 &rarr; <strong>1271</strong><br />(+23 for winning)

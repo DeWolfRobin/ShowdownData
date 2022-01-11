@@ -1,0 +1,413 @@
+|j|☆Jalhiem Rabey
+|j|☆alucemet
+|t:|1641860615
+|gametype|singles
+|player|p1|Jalhiem Rabey|102|1528
+|player|p2|alucemet|101|1501
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Seismitoad, M|
+|poke|p1|Buzzwole|
+|poke|p1|Blissey, F|
+|poke|p1|Charizard, F|
+|poke|p1|Zapdos|
+|poke|p1|Melmetal|
+|poke|p2|Mew|
+|poke|p2|Milotic, M|
+|poke|p2|Tangrowth, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Zeraora|
+|poke|p2|Tapu Fini|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jalhiem Rabey)
+|
+|t:|1641860639
+|start
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|turn|1
+|j| Pikablu007
+|
+|t:|1641860653
+|move|p1a: Buzzwole|Leech Life|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|56/100
+|-damage|p1a: Buzzwole|84/100|[from] item: Rocky Helmet|[of] p2a: Tangrowth
+|move|p2a: Tangrowth|Sleep Powder|p1a: Buzzwole
+|-status|p1a: Buzzwole|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|2
+|
+|t:|1641860666
+|switch|p2a: Milotic|Milotic, M|100/100
+|cant|p1a: Buzzwole|slp
+|
+|-status|p2a: Milotic|brn|[from] item: Flame Orb
+|upkeep
+|turn|3
+|
+|t:|1641860673
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Milotic|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|76/100
+|
+|-damage|p2a: Milotic|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641860686
+|switch|p2a: Zeraora|Zeraora|100/100
+|move|p1a: Zapdos|Volt Switch|p2a: Zeraora
+|-immune|p2a: Zeraora|[from] ability: Volt Absorb
+|
+|upkeep
+|turn|5
+|
+|t:|1641860711
+|switch|p1a: Seismitoad|Seismitoad, M|100/100
+|move|p2a: Zeraora|Knock Off|p1a: Seismitoad
+|-damage|p1a: Seismitoad|79/100
+|-enditem|p1a: Seismitoad|Leftovers|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|6
+|
+|t:|1641860730
+|switch|p2a: Milotic|Milotic, M|94/100 brn
+|move|p1a: Seismitoad|Stealth Rock|p2a: Milotic
+|-sidestart|p2: alucemet|move: Stealth Rock
+|
+|-damage|p2a: Milotic|88/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641860748
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Milotic|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-damage|p1a: Blissey|94/100 tox|[from] psn
+|-damage|p2a: Milotic|82/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641860760
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|100/100 brn
+|move|p1a: Blissey|Aromatherapy|p1a: Blissey
+|-activate|p1a: Blissey|move: Aromatherapy
+|-curestatus|p1a: Blissey|tox|[msg]
+|-curestatus|p1: Buzzwole|slp|[msg]
+|
+|-damage|p2a: Milotic|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641860774
+|move|p2a: Milotic|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|move|p1a: Blissey|Wish|p1a: Blissey
+|
+|-damage|p1a: Blissey|88/100 tox|[from] psn
+|-damage|p2a: Milotic|88/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641860783
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Seismitoad|Seismitoad, M|79/100
+|move|p2a: Milotic|Ice Beam|p1a: Seismitoad
+|-damage|p1a: Seismitoad|57/100
+|
+|-heal|p1a: Seismitoad|100/100|[from] move: Wish|[wisher] Blissey
+|-damage|p2a: Milotic|82/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641860792
+|switch|p1a: Blissey|Blissey, F|88/100
+|move|p2a: Milotic|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-damage|p1a: Blissey|82/100 tox|[from] psn
+|-damage|p2a: Milotic|76/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1641860800
+|move|p2a: Milotic|Scald|p1a: Blissey
+|-damage|p1a: Blissey|73/100 tox
+|move|p1a: Blissey|Seismic Toss|p2a: Milotic
+|-damage|p2a: Milotic|51/100 brn
+|
+|-damage|p1a: Blissey|60/100 tox|[from] psn
+|-damage|p2a: Milotic|45/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641860809
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Zapdos|Zapdos|76/100
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|95/100 brn
+|
+|-damage|p2a: Milotic|89/100 brn|[from] brn
+|upkeep
+|turn|14
+|l| Pikablu007
+|
+|t:|1641860817
+|switch|p1a: Seismitoad|Seismitoad, M|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|-damage|p2a: Zeraora|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1641860824
+|switch|p2a: Tangrowth|Tangrowth, F|89/100
+|-damage|p2a: Tangrowth|77/100|[from] Stealth Rock
+|move|p1a: Seismitoad|Earthquake|p2a: Tangrowth
+|-resisted|p2a: Tangrowth
+|-damage|p2a: Tangrowth|67/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641860832
+|move|p1a: Seismitoad|Toxic|p2a: Tangrowth
+|-status|p2a: Tangrowth|tox
+|move|p2a: Tangrowth|Giga Drain|p1a: Seismitoad
+|-supereffective|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|-heal|p2a: Tangrowth|100/100 tox|[from] drain|[of] p1a: Seismitoad
+|faint|p1a: Seismitoad
+|
+|-damage|p2a: Tangrowth|94/100 tox|[from] psn
+|upkeep
+|c|☆Jalhiem Rabey|wow
+|
+|t:|1641860841
+|switch|p1a: Charizard|Charizard, F|100/100
+|turn|17
+|
+|t:|1641860852
+|switch|p1a: Buzzwole|Buzzwole|84/100
+|switch|p2a: Milotic|Milotic, M|89/100 brn
+|-damage|p2a: Milotic|76/100 brn|[from] Stealth Rock
+|
+|-damage|p2a: Milotic|70/100 brn|[from] brn
+|upkeep
+|turn|18
+|c|☆alucemet|what?
+|inactive|Jalhiem Rabey has 120 seconds left.
+|
+|t:|1641860904
+|move|p2a: Milotic|Scald|p1a: Buzzwole
+|-damage|p1a: Buzzwole|45/100
+|move|p1a: Buzzwole|Leech Life|p2a: Milotic
+|-damage|p2a: Milotic|49/100 brn
+|-heal|p1a: Buzzwole|55/100|[from] drain|[of] p2a: Milotic
+|
+|-damage|p2a: Milotic|43/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641860912
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|93/100 brn
+|move|p1a: Buzzwole|Leech Life|p2a: Milotic
+|-damage|p2a: Milotic|72/100 brn
+|-heal|p1a: Buzzwole|65/100|[from] drain|[of] p2a: Milotic
+|
+|-damage|p2a: Milotic|66/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641860921
+|switch|p1a: Blissey|Blissey, F|60/100
+|move|p2a: Milotic|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-damage|p1a: Blissey|54/100 tox|[from] psn
+|-damage|p2a: Milotic|60/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641860936
+|switch|p2a: Mew|Mew|100/100
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100 tox
+|
+|-damage|p1a: Blissey|88/100 tox|[from] psn
+|upkeep
+|turn|22
+|inactive|Jalhiem Rabey has 90 seconds left.
+|
+|t:|1641860968
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Mew|Nasty Plot|p2a: Mew
+|-boost|p2a: Mew|spa|2
+|
+|upkeep
+|turn|23
+|inactive|Jalhiem Rabey has 90 seconds left.
+|
+|t:|1641860986
+|move|p2a: Mew|Flamethrower|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|35/100
+|-damage|p2a: Mew|78/100|[from] item: Life Orb
+|move|p1a: Melmetal|Double Iron Bash|p2a: Mew
+|-damage|p2a: Mew|40/100
+|-damage|p2a: Mew|2/100
+|-hitcount|p2a: Mew|2
+|
+|upkeep
+|turn|24
+|inactive|Jalhiem Rabey has 90 seconds left.
+|
+|t:|1641861001
+|switch|p1a: Charizard|Charizard, F|100/100
+|move|p2a: Mew|Psyshock|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|-damage|p2a: Mew|0 fnt|[from] item: Life Orb
+|faint|p2a: Mew
+|
+|upkeep
+|
+|t:|1641861026
+|switch|p2a: Zeraora|Zeraora|88/100
+|switch|p1a: Zapdos|Zapdos|76/100
+|-damage|p2a: Zeraora|76/100|[from] Stealth Rock
+|turn|25
+|inactive|Jalhiem Rabey has 90 seconds left.
+|
+|t:|1641861050
+|switch|p1a: Buzzwole|Buzzwole|65/100
+|move|p2a: Zeraora|Plasma Fists|p1a: Buzzwole
+|-damage|p1a: Buzzwole|41/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p2a: Zeraora|59/100|[from] item: Rocky Helmet|[of] p1a: Buzzwole
+|
+|upkeep
+|turn|26
+|inactive|Jalhiem Rabey has 90 seconds left.
+|j| KylernoJobs
+|
+|t:|1641861059
+|move|p2a: Zeraora|Volt Switch|p1a: Buzzwole
+|-damage|p1a: Buzzwole|8/100
+|
+|t:|1641861072
+|switch|p2a: Milotic|Milotic, M|60/100 brn|[from]move: Volt Switch
+|-damage|p2a: Milotic|47/100 brn|[from] Stealth Rock
+|move|p1a: Buzzwole|Roost|p1a: Buzzwole
+|-heal|p1a: Buzzwole|58/100
+|-singleturn|p1a: Buzzwole|move: Roost
+|
+|-damage|p2a: Milotic|41/100 brn|[from] brn
+|upkeep
+|turn|27
+|inactive|Jalhiem Rabey has 90 seconds left.
+|
+|t:|1641861098
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|91/100 brn
+|move|p1a: Buzzwole|Close Combat|p2a: Milotic
+|-damage|p2a: Milotic|58/100 brn
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|
+|-damage|p2a: Milotic|52/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641861107
+|switch|p1a: Zapdos|Zapdos|76/100
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|100/100 brn
+|
+|-damage|p2a: Milotic|94/100 brn|[from] brn
+|upkeep
+|turn|29
+|inactive|Jalhiem Rabey has 90 seconds left.
+|
+|t:|1641861114
+|switch|p1a: Buzzwole|Buzzwole|58/100
+|switch|p2a: Zeraora|Zeraora|59/100
+|-damage|p2a: Zeraora|47/100|[from] Stealth Rock
+|
+|upkeep
+|turn|30
+|
+|t:|1641861121
+|move|p2a: Zeraora|Volt Switch|p1a: Buzzwole
+|-damage|p1a: Buzzwole|25/100
+|
+|t:|1641861123
+|switch|p2a: Milotic|Milotic, M|94/100 brn|[from]move: Volt Switch
+|-damage|p2a: Milotic|82/100 brn|[from] Stealth Rock
+|move|p1a: Buzzwole|Roost|p1a: Buzzwole
+|-heal|p1a: Buzzwole|75/100
+|-singleturn|p1a: Buzzwole|move: Roost
+|
+|-damage|p2a: Milotic|76/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641861133
+|switch|p1a: Blissey|Blissey, F|88/100
+|move|p2a: Milotic|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-damage|p1a: Blissey|82/100 tox|[from] psn
+|-damage|p2a: Milotic|70/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641861142
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Blissey|Wish|p1a: Blissey
+|
+|-heal|p2a: Tapu Fini|94/100|[from] item: Leftovers
+|-damage|p1a: Blissey|70/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641861154
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Melmetal|Melmetal|35/100
+|move|p2a: Tapu Fini|Scald|p1a: Melmetal
+|-damage|p1a: Melmetal|21/100
+|
+|-heal|p1a: Melmetal|100/100|[from] move: Wish|[wisher] Blissey
+|-heal|p2a: Tapu Fini|99/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|-message|alucemet forfeited.
+|
+|win|Jalhiem Rabey
+|raw|Jalhiem Rabey's rating: 1528 &rarr; <strong>1546</strong><br />(+18 for winning)
+|raw|alucemet's rating: 1501 &rarr; <strong>1483</strong><br />(-18 for losing)
+|l|☆alucemet
+|l|☆Jalhiem Rabey
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

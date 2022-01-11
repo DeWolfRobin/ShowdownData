@@ -1,0 +1,528 @@
+|j|☆dach02
+|j|☆JoseFig23
+|t:|1641698427
+|gametype|singles
+|player|p1|dach02|linebacker|
+|player|p2|JoseFig23|palmer|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Buzzwole|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Magnezone|
+|poke|p2|Pelipper, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Crawdaunt, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by JoseFig23)
+|
+|t:|1641698437
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|1
+|
+|t:|1641698448
+|move|p2a: Urshifu|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|79/100
+|-damage|p2a: Urshifu|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641698453
+|switch|p2a: Pelipper|Pelipper, M|100/100|[from]move: U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Pelipper
+|-status|p2a: Pelipper|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|85/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641698458
+|move|p2a: Pelipper|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|53/100
+|-start|p1a: Ferrothorn|confusion
+|-activate|p1a: Ferrothorn|confusion
+|move|p1a: Ferrothorn|Leech Seed|p2a: Pelipper
+|-start|p2a: Pelipper|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|59/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|88/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|71/100|[silent]
+|upkeep
+|turn|3
+|
+|t:|1641698466
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|88/100
+|-end|p1a: Ferrothorn|confusion
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Urshifu
+|-sidestart|p2: JoseFig23|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|77/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|dach02 has 270 seconds left.
+|
+|t:|1641698506
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|move|p2a: Urshifu|Close Combat|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|75/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641698517
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|switch|p1a: Ferrothorn|Ferrothorn, M|77/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|83/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641698521
+|move|p2a: Landorus|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: dach02|move: Stealth Rock
+|move|p1a: Ferrothorn|Leech Seed|p2a: Landorus
+|-start|p2a: Landorus|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|99/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|89/100|[from] item: Leftovers
+|-damage|p2a: Landorus|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1641698524
+|move|p2a: Landorus|U-turn|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|88/100
+|-damage|p2a: Landorus|76/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|t:|1641698529
+|switch|p2a: Barraskewda|Barraskewda, F, shiny|100/100|[from]move: U-turn
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Barraskewda
+|-status|p2a: Barraskewda|par
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ferrothorn|94/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641698557
+|cant|p2a: Barraskewda|par
+|move|p1a: Ferrothorn|Leech Seed|p2a: Barraskewda
+|-start|p2a: Barraskewda|move: Leech Seed
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p2a: Barraskewda|76/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|upkeep
+|turn|9
+|inactive|dach02 has 270 seconds left.
+|c|☆dach02|Perdón ya dejare de hacer eso xd
+|
+|t:|1641698583
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|-damage|p2a: Crawdaunt|88/100|[from] Stealth Rock
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1641698591
+|switch|p2a: Pelipper|Pelipper, M|88/100 par
+|-damage|p2a: Pelipper|63/100 par|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Dragapult|U-turn|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-damage|p2a: Pelipper|49/100 par
+|inactive|dach02 has 270 seconds left.
+|
+|t:|1641698604
+|switch|p1a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641698608
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|76/100
+|-damage|p2a: Landorus|63/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|move|p1a: Magnezone|Volt Switch|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|69/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641698617
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Landorus|Knock Off|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-crit|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|87/100
+|-enditem|p1a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|75/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641698626
+|move|p2a: Landorus|U-turn|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|73/100
+|
+|t:|1641698629
+|switch|p2a: Tapu Koko|Tapu Koko, shiny|100/100|[from]move: U-turn
+|-damage|p2a: Tapu Koko|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Mandibuzz|Defog|p2a: Tapu Koko
+|-unboost|p2a: Tapu Koko|evasion|1
+|-sideend|p2: JoseFig23|Stealth Rock|[from] move: Defog|[of] p1a: Mandibuzz
+|-sideend|p1: dach02|Stealth Rock|[from] move: Defog|[of] p1a: Mandibuzz
+|-fieldend|move: Electric Terrain
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|inactive|dach02 has 270 seconds left.
+|
+|t:|1641698660
+|switch|p1a: Magnezone|Magnezone|94/100
+|move|p2a: Tapu Koko|Thunder|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|72/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641698672
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|75/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|move|p1a: Magnezone|Flash Cannon|p2a: Landorus
+|-damage|p2a: Landorus|33/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|39/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|inactive|dach02 has 270 seconds left.
+|
+|t:|1641698719
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: dach02|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|45/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641698734
+|move|p2a: Landorus|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|83/100
+|-damage|p2a: Landorus|32/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Ferrothorn|Leech Seed|p2a: Landorus
+|-start|p2a: Landorus|move: Leech Seed
+|
+|-weather|none
+|-heal|p2a: Landorus|38/100|[from] item: Leftovers
+|-damage|p2a: Landorus|26/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|97/100|[silent]
+|upkeep
+|turn|18
+|
+|t:|1641698744
+|switch|p2a: Barraskewda|Barraskewda, F, shiny|76/100 par
+|move|p1a: Ferrothorn|Leech Seed|p2a: Barraskewda
+|-start|p2a: Barraskewda|move: Leech Seed
+|
+|-damage|p2a: Barraskewda|64/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|19
+|
+|t:|1641698756
+|move|p2a: Barraskewda|Close Combat|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|30/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|-damage|p2a: Barraskewda|52/100 par|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Barraskewda|42/100 par|[from] item: Life Orb
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Barraskewda
+|-resisted|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|upkeep
+|
+|t:|1641698775
+|switch|p2a: Crawdaunt|Crawdaunt, M|88/100
+|turn|20
+|inactive|dach02 has 270 seconds left.
+|
+|t:|1641698787
+|switch|p1a: Mandibuzz|Mandibuzz, F|73/100
+|-damage|p1a: Mandibuzz|48/100|[from] Stealth Rock
+|move|p2a: Crawdaunt|Knock Off|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|29/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641698796
+|switch|p2a: Pelipper|Pelipper, M|49/100 par
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Mandibuzz|Defog|p2a: Pelipper
+|-unboost|p2a: Pelipper|evasion|1
+|-sideend|p1: dach02|Stealth Rock|[from] move: Defog|[of] p1a: Mandibuzz
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1641698800
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|79/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|cant|p2a: Pelipper|par
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641698822
+|switch|p1a: Magnezone|Magnezone|72/100
+|move|p2a: Pelipper|Roost|p2a: Pelipper
+|-heal|p2a: Pelipper|99/100 par
+|-singleturn|p2a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1641698838
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|26/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|move|p1a: Magnezone|Volt Switch|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Landorus|32/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641698845
+|switch|p1a: Mandibuzz|Mandibuzz, F|79/100
+|move|p2a: Landorus|U-turn|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|66/100
+|
+|t:|1641698848
+|switch|p2a: Tapu Koko|Tapu Koko, shiny|88/100|[from]move: U-turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1641698877
+|move|p2a: Tapu Koko|Volt Switch|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|t:|1641698890
+|switch|p2a: Crawdaunt|Crawdaunt, M|88/100|[from]move: Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641698894
+|switch|p1a: Dragapult|Dragapult, F|88/100
+|turn|27
+|
+|t:|1641698903
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|32/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-fail|p1a: Dragapult|unboost|[from] ability: Clear Body|[of] p1a: Dragapult
+|move|p1a: Dragapult|Dragon Darts|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641698912
+|switch|p2a: Tapu Koko|Tapu Koko, shiny|88/100
+|turn|28
+|
+|t:|1641698916
+|switch|p1a: Magnezone|Magnezone|72/100
+|move|p2a: Tapu Koko|Volt Switch|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|51/100
+|
+|t:|1641698918
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|88/100|[from]move: Volt Switch
+|
+|-weather|none
+|upkeep
+|turn|29
+|
+|t:|1641698924
+|switch|p1a: Dragapult|Dragapult, F|88/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|67/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|48/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|29/100
+|-hitcount|p1a: Dragapult|3
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|30
+|
+|t:|1641698934
+|switch|p2a: Tapu Koko|Tapu Koko, shiny|88/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|upkeep
+|turn|31
+|
+|t:|1641698953
+|move|p1a: Dragapult|Phantom Force|p2a: Tapu Koko|[from]lockedmove
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641698961
+|switch|p2a: Pelipper|Pelipper, M|99/100 par
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|32
+|
+|t:|1641698974
+|switch|p1a: Ferrothorn|Ferrothorn, M|30/100
+|move|p2a: Pelipper|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|1/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1641698981
+|move|p2a: Pelipper|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641698984
+|switch|p1a: Magnezone|Magnezone|51/100
+|turn|34
+|
+|t:|1641698990
+|move|p1a: Magnezone|Volt Switch|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|t:|1641698995
+|switch|p1a: Dragapult|Dragapult, F|29/100|[from]move: Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641698999
+|switch|p2a: Crawdaunt|Crawdaunt, M|88/100
+|turn|35
+|
+|t:|1641699006
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641699013
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|turn|36
+|
+|t:|1641699016
+|move|p2a: Crawdaunt|Aqua Jet|p1a: Buzzwole
+|-crit|p1a: Buzzwole
+|-damage|p1a: Buzzwole|33/100
+|move|p1a: Buzzwole|Close Combat|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|faint|p2a: Crawdaunt
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641699021
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|88/100
+|turn|37
+|
+|t:|1641699025
+|move|p1a: Buzzwole|Close Combat|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|-unboost|p1a: Buzzwole|def|1
+|-unboost|p1a: Buzzwole|spd|1
+|faint|p2a: Urshifu
+|
+|win|dach02

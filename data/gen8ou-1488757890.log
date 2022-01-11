@@ -1,0 +1,335 @@
+|j|☆illegalamigo1
+|j|☆royalsnom
+|t:|1641816870
+|gametype|singles
+|player|p1|illegalamigo1|swimmer-gen4|1322
+|player|p2|royalsnom|170|1362
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales, F|
+|poke|p1|Diggersby, M|
+|poke|p1|Venusaur, F|
+|poke|p1|Slowbro-Galar, F|
+|poke|p1|Zapdos|
+|poke|p1|Mienshao, F|
+|poke|p2|Blacephalon|
+|poke|p2|Corviknight, F|
+|poke|p2|Zeraora|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Kartana|
+|teampreview
+|c|☆royalsnom|gl hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by royalsnom)
+|
+|t:|1641816885
+|start
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: finn'sleaf blade|Kartana|100/100
+|turn|1
+|
+|t:|1641816891
+|move|p2a: finn'sleaf blade|Swords Dance|p2a: finn'sleaf blade
+|-boost|p2a: finn'sleaf blade|atk|2
+|move|p1a: Zapdos|Heat Wave|p2a: finn'sleaf blade
+|-supereffective|p2a: finn'sleaf blade
+|-damage|p2a: finn'sleaf blade|0 fnt
+|faint|p2a: finn'sleaf blade
+|
+|upkeep
+|c|☆royalsnom|every time
+|c|☆royalsnom|every damn time
+|
+|t:|1641816901
+|switch|p2a: why is it here|Landorus-Therian, M|100/100
+|-ability|p2a: why is it here|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|turn|2
+|
+|t:|1641816908
+|move|p2a: why is it here|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|43/100
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|18/100
+|
+|-heal|p1a: Zapdos|24/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|c|☆royalsnom|I get read like a book
+|
+|t:|1641816915
+|move|p2a: why is it here|Stone Edge|p1a: Zapdos|[miss]
+|-miss|p2a: why is it here|p1a: Zapdos
+|move|p1a: Zapdos|Toxic|p2a: why is it here
+|-status|p2a: why is it here|tox
+|
+|-heal|p1a: Zapdos|30/100|[from] item: Leftovers
+|-damage|p2a: why is it here|95/100 tox|[from] psn
+|upkeep
+|turn|4
+|c|☆royalsnom|ah yes
+|c|☆royalsnom|toxic stall
+|
+|t:|1641816924
+|move|p2a: why is it here|Swords Dance|p2a: why is it here
+|-boost|p2a: why is it here|atk|2
+|move|p1a: Zapdos|Heat Wave|p2a: why is it here
+|-damage|p2a: why is it here|64/100 tox
+|
+|-heal|p2a: why is it here|69/100 tox|[from] item: Leftovers
+|-heal|p1a: Zapdos|36/100|[from] item: Leftovers
+|-damage|p2a: why is it here|58/100 tox|[from] psn
+|upkeep
+|turn|5
+|c|☆royalsnom|if this was rand bats
+|c|☆royalsnom|maybe you would get a pass
+|
+|t:|1641816935
+|move|p2a: why is it here|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|move|p1a: Zapdos|Heat Wave|p2a: why is it here|[miss]
+|-miss|p1a: Zapdos|p2a: why is it here
+|
+|-heal|p2a: why is it here|64/100 tox|[from] item: Leftovers
+|-heal|p1a: Zapdos|42/100|[from] item: Leftovers
+|-damage|p2a: why is it here|46/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641816944
+|move|p2a: why is it here|Stone Edge|p1a: Zapdos|[miss]
+|-miss|p2a: why is it here|p1a: Zapdos
+|move|p1a: Zapdos|Heat Wave|p2a: why is it here
+|-damage|p2a: why is it here|13/100 tox
+|
+|-heal|p2a: why is it here|19/100 tox|[from] item: Leftovers
+|-heal|p1a: Zapdos|48/100|[from] item: Leftovers
+|-damage|p2a: why is it here|0 fnt|[from] psn
+|faint|p2a: why is it here
+|upkeep
+|c|☆royalsnom|but you went out of your way to make a stall
+|
+|t:|1641816954
+|switch|p2a: kachow rat|Zeraora|100/100
+|turn|7
+|
+|t:|1641816963
+|move|p2a: kachow rat|Plasma Fists|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641816974
+|switch|p1a: Diggersby|Diggersby, M|100/100
+|turn|8
+|
+|t:|1641816980
+|switch|p2a: moist fighter|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Diggersby|Earthquake|p2a: moist fighter
+|-damage|p2a: moist fighter|11/100
+|-damage|p1a: Diggersby|91/100|[from] item: Life Orb
+|
+|-heal|p2a: moist fighter|18/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641816994
+|switch|p1a: Mienshao|Mienshao, F|100/100
+|move|p2a: moist fighter|Surging Strikes|p1a: Mienshao
+|-crit|p1a: Mienshao
+|-damage|p1a: Mienshao|65/100
+|-crit|p1a: Mienshao
+|-damage|p1a: Mienshao|27/100
+|-crit|p1a: Mienshao
+|-damage|p1a: Mienshao|0 fnt
+|faint|p1a: Mienshao
+|-hitcount|p1: Mienshao|3
+|
+|-heal|p2a: moist fighter|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641817006
+|switch|p1a: Cotija|Slowbro-Galar, F|100/100
+|turn|10
+|c|☆royalsnom|there are no free swaps
+|
+|t:|1641817014
+|move|p2a: moist fighter|Surging Strikes|p1a: Cotija
+|-crit|p1a: Cotija
+|-damage|p1a: Cotija|81/100
+|-crit|p1a: Cotija
+|-damage|p1a: Cotija|63/100
+|-crit|p1a: Cotija
+|-damage|p1a: Cotija|43/100
+|-hitcount|p1a: Cotija|3
+|move|p1a: Cotija|Sludge Wave|p2a: moist fighter
+|-damage|p2a: moist fighter|0 fnt
+|faint|p2a: moist fighter
+|
+|upkeep
+|
+|t:|1641817019
+|switch|p2a: blue boi|Blacephalon, shiny|100/100
+|turn|11
+|-activate|p1a: Cotija|item: Quick Claw
+|
+|t:|1641817026
+|move|p1a: Cotija|Surf|p2a: blue boi
+|-supereffective|p2a: blue boi
+|-damage|p2a: blue boi|0 fnt
+|faint|p2a: blue boi
+|
+|upkeep
+|c|☆illegalamigo1|its all good homie
+|c|☆royalsnom|you stupid game
+|
+|t:|1641817044
+|switch|p2a: kachow rat|Zeraora|100/100
+|turn|12
+|
+|t:|1641817050
+|switch|p1a: Diggersby|Diggersby, M|91/100
+|move|p2a: kachow rat|Plasma Fists|p1a: Diggersby
+|-immune|p1a: Diggersby
+|
+|upkeep
+|turn|13
+|
+|t:|1641817059
+|switch|p2a: defog boi|Corviknight, F|100/100
+|-ability|p2a: defog boi|Pressure
+|move|p1a: Diggersby|Earthquake|p2a: defog boi
+|-immune|p2a: defog boi
+|
+|upkeep
+|turn|14
+|
+|t:|1641817065
+|move|p1a: Diggersby|Ice Punch|p2a: defog boi
+|-damage|p2a: defog boi|72/100
+|-damage|p1a: Diggersby|81/100|[from] item: Life Orb
+|move|p2a: defog boi|Body Press|p1a: Diggersby
+|-supereffective|p1a: Diggersby
+|-damage|p1a: Diggersby|5/100
+|
+|-heal|p2a: defog boi|79/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641817075
+|move|p1a: Diggersby|U-turn|p2a: defog boi
+|-resisted|p2a: defog boi
+|-damage|p2a: defog boi|72/100
+|-damage|p1a: Diggersby|0 fnt|[from] item: Life Orb
+|faint|p1a: Diggersby
+|move|p2a: defog boi|Roost|p2a: defog boi
+|-heal|p2a: defog boi|100/100
+|-singleturn|p2a: defog boi|move: Roost
+|
+|upkeep
+|c|☆royalsnom|ah yes he gets ice punch
+|
+|t:|1641817083
+|switch|p1a: Feta|Ninetales, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Feta
+|turn|16
+|
+|t:|1641817093
+|switch|p2a: kachow rat|Zeraora|100/100
+|move|p1a: Feta|Substitute|p1a: Feta
+|-start|p1a: Feta|Substitute
+|-damage|p1a: Feta|75/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|inactive|royalsnom has 120 seconds left.
+|c|☆illegalamigo1|diggersby gets rediculous coverage
+|inactive|royalsnom has 90 seconds left.
+|
+|t:|1641817154
+|move|p2a: kachow rat|Plasma Fists|p1a: Feta
+|-end|p1a: Feta|Substitute
+|move|p1a: Feta|Flamethrower|p2a: kachow rat
+|-damage|p2a: kachow rat|55/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|18
+|c|☆royalsnom|so it does
+|
+|t:|1641817162
+|move|p2a: kachow rat|Plasma Fists|p1a: Feta
+|-damage|p1a: Feta|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Feta
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641817169
+|switch|p1a: Venusaur|Venusaur, F|100/100
+|turn|19
+|c|☆royalsnom|its going to be a close one
+|c|☆illegalamigo1|maybe
+|
+|t:|1641817181
+|switch|p2a: defog boi|Corviknight, F|100/100
+|-ability|p2a: defog boi|Pressure
+|move|p1a: Venusaur|Earth Power|p2a: defog boi
+|-immune|p2a: defog boi
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641817188
+|move|p1a: Venusaur|Weather Ball|p2a: defog boi
+|-supereffective|p2a: defog boi
+|-damage|p2a: defog boi|0 fnt
+|faint|p2a: defog boi
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|c|☆royalsnom|pffffffffffffffffffffffffffffff
+|
+|t:|1641817195
+|switch|p2a: kachow rat|Zeraora|55/100
+|turn|21
+|c|☆royalsnom|it all comes down to this
+|c|☆royalsnom|will blaze kick ohko
+|
+|t:|1641817204
+|move|p1a: Venusaur|Earth Power|p2a: kachow rat
+|-supereffective|p2a: kachow rat
+|-damage|p2a: kachow rat|0 fnt
+|faint|p2a: kachow rat
+|
+|win|illegalamigo1
+|raw|illegalamigo1's rating: 1322 &rarr; <strong>1344</strong><br />(+22 for winning)
+|raw|royalsnom's rating: 1362 &rarr; <strong>1340</strong><br />(-22 for losing)
+|c|☆royalsnom|FUCK
+|c|☆illegalamigo1|chlorophyl
+|c|☆royalsnom|FUCK
+|c|☆illegalamigo1|gg homie
+|c|☆royalsnom|double fuck
+|c|☆royalsnom|gg
+|l|☆royalsnom

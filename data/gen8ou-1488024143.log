@@ -1,0 +1,66 @@
+|j|☆szhnbhhh
+|j|☆q114514
+|t:|1641698954
+|gametype|singles
+|player|p1|szhnbhhh|dawn|1184
+|player|p2|q114514|veteran|1180
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Stakataka|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Celesteela|
+|poke|p1|Melmetal|
+|poke|p2|Tapu Fini|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Lele|
+|poke|p2|Kartana|
+|poke|p2|Hawlucha, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1641698969
+|start
+|switch|p1a: Melmetal|Melmetal, shiny|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1641698983
+|move|p2a: Tapu Fini|Trick|p1a: Melmetal
+|-activate|p2a: Tapu Fini|move: Trick|[of] p1a: Melmetal
+|-item|p1a: Melmetal|Choice Scarf|[from] move: Trick
+|-item|p2a: Tapu Fini|Assault Vest|[from] move: Trick
+|move|p1a: Melmetal|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|64/100
+|
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by q114514)
+|
+|t:|1641698992
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Melmetal|Earthquake|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|faint|p2a: Magnezone
+|
+|upkeep
+|-message|q114514 forfeited.
+|
+|win|szhnbhhh
+|raw|szhnbhhh's rating: 1184 &rarr; <strong>1210</strong><br />(+26 for winning)
+|raw|q114514's rating: 1203 &rarr; <strong>1177</strong><br />(-26 for losing)
+|l|☆q114514

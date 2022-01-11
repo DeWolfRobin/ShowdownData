@@ -1,0 +1,394 @@
+|j|‽Windsom
+|j|☆Yalper
+|t:|1641817516
+|gametype|singles
+|player|p1|Windsom|hilbert|1703
+|player|p2|Yalper|1|1595
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Hawlucha, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Mew|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Volcarona, F|
+|poke|p2|Tapu Lele|
+|poke|p2|Kartana|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Windsom)
+|
+|t:|1641817548
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|
+|t:|1641817556
+|move|p2a: Tapu Lele|Moonblast|p1a: Mew
+|-damage|p1a: Mew|56/100
+|-unboost|p1a: Mew|spa|1
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|
+|upkeep
+|turn|2
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817603
+|switch|p2a: Volcarona|Volcarona, F|100/100
+|move|p1a: Mew|Soft-Boiled|p1a: Mew
+|-heal|p1a: Mew|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641817609
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641817618
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|
+|upkeep
+|turn|5
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817626
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Mew|Stored Power|p2a: Volcarona
+|-damage|p2a: Volcarona|81/100
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641817638
+|move|p2a: Volcarona|Bug Buzz|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|19/100
+|-enditem|p1a: Mew|Weakness Policy
+|-boost|p1a: Mew|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Mew|spa|2|[from] item: Weakness Policy
+|move|p1a: Mew|Stored Power|p2a: Volcarona
+|-damage|p2a: Volcarona|34/100
+|
+|upkeep
+|turn|7
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817654
+|move|p2a: Volcarona|Bug Buzz|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641817660
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Volcarona|atk|1
+|turn|8
+|
+|t:|1641817666
+|move|p2a: Volcarona|Fiery Dance|p1a: Landorus
+|-enditem|p1a: Landorus|Focus Sash
+|-damage|p1a: Landorus|1/100
+|move|p1a: Landorus|Earthquake|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|upkeep
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817687
+|switch|p2a: Kartana|Kartana|100/100
+|turn|9
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817701
+|move|p2a: Kartana|Sacred Sword|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|-damage|p2a: Kartana|90/100|[from] item: Life Orb
+|
+|upkeep
+|j| Small_Rodent
+|
+|t:|1641817709
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|10
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817722
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Misty Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Misty Seed
+|move|p2a: Kartana|Leaf Blade|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|13/100
+|-damage|p2a: Kartana|80/100|[from] item: Life Orb
+|
+|upkeep
+|turn|11
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817741
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hawlucha|atk|1
+|move|p1a: Hawlucha|Close Combat|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|86/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|
+|-heal|p2a: Landorus|92/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817754
+|move|p1a: Hawlucha|Taunt|p2a: Landorus
+|-start|p2a: Landorus|move: Taunt
+|cant|p2a: Landorus|move: Taunt|Stealth Rock
+|
+|-heal|p2a: Landorus|98/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817764
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Landorus|Knock Off|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-heal|p2a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641817780
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|turn|14
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817795
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Landorus|Earthquake|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|52/100
+|
+|-heal|p1a: Tapu Fini|58/100|[from] item: Leftovers
+|-end|p2a: Landorus|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|15
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817805
+|move|p1a: Tapu Fini|Taunt|p2a: Landorus
+|-start|p2a: Landorus|move: Taunt
+|move|p2a: Landorus|Earthquake|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|10/100
+|
+|-heal|p1a: Tapu Fini|16/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641817812
+|move|p1a: Tapu Fini|Surf|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|3/100
+|move|p2a: Landorus|Earthquake|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|-heal|p2a: Landorus|9/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641817820
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|turn|17
+|
+|t:|1641817824
+|move|p1a: Bisharp|Sucker Punch|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641817846
+|switch|p2a: Kartana|Kartana|80/100
+|turn|18
+|
+|t:|1641817869
+|move|p1a: Bisharp|Sucker Punch|p2a: Kartana
+|-damage|p2a: Kartana|29/100
+|move|p2a: Kartana|Knock Off|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|49/100
+|-enditem|p1a: Bisharp|Black Glasses|[from] move: Knock Off|[of] p2a: Kartana
+|-damage|p2a: Kartana|19/100|[from] item: Life Orb
+|
+|upkeep
+|turn|19
+|j| ixenus
+|
+|t:|1641817883
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|
+|upkeep
+|turn|20
+|
+|t:|1641817888
+|move|p1a: Bisharp|Sucker Punch|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|82/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Bisharp
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|11/100
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|-hitcount|p1: Bisharp|2
+|
+|upkeep
+|
+|t:|1641817896
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|21
+|
+|t:|1641817901
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Urshifu|Surging Strikes|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|82/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|63/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|43/100
+|-hitcount|p1a: Dragapult|3
+|
+|upkeep
+|turn|22
+|
+|t:|1641817912
+|move|p1a: Dragapult|Dragon Darts|p2a: Urshifu
+|-damage|p2a: Urshifu|32/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|-damage|p1a: Dragapult|34/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641817935
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|23
+|
+|t:|1641817941
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Tapu Lele|Moonblast|p1a: Dragapult|[miss]
+|-miss|p2a: Tapu Lele|p1a: Dragapult
+|
+|upkeep
+|turn|24
+|
+|t:|1641817949
+|switch|p2a: Kartana|Kartana|19/100
+|move|p1a: Dragapult|Phantom Force|p2a: Kartana|[from]lockedmove
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|-damage|p1a: Dragapult|24/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|Yalper has 120 seconds left.
+|
+|t:|1641817971
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|turn|25
+|
+|t:|1641817974
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Tapu Lele|Moonblast|p1a: Dragapult|[miss]
+|-miss|p2a: Tapu Lele|p1a: Dragapult
+|
+|upkeep
+|turn|26
+|
+|t:|1641817981
+|move|p1a: Dragapult|Phantom Force|p2a: Tapu Lele|[from]lockedmove
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|-damage|p1a: Dragapult|14/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641817986
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|27
+|
+|t:|1641817989
+|move|p1a: Dragapult|Dragon Darts|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-damage|p1a: Dragapult|4/100|[from] item: Life Orb
+|
+|win|Windsom
+|raw|Windsom's rating: 1703 &rarr; <strong>1717</strong><br />(+14 for winning)
+|raw|Yalper's rating: 1595 &rarr; <strong>1581</strong><br />(-14 for losing)
+|l|☆Yalper

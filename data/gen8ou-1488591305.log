@@ -1,0 +1,511 @@
+|j|☆SnappyBadlands
+|j|☆Mystery Exile
+|t:|1641786231
+|gametype|singles
+|player|p1|SnappyBadlands|170|1370
+|player|p2|Mystery Exile|furisodegirl-black|1428
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Heatran, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Kartana|
+|poke|p1|Tapu Lele|
+|poke|p2|Golurk|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Clefable, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Tyranitar, M|
+|teampreview
+|
+|t:|1641786242
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mystery Exile)
+|
+|t:|1641786248
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|move|p2a: Toxapex|Scald|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|76/100
+|-status|p1a: Kartana|brn
+|
+|-damage|p1a: Kartana|70/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641786256
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|-damage|p1a: Kartana|64/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641786265
+|move|p1a: Kartana|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|51/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|-damage|p1a: Kartana|54/100 brn|[from] item: Life Orb
+|move|p2a: Corviknight|Body Press|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|2/100 brn
+|
+|-damage|p1a: Kartana|0 fnt|[from] brn
+|faint|p1a: Kartana
+|upkeep
+|
+|t:|1641786277
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|4
+|
+|t:|1641786281
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Heatran|Magma Storm|p2a: Tyranitar|[miss]
+|-miss|p1a: Heatran|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641786294
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Tyranitar|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|77/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garchomp|83/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641786310
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Garchomp|Stealth Rock|p2a: Clefable
+|-sidestart|p2: Mystery Exile|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garchomp|89/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641786322
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Clefable|Moonblast|p1a: Rotom
+|-crit|p1a: Rotom
+|-damage|p1a: Rotom|58/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Rotom|52/100|[from] Sandstorm
+|-heal|p1a: Rotom|58/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641786331
+|move|p1a: Rotom|Thunder Wave|p2a: Clefable
+|-status|p2a: Clefable|par
+|move|p2a: Clefable|Moonblast|p1a: Rotom
+|-damage|p1a: Rotom|34/100
+|-unboost|p1a: Rotom|spa|1
+|
+|-weather|none
+|-heal|p1a: Rotom|40/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641786341
+|move|p1a: Rotom|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|86/100 par
+|
+|t:|1641786348
+|switch|p1a: Heatran|Heatran, F|100/100|[from]move: Volt Switch
+|move|p2a: Clefable|Moonblast|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|95/100
+|
+|-heal|p1a: Heatran|100/100|[from] item: Leftovers
+|-heal|p2a: Clefable|92/100 par|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641786357
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Heatran|Magma Storm|p2a: Tyranitar|[miss]
+|-miss|p1a: Heatran|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641786367
+|move|p1a: Heatran|Toxic|p2a: Tyranitar
+|-status|p2a: Tyranitar|tox
+|move|p2a: Tyranitar|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641786378
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|12
+|
+|t:|1641786381
+|move|p1a: Dragapult|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|68/100 tox
+|
+|t:|1641786385
+|switch|p1a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Tyranitar|Crunch|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|44/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|38/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|74/100 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|62/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641786404
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Tapu Lele|Focus Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|24/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|31/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|31/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641786415
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Ferrothorn|Protect||[still]
+|-fail|p2a: Ferrothorn
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|37/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641786422
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-heal|p2a: Ferrothorn|43/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641786428
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Ferrothorn|[miss]
+|-miss|p1a: Dragapult|p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Dragapult
+|-start|p1a: Dragapult|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|49/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|60/100|[silent]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|17
+|
+|t:|1641786436
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Ferrothorn
+|-status|p2a: Ferrothorn|brn
+|move|p2a: Ferrothorn|Spikes|p1a: Dragapult
+|-sidestart|p1: SnappyBadlands|Spikes
+|
+|-heal|p2a: Ferrothorn|67/100 brn|[from] item: Leftovers
+|-damage|p1a: Dragapult|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|78/100 brn|[silent]
+|-damage|p2a: Ferrothorn|72/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641786446
+|switch|p1a: Tapu Lele|Tapu Lele|31/100
+|-damage|p1a: Tapu Lele|19/100|[from] Spikes
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Ferrothorn|Protect||[still]
+|-fail|p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|78/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|72/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641786458
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Tapu Lele|Focus Blast|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-heal|p2a: Ferrothorn|78/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|72/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641786466
+|switch|p1a: Dragapult|Dragapult, F|76/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|
+|-heal|p2a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1641786475
+|switch|p2a: Tyranitar|Tyranitar, M|62/100 tox
+|-damage|p2a: Tyranitar|50/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Dragapult|Will-O-Wisp||[still]
+|-fail|p1a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|70/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|56/100 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|50/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641786486
+|switch|p2a: Ferrothorn|Ferrothorn, M|72/100 brn
+|-damage|p2a: Ferrothorn|65/100 brn|[from] Stealth Rock
+|move|p1a: Dragapult|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|55/100 brn
+|-damage|p1a: Dragapult|58/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|t:|1641786495
+|switch|p1a: Tapu Lele|Tapu Lele|19/100|[from]move: U-turn
+|-damage|p1a: Tapu Lele|7/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|0 fnt|[from] Sandstorm
+|faint|p1a: Tapu Lele
+|-heal|p2a: Ferrothorn|61/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|55/100 brn|[from] brn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641786508
+|switch|p1a: Dragapult|Dragapult, F|58/100
+|turn|23
+|
+|t:|1641786512
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Dragapult|Hex|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|52/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|61/100 brn|[from] item: Leftovers
+|-damage|p2a: Ferrothorn|55/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641786521
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|69/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|46/100|[from] Sandstorm
+|-damage|p2a: Toxapex|63/100|[from] Sandstorm
+|-heal|p2a: Toxapex|69/100|[from] item: Black Sludge
+|upkeep
+|turn|25
+|
+|t:|1641786533
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Toxapex
+|-status|p2a: Toxapex|brn
+|move|p2a: Toxapex|Poison Jab|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|39/100
+|
+|-weather|none
+|-heal|p2a: Toxapex|75/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|69/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641786542
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|34/100 brn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|84/100 brn
+|
+|-heal|p2a: Toxapex|91/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|84/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641786554
+|move|p1a: Dragapult|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|77/100 brn
+|
+|t:|1641786557
+|switch|p1a: Garchomp|Garchomp, M|89/100|[from]move: U-turn
+|-damage|p1a: Garchomp|77/100|[from] Spikes
+|move|p2a: Toxapex|Scald|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|53/100
+|
+|-heal|p1a: Garchomp|59/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|84/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|77/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641786568
+|switch|p1a: Rotom|Rotom-Wash|40/100
+|switch|p2a: Corviknight|Corviknight, F|51/100
+|-damage|p2a: Corviknight|38/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|
+|-heal|p1a: Rotom|47/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641786578
+|switch|p2a: Clefable|Clefable, M|92/100 par
+|move|p1a: Rotom|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|68/100 par
+|
+|t:|1641786584
+|switch|p1a: Dragapult|Dragapult, F|39/100|[from]move: Volt Switch
+|
+|-heal|p2a: Clefable|74/100 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641786594
+|switch|p2a: Toxapex|Toxapex, F|100/100 brn
+|-damage|p2a: Toxapex|88/100 brn|[from] Stealth Rock
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|50/100 brn
+|
+|-heal|p2a: Toxapex|57/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|50/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641786603
+|move|p1a: Dragapult|Hex|p2a: Toxapex
+|-damage|p2a: Toxapex|16/100 brn
+|move|p2a: Toxapex|Toxic Spikes|p1a: Dragapult
+|-sidestart|p1: SnappyBadlands|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|22/100 brn|[from] item: Black Sludge
+|-damage|p2a: Toxapex|16/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641786614
+|switch|p2a: Tyranitar|Tyranitar, M|50/100 tox
+|-damage|p2a: Tyranitar|37/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Dragapult|Hex|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|26/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|33/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|32/100 tox|[from] item: Leftovers
+|-damage|p2a: Tyranitar|26/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641786628
+|move|p1a: Dragapult|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|t:|1641786643
+|switch|p1a: Garchomp|Garchomp, M|59/100|[from]move: U-turn
+|-status|p1a: Garchomp|psn
+|-damage|p1a: Garchomp|46/100 psn|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garchomp|53/100 psn|[from] item: Leftovers
+|-damage|p1a: Garchomp|40/100 psn|[from] psn
+|upkeep
+|
+|t:|1641786654
+|switch|p2a: Golurk|Golurk|100/100
+|-damage|p2a: Golurk|94/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1641786659
+|move|p1a: Garchomp|Toxic|p2a: Golurk|[miss]
+|-miss|p1a: Garchomp|p2a: Golurk
+|move|p2a: Golurk|Trick|p1a: Garchomp
+|-activate|p2a: Golurk|move: Trick|[of] p1a: Garchomp
+|-item|p1a: Garchomp|Assault Vest|[from] move: Trick
+|-item|p2a: Golurk|Leftovers|[from] move: Trick
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Garchomp|28/100 psn|[from] psn
+|upkeep
+|turn|35
+|
+|t:|1641786667
+|switch|p1a: Dragapult|Dragapult, F|33/100
+|move|p2a: Golurk|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: SnappyBadlands|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|27/100|[from] Sandstorm
+|upkeep
+|turn|36
+|
+|t:|1641786676
+|move|p1a: Dragapult|Will-O-Wisp|p2a: Golurk
+|-status|p2a: Golurk|brn
+|move|p2a: Golurk|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|none
+|-damage|p2a: Golurk|88/100 brn|[from] brn
+|upkeep
+|-message|SnappyBadlands forfeited.
+|
+|win|Mystery Exile
+|raw|SnappyBadlands's rating: 1370 &rarr; <strong>1353</strong><br />(-17 for losing)
+|raw|Mystery Exile's rating: 1428 &rarr; <strong>1445</strong><br />(+17 for winning)
+|l|☆SnappyBadlands

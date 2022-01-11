@@ -1,0 +1,225 @@
+|j|☆lando is my bf
+|j|☆GGeorgie
+|t:|1641767154
+|gametype|singles
+|player|p1|lando is my bf|dawn-gen4pt|1674
+|player|p2|GGeorgie|hiker-gen2|1720
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Nihilego|
+|poke|p1|Kartana|
+|poke|p1|Celesteela|
+|poke|p1|Latios, M|
+|poke|p1|Mew|
+|poke|p1|Latias, F|
+|poke|p2|Weavile, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Heatran, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by GGeorgie)
+|j| Powereine
+|
+|t:|1641767165
+|start
+|switch|p1a: Latios|Latios, M|100/100
+|switch|p2a: Weavile|Weavile, M, shiny|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|1
+|
+|t:|1641767178
+|move|p2a: Weavile|Knock Off|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|-enditem|p1a: Latios|Light Clay|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1641767181
+|switch|p1a: Celesteela|Celesteela|100/100
+|turn|2
+|
+|t:|1641767186
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Celesteela|Autotomize|p1a: Celesteela
+|-boost|p1a: Celesteela|spe|2
+|-start|p1a: Celesteela|Autotomize
+|
+|upkeep
+|turn|3
+|
+|t:|1641767189
+|move|p1a: Celesteela|Meteor Beam||[still]
+|-prepare|p1a: Celesteela|Meteor Beam
+|-boost|p1a: Celesteela|spa|1
+|-enditem|p1a: Celesteela|Power Herb
+|-anim|p1a: Celesteela|Meteor Beam|p2a: Heatran
+|-damage|p2a: Heatran|60/100
+|move|p2a: Heatran|Magma Storm|p1a: Celesteela
+|-supereffective|p1a: Celesteela
+|-damage|p1a: Celesteela|16/100
+|-activate|p1a: Celesteela|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|66/100|[from] item: Leftovers
+|-damage|p1a: Celesteela|4/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1641767197
+|move|p1a: Celesteela|Air Slash|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|45/100
+|move|p2a: Heatran|Stealth Rock|p1a: Celesteela
+|-sidestart|p1: lando is my bf|move: Stealth Rock
+|
+|-heal|p2a: Heatran|51/100|[from] item: Leftovers
+|-damage|p1a: Celesteela|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p1a: Celesteela
+|upkeep
+|
+|t:|1641767203
+|switch|p1a: Nihilego|Nihilego|100/100
+|-damage|p1a: Nihilego|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641767206
+|switch|p2a: Ferrothorn|Ferrothorn, M, shiny|100/100
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|-enditem|p1a: Nihilego|Power Herb
+|-anim|p1a: Nihilego|Meteor Beam|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|62/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641767215
+|move|p1a: Nihilego|Power Gem|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|38/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Nihilego
+|-start|p1a: Nihilego|move: Leech Seed
+|
+|-damage|p1a: Nihilego|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|51/100|[silent]
+|upkeep
+|turn|7
+|
+|t:|1641767218
+|move|p1a: Nihilego|Meteor Beam||[still]
+|-prepare|p1a: Nihilego|Meteor Beam
+|-boost|p1a: Nihilego|spa|1
+|move|p2a: Ferrothorn|Power Whip|p1a: Nihilego
+|-damage|p1a: Nihilego|13/100
+|
+|-damage|p1a: Nihilego|1/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|63/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641767222
+|move|p1a: Nihilego|Meteor Beam|p2a: Ferrothorn|[from]lockedmove
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|16/100
+|move|p2a: Ferrothorn|Spikes|p1a: Nihilego
+|-sidestart|p1: lando is my bf|Spikes
+|
+|-damage|p1a: Nihilego|0 fnt|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|16/100|[silent]
+|faint|p1a: Nihilego
+|upkeep
+|
+|t:|1641767226
+|switch|p1a: Kartana|Kartana, shiny|100/100
+|-damage|p1a: Kartana|88/100|[from] Spikes
+|-damage|p1a: Kartana|82/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641767229
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|move|p2a: Ferrothorn|Knock Off|p1a: Kartana
+|-crit|p1a: Kartana
+|-damage|p1a: Kartana|51/100
+|-enditem|p1a: Kartana|Salac Berry|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|10
+|j| DiscoTrickster
+|
+|t:|1641767232
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kartana|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|29/100
+|-status|p1a: Kartana|par|[from] ability: Static|[of] p2a: Zapdos
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Kartana
+|
+|upkeep
+|turn|11
+|
+|t:|1641767237
+|move|p2a: Zapdos|Volt Switch|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|3/100 par
+|
+|t:|1641767239
+|switch|p2a: Ferrothorn|Ferrothorn, M, shiny|16/100|[from]move: Volt Switch
+|move|p1a: Kartana|Leaf Blade|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-damage|p1a: Kartana|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641767245
+|switch|p1a: Latias|Latias, F|100/100
+|switch|p2a: Weavile|Weavile, M, shiny|100/100
+|-ability|p2a: Weavile|Pressure
+|-damage|p1a: Latias|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641767249
+|move|p2a: Weavile|Knock Off|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|-enditem|p1a: Latias|Weakness Policy|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Latias
+|
+|upkeep
+|
+|t:|1641767252
+|switch|p1a: Mew|Mew|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|-damage|p1a: Mew|76/100|[from] Spikes
+|turn|13
+|
+|t:|1641767254
+|move|p2a: Weavile|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|-enditem|p1a: Mew|Kasib Berry|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Mew
+|
+|win|GGeorgie
+|raw|lando is my bf's rating: 1674 &rarr; <strong>1657</strong><br />(-17 for losing)
+|raw|GGeorgie's rating: 1720 &rarr; <strong>1737</strong><br />(+17 for winning)
+|j| I Have A Plan
+|c|☆lando is my bf|gg

@@ -1,0 +1,447 @@
+|j|☆yaboiAshK.
+|j|☆metal kaiju kong
+|t:|1641858789
+|gametype|singles
+|player|p1|yaboiAshK.|ash|1616
+|player|p2|metal kaiju kong|sailor|1549
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Bisharp, F|
+|poke|p1|Magnezone|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Arctozolt|
+|poke|p2|Kommo-o, F|
+|poke|p2|Arctovish|
+|poke|p2|Blissey, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yaboiAshK.)
+|
+|t:|1641858804
+|start
+|switch|p1a: Road Runnuh|Zapdos-Galar|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, M, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1641858816
+|switch|p2a: Kommo-o|Kommo-o, F|100/100
+|move|p1a: Road Runnuh|Close Combat|p2a: Kommo-o
+|-damage|p2a: Kommo-o|43/100
+|-unboost|p1a: Road Runnuh|def|1
+|-unboost|p1a: Road Runnuh|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Road Runnuh|94/100|[from] Hail
+|-damage|p2a: Kommo-o|37/100|[from] Hail
+|-heal|p2a: Kommo-o|43/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641858825
+|move|p1a: Road Runnuh|Close Combat|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|-unboost|p1a: Road Runnuh|def|1
+|-unboost|p1a: Road Runnuh|spd|1
+|faint|p2a: Kommo-o
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Road Runnuh|88/100|[from] Hail
+|upkeep
+|
+|t:|1641858828
+|switch|p2a: Arctozolt|Arctozolt, shiny|100/100
+|turn|3
+|
+|t:|1641858832
+|switch|p1a: Prick Sanchez|Ferrothorn, M|100/100
+|move|p2a: Arctozolt|Substitute|p2a: Arctozolt
+|-start|p2a: Arctozolt|Substitute
+|-damage|p2a: Arctozolt|76/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Prick Sanchez|94/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641858835
+|move|p2a: Arctozolt|Blizzard|p1a: Prick Sanchez
+|-damage|p1a: Prick Sanchez|64/100
+|move|p1a: Prick Sanchez|Bulldoze|p2a: Arctozolt
+|-supereffective|p2a: Arctozolt
+|-end|p2a: Arctozolt|Substitute
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Prick Sanchez|58/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641858841
+|move|p2a: Arctozolt|Blizzard|p1a: Prick Sanchez
+|-damage|p1a: Prick Sanchez|27/100
+|move|p1a: Prick Sanchez|Knock Off|p2a: Arctozolt
+|-crit|p2a: Arctozolt
+|-damage|p2a: Arctozolt|39/100
+|-enditem|p2a: Arctozolt|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Prick Sanchez
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Prick Sanchez|21/100|[from] Hail
+|upkeep
+|turn|6
+|
+|t:|1641858848
+|move|p2a: Arctozolt|Bolt Beak|p1a: Prick Sanchez
+|-resisted|p1a: Prick Sanchez
+|-damage|p1a: Prick Sanchez|0 fnt
+|-damage|p2a: Arctozolt|27/100|[from] ability: Iron Barbs|[of] p1a: Prick Sanchez
+|-damage|p2a: Arctozolt|10/100|[from] item: Rocky Helmet|[of] p1a: Prick Sanchez
+|faint|p1a: Prick Sanchez
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641858875
+|switch|p1a: and Eye oop-|Magnezone, shiny|100/100
+|turn|7
+|
+|t:|1641858879
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: and Eye oop-|Volt Switch|p2a: Blissey
+|-damage|p2a: Blissey|70/100
+|
+|t:|1641858883
+|switch|p1a: Road Runnuh|Zapdos-Galar|88/100|[from]move: Volt Switch
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Road Runnuh|82/100|[from] Hail
+|-damage|p2a: Blissey|64/100|[from] Hail
+|upkeep
+|turn|8
+|
+|t:|1641858887
+|switch|p2a: Corviknight|Corviknight, M, shiny|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Road Runnuh|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|95/100
+|-damage|p1a: Road Runnuh|65/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|t:|1641858890
+|switch|p1a: and Eye oop-|Magnezone, shiny|100/100|[from]move: U-turn
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641858893
+|move|p1a: and Eye oop-|Thunderbolt|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641858897
+|switch|p2a: Ninetales|Ninetales-Alola, M, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|10
+|
+|t:|1641858903
+|switch|p2a: Blissey|Blissey, F|64/100
+|switch|p1a: Yaki Bundlez|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Yaki Bundlez
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Yaki Bundlez|94/100|[from] Hail
+|-damage|p2a: Blissey|57/100|[from] Hail
+|upkeep
+|turn|11
+|
+|t:|1641858906
+|move|p1a: Yaki Bundlez|Trick|p2a: Blissey
+|-activate|p1a: Yaki Bundlez|move: Trick|[of] p2a: Blissey
+|-item|p2a: Blissey|Choice Scarf|[from] move: Trick
+|-item|p1a: Yaki Bundlez|Heavy-Duty Boots|[from] move: Trick
+|move|p2a: Blissey|Wish|p2a: Blissey
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Yaki Bundlez|88/100|[from] Hail
+|-damage|p2a: Blissey|51/100|[from] Hail
+|upkeep
+|turn|12
+|
+|t:|1641858918
+|switch|p2a: Ninetales|Ninetales-Alola, M, shiny|100/100
+|move|p1a: Yaki Bundlez|Surf|p2a: Ninetales
+|-damage|p2a: Ninetales|74/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Yaki Bundlez|82/100|[from] Hail
+|-heal|p2a: Ninetales|100/100|[from] move: Wish|[wisher] Blissey
+|upkeep
+|turn|13
+|
+|t:|1641858925
+|switch|p1a: and Eye oop-|Magnezone, shiny|100/100
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: metal kaiju kong|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: and Eye oop-|94/100|[from] Hail
+|upkeep
+|turn|14
+|
+|t:|1641858930
+|switch|p2a: Blissey|Blissey, F|51/100
+|move|p1a: and Eye oop-|Flash Cannon|p2a: Blissey
+|-damage|p2a: Blissey|36/100
+|-unboost|p2a: Blissey|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Blissey|30/100|[from] Hail
+|-damage|p1a: and Eye oop-|88/100|[from] Hail
+|-fieldend|Misty Terrain
+|upkeep
+|turn|15
+|
+|t:|1641858932
+|move|p2a: Blissey|Wish|p2a: Blissey
+|move|p1a: and Eye oop-|Flash Cannon|p2a: Blissey
+|-damage|p2a: Blissey|4/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: and Eye oop-|82/100|[from] Hail
+|-damage|p2a: Blissey|0 fnt|[from] Hail
+|faint|p2a: Blissey
+|upkeep
+|
+|t:|1641858937
+|switch|p2a: Arctozolt|Arctozolt, shiny|10/100
+|turn|16
+|
+|t:|1641858942
+|move|p2a: Arctozolt|Low Kick|p1a: and Eye oop-
+|-supereffective|p1a: and Eye oop-
+|-damage|p1a: and Eye oop-|21/100
+|move|p1a: and Eye oop-|Flash Cannon|p2a: Arctozolt
+|-damage|p2a: Arctozolt|0 fnt
+|faint|p2a: Arctozolt
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: and Eye oop-|15/100|[from] Hail
+|upkeep
+|
+|t:|1641858946
+|switch|p2a: Arctovish|Arctovish, shiny|100/100
+|turn|17
+|
+|t:|1641858951
+|switch|p1a: Fuckboy Lando|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Fuckboy Lando|Intimidate|boost
+|-unboost|p2a: Arctovish|atk|1
+|move|p2a: Arctovish|Fishious Rend|p1a: Fuckboy Lando
+|-supereffective|p1a: Fuckboy Lando
+|-damage|p1a: Fuckboy Lando|9/100
+|
+|-weather|none
+|-heal|p1a: Fuckboy Lando|15/100|[from] item: Leftovers
+|-sideend|p2: metal kaiju kong|move: Aurora Veil
+|upkeep
+|turn|18
+|
+|t:|1641858955
+|switch|p2a: Ninetales|Ninetales-Alola, M, shiny|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Fuckboy Lando|Stealth Rock|p2a: Ninetales
+|-sidestart|p2: metal kaiju kong|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Fuckboy Lando|9/100|[from] Hail
+|-heal|p1a: Fuckboy Lando|15/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641858959
+|move|p2a: Ninetales|Freeze-Dry|p1a: Fuckboy Lando
+|-supereffective|p1a: Fuckboy Lando
+|-damage|p1a: Fuckboy Lando|0 fnt
+|faint|p1a: Fuckboy Lando
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641858968
+|switch|p1a: Garnet|Bisharp, F|100/100
+|turn|20
+|
+|t:|1641858974
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: metal kaiju kong|move: Aurora Veil
+|move|p1a: Garnet|Knock Off|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|82/100
+|-enditem|p2a: Ninetales|Icy Rock|[from] move: Knock Off|[of] p1a: Garnet
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Garnet|95/100|[from] Hail
+|upkeep
+|turn|21
+|
+|t:|1641858977
+|move|p2a: Ninetales|Encore|p1a: Garnet
+|-start|p1a: Garnet|Encore
+|move|p1a: Garnet|Knock Off|p2a: Ninetales
+|-resisted|p2a: Ninetales
+|-damage|p2a: Ninetales|69/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Garnet|89/100|[from] Hail
+|upkeep
+|turn|22
+|
+|t:|1641858988
+|switch|p2a: Arctovish|Arctovish, shiny|100/100
+|switch|p1a: Yaki Bundlez|Tapu Fini|82/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Yaki Bundlez
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Yaki Bundlez|76/100|[from] Hail
+|upkeep
+|turn|23
+|
+|t:|1641858997
+|move|p2a: Arctovish|Substitute|p2a: Arctovish
+|-start|p2a: Arctovish|Substitute
+|-damage|p2a: Arctovish|76/100
+|move|p1a: Yaki Bundlez|Moonblast|p2a: Arctovish
+|-activate|p2a: Arctovish|move: Substitute|[damage]
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Yaki Bundlez|70/100|[from] Hail
+|upkeep
+|turn|24
+|
+|t:|1641859006
+|move|p2a: Arctovish|Fishious Rend|p1a: Yaki Bundlez
+|-resisted|p1a: Yaki Bundlez
+|-damage|p1a: Yaki Bundlez|40/100
+|move|p1a: Yaki Bundlez|Moonblast|p2a: Arctovish
+|-end|p2a: Arctovish|Substitute
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Yaki Bundlez|34/100|[from] Hail
+|-sideend|p2: metal kaiju kong|move: Aurora Veil
+|upkeep
+|turn|25
+|
+|t:|1641859011
+|move|p2a: Arctovish|Fishious Rend|p1a: Yaki Bundlez
+|-resisted|p1a: Yaki Bundlez
+|-damage|p1a: Yaki Bundlez|4/100
+|move|p1a: Yaki Bundlez|Moonblast|p2a: Arctovish
+|-damage|p2a: Arctovish|38/100
+|
+|-weather|none
+|upkeep
+|turn|26
+|
+|t:|1641859014
+|switch|p2a: Ninetales|Ninetales-Alola, M, shiny|69/100
+|-damage|p2a: Ninetales|44/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Yaki Bundlez|Moonblast|p2a: Ninetales
+|-damage|p2a: Ninetales|13/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Yaki Bundlez|0 fnt|[from] Hail
+|faint|p1a: Yaki Bundlez
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641859020
+|switch|p1a: Garnet|Bisharp, F|89/100
+|turn|27
+|
+|t:|1641859026
+|move|p2a: Ninetales|Moonblast|p1a: Garnet
+|-damage|p1a: Garnet|44/100
+|move|p1a: Garnet|Swords Dance|p1a: Garnet
+|-boost|p1a: Garnet|atk|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Garnet|39/100|[from] Hail
+|upkeep
+|turn|28
+|
+|t:|1641859033
+|move|p1a: Garnet|Sucker Punch||[still]
+|-fail|p1a: Garnet
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: metal kaiju kong|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Garnet|33/100|[from] Hail
+|upkeep
+|turn|29
+|
+|t:|1641859039
+|move|p2a: Ninetales|Encore|p1a: Garnet
+|-start|p1a: Garnet|Encore
+|move|p1a: Garnet|Sucker Punch||[still]
+|-fail|p1a: Garnet
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Garnet|27/100|[from] Hail
+|upkeep
+|turn|30
+|
+|t:|1641859049
+|switch|p2a: Arctovish|Arctovish, shiny|38/100
+|switch|p1a: and Eye oop-|Magnezone, shiny|15/100
+|
+|-weather|none
+|upkeep
+|turn|31
+|
+|t:|1641859054
+|move|p2a: Arctovish|Fishious Rend|p1a: and Eye oop-
+|-damage|p1a: and Eye oop-|0 fnt
+|faint|p1a: and Eye oop-
+|
+|upkeep
+|
+|t:|1641859056
+|switch|p1a: Road Runnuh|Zapdos-Galar|65/100
+|turn|32
+|
+|t:|1641859060
+|move|p1a: Road Runnuh|Close Combat|p2a: Arctovish
+|-supereffective|p2a: Arctovish
+|-damage|p2a: Arctovish|0 fnt
+|-unboost|p1a: Road Runnuh|def|1
+|-unboost|p1a: Road Runnuh|spd|1
+|faint|p2a: Arctovish
+|
+|-sideend|p2: metal kaiju kong|move: Aurora Veil
+|upkeep
+|-message|metal kaiju kong forfeited.
+|
+|win|yaboiAshK.
+|raw|yaboiAshK.'s rating: 1616 &rarr; <strong>1632</strong><br />(+16 for winning)
+|raw|metal kaiju kong's rating: 1549 &rarr; <strong>1533</strong><br />(-16 for losing)
+|l|☆metal kaiju kong

@@ -1,0 +1,78 @@
+|j|☆bhjbbyytffty/
+|j|☆Xgvxdgcxx
+|t:|1641786129
+|gametype|singles
+|player|p1|bhjbbyytffty/|rood|1000
+|player|p2|Xgvxdgcxx|266|1000
+|teamsize|p1|6
+|teamsize|p2|4
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Latios, M|
+|poke|p1|Corsola, M|
+|poke|p1|Marowak-Alola, M|
+|poke|p1|Appletun, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Victini|
+|poke|p2|Milotic, F|
+|poke|p2|Ditto|
+|poke|p2|Gengar, M|
+|poke|p2|Trevenant, L95, M|
+|teampreview
+|
+|t:|1641786138
+|start
+|switch|p1a: i|Victini|100/100
+|switch|p2a: Trevenant|Trevenant, L95, M|100/100
+|turn|1
+|
+|t:|1641786146
+|move|p2a: Trevenant|Endure|p2a: Trevenant
+|-singleturn|p2a: Trevenant|move: Endure
+|move|p1a: i|Blue Flare|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-activate|p2a: Trevenant|move: Endure
+|-damage|p2a: Trevenant|1/100
+|
+|upkeep
+|turn|2
+|-enditem|p2a: Trevenant|Custap Berry|[eat]
+|-activate|p2a: Trevenant|item: Custap Berry|[consumed]
+|
+|t:|1641786154
+|move|p2a: Trevenant|Phantom Force||[still]
+|-prepare|p2a: Trevenant|Phantom Force
+|move|p1a: i|Trick Room|p1a: i
+|-fieldstart|move: Trick Room|[of] p1a: i
+|
+|upkeep
+|turn|3
+|
+|t:|1641786161
+|move|p2a: Trevenant|Phantom Force|p1a: i|[from]lockedmove
+|-supereffective|p1a: i
+|-damage|p1a: i|15/100
+|move|p1a: i|V-create|p2a: Trevenant
+|-supereffective|p2a: Trevenant
+|-damage|p2a: Trevenant|0 fnt
+|-unboost|p1a: i|spe|1
+|-unboost|p1a: i|def|1
+|-unboost|p1a: i|spd|1
+|faint|p2a: Trevenant
+|
+|upkeep
+|-message|Xgvxdgcxx forfeited.
+|
+|win|bhjbbyytffty/
+|raw|bhjbbyytffty&#x2f;'s rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|Xgvxdgcxx's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Xgvxdgcxx

@@ -1,0 +1,691 @@
+|j|☆badoem
+|j|☆DumbLick1337
+|t:|1641835723
+|gametype|singles
+|player|p1|badoem|169|1393
+|player|p2|DumbLick1337|102|1384
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, F|
+|poke|p1|Melmetal|
+|poke|p1|Garchomp, M|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Tangrowth, M|
+|poke|p1|Conkeldurr, F|
+|poke|p2|Seismitoad, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Hippowdon, F|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641835732
+|start
+|switch|p1a: Conkeldurr|Conkeldurr, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1641835736
+|move|p2a: Hippowdon|Earthquake|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|61/100
+|move|p1a: Conkeldurr|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|80/100
+|-damage|p1a: Conkeldurr|45/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|-enditem|p2a: Hippowdon|Rocky Helmet|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|39/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641835739
+|move|p2a: Hippowdon|Stealth Rock|p1a: Conkeldurr
+|-sidestart|p1: badoem|move: Stealth Rock
+|move|p1a: Conkeldurr|Drain Punch|p2a: Hippowdon
+|-damage|p2a: Hippowdon|57/100
+|-heal|p1a: Conkeldurr|52/100|[from] drain|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Conkeldurr|46/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641835742
+|move|p1a: Conkeldurr|Drain Punch|p2a: Hippowdon
+|-damage|p2a: Hippowdon|33/100
+|-heal|p1a: Conkeldurr|61/100|[from] drain|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Whirlwind|p1a: Conkeldurr
+|drag|p1a: Dragonite|Dragonite, F|100/100
+|-damage|p1a: Dragonite|76/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragonite|69/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641835748
+|move|p1a: Dragonite|Ice Beam|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragonite|63/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641835749
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|5
+|
+|t:|1641835754
+|move|p2a: Dragapult|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|20/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|70/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641835758
+|move|p2a: Dragapult|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|26/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|76/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|7
+|
+|t:|1641835761
+|move|p2a: Dragapult|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|30/100
+|-unboost|p1a: Dragonite|spd|1
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|80/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|8
+|
+|t:|1641835775
+|move|p2a: Dragapult|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|18/100
+|move|p1a: Dragonite|Ice Beam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|17/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641835780
+|move|p2a: Dragapult|Shadow Ball|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641835783
+|switch|p1a: Conkeldurr|Conkeldurr, F|61/100
+|-damage|p1a: Conkeldurr|55/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641835785
+|move|p2a: Dragapult|Shadow Ball|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|12/100
+|move|p1a: Conkeldurr|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p1a: Conkeldurr
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641835785
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|turn|11
+|
+|t:|1641835790
+|move|p1a: Conkeldurr|Knock Off|p2a: Hatterene
+|-damage|p2a: Hatterene|58/100
+|-enditem|p2a: Hatterene|Assault Vest|[from] move: Knock Off|[of] p1a: Conkeldurr
+|move|p2a: Hatterene|Mystical Fire|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|upkeep
+|
+|t:|1641835796
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|turn|12
+|
+|t:|1641835800
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|upkeep
+|turn|13
+|
+|t:|1641835802
+|switch|p1a: Tangrowth|Tangrowth, M|100/100
+|-damage|p1a: Tangrowth|88/100|[from] Stealth Rock
+|move|p2a: Seismitoad|Earthquake|p1a: Tangrowth
+|-resisted|p1a: Tangrowth
+|-damage|p1a: Tangrowth|70/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641835805
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tangrowth|Sludge Bomb|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|15
+|
+|t:|1641835808
+|move|p1a: Tangrowth|Sleep Powder|p2a: Corviknight
+|-status|p2a: Corviknight|slp|[from] move: Sleep Powder
+|cant|p2a: Corviknight|slp
+|
+|upkeep
+|turn|16
+|
+|t:|1641835812
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|cant|p2a: Corviknight|slp
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|17
+|
+|t:|1641835815
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|cant|p2a: Corviknight|slp
+|
+|upkeep
+|turn|18
+|
+|t:|1641835817
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|-curestatus|p2a: Corviknight|slp|[msg]
+|move|p2a: Corviknight|Roost||[still]
+|-fail|p2a: Corviknight|heal
+|
+|upkeep
+|turn|19
+|
+|t:|1641835820
+|switch|p2a: Hatterene|Hatterene, F|58/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|20
+|
+|t:|1641835822
+|move|p1a: Garchomp|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|
+|upkeep
+|
+|t:|1641835822
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|21
+|
+|t:|1641835825
+|move|p2a: rotomheat|Will-O-Wisp|p1a: Garchomp
+|-status|p1a: Garchomp|brn
+|move|p1a: Garchomp|Scale Shot|p2a: rotomheat
+|-damage|p2a: rotomheat|71/100
+|-damage|p2a: rotomheat|37/100
+|-damage|p2a: rotomheat|6/100
+|-hitcount|p2a: rotomheat|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-damage|p1a: Garchomp|88/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641835830
+|move|p1a: Garchomp|Stone Edge|p2a: rotomheat
+|-supereffective|p2a: rotomheat
+|-damage|p2a: rotomheat|0 fnt
+|faint|p2a: rotomheat
+|
+|-damage|p1a: Garchomp|82/100 brn|[from] brn
+|upkeep
+|
+|t:|1641835830
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|23
+|
+|t:|1641835833
+|move|p1a: Garchomp|Stone Edge|p2a: Corviknight
+|-damage|p2a: Corviknight|57/100
+|move|p2a: Corviknight|Iron Head|p1a: Garchomp
+|-damage|p1a: Garchomp|50/100 brn
+|-damage|p2a: Corviknight|45/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|
+|-heal|p2a: Corviknight|51/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|44/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641835837
+|move|p1a: Garchomp|Stone Edge|p2a: Corviknight
+|-damage|p2a: Corviknight|5/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|56/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|62/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|38/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641835842
+|move|p1a: Garchomp|Stone Edge|p2a: Corviknight
+|-damage|p2a: Corviknight|20/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|70/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|76/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|32/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641835845
+|move|p1a: Garchomp|Scale Shot|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|68/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|59/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|51/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|44/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|36/100
+|-hitcount|p2a: Corviknight|5
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|86/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|92/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|26/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641835847
+|move|p1a: Garchomp|Stone Edge|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|31/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|81/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|87/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|19/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641835849
+|move|p1a: Garchomp|Scale Shot|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|79/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|64/100
+|-hitcount|p2a: Corviknight|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Garchomp|13/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641835851
+|move|p1a: Garchomp|Scale Shot|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|92/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|-hitcount|p2a: Corviknight|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Garchomp|7/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641835853
+|move|p1a: Garchomp|Scale Shot|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|92/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|83/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|76/100
+|-hitcount|p2a: Corviknight|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Garchomp|1/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641835855
+|move|p1a: Garchomp|Scale Shot|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|92/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|84/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|76/100
+|-hitcount|p2a: Corviknight|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p1a: Garchomp|0 fnt|[from] brn
+|faint|p1a: Garchomp
+|upkeep
+|
+|t:|1641835857
+|switch|p1a: Slowking|Slowking-Galar, M|100/100
+|turn|32
+|
+|t:|1641835859
+|move|p2a: Corviknight|Iron Head|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|upkeep
+|turn|33
+|
+|t:|1641835861
+|move|p1a: Slowking|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|36/100
+|move|p2a: Corviknight|Iron Head|p1a: Slowking
+|-damage|p1a: Slowking|40/100
+|
+|-heal|p2a: Corviknight|42/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641835864
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|move|p1a: Slowking|Fire Blast|p2a: Seismitoad
+|-resisted|p2a: Seismitoad
+|-damage|p2a: Seismitoad|79/100
+|
+|upkeep
+|turn|35
+|
+|t:|1641835867
+|switch|p1a: Tangrowth|Tangrowth, M|100/100
+|-damage|p1a: Tangrowth|88/100|[from] Stealth Rock
+|move|p2a: Seismitoad|Earthquake|p1a: Tangrowth
+|-resisted|p1a: Tangrowth
+|-damage|p1a: Tangrowth|67/100
+|
+|upkeep
+|turn|36
+|
+|t:|1641835870
+|switch|p2a: Corviknight|Corviknight, F|42/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tangrowth|Giga Drain|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|35/100
+|-heal|p1a: Tangrowth|71/100|[from] drain|[of] p2a: Corviknight
+|
+|-heal|p2a: Corviknight|41/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|37
+|
+|t:|1641835872
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|91/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Tangrowth|Focus Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|30/100
+|
+|-heal|p2a: Corviknight|36/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641835874
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|86/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Tangrowth|Sleep Powder|p2a: Corviknight
+|-status|p2a: Corviknight|slp|[from] move: Sleep Powder
+|
+|-heal|p2a: Corviknight|92/100 slp|[from] item: Leftovers
+|upkeep
+|turn|39
+|
+|t:|1641835878
+|cant|p2a: Corviknight|slp
+|move|p1a: Tangrowth|Giga Drain|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100 slp
+|-heal|p1a: Tangrowth|74/100|[from] drain|[of] p2a: Corviknight
+|
+|-heal|p2a: Corviknight|92/100 slp|[from] item: Leftovers
+|upkeep
+|turn|40
+|
+|t:|1641835882
+|switch|p1a: Slowking|Slowking-Galar, M|74/100
+|cant|p2a: Corviknight|slp
+|
+|-heal|p2a: Corviknight|98/100 slp|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641835884
+|-curestatus|p2a: Corviknight|slp|[msg]
+|move|p2a: Corviknight|Iron Head|p1a: Slowking
+|-damage|p1a: Slowking|42/100
+|move|p1a: Slowking|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|30/100
+|
+|-heal|p2a: Corviknight|36/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641835888
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|86/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Slowking|Trick Room|p1a: Slowking
+|-fieldstart|move: Trick Room|[of] p1a: Slowking
+|
+|-heal|p2a: Corviknight|92/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1641835891
+|move|p1a: Slowking|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|30/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|80/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1641835896
+|switch|p1a: Tangrowth|Tangrowth, M|100/100
+|-damage|p1a: Tangrowth|88/100|[from] Stealth Rock
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|45
+|
+|t:|1641835898
+|move|p1a: Tangrowth|Sleep Powder|p2a: Corviknight
+|-status|p2a: Corviknight|slp|[from] move: Sleep Powder
+|cant|p2a: Corviknight|slp
+|
+|upkeep
+|turn|46
+|
+|t:|1641835900
+|switch|p1a: Slowking|Slowking-Galar, M|75/100
+|cant|p2a: Corviknight|slp
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|47
+|
+|t:|1641835904
+|-curestatus|p2a: Corviknight|slp|[msg]
+|move|p2a: Corviknight|U-turn|p1a: Slowking
+|-damage|p1a: Slowking|59/100
+|
+|t:|1641835904
+|switch|p2a: Seismitoad|Seismitoad, F|79/100|[from]move: U-turn
+|move|p1a: Slowking|Fire Blast|p2a: Seismitoad
+|-resisted|p2a: Seismitoad
+|-crit|p2a: Seismitoad
+|-damage|p2a: Seismitoad|46/100
+|
+|upkeep
+|turn|48
+|
+|t:|1641835907
+|move|p2a: Seismitoad|Earthquake|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|
+|upkeep
+|
+|t:|1641835914
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|turn|49
+|
+|t:|1641835917
+|move|p2a: Seismitoad|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|13/100
+|move|p1a: Melmetal|Earthquake|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|-heal|p1a: Melmetal|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641835917
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|turn|50
+|
+|t:|1641835921
+|switch|p1a: Tangrowth|Tangrowth, M|100/100
+|-damage|p1a: Tangrowth|88/100|[from] Stealth Rock
+|move|p2a: Corviknight|Iron Head|p1a: Tangrowth
+|-damage|p1a: Tangrowth|74/100
+|-damage|p2a: Corviknight|84/100|[from] item: Rocky Helmet|[of] p1a: Tangrowth
+|
+|-heal|p2a: Corviknight|90/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1641835924
+|move|p2a: Corviknight|Iron Head|p1a: Tangrowth
+|-damage|p1a: Tangrowth|59/100
+|-damage|p2a: Corviknight|74/100|[from] item: Rocky Helmet|[of] p1a: Tangrowth
+|move|p1a: Tangrowth|Sleep Powder|p2a: Corviknight
+|-status|p2a: Corviknight|slp|[from] move: Sleep Powder
+|
+|-heal|p2a: Corviknight|80/100 slp|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1641835929
+|cant|p2a: Corviknight|slp
+|move|p1a: Tangrowth|Focus Blast|p2a: Corviknight
+|-damage|p2a: Corviknight|51/100 slp
+|-unboost|p2a: Corviknight|spd|1
+|
+|-heal|p2a: Corviknight|57/100 slp|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1641835931
+|cant|p2a: Corviknight|slp
+|move|p1a: Tangrowth|Focus Blast|p2a: Corviknight
+|-damage|p2a: Corviknight|10/100 slp
+|
+|-heal|p2a: Corviknight|17/100 slp|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1641835933
+|cant|p2a: Corviknight|slp
+|move|p1a: Tangrowth|Focus Blast|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|win|badoem
+|raw|badoem's rating: 1393 &rarr; <strong>1412</strong><br />(+19 for winning)
+|raw|DumbLick1337's rating: 1384 &rarr; <strong>1365</strong><br />(-19 for losing)
+|c|☆DumbLick1337|gg
+|l|☆DumbLick1337
+|c|☆badoem|Gg
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

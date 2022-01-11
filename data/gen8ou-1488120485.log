@@ -1,0 +1,2696 @@
+|j|☆Elon Musk Rusk
+|j|☆Mystery Exile
+|t:|1641715781
+|gametype|singles
+|player|p1|Elon Musk Rusk|veteran|
+|player|p2|Mystery Exile|furisodegirl-black|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Blissey, F|
+|poke|p1|Buzzwole|
+|poke|p1|Nidoking, M|
+|poke|p1|Corviknight, M|
+|poke|p1|Slowbro, M|
+|poke|p2|Golurk|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Tyranitar, F|
+|teampreview
+|c|☆Elon Musk Rusk|What is this ;-;
+|c|☆Mystery Exile|this is called golurk offense
+|
+|t:|1641715807
+|start
+|switch|p1a: Ou-sama|Nidoking, M, shiny|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1641715814
+|switch|p1a: Hunk o’ meAt|Buzzwole, shiny|100/100
+|move|p2a: Tyranitar|Earthquake|p1a: Hunk o’ meAt
+|-resisted|p1a: Hunk o’ meAt
+|-damage|p1a: Hunk o’ meAt|91/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hunk o’ meAt|85/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641715821
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1641715842
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|84/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|78/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|78/100|[from] Sandstorm
+|-heal|p2a: Toxapex|84/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641715871
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641715873
+|switch|p1a: Ou-sama|Nidoking, M, shiny|100/100|[from]move: Teleport
+|-sideend|p1: Elon Musk Rusk|move: Toxic Spikes|[of] p1a: Ou-sama
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|78/100|[from] Sandstorm
+|-heal|p2a: Toxapex|84/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1641715879
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ou-sama|Stealth Rock|p2a: Corviknight
+|-sidestart|p2: Mystery Exile|move: Stealth Rock
+|
+|-weather|none
+|-end|p2a: Corviknight|move: Future Sight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|-heal|p2a: Corviknight|88/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641715898
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-damage|p2a: Tyranitar|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Ou-sama|Ice Beam|p2a: Tyranitar
+|-damage|p2a: Tyranitar|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|76/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641715908
+|switch|p1a: Hunk o’ meAt|Buzzwole, shiny|85/100
+|move|p2a: Tyranitar|Earthquake|p1a: Hunk o’ meAt
+|-resisted|p1a: Hunk o’ meAt
+|-damage|p1a: Hunk o’ meAt|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hunk o’ meAt|69/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|82/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641715915
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Hunk o’ meAt|Roost|p1a: Hunk o’ meAt
+|-heal|p1a: Hunk o’ meAt|100/100
+|-singleturn|p1a: Hunk o’ meAt|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hunk o’ meAt|94/100|[from] Sandstorm
+|-damage|p2a: Toxapex|82/100|[from] Sandstorm
+|-heal|p2a: Toxapex|88/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1641715922
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|move|p2a: Toxapex|Scald|p1a: Barraskewda who?
+|-resisted|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|92/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|82/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|86/100|[from] Sandstorm
+|-heal|p2a: Toxapex|88/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1641715927
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Barraskewda who?|Future Sight|p2a: Ferrothorn
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641715930
+|move|p2a: Ferrothorn|Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641715933
+|switch|p1a: Hunk o’ meAt|Buzzwole, shiny|94/100|[from]move: Teleport
+|
+|upkeep
+|turn|12
+|
+|t:|1641715936
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Hunk o’ meAt|Close Combat|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|85/100
+|-heal|p2a: Ferrothorn|91/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641715942
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Hunk o’ meAt|Thunder Punch|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|14/100
+|
+|-heal|p2a: Toxapex|20/100|[from] item: Black Sludge
+|upkeep
+|turn|14
+|
+|t:|1641715952
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Hunk o’ meAt|Close Combat|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|69/100
+|-unboost|p1a: Hunk o’ meAt|def|1
+|-unboost|p1a: Hunk o’ meAt|spd|1
+|
+|-heal|p2a: Clefable|75/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641715958
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Clefable|Moonblast|p1a: Baka kisheru
+|-resisted|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|87/100
+|
+|-heal|p2a: Clefable|81/100|[from] item: Leftovers
+|-heal|p1a: Baka kisheru|93/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641715966
+|move|p2a: Clefable|Thunderbolt|p1a: Baka kisheru
+|-supereffective|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|58/100
+|move|p1a: Baka kisheru|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|75/100
+|
+|t:|1641715971
+|switch|p1a: Ou-sama|Nidoking, M, shiny|100/100|[from]move: U-turn
+|-damage|p1a: Ou-sama|88/100|[from] Spikes
+|
+|-heal|p2a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641715984
+|move|p1a: Ou-sama|Earth Power|p2a: Clefable
+|-damage|p2a: Clefable|23/100
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|29/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641715993
+|switch|p2a: Corviknight|Corviknight, F|88/100
+|-damage|p2a: Corviknight|75/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Ou-sama|Sludge Wave|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641715998
+|move|p1a: Ou-sama|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|43/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|93/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|99/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641716002
+|move|p1a: Ou-sama|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|53/100
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|
+|-heal|p2a: Corviknight|60/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641716006
+|move|p1a: Ou-sama|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|19/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|69/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|76/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641716011
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|-damage|p1a: Barraskewda who?|88/100|[from] Spikes
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|23
+|
+|t:|1641716018
+|switch|p2a: Ferrothorn|Ferrothorn, F|91/100
+|-damage|p2a: Ferrothorn|85/100|[from] Stealth Rock
+|move|p1a: Barraskewda who?|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|69/100
+|
+|-heal|p2a: Ferrothorn|75/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641716022
+|move|p1a: Barraskewda who?|Future Sight|p2a: Ferrothorn
+|-start|p1a: Barraskewda who?|move: Future Sight
+|move|p2a: Ferrothorn|Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p2a: Ferrothorn|82/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641716027
+|move|p2a: Ferrothorn|Leech Seed|p1a: Barraskewda who?
+|-start|p1a: Barraskewda who?|move: Leech Seed
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716031
+|switch|p1a: Hunk o’ meAt|Buzzwole, shiny|94/100|[from]move: Teleport
+|
+|-heal|p2a: Ferrothorn|88/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641716037
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Hunk o’ meAt|Close Combat|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|71/100
+|-heal|p2a: Ferrothorn|77/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641716049
+|switch|p2a: Golurk|Golurk|100/100
+|-damage|p2a: Golurk|94/100|[from] Stealth Rock
+|move|p1a: Hunk o’ meAt|Close Combat|p2a: Golurk
+|-immune|p2a: Golurk
+|
+|upkeep
+|turn|28
+|
+|t:|1641716053
+|move|p1a: Hunk o’ meAt|Ice Punch|p2a: Golurk
+|-supereffective|p2a: Golurk
+|-crit|p2a: Golurk
+|-damage|p2a: Golurk|0 fnt
+|faint|p2a: Golurk
+|-ability|p1a: Hunk o’ meAt|Beast Boost|boost
+|-boost|p1a: Hunk o’ meAt|atk|1
+|
+|upkeep
+|c|☆Mystery Exile|dude stop critting
+|
+|t:|1641716064
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|turn|29
+|c|☆Elon Musk Rusk|Rng
+|
+|t:|1641716069
+|move|p1a: Hunk o’ meAt|Thunder Punch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|31/100
+|move|p2a: Corviknight|Brave Bird|p1a: Hunk o’ meAt
+|-supereffective|p1a: Hunk o’ meAt
+|-damage|p1a: Hunk o’ meAt|0 fnt
+|faint|p1a: Hunk o’ meAt
+|-damage|p2a: Corviknight|1/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|8/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716075
+|switch|p1a: Ou-sama|Nidoking, M, shiny|88/100
+|-damage|p1a: Ou-sama|72/100|[from] Spikes
+|turn|30
+|j| EthernetSac
+|
+|t:|1641716082
+|move|p1a: Ou-sama|Ice Beam|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641716084
+|switch|p2a: Tyranitar|Tyranitar, F|82/100
+|-damage|p2a: Tyranitar|70/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|31
+|
+|t:|1641716089
+|switch|p1a: Baka kisheru|Corviknight, M|58/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Tyranitar|Earthquake|p1a: Baka kisheru
+|-immune|p1a: Baka kisheru
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|64/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|76/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|l| EthernetSac
+|
+|t:|1641716096
+|switch|p2a: Ferrothorn|Ferrothorn, F|77/100
+|-damage|p2a: Ferrothorn|71/100|[from] Stealth Rock
+|move|p1a: Baka kisheru|Roost|p1a: Baka kisheru
+|-heal|p1a: Baka kisheru|100/100
+|-singleturn|p1a: Baka kisheru|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Ferrothorn|77/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641716099
+|move|p1a: Baka kisheru|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|69/100
+|-damage|p1a: Baka kisheru|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|t:|1641716108
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100|[from]move: U-turn
+|-damage|p1a: Barraskewda who?|84/100|[from] Spikes
+|move|p2a: Ferrothorn|Leech Seed|p1a: Barraskewda who?
+|-start|p1a: Barraskewda who?|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda who?|78/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|75/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda who?|65/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|89/100|[silent]
+|upkeep
+|turn|34
+|
+|t:|1641716112
+|switch|p2a: Toxapex|Toxapex, F|53/100
+|-damage|p2a: Toxapex|41/100|[from] Stealth Rock
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716116
+|switch|p1a: Ou-sama|Nidoking, M, shiny|72/100|[from]move: Teleport
+|-damage|p1a: Ou-sama|55/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|34/100|[from] Sandstorm
+|-heal|p2a: Toxapex|41/100|[from] item: Black Sludge
+|upkeep
+|turn|35
+|
+|t:|1641716121
+|switch|p2a: Clefable|Clefable, F|29/100
+|move|p1a: Ou-sama|Earth Power|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|none
+|upkeep
+|
+|t:|1641716124
+|switch|p2a: Tyranitar|Tyranitar, F|76/100
+|-damage|p2a: Tyranitar|64/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|36
+|
+|t:|1641716128
+|switch|p1a: Baka kisheru|Corviknight, M|88/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Tyranitar|Crunch|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|64/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|70/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|70/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641716132
+|switch|p2a: Ferrothorn|Ferrothorn, F|89/100
+|-damage|p2a: Ferrothorn|83/100|[from] Stealth Rock
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p2: Mystery Exile|Stealth Rock|[from] move: Defog|[of] p1a: Baka kisheru
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|76/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641716136
+|switch|p1a: Barraskewda who?|Slowbro, M|99/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Barraskewda who?
+|-start|p1a: Barraskewda who?|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda who?|93/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|95/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda who?|80/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|39
+|
+|t:|1641716139
+|move|p2a: Ferrothorn|Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716145
+|switch|p1a: Bandit|Weavile, M|100/100|[from]move: Teleport
+|-damage|p1a: Bandit|88/100|[from] Spikes
+|-ability|p1a: Bandit|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Bandit|82/100|[from] Sandstorm
+|upkeep
+|turn|40
+|
+|t:|1641716147
+|move|p1a: Bandit|Triple Axel|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|90/100
+|-damage|p1a: Bandit|70/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|74/100
+|-damage|p1a: Bandit|57/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|46/100
+|-damage|p1a: Bandit|45/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-hitcount|p2a: Ferrothorn|3
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Bandit
+|-supereffective|p1a: Bandit
+|-damage|p1a: Bandit|0 fnt
+|faint|p1a: Bandit
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716155
+|switch|p1a: Ou-sama|Nidoking, M, shiny|55/100
+|-damage|p1a: Ou-sama|43/100|[from] Spikes
+|turn|41
+|
+|t:|1641716158
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Ou-sama|Earth Power|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-heal|p2a: Ferrothorn|58/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|j| EthernetSac
+|l| EthernetSac
+|
+|t:|1641716166
+|move|p1a: Ou-sama|Earth Power|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|7/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Ou-sama
+|-damage|p1a: Ou-sama|0 fnt
+|faint|p1a: Ou-sama
+|
+|-heal|p2a: Ferrothorn|14/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641716173
+|switch|p1a: Fatty|Blissey, F|100/100
+|turn|43
+|
+|t:|1641716177
+|switch|p2a: Toxapex|Toxapex, F|74/100
+|move|p1a: Fatty|Seismic Toss|p2a: Toxapex
+|-damage|p2a: Toxapex|41/100
+|
+|-heal|p2a: Toxapex|47/100|[from] item: Black Sludge
+|upkeep
+|turn|44
+|
+|t:|1641716182
+|move|p1a: Fatty|Seismic Toss|p2a: Toxapex
+|-damage|p2a: Toxapex|14/100
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|64/100
+|
+|-heal|p2a: Toxapex|71/100|[from] item: Black Sludge
+|upkeep
+|turn|45
+|
+|t:|1641716188
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|-damage|p1a: Barraskewda who?|88/100|[from] Spikes
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|upkeep
+|turn|46
+|
+|t:|1641716193
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|77/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716197
+|switch|p1a: Fatty|Blissey, F|100/100|[from]move: Teleport
+|
+|-heal|p2a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|47
+|
+|t:|1641716200
+|move|p1a: Fatty|Seismic Toss|p2a: Toxapex
+|-damage|p2a: Toxapex|57/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Fatty
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|64/100|[from] item: Black Sludge
+|upkeep
+|turn|48
+|
+|t:|1641716203
+|switch|p1a: Baka kisheru|Corviknight, M|76/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Toxapex|Toxic Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|-heal|p1a: Baka kisheru|83/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|70/100|[from] item: Black Sludge
+|upkeep
+|turn|49
+|
+|t:|1641716207
+|move|p1a: Baka kisheru|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Toxapex|Scald|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|68/100
+|
+|-heal|p1a: Baka kisheru|74/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|76/100|[from] item: Black Sludge
+|upkeep
+|turn|50
+|
+|t:|1641716210
+|move|p1a: Baka kisheru|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|72/100
+|
+|t:|1641716212
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100|[from]move: U-turn
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|78/100|[from] item: Black Sludge
+|upkeep
+|turn|51
+|
+|t:|1641716216
+|switch|p2a: Ferrothorn|Ferrothorn, F|14/100
+|move|p1a: Barraskewda who?|Future Sight|p2a: Ferrothorn
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-heal|p2a: Ferrothorn|20/100|[from] item: Leftovers
+|upkeep
+|turn|52
+|
+|t:|1641716221
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716223
+|switch|p1a: Fatty|Blissey, F|100/100|[from]move: Teleport
+|
+|-heal|p2a: Ferrothorn|26/100|[from] item: Leftovers
+|upkeep
+|turn|53
+|
+|t:|1641716229
+|switch|p2a: Tyranitar|Tyranitar, F|70/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Fatty|Seismic Toss|p2a: Tyranitar
+|-damage|p2a: Tyranitar|45/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|94/100|[from] Sandstorm
+|-end|p2a: Tyranitar|move: Future Sight
+|-immune|p2a: Tyranitar
+|-heal|p2a: Tyranitar|51/100|[from] item: Leftovers
+|upkeep
+|turn|54
+|
+|t:|1641716239
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|switch|p1a: Baka kisheru|Corviknight, M|74/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Baka kisheru|81/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|55
+|
+|t:|1641716242
+|move|p1a: Baka kisheru|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Toxapex|Scald|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Baka kisheru|73/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|56
+|
+|t:|1641716245
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|57
+|
+|t:|1641716250
+|switch|p2a: Tyranitar|Tyranitar, F|51/100
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716253
+|switch|p1a: Baka kisheru|Corviknight, M|73/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|none
+|-heal|p1a: Baka kisheru|79/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|58/100|[from] item: Leftovers
+|upkeep
+|turn|58
+|
+|t:|1641716256
+|switch|p2a: Ferrothorn|Ferrothorn, F|26/100
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-heal|p1a: Baka kisheru|85/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|32/100|[from] item: Leftovers
+|upkeep
+|turn|59
+|
+|t:|1641716264
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-heal|p1a: Baka kisheru|91/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|39/100|[from] item: Leftovers
+|upkeep
+|turn|60
+|
+|t:|1641716269
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|18/100
+|-damage|p1a: Baka kisheru|79/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|73/100|[from] Recoil
+|move|p2a: Ferrothorn|Leech Seed|p1a: Baka kisheru
+|-start|p1a: Baka kisheru|move: Leech Seed
+|
+|-heal|p1a: Baka kisheru|79/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|24/100|[from] item: Leftovers
+|-damage|p1a: Baka kisheru|67/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|38/100|[silent]
+|upkeep
+|turn|61
+|
+|t:|1641716273
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|move|p2a: Ferrothorn|Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p2a: Ferrothorn|45/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|t:|1641716277
+|switch|p2a: Tyranitar|Tyranitar, F|58/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716279
+|switch|p1a: Baka kisheru|Corviknight, M|67/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|73/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|64/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|t:|1641716284
+|switch|p2a: Ferrothorn|Ferrothorn, F|45/100
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|24/100
+|-damage|p1a: Baka kisheru|60/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|54/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|61/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|30/100|[from] item: Leftovers
+|upkeep
+|turn|64
+|
+|t:|1641716289
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|67/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|37/100|[from] item: Leftovers
+|upkeep
+|turn|65
+|
+|t:|1641716293
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|15/100
+|-damage|p1a: Baka kisheru|54/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|48/100|[from] Recoil
+|move|p2a: Ferrothorn|Leech Seed|p1a: Baka kisheru
+|-start|p1a: Baka kisheru|move: Leech Seed
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|54/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|21/100|[from] item: Leftovers
+|-damage|p1a: Baka kisheru|42/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|35/100|[silent]
+|upkeep
+|turn|66
+|
+|t:|1641716297
+|move|p1a: Baka kisheru|Roost|p1a: Baka kisheru
+|-heal|p1a: Baka kisheru|92/100
+|-singleturn|p1a: Baka kisheru|move: Roost
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-weather|none
+|-heal|p1a: Baka kisheru|98/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|42/100|[from] item: Leftovers
+|-damage|p1a: Baka kisheru|86/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|56/100|[silent]
+|upkeep
+|turn|67
+|
+|t:|1641716300
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p1a: Baka kisheru|92/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|62/100|[from] item: Leftovers
+|-damage|p1a: Baka kisheru|79/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|76/100|[silent]
+|upkeep
+|turn|68
+|
+|t:|1641716303
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|-damage|p1a: Barraskewda who?|88/100|[from] Spikes
+|move|p2a: Ferrothorn|Leech Seed|p1a: Barraskewda who?
+|-start|p1a: Barraskewda who?|move: Leech Seed
+|
+|-heal|p2a: Ferrothorn|83/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda who?|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|97/100|[silent]
+|upkeep
+|turn|69
+|
+|t:|1641716310
+|switch|p2a: Tyranitar|Tyranitar, F|64/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716312
+|switch|p1a: Baka kisheru|Corviknight, M|79/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|86/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|70/100|[from] item: Leftovers
+|upkeep
+|turn|70
+|
+|t:|1641716318
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Baka kisheru|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Baka kisheru|92/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|71
+|
+|t:|1641716322
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-crit|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|82/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|78/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|76/100|[from] Sandstorm
+|-heal|p2a: Toxapex|84/100|[from] item: Black Sludge
+|upkeep
+|turn|72
+|
+|t:|1641716327
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|65/100
+|-damage|p2a: Toxapex|68/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|61/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|59/100|[from] Sandstorm
+|-heal|p2a: Toxapex|68/100|[from] item: Black Sludge
+|upkeep
+|turn|73
+|
+|t:|1641716332
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716334
+|switch|p1a: Baka kisheru|Corviknight, M|92/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|none
+|-heal|p1a: Baka kisheru|98/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|74/100|[from] item: Black Sludge
+|upkeep
+|turn|74
+|
+|t:|1641716337
+|switch|p2a: Ferrothorn|Ferrothorn, F|97/100
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|81/100
+|-heal|p1a: Baka kisheru|100/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|75
+|
+|t:|1641716345
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|67/100
+|-damage|p1a: Baka kisheru|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|82/100|[from] Recoil
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p1a: Baka kisheru|88/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|74/100|[from] item: Leftovers
+|upkeep
+|turn|76
+|
+|t:|1641716349
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Ferrothorn|Leech Seed|p1a: Baka kisheru
+|-start|p1a: Baka kisheru|move: Leech Seed
+|
+|-heal|p1a: Baka kisheru|95/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|80/100|[from] item: Leftovers
+|-damage|p1a: Baka kisheru|82/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|94/100|[silent]
+|upkeep
+|turn|77
+|
+|t:|1641716352
+|switch|p1a: Barraskewda who?|Slowbro, M|93/100
+|move|p2a: Ferrothorn|Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p2a: Ferrothorn|99/100|[from] item: Leftovers
+|upkeep
+|turn|78
+|
+|t:|1641716355
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716359
+|switch|p1a: Fatty|Blissey, F|94/100|[from]move: Teleport
+|
+|upkeep
+|turn|79
+|
+|t:|1641716364
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|-damage|p1a: Barraskewda who?|88/100|[from] Spikes
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|upkeep
+|turn|80
+|
+|t:|1641716367
+|move|p2a: Toxapex|Scald|p1a: Barraskewda who?
+|-resisted|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|79/100
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|upkeep
+|turn|81
+|
+|t:|1641716369
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|69/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716373
+|switch|p1a: Baka kisheru|Corviknight, M|82/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-heal|p1a: Baka kisheru|88/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|82
+|
+|t:|1641716375
+|switch|p2a: Ferrothorn|Ferrothorn, F|99/100
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|83/100
+|-heal|p1a: Baka kisheru|95/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|upkeep
+|turn|83
+|
+|t:|1641716381
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|70/100
+|-damage|p1a: Baka kisheru|82/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|77/100|[from] Recoil
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p1a: Baka kisheru|83/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|76/100|[from] item: Leftovers
+|upkeep
+|turn|84
+|
+|t:|1641716385
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Ferrothorn|Leech Seed|p1a: Baka kisheru
+|-start|p1a: Baka kisheru|move: Leech Seed
+|
+|-heal|p1a: Baka kisheru|89/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|82/100|[from] item: Leftovers
+|-damage|p1a: Baka kisheru|77/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|97/100|[silent]
+|upkeep
+|turn|85
+|
+|t:|1641716388
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|move|p2a: Ferrothorn|Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|86
+|
+|t:|1641716392
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716393
+|switch|p1a: Baka kisheru|Corviknight, M|77/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-heal|p1a: Baka kisheru|83/100|[from] item: Leftovers
+|upkeep
+|turn|87
+|
+|t:|1641716396
+|move|p1a: Baka kisheru|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Toxapex|Scald|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|69/100
+|
+|-heal|p1a: Baka kisheru|75/100|[from] item: Leftovers
+|upkeep
+|turn|88
+|
+|t:|1641716399
+|move|p1a: Baka kisheru|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|96/100
+|
+|t:|1641716401
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100|[from]move: U-turn
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|89
+|
+|t:|1641716404
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-crit|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|84/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-heal|p2a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|90
+|
+|t:|1641716410
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|72/100
+|-damage|p2a: Toxapex|74/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716414
+|switch|p1a: Baka kisheru|Corviknight, M|75/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-heal|p1a: Baka kisheru|82/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|80/100|[from] item: Black Sludge
+|upkeep
+|turn|91
+|
+|t:|1641716419
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|82/100
+|-heal|p1a: Baka kisheru|88/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|upkeep
+|turn|92
+|c|☆Mystery Exile|i think i accidentally picked sheer force pex
+|
+|t:|1641716430
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-crit|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|60/100
+|-damage|p1a: Baka kisheru|75/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|67/100|[from] Recoil
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p1a: Baka kisheru|73/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|67/100|[from] item: Leftovers
+|upkeep
+|turn|93
+|
+|t:|1641716435
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-heal|p1a: Baka kisheru|80/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|73/100|[from] item: Leftovers
+|upkeep
+|turn|94
+|
+|t:|1641716439
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|52/100
+|-damage|p1a: Baka kisheru|67/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|61/100|[from] Recoil
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p1a: Baka kisheru|67/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|59/100|[from] item: Leftovers
+|upkeep
+|turn|95
+|
+|t:|1641716442
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Ferrothorn|Leech Seed|p1a: Baka kisheru
+|-start|p1a: Baka kisheru|move: Leech Seed
+|
+|-heal|p1a: Baka kisheru|74/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|65/100|[from] item: Leftovers
+|-damage|p1a: Baka kisheru|61/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|79/100|[silent]
+|upkeep
+|turn|96
+|
+|t:|1641716445
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|move|p2a: Ferrothorn|Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p2a: Ferrothorn|85/100|[from] item: Leftovers
+|upkeep
+|turn|97
+|
+|t:|1641716447
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|upkeep
+|turn|98
+|
+|t:|1641716453
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|90/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716455
+|switch|p1a: Baka kisheru|Corviknight, M|61/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-heal|p1a: Baka kisheru|67/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|99
+|
+|t:|1641716464
+|switch|p2a: Ferrothorn|Ferrothorn, F|85/100
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|68/100
+|-heal|p1a: Baka kisheru|74/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|74/100|[from] item: Leftovers
+|upkeep
+|turn|100
+|
+|t:|1641716470
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|55/100
+|-damage|p1a: Baka kisheru|61/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|56/100|[from] Recoil
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p1a: Baka kisheru|62/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|62/100|[from] item: Leftovers
+|upkeep
+|turn|101
+|
+|t:|1641716474
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Baka kisheru|Defog|p2a: Toxapex
+|-unboost|p2a: Toxapex|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-heal|p1a: Baka kisheru|68/100|[from] item: Leftovers
+|upkeep
+|turn|102
+|
+|t:|1641716478
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|upkeep
+|turn|103
+|
+|t:|1641716480
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|89/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-heal|p2a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|104
+|
+|t:|1641716487
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|77/100
+|-damage|p2a: Toxapex|74/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716492
+|switch|p1a: Baka kisheru|Corviknight, M|68/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-heal|p1a: Baka kisheru|74/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|80/100|[from] item: Black Sludge
+|upkeep
+|turn|105
+|
+|t:|1641716495
+|switch|p2a: Ferrothorn|Ferrothorn, F|62/100
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|44/100
+|-heal|p1a: Baka kisheru|81/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|50/100|[from] item: Leftovers
+|upkeep
+|turn|106
+|
+|t:|1641716500
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-heal|p1a: Baka kisheru|87/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|56/100|[from] item: Leftovers
+|upkeep
+|turn|107
+|
+|t:|1641716503
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Baka kisheru|Brave Bird|p2a: Toxapex
+|-damage|p2a: Toxapex|74/100
+|-damage|p1a: Baka kisheru|80/100|[from] Recoil
+|
+|-heal|p1a: Baka kisheru|86/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|80/100|[from] item: Black Sludge
+|upkeep
+|turn|108
+|
+|t:|1641716508
+|move|p1a: Baka kisheru|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|75/100
+|
+|t:|1641716510
+|switch|p1a: Fatty|Blissey, F|94/100|[from]move: U-turn
+|move|p2a: Toxapex|Toxic Spikes|p1a: Fatty
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|-heal|p2a: Toxapex|81/100|[from] item: Black Sludge
+|upkeep
+|turn|109
+|
+|t:|1641716514
+|move|p1a: Fatty|Seismic Toss|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|move|p2a: Toxapex|Poison Jab|p1a: Fatty
+|-damage|p1a: Fatty|78/100
+|-status|p1a: Fatty|psn
+|
+|-heal|p2a: Toxapex|54/100|[from] item: Black Sludge
+|-damage|p1a: Fatty|65/100 psn|[from] psn
+|upkeep
+|turn|110
+|
+|t:|1641716520
+|-curestatus|p1a: Fatty|psn|[from] ability: Natural Cure
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|-status|p1a: Barraskewda who?|psn
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|100/100
+|
+|-damage|p1a: Barraskewda who?|88/100 psn|[from] psn
+|upkeep
+|turn|111
+|
+|t:|1641716525
+|switch|p2a: Tyranitar|Tyranitar, F|70/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716528
+|switch|p1a: Baka kisheru|Corviknight, M|86/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|93/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|76/100|[from] item: Leftovers
+|upkeep
+|turn|112
+|
+|t:|1641716533
+|move|p1a: Baka kisheru|Defog|p2a: Tyranitar
+|-unboost|p2a: Tyranitar|evasion|1
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Tyranitar|Smack Down|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|77/100
+|-start|p1a: Baka kisheru|Smack Down
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|84/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|82/100|[from] item: Leftovers
+|upkeep
+|turn|113
+|
+|t:|1641716540
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100 psn
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|94/100 psn|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Barraskewda who?|82/100 psn|[from] psn
+|upkeep
+|turn|114
+|
+|t:|1641716547
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716548
+|switch|p1a: Fatty|Blissey, F|65/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|59/100|[from] Sandstorm
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|115
+|
+|t:|1641716552
+|move|p1a: Fatty|Heal Bell|p1a: Fatty
+|-activate|p1a: Fatty|move: Heal Bell
+|-curestatus|p1: Barraskewda who?|psn|[msg]
+|move|p2a: Toxapex|Poison Jab|p1a: Fatty
+|-damage|p1a: Fatty|43/100
+|
+|-weather|none
+|upkeep
+|turn|116
+|
+|t:|1641716556
+|move|p1a: Fatty|Soft-Boiled|p1a: Fatty
+|-heal|p1a: Fatty|93/100
+|move|p2a: Toxapex|Poison Jab|p1a: Fatty
+|-damage|p1a: Fatty|76/100
+|
+|upkeep
+|turn|117
+|
+|t:|1641716559
+|switch|p1a: Baka kisheru|Corviknight, M|84/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Tyranitar|Tyranitar, F|82/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|90/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|89/100|[from] item: Leftovers
+|upkeep
+|turn|118
+|
+|t:|1641716563
+|move|p1a: Baka kisheru|Defog|p2a: Tyranitar
+|-unboost|p2a: Tyranitar|evasion|1
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Tyranitar|Smack Down|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|76/100
+|-start|p1a: Baka kisheru|Smack Down
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|83/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|95/100|[from] item: Leftovers
+|upkeep
+|turn|119
+|
+|t:|1641716566
+|move|p1a: Baka kisheru|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|74/100
+|
+|t:|1641716568
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100|[from]move: U-turn
+|move|p2a: Tyranitar|Crunch|p1a: Barraskewda who?
+|-supereffective|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|61/100
+|-unboost|p1a: Barraskewda who?|def|1
+|-damage|p2a: Tyranitar|57/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda who?|55/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|64/100|[from] item: Leftovers
+|upkeep
+|turn|120
+|
+|t:|1641716573
+|switch|p1a: Baka kisheru|Corviknight, M|83/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Tyranitar|Crunch|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|66/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|70/100|[from] item: Leftovers
+|upkeep
+|turn|121
+|
+|t:|1641716578
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Baka kisheru|Roost|p1a: Baka kisheru
+|-heal|p1a: Baka kisheru|100/100
+|-singleturn|p1a: Baka kisheru|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|122
+|
+|t:|1641716582
+|switch|p1a: Barraskewda who?|Slowbro, M|88/100
+|move|p2a: Toxapex|Toxic Spikes|p1a: Barraskewda who?
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|upkeep
+|turn|123
+|
+|t:|1641716586
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|77/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-heal|p2a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|124
+|
+|t:|1641716593
+|switch|p2a: Tyranitar|Tyranitar, F|70/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716594
+|switch|p1a: Baka kisheru|Corviknight, M|100/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|76/100|[from] item: Leftovers
+|upkeep
+|turn|125
+|
+|t:|1641716604
+|move|p1a: Baka kisheru|Defog|p2a: Tyranitar
+|-unboost|p2a: Tyranitar|evasion|1
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Tyranitar|Crunch|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|79/100
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p2a: Tyranitar|move: Future Sight
+|-immune|p2a: Tyranitar
+|-heal|p1a: Baka kisheru|86/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|82/100|[from] item: Leftovers
+|upkeep
+|turn|126
+|
+|t:|1641716609
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Baka kisheru|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|95/100
+|
+|t:|1641716616
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|89/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|95/100|[from] item: Black Sludge
+|upkeep
+|turn|127
+|
+|t:|1641716620
+|switch|p1a: Baka kisheru|Corviknight, M|86/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Toxapex|Toxic Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|move: Toxic Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|89/100|[from] Sandstorm
+|-heal|p1a: Baka kisheru|92/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|95/100|[from] item: Black Sludge
+|upkeep
+|turn|128
+|
+|t:|1641716623
+|switch|p1a: Fatty|Blissey, F|76/100
+|move|p2a: Toxapex|Scald|p1a: Fatty
+|-damage|p1a: Fatty|69/100
+|-status|p1a: Fatty|brn
+|
+|-weather|none
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Fatty|63/100 brn|[from] brn
+|upkeep
+|turn|129
+|
+|t:|1641716626
+|-curestatus|p1a: Fatty|brn|[from] ability: Natural Cure
+|switch|p1a: Baka kisheru|Corviknight, M|92/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Tyranitar|Tyranitar, F|82/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|98/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|88/100|[from] item: Leftovers
+|upkeep
+|turn|130
+|
+|t:|1641716631
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Baka kisheru|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|94/100
+|
+|t:|1641716633
+|switch|p1a: Fatty|Blissey, F|63/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|57/100|[from] Sandstorm
+|-damage|p2a: Toxapex|87/100|[from] Sandstorm
+|-heal|p2a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|131
+|
+|t:|1641716637
+|move|p1a: Fatty|Soft-Boiled|p1a: Fatty
+|-heal|p1a: Fatty|100/100
+|move|p2a: Toxapex|Scald|p1a: Fatty
+|-damage|p1a: Fatty|95/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|88/100|[from] Sandstorm
+|-damage|p2a: Toxapex|87/100|[from] Sandstorm
+|-heal|p2a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|132
+|
+|t:|1641716640
+|switch|p1a: Baka kisheru|Corviknight, M|98/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Toxapex|Poison Jab|p1a: Baka kisheru
+|-immune|p1a: Baka kisheru
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|87/100|[from] Sandstorm
+|-heal|p1a: Baka kisheru|100/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|133
+|
+|t:|1641716644
+|switch|p1a: Fatty|Blissey, F|88/100
+|move|p2a: Toxapex|Scald|p1a: Fatty
+|-damage|p1a: Fatty|82/100
+|-status|p1a: Fatty|brn
+|
+|-weather|none
+|-heal|p2a: Toxapex|99/100|[from] item: Black Sludge
+|-damage|p1a: Fatty|76/100 brn|[from] brn
+|upkeep
+|turn|134
+|
+|t:|1641716651
+|-curestatus|p1a: Fatty|brn|[from] ability: Natural Cure
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Ferrothorn|Ferrothorn, F|56/100
+|
+|-heal|p2a: Ferrothorn|63/100|[from] item: Leftovers
+|upkeep
+|turn|135
+|
+|t:|1641716657
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Baka kisheru|Brave Bird|p2a: Toxapex
+|-damage|p2a: Toxapex|75/100
+|-damage|p1a: Baka kisheru|94/100|[from] Recoil
+|
+|-heal|p1a: Baka kisheru|99/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|81/100|[from] item: Black Sludge
+|upkeep
+|turn|136
+|
+|t:|1641716661
+|switch|p1a: Fatty|Blissey, F|76/100
+|switch|p2a: Tyranitar|Tyranitar, F|88/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|70/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|95/100|[from] item: Leftovers
+|upkeep
+|turn|137
+|
+|t:|1641716668
+|switch|p2a: Ferrothorn|Ferrothorn, F|63/100
+|move|p1a: Fatty|Soft-Boiled|p1a: Fatty
+|-heal|p1a: Fatty|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|94/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|69/100|[from] item: Leftovers
+|upkeep
+|turn|138
+|
+|t:|1641716672
+|switch|p1a: Baka kisheru|Corviknight, M|99/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Baka kisheru|100/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|139
+|
+|t:|1641716675
+|switch|p1a: Fatty|Blissey, F|94/100
+|switch|p2a: Tyranitar|Tyranitar, F|95/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|88/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|100/100|[from] item: Leftovers
+|upkeep
+|turn|140
+|
+|t:|1641716679
+|switch|p2a: Ferrothorn|Ferrothorn, F|69/100
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|75/100|[from] item: Leftovers
+|upkeep
+|turn|141
+|
+|t:|1641716684
+|switch|p1a: Fatty|Blissey, F|88/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|142
+|
+|t:|1641716687
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|143
+|
+|t:|1641716690
+|switch|p1a: Fatty|Blissey, F|88/100
+|move|p2a: Tyranitar|Crunch|p1a: Fatty
+|-damage|p1a: Fatty|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|54/100|[from] Sandstorm
+|upkeep
+|turn|144
+|
+|t:|1641716696
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Fatty|Soft-Boiled|p1a: Fatty
+|-heal|p1a: Fatty|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|94/100|[from] Sandstorm
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|145
+|
+|t:|1641716698
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Toxapex|Scald|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|85/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p1a: Baka kisheru|92/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|146
+|
+|t:|1641716704
+|switch|p1a: Fatty|Blissey, F|94/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|147
+|
+|t:|1641716708
+|switch|p2a: Ferrothorn|Ferrothorn, F|75/100
+|switch|p1a: Baka kisheru|Corviknight, M|92/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-heal|p1a: Baka kisheru|98/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|81/100|[from] item: Leftovers
+|upkeep
+|turn|148
+|
+|t:|1641716712
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Baka kisheru|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|81/100
+|
+|t:|1641716714
+|switch|p1a: Fatty|Blissey, F|94/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|88/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|87/100|[from] item: Leftovers
+|upkeep
+|turn|149
+|
+|t:|1641716718
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Fatty|Toxic|p2a: Toxapex
+|-immune|p2a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|82/100|[from] Sandstorm
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|150
+|
+|t:|1641716722
+|switch|p1a: Baka kisheru|Corviknight, M|98/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Ferrothorn|Ferrothorn, F|81/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|100/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|88/100|[from] item: Leftovers
+|upkeep
+|turn|151
+|
+|t:|1641716724
+|switch|p1a: Fatty|Blissey, F|82/100
+|switch|p2a: Tyranitar|Tyranitar, F|87/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|76/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|93/100|[from] item: Leftovers
+|upkeep
+|turn|152
+|
+|t:|1641716727
+|switch|p2a: Ferrothorn|Ferrothorn, F|88/100
+|move|p1a: Fatty|Toxic|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|94/100|[from] item: Leftovers
+|upkeep
+|turn|153
+|
+|t:|1641716730
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|154
+|
+|t:|1641716733
+|switch|p1a: Fatty|Blissey, F|76/100
+|move|p2a: Toxapex|Poison Jab|p1a: Fatty
+|-damage|p1a: Fatty|58/100
+|
+|upkeep
+|turn|155
+|
+|t:|1641716736
+|switch|p2a: Tyranitar|Tyranitar, F|93/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Fatty|Soft-Boiled|p1a: Fatty
+|-heal|p1a: Fatty|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|94/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|99/100|[from] item: Leftovers
+|upkeep
+|turn|156
+|
+|t:|1641716739
+|switch|p2a: Ferrothorn|Ferrothorn, F|94/100
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Ferrothorn|99/100|[from] item: Leftovers
+|upkeep
+|turn|157
+|
+|t:|1641716743
+|switch|p1a: Fatty|Blissey, F|94/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|88/100|[from] Sandstorm
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|158
+|
+|t:|1641716746
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Ferrothorn|Ferrothorn, F|99/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|159
+|
+|t:|1641716749
+|switch|p1a: Fatty|Blissey, F|88/100
+|move|p2a: Ferrothorn|Spikes|p1a: Fatty
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-weather|none
+|upkeep
+|turn|160
+|
+|t:|1641716754
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|161
+|
+|t:|1641716757
+|switch|p1a: Fatty|Blissey, F|88/100
+|switch|p2a: Tyranitar|Tyranitar, F|99/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|82/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|100/100|[from] item: Leftovers
+|upkeep
+|turn|162
+|
+|t:|1641716759
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|163
+|
+|t:|1641716762
+|switch|p1a: Fatty|Blissey, F|82/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|76/100|[from] Sandstorm
+|upkeep
+|turn|164
+|
+|t:|1641716764
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Fatty|Soft-Boiled|p1a: Fatty
+|-heal|p1a: Fatty|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|94/100|[from] Sandstorm
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|165
+|
+|t:|1641716767
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|166
+|
+|t:|1641716770
+|switch|p1a: Fatty|Blissey, F|94/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|88/100|[from] Sandstorm
+|upkeep
+|turn|167
+|
+|t:|1641716773
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|168
+|
+|t:|1641716777
+|switch|p1a: Fatty|Blissey, F|88/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|82/100|[from] Sandstorm
+|upkeep
+|turn|169
+|
+|t:|1641716779
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|170
+|
+|t:|1641716786
+|switch|p1a: Fatty|Blissey, F|82/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|171
+|
+|t:|1641716790
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|172
+|
+|t:|1641716794
+|switch|p1a: Fatty|Blissey, F|82/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|76/100|[from] Sandstorm
+|upkeep
+|turn|173
+|
+|t:|1641716797
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|174
+|
+|t:|1641716800
+|switch|p1a: Fatty|Blissey, F|76/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|70/100|[from] Sandstorm
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|175
+|
+|t:|1641716803
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|176
+|
+|t:|1641716811
+|switch|p1a: Fatty|Blissey, F|70/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|177
+|
+|t:|1641716816
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Fatty|Toxic|p2a: Ferrothorn
+|-immune|p2a: Ferrothorn
+|
+|upkeep
+|turn|178
+|
+|t:|1641716819
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|179
+|
+|t:|1641716824
+|switch|p1a: Fatty|Blissey, F|70/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|64/100|[from] Sandstorm
+|upkeep
+|turn|180
+|
+|t:|1641716828
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|181
+|
+|t:|1641716832
+|switch|p1a: Fatty|Blissey, F|64/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|57/100|[from] Sandstorm
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|182
+|
+|t:|1641716838
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|183
+|
+|t:|1641716841
+|switch|p1a: Fatty|Blissey, F|57/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|none
+|upkeep
+|turn|184
+|
+|t:|1641716844
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|upkeep
+|turn|185
+|
+|t:|1641716846
+|switch|p1a: Fatty|Blissey, F|57/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|51/100|[from] Sandstorm
+|upkeep
+|turn|186
+|c|☆Elon Musk Rusk|This will never end
+|c|☆Mystery Exile|it will
+|
+|t:|1641716864
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|187
+|c|☆Mystery Exile|softboiled is wasting on its own
+|
+|t:|1641716869
+|switch|p1a: Fatty|Blissey, F|51/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|45/100|[from] Sandstorm
+|upkeep
+|turn|188
+|
+|t:|1641716872
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Sandstorm
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|189
+|
+|t:|1641716878
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Baka kisheru|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|92/100
+|-damage|p1a: Baka kisheru|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|t:|1641716880
+|switch|p1a: Fatty|Blissey, F|45/100|[from]move: U-turn
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|98/100|[from] item: Leftovers
+|upkeep
+|turn|190
+|
+|t:|1641716883
+|switch|p1a: Baka kisheru|Corviknight, M|88/100
+|-ability|p1a: Baka kisheru|Pressure
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|-heal|p1a: Baka kisheru|94/100|[from] item: Leftovers
+|upkeep
+|turn|191
+|j| Zuzungzz
+|
+|t:|1641716886
+|switch|p1a: Fatty|Blissey, F|45/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|39/100|[from] Sandstorm
+|upkeep
+|turn|192
+|
+|t:|1641716901
+|move|p2a: Tyranitar|Crunch|p1a: Fatty
+|-damage|p1a: Fatty|7/100
+|move|p1a: Fatty|Soft-Boiled|p1a: Fatty
+|-heal|p1a: Fatty|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|51/100|[from] Sandstorm
+|upkeep
+|turn|193
+|
+|t:|1641716913
+|switch|p2a: Ferrothorn|Ferrothorn, F|98/100
+|move|p1a: Fatty|Seismic Toss|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|70/100
+|-damage|p1a: Fatty|38/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|32/100|[from] Sandstorm
+|-heal|p2a: Ferrothorn|76/100|[from] item: Leftovers
+|upkeep
+|turn|194
+|
+|t:|1641716921
+|switch|p1a: Baka kisheru|Corviknight, M|94/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Baka kisheru
+|-resisted|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|83/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|89/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|82/100|[from] item: Leftovers
+|upkeep
+|turn|195
+|
+|t:|1641716937
+|move|p1a: Baka kisheru|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|-sideend|p1: Elon Musk Rusk|Toxic Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-weather|none
+|-heal|p1a: Baka kisheru|96/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|upkeep
+|turn|196
+|
+|t:|1641716944
+|switch|p1a: Barraskewda who?|Slowbro, M|100/100
+|-damage|p1a: Barraskewda who?|88/100|[from] Spikes
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|197
+|
+|t:|1641716949
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|77/100
+|-damage|p2a: Toxapex|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-heal|p2a: Toxapex|90/100|[from] item: Black Sludge
+|upkeep
+|turn|198
+|
+|t:|1641716954
+|switch|p2a: Ferrothorn|Ferrothorn, F|89/100
+|move|p1a: Barraskewda who?|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|78/100
+|
+|-heal|p2a: Ferrothorn|85/100|[from] item: Leftovers
+|upkeep
+|turn|199
+|
+|t:|1641716960
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Barraskewda who?|Scald|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-end|p2a: Ferrothorn|move: Future Sight
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|68/100
+|-heal|p2a: Ferrothorn|74/100|[from] item: Leftovers
+|upkeep
+|turn|200
+|
+|t:|1641716966
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Barraskewda who?|Scald|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|93/100
+|
+|-heal|p2a: Toxapex|99/100|[from] item: Black Sludge
+|upkeep
+|turn|201
+|
+|t:|1641716972
+|move|p2a: Toxapex|Poison Jab|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|66/100
+|-status|p1a: Barraskewda who?|psn
+|-damage|p2a: Toxapex|82/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|move|p1a: Barraskewda who?|Future Sight|p2a: Toxapex
+|-start|p1a: Barraskewda who?|move: Future Sight
+|
+|-heal|p2a: Toxapex|89/100|[from] item: Black Sludge
+|-damage|p1a: Barraskewda who?|53/100 psn|[from] psn
+|upkeep
+|turn|202
+|
+|t:|1641716978
+|switch|p2a: Ferrothorn|Ferrothorn, F|74/100
+|move|p1a: Barraskewda who?|Scald|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|63/100
+|
+|-heal|p2a: Ferrothorn|70/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda who?|41/100 psn|[from] psn
+|upkeep
+|turn|203
+|l| Zuzungzz
+|
+|t:|1641716984
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Barraskewda who?|Scald|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|92/100
+|
+|-end|p2a: Toxapex|move: Future Sight
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|38/100
+|-heal|p2a: Toxapex|44/100|[from] item: Black Sludge
+|-damage|p1a: Barraskewda who?|28/100 psn|[from] psn
+|upkeep
+|turn|204
+|
+|t:|1641716992
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641716995
+|switch|p1a: Fatty|Blissey, F|32/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Fatty|26/100|[from] Sandstorm
+|upkeep
+|turn|205
+|
+|t:|1641717001
+|move|p2a: Tyranitar|Crunch|p1a: Fatty
+|-damage|p1a: Fatty|0 fnt
+|faint|p1a: Fatty
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641717004
+|switch|p1a: Baka kisheru|Corviknight, M|96/100
+|-ability|p1a: Baka kisheru|Pressure
+|turn|206
+Elon Musk Rusk is offering a tie.
+Mystery Exile rejected the tie.
+|
+|t:|1641717017
+|switch|p2a: Toxapex|Toxapex, F|77/100
+|move|p1a: Baka kisheru|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|73/100
+|
+|t:|1641717019
+|switch|p1a: Barraskewda who?|Slowbro, M|62/100 psn|[from]move: U-turn
+|-damage|p1a: Barraskewda who?|49/100 psn|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Toxapex|66/100|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|43/100 psn|[from] Sandstorm
+|-heal|p2a: Toxapex|73/100|[from] item: Black Sludge
+|-damage|p1a: Barraskewda who?|31/100 psn|[from] psn
+|upkeep
+|turn|207
+|c|☆Mystery Exile|tsk tsk its not a tie
+|
+|t:|1641717028
+|switch|p2a: Ferrothorn|Ferrothorn, F|70/100
+|move|p1a: Barraskewda who?|Teleport|p1a: Barraskewda who?
+|
+|t:|1641717030
+|switch|p1a: Baka kisheru|Corviknight, M|96/100|[from]move: Teleport
+|-ability|p1a: Baka kisheru|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|100/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|76/100|[from] item: Leftovers
+|upkeep
+|turn|208
+|
+|t:|1641717033
+|switch|p1a: Barraskewda who?|Slowbro, M|64/100 psn
+|-damage|p1a: Barraskewda who?|52/100 psn|[from] Spikes
+|move|p2a: Ferrothorn|Protect||[still]
+|-fail|p2a: Ferrothorn
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|82/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda who?|39/100 psn|[from] psn
+|upkeep
+|turn|209
+|
+|t:|1641717040
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Ferrothorn|Spikes|p1a: Baka kisheru
+|-sidestart|p1: Elon Musk Rusk|Spikes
+|
+|-heal|p2a: Ferrothorn|88/100|[from] item: Leftovers
+|upkeep
+|turn|210
+|
+|t:|1641717051
+|switch|p1a: Barraskewda who?|Slowbro, M|72/100 psn
+|-damage|p1a: Barraskewda who?|56/100 psn|[from] Spikes
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda who?|50/100 psn|[from] Sandstorm
+|-damage|p1a: Barraskewda who?|37/100 psn|[from] psn
+|upkeep
+|turn|211
+|
+|t:|1641717056
+|switch|p1a: Baka kisheru|Corviknight, M|100/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Tyranitar|Crunch|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|83/100|[from] item: Leftovers
+|upkeep
+|turn|212
+|
+|t:|1641717060
+|move|p1a: Baka kisheru|Defog|p2a: Tyranitar
+|-unboost|p2a: Tyranitar|evasion|1
+|-sideend|p1: Elon Musk Rusk|Spikes|[from] move: Defog|[of] p1a: Baka kisheru
+|move|p2a: Tyranitar|Smack Down|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|68/100
+|-start|p1a: Baka kisheru|Smack Down
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Baka kisheru|75/100|[from] item: Leftovers
+|upkeep
+|turn|213
+|
+|t:|1641717064
+|switch|p1a: Barraskewda who?|Slowbro, M|71/100 psn
+|move|p2a: Tyranitar|Crunch|p1a: Barraskewda who?
+|-supereffective|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|26/100 psn
+|-damage|p2a: Tyranitar|84/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda who?|20/100 psn|[from] Sandstorm
+|-heal|p2a: Tyranitar|90/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda who?|7/100 psn|[from] psn
+|upkeep
+|turn|214
+|
+|t:|1641717068
+|switch|p1a: Baka kisheru|Corviknight, M|75/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Tyranitar|Smack Down|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|60/100
+|-start|p1a: Baka kisheru|Smack Down
+|
+|-weather|none
+|-heal|p1a: Baka kisheru|66/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|96/100|[from] item: Leftovers
+|upkeep
+|turn|215
+|
+|t:|1641717071
+|move|p1a: Baka kisheru|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|76/100
+|
+|t:|1641717074
+|switch|p1a: Barraskewda who?|Slowbro, M|41/100 psn|[from]move: U-turn
+|move|p2a: Tyranitar|Earthquake|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|22/100 psn
+|
+|-heal|p2a: Tyranitar|83/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda who?|10/100 psn|[from] psn
+|upkeep
+|turn|216
+|
+|t:|1641717077
+|switch|p1a: Baka kisheru|Corviknight, M|66/100
+|-ability|p1a: Baka kisheru|Pressure
+|move|p2a: Tyranitar|Smack Down|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|53/100
+|-start|p1a: Baka kisheru|Smack Down
+|
+|-heal|p1a: Baka kisheru|59/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|89/100|[from] item: Leftovers
+|upkeep
+|turn|217
+|
+|t:|1641717081
+|move|p1a: Baka kisheru|Roost|p1a: Baka kisheru
+|-heal|p1a: Baka kisheru|100/100
+|-singleturn|p1a: Baka kisheru|move: Roost
+|move|p2a: Tyranitar|Crunch|p1a: Baka kisheru
+|-damage|p1a: Baka kisheru|78/100
+|-unboost|p1a: Baka kisheru|def|1
+|
+|-heal|p1a: Baka kisheru|84/100|[from] item: Leftovers
+|-heal|p2a: Tyranitar|95/100|[from] item: Leftovers
+|upkeep
+|turn|218
+|
+|t:|1641717087
+|move|p1a: Baka kisheru|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|73/100
+|
+|t:|1641717089
+|switch|p1a: Barraskewda who?|Slowbro, M|43/100 psn|[from]move: U-turn
+|move|p2a: Tyranitar|Crunch|p1a: Barraskewda who?
+|-supereffective|p1a: Barraskewda who?
+|-damage|p1a: Barraskewda who?|5/100 psn
+|-damage|p2a: Tyranitar|57/100|[from] item: Rocky Helmet|[of] p1a: Barraskewda who?
+|
+|-heal|p2a: Tyranitar|63/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda who?|0 fnt|[from] psn
+|faint|p1a: Barraskewda who?
+|upkeep
+|
+|t:|1641717090
+|switch|p1a: Baka kisheru|Corviknight, M|84/100
+|-ability|p1a: Baka kisheru|Pressure
+|turn|219
+|
+|t:|1641717092
+|switch|p2a: Ferrothorn|Ferrothorn, F|88/100
+|move|p1a: Baka kisheru|U-turn|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|81/100
+|-damage|p1a: Baka kisheru|72/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p1a: Baka kisheru|78/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|87/100|[from] item: Leftovers
+|upkeep
+|turn|220
+|
+|t:|1641717096
+|move|p1a: Baka kisheru|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|68/100
+|-damage|p1a: Baka kisheru|65/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Baka kisheru|60/100|[from] Recoil
+|move|p2a: Ferrothorn|Leech Seed|p1a: Baka kisheru
+|-start|p1a: Baka kisheru|move: Leech Seed
+|
+|-heal|p1a: Baka kisheru|66/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|75/100|[from] item: Leftovers
+|-damage|p1a: Baka kisheru|54/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|89/100|[silent]
+|upkeep
+|turn|221
+|-message|Elon Musk Rusk forfeited.
+|
+|win|Mystery Exile
+|l|☆Elon Musk Rusk

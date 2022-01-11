@@ -1,0 +1,78 @@
+|j|☆UDrinkWater
+|j|☆Cobblstone02
+|t:|1641759108
+|gametype|singles
+|player|p1|UDrinkWater|101|
+|player|p2|Cobblstone02|boarder|
+|teamsize|p1|3
+|teamsize|p2|3
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gyarados, M|
+|poke|p1|Seismitoad, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Raichu, M|
+|poke|p2|Bronzong|
+|teampreview
+|j| jonjonbill
+|l| jonjonbill
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UDrinkWater)
+|
+|t:|1641759170
+|start
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|switch|p2a: Raichu|Raichu, M|100/100
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Raichu|atk|1
+|turn|1
+|inactive|Cobblstone02 has 270 seconds left.
+|
+|t:|1641759204
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Raichu|atk|1
+|move|p2a: Raichu|Thunder|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641759228
+|switch|p1a: Seismitoad|Seismitoad, F|100/100
+|turn|2
+|
+|t:|1641759232
+|move|p2a: Raichu|Thunder|p1a: Seismitoad
+|-supereffective|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|faint|p1a: Seismitoad
+|
+|upkeep
+|
+|t:|1641759235
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|-ability|p1a: Gyarados|Intimidate|boost
+|-unboost|p2a: Raichu|atk|1
+|turn|3
+|
+|t:|1641759240
+|move|p2a: Raichu|Thunder|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|win|Cobblstone02
+|l|☆UDrinkWater
+|l|☆Cobblstone02
+|j|☆UDrinkWater
+|player|p1|UDrinkWater|101

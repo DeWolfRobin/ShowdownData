@@ -1,0 +1,204 @@
+|j|☆Aldeeran
+|j|☆Solosist
+|t:|1641784239
+|gametype|singles
+|player|p1|Aldeeran|acetrainersnow|1129
+|player|p2|Solosist|ghetsis|1196
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Togekiss, F|
+|poke|p1|Inteleon, M|
+|poke|p1|Weavile, F|
+|poke|p1|Mew|
+|poke|p2|Heatran, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Scizor, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Aldeeran)
+|
+|t:|1641784250
+|start
+|switch|p1a: Weavile|Weavile, F|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|1
+|
+|t:|1641784257
+|move|p1a: Weavile|Fling|p2a: Heatran
+|-damage|p2a: Heatran|88/100
+|-enditem|p1a: Weavile|Flame Orb|[from] move: Fling
+|move|p2a: Heatran|Body Press|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641784265
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|turn|2
+|
+|t:|1641784271
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blaziken|atk|1
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|3
+|
+|t:|1641784278
+|move|p1a: Blaziken|Detect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Landorus|Earthquake|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|4
+|
+|t:|1641784282
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Landorus|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|-damage|p2a: Landorus|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641784285
+|switch|p1a: Inteleon|Inteleon, M, shiny|100/100
+|turn|5
+|
+|t:|1641784298
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Inteleon|Ice Beam|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|84/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641784303
+|move|p1a: Inteleon|Snipe Shot|p2a: Scizor
+|-damage|p2a: Scizor|38/100
+|move|p2a: Scizor|U-turn|p1a: Inteleon
+|-damage|p1a: Inteleon|0 fnt
+|faint|p1a: Inteleon
+|
+|t:|1641784310
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641784314
+|switch|p1a: Togekiss|Togekiss, F|100/100
+|turn|7
+|
+|t:|1641784318
+|switch|p2a: Scizor|Scizor, M|38/100
+|move|p1a: Togekiss|Draining Kiss|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|23/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641784322
+|move|p2a: Scizor|Bullet Punch|p1a: Togekiss
+|-supereffective|p1a: Togekiss
+|-damage|p1a: Togekiss|0 fnt
+|faint|p1a: Togekiss
+|
+|upkeep
+|
+|t:|1641784325
+|switch|p1a: Mew|Mew|100/100
+|turn|9
+|
+|t:|1641784330
+|switch|p2a: Heatran|Heatran, F|94/100
+|move|p1a: Mew|Trick|p2a: Heatran
+|-activate|p1a: Mew|move: Trick|[of] p2a: Heatran
+|-item|p2a: Heatran|Lagging Tail|[from] move: Trick
+|-item|p1a: Mew|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|10
+|
+|t:|1641784339
+|move|p1a: Mew|Transform|p2a: Heatran
+|-transform|p1a: Mew|p2a: Heatran
+|move|p2a: Heatran|Toxic|p1a: Mew
+|-immune|p1a: Mew
+|
+|upkeep
+|turn|11
+|
+|t:|1641784345
+|move|p1a: Mew|Roar|p2a: Heatran
+|drag|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641784350
+|move|p1a: Mew|Toxic|p2a: Hippowdon
+|-status|p2a: Hippowdon|tox
+|move|p2a: Hippowdon|Earthquake|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641784352
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|13
+|
+|t:|1641784355
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Hippowdon|Toxic|p1a: Dragonite
+|-status|p1a: Dragonite|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragonite|94/100 tox|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Dragonite|88/100 tox|[from] psn
+|-damage|p2a: Hippowdon|88/100 tox|[from] psn
+|upkeep
+|turn|14
+|-message|Aldeeran forfeited.
+|
+|win|Solosist
+|raw|Aldeeran's rating: 1129 &rarr; <strong>1109</strong><br />(-20 for losing)
+|raw|Solosist's rating: 1196 &rarr; <strong>1216</strong><br />(+20 for winning)
+|l|☆Aldeeran

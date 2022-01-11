@@ -1,0 +1,419 @@
+|j|☆cute asian gurl
+|j|☆mcp3
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641759547
+|gametype|singles
+|player|p1|cute asian gurl|dawn|
+|player|p2|mcp3|marley|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, F|
+|poke|p1|Weavile, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Chansey, F|
+|poke|p1|Gastrodon-East, F|
+|poke|p1|Xatu, M|
+|poke|p2|Melmetal|
+|poke|p2|Garchomp, F|
+|poke|p2|Chansey, F|
+|poke|p2|Skarmory, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Clefable, M|
+|teampreview
+|c|☆mcp3|hf
+|j| chiedozie
+|c|☆cute asian gurl|hf
+|
+|t:|1641759569
+|start
+|switch|p1a: Chansey|Chansey, F|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641759574
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Chansey|Thunder Wave|p2a: Garchomp
+|-immune|p2a: Garchomp
+|
+|upkeep
+|turn|2
+|j| phrogeye
+|j| cogonahorse
+|
+|t:|1641759592
+|switch|p2a: LUKAKU|Melmetal|100/100
+|move|p1a: Chansey|Stealth Rock|p2a: LUKAKU
+|-sidestart|p2: mcp3|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641759597
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|move|p2a: LUKAKU|Substitute|p2a: LUKAKU
+|-start|p2a: LUKAKU|Substitute
+|-damage|p2a: LUKAKU|76/100
+|
+|-heal|p2a: LUKAKU|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|j| lonely crowd
+|j| OneAlchemy
+|
+|t:|1641759613
+|move|p2a: LUKAKU|Thunder Punch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|57/100
+|-status|p1a: Slowbro|par
+|-damage|p2a: LUKAKU|65/100|[from] item: Rocky Helmet|[of] p1a: Slowbro
+|cant|p1a: Slowbro|par
+|
+|-heal|p2a: LUKAKU|71/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|j| PincherD
+|
+|t:|1641759628
+|move|p2a: LUKAKU|Thunder Punch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|14/100 par
+|-damage|p2a: LUKAKU|55/100|[from] item: Rocky Helmet|[of] p1a: Slowbro
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|64/100 par
+|
+|-heal|p2a: LUKAKU|61/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|j| Gotti 4
+|
+|t:|1641759636
+|switch|p1a: Gastrodon|Gastrodon-East, F|100/100
+|move|p2a: LUKAKU|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|54/100
+|
+|-heal|p1a: Gastrodon|60/100|[from] item: Leftovers
+|-heal|p2a: LUKAKU|67/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641759641
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|100/100
+|move|p2a: LUKAKU|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|59/100
+|
+|-heal|p1a: Gastrodon|66/100|[from] item: Leftovers
+|-heal|p2a: LUKAKU|73/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641759647
+|move|p1a: Gastrodon|Earth Power|p2a: LUKAKU
+|-supereffective|p2a: LUKAKU
+|-crit|p2a: LUKAKU
+|-end|p2a: LUKAKU|Substitute
+|move|p2a: LUKAKU|Earthquake|p1a: Gastrodon
+|-damage|p1a: Gastrodon|19/100
+|
+|-heal|p1a: Gastrodon|25/100|[from] item: Leftovers
+|-heal|p2a: LUKAKU|79/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641759656
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|75/100
+|move|p2a: LUKAKU|Double Iron Bash|p1a: Gastrodon
+|-resisted|p1a: Gastrodon
+|-damage|p1a: Gastrodon|51/100
+|-resisted|p1a: Gastrodon
+|-damage|p1a: Gastrodon|27/100
+|-hitcount|p1a: Gastrodon|2
+|
+|-heal|p1a: Gastrodon|33/100|[from] item: Leftovers
+|-heal|p2a: LUKAKU|86/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|j| pardon my swag
+|
+|t:|1641759667
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|move|p1a: Gastrodon|Recover|p1a: Gastrodon
+|-heal|p1a: Gastrodon|83/100
+|
+|-heal|p2a: Garchomp|100/100|[from] item: Leftovers
+|-heal|p1a: Gastrodon|89/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641759675
+|switch|p1a: Xatu|Xatu, M|100/100
+|move|p2a: Garchomp|Stealth Rock|p1a: Xatu
+|-sidestart|p1: cute asian gurl|move: Stealth Rock
+|
+|upkeep
+|turn|12
+|c| lonely crowd|?
+|c|☆mcp3|lmao
+|c|☆cute asian gurl|rofl
+|c| OneAlchemy|???
+|inactive|cute asian gurl has 120 seconds left.
+|
+|t:|1641759705
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Xatu|Night Shade|p2a: Tornadus
+|-damage|p2a: Tornadus|73/100
+|
+|upkeep
+|turn|13
+|j| Politoed
+|
+|t:|1641759715
+|move|p2a: Tornadus|Knock Off|p1a: Xatu
+|-supereffective|p1a: Xatu
+|-damage|p1a: Xatu|44/100
+|-enditem|p1a: Xatu|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Xatu|Thunder Wave|p2a: Tornadus
+|-status|p2a: Tornadus|par
+|
+|upkeep
+|turn|14
+|
+|t:|1641759721
+|move|p1a: Xatu|Roost|p1a: Xatu
+|-heal|p1a: Xatu|94/100
+|-singleturn|p1a: Xatu|move: Roost
+|move|p2a: Tornadus|U-turn|p1a: Xatu
+|-supereffective|p1a: Xatu
+|-damage|p1a: Xatu|57/100
+|
+|t:|1641759727
+|switch|p2a: Chansey|Chansey, F|100/100|[from]move: U-turn
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|15
+|
+|t:|1641759735
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Chansey|Aromatherapy|p2a: Chansey
+|-activate|p2a: Chansey|move: Aromatherapy
+|-curestatus|p2: Tornadus|par|[msg]
+|
+|-heal|p1a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|c|☆mcp3|gg
+|
+|t:|1641759742
+|switch|p2a: Skarmory|Skarmory, M|100/100
+|-damage|p2a: Skarmory|88/100|[from] Stealth Rock
+|move|p1a: Corviknight|U-turn|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|86/100
+|
+|t:|1641759754
+|switch|p1a: Gastrodon|Gastrodon-East, F|89/100|[from]move: U-turn
+|-damage|p1a: Gastrodon|83/100|[from] Stealth Rock
+|
+|-heal|p1a: Gastrodon|89/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641759761
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|move|p1a: Gastrodon|Scald|p2a: Skarmory
+|-damage|p2a: Skarmory|48/100
+|-status|p2a: Skarmory|brn
+|
+|-heal|p1a: Gastrodon|95/100|[from] item: Leftovers
+|-damage|p2a: Skarmory|42/100 brn|[from] brn
+|upkeep
+|turn|18
+|j|+airfare
+|
+|t:|1641759769
+|switch|p2a: Chansey|Chansey, F|88/100
+|-damage|p2a: Chansey|75/100|[from] Stealth Rock
+|move|p1a: Gastrodon|Earth Power|p2a: Chansey
+|-damage|p2a: Chansey|67/100
+|
+|-heal|p1a: Gastrodon|100/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|c| Politoed|wait
+|
+|t:|1641759774
+|switch|p1a: Weavile|Weavile, F|100/100
+|-damage|p1a: Weavile|76/100|[from] Stealth Rock
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Chansey|Aromatherapy|p2a: Chansey
+|-activate|p2a: Chansey|move: Aromatherapy
+|-curestatus|p2: Skarmory|brn|[msg]
+|
+|upkeep
+|turn|20
+|c|☆mcp3|waiting
+|c| Politoed|what xatu
+|
+|t:|1641759786
+|move|p1a: Weavile|Beat Up|p2a: Chansey
+|-damage|p2a: Chansey|58/100
+|-damage|p2a: Chansey|52/100
+|-damage|p2a: Chansey|49/100
+|-damage|p2a: Chansey|44/100
+|-damage|p2a: Chansey|37/100
+|-hitcount|p2a: Chansey|5
+|move|p2a: Chansey|Toxic|p1a: Weavile
+|-status|p1a: Weavile|tox
+|
+|-damage|p1a: Weavile|70/100 tox|[from] psn
+|upkeep
+|turn|21
+|l| chiedozie
+|c| lonely crowd|beat up with this team?
+|inactive|cute asian gurl has 120 seconds left.
+|j| UnusualFighter
+|j| flemzy1
+|c|+airfare|ill beat u up
+|c| lonely crowd|mhm
+|inactive|cute asian gurl has 90 seconds left.
+|c|☆cute asian gurl|my sets are messed up
+|c|☆cute asian gurl|lol
+|
+|t:|1641759852
+|switch|p1a: Corviknight|Corviknight, F|94/100
+|-damage|p1a: Corviknight|82/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: Clefable|Clefable, M|100/100
+|
+|-heal|p1a: Corviknight|88/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641759857
+|move|p1a: Corviknight|Defog|p2a: Clefable
+|-unboost|p2a: Clefable|evasion|1
+|-sideend|p2: mcp3|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|-sideend|p1: cute asian gurl|Stealth Rock|[from] move: Defog|[of] p1a: Corviknight
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p1a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641759861
+|move|p1a: Corviknight|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|95/100
+|
+|t:|1641759864
+|switch|p1a: Chansey|Chansey, F|100/100|[from]move: U-turn
+|move|p2a: Clefable|Moonblast|p1a: Chansey
+|-damage|p1a: Chansey|80/100
+|-unboost|p1a: Chansey|spa|1
+|
+|upkeep
+|turn|24
+|
+|t:|1641759867
+|switch|p2a: Chansey|Chansey, F|37/100
+|move|p1a: Chansey|Thunder Wave|p2a: Chansey
+|-status|p2a: Chansey|par
+|
+|upkeep
+|turn|25
+|
+|t:|1641759873
+|switch|p1a: Weavile|Weavile, F|70/100 tox
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|87/100 par
+|
+|-damage|p1a: Weavile|63/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641759880
+|-curestatus|p2a: Chansey|par|[from] ability: Natural Cure
+|switch|p2a: LUKAKU|Melmetal|86/100
+|move|p1a: Weavile|Knock Off|p2a: LUKAKU
+|-damage|p2a: LUKAKU|43/100
+|-enditem|p2a: LUKAKU|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|
+|-damage|p1a: Weavile|51/100 tox|[from] psn
+|upkeep
+|turn|27
+|j| You hax me dude
+|
+|t:|1641759890
+|switch|p1a: Gastrodon|Gastrodon-East, F|100/100
+|move|p2a: LUKAKU|Thunder Punch|p1a: Gastrodon
+|-immune|p1a: Gastrodon
+|
+|upkeep
+|turn|28
+|
+|t:|1641759896
+|switch|p1a: Weavile|Weavile, F|51/100 tox
+|-ability|p1a: Weavile|Pressure
+|switch|p2a: Clefable|Clefable, M|95/100
+|
+|-damage|p1a: Weavile|45/100 tox|[from] psn
+|upkeep
+|turn|29
+|l| You hax me dude
+|
+|t:|1641759903
+|move|p1a: Weavile|Icicle Crash|p2a: Clefable
+|-damage|p2a: Clefable|50/100
+|move|p2a: Clefable|Moonblast|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|c|☆cute asian gurl|gg
+|c|☆mcp3|ggs
+|-message|cute asian gurl forfeited.
+|
+|win|mcp3
+|n|☆cute asian gurl|cuteasiangurl
+|n|☆mcp3|mcp3
+|n| phrogeye|phrogeye
+|n| cogonahorse|cogonahorse
+|n| lonely crowd|lonelycrowd
+|n| OneAlchemy|onealchemy
+|n| PincherD|pincherd
+|n| Gotti 4|gotti4
+|n| pardon my swag|pardonmyswag
+|n| Politoed|politoed
+|n|+airfare|airfare
+|n| UnusualFighter|unusualfighter
+|n| flemzy1|flemzy1
+|l|☆cute asian gurl
+|l|☆mcp3
+|l| PincherD
+|j| StealthyKoala
+|l| flemzy1
+|l| UnusualFighter
+|l| lonely crowd
+|l| OneAlchemy
+|l| pardon my swag

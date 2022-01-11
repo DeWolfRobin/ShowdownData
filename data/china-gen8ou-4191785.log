@@ -1,0 +1,185 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC sadfrog
+|j|☆SL21CC N1Daye
+|t:|1641826450
+|gametype|singles
+|player|p1|SL21CC sadfrog|battlegirl-gen4|1183
+|player|p2|SL21CC N1Daye|265|1217
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Excadrill, M|
+|poke|p1|Weavile, M|
+|poke|p1|Kartana|
+|poke|p1|Bisharp, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Zapdos-Galar|
+|poke|p2|Slurpuff, F|
+|poke|p2|Mew|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Kartana|
+|poke|p2|Weavile, F|
+|poke|p2|Braviary, M|
+|teampreview
+|
+|t:|1641826467
+|start
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|switch|p2a: Slurpuff|Slurpuff, F|100/100
+|-ability|p1a: Excadrill|Mold Breaker
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC sadfrog)
+|j| shandianxuanfengpi
+|
+|t:|1641826496
+|move|p2a: Slurpuff|Magic Coat|p2a: Slurpuff
+|-singleturn|p2a: Slurpuff|move: Magic Coat
+|move|p1a: Excadrill|Iron Head|p2a: Slurpuff
+|-supereffective|p2a: Slurpuff
+|-damage|p2a: Slurpuff|17/100
+|
+|upkeep
+|turn|2
+|-enditem|p2a: Slurpuff|Custap Berry|[eat]
+|-activate|p2a: Slurpuff|item: Custap Berry|[consumed]
+|
+|t:|1641826504
+|move|p2a: Slurpuff|Sticky Web|p1a: Excadrill
+|-sidestart|p1: SL21CC sadfrog|move: Sticky Web
+|move|p1a: Excadrill|Rapid Spin|p2a: Slurpuff
+|-damage|p2a: Slurpuff|0 fnt
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: SL21CC sadfrog|Sticky Web|[from] move: Rapid Spin|[of] p1a: Excadrill
+|faint|p2a: Slurpuff
+|
+|upkeep
+|
+|t:|1641826512
+|switch|p2a: Mew|Mew|100/100
+|turn|3
+|
+|t:|1641826515
+|move|p1a: Excadrill|Toxic|p2a: Mew
+|-status|p2a: Mew|tox
+|-activate|p2a: Mew|ability: Synchronize
+|-immune|p1a: Excadrill
+|move|p2a: Mew|Imprison|p2a: Mew
+|-start|p2a: Mew|move: Imprison
+|
+|-damage|p2a: Mew|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641826521
+|move|p1a: Excadrill|Stealth Rock|p2a: Mew
+|-sidestart|p2: SL21CC N1Daye|move: Stealth Rock
+|move|p2a: Mew|Transform|p1a: Excadrill
+|-transform|p2a: Mew|p1a: Excadrill
+|-ability|p2a: Mew|Mold Breaker
+|
+|-heal|p2a: Mew|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Mew|88/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641826527
+|move|p2a: Mew|Rapid Spin|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|89/100
+|-boost|p2a: Mew|spe|1
+|-sideend|p2: SL21CC N1Daye|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Mew
+|-activate|p1a: Excadrill|move: Struggle
+|move|p1a: Excadrill|Struggle|p2a: Mew
+|-damage|p2a: Mew|63/100 tox
+|-damage|p1a: Excadrill|64/100|[from] recoil
+|
+|-heal|p2a: Mew|69/100 tox|[from] item: Leftovers
+|-damage|p2a: Mew|51/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641826529
+|move|p2a: Mew|Stealth Rock|p1a: Excadrill
+|-sidestart|p1: SL21CC sadfrog|move: Stealth Rock
+|-activate|p1a: Excadrill|move: Struggle
+|move|p1a: Excadrill|Struggle|p2a: Mew
+|-crit|p2a: Mew
+|-damage|p2a: Mew|15/100 tox
+|-damage|p1a: Excadrill|39/100|[from] recoil
+|
+|-heal|p2a: Mew|22/100 tox|[from] item: Leftovers
+|-damage|p2a: Mew|0 fnt|[from] psn
+|faint|p2a: Mew
+|upkeep
+|
+|t:|1641826538
+|switch|p2a: Braviary|Braviary, M|100/100
+|turn|7
+|
+|t:|1641826547
+|move|p1a: Excadrill|Rapid Spin|p2a: Braviary
+|-damage|p2a: Braviary|79/100
+|-boost|p1a: Excadrill|spe|1
+|-sideend|p1: SL21CC sadfrog|Stealth Rock|[from] move: Rapid Spin|[of] p1a: Excadrill
+|move|p2a: Braviary|Close Combat|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|-unboost|p2a: Braviary|def|1
+|-unboost|p2a: Braviary|spd|1
+|faint|p1a: Excadrill
+|
+|upkeep
+|
+|t:|1641826564
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|turn|8
+|
+|t:|1641826569
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641826571
+|move|p1a: Volcarona|Giga Drain|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1641826574
+|switch|p2a: Braviary|Braviary, M|79/100
+|turn|10
+|
+|t:|1641826576
+|move|p1a: Volcarona|Fiery Dance|p2a: Braviary
+|-damage|p2a: Braviary|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Braviary
+|
+|upkeep
+|
+|t:|1641826580
+|switch|p2a: Kartana|Kartana|100/100
+|turn|11
+|-message|SL21CC N1Daye forfeited.
+|
+|win|SL21CC sadfrog
+|raw|SL21CC sadfrog's rating: 1183 &rarr; <strong>1212</strong><br />(+29 for winning)
+|raw|SL21CC N1Daye's rating: 1217 &rarr; <strong>1199</strong><br />(-18 for losing)
+|l|☆SL21CC N1Daye

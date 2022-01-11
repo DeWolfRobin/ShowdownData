@@ -1,0 +1,573 @@
+|j|☆Drop a choppa
+|j|☆Hailisnotfun
+|t:|1641839666
+|gametype|singles
+|player|p1|Drop a choppa|acetrainersnowf|
+|player|p2|Hailisnotfun|brycen|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Tapu Fini|
+|poke|p1|Volcanion|
+|poke|p1|Dragapult, M|
+|poke|p1|Zapdos|
+|poke|p1|Garchomp, F|
+|poke|p2|Weavile, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Victini|
+|poke|p2|Swampert, M|
+|poke|p2|Skarmory, F|
+|poke|p2|Slowking-Galar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hailisnotfun)
+|c|☆Drop a choppa|Ill burn u
+|c|☆Drop a choppa|For being toxic
+|c|☆Hailisnotfun|ok
+|
+|t:|1641839701
+|start
+|switch|p1a: Magnezone|Magnezone|100/100
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|1
+|c|☆Hailisnotfun|When was I ever toxic
+|
+|t:|1641839713
+|move|p2a: Tapu Koko|U-turn|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|94/100
+|c|☆Drop a choppa|Acting cocky
+|c|☆Drop a choppa|And all
+|
+|t:|1641839717
+|switch|p2a: Victini|Victini|100/100|[from]move: U-turn
+|move|p1a: Magnezone|Flash Cannon|p2a: Victini
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|59/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641839727
+|switch|p1a: Volcanion|Volcanion|100/100
+|move|p2a: Victini|U-turn|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|92/100
+|
+|t:|1641839733
+|switch|p2a: Tapu Koko|Tapu Koko|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|3
+|c|☆Drop a choppa|Ur to over confident
+|c|☆Drop a choppa|Ill burn your ego
+|
+|t:|1641839745
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|69/100
+|move|p1a: Volcanion|Sludge Wave|p2a: Tapu Koko
+|-supereffective|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|7/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641839753
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|upkeep
+|turn|5
+|c|☆Hailisnotfun|Aren’t you the one having a whole anime monologue
+|c|☆Drop a choppa|See what I mean
+|c|☆Hailisnotfun|you seem to be the toxic and overconfident one here
+|
+|t:|1641839782
+|move|p1a: Garchomp|Poison Jab|p2a: Tapu Koko
+|-supereffective|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|c|☆Drop a choppa|Im not
+|c|☆Drop a choppa|Kek
+|c|☆Drop a choppa|Lol
+|inactive|Hailisnotfun has 270 seconds left.
+|
+|t:|1641839795
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|turn|6
+|c|☆Drop a choppa|When u start losing your humble kek
+|c|☆Drop a choppa|Im just trying to to tell u stop be over confident
+|c|☆Drop a choppa|Thats all :)
+|inactive|Drop a choppa has 270 seconds left.
+|
+|t:|1641839830
+|switch|p1a: Volcanion|Volcanion|69/100
+|move|p2a: Slowking|Future Sight|p1a: Volcanion
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|7
+|
+|t:|1641839840
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|move|p1a: Volcanion|Earth Power|p2a: Skarmory
+|-immune|p2a: Skarmory
+|
+|upkeep
+|turn|8
+|
+|t:|1641839850
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|switch|p2a: Swampert|Swampert, M|100/100
+|
+|-end|p1a: Dragapult|move: Future Sight
+|-damage|p1a: Dragapult|31/100
+|upkeep
+|turn|9
+|
+|t:|1641839863
+|move|p1a: Dragapult|Draco Meteor|p2a: Swampert
+|-damage|p2a: Swampert|47/100
+|-unboost|p1a: Dragapult|spa|2
+|-damage|p1a: Dragapult|22/100|[from] item: Life Orb
+|move|p2a: Swampert|Flip Turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|6/100
+|
+|t:|1641839872
+|switch|p2a: Weavile|Weavile, F|100/100|[from]move: Flip Turn
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|10
+|
+|t:|1641839884
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Weavile|Ice Shard|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|93/100
+|
+|-heal|p1a: Tapu Fini|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641839894
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641839904
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|70/100
+|
+|-heal|p1a: Tapu Fini|76/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641839913
+|move|p1a: Tapu Fini|Calm Mind|p1a: Tapu Fini
+|-boost|p1a: Tapu Fini|spa|1
+|-boost|p1a: Tapu Fini|spd|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|52/100
+|
+|-heal|p1a: Tapu Fini|59/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641839922
+|move|p1a: Tapu Fini|Scald|p2a: Slowking
+|-damage|p2a: Slowking|70/100
+|move|p2a: Slowking|Sludge Bomb|p1a: Tapu Fini
+|-supereffective|p1a: Tapu Fini
+|-crit|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641839932
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|turn|15
+|c|☆Hailisnotfun|Epic
+|
+|t:|1641839941
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|-ability|p1a: Zapdos|Pressure
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|
+|upkeep
+|turn|16
+|c|☆Drop a choppa|Thx
+|c|☆Drop a choppa|Kek
+|
+|t:|1641839956
+|switch|p2a: Swampert|Swampert, M|47/100
+|move|p1a: Zapdos|Hurricane|p2a: Swampert|[miss]
+|-miss|p1a: Zapdos|p2a: Swampert
+|
+|-heal|p2a: Swampert|53/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641839966
+|move|p1a: Zapdos|Hurricane|p2a: Swampert
+|-damage|p2a: Swampert|17/100
+|-start|p2a: Swampert|confusion
+|-activate|p2a: Swampert|confusion
+|-damage|p2a: Swampert|8/100|[from] confusion
+|
+|-heal|p2a: Swampert|15/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641839977
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Zapdos|Heat Wave|p2a: Slowking
+|-damage|p2a: Slowking|85/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641839985
+|move|p1a: Zapdos|Thunderbolt|p2a: Slowking
+|-damage|p2a: Slowking|64/100
+|move|p2a: Slowking|Ice Beam|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|42/100
+|
+|-heal|p1a: Zapdos|48/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641839995
+|switch|p1a: Volcanion|Volcanion|69/100
+|move|p2a: Slowking|Future Sight|p1a: Volcanion
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|21
+|
+|t:|1641840002
+|switch|p2a: Swampert|Swampert, M|15/100
+|move|p1a: Volcanion|Flamethrower|p2a: Swampert
+|-resisted|p2a: Swampert
+|-damage|p2a: Swampert|1/100
+|
+|-heal|p2a: Swampert|7/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641840016
+|switch|p1a: Dragapult|Dragapult, M|6/100
+|move|p2a: Swampert|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|-heal|p2a: Swampert|14/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641840029
+|switch|p1a: Magnezone|Magnezone|94/100
+|turn|23
+|
+|t:|1641840036
+|switch|p1a: Zapdos|Zapdos, shiny|48/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Swampert|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-heal|p1a: Zapdos|55/100|[from] item: Leftovers
+|-heal|p2a: Swampert|20/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641840050
+|switch|p2a: Slowking|Slowking-Galar, M|97/100
+|move|p1a: Zapdos|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|74/100
+|-start|p2a: Slowking|confusion
+|
+|-heal|p1a: Zapdos|61/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641840059
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|-activate|p2a: Slowking|confusion
+|move|p2a: Slowking|Future Sight|p1a: Garchomp
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|26
+|
+|t:|1641840065
+|switch|p2a: Skarmory|Skarmory, F|100/100
+|move|p1a: Garchomp|Dragon Claw|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|89/100
+|-damage|p1a: Garchomp|84/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|
+|upkeep
+|turn|27
+|
+|t:|1641840084
+|switch|p1a: Volcanion|Volcanion|69/100
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|-end|p1a: Volcanion|move: Future Sight
+|-damage|p1a: Volcanion|4/100
+|upkeep
+|turn|28
+|
+|t:|1641840110
+|switch|p2a: Swampert|Swampert, M|20/100
+|move|p1a: Volcanion|Earth Power|p2a: Swampert
+|-damage|p2a: Swampert|2/100
+|
+|-heal|p2a: Swampert|8/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641840119
+|move|p1a: Volcanion|Earth Power|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|upkeep
+|c|☆Drop a choppa|Flamethrower
+|c|☆Drop a choppa|Sike lol
+|
+|t:|1641840127
+|switch|p2a: Victini|Victini|59/100
+|turn|30
+|
+|t:|1641840132
+|move|p1a: Volcanion|Earth Power|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|2/100
+|move|p2a: Victini|U-turn|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|c|☆Drop a choppa|Ah this if sun
+|c|☆Drop a choppa|Fun
+|
+|t:|1641840146
+|switch|p2a: Weavile|Weavile, F|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|inactive|Drop a choppa has 270 seconds left.
+|inactive|Drop a choppa has 240 seconds left.
+|inactive|Drop a choppa has 210 seconds left.
+|inactive|Drop a choppa has 180 seconds left.
+|
+|t:|1641840272
+|switch|p1a: Magnezone|Magnezone|94/100
+|turn|31
+|c|☆Drop a choppa|There
+|inactive|Drop a choppa has 180 seconds left.
+|
+|t:|1641840279
+|switch|p2a: Slowking|Slowking-Galar, M|100/100
+|move|p1a: Magnezone|Flash Cannon|p2a: Slowking
+|-damage|p2a: Slowking|68/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641840286
+|switch|p1a: Zapdos|Zapdos, shiny|61/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Slowking|Ice Beam|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|5/100
+|
+|-heal|p1a: Zapdos|12/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641840296
+|move|p1a: Zapdos|Thunderbolt|p2a: Slowking
+|-damage|p2a: Slowking|50/100
+|move|p2a: Slowking|Future Sight|p1a: Zapdos
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Zapdos|18/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641840305
+|move|p1a: Zapdos|Thunderbolt|p2a: Slowking
+|-damage|p2a: Slowking|31/100
+|-status|p2a: Slowking|par
+|cant|p2a: Slowking|par
+|
+|-heal|p1a: Zapdos|24/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|c|☆Drop a choppa|Yes!
+|c|☆Drop a choppa|Yes yes yes
+|c|☆Drop a choppa|I believe in my pokemon!
+|c|☆Drop a choppa|Are bond is strong
+|
+|t:|1641840333
+|move|p1a: Zapdos|Thunderbolt|p2a: Slowking
+|-damage|p2a: Slowking|11/100 par
+|cant|p2a: Slowking|par
+|
+|-end|p1a: Zapdos|move: Future Sight
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|upkeep
+|c|☆Drop a choppa|Want be ash over here lol
+|
+|t:|1641840342
+|switch|p1a: Magnezone|Magnezone|94/100
+|turn|36
+|
+|t:|1641840353
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Magnezone|Thunderbolt|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641840363
+|switch|p2a: Victini|Victini|2/100
+|turn|37
+|
+|t:|1641840372
+|switch|p1a: Garchomp|Garchomp, F|84/100
+|move|p2a: Victini|V-create|p1a: Garchomp
+|-resisted|p1a: Garchomp
+|-damage|p1a: Garchomp|49/100
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|-damage|p2a: Victini|0 fnt|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p2a: Victini
+|
+|upkeep
+|c|☆Drop a choppa|Clutch clutch
+|inactive|Hailisnotfun has 270 seconds left.
+|
+|t:|1641840392
+|switch|p2a: Skarmory|Skarmory, F|89/100
+|turn|38
+|c|☆Drop a choppa|If there is a will there is a way
+|inactive|Drop a choppa has 240 seconds left.
+|
+|t:|1641840406
+|move|p1a: Garchomp|Dragon Claw|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|77/100
+|-damage|p1a: Garchomp|32/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|move|p2a: Skarmory|Iron Defense|p2a: Skarmory
+|-boost|p2a: Skarmory|def|2
+|
+|upkeep
+|turn|39
+|inactive|Drop a choppa has 240 seconds left.
+|
+|t:|1641840416
+|switch|p1a: Magnezone|Magnezone|94/100
+|move|p2a: Skarmory|Spikes|p1a: Magnezone
+|-sidestart|p1: Drop a choppa|Spikes
+|
+|upkeep
+|turn|40
+|
+|t:|1641840423
+|move|p2a: Skarmory|Body Press|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|upkeep
+|c|☆Drop a choppa|Gg homieee
+|c|☆Drop a choppa|:o
+|
+|t:|1641840431
+|switch|p1a: Garchomp|Garchomp, F|32/100
+|-damage|p1a: Garchomp|20/100|[from] Spikes
+|turn|41
+|c|☆Hailisnotfun|gg
+|c|☆Drop a choppa|Ive lost
+|c|☆Drop a choppa|:o
+|
+|t:|1641840442
+|move|p1a: Garchomp|Dragon Claw|p2a: Skarmory
+|-resisted|p2a: Skarmory
+|-damage|p2a: Skarmory|70/100
+|-damage|p1a: Garchomp|4/100|[from] item: Rocky Helmet|[of] p2a: Skarmory
+|move|p2a: Skarmory|Body Press|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-damage|p2a: Skarmory|58/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|win|Hailisnotfun
+|c|☆Hailisnotfun|That’s why you shouldn’t act overconfident
+|c|☆Drop a choppa|Wow
+|c|☆Drop a choppa|I wanst
+|c|☆Drop a choppa|Wasnt
+|c|☆Drop a choppa|Lol
+|c|☆Hailisnotfun|U were
+|c|☆Drop a choppa|I was being ash
+|c|☆Drop a choppa|Witch he isnt lol
+|c|☆Hailisnotfun|Mr anime protagonist
+|c|☆Hailisnotfun|I was being ur dad
+|l|☆Hailisnotfun
+|j|☆Hailisnotfun
+|player|p2|Hailisnotfun|brycen
+|l|☆Hailisnotfun
+|player|p2|
+|j|☆Hailisnotfun
+|player|p2|Hailisnotfun|brycen
+|c|☆Hailisnotfun|ok bye
+|c|☆Hailisnotfun|better luck next time
+|c|☆Drop a choppa|:(
+|c|☆Drop a choppa|Meany
+|c|☆Drop a choppa|:(
+|l|☆Hailisnotfun
+|player|p2|
+|j|☆Hailisnotfun
+|player|p2|Hailisnotfun|brycen
+|c|☆Drop a choppa|Rematch
+|l|☆Drop a choppa
+|l|☆Hailisnotfun
+|player|p2|
+|j|☆Hailisnotfun
+|player|p2|Hailisnotfun|brycen

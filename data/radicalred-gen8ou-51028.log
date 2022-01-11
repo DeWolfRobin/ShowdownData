@@ -1,0 +1,290 @@
+|j|☆Clublazy test
+|j|☆Zakarl
+|t:|1641840742
+|gametype|singles
+|player|p1|Clublazy test|102|1126
+|player|p2|Zakarl|rr-mudkipz|1192
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|rule|Z-Move Clause: Z-Moves are banned
+|clearpoke
+|poke|p1|Corviknight, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Audino, M|
+|poke|p1|Zangoose, F|
+|poke|p1|Regieleki|
+|poke|p2|Swampert, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Greninja, F|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|teampreview
+|
+|t:|1641840754
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641840762
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Regieleki|atk|1
+|move|p1a: Regieleki|Reflect|p1a: Regieleki
+|-sidestart|p1: Clublazy test|Reflect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641840768
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641840771
+|move|p1a: Landorus|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Zakarl|move: Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|94/100
+|-damage|p2a: Landorus|91/100|[from] item: Life Orb
+|
+|t:|1641840774
+|switch|p2a: Greninja|Greninja, F|100/100|[from]move: U-turn
+|-damage|p2a: Greninja|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641840782
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Greninja|Ice Beam|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|80/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Tapu Fini|86/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641840791
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Moonblast|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|34/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Tapu Fini|92/100|[from] item: Leftovers
+|-sideend|p1: Clublazy test|Reflect
+|upkeep
+|turn|6
+|
+|t:|1641840798
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|move|p2a: Kartana|Leaf Blade|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|91/100
+|-damage|p2a: Kartana|17/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641840804
+|switch|p2a: Zapdos|Zapdos|100/100
+|-damage|p2a: Zapdos|76/100|[from] Stealth Rock
+|move|p1a: Corviknight|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|67/100
+|
+|t:|1641840816
+|switch|p1a: Zangoose|Zangoose, F|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641840822
+|move|p1a: Zangoose|Fake Out|p2a: Zapdos
+|-damage|p2a: Zapdos|43/100
+|cant|p2a: Zapdos|flinch
+|
+|-weather|none
+|-fieldend|Misty Terrain
+|-status|p1a: Zangoose|tox|[from] item: Toxic Orb
+|upkeep
+|turn|9
+|
+|t:|1641840831
+|move|p1a: Zangoose|Facade|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641840834
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-damage|p2a: Pelipper|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|10
+|
+|t:|1641840841
+|move|p1a: Zangoose|Facade|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641840844
+|switch|p2a: Greninja|Greninja, F|88/100
+|-damage|p2a: Greninja|76/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641840853
+|switch|p1a: Tapu Fini|Tapu Fini|92/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Greninja|Dark Pulse|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|64/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Tapu Fini|70/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641840862
+|move|p2a: Greninja|Dark Pulse|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|44/100
+|move|p1a: Tapu Fini|Moonblast|p2a: Greninja
+|-supereffective|p2a: Greninja
+|-damage|p2a: Greninja|0 fnt
+|faint|p2a: Greninja
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Tapu Fini|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641840864
+|switch|p2a: Kartana|Kartana|17/100
+|-damage|p2a: Kartana|11/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641840867
+|switch|p1a: Corviknight|Corviknight, M|91/100
+|move|p2a: Kartana|Knock Off|p1a: Corviknight
+|-damage|p1a: Corviknight|64/100
+|-damage|p2a: Kartana|0 fnt|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|faint|p2a: Kartana
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641840871
+|switch|p2a: Landorus|Landorus-Therian, M|91/100
+|-damage|p2a: Landorus|79/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-ability|p1a: Corviknight|Mirror Armor
+|-unboost|p2a: Landorus|atk|1
+|turn|14
+|
+|t:|1641840880
+|move|p2a: Landorus|Knock Off|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|18/100
+|-damage|p2a: Landorus|62/100|[from] item: Rocky Helmet|[of] p1a: Corviknight
+|-enditem|p1a: Corviknight|Rocky Helmet|[from] move: Knock Off|[of] p2a: Landorus
+|-damage|p2a: Landorus|52/100|[from] item: Life Orb
+|move|p1a: Corviknight|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|43/100
+|
+|t:|1641840885
+|switch|p1a: Zangoose|Zangoose, F|100/100 tox|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641840890
+|move|p1a: Zangoose|Fake Out|p2a: Landorus
+|-damage|p2a: Landorus|9/100
+|cant|p2a: Landorus|flinch
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|16
+|
+|t:|1641840896
+|move|p1a: Zangoose|Quick Attack|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641840900
+|switch|p2a: Swampert|Swampert, M|100/100
+|-damage|p2a: Swampert|94/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641840912
+|switch|p1a: Landorus|Landorus-Therian, M|94/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Swampert|atk|1
+|detailschange|p2a: Swampert|Swampert-Mega, M
+|-mega|p2a: Swampert|Swampert|Swampertite
+|move|p2a: Swampert|Liquidation|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|none
+|upkeep
+|
+|t:|1641840915
+|switch|p1a: Zangoose|Zangoose, F|100/100 tox
+|turn|18
+|
+|t:|1641840919
+|move|p1a: Zangoose|Fake Out|p2a: Swampert
+|-damage|p2a: Swampert|69/100
+|cant|p2a: Swampert|flinch
+|
+|upkeep
+|turn|19
+|
+|t:|1641840922
+|move|p1a: Zangoose|Facade|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|
+|win|Clublazy test
+|raw|Clublazy test's rating: 1126 &rarr; <strong>1164</strong><br />(+38 for winning)
+|raw|Zakarl's rating: 1192 &rarr; <strong>1164</strong><br />(-28 for losing)
+|l|☆Zakarl

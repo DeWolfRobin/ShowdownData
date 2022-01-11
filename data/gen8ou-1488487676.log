@@ -1,0 +1,211 @@
+|j|☆pokjbb
+|j|☆doctor susW
+|t:|1641771761
+|gametype|singles
+|player|p1|pokjbb|170|1138
+|player|p2|doctor susW|lucas|1077
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Alakazam, M|
+|poke|p1|Golisopod, M|
+|poke|p1|Steelix, F|
+|poke|p1|Morpeko, M|
+|poke|p1|Flapple, M|
+|poke|p1|Togekiss, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Mimikyu, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Miltank, F|
+|poke|p2|Zeraora|
+|poke|p2|Blastoise, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by pokjbb)
+|
+|t:|1641771772
+|start
+|switch|p1a: Steelix|Steelix, F|100/100
+|switch|p2a: Mimikyu|Mimikyu, M|100/100
+|turn|1
+|
+|t:|1641771779
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|move|p1a: Steelix|Toxic|p2a: Blastoise
+|-status|p2a: Blastoise|tox
+|
+|-damage|p2a: Blastoise|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641771788
+|move|p2a: Blastoise|Hydro Pump|p1a: Steelix
+|-supereffective|p1a: Steelix
+|-ability|p1a: Steelix|Sturdy
+|-damage|p1a: Steelix|1/100
+|move|p1a: Steelix|Earthquake|p2a: Blastoise
+|-damage|p2a: Blastoise|63/100 tox
+|
+|-heal|p1a: Steelix|7/100|[from] item: Leftovers
+|-damage|p2a: Blastoise|51/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641771799
+|switch|p1a: Flapple|Flapple, M|100/100
+|move|p2a: Blastoise|Ice Beam|p1a: Flapple
+|-supereffective|p1a: Flapple
+|-damage|p1a: Flapple|0 fnt
+|faint|p1a: Flapple
+|
+|-damage|p2a: Blastoise|33/100 tox|[from] psn
+|upkeep
+|
+|t:|1641771805
+|switch|p1a: Morpeko|Morpeko, M|100/100
+|turn|4
+|
+|t:|1641771808
+|move|p1a: Morpeko|Aura Wheel|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-crit|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|-boost|p1a: Morpeko|spe|1
+|faint|p2a: Blastoise
+|
+|-formechange|p1a: Morpeko|Morpeko-Hangry||[from] ability: Hunger Switch
+|upkeep
+|
+|t:|1641771820
+|switch|p2a: Miltank|Miltank, F|100/100
+|turn|5
+|
+|t:|1641771825
+|move|p1a: Morpeko|Protect|p1a: Morpeko
+|-singleturn|p1a: Morpeko|Protect
+|move|p2a: Miltank|Toxic|p1a: Morpeko
+|-activate|p1a: Morpeko|move: Protect
+|
+|-formechange|p1a: Morpeko|Morpeko||[from] ability: Hunger Switch
+|upkeep
+|turn|6
+|
+|t:|1641771832
+|switch|p1a: Steelix|Steelix, F|7/100
+|move|p2a: Miltank|Toxic|p1a: Steelix
+|-immune|p1a: Steelix
+|
+|-heal|p1a: Steelix|13/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641771850
+|switch|p2a: Mimikyu|Mimikyu, M|100/100
+|move|p1a: Steelix|Body Press|p2a: Mimikyu
+|-immune|p2a: Mimikyu
+|
+|-heal|p1a: Steelix|19/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641771857
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Steelix|Toxic|p2a: Mimikyu|[miss]
+|-miss|p1a: Steelix|p2a: Mimikyu
+|
+|-heal|p1a: Steelix|26/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641771863
+|move|p2a: Mimikyu|Shadow Claw|p1a: Steelix
+|-damage|p1a: Steelix|0 fnt
+|faint|p1a: Steelix
+|-damage|p2a: Mimikyu|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641771869
+|switch|p1a: Togekiss|Togekiss, F|100/100
+|turn|10
+|
+|t:|1641771873
+|move|p2a: Mimikyu|Shadow Claw|p1a: Togekiss
+|-damage|p1a: Togekiss|42/100
+|-damage|p2a: Mimikyu|81/100|[from] item: Life Orb
+|move|p1a: Togekiss|Thunder Wave|p2a: Mimikyu
+|-status|p2a: Mimikyu|par
+|
+|upkeep
+|turn|11
+|
+|t:|1641771881
+|move|p1a: Togekiss|Roost|p1a: Togekiss
+|-heal|p1a: Togekiss|92/100
+|-singleturn|p1a: Togekiss|move: Roost
+|move|p2a: Mimikyu|Shadow Claw|p1a: Togekiss
+|-damage|p1a: Togekiss|25/100
+|-damage|p2a: Mimikyu|71/100 par|[from] item: Life Orb
+|
+|upkeep
+|turn|12
+|
+|t:|1641771889
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Togekiss
+|-damage|p1a: Togekiss|0 fnt
+|faint|p1a: Togekiss
+|-damage|p2a: Mimikyu|61/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641771894
+|switch|p1a: Morpeko|Morpeko, M|100/100
+|turn|13
+|
+|t:|1641771898
+|move|p1a: Morpeko|Aura Wheel|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|61/100 par
+|-boost|p1a: Morpeko|spe|1
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, M
+|-damage|p2a: Mimikyu|48/100 par|[from] pokemon: Mimikyu-Busted
+|move|p2a: Mimikyu|Play Rough|p1a: Morpeko
+|-supereffective|p1a: Morpeko
+|-damage|p1a: Morpeko|0 fnt
+|faint|p1a: Morpeko
+|-damage|p2a: Mimikyu|38/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641771909
+|switch|p1a: Golisopod|Golisopod, M|100/100
+|turn|14
+|
+|t:|1641771914
+|move|p2a: Mimikyu|Play Rough|p1a: Golisopod
+|-crit|p1a: Golisopod
+|-damage|p1a: Golisopod|6/100
+|-activate|p1a: Golisopod|ability: Emergency Exit
+|-damage|p2a: Mimikyu|28/100 par|[from] item: Life Orb
+|
+|t:|1641771918
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|
+|upkeep
+|turn|15
+|-message|pokjbb forfeited.
+|
+|win|doctor susW
+|raw|pokjbb's rating: 1138 &rarr; <strong>1109</strong><br />(-29 for losing)
+|raw|doctor susW's rating: 1077 &rarr; <strong>1110</strong><br />(+33 for winning)
+|l|☆pokjbb

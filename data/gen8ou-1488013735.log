@@ -1,0 +1,145 @@
+|j|☆Glitch9001
+|j|☆ReconAparition
+|t:|1641697480
+|gametype|singles
+|player|p1|Glitch9001|harlequin|1253
+|player|p2|ReconAparition|clair|1324
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gigalith, F|
+|poke|p1|Zoroark, M|
+|poke|p1|Toxicroak, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Mamoswine, M|
+|poke|p1|Vikavolt, M|
+|poke|p2|Blacephalon|
+|poke|p2|Melmetal|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Toxapex, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ReconAparition)
+|
+|t:|1641697491
+|start
+|switch|p1a: Gigalith|Gigalith, F|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|1
+|
+|t:|1641697502
+|move|p2a: Urshifu|Close Combat|p1a: Gigalith
+|-supereffective|p1a: Gigalith
+|-ability|p1a: Gigalith|Sturdy
+|-damage|p1a: Gigalith|1/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|move|p1a: Gigalith|Explosion|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p1a: Gigalith
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1641697513
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|turn|2
+|
+|t:|1641697519
+|move|p1a: Mamoswine|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|24/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Mamoswine
+|-damage|p1a: Mamoswine|20/100
+|replace|p1a: Zoroark|Zoroark, M
+|-end|p1a: Zoroark|Illusion
+|-damage|p1a: Zoroark|0 fnt
+|faint|p1a: Zoroark
+|-hitcount|p1: Zoroark|2
+|
+|upkeep
+|
+|t:|1641697530
+|switch|p1a: Toxicroak|Toxicroak, F|100/100
+|turn|3
+|
+|t:|1641697535
+|switch|p2a: Toxapex|Toxapex, F, shiny|100/100
+|move|p1a: Toxicroak|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|67/100
+|
+|-heal|p2a: Toxapex|73/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|
+|t:|1641697542
+|move|p1a: Toxicroak|Swords Dance|p1a: Toxicroak
+|-boost|p1a: Toxicroak|atk|2
+|move|p2a: Toxapex|Scald|p1a: Toxicroak
+|-immune|p1a: Toxicroak|[from] ability: Dry Skin
+|
+|-heal|p2a: Toxapex|79/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1641697549
+|move|p1a: Toxicroak|Swords Dance|p1a: Toxicroak
+|-boost|p1a: Toxicroak|atk|2
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|86/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1641697556
+|switch|p2a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Toxicroak|atk|1
+|-enditem|p1a: Toxicroak|Adrenaline Orb
+|-boost|p1a: Toxicroak|spe|1|[from] item: Adrenaline Orb
+|move|p1a: Toxicroak|Swords Dance|p1a: Toxicroak
+|-boost|p1a: Toxicroak|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641697565
+|move|p1a: Toxicroak|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641697580
+|switch|p2a: Blacephalon|Blacephalon, shiny|100/100
+|turn|8
+|c|☆Glitch9001|based halt
+|
+|t:|1641697584
+|move|p1a: Toxicroak|Sucker Punch|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|upkeep
+|-message|ReconAparition forfeited.
+|
+|win|Glitch9001
+|raw|Glitch9001's rating: 1253 &rarr; <strong>1283</strong><br />(+30 for winning)
+|raw|ReconAparition's rating: 1324 &rarr; <strong>1300</strong><br />(-24 for losing)
+|l|☆ReconAparition

@@ -1,0 +1,77 @@
+|j|☆WarNboy
+|j|☆Markelite
+|t:|1641770703
+|gametype|singles
+|player|p1|WarNboy|acetrainer-gen4dp|
+|player|p2|Markelite|102|
+|teamsize|p1|3
+|teamsize|p2|3
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Scrafty, M|
+|poke|p1|Scizor, F|
+|poke|p2|Lucario, M|
+|poke|p2|Talonflame, M|
+|poke|p2|Zeraora|
+|teampreview
+|
+|t:|1641770708
+|start
+|switch|p1a: Racker|Garchomp, F|100/100
+|switch|p2a: Piaf|Talonflame, M, shiny|100/100
+|turn|1
+|
+|t:|1641770719
+|move|p2a: Piaf|Acrobatics|p1a: Racker
+|-crit|p1a: Racker
+|-damage|p1a: Racker|79/100
+|-damage|p2a: Piaf|88/100|[from] ability: Rough Skin|[of] p1a: Racker
+|move|p1a: Racker|Stone Edge|p2a: Piaf
+|-supereffective|p2a: Piaf
+|-crit|p2a: Piaf
+|-damage|p2a: Piaf|0 fnt
+|faint|p2a: Piaf
+|-damage|p1a: Racker|70/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641770733
+|switch|p2a: Luca|Lucario, M|100/100
+|turn|2
+|
+|t:|1641770738
+|move|p2a: Luca|Swords Dance|p2a: Luca
+|-boost|p2a: Luca|atk|2
+|move|p1a: Racker|Earthquake|p2a: Luca
+|-supereffective|p2a: Luca
+|-damage|p2a: Luca|0 fnt
+|faint|p2a: Luca
+|-damage|p1a: Racker|60/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641770750
+|switch|p2a: Le rat|Zeraora, shiny|100/100
+|turn|3
+|
+|t:|1641770755
+|move|p2a: Le rat|Aura Sphere|p1a: Racker
+|-damage|p1a: Racker|36/100
+|move|p1a: Racker|Earthquake|p2a: Le rat
+|-supereffective|p2a: Le rat
+|-damage|p2a: Le rat|0 fnt
+|faint|p2a: Le rat
+|-damage|p1a: Racker|26/100|[from] item: Life Orb
+|
+|win|WarNboy
+|l|☆WarNboy
+|l|☆Markelite

@@ -1,0 +1,517 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC 91舒先生
+|j|☆SL22CC 蜜雪冰城
+|t:|1641819956
+|gametype|singles
+|player|p1|SL21CC 91舒先生|chickwayne.gif|1407
+|player|p2|SL22CC 蜜雪冰城|swimmerf-gen4dp|1263
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hippowdon, F|
+|poke|p1|Slowking, M|
+|poke|p1|Clefable, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Volcarona, M|
+|poke|p2|Moltres-Galar|
+|poke|p2|Garchomp, F|
+|poke|p2|Regieleki|
+|poke|p2|Dragapult, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Mew|
+|teampreview
+|j| s121cc 华莱士
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC 91舒先生)
+|j| yinfoxfreak
+|c|☆SL22CC 蜜雪冰城|？
+|c|☆SL21CC 91舒先生|？
+|inactive|SL21CC 91舒先生 has 120 seconds left.
+|
+|t:|1641819997
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|j| sl21cc ryekie
+|
+|t:|1641820011
+|move|p1a: Tornadus|Taunt|p2a: Mew
+|-start|p2a: Mew|move: Taunt
+|cant|p2a: Mew|move: Taunt|Thunder Wave
+|
+|upkeep
+|turn|2
+|
+|t:|1641820017
+|switch|p2a: Regieleki|Regieleki|100/100
+|move|p1a: Tornadus|Hurricane|p2a: Regieleki|[miss]
+|-miss|p1a: Tornadus|p2a: Regieleki
+|
+|upkeep
+|turn|3
+|
+|t:|1641820028
+|switch|p1a: Hippowdon|Hippowdon, F, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Regieleki|Light Screen|p2a: Regieleki
+|-sidestart|p2: SL22CC 蜜雪冰城|move: Light Screen
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regieleki|95/100|[from] Sandstorm
+|upkeep
+|turn|4
+|c| sl21cc ryekie|老婆漏油
+|
+|t:|1641820035
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: Hippowdon|Stealth Rock|p2a: Mew
+|-sidestart|p2: SL22CC 蜜雪冰城|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mew|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641820044
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Mew|Thunder Wave|p1a: Slowking
+|-status|p1a: Slowking|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mew|88/100|[from] Sandstorm
+|-damage|p1a: Slowking|94/100 par|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1641820047
+|move|p2a: Mew|Stealth Rock|p1a: Slowking
+|-sidestart|p1: SL21CC 91舒先生|move: Stealth Rock
+|move|p1a: Slowking|Scald|p2a: Mew
+|-damage|p2a: Mew|77/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mew|71/100|[from] Sandstorm
+|-damage|p1a: Slowking|88/100 par|[from] Sandstorm
+|upkeep
+|turn|7
+|j| SL21CC姐ISthequeen
+|
+|t:|1641820057
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|-damage|p2a: Zapdos|88/100|[from] Stealth Rock
+|cant|p1a: Slowking|par
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1641820065
+|move|p2a: Zapdos|Brave Bird|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-damage|p2a: Zapdos|53/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641820069
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|9
+|
+|t:|1641820073
+|switch|p2a: Regieleki|Regieleki|95/100
+|-damage|p2a: Regieleki|82/100|[from] Stealth Rock
+|move|p1a: Tornadus|Knock Off|p2a: Regieleki
+|-damage|p2a: Regieleki|40/100
+|-enditem|p2a: Regieleki|Light Clay|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|10
+|
+|t:|1641820082
+|switch|p1a: Hippowdon|Hippowdon, F, shiny|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Regieleki|Volt Switch|p1a: Hippowdon
+|-immune|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regieleki|34/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|100/100|[from] item: Leftovers
+|-sideend|p2: SL22CC 蜜雪冰城|move: Light Screen
+|upkeep
+|turn|11
+|
+|t:|1641820101
+|switch|p2a: Zapdos|Zapdos-Galar|53/100
+|-damage|p2a: Zapdos|40/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|34/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1641820106
+|move|p2a: Zapdos|Thunderous Kick|p1a: Hippowdon
+|-damage|p1a: Hippowdon|53/100
+|-unboost|p1a: Hippowdon|def|1
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|28/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641820109
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Zapdos|Thunderous Kick|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|57/100
+|-unboost|p1a: Tornadus|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|51/100|[from] Sandstorm
+|-damage|p2a: Zapdos|21/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1641820119
+|switch|p2a: Mew|Mew|71/100
+|-damage|p2a: Mew|58/100|[from] Stealth Rock
+|move|p1a: Tornadus|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|22/100
+|-enditem|p2a: Mew|Focus Sash|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|-weather|none
+|upkeep
+|turn|15
+|
+|t:|1641820128
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|move|p1a: Tornadus|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|73/100
+|-damage|p1a: Tornadus|39/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-enditem|p2a: Garchomp|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|upkeep
+|turn|16
+|
+|t:|1641820138
+|switch|p1a: Clefable|Clefable, F, shiny|100/100
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641820142
+|move|p2a: Garchomp|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|55/100
+|move|p1a: Clefable|Moonblast|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|4/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641820149
+|move|p2a: Garchomp|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|9/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|59/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641820154
+|move|p2a: Garchomp|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|15/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|65/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641820158
+|switch|p1a: Tornadus|Tornadus-Therian, M|72/100
+|move|p2a: Garchomp|Earthquake|p1a: Tornadus
+|-immune|p1a: Tornadus
+|
+|upkeep
+|turn|21
+|
+|t:|1641820173
+|move|p1a: Tornadus|Knock Off|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Tornadus|60/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641820175
+|switch|p2a: Regieleki|Regieleki|34/100
+|-damage|p2a: Regieleki|22/100|[from] Stealth Rock
+|turn|22
+|inactive|SL21CC 91舒先生 has 120 seconds left.
+|
+|t:|1641820211
+|switch|p1a: Clefable|Clefable, F, shiny|65/100
+|move|p2a: Regieleki|Light Screen|p2a: Regieleki
+|-sidestart|p2: SL22CC 蜜雪冰城|move: Light Screen
+|
+|upkeep
+|turn|23
+|
+|t:|1641820214
+|move|p2a: Regieleki|Explosion|p1a: Clefable
+|-damage|p1a: Clefable|5/100
+|faint|p2a: Regieleki
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|55/100
+|
+|upkeep
+|
+|t:|1641820226
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|24
+|j|♚Master Origami♕
+|
+|t:|1641820239
+|move|p2a: Moltres|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|6/100
+|-start|p1a: Clefable|confusion
+|-activate|p1a: Clefable|confusion
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|56/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641820259
+|switch|p1a: Hippowdon|Hippowdon, F, shiny|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Moltres|Hurricane|p1a: Hippowdon
+|-damage|p1a: Hippowdon|59/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Moltres|94/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|65/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641820265
+|switch|p2a: Mew|Mew|22/100
+|-damage|p2a: Mew|10/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Whirlwind|p2a: Mew
+|drag|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|82/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|71/100|[from] item: Leftovers
+|-sideend|p2: SL22CC 蜜雪冰城|move: Light Screen
+|upkeep
+|turn|27
+|j| sl21cckhl
+|
+|t:|1641820272
+|move|p2a: Dragapult|Dragon Darts|p1a: Hippowdon
+|-damage|p1a: Hippowdon|51/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Hippowdon
+|-damage|p1a: Hippowdon|32/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|82/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|76/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|88/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|j|+dragonitenb
+|
+|t:|1641820279
+|move|p2a: Dragapult|Dragon Darts|p1a: Hippowdon
+|-damage|p1a: Hippowdon|68/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Hippowdon
+|-damage|p1a: Hippowdon|49/100
+|move|p1a: Hippowdon|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|24/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|18/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|55/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641820282
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|100/100
+|
+|-weather|none
+|upkeep
+|turn|30
+|j| SL21CC Winona
+|
+|t:|1641820300
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Dragapult|Dragon Darts|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|82/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|68/100
+|
+|-heal|p1a: Ferrothorn|74/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641820304
+|move|p2a: Dragapult|Fire Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641820308
+|switch|p1a: Clefable|Clefable, F, shiny|56/100
+|turn|32
+|
+|t:|1641820311
+|switch|p2a: Zapdos|Zapdos-Galar|21/100
+|-damage|p2a: Zapdos|9/100|[from] Stealth Rock
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641820317
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Zapdos|Brave Bird|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: Zapdos|0 fnt|[from] Recoil
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641820327
+|switch|p2a: Dragapult|Dragapult, M|18/100
+|switch|p1a: Clefable|Clefable, F, shiny|100/100
+|-damage|p2a: Dragapult|6/100|[from] Stealth Rock
+|turn|34
+|j| adreamew
+|
+|t:|1641820333
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Clefable|Moonblast|p2a: Dragapult|[miss]
+|-miss|p1a: Clefable|p2a: Dragapult
+|
+|upkeep
+|turn|35
+|
+|t:|1641820338
+|switch|p1a: Hippowdon|Hippowdon, F, shiny|100/100
+|-damage|p1a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Dragapult|Phantom Force|p1a: Hippowdon|[from]lockedmove
+|-damage|p1a: Hippowdon|55/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|0 fnt|[from] Sandstorm
+|faint|p2a: Dragapult
+|-heal|p1a: Hippowdon|61/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641820342
+|switch|p2a: Moltres|Moltres-Galar|94/100
+|turn|36
+|
+|t:|1641820345
+|move|p2a: Moltres|Fiery Wrath|p1a: Hippowdon
+|-damage|p1a: Hippowdon|29/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|79/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Moltres|88/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|85/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641820356
+|switch|p1a: Tornadus|Tornadus-Therian, M|93/100
+|move|p2a: Moltres|Nasty Plot|p2a: Moltres
+|-boost|p2a: Moltres|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|87/100|[from] Sandstorm
+|-damage|p2a: Moltres|82/100|[from] Sandstorm
+|upkeep
+|turn|38
+|
+|t:|1641820361
+|move|p1a: Tornadus|Hurricane|p2a: Moltres
+|-damage|p2a: Moltres|41/100
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|move|p2a: Moltres|Fiery Wrath|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Moltres|34/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641820366
+|switch|p1a: Clefable|Clefable, F, shiny|100/100
+|turn|39
+|
+|t:|1641820371
+|move|p2a: Moltres|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|54/100
+|move|p1a: Clefable|Moonblast|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|-weather|none
+|upkeep
+|
+|t:|1641820373
+|switch|p2a: Mew|Mew|10/100
+|-damage|p2a: Mew|0 fnt|[from] Stealth Rock
+|faint|p2a: Mew
+|
+|win|SL21CC 91舒先生
+|raw|SL21CC 91舒先生's rating: 1407 &rarr; <strong>1419</strong><br />(+12 for winning)
+|raw|SL22CC 蜜雪冰城's rating: 1263 &rarr; <strong>1253</strong><br />(-10 for losing)
+|l|♚Master Origami♕
+|l| SL21CC姐ISthequeen
+|l| s121cc 华莱士
+|l|☆SL21CC 91舒先生
+|l| sl21cckhl
+|j| sl21cckhl

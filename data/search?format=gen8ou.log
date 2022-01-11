@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html><head>
+
+	<meta charset="utf-8" />
+
+	<title> replays - Pok&eacute;mon Showdown</title>
+
+
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE8" />
+	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/font-awesome.css?932f42c7" />
+	<link rel="stylesheet" href="//pokemonshowdown.com/theme/panels.css?0.8328495855093625" />
+	<link rel="stylesheet" href="//pokemonshowdown.com/theme/main.css?0.048315498393322054" />
+	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/battle.css?8e37a9fd" />
+	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/replay.css?cfa51183" />
+	<link rel="stylesheet" href="//play.pokemonshowdown.com/style/utilichart.css?e39c48cf" />
+
+	<!-- Workarounds for IE bugs to display trees correctly. -->
+	<!--[if lte IE 6]><style> li.tree { height: 1px; } </style><![endif]-->
+	<!--[if IE 7]><style> li.tree { zoom: 1; } </style><![endif]-->
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-26211653-1']);
+		_gaq.push(['_setDomainName', 'pokemonshowdown.com']);
+		_gaq.push(['_setAllowLinker', true]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head><body>
+
+	<div class="pfx-topbar">
+		<div class="header">
+			<ul class="nav">
+				<li><a class="button nav-first" href="//pokemonshowdown.com/?0.8799272508296407"><img src="//pokemonshowdown.com/images/pokemonshowdownbeta.png?0.09604286166659137" alt="Pok&eacute;mon Showdown! (beta)" /> Home</a></li>
+				<li><a class="button" href="//dex.pokemonshowdown.com/?0.0026589601667925677">Pok&eacute;dex</a></li>
+				<li><a class="button cur" href="/?0.9923549770373365">Replays</a></li>
+				<li><a class="button" href="//pokemonshowdown.com/ladder/?0.9900729674003181">Ladder</a></li>
+				<li><a class="button nav-last" href="//pokemonshowdown.com/forums/?0.8644633135752708">Forum</a></li>
+			</ul>
+			<ul class="nav nav-play">
+				<li><a class="button greenbutton nav-first nav-last" href="http://play.pokemonshowdown.com/">Play</a></li>
+			</ul>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div class="pfx-panel"><div class="pfx-body pfx-body-padded">
+		<h1>Search replays</h1>
+		<form action="/search/" method="get" data-target="replace">
+			<p style="text-align:center">
+				<label><input type="text" name="user" class="textbox" placeholder="Username" size="24" value="" /></label>
+				<button type="submit"><strong>Search</strong></button>
+			</p>
+		</form>
+		<form action="/search/" method="get" data-target="replace">
+			<p style="text-align:center">
+				<label><input type="text" name="format" class="textbox" placeholder="Format" size="24" autofocus="autofocus" value="gen8ou.log" /></label>
+				<button type="submit"><strong>Search</strong></button>
+			</p>
+		</form>
+		<h1>Search results for "gen8ou.log"</h1>
+		<ul class="tabbar centered" style="margin-bottom: 18px"><li><a class="button nav-first cur" href="/search/?format=gen8oulog" data-target="replace">Newest</a></li><li><a class="button nav-last" href="/search/?format=gen8oulog&amp;rating" data-target="replace">Highest rated</a></li></ul>
+		<ul class="linklist" style="max-width:480px;margin:0 auto;text-align:center">
+		<li>No results found</li>
+		</ul>
+	</div></div>
+
+	<script src="//play.pokemonshowdown.com/js/lib/jquery-1.11.0.min.js?8fc25e27"></script>
+	<script src="//play.pokemonshowdown.com/js/lib/lodash.core.js?e9be4c2d"></script>
+	<script src="//play.pokemonshowdown.com/js/lib/backbone.js?8a8d8296"></script>
+	<script src="//dex.pokemonshowdown.com/js/panels.js?0.48652641328945534"></script>
+
+	<script src="//play.pokemonshowdown.com/js/lib/jquery-cookie.js?38477214"></script>
+	<script src="//play.pokemonshowdown.com/js/lib/html-sanitizer-minified.js?949c4200"></script>
+	<script src="//play.pokemonshowdown.com/js/battle-sound.js?8e5efe0f"></script>
+	<script src="//play.pokemonshowdown.com/config/config.js?693fb043"></script>
+	<script src="//play.pokemonshowdown.com/js/battledata.js?4c335eaf"></script>
+	<script src="//play.pokemonshowdown.com/data/pokedex-mini.js?d0504f17"></script>
+	<script src="//play.pokemonshowdown.com/data/pokedex-mini-bw.js?7bd54ebc"></script>
+	<script src="//play.pokemonshowdown.com/data/graphics.js?0c59f3ba"></script>
+	<script src="//play.pokemonshowdown.com/data/pokedex.js?d20dd828"></script>
+	<script src="//play.pokemonshowdown.com/data/items.js?950bbce8"></script>
+	<script src="//play.pokemonshowdown.com/data/moves.js?a5db9f3b"></script>
+	<script src="//play.pokemonshowdown.com/data/abilities.js?4086daab"></script>
+	<script src="//play.pokemonshowdown.com/data/teambuilder-tables.js?cd307d78"></script>
+	<script src="//play.pokemonshowdown.com/js/battle-tooltips.js?e7c4ba30"></script>
+	<script src="//play.pokemonshowdown.com/js/battle.js?c813adef"></script>
+	<script src="/js/replay.js?1e09ceb9"></script>
+
+</body></html>

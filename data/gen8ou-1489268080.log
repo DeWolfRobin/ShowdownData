@@ -1,0 +1,91 @@
+|j|☆Krinkov
+|j|☆Psywave22
+|t:|1641880568
+|gametype|singles
+|player|p1|Krinkov|firebreather|1103
+|player|p2|Psywave22|beauty|1093
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Venusaur, F|
+|poke|p1|Heatran, M|
+|poke|p1|Volcanion|
+|poke|p1|Volcarona, F|
+|poke|p1|Blaziken, M|
+|poke|p2|Reuniclus, F|
+|poke|p2|Magnezone|
+|poke|p2|Quagsire, F|
+|poke|p2|Togekiss, M|
+|poke|p2|Blissey, F|
+|poke|p2|Blacephalon|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Krinkov)
+|
+|t:|1641880580
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Reuniclus|Reuniclus, F|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1641880587
+|move|p2a: Reuniclus|Knock Off|p1a: Torkoal
+|-damage|p1a: Torkoal|93/100
+|-enditem|p1a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p2a: Reuniclus
+|move|p1a: Torkoal|Yawn|p2a: Reuniclus
+|-start|p2a: Reuniclus|move: Yawn|[of] p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641880600
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Torkoal|Stealth Rock|p2a: Magnezone
+|-sidestart|p2: Psywave22|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641880605
+|move|p2a: Magnezone|Volt Switch|p1a: Torkoal
+|-damage|p1a: Torkoal|47/100
+|
+|t:|1641880609
+|switch|p2a: Reuniclus|Reuniclus, F|100/100|[from]move: Volt Switch
+|move|p1a: Torkoal|Lava Plume|p2a: Reuniclus
+|-damage|p2a: Reuniclus|73/100
+|-status|p2a: Reuniclus|brn
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641880636
+|switch|p1a: Venusaur|Venusaur, F|100/100
+|move|p2a: Reuniclus|Psychic|p1a: Venusaur
+|-supereffective|p1a: Venusaur
+|-crit|p1a: Venusaur
+|-damage|p1a: Venusaur|0 fnt
+|faint|p1a: Venusaur
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|-message|Krinkov forfeited.
+|
+|win|Psywave22
+|raw|Krinkov's rating: 1103 &rarr; <strong>1077</strong><br />(-26 for losing)
+|raw|Psywave22's rating: 1093 &rarr; <strong>1120</strong><br />(+27 for winning)
+|l|☆Krinkov

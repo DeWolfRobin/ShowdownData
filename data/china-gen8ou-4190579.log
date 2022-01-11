@@ -1,0 +1,613 @@
+|j|☆SL21CC Crawdaunt
+|j|☆Musashi 109
+|t:|1641788802
+|gametype|singles
+|player|p1|SL21CC Crawdaunt|2|1200
+|player|p2|Musashi 109|musashi109.png|1196
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Crawdaunt, M|
+|poke|p1|Zapdos|
+|poke|p1|Pelipper, M|
+|poke|p1|Swampert, M|
+|poke|p1|Omastar, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Blissey, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Avalugg, F|
+|poke|p2|Shedinja|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Musashi 109)
+|
+|t:|1641788819
+|start
+|switch|p1a: Swampert|Swampert, M|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|1
+|
+|t:|1641788825
+|move|p1a: Swampert|Whirlpool|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|97/100
+|-activate|p2a: Toxapex|move: Whirlpool|[of] p1a: Swampert
+|move|p2a: Toxapex|Knock Off|p1a: Swampert
+|-crit|p1a: Swampert
+|-damage|p1a: Swampert|81/100
+|-enditem|p1a: Swampert|Leftovers|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-damage|p2a: Toxapex|84/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|2
+|j| SL21CC tangkeke
+|
+|t:|1641788835
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Swampert|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|upkeep
+|turn|3
+|
+|t:|1641788859
+|move|p2a: Corviknight|Body Press|p1a: Swampert
+|-crit|p1a: Swampert
+|-damage|p1a: Swampert|43/100
+|move|p1a: Swampert|Flip Turn|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|76/100
+|j| jiokopg_fkok43
+|
+|t:|1641788867
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: Flip Turn
+|-ability|p1a: Zapdos|Pressure
+|
+|-heal|p2a: Corviknight|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|Musashi 109 has 120 seconds left.
+|
+|t:|1641788897
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|switch|p2a: Blissey|Blissey, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641788904
+|switch|p2a: Avalugg|Avalugg, F|100/100
+|move|p1a: Crawdaunt|Knock Off|p2a: Avalugg
+|-damage|p2a: Avalugg|56/100
+|-enditem|p2a: Avalugg|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Crawdaunt
+|
+|upkeep
+|turn|6
+|
+|t:|1641788911
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Avalugg|Recover|p2a: Avalugg
+|-heal|p2a: Avalugg|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641788919
+|move|p2a: Avalugg|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|50/100
+|-damage|p2a: Avalugg|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Avalugg|71/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Avalugg
+|-start|p2a: Avalugg|move: Leech Seed
+|
+|-damage|p2a: Avalugg|59/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|64/100|[silent]
+|upkeep
+|turn|8
+|
+|t:|1641788930
+|move|p2a: Avalugg|Rapid Spin|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|60/100
+|-boost|p2a: Avalugg|spe|1
+|-damage|p2a: Avalugg|47/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Avalugg|30/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-end|p2a: Avalugg|Leech Seed|[from] move: Rapid Spin|[of] p2a: Avalugg
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Avalugg
+|-sidestart|p2: Musashi 109|move: Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1641788943
+|move|p2a: Avalugg|Recover|p2a: Avalugg
+|-heal|p2a: Avalugg|80/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Avalugg|[miss]
+|-miss|p1a: Ferrothorn|p2a: Avalugg
+|
+|upkeep
+|turn|10
+|
+|t:|1641788951
+|move|p2a: Avalugg|Icicle Spear|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|54/100
+|-damage|p1a: Ferrothorn|48/100
+|-damage|p1a: Ferrothorn|42/100
+|-damage|p1a: Ferrothorn|37/100
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|27/100
+|-hitcount|p1a: Ferrothorn|5
+|move|p1a: Ferrothorn|Leech Seed|p2a: Avalugg|[miss]
+|-miss|p1a: Ferrothorn|p2a: Avalugg
+|
+|upkeep
+|turn|11
+|
+|t:|1641788967
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Avalugg|Icicle Spear|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|79/100
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|58/100
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|36/100
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|16/100
+|-hitcount|p1a: Zapdos|4
+|
+|upkeep
+|turn|12
+|
+|t:|1641788980
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Zapdos|Thunder|p2a: Blissey
+|-damage|p2a: Blissey|77/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641788988
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|66/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: SL21CC Crawdaunt|move: Stealth Rock
+|
+|upkeep
+|turn|14
+|
+|t:|1641788995
+|move|p1a: Zapdos|Defog|p2a: Blissey
+|-unboost|p2a: Blissey|evasion|1
+|-sideend|p2: Musashi 109|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|-sideend|p1: SL21CC Crawdaunt|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|40/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641789003
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|90/100
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: SL21CC Crawdaunt|move: Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1641789010
+|move|p1a: Zapdos|Defog|p2a: Blissey
+|-unboost|p2a: Blissey|evasion|1
+|-sideend|p1: SL21CC Crawdaunt|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Blissey|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-damage|p1a: Zapdos|83/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641789021
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|move|p2a: Blissey|Stealth Rock|p1a: Crawdaunt
+|-sidestart|p1: SL21CC Crawdaunt|move: Stealth Rock
+|
+|upkeep
+|turn|18
+|
+|t:|1641789027
+|switch|p2a: Avalugg|Avalugg, F|80/100
+|move|p1a: Crawdaunt|Crabhammer|p2a: Avalugg
+|-crit|p2a: Avalugg
+|-damage|p2a: Avalugg|20/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641789037
+|switch|p1a: Ferrothorn|Ferrothorn, M|27/100
+|-damage|p1a: Ferrothorn|21/100|[from] Stealth Rock
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641789046
+|switch|p2a: Avalugg|Avalugg, F|20/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Avalugg
+|-start|p2a: Avalugg|move: Leech Seed
+|
+|-damage|p2a: Avalugg|7/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|35/100|[silent]
+|upkeep
+|turn|21
+|
+|t:|1641789055
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|-damage|p1a: Crawdaunt|88/100|[from] Stealth Rock
+|move|p2a: Avalugg|Recover|p2a: Avalugg
+|-heal|p2a: Avalugg|57/100
+|
+|-damage|p2a: Avalugg|45/100|[from] Leech Seed|[of] p1a: Crawdaunt
+|-heal|p1a: Crawdaunt|100/100|[silent]
+|upkeep
+|turn|22
+|
+|t:|1641789064
+|move|p1a: Crawdaunt|Crabhammer|p2a: Avalugg
+|-crit|p2a: Avalugg
+|-damage|p2a: Avalugg|0 fnt
+|faint|p2a: Avalugg
+|
+|upkeep
+|
+|t:|1641789068
+|switch|p2a: Shedinja|Shedinja|100/100
+|turn|23
+|
+|t:|1641789074
+|switch|p1a: Swampert|Swampert, M|43/100
+|-damage|p1a: Swampert|37/100|[from] Stealth Rock
+|move|p2a: Shedinja|Will-O-Wisp|p1a: Swampert
+|-status|p1a: Swampert|brn
+|
+|-damage|p1a: Swampert|31/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641789084
+|move|p2a: Shedinja|Protect|p2a: Shedinja
+|-singleturn|p2a: Shedinja|Protect
+|move|p1a: Swampert|Toxic|p2a: Shedinja
+|-activate|p2a: Shedinja|move: Protect
+|
+|-damage|p1a: Swampert|25/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641789092
+|switch|p2a: Corviknight|Corviknight, F|82/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Swampert|Flip Turn|p2a: Corviknight
+|-damage|p2a: Corviknight|74/100
+|
+|t:|1641789105
+|switch|p1a: Zapdos|Zapdos|83/100 tox|[from]move: Flip Turn
+|-ability|p1a: Zapdos|Pressure
+|
+|-heal|p2a: Corviknight|80/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|77/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641789114
+|switch|p2a: Blissey|Blissey, F|77/100
+|move|p1a: Zapdos|Defog|p2a: Blissey
+|-unboost|p2a: Blissey|evasion|1
+|-sideend|p1: SL21CC Crawdaunt|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|-damage|p1a: Zapdos|65/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641789123
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|move|p2a: Blissey|Toxic|p1a: Crawdaunt
+|-status|p1a: Crawdaunt|tox
+|
+|-damage|p1a: Crawdaunt|95/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641789131
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Crawdaunt|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|36/100
+|-enditem|p2a: Toxapex|Shed Shell|[from] move: Knock Off|[of] p1a: Crawdaunt
+|
+|-damage|p1a: Crawdaunt|83/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641789144
+|switch|p2a: Corviknight|Corviknight, F|80/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Crawdaunt|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|11/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Crawdaunt
+|
+|-damage|p1a: Crawdaunt|65/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641789155
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|61/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Crawdaunt|Knock Off|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-damage|p1a: Crawdaunt|41/100 tox|[from] psn
+|upkeep
+|
+|t:|1641789162
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|31
+|
+|t:|1641789168
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Dragonite|Earthquake|p1a: Pelipper
+|-immune|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|32
+|
+|t:|1641789177
+|switch|p2a: Toxapex|Toxapex, F|70/100
+|move|p1a: Pelipper|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|67/100
+|
+|t:|1641789182
+|switch|p1a: Omastar|Omastar, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1641789189
+|move|p1a: Omastar|Earth Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|6/100
+|-damage|p1a: Omastar|91/100|[from] item: Life Orb
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|34
+|
+|t:|1641789198
+|switch|p2a: Blissey|Blissey, F|77/100
+|move|p1a: Omastar|Shell Smash|p1a: Omastar
+|-unboost|p1a: Omastar|def|1
+|-unboost|p1a: Omastar|spd|1
+|-boost|p1a: Omastar|atk|2
+|-boost|p1a: Omastar|spa|2
+|-boost|p1a: Omastar|spe|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|35
+|
+|t:|1641789212
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|36
+|
+|t:|1641789220
+|switch|p2a: Toxapex|Toxapex, F|39/100
+|move|p1a: Pelipper|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|37/100
+|
+|t:|1641789231
+|switch|p1a: Zapdos|Zapdos|65/100 tox|[from]move: U-turn
+|-ability|p1a: Zapdos|Pressure
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|58/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641789239
+|switch|p1a: Crawdaunt|Crawdaunt, M|41/100 tox
+|switch|p2a: Blissey|Blissey, F|100/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Crawdaunt|35/100 tox|[from] psn
+|upkeep
+|turn|38
+|
+|t:|1641789249
+|switch|p2a: Toxapex|Toxapex, F|70/100
+|move|p1a: Crawdaunt|Crunch|p2a: Toxapex
+|-damage|p2a: Toxapex|20/100
+|
+|-weather|none
+|-damage|p1a: Crawdaunt|23/100 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1641789257
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Crawdaunt|Crunch|p2a: Dragonite
+|-damage|p2a: Dragonite|68/100
+|
+|-damage|p1a: Crawdaunt|5/100 tox|[from] psn
+|upkeep
+|turn|40
+|
+|t:|1641789269
+|switch|p1a: Ferrothorn|Ferrothorn, M|35/100
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|upkeep
+|turn|41
+|
+|t:|1641789277
+|move|p2a: Dragonite|Fire Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Dragonite|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Dragonite|71/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|j| SL21CC interest
+|
+|t:|1641789285
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|42
+|
+|t:|1641789294
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Pelipper|U-turn|p2a: Dragonite
+|-damage|p2a: Dragonite|97/100
+|
+|t:|1641789304
+|switch|p1a: Omastar|Omastar, M|91/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|43
+|
+|t:|1641789310
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Omastar|Ice Beam|p2a: Blissey
+|-damage|p2a: Blissey|86/100
+|-damage|p1a: Omastar|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|44
+|
+|t:|1641789324
+|move|p1a: Omastar|Hydro Pump|p2a: Blissey
+|-damage|p2a: Blissey|48/100
+|-damage|p1a: Omastar|71/100|[from] item: Life Orb
+|move|p2a: Blissey|Stealth Rock|p1a: Omastar
+|-sidestart|p1: SL21CC Crawdaunt|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|45
+|
+|t:|1641789336
+|switch|p1a: Zapdos|Zapdos|58/100 tox
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|98/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|52/100 tox|[from] psn
+|upkeep
+|turn|46
+|j| ceobo
+|
+|t:|1641789346
+|move|p1a: Zapdos|Defog|p2a: Blissey
+|-unboost|p2a: Blissey|evasion|1
+|-sideend|p1: SL21CC Crawdaunt|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|26/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|14/100 tox|[from] psn
+|upkeep
+|turn|47
+|
+|t:|1641789356
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|64/100 tox
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: SL21CC Crawdaunt|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|45/100 tox|[from] psn
+|upkeep
+|turn|48
+|
+|t:|1641789364
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|95/100 tox
+|-singleturn|p1a: Zapdos|move: Roost
+|move|p2a: Blissey|Stealth Rock||[still]
+|-fail|p2a: Blissey
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|70/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1641789374
+|move|p1a: Zapdos|Defog|p2a: Blissey
+|-unboost|p2a: Blissey|evasion|1
+|-sideend|p1: SL21CC Crawdaunt|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Blissey|Seismic Toss|p1a: Zapdos
+|-damage|p1a: Zapdos|44/100 tox
+|
+|-weather|none
+|-damage|p1a: Zapdos|12/100 tox|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1641789388
+|switch|p1a: Swampert|Swampert, M|25/100 brn
+|move|p2a: Blissey|Stealth Rock|p1a: Swampert
+|-sidestart|p1: SL21CC Crawdaunt|move: Stealth Rock
+|
+|-damage|p1a: Swampert|18/100 brn|[from] brn
+|upkeep
+|turn|51
+|-message|SL21CC Crawdaunt forfeited.
+|
+|win|Musashi 109
+|raw|SL21CC Crawdaunt's rating: 1200 &rarr; <strong>1184</strong><br />(-16 for losing)
+|raw|Musashi 109's rating: 1196 &rarr; <strong>1222</strong><br />(+26 for winning)
+|l|☆SL21CC Crawdaunt
+|l| ceobo
+|l| SL21CC tangkeke
+|j| ceobo
+|l| ceobo
+|l| jiokopg_fkok43

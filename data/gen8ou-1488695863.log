@@ -1,0 +1,369 @@
+|j|☆PST99
+|j|☆kingdragongod
+|t:|1641804888
+|gametype|singles
+|player|p1|PST99|2|1398
+|player|p2|kingdragongod|1|1388
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Zapdos-Galar|
+|poke|p1|Suicune|
+|poke|p1|Ribombee, M|
+|poke|p2|Mew|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|poke|p2|Melmetal|
+|poke|p2|Mimikyu, M|
+|poke|p2|Zapdos-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kingdragongod)
+|
+|t:|1641804895
+|start
+|switch|p1a: Pawn|Ribombee, M|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|
+|t:|1641804904
+|move|p1a: Pawn|Sticky Web|p2a: Mew
+|-sidestart|p2: kingdragongod|move: Sticky Web
+|move|p2a: Mew|Flamethrower|p1a: Pawn
+|-supereffective|p1a: Pawn
+|-damage|p1a: Pawn|12/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641804910
+|move|p1a: Pawn|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|72/100
+|
+|t:|1641804913
+|switch|p1a: Rook|Suicune|100/100|[from]move: U-turn
+|-ability|p1a: Rook|Pressure
+|move|p2a: Mew|Stealth Rock|p1a: Rook
+|-sidestart|p1: PST99|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641804922
+|move|p2a: Mew|Energy Ball|p1a: Rook
+|-supereffective|p1a: Rook
+|-damage|p1a: Rook|60/100
+|move|p1a: Rook|Scald|p2a: Mew
+|-damage|p2a: Mew|45/100
+|
+|-heal|p1a: Rook|66/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641804928
+|move|p2a: Mew|Energy Ball|p1a: Rook
+|-supereffective|p1a: Rook
+|-damage|p1a: Rook|26/100
+|move|p1a: Rook|Calm Mind|p1a: Rook
+|-boost|p1a: Rook|spa|1
+|-boost|p1a: Rook|spd|1
+|
+|-heal|p1a: Rook|32/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641804935
+|move|p2a: Mew|Energy Ball|p1a: Rook
+|-supereffective|p1a: Rook
+|-damage|p1a: Rook|5/100
+|move|p1a: Rook|Rest|p1a: Rook
+|-status|p1a: Rook|slp|[from] move: Rest
+|-heal|p1a: Rook|100/100 slp|[silent]
+|
+|upkeep
+|turn|6
+|
+|t:|1641804940
+|move|p2a: Mew|Energy Ball|p1a: Rook
+|-supereffective|p1a: Rook
+|-damage|p1a: Rook|74/100 slp
+|cant|p1a: Rook|slp
+|move|p1a: Rook|Sleep Talk|p1a: Rook
+|move|p1a: Rook|Rest||[from]move: Sleep Talk|[still]
+|-fail|p1a: Rook
+|
+|-heal|p1a: Rook|80/100 slp|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641804943
+|move|p2a: Mew|Energy Ball|p1a: Rook
+|-supereffective|p1a: Rook
+|-damage|p1a: Rook|55/100 slp
+|cant|p1a: Rook|slp
+|move|p1a: Rook|Sleep Talk|p1a: Rook
+|move|p1a: Rook|Scald|p2a: Mew|[from]move: Sleep Talk
+|-damage|p2a: Mew|7/100
+|
+|-heal|p1a: Rook|61/100 slp|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641804948
+|move|p2a: Mew|Energy Ball|p1a: Rook
+|-supereffective|p1a: Rook
+|-damage|p1a: Rook|34/100 slp
+|-curestatus|p1a: Rook|slp|[msg]
+|move|p1a: Rook|Calm Mind|p1a: Rook
+|-boost|p1a: Rook|spa|1
+|-boost|p1a: Rook|spd|1
+|
+|-heal|p1a: Rook|40/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641804951
+|move|p2a: Mew|Energy Ball|p1a: Rook
+|-supereffective|p1a: Rook
+|-damage|p1a: Rook|21/100
+|-unboost|p1a: Rook|spd|1
+|move|p1a: Rook|Calm Mind|p1a: Rook
+|-boost|p1a: Rook|spa|1
+|-boost|p1a: Rook|spd|1
+|
+|-heal|p1a: Rook|27/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641804955
+|move|p2a: Mew|Energy Ball|p1a: Rook
+|-supereffective|p1a: Rook
+|-crit|p1a: Rook
+|-damage|p1a: Rook|0 fnt
+|faint|p1a: Rook
+|
+|upkeep
+|
+|t:|1641804961
+|switch|p1a: Knight|Zapdos-Galar|100/100
+|-damage|p1a: Knight|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641804963
+|move|p1a: Knight|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|t:|1641804967
+|switch|p1a: Queen|Volcarona, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641804973
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Queen|atk|1
+|turn|12
+|
+|t:|1641804982
+|switch|p1a: King|Landorus-Therian, M|100/100
+|-damage|p1a: King|88/100|[from] Stealth Rock
+|-ability|p1a: King|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Stone Edge|p1a: King
+|-damage|p1a: King|54/100
+|
+|-heal|p1a: King|60/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641804991
+|move|p1a: King|Substitute|p1a: King
+|-start|p1a: King|Substitute
+|-damage|p1a: King|36/100
+|move|p2a: Landorus|Knock Off|p1a: King
+|-end|p1a: King|Substitute
+|
+|-heal|p1a: King|42/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641804998
+|move|p1a: King|Stone Edge|p2a: Landorus|[miss]
+|-miss|p1a: King|p2a: Landorus
+|move|p2a: Landorus|Knock Off|p1a: King
+|-damage|p1a: King|13/100
+|-enditem|p1a: King|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|
+|upkeep
+|turn|15
+|
+|t:|1641805006
+|move|p1a: King|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|58/100
+|move|p2a: Landorus|Knock Off|p1a: King
+|-damage|p1a: King|0 fnt
+|faint|p1a: King
+|
+|upkeep
+|
+|t:|1641805012
+|switch|p1a: Bishop|Bisharp, F|100/100
+|-damage|p1a: Bishop|95/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641805017
+|move|p1a: Bishop|Sucker Punch|p2a: Landorus
+|-damage|p2a: Landorus|3/100
+|move|p2a: Landorus|Earthquake|p1a: Bishop
+|-supereffective|p1a: Bishop
+|-damage|p1a: Bishop|0 fnt
+|faint|p1a: Bishop
+|
+|upkeep
+|
+|t:|1641805023
+|switch|p1a: Knight|Zapdos-Galar|88/100
+|-damage|p1a: Knight|76/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641805026
+|move|p1a: Knight|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|t:|1641805032
+|switch|p1a: Pawn|Ribombee, M|12/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641805043
+|switch|p2a: Mimikyu|Mimikyu, M|100/100
+|turn|18
+|
+|t:|1641805050
+|move|p1a: Pawn|U-turn|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|100/100
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, M
+|-damage|p2a: Mimikyu|88/100|[from] pokemon: Mimikyu-Busted
+|
+|t:|1641805056
+|switch|p1a: Queen|Volcarona, F|100/100|[from]move: U-turn
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|upkeep
+|turn|19
+|
+|t:|1641805064
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Queen
+|-damage|p1a: Queen|56/100
+|move|p1a: Queen|Flamethrower|p2a: Mimikyu
+|-damage|p2a: Mimikyu|20/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641805075
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Queen
+|-damage|p1a: Queen|17/100
+|move|p1a: Queen|Flamethrower|p2a: Mimikyu
+|-damage|p2a: Mimikyu|0 fnt
+|faint|p2a: Mimikyu
+|
+|upkeep
+|
+|t:|1641805081
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|21
+|
+|t:|1641805091
+|move|p2a: Zapdos|Brave Bird|p1a: Queen
+|-supereffective|p1a: Queen
+|-damage|p1a: Queen|0 fnt
+|faint|p1a: Queen
+|-damage|p2a: Zapdos|94/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641805094
+|switch|p1a: Pawn|Ribombee, M|12/100
+|turn|22
+|
+|t:|1641805102
+|move|p1a: Pawn|Moonblast|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641805111
+|switch|p2a: Kartana|Kartana|100/100
+|-activate|p2a: Kartana|move: Sticky Web
+|-unboost|p2a: Kartana|spe|1
+|turn|23
+|
+|t:|1641805115
+|move|p1a: Pawn|Moonblast|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|37/100
+|move|p2a: Kartana|Smart Strike|p1a: Pawn
+|-supereffective|p1a: Pawn
+|-damage|p1a: Pawn|0 fnt
+|faint|p1a: Pawn
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641805124
+|switch|p1a: Knight|Zapdos-Galar|76/100
+|-damage|p1a: Knight|63/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641805127
+|move|p1a: Knight|Close Combat|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|-unboost|p1a: Knight|def|1
+|-unboost|p1a: Knight|spd|1
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641805130
+|switch|p2a: Melmetal|Melmetal|100/100
+|-activate|p2a: Melmetal|move: Sticky Web
+|-unboost|p2a: Melmetal|spe|1
+|turn|25
+|
+|t:|1641805141
+|move|p1a: Knight|Close Combat|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-unboost|p1a: Knight|def|1
+|-unboost|p1a: Knight|spd|1
+|faint|p2a: Melmetal
+|
+|win|PST99
+|raw|PST99's rating: 1398 &rarr; <strong>1417</strong><br />(+19 for winning)
+|raw|kingdragongod's rating: 1388 &rarr; <strong>1369</strong><br />(-19 for losing)
+|l|☆kingdragongod

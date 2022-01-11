@@ -1,0 +1,330 @@
+|j|☆NotRandom2Goated
+|j|☆Ehtesham123
+|t:|1641735048
+|gametype|singles
+|player|p1|NotRandom2Goated|2|1499
+|player|p2|Ehtesham123|170|1528
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Aegislash, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Kartana|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Zapdos|
+|poke|p2|Tapu Lele|
+|poke|p2|Dragapult, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Heatran, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ehtesham123)
+|
+|t:|1641735079
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|turn|1
+|
+|t:|1641735083
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Landorus|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|95/100
+|
+|t:|1641735085
+|switch|p1a: Rillaboom|Rillaboom, M|100/100|[from]move: U-turn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-heal|p2a: Tapu Fini|100/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1641735093
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Rillaboom|atk|1
+|move|p1a: Rillaboom|Wood Hammer|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Rillaboom|64/100|[from] Recoil
+|
+|-heal|p1a: Rillaboom|70/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641735104
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|3
+|
+|t:|1641735110
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|94/100|[from] Sandstorm
+|-heal|p2a: Weavile|100/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641735116
+|move|p2a: Weavile|Low Kick|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|94/100|[from] Sandstorm
+|-heal|p2a: Weavile|100/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641735131
+|switch|p1a: Kartana|Kartana|100/100
+|turn|5
+|
+|t:|1641735150
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Kartana|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|83/100
+|-enditem|p2a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tapu Fini|77/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1641735169
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641735179
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Weavile|Knock Off|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|-unboost|p2a: Weavile|atk|1
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1641735190
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Close Combat|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-unboost|p1a: Aegislash|def|1
+|-unboost|p1a: Aegislash|spd|1
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641735195
+|switch|p2a: Heatran|Heatran, F|100/100
+|turn|9
+|
+|t:|1641735208
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Landorus
+|-damage|p1a: Landorus|52/100
+|-activate|p1a: Landorus|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Landorus|58/100|[from] item: Leftovers
+|-damage|p1a: Landorus|45/100|[from] move: Magma Storm|[partiallytrapped]
+|-fieldend|Misty Terrain
+|upkeep
+|turn|10
+|
+|t:|1641735219
+|move|p1a: Landorus|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-heal|p1a: Landorus|51/100|[from] item: Leftovers
+|-end|p1a: Landorus|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641735224
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|11
+|
+|t:|1641735230
+|move|p2a: Dragapult|Shadow Ball|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641735240
+|switch|p1a: Kartana|Kartana|100/100
+|turn|12
+|
+|t:|1641735256
+|move|p1a: Kartana|Leaf Blade|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|63/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641735263
+|switch|p1a: Aegislash|Aegislash, M|100/100
+|turn|13
+|
+|t:|1641735265
+|move|p2a: Dragapult|Shadow Ball|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|41/100
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Aegislash|47/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641735284
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|14
+|
+|t:|1641735289
+|-formechange|p1a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Tapu Lele|Psychic|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|
+|-heal|p1a: Aegislash|53/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641735297
+|switch|p2a: Tapu Fini|Tapu Fini|77/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Ball|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|47/100
+|
+|-heal|p1a: Aegislash|59/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641735301
+|-formechange|p1a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Tapu Fini|Scald|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|
+|-heal|p1a: Aegislash|65/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641735304
+|move|p2a: Tapu Fini|Scald|p1a: Aegislash
+|-damage|p1a: Aegislash|49/100
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Ball|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|19/100
+|
+|-heal|p1a: Aegislash|55/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641735307
+|-formechange|p1a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Tapu Fini|Scald|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|
+|-heal|p1a: Aegislash|62/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641735311
+|move|p2a: Tapu Fini|Scald|p1a: Aegislash
+|-damage|p1a: Aegislash|46/100
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Ball|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-heal|p1a: Aegislash|53/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641735313
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|20
+|
+|t:|1641735326
+|-formechange|p1a: Aegislash|Aegislash||[from] ability: Stance Change
+|move|p1a: Aegislash|King's Shield|p1a: Aegislash
+|-singleturn|p1a: Aegislash|Protect
+|move|p2a: Tapu Lele|Psychic|p1a: Aegislash
+|-activate|p1a: Aegislash|move: Protect
+|
+|-heal|p1a: Aegislash|59/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641735334
+|move|p2a: Tapu Lele|Psychic|p1a: Aegislash
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|31/100
+|-unboost|p1a: Aegislash|spd|1
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Ball|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|24/100
+|
+|-heal|p1a: Aegislash|37/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|-message|Ehtesham123 forfeited.
+|
+|win|NotRandom2Goated
+|raw|NotRandom2Goated's rating: 1499 &rarr; <strong>1521</strong><br />(+22 for winning)
+|raw|Ehtesham123's rating: 1528 &rarr; <strong>1506</strong><br />(-22 for losing)
+|l|☆Ehtesham123
+|l|☆NotRandom2Goated
+|j|☆NotRandom2Goated
+|player|p1|NotRandom2Goated|2

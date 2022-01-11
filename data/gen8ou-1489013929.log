@@ -1,0 +1,75 @@
+|j|☆Jonas56
+|j|☆Sr.Palpitoad14
+|t:|1641846486
+|gametype|singles
+|player|p1|Jonas56|266|1000
+|player|p2|Sr.Palpitoad14|dawn-gen4pt|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rotom-Wash|
+|poke|p1|Dragapult, M|
+|poke|p1|Scizor, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Whimsicott, M|
+|poke|p1|Bisharp, M|
+|poke|p2|Dusclops, F|
+|poke|p2|Celebi|
+|poke|p2|Nidoking, M|
+|poke|p2|Lickilicky, M|
+|poke|p2|Chandelure, F|
+|poke|p2|Unfezant, M|
+|teampreview
+|
+|t:|1641846496
+|start
+|switch|p1a: Whimsicott|Whimsicott, M|100/100
+|switch|p2a: Chandelure|Chandelure, F|100/100
+|turn|1
+|
+|t:|1641846507
+|move|p1a: Whimsicott|Taunt|p2a: Chandelure
+|-start|p2a: Chandelure|move: Taunt
+|move|p2a: Chandelure|Overheat|p1a: Whimsicott
+|-supereffective|p1a: Whimsicott
+|-enditem|p1a: Whimsicott|Focus Sash
+|-damage|p1a: Whimsicott|1/100
+|-unboost|p2a: Chandelure|spa|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641846549
+|switch|p2a: Lickilicky|Lickilicky, M|100/100
+|move|p1a: Whimsicott|Endeavor|p2a: Lickilicky
+|-damage|p2a: Lickilicky|1/100
+|
+|-heal|p2a: Lickilicky|7/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641846577
+|move|p1a: Whimsicott|Taunt|p2a: Lickilicky
+|-start|p2a: Lickilicky|move: Taunt
+|cant|p2a: Lickilicky|move: Taunt|Wish
+|
+|-heal|p2a: Lickilicky|13/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|-message|Sr.Palpitoad14 forfeited.
+|
+|win|Jonas56
+|raw|Jonas56's rating: 1000 &rarr; <strong>1040</strong><br />(+40 for winning)
+|raw|Sr.Palpitoad14's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|☆Sr.Palpitoad14
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

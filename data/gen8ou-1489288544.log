@@ -1,0 +1,460 @@
+|j|☆Shubway
+|j|☆DumbLick1337
+|t:|1641884361
+|gametype|singles
+|player|p1|Shubway|1|1483
+|player|p2|DumbLick1337|102|1362
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zoroark, F|
+|poke|p1|Clefable, M|
+|poke|p1|Blacephalon|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Zapdos|
+|poke|p1|Rillaboom, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, F|
+|poke|p2|Clefable, M|
+|poke|p2|Seismitoad, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Gyarados, F|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|inactive|Shubway has 120 seconds left.
+|inactive|Shubway has 90 seconds left.
+|inactive|Shubway has 60 seconds left.
+|inactive|Shubway has 30 seconds left.
+|inactive|Shubway has 20 seconds left.
+|inactive|Shubway has 15 seconds left.
+|inactive|Shubway has 10 seconds left.
+|inactive|Shubway has 5 seconds left.
+|
+|t:|1641884512
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641884519
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Clefable|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|68/100
+|-unboost|p1a: Zapdos|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641884521
+|move|p1a: Zapdos|Discharge|p2a: Clefable
+|-damage|p2a: Clefable|78/100
+|move|p2a: Clefable|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|38/100
+|
+|-heal|p2a: Clefable|84/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641884525
+|move|p1a: Zapdos|Discharge|p2a: Clefable
+|-damage|p2a: Clefable|61/100
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|67/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641884533
+|move|p1a: Zapdos|Discharge|p2a: Clefable
+|-damage|p2a: Clefable|52/100
+|-status|p2a: Clefable|par
+|move|p2a: Clefable|Moonblast|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-heal|p2a: Clefable|58/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1641884538
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|5
+|
+|t:|1641884539
+|switch|p2a: Gyarados|Gyarados, F|100/100
+|move|p1a: Urshifu|Surging Strikes|p2a: Gyarados
+|-resisted|p2a: Gyarados
+|-crit|p2a: Gyarados
+|-damage|p2a: Gyarados|88/100
+|-resisted|p2a: Gyarados
+|-crit|p2a: Gyarados
+|-damage|p2a: Gyarados|75/100
+|-resisted|p2a: Gyarados
+|-crit|p2a: Gyarados
+|-damage|p2a: Gyarados|63/100
+|-hitcount|p2a: Gyarados|3
+|
+|-heal|p2a: Gyarados|69/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641884542
+|move|p1a: Urshifu|Zen Headbutt|p2a: Gyarados
+|-damage|p2a: Gyarados|36/100
+|move|p2a: Gyarados|Power Whip|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|9/100
+|
+|-heal|p2a: Gyarados|42/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Shubway has 120 seconds left.
+|
+|t:|1641884550
+|move|p1a: Urshifu|Zen Headbutt|p2a: Gyarados
+|-damage|p2a: Gyarados|7/100
+|move|p2a: Gyarados|Waterfall|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|-ability|p2a: Gyarados|Moxie|boost
+|-boost|p2a: Gyarados|atk|1
+|
+|-heal|p2a: Gyarados|13/100|[from] item: Leftovers
+|upkeep
+|inactive|Shubway has 120 seconds left.
+|
+|t:|1641884559
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|8
+|
+|t:|1641884562
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|72/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641884565
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Hydreigon|Flash Cannon|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|53/100
+|
+|-heal|p1a: Clefable|59/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641884568
+|switch|p2a: Clefable|Clefable, M|58/100 par
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|-heal|p2a: Clefable|64/100 par|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641884570
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|70/100 par|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641884572
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|42/100 par
+|cant|p2a: Clefable|par
+|
+|-heal|p2a: Clefable|48/100 par|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641884575
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|20/100 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|70/100 par
+|
+|-heal|p2a: Clefable|76/100 par|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641884579
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|6/100 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|56/100 par
+|
+|-heal|p2a: Clefable|62/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641884584
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|32/100 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|82/100 par
+|
+|-heal|p2a: Clefable|89/100 par|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641884588
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|-heal|p2a: Clefable|95/100 par|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641884590
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|64/100 par
+|-unboost|p2a: Clefable|spa|1
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100 par
+|
+|upkeep
+|turn|18
+|
+|t:|1641884594
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|72/100 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100 par
+|
+|upkeep
+|turn|19
+|
+|t:|1641884598
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|72/100 par
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100 par
+|
+|upkeep
+|turn|20
+|
+|t:|1641884603
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|69/100 par
+|cant|p2a: Clefable|par
+|
+|-heal|p2a: Clefable|75/100 par|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641884607
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|45/100 par
+|-unboost|p2a: Clefable|spa|1
+|cant|p2a: Clefable|par
+|
+|-heal|p2a: Clefable|51/100 par|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641884612
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|40/100
+|
+|-heal|p2a: Corviknight|47/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641884615
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|97/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Clefable|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|33/100
+|
+|-heal|p2a: Corviknight|39/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641884616
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|89/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Clefable|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|29/100
+|
+|-heal|p2a: Corviknight|35/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641884618
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|85/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Clefable|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|26/100
+|
+|-heal|p2a: Corviknight|32/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641884619
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|82/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Clefable|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|15/100
+|-status|p2a: Corviknight|brn
+|
+|-heal|p2a: Corviknight|21/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|15/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641884621
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|64/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Clefable|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|upkeep
+|
+|t:|1641884622
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|28
+|
+|t:|1641884626
+|move|p2a: rotomheat|Nasty Plot|p2a: rotomheat
+|-boost|p2a: rotomheat|spa|2
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|29
+|
+|t:|1641884628
+|move|p2a: rotomheat|Thunderbolt|p1a: Clefable
+|-damage|p1a: Clefable|69/100
+|move|p1a: Clefable|Moonblast|p2a: rotomheat
+|-resisted|p2a: rotomheat
+|-damage|p2a: rotomheat|51/100
+|-unboost|p2a: rotomheat|spa|1
+|
+|-heal|p1a: Clefable|75/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641884630
+|switch|p2a: Gyarados|Gyarados, F|13/100
+|move|p1a: Clefable|Moonblast|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|-heal|p1a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641884630
+|switch|p2a: Clefable|Clefable, M|51/100 par
+|turn|31
+|
+|t:|1641884632
+|cant|p2a: Clefable|par
+|move|p1a: Clefable|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641884632
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|turn|32
+|
+|t:|1641884634
+|move|p2a: Seismitoad|Stealth Rock|p1a: Clefable
+|-sidestart|p1: Shubway|move: Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Seismitoad
+|-damage|p2a: Seismitoad|22/100
+|-unboost|p2a: Seismitoad|spa|1
+|
+|-heal|p2a: Seismitoad|28/100|[from] item: Leftovers
+|-heal|p1a: Clefable|93/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641884636
+|move|p2a: Seismitoad|Toxic|p1a: Clefable
+|-status|p1a: Clefable|tox
+|move|p1a: Clefable|Moonblast|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|
+|-heal|p1a: Clefable|99/100 tox|[from] item: Leftovers
+|upkeep
+|
+|t:|1641884636
+|switch|p2a: rotomheat|Rotom-Heat|51/100
+|turn|34
+|
+|t:|1641884638
+|move|p2a: rotomheat|Thunderbolt|p1a: Clefable
+|-damage|p1a: Clefable|84/100 tox
+|move|p1a: Clefable|Moonblast|p2a: rotomheat
+|-resisted|p2a: rotomheat
+|-damage|p2a: rotomheat|0 fnt
+|faint|p2a: rotomheat
+|
+|-heal|p1a: Clefable|90/100 tox|[from] item: Leftovers
+|upkeep
+|
+|t:|1641884638
+|switch|p2a: Hydreigon|Hydreigon, F|72/100
+|turn|35
+|
+|t:|1641884640
+|move|p2a: Hydreigon|Dark Pulse|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|82/100 tox
+|move|p1a: Clefable|Moonblast|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|win|Shubway
+|raw|Shubway's rating: 1483 &rarr; <strong>1496</strong><br />(+13 for winning)
+|raw|DumbLick1337's rating: 1362 &rarr; <strong>1349</strong><br />(-13 for losing)
+|c|☆DumbLick1337|gg
+|l|☆DumbLick1337

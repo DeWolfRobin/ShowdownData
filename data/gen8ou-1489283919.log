@@ -1,0 +1,530 @@
+|j|☆DumbLick1337
+|j|☆Dip47
+|t:|1641883457
+|gametype|singles
+|player|p1|DumbLick1337|102|1347
+|player|p2|Dip47|lucas|1231
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rotom-Heat|
+|poke|p1|Corviknight, F|
+|poke|p1|Clefable, F|
+|poke|p1|Seismitoad, F|
+|poke|p1|Hydreigon, F|
+|poke|p1|Gyarados, M|
+|poke|p2|Mew|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Goodra, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641883472
+|start
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|
+|t:|1641883477
+|move|p2a: Mew|Hypnosis|p1a: Clefable
+|-status|p1a: Clefable|slp|[from] move: Hypnosis
+|cant|p1a: Clefable|slp
+|
+|upkeep
+|turn|2
+|c|☆Dip47|hf
+|
+|t:|1641883488
+|move|p2a: Mew|Block|p1a: Clefable
+|-activate|p1a: Clefable|trapped
+|-curestatus|p1a: Clefable|slp|[msg]
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641883499
+|move|p2a: Mew|Imprison|p2a: Mew
+|-start|p2a: Mew|move: Imprison
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641883507
+|move|p2a: Mew|Transform|p1a: Clefable
+|-transform|p2a: Mew|p1a: Clefable
+|cant|p1a: Clefable|move: Imprison|Moonblast
+|
+|upkeep
+|turn|5
+|
+|t:|1641883518
+|-activate|p1a: Clefable|move: Struggle
+|move|p1a: Clefable|Struggle|p2a: Mew
+|-damage|p2a: Mew|94/100
+|-damage|p1a: Clefable|75/100|[from] recoil
+|move|p2a: Mew|Calm Mind|p2a: Mew
+|-boost|p2a: Mew|spa|1
+|-boost|p2a: Mew|spd|1
+|
+|-heal|p1a: Clefable|81/100|[from] item: Leftovers
+|-heal|p2a: Mew|99/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641883528
+|move|p2a: Mew|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|43/100
+|-activate|p1a: Clefable|move: Struggle
+|move|p1a: Clefable|Struggle|p2a: Mew
+|-damage|p2a: Mew|94/100
+|-damage|p1a: Clefable|18/100|[from] recoil
+|
+|-heal|p1a: Clefable|24/100|[from] item: Leftovers
+|-heal|p2a: Mew|99/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|Dip47 has 120 seconds left.
+|
+|t:|1641883560
+|move|p2a: Mew|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-heal|p2a: Mew|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641883560
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|turn|8
+|inactive|Dip47 has 120 seconds left.
+|
+|t:|1641883576
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Corviknight|Brave Bird|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|75/100
+|-damage|p1a: Corviknight|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-damage|p1a: Corviknight|71/100|[from] item: Rocky Helmet|[of] p2a: Ferrothorn
+|-damage|p1a: Corviknight|64/100|[from] Recoil
+|
+|-heal|p1a: Corviknight|70/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|Dip47 has 120 seconds left.
+|
+|t:|1641883589
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Corviknight
+|-sidestart|p1: DumbLick1337|move: Stealth Rock
+|
+|upkeep
+|turn|10
+|
+|t:|1641883596
+|switch|p1a: Seismitoad|Seismitoad, F|100/100
+|-damage|p1a: Seismitoad|94/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Thunder Wave|p1a: Seismitoad
+|-immune|p1a: Seismitoad
+|
+|-heal|p1a: Seismitoad|100/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641883605
+|move|p1a: Seismitoad|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: Dip47|move: Stealth Rock
+|move|p2a: Ferrothorn|Leech Seed|p1a: Seismitoad
+|-start|p1a: Seismitoad|move: Leech Seed
+|
+|-damage|p1a: Seismitoad|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|89/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641883613
+|switch|p1a: rotomheat|Rotom-Heat|100/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: rotomheat
+|-resisted|p1a: rotomheat
+|-damage|p1a: rotomheat|85/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641883621
+|switch|p2a: Goodra|Goodra, M|100/100
+|-damage|p2a: Goodra|88/100|[from] Stealth Rock
+|move|p1a: rotomheat|Overheat|p2a: Goodra
+|-resisted|p2a: Goodra
+|-damage|p2a: Goodra|77/100
+|-unboost|p1a: rotomheat|spa|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641883630
+|move|p1a: rotomheat|Volt Switch|p2a: Goodra
+|-resisted|p2a: Goodra
+|-damage|p2a: Goodra|74/100
+|
+|t:|1641883631
+|switch|p1a: Corviknight|Corviknight, F|100/100|[from]move: Volt Switch
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Goodra|Rock Slide|p1a: Corviknight
+|-damage|p1a: Corviknight|74/100
+|
+|-heal|p1a: Corviknight|81/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641883642
+|move|p2a: Goodra|Fire Blast|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|23/100
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|73/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p1a: Corviknight|79/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641883653
+|switch|p2a: Mew|Mew|100/100
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|move|p1a: Corviknight|Roost|p1a: Corviknight
+|-heal|p1a: Corviknight|100/100
+|-singleturn|p1a: Corviknight|move: Roost
+|
+|-heal|p2a: Mew|94/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641883662
+|switch|p1a: Seismitoad|Seismitoad, F|88/100
+|-damage|p1a: Seismitoad|82/100|[from] Stealth Rock
+|move|p2a: Mew|Hypnosis|p1a: Seismitoad
+|-status|p1a: Seismitoad|slp|[from] move: Hypnosis
+|
+|-heal|p2a: Mew|100/100|[from] item: Leftovers
+|-heal|p1a: Seismitoad|88/100 slp|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641883671
+|move|p2a: Mew|Block|p1a: Seismitoad
+|-activate|p1a: Seismitoad|trapped
+|cant|p1a: Seismitoad|slp
+|
+|-heal|p1a: Seismitoad|94/100 slp|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641883676
+|move|p2a: Mew|Imprison|p2a: Mew
+|-start|p2a: Mew|move: Imprison
+|-curestatus|p1a: Seismitoad|slp|[msg]
+|move|p1a: Seismitoad|Toxic|p2a: Mew
+|-status|p2a: Mew|tox
+|-activate|p2a: Mew|ability: Synchronize
+|-status|p1a: Seismitoad|tox
+|
+|-heal|p1a: Seismitoad|99/100 tox|[from] item: Leftovers
+|-damage|p2a: Mew|94/100 tox|[from] psn
+|-damage|p1a: Seismitoad|94/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641883688
+|move|p2a: Mew|Transform|p1a: Seismitoad
+|-transform|p2a: Mew|p1a: Seismitoad
+|cant|p1a: Seismitoad|move: Imprison|Earthquake
+|
+|-heal|p2a: Mew|100/100 tox|[from] item: Leftovers
+|-heal|p1a: Seismitoad|99/100 tox|[from] item: Leftovers
+|-damage|p2a: Mew|88/100 tox|[from] psn
+|-damage|p1a: Seismitoad|88/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641883700
+|-activate|p1a: Seismitoad|move: Struggle
+|move|p1a: Seismitoad|Struggle|p2a: Mew
+|-damage|p2a: Mew|79/100 tox
+|-damage|p1a: Seismitoad|63/100 tox|[from] recoil
+|move|p2a: Mew|Scald|p1a: Seismitoad
+|-heal|p1a: Seismitoad|88/100 tox|[from] ability: Water Absorb|[of] p2a: Mew
+|
+|-heal|p1a: Seismitoad|94/100 tox|[from] item: Leftovers
+|-heal|p2a: Mew|85/100 tox|[from] item: Leftovers
+|-damage|p1a: Seismitoad|76/100 tox|[from] psn
+|-damage|p2a: Mew|67/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641883713
+|move|p2a: Mew|Earthquake|p1a: Seismitoad
+|-damage|p1a: Seismitoad|54/100 tox
+|-activate|p1a: Seismitoad|move: Struggle
+|move|p1a: Seismitoad|Struggle|p2a: Mew
+|-damage|p2a: Mew|58/100 tox
+|-damage|p1a: Seismitoad|29/100 tox|[from] recoil
+|
+|-heal|p2a: Mew|64/100 tox|[from] item: Leftovers
+|-heal|p1a: Seismitoad|35/100 tox|[from] item: Leftovers
+|-damage|p2a: Mew|40/100 tox|[from] psn
+|-damage|p1a: Seismitoad|11/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641883724
+|switch|p2a: Ferrothorn|Ferrothorn, F|89/100
+|-damage|p2a: Ferrothorn|83/100|[from] Stealth Rock
+|-activate|p1a: Seismitoad|move: Struggle
+|move|p1a: Seismitoad|Struggle|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|75/100
+|-damage|p1a: Seismitoad|0 fnt|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p1a: Seismitoad
+|
+|upkeep
+|
+|t:|1641883725
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641883736
+|move|p1a: Hydreigon|Fire Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641883742
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|-damage|p2a: Zapdos|88/100|[from] Stealth Rock
+|turn|25
+|
+|t:|1641883750
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-damage|p1a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Zapdos|U-turn|p1a: Corviknight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|82/100
+|
+|t:|1641883759
+|switch|p2a: Mew|Mew|40/100 tox|[from]move: U-turn
+|-damage|p2a: Mew|27/100 tox|[from] Stealth Rock
+|
+|-heal|p2a: Mew|34/100 tox|[from] item: Leftovers
+|-heal|p1a: Corviknight|88/100|[from] item: Leftovers
+|-damage|p2a: Mew|27/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641883767
+|move|p2a: Mew|Hypnosis|p1a: Corviknight|[miss]
+|-miss|p2a: Mew|p1a: Corviknight
+|move|p1a: Corviknight|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|3/100 tox
+|
+|t:|1641883767
+|switch|p1a: Hydreigon|Hydreigon, F|88/100|[from]move: U-turn
+|-damage|p1a: Hydreigon|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Mew|9/100 tox|[from] item: Leftovers
+|-damage|p2a: Mew|0 fnt|[from] psn
+|faint|p2a: Mew
+|upkeep
+|
+|t:|1641883792
+|switch|p2a: Grimmsnarl|Grimmsnarl, M|100/100
+|-damage|p2a: Grimmsnarl|88/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1641883800
+|switch|p1a: Corviknight|Corviknight, F|88/100
+|-damage|p1a: Corviknight|76/100|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Grimmsnarl|Substitute|p2a: Grimmsnarl
+|-start|p2a: Grimmsnarl|Substitute
+|-damage|p2a: Grimmsnarl|63/100
+|
+|-heal|p1a: Corviknight|82/100|[from] item: Leftovers
+|-heal|p2a: Grimmsnarl|69/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641883811
+|move|p2a: Grimmsnarl|Thunder Wave|p1a: Corviknight
+|-status|p1a: Corviknight|par
+|move|p1a: Corviknight|Brave Bird|p2a: Grimmsnarl
+|-end|p2a: Grimmsnarl|Substitute
+|-damage|p1a: Corviknight|74/100 par|[from] Recoil|[of] p2a: Grimmsnarl
+|
+|-heal|p2a: Grimmsnarl|76/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|81/100 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641883828
+|move|p2a: Grimmsnarl|Substitute|p2a: Grimmsnarl
+|-start|p2a: Grimmsnarl|Substitute
+|-damage|p2a: Grimmsnarl|51/100
+|move|p1a: Corviknight|Brave Bird|p2a: Grimmsnarl
+|-end|p2a: Grimmsnarl|Substitute
+|-damage|p1a: Corviknight|73/100 par|[from] Recoil|[of] p2a: Grimmsnarl
+|
+|-heal|p2a: Grimmsnarl|57/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|79/100 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641883837
+|move|p2a: Grimmsnarl|Bulk Up|p2a: Grimmsnarl
+|-boost|p2a: Grimmsnarl|atk|1
+|-boost|p2a: Grimmsnarl|def|1
+|move|p1a: Corviknight|Brave Bird|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|26/100
+|-damage|p1a: Corviknight|70/100 par|[from] Recoil
+|
+|-heal|p2a: Grimmsnarl|32/100|[from] item: Leftovers
+|-heal|p1a: Corviknight|76/100 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|c|☆Dip47|not fair
+|inactive|Dip47 has 120 seconds left.
+|c|☆Dip47|not getting paralysed
+|
+|t:|1641883874
+|switch|p1a: rotomheat|Rotom-Heat|85/100
+|move|p2a: Grimmsnarl|Substitute|p2a: Grimmsnarl
+|-start|p2a: Grimmsnarl|Substitute
+|-damage|p2a: Grimmsnarl|7/100
+|
+|-heal|p2a: Grimmsnarl|14/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641883882
+|move|p1a: rotomheat|Thunderbolt|p2a: Grimmsnarl
+|-end|p2a: Grimmsnarl|Substitute
+|move|p2a: Grimmsnarl|Darkest Lariat|p1a: rotomheat
+|-damage|p1a: rotomheat|0 fnt
+|faint|p1a: rotomheat
+|
+|-heal|p2a: Grimmsnarl|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641883882
+|switch|p1a: Hydreigon|Hydreigon, F|76/100
+|-damage|p1a: Hydreigon|64/100|[from] Stealth Rock
+|turn|33
+|inactive|Dip47 has 120 seconds left.
+|
+|t:|1641883895
+|move|p1a: Hydreigon|Flash Cannon|p2a: Grimmsnarl
+|-supereffective|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|inactive|Dip47 has 120 seconds left.
+|
+|t:|1641883909
+|switch|p2a: Goodra|Goodra, M|74/100
+|-damage|p2a: Goodra|61/100|[from] Stealth Rock
+|turn|34
+|
+|t:|1641883914
+|switch|p1a: Corviknight|Corviknight, F|76/100 par
+|-damage|p1a: Corviknight|63/100 par|[from] Stealth Rock
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Goodra|Ice Beam|p1a: Corviknight
+|-damage|p1a: Corviknight|42/100 par
+|
+|-heal|p1a: Corviknight|48/100 par|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641883923
+|move|p2a: Goodra|Fire Blast|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|upkeep
+|
+|t:|1641883923
+|switch|p1a: Hydreigon|Hydreigon, F|64/100
+|-damage|p1a: Hydreigon|51/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1641883948
+|move|p1a: Hydreigon|Draco Meteor|p2a: Goodra
+|-supereffective|p2a: Goodra
+|-damage|p2a: Goodra|3/100
+|-unboost|p1a: Hydreigon|spa|2
+|move|p2a: Goodra|Ice Beam|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|upkeep
+|
+|t:|1641883948
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|-damage|p1a: Gyarados|76/100|[from] Stealth Rock
+|turn|37
+|
+|t:|1641883960
+|move|p1a: Gyarados|Waterfall|p2a: Goodra
+|-resisted|p2a: Goodra
+|-damage|p2a: Goodra|0 fnt
+|faint|p2a: Goodra
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|-heal|p1a: Gyarados|82/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641883968
+|switch|p2a: Zapdos|Zapdos-Galar|88/100
+|-damage|p2a: Zapdos|76/100|[from] Stealth Rock
+|turn|38
+|
+|t:|1641883972
+|move|p2a: Zapdos|Brave Bird|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|-damage|p2a: Zapdos|48/100|[from] Recoil
+|
+|win|Dip47
+|raw|DumbLick1337's rating: 1347 &rarr; <strong>1322</strong><br />(-25 for losing)
+|raw|Dip47's rating: 1253 &rarr; <strong>1285</strong><br />(+32 for winning)
+|c|☆DumbLick1337|gg

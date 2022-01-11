@@ -1,0 +1,387 @@
+|j|☆mala☆huju
+|j|☆Yetagross
+|t:|1641799286
+|gametype|singles
+|player|p1|mala☆huju|hiker-gen7|1420
+|player|p2|Yetagross|2|1341
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Dragonite, F|
+|poke|p1|Buzzwole|
+|poke|p1|Slowking-Galar, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Blissey, F|
+|poke|p2|Golurk|
+|poke|p2|Dhelmise|
+|poke|p2|Mimikyu, F|
+|poke|p2|Cofagrigus, F|
+|poke|p2|Chandelure, M|
+|poke|p2|Dragapult, M|
+|teampreview
+|c|☆mala☆huju|hf
+|j| jonjonbill
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Yetagross)
+|inactive|Yetagross has 120 seconds left.
+|
+|t:|1641799328
+|start
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|1
+|
+|t:|1641799341
+|switch|p2a: Golurk|Golurk|100/100
+|move|p1a: Blissey|Stealth Rock|p2a: Golurk
+|-sidestart|p2: Yetagross|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641799356
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Golurk|atk|1
+|move|p2a: Golurk|Dynamic Punch|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|78/100
+|-start|p1a: Landorus|confusion
+|
+|-heal|p1a: Landorus|84/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|mala☆huju has 120 seconds left.
+|
+|t:|1641799409
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|-activate|p1a: Landorus|confusion
+|-damage|p1a: Landorus|66/100|[from] confusion
+|
+|-heal|p1a: Landorus|72/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641799420
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Dragapult|Draco Meteor|p1a: Blissey
+|-damage|p1a: Blissey|69/100
+|-unboost|p2a: Dragapult|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641799426
+|switch|p2a: Golurk|Golurk|100/100
+|-damage|p2a: Golurk|94/100|[from] Stealth Rock
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641799433
+|switch|p1a: Dragonite|Dragonite, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|6
+|
+|t:|1641799440
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Golurk|Stone Edge|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|34/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641799447
+|move|p1a: Dragonite|Ice Punch|p2a: Golurk
+|-supereffective|p2a: Golurk
+|-damage|p2a: Golurk|11/100
+|-status|p2a: Golurk|frz
+|cant|p2a: Golurk|frz
+|
+|upkeep
+|turn|8
+|inactive|mala☆huju has 120 seconds left.
+|
+|t:|1641799466
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|84/100
+|-singleturn|p1a: Dragonite|move: Roost
+|cant|p2a: Golurk|frz
+|
+|upkeep
+|turn|9
+|inactive|mala☆huju has 120 seconds left.
+|
+|t:|1641799481
+|move|p1a: Dragonite|Earthquake|p2a: Golurk
+|-damage|p2a: Golurk|0 fnt
+|faint|p2a: Golurk
+|
+|upkeep
+|
+|t:|1641799491
+|switch|p2a: Cofagrigus|Cofagrigus, F|100/100
+|-damage|p2a: Cofagrigus|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641799513
+|switch|p1a: Blissey|Blissey, F|69/100
+|move|p2a: Cofagrigus|Toxic|p1a: Blissey
+|-status|p1a: Blissey|tox
+|
+|-heal|p2a: Cofagrigus|94/100|[from] item: Leftovers
+|-damage|p1a: Blissey|63/100 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|mala☆huju has 120 seconds left.
+|inactive|Yetagross has 120 seconds left.
+|
+|t:|1641799544
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100 tox
+|move|p2a: Cofagrigus|Trick Room|p2a: Cofagrigus
+|-fieldstart|move: Trick Room|[of] p2a: Cofagrigus
+|
+|-heal|p2a: Cofagrigus|100/100|[from] item: Leftovers
+|-damage|p1a: Blissey|88/100 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|mala☆huju has 120 seconds left.
+|inactive|Yetagross has 120 seconds left.
+|
+|t:|1641799559
+|move|p2a: Cofagrigus|Curse|p1a: Blissey
+|-start|p1a: Blissey|Curse|[of] p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|50/100
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|inactive|mala☆huju has 120 seconds left.
+|inactive|mala☆huju has 90 seconds left.
+|c|☆mala☆huju|lol
+|inactive|mala☆huju has 60 seconds left.
+|
+|t:|1641799625
+|-curestatus|p1a: Blissey|tox|[from] ability: Natural Cure
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100|[from]move: Teleport
+|
+|-heal|p2a: Cofagrigus|57/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|Yetagross has 120 seconds left.
+|inactive|mala☆huju has 60 seconds left.
+|
+|t:|1641799636
+|switch|p2a: Dhelmise|Dhelmise|100/100
+|-damage|p2a: Dhelmise|88/100|[from] Stealth Rock
+|move|p1a: Slowking|Future Sight|p2a: Dhelmise
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|14
+|inactive|mala☆huju has 60 seconds left.
+|
+|t:|1641799646
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|move|p2a: Dhelmise|Poltergeist|p1a: Buzzwole
+|-activate|p1a: Buzzwole|move: Poltergeist|Rocky Helmet
+|-damage|p1a: Buzzwole|68/100
+|
+|upkeep
+|turn|15
+|inactive|Yetagross has 120 seconds left.
+|
+|t:|1641799668
+|move|p2a: Dhelmise|Gyro Ball|p1a: Buzzwole
+|-damage|p1a: Buzzwole|23/100
+|-damage|p2a: Dhelmise|72/100|[from] item: Rocky Helmet|[of] p1a: Buzzwole
+|move|p1a: Buzzwole|Toxic|p2a: Dhelmise|[miss]
+|-miss|p1a: Buzzwole|p2a: Dhelmise
+|
+|-end|p2a: Dhelmise|move: Future Sight
+|-damage|p2a: Dhelmise|16/100
+|-fieldend|move: Trick Room
+|upkeep
+|turn|16
+|inactive|Yetagross has 120 seconds left.
+|
+|t:|1641799679
+|move|p1a: Buzzwole|Leech Life|p2a: Dhelmise
+|-damage|p2a: Dhelmise|0 fnt
+|-heal|p1a: Buzzwole|29/100|[from] drain|[of] p2a: Dhelmise
+|faint|p2a: Dhelmise
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|def|1
+|
+|upkeep
+|
+|t:|1641799699
+|switch|p2a: Chandelure|Chandelure, M|100/100
+|-damage|p2a: Chandelure|76/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641799719
+|move|p1a: Buzzwole|Toxic|p2a: Chandelure
+|-status|p2a: Chandelure|tox
+|move|p2a: Chandelure|Overheat|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|-unboost|p2a: Chandelure|spa|2
+|-enditem|p2a: Chandelure|Eject Pack
+|faint|p1a: Buzzwole
+|
+|t:|1641799732
+|switch|p2a: Cofagrigus|Cofagrigus, F|57/100
+|-damage|p2a: Cofagrigus|44/100|[from] Stealth Rock
+|
+|-heal|p2a: Cofagrigus|50/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641799739
+|switch|p1a: Blacephalon|Blacephalon, shiny|100/100
+|turn|18
+|
+|t:|1641799743
+|move|p1a: Blacephalon|Shadow Ball|p2a: Cofagrigus
+|-supereffective|p2a: Cofagrigus
+|-damage|p2a: Cofagrigus|0 fnt
+|faint|p2a: Cofagrigus
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641799746
+|switch|p2a: Dragapult|Dragapult, M|88/100
+|-damage|p2a: Dragapult|76/100|[from] Stealth Rock
+|turn|19
+|inactive|mala☆huju has 90 seconds left.
+|
+|t:|1641799752
+|move|p1a: Blacephalon|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641799754
+|switch|p2a: Mimikyu|Mimikyu, F|100/100
+|-damage|p2a: Mimikyu|88/100|[from] Stealth Rock
+|turn|20
+|c|☆mala☆huju|:)
+|
+|t:|1641799761
+|switch|p1a: Landorus|Landorus-Therian, M|72/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Mimikyu|atk|1
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|-heal|p1a: Landorus|78/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641799768
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Landorus|Earthquake|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|88/100
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, F
+|-damage|p2a: Mimikyu|76/100|[from] pokemon: Mimikyu-Busted
+|
+|-heal|p1a: Landorus|84/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|inactive|mala☆huju has 90 seconds left.
+|
+|t:|1641799796
+|move|p2a: Mimikyu|Play Rough|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Mimikyu|66/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|mala☆huju has 90 seconds left.
+|
+|t:|1641799805
+|switch|p1a: Slowking|Slowking-Galar, M, shiny|100/100
+|turn|23
+|
+|t:|1641799809
+|move|p2a: Mimikyu|Shadow Claw|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-damage|p2a: Mimikyu|56/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆mala☆huju|i think u win
+|inactive|mala☆huju has 90 seconds left.
+|
+|t:|1641799843
+|switch|p1a: Dragonite|Dragonite, F|84/100
+|turn|24
+|
+|t:|1641799846
+|move|p2a: Mimikyu|Play Rough|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: Mimikyu|46/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641799853
+|switch|p1a: Blissey|Blissey, F|88/100
+|turn|25
+|inactive|mala☆huju has 90 seconds left.
+|
+|t:|1641799862
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Blissey|Seismic Toss|p2a: Mimikyu
+|-immune|p2a: Mimikyu
+|
+|upkeep
+|turn|26
+|
+|t:|1641799867
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|1
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641799871
+|switch|p1a: Blacephalon|Blacephalon, shiny|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|27
+|
+|t:|1641799875
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|-damage|p2a: Mimikyu|36/100|[from] item: Life Orb
+|
+|upkeep
+|-message|mala☆huju forfeited.
+|
+|win|Yetagross
+|raw|mala☆huju's rating: 1420 &rarr; <strong>1396</strong><br />(-24 for losing)
+|raw|Yetagross's rating: 1341 &rarr; <strong>1365</strong><br />(+24 for winning)
+|l|☆mala☆huju

@@ -1,0 +1,131 @@
+|j|☆ShloopNoop
+|j|☆just4fun123
+|t:|1641785352
+|gametype|singles
+|player|p1|ShloopNoop|caitlin|1171
+|player|p2|just4fun123|1|1192
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Weavile, M|
+|poke|p1|Celesteela|
+|poke|p2|Corviknight, M|
+|poke|p2|Latias, F|
+|poke|p2|Clefable, M|
+|poke|p2|Cloyster, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Rillaboom, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ShloopNoop)
+|inactive|just4fun123 also wants the timer to be on.
+|
+|t:|1641785364
+|start
+|switch|p1a: Volcarona|Volcarona, M, shiny|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|
+|t:|1641785371
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: just4fun123|move: Aurora Veil
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcarona|94/100|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641785379
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Ninetales|Disable|p1a: Volcarona
+|-start|p1a: Volcarona|Disable|Quiver Dance
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcarona|88/100|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1641785388
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|move|p1a: Volcarona|Fire Blast|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|5/100
+|-enditem|p2a: Corviknight|Weakness Policy
+|-boost|p2a: Corviknight|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Corviknight|spa|2|[from] item: Weakness Policy
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcarona|82/100|[from] Hail
+|-damage|p2a: Corviknight|0 fnt|[from] Hail
+|faint|p2a: Corviknight
+|upkeep
+|
+|t:|1641785399
+|switch|p2a: Latias|Latias, F|100/100
+|turn|4
+|
+|t:|1641785405
+|move|p1a: Volcarona|Bug Buzz|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|24/100
+|-enditem|p2a: Latias|Weakness Policy
+|-boost|p2a: Latias|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Latias|spa|2|[from] item: Weakness Policy
+|move|p2a: Latias|Agility|p2a: Latias
+|-boost|p2a: Latias|spe|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcarona|76/100|[from] Hail
+|-damage|p2a: Latias|18/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641785416
+|move|p1a: Volcarona|Bug Buzz|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|
+|-weather|none
+|upkeep
+|
+|t:|1641785425
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|turn|6
+|
+|t:|1641785429
+|move|p1a: Volcarona|Giga Drain|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|-heal|p1a: Volcarona|100/100|[from] drain|[of] p2a: Cloyster
+|faint|p2a: Cloyster
+|
+|-end|p1a: Volcarona|Disable
+|upkeep
+|-message|just4fun123 forfeited.
+|
+|win|ShloopNoop
+|raw|ShloopNoop's rating: 1171 &rarr; <strong>1198</strong><br />(+27 for winning)
+|raw|just4fun123's rating: 1192 &rarr; <strong>1165</strong><br />(-27 for losing)
+|l|☆just4fun123

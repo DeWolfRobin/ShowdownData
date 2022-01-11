@@ -1,0 +1,455 @@
+|j|☆pcord
+|j|‽alt rave
+|t:|1641773153
+|gametype|singles
+|player|p1|pcord|flannery|1000
+|player|p2|alt rave|dawn|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Blacephalon|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Weavile, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Dragapult, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1641773191
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|1
+|
+|t:|1641773198
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Weavile|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|71/100
+|-damage|p2a: Weavile|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Weavile|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Rocky Helmet|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|2
+|j| lonely crowd
+|
+|t:|1641773243
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Heatran
+|-sidestart|p2: alt rave|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641773266
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|54/100
+|-activate|p1a: Landorus|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Landorus|60/100|[from] item: Leftovers
+|-damage|p1a: Landorus|47/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1641773276
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|70/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|54/100|[from] item: Leftovers
+|-end|p1a: Landorus|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641773280
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|43/100
+|
+|t:|1641773284
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from]move: U-turn
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|79/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by alt rave)
+|
+|t:|1641773339
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|6
+|
+|t:|1641773351
+|move|p2a: Dragapult|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|92/100
+|
+|t:|1641773355
+|switch|p2a: Landorus|Landorus-Therian, M|70/100|[from]move: U-turn
+|-damage|p2a: Landorus|57/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|move|p1a: Tornadus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|53/100
+|
+|t:|1641773363
+|switch|p1a: Blacephalon|Blacephalon|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|7
+|
+|t:|1641773368
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|42/100
+|
+|-heal|p2a: Heatran|48/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641773376
+|switch|p1a: Landorus|Landorus-Therian, M|43/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Landorus
+|-damage|p1a: Landorus|8/100
+|-activate|p1a: Landorus|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|55/100|[from] item: Leftovers
+|-heal|p1a: Landorus|14/100|[from] item: Leftovers
+|-damage|p1a: Landorus|2/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641773386
+|move|p2a: Heatran|Stealth Rock|p1a: Landorus
+|-sidestart|p1: pcord|move: Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|50/100
+|j| Blue Trane
+|
+|t:|1641773407
+|switch|p1a: Weavile|Weavile, M|100/100|[from]move: U-turn
+|-damage|p1a: Weavile|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Heatran|56/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641773415
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Weavile|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|61/100
+|-enditem|p2a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|
+|upkeep
+|turn|11
+|
+|t:|1641773422
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Tornadus
+|-damage|p1a: Tornadus|84/100
+|-heal|p2a: Tapu Fini|74/100|[from] drain|[of] p1a: Tornadus
+|
+|upkeep
+|turn|12
+|
+|t:|1641773434
+|switch|p2a: Landorus|Landorus-Therian, M|53/100
+|-damage|p2a: Landorus|40/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|move|p1a: Tornadus|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p2: alt rave|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|-sideend|p1: pcord|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|-fieldend|Misty Terrain
+|
+|upkeep
+|turn|13
+|
+|t:|1641773444
+|move|p1a: Tornadus|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|move|p2a: Landorus|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|50/100
+|-enditem|p1a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Landorus
+|
+|-damage|p2a: Landorus|34/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641773450
+|move|p1a: Tornadus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|30/100 tox
+|
+|t:|1641773457
+|switch|p1a: Landorus|Landorus-Therian, M|2/100|[from]move: U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|t:|1641773470
+|switch|p2a: Dragapult|Dragapult, F|79/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641773476
+|switch|p1a: Tornadus|Tornadus-Therian, M|84/100
+|turn|15
+|
+|t:|1641773484
+|move|p2a: Dragapult|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|74/100
+|
+|t:|1641773486
+|switch|p2a: Landorus|Landorus-Therian, M|30/100 tox|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|move|p1a: Tornadus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|25/100 tox
+|
+|t:|1641773501
+|switch|p1a: Ferrothorn|Ferrothorn, M|71/100|[from]move: U-turn
+|
+|-damage|p2a: Landorus|19/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641773510
+|move|p2a: Landorus|Earthquake|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|30/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Landorus
+|-sidestart|p2: alt rave|move: Stealth Rock
+|
+|-damage|p2a: Landorus|7/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641773514
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Landorus|Defog|p1a: Tornadus
+|-unboost|p1a: Tornadus|evasion|1
+|-sideend|p2: alt rave|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|
+|-damage|p2a: Landorus|0 fnt|[from] psn
+|faint|p2a: Landorus
+|upkeep
+|
+|t:|1641773517
+|switch|p2a: Weavile|Weavile, F|72/100
+|-ability|p2a: Weavile|Pressure
+|turn|18
+|
+|t:|1641773531
+|switch|p1a: Ferrothorn|Ferrothorn, M|30/100
+|move|p2a: Weavile|Triple Axel|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|24/100
+|-damage|p2a: Weavile|59/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-hitcount|p1a: Ferrothorn|1
+|
+|upkeep
+|turn|19
+|
+|t:|1641773540
+|move|p2a: Weavile|Low Kick|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Weavile|47/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641773548
+|switch|p1a: Weavile|Weavile, M|76/100
+|turn|20
+|
+|t:|1641773565
+|switch|p2a: Tapu Fini|Tapu Fini|74/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Weavile|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|57/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641773574
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|22
+|
+|t:|1641773582
+|move|p1a: Zapdos|Thunderbolt|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|10/100
+|move|p2a: Tapu Fini|Scald|p1a: Zapdos
+|-damage|p1a: Zapdos|57/100
+|-status|p1a: Zapdos|brn
+|
+|-damage|p1a: Zapdos|50/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641773591
+|move|p1a: Zapdos|Volt Switch|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|t:|1641773599
+|switch|p1a: Weavile|Weavile, M|76/100|[from]move: Volt Switch
+|
+|upkeep
+|inactive|alt rave has 120 seconds left.
+|
+|t:|1641773653
+|switch|p2a: Dragapult|Dragapult, F|79/100
+|turn|24
+|
+|t:|1641773656
+|move|p1a: Weavile|Ice Shard|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641773659
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|25
+|
+|t:|1641773675
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Tornadus
+|-damage|p1a: Tornadus|5/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641773678
+|move|p1a: Tornadus|U-turn|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|78/100
+|
+|t:|1641773680
+|switch|p1a: Weavile|Weavile, M|76/100|[from]move: U-turn
+|move|p2a: Tapu Lele|Psyshock|p1a: Weavile
+|-immune|p1a: Weavile
+|
+|upkeep
+|turn|27
+|
+|t:|1641773684
+|switch|p2a: Heatran|Heatran, M|56/100
+|move|p1a: Weavile|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-enditem|p2a: Heatran|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641773686
+|switch|p2a: Weavile|Weavile, F|47/100
+|-ability|p2a: Weavile|Pressure
+|turn|28
+|
+|t:|1641773690
+|move|p2a: Weavile|Low Kick|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|
+|t:|1641773699
+|switch|p1a: Zapdos|Zapdos|50/100 brn
+|turn|29
+|
+|t:|1641773728
+|move|p2a: Weavile|Triple Axel|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|25/100 brn
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-hitcount|p1: Zapdos|2
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|inactive|pcord has 120 seconds left.
+|inactive|pcord has 90 seconds left.
+|
+|t:|1641773787
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|30
+|c| Blue Trane|gg
+|c| Blue Trane|you can forfeit now
+|c| Blue Trane|alt rave
+|
+|t:|1641773801
+|move|p2a: Weavile|Knock Off|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|-enditem|p1a: Blacephalon|Choice Specs|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Blacephalon
+|
+|upkeep
+|
+|t:|1641773806
+|switch|p1a: Tornadus|Tornadus-Therian, M|38/100
+|turn|31
+|
+|t:|1641773809
+|move|p2a: Weavile|Knock Off|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|win|alt rave
+|raw|pcord's rating: 1696 &rarr; <strong>1662</strong><br />(-34 for losing)
+|raw|alt rave's rating: 1409 &rarr; <strong>1443</strong><br />(+34 for winning)
+|l|☆pcord

@@ -1,0 +1,338 @@
+|j|☆kyysg
+|j|☆3xpired
+|t:|1641792912
+|gametype|singles
+|player|p1|kyysg|101|1648
+|player|p2|3xpired|dahlia|1719
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Kartana|
+|poke|p1|Tapu Koko|
+|poke|p1|Garchomp, M|
+|poke|p1|Hawlucha, M|
+|poke|p1|Kommo-o, M|
+|poke|p2|Pelipper, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Zapdos|
+|poke|p2|Seismitoad, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Kingdra, F|
+|teampreview
+|
+|t:|1641792920
+|start
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|100/100
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641792926
+|switch|p2a: Seismitoad|Seismitoad, M|100/100
+|move|p1a: Tapu Koko|Light Screen|p1a: Tapu Koko
+|-sidestart|p1: kyysg|move: Light Screen
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641792933
+|move|p2a: Seismitoad|Liquidation|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|14/100
+|-damage|p2a: Seismitoad|91/100|[from] item: Life Orb
+|move|p1a: Tapu Koko|Reflect|p1a: Tapu Koko
+|-sidestart|p1: kyysg|Reflect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641792939
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Electric Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p2a: Seismitoad|Stealth Rock|p1a: Hawlucha
+|-sidestart|p1: kyysg|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kyysg)
+|
+|t:|1641792945
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|j| BabyPigsAreLaughin
+|
+|t:|1641792950
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Zapdos|Thunder|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|20/100
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|j| Kyurem
+|
+|t:|1641792954
+|move|p1a: Hawlucha|Acrobatics|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|19/100
+|-status|p1a: Hawlucha|par|[from] ability: Static|[of] p2a: Zapdos
+|move|p2a: Zapdos|Thunder|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641792958
+|switch|p1a: Kartana|Kartana|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641792970
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Kartana|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|82/100
+|-damage|p1a: Kartana|82/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641792975
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|-weather|none
+|-sideend|p1: kyysg|move: Light Screen
+|upkeep
+|turn|9
+|j| AndreThaGiiant
+|
+|t:|1641792983
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Kartana|Sacred Sword|p2a: Pelipper
+|-resisted|p2a: Pelipper
+|-crit|p2a: Pelipper
+|-damage|p2a: Pelipper|67/100
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p1: kyysg|Reflect
+|upkeep
+|turn|10
+|
+|t:|1641792992
+|switch|p2a: Ferrothorn|Ferrothorn, F|82/100
+|move|p1a: Kartana|Leaf Blade|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|70/100
+|-damage|p1a: Kartana|69/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|j| fruityiscool423
+|j| Blareglare
+|
+|t:|1641793010
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Kartana|Sacred Sword|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|55/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641793018
+|move|p2a: Tapu Koko|Thunder|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641793022
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641793026
+|move|p2a: Tapu Koko|Dazzling Gleam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|17/100
+|move|p1a: Garchomp|Earthquake|p2a: Tapu Koko
+|-supereffective|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|l| Blareglare
+|
+|t:|1641793035
+|switch|p2a: Seismitoad|Seismitoad, M|91/100
+|turn|14
+|
+|t:|1641793040
+|move|p2a: Seismitoad|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|-damage|p2a: Seismitoad|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641793043
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|-damage|p1a: Kommo-o|94/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641793046
+|move|p2a: Seismitoad|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|37/100
+|-damage|p2a: Seismitoad|71/100|[from] item: Life Orb
+|move|p1a: Kommo-o|Drain Punch|p2a: Seismitoad
+|-damage|p2a: Seismitoad|30/100
+|-heal|p1a: Kommo-o|61/100|[from] drain|[of] p2a: Seismitoad
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|16
+|
+|t:|1641793056
+|move|p2a: Seismitoad|Earthquake|p1a: Kommo-o
+|-damage|p1a: Kommo-o|6/100
+|-enditem|p1a: Kommo-o|Salac Berry|[eat]
+|-boost|p1a: Kommo-o|spe|1|[from] item: Salac Berry
+|-damage|p2a: Seismitoad|20/100|[from] item: Life Orb
+|move|p1a: Kommo-o|Drain Punch|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|-heal|p1a: Kommo-o|18/100|[from] drain|[of] p2a: Seismitoad
+|faint|p2a: Seismitoad
+|
+|-weather|none
+|upkeep
+|
+|t:|1641793063
+|switch|p2a: Pelipper|Pelipper, M|67/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|17
+|
+|t:|1641793065
+|move|p1a: Kommo-o|Thunder Punch|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|3/100
+|move|p2a: Pelipper|Hurricane|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-damage|p1a: Kommo-o|0 fnt
+|faint|p1a: Kommo-o
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|j| CoreyTrevorSmokes
+|
+|t:|1641793070
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|14/100
+|-damage|p1a: Tapu Koko|2/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|18
+|
+|t:|1641793073
+|move|p1a: Tapu Koko|Light Screen|p1a: Tapu Koko
+|-sidestart|p1: kyysg|move: Light Screen
+|move|p2a: Pelipper|U-turn|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|t:|1641793078
+|switch|p2a: Ferrothorn|Ferrothorn, F|70/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641793081
+|switch|p1a: Mew|Mew|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641793084
+|move|p1a: Mew|Taunt|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|move: Taunt
+|cant|p2a: Ferrothorn|move: Taunt|Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Mew|94/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641793086
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Mew
+|-damage|p1a: Mew|67/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Mew|73/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641793095
+|switch|p2a: Zapdos|Zapdos|19/100
+|move|p1a: Mew|Cosmic Power|p1a: Mew
+|-boost|p1a: Mew|def|1
+|-boost|p1a: Mew|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Mew|79/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641793099
+|move|p1a: Mew|Stored Power|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Mew|85/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|-message|3xpired forfeited.
+|
+|win|kyysg
+|raw|kyysg's rating: 1648 &rarr; <strong>1672</strong><br />(+24 for winning)
+|raw|3xpired's rating: 1719 &rarr; <strong>1695</strong><br />(-24 for losing)
+|l|☆3xpired
+|l| CoreyTrevorSmokes

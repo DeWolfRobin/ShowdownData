@@ -1,0 +1,191 @@
+|j|☆Pricejvl
+|j|☆Myrrhe
+|t:|1641744061
+|gametype|singles
+|player|p1|Pricejvl|policeman|1295
+|player|p2|Myrrhe|giovanni|1241
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Zapdos-Galar|
+|poke|p1|Toxapex, M|
+|poke|p1|Bisharp, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Chandelure, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Zeraora|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Heatran, M|
+|teampreview
+|
+|t:|1641744072
+|start
+|switch|p1a: Chandelure|Chandelure, F|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|
+|t:|1641744117
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|move|p2a: Dragapult|Shadow Ball|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|74/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641744131
+|switch|p2a: Zeraora|Zeraora|100/100
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641744140
+|move|p1a: Bisharp|Sucker Punch|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|-damage|p1a: Bisharp|64/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641744149
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|4
+|
+|t:|1641744155
+|move|p1a: Bisharp|Sucker Punch|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|51/100
+|-damage|p1a: Bisharp|54/100|[from] item: Life Orb
+|move|p2a: Urshifu|Surging Strikes|p1a: Bisharp
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|19/100
+|-crit|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|-hitcount|p1: Bisharp|2
+|-damage|p2a: Urshifu|41/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641744161
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|turn|5
+|
+|t:|1641744174
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|-ability|p1a: Zapdos|Defiant
+|-boost|p1a: Zapdos|atk|2
+|move|p1a: Zapdos|Brave Bird|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-damage|p1a: Zapdos|67/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641744188
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|6
+|
+|t:|1641744198
+|move|p2a: Dragapult|Shadow Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|25/100
+|move|p1a: Zapdos|Brave Bird|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-damage|p1a: Zapdos|0 fnt|[from] Recoil
+|faint|p1a: Zapdos
+|
+|upkeep
+|
+|t:|1641744210
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p1a: Mew|Mew|100/100
+|turn|7
+|
+|t:|1641744217
+|move|p1a: Mew|Taunt|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|move: Taunt
+|move|p2a: Ferrothorn|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|65/100
+|-enditem|p1a: Mew|Focus Sash|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|8
+|
+|t:|1641744227
+|move|p1a: Mew|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: Myrrhe|move: Stealth Rock
+|move|p2a: Ferrothorn|Power Whip|p1a: Mew
+|-damage|p1a: Mew|34/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641744236
+|move|p1a: Mew|Spikes|p2a: Ferrothorn
+|-sidestart|p2: Myrrhe|Spikes
+|move|p2a: Ferrothorn|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|11/100
+|
+|-end|p2a: Ferrothorn|move: Taunt
+|upkeep
+|turn|10
+|
+|t:|1641744244
+|move|p1a: Mew|Spikes|p2a: Ferrothorn
+|-sidestart|p2: Myrrhe|Spikes
+|move|p2a: Ferrothorn|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|upkeep
+|
+|t:|1641744253
+|switch|p1a: Chandelure|Chandelure, F|100/100
+|turn|11
+|
+|t:|1641744257
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|-damage|p2a: Heatran|72/100|[from] Spikes
+|move|p1a: Chandelure|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|5/100
+|-unboost|p2a: Heatran|spd|1
+|
+|-heal|p2a: Heatran|11/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641744270
+|move|p1a: Chandelure|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|-message|Myrrhe forfeited.
+|
+|win|Pricejvl
+|raw|Pricejvl's rating: 1295 &rarr; <strong>1316</strong><br />(+21 for winning)
+|raw|Myrrhe's rating: 1241 &rarr; <strong>1220</strong><br />(-21 for losing)
+|l|☆Myrrhe
+|c|☆Pricejvl|Gg

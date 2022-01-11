@@ -1,0 +1,672 @@
+|j|☆Flailinks
+|j|☆SumStarGum
+|t:|1641756563
+|gametype|singles
+|player|p1|Flailinks|101|1083
+|player|p2|SumStarGum|169|1055
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Reuniclus, M|
+|poke|p1|Bronzong|
+|poke|p1|Comfey, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Runerigus, M|
+|poke|p2|Excadrill, F|
+|poke|p2|Snorlax, F|
+|poke|p2|Gyarados, M|
+|poke|p2|Mimikyu, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Mew|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Flailinks)
+|
+|t:|1641756568
+|start
+|switch|p1a: Crunchwrap|Bronzong|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|
+|t:|1641756574
+|move|p2a: Mew|Taunt|p1a: Crunchwrap
+|-start|p1a: Crunchwrap|move: Taunt
+|cant|p1a: Crunchwrap|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641756581
+|move|p2a: Mew|Stealth Rock|p1a: Crunchwrap
+|-sidestart|p1: Flailinks|move: Stealth Rock
+|move|p1a: Crunchwrap|Gyro Ball|p2a: Mew
+|-damage|p2a: Mew|54/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641756586
+|move|p2a: Mew|Spikes|p1a: Crunchwrap
+|-sidestart|p1: Flailinks|Spikes
+|move|p1a: Crunchwrap|Gyro Ball|p2a: Mew
+|-damage|p2a: Mew|7/100
+|
+|-end|p1a: Crunchwrap|move: Taunt
+|upkeep
+|turn|4
+|
+|t:|1641756594
+|move|p2a: Mew|Taunt|p1a: Crunchwrap
+|-start|p1a: Crunchwrap|move: Taunt
+|move|p1a: Crunchwrap|Gyro Ball|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|upkeep
+|
+|t:|1641756601
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|turn|5
+|
+|t:|1641756609
+|switch|p1a: the GOOD China|Runerigus, M|100/100
+|-damage|p1a: the GOOD China|94/100|[from] Stealth Rock
+|-damage|p1a: the GOOD China|82/100|[from] Spikes
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|
+|upkeep
+|turn|6
+|
+|t:|1641756616
+|move|p2a: Gyarados|Hydro Pump|p1a: the GOOD China|[miss]
+|-miss|p2a: Gyarados|p1a: the GOOD China
+|move|p1a: the GOOD China|Trick Room|p1a: the GOOD China
+|-fieldstart|move: Trick Room|[of] p1a: the GOOD China
+|
+|upkeep
+|turn|7
+|
+|t:|1641756621
+|move|p1a: the GOOD China|Poltergeist|p2a: Gyarados
+|-activate|p2a: Gyarados|move: Poltergeist|Life Orb
+|-damage|p2a: Gyarados|49/100
+|move|p2a: Gyarados|Hydro Pump|p1a: the GOOD China
+|-supereffective|p1a: the GOOD China
+|-damage|p1a: the GOOD China|9/100
+|-enditem|p1a: the GOOD China|Weakness Policy
+|-boost|p1a: the GOOD China|atk|2|[from] item: Weakness Policy
+|-boost|p1a: the GOOD China|spa|2|[from] item: Weakness Policy
+|-damage|p2a: Gyarados|39/100|[from] item: Life Orb
+|
+|upkeep
+|turn|8
+|
+|t:|1641756630
+|move|p1a: the GOOD China|Destiny Bond|p1a: the GOOD China
+|-singlemove|p1a: the GOOD China|Destiny Bond
+|move|p2a: Gyarados|Hydro Pump|p1a: the GOOD China
+|-supereffective|p1a: the GOOD China
+|-damage|p1a: the GOOD China|0 fnt
+|faint|p1a: the GOOD China
+|-activate|p1a: the GOOD China|move: Destiny Bond
+|faint|p2a: Gyarados
+|
+|upkeep
+|
+|t:|1641756641
+|switch|p1a: Sacred|Volcarona, M|100/100
+|switch|p2a: Snorlax|Snorlax, F|100/100
+|turn|9
+|
+|t:|1641756646
+|move|p2a: Snorlax|Curse|p2a: Snorlax
+|-unboost|p2a: Snorlax|spe|1
+|-boost|p2a: Snorlax|atk|1
+|-boost|p2a: Snorlax|def|1
+|move|p1a: Sacred|Quiver Dance|p1a: Sacred
+|-boost|p1a: Sacred|spa|1
+|-boost|p1a: Sacred|spd|1
+|-boost|p1a: Sacred|spe|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641756653
+|move|p2a: Snorlax|Body Press|p1a: Sacred
+|-resisted|p1a: Sacred
+|-damage|p1a: Sacred|76/100
+|move|p1a: Sacred|Quiver Dance|p1a: Sacred
+|-boost|p1a: Sacred|spa|1
+|-boost|p1a: Sacred|spd|1
+|-boost|p1a: Sacred|spe|1
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|11
+|
+|t:|1641756661
+|move|p1a: Sacred|Fiery Dance|p2a: Snorlax
+|-damage|p2a: Snorlax|73/100
+|move|p2a: Snorlax|Body Press|p1a: Sacred
+|-resisted|p1a: Sacred
+|-damage|p1a: Sacred|52/100
+|
+|-heal|p2a: Snorlax|79/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641756668
+|move|p1a: Sacred|Roost|p1a: Sacred
+|-heal|p1a: Sacred|100/100
+|-singleturn|p1a: Sacred|move: Roost
+|move|p2a: Snorlax|Body Press|p1a: Sacred
+|-resisted|p1a: Sacred
+|-damage|p1a: Sacred|78/100
+|
+|-heal|p2a: Snorlax|85/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641756676
+|move|p1a: Sacred|Quiver Dance|p1a: Sacred
+|-boost|p1a: Sacred|spa|1
+|-boost|p1a: Sacred|spd|1
+|-boost|p1a: Sacred|spe|1
+|move|p2a: Snorlax|Body Press|p1a: Sacred
+|-resisted|p1a: Sacred
+|-damage|p1a: Sacred|55/100
+|-status|p2a: Snorlax|brn|[from] ability: Flame Body|[of] p1a: Sacred
+|
+|-heal|p2a: Snorlax|91/100 brn|[from] item: Leftovers
+|-damage|p2a: Snorlax|85/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641756686
+|move|p1a: Sacred|Roost|p1a: Sacred
+|-heal|p1a: Sacred|100/100
+|-singleturn|p1a: Sacred|move: Roost
+|move|p2a: Snorlax|Body Press|p1a: Sacred
+|-resisted|p1a: Sacred
+|-damage|p1a: Sacred|89/100
+|
+|-heal|p2a: Snorlax|91/100 brn|[from] item: Leftovers
+|-damage|p2a: Snorlax|85/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641756695
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|move|p1a: Sacred|Quiver Dance|p1a: Sacred
+|-boost|p1a: Sacred|spa|1
+|-boost|p1a: Sacred|spd|1
+|-boost|p1a: Sacred|spe|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641756703
+|move|p1a: Sacred|Bug Buzz|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|42/100
+|-enditem|p2a: Toxapex|Red Card|[of] p1a: Sacred
+|drag|p1a: Crunchwrap|Bronzong|100/100
+|-damage|p1a: Crunchwrap|94/100|[from] Stealth Rock
+|-damage|p1a: Crunchwrap|82/100|[from] Spikes
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|17
+|
+|t:|1641756723
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|92/100
+|move|p1a: Crunchwrap|Stealth Rock|p2a: Toxapex
+|-sidestart|p2: SumStarGum|move: Stealth Rock
+|
+|upkeep
+|turn|18
+|
+|t:|1641756730
+|switch|p1a: Toxaflex|Toxapex, M, shiny|100/100
+|-damage|p1a: Toxaflex|88/100|[from] Stealth Rock
+|-damage|p1a: Toxaflex|76/100|[from] Spikes
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|63/100
+|-enditem|p1a: Toxaflex|Choice Band|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|19
+|
+|t:|1641756739
+|move|p2a: Toxapex|Toxic Spikes|p1a: Toxaflex
+|-sidestart|p1: Flailinks|move: Toxic Spikes
+|move|p1a: Toxaflex|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|82/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641756744
+|move|p2a: Toxapex|Toxic Spikes|p1a: Toxaflex
+|-sidestart|p1: Flailinks|move: Toxic Spikes
+|move|p1a: Toxaflex|Toxic Spikes|p2a: Toxapex
+|-sidestart|p2: SumStarGum|move: Toxic Spikes
+|
+|upkeep
+|turn|21
+|
+|t:|1641756751
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|54/100
+|move|p1a: Toxaflex|Toxic Spikes|p2a: Toxapex
+|-sidestart|p2: SumStarGum|move: Toxic Spikes
+|
+|upkeep
+|turn|22
+|
+|t:|1641756760
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|45/100
+|move|p1a: Toxaflex|Liquidation|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|73/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641756767
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|35/100
+|move|p1a: Toxaflex|Liquidation|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|63/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641756772
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|25/100
+|move|p1a: Toxaflex|Liquidation|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|53/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641756779
+|switch|p1a: Crunchwrap|Bronzong|82/100
+|-damage|p1a: Crunchwrap|76/100|[from] Stealth Rock
+|-damage|p1a: Crunchwrap|63/100|[from] Spikes
+|move|p2a: Toxapex|Knock Off|p1a: Crunchwrap
+|-supereffective|p1a: Crunchwrap
+|-crit|p1a: Crunchwrap
+|-damage|p1a: Crunchwrap|15/100
+|-enditem|p1a: Crunchwrap|Custap Berry|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|upkeep
+|turn|26
+|
+|t:|1641756788
+|move|p2a: Toxapex|Knock Off|p1a: Crunchwrap
+|-supereffective|p1a: Crunchwrap
+|-damage|p1a: Crunchwrap|0 fnt
+|faint|p1a: Crunchwrap
+|
+|upkeep
+|
+|t:|1641756793
+|switch|p1a: Toxaflex|Toxapex, M, shiny|58/100
+|-sideend|p1: Flailinks|move: Toxic Spikes|[of] p1a: Toxaflex
+|-damage|p1a: Toxaflex|46/100|[from] Spikes
+|-damage|p1a: Toxaflex|34/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1641756798
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|25/100
+|move|p1a: Toxaflex|Gunk Shot|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|33/100
+|
+|upkeep
+|turn|28
+|
+|t:|1641756804
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|16/100
+|move|p1a: Toxaflex|Gunk Shot|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|19/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641756809
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|7/100
+|move|p1a: Toxaflex|Gunk Shot|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|7/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641756815
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|57/100
+|move|p1a: Toxaflex|Liquidation|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|48/100
+|
+|upkeep
+|turn|31
+|
+|t:|1641756821
+|move|p2a: Toxapex|Knock Off|p1a: Toxaflex
+|-damage|p1a: Toxaflex|0 fnt
+|faint|p1a: Toxaflex
+|
+|upkeep
+|
+|t:|1641756825
+|switch|p1a: Plasma|Reuniclus, M, shiny|100/100
+|turn|32
+|
+|t:|1641756830
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|76/100
+|-enditem|p1a: Plasma|Weakness Policy
+|-boost|p1a: Plasma|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Plasma|spa|2|[from] item: Weakness Policy
+|move|p1a: Plasma|Acid Armor|p1a: Plasma
+|-boost|p1a: Plasma|def|2
+|
+|upkeep
+|turn|33
+|
+|t:|1641756837
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|move|p1a: Plasma|Calm Mind|p1a: Plasma
+|-boost|p1a: Plasma|spa|1
+|-boost|p1a: Plasma|spd|1
+|
+|upkeep
+|turn|34
+|
+|t:|1641756843
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|move|p1a: Plasma|Stored Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|34/100
+|
+|upkeep
+|turn|35
+|
+|t:|1641756850
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|61/100
+|move|p1a: Plasma|Recover|p1a: Plasma
+|-heal|p1a: Plasma|100/100
+|
+|upkeep
+|turn|36
+|
+|t:|1641756856
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|84/100
+|move|p1a: Plasma|Stored Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|21/100
+|
+|upkeep
+|turn|37
+|
+|t:|1641756862
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|68/100
+|move|p1a: Plasma|Stored Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|6/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641756869
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|56/100
+|move|p1a: Plasma|Recover|p1a: Plasma
+|-heal|p1a: Plasma|100/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641756875
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|84/100
+|move|p1a: Plasma|Stored Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|42/100
+|
+|upkeep
+|turn|40
+|
+|t:|1641756891
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|67/100
+|move|p1a: Plasma|Stored Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|26/100
+|
+|upkeep
+|turn|41
+|
+|t:|1641756898
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|52/100
+|move|p1a: Plasma|Stored Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|12/100
+|
+|upkeep
+|turn|42
+|
+|t:|1641756904
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|36/100
+|move|p1a: Plasma|Recover|p1a: Plasma
+|-heal|p1a: Plasma|86/100
+|
+|upkeep
+|turn|43
+|
+|t:|1641756910
+|move|p2a: Toxapex|Knock Off|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|70/100
+|move|p1a: Plasma|Stored Power|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641756917
+|switch|p2a: Mimikyu|Mimikyu, M|100/100
+|-damage|p2a: Mimikyu|88/100|[from] Stealth Rock
+|-status|p2a: Mimikyu|tox
+|turn|44
+|
+|t:|1641756930
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Plasma|Stored Power|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|88/100 tox
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, M
+|-damage|p2a: Mimikyu|76/100 tox|[from] pokemon: Mimikyu-Busted
+|
+|-damage|p2a: Mimikyu|70/100 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1641756939
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|22/100
+|move|p1a: Plasma|Acid Armor|p1a: Plasma
+|-boost|p1a: Plasma|def|2
+|
+|-damage|p2a: Mimikyu|58/100 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1641756946
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Plasma
+|-supereffective|p1a: Plasma
+|-damage|p1a: Plasma|0 fnt
+|faint|p1a: Plasma
+|
+|-damage|p2a: Mimikyu|40/100 tox|[from] psn
+|upkeep
+|
+|t:|1641756952
+|switch|p1a: Slay|Comfey, F, shiny|100/100
+|-damage|p1a: Slay|88/100|[from] Spikes
+|-damage|p1a: Slay|76/100|[from] Stealth Rock
+|turn|47
+|
+|t:|1641756956
+|move|p1a: Slay|Draining Kiss|p2a: Mimikyu
+|-damage|p2a: Mimikyu|14/100 tox
+|-heal|p1a: Slay|100/100|[from] drain|[of] p2a: Mimikyu
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Slay
+|-damage|p1a: Slay|62/100
+|
+|-damage|p2a: Mimikyu|0 fnt|[from] psn
+|faint|p2a: Mimikyu
+|upkeep
+|
+|t:|1641756967
+|switch|p2a: Snorlax|Snorlax, F|85/100 brn
+|-damage|p2a: Snorlax|73/100 brn|[from] Stealth Rock
+|turn|48
+|
+|t:|1641756976
+|move|p1a: Slay|Calm Mind|p1a: Slay
+|-boost|p1a: Slay|spa|1
+|-boost|p1a: Slay|spd|1
+|move|p2a: Snorlax|Body Press|p1a: Slay
+|-resisted|p1a: Slay
+|-damage|p1a: Slay|56/100
+|
+|-heal|p2a: Snorlax|79/100 brn|[from] item: Leftovers
+|-damage|p2a: Snorlax|73/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1641756985
+|move|p1a: Slay|Calm Mind|p1a: Slay
+|-boost|p1a: Slay|spa|1
+|-boost|p1a: Slay|spd|1
+|move|p2a: Snorlax|Body Press|p1a: Slay
+|-resisted|p1a: Slay
+|-damage|p1a: Slay|49/100
+|
+|-heal|p2a: Snorlax|79/100 brn|[from] item: Leftovers
+|-damage|p2a: Snorlax|73/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1641756994
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Slay|Calm Mind|p1a: Slay
+|-boost|p1a: Slay|spa|1
+|-boost|p1a: Slay|spd|1
+|
+|-heal|p2a: Excadrill|100/100|[from] item: Leftovers
+|upkeep
+|turn|51
+|
+|t:|1641757005
+|move|p1a: Slay|Giga Drain|p2a: Excadrill
+|-damage|p2a: Excadrill|25/100
+|-heal|p1a: Slay|100/100|[from] drain|[of] p2a: Excadrill
+|move|p2a: Excadrill|Iron Head|p1a: Slay
+|-supereffective|p1a: Slay
+|-damage|p1a: Slay|0 fnt
+|faint|p1a: Slay
+|
+|-heal|p2a: Excadrill|31/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641757008
+|switch|p1a: Sacred|Volcarona, M|89/100
+|turn|52
+|
+|t:|1641757018
+|move|p1a: Sacred|Fiery Dance|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|-boost|p1a: Sacred|spa|1
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1641757024
+|switch|p2a: Snorlax|Snorlax, F|73/100 brn
+|-damage|p2a: Snorlax|60/100 brn|[from] Stealth Rock
+|turn|53
+|
+|t:|1641757028
+|move|p1a: Sacred|Bug Buzz|p2a: Snorlax
+|-damage|p2a: Snorlax|17/100 brn
+|-unboost|p2a: Snorlax|spd|1
+|move|p2a: Snorlax|Body Press|p1a: Sacred
+|-resisted|p1a: Sacred
+|-damage|p1a: Sacred|82/100
+|
+|-heal|p2a: Snorlax|23/100 brn|[from] item: Leftovers
+|-damage|p2a: Snorlax|17/100 brn|[from] brn
+|upkeep
+|turn|54
+|
+|t:|1641757037
+|move|p1a: Sacred|Bug Buzz|p2a: Snorlax
+|-damage|p2a: Snorlax|0 fnt
+|faint|p2a: Snorlax
+|
+|win|Flailinks
+|raw|Flailinks's rating: 1083 &rarr; <strong>1108</strong><br />(+25 for winning)
+|raw|SumStarGum's rating: 1055 &rarr; <strong>1038</strong><br />(-17 for losing)
+|c|☆SumStarGum|GG
+|l|☆SumStarGum
+|c|☆Flailinks|gg
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

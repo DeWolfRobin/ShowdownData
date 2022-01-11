@@ -1,0 +1,283 @@
+|j|☆jaopadaria
+|j|☆di3go3012
+|t:|1641820833
+|gametype|singles
+|player|p1|jaopadaria|gambler|1000
+|player|p2|di3go3012|170|1041
+|teamsize|p1|4
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, F|
+|poke|p1|Azumarill, F|
+|poke|p1|Snorlax, M|
+|poke|p1|Klefki, F|
+|poke|p2|Escavalier, F|
+|poke|p2|Azelf|
+|poke|p2|Lurantis, M|
+|poke|p2|Spiritomb, M|
+|poke|p2|Carbink|
+|poke|p2|Luxray, F|
+|teampreview
+|
+|t:|1641820842
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Azelf|Azelf, shiny|100/100
+|turn|1
+|
+|t:|1641820850
+|move|p2a: Azelf|Trick|p1a: Garchomp
+|-activate|p2a: Azelf|move: Trick|[of] p1a: Garchomp
+|-item|p1a: Garchomp|Choice Scarf|[from] move: Trick
+|-item|p2a: Azelf|Leftovers|[from] move: Trick
+|move|p1a: Garchomp|Stealth Rock|p2a: Azelf
+|-sidestart|p2: di3go3012|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641820857
+|switch|p1a: Klefki|Klefki, F|100/100
+|move|p2a: Azelf|Stealth Rock|p1a: Klefki
+|-sidestart|p1: jaopadaria|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641820872
+|switch|p2a: Luxray|Luxray, F|100/100
+|-damage|p2a: Luxray|88/100|[from] Stealth Rock
+|move|p1a: Klefki|Light Screen|p1a: Klefki
+|-sidestart|p1: jaopadaria|move: Light Screen
+|
+|-status|p2a: Luxray|brn|[from] item: Flame Orb
+|upkeep
+|turn|4
+|
+|t:|1641820881
+|move|p1a: Klefki|Reflect|p1a: Klefki
+|-sidestart|p1: jaopadaria|Reflect
+|move|p2a: Luxray|Fire Fang|p1a: Klefki
+|-supereffective|p1a: Klefki
+|-damage|p1a: Klefki|67/100
+|
+|-heal|p1a: Klefki|73/100|[from] item: Leftovers
+|-damage|p2a: Luxray|82/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641820891
+|switch|p1a: Snorlax|Snorlax, M, shiny|100/100
+|-damage|p1a: Snorlax|88/100|[from] Stealth Rock
+|move|p2a: Luxray|Volt Switch|p1a: Snorlax
+|-damage|p1a: Snorlax|83/100
+|
+|t:|1641820897
+|switch|p2a: Carbink|Carbink, shiny|100/100|[from]move: Volt Switch
+|-damage|p2a: Carbink|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Snorlax|89/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641820903
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|move|p2a: Carbink|Trick Room|p2a: Carbink
+|-fieldstart|move: Trick Room|[of] p2a: Carbink
+|
+|-heal|p1a: Snorlax|95/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641820911
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|move|p2a: Carbink|Toxic|p1a: Snorlax
+|-status|p1a: Snorlax|tox
+|
+|-heal|p1a: Snorlax|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Snorlax|94/100 tox|[from] psn
+|-sideend|p1: jaopadaria|move: Light Screen
+|upkeep
+|turn|8
+|c|☆jaopadaria|thanks
+|
+|t:|1641820922
+|switch|p2a: Spiritomb|Spiritomb, M|100/100
+|-damage|p2a: Spiritomb|88/100|[from] Stealth Rock
+|move|p1a: Snorlax|Curse|p1a: Snorlax
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|-heal|p1a: Snorlax|100/100 tox|[from] item: Leftovers
+|-heal|p2a: Spiritomb|94/100|[from] item: Leftovers
+|-damage|p1a: Snorlax|88/100 tox|[from] psn
+|-sideend|p1: jaopadaria|Reflect
+|upkeep
+|turn|9
+|
+|t:|1641820945
+|move|p2a: Spiritomb|Sucker Punch|p1a: Snorlax
+|-damage|p1a: Snorlax|81/100 tox
+|move|p1a: Snorlax|Darkest Lariat|p2a: Spiritomb
+|-damage|p2a: Spiritomb|41/100
+|
+|-heal|p1a: Snorlax|87/100 tox|[from] item: Leftovers
+|-heal|p2a: Spiritomb|48/100|[from] item: Leftovers
+|-damage|p1a: Snorlax|69/100 tox|[from] psn
+|upkeep
+|turn|10
+|c|☆jaopadaria|I'm going to take this toxic, it's annoying ok?
+|
+|t:|1641820978
+|switch|p2a: Carbink|Carbink, shiny|88/100
+|-damage|p2a: Carbink|76/100|[from] Stealth Rock
+|move|p1a: Snorlax|Rest|p1a: Snorlax
+|-status|p1a: Snorlax|slp|[from] move: Rest
+|-heal|p1a: Snorlax|100/100 slp|[silent]
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|11
+|
+|t:|1641820990
+|cant|p1a: Snorlax|slp
+|move|p1a: Snorlax|Sleep Talk|p1a: Snorlax
+|move|p1a: Snorlax|Rest||[from]move: Sleep Talk|[still]
+|-fail|p1a: Snorlax
+|move|p2a: Carbink|Trick Room|p2a: Carbink
+|-fieldstart|move: Trick Room|[of] p2a: Carbink
+|
+|upkeep
+|turn|12
+|
+|t:|1641820996
+|switch|p2a: Lurantis|Lurantis, M|100/100
+|-damage|p2a: Lurantis|88/100|[from] Stealth Rock
+|cant|p1a: Snorlax|slp
+|move|p1a: Snorlax|Sleep Talk|p1a: Snorlax
+|move|p1a: Snorlax|Curse|p1a: Snorlax|[from]move: Sleep Talk
+|-unboost|p1a: Snorlax|spe|1
+|-boost|p1a: Snorlax|atk|1
+|-boost|p1a: Snorlax|def|1
+|
+|upkeep
+|turn|13
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by di3go3012)
+|c|☆jaopadaria|trick room will not work because my pokemon slows down
+|
+|t:|1641821040
+|-curestatus|p1a: Snorlax|slp|[msg]
+|move|p1a: Snorlax|Darkest Lariat|p2a: Lurantis
+|-damage|p2a: Lurantis|7/100
+|move|p2a: Lurantis|Superpower|p1a: Snorlax
+|-supereffective|p1a: Snorlax
+|-damage|p1a: Snorlax|75/100
+|-boost|p2a: Lurantis|atk|1
+|-boost|p2a: Lurantis|def|1
+|-damage|p2a: Lurantis|0 fnt|[from] item: Life Orb
+|faint|p2a: Lurantis
+|
+|-heal|p1a: Snorlax|81/100|[from] item: Leftovers
+|upkeep
+|n|☆di3go3012|di3go3012
+|c|☆jaopadaria|snorlax ssj
+|
+|t:|1641821064
+|switch|p2a: Spiritomb|Spiritomb, M|48/100
+|-damage|p2a: Spiritomb|35/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641821074
+|move|p2a: Spiritomb|Sucker Punch|p1a: Snorlax
+|-damage|p1a: Snorlax|75/100
+|move|p1a: Snorlax|Darkest Lariat|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|
+|-heal|p1a: Snorlax|81/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641821085
+|switch|p2a: Azelf|Azelf, shiny|100/100
+|-damage|p2a: Azelf|88/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641821092
+|move|p1a: Snorlax|Darkest Lariat|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|-heal|p1a: Snorlax|88/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641821103
+|switch|p2a: Luxray|Luxray, F|82/100 brn
+|-damage|p2a: Luxray|70/100 brn|[from] Stealth Rock
+|turn|16
+|
+|t:|1641821110
+|move|p2a: Luxray|Fire Fang|p1a: Snorlax
+|-damage|p1a: Snorlax|83/100
+|move|p1a: Snorlax|Darkest Lariat|p2a: Luxray
+|-damage|p2a: Luxray|0 fnt
+|faint|p2a: Luxray
+|
+|-heal|p1a: Snorlax|89/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641821118
+|switch|p2a: Carbink|Carbink, shiny|76/100
+|-damage|p2a: Carbink|63/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641821139
+|move|p2a: Carbink|Dazzling Gleam|p1a: Snorlax
+|-damage|p1a: Snorlax|82/100
+|move|p1a: Snorlax|Darkest Lariat|p2a: Carbink
+|-resisted|p2a: Carbink
+|-damage|p2a: Carbink|41/100
+|-damage|p1a: Snorlax|65/100|[from] item: Rocky Helmet|[of] p2a: Carbink
+|
+|-heal|p1a: Snorlax|71/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641821160
+|move|p2a: Carbink|Dazzling Gleam|p1a: Snorlax
+|-damage|p1a: Snorlax|63/100
+|move|p1a: Snorlax|Darkest Lariat|p2a: Carbink
+|-resisted|p2a: Carbink
+|-damage|p2a: Carbink|15/100
+|-damage|p1a: Snorlax|47/100|[from] item: Rocky Helmet|[of] p2a: Carbink
+|
+|-heal|p1a: Snorlax|53/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|inactive|di3go3012 has 120 seconds left.
+|inactive|di3go3012 has 90 seconds left.
+|-message|di3go3012 forfeited.
+|
+|win|jaopadaria
+|raw|jaopadaria's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)
+|raw|di3go3012's rating: 1041 &rarr; <strong>1023</strong><br />(-18 for losing)
+|l|☆di3go3012
+|c|☆jaopadaria|run little kid

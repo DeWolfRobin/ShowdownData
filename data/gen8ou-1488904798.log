@@ -1,0 +1,617 @@
+|j|☆tyrtr123
+|j|☆Jleon23
+|t:|1641835068
+|gametype|singles
+|player|p1|tyrtr123|266|1316
+|player|p2|Jleon23|266|1328
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mienshao, M|
+|poke|p1|Heatran, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Hippowdon, M|
+|poke|p1|Excadrill, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Scizor, F|
+|poke|p2|Kartana|
+|poke|p2|Gardevoir, F|
+|poke|p2|Tapu Fini|
+|teampreview
+|
+|t:|1641835086
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: May Springs|Scizor, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641835097
+|move|p2a: May Springs|Knock Off|p1a: Hippowdon
+|-damage|p1a: Hippowdon|81/100
+|-enditem|p1a: Hippowdon|Smooth Rock|[from] move: Knock Off|[of] p2a: May Springs
+|move|p1a: Hippowdon|Stealth Rock|p2a: May Springs
+|-sidestart|p2: Jleon23|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641835123
+|move|p2a: May Springs|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|61/100
+|
+|t:|1641835142
+|switch|p2a: Diana Robin|Tapu Fini|100/100|[from]move: U-turn
+|-damage|p2a: Diana Robin|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Diana Robin
+|move|p1a: Hippowdon|Whirlwind|p2a: Diana Robin
+|drag|p2a: Kuno Miya|Dragapult, M|100/100
+|-damage|p2a: Kuno Miya|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kuno Miya|82/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641835157
+|switch|p1a: Heatran|Heatran, M|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Kuno Miya|Phantom Force||[still]
+|-prepare|p2a: Kuno Miya|Phantom Force
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kuno Miya|76/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641835168
+|move|p2a: Kuno Miya|Phantom Force|p1a: Heatran|[from]lockedmove
+|-damage|p1a: Heatran|48/100
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Will-O-Wisp|p2a: Kuno Miya
+|-activate|p2a: Kuno Miya|move: Misty Terrain
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kuno Miya|70/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641835187
+|move|p2a: Kuno Miya|Phantom Force||[still]
+|-prepare|p2a: Kuno Miya|Phantom Force
+|move|p1a: Heatran|Roar|p2a: Kuno Miya|[miss]
+|-miss|p1a: Heatran|p2a: Kuno Miya
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kuno Miya|64/100|[from] Sandstorm
+|upkeep
+|turn|6
+|
+|t:|1641835199
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|move|p2a: Kuno Miya|Phantom Force|p1a: Slowbro|[from]lockedmove
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|23/100
+|-damage|p2a: Kuno Miya|48/100|[from] item: Rocky Helmet|[of] p1a: Slowbro
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Kuno Miya|42/100|[from] Sandstorm
+|-damage|p1a: Slowbro|17/100|[from] Sandstorm
+|-fieldend|Misty Terrain
+|upkeep
+|turn|7
+|
+|t:|1641835227
+|switch|p2a: Diana Robin|Tapu Fini|88/100
+|-damage|p2a: Diana Robin|76/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Diana Robin
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|67/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Diana Robin|70/100|[from] Sandstorm
+|-damage|p1a: Slowbro|61/100|[from] Sandstorm
+|-heal|p2a: Diana Robin|76/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641835231
+|move|p2a: Diana Robin|Taunt|p1a: Slowbro
+|-start|p1a: Slowbro|move: Taunt
+|cant|p1a: Slowbro|move: Taunt|Teleport
+|
+|-weather|none
+|-heal|p2a: Diana Robin|82/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641835239
+|switch|p1a: Hippowdon|Hippowdon, M|61/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Diana Robin|Defog|p1a: Hippowdon
+|-unboost|p1a: Hippowdon|evasion|1
+|-sideend|p2: Jleon23|Stealth Rock|[from] move: Defog|[of] p2a: Diana Robin
+|-fieldend|Misty Terrain
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Diana Robin|76/100|[from] Sandstorm
+|-heal|p2a: Diana Robin|82/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641835243
+|move|p2a: Diana Robin|Taunt|p1a: Hippowdon
+|-start|p1a: Hippowdon|move: Taunt
+|cant|p1a: Hippowdon|move: Taunt|Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Diana Robin|76/100|[from] Sandstorm
+|-heal|p2a: Diana Robin|82/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641835249
+|switch|p1a: Mienshao|Mienshao, M|100/100
+|move|p2a: Diana Robin|Scald|p1a: Mienshao
+|-damage|p1a: Mienshao|47/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mienshao|41/100|[from] Sandstorm
+|-damage|p2a: Diana Robin|76/100|[from] Sandstorm
+|-heal|p2a: Diana Robin|82/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641835256
+|move|p1a: Mienshao|U-turn|p2a: Diana Robin
+|-resisted|p2a: Diana Robin
+|-crit|p2a: Diana Robin
+|-damage|p2a: Diana Robin|54/100
+|
+|t:|1641835261
+|switch|p1a: Excadrill|Excadrill, F|100/100|[from]move: U-turn
+|move|p2a: Diana Robin|Scald|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|30/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Diana Robin|48/100|[from] Sandstorm
+|-heal|p2a: Diana Robin|54/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641835271
+|move|p1a: Excadrill|Iron Head|p2a: Diana Robin
+|-damage|p2a: Diana Robin|11/100
+|cant|p2a: Diana Robin|flinch
+|
+|-weather|none
+|-heal|p2a: Diana Robin|17/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641835279
+|switch|p2a: Kuro Miya|Garchomp, M, shiny|100/100
+|move|p1a: Excadrill|Iron Head|p2a: Kuro Miya
+|-damage|p2a: Kuro Miya|49/100
+|-damage|p1a: Excadrill|18/100|[from] ability: Rough Skin|[of] p2a: Kuro Miya
+|
+|upkeep
+|turn|15
+|
+|t:|1641835288
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kuro Miya|atk|1
+|move|p2a: Kuro Miya|Shadow Claw|p1a: Landorus
+|-damage|p1a: Landorus|85/100
+|
+|-heal|p1a: Landorus|91/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641835346
+|switch|p2a: Diana Robin|Tapu Fini|17/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Diana Robin
+|move|p1a: Landorus|Earthquake|p2a: Diana Robin
+|-damage|p2a: Diana Robin|0 fnt
+|faint|p2a: Diana Robin
+|
+|-heal|p1a: Landorus|97/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641835359
+|switch|p2a: Kuno Miya|Dragapult, M|42/100
+|turn|17
+|
+|t:|1641835363
+|move|p2a: Kuno Miya|Outrage|p1a: Landorus
+|-damage|p1a: Landorus|11/100
+|move|p1a: Landorus|Earthquake|p2a: Kuno Miya
+|-damage|p2a: Kuno Miya|0 fnt
+|faint|p2a: Kuno Miya
+|
+|-heal|p1a: Landorus|17/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641835369
+|switch|p2a: Maya Moore|Kartana, shiny|100/100
+|turn|18
+|
+|t:|1641835379
+|move|p1a: Landorus|Protect|p1a: Landorus
+|-singleturn|p1a: Landorus|Protect
+|move|p2a: Maya Moore|Knock Off|p1a: Landorus
+|-activate|p1a: Landorus|move: Protect
+|
+|-heal|p1a: Landorus|23/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641835398
+|switch|p1a: Heatran|Heatran, M|48/100
+|move|p2a: Maya Moore|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|21/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641835412
+|switch|p1a: Landorus|Landorus-Therian, M|23/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Maya Moore|atk|1
+|move|p2a: Maya Moore|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Maya Moore
+|faint|p1a: Landorus
+|-ability|p2a: Maya Moore|Beast Boost|boost
+|-boost|p2a: Maya Moore|atk|1
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641835425
+|switch|p1a: Hippowdon|Hippowdon, M|61/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|21
+|
+|t:|1641835435
+|switch|p2a: May Springs|Scizor, F|100/100
+|move|p1a: Hippowdon|Yawn|p2a: May Springs
+|-start|p2a: May Springs|move: Yawn|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|22
+|
+|t:|1641835438
+|move|p2a: May Springs|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|41/100
+|
+|t:|1641835441
+|switch|p2a: Kuro Miya|Garchomp, M, shiny|49/100|[from]move: U-turn
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|91/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641835446
+|move|p2a: Kuro Miya|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|66/100
+|move|p1a: Hippowdon|Yawn|p2a: Kuro Miya
+|-start|p2a: Kuro Miya|move: Yawn|[of] p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1641835467
+|switch|p2a: May Springs|Scizor, F|100/100
+|move|p1a: Hippowdon|Stealth Rock|p2a: May Springs
+|-sidestart|p2: Jleon23|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1641835471
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|44/100
+|cant|p1a: Hippowdon|flinch
+|
+|-weather|none
+|upkeep
+|turn|26
+|
+|t:|1641835476
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|18/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|68/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641835496
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|44/100
+|move|p1a: Hippowdon|Yawn|p2a: May Springs
+|-start|p2a: May Springs|move: Yawn|[of] p1a: Hippowdon
+|
+|upkeep
+|turn|28
+|
+|t:|1641835501
+|move|p2a: May Springs|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|23/100
+|
+|t:|1641835503
+|switch|p2a: Kuro Miya|Garchomp, M, shiny|49/100|[from]move: U-turn
+|-damage|p2a: Kuro Miya|43/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|73/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641835510
+|move|p2a: Kuro Miya|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|45/100
+|move|p1a: Hippowdon|Yawn|p2a: Kuro Miya
+|-start|p2a: Kuro Miya|move: Yawn|[of] p1a: Hippowdon
+|
+|upkeep
+|turn|30
+|
+|t:|1641835516
+|switch|p2a: May Springs|Scizor, F|100/100
+|-damage|p2a: May Springs|88/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|95/100
+|
+|upkeep
+|turn|31
+|
+|t:|1641835522
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|72/100
+|cant|p1a: Hippowdon|flinch
+|
+|upkeep
+|turn|32
+|
+|t:|1641835526
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|48/100
+|move|p1a: Hippowdon|Yawn|p2a: May Springs
+|-start|p2a: May Springs|move: Yawn|[of] p1a: Hippowdon
+|
+|upkeep
+|turn|33
+|
+|t:|1641835531
+|move|p2a: May Springs|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|28/100
+|
+|t:|1641835533
+|switch|p2a: Kuro Miya|Garchomp, M, shiny|43/100|[from]move: U-turn
+|-damage|p2a: Kuro Miya|37/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|78/100
+|
+|upkeep
+|turn|34
+|
+|t:|1641835540
+|move|p2a: Kuro Miya|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|49/100
+|move|p1a: Hippowdon|Yawn|p2a: Kuro Miya
+|-start|p2a: Kuro Miya|move: Yawn|[of] p1a: Hippowdon
+|
+|upkeep
+|turn|35
+|
+|t:|1641835550
+|switch|p2a: Celine Grey|Gardevoir, F, shiny|100/100
+|-damage|p2a: Celine Grey|88/100|[from] Stealth Rock
+|-ability|p2a: Celine Grey|Sand Stream|[from] ability: Trace|[of] p1a: Hippowdon
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Celine Grey
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|99/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Celine Grey|82/100|[from] Sandstorm
+|upkeep
+|turn|36
+|
+|t:|1641835560
+|move|p2a: Celine Grey|Moonblast|p1a: Hippowdon
+|-damage|p1a: Hippowdon|42/100
+|move|p1a: Hippowdon|Whirlwind|p2a: Celine Grey
+|drag|p2a: Kuro Miya|Garchomp, M, shiny|37/100
+|-damage|p2a: Kuro Miya|31/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|37
+|
+|t:|1641835575
+|move|p2a: Kuro Miya|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|16/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|38
+|
+|t:|1641835581
+|move|p2a: Kuro Miya|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|38/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|88/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|39
+|
+|t:|1641835586
+|move|p2a: Kuro Miya|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|59/100
+|move|p1a: Hippowdon|Whirlwind|p2a: Kuro Miya
+|drag|p2a: May Springs|Scizor, F|88/100
+|-damage|p2a: May Springs|76/100|[from] Stealth Rock
+|
+|-weather|none
+|upkeep
+|turn|40
+|
+|t:|1641835593
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|37/100
+|cant|p1a: Hippowdon|flinch
+|
+|upkeep
+|turn|41
+|
+|t:|1641835598
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|11/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|61/100
+|
+|upkeep
+|turn|42
+|
+|t:|1641835603
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|36/100
+|move|p1a: Hippowdon|Yawn|p2a: May Springs
+|-start|p2a: May Springs|move: Yawn|[of] p1a: Hippowdon
+|
+|upkeep
+|turn|43
+|
+|t:|1641835609
+|move|p2a: May Springs|U-turn|p1a: Hippowdon
+|-crit|p1a: Hippowdon
+|-damage|p1a: Hippowdon|4/100
+|
+|t:|1641835614
+|switch|p2a: Kuro Miya|Garchomp, M, shiny|31/100|[from]move: U-turn
+|-damage|p2a: Kuro Miya|25/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|54/100
+|
+|upkeep
+|turn|44
+|
+|t:|1641835620
+|move|p2a: Kuro Miya|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|29/100
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|79/100
+|
+|upkeep
+|turn|45
+|
+|t:|1641835626
+|move|p2a: Kuro Miya|Earthquake|p1a: Hippowdon
+|-damage|p1a: Hippowdon|49/100
+|move|p1a: Hippowdon|Yawn|p2a: Kuro Miya
+|-start|p2a: Kuro Miya|move: Yawn|[of] p1a: Hippowdon
+|
+|upkeep
+|turn|46
+|
+|t:|1641835641
+|switch|p2a: May Springs|Scizor, F|76/100
+|-damage|p2a: May Springs|64/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|99/100
+|
+|upkeep
+|turn|47
+|
+|t:|1641835647
+|move|p2a: May Springs|Iron Head|p1a: Hippowdon
+|-damage|p1a: Hippowdon|75/100
+|move|p1a: Hippowdon|Whirlwind|p2a: May Springs
+|drag|p2a: Maya Moore|Kartana, shiny|100/100
+|-damage|p2a: Maya Moore|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|48
+|
+|t:|1641835667
+|switch|p1a: Heatran|Heatran, M|21/100
+|move|p2a: Maya Moore|Leaf Blade|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|8/100
+|
+|upkeep
+|turn|49
+|
+|t:|1641835677
+|move|p2a: Maya Moore|Leaf Blade|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|-ability|p2a: Maya Moore|Beast Boost|boost
+|-boost|p2a: Maya Moore|atk|1
+|
+|upkeep
+|
+|t:|1641835682
+|switch|p1a: Hippowdon|Hippowdon, M|75/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|50
+|
+|t:|1641835700
+|move|p2a: Maya Moore|Leaf Blade|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|-ability|p2a: Maya Moore|Beast Boost|boost
+|-boost|p2a: Maya Moore|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641835704
+|switch|p1a: Excadrill|Excadrill, F|18/100
+|turn|51
+|
+|t:|1641835709
+|move|p1a: Excadrill|Earthquake|p2a: Maya Moore
+|-damage|p2a: Maya Moore|36/100
+|move|p2a: Maya Moore|Leaf Blade|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|-ability|p2a: Maya Moore|Beast Boost|boost
+|-boost|p2a: Maya Moore|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|tyrtr123 forfeited.
+|
+|win|Jleon23
+|raw|tyrtr123's rating: 1316 &rarr; <strong>1297</strong><br />(-19 for losing)
+|raw|Jleon23's rating: 1328 &rarr; <strong>1347</strong><br />(+19 for winning)
+|l|☆tyrtr123
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

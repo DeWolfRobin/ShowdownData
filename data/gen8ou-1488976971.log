@@ -1,0 +1,396 @@
+|j|☆IkerVeil
+|j|☆8jaggery
+|t:|1641842544
+|gametype|singles
+|player|p1|IkerVeil|n|1146
+|player|p2|8jaggery|2|1130
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Zeraora|
+|poke|p1|Tapu Fini|
+|poke|p1|Corviknight, M|
+|poke|p1|Melmetal|
+|poke|p1|Buzzwole|
+|poke|p2|Hawlucha, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Heatran, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Clefable, M|
+|poke|p2|Blastoise, M|
+|teampreview
+|
+|t:|1641842580
+|start
+|switch|p1a: you after 1 pushup|Buzzwole, shiny|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1641842604
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p1a: you after 1 pushup|Ice Punch|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|18/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641842619
+|switch|p1a: itachi|Corviknight, M|100/100
+|-ability|p1a: itachi|Pressure
+|move|p2a: Hawlucha|Brave Bird|p1a: itachi
+|-resisted|p1a: itachi
+|-damage|p1a: itachi|84/100
+|-damage|p2a: Hawlucha|2/100|[from] item: Rocky Helmet|[of] p1a: itachi
+|-damage|p2a: Hawlucha|0 fnt|[from] Recoil
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1641842629
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|turn|3
+|
+|t:|1641842640
+|move|p2a: Heatran|Stealth Rock|p1a: itachi
+|-sidestart|p1: IkerVeil|move: Stealth Rock
+|move|p1a: itachi|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|97/100
+|-enditem|p2a: Heatran|Air Balloon
+|
+|t:|1641842644
+|switch|p1a: 2fast2furious|Zeraora|100/100|[from]move: U-turn
+|
+|-heal|p2a: Heatran|100/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641842654
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|move|p1a: 2fast2furious|Close Combat|p2a: Rillaboom
+|-damage|p2a: Rillaboom|74/100
+|-unboost|p1a: 2fast2furious|def|1
+|-unboost|p1a: 2fast2furious|spd|1
+|
+|-heal|p2a: Rillaboom|80/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641842662
+|switch|p1a: itachi|Corviknight, M|84/100
+|-damage|p1a: itachi|71/100|[from] Stealth Rock
+|-ability|p1a: itachi|Pressure
+|move|p2a: Rillaboom|High Horsepower|p1a: itachi
+|-immune|p1a: itachi
+|
+|-heal|p2a: Rillaboom|86/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641842676
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: itachi|Defog|p2a: Heatran
+|-unboost|p2a: Heatran|evasion|1
+|-sideend|p1: IkerVeil|Stealth Rock|[from] move: Defog|[of] p1a: itachi
+|
+|upkeep
+|turn|7
+|
+|t:|1641842686
+|switch|p1a: ozarka|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: ozarka
+|move|p2a: Heatran|Stealth Rock|p1a: ozarka
+|-sidestart|p1: IkerVeil|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|
+|t:|1641842695
+|switch|p2a: Rillaboom|Rillaboom, F|86/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: ozarka|Whirlpool|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|80/100
+|-activate|p2a: Rillaboom|move: Whirlpool|[of] p1a: ozarka
+|
+|-heal|p2a: Rillaboom|86/100|[from] Grassy Terrain
+|-damage|p2a: Rillaboom|74/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641842706
+|switch|p1a: itachi|Corviknight, M|71/100
+|-damage|p1a: itachi|59/100|[from] Stealth Rock
+|-ability|p1a: itachi|Pressure
+|move|p2a: Rillaboom|Grassy Glide|p1a: itachi
+|-resisted|p1a: itachi
+|-damage|p1a: itachi|51/100
+|-damage|p2a: Rillaboom|57/100|[from] item: Rocky Helmet|[of] p1a: itachi
+|
+|-heal|p2a: Rillaboom|63/100|[from] Grassy Terrain
+|-end|p2a: Rillaboom|Whirlpool|[partiallytrapped]|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641842718
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: itachi|Defog|p2a: Heatran
+|-unboost|p2a: Heatran|evasion|1
+|-sideend|p1: IkerVeil|Stealth Rock|[from] move: Defog|[of] p1a: itachi
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|11
+|
+|t:|1641842724
+|switch|p1a: ozarka|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: ozarka
+|move|p2a: Heatran|Stealth Rock|p1a: ozarka
+|-sidestart|p1: IkerVeil|move: Stealth Rock
+|
+|upkeep
+|turn|12
+|
+|t:|1641842731
+|switch|p2a: Rillaboom|Rillaboom, F|63/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: ozarka|Moonblast|p2a: Rillaboom
+|-damage|p2a: Rillaboom|27/100
+|
+|-heal|p2a: Rillaboom|33/100|[from] Grassy Terrain
+|upkeep
+|turn|13
+|
+|t:|1641842740
+|switch|p1a: itachi|Corviknight, M|51/100
+|-damage|p1a: itachi|38/100|[from] Stealth Rock
+|-ability|p1a: itachi|Pressure
+|move|p2a: Rillaboom|Grassy Glide|p1a: itachi
+|-resisted|p1a: itachi
+|-damage|p1a: itachi|30/100
+|-damage|p2a: Rillaboom|17/100|[from] item: Rocky Helmet|[of] p1a: itachi
+|
+|-heal|p2a: Rillaboom|23/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641842759
+|move|p2a: Rillaboom|Knock Off|p1a: itachi
+|-damage|p1a: itachi|11/100
+|-damage|p2a: Rillaboom|6/100|[from] item: Rocky Helmet|[of] p1a: itachi
+|-enditem|p1a: itachi|Rocky Helmet|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: itachi|Roost|p1a: itachi
+|-heal|p1a: itachi|61/100
+|-singleturn|p1a: itachi|move: Roost
+|
+|-heal|p2a: Rillaboom|13/100|[from] Grassy Terrain
+|-heal|p1a: itachi|67/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641842773
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: itachi|Defog|p2a: Heatran
+|-unboost|p2a: Heatran|evasion|1
+|-sideend|p1: IkerVeil|Stealth Rock|[from] move: Defog|[of] p1a: itachi
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|16
+|
+|t:|1641842782
+|switch|p1a: ozarka|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: ozarka
+|move|p2a: Heatran|Stealth Rock|p1a: ozarka
+|-sidestart|p1: IkerVeil|move: Stealth Rock
+|
+|upkeep
+|turn|17
+|
+|t:|1641842794
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: ozarka|Moonblast|p2a: Clefable
+|-damage|p2a: Clefable|78/100
+|
+|-heal|p2a: Clefable|85/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641842807
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: ozarka|Taunt|p2a: Heatran
+|-start|p2a: Heatran|move: Taunt
+|
+|upkeep
+|turn|19
+|
+|t:|1641842816
+|move|p1a: ozarka|Whirlpool|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|83/100
+|-activate|p2a: Heatran|move: Whirlpool|[of] p1a: ozarka
+|move|p2a: Heatran|Flash Cannon|p1a: ozarka
+|-damage|p1a: ozarka|69/100
+|
+|-heal|p1a: ozarka|75/100|[from] item: Leftovers
+|-damage|p2a: Heatran|70/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|20
+|
+|t:|1641842827
+|move|p1a: ozarka|Nature's Madness|p2a: Heatran
+|-damage|p2a: Heatran|35/100
+|move|p2a: Heatran|Earth Power|p1a: ozarka
+|-damage|p1a: ozarka|53/100
+|
+|-heal|p1a: ozarka|59/100|[from] item: Leftovers
+|-damage|p2a: Heatran|23/100|[from] move: Whirlpool|[partiallytrapped]
+|-end|p2a: Heatran|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|21
+|
+|t:|1641842849
+|move|p1a: ozarka|Whirlpool|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|5/100
+|move|p2a: Heatran|Flash Cannon|p1a: ozarka
+|-damage|p1a: ozarka|32/100
+|
+|-heal|p1a: ozarka|38/100|[from] item: Leftovers
+|-damage|p2a: Heatran|0 fnt|[from] move: Whirlpool|[partiallytrapped]
+|faint|p2a: Heatran
+|upkeep
+|
+|t:|1641842858
+|switch|p2a: Clefable|Clefable, M|85/100
+|turn|22
+|
+|t:|1641842865
+|move|p1a: ozarka|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|move|p2a: Clefable|Moonblast|p1a: ozarka
+|-damage|p1a: ozarka|15/100
+|-unboost|p1a: ozarka|spa|1
+|
+|-heal|p1a: ozarka|21/100|[from] item: Leftovers
+|-heal|p2a: Clefable|91/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641842875
+|move|p1a: ozarka|Nature's Madness|p2a: Clefable
+|-damage|p2a: Clefable|46/100
+|move|p2a: Clefable|Moonblast|p1a: ozarka
+|-damage|p1a: ozarka|0 fnt
+|faint|p1a: ozarka
+|
+|-heal|p2a: Clefable|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641842882
+|switch|p1a: sack-o-nuts|Melmetal|100/100
+|-damage|p1a: sack-o-nuts|94/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641842894
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|move|p1a: sack-o-nuts|Double Iron Bash|p2a: Blastoise
+|-resisted|p2a: Blastoise
+|-damage|p2a: Blastoise|77/100
+|-resisted|p2a: Blastoise
+|-damage|p2a: Blastoise|53/100
+|-hitcount|p2a: Blastoise|2
+|
+|upkeep
+|turn|25
+|
+|t:|1641842910
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|move|p1a: sack-o-nuts|Double Iron Bash|p2a: Blastoise
+|-resisted|p2a: Blastoise
+|-crit|p2a: Blastoise
+|-damage|p2a: Blastoise|12/100
+|-resisted|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|-hitcount|p2: Blastoise|2
+|
+|upkeep
+|
+|t:|1641842923
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|26
+|
+|t:|1641842945
+|move|p2a: Dragapult|Draco Meteor|p1a: sack-o-nuts
+|-resisted|p1a: sack-o-nuts
+|-damage|p1a: sack-o-nuts|71/100
+|-unboost|p2a: Dragapult|spa|2
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|move|p1a: sack-o-nuts|Double Iron Bash|p2a: Dragapult
+|-damage|p2a: Dragapult|29/100
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|-hitcount|p2: Dragapult|2
+|
+|upkeep
+|
+|t:|1641842990
+|switch|p2a: Rillaboom|Rillaboom, F|13/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|27
+|
+|t:|1641843002
+|move|p2a: Rillaboom|High Horsepower|p1a: sack-o-nuts
+|-supereffective|p1a: sack-o-nuts
+|-damage|p1a: sack-o-nuts|35/100
+|move|p1a: sack-o-nuts|Ice Punch|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|-heal|p1a: sack-o-nuts|41/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641843012
+|switch|p2a: Clefable|Clefable, M|52/100
+|turn|28
+|
+|t:|1641843040
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|move|p1a: sack-o-nuts|Double Iron Bash|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-hitcount|p2: Clefable|1
+|
+|win|IkerVeil
+|raw|IkerVeil's rating: 1146 &rarr; <strong>1170</strong><br />(+24 for winning)
+|raw|8jaggery's rating: 1130 &rarr; <strong>1106</strong><br />(-24 for losing)
+|c|☆IkerVeil|gg

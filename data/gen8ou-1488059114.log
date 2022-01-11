@@ -1,0 +1,390 @@
+|j|☆Galehawk
+|j|☆zachydachy326
+|t:|1641704265
+|gametype|singles
+|player|p1|Galehawk|265|1351
+|player|p2|zachydachy326|1|1372
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Barraskewda, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Zapdos|
+|poke|p1|Crawdaunt, M|
+|poke|p2|Heatran, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Clefable, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Garchomp, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by zachydachy326)
+|
+|t:|1641704286
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|
+|t:|1641704292
+|move|p2a: Heatran|Toxic|p1a: Pelipper
+|-status|p1a: Pelipper|tox
+|move|p1a: Pelipper|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|99/100
+|
+|t:|1641704316
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641704330
+|move|p1a: Garchomp|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641704345
+|switch|p2a: Hydreigon|Hydreigon, F|100/100
+|turn|3
+|
+|t:|1641704350
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|76/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Hydreigon|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641704365
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Hydreigon
+|-sidestart|p2: zachydachy326|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Hydreigon|88/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641704372
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Ferrothorn|Spikes|p2a: Hydreigon
+|-sidestart|p2: zachydachy326|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Hydreigon|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641704375
+|move|p2a: Hydreigon|Dark Pulse|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|15/100
+|cant|p1a: Ferrothorn|flinch
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Hydreigon|99/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|22/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641704380
+|move|p2a: Hydreigon|Dark Pulse|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Hydreigon|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641704385
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|8
+|
+|t:|1641704388
+|move|p1a: Garchomp|Scale Shot|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|68/100
+|-supereffective|p2a: Hydreigon
+|-damage|p2a: Hydreigon|35/100
+|-hitcount|p2a: Hydreigon|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Hydreigon|Dark Pulse|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|none
+|-heal|p2a: Hydreigon|41/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641704400
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|turn|9
+|
+|t:|1641704409
+|move|p1a: Barraskewda|Liquidation|p2a: Hydreigon
+|-resisted|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1641704420
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Spikes
+|-damage|p2a: Toxapex|75/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641704424
+|switch|p1a: Pelipper|Pelipper, F|100/100 tox
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Toxapex|Toxic Spikes|p1a: Pelipper
+|-sidestart|p1: Galehawk|move: Toxic Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Toxapex|82/100|[from] item: Black Sludge
+|-damage|p1a: Pelipper|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641704432
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Pelipper|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|97/100
+|
+|t:|1641704447
+|switch|p1a: Barraskewda|Barraskewda, F|100/100|[from]move: U-turn
+|-status|p1a: Barraskewda|psn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Clefable|100/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda|88/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641704453
+|move|p1a: Barraskewda|Flip Turn|p2a: Clefable
+|-damage|p2a: Clefable|32/100
+|
+|t:|1641704460
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: Flip Turn
+|move|p2a: Clefable|Cosmic Power|p2a: Clefable
+|-boost|p2a: Clefable|def|1
+|-boost|p2a: Clefable|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Clefable|38/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|c|☆zachydachy326|69
+|
+|t:|1641704465
+|move|p1a: Zapdos|Thunder|p2a: Clefable
+|-damage|p2a: Clefable|7/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|57/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Clefable|63/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641704471
+|move|p1a: Zapdos|Hurricane|p2a: Clefable
+|-damage|p2a: Clefable|29/100
+|-start|p2a: Clefable|confusion
+|-activate|p2a: Clefable|confusion
+|-damage|p2a: Clefable|25/100|[from] confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Clefable|32/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641704480
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|-damage|p2a: Garchomp|82/100|[from] Spikes
+|move|p1a: Zapdos|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|27/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641704489
+|move|p2a: Garchomp|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|move|p1a: Zapdos|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641704499
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|95/100|[from] Stealth Rock
+|-damage|p2a: Ferrothorn|82/100|[from] Spikes
+|turn|17
+|
+|t:|1641704524
+|move|p1a: Zapdos|Hurricane|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|38/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Zapdos
+|-start|p1a: Zapdos|move: Leech Seed
+|
+|-weather|none
+|-heal|p2a: Ferrothorn|44/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|82/100 tox|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|55/100|[silent]
+|-damage|p1a: Zapdos|69/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641704531
+|switch|p1a: Pelipper|Pelipper, F|94/100 tox
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Ferrothorn|Spikes|p1a: Pelipper
+|-sidestart|p1: Galehawk|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|61/100|[from] item: Leftovers
+|-damage|p1a: Pelipper|88/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641704544
+|move|p1a: Pelipper|Defog|p2a: Ferrothorn
+|-unboost|p2a: Ferrothorn|evasion|1
+|-sideend|p2: zachydachy326|Spikes|[from] move: Defog|[of] p1a: Pelipper
+|-sideend|p2: zachydachy326|Stealth Rock|[from] move: Defog|[of] p1a: Pelipper
+|-sideend|p1: Galehawk|Spikes|[from] move: Defog|[of] p1a: Pelipper
+|-sideend|p1: Galehawk|Toxic Spikes|[from] move: Defog|[of] p1a: Pelipper
+|move|p2a: Ferrothorn|Spikes|p1a: Pelipper
+|-sidestart|p1: Galehawk|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|67/100|[from] item: Leftovers
+|-damage|p1a: Pelipper|76/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641704553
+|move|p1a: Pelipper|Hurricane|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|39/100
+|-start|p2a: Ferrothorn|confusion
+|-activate|p2a: Ferrothorn|confusion
+|move|p2a: Ferrothorn|Leech Seed|p1a: Pelipper
+|-start|p1a: Pelipper|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|45/100|[from] item: Leftovers
+|-damage|p1a: Pelipper|63/100 tox|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|56/100|[silent]
+|-damage|p1a: Pelipper|45/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641704563
+|switch|p1a: Barraskewda|Barraskewda, F|88/100 psn
+|-damage|p1a: Barraskewda|76/100 psn|[from] Spikes
+|-activate|p2a: Ferrothorn|confusion
+|-damage|p2a: Ferrothorn|51/100|[from] confusion
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Ferrothorn|57/100|[from] item: Leftovers
+|-damage|p1a: Barraskewda|64/100 psn|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641704570
+|move|p1a: Barraskewda|Close Combat|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|-damage|p1a: Barraskewda|52/100 psn|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Barraskewda|40/100 psn|[from] psn
+|upkeep
+|
+|t:|1641704577
+|switch|p2a: Clefable|Clefable, M|32/100
+|turn|23
+|
+|t:|1641704581
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100
+|-damage|p1a: Crawdaunt|88/100|[from] Spikes
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1641704592
+|move|p1a: Crawdaunt|Swords Dance|p1a: Crawdaunt
+|-boost|p1a: Crawdaunt|atk|2
+|move|p2a: Toxapex|Toxic Spikes|p1a: Crawdaunt
+|-sidestart|p1: Galehawk|move: Toxic Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1641704596
+|move|p1a: Crawdaunt|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|-enditem|p2a: Toxapex|Black Sludge|[from] move: Knock Off|[of] p1a: Crawdaunt
+|faint|p2a: Toxapex
+|-damage|p1a: Crawdaunt|78/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641704599
+|switch|p2a: Clefable|Clefable, M|32/100
+|turn|26
+|c|☆Galehawk|gg
+|c|☆zachydachy326|Gg
+|
+|t:|1641704604
+|move|p1a: Crawdaunt|Aqua Jet|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-damage|p1a: Crawdaunt|69/100|[from] item: Life Orb
+|
+|win|Galehawk
+|raw|Galehawk's rating: 1351 &rarr; <strong>1372</strong><br />(+21 for winning)
+|raw|zachydachy326's rating: 1372 &rarr; <strong>1351</strong><br />(-21 for losing)
+|l|☆zachydachy326

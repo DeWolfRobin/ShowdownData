@@ -1,0 +1,397 @@
+|j|☆Championjolteons
+|j|☆UwU_Kingz
+|t:|1641873251
+|gametype|singles
+|player|p1|Championjolteons|flannery|
+|player|p2|UwU_Kingz|169|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Latias, F|
+|poke|p1|Clefable, M|
+|poke|p1|Scizor, M|
+|poke|p1|Victini|
+|poke|p2|Toxapex, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Melmetal|
+|poke|p2|Tyranitar, M|
+|poke|p2|Victini|
+|poke|p2|Rillaboom, M|
+|teampreview
+|
+|t:|1641873263
+|start
+|switch|p1a: Mr miyagi|Urshifu-Rapid-Strike, F|100/100
+|switch|p2a: It's In The Game|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: It's In The Game
+|turn|1
+|
+|t:|1641873276
+|switch|p2a: Jet|Dragapult, F, shiny|100/100
+|move|p1a: Mr miyagi|Close Combat|p2a: Jet
+|-immune|p2a: Jet
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Jet|95/100|[from] Sandstorm
+|-damage|p1a: Mr miyagi|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641873309
+|switch|p1a: Thicc Fairy|Clefable, M|100/100
+|move|p2a: Jet|Flamethrower|p1a: Thicc Fairy
+|-damage|p1a: Thicc Fairy|74/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Jet|89/100|[from] Sandstorm
+|-heal|p1a: Thicc Fairy|80/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|j| Kevin Dickey12
+|
+|t:|1641873322
+|switch|p2a: Spike|Toxapex, M, shiny|100/100
+|move|p1a: Thicc Fairy|Knock Off|p2a: Spike
+|-damage|p2a: Spike|88/100
+|-enditem|p2a: Spike|Rocky Helmet|[from] move: Knock Off|[of] p1a: Thicc Fairy
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Spike|82/100|[from] Sandstorm
+|-heal|p1a: Thicc Fairy|86/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641873344
+|switch|p2a: MONKE|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: MONKE
+|move|p1a: Thicc Fairy|Stealth Rock|p2a: MONKE
+|-sidestart|p2: UwU_Kingz|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: MONKE|94/100|[from] Sandstorm
+|-heal|p2a: MONKE|100/100|[from] Grassy Terrain
+|-heal|p1a: Thicc Fairy|92/100|[from] Grassy Terrain
+|-heal|p1a: Thicc Fairy|98/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|l|☆Championjolteons
+|player|p1|
+|j|☆Championjolteons
+|player|p1|Championjolteons|flannery
+|
+|t:|1641873391
+|switch|p1a: Ketzu|Scizor, M|100/100
+|move|p2a: MONKE|Drain Punch|p1a: Ketzu
+|-damage|p1a: Ketzu|81/100
+|
+|-weather|none
+|-heal|p1a: Ketzu|87/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641873408
+|move|p2a: MONKE|Acrobatics|p1a: Ketzu
+|-damage|p1a: Ketzu|59/100
+|move|p1a: Ketzu|Bug Bite|p2a: MONKE
+|-supereffective|p2a: MONKE
+|-damage|p2a: MONKE|13/100
+|
+|-heal|p2a: MONKE|19/100|[from] Grassy Terrain
+|-heal|p1a: Ketzu|65/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1641873420
+|switch|p2a: :))|Melmetal|100/100
+|-damage|p2a: :))|94/100|[from] Stealth Rock
+|move|p1a: Ketzu|Roost|p1a: Ketzu
+|-heal|p1a: Ketzu|100/100
+|-singleturn|p1a: Ketzu|move: Roost
+|
+|-heal|p2a: :))|100/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641873442
+|switch|p1a: Mr miyagi|Urshifu-Rapid-Strike, F|94/100
+|move|p2a: :))|Earthquake|p1a: Mr miyagi
+|-damage|p1a: Mr miyagi|75/100
+|
+|-heal|p1a: Mr miyagi|81/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1641873458
+|move|p1a: Mr miyagi|Surging Strikes|p2a: :))
+|-crit|p2a: :))
+|-damage|p2a: :))|84/100
+|-crit|p2a: :))
+|-damage|p2a: :))|67/100
+|-crit|p2a: :))
+|-damage|p2a: :))|48/100
+|-hitcount|p2a: :))|3
+|move|p2a: :))|Double Iron Bash|p1a: Mr miyagi
+|-resisted|p1a: Mr miyagi
+|-damage|p1a: Mr miyagi|61/100
+|-resisted|p1a: Mr miyagi
+|-damage|p1a: Mr miyagi|42/100
+|-hitcount|p1a: Mr miyagi|2
+|
+|upkeep
+|turn|10
+|
+|t:|1641873475
+|move|p1a: Mr miyagi|Surging Strikes|p2a: :))
+|-crit|p2a: :))
+|-damage|p2a: :))|31/100
+|-crit|p2a: :))
+|-damage|p2a: :))|12/100
+|-crit|p2a: :))
+|-damage|p2a: :))|0 fnt
+|faint|p2a: :))
+|-hitcount|p2: :))|3
+|
+|upkeep
+|
+|t:|1641873485
+|switch|p2a: Jet|Dragapult, F, shiny|89/100
+|-damage|p2a: Jet|76/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641873493
+|switch|p1a: Thicc Fairy|Clefable, M|98/100
+|move|p2a: Jet|Shadow Ball|p1a: Thicc Fairy
+|-damage|p1a: Thicc Fairy|65/100
+|
+|-heal|p1a: Thicc Fairy|71/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641873504
+|move|p2a: Jet|Shadow Ball|p1a: Thicc Fairy
+|-damage|p1a: Thicc Fairy|33/100
+|move|p1a: Thicc Fairy|Knock Off|p2a: Jet
+|-supereffective|p2a: Jet
+|-damage|p2a: Jet|34/100
+|-enditem|p2a: Jet|Choice Specs|[from] move: Knock Off|[of] p1a: Thicc Fairy
+|
+|-heal|p1a: Thicc Fairy|40/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641873514
+|move|p2a: Jet|Shadow Ball|p1a: Thicc Fairy
+|-damage|p1a: Thicc Fairy|15/100
+|move|p1a: Thicc Fairy|Wish|p1a: Thicc Fairy
+|
+|-heal|p1a: Thicc Fairy|21/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641873531
+|switch|p1a: Ketzu|Scizor, M|100/100
+|move|p2a: Jet|Shadow Ball|p1a: Ketzu
+|-damage|p1a: Ketzu|57/100
+|
+|-heal|p1a: Ketzu|100/100|[from] move: Wish|[wisher] Thicc Fairy
+|upkeep
+|turn|15
+|
+|t:|1641873544
+|move|p2a: Jet|Flamethrower|p1a: Ketzu
+|-supereffective|p1a: Ketzu
+|-damage|p1a: Ketzu|0 fnt
+|faint|p1a: Ketzu
+|
+|upkeep
+|
+|t:|1641873550
+|switch|p1a: OJ 🍊|Latias, F, shiny|100/100
+|turn|16
+|
+|t:|1641873563
+|switch|p1a: Thicc Fairy|Clefable, M|21/100
+|move|p2a: Jet|Shadow Ball|p1a: Thicc Fairy
+|-damage|p1a: Thicc Fairy|0 fnt
+|faint|p1a: Thicc Fairy
+|
+|upkeep
+|
+|t:|1641873574
+|switch|p1a: Happy|Victini|100/100
+|turn|17
+|
+|t:|1641873582
+|move|p1a: Happy|V-create|p2a: Jet
+|-resisted|p2a: Jet
+|-damage|p2a: Jet|0 fnt
+|-unboost|p1a: Happy|spe|1
+|-unboost|p1a: Happy|def|1
+|-unboost|p1a: Happy|spd|1
+|-start|p1a: Happy|Disable|V-create|[from] ability: Cursed Body|[of] p2a: Jet
+|faint|p2a: Jet
+|
+|upkeep
+|
+|t:|1641873600
+|switch|p2a: It's In The Game|Tyranitar, M, shiny|100/100
+|-damage|p2a: It's In The Game|88/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: It's In The Game
+|turn|18
+|
+|t:|1641873612
+|switch|p1a: Mr miyagi|Urshifu-Rapid-Strike, F|42/100
+|move|p2a: It's In The Game|Curse|p2a: It's In The Game
+|-unboost|p2a: It's In The Game|spe|1
+|-boost|p2a: It's In The Game|atk|1
+|-boost|p2a: It's In The Game|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mr miyagi|35/100|[from] Sandstorm
+|-heal|p2a: It's In The Game|94/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641873634
+|switch|p2a: Victini|Victini|100/100
+|-damage|p2a: Victini|76/100|[from] Stealth Rock
+|move|p1a: Mr miyagi|Surging Strikes|p2a: Victini
+|-supereffective|p2a: Victini
+|-crit|p2a: Victini
+|-damage|p2a: Victini|16/100
+|-supereffective|p2a: Victini
+|-crit|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|-hitcount|p2: Victini|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mr miyagi|29/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641873650
+|switch|p2a: It's In The Game|Tyranitar, M, shiny|94/100
+|-damage|p2a: It's In The Game|82/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641873657
+|move|p1a: Mr miyagi|Surging Strikes|p2a: It's In The Game
+|-supereffective|p2a: It's In The Game
+|-crit|p2a: It's In The Game
+|-damage|p2a: It's In The Game|40/100
+|-supereffective|p2a: It's In The Game
+|-crit|p2a: It's In The Game
+|-damage|p2a: It's In The Game|0 fnt
+|faint|p2a: It's In The Game
+|-hitcount|p2: It's In The Game|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mr miyagi|23/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641873667
+|switch|p2a: MONKE|Rillaboom, M, shiny|19/100
+|-damage|p2a: MONKE|6/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: MONKE
+|turn|21
+|
+|t:|1641873677
+|move|p1a: Mr miyagi|Surging Strikes|p2a: MONKE
+|-resisted|p2a: MONKE
+|-crit|p2a: MONKE
+|-damage|p2a: MONKE|0 fnt
+|faint|p2a: MONKE
+|-hitcount|p2: MONKE|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mr miyagi|17/100|[from] Sandstorm
+|-heal|p1a: Mr miyagi|23/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641873686
+|switch|p2a: Spike|Toxapex, M, shiny|100/100
+|-damage|p2a: Spike|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641873693
+|move|p1a: Mr miyagi|Surging Strikes|p2a: Spike
+|-resisted|p2a: Spike
+|-crit|p2a: Spike
+|-damage|p2a: Spike|78/100
+|-resisted|p2a: Spike
+|-crit|p2a: Spike
+|-damage|p2a: Spike|67/100
+|-resisted|p2a: Spike
+|-crit|p2a: Spike
+|-damage|p2a: Spike|57/100
+|-hitcount|p2a: Spike|3
+|move|p2a: Spike|Toxic Spikes|p1a: Mr miyagi
+|-sidestart|p1: Championjolteons|move: Toxic Spikes
+|
+|-weather|none
+|-heal|p1a: Mr miyagi|29/100|[from] Grassy Terrain
+|-heal|p2a: Spike|63/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1641873710
+|switch|p1a: OJ 🍊|Latias, F, shiny|100/100
+|move|p2a: Spike|Baneful Bunker||[still]
+|-fail|p2a: Spike
+|
+|-heal|p2a: Spike|68/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1641873732
+|move|p1a: OJ 🍊|Calm Mind|p1a: OJ 🍊
+|-boost|p1a: OJ 🍊|spa|1
+|-boost|p1a: OJ 🍊|spd|1
+|move|p2a: Spike|Toxic Spikes|p1a: OJ 🍊
+|-sidestart|p1: Championjolteons|move: Toxic Spikes
+|
+|-heal|p2a: Spike|74/100|[from] Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1641873741
+|move|p1a: OJ 🍊|Stored Power|p2a: Spike
+|-supereffective|p2a: Spike
+|-damage|p2a: Spike|15/100
+|move|p2a: Spike|Toxic Spikes||[still]
+|-fail|p2a: Spike
+|
+|-heal|p2a: Spike|21/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|26
+|
+|t:|1641873752
+|move|p2a: Spike|Baneful Bunker|p2a: Spike
+|-singleturn|p2a: Spike|move: Protect
+|move|p1a: OJ 🍊|Stored Power|p2a: Spike
+|-activate|p2a: Spike|move: Protect
+|
+|upkeep
+|turn|27
+|
+|t:|1641873764
+|move|p1a: OJ 🍊|Stored Power|p2a: Spike
+|-supereffective|p2a: Spike
+|-crit|p2a: Spike
+|-damage|p2a: Spike|0 fnt
+|faint|p2a: Spike
+|
+|win|Championjolteons

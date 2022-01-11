@@ -1,0 +1,397 @@
+|j|☆nich6las
+|j|☆mistborn1371
+|t:|1641853960
+|gametype|singles
+|player|p1|nich6las|101|1166
+|player|p2|mistborn1371|101|1192
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Weavile, F|
+|poke|p1|Heatran, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Dragapult, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Buzzwole|
+|poke|p2|Dragonite, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Blacephalon|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mistborn1371)
+|
+|t:|1641853975
+|start
+|switch|p1a: Dragapult|Dragapult, M, shiny|100/100
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|1
+|
+|t:|1641853985
+|move|p1a: Dragapult|Thunderbolt|p2a: Dragonite
+|-damage|p2a: Dragonite|88/100
+|-status|p2a: Dragonite|par
+|move|p2a: Dragonite|Ice Beam|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|48/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641853997
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100 par
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|upkeep
+|turn|3
+|
+|t:|1641854009
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Weavile|Triple Axel|p2a: Buzzwole
+|-damage|p2a: Buzzwole|90/100
+|-damage|p2a: Buzzwole|74/100
+|-damage|p2a: Buzzwole|48/100
+|-hitcount|p2a: Buzzwole|3
+|
+|-heal|p2a: Buzzwole|55/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641854036
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Buzzwole|Drain Punch|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|84/100
+|-heal|p2a: Buzzwole|61/100|[from] drain|[of] p1a: Tapu Fini
+|
+|-heal|p1a: Tapu Fini|90/100|[from] item: Leftovers
+|-heal|p2a: Buzzwole|67/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641854056
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Fini|atk|1
+|move|p1a: Tapu Fini|Moonblast|p2a: Landorus
+|-damage|p2a: Landorus|68/100
+|-unboost|p2a: Landorus|spa|1
+|
+|-heal|p1a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641854076
+|move|p1a: Tapu Fini|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|15/100
+|move|p2a: Landorus|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|89/100
+|
+|t:|1641854082
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|-heal|p1a: Tapu Fini|95/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|inactive|nich6las has 120 seconds left.
+|inactive|nich6las has 90 seconds left.
+|inactive|mistborn1371 has 120 seconds left.
+|
+|t:|1641854149
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|77/100
+|
+|-heal|p1a: Ferrothorn|84/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641854157
+|switch|p2a: Buzzwole|Buzzwole|67/100
+|move|p1a: Ferrothorn|Gyro Ball|p2a: Buzzwole
+|-damage|p2a: Buzzwole|42/100
+|
+|-heal|p2a: Buzzwole|49/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|90/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|inactive|nich6las has 90 seconds left.
+|
+|t:|1641854170
+|switch|p1a: Tapu Fini|Tapu Fini|95/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Buzzwole|Drain Punch|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|78/100
+|-heal|p2a: Buzzwole|55/100|[from] drain|[of] p1a: Tapu Fini
+|
+|-heal|p1a: Tapu Fini|84/100|[from] item: Leftovers
+|-heal|p2a: Buzzwole|61/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|nich6las has 90 seconds left.
+|inactive|mistborn1371 has 120 seconds left.
+|
+|t:|1641854192
+|switch|p2a: Landorus|Landorus-Therian, M|15/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Fini|atk|1
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Landorus
+|-damage|p2a: Landorus|8/100
+|
+|-heal|p1a: Tapu Fini|90/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|mistborn1371 has 120 seconds left.
+|
+|t:|1641854201
+|move|p1a: Tapu Fini|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-heal|p1a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|inactive|mistborn1371 has 120 seconds left.
+|
+|t:|1641854207
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|12
+|
+|t:|1641854215
+|switch|p1a: Ferrothorn|Ferrothorn, F|90/100
+|move|p2a: Tapu Lele|Focus Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|inactive|nich6las has 90 seconds left.
+|
+|t:|1641854232
+|switch|p1a: Dragapult|Dragapult, M, shiny|48/100
+|turn|13
+|inactive|nich6las has 90 seconds left.
+|
+|t:|1641854238
+|switch|p2a: Dragonite|Dragonite, M|100/100 par
+|move|p1a: Dragapult|Shadow Ball|p2a: Dragonite
+|-damage|p2a: Dragonite|83/100 par
+|
+|upkeep
+|turn|14
+|
+|t:|1641854248
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragonite|atk|1
+|cant|p2a: Dragonite|par
+|
+|upkeep
+|turn|15
+|
+|t:|1641854257
+|move|p1a: Landorus|Stealth Rock|p2a: Dragonite
+|-sidestart|p2: mistborn1371|move: Stealth Rock
+|move|p2a: Dragonite|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|37/100
+|-status|p1a: Landorus|frz
+|
+|-heal|p1a: Landorus|43/100 frz|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641854265
+|cant|p1a: Landorus|frz
+|move|p2a: Dragonite|Defog|p1a: Landorus
+|-unboost|p1a: Landorus|evasion|1
+|-sideend|p2: mistborn1371|Stealth Rock|[from] move: Defog|[of] p2a: Dragonite
+|-fieldend|move: Psychic Terrain
+|
+|-heal|p1a: Landorus|49/100 frz|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641854272
+|cant|p1a: Landorus|frz
+|move|p2a: Dragonite|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641854279
+|switch|p1a: Dragapult|Dragapult, M, shiny|48/100
+|turn|18
+|inactive|nich6las has 120 seconds left.
+|
+|t:|1641854287
+|move|p1a: Dragapult|Draco Meteor|p2a: Dragonite|[miss]
+|-miss|p1a: Dragapult|p2a: Dragonite
+|move|p2a: Dragonite|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|18/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641854294
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Dragapult|Draco Meteor|p2a: Tapu Lele
+|-immune|p2a: Tapu Lele
+|
+|upkeep
+|turn|20
+|inactive|nich6las has 120 seconds left.
+|
+|t:|1641854311
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Tapu Lele|Moonblast|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-crit|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|
+|upkeep
+|inactive|nich6las has 120 seconds left.
+|
+|t:|1641854318
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|turn|21
+|
+|t:|1641854325
+|switch|p2a: Dragonite|Dragonite, M|83/100 par
+|move|p1a: Heatran|Magma Storm|p2a: Dragonite
+|-resisted|p2a: Dragonite
+|-damage|p2a: Dragonite|66/100 par
+|-activate|p2a: Dragonite|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Dragonite|53/100 par|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|22
+|
+|t:|1641854335
+|move|p1a: Heatran|Ancient Power|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|25/100 par
+|move|p2a: Dragonite|Ice Beam|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|95/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|-damage|p2a: Dragonite|12/100 par|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|23
+|
+|t:|1641854345
+|move|p1a: Heatran|Ancient Power|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641854368
+|switch|p2a: Buzzwole|Buzzwole|61/100
+|turn|24
+|
+|t:|1641854379
+|move|p1a: Heatran|Magma Storm|p2a: Buzzwole
+|-supereffective|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|faint|p2a: Buzzwole
+|
+|upkeep
+|
+|t:|1641854384
+|switch|p2a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|25
+|
+|t:|1641854407
+|move|p2a: Tapu Lele|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|48/100
+|move|p1a: Heatran|Earth Power|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|62/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641854419
+|switch|p1a: Tapu Fini|Tapu Fini|96/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Tapu Lele|Psychic|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|29/100
+|
+|-heal|p1a: Tapu Fini|35/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641854433
+|move|p2a: Tapu Lele|Psychic|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641854436
+|switch|p1a: Dragapult|Dragapult, M, shiny|18/100
+|turn|28
+|
+|t:|1641854449
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|move|p1a: Dragapult|U-turn|p2a: Bisharp
+|-damage|p2a: Bisharp|83/100
+|
+|t:|1641854454
+|switch|p1a: Heatran|Heatran, F|48/100|[from]move: U-turn
+|
+|upkeep
+|turn|29
+|
+|t:|1641854459
+|move|p2a: Bisharp|Sucker Punch|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641854463
+|switch|p1a: Dragapult|Dragapult, M, shiny|18/100
+|turn|30
+|
+|t:|1641854473
+|move|p2a: Bisharp|Sucker Punch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|mistborn1371
+|raw|nich6las's rating: 1166 &rarr; <strong>1143</strong><br />(-23 for losing)
+|raw|mistborn1371's rating: 1192 &rarr; <strong>1215</strong><br />(+23 for winning)

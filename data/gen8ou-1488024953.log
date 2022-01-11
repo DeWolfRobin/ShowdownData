@@ -1,0 +1,722 @@
+|j|☆srxyyfs
+|j|☆hgfjghjghjghjf
+|t:|1641699072
+|gametype|singles
+|player|p1|srxyyfs|102|1018
+|player|p2|hgfjghjghjghjf|102|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Hippowdon, M|
+|poke|p1|Charizard, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Milotic, M|
+|poke|p2|Heatran, M|
+|poke|p2|Gastrodon, M|
+|poke|p2|Goodra, F|
+|poke|p2|Shedinja|
+|poke|p2|Blissey, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|
+|t:|1641699092
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|1
+|
+|t:|1641699107
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Heatran|Magma Storm|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|93/100
+|-activate|p1a: Tyranitar|move: Magma Storm|[of] p2a: Heatran
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tyranitar|81/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|2
+|
+|t:|1641699129
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|move|p1a: Tyranitar|Earthquake|p2a: Gastrodon
+|-crit|p2a: Gastrodon
+|-damage|p2a: Gastrodon|62/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|69/100|[from] item: Leftovers
+|-end|p1a: Tyranitar|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|3
+|
+|t:|1641699142
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Gastrodon|Scald|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|89/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|75/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|96/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641699152
+|switch|p2a: Goodra|Goodra, F|100/100
+|move|p1a: Ferrothorn|Toxic|p2a: Goodra|[miss]
+|-miss|p1a: Ferrothorn|p2a: Goodra
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Goodra|94/100|[from] Sandstorm
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641699163
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|move|p2a: Goodra|Flamethrower|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|42/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641699178
+|switch|p2a: Shedinja|Shedinja|100/100
+|move|p1a: Excadrill|Earthquake|p2a: Shedinja
+|-immune|p2a: Shedinja|[from] ability: Wonder Guard
+|
+|upkeep
+|turn|7
+|
+|t:|1641699201
+|switch|p1a: Charizard|Charizard, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641699207
+|move|p2a: Tornadus|Knock Off|p1a: Charizard
+|-damage|p1a: Charizard|70/100
+|-enditem|p1a: Charizard|Life Orb|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Charizard|Hurricane|p2a: Tornadus
+|-damage|p2a: Tornadus|48/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641699219
+|switch|p2a: Blissey|Blissey, F|100/100
+|move|p1a: Charizard|Hurricane|p2a: Blissey
+|-damage|p2a: Blissey|83/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641699228
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Blissey|Toxic|p1a: Hippowdon
+|-status|p1a: Hippowdon|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|77/100|[from] Sandstorm
+|-damage|p1a: Hippowdon|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641699245
+|move|p1a: Hippowdon|Stealth Rock|p2a: Blissey
+|-sidestart|p2: hgfjghjghjghjf|move: Stealth Rock
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641699271
+|switch|p2a: Goodra|Goodra, F|94/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Goodra|88/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|100/100 tox|[from] item: Leftovers
+|-damage|p1a: Hippowdon|88/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641699281
+|switch|p1a: Milotic|Milotic, M|100/100
+|move|p2a: Goodra|Ice Beam|p1a: Milotic
+|-resisted|p1a: Milotic
+|-damage|p1a: Milotic|92/100
+|-status|p1a: Milotic|frz
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|86/100 frz|[from] Sandstorm
+|-damage|p2a: Goodra|82/100|[from] Sandstorm
+|-heal|p1a: Milotic|92/100 frz|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641699300
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|cant|p1a: Milotic|frz
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|86/100 frz|[from] Sandstorm
+|-heal|p1a: Milotic|92/100 frz|[from] item: Leftovers
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641699311
+|cant|p1a: Milotic|frz
+|move|p2a: Heatran|Stealth Rock|p1a: Milotic
+|-sidestart|p1: srxyyfs|move: Stealth Rock
+|
+|-weather|none
+|-heal|p1a: Milotic|98/100 frz|[from] item: Leftovers
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641699326
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|81/100
+|-damage|p1a: Tyranitar|68/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|switch|p2a: Gastrodon|Gastrodon, M|75/100
+|-damage|p2a: Gastrodon|69/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|75/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641699338
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|81/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|76/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641699349
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Power Whip|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|80/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Heatran|87/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|83/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641699364
+|switch|p1a: Milotic|Milotic, M|98/100 frz
+|-damage|p1a: Milotic|86/100 frz|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Milotic|[miss]
+|-miss|p2a: Heatran|p1a: Milotic
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|80/100 frz|[from] Sandstorm
+|-heal|p1a: Milotic|86/100 frz|[from] item: Leftovers
+|-heal|p2a: Heatran|93/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641699378
+|-curestatus|p1a: Milotic|frz|[msg]
+|move|p1a: Milotic|Hydro Pump|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|49/100
+|move|p2a: Heatran|Taunt|p1a: Milotic
+|-start|p1a: Milotic|move: Taunt
+|
+|-weather|none
+|-heal|p1a: Milotic|92/100|[from] item: Leftovers
+|-heal|p2a: Heatran|55/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641699388
+|switch|p2a: Gastrodon|Gastrodon, M|81/100
+|-damage|p2a: Gastrodon|75/100|[from] Stealth Rock
+|move|p1a: Milotic|Hydro Pump|p2a: Gastrodon
+|-ability|p2a: Gastrodon|Storm Drain|boost
+|-boost|p2a: Gastrodon|spa|1
+|
+|-heal|p1a: Milotic|98/100|[from] item: Leftovers
+|-heal|p2a: Gastrodon|81/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641699404
+|switch|p1a: Hippowdon|Hippowdon, M|88/100 tox
+|-damage|p1a: Hippowdon|82/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Gastrodon|Earth Power|p1a: Hippowdon
+|-damage|p1a: Hippowdon|35/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|41/100 tox|[from] item: Leftovers
+|-heal|p2a: Gastrodon|87/100|[from] item: Leftovers
+|-damage|p1a: Hippowdon|35/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641699418
+|switch|p1a: Ferrothorn|Ferrothorn, F|83/100
+|-damage|p1a: Ferrothorn|76/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Earth Power|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|20/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|93/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|26/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641699429
+|move|p2a: Gastrodon|Earth Power|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641699435
+|switch|p1a: Charizard|Charizard, M|70/100
+|-damage|p1a: Charizard|20/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641699443
+|move|p1a: Charizard|Hurricane|p2a: Gastrodon
+|-damage|p2a: Gastrodon|55/100
+|-start|p2a: Gastrodon|confusion
+|-activate|p2a: Gastrodon|confusion
+|-damage|p2a: Gastrodon|51/100|[from] confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Charizard|14/100|[from] Sandstorm
+|-heal|p2a: Gastrodon|57/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641699455
+|switch|p2a: Blissey|Blissey, F|77/100
+|move|p1a: Charizard|Hurricane|p2a: Blissey|[miss]
+|-miss|p1a: Charizard|p2a: Blissey
+|
+|-weather|none
+|upkeep
+|turn|26
+|
+|t:|1641699469
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|68/100
+|-damage|p1a: Tyranitar|56/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Blissey|Toxic|p1a: Tyranitar|[miss]
+|-miss|p2a: Blissey|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Blissey|71/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1641699501
+|move|p1a: Tyranitar|Earthquake|p2a: Blissey
+|-damage|p2a: Blissey|41/100
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641699516
+|switch|p2a: Gastrodon|Gastrodon, M|57/100|[from]move: Teleport
+|-damage|p2a: Gastrodon|51/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|57/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641699524
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|100/100
+|move|p1a: Tyranitar|Avalanche|p2a: Gastrodon
+|-damage|p2a: Gastrodon|85/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|91/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641699537
+|switch|p1a: Milotic|Milotic, M|98/100
+|-damage|p1a: Milotic|86/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Earth Power|p1a: Milotic
+|-damage|p1a: Milotic|65/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|59/100|[from] Sandstorm
+|-heal|p1a: Milotic|65/100|[from] item: Leftovers
+|-heal|p2a: Gastrodon|97/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641699548
+|switch|p2a: Blissey|Blissey, F|41/100
+|move|p1a: Milotic|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|
+|-weather|none
+|-heal|p1a: Milotic|71/100|[from] item: Leftovers
+|-damage|p2a: Blissey|35/100 tox|[from] psn
+|upkeep
+|turn|31
+|
+|t:|1641699557
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|100/100
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|85/100 tox
+|
+|-damage|p2a: Blissey|72/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641699567
+|switch|p1a: Excadrill|Excadrill, M|42/100
+|-damage|p1a: Excadrill|39/100|[from] Stealth Rock
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641699588
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Shedinja|Shedinja|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|33
+|
+|t:|1641699597
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|56/100
+|-damage|p1a: Tyranitar|44/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|switch|p2a: Gastrodon|Gastrodon, M|97/100
+|-damage|p2a: Gastrodon|91/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|97/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641699609
+|switch|p1a: Milotic|Milotic, M|100/100
+|-damage|p1a: Milotic|88/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Earth Power|p1a: Milotic
+|-damage|p1a: Milotic|67/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|61/100|[from] Sandstorm
+|-heal|p1a: Milotic|67/100|[from] item: Leftovers
+|-heal|p2a: Gastrodon|100/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641699621
+|switch|p2a: Blissey|Blissey, F|72/100
+|move|p1a: Milotic|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|61/100|[from] Sandstorm
+|-damage|p2a: Blissey|66/100 tox|[from] Sandstorm
+|-heal|p1a: Milotic|67/100|[from] item: Leftovers
+|-damage|p2a: Blissey|60/100 tox|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641699632
+|move|p1a: Milotic|Substitute|p1a: Milotic
+|-start|p1a: Milotic|Substitute
+|-damage|p1a: Milotic|42/100
+|move|p2a: Blissey|Toxic||[still]
+|-fail|p2a: Blissey
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|36/100|[from] Sandstorm
+|-damage|p2a: Blissey|54/100 tox|[from] Sandstorm
+|-heal|p1a: Milotic|42/100|[from] item: Leftovers
+|-damage|p2a: Blissey|42/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641699641
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|92/100
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641699653
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Tornadus|Tornadus-Therian, M|81/100|[from]move: Teleport
+|
+|-weather|none
+|-heal|p1a: Milotic|98/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641699662
+|switch|p1a: Hippowdon|Hippowdon, M|35/100 tox
+|-damage|p1a: Hippowdon|28/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Tornadus|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|20/100 tox
+|
+|t:|1641699677
+|switch|p2a: Goodra|Goodra, F|82/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Goodra|75/100|[from] Sandstorm
+|-heal|p1a: Hippowdon|26/100 tox|[from] item: Leftovers
+|-damage|p1a: Hippowdon|20/100 tox|[from] psn
+|upkeep
+|turn|39
+|
+|t:|1641699686
+|switch|p1a: Excadrill|Excadrill, M|39/100
+|-damage|p1a: Excadrill|36/100|[from] Stealth Rock
+|move|p2a: Goodra|Draco Meteor|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|6/100
+|-unboost|p2a: Goodra|spa|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Goodra|69/100|[from] Sandstorm
+|upkeep
+|turn|40
+|
+|t:|1641699700
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|move|p1a: Excadrill|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|54/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|60/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641699709
+|move|p1a: Excadrill|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|20/100
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|77/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641699716
+|move|p1a: Excadrill|Earthquake|p2a: Gastrodon
+|-damage|p2a: Gastrodon|36/100
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|86/100
+|
+|-weather|none
+|-heal|p2a: Gastrodon|92/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1641699724
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|44/100
+|-damage|p1a: Tyranitar|31/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Gastrodon|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|12/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|98/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1641699742
+|switch|p1a: Milotic|Milotic, M|98/100
+|-damage|p1a: Milotic|86/100|[from] Stealth Rock
+|move|p2a: Gastrodon|Earth Power|p1a: Milotic
+|-damage|p1a: Milotic|64/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|58/100|[from] Sandstorm
+|-heal|p1a: Milotic|64/100|[from] item: Leftovers
+|-heal|p2a: Gastrodon|100/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1641699754
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|94/100|[from] Sandstorm
+|-damage|p1a: Milotic|94/100|[from] Sandstorm
+|-heal|p1a: Milotic|100/100|[from] item: Leftovers
+|upkeep
+|turn|46
+|
+|t:|1641699762
+|move|p2a: Tornadus|Knock Off|p1a: Milotic
+|-crit|p1a: Milotic
+|-damage|p1a: Milotic|74/100
+|-enditem|p1a: Milotic|Leftovers|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Milotic|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tornadus|88/100 tox|[from] Sandstorm
+|-damage|p1a: Milotic|68/100|[from] Sandstorm
+|-damage|p2a: Tornadus|82/100 tox|[from] psn
+|upkeep
+|turn|47
+|
+|t:|1641699772
+|move|p2a: Tornadus|U-turn|p1a: Milotic
+|-damage|p1a: Milotic|57/100
+|
+|t:|1641699799
+|switch|p2a: Blissey|Blissey, F|42/100|[from]move: U-turn
+|move|p1a: Milotic|Hydro Pump|p2a: Blissey
+|-damage|p2a: Blissey|28/100
+|
+|-weather|none
+|upkeep
+|turn|48
+|
+|t:|1641699807
+|move|p1a: Milotic|Toxic|p2a: Blissey
+|-status|p2a: Blissey|tox
+|move|p2a: Blissey|Soft-Boiled|p2a: Blissey
+|-heal|p2a: Blissey|78/100 tox
+|
+|-damage|p2a: Blissey|72/100 tox|[from] psn
+|upkeep
+|turn|49
+|
+|t:|1641699814
+|move|p1a: Milotic|Recover|p1a: Milotic
+|-heal|p1a: Milotic|100/100
+|move|p2a: Blissey|Toxic|p1a: Milotic
+|-status|p1a: Milotic|tox
+|
+|-damage|p1a: Milotic|94/100 tox|[from] psn
+|-damage|p2a: Blissey|59/100 tox|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1641699822
+|switch|p1a: Hippowdon|Hippowdon, M|20/100 tox
+|-damage|p1a: Hippowdon|14/100 tox|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Blissey|Teleport|p2a: Blissey
+|
+|t:|1641699828
+|-curestatus|p2a: Blissey|tox|[from] ability: Natural Cure
+|switch|p2a: Gastrodon|Gastrodon, M|100/100|[from]move: Teleport
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Hippowdon|20/100 tox|[from] item: Leftovers
+|-heal|p2a: Gastrodon|100/100|[from] item: Leftovers
+|-damage|p1a: Hippowdon|14/100 tox|[from] psn
+|upkeep
+|turn|51
+|
+|t:|1641699839
+|switch|p1a: Milotic|Milotic, M|94/100 tox
+|-damage|p1a: Milotic|82/100 tox|[from] Stealth Rock
+|move|p2a: Gastrodon|Earth Power|p1a: Milotic
+|-damage|p1a: Milotic|61/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|55/100 tox|[from] Sandstorm
+|-damage|p1a: Milotic|49/100 tox|[from] psn
+|upkeep
+|turn|52
+|
+|t:|1641699848
+|move|p1a: Milotic|Toxic|p2a: Gastrodon
+|-status|p2a: Gastrodon|tox
+|move|p2a: Gastrodon|Earth Power|p1a: Milotic
+|-crit|p1a: Milotic
+|-damage|p1a: Milotic|17/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Milotic|11/100 tox|[from] Sandstorm
+|-damage|p1a: Milotic|0 fnt|[from] psn
+|faint|p1a: Milotic
+|-damage|p2a: Gastrodon|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641699859
+|switch|p1a: Charizard|Charizard, M|14/100
+|-damage|p1a: Charizard|0 fnt|[from] Stealth Rock
+|faint|p1a: Charizard
+|
+|t:|1641699863
+|switch|p1a: Tyranitar|Tyranitar, M, shiny|12/100
+|-damage|p1a: Tyranitar|0 fnt|[from] Stealth Rock
+|faint|p1a: Tyranitar
+|
+|t:|1641699867
+|switch|p1a: Excadrill|Excadrill, M|6/100
+|-damage|p1a: Excadrill|3/100|[from] Stealth Rock
+|turn|53
+|
+|t:|1641699872
+|move|p1a: Excadrill|Focus Blast|p2a: Gastrodon|[miss]
+|-miss|p1a: Excadrill|p2a: Gastrodon
+|move|p2a: Gastrodon|Scald|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gastrodon|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Gastrodon|88/100 tox|[from] psn
+|upkeep
+|
+|t:|1641699881
+|switch|p1a: Hippowdon|Hippowdon, M|14/100 tox
+|-damage|p1a: Hippowdon|7/100 tox|[from] Stealth Rock
+|turn|54
+|
+|t:|1641699885
+|move|p1a: Hippowdon|Substitute|p1a: Hippowdon
+|-fail|p1a: Hippowdon|move: Substitute|[weak]
+|move|p2a: Gastrodon|Scald|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|win|hgfjghjghjghjf
+|raw|srxyyfs's rating: 1018 &rarr; <strong>1005</strong><br />(-13 for losing)
+|raw|hgfjghjghjghjf's rating: 1000 &rarr; <strong>1042</strong><br />(+42 for winning)
+|l|☆srxyyfs

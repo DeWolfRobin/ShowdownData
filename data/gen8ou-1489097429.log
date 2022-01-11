@@ -1,0 +1,199 @@
+|j|☆Samouille
+|j|☆Smart Falcon
+|t:|1641856262
+|gametype|singles
+|player|p1|Samouille|101|1236
+|player|p2|Smart Falcon|shauntal|1296
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Barraskewda, M|
+|poke|p1|Pelipper, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Araquanid, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Clefable, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|poke|p2|Cloyster, M|
+|teampreview
+|
+|t:|1641856272
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|1
+|
+|t:|1641856287
+|move|p1a: Landorus|Stone Edge|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|48/100
+|move|p2a: Zapdos|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|45/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641856295
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Landorus|Stone Edge|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|80/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641856305
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|move|p2a: Kartana|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|61/100
+|-damage|p2a: Kartana|67/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Chople Berry|[from] move: Knock Off|[of] p2a: Kartana
+|-damage|p2a: Kartana|58/100|[from] item: Life Orb
+|
+|upkeep
+|turn|4
+|
+|t:|1641856318
+|switch|p1a: Landorus|Landorus-Therian, M|45/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|move|p2a: Kartana|Sacred Sword|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|26/100
+|-damage|p2a: Kartana|48/100|[from] item: Life Orb
+|
+|upkeep
+|turn|5
+|
+|t:|1641856330
+|move|p1a: Landorus|Earthquake|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641856334
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|turn|6
+|
+|t:|1641856345
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|switch|p2a: Zapdos|Zapdos|48/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641856353
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Tapu Koko|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|84/100
+|
+|t:|1641856360
+|switch|p1a: Pelipper|Pelipper, F|100/100|[from]move: Volt Switch
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641856367
+|move|p1a: Pelipper|Scald|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|53/100
+|move|p2a: Tyranitar|Stone Edge|p1a: Pelipper
+|-supereffective|p1a: Pelipper
+|-crit|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641856376
+|switch|p1a: Landorus|Landorus-Therian, M|26/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|turn|9
+|
+|t:|1641856382
+|switch|p2a: Zapdos|Zapdos|48/100
+|move|p1a: Landorus|Earthquake|p2a: Zapdos
+|-immune|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641856391
+|switch|p1a: Ferrothorn|Ferrothorn, F|61/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|98/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|11
+|
+|t:|1641856399
+|move|p2a: Zapdos|Hurricane|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|21/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Zapdos
+|-start|p2a: Zapdos|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Zapdos|86/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|37/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641856418
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Zapdos|Volt Switch|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|78/100
+|
+|t:|1641856423
+|switch|p2a: Tyranitar|Tyranitar, M|53/100|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Koko|72/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641856431
+|switch|p1a: Landorus|Landorus-Therian, M|26/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|move|p2a: Tyranitar|Stone Edge|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|Samouille forfeited.
+|
+|win|Smart Falcon
+|raw|Samouille's rating: 1236 &rarr; <strong>1215</strong><br />(-21 for losing)
+|raw|Smart Falcon's rating: 1296 &rarr; <strong>1317</strong><br />(+21 for winning)
+|l|☆Samouille

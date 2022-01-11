@@ -1,0 +1,89 @@
+|j|☆German.nn
+|j|☆T-Kizuki_Doma
+|t:|1641842874
+|gametype|singles
+|player|p1|German.nn|102|1158
+|player|p2|T-Kizuki_Doma|caitlin|1125
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Regieleki|
+|poke|p1|Tapu Lele|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Slurpuff, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Heatran, F|
+|poke|p2|Blissey, F|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Weavile, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by German.nn)
+|inactive|T-Kizuki_Doma also wants the timer to be on.
+|
+|t:|1641842890
+|start
+|switch|p1a: Regieleki|Regieleki|100/100
+|switch|p2a: Pô|Urshifu-Rapid-Strike, M|100/100
+|turn|1
+|
+|t:|1641842897
+|move|p1a: Regieleki|Volt Switch|p2a: Pô
+|-supereffective|p2a: Pô
+|-damage|p2a: Pô|0 fnt
+|faint|p2a: Pô
+|
+|t:|1641842910
+|switch|p1a: Pelipper|Pelipper, M|100/100|[from]move: Volt Switch
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641842914
+|switch|p2a: Hello there :3|Slurpuff, F, shiny|100/100
+|turn|2
+|
+|t:|1641842922
+|move|p2a: Hello there :3|Belly Drum|p2a: Hello there :3
+|-damage|p2a: Hello there :3|50/100
+|-setboost|p2a: Hello there :3|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Hello there :3|Sitrus Berry|[eat]
+|-heal|p2a: Hello there :3|75/100|[from] item: Sitrus Berry
+|move|p1a: Pelipper|U-turn|p2a: Hello there :3
+|-resisted|p2a: Hello there :3
+|-damage|p2a: Hello there :3|70/100
+|
+|t:|1641842932
+|switch|p1a: Barraskewda|Barraskewda, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641842942
+|move|p1a: Barraskewda|Liquidation|p2a: Hello there :3
+|-damage|p2a: Hello there :3|0 fnt
+|faint|p2a: Hello there :3
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|T-Kizuki_Doma forfeited.
+|
+|win|German.nn
+|raw|German.nn's rating: 1158 &rarr; <strong>1181</strong><br />(+23 for winning)
+|raw|T-Kizuki_Doma's rating: 1125 &rarr; <strong>1102</strong><br />(-23 for losing)
+|l|☆T-Kizuki_Doma
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

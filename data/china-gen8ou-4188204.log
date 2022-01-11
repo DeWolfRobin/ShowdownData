@@ -1,0 +1,379 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC ginko
+|j|☆SL21CC 东方不败
+|t:|1641742399
+|gametype|singles
+|player|p1|SL21CC ginko|line38324.png|1311
+|player|p2|SL21CC 东方不败|cheryl|1152
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Dragapult, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Cloyster, F|
+|poke|p1|Kartana|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Slowking, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Weavile, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Regieleki|
+|teampreview
+|j|♚The Steel Shadow
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC ginko)
+|j|+dragonitenb
+|j| SL21CC姐ISthequeen
+|j| adreamew
+|
+|t:|1641742444
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|1
+|
+|t:|1641742452
+|move|p1a: Dragapult|Dragon Darts|p2a: Zapdos
+|-damage|p2a: Zapdos|61/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Zapdos
+|-damage|p2a: Zapdos|25/100
+|move|p2a: Zapdos|Brave Bird|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Zapdos|0 fnt|[from] Recoil
+|faint|p2a: Zapdos
+|
+|upkeep
+|j| sdaui
+|
+|t:|1641742465
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|turn|2
+|
+|t:|1641742470
+|move|p1a: Kartana|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|76/100
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|move|p2a: Landorus|Stealth Rock|p1a: Kartana
+|-sidestart|p1: SL21CC ginko|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641742478
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|move|p1a: Kartana|Knock Off|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|84/100
+|-damage|p1a: Kartana|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|
+|upkeep
+|turn|4
+|
+|t:|1641742483
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Ferrothorn|Body Press|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|31/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|5
+|
+|t:|1641742491
+|switch|p2a: Slowking|Slowking, M|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Slowking
+|-sidestart|p2: SL21CC 东方不败|move: Stealth Rock
+|
+|upkeep
+|turn|6
+|j| jingtianlangtaosha
+|
+|t:|1641742497
+|move|p1a: Heatran|Earth Power|p2a: Slowking
+|-damage|p2a: Slowking|79/100
+|move|p2a: Slowking|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641742505
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|turn|7
+|
+|t:|1641742510
+|move|p1a: Moltres|Fiery Wrath|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|27/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641742518
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: Teleport
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|8
+|
+|t:|1641742523
+|switch|p1a: Cloyster|Cloyster, F|100/100
+|move|p2a: Weavile|Triple Axel|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|98/100
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|94/100
+|-hitcount|p1a: Cloyster|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641742537
+|switch|p2a: Ferrothorn|Ferrothorn, M|84/100
+|-damage|p2a: Ferrothorn|78/100|[from] Stealth Rock
+|move|p1a: Cloyster|Icicle Spear|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|71/100
+|-damage|p2a: Ferrothorn|65/100
+|-damage|p2a: Ferrothorn|58/100
+|-damage|p2a: Ferrothorn|51/100
+|-damage|p2a: Ferrothorn|44/100
+|-hitcount|p2a: Ferrothorn|5
+|
+|upkeep
+|turn|10
+|
+|t:|1641742543
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: Ferrothorn|Knock Off|p1a: Cloyster
+|-damage|p1a: Cloyster|67/100
+|-enditem|p1a: Cloyster|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|11
+|
+|t:|1641742547
+|move|p1a: Cloyster|Icicle Spear|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|30/100
+|-damage|p2a: Ferrothorn|17/100
+|-damage|p2a: Ferrothorn|4/100
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|-hitcount|p2: Ferrothorn|4
+|
+|upkeep
+|
+|t:|1641742549
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|12
+|
+|t:|1641742553
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|-damage|p1a: Garchomp|94/100|[from] Stealth Rock
+|move|p2a: Regieleki|Volt Switch|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|upkeep
+|turn|13
+|
+|t:|1641742563
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641742568
+|switch|p1a: Cloyster|Cloyster, F|67/100
+|-damage|p1a: Cloyster|42/100|[from] Stealth Rock
+|move|p2a: Weavile|Triple Axel|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|40/100
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|37/100
+|-hitcount|p1a: Cloyster|2
+|
+|upkeep
+|turn|15
+|
+|t:|1641742576
+|move|p2a: Weavile|Knock Off|p1a: Cloyster
+|-damage|p1a: Cloyster|11/100
+|move|p1a: Cloyster|Icicle Spear|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|90/100
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|79/100
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|69/100
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|59/100
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|48/100
+|-hitcount|p2a: Weavile|5
+|
+|upkeep
+|turn|16
+|
+|t:|1641742581
+|move|p2a: Weavile|Knock Off|p1a: Cloyster
+|-damage|p1a: Cloyster|0 fnt
+|faint|p1a: Cloyster
+|
+|upkeep
+|
+|t:|1641742582
+|switch|p1a: Kartana|Kartana|88/100
+|-damage|p1a: Kartana|82/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641742589
+|switch|p2a: Slowking|Slowking, M|60/100
+|move|p1a: Kartana|Leaf Blade|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641742590
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|18
+|
+|t:|1641742594
+|switch|p1a: Garchomp|Garchomp, F|94/100
+|-damage|p1a: Garchomp|88/100|[from] Stealth Rock
+|move|p2a: Regieleki|Volt Switch|p1a: Garchomp
+|-immune|p1a: Garchomp
+|
+|upkeep
+|turn|19
+|
+|t:|1641742599
+|switch|p2a: Landorus|Landorus-Therian, M|76/100
+|-damage|p2a: Landorus|63/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Scale Shot|p2a: Landorus
+|-damage|p2a: Landorus|56/100
+|-damage|p2a: Landorus|48/100
+|-damage|p2a: Landorus|40/100
+|-hitcount|p2a: Landorus|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|turn|20
+|
+|t:|1641742602
+|switch|p1a: Moltres|Moltres-Galar|100/100
+|move|p2a: Landorus|U-turn|p1a: Moltres
+|-damage|p1a: Moltres|76/100
+|l|+dragonitenb
+|
+|t:|1641742608
+|switch|p2a: Weavile|Weavile, M|48/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|21
+|
+|t:|1641742614
+|move|p2a: Weavile|Triple Axel|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|55/100
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|11/100
+|-hitcount|p1a: Moltres|2
+|-ability|p1a: Moltres|Berserk|boost
+|-boost|p1a: Moltres|spa|1
+|move|p1a: Moltres|Hurricane|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641742617
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|22
+|
+|t:|1641742623
+|move|p2a: Regieleki|Ancient Power|p1a: Moltres
+|-supereffective|p1a: Moltres
+|-damage|p1a: Moltres|0 fnt
+|faint|p1a: Moltres
+|
+|upkeep
+|
+|t:|1641742624
+|switch|p1a: Garchomp|Garchomp, F|88/100
+|-damage|p1a: Garchomp|82/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641742632
+|switch|p2a: Landorus|Landorus-Therian, M|40/100
+|-damage|p2a: Landorus|28/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Scale Shot|p2a: Landorus
+|-damage|p2a: Landorus|20/100
+|-damage|p2a: Landorus|12/100
+|-hitcount|p2a: Landorus|2
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|turn|24
+|
+|t:|1641742647
+|switch|p1a: Kartana|Kartana|82/100
+|-damage|p1a: Kartana|76/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Kartana
+|-damage|p1a: Kartana|26/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641742651
+|switch|p2a: Regieleki|Regieleki|100/100
+|move|p1a: Kartana|Leaf Blade|p2a: Regieleki
+|-damage|p2a: Regieleki|0 fnt
+|faint|p2a: Regieleki
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|-message|SL21CC 东方不败 forfeited.
+|
+|win|SL21CC ginko
+|raw|SL21CC ginko's rating: 1311 &rarr; <strong>1320</strong><br />(+9 for winning)
+|raw|SL21CC 东方不败's rating: 1152 &rarr; <strong>1140</strong><br />(-12 for losing)
+|l|♚The Steel Shadow
+|l| jingtianlangtaosha
+|l|☆SL21CC ginko
+|l| SL21CC姐ISthequeen
+|l| sdaui

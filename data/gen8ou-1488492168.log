@@ -1,0 +1,474 @@
+|j|☆nich6las
+|j|☆jcrocker123
+|t:|1641772375
+|gametype|singles
+|player|p1|nich6las|101|1103
+|player|p2|jcrocker123|266|1126
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Tapu Koko|
+|poke|p2|Milotic, F|
+|poke|p2|Scizor, M|
+|poke|p2|Uxie|
+|poke|p2|Ninetales, M|
+|poke|p2|Flygon, F|
+|poke|p2|Toxtricity, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by nich6las)
+|
+|t:|1641772432
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Uxie|Uxie|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|
+|t:|1641772439
+|move|p1a: Tapu Koko|U-turn|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|78/100
+|
+|t:|1641772443
+|switch|p1a: Dragapult|Dragapult, F|100/100|[from]move: U-turn
+|move|p2a: Uxie|Light Screen|p2a: Uxie
+|-sidestart|p2: jcrocker123|move: Light Screen
+|
+|upkeep
+|turn|2
+|
+|t:|1641772465
+|move|p1a: Dragapult|Shadow Ball|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|49/100
+|-unboost|p2a: Uxie|spd|1
+|-damage|p1a: Dragapult|91/100|[from] item: Life Orb
+|move|p2a: Uxie|Reflect|p2a: Uxie
+|-sidestart|p2: jcrocker123|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1641772472
+|move|p1a: Dragapult|Shadow Ball|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|9/100
+|-damage|p1a: Dragapult|81/100|[from] item: Life Orb
+|move|p2a: Uxie|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: nich6las|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641772480
+|move|p1a: Dragapult|Shadow Ball|p2a: Uxie
+|-supereffective|p2a: Uxie
+|-damage|p2a: Uxie|0 fnt
+|faint|p2a: Uxie
+|-damage|p1a: Dragapult|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641772487
+|switch|p2a: Ninetales|Ninetales, M, shiny|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Ninetales
+|turn|5
+|
+|t:|1641772494
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Ninetales|Nasty Plot|p2a: Ninetales
+|-boost|p2a: Ninetales|spa|2
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641772511
+|switch|p1a: Dragapult|Dragapult, F|71/100
+|-damage|p1a: Dragapult|59/100|[from] Stealth Rock
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|25/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641772521
+|move|p1a: Dragapult|Surf|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|83/100
+|-damage|p1a: Dragapult|15/100|[from] item: Life Orb
+|move|p2a: Ninetales|Shadow Ball|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|89/100|[from] item: Leftovers
+|upkeep
+|inactive|nich6las has 120 seconds left.
+|
+|t:|1641772561
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Ninetales|atk|1
+|turn|8
+|
+|t:|1641772570
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Landorus
+|-damage|p1a: Landorus|26/100
+|move|p1a: Landorus|Earthquake|p2a: Ninetales
+|-supereffective|p2a: Ninetales
+|-damage|p2a: Ninetales|14/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Ninetales|20/100|[from] item: Leftovers
+|-heal|p1a: Landorus|32/100|[from] item: Leftovers
+|-sideend|p2: jcrocker123|move: Light Screen
+|upkeep
+|turn|9
+|
+|t:|1641772581
+|move|p2a: Ninetales|Solar Beam||[still]
+|-prepare|p2a: Ninetales|Solar Beam
+|-anim|p2a: Ninetales|Solar Beam|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|none
+|-heal|p2a: Ninetales|27/100|[from] item: Leftovers
+|-sideend|p2: jcrocker123|Reflect
+|upkeep
+|
+|t:|1641772593
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|10
+|
+|t:|1641772598
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Ninetales
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|upkeep
+|
+|t:|1641772618
+|switch|p2a: Toxtricity|Toxtricity, F|100/100
+|turn|11
+|inactive|nich6las has 120 seconds left.
+|inactive|nich6las has 90 seconds left.
+|
+|t:|1641772662
+|move|p1a: Tapu Koko|U-turn|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|87/100
+|inactive|nich6las has 90 seconds left.
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641772698
+|switch|p1a: Heatran|Heatran, M|100/100|[from]move: U-turn
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Toxtricity|Sludge Wave|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|upkeep
+|turn|12
+|
+|t:|1641772716
+|switch|p2a: Milotic|Milotic, F|100/100
+|move|p1a: Heatran|Earth Power|p2a: Milotic
+|-damage|p2a: Milotic|76/100
+|
+|-status|p2a: Milotic|brn|[from] item: Flame Orb
+|upkeep
+|turn|13
+|
+|t:|1641772730
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Milotic|Recover|p2a: Milotic
+|-heal|p2a: Milotic|100/100 brn
+|
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p2a: Milotic|94/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641772740
+|switch|p2a: Flygon|Flygon, F|100/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Flygon
+|-damage|p2a: Flygon|70/100
+|-enditem|p2a: Flygon|Dragon Fang|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|15
+|
+|t:|1641772758
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|move|p2a: Flygon|Fire Punch|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|82/100
+|-damage|p2a: Flygon|53/100|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|
+|upkeep
+|turn|16
+|
+|t:|1641772778
+|move|p2a: Flygon|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|28/100
+|move|p1a: Toxapex|Toxic|p2a: Flygon
+|-status|p2a: Flygon|tox
+|
+|-damage|p2a: Flygon|47/100 tox|[from] psn
+|upkeep
+|turn|17
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641772828
+|move|p2a: Flygon|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-damage|p2a: Flygon|35/100 tox|[from] psn
+|upkeep
+|
+|t:|1641772833
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|18
+|
+|t:|1641772841
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Flygon
+|-supereffective|p2a: Flygon
+|-damage|p2a: Flygon|0 fnt
+|faint|p2a: Flygon
+|
+|upkeep
+|
+|t:|1641772848
+|switch|p2a: Toxtricity|Toxtricity, F|87/100
+|turn|19
+|
+|t:|1641772854
+|move|p1a: Tapu Koko|U-turn|p2a: Toxtricity
+|-resisted|p2a: Toxtricity
+|-damage|p2a: Toxtricity|74/100
+|
+|t:|1641772857
+|switch|p1a: Heatran|Heatran, M|88/100|[from]move: U-turn
+|-damage|p1a: Heatran|76/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Toxtricity|Boomburst|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|33/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|upkeep
+|turn|20
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641772871
+|move|p2a: Toxtricity|Boomburst|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641772881
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|turn|21
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641772893
+|move|p2a: Toxtricity|Boomburst|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|67/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxtricity
+|-start|p2a: Toxtricity|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|73/100|[from] item: Leftovers
+|-damage|p2a: Toxtricity|62/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|83/100|[silent]
+|upkeep
+|turn|22
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641772914
+|switch|p2a: Scizor|Scizor, M|100/100
+|move|p1a: Ferrothorn|Spikes|p2a: Scizor
+|-sidestart|p2: jcrocker123|Spikes
+|
+|-heal|p1a: Ferrothorn|90/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|23
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641772924
+|move|p2a: Scizor|X-Scissor|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|56/100
+|-damage|p2a: Scizor|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Body Press|p2a: Scizor
+|-damage|p2a: Scizor|64/100
+|
+|-heal|p1a: Ferrothorn|62/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641772934
+|move|p2a: Scizor|X-Scissor|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|27/100
+|-damage|p2a: Scizor|52/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Scizor
+|-start|p2a: Scizor|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|33/100|[from] item: Leftovers
+|-damage|p2a: Scizor|39/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|44/100|[silent]
+|upkeep
+|turn|25
+|
+|t:|1641772949
+|switch|p2a: Milotic|Milotic, F|94/100 brn
+|-damage|p2a: Milotic|82/100 brn|[from] Spikes
+|move|p1a: Ferrothorn|Body Press|p2a: Milotic
+|-damage|p2a: Milotic|66/100 brn
+|
+|-heal|p1a: Ferrothorn|50/100|[from] item: Leftovers
+|-damage|p2a: Milotic|60/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641772963
+|move|p2a: Milotic|Ice Beam|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|36/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Milotic
+|-start|p2a: Milotic|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|43/100|[from] item: Leftovers
+|-damage|p2a: Milotic|47/100 brn|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|55/100|[silent]
+|-damage|p2a: Milotic|41/100 brn|[from] brn
+|upkeep
+|turn|27
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641772979
+|move|p2a: Milotic|Ice Beam|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|41/100
+|move|p1a: Ferrothorn|Spikes|p2a: Milotic
+|-sidestart|p2: jcrocker123|Spikes
+|
+|-heal|p1a: Ferrothorn|47/100|[from] item: Leftovers
+|-damage|p2a: Milotic|29/100 brn|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|60/100|[silent]
+|-damage|p2a: Milotic|23/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641772988
+|move|p2a: Milotic|Ice Beam|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|45/100
+|move|p1a: Ferrothorn|Knock Off|p2a: Milotic
+|-damage|p2a: Milotic|7/100 brn
+|-enditem|p2a: Milotic|Flame Orb|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|51/100|[from] item: Leftovers
+|-damage|p2a: Milotic|0 fnt|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|58/100|[silent]
+|faint|p2a: Milotic
+|upkeep
+|
+|t:|1641772999
+|switch|p2a: Toxtricity|Toxtricity, F|62/100
+|-damage|p2a: Toxtricity|46/100|[from] Spikes
+|turn|29
+|
+|t:|1641773006
+|move|p2a: Toxtricity|Fire Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|8/100
+|-damage|p2a: Toxtricity|33/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Toxtricity
+|-start|p2a: Toxtricity|move: Leech Seed
+|
+|-heal|p1a: Ferrothorn|14/100|[from] item: Leftovers
+|-damage|p2a: Toxtricity|21/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|25/100|[silent]
+|upkeep
+|turn|30
+|inactive|nich6las has 60 seconds left.
+|
+|t:|1641773042
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Toxtricity|Fire Punch|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|80/100
+|
+|-damage|p2a: Toxtricity|9/100|[from] Leech Seed|[of] p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|93/100|[silent]
+|upkeep
+|turn|31
+|
+|t:|1641773056
+|switch|p2a: Scizor|Scizor, M|39/100
+|-damage|p2a: Scizor|23/100|[from] Spikes
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|1/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641773063
+|move|p2a: Scizor|Bullet Punch|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|35/100
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Scizor
+|-resisted|p2a: Scizor
+|-crit|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1641773070
+|switch|p2a: Toxtricity|Toxtricity, F|9/100
+|-damage|p2a: Toxtricity|0 fnt|[from] Spikes
+|faint|p2a: Toxtricity
+|
+|win|nich6las
+|raw|nich6las's rating: 1103 &rarr; <strong>1130</strong><br />(+27 for winning)
+|raw|jcrocker123's rating: 1126 &rarr; <strong>1099</strong><br />(-27 for losing)
+|l|☆jcrocker123
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

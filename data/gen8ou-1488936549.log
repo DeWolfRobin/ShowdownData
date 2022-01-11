@@ -1,0 +1,173 @@
+|j|☆Haxxhatred
+|j|☆Ram1el
+|t:|1641838382
+|gametype|singles
+|player|p1|Haxxhatred|170|1303
+|player|p2|Ram1el|cynthia-gen4|1296
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Aerodactyl, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Weavile, M|
+|poke|p1|Latias, F|
+|poke|p1|Gengar, F|
+|poke|p1|Tyranitar, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Heatran, F|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Rotom-Wash|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ram1el)
+|
+|t:|1641838396
+|start
+|switch|p1a: Latias|Latias, F|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Latias|atk|1
+|turn|1
+|
+|t:|1641838405
+|move|p2a: Landorus|Knock Off|p1a: Latias
+|-supereffective|p1a: Latias
+|-damage|p1a: Latias|18/100
+|-enditem|p1a: Latias|Life Orb|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Latias|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641838413
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|2
+|
+|t:|1641838417
+|move|p2a: Rotom|Volt Switch|p1a: Latias
+|-resisted|p1a: Latias
+|-damage|p1a: Latias|6/100
+|
+|t:|1641838422
+|switch|p2a: Corviknight|Corviknight, F|100/100|[from]move: Volt Switch
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Latias|Psyshock|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100
+|
+|-heal|p2a: Corviknight|91/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641838437
+|move|p1a: Latias|Mystical Fire|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|52/100
+|-unboost|p2a: Corviknight|spa|1
+|move|p2a: Corviknight|Brave Bird|p1a: Latias
+|-damage|p1a: Latias|0 fnt
+|faint|p1a: Latias
+|-damage|p2a: Corviknight|50/100|[from] Recoil
+|
+|-heal|p2a: Corviknight|57/100|[from] item: Leftovers
+|upkeep
+|inactive|Haxxhatred has 120 seconds left.
+|
+|t:|1641838463
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|4
+|
+|t:|1641838473
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Weavile|Triple Axel|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|97/100
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|91/100
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|83/100
+|-hitcount|p2a: Heatran|3
+|-damage|p1a: Weavile|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Heatran|89/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641838492
+|switch|p1a: Aerodactyl|Aerodactyl, M|100/100
+|-ability|p1a: Aerodactyl|Pressure
+|move|p2a: Heatran|Stealth Rock|p1a: Aerodactyl
+|-sidestart|p1: Haxxhatred|move: Stealth Rock
+|
+|-heal|p2a: Heatran|96/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641838512
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Aerodactyl|Defog|p2a: Zapdos
+|-unboost|p2a: Zapdos|evasion|1
+|-sideend|p1: Haxxhatred|Stealth Rock|[from] move: Defog|[of] p1a: Aerodactyl
+|
+|upkeep
+|turn|7
+|
+|t:|1641838519
+|move|p1a: Aerodactyl|Stone Edge|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|8/100
+|move|p2a: Zapdos|Volt Switch|p1a: Aerodactyl
+|-supereffective|p1a: Aerodactyl
+|-damage|p1a: Aerodactyl|20/100
+|
+|t:|1641838525
+|switch|p2a: Rotom|Rotom-Wash|100/100|[from]move: Volt Switch
+|
+|-heal|p1a: Aerodactyl|26/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641838536
+|move|p2a: Rotom|Volt Switch|p1a: Aerodactyl
+|-supereffective|p1a: Aerodactyl
+|-damage|p1a: Aerodactyl|0 fnt
+|faint|p1a: Aerodactyl
+|
+|t:|1641838548
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|
+|t:|1641838552
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|9
+|
+|t:|1641838566
+|move|p1a: Tyranitar|Fire Blast|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|-message|Ram1el forfeited.
+|
+|win|Haxxhatred
+|raw|Haxxhatred's rating: 1303 &rarr; <strong>1323</strong><br />(+20 for winning)
+|raw|Ram1el's rating: 1296 &rarr; <strong>1272</strong><br />(-24 for losing)
+|l|☆Ram1el

@@ -1,0 +1,289 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Mcdonald's
+|j|☆SL21CC 东方不败
+|t:|1641822443
+|gametype|singles
+|player|p1|SL21CC Mcdonald's|101|1205
+|player|p2|SL21CC 东方不败|cheryl|1243
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro-Galar, F|
+|poke|p1|Seismitoad, F|
+|poke|p1|Mew|
+|poke|p1|Melmetal|
+|poke|p1|Clefable, M|
+|poke|p1|Zapdos|
+|poke|p2|Tapu Lele|
+|poke|p2|Victini|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|poke|p2|Melmetal|
+|poke|p2|Dragapult, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Mcdonald's)
+|j| adreamew
+|
+|t:|1641822466
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melmetal|atk|1
+|turn|1
+|
+|t:|1641822469
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Landorus|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|upkeep
+|turn|2
+|
+|t:|1641822478
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Clefable
+|-sidestart|p1: SL21CC Mcdonald's|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641822480
+|move|p1a: Clefable|Thunder|p2a: Landorus
+|-immune|p2a: Landorus
+|move|p2a: Landorus|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641822491
+|switch|p1a: Mew|Mew|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1641822501
+|move|p1a: Mew|Triple Axel|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|76/100
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|28/100
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|3
+|
+|upkeep
+|j| SL21CC姐ISthequeen
+|
+|t:|1641822507
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|5
+|
+|t:|1641822511
+|switch|p1a: Seismitoad|Seismitoad, F|100/100
+|-damage|p1a: Seismitoad|94/100|[from] Stealth Rock
+|move|p2a: Dragapult|Shadow Ball|p1a: Seismitoad
+|-damage|p1a: Seismitoad|55/100
+|
+|-heal|p1a: Seismitoad|61/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|j| SL21CC tangkeke
+|
+|t:|1641822522
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Seismitoad|Earthquake|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|68/100
+|
+|-heal|p1a: Seismitoad|67/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|c| SL21CC姐ISthequeen|fkfky你的螺母能行吗
+|
+|t:|1641822528
+|move|p1a: Seismitoad|Scald|p2a: Melmetal
+|-damage|p2a: Melmetal|51/100
+|-status|p2a: Melmetal|brn
+|move|p2a: Melmetal|Earthquake|p1a: Seismitoad
+|-damage|p1a: Seismitoad|45/100
+|
+|-heal|p1a: Seismitoad|51/100|[from] item: Leftovers
+|-damage|p2a: Melmetal|45/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641822534
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Seismitoad|Stealth Rock|p2a: Tapu Lele
+|-sidestart|p2: SL21CC 东方不败|move: Stealth Rock
+|
+|-heal|p1a: Seismitoad|57/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641822541
+|move|p2a: Tapu Lele|Moonblast|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|faint|p1a: Seismitoad
+|
+|upkeep
+|
+|t:|1641822546
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|turn|10
+|j| rffydsdhh
+|-activate|p1a: Melmetal|item: Quick Claw
+|
+|t:|1641822551
+|switch|p2a: Victini|Victini|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Victini
+|-resisted|p2a: Victini
+|-crit|p2a: Victini
+|-damage|p2a: Victini|64/100
+|-resisted|p2a: Victini
+|-damage|p2a: Victini|40/100
+|-hitcount|p2a: Victini|2
+|
+|upkeep
+|turn|11
+|
+|t:|1641822554
+|move|p2a: Victini|V-create|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|22/100
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|move|p1a: Melmetal|Earthquake|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|upkeep
+|l| rffydsdhh
+|
+|t:|1641822561
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641822563
+|move|p2a: Kartana|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|-enditem|p1a: Melmetal|Quick Claw|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Melmetal
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641822565
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|13
+|j| Mist Dispersion
+|j| jiokopg_fkok43
+|
+|t:|1641822568
+|switch|p2a: Melmetal|Melmetal|45/100 brn
+|-damage|p2a: Melmetal|39/100 brn|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Melmetal|[miss]
+|-miss|p1a: Zapdos|p2a: Melmetal
+|
+|-damage|p2a: Melmetal|33/100 brn|[from] brn
+|upkeep
+|turn|14
+|j| Water gh0st
+|
+|t:|1641822575
+|move|p1a: Zapdos|Thunderbolt|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641822577
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|15
+|
+|t:|1641822588
+|move|p2a: Tapu Lele|Psyshock|p1a: Zapdos
+|-damage|p1a: Zapdos|6/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|35/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641822594
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|move|p1a: Zapdos|Hurricane|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641822597
+|switch|p2a: Kartana|Kartana|94/100
+|-damage|p2a: Kartana|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641822601
+|move|p2a: Kartana|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Zapdos
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641822603
+|switch|p1a: Slowbro|Slowbro-Galar, F|100/100
+|-damage|p1a: Slowbro|88/100|[from] Stealth Rock
+|turn|18
+|
+|t:|1641822608
+|move|p2a: Kartana|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|-enditem|p1a: Slowbro|Quick Claw|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Slowbro
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641822610
+|switch|p1a: Mew|Mew|88/100
+|-damage|p1a: Mew|76/100|[from] Stealth Rock
+|turn|19
+|c|☆SL21CC 东方不败|哎
+|
+|t:|1641822615
+|move|p2a: Kartana|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|-enditem|p1a: Mew|Protective Pads|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Mew
+|
+|win|SL21CC 东方不败
+|raw|SL21CC Mcdonald&apos;s's rating: 1205 &rarr; <strong>1191</strong><br />(-14 for losing)
+|raw|SL21CC 东方不败's rating: 1243 &rarr; <strong>1258</strong><br />(+15 for winning)

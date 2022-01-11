@@ -1,0 +1,688 @@
+|j|☆8jaggery
+|j|☆Obrik
+|t:|1641739977
+|gametype|singles
+|player|p1|8jaggery|102|1256
+|player|p2|Obrik|juan|1345
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Heatran, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Clefable, M|
+|poke|p1|Blastoise, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Buzzwole|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Corviknight, M|
+|poke|p2|Tapu Koko|
+|teampreview
+|j| Jementel
+|
+|t:|1641740028
+|start
+|switch|p1a: Blastoise|Blastoise, F|100/100
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Blastoise|atk|1
+|-enditem|p1a: Blastoise|White Herb
+|-clearnegativeboost|p1a: Blastoise|[silent]
+|turn|1
+|
+|t:|1641740047
+|switch|p2a: Mantra|Slowking-Galar, M, shiny|100/100
+|move|p1a: Blastoise|Shell Smash|p1a: Blastoise
+|-unboost|p1a: Blastoise|def|1
+|-unboost|p1a: Blastoise|spd|1
+|-boost|p1a: Blastoise|atk|2
+|-boost|p1a: Blastoise|spa|2
+|-boost|p1a: Blastoise|spe|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641740064
+|move|p1a: Blastoise|Surf|p2a: Mantra
+|-damage|p2a: Mantra|65/100
+|move|p2a: Mantra|Sludge Bomb|p1a: Blastoise
+|-damage|p1a: Blastoise|48/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641740084
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Mantra|Sludge Bomb|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|upkeep
+|turn|4
+|
+|t:|1641740095
+|move|p1a: Heatran|Stealth Rock|p2a: Mantra
+|-sidestart|p2: Obrik|move: Stealth Rock
+|move|p2a: Mantra|Future Sight|p1a: Heatran
+|-start|p2a: Mantra|move: Future Sight
+|
+|upkeep
+|turn|5
+|
+|t:|1641740110
+|switch|p2a: Raven|Tapu Fini, shiny|100/100
+|-damage|p2a: Raven|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Raven
+|move|p1a: Heatran|Flamethrower|p2a: Raven
+|-resisted|p2a: Raven
+|-damage|p2a: Raven|71/100
+|
+|-heal|p2a: Raven|77/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641740126
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Raven|Draining Kiss|p1a: Rillaboom
+|-damage|p1a: Rillaboom|82/100
+|-heal|p2a: Raven|92/100|[from] drain|[of] p1a: Rillaboom
+|
+|-end|p1a: Rillaboom|move: Future Sight
+|-damage|p1a: Rillaboom|34/100
+|-heal|p1a: Rillaboom|40/100|[from] Grassy Terrain
+|-heal|p2a: Raven|98/100|[from] Grassy Terrain
+|-heal|p2a: Raven|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641740138
+|switch|p2a: Yami|Corviknight, M, shiny|100/100
+|-damage|p2a: Yami|88/100|[from] Stealth Rock
+|-ability|p2a: Yami|Pressure
+|move|p1a: Rillaboom|Grassy Glide|p2a: Yami
+|-resisted|p2a: Yami
+|-damage|p2a: Yami|77/100
+|
+|-heal|p1a: Rillaboom|46/100|[from] Grassy Terrain
+|-heal|p2a: Yami|83/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641740172
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Yami|U-turn|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|97/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|t:|1641740189
+|switch|p2a: Vilgax|Buzzwole, shiny|100/100|[from]move: U-turn
+|
+|-heal|p1a: Heatran|100/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1641740210
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Vilgax|Close Combat|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|67/100
+|-unboost|p2a: Vilgax|def|1
+|-unboost|p2a: Vilgax|spd|1
+|
+|-heal|p1a: Clefable|73/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|79/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641740219
+|switch|p2a: Mantra|Slowking-Galar, M, shiny|99/100
+|-damage|p2a: Mantra|86/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Mantra
+|-resisted|p2a: Mantra
+|-damage|p2a: Mantra|79/100
+|
+|-heal|p1a: Clefable|85/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|91/100|[from] item: Leftovers
+|-heal|p2a: Mantra|85/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641740238
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|move|p2a: Mantra|Future Sight|p1a: Hawlucha
+|-start|p2a: Mantra|move: Future Sight
+|
+|upkeep
+|turn|12
+|
+|t:|1641740254
+|switch|p2a: Raven|Tapu Fini, shiny|100/100
+|-damage|p2a: Raven|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Raven
+|move|p1a: Hawlucha|Throat Chop|p2a: Raven
+|-resisted|p2a: Raven
+|-damage|p2a: Raven|81/100
+|-start|p2a: Raven|Throat Chop|[silent]
+|
+|-heal|p2a: Raven|87/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641740276
+|switch|p1a: Clefable|Clefable, M|91/100
+|move|p2a: Raven|Draining Kiss|p1a: Clefable
+|-damage|p1a: Clefable|79/100
+|-heal|p2a: Raven|97/100|[from] drain|[of] p1a: Clefable
+|
+|-end|p1a: Clefable|move: Future Sight
+|-damage|p1a: Clefable|47/100
+|-heal|p2a: Raven|100/100|[from] item: Leftovers
+|-heal|p1a: Clefable|54/100|[from] item: Leftovers
+|-end|p2a: Raven|Throat Chop|[silent]
+|upkeep
+|turn|14
+|
+|t:|1641740299
+|switch|p2a: Vilgax|Buzzwole, shiny|100/100
+|move|p1a: Clefable|Moonlight|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641740316
+|switch|p2a: Mantra|Slowking-Galar, M, shiny|100/100
+|-damage|p2a: Mantra|88/100|[from] Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Mantra
+|-resisted|p2a: Mantra
+|-damage|p2a: Mantra|81/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641740339
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Mantra|Future Sight|p1a: Heatran
+|-start|p2a: Mantra|move: Future Sight
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|17
+|
+|t:|1641740351
+|move|p1a: Heatran|Flamethrower|p2a: Mantra
+|-damage|p2a: Mantra|58/100
+|move|p2a: Mantra|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|50/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641740388
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Mantra|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|81/100
+|
+|-end|p1a: Clefable|move: Future Sight
+|-damage|p1a: Clefable|50/100
+|-heal|p1a: Clefable|56/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641740401
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|move|p2a: Mantra|Future Sight|p1a: Hawlucha
+|-start|p2a: Mantra|move: Future Sight
+|
+|upkeep
+|turn|20
+|
+|t:|1641740415
+|switch|p2a: Quintessa|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Quintessa
+|move|p1a: Hawlucha|Throat Chop|p2a: Quintessa
+|-resisted|p2a: Quintessa
+|-damage|p2a: Quintessa|83/100
+|-start|p2a: Quintessa|Throat Chop|[silent]
+|
+|upkeep
+|turn|21
+|
+|t:|1641740450
+|switch|p1a: Rillaboom|Rillaboom, M|46/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Quintessa|Thunderbolt|p1a: Rillaboom
+|-resisted|p1a: Rillaboom
+|-damage|p1a: Rillaboom|24/100
+|
+|-end|p1a: Rillaboom|move: Future Sight
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-heal|p2a: Quintessa|89/100|[from] Grassy Terrain
+|-end|p2a: Quintessa|Throat Chop|[silent]
+|upkeep
+|l|☆8jaggery
+|player|p1|
+|j|☆8jaggery
+|player|p1|8jaggery|102
+|
+|t:|1641740514
+|switch|p1a: Heatran|Heatran, F|50/100
+|turn|22
+|
+|t:|1641740547
+|switch|p2a: Mantra|Slowking-Galar, M, shiny|91/100
+|-damage|p2a: Mantra|79/100|[from] Stealth Rock
+|move|p1a: Heatran|Flamethrower|p2a: Mantra
+|-damage|p2a: Mantra|58/100
+|
+|-heal|p1a: Heatran|56/100|[from] Grassy Terrain
+|-heal|p2a: Mantra|64/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1641740564
+|move|p1a: Heatran|Earth Power|p2a: Mantra
+|-supereffective|p2a: Mantra
+|-damage|p2a: Mantra|35/100
+|move|p2a: Mantra|Future Sight|p1a: Heatran
+|-start|p2a: Mantra|move: Future Sight
+|
+|-heal|p1a: Heatran|62/100|[from] Grassy Terrain
+|-heal|p2a: Mantra|41/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|
+|t:|1641740572
+|move|p1a: Heatran|Earth Power|p2a: Mantra
+|-supereffective|p2a: Mantra
+|-damage|p2a: Mantra|9/100
+|move|p2a: Mantra|Sludge Bomb|p1a: Heatran
+|-immune|p1a: Heatran
+|
+|-heal|p1a: Heatran|68/100|[from] Grassy Terrain
+|-heal|p2a: Mantra|15/100|[from] Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1641740605
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Raven|Tapu Fini, shiny|100/100
+|-damage|p2a: Raven|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Raven
+|
+|-end|p1a: Dragapult|move: Future Sight
+|-damage|p1a: Dragapult|44/100
+|-heal|p2a: Raven|94/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641740616
+|switch|p1a: Clefable|Clefable, M|56/100
+|move|p2a: Raven|Calm Mind|p2a: Raven
+|-boost|p2a: Raven|spa|1
+|-boost|p2a: Raven|spd|1
+|
+|-heal|p2a: Raven|100/100|[from] item: Leftovers
+|-heal|p1a: Clefable|62/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641740628
+|move|p2a: Raven|Taunt|p1a: Clefable
+|-start|p1a: Clefable|move: Taunt
+|move|p1a: Clefable|Moonblast|p2a: Raven
+|-damage|p2a: Raven|75/100
+|
+|-heal|p2a: Raven|81/100|[from] item: Leftovers
+|-heal|p1a: Clefable|68/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641740643
+|move|p2a: Raven|Calm Mind|p2a: Raven
+|-boost|p2a: Raven|spa|1
+|-boost|p2a: Raven|spd|1
+|move|p1a: Clefable|Moonblast|p2a: Raven
+|-damage|p2a: Raven|56/100
+|-unboost|p2a: Raven|spa|1
+|
+|-heal|p2a: Raven|63/100|[from] item: Leftovers
+|-heal|p1a: Clefable|74/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641740653
+|move|p2a: Raven|Draining Kiss|p1a: Clefable
+|-damage|p1a: Clefable|63/100
+|-heal|p2a: Raven|73/100|[from] drain|[of] p1a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Raven
+|-damage|p2a: Raven|47/100
+|
+|-heal|p2a: Raven|53/100|[from] item: Leftovers
+|-heal|p1a: Clefable|69/100|[from] item: Leftovers
+|-end|p1a: Clefable|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|30
+|
+|t:|1641740663
+|move|p2a: Raven|Taunt|p1a: Clefable
+|-start|p1a: Clefable|move: Taunt
+|move|p1a: Clefable|Moonblast|p2a: Raven
+|-damage|p2a: Raven|31/100
+|-unboost|p2a: Raven|spa|1
+|
+|-heal|p2a: Raven|37/100|[from] item: Leftovers
+|-heal|p1a: Clefable|75/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641740672
+|switch|p2a: Yami|Corviknight, M, shiny|83/100
+|-damage|p2a: Yami|71/100|[from] Stealth Rock
+|-ability|p2a: Yami|Pressure
+|move|p1a: Clefable|Moonblast|p2a: Yami
+|-resisted|p2a: Yami
+|-damage|p2a: Yami|61/100
+|-unboost|p2a: Yami|spa|1
+|
+|-heal|p2a: Yami|67/100|[from] item: Leftovers
+|-heal|p1a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|turn|32
+|
+|t:|1641740687
+|switch|p1a: Heatran|Heatran, F|68/100
+|move|p2a: Yami|Defog|p1a: Heatran
+|-unboost|p1a: Heatran|evasion|1
+|-sideend|p2: Obrik|Stealth Rock|[from] move: Defog|[of] p2a: Yami
+|
+|-heal|p2a: Yami|73/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641740698
+|switch|p2a: Mantra|Slowking-Galar, M, shiny|49/100
+|move|p1a: Heatran|Stealth Rock|p2a: Mantra
+|-sidestart|p2: Obrik|move: Stealth Rock
+|
+|upkeep
+|turn|34
+|
+|t:|1641740713
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|move|p2a: Mantra|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|upkeep
+|turn|35
+|
+|t:|1641740736
+|switch|p2a: Yami|Corviknight, M, shiny|73/100
+|-damage|p2a: Yami|60/100|[from] Stealth Rock
+|-ability|p2a: Yami|Pressure
+|move|p1a: Hawlucha|Throat Chop|p2a: Yami
+|-damage|p2a: Yami|42/100
+|-start|p2a: Yami|Throat Chop|[silent]
+|
+|-heal|p2a: Yami|48/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641740754
+|move|p1a: Hawlucha|Close Combat|p2a: Yami
+|-damage|p2a: Yami|1/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|move|p2a: Yami|Roost|p2a: Yami
+|-heal|p2a: Yami|51/100
+|-singleturn|p2a: Yami|move: Roost
+|
+|-heal|p2a: Yami|57/100|[from] item: Leftovers
+|-end|p2a: Yami|Throat Chop|[silent]
+|upkeep
+|turn|37
+|
+|t:|1641740787
+|switch|p1a: Heatran|Heatran, F|68/100
+|move|p2a: Yami|Roost|p2a: Yami
+|-heal|p2a: Yami|100/100
+|-singleturn|p2a: Yami|move: Roost
+|
+|upkeep
+|turn|38
+|
+|t:|1641740820
+|switch|p2a: Mantra|Slowking-Galar, M, shiny|82/100
+|-damage|p2a: Mantra|69/100|[from] Stealth Rock
+|move|p1a: Heatran|Flamethrower|p2a: Mantra
+|-damage|p2a: Mantra|48/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641740831
+|move|p1a: Heatran|Earth Power|p2a: Mantra
+|-supereffective|p2a: Mantra
+|-damage|p2a: Mantra|19/100
+|move|p2a: Mantra|Future Sight|p1a: Heatran
+|-start|p2a: Mantra|move: Future Sight
+|
+|upkeep
+|turn|40
+|
+|t:|1641740843
+|switch|p2a: Raven|Tapu Fini, shiny|37/100
+|-damage|p2a: Raven|24/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Raven
+|move|p1a: Heatran|Earth Power|p2a: Raven
+|-damage|p2a: Raven|1/100
+|
+|-heal|p2a: Raven|7/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641740854
+|switch|p2a: Mantra|Slowking-Galar, M, shiny|53/100
+|-damage|p2a: Mantra|40/100|[from] Stealth Rock
+|switch|p1a: Clefable|Clefable, M|81/100
+|
+|-end|p1a: Clefable|move: Future Sight
+|-damage|p1a: Clefable|53/100
+|-heal|p1a: Clefable|59/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641740879
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|move|p2a: Mantra|Sludge Bomb|p1a: Hawlucha
+|-damage|p1a: Hawlucha|42/100
+|-status|p1a: Hawlucha|psn
+|
+|-damage|p1a: Hawlucha|29/100 psn|[from] psn
+|upkeep
+|turn|43
+|
+|t:|1641740889
+|switch|p2a: Yami|Corviknight, M, shiny|100/100
+|-damage|p2a: Yami|88/100|[from] Stealth Rock
+|-ability|p2a: Yami|Pressure
+|move|p1a: Hawlucha|Close Combat|p2a: Yami
+|-damage|p2a: Yami|42/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|
+|-heal|p2a: Yami|48/100|[from] item: Leftovers
+|-damage|p1a: Hawlucha|17/100 psn|[from] psn
+|upkeep
+|turn|44
+|
+|t:|1641740905
+|switch|p1a: Heatran|Heatran, F|68/100
+|move|p2a: Yami|Roost|p2a: Yami
+|-heal|p2a: Yami|98/100
+|-singleturn|p2a: Yami|move: Roost
+|
+|-heal|p2a: Yami|100/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|45
+|
+|t:|1641740915
+|switch|p2a: Raven|Tapu Fini, shiny|7/100
+|-damage|p2a: Raven|0 fnt|[from] Stealth Rock
+|faint|p2a: Raven
+|move|p1a: Heatran|Flamethrower|p2: Raven|[notarget]
+|-fail|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641740927
+|switch|p2a: Enten|Landorus-Therian, M, shiny|100/100
+|-damage|p2a: Enten|88/100|[from] Stealth Rock
+|-ability|p2a: Enten|Intimidate|boost
+|-unboost|p1a: Heatran|atk|1
+|turn|46
+|
+|t:|1641740939
+|switch|p1a: Clefable|Clefable, M|59/100
+|move|p2a: Enten|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|8/100
+|
+|-heal|p2a: Enten|94/100|[from] item: Leftovers
+|-heal|p1a: Clefable|14/100|[from] item: Leftovers
+|upkeep
+|turn|47
+|
+|t:|1641740948
+|switch|p1a: Hawlucha|Hawlucha, M|17/100 psn
+|move|p2a: Enten|Earthquake|p1a: Hawlucha
+|-immune|p1a: Hawlucha
+|
+|-heal|p2a: Enten|99/100|[from] item: Leftovers
+|-damage|p1a: Hawlucha|5/100 psn|[from] psn
+|upkeep
+|turn|48
+|
+|t:|1641740967
+|move|p1a: Hawlucha|Brave Bird|p2a: Enten
+|-damage|p2a: Enten|50/100
+|-damage|p1a: Hawlucha|0 fnt|[from] Recoil
+|faint|p1a: Hawlucha
+|move|p2a: Enten|Stealth Rock|p1: Hawlucha
+|-sidestart|p1: 8jaggery|move: Stealth Rock
+|
+|-heal|p2a: Enten|56/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641740976
+|switch|p1a: Dragapult|Dragapult, F|44/100
+|-damage|p1a: Dragapult|32/100|[from] Stealth Rock
+|turn|49
+|
+|t:|1641740992
+|move|p1a: Dragapult|Scald|p2a: Enten
+|-supereffective|p2a: Enten
+|-damage|p2a: Enten|9/100
+|-damage|p1a: Dragapult|22/100|[from] item: Life Orb
+|move|p2a: Enten|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-heal|p2a: Enten|15/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641741023
+|switch|p1a: Heatran|Heatran, F|68/100
+|-damage|p1a: Heatran|56/100|[from] Stealth Rock
+|turn|50
+|
+|t:|1641741031
+|switch|p1a: Clefable|Clefable, M|14/100
+|-damage|p1a: Clefable|2/100|[from] Stealth Rock
+|move|p2a: Enten|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-heal|p2a: Enten|21/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641741045
+|switch|p1a: Blastoise|Blastoise, F|48/100
+|-damage|p1a: Blastoise|36/100|[from] Stealth Rock
+|turn|51
+|
+|t:|1641741049
+|move|p1a: Blastoise|Ice Beam|p2a: Enten
+|-supereffective|p2a: Enten
+|-damage|p2a: Enten|0 fnt
+|faint|p2a: Enten
+|
+|upkeep
+|
+|t:|1641741052
+|switch|p2a: Mantra|Slowking-Galar, M, shiny|74/100
+|-damage|p2a: Mantra|61/100|[from] Stealth Rock
+|turn|52
+|
+|t:|1641741070
+|move|p1a: Blastoise|Surf|p2a: Mantra
+|-damage|p2a: Mantra|44/100
+|move|p2a: Mantra|Sludge Bomb|p1a: Blastoise
+|-damage|p1a: Blastoise|2/100
+|
+|upkeep
+|turn|53
+|
+|t:|1641741079
+|move|p1a: Blastoise|Surf|p2a: Mantra
+|-damage|p2a: Mantra|19/100
+|move|p2a: Mantra|Earthquake|p1a: Blastoise
+|-damage|p1a: Blastoise|0 fnt
+|faint|p1a: Blastoise
+|
+|upkeep
+|
+|t:|1641741085
+|switch|p1a: Heatran|Heatran, F|56/100
+|-damage|p1a: Heatran|44/100|[from] Stealth Rock
+|turn|54
+|
+|t:|1641741091
+|switch|p2a: Vilgax|Buzzwole, shiny|100/100
+|move|p1a: Heatran|Earth Power|p2a: Vilgax
+|-resisted|p2a: Vilgax
+|-damage|p2a: Vilgax|78/100
+|
+|upkeep
+|turn|55
+|
+|t:|1641741097
+|move|p2a: Vilgax|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: Vilgax|def|1
+|-unboost|p2a: Vilgax|spd|1
+|faint|p1a: Heatran
+|
+|win|Obrik
+|raw|8jaggery's rating: 1256 &rarr; <strong>1237</strong><br />(-19 for losing)
+|raw|Obrik's rating: 1345 &rarr; <strong>1360</strong><br />(+15 for winning)

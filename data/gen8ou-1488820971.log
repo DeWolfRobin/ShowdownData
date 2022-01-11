@@ -1,0 +1,281 @@
+|j|☆hchw90
+|j|☆Hundred Thousand
+|t:|1641825802
+|gametype|singles
+|player|p1|hchw90|102|1475
+|player|p2|Hundred Thousand|lady|1489
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Chansey, F|
+|poke|p1|Heatran, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Dragapult, F|
+|poke|p1|Zapdos|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Kartana|
+|poke|p2|Slowbro, M|
+|poke|p2|Slowking-Galar, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Polteageist|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hchw90)
+|
+|t:|1641825819
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: DDLP|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: DDLP
+|turn|1
+|
+|t:|1641825825
+|switch|p2a: 老吧|Slowbro, M|100/100
+|move|p1a: Rotom|Volt Switch|p2a: 老吧
+|-supereffective|p2a: 老吧
+|-damage|p2a: 老吧|30/100
+|
+|t:|1641825841
+|switch|p1a: Dragapult|Dragapult, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|2
+|
+|t:|1641825853
+|switch|p2a: 吧主丁|Slowking-Galar, M|100/100
+|move|p1a: Dragapult|Substitute|p1a: Dragapult
+|-start|p1a: Dragapult|Substitute
+|-damage|p1a: Dragapult|76/100
+|
+|-heal|p1a: Dragapult|82/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641825860
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: 吧主丁|Future Sight|p1a: Dragapult
+|-start|p2a: 吧主丁|move: Future Sight
+|
+|-heal|p1a: Dragapult|88/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641825866
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: 吧主丁|Fire Blast|p1a: Dragapult|[miss]
+|-miss|p2a: 吧主丁|p1a: Dragapult
+|
+|-heal|p1a: Dragapult|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641825883
+|move|p1a: Dragapult|Phantom Force|p2a: 吧主丁|[from]lockedmove
+|-supereffective|p2a: 吧主丁
+|-damage|p2a: 吧主丁|0 fnt
+|faint|p2a: 吧主丁
+|
+|-end|p1a: Dragapult|move: Future Sight
+|-end|p1a: Dragapult|Substitute
+|-heal|p1a: Dragapult|99/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641825887
+|switch|p2a: DDLP|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: DDLP
+|turn|6
+|
+|t:|1641825890
+|switch|p1a: Chansey|Chansey, F|100/100
+|switch|p2a: Polteageist|Polteageist, shiny|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641825893
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|move|p1a: Chansey|Thunder Wave|p2a: Polteageist
+|-status|p2a: Polteageist|par
+|
+|upkeep
+|turn|8
+|
+|t:|1641825897
+|cant|p2a: Polteageist|par
+|move|p1a: Chansey|Seismic Toss|p2a: Polteageist
+|-immune|p2a: Polteageist
+|
+|upkeep
+|turn|9
+|
+|t:|1641825909
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|
+|upkeep
+|turn|10
+|
+|t:|1641825915
+|move|p2a: Polteageist|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|14/100
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Lava Plume|p2a: Polteageist
+|-damage|p2a: Polteageist|17/100 par
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|11
+|
+|t:|1641825922
+|move|p2a: Polteageist|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641825927
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|turn|12
+|
+|t:|1641825929
+|move|p1a: Rotom|Volt Switch|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|t:|1641825942
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: Volt Switch
+|-ability|p1a: Zapdos|Pressure
+|
+|upkeep
+|
+|t:|1641825949
+|switch|p2a: 是虎不是猫|Landorus-Therian, M|100/100
+|-ability|p2a: 是虎不是猫|Intimidate|boost
+|-unboost|p1a: Zapdos|atk|1
+|turn|13
+|
+|t:|1641825960
+|move|p1a: Zapdos|Substitute|p1a: Zapdos
+|-start|p1a: Zapdos|Substitute
+|-damage|p1a: Zapdos|76/100
+|move|p2a: 是虎不是猫|Stone Edge|p1a: Zapdos|[miss]
+|-miss|p2a: 是虎不是猫|p1a: Zapdos
+|
+|-heal|p1a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641825964
+|move|p1a: Zapdos|Toxic|p2a: 是虎不是猫
+|-status|p2a: 是虎不是猫|tox
+|move|p2a: 是虎不是猫|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-crit|p1a: Zapdos
+|-end|p1a: Zapdos|Substitute
+|
+|-heal|p1a: Zapdos|88/100|[from] item: Leftovers
+|-damage|p2a: 是虎不是猫|94/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641825968
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: 是虎不是猫|atk|1
+|move|p2a: 是虎不是猫|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|95/100
+|-damage|p2a: 是虎不是猫|78/100 tox|[from] item: Rocky Helmet|[of] p1a: Landorus
+|
+|t:|1641825971
+|switch|p2a: 斩断一切的不挠之剑|Kartana|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|16
+|
+|t:|1641825983
+|move|p2a: 斩断一切的不挠之剑|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|29/100
+|-damage|p2a: 斩断一切的不挠之剑|84/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|move|p1a: Landorus|U-turn|p2a: 斩断一切的不挠之剑
+|-damage|p2a: 斩断一切的不挠之剑|61/100
+|
+|t:|1641825987
+|switch|p1a: Zapdos|Zapdos|88/100|[from]move: U-turn
+|-ability|p1a: Zapdos|Pressure
+|
+|-heal|p1a: Zapdos|94/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641825992
+|switch|p2a: 老吧|Slowbro, M|64/100
+|move|p1a: Zapdos|Thunderbolt|p2a: 老吧
+|-supereffective|p2a: 老吧
+|-damage|p2a: 老吧|0 fnt
+|faint|p2a: 老吧
+|
+|-heal|p1a: Zapdos|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641825997
+|switch|p2a: DDLP|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: DDLP
+|turn|18
+|
+|t:|1641826000
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: DDLP|Psychic|p1a: Chansey
+|-damage|p1a: Chansey|78/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641826005
+|switch|p2a: 斩断一切的不挠之剑|Kartana|61/100
+|move|p1a: Chansey|Thunder Wave|p2a: 斩断一切的不挠之剑|[miss]
+|-miss|p1a: Chansey|p2a: 斩断一切的不挠之剑
+|
+|upkeep
+|turn|20
+|
+|t:|1641826010
+|move|p2a: 斩断一切的不挠之剑|Knock Off|p1a: Chansey
+|-damage|p1a: Chansey|36/100
+|-enditem|p1a: Chansey|Eviolite|[from] move: Knock Off|[of] p2a: 斩断一切的不挠之剑
+|move|p1a: Chansey|Thunder Wave|p2a: 斩断一切的不挠之剑
+|-status|p2a: 斩断一切的不挠之剑|par
+|
+|upkeep
+|turn|21
+|-message|Hundred Thousand forfeited.
+|
+|win|hchw90
+|raw|hchw90's rating: 1475 &rarr; <strong>1496</strong><br />(+21 for winning)
+|raw|Hundred Thousand's rating: 1489 &rarr; <strong>1468</strong><br />(-21 for losing)
+|l|☆Hundred Thousand

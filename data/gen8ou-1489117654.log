@@ -1,0 +1,91 @@
+|j|☆Saffron City Gards
+|j|☆Artaxerxes20212021
+|t:|1641858928
+|gametype|singles
+|player|p1|Saffron City Gards|lucian|1353
+|player|p2|Artaxerxes20212021|harlequin|1328
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Heatran, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Kartana|
+|poke|p1|Diggersby, F|
+|poke|p2|Zapdos-Galar|
+|poke|p2|Regieleki|
+|poke|p2|Magnezone|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Blacephalon|
+|poke|p2|Garchomp, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Artaxerxes20212021)
+|
+|t:|1641858938
+|start
+|switch|p1a: Luffy|Diggersby, F|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|
+|t:|1641858944
+|move|p1a: Luffy|Agility|p1a: Luffy
+|-boost|p1a: Luffy|spe|2
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Luffy
+|-sidestart|p1: Saffron City Gards|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641858950
+|move|p1a: Luffy|Swords Dance|p1a: Luffy
+|-boost|p1a: Luffy|atk|2
+|move|p2a: Ferrothorn|Spikes|p1a: Luffy
+|-sidestart|p1: Saffron City Gards|Spikes
+|
+|upkeep
+|turn|3
+|
+|t:|1641858958
+|move|p1a: Luffy|Swords Dance|p1a: Luffy
+|-boost|p1a: Luffy|atk|2
+|move|p2a: Ferrothorn|Knock Off|p1a: Luffy
+|-damage|p1a: Luffy|71/100
+|-enditem|p1a: Luffy|Life Orb|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|4
+|
+|t:|1641858967
+|move|p1a: Luffy|Earthquake|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641858979
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|5
+|
+|t:|1641858984
+|move|p1a: Luffy|Body Slam|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|-message|Artaxerxes20212021 forfeited.
+|
+|win|Saffron City Gards
+|raw|Saffron City Gards's rating: 1353 &rarr; <strong>1372</strong><br />(+19 for winning)
+|raw|Artaxerxes20212021's rating: 1328 &rarr; <strong>1309</strong><br />(-19 for losing)
+|l|☆Artaxerxes20212021

@@ -1,0 +1,382 @@
+|j|☆Mochi_Dani 3
+|j|☆support pikachu
+|t:|1641803374
+|gametype|singles
+|player|p1|Mochi_Dani 3|266|
+|player|p2|support pikachu|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Barraskewda, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Zapdos|
+|poke|p1|Crawdaunt, M|
+|poke|p2|Azumarill, F|
+|poke|p2|Salazzle, F|
+|poke|p2|Malamar, M|
+|poke|p2|Riolu, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Araquanid, M|
+|teampreview
+|j| DTrident
+|
+|t:|1641803404
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|turn|1
+|
+|t:|1641803411
+|move|p2a: Araquanid|Sticky Web|p1a: Ferrothorn
+|-sidestart|p1: Mochi_Dani 3|move: Sticky Web
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Araquanid
+|-sidestart|p2: support pikachu|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641803426
+|switch|p2a: Azumarill|Azumarill, F|100/100
+|-damage|p2a: Azumarill|88/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Spikes|p2a: Azumarill
+|-sidestart|p2: support pikachu|Spikes
+|
+|-heal|p2a: Azumarill|94/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641803434
+|move|p2a: Azumarill|Perish Song|p2a: Azumarill
+|-start|p1a: Ferrothorn|perish3|[silent]
+|-start|p2a: Azumarill|perish3|[silent]
+|-fieldactivate|move: Perish Song
+|move|p1a: Ferrothorn|Power Whip|p2a: Azumarill
+|-ability|p2a: Azumarill|Sap Sipper|boost
+|-boost|p2a: Azumarill|atk|1
+|
+|-heal|p2a: Azumarill|100/100|[from] item: Leftovers
+|-start|p2a: Azumarill|perish3
+|-start|p1a: Ferrothorn|perish3
+|upkeep
+|turn|4
+|
+|t:|1641803444
+|move|p2a: Azumarill|Whirlpool|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|98/100
+|-activate|p1a: Ferrothorn|move: Whirlpool|[of] p2a: Azumarill
+|move|p1a: Ferrothorn|Spikes|p2a: Azumarill
+|-sidestart|p2: support pikachu|Spikes
+|
+|-heal|p1a: Ferrothorn|100/100|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|88/100|[from] move: Whirlpool|[partiallytrapped]
+|-start|p2a: Azumarill|perish2
+|-start|p1a: Ferrothorn|perish2
+|upkeep
+|turn|5
+|
+|t:|1641803458
+|move|p2a: Azumarill|Protect|p2a: Azumarill
+|-singleturn|p2a: Azumarill|Protect
+|move|p1a: Ferrothorn|Spikes|p2a: Azumarill
+|-sidestart|p2: support pikachu|Spikes
+|
+|-heal|p1a: Ferrothorn|94/100|[from] item: Leftovers
+|-damage|p1a: Ferrothorn|82/100|[from] move: Whirlpool|[partiallytrapped]
+|-start|p2a: Azumarill|perish1
+|-start|p1a: Ferrothorn|perish1
+|upkeep
+|turn|6
+|
+|t:|1641803468
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|-damage|p2a: Excadrill|76/100|[from] Spikes
+|-damage|p2a: Excadrill|73/100|[from] Stealth Rock
+|-ability|p2a: Excadrill|Mold Breaker
+|move|p1a: Ferrothorn|Knock Off|p2a: Excadrill
+|-damage|p2a: Excadrill|41/100
+|-enditem|p2a: Excadrill|Choice Band|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|88/100|[from] item: Leftovers
+|-end|p1a: Ferrothorn|Whirlpool|[partiallytrapped]|[silent]
+|-start|p1a: Ferrothorn|perish0
+|upkeep
+|faint|p1a: Ferrothorn
+|
+|t:|1641803481
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|7
+|
+|t:|1641803488
+|move|p2a: Excadrill|Rapid Spin|p1a: Pelipper
+|-damage|p1a: Pelipper|87/100
+|-boost|p2a: Excadrill|spe|1
+|-sideend|p2: support pikachu|Spikes|[from] move: Rapid Spin|[of] p2a: Excadrill
+|-sideend|p2: support pikachu|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Excadrill
+|move|p1a: Pelipper|U-turn|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|35/100
+|
+|t:|1641803496
+|switch|p1a: Barraskewda|Barraskewda, F|100/100|[from]move: U-turn
+|-activate|p1a: Barraskewda|move: Sticky Web
+|-unboost|p1a: Barraskewda|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641803504
+|move|p1a: Barraskewda|Liquidation|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641803511
+|switch|p2a: Riolu|Riolu, F|100/100
+|turn|9
+|
+|t:|1641803514
+|move|p1a: Barraskewda|Liquidation|p2a: Riolu
+|-enditem|p2a: Riolu|Focus Sash
+|-damage|p2a: Riolu|1/100
+|-unboost|p2a: Riolu|def|1
+|move|p2a: Riolu|Reversal|p1a: Barraskewda
+|-crit|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641803526
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|10
+|
+|t:|1641803536
+|move|p2a: Riolu|Copycat|p2a: Riolu
+|move|p2a: Riolu|Reversal|p1a: Zapdos|[from]move: Copycat
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|58/100
+|-status|p2a: Riolu|par|[from] ability: Static|[of] p1a: Zapdos
+|move|p1a: Zapdos|Weather Ball|p2a: Riolu
+|-damage|p2a: Riolu|0 fnt
+|faint|p2a: Riolu
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641803554
+|switch|p2a: Salazzle|Salazzle, F|100/100
+|turn|11
+|
+|t:|1641803560
+|move|p2a: Salazzle|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|move|p1a: Zapdos|Weather Ball|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-damage|p2a: Salazzle|0 fnt
+|faint|p2a: Salazzle
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|52/100 tox|[from] psn
+|upkeep
+|
+|t:|1641803575
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|turn|12
+|
+|t:|1641803584
+|move|p1a: Zapdos|Hurricane|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|14/100
+|move|p2a: Araquanid|Liquidation|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|-status|p2a: Araquanid|par|[from] ability: Static|[of] p1a: Zapdos
+|faint|p1a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Araquanid|20/100 par|[from] item: Leftovers
+|upkeep
+|
+|t:|1641803594
+|switch|p1a: Pelipper|Pelipper, M|87/100
+|turn|13
+|
+|t:|1641803598
+|move|p1a: Pelipper|Hurricane|p2a: Araquanid
+|-supereffective|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641803607
+|switch|p2a: Azumarill|Azumarill, F|100/100
+|turn|14
+|
+|t:|1641803613
+|move|p1a: Pelipper|U-turn|p2a: Azumarill
+|-resisted|p2a: Azumarill
+|-damage|p2a: Azumarill|98/100
+|
+|t:|1641803616
+|switch|p1a: Garchomp|Garchomp, M|100/100|[from]move: U-turn
+|-activate|p1a: Garchomp|move: Sticky Web
+|-unboost|p1a: Garchomp|spe|1
+|move|p2a: Azumarill|Whirlpool|p1a: Garchomp
+|-damage|p1a: Garchomp|88/100
+|-activate|p1a: Garchomp|move: Whirlpool|[of] p2a: Azumarill
+|
+|-weather|none
+|-heal|p1a: Garchomp|94/100|[from] item: Leftovers
+|-heal|p2a: Azumarill|100/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|82/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1641803630
+|move|p1a: Garchomp|Earthquake|p2a: Azumarill
+|-damage|p2a: Azumarill|66/100
+|move|p2a: Azumarill|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|22/100
+|
+|-heal|p1a: Garchomp|29/100|[from] item: Leftovers
+|-heal|p2a: Azumarill|73/100|[from] item: Leftovers
+|-damage|p1a: Garchomp|16/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1641803651
+|move|p1a: Garchomp|Earthquake|p2a: Azumarill
+|-crit|p2a: Azumarill
+|-damage|p2a: Azumarill|13/100
+|move|p2a: Azumarill|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Azumarill|19/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641803660
+|switch|p1a: Pelipper|Pelipper, M|87/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|17
+|
+|t:|1641803666
+|move|p2a: Azumarill|Protect|p2a: Azumarill
+|-singleturn|p2a: Azumarill|Protect
+|move|p1a: Pelipper|Hurricane|p2a: Azumarill
+|-activate|p2a: Azumarill|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Azumarill|25/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641803690
+|move|p1a: Pelipper|Hurricane|p2a: Azumarill
+|-damage|p2a: Azumarill|0 fnt
+|faint|p2a: Azumarill
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641803694
+|switch|p2a: Malamar|Malamar, M|100/100
+|turn|19
+|
+|t:|1641803703
+|move|p2a: Malamar|Psycho Cut|p1a: Pelipper
+|-damage|p1a: Pelipper|67/100
+|move|p1a: Pelipper|Defog|p2a: Malamar
+|-boost|p2a: Malamar|evasion|1
+|-sideend|p1: Mochi_Dani 3|Sticky Web|[from] move: Defog|[of] p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641803713
+|move|p2a: Malamar|Superpower|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|55/100
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|move|p1a: Pelipper|Roost|p1a: Pelipper
+|-heal|p1a: Pelipper|100/100
+|-singleturn|p1a: Pelipper|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|21
+|
+|t:|1641803722
+|move|p2a: Malamar|Superpower|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|81/100
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|move|p1a: Pelipper|U-turn|p2a: Malamar
+|-supereffective|p2a: Malamar
+|-damage|p2a: Malamar|79/100
+|
+|t:|1641803732
+|switch|p1a: Crawdaunt|Crawdaunt, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Malamar|85/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641803743
+|move|p2a: Malamar|Superpower|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|-boost|p2a: Malamar|atk|1
+|-boost|p2a: Malamar|def|1
+|faint|p1a: Crawdaunt
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Malamar|91/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641803751
+|switch|p1a: Pelipper|Pelipper, M|81/100
+|turn|23
+|
+|t:|1641803759
+|move|p2a: Malamar|Psycho Cut|p1a: Pelipper
+|-damage|p1a: Pelipper|26/100
+|move|p1a: Pelipper|Hurricane|p2a: Malamar
+|-damage|p2a: Malamar|39/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Malamar|45/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641803767
+|move|p2a: Malamar|Psycho Cut|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|win|support pikachu

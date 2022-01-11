@@ -1,0 +1,594 @@
+|j|☆AlphaAero
+|j|☆snipesv
+|t:|1641763428
+|gametype|singles
+|player|p1|AlphaAero|dawn|1542
+|player|p2|snipesv|102|1521
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyranitar, M|
+|poke|p1|Excadrill, M|
+|poke|p1|Volcanion|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Tangrowth, M|
+|poke|p1|Clefable, F|
+|poke|p2|Raboot, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Salamence, F|
+|poke|p2|Tapu Lele|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by AlphaAero)
+|
+|t:|1641763440
+|start
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|switch|p2a: Scorcher|Raboot, F|100/100
+|turn|1
+|
+|t:|1641763447
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Scorcher|Flare Blitz|p1a: Tornadus
+|-damage|p1a: Tornadus|13/100
+|-damage|p2a: Scorcher|62/100|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1641763454
+|switch|p1a: Volcanion|Volcanion|100/100
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641763460
+|move|p1a: Volcanion|Toxic|p2a: Slowbro|[miss]
+|-miss|p1a: Volcanion|p2a: Slowbro
+|move|p2a: Slowbro|Future Sight|p1a: Volcanion
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|4
+|
+|t:|1641763464
+|move|p1a: Volcanion|Toxic|p2a: Slowbro
+|-status|p2a: Slowbro|tox
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641763470
+|switch|p2a: Salamence|Salamence, F|100/100|[from]move: Teleport
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Volcanion|atk|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641763477
+|move|p2a: Salamence|Earthquake|p1a: Volcanion
+|-supereffective|p1a: Volcanion
+|-damage|p1a: Volcanion|55/100
+|move|p1a: Volcanion|Toxic|p2a: Salamence|[miss]
+|-miss|p1a: Volcanion|p2a: Salamence
+|
+|-end|p1a: Volcanion|move: Future Sight
+|-damage|p1a: Volcanion|15/100
+|upkeep
+|turn|6
+|
+|t:|1641763486
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Salamence|Fire Blast|p1a: Clefable
+|-damage|p1a: Clefable|76/100
+|
+|-heal|p1a: Clefable|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641763495
+|switch|p2a: Scorcher|Raboot, F|62/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|88/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641763500
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Scorcher|Gunk Shot|p1a: Tyranitar
+|-start|p2a: Scorcher|typechange|Poison|[from] ability: Libero
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|73/100
+|-status|p1a: Tyranitar|psn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Scorcher|56/100|[from] Sandstorm
+|-heal|p1a: Tyranitar|80/100 psn|[from] item: Leftovers
+|-damage|p1a: Tyranitar|67/100 psn|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641763507
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|move|p1a: Tyranitar|Stealth Rock|p2a: Hippowdon
+|-sidestart|p2: snipesv|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|73/100 psn|[from] item: Leftovers
+|-damage|p1a: Tyranitar|61/100 psn|[from] psn
+|upkeep
+|turn|10
+|j| Kyurem
+|
+|t:|1641763516
+|switch|p1a: Clefable|Clefable, F|88/100
+|move|p2a: Hippowdon|Earthquake|p1a: Clefable
+|-damage|p1a: Clefable|58/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Clefable|64/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641763525
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|-heal|p1a: Clefable|70/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641763528
+|move|p2a: Corviknight|Defog|p1a: Clefable
+|-unboost|p1a: Clefable|evasion|1
+|-sideend|p2: snipesv|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|move|p1a: Clefable|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|43/100
+|
+|-weather|none
+|-heal|p2a: Corviknight|49/100|[from] item: Leftovers
+|-heal|p1a: Clefable|76/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641763531
+|move|p2a: Corviknight|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|71/100
+|
+|t:|1641763537
+|switch|p2a: Slowbro|Slowbro, M|100/100 tox|[from]move: U-turn
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|-damage|p2a: Slowbro|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641763540
+|move|p1a: Clefable|Moonblast|p2a: Slowbro
+|-damage|p2a: Slowbro|43/100 tox
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641763542
+|switch|p2a: Scorcher|Raboot, F|56/100|[from]move: Teleport
+|
+|upkeep
+|turn|15
+|
+|t:|1641763548
+|move|p2a: Scorcher|Gunk Shot|p1a: Clefable
+|-start|p2a: Scorcher|typechange|Poison|[from] ability: Libero
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|c|☆snipesv|ayyy
+|
+|t:|1641763553
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|turn|16
+|c|☆snipesv|lets go
+|
+|t:|1641763560
+|switch|p1a: Volcanion|Volcanion|15/100
+|switch|p2a: Corviknight|Corviknight, F|49/100
+|-ability|p2a: Corviknight|Pressure
+|
+|-heal|p2a: Corviknight|55/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|c| Kyurem|mimi moment
+|c|☆snipesv|da goat
+|
+|t:|1641763578
+|switch|p1a: Tangrowth|Tangrowth, M|100/100
+|switch|p2a: Salamence|Salamence, F|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Tangrowth|atk|1
+|
+|upkeep
+|turn|18
+|
+|t:|1641763586
+|move|p2a: Salamence|Fire Blast|p1a: Tangrowth
+|-supereffective|p1a: Tangrowth
+|-damage|p1a: Tangrowth|68/100
+|move|p1a: Tangrowth|Sludge Bomb|p2a: Salamence
+|-damage|p2a: Salamence|79/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641763601
+|move|p2a: Salamence|Fire Blast|p1a: Tangrowth
+|-supereffective|p1a: Tangrowth
+|-damage|p1a: Tangrowth|34/100
+|move|p1a: Tangrowth|Knock Off|p2a: Salamence
+|-damage|p2a: Salamence|67/100
+|-enditem|p2a: Salamence|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tangrowth
+|
+|upkeep
+|turn|20
+|
+|t:|1641763606
+|switch|p1a: Tornadus|Tornadus-Therian, M|47/100
+|move|p2a: Salamence|Fire Blast|p1a: Tornadus
+|-damage|p1a: Tornadus|20/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641763608
+|move|p1a: Tornadus|U-turn|p2a: Salamence
+|-resisted|p2a: Salamence
+|-damage|p2a: Salamence|62/100
+|
+|t:|1641763610
+|switch|p1a: Tangrowth|Tangrowth, M|67/100|[from]move: U-turn
+|move|p2a: Salamence|Wish|p2a: Salamence
+|
+|upkeep
+|turn|22
+|
+|t:|1641763615
+|switch|p2a: Scorcher|Raboot, F|56/100
+|move|p1a: Tangrowth|Knock Off|p2a: Scorcher
+|-damage|p2a: Scorcher|15/100
+|-enditem|p2a: Scorcher|Choice Band|[from] move: Knock Off|[of] p1a: Tangrowth
+|
+|-heal|p2a: Scorcher|87/100|[from] move: Wish|[wisher] Salamence
+|upkeep
+|turn|23
+|
+|t:|1641763621
+|move|p2a: Scorcher|Flare Blitz|p1a: Tangrowth
+|-supereffective|p1a: Tangrowth
+|-damage|p1a: Tangrowth|0 fnt
+|faint|p1a: Tangrowth
+|-damage|p2a: Scorcher|55/100|[from] Recoil
+|
+|upkeep
+|c|☆snipesv|lets go
+|j| Jsjsjsjsjjs
+|j| LoopySushi
+|c| Jsjsjsjsjjs|Hell yeah
+|c|☆snipesv|go raboot
+|c| Jsjsjsjsjjs|Raboot>cinderace
+|c|☆AlphaAero|gg
+|c|☆snipesv|yessir
+|c|☆snipesv|gg
+|inactive|AlphaAero has 120 seconds left.
+|c| Jsjsjsjsjjs|gg
+|c|☆AlphaAero|those first turns tho
+|c| Jsjsjsjsjjs|wp
+|j| efeda3532
+|
+|t:|1641763658
+|switch|p1a: Tornadus|Tornadus-Therian, M|53/100
+|turn|24
+|c|☆snipesv|sry for the misses
+|l| efeda3532
+|
+|t:|1641763667
+|switch|p2a: Slowbro|Slowbro, M|76/100 tox
+|move|p1a: Tornadus|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|53/100 tox
+|-damage|p1a: Tornadus|36/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|-enditem|p2a: Slowbro|Rocky Helmet|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|-damage|p2a: Slowbro|47/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641763673
+|move|p1a: Tornadus|Hurricane|p2a: Slowbro
+|-damage|p2a: Slowbro|4/100 tox
+|-start|p2a: Slowbro|confusion
+|-activate|p2a: Slowbro|confusion
+|-damage|p2a: Slowbro|1/100 tox|[from] confusion
+|
+|-damage|p2a: Slowbro|0 fnt|[from] psn
+|faint|p2a: Slowbro
+|upkeep
+|j| A real wizard
+|
+|t:|1641763682
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|26
+|c| Jsjsjsjsjjs|Can you really control misses though?
+|c| Jsjsjsjsjjs|Outside of spamming sand attack?
+|c|☆snipesv|no
+|l| A real wizard
+|
+|t:|1641763692
+|switch|p1a: Excadrill|Excadrill, M|100/100
+|move|p2a: Tapu Lele|Moonblast|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|62/100
+|
+|-heal|p1a: Excadrill|68/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641763697
+|switch|p2a: Corviknight|Corviknight, F|55/100
+|-ability|p2a: Corviknight|Pressure
+|switch|p1a: Volcanion|Volcanion|15/100
+|
+|-heal|p2a: Corviknight|61/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641763708
+|switch|p2a: Salamence|Salamence, F|62/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Volcanion|atk|1
+|move|p1a: Volcanion|Toxic|p2a: Salamence
+|-status|p2a: Salamence|tox
+|
+|-damage|p2a: Salamence|56/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641763716
+|switch|p1a: Tornadus|Tornadus-Therian, M|69/100
+|move|p2a: Salamence|Roost|p2a: Salamence
+|-heal|p2a: Salamence|100/100 tox
+|-singleturn|p2a: Salamence|move: Roost
+|
+|-damage|p2a: Salamence|88/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641763724
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Tornadus|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|90/100
+|
+|t:|1641763729
+|switch|p1a: Tyranitar|Tyranitar, M|61/100 psn|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Tyranitar|67/100 psn|[from] item: Leftovers
+|-heal|p2a: Hippowdon|96/100|[from] item: Leftovers
+|-damage|p1a: Tyranitar|55/100 psn|[from] psn
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|31
+|j| MangoWatermelon$
+|
+|t:|1641763733
+|move|p1a: Tyranitar|Ice Beam|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|56/100
+|move|p2a: Hippowdon|Earthquake|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|62/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641763736
+|switch|p1a: Volcanion|Volcanion|15/100
+|turn|32
+|
+|t:|1641763741
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Salamence|Salamence, F|88/100 tox
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Tornadus|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|94/100|[from] Sandstorm
+|-damage|p2a: Salamence|82/100 tox|[from] Sandstorm
+|-damage|p2a: Salamence|76/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641763746
+|move|p1a: Tornadus|Hurricane|p2a: Salamence|[miss]
+|-miss|p1a: Tornadus|p2a: Salamence
+|move|p2a: Salamence|Wish|p2a: Salamence
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|88/100|[from] Sandstorm
+|-damage|p2a: Salamence|70/100 tox|[from] Sandstorm
+|-damage|p2a: Salamence|58/100 tox|[from] psn
+|upkeep
+|turn|34
+|
+|t:|1641763753
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Tornadus|Knock Off|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|81/100
+|-enditem|p2a: Tapu Lele|Choice Scarf|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|-weather|none
+|-heal|p2a: Tapu Lele|100/100|[from] move: Wish|[wisher] Salamence
+|upkeep
+|turn|35
+|
+|t:|1641763761
+|move|p1a: Tornadus|Hurricane|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|52/100
+|move|p2a: Tapu Lele|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|32/100
+|-unboost|p1a: Tornadus|spa|1
+|
+|upkeep
+|turn|36
+|
+|t:|1641763766
+|move|p1a: Tornadus|U-turn|p2a: Tapu Lele
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|20/100
+|
+|t:|1641763767
+|switch|p1a: Excadrill|Excadrill, M|68/100|[from]move: U-turn
+|move|p2a: Tapu Lele|Moonblast|p1a: Excadrill
+|-resisted|p1a: Excadrill
+|-damage|p1a: Excadrill|30/100
+|
+|-heal|p1a: Excadrill|36/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641763770
+|switch|p1a: Tornadus|Tornadus-Therian, M|65/100
+|switch|p2a: Corviknight|Corviknight, F|61/100
+|-ability|p2a: Corviknight|Pressure
+|
+|-heal|p2a: Corviknight|68/100|[from] item: Leftovers
+|upkeep
+|turn|38
+|
+|t:|1641763777
+|move|p1a: Tornadus|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|54/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Corviknight|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|57/100
+|
+|t:|1641763782
+|switch|p2a: Hippowdon|Hippowdon, M|62/100|[from]move: U-turn
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|51/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|69/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|39
+|
+|t:|1641763788
+|move|p1a: Tornadus|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|54/100
+|-enditem|p2a: Hippowdon|Leftovers|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tornadus|45/100|[from] Sandstorm
+|upkeep
+|turn|40
+|
+|t:|1641763791
+|move|p1a: Tornadus|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|73/100
+|move|p2a: Hippowdon|Stone Edge|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641763794
+|switch|p1a: Volcanion|Volcanion|15/100
+|turn|41
+|
+|t:|1641763800
+|move|p1a: Volcanion|Steam Eruption|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Volcanion|9/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641763802
+|switch|p2a: Scorcher|Raboot, F|55/100
+|turn|42
+|c|☆snipesv|say hi raboot
+|
+|t:|1641763811
+|move|p2a: Scorcher|U-turn|p1a: Volcanion
+|-start|p2a: Scorcher|typechange|Bug|[from] ability: Libero
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|c|☆snipesv|hell yeah
+|
+|t:|1641763818
+|switch|p2a: Corviknight|Corviknight, F|54/100|[from]move: U-turn
+|-ability|p2a: Corviknight|Pressure
+|
+|-weather|none
+|upkeep
+|
+|t:|1641763820
+|switch|p1a: Excadrill|Excadrill, M|36/100
+|turn|43
+|
+|t:|1641763823
+|move|p1a: Excadrill|Rapid Spin|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|48/100
+|-boost|p1a: Excadrill|spe|1
+|move|p2a: Corviknight|Body Press|p1a: Excadrill
+|-supereffective|p1a: Excadrill
+|-damage|p1a: Excadrill|0 fnt
+|faint|p1a: Excadrill
+|
+|win|snipesv
+|raw|AlphaAero's rating: 1542 &rarr; <strong>1521</strong><br />(-21 for losing)
+|raw|snipesv's rating: 1521 &rarr; <strong>1542</strong><br />(+21 for winning)
+|c|☆snipesv|gg
+|l|☆AlphaAero
+|c| Jsjsjsjsjjs|That was awesome
+|c| Jsjsjsjsjjs|Raboot forever
+|c| Jsjsjsjsjjs|Cinderace never
+||Ladder isn't responding, score probably updated but might not have (Request timeout).
+|c|☆snipesv|yess

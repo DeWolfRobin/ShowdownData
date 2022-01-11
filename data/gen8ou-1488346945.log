@@ -1,0 +1,242 @@
+|j|☆Zeraotchoupi
+|j|☆Cohaltin9
+|t:|1641754044
+|gametype|singles
+|player|p1|Zeraotchoupi|blue|
+|player|p2|Cohaltin9|flint|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zeraora|
+|poke|p1|Rotom-Wash|
+|poke|p1|Pelipper, M|
+|poke|p1|Heliolisk, M|
+|poke|p1|Swampert, M|
+|poke|p1|Barraskewda, M|
+|poke|p2|Scizor, F|
+|poke|p2|Alakazam, M|
+|poke|p2|Tyranitar, M|
+|poke|p2|Dracozolt|
+|poke|p2|Mew|
+|poke|p2|Nidoking, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zeraotchoupi)
+|
+|t:|1641754056
+|start
+|switch|p1a: Rubis|Swampert, M|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|
+|t:|1641754062
+|move|p2a: Mew|Energy Ball|p1a: Rubis
+|-supereffective|p1a: Rubis
+|-damage|p1a: Rubis|0 fnt
+|faint|p1a: Rubis
+|
+|upkeep
+|
+|t:|1641754071
+|switch|p1a: Norbert|Zeraora|100/100
+|turn|2
+|
+|t:|1641754074
+|move|p1a: Norbert|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|3/100
+|-enditem|p2a: Mew|Focus Sash|[from] move: Knock Off|[of] p1a: Norbert
+|move|p2a: Mew|Earth Power|p1a: Norbert
+|-supereffective|p1a: Norbert
+|-damage|p1a: Norbert|30/100
+|
+|upkeep
+|turn|3
+|inactive|Cohaltin9 has 270 seconds left.
+|
+|t:|1641754107
+|switch|p2a: Cizayox|Scizor, F|100/100
+|move|p1a: Norbert|Knock Off|p2a: Cizayox
+|-damage|p2a: Cizayox|52/100
+|-enditem|p2a: Cizayox|Choice Band|[from] move: Knock Off|[of] p1a: Norbert
+|
+|upkeep
+|turn|4
+|
+|t:|1641754121
+|switch|p1a: Facteur|Pelipper, M, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Facteur
+|move|p2a: Cizayox|Knock Off|p1a: Facteur
+|-damage|p1a: Facteur|62/100
+|-enditem|p1a: Facteur|Damp Rock|[from] move: Knock Off|[of] p2a: Cizayox
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641754131
+|move|p1a: Facteur|U-turn|p2a: Cizayox
+|-resisted|p2a: Cizayox
+|-damage|p2a: Cizayox|48/100
+|
+|t:|1641754134
+|switch|p1a: Laveuse|Rotom-Wash|100/100|[from]move: U-turn
+|move|p2a: Cizayox|U-turn|p1a: Laveuse
+|-damage|p1a: Laveuse|59/100
+|
+|t:|1641754142
+|switch|p2a: Alakazam|Alakazam, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Laveuse|65/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641754152
+|move|p2a: Alakazam|Energy Ball|p1a: Laveuse
+|-supereffective|p1a: Laveuse
+|-damage|p1a: Laveuse|0 fnt
+|faint|p1a: Laveuse
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641754159
+|switch|p1a: Monstro|Barraskewda, M, shiny|100/100
+|turn|7
+|
+|t:|1641754164
+|move|p1a: Monstro|Liquidation|p2a: Alakazam
+|-enditem|p2a: Alakazam|Focus Sash
+|-damage|p2a: Alakazam|1/100
+|-damage|p1a: Monstro|91/100|[from] item: Life Orb
+|move|p2a: Alakazam|Energy Ball|p1a: Monstro
+|-supereffective|p1a: Monstro
+|-damage|p1a: Monstro|0 fnt
+|faint|p1a: Monstro
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641754176
+|switch|p1a: Norbert|Zeraora|30/100
+|turn|8
+|
+|t:|1641754181
+|move|p1a: Norbert|Knock Off|p2a: Alakazam
+|-supereffective|p2a: Alakazam
+|-damage|p2a: Alakazam|0 fnt
+|faint|p2a: Alakazam
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641754188
+|switch|p2a: Cizayox|Scizor, F|48/100
+|turn|9
+|
+|t:|1641754193
+|move|p1a: Norbert|Knock Off|p2a: Cizayox
+|-damage|p2a: Cizayox|19/100
+|move|p2a: Cizayox|U-turn|p1a: Norbert
+|-damage|p1a: Norbert|0 fnt
+|faint|p1a: Norbert
+|
+|t:|1641754217
+|switch|p2a: Mew|Mew|3/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641754223
+|switch|p1a: Martin|Heliolisk, M, shiny|100/100
+|turn|10
+|
+|t:|1641754228
+|move|p1a: Martin|Dark Pulse|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641754235
+|switch|p2a: Tyranocif|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|turn|11
+|
+|t:|1641754242
+|switch|p1a: Facteur|Pelipper, M, shiny|62/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Facteur
+|move|p2a: Tyranocif|Rock Blast|p1a: Facteur
+|-supereffective|p1a: Facteur
+|-damage|p1a: Facteur|30/100
+|-supereffective|p1a: Facteur
+|-damage|p1a: Facteur|0 fnt
+|faint|p1a: Facteur
+|-hitcount|p1: Facteur|2
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641754253
+|switch|p1a: Martin|Heliolisk, M, shiny|100/100
+|turn|12
+|
+|t:|1641754259
+|switch|p2a: Cizayox|Scizor, F|19/100
+|move|p1a: Martin|Grass Knot|p2a: Cizayox
+|-resisted|p2a: Cizayox
+|-damage|p2a: Cizayox|10/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641754267
+|move|p1a: Martin|Grass Knot|p2a: Cizayox
+|-resisted|p2a: Cizayox
+|-damage|p2a: Cizayox|0 fnt
+|faint|p2a: Cizayox
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641754274
+|switch|p2a: Tyranocif|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranocif
+|turn|14
+|
+|t:|1641754281
+|move|p1a: Martin|Grass Knot|p2a: Tyranocif
+|-supereffective|p2a: Tyranocif
+|-crit|p2a: Tyranocif
+|-damage|p2a: Tyranocif|58/100
+|move|p2a: Tyranocif|Rock Blast|p1a: Martin
+|-damage|p1a: Martin|70/100
+|-damage|p1a: Martin|39/100
+|-hitcount|p1a: Martin|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Martin|33/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641754292
+|move|p1a: Martin|Grass Knot|p2a: Tyranocif
+|-supereffective|p2a: Tyranocif
+|-damage|p2a: Tyranocif|31/100
+|move|p2a: Tyranocif|Crunch|p1a: Martin
+|-damage|p1a: Martin|0 fnt
+|faint|p1a: Martin
+|
+|win|Cohaltin9

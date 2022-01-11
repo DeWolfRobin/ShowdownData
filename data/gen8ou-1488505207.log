@@ -1,0 +1,97 @@
+|j|☆ASLKDGH
+|j|☆Ackesh
+|t:|1641774153
+|gametype|singles
+|player|p1|ASLKDGH|red|1358
+|player|p2|Ackesh|169|1414
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Crawdaunt, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Scizor, F|
+|poke|p1|Gengar, F|
+|poke|p1|Keldeo-Resolute|
+|poke|p2|Tyrantrum, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Regieleki|
+|poke|p2|Zapdos|
+|poke|p2|Clefable, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ASLKDGH)
+|
+|t:|1641774172
+|start
+|switch|p1a: Crawdaunt|Crawdaunt, F|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|
+|t:|1641774177
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Tapu Lele|Moonblast|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|53/100
+|-unboost|p1a: Scizor|spa|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641774187
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Scizor|Roost|p1a: Scizor
+|-heal|p1a: Scizor|100/100
+|-singleturn|p1a: Scizor|move: Roost
+|
+|upkeep
+|turn|3
+|
+|t:|1641774191
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Lele|atk|1
+|
+|upkeep
+|turn|4
+|
+|t:|1641774200
+|switch|p1a: Crawdaunt|Crawdaunt, F|100/100
+|move|p2a: Tapu Lele|Psychic|p1a: Crawdaunt
+|-immune|p1a: Crawdaunt
+|
+|upkeep
+|turn|5
+|
+|t:|1641774208
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Crawdaunt|Crabhammer|p2a: Zapdos|[miss]
+|-miss|p1a: Crawdaunt|p2a: Zapdos
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641774213
+|move|p2a: Zapdos|Volt Switch|p1a: Crawdaunt
+|-supereffective|p1a: Crawdaunt
+|-damage|p1a: Crawdaunt|0 fnt
+|faint|p1a: Crawdaunt
+|-message|ASLKDGH forfeited.
+|
+|win|Ackesh
+|raw|ASLKDGH's rating: 1358 &rarr; <strong>1342</strong><br />(-16 for losing)
+|raw|Ackesh's rating: 1428 &rarr; <strong>1444</strong><br />(+16 for winning)
+|l|☆ASLKDGH

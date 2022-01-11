@@ -1,0 +1,175 @@
+|j|☆MoaJ'mPaLaCorrida
+|j|☆Tod902
+|t:|1641734686
+|gametype|singles
+|player|p1|MoaJ'mPaLaCorrida|pokemaniac|1160
+|player|p2|Tod902|ghetsis|1190
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos-Galar|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Toxapex, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Diggersby, F|
+|poke|p1|Scizor, F|
+|poke|p2|Polteageist-Antique|
+|poke|p2|Barbaracle, F|
+|poke|p2|Turtonator, F|
+|poke|p2|Crustle, M|
+|poke|p2|Cloyster, M|
+|poke|p2|Torkoal, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Tod902)
+|
+|t:|1641734696
+|start
+|switch|p1a: Wall 1|Ferrothorn, F|100/100
+|switch|p2a: Polteageist|Polteageist-Antique, shiny|100/100
+|turn|1
+|
+|t:|1641734701
+|move|p2a: Polteageist|Shell Smash|p2a: Polteageist
+|-unboost|p2a: Polteageist|def|1
+|-unboost|p2a: Polteageist|spd|1
+|-boost|p2a: Polteageist|atk|2
+|-boost|p2a: Polteageist|spa|2
+|-boost|p2a: Polteageist|spe|2
+|-enditem|p2a: Polteageist|White Herb
+|-clearnegativeboost|p2a: Polteageist|[silent]
+|move|p1a: Wall 1|Knock Off|p2a: Polteageist
+|-supereffective|p2a: Polteageist
+|-damage|p2a: Polteageist|53/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641734713
+|switch|p1a: Wall 2|Toxapex, M|100/100
+|move|p2a: Polteageist|Stored Power|p1a: Wall 2
+|-supereffective|p1a: Wall 2
+|-damage|p1a: Wall 2|0 fnt
+|faint|p1a: Wall 2
+|
+|upkeep
+|
+|t:|1641734733
+|switch|p1a: Niiiiiiiion|Dragapult, M|100/100
+|turn|3
+|
+|t:|1641734737
+|move|p2a: Polteageist|Shadow Ball|p1a: Niiiiiiiion
+|-supereffective|p1a: Niiiiiiiion
+|-damage|p1a: Niiiiiiiion|0 fnt
+|faint|p1a: Niiiiiiiion
+|
+|upkeep
+|
+|t:|1641734741
+|switch|p1a: Maréchal|Scizor, F|100/100
+|turn|4
+|
+|t:|1641734744
+|move|p1a: Maréchal|Bullet Punch|p2a: Polteageist
+|-damage|p2a: Polteageist|7/100
+|move|p2a: Polteageist|Stored Power|p1a: Maréchal
+|-resisted|p1a: Maréchal
+|-damage|p1a: Maréchal|47/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641734755
+|move|p1a: Maréchal|Bullet Punch|p2a: Polteageist
+|-damage|p2a: Polteageist|0 fnt
+|faint|p2a: Polteageist
+|
+|upkeep
+|
+|t:|1641734759
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|6
+|
+|t:|1641734764
+|switch|p1a: Je mapel bob|Diggersby, F|100/100
+|move|p2a: Torkoal|Shell Smash|p2a: Torkoal
+|-unboost|p2a: Torkoal|def|1
+|-unboost|p2a: Torkoal|spd|1
+|-boost|p2a: Torkoal|atk|2
+|-boost|p2a: Torkoal|spa|2
+|-boost|p2a: Torkoal|spe|2
+|-enditem|p2a: Torkoal|White Herb
+|-clearnegativeboost|p2a: Torkoal|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|c|☆Tod902|!weak Diggersby
+|c| Tod902|/raw <div class="infobox">Diggersby (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Fighting, Grass, Ice, Water<br /><span class="message-effect-resist">Resistances</span>: Poison, Rock<br /><span class="message-effect-immune">Immunities</span>: Electric, Ghost, Sandstorm damage</div>
+|
+|t:|1641734784
+|move|p2a: Torkoal|Solar Beam||[still]
+|-prepare|p2a: Torkoal|Solar Beam
+|-anim|p2a: Torkoal|Solar Beam|p1a: Je mapel bob
+|-supereffective|p1a: Je mapel bob
+|-damage|p1a: Je mapel bob|0 fnt
+|faint|p1a: Je mapel bob
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641734794
+|switch|p1a: Maréchal|Scizor, F|47/100
+|turn|8
+|
+|t:|1641734797
+|move|p1a: Maréchal|Bullet Punch|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|88/100
+|move|p2a: Torkoal|Weather Ball|p1a: Maréchal
+|-supereffective|p1a: Maréchal
+|-damage|p1a: Maréchal|0 fnt
+|faint|p1a: Maréchal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641734800
+|switch|p1a: Cocorico|Zapdos-Galar|100/100
+|turn|9
+|c|☆Tod902|!weak Zapdos-Galar
+|c| Tod902|/raw <div class="infobox">Zapdos-Galar (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Electric, Fairy, Flying, Ice, Psychic<br /><span class="message-effect-resist">Resistances</span>: <b>Bug</b>, Dark, Fighting, Grass<br /><span class="message-effect-immune">Immunities</span>: Ground</div>
+|
+|t:|1641734829
+|move|p1a: Cocorico|Close Combat|p2a: Torkoal
+|-damage|p2a: Torkoal|10/100
+|-unboost|p1a: Cocorico|def|1
+|-unboost|p1a: Cocorico|spd|1
+|move|p2a: Torkoal|Weather Ball|p1a: Cocorico
+|-damage|p1a: Cocorico|0 fnt
+|faint|p1a: Cocorico
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641734839
+|switch|p1a: Wall 1|Ferrothorn, F|100/100
+|turn|10
+|c|☆MoaJ'mPaLaCorrida|fuck  u cancer man
+|-message|MoaJ'mPaLaCorrida forfeited.
+|
+|win|Tod902
+|raw|MoaJ&apos;mPaLaCorrida's rating: 1160 &rarr; <strong>1137</strong><br />(-23 for losing)
+|raw|Tod902's rating: 1190 &rarr; <strong>1213</strong><br />(+23 for winning)
+|l|☆MoaJ'mPaLaCorrida

@@ -1,0 +1,266 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc jialing
+|j|☆water GH0ST
+|t:|1641738836
+|gametype|singles
+|player|p1|sl21cc jialing|bellelba|1309
+|player|p2|water GH0ST|picnicker|1254
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Arctozolt|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowking, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Ninetales-Alola, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Heatran, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Cloyster, M|
+|poke|p2|Scizor, F|
+|teampreview
+|j|♚aro nova
+|j| sl21cckhl
+|j| jingtianlangtaosha
+|
+|t:|1641738850
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|turn|1
+|j| tianyutulongwu
+|j| pokonghanbingkan
+|j| SL21CC ginko
+|j| SL21CCJqlove
+|
+|t:|1641738885
+|move|p1a: Urshifu|Surging Strikes|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|50/100
+|-enditem|p2a: Heatran|Air Balloon
+|-supereffective|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-hitcount|p2: Heatran|2
+|
+|upkeep
+|
+|t:|1641738893
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|2
+|
+|t:|1641738904
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Urshifu|Surging Strikes|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|82/100
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|62/100
+|-resisted|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|43/100
+|-hitcount|p2a: Dragapult|3
+|
+|upkeep
+|turn|3
+|j| adreamew
+|
+|t:|1641738912
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Dragapult|Flamethrower|p1a: Ninetales
+|-supereffective|p1a: Ninetales
+|-damage|p1a: Ninetales|52/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Dragapult|37/100|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641738931
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Ninetales|Moonblast|p2a: Dragapult|[miss]
+|-miss|p1a: Ninetales|p2a: Dragapult
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Dragapult|31/100|[from] Hail
+|upkeep
+|turn|5
+|j| 9skythunderouskick
+|
+|t:|1641738949
+|move|p2a: Dragapult|Phantom Force|p1a: Ninetales|[from]lockedmove
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Dragapult|24/100|[from] Hail
+|upkeep
+|
+|t:|1641738953
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|6
+|
+|t:|1641738956
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|move|p1a: Urshifu|Aqua Jet|p2a: Cloyster
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|88/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Urshifu|94/100|[from] Hail
+|upkeep
+|turn|7
+|
+|t:|1641738965
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Cloyster|atk|1
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Landorus|94/100|[from] Hail
+|-heal|p1a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641738979
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Slowking|94/100|[from] Hail
+|upkeep
+|turn|9
+|
+|t:|1641738985
+|move|p2a: Cloyster|Pin Missile|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|37/100
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|8/100
+|-supereffective|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-hitcount|p1: Slowking|4
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641738987
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|94/100
+|turn|10
+|
+|t:|1641738994
+|move|p2a: Cloyster|Icicle Spear|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|80/100
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|65/100
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|50/100
+|-resisted|p1a: Urshifu
+|-crit|p1a: Urshifu
+|-damage|p1a: Urshifu|29/100
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|13/100
+|-hitcount|p1a: Urshifu|5
+|move|p1a: Urshifu|Close Combat|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|faint|p2a: Cloyster
+|
+|-weather|none
+|upkeep
+|
+|t:|1641739023
+|switch|p2a: Dragapult|Dragapult, M|24/100
+|turn|11
+|
+|t:|1641739053
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|move|p1a: Urshifu|Close Combat|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|12
+|
+|t:|1641739060
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|13
+|j| SL21CC Pichiu
+|
+|t:|1641739064
+|move|p2a: Dragapult|Dragon Darts|p1a: Tornadus
+|-damage|p1a: Tornadus|44/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1641739066
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, F|13/100
+|turn|14
+|
+|t:|1641739073
+|move|p1a: Urshifu|Aqua Jet|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|5/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|-message|sl21cc jialing forfeited.
+|
+|win|water GH0ST
+|raw|sl21cc jialing's rating: 1309 &rarr; <strong>1289</strong><br />(-20 for losing)
+|raw|water GH0ST's rating: 1235 &rarr; <strong>1254</strong><br />(+19 for winning)
+|l|☆sl21cc jialing
+|j| vjdinf_dfji12
+|l| sl21cckhl
+|l| jingtianlangtaosha
+|l|☆water GH0ST
+|l| SL21CC ginko

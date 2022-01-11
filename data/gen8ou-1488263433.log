@@ -1,0 +1,102 @@
+|j|☆Hvctvrvr
+|j|☆P0KESHOW
+|t:|1641743130
+|gametype|singles
+|player|p1|Hvctvrvr|lady|1045
+|player|p2|P0KESHOW|battlegirl-gen4|1097
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Blissey, F|
+|poke|p1|Skarmory, F|
+|poke|p1|Heatran, M|
+|poke|p1|Clefable, F|
+|poke|p2|Aggron, F|
+|poke|p2|Victini|
+|poke|p2|Mew|
+|poke|p2|Druddigon, M|
+|poke|p2|Shuckle, F|
+|poke|p2|Mamoswine, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by P0KESHOW)
+|
+|t:|1641743136
+|start
+|switch|p1a: Take care|Clefable, F, shiny|100/100
+|switch|p2a: Victini|Victini|100/100
+|turn|1
+|
+|t:|1641743142
+|switch|p1a: Im here for you|Heatran, M|100/100
+|move|p2a: Victini|Thunder|p1a: Im here for you
+|-damage|p1a: Im here for you|68/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641743149
+|move|p1a: Im here for you|Earth Power|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|39/100
+|move|p2a: Victini|Scorching Sands|p1a: Im here for you
+|-supereffective|p1a: Im here for you
+|-damage|p1a: Im here for you|0 fnt
+|faint|p1a: Im here for you
+|
+|upkeep
+|
+|t:|1641743160
+|switch|p1a: Hold my hand|Skarmory, F, shiny|100/100
+|turn|3
+|
+|t:|1641743163
+|move|p2a: Victini|Thunder|p1a: Hold my hand
+|-supereffective|p1a: Hold my hand
+|-ability|p1a: Hold my hand|Sturdy
+|-damage|p1a: Hold my hand|1/100
+|-status|p1a: Hold my hand|par
+|-enditem|p1a: Hold my hand|Weakness Policy
+|-boost|p1a: Hold my hand|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Hold my hand|spa|2|[from] item: Weakness Policy
+|cant|p1a: Hold my hand|par
+|
+|upkeep
+|turn|4
+|
+|t:|1641743174
+|move|p2a: Victini|Glaciate|p1a: Hold my hand
+|-damage|p1a: Hold my hand|0 fnt
+|faint|p1a: Hold my hand
+|
+|upkeep
+|
+|t:|1641743179
+|switch|p1a: Im your friend|Blissey, F, shiny|100/100
+|turn|5
+|
+|t:|1641743190
+|move|p2a: Victini|Thunder|p1a: Im your friend|[miss]
+|-miss|p2a: Victini|p1a: Im your friend
+|move|p1a: Im your friend|Tri Attack|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|-damage|p1a: Im your friend|91/100|[from] item: Life Orb
+|
+|upkeep
+|-message|P0KESHOW forfeited.
+|
+|win|Hvctvrvr
+|raw|Hvctvrvr's rating: 1045 &rarr; <strong>1083</strong><br />(+38 for winning)
+|raw|P0KESHOW's rating: 1097 &rarr; <strong>1069</strong><br />(-28 for losing)

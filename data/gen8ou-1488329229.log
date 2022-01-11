@@ -1,0 +1,404 @@
+|j|☆SupaTerrestrial
+|j|‽almighty sa
+|t:|1641751847
+|gametype|singles
+|player|p1|SupaTerrestrial|buck|1499
+|player|p2|almighty sa|volkner|1480
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Swampert, M|
+|poke|p1|Incineroar, F|
+|poke|p1|Clefable, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Rillaboom, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Marowak-Alola, F|
+|poke|p2|Weavile, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by almighty sa)
+|
+|t:|1641751864
+|start
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1641751873
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Tornadus|Hurricane|p2a: Corviknight|[miss]
+|-miss|p1a: Tornadus|p2a: Corviknight
+|
+|upkeep
+|turn|2
+|
+|t:|1641751884
+|move|p1a: Tornadus|Hurricane|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|71/100
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|move|p2a: Corviknight|U-turn|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|81/100
+|
+|t:|1641751887
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: U-turn
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1641751894
+|switch|p2a: Marowak|Marowak-Alola, F|100/100
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|
+|upkeep
+|turn|4
+|inactive|SupaTerrestrial has 120 seconds left.
+|inactive|SupaTerrestrial has 90 seconds left.
+|
+|t:|1641751956
+|switch|p1a: Swampert|Swampert, M|100/100
+|move|p2a: Marowak|Poltergeist|p1a: Swampert
+|-activate|p1a: Swampert|move: Poltergeist|Rocky Helmet
+|-damage|p1a: Swampert|15/100
+|
+|-heal|p1a: Swampert|22/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641751971
+|move|p2a: Marowak|Poltergeist|p1a: Swampert
+|-activate|p1a: Swampert|move: Poltergeist|Rocky Helmet
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641751976
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Marowak|atk|1
+|turn|6
+|
+|t:|1641751988
+|switch|p2a: Corviknight|Corviknight, F|71/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Substitute|p1a: Landorus
+|-start|p1a: Landorus|Substitute
+|-damage|p1a: Landorus|76/100
+|
+|-heal|p1a: Landorus|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641751991
+|move|p1a: Landorus|Swords Dance|p1a: Landorus
+|-boost|p1a: Landorus|atk|2
+|move|p2a: Corviknight|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-activate|p1a: Landorus|move: Substitute|[damage]
+|
+|t:|1641751994
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100|[from]move: U-turn
+|
+|-heal|p1a: Landorus|88/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641751997
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|95/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|89/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-resisted|p1a: Ferrothorn
+|-crit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|83/100
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|-hitcount|p1a: Ferrothorn|3
+|
+|upkeep
+|turn|9
+|
+|t:|1641752004
+|move|p2a: Urshifu|Close Combat|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|8/100
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|-activate|p1a: Ferrothorn|ability: Iron Barbs
+|-activate|p2a: Urshifu|item: Protective Pads
+|move|p1a: Ferrothorn|Power Whip|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|inactive|almighty sa has 120 seconds left.
+|
+|t:|1641752048
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|10
+|
+|t:|1641752062
+|switch|p1a: Incineroar|Incineroar, F|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|move|p2a: Slowking|Ice Beam|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|90/100
+|
+|upkeep
+|turn|11
+|inactive|almighty sa has 120 seconds left.
+|inactive|almighty sa has 90 seconds left.
+|
+|t:|1641752106
+|switch|p2a: Corviknight|Corviknight, F|71/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Incineroar|Flare Blitz|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-damage|p1a: Incineroar|73/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|-damage|p1a: Incineroar|49/100|[from] Recoil
+|
+|upkeep
+|inactive|almighty sa has 90 seconds left.
+|
+|t:|1641752113
+|switch|p2a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|12
+|
+|t:|1641752142
+|switch|p1a: Ferrothorn|Ferrothorn, M|8/100
+|move|p2a: Rillaboom|Drain Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Rillaboom|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Rillaboom|78/100|[from] Grassy Terrain
+|upkeep
+|inactive|SupaTerrestrial has 120 seconds left.
+|
+|t:|1641752154
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|13
+|inactive|SupaTerrestrial has 120 seconds left.
+|
+|t:|1641752174
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Tornadus|Hurricane|p2a: Slowking
+|-damage|p2a: Slowking|72/100
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Slowking|78/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641752181
+|switch|p1a: Incineroar|Incineroar, F|49/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Incineroar
+|-damage|p1a: Incineroar|15/100
+|-status|p1a: Incineroar|psn
+|
+|-heal|p1a: Incineroar|21/100 psn|[from] Grassy Terrain
+|-heal|p2a: Slowking|84/100|[from] Grassy Terrain
+|-damage|p1a: Incineroar|9/100 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641752210
+|move|p1a: Incineroar|Knock Off|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|-enditem|p2a: Slowking|Assault Vest|[from] move: Knock Off|[of] p1a: Incineroar
+|faint|p2a: Slowking
+|
+|-heal|p1a: Incineroar|15/100 psn|[from] Grassy Terrain
+|-damage|p1a: Incineroar|2/100 psn|[from] psn
+|upkeep
+|
+|t:|1641752218
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|16
+|inactive|SupaTerrestrial has 120 seconds left.
+|
+|t:|1641752250
+|move|p2a: Weavile|Knock Off|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|-enditem|p1a: Incineroar|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Incineroar
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641752257
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|17
+|inactive|SupaTerrestrial has 120 seconds left.
+|
+|t:|1641752263
+|switch|p2a: Marowak|Marowak-Alola, F|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Marowak|atk|1
+|
+|-heal|p1a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|inactive|SupaTerrestrial has 120 seconds left.
+|
+|t:|1641752276
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|78/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|84/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1641752288
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Tornadus|Hurricane|p2a: Weavile
+|-damage|p2a: Weavile|5/100
+|-damage|p1a: Tornadus|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Weavile|11/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1641752305
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Weavile|Triple Axel|p1a: Clefable
+|-damage|p1a: Clefable|88/100
+|-damage|p1a: Clefable|65/100
+|-damage|p1a: Clefable|33/100
+|-hitcount|p1a: Clefable|3
+|
+|-heal|p2a: Weavile|17/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|39/100|[from] Grassy Terrain
+|upkeep
+|turn|21
+|
+|t:|1641752313
+|move|p2a: Weavile|Triple Axel|p1a: Clefable
+|-damage|p1a: Clefable|28/100
+|-hitcount|p1a: Clefable|1
+|move|p1a: Clefable|Moonblast|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|-heal|p1a: Clefable|34/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641752320
+|switch|p2a: Marowak|Marowak-Alola, F|100/100
+|turn|22
+|inactive|SupaTerrestrial has 120 seconds left.
+|
+|t:|1641752366
+|move|p2a: Marowak|Poltergeist|p1a: Clefable
+|-activate|p1a: Clefable|move: Poltergeist|Heavy-Duty Boots
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641752370
+|switch|p1a: Landorus|Landorus-Therian, M|94/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Marowak|atk|1
+|turn|23
+|
+|t:|1641752397
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p2a: Rillaboom|Rillaboom, F|84/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|
+|-heal|p2a: Rillaboom|90/100|[from] Grassy Terrain
+|upkeep
+|turn|24
+|inactive|SupaTerrestrial has 120 seconds left.
+|
+|t:|1641752407
+|move|p2a: Rillaboom|Grassy Glide|p1a: Tornadus
+|-resisted|p1a: Tornadus
+|-damage|p1a: Tornadus|67/100
+|move|p1a: Tornadus|Hurricane|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-damage|p1a: Tornadus|58/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641752411
+|switch|p2a: Marowak|Marowak-Alola, F|100/100
+|turn|25
+|
+|t:|1641752414
+|move|p1a: Tornadus|Hurricane|p2a: Marowak
+|-damage|p2a: Marowak|15/100
+|-damage|p1a: Tornadus|48/100|[from] item: Life Orb
+|move|p2a: Marowak|Poltergeist|p1a: Tornadus
+|-activate|p1a: Tornadus|move: Poltergeist|Life Orb
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-heal|p2a: Marowak|21/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641752416
+|switch|p1a: Landorus|Landorus-Therian, M|94/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Marowak|atk|1
+|turn|26
+|inactive|almighty sa has 120 seconds left.
+|
+|t:|1641752470
+|move|p1a: Landorus|Earthquake|p2a: Marowak
+|-supereffective|p2a: Marowak
+|-damage|p2a: Marowak|0 fnt
+|faint|p2a: Marowak
+|
+|win|SupaTerrestrial
+|raw|SupaTerrestrial's rating: 1519 &rarr; <strong>1539</strong><br />(+20 for winning)
+|raw|almighty sa's rating: 1511 &rarr; <strong>1491</strong><br />(-20 for losing)
+|l|‽almighty sa

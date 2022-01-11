@@ -1,0 +1,254 @@
+|j|☆Khemissi
+|j|☆Stillau
+|t:|1641734960
+|gametype|singles
+|player|p1|Khemissi|266|
+|player|p2|Stillau|medium|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Melmetal|
+|poke|p1|Dragapult, M|
+|poke|p1|Weavile, M|
+|poke|p1|Rotom-Wash|
+|poke|p2|Tapu Koko|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Kartana|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Weavile, M|
+|teampreview
+|c|☆Stillau|glhf
+|c|☆Khemissi|glhf
+|c|☆Khemissi|/log Khemissi made this room public.
+|j| ICE ICE MOULA
+|c| ICE ICE MOULA|igo igo mon arme te tue
+|j| Skyrio
+|
+|t:|1641735061
+|start
+|switch|p1a: Clefable|Clefable, M|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|1
+|
+|t:|1641735090
+|move|p2a: Urshifu|U-turn|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|92/100
+|j| P.Otaku ☯
+|
+|t:|1641735130
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Clefable|atk|1
+|move|p1a: Clefable|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Stillau|move: Stealth Rock
+|
+|-heal|p1a: Clefable|98/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641735146
+|move|p2a: Landorus|Stealth Rock|p1a: Clefable
+|-sidestart|p1: Khemissi|move: Stealth Rock
+|move|p1a: Clefable|Moonblast|p2a: Landorus
+|-damage|p2a: Landorus|58/100
+|-unboost|p2a: Landorus|spa|1
+|
+|-heal|p1a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641735177
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Explosion|p1a: Landorus
+|-enditem|p2a: Landorus|Normal Gem|[from] gem
+|-damage|p1a: Landorus|6/100
+|faint|p2a: Landorus
+|
+|-heal|p1a: Landorus|12/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641735216
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1641735276
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|move|p2a: Kartana|Leaf Blade|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|76/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641735416
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Melmetal|Double Iron Bash|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-hitcount|p2: Weavile|1
+|
+|upkeep
+|
+|t:|1641735421
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p2a: Urshifu|94/100|[from] Stealth Rock
+|turn|6
+|j| PapyWin
+|
+|t:|1641735468
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-damage|p2a: Tapu Koko|88/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|-damage|p1a: Rotom|88/100|[from] Stealth Rock
+|
+|-heal|p1a: Rotom|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641735538
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Rotom
+|-damage|p1a: Rotom|41/100
+|move|p1a: Rotom|Pain Split|p2a: Tapu Koko
+|-sethp|p2a: Tapu Koko|66/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|61/100|[from] move: Pain Split
+|
+|-heal|p1a: Rotom|67/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641735579
+|move|p2a: Tapu Koko|Thunderbolt|p1a: Rotom
+|-damage|p1a: Rotom|13/100
+|move|p1a: Rotom|Volt Switch|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|47/100
+|
+|t:|1641735582
+|switch|p1a: Dragapult|Dragapult, M|100/100|[from]move: Volt Switch
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1641735691
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|move|p1a: Dragapult|Shadow Ball|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641735694
+|switch|p2a: Kartana|Kartana|94/100
+|-damage|p2a: Kartana|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641735723
+|switch|p1a: Rotom|Rotom-Wash|13/100
+|-damage|p1a: Rotom|0 fnt|[from] Stealth Rock
+|faint|p1a: Rotom
+|move|p2a: Kartana|Knock Off|p1: Rotom|[notarget]
+|-fail|p2a: Kartana
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641735765
+|switch|p1a: Clefable|Clefable, M|100/100
+|turn|11
+|
+|t:|1641735829
+|move|p2a: Kartana|Knock Off|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|84/100
+|-enditem|p1a: Clefable|Leftovers|[from] move: Knock Off|[of] p2a: Kartana
+|move|p1a: Clefable|Moonblast|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|39/100
+|
+|upkeep
+|turn|12
+|l| Skyrio
+|
+|t:|1641735853
+|switch|p2a: Tapu Koko|Tapu Koko|47/100
+|-damage|p2a: Tapu Koko|35/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Clefable|Moonblast|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641735862
+|switch|p2a: Kartana|Kartana|39/100
+|-damage|p2a: Kartana|33/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641735869
+|switch|p1a: Landorus|Landorus-Therian, M|12/100
+|-damage|p1a: Landorus|0 fnt|[from] Stealth Rock
+|faint|p1a: Landorus
+|move|p2a: Kartana|Leaf Blade|p1: Landorus|[notarget]
+|-fail|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641735878
+|switch|p1a: Melmetal|Melmetal|76/100
+|-damage|p1a: Melmetal|70/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641735893
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|94/100
+|-damage|p2a: Urshifu|88/100|[from] Stealth Rock
+|move|p1a: Melmetal|Thunder Punch|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-crit|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1641735896
+|switch|p2a: Kartana|Kartana|33/100
+|-damage|p2a: Kartana|26/100|[from] Stealth Rock
+|turn|15
+|
+|t:|1641735901
+|move|p2a: Kartana|Sacred Sword|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|19/100
+|move|p1a: Melmetal|Superpower|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|-unboost|p1a: Melmetal|atk|1
+|-unboost|p1a: Melmetal|def|1
+|faint|p2a: Kartana
+|
+|win|Khemissi
+|c|☆Khemissi|gg
+|c|☆Stillau|gg

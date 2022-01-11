@@ -1,0 +1,76 @@
+|j|☆Bovinity
+|j|☆RpgWaffle
+|t:|1641701709
+|gametype|singles
+|player|p1|Bovinity|gambler|1083
+|player|p2|RpgWaffle|170|1116
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Salamence, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Alakazam, F|
+|poke|p1|Lapras, M|
+|poke|p1|Nidoking, M|
+|poke|p1|Aegislash, F|
+|poke|p2|Azelf|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Nidoking, M|
+|poke|p2|Zoroark, M|
+|poke|p2|Blacephalon|
+|poke|p2|Clefable, F|
+|teampreview
+|
+|t:|1641701726
+|start
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|switch|p2a: Azelf|Azelf|100/100
+|turn|1
+|
+|t:|1641701738
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|move|p2a: Azelf|Taunt|p1a: Aegislash
+|-start|p1a: Aegislash|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1641701745
+|move|p2a: Azelf|Thunder Wave|p1a: Aegislash
+|-status|p1a: Aegislash|par
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Claw|p2a: Azelf
+|-supereffective|p2a: Azelf
+|-damage|p2a: Azelf|0 fnt
+|faint|p2a: Azelf
+|
+|upkeep
+|
+|t:|1641701754
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|3
+|
+|t:|1641701760
+|move|p1a: Aegislash|Shadow Sneak|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|-end|p1a: Aegislash|move: Taunt
+|upkeep
+|-message|RpgWaffle forfeited.
+|
+|win|Bovinity
+|raw|Bovinity's rating: 1083 &rarr; <strong>1113</strong><br />(+30 for winning)
+|raw|RpgWaffle's rating: 1116 &rarr; <strong>1089</strong><br />(-27 for losing)
+|l|☆RpgWaffle

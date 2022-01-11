@@ -1,0 +1,212 @@
+|j|☆Skyrakers
+|j|☆newbiemee
+|t:|1641825143
+|gametype|singles
+|player|p1|Skyrakers|biker-gen4|1312
+|player|p2|newbiemee|lance|1311
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Bisharp, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Buzzwole|
+|poke|p1|Toxapex, F|
+|poke|p1|Ribombee, F|
+|poke|p2|Crawdaunt, F|
+|poke|p2|Zapdos|
+|poke|p2|Garchomp, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Pelipper, M|
+|poke|p2|Ferrothorn, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Skyrakers)
+|
+|t:|1641825161
+|start
+|switch|p1a: Bby|Ribombee, F|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|1
+|
+|t:|1641825173
+|move|p1a: Bby|Sticky Web|p2a: Ferrothorn
+|-sidestart|p2: newbiemee|move: Sticky Web
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Bby
+|-sidestart|p1: Skyrakers|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|inactive|newbiemee has 120 seconds left.
+|inactive|newbiemee has 90 seconds left.
+|
+|t:|1641825242
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|-damage|p1a: Buzzwole|88/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Spikes|p1a: Buzzwole
+|-sidestart|p1: Skyrakers|Spikes
+|
+|-heal|p1a: Buzzwole|94/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|newbiemee has 90 seconds left.
+|
+|t:|1641825251
+|move|p1a: Buzzwole|Bulk Up|p1a: Buzzwole
+|-boost|p1a: Buzzwole|atk|1
+|-boost|p1a: Buzzwole|def|1
+|move|p2a: Ferrothorn|Spikes|p1a: Buzzwole
+|-sidestart|p1: Skyrakers|Spikes
+|
+|-heal|p1a: Buzzwole|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641825257
+|move|p1a: Buzzwole|Bulk Up|p1a: Buzzwole
+|-boost|p1a: Buzzwole|atk|1
+|-boost|p1a: Buzzwole|def|1
+|move|p2a: Ferrothorn|Knock Off|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|98/100
+|-enditem|p1a: Buzzwole|Leftovers|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|upkeep
+|turn|5
+|
+|t:|1641825268
+|move|p1a: Buzzwole|Ice Punch|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|68/100
+|-damage|p1a: Buzzwole|85/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Spikes|p1a: Buzzwole
+|-sidestart|p1: Skyrakers|Spikes
+|
+|-heal|p2a: Ferrothorn|75/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641825283
+|move|p1a: Buzzwole|Drain Punch|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-heal|p1a: Buzzwole|100/100|[from] drain|[of] p2a: Ferrothorn
+|-damage|p1a: Buzzwole|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|def|1
+|
+|upkeep
+|
+|t:|1641825288
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|7
+|
+|t:|1641825293
+|move|p1a: Buzzwole|Thunder Punch|p2a: Pelipper
+|-supereffective|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641825298
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|8
+|
+|t:|1641825309
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|75/100|[from] Spikes
+|-damage|p1a: Toxapex|63/100|[from] Stealth Rock
+|move|p2a: Zapdos|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|20/100
+|-start|p1a: Toxapex|confusion
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641825318
+|move|p2a: Zapdos|Weather Ball|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641825333
+|switch|p1a: Beyonce|Tapu Fini|100/100
+|-damage|p1a: Beyonce|75/100|[from] Spikes
+|-damage|p1a: Beyonce|63/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Beyonce
+|turn|10
+|
+|t:|1641825342
+|switch|p1a: Bby|Ribombee, F|100/100
+|-damage|p1a: Bby|76/100|[from] Spikes
+|-damage|p1a: Bby|51/100|[from] Stealth Rock
+|move|p2a: Zapdos|Thunder|p1a: Bby
+|-damage|p1a: Bby|0 fnt
+|faint|p1a: Bby
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641825356
+|switch|p1a: Beyonce|Tapu Fini|63/100
+|-damage|p1a: Beyonce|50/100|[from] Stealth Rock
+|-damage|p1a: Beyonce|25/100|[from] Spikes
+|turn|11
+|
+|t:|1641825364
+|switch|p1a: Special|Landorus-Therian, M|100/100
+|-damage|p1a: Special|88/100|[from] Stealth Rock
+|-ability|p1a: Special|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|move|p2a: Zapdos|Weather Ball|p1a: Special
+|-supereffective|p1a: Special
+|-crit|p1a: Special
+|-damage|p1a: Special|0 fnt
+|faint|p1a: Special
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c|☆newbiemee|pog
+|
+|t:|1641825375
+|switch|p1a: Dark Sasuke|Bisharp, F|100/100
+|-damage|p1a: Dark Sasuke|76/100|[from] Spikes
+|-damage|p1a: Dark Sasuke|70/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641825381
+|move|p1a: Dark Sasuke|Sucker Punch|p2a: Zapdos
+|-damage|p2a: Zapdos|46/100
+|move|p2a: Zapdos|Thunder|p1a: Dark Sasuke
+|-damage|p1a: Dark Sasuke|0 fnt
+|faint|p1a: Dark Sasuke
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|-message|Skyrakers forfeited.
+|
+|win|newbiemee
+|raw|Skyrakers's rating: 1312 &rarr; <strong>1292</strong><br />(-20 for losing)
+|raw|newbiemee's rating: 1311 &rarr; <strong>1331</strong><br />(+20 for winning)
+|l|☆Skyrakers
+|c|☆newbiemee|let me clap them poks
+|c|☆newbiemee|sad
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

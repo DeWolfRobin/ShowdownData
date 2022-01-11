@@ -1,0 +1,372 @@
+|j|☆Nickkbarton96
+|j|☆inciniratr
+|t:|1641883945
+|gametype|singles
+|player|p1|Nickkbarton96|1|1110
+|player|p2|inciniratr|cynthia|1060
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Lapras, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Toxicroak, F|
+|poke|p1|Cresselia, F|
+|poke|p1|Aegislash, F|
+|poke|p1|Blaziken, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Porygon-Z|
+|poke|p2|Blacephalon|
+|poke|p2|Melmetal|
+|poke|p2|Tapu Koko|
+|teampreview
+|
+|t:|1641883976
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|1
+|
+|t:|1641883989
+|move|p1a: Rotom|Thunder|p2a: Dragonite
+|-damage|p2a: Dragonite|78/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641883995
+|move|p1a: Rotom|Thunder|p2a: Dragonite
+|-damage|p2a: Dragonite|29/100
+|move|p2a: Dragonite|Substitute|p2a: Dragonite
+|-start|p2a: Dragonite|Substitute
+|-damage|p2a: Dragonite|4/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641884001
+|move|p1a: Rotom|Thunder|p2a: Dragonite
+|-end|p2a: Dragonite|Substitute
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|54/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|upkeep
+|turn|4
+|
+|t:|1641884007
+|move|p1a: Rotom|Thunder|p2a: Dragonite
+|-damage|p2a: Dragonite|9/100
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|80/100
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|58/100
+|-hitcount|p1a: Rotom|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641884019
+|move|p1a: Rotom|Thunder|p2a: Dragonite|[miss]
+|-miss|p1a: Rotom|p2a: Dragonite
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|59/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|upkeep
+|turn|6
+|
+|t:|1641884028
+|move|p1a: Rotom|Thunder|p2a: Dragonite
+|-damage|p2a: Dragonite|6/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641884034
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|28/100
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|2/100
+|-hitcount|p1a: Rotom|2
+|move|p1a: Rotom|Thunder|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641884041
+|switch|p2a: Porygon-Z|Porygon-Z|100/100
+|turn|8
+|
+|t:|1641884049
+|switch|p1a: Aegislash|Aegislash, F|100/100
+|move|p2a: Porygon-Z|Shadow Ball|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-crit|p1a: Aegislash
+|-damage|p1a: Aegislash|53/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641884078
+|switch|p1a: Lapras|Lapras, F|100/100
+|move|p2a: Porygon-Z|Shadow Ball|p1a: Lapras
+|-damage|p1a: Lapras|80/100
+|-unboost|p1a: Lapras|spd|1
+|
+|upkeep
+|turn|10
+|
+|t:|1641884100
+|move|p1a: Lapras|Ice Shard|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|84/100
+|move|p2a: Porygon-Z|Shadow Ball|p1a: Lapras
+|-damage|p1a: Lapras|52/100
+|-unboost|p1a: Lapras|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641884112
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Lapras|Ice Shard|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|98/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641884119
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|move|p2a: Melmetal|Earthquake|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|8/100
+|
+|-heal|p1a: Blaziken|14/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641884127
+|move|p1a: Blaziken|Flare Blitz|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|34/100
+|-damage|p1a: Blaziken|0 fnt|[from] Recoil
+|faint|p1a: Blaziken
+|move|p2a: Melmetal|Earthquake|p1: Blaziken|[notarget]
+|-fail|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641884137
+|switch|p1a: Rotom|Rotom-Wash|2/100
+|turn|14
+|
+|t:|1641884140
+|move|p1a: Rotom|Thunder|p2a: Melmetal
+|-damage|p2a: Melmetal|13/100
+|-status|p2a: Melmetal|par
+|cant|p2a: Melmetal|par
+|
+|upkeep
+|turn|15
+|
+|t:|1641884146
+|move|p1a: Rotom|Thunder|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641884154
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|16
+|
+|t:|1641884174
+|switch|p1a: Lapras|Lapras, F|52/100
+|move|p2a: Blacephalon|Shadow Ball|p1a: Lapras
+|-damage|p1a: Lapras|17/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641884180
+|move|p1a: Lapras|Ice Shard|p2a: Blacephalon
+|-resisted|p2a: Blacephalon
+|-damage|p2a: Blacephalon|86/100
+|move|p2a: Blacephalon|Psyshock|p1a: Lapras
+|-damage|p1a: Lapras|0 fnt
+|faint|p1a: Lapras
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641884190
+|switch|p1a: Rotom|Rotom-Wash|2/100
+|turn|18
+|
+|t:|1641884194
+|move|p1a: Rotom|Hydro Pump|p2a: Blacephalon
+|-supereffective|p2a: Blacephalon
+|-damage|p2a: Blacephalon|0 fnt
+|faint|p2a: Blacephalon
+|
+|upkeep
+|
+|t:|1641884197
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|19
+|
+|t:|1641884213
+|switch|p1a: Toxicroak|Toxicroak, F|100/100
+|move|p2a: Urshifu|Substitute|p2a: Urshifu
+|-start|p2a: Urshifu|Substitute
+|-damage|p2a: Urshifu|75/100
+|
+|-heal|p2a: Urshifu|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641884222
+|move|p2a: Urshifu|Bulk Up|p2a: Urshifu
+|-boost|p2a: Urshifu|atk|1
+|-boost|p2a: Urshifu|def|1
+|move|p1a: Toxicroak|Drain Punch|p2a: Urshifu
+|-activate|p2a: Urshifu|move: Substitute|[damage]
+|-damage|p1a: Toxicroak|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Urshifu|88/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641884230
+|move|p2a: Urshifu|Bulk Up|p2a: Urshifu
+|-boost|p2a: Urshifu|atk|1
+|-boost|p2a: Urshifu|def|1
+|move|p1a: Toxicroak|Drain Punch|p2a: Urshifu
+|-end|p2a: Urshifu|Substitute
+|-heal|p1a: Toxicroak|91/100|[from] drain|[of] p2a: Urshifu
+|-damage|p1a: Toxicroak|81/100|[from] item: Life Orb
+|
+|-heal|p2a: Urshifu|94/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641884241
+|move|p1a: Toxicroak|Sucker Punch||[still]
+|-fail|p1a: Toxicroak
+|move|p2a: Urshifu|Substitute|p2a: Urshifu
+|-start|p2a: Urshifu|Substitute
+|-damage|p2a: Urshifu|69/100
+|
+|-heal|p2a: Urshifu|75/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641884252
+|move|p2a: Urshifu|Bulk Up|p2a: Urshifu
+|-boost|p2a: Urshifu|atk|1
+|-boost|p2a: Urshifu|def|1
+|move|p1a: Toxicroak|Gunk Shot|p2a: Urshifu
+|-end|p2a: Urshifu|Substitute
+|-damage|p1a: Toxicroak|72/100|[from] item: Life Orb
+|
+|-heal|p2a: Urshifu|81/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641884263
+|move|p1a: Toxicroak|Sucker Punch|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|77/100
+|-damage|p1a: Toxicroak|62/100|[from] item: Life Orb
+|move|p2a: Urshifu|Drain Punch|p1a: Toxicroak
+|-resisted|p1a: Toxicroak
+|-damage|p1a: Toxicroak|0 fnt
+|-heal|p2a: Urshifu|100/100|[from] drain|[of] p1a: Toxicroak
+|faint|p1a: Toxicroak
+|
+|upkeep
+|
+|t:|1641884288
+|switch|p1a: Rotom|Rotom-Wash|2/100
+|turn|25
+|
+|t:|1641884294
+|move|p1a: Rotom|Thunder|p2a: Urshifu|[miss]
+|-miss|p1a: Rotom|p2a: Urshifu
+|move|p2a: Urshifu|Drain Punch|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|upkeep
+|
+|t:|1641884302
+|switch|p1a: Cresselia|Cresselia, F|100/100
+|turn|26
+|
+|t:|1641884313
+|move|p2a: Urshifu|Surging Strikes|p1a: Cresselia
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|79/100
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|57/100
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|35/100
+|-hitcount|p1a: Cresselia|3
+|move|p1a: Cresselia|Moonblast|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|55/100
+|
+|-heal|p2a: Urshifu|61/100|[from] item: Leftovers
+|-heal|p1a: Cresselia|41/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641884325
+|move|p2a: Urshifu|Surging Strikes|p1a: Cresselia
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|19/100
+|-crit|p1a: Cresselia
+|-damage|p1a: Cresselia|0 fnt
+|faint|p1a: Cresselia
+|-hitcount|p1: Cresselia|2
+|
+|-heal|p2a: Urshifu|67/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641884332
+|switch|p1a: Aegislash|Aegislash, F|53/100
+|turn|28
+|
+|t:|1641884337
+|move|p2a: Urshifu|Surging Strikes|p1a: Aegislash
+|-crit|p1a: Aegislash
+|-damage|p1a: Aegislash|19/100
+|-crit|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|-hitcount|p1: Aegislash|2
+|
+|win|inciniratr
+|raw|Nickkbarton96's rating: 1110 &rarr; <strong>1081</strong><br />(-29 for losing)
+|raw|inciniratr's rating: 1060 &rarr; <strong>1095</strong><br />(+35 for winning)

@@ -1,0 +1,481 @@
+|j|☆Lucky Lucas
+|j|☆pezclapscheeks
+|t:|1641847562
+|gametype|singles
+|player|p1|Lucky Lucas|266|
+|player|p2|pezclapscheeks|1|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Steelix, M|
+|poke|p1|Tsareena, F|
+|poke|p1|Silvally-*|
+|poke|p1|Cloyster, F|
+|poke|p2|Heatran, F|
+|poke|p2|Victini|
+|poke|p2|Tapu Fini|
+|poke|p2|Celebi|
+|poke|p2|Starmie|
+|poke|p2|Torkoal, M|
+|teampreview
+|j| TrulyAlexO
+|
+|t:|1641847653
+|start
+|switch|p1a: Boogie Woogie|Slowbro, F|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1641847667
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Boogie Woogie|Future Sight|p2a: Tapu Fini
+|-start|p1a: Boogie Woogie|move: Future Sight
+|
+|upkeep
+|turn|2
+|c|☆Lucky Lucas|!dt future sight
+|raw|<ul class="utilichart"><li class="result"><span class="col movenamecol"><a href="https://dex.pokemonshowdown.com/moves/futuresight">Future Sight</a></span> <span class="col typecol"><img src="//play.pokemonshowdown.com/sprites/types/Psychic.png" alt="Psychic" width="32" height="14"><img src="//play.pokemonshowdown.com/sprites/categories/Special.png" alt="Special" width="32" height="14"></span> <span class="col labelcol"><em>Power</em><br>120</span> <span class="col widelabelcol"><em>Accuracy</em><br>100%</span> <span class="col pplabelcol"><em>PP</em><br>16</span> <span class="col movedesccol">Hits two turns after being used.</span> </li><li style="clear:both"></li></ul>
+|raw|<font size="1"><font color="#686868">Priority:</font> 0&nbsp;|&ThickSpace;<font color="#686868">Gen:</font> 2&nbsp;|&ThickSpace;&#10003; Bypasses Protect&nbsp;|&ThickSpace;<font color="#686868">Z-Power:</font> 190&nbsp;|&ThickSpace;<font color="#686868">Dynamax Power:</font> 140&nbsp;|&ThickSpace;<font color="#686868">Target:</font> One Adjacent Pokémon</font>
+
+|
+|t:|1641847705
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Boogie Woogie|Teleport|p1a: Boogie Woogie
+|
+|t:|1641847724
+|switch|p1a: Disaster Plants|Tsareena, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|3
+|
+|t:|1641847739
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Disaster Plants
+|-damage|p1a: Disaster Plants|73/100
+|move|p1a: Disaster Plants|Trop Kick|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|12/100
+|-unboost|p2a: Tapu Fini|atk|1
+|
+|-end|p2a: Tapu Fini|move: Future Sight
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|upkeep
+|
+|t:|1641847769
+|switch|p2a: Victini|Victini|100/100
+|turn|4
+|
+|t:|1641847779
+|switch|p1a: Boogie Woogie|Slowbro, F|100/100
+|move|p2a: Victini|U-turn|p1a: Boogie Woogie
+|-supereffective|p1a: Boogie Woogie
+|-damage|p1a: Boogie Woogie|63/100
+|
+|t:|1641847796
+|switch|p2a: Celebi|Celebi|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1641847825
+|switch|p1a: Disaster Plants|Tsareena, F|73/100
+|move|p2a: Celebi|Thunder Wave|p1a: Disaster Plants
+|-activate|p1a: Disaster Plants|move: Misty Terrain
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641847833
+|move|p2a: Celebi|U-turn|p1a: Disaster Plants
+|-supereffective|p1a: Disaster Plants
+|-damage|p1a: Disaster Plants|44/100
+|
+|t:|1641847841
+|switch|p2a: Victini|Victini|100/100|[from]move: U-turn
+|move|p1a: Disaster Plants|Knock Off|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|28/100
+|-enditem|p2a: Victini|Choice Band|[from] move: Knock Off|[of] p1a: Disaster Plants
+|
+|upkeep
+|turn|7
+|
+|t:|1641847856
+|switch|p1a: Boogie Woogie|Slowbro, F|96/100
+|move|p2a: Victini|V-create|p1a: Boogie Woogie
+|-resisted|p1a: Boogie Woogie
+|-damage|p1a: Boogie Woogie|74/100
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641847870
+|switch|p2a: Starmie|Starmie|100/100
+|move|p1a: Boogie Woogie|Scald|p2a: Starmie
+|-resisted|p2a: Starmie
+|-damage|p2a: Starmie|81/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641847876
+|move|p2a: Starmie|Thunderbolt|p1a: Boogie Woogie
+|-supereffective|p1a: Boogie Woogie
+|-damage|p1a: Boogie Woogie|0 fnt
+|faint|p1a: Boogie Woogie
+|
+|upkeep
+|
+|t:|1641847914
+|switch|p1a: Disaster Plants|Tsareena, F|44/100
+|turn|10
+|
+|t:|1641847922
+|switch|p2a: Torkoal|Torkoal, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|move|p1a: Disaster Plants|Knock Off|p2a: Torkoal
+|-damage|p2a: Torkoal|82/100
+|-enditem|p2a: Torkoal|Heat Rock|[from] move: Knock Off|[of] p1a: Disaster Plants
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641847946
+|switch|p1a: Limitless|Clefable, F|100/100
+|move|p2a: Torkoal|Lava Plume|p1a: Limitless
+|-damage|p1a: Limitless|65/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p1a: Limitless|71/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641847983
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Limitless|Soft-Boiled|p1a: Limitless
+|-heal|p1a: Limitless|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|13
+|
+|t:|1641847999
+|switch|p1a: Disaster Plants|Tsareena, F|44/100
+|move|p2a: Heatran|Toxic|p1a: Disaster Plants
+|-immune|p1a: Disaster Plants|[from] ability: Leaf Guard
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641848039
+|move|p2a: Heatran|Magma Storm|p1a: Disaster Plants
+|-supereffective|p1a: Disaster Plants
+|-damage|p1a: Disaster Plants|0 fnt
+|faint|p1a: Disaster Plants
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641848113
+|switch|p1a: Limitless|Clefable, F|100/100
+|turn|15
+|
+|t:|1641848138
+|move|p2a: Heatran|Toxic|p1a: Limitless
+|-status|p1a: Limitless|tox
+|move|p1a: Limitless|Cosmic Power|p1a: Limitless
+|-boost|p1a: Limitless|def|1
+|-boost|p1a: Limitless|spd|1
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641848147
+|move|p2a: Heatran|Taunt|p1a: Limitless
+|-start|p1a: Limitless|move: Taunt
+|cant|p1a: Limitless|move: Taunt|Cosmic Power
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1641848172
+|move|p2a: Heatran|Earth Power|p1a: Limitless
+|-damage|p1a: Limitless|85/100 tox
+|move|p1a: Limitless|Charge Beam|p2a: Heatran|[miss]
+|-miss|p1a: Limitless|p2a: Heatran
+|
+|-weather|none
+|-heal|p1a: Limitless|91/100 tox|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641848195
+|move|p2a: Heatran|Magma Storm|p1a: Limitless|[miss]
+|-miss|p2a: Heatran|p1a: Limitless
+|move|p1a: Limitless|Charge Beam|p2a: Heatran
+|-damage|p2a: Heatran|93/100
+|-boost|p1a: Limitless|spa|1
+|
+|-heal|p2a: Heatran|99/100|[from] item: Leftovers
+|-heal|p1a: Limitless|97/100 tox|[from] item: Leftovers
+|-end|p1a: Limitless|move: Taunt
+|upkeep
+|turn|19
+|
+|t:|1641848205
+|move|p2a: Heatran|Taunt|p1a: Limitless
+|-start|p1a: Limitless|move: Taunt
+|move|p1a: Limitless|Charge Beam|p2a: Heatran
+|-damage|p2a: Heatran|87/100
+|-boost|p1a: Limitless|spa|1
+|
+|-heal|p2a: Heatran|93/100|[from] item: Leftovers
+|-heal|p1a: Limitless|100/100 tox|[from] item: Leftovers
+|upkeep
+|turn|20
+|c|☆Lucky Lucas|!dt magic guard
+|raw|<ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/magicguard">Magic Guard</a></span> <span class="col abilitydesccol">This Pokemon can only be damaged by direct attacks.</span> </li><li style="clear:both"></li></ul>
+|raw|<font size="1"><font color="#686868">Gen:</font> 4</font>
+
+|c|☆Lucky Lucas|!dt clefable
+|raw|<div class="message"><ul class="utilichart"><li class="result"><span class="col numcol">OU</span> <span class="col iconcol"><psicon pokemon="clefable"/></span> <span class="col pokemonnamecol" style="white-space:nowrap"><a href="https://dex.pokemonshowdown.com/pokemon/clefable" target="_blank">Clefable</a></span> <span class="col typecol"><img src="https://play.pokemonshowdown.com/sprites/types/Fairy.png" alt="Fairy" height="14" width="32"></span> <span style="float:left;min-height:26px"><span class="col twoabilitycol">Cute Charm<br />Magic Guard</span><span class="col abilitycol"><em>Unaware</em></span></span><span style="float:left;min-height:26px"><span class="col statcol"><em>HP</em><br />95</span> <span class="col statcol"><em>Atk</em><br />70</span> <span class="col statcol"><em>Def</em><br />73</span> <span class="col statcol"><em>SpA</em><br />95</span> <span class="col statcol"><em>SpD</em><br />90</span> <span class="col statcol"><em>Spe</em><br />60</span> <span class="col bstcol"><em>BST<br />483</em></span> </span></li><li style="clear:both"></li></ul></div>
+|raw|<font size="1"><font color="#686868">Dex#:</font> 36&nbsp;|&ThickSpace;<font color="#686868">Gen:</font> 1&nbsp;|&ThickSpace;<font color="#686868">Height:</font> 1.3 m&nbsp;|&ThickSpace;<font color="#686868">Weight:</font> 40 kg <em>(60 BP)</em>&nbsp;|&ThickSpace;<font color="#686868">Dex Colour:</font> Pink&nbsp;|&ThickSpace;<font color="#686868">Egg Group(s):</font> Fairy&nbsp;|&ThickSpace;<font color="#686868">Does Not Evolve</font></font>
+
+|
+|t:|1641848276
+|move|p2a: Heatran|Magma Storm|p1a: Limitless|[miss]
+|-miss|p2a: Heatran|p1a: Limitless
+|move|p1a: Limitless|Charge Beam|p2a: Heatran
+|-damage|p2a: Heatran|78/100
+|
+|-heal|p2a: Heatran|84/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641848305
+|move|p2a: Heatran|Magma Storm|p1a: Limitless
+|-damage|p1a: Limitless|74/100 tox
+|-activate|p1a: Limitless|move: Magma Storm|[of] p2a: Heatran
+|move|p1a: Limitless|Charge Beam|p2a: Heatran|[miss]
+|-miss|p1a: Limitless|p2a: Heatran
+|
+|-heal|p2a: Heatran|90/100|[from] item: Leftovers
+|-heal|p1a: Limitless|80/100 tox|[from] item: Leftovers
+|-end|p1a: Limitless|move: Taunt
+|upkeep
+|turn|22
+|
+|t:|1641848350
+|move|p2a: Heatran|Magma Storm|p1a: Limitless
+|-damage|p1a: Limitless|54/100 tox
+|move|p1a: Limitless|Cosmic Power|p1a: Limitless
+|-boost|p1a: Limitless|def|1
+|-boost|p1a: Limitless|spd|1
+|
+|-heal|p2a: Heatran|96/100|[from] item: Leftovers
+|-heal|p1a: Limitless|60/100 tox|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641848359
+|move|p2a: Heatran|Magma Storm|p1a: Limitless
+|-damage|p1a: Limitless|40/100 tox
+|move|p1a: Limitless|Soft-Boiled|p1a: Limitless
+|-heal|p1a: Limitless|90/100 tox
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-heal|p1a: Limitless|96/100 tox|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641848421
+|move|p2a: Heatran|Taunt|p1a: Limitless
+|-start|p1a: Limitless|move: Taunt
+|move|p1a: Limitless|Charge Beam|p2a: Heatran
+|-damage|p2a: Heatran|87/100
+|-boost|p1a: Limitless|spa|1
+|
+|-heal|p2a: Heatran|93/100|[from] item: Leftovers
+|-heal|p1a: Limitless|100/100 tox|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641848431
+|switch|p2a: Victini|Victini|28/100
+|move|p1a: Limitless|Charge Beam|p2a: Victini
+|-damage|p2a: Victini|1/100
+|-boost|p1a: Limitless|spa|1
+|
+|-end|p1a: Limitless|Magma Storm|[partiallytrapped]
+|upkeep
+|turn|26
+|
+|t:|1641848448
+|move|p2a: Victini|V-create|p1a: Limitless
+|-damage|p1a: Limitless|68/100 tox
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|move|p1a: Limitless|Charge Beam|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|-boost|p1a: Limitless|spa|1
+|faint|p2a: Victini
+|
+|-heal|p1a: Limitless|74/100 tox|[from] item: Leftovers
+|-end|p1a: Limitless|move: Taunt
+|upkeep
+|
+|t:|1641848463
+|switch|p2a: Celebi|Celebi|100/100
+|turn|27
+|
+|t:|1641848469
+|move|p2a: Celebi|Thunder Wave||[still]
+|-fail|p2a: Celebi
+|move|p1a: Limitless|Soft-Boiled|p1a: Limitless
+|-heal|p1a: Limitless|100/100 tox
+|
+|upkeep
+|turn|28
+|
+|t:|1641848495
+|move|p2a: Celebi|U-turn|p1a: Limitless
+|-resisted|p1a: Limitless
+|-damage|p1a: Limitless|97/100 tox
+|
+|t:|1641848527
+|switch|p2a: Starmie|Starmie|81/100|[from]move: U-turn
+|move|p1a: Limitless|Cosmic Power|p1a: Limitless
+|-boost|p1a: Limitless|def|1
+|-boost|p1a: Limitless|spd|1
+|
+|-heal|p1a: Limitless|100/100 tox|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641848539
+|move|p2a: Starmie|Hydro Pump|p1a: Limitless
+|-damage|p1a: Limitless|73/100 tox
+|move|p1a: Limitless|Charge Beam|p2a: Starmie
+|-supereffective|p2a: Starmie
+|-crit|p2a: Starmie
+|-damage|p2a: Starmie|0 fnt
+|faint|p2a: Starmie
+|
+|-heal|p1a: Limitless|79/100 tox|[from] item: Leftovers
+|upkeep
+|
+|t:|1641848569
+|switch|p2a: Torkoal|Torkoal, M|82/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|30
+|
+|t:|1641848586
+|switch|p1a: Black Flash|Steelix, M|100/100
+|move|p2a: Torkoal|Lava Plume|p1a: Black Flash
+|-supereffective|p1a: Black Flash
+|-damage|p1a: Black Flash|34/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|31
+|
+|t:|1641848606
+|move|p1a: Black Flash|Stealth Rock|p2a: Torkoal
+|-sidestart|p2: pezclapscheeks|move: Stealth Rock
+|move|p2a: Torkoal|Lava Plume|p1a: Black Flash
+|-supereffective|p1a: Black Flash
+|-damage|p1a: Black Flash|0 fnt
+|faint|p1a: Black Flash
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641848610
+|switch|p1a: Transfiguration|Silvally-Rock|100/100
+|turn|32
+|
+|t:|1641848627
+|move|p1a: Transfiguration|Swords Dance|p1a: Transfiguration
+|-boost|p1a: Transfiguration|atk|2
+|move|p2a: Torkoal|Rapid Spin|p1a: Transfiguration
+|-resisted|p1a: Transfiguration
+|-damage|p1a: Transfiguration|95/100
+|-boost|p2a: Torkoal|spe|1
+|-sideend|p2: pezclapscheeks|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|33
+|
+|t:|1641848650
+|switch|p2a: Celebi|Celebi|100/100
+|move|p1a: Transfiguration|Multi-Attack|p2a: Celebi
+|-damage|p2a: Celebi|7/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|34
+|
+|t:|1641848660
+|move|p2a: Celebi|Thunder Wave|p1a: Transfiguration
+|-status|p1a: Transfiguration|par
+|move|p1a: Transfiguration|Flame Charge|p2a: Celebi
+|-supereffective|p2a: Celebi
+|-damage|p2a: Celebi|0 fnt
+|-boost|p1a: Transfiguration|spe|1
+|faint|p2a: Celebi
+|
+|-weather|none
+|upkeep
+|
+|t:|1641848669
+|switch|p2a: Heatran|Heatran, F|93/100
+|turn|35
+|
+|t:|1641848678
+|move|p2a: Heatran|Earth Power|p1a: Transfiguration
+|-supereffective|p1a: Transfiguration
+|-damage|p1a: Transfiguration|38/100 par
+|move|p1a: Transfiguration|Multi-Attack|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|upkeep
+|
+|t:|1641848685
+|switch|p2a: Torkoal|Torkoal, M|82/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|turn|36
+|
+|t:|1641848698
+|move|p1a: Transfiguration|Multi-Attack|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|win|Lucky Lucas

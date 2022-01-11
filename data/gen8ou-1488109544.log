@@ -1,0 +1,298 @@
+|j|☆jonathan53332
+|j|☆zxxz0l0
+|t:|1641713379
+|gametype|singles
+|player|p1|jonathan53332|169|1015
+|player|p2|zxxz0l0|169|1078
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Barraskewda, M|
+|poke|p1|Rapidash-Galar, F|
+|poke|p1|Coalossal, M|
+|poke|p1|Flapple, F|
+|poke|p1|Sirfetch’d, M|
+|poke|p1|Polteageist-Antique|
+|poke|p2|Tyranitar, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Scizor, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Kartana|
+|teampreview
+|
+|t:|1641713389
+|start
+|switch|p1a: Sippy cup|Polteageist-Antique|100/100
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1641713408
+|move|p1a: Sippy cup|Poltergeist|p2a: Tyranitar
+|-activate|p2a: Tyranitar|move: Poltergeist|Choice Band
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|86/100
+|move|p2a: Tyranitar|Rock Blast|p1a: Sippy cup
+|-damage|p1a: Sippy cup|51/100
+|-damage|p1a: Sippy cup|5/100
+|-start|p2a: Tyranitar|Disable|Rock Blast|[from] ability: Cursed Body|[of] p1a: Sippy cup
+|-damage|p1a: Sippy cup|0 fnt
+|faint|p1a: Sippy cup
+|-hitcount|p1: Sippy cup|3
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641713417
+|switch|p1a: Sirfetch’d|Sirfetch’d, M|100/100
+|turn|2
+|
+|t:|1641713435
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Sirfetch’d|Brick Break|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|2/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sirfetch’d|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641713444
+|move|p2a: Kartana|Knock Off|p1a: Sirfetch’d
+|-resisted|p1a: Sirfetch’d
+|-damage|p1a: Sirfetch’d|71/100
+|-enditem|p1a: Sirfetch’d|Leek|[from] move: Knock Off|[of] p2a: Kartana
+|move|p1a: Sirfetch’d|Brick Break|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sirfetch’d|65/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641713461
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-fail|p1a: Sirfetch’d|unboost|Attack|[from] ability: Scrappy|[of] p1a: Sirfetch’d
+|turn|4
+|
+|t:|1641713475
+|move|p2a: Landorus|Stealth Rock|p1a: Sirfetch’d
+|-sidestart|p1: jonathan53332|move: Stealth Rock
+|move|p1a: Sirfetch’d|Brick Break|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|80/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Sirfetch’d|59/100|[from] Sandstorm
+|-heal|p2a: Landorus|86/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641713482
+|move|p2a: Landorus|Earthquake|p1a: Sirfetch’d
+|-damage|p1a: Sirfetch’d|5/100
+|move|p1a: Sirfetch’d|Poison Jab|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|73/100
+|
+|-weather|none
+|-heal|p2a: Landorus|79/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641713486
+|move|p2a: Landorus|Earthquake|p1a: Sirfetch’d
+|-damage|p1a: Sirfetch’d|0 fnt
+|faint|p1a: Sirfetch’d
+|
+|-heal|p2a: Landorus|85/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641713494
+|switch|p1a: CHOO CHOO|Coalossal, M|100/100
+|-damage|p1a: CHOO CHOO|76/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641713500
+|switch|p1a: Joe|Flapple, F|100/100
+|-damage|p1a: Joe|88/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Joe
+|-resisted|p1a: Joe
+|-damage|p1a: Joe|56/100
+|
+|-heal|p2a: Landorus|91/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641713512
+|move|p1a: Joe|Dragon Dance|p1a: Joe
+|-boost|p1a: Joe|atk|1
+|-boost|p1a: Joe|spe|1
+|move|p2a: Landorus|U-turn|p1a: Joe
+|-supereffective|p1a: Joe
+|-damage|p1a: Joe|0 fnt
+|faint|p1a: Joe
+|
+|t:|1641713520
+|switch|p2a: Tapu Fini|Tapu Fini|100/100|[from]move: U-turn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641713526
+|switch|p1a: Twilight|Rapidash-Galar, F|100/100
+|-damage|p1a: Twilight|88/100|[from] Stealth Rock
+|turn|9
+|
+|t:|1641713533
+|move|p1a: Twilight|Psycho Cut|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|80/100
+|move|p2a: Tapu Fini|Whirlpool|p1a: Twilight
+|-damage|p1a: Twilight|72/100
+|-activate|p1a: Twilight|move: Whirlpool|[of] p2a: Tapu Fini
+|
+|-heal|p2a: Tapu Fini|87/100|[from] item: Leftovers
+|-damage|p1a: Twilight|60/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|10
+|
+|t:|1641713541
+|move|p1a: Twilight|Psycho Cut|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|62/100
+|move|p2a: Tapu Fini|Nature's Madness|p1a: Twilight
+|-damage|p1a: Twilight|30/100
+|
+|-heal|p2a: Tapu Fini|68/100|[from] item: Leftovers
+|-damage|p1a: Twilight|18/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|11
+|
+|t:|1641713549
+|move|p1a: Twilight|Psycho Cut|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|37/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Twilight
+|-damage|p1a: Twilight|0 fnt
+|faint|p1a: Twilight
+|
+|-heal|p2a: Tapu Fini|43/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641713555
+|switch|p1a: Jeffery|Barraskewda, M|100/100
+|-damage|p1a: Jeffery|88/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641713560
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Jeffery|Psychic Fangs|p2a: Zapdos
+|-damage|p2a: Zapdos|53/100
+|-damage|p1a: Jeffery|78/100|[from] item: Life Orb
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|13
+|
+|t:|1641713568
+|move|p1a: Jeffery|Ice Fang|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Jeffery|69/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641713573
+|switch|p2a: Tyranitar|Tyranitar, M|86/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|14
+|
+|t:|1641713590
+|switch|p2a: Tapu Fini|Tapu Fini|43/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Jeffery|Flip Turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|28/100
+|-damage|p1a: Jeffery|59/100|[from] item: Life Orb
+|
+|t:|1641713603
+|switch|p1a: CHOO CHOO|Coalossal, M|76/100|[from]move: Flip Turn
+|-damage|p1a: CHOO CHOO|51/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tapu Fini|22/100|[from] Sandstorm
+|-heal|p2a: Tapu Fini|28/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641713613
+|move|p2a: Tapu Fini|Whirlpool|p1a: CHOO CHOO
+|-supereffective|p1a: CHOO CHOO
+|-crit|p1a: CHOO CHOO
+|-damage|p1a: CHOO CHOO|24/100
+|-activate|p1a: CHOO CHOO|move: Whirlpool|[of] p2a: Tapu Fini
+|-ability|p1a: CHOO CHOO|Steam Engine|boost
+|-boost|p1a: CHOO CHOO|spe|6
+|move|p1a: CHOO CHOO|Scald|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|23/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tapu Fini|17/100|[from] Sandstorm
+|-heal|p2a: Tapu Fini|23/100|[from] item: Leftovers
+|-damage|p1a: CHOO CHOO|12/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1641713634
+|move|p1a: CHOO CHOO|Explosion|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p1a: CHOO CHOO
+|faint|p2a: Tapu Fini
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641713642
+|switch|p2a: Scizor|Scizor, F|100/100
+|switch|p1a: Jeffery|Barraskewda, M|59/100
+|-damage|p1a: Jeffery|47/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641713649
+|move|p2a: Scizor|Bullet Punch|p1a: Jeffery
+|-resisted|p1a: Jeffery
+|-damage|p1a: Jeffery|19/100
+|move|p1a: Jeffery|Crunch|p2a: Scizor
+|-damage|p2a: Scizor|64/100
+|-damage|p1a: Jeffery|9/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Jeffery|3/100|[from] Sandstorm
+|upkeep
+|turn|18
+|
+|t:|1641713652
+|move|p2a: Scizor|Bullet Punch|p1a: Jeffery
+|-resisted|p1a: Jeffery
+|-damage|p1a: Jeffery|0 fnt
+|faint|p1a: Jeffery
+|
+|win|zxxz0l0
+|raw|jonathan53332's rating: 1015 &rarr; <strong>1005</strong><br />(-10 for losing)
+|raw|zxxz0l0's rating: 1078 &rarr; <strong>1101</strong><br />(+23 for winning)
+|l|☆zxxz0l0

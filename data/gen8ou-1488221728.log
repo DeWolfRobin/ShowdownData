@@ -1,0 +1,430 @@
+|j|☆WOKE UP SIPPIN WOK
+|j|☆nina rosario
+|t:|1641736687
+|gametype|singles
+|player|p1|WOKE UP SIPPIN WOK|#splxiiicryonicles|1730
+|player|p2|nina rosario|265|1813
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Fini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Jirachi|
+|poke|p1|Tapu Bulu|
+|poke|p1|Zapdos|
+|poke|p1|Heatran, M|
+|poke|p2|Kartana|
+|poke|p2|Blacephalon|
+|poke|p2|Tyranitar, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by WOKE UP SIPPIN WOK)
+|
+|t:|1641736696
+|start
+|switch|p1a: #RRANTHEM|Heatran, M|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-item|p1a: #RRANTHEM|Air Balloon
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|turn|1
+|
+|t:|1641736714
+|switch|p1a: WICK CLUTCH STICKS|Tapu Bulu, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: WICK CLUTCH STICKS
+|move|p2a: Tyranitar|Rock Blast|p1a: WICK CLUTCH STICKS
+|-damage|p1a: WICK CLUTCH STICKS|80/100
+|-damage|p1a: WICK CLUTCH STICKS|59/100
+|-hitcount|p1a: WICK CLUTCH STICKS|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: WICK CLUTCH STICKS|53/100|[from] Sandstorm
+|-heal|p1a: WICK CLUTCH STICKS|59/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1641736727
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: WICK CLUTCH STICKS|Wood Hammer|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|65/100
+|-damage|p1a: WICK CLUTCH STICKS|49/100|[from] Recoil
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: WICK CLUTCH STICKS|43/100|[from] Sandstorm
+|-heal|p2a: Kartana|71/100|[from] Grassy Terrain
+|-heal|p1a: WICK CLUTCH STICKS|49/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1641736737
+|switch|p1a: HOLD UP TWIN SAY|Zapdos|100/100
+|move|p2a: Kartana|Knock Off|p1a: HOLD UP TWIN SAY
+|-damage|p1a: HOLD UP TWIN SAY|68/100
+|-enditem|p1a: HOLD UP TWIN SAY|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: HOLD UP TWIN SAY|62/100|[from] Sandstorm
+|-heal|p2a: Kartana|77/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641736745
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|move|p1a: HOLD UP TWIN SAY|Roost|p1a: HOLD UP TWIN SAY
+|-heal|p1a: HOLD UP TWIN SAY|100/100
+|-singleturn|p1a: HOLD UP TWIN SAY|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: HOLD UP TWIN SAY|94/100|[from] Sandstorm
+|-heal|p1a: HOLD UP TWIN SAY|100/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641736748
+|move|p1a: HOLD UP TWIN SAY|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|81/100
+|
+|t:|1641736750
+|switch|p1a: STAND ON ALL 10|Landorus-Therian, M, shiny|100/100|[from]move: Volt Switch
+|-ability|p1a: STAND ON ALL 10|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|move|p2a: Tyranitar|Rock Blast|p1a: STAND ON ALL 10|[miss]
+|-miss|p2a: Tyranitar|p1a: STAND ON ALL 10
+|
+|-weather|none
+|-heal|p2a: Tyranitar|87/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641736756
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: STAND ON ALL 10|atk|1
+|move|p1a: STAND ON ALL 10|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|94/100
+|
+|t:|1641736759
+|switch|p1a: #RRANTHEM|Heatran, M|100/100|[from]move: U-turn
+|-item|p1a: #RRANTHEM|Air Balloon
+|
+|upkeep
+|turn|7
+|
+|t:|1641736762
+|move|p1a: #RRANTHEM|Eruption|p2a: Landorus
+|-damage|p2a: Landorus|21/100
+|move|p2a: Landorus|Stealth Rock|p1a: #RRANTHEM
+|-sidestart|p1: WOKE UP SIPPIN WOK|move: Stealth Rock
+|
+|upkeep
+|turn|8
+|j| Yago pintos
+|
+|t:|1641736770
+|move|p1a: #RRANTHEM|Stealth Rock|p2a: Landorus
+|-sidestart|p2: nina rosario|move: Stealth Rock
+|move|p2a: Landorus|U-turn|p1a: #RRANTHEM
+|-resisted|p1a: #RRANTHEM
+|-damage|p1a: #RRANTHEM|95/100
+|-enditem|p1a: #RRANTHEM|Air Balloon
+|
+|t:|1641736776
+|switch|p2a: Dragapult|Dragapult, F|100/100|[from]move: U-turn
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|9
+|
+|t:|1641736787
+|move|p2a: Dragapult|Shadow Ball|p1a: #RRANTHEM
+|-damage|p1a: #RRANTHEM|37/100
+|-unboost|p1a: #RRANTHEM|spd|1
+|move|p1a: #RRANTHEM|Earth Power|p2a: Dragapult
+|-damage|p2a: Dragapult|49/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641736791
+|switch|p1a: SIPPIN QUAVO|Tapu Fini, shiny|100/100
+|-damage|p1a: SIPPIN QUAVO|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: SIPPIN QUAVO
+|move|p2a: Dragapult|Shadow Ball|p1a: SIPPIN QUAVO
+|-crit|p1a: SIPPIN QUAVO
+|-damage|p1a: SIPPIN QUAVO|28/100
+|
+|-heal|p1a: SIPPIN QUAVO|35/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641736799
+|move|p2a: Dragapult|Shadow Ball|p1a: SIPPIN QUAVO
+|-damage|p1a: SIPPIN QUAVO|0 fnt
+|faint|p1a: SIPPIN QUAVO
+|
+|upkeep
+|
+|t:|1641736803
+|switch|p1a: STAND ON ALL 10|Landorus-Therian, M, shiny|100/100
+|-damage|p1a: STAND ON ALL 10|88/100|[from] Stealth Rock
+|-ability|p1a: STAND ON ALL 10|Intimidate|boost
+|-fail|p2a: Dragapult|unboost|[from] ability: Clear Body|[of] p2a: Dragapult
+|turn|12
+|
+|t:|1641736806
+|switch|p2a: Landorus|Landorus-Therian, M|21/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: STAND ON ALL 10|atk|1
+|move|p1a: STAND ON ALL 10|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|2/100
+|-enditem|p2a: Landorus|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: STAND ON ALL 10
+|
+|upkeep
+|turn|13
+|
+|t:|1641736817
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: STAND ON ALL 10|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|80/100
+|-enditem|p2a: Melmetal|Expert Belt|[from] move: Knock Off|[of] p1a: STAND ON ALL 10
+|
+|upkeep
+|turn|14
+|
+|t:|1641736825
+|switch|p1a: HOLD UP TWIN SAY|Zapdos|100/100
+|-damage|p1a: HOLD UP TWIN SAY|76/100|[from] Stealth Rock
+|move|p2a: Melmetal|Earthquake|p1a: HOLD UP TWIN SAY
+|-immune|p1a: HOLD UP TWIN SAY
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|15
+|
+|t:|1641736829
+|move|p1a: HOLD UP TWIN SAY|Heat Wave|p2a: Melmetal|[miss]
+|-miss|p1a: HOLD UP TWIN SAY|p2a: Melmetal
+|move|p2a: Melmetal|Ice Punch|p1a: HOLD UP TWIN SAY
+|-supereffective|p1a: HOLD UP TWIN SAY
+|-damage|p1a: HOLD UP TWIN SAY|23/100
+|
+|upkeep
+|turn|16
+|j| Ehtesham123
+|
+|t:|1641736840
+|switch|p2a: Tyranitar|Tyranitar, F|87/100
+|-damage|p2a: Tyranitar|75/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: HOLD UP TWIN SAY|Roost|p1a: HOLD UP TWIN SAY
+|-heal|p1a: HOLD UP TWIN SAY|74/100
+|-singleturn|p1a: HOLD UP TWIN SAY|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: HOLD UP TWIN SAY|68/100|[from] Sandstorm
+|upkeep
+|turn|17
+|
+|t:|1641736844
+|move|p1a: HOLD UP TWIN SAY|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|55/100
+|
+|t:|1641736849
+|switch|p1a: TWEAKED OUT ON X|Jirachi|100/100|[from]move: Volt Switch
+|-damage|p1a: TWEAKED OUT ON X|94/100|[from] Stealth Rock
+|move|p2a: Tyranitar|Ice Punch|p1a: TWEAKED OUT ON X
+|-resisted|p1a: TWEAKED OUT ON X
+|-damage|p1a: TWEAKED OUT ON X|75/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: TWEAKED OUT ON X|81/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641736856
+|switch|p2a: Melmetal|Melmetal|80/100
+|-damage|p2a: Melmetal|74/100|[from] Stealth Rock
+|move|p1a: TWEAKED OUT ON X|Wish|p1a: TWEAKED OUT ON X
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: TWEAKED OUT ON X|87/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641736866
+|move|p1a: TWEAKED OUT ON X|U-turn|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|70/100
+|
+|t:|1641736867
+|switch|p1a: #RRANTHEM|Heatran, M|37/100|[from]move: U-turn
+|-damage|p1a: #RRANTHEM|24/100|[from] Stealth Rock
+|move|p2a: Melmetal|Earthquake|p1a: #RRANTHEM
+|-supereffective|p1a: #RRANTHEM
+|-damage|p1a: #RRANTHEM|0 fnt
+|faint|p1a: #RRANTHEM
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641736880
+|switch|p1a: STAND ON ALL 10|Landorus-Therian, M, shiny|88/100
+|-damage|p1a: STAND ON ALL 10|76/100|[from] Stealth Rock
+|-ability|p1a: STAND ON ALL 10|Intimidate|boost
+|-unboost|p2a: Melmetal|atk|1
+|turn|20
+|
+|t:|1641736886
+|switch|p2a: Landorus|Landorus-Therian, M|2/100
+|-damage|p2a: Landorus|0 fnt|[from] Stealth Rock
+|faint|p2a: Landorus
+|move|p1a: STAND ON ALL 10|Earthquake|p2: Landorus|[notarget]
+|-fail|p1a: STAND ON ALL 10
+|
+|-weather|none
+|upkeep
+|
+|t:|1641736901
+|switch|p2a: Kartana|Kartana|77/100
+|-damage|p2a: Kartana|71/100|[from] Stealth Rock
+|turn|21
+|j| Hdidier
+|
+|t:|1641736905
+|switch|p1a: HOLD UP TWIN SAY|Zapdos|68/100
+|-damage|p1a: HOLD UP TWIN SAY|43/100|[from] Stealth Rock
+|move|p2a: Kartana|Knock Off|p1a: HOLD UP TWIN SAY
+|-damage|p1a: HOLD UP TWIN SAY|21/100
+|-status|p2a: Kartana|par|[from] ability: Static|[of] p1a: HOLD UP TWIN SAY
+|
+|upkeep
+|turn|22
+|l| Yago pintos
+|
+|t:|1641736912
+|switch|p2a: Tyranitar|Tyranitar, F|55/100
+|-damage|p2a: Tyranitar|43/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: HOLD UP TWIN SAY|Roost|p1a: HOLD UP TWIN SAY
+|-heal|p1a: HOLD UP TWIN SAY|71/100
+|-singleturn|p1a: HOLD UP TWIN SAY|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: HOLD UP TWIN SAY|65/100|[from] Sandstorm
+|upkeep
+|turn|23
+|
+|t:|1641736917
+|move|p1a: HOLD UP TWIN SAY|Volt Switch|p2a: Tyranitar
+|-damage|p2a: Tyranitar|23/100
+|
+|t:|1641736919
+|switch|p1a: TWEAKED OUT ON X|Jirachi|87/100|[from]move: Volt Switch
+|-damage|p1a: TWEAKED OUT ON X|81/100|[from] Stealth Rock
+|move|p2a: Tyranitar|Crunch|p1a: TWEAKED OUT ON X
+|-supereffective|p1a: TWEAKED OUT ON X
+|-damage|p1a: TWEAKED OUT ON X|0 fnt
+|faint|p1a: TWEAKED OUT ON X
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641736921
+|switch|p1a: STAND ON ALL 10|Landorus-Therian, M, shiny|76/100
+|-damage|p1a: STAND ON ALL 10|64/100|[from] Stealth Rock
+|-ability|p1a: STAND ON ALL 10|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|turn|24
+|
+|t:|1641736927
+|move|p1a: STAND ON ALL 10|Earthquake|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641736933
+|switch|p2a: Kartana|Kartana|71/100 par
+|-damage|p2a: Kartana|65/100 par|[from] Stealth Rock
+|turn|25
+|
+|t:|1641736955
+|switch|p1a: HOLD UP TWIN SAY|Zapdos|65/100
+|-damage|p1a: HOLD UP TWIN SAY|40/100|[from] Stealth Rock
+|move|p2a: Kartana|Knock Off|p1a: HOLD UP TWIN SAY
+|-damage|p1a: HOLD UP TWIN SAY|19/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: HOLD UP TWIN SAY|13/100|[from] Sandstorm
+|upkeep
+|turn|26
+|
+|t:|1641736971
+|switch|p2a: Dragapult|Dragapult, F|49/100
+|-damage|p2a: Dragapult|37/100|[from] Stealth Rock
+|move|p1a: HOLD UP TWIN SAY|Roost|p1a: HOLD UP TWIN SAY
+|-heal|p1a: HOLD UP TWIN SAY|63/100
+|-singleturn|p1a: HOLD UP TWIN SAY|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|27
+|
+|t:|1641736982
+|move|p2a: Dragapult|Shadow Ball|p1a: HOLD UP TWIN SAY
+|-crit|p1a: HOLD UP TWIN SAY
+|-damage|p1a: HOLD UP TWIN SAY|0 fnt
+|faint|p1a: HOLD UP TWIN SAY
+|
+|upkeep
+|
+|t:|1641736984
+|switch|p1a: STAND ON ALL 10|Landorus-Therian, M, shiny|64/100
+|-damage|p1a: STAND ON ALL 10|52/100|[from] Stealth Rock
+|-ability|p1a: STAND ON ALL 10|Intimidate|boost
+|-fail|p2a: Dragapult|unboost|[from] ability: Clear Body|[of] p2a: Dragapult
+|turn|28
+|
+|t:|1641736987
+|move|p1a: STAND ON ALL 10|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641736990
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|-damage|p2a: Blacephalon|76/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641736992
+|move|p2a: Blacephalon|Mind Blown|p1a: STAND ON ALL 10
+|-damage|p1a: STAND ON ALL 10|0 fnt
+|-damage|p2a: Blacephalon|26/100|[from] mindblown
+|faint|p1a: STAND ON ALL 10
+|-ability|p2a: Blacephalon|Beast Boost|boost
+|-boost|p2a: Blacephalon|spa|1
+|
+|upkeep
+|-message|WOKE UP SIPPIN WOK forfeited.
+|
+|win|nina rosario
+|raw|WOKE UP SIPPIN WOK's rating: 1711 &rarr; <strong>1697</strong><br />(-14 for losing)
+|raw|nina rosario's rating: 1813 &rarr; <strong>1827</strong><br />(+14 for winning)

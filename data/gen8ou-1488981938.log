@@ -1,0 +1,487 @@
+|j|☆8jaggery
+|j|☆Faalism
+|t:|1641843057
+|gametype|singles
+|player|p1|8jaggery|2|1106
+|player|p2|Faalism|roughneck|1084
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, M|
+|poke|p1|Rillaboom, M|
+|poke|p1|Heatran, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Clefable, F|
+|poke|p1|Blastoise, M|
+|poke|p2|Gastrodon, F|
+|poke|p2|Porygon-Z|
+|poke|p2|Entei|
+|poke|p2|Drampa, M|
+|poke|p2|Mew|
+|poke|p2|Crawdaunt, F|
+|teampreview
+|
+|t:|1641843072
+|start
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|switch|p2a: Porygon-Z|Porygon-Z, shiny|100/100
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1641843085
+|switch|p2a: Entei|Entei|100/100
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|
+|upkeep
+|turn|2
+|
+|t:|1641843114
+|move|p1a: Hawlucha|Close Combat|p2a: Entei
+|-damage|p2a: Entei|49/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|move|p2a: Entei|Sacred Fire|p1a: Hawlucha
+|-damage|p1a: Hawlucha|30/100
+|
+|-heal|p2a: Entei|55/100|[from] Grassy Terrain
+|-heal|p2a: Entei|62/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641843131
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Entei|Extreme Speed|p1a: Heatran
+|-resisted|p1a: Heatran
+|-crit|p1a: Heatran
+|-damage|p1a: Heatran|84/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|-heal|p2a: Entei|68/100|[from] Grassy Terrain
+|-heal|p2a: Entei|74/100|[from] item: Leftovers
+|-heal|p1a: Heatran|91/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641843157
+|switch|p2a: Porygon-Z|Porygon-Z, shiny|100/100
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|atk|1
+|move|p1a: Heatran|Earth Power|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|63/100
+|
+|-heal|p2a: Porygon-Z|69/100|[from] Grassy Terrain
+|-heal|p2a: Porygon-Z|75/100|[from] item: Leftovers
+|-heal|p1a: Heatran|97/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641843173
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|move|p2a: Porygon-Z|Trick Room|p2a: Porygon-Z
+|-fieldstart|move: Trick Room|[of] p2a: Porygon-Z
+|
+|-heal|p2a: Porygon-Z|82/100|[from] Grassy Terrain
+|-heal|p2a: Porygon-Z|88/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641843185
+|move|p2a: Porygon-Z|Discharge|p1a: Blastoise
+|-supereffective|p1a: Blastoise
+|-damage|p1a: Blastoise|34/100
+|-status|p1a: Blastoise|par
+|move|p1a: Blastoise|Aura Sphere|p2a: Porygon-Z
+|-supereffective|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|36/100
+|
+|-heal|p2a: Porygon-Z|42/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641843208
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Porygon-Z|Recover|p2a: Porygon-Z
+|-heal|p2a: Porygon-Z|92/100
+|
+|-heal|p2a: Porygon-Z|99/100|[from] Grassy Terrain
+|-heal|p2a: Porygon-Z|100/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641843218
+|switch|p2a: Entei|Entei|74/100
+|move|p1a: Rillaboom|Knock Off|p2a: Entei
+|-damage|p2a: Entei|47/100
+|-enditem|p2a: Entei|Leftovers|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p2a: Entei|53/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1641843227
+|switch|p1a: Heatran|Heatran, F|97/100
+|move|p2a: Entei|Sacred Fire|p1a: Heatran
+|-start|p1a: Heatran|ability: Flash Fire
+|
+|-heal|p1a: Heatran|100/100|[from] Grassy Terrain
+|-heal|p2a: Entei|60/100|[from] Grassy Terrain
+|-fieldend|move: Trick Room
+|upkeep
+|turn|10
+|
+|t:|1641843240
+|switch|p2a: Porygon-Z|Porygon-Z, shiny|100/100
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|atk|1
+|move|p1a: Heatran|Earth Power|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|64/100
+|
+|-heal|p2a: Porygon-Z|70/100|[from] Grassy Terrain
+|-heal|p2a: Porygon-Z|76/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641843281
+|-end|p1a: Heatran|ability: Flash Fire|[silent]
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|move|p2a: Porygon-Z|Trick Room|p2a: Porygon-Z
+|-fieldstart|move: Trick Room|[of] p2a: Porygon-Z
+|
+|-heal|p2a: Porygon-Z|82/100|[from] Grassy Terrain
+|-heal|p2a: Porygon-Z|88/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641843299
+|switch|p2a: Drampa|Drampa, M, shiny|100/100
+|-ability|p2a: Drampa|Cloud Nine
+|move|p1a: Rillaboom|Grassy Glide|p2a: Drampa
+|-resisted|p2a: Drampa
+|-damage|p2a: Drampa|77/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641843316
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Drampa|Hydro Pump|p1a: Clefable|[miss]
+|-miss|p2a: Drampa|p1a: Clefable
+|
+|upkeep
+|turn|14
+|
+|t:|1641843327
+|switch|p2a: Mew|Mew, shiny|100/100
+|move|p1a: Clefable|Moonblast|p2a: Mew
+|-damage|p2a: Mew|78/100
+|-unboost|p2a: Mew|spa|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641843337
+|move|p1a: Clefable|Moonblast|p2a: Mew
+|-damage|p2a: Mew|52/100
+|move|p2a: Mew|Taunt|p1a: Clefable
+|-start|p1a: Clefable|move: Taunt
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|16
+|
+|t:|1641843345
+|move|p1a: Clefable|Moonblast|p2a: Mew
+|-damage|p2a: Mew|27/100
+|-unboost|p2a: Mew|spa|1
+|move|p2a: Mew|Trick Room|p2a: Mew
+|-fieldstart|move: Trick Room|[of] p2a: Mew
+|
+|upkeep
+|turn|17
+|-activate|p2a: Mew|item: Quick Claw
+|
+|t:|1641843354
+|move|p2a: Mew|Transform|p1a: Clefable
+|-transform|p2a: Mew|p1a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Mew
+|-damage|p2a: Mew|6/100
+|-unboost|p2a: Mew|spa|1
+|
+|upkeep
+|turn|18
+|-activate|p2a: Mew|item: Quick Claw
+|
+|t:|1641843364
+|move|p2a: Mew|Soft-Boiled|p2a: Mew
+|-heal|p2a: Mew|56/100
+|move|p1a: Clefable|Moonblast|p2a: Mew
+|-damage|p2a: Mew|35/100
+|
+|-end|p1a: Clefable|move: Taunt
+|upkeep
+|turn|19
+|
+|t:|1641843372
+|move|p2a: Mew|Soft-Boiled|p2a: Mew
+|-heal|p2a: Mew|85/100
+|move|p1a: Clefable|Moonblast|p2a: Mew
+|-damage|p2a: Mew|63/100
+|-unboost|p2a: Mew|spa|1
+|
+|upkeep
+|turn|20
+|
+|t:|1641843380
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Mew|Soft-Boiled|p2a: Mew
+|-heal|p2a: Mew|100/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|21
+|
+|t:|1641843394
+|switch|p2a: Drampa|Drampa, M, shiny|77/100
+|-ability|p2a: Drampa|Cloud Nine
+|move|p1a: Heatran|Flash Cannon|p2a: Drampa
+|-damage|p2a: Drampa|37/100
+|
+|upkeep
+|turn|22
+|-activate|p2a: Drampa|item: Quick Claw
+|
+|t:|1641843409
+|move|p2a: Drampa|Hydro Pump|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|47/100
+|move|p1a: Heatran|Stealth Rock|p2a: Drampa
+|-sidestart|p2: Faalism|move: Stealth Rock
+|
+|upkeep
+|turn|23
+|
+|t:|1641843430
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Mew|Mew, shiny|100/100
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|24
+|
+|t:|1641843437
+|move|p2a: Mew|Imprison|p2a: Mew
+|-start|p2a: Mew|move: Imprison
+|move|p1a: Clefable|Aromatherapy|p1a: Clefable
+|-activate|p1a: Clefable|move: Aromatherapy
+|-curestatus|p1: Blastoise|par|[msg]
+|
+|upkeep
+|turn|25
+|
+|t:|1641843464
+|move|p2a: Mew|Transform|p1a: Clefable
+|-transform|p2a: Mew|p1a: Clefable
+|cant|p1a: Clefable|move: Imprison|Moonblast
+|
+|upkeep
+|turn|26
+|
+|t:|1641843472
+|switch|p1a: Heatran|Heatran, F|47/100
+|move|p2a: Mew|Psychic|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|39/100
+|-unboost|p1a: Heatran|spd|1
+|
+|upkeep
+|turn|27
+|
+|t:|1641843483
+|switch|p2a: Porygon-Z|Porygon-Z, shiny|88/100
+|-damage|p2a: Porygon-Z|76/100|[from] Stealth Rock
+|-ability|p2a: Porygon-Z|Download|boost
+|-boost|p2a: Porygon-Z|spa|1
+|move|p1a: Heatran|Flash Cannon|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|24/100
+|
+|-heal|p2a: Porygon-Z|30/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641843496
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Porygon-Z|Trick Room|p2a: Porygon-Z
+|-fieldstart|move: Trick Room|[of] p2a: Porygon-Z
+|
+|-heal|p2a: Porygon-Z|36/100|[from] Grassy Terrain
+|-heal|p2a: Porygon-Z|42/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641843506
+|move|p1a: Rillaboom|Grassy Glide|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|
+|upkeep
+|
+|t:|1641843511
+|switch|p2a: Crawdaunt|Crawdaunt, F, shiny|100/100
+|-damage|p2a: Crawdaunt|88/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641843523
+|move|p1a: Rillaboom|Grassy Glide|p2a: Crawdaunt
+|-supereffective|p2a: Crawdaunt
+|-damage|p2a: Crawdaunt|0 fnt
+|faint|p2a: Crawdaunt
+|
+|upkeep
+|
+|t:|1641843532
+|switch|p2a: Entei|Entei|60/100
+|-damage|p2a: Entei|35/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1641843546
+|switch|p1a: Heatran|Heatran, F|39/100
+|move|p2a: Entei|Reversal|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-heal|p2a: Entei|41/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641843563
+|switch|p1a: Clefable|Clefable, F|100/100
+|turn|32
+|
+|t:|1641843569
+|move|p1a: Clefable|Moonblast|p2a: Entei
+|-resisted|p2a: Entei
+|-damage|p2a: Entei|26/100
+|-unboost|p2a: Entei|spa|1
+|move|p2a: Entei|Reversal|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|86/100
+|
+|-heal|p1a: Clefable|92/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|98/100|[from] item: Leftovers
+|-heal|p2a: Entei|32/100|[from] Grassy Terrain
+|-fieldend|move: Trick Room
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|33
+|
+|t:|1641843583
+|move|p2a: Entei|Sacred Fire|p1a: Clefable
+|-damage|p1a: Clefable|47/100
+|move|p1a: Clefable|Psychic|p2a: Entei
+|-damage|p2a: Entei|10/100
+|
+|-heal|p1a: Clefable|53/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641843592
+|move|p2a: Entei|Sacred Fire|p1a: Clefable|[miss]
+|-miss|p2a: Entei|p1a: Clefable
+|move|p1a: Clefable|Psychic|p2a: Entei
+|-damage|p2a: Entei|0 fnt
+|faint|p2a: Entei
+|
+|-heal|p1a: Clefable|59/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641843604
+|switch|p2a: Mew|Mew, shiny|88/100
+|-damage|p2a: Mew|76/100|[from] Stealth Rock
+|turn|35
+|
+|t:|1641843611
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|move|p2a: Mew|Trick Room|p2a: Mew
+|-fieldstart|move: Trick Room|[of] p2a: Mew
+|
+|-heal|p2a: Mew|82/100|[from] Grassy Terrain
+|upkeep
+|turn|36
+|
+|t:|1641843618
+|move|p1a: Rillaboom|Taunt|p2a: Mew
+|-start|p2a: Mew|move: Taunt
+|cant|p2a: Mew|move: Taunt|Imprison
+|
+|-heal|p2a: Mew|88/100|[from] Grassy Terrain
+|upkeep
+|turn|37
+|
+|t:|1641843627
+|switch|p2a: Gastrodon|Gastrodon, F, shiny|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|move|p1a: Rillaboom|Knock Off|p2a: Gastrodon
+|-damage|p2a: Gastrodon|58/100
+|-enditem|p2a: Gastrodon|Lum Berry|[from] move: Knock Off|[of] p1a: Rillaboom
+|
+|-heal|p2a: Gastrodon|64/100|[from] Grassy Terrain
+|upkeep
+|turn|38
+|
+|t:|1641843637
+|move|p1a: Rillaboom|Grassy Glide|p2a: Gastrodon
+|-supereffective|p2a: Gastrodon
+|-damage|p2a: Gastrodon|0 fnt
+|faint|p2a: Gastrodon
+|
+|upkeep
+|
+|t:|1641843645
+|switch|p2a: Drampa|Drampa, M, shiny|37/100
+|-damage|p2a: Drampa|24/100|[from] Stealth Rock
+|-ability|p2a: Drampa|Cloud Nine
+|turn|39
+|
+|t:|1641843669
+|move|p2a: Drampa|Heat Wave|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|25/100
+|move|p1a: Rillaboom|High Horsepower|p2a: Drampa
+|-damage|p2a: Drampa|0 fnt
+|faint|p2a: Drampa
+|
+|-heal|p1a: Rillaboom|31/100|[from] Grassy Terrain
+|-fieldend|move: Trick Room
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by 8jaggery)
+|inactive|Faalism has 120 seconds left.
+|inactive|Faalism has 90 seconds left.
+|inactive|Faalism has 60 seconds left.
+|-message|Faalism forfeited.
+|
+|win|8jaggery
+|raw|8jaggery's rating: 1106 &rarr; <strong>1131</strong><br />(+25 for winning)
+|raw|Faalism's rating: 1111 &rarr; <strong>1086</strong><br />(-25 for losing)
+|l|☆Faalism
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

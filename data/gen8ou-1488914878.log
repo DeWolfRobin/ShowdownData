@@ -1,0 +1,260 @@
+|j|☆asdhashdiuhiuh nnn
+|j|☆litten's hunger
+|t:|1641836138
+|gametype|singles
+|player|p1|asdhashdiuhiuh nnn|rood|1000
+|player|p2|litten's hunger|1|1032
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Latios, M|
+|poke|p1|Corsola, F|
+|poke|p1|Marowak-Alola, M|
+|poke|p1|Appletun, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Victini|
+|poke|p2|Silvally-*|
+|poke|p2|Rillaboom, F|
+|poke|p2|Toxtricity, M|
+|poke|p2|Duraludon, F|
+|poke|p2|Darmanitan, F|
+|poke|p2|Zoroark, F|
+|teampreview
+|
+|t:|1641836147
+|start
+|switch|p1a: un|Appletun, F|100/100
+|switch|p2a: toxic|Toxtricity, M, shiny|100/100
+|-item|p1a: un|Air Balloon
+|turn|1
+|
+|t:|1641836165
+|switch|p1a: mp|Garchomp, F|100/100
+|move|p2a: toxic|Flamethrower|p1a: mp
+|-resisted|p1a: mp
+|-damage|p1a: mp|89/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641836177
+|switch|p2a: heavy squash|Duraludon, F, shiny|100/100
+|move|p1a: mp|Dig||[still]
+|-prepare|p1a: mp|Dig
+|
+|upkeep
+|turn|3
+|
+|t:|1641836186
+|move|p1a: mp|Dig|p2a: heavy squash|[from]lockedmove
+|-supereffective|p2a: heavy squash
+|-damage|p2a: heavy squash|24/100
+|move|p2a: heavy squash|Dark Pulse|p1a: mp
+|-damage|p1a: mp|71/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641836197
+|switch|p2a: toxic|Toxtricity, M, shiny|100/100
+|move|p1a: mp|Draco Meteor|p2a: toxic
+|-damage|p2a: toxic|57/100
+|-unboost|p1a: mp|spa|2
+|
+|upkeep
+|turn|5
+|
+|t:|1641836211
+|move|p1a: mp|Dig||[still]
+|-prepare|p1a: mp|Dig
+|move|p2a: toxic|Drain Punch|p1a: mp|[miss]
+|-miss|p2a: toxic|p1a: mp
+|
+|upkeep
+|turn|6
+|
+|t:|1641836217
+|switch|p2a: boom|Rillaboom, F, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: boom
+|move|p1a: mp|Dig|p2a: boom|[from]lockedmove
+|-resisted|p2a: boom
+|-crit|p2a: boom
+|-damage|p2a: boom|71/100
+|
+|-heal|p1a: mp|77/100|[from] Grassy Terrain
+|-heal|p2a: boom|77/100|[from] Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1641836229
+|switch|p1a: un|Appletun, F|100/100
+|-item|p1a: un|Air Balloon
+|move|p2a: boom|Drum Beating|p1a: un
+|-resisted|p1a: un
+|-damage|p1a: un|90/100
+|-unboost|p1a: un|spe|1
+|-enditem|p1a: un|Air Balloon
+|
+|-heal|p2a: boom|84/100|[from] Grassy Terrain
+|-heal|p1a: un|96/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641836241
+|move|p2a: boom|Darkest Lariat|p1a: un
+|-damage|p1a: un|76/100
+|move|p1a: un|Safeguard|p1a: un
+|-sidestart|p1: asdhashdiuhiuh nnn|Safeguard
+|
+|-heal|p2a: boom|90/100|[from] Grassy Terrain
+|-heal|p1a: un|82/100|[from] Grassy Terrain
+|upkeep
+|turn|9
+|
+|t:|1641836249
+|switch|p2a: fiery night|Darmanitan, F|100/100
+|move|p1a: un|Reflect|p1a: un
+|-sidestart|p1: asdhashdiuhiuh nnn|Reflect
+|
+|-heal|p1a: un|88/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641836257
+|switch|p1a: i|Victini|100/100
+|move|p2a: fiery night|Flare Blitz|p1a: i
+|-resisted|p1a: i
+|-damage|p1a: i|87/100
+|-damage|p2a: fiery night|96/100|[from] Recoil
+|
+|-heal|p2a: fiery night|100/100|[from] Grassy Terrain
+|-heal|p1a: i|93/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|11
+|
+|t:|1641836268
+|move|p2a: fiery night|Body Slam|p1a: i
+|-damage|p1a: i|79/100
+|move|p1a: i|Blue Flare|p2a: fiery night
+|-resisted|p2a: fiery night
+|-damage|p2a: fiery night|63/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641836275
+|move|p2a: fiery night|Extrasensory|p1a: i
+|-resisted|p1a: i
+|-damage|p1a: i|74/100
+|cant|p1a: i|flinch
+|
+|-sideend|p1: asdhashdiuhiuh nnn|Safeguard
+|upkeep
+|turn|13
+|
+|t:|1641836283
+|move|p2a: fiery night|Extrasensory|p1a: i
+|-resisted|p1a: i
+|-damage|p1a: i|68/100
+|move|p1a: i|Blue Flare|p2a: fiery night
+|-resisted|p2a: fiery night
+|-damage|p2a: fiery night|25/100
+|
+|-sideend|p1: asdhashdiuhiuh nnn|Reflect
+|-formechange|p2a: fiery night|Darmanitan-Zen|
+|upkeep
+|turn|14
+|
+|t:|1641836297
+|move|p1a: i|Blue Flare|p2a: fiery night
+|-resisted|p2a: fiery night
+|-damage|p2a: fiery night|3/100
+|move|p2a: fiery night|Psychic|p1a: i
+|-resisted|p1a: i
+|-crit|p1a: i
+|-damage|p1a: i|35/100
+|
+|upkeep
+|turn|15
+|
+|t:|1641836305
+|move|p1a: i|Blue Flare|p2a: fiery night
+|-resisted|p2a: fiery night
+|-damage|p2a: fiery night|0 fnt
+|faint|p2a: fiery night
+|
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by litten's hunger)
+|
+|t:|1641836311
+|switch|p2a: heavy squash|Duraludon, F, shiny|100/100
+|turn|16
+|
+|t:|1641836316
+|move|p2a: heavy squash|Focus Blast|p1a: i|[miss]
+|-miss|p2a: heavy squash|p1a: i
+|-enditem|p2a: heavy squash|Blunder Policy
+|-boost|p2a: heavy squash|spe|2
+|move|p1a: i|V-create|p2a: heavy squash
+|-damage|p2a: heavy squash|0 fnt
+|-unboost|p1a: i|spe|1
+|-unboost|p1a: i|def|1
+|-unboost|p1a: i|spd|1
+|replace|p2a: hidden death|Zoroark, F, shiny
+|-end|p2a: hidden death|Illusion
+|faint|p2a: hidden death
+|
+|upkeep
+|
+|t:|1641836329
+|switch|p2a: boom|Rillaboom, F, shiny|90/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: boom
+|turn|17
+|
+|t:|1641836336
+|move|p2a: boom|Acrobatics|p1a: i
+|-damage|p1a: i|10/100
+|move|p1a: i|Blue Flare|p2a: boom
+|-supereffective|p2a: boom
+|-damage|p2a: boom|0 fnt
+|faint|p2a: boom
+|
+|-heal|p1a: i|17/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641836346
+|switch|p2a: toxic|Toxtricity, M, shiny|57/100
+|turn|18
+|
+|t:|1641836350
+|move|p2a: toxic|Drain Punch|p1a: i
+|-resisted|p1a: i
+|-damage|p1a: i|2/100
+|-heal|p2a: toxic|65/100|[from] drain|[of] p1a: i
+|move|p1a: i|V-create|p2a: toxic
+|-damage|p2a: toxic|0 fnt
+|-unboost|p1a: i|spe|1
+|-unboost|p1a: i|def|1
+|-unboost|p1a: i|spd|1
+|faint|p2a: toxic
+|
+|-heal|p1a: i|8/100|[from] Grassy Terrain
+|upkeep
+|-message|litten's hunger forfeited.
+|
+|win|asdhashdiuhiuh nnn
+|raw|asdhashdiuhiuh nnn's rating: 1000 &rarr; <strong>1044</strong><br />(+44 for winning)
+|raw|litten&apos;s hunger's rating: 1032 &rarr; <strong>1016</strong><br />(-16 for losing)
+|l|☆litten's hunger
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

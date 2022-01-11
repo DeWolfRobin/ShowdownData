@@ -1,0 +1,392 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Pichiu
+|j|☆SL21CC ginko
+|t:|1641740783
+|gametype|singles
+|player|p1|SL21CC Pichiu|elesa|1222
+|player|p2|SL21CC ginko|line38324.png|1303
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Toxapex, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Weavile, F|
+|poke|p1|Melmetal|
+|poke|p2|Heatran, M|
+|poke|p2|Moltres-Galar|
+|poke|p2|Dragapult, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Cloyster, M|
+|poke|p2|Kartana|
+|teampreview
+|j| water GH0ST
+|j|♚The Steel Shadow
+|j| adreamew
+|
+|t:|1641740802
+|start
+|switch|p1a: Weavile|Weavile, F|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|-ability|p1a: Weavile|Pressure
+|-item|p2a: Heatran|Air Balloon
+|turn|1
+|j|♚aro nova
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC ginko)
+|
+|t:|1641740817
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Magma Storm|p1a: Landorus
+|-damage|p1a: Landorus|55/100
+|-activate|p1a: Landorus|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Landorus|61/100|[from] item: Leftovers
+|-damage|p1a: Landorus|49/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|2
+|
+|t:|1641740822
+|move|p2a: Heatran|Eruption|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|j| 9skythunderouskick
+|
+|t:|1641740826
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|3
+|
+|t:|1641740829
+|move|p1a: Zapdos|Volt Switch|p2a: Heatran
+|-crit|p2a: Heatran
+|-damage|p2a: Heatran|46/100
+|-enditem|p2a: Heatran|Air Balloon
+|j| tianyutulongwu
+|
+|t:|1641740832
+|switch|p1a: Slowking|Slowking-Galar, F|100/100|[from]move: Volt Switch
+|move|p2a: Heatran|Stealth Rock|p1a: Slowking
+|-sidestart|p1: SL21CC Pichiu|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641740837
+|move|p2a: Heatran|Earth Power|p1a: Slowking
+|-supereffective|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|51/100
+|move|p1a: Slowking|Future Sight|p2a: Heatran
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|5
+|
+|t:|1641740844
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Heatran|Eruption|p1a: Zapdos
+|-damage|p1a: Zapdos|53/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641740848
+|move|p1a: Zapdos|Volt Switch|p2a: Heatran
+|-damage|p2a: Heatran|10/100
+|
+|t:|1641740850
+|switch|p1a: Slowking|Slowking-Galar, F|84/100|[from]move: Volt Switch
+|-damage|p1a: Slowking|72/100|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Slowking
+|-damage|p1a: Slowking|47/100
+|-activate|p1a: Slowking|move: Magma Storm|[of] p2a: Heatran
+|
+|-end|p2a: Heatran|move: Future Sight
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-end|p1a: Slowking|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|
+|t:|1641740857
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|7
+|
+|t:|1641740864
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|move|p2a: Garchomp|Earthquake|p1a: Weavile
+|-damage|p1a: Weavile|15/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641740874
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|move|p1a: Weavile|Ice Shard|p2a: Cloyster
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|96/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641740878
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641740882
+|move|p2a: Garchomp|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|22/100
+|move|p1a: Toxapex|Toxic|p2a: Garchomp
+|-status|p2a: Garchomp|tox
+|
+|-damage|p2a: Garchomp|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641740891
+|switch|p1a: Slowking|Slowking-Galar, F|80/100
+|-damage|p1a: Slowking|68/100|[from] Stealth Rock
+|move|p2a: Garchomp|Scale Shot|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|47/100
+|-damage|p1a: Slowking|32/100
+|-damage|p1a: Slowking|19/100
+|-damage|p1a: Slowking|4/100
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-hitcount|p1: Slowking|5
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-heal|p2a: Garchomp|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|88/100 tox|[from] psn
+|upkeep
+|
+|t:|1641740895
+|switch|p1a: Weavile|Weavile, F|15/100
+|-ability|p1a: Weavile|Pressure
+|turn|12
+|
+|t:|1641740900
+|switch|p2a: Cloyster|Cloyster, M|96/100
+|move|p1a: Weavile|Ice Shard|p2a: Cloyster
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|92/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641740904
+|switch|p1a: Melmetal|Melmetal|100/100
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641740907
+|switch|p2a: Garchomp|Garchomp, M|88/100 tox
+|move|p1a: Melmetal|Double Iron Bash|p2a: Garchomp
+|-damage|p2a: Garchomp|44/100 tox
+|-activate|p2a: Garchomp|ability: Rough Skin
+|-activate|p1a: Melmetal|item: Protective Pads
+|-damage|p2a: Garchomp|2/100 tox
+|-activate|p2a: Garchomp|ability: Rough Skin
+|-activate|p1a: Melmetal|item: Protective Pads
+|-hitcount|p2a: Garchomp|2
+|
+|-heal|p2a: Garchomp|8/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|2/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641740911
+|switch|p1a: Zapdos|Zapdos|53/100
+|move|p2a: Garchomp|Scale Shot|p1a: Zapdos
+|-damage|p1a: Zapdos|37/100
+|-crit|p1a: Zapdos
+|-damage|p1a: Zapdos|14/100
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-hitcount|p1: Zapdos|3
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|
+|-heal|p2a: Garchomp|8/100 tox|[from] item: Leftovers
+|-damage|p2a: Garchomp|0 fnt|[from] psn
+|faint|p2a: Garchomp
+|upkeep
+|
+|t:|1641740923
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|switch|p1a: Melmetal|Melmetal|94/100
+|-damage|p1a: Melmetal|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641740926
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|77/100
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|56/100
+|-hitcount|p2a: Kartana|2
+|
+|upkeep
+|turn|17
+|
+|t:|1641740932
+|move|p2a: Kartana|Knock Off|p1a: Melmetal
+|-damage|p1a: Melmetal|61/100
+|-enditem|p1a: Melmetal|Protective Pads|[from] move: Knock Off|[of] p2a: Kartana
+|move|p1a: Melmetal|Thunder Wave|p2a: Kartana
+|-status|p2a: Kartana|par
+|
+|upkeep
+|turn|18
+|
+|t:|1641740939
+|switch|p1a: Toxapex|Toxapex, F|55/100
+|-damage|p1a: Toxapex|43/100|[from] Stealth Rock
+|move|p2a: Kartana|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|16/100
+|-damage|p2a: Kartana|39/100 par|[from] item: Rocky Helmet|[of] p1a: Toxapex
+|-enditem|p1a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p2a: Kartana
+|
+|upkeep
+|turn|19
+|j| jingtianlangtaosha
+|
+|t:|1641740963
+|move|p2a: Kartana|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641740965
+|switch|p1a: Weavile|Weavile, F|15/100
+|-ability|p1a: Weavile|Pressure
+|turn|20
+|
+|t:|1641740967
+|move|p1a: Weavile|Triple Axel|p2a: Kartana
+|-damage|p2a: Kartana|29/100 par
+|-damage|p2a: Kartana|7/100 par
+|-crit|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|-hitcount|p2: Kartana|3
+|
+|upkeep
+|j| sdaui
+|
+|t:|1641740977
+|switch|p2a: Cloyster|Cloyster, M|92/100
+|turn|21
+|
+|t:|1641740979
+|move|p1a: Weavile|Triple Axel|p2a: Cloyster
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|90/100
+|-resisted|p2a: Cloyster
+|-crit|p2a: Cloyster
+|-damage|p2a: Cloyster|83/100
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|77/100
+|-hitcount|p2a: Cloyster|3
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|
+|upkeep
+|turn|22
+|
+|t:|1641740987
+|move|p1a: Weavile|Ice Shard|p2a: Cloyster
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|71/100
+|move|p2a: Cloyster|Icicle Spear|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|-hitcount|p1: Weavile|1
+|
+|upkeep
+|
+|t:|1641740989
+|switch|p1a: Melmetal|Melmetal|61/100
+|-damage|p1a: Melmetal|55/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641740991
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|move|p1a: Melmetal|Double Iron Bash|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|-hitcount|p2: Cloyster|1
+|
+|upkeep
+|
+|t:|1641740994
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|24
+|
+|t:|1641741000
+|move|p2a: Moltres|Fiery Wrath|p1a: Melmetal
+|-damage|p1a: Melmetal|11/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Moltres
+|-damage|p2a: Moltres|55/100
+|-damage|p2a: Moltres|8/100
+|-hitcount|p2a: Moltres|2
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|
+|upkeep
+|turn|25
+|
+|t:|1641741002
+|move|p2a: Moltres|Fiery Wrath|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|win|SL21CC ginko
+|raw|SL21CC Pichiu's rating: 1222 &rarr; <strong>1210</strong><br />(-12 for losing)
+|raw|SL21CC ginko's rating: 1303 &rarr; <strong>1316</strong><br />(+13 for winning)
+|l|☆SL21CC Pichiu
+|l| jingtianlangtaosha

@@ -1,0 +1,352 @@
+|j|☆Yellowpanda483
+|j|☆wesrui
+|t:|1641830295
+|gametype|singles
+|player|p1|Yellowpanda483|266|1123
+|player|p2|wesrui|silver|1151
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Melmetal|
+|poke|p1|Tyrantrum, F|
+|poke|p1|Nidoking, M|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Mimikyu, M|
+|poke|p1|Rotom|
+|poke|p2|Weavile, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Salazzle, F|
+|poke|p2|Mew|
+|poke|p2|Dragonite, F|
+|poke|p2|Clefable, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by wesrui)
+|
+|t:|1641830299
+|start
+|switch|p1a: Tyrantrum|Tyrantrum, F|100/100
+|switch|p2a: Clefable|Clefable, M, shiny|100/100
+|turn|1
+|
+|t:|1641830305
+|move|p1a: Tyrantrum|Stealth Rock|p2a: Clefable
+|-sidestart|p2: wesrui|move: Stealth Rock
+|move|p2a: Clefable|Calm Mind|p2a: Clefable
+|-boost|p2a: Clefable|spa|1
+|-boost|p2a: Clefable|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641830318
+|move|p2a: Clefable|Moonblast|p1a: Tyrantrum
+|-supereffective|p1a: Tyrantrum
+|-damage|p1a: Tyrantrum|0 fnt
+|faint|p1a: Tyrantrum
+|
+|upkeep
+|
+|t:|1641830323
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|3
+|
+|t:|1641830337
+|move|p1a: Melmetal|Double Iron Bash|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|33/100
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|-hitcount|p2: Clefable|2
+|
+|upkeep
+|
+|t:|1641830343
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|-damage|p2a: Dragonite|76/100|[from] Stealth Rock
+|turn|4
+|
+|t:|1641830347
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|-item|p1a: Nidoking|Air Balloon
+|move|p2a: Dragonite|Defog|p1a: Nidoking
+|-unboost|p1a: Nidoking|evasion|1
+|-sideend|p2: wesrui|Stealth Rock|[from] move: Defog|[of] p2a: Dragonite
+|
+|-heal|p2a: Dragonite|82/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641830366
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Nidoking|Ice Beam|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641830375
+|switch|p2a: Mew|Mew|100/100
+|turn|6
+|
+|t:|1641830395
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|switch|p1a: Rotom|Rotom|100/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641830405
+|move|p1a: Rotom|Nasty Plot|p1a: Rotom
+|-boost|p1a: Rotom|spa|2
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641830408
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: Teleport
+|-ability|p2a: Weavile|Pressure
+|
+|upkeep
+|turn|8
+|
+|t:|1641830416
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Weavile|Knock Off|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|73/100
+|-enditem|p1a: Urshifu|Life Orb|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|9
+|
+|t:|1641830426
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: Urshifu|Drain Punch|p2a: Mew
+|-resisted|p2a: Mew
+|-damage|p2a: Mew|81/100
+|-heal|p1a: Urshifu|82/100|[from] drain|[of] p2a: Mew
+|-enditem|p2a: Mew|Red Card|[of] p1a: Urshifu
+|drag|p1a: Rotom|Rotom|100/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641830443
+|move|p2a: Mew|Volt Switch|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|85/100
+|
+|t:|1641830447
+|switch|p2a: Weavile|Weavile, M|100/100|[from]move: Volt Switch
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Rotom|Dark Pulse|p2a: Weavile
+|-resisted|p2a: Weavile
+|-crit|p2a: Weavile
+|-damage|p2a: Weavile|81/100
+|
+|-heal|p1a: Rotom|91/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641830457
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|82/100
+|move|p2a: Weavile|Knock Off|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|62/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641830465
+|switch|p2a: Mew|Mew|81/100
+|move|p1a: Urshifu|Drain Punch|p2a: Mew
+|-resisted|p2a: Mew
+|-damage|p2a: Mew|64/100
+|-heal|p1a: Urshifu|70/100|[from] drain|[of] p2a: Mew
+|
+|upkeep
+|turn|13
+|
+|t:|1641830477
+|switch|p1a: Melmetal|Melmetal|100/100
+|move|p2a: Mew|Thunder Wave|p1a: Melmetal
+|-status|p1a: Melmetal|par
+|
+|upkeep
+|turn|14
+|
+|t:|1641830483
+|move|p2a: Mew|Aura Sphere|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|57/100 par
+|-enditem|p1a: Melmetal|Weakness Policy
+|-boost|p1a: Melmetal|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Melmetal|spa|2|[from] item: Weakness Policy
+|move|p1a: Melmetal|Double Iron Bash|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|-hitcount|p2: Mew|1
+|
+|upkeep
+|
+|t:|1641830492
+|switch|p2a: Salazzle|Salazzle, F|100/100
+|turn|15
+|
+|t:|1641830498
+|move|p2a: Salazzle|Flamethrower|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641830503
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|-item|p1a: Nidoking|Air Balloon
+|turn|16
+|
+|t:|1641830508
+|move|p2a: Salazzle|Toxic|p1a: Nidoking
+|-status|p1a: Nidoking|tox
+|move|p1a: Nidoking|Earth Power|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-damage|p2a: Salazzle|0 fnt
+|faint|p2a: Salazzle
+|
+|-damage|p1a: Nidoking|94/100 tox|[from] psn
+|upkeep
+|
+|t:|1641830517
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|turn|17
+|
+|t:|1641830524
+|switch|p1a: Rotom|Rotom|91/100
+|move|p2a: Slowbro|Future Sight|p1a: Rotom
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-heal|p1a: Rotom|97/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641830533
+|switch|p2a: Weavile|Weavile, M|81/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Rotom|Thunderbolt|p2a: Weavile
+|-damage|p2a: Weavile|33/100
+|
+|-heal|p1a: Rotom|100/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641830542
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|70/100
+|move|p2a: Weavile|Triple Axel|p1a: Urshifu|[miss]
+|-miss|p2a: Weavile|p1a: Urshifu
+|
+|-end|p1a: Urshifu|move: Future Sight
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|upkeep
+|
+|t:|1641830550
+|switch|p1a: Mimikyu|Mimikyu, M|100/100
+|turn|20
+|
+|t:|1641830555
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Mimikyu|Drain Punch|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|95/100
+|-damage|p1a: Mimikyu|84/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|
+|upkeep
+|turn|21
+|
+|t:|1641830564
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|move|p2a: Slowbro|Future Sight|p1a: Mimikyu
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|22
+|
+|t:|1641830568
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|move|p2a: Slowbro|Scald|p1a: Mimikyu
+|-activate|p1a: Mimikyu|ability: Disguise
+|-damage|p1a: Mimikyu|84/100
+|-status|p1a: Mimikyu|brn
+|detailschange|p1a: Mimikyu|Mimikyu-Busted, M
+|-damage|p1a: Mimikyu|71/100 brn|[from] pokemon: Mimikyu-Busted
+|
+|-damage|p1a: Mimikyu|65/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641830578
+|move|p1a: Mimikyu|Shadow Sneak|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|61/100
+|-damage|p1a: Mimikyu|49/100 brn|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|move|p2a: Slowbro|Scald|p1a: Mimikyu
+|-damage|p1a: Mimikyu|20/100 brn
+|
+|-end|p1a: Mimikyu|move: Future Sight
+|-damage|p1a: Mimikyu|0 fnt
+|faint|p1a: Mimikyu
+|upkeep
+|
+|t:|1641830582
+|switch|p1a: Rotom|Rotom|100/100
+|turn|24
+|
+|t:|1641830592
+|switch|p2a: Weavile|Weavile, M|33/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Rotom|Thunderbolt|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|
+|t:|1641830599
+|switch|p2a: Slowbro|Slowbro, M|95/100
+|turn|25
+|
+|t:|1641830602
+|move|p1a: Rotom|Thunderbolt|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|23/100
+|move|p2a: Slowbro|Future Sight|p1a: Rotom
+|-start|p2a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|26
+|
+|t:|1641830607
+|move|p1a: Rotom|Thunderbolt|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|win|Yellowpanda483
+|raw|Yellowpanda483's rating: 1123 &rarr; <strong>1150</strong><br />(+27 for winning)
+|raw|wesrui's rating: 1151 &rarr; <strong>1124</strong><br />(-27 for losing)
+|l|☆wesrui

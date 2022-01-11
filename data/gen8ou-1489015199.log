@@ -1,0 +1,702 @@
+|j|☆Baked Applins
+|j|☆Legendary CryBaby
+|t:|1641846624
+|gametype|singles
+|player|p1|Baked Applins|170|1029
+|player|p2|Legendary CryBaby|169|1022
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hippowdon, F|
+|poke|p1|Weavile, M|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Tyranitar, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Heatran, F|
+|poke|p2|Chandelure, M|
+|poke|p2|Mantine, M|
+|poke|p2|Heliolisk, M|
+|poke|p2|Flygon, M|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Scizor, M|
+|teampreview
+|
+|t:|1641846630
+|start
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|switch|p2a: Infuriate|Grimmsnarl, M|100/100
+|turn|1
+|
+|t:|1641846637
+|move|p2a: Infuriate|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|cant|p1a: Ferrothorn|move: Taunt|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641846642
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Infuriate|Reflect|p2a: Infuriate
+|-sidestart|p2: Legendary CryBaby|Reflect
+|
+|upkeep
+|turn|3
+|
+|t:|1641846647
+|move|p2a: Infuriate|Trick|p1a: Heatran
+|-activate|p2a: Infuriate|move: Trick|[of] p1a: Heatran
+|-item|p1a: Heatran|Lagging Tail|[from] move: Trick
+|-item|p2a: Infuriate|Leftovers|[from] move: Trick
+|move|p1a: Heatran|Taunt|p2a: Infuriate
+|-start|p2a: Infuriate|move: Taunt
+|
+|upkeep
+|turn|4
+|
+|t:|1641846658
+|switch|p2a: Aggravate|Flygon, M|100/100
+|move|p1a: Heatran|Toxic|p2a: Aggravate
+|-status|p2a: Aggravate|tox
+|
+|-damage|p2a: Aggravate|95/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641846670
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Aggravate|Dragon Dance|p2a: Aggravate
+|-boost|p2a: Aggravate|atk|1
+|-boost|p2a: Aggravate|spe|1
+|
+|-damage|p2a: Aggravate|83/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641846678
+|switch|p2a: Infuriate|Grimmsnarl, M|100/100
+|move|p1a: Mandibuzz|Knock Off|p2a: Infuriate
+|-resisted|p2a: Infuriate
+|-damage|p2a: Infuriate|98/100
+|-enditem|p2a: Infuriate|Leftovers|[from] move: Knock Off|[of] p1a: Mandibuzz
+|
+|-sideend|p2: Legendary CryBaby|Reflect
+|upkeep
+|turn|7
+|
+|t:|1641846686
+|move|p1a: Mandibuzz|U-turn|p2a: Infuriate
+|-damage|p2a: Infuriate|86/100
+|
+|t:|1641846689
+|switch|p1a: Heatran|Heatran, F|100/100|[from]move: U-turn
+|move|p2a: Infuriate|Spirit Break|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|94/100
+|-unboost|p1a: Heatran|spa|1
+|
+|upkeep
+|turn|8
+|
+|t:|1641846696
+|move|p2a: Infuriate|Taunt|p1a: Heatran
+|-start|p1a: Heatran|move: Taunt
+|cant|p1a: Heatran|move: Taunt|Toxic
+|
+|upkeep
+|turn|9
+|
+|t:|1641846702
+|switch|p2a: Aggravate|Flygon, M|83/100 tox
+|move|p1a: Heatran|Magma Storm|p2a: Aggravate|[miss]
+|-miss|p1a: Heatran|p2a: Aggravate
+|
+|-damage|p2a: Aggravate|77/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641846710
+|switch|p2a: Infuriate|Grimmsnarl, M|86/100
+|move|p1a: Heatran|Magma Storm|p2a: Infuriate|[miss]
+|-miss|p1a: Heatran|p2a: Infuriate
+|
+|-end|p1a: Heatran|move: Taunt
+|upkeep
+|turn|11
+|
+|t:|1641846718
+|move|p2a: Infuriate|Taunt|p1a: Heatran
+|-start|p1a: Heatran|move: Taunt
+|move|p1a: Heatran|Magma Storm|p2a: Infuriate|[miss]
+|-miss|p1a: Heatran|p2a: Infuriate
+|
+|upkeep
+|turn|12
+|
+|t:|1641846727
+|switch|p2a: Degenerate|Chandelure, M|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Degenerate
+|-start|p2a: Degenerate|ability: Flash Fire
+|
+|upkeep
+|turn|13
+|
+|t:|1641846734
+|move|p2a: Degenerate|Substitute|p2a: Degenerate
+|-start|p2a: Degenerate|Substitute
+|-damage|p2a: Degenerate|76/100
+|move|p1a: Heatran|Earth Power|p2a: Degenerate
+|-supereffective|p2a: Degenerate
+|-end|p2a: Degenerate|Substitute
+|
+|-end|p1a: Heatran|move: Taunt
+|upkeep
+|turn|14
+|
+|t:|1641846742
+|-end|p2a: Degenerate|ability: Flash Fire|[silent]
+|switch|p2a: Aggravate|Flygon, M|77/100 tox
+|move|p1a: Heatran|Taunt|p2a: Aggravate
+|-start|p2a: Aggravate|move: Taunt
+|
+|-damage|p2a: Aggravate|71/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641846750
+|move|p2a: Aggravate|Earthquake|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-damage|p2a: Aggravate|59/100 tox|[from] psn
+|upkeep
+|
+|t:|1641846759
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|16
+|
+|t:|1641846766
+|switch|p2a: Irritate|Mantine, M|100/100
+|move|p1a: Hippowdon|Stealth Rock|p2a: Irritate
+|-sidestart|p2: Legendary CryBaby|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1641846773
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|move|p2a: Irritate|Substitute|p2a: Irritate
+|-start|p2a: Irritate|Substitute
+|-damage|p2a: Irritate|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641846781
+|move|p2a: Irritate|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|81/100
+|move|p1a: Tyranitar|Earthquake|p2a: Irritate
+|-immune|p2a: Irritate
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641846788
+|move|p2a: Irritate|Whirlpool|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|73/100
+|-activate|p1a: Tyranitar|move: Whirlpool|[of] p2a: Irritate
+|move|p1a: Tyranitar|Rock Blast|p2a: Irritate
+|-supereffective|p2a: Irritate
+|-end|p2a: Irritate|Substitute
+|-supereffective|p2a: Irritate
+|-damage|p2a: Irritate|53/100
+|-supereffective|p2a: Irritate
+|-damage|p2a: Irritate|27/100
+|-hitcount|p2a: Irritate|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tyranitar|60/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|20
+|
+|t:|1641846802
+|move|p2a: Irritate|Roost|p2a: Irritate
+|-heal|p2a: Irritate|77/100
+|-singleturn|p2a: Irritate|move: Roost
+|move|p1a: Tyranitar|Rock Blast|p2a: Irritate
+|-damage|p2a: Irritate|64/100
+|-damage|p2a: Irritate|52/100
+|-damage|p2a: Irritate|40/100
+|-damage|p2a: Irritate|28/100
+|-damage|p2a: Irritate|16/100
+|-hitcount|p2a: Irritate|5
+|
+|-weather|none
+|-damage|p1a: Tyranitar|48/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|21
+|
+|t:|1641846814
+|move|p2a: Irritate|Roost|p2a: Irritate
+|-heal|p2a: Irritate|66/100
+|-singleturn|p2a: Irritate|move: Roost
+|move|p1a: Tyranitar|Rock Blast|p2a: Irritate
+|-damage|p2a: Irritate|53/100
+|-damage|p2a: Irritate|41/100
+|-damage|p2a: Irritate|28/100
+|-hitcount|p2a: Irritate|3
+|
+|-damage|p1a: Tyranitar|36/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|22
+|
+|t:|1641846826
+|move|p2a: Irritate|Roost|p2a: Irritate
+|-heal|p2a: Irritate|78/100
+|-singleturn|p2a: Irritate|move: Roost
+|move|p1a: Tyranitar|Thunder Wave|p2a: Irritate|[miss]
+|-miss|p1a: Tyranitar|p2a: Irritate
+|
+|-damage|p1a: Tyranitar|23/100|[from] move: Whirlpool|[partiallytrapped]
+|upkeep
+|turn|23
+|c|☆Baked Applins|i miss a 75% accuracy move 3 times in a row
+|c|☆Baked Applins|now a 90% accuracy move
+|
+|t:|1641846843
+|move|p2a: Irritate|Scald|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|
+|upkeep
+|
+|t:|1641846850
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|24
+|
+|t:|1641846861
+|move|p1a: Weavile|Triple Axel|p2a: Irritate
+|-damage|p2a: Irritate|67/100
+|-damage|p2a: Irritate|44/100
+|-damage|p2a: Irritate|13/100
+|-hitcount|p2a: Irritate|3
+|move|p2a: Irritate|Scald|p1a: Weavile
+|-crit|p1a: Weavile
+|-damage|p1a: Weavile|51/100
+|-status|p1a: Weavile|brn
+|
+|-damage|p1a: Weavile|45/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641846873
+|move|p1a: Weavile|Knock Off|p2a: Irritate
+|-damage|p2a: Irritate|0 fnt
+|-enditem|p2a: Irritate|Safety Goggles|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Irritate
+|
+|-damage|p1a: Weavile|39/100 brn|[from] brn
+|upkeep
+|
+|t:|1641846882
+|switch|p2a: Infuriate|Grimmsnarl, M|86/100
+|-damage|p2a: Infuriate|74/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641846887
+|switch|p1a: Hippowdon|Hippowdon, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Infuriate|Reflect|p2a: Infuriate
+|-sidestart|p2: Legendary CryBaby|Reflect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Infuriate|68/100|[from] Sandstorm
+|upkeep
+|turn|27
+|
+|t:|1641846895
+|move|p2a: Infuriate|Trick|p1a: Hippowdon
+|-activate|p2a: Infuriate|move: Trick|[of] p1a: Hippowdon
+|-enditem|p1a: Hippowdon|Leftovers|[silent]|[from] move: Trick
+|-item|p2a: Infuriate|Leftovers|[from] move: Trick
+|move|p1a: Hippowdon|Stealth Rock||[still]
+|-fail|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Infuriate|62/100|[from] Sandstorm
+|-heal|p2a: Infuriate|68/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|c|☆Baked Applins|misclick yay
+|
+|t:|1641846904
+|move|p2a: Infuriate|Taunt|p1a: Hippowdon
+|-start|p1a: Hippowdon|move: Taunt
+|cant|p1a: Hippowdon|move: Taunt|Toxic
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Infuriate|62/100|[from] Sandstorm
+|-heal|p2a: Infuriate|68/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641846911
+|move|p2a: Infuriate|Spirit Break|p1a: Hippowdon
+|-damage|p1a: Hippowdon|79/100
+|-unboost|p1a: Hippowdon|spa|1
+|move|p1a: Hippowdon|Earthquake|p2a: Infuriate
+|-damage|p2a: Infuriate|48/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Infuriate|42/100|[from] Sandstorm
+|-heal|p2a: Infuriate|48/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641846924
+|switch|p2a: Aggravate|Flygon, M|59/100 tox
+|-damage|p2a: Aggravate|53/100 tox|[from] Stealth Rock
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|
+|-weather|none
+|-damage|p2a: Aggravate|47/100 tox|[from] psn
+|-sideend|p2: Legendary CryBaby|Reflect
+|upkeep
+|turn|31
+|
+|t:|1641846934
+|move|p2a: Aggravate|Dragon Dance|p2a: Aggravate
+|-boost|p2a: Aggravate|atk|1
+|-boost|p2a: Aggravate|spe|1
+|move|p1a: Ferrothorn|Spikes|p2a: Aggravate
+|-sidestart|p2: Legendary CryBaby|Spikes
+|
+|-damage|p2a: Aggravate|35/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641846941
+|move|p2a: Aggravate|Fire Punch|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|21/100
+|-damage|p2a: Aggravate|22/100 tox|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Spikes|p2a: Aggravate
+|-sidestart|p2: Legendary CryBaby|Spikes
+|
+|-heal|p1a: Ferrothorn|27/100|[from] item: Leftovers
+|-damage|p2a: Aggravate|4/100 tox|[from] psn
+|upkeep
+|turn|33
+|
+|t:|1641846954
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Aggravate|Earthquake|p1a: Mandibuzz
+|-immune|p1a: Mandibuzz
+|
+|-damage|p2a: Aggravate|0 fnt|[from] psn
+|faint|p2a: Aggravate
+|upkeep
+|
+|t:|1641846958
+|switch|p2a: Infuriate|Grimmsnarl, M|48/100
+|-damage|p2a: Infuriate|36/100|[from] Stealth Rock
+|-damage|p2a: Infuriate|19/100|[from] Spikes
+|turn|34
+|
+|t:|1641846968
+|move|p2a: Infuriate|Reflect|p2a: Infuriate
+|-sidestart|p2: Legendary CryBaby|Reflect
+|move|p1a: Mandibuzz|U-turn|p2a: Infuriate
+|-damage|p2a: Infuriate|13/100
+|
+|t:|1641846973
+|switch|p1a: Ferrothorn|Ferrothorn, M|27/100|[from]move: U-turn
+|
+|-heal|p2a: Infuriate|20/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|33/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641846981
+|move|p2a: Infuriate|Taunt|p1a: Ferrothorn
+|-start|p1a: Ferrothorn|move: Taunt
+|cant|p1a: Ferrothorn|move: Taunt|Leech Seed
+|
+|-heal|p2a: Infuriate|26/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|40/100|[from] item: Leftovers
+|upkeep
+|turn|36
+|
+|t:|1641846999
+|move|p2a: Infuriate|Trick|p1a: Ferrothorn
+|-activate|p2a: Infuriate|move: Trick|[of] p1a: Ferrothorn
+|-item|p1a: Ferrothorn|Leftovers|[from] move: Trick
+|-item|p2a: Infuriate|Leftovers|[from] move: Trick
+|move|p1a: Ferrothorn|Power Whip|p2a: Infuriate
+|-damage|p2a: Infuriate|7/100
+|
+|-heal|p2a: Infuriate|13/100|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|46/100|[from] item: Leftovers
+|upkeep
+|turn|37
+|
+|t:|1641847007
+|switch|p2a: Degenerate|Chandelure, M|76/100
+|-damage|p2a: Degenerate|59/100|[from] Spikes
+|-damage|p2a: Degenerate|34/100|[from] Stealth Rock
+|move|p1a: Ferrothorn|Power Whip|p2a: Degenerate
+|-resisted|p2a: Degenerate
+|-damage|p2a: Degenerate|21/100
+|
+|-heal|p1a: Ferrothorn|52/100|[from] item: Leftovers
+|-end|p1a: Ferrothorn|move: Taunt
+|upkeep
+|turn|38
+|
+|t:|1641847019
+|switch|p1a: Hippowdon|Hippowdon, F|79/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Degenerate|Pain Split|p1a: Hippowdon
+|-sethp|p1a: Hippowdon|46/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Degenerate|74/100|[from] move: Pain Split
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Degenerate|68/100|[from] Sandstorm
+|-sideend|p2: Legendary CryBaby|Reflect
+|upkeep
+|turn|39
+|
+|t:|1641847038
+|switch|p2a: Infuriate|Grimmsnarl, M|13/100
+|-damage|p2a: Infuriate|1/100|[from] Stealth Rock
+|-damage|p2a: Infuriate|0 fnt|[from] Spikes
+|faint|p2a: Infuriate
+|move|p1a: Hippowdon|Slack Off|p1a: Hippowdon
+|-heal|p1a: Hippowdon|96/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641847044
+|switch|p2a: Agitate|Heliolisk, M|100/100
+|-damage|p2a: Agitate|88/100|[from] Stealth Rock
+|-damage|p2a: Agitate|71/100|[from] Spikes
+|turn|40
+|
+|t:|1641847049
+|move|p2a: Agitate|Glare|p1a: Hippowdon
+|-status|p1a: Hippowdon|par
+|cant|p1a: Hippowdon|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Agitate|65/100|[from] Sandstorm
+|-heal|p2a: Agitate|71/100|[from] item: Leftovers
+|upkeep
+|turn|41
+|
+|t:|1641847057
+|move|p2a: Agitate|Surf|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|59/100 par
+|cant|p1a: Hippowdon|par
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Agitate|65/100|[from] Sandstorm
+|-heal|p2a: Agitate|71/100|[from] item: Leftovers
+|upkeep
+|turn|42
+|
+|t:|1641847064
+|move|p2a: Agitate|Substitute|p2a: Agitate
+|-start|p2a: Agitate|Substitute
+|-damage|p2a: Agitate|47/100
+|move|p1a: Hippowdon|Earthquake|p2a: Agitate
+|-supereffective|p2a: Agitate
+|-end|p2a: Agitate|Substitute
+|
+|-weather|none
+|-heal|p2a: Agitate|53/100|[from] item: Leftovers
+|upkeep
+|turn|43
+|
+|t:|1641847072
+|move|p2a: Agitate|Substitute|p2a: Agitate
+|-start|p2a: Agitate|Substitute
+|-damage|p2a: Agitate|28/100
+|move|p1a: Hippowdon|Earthquake|p2a: Agitate
+|-supereffective|p2a: Agitate
+|-end|p2a: Agitate|Substitute
+|
+|-heal|p2a: Agitate|34/100|[from] item: Leftovers
+|upkeep
+|turn|44
+|
+|t:|1641847080
+|move|p2a: Agitate|Substitute|p2a: Agitate
+|-start|p2a: Agitate|Substitute
+|-damage|p2a: Agitate|9/100
+|move|p1a: Hippowdon|Earthquake|p2a: Agitate
+|-supereffective|p2a: Agitate
+|-end|p2a: Agitate|Substitute
+|
+|-heal|p2a: Agitate|15/100|[from] item: Leftovers
+|upkeep
+|turn|45
+|
+|t:|1641847088
+|move|p2a: Agitate|Surf|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|16/100 par
+|move|p1a: Hippowdon|Toxic|p2a: Agitate
+|-status|p2a: Agitate|tox
+|
+|-heal|p2a: Agitate|21/100 tox|[from] item: Leftovers
+|-damage|p2a: Agitate|15/100 tox|[from] psn
+|upkeep
+|turn|46
+|
+|t:|1641847099
+|switch|p1a: Ferrothorn|Ferrothorn, M|52/100
+|move|p2a: Agitate|Surf|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|41/100
+|
+|-heal|p2a: Agitate|21/100 tox|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|47/100|[from] item: Leftovers
+|-damage|p2a: Agitate|9/100 tox|[from] psn
+|upkeep
+|turn|47
+|
+|t:|1641847108
+|move|p2a: Agitate|Glare|p1a: Ferrothorn
+|-status|p1a: Ferrothorn|par
+|move|p1a: Ferrothorn|Spikes|p2a: Agitate
+|-sidestart|p2: Legendary CryBaby|Spikes
+|
+|-heal|p2a: Agitate|15/100 tox|[from] item: Leftovers
+|-heal|p1a: Ferrothorn|53/100 par|[from] item: Leftovers
+|-damage|p2a: Agitate|0 fnt|[from] psn
+|faint|p2a: Agitate
+|upkeep
+|
+|t:|1641847113
+|switch|p2a: Degenerate|Chandelure, M|68/100
+|-damage|p2a: Degenerate|43/100|[from] Stealth Rock
+|-damage|p2a: Degenerate|18/100|[from] Spikes
+|turn|48
+|
+|t:|1641847124
+|switch|p1a: Hippowdon|Hippowdon, F|16/100 par
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|move|p2a: Degenerate|Pain Split|p1a: Hippowdon
+|-sethp|p1a: Hippowdon|14/100 par|[from] move: Pain Split|[silent]
+|-sethp|p2a: Degenerate|22/100|[from] move: Pain Split
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Degenerate|16/100|[from] Sandstorm
+|upkeep
+|turn|49
+|
+|t:|1641847133
+|move|p2a: Degenerate|Hex|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Degenerate|10/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641847141
+|switch|p1a: Weavile|Weavile, M|39/100 brn
+|-ability|p1a: Weavile|Pressure
+|turn|50
+|
+|t:|1641847147
+|move|p1a: Weavile|Knock Off|p2a: Degenerate
+|-supereffective|p2a: Degenerate
+|-damage|p2a: Degenerate|0 fnt
+|-enditem|p2a: Degenerate|Charcoal|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Degenerate
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|33/100 brn|[from] brn
+|upkeep
+|
+|t:|1641847154
+|switch|p2a: Devastate|Scizor, M|100/100
+|-damage|p2a: Devastate|76/100|[from] Spikes
+|-damage|p2a: Devastate|63/100|[from] Stealth Rock
+|turn|51
+|
+|t:|1641847165
+|move|p2a: Devastate|Bullet Punch|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|-heal|p2a: Devastate|67/100|[from] item: Shell Bell|[of] p1: Weavile
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641847172
+|switch|p1a: Ferrothorn|Ferrothorn, M|53/100 par
+|turn|52
+|
+|t:|1641847175
+|move|p2a: Devastate|Swords Dance|p2a: Devastate
+|-boost|p2a: Devastate|atk|2
+|move|p1a: Ferrothorn|Leech Seed|p2a: Devastate
+|-start|p2a: Devastate|move: Leech Seed
+|
+|-weather|none
+|-heal|p1a: Ferrothorn|59/100 par|[from] item: Leftovers
+|-damage|p2a: Devastate|55/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|69/100 par|[silent]
+|upkeep
+|turn|53
+|
+|t:|1641847184
+|move|p2a: Devastate|Swords Dance|p2a: Devastate
+|-boost|p2a: Devastate|atk|2
+|move|p1a: Ferrothorn|Knock Off|p2a: Devastate
+|-crit|p2a: Devastate
+|-damage|p2a: Devastate|13/100
+|-enditem|p2a: Devastate|Shell Bell|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|75/100 par|[from] item: Leftovers
+|-damage|p2a: Devastate|1/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|85/100 par|[silent]
+|upkeep
+|turn|54
+|
+|t:|1641847193
+|move|p2a: Devastate|Assurance|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|24/100 par
+|-damage|p2a: Devastate|0 fnt|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p2a: Devastate
+|
+|win|Baked Applins
+|raw|Baked Applins's rating: 1029 &rarr; <strong>1064</strong><br />(+35 for winning)
+|raw|Legendary CryBaby's rating: 1022 &rarr; <strong>1009</strong><br />(-13 for losing)
+|c|☆Baked Applins|gg
+|l|☆Legendary CryBaby
+|c|☆Baked Applins|lol so lucky and still lost

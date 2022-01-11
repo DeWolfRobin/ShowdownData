@@ -1,0 +1,263 @@
+|j|☆rafaelperez24
+|j|☆l Axelock l
+|t:|1641837897
+|gametype|singles
+|player|p1|rafaelperez24|bruno|1093
+|player|p2|l Axelock l|palmer|1072
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tauros, M|
+|poke|p1|Buzzwole|
+|poke|p1|Corviknight, F|
+|poke|p1|Nidoking, M|
+|poke|p1|Thundurus, M|
+|poke|p1|Torkoal, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Rillaboom, M|
+|poke|p2|Zeraora|
+|poke|p2|Volcanion|
+|poke|p2|Blissey, F|
+|poke|p2|Melmetal|
+|teampreview
+|
+|t:|1641837906
+|start
+|switch|p1a: Tauros|Tauros, M|100/100
+|switch|p2a: Volcanion|Volcanion|100/100
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Volcanion|atk|1
+|turn|1
+|
+|t:|1641837919
+|move|p1a: Tauros|Earthquake|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|56/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Tauros
+|-damage|p1a: Tauros|21/100
+|-status|p1a: Tauros|brn
+|
+|-damage|p1a: Tauros|15/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641837930
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Tauros|Earthquake|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|97/100
+|
+|-heal|p1a: Tauros|21/100 brn|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|100/100|[from] Grassy Terrain
+|-damage|p1a: Tauros|15/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641837945
+|switch|p1a: Torkoal|Torkoal, F|100/100
+|move|p2a: Rillaboom|Superpower|p1a: Torkoal
+|-damage|p1a: Torkoal|53/100
+|-unboost|p2a: Rillaboom|atk|1
+|-unboost|p2a: Rillaboom|def|1
+|
+|-heal|p1a: Torkoal|59/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641837956
+|switch|p2a: Volcanion|Volcanion|56/100
+|move|p1a: Torkoal|Eruption|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|48/100
+|
+|-heal|p2a: Volcanion|54/100|[from] Grassy Terrain
+|-heal|p1a: Torkoal|65/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641837978
+|move|p2a: Volcanion|Steam Eruption|p1a: Torkoal
+|-supereffective|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|
+|-heal|p2a: Volcanion|60/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641837984
+|switch|p1a: Thundurus|Thundurus, M|100/100
+|turn|6
+|
+|t:|1641837996
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|100/100
+|move|p1a: Thundurus|Thunder|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|68/100
+|
+|-heal|p2a: Rillaboom|74/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1641838012
+|move|p2a: Rillaboom|Wood Hammer|p1a: Thundurus
+|-resisted|p1a: Thundurus
+|-damage|p1a: Thundurus|37/100
+|-damage|p2a: Rillaboom|55/100|[from] Recoil
+|move|p1a: Thundurus|Sludge Bomb|p2a: Rillaboom
+|-supereffective|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|
+|t:|1641838026
+|switch|p2a: Im speed ⚡|Zeraora|100/100
+|turn|8
+|
+|t:|1641838032
+|switch|p1a: Nidoking|Nidoking, M|100/100
+|move|p2a: Im speed ⚡|Play Rough|p1a: Nidoking
+|-resisted|p1a: Nidoking
+|-damage|p1a: Nidoking|83/100
+|-unboost|p1a: Nidoking|atk|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641838053
+|switch|p2a: Dragapult|Dragapult, M, shiny|100/100
+|move|p1a: Nidoking|Earthquake|p2a: Dragapult
+|-damage|p2a: Dragapult|64/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641838061
+|move|p2a: Dragapult|Draco Meteor|p1a: Nidoking|[miss]
+|-miss|p2a: Dragapult|p1a: Nidoking
+|move|p1a: Nidoking|Blizzard|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-crit|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641838071
+|switch|p2a: Volcanion|Volcanion|60/100
+|turn|11
+|
+|t:|1641838076
+|move|p1a: Nidoking|Blizzard|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|54/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Nidoking
+|-supereffective|p1a: Nidoking
+|-damage|p1a: Nidoking|0 fnt
+|faint|p1a: Nidoking
+|
+|upkeep
+|
+|t:|1641838084
+|switch|p1a: Thundurus|Thundurus, M|37/100
+|turn|12
+|
+|t:|1641838096
+|move|p1a: Thundurus|Focus Blast|p2a: Volcanion|[miss]
+|-miss|p1a: Thundurus|p2a: Volcanion
+|move|p2a: Volcanion|Sludge Bomb|p1a: Thundurus
+|-damage|p1a: Thundurus|2/100
+|-status|p1a: Thundurus|psn
+|
+|-damage|p1a: Thundurus|0 fnt|[from] psn
+|faint|p1a: Thundurus
+|upkeep
+|
+|t:|1641838105
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|turn|13
+|
+|t:|1641838111
+|move|p1a: Buzzwole|Leech Life|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|35/100
+|move|p2a: Volcanion|Flamethrower|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|upkeep
+|
+|t:|1641838118
+|switch|p1a: Tauros|Tauros, M|15/100 brn
+|-ability|p1a: Tauros|Intimidate|boost
+|-unboost|p2a: Volcanion|atk|1
+|turn|14
+|
+|t:|1641838127
+|move|p1a: Tauros|Earthquake|p2a: Volcanion
+|-supereffective|p2a: Volcanion
+|-damage|p2a: Volcanion|10/100
+|move|p2a: Volcanion|Earth Power|p1a: Tauros
+|-damage|p1a: Tauros|0 fnt
+|faint|p1a: Tauros
+|
+|upkeep
+|
+|t:|1641838134
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|turn|15
+|
+|t:|1641838139
+|move|p1a: Corviknight|Brave Bird|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|-damage|p1a: Corviknight|97/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641838145
+|switch|p2a: Im speed ⚡|Zeraora|100/100
+|turn|16
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by l Axelock l)
+|
+|t:|1641838165
+|move|p2a: Im speed ⚡|Plasma Fists|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|14/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p1a: Corviknight|Flash Cannon|p2a: Im speed ⚡
+|-resisted|p2a: Im speed ⚡
+|-damage|p2a: Im speed ⚡|89/100
+|
+|upkeep
+|turn|17
+|inactive|rafaelperez24 has 120 seconds left.
+|
+|t:|1641838203
+|move|p2a: Im speed ⚡|Plasma Fists|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Corviknight
+|
+|win|l Axelock l
+|raw|rafaelperez24's rating: 1093 &rarr; <strong>1068</strong><br />(-25 for losing)
+|raw|l Axelock l's rating: 1072 &rarr; <strong>1103</strong><br />(+31 for winning)
+|l|☆rafaelperez24
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

@@ -1,0 +1,198 @@
+|j|☆Zorostrat
+|j|☆test team 2
+|t:|1641830227
+|gametype|singles
+|player|p1|Zorostrat|plasmagrunt|1501
+|player|p2|test team 2|101|1481
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zeraora|
+|poke|p1|Blastoise, M|
+|poke|p1|Heatran, F|
+|poke|p1|Terrakion|
+|poke|p1|Dragapult, M|
+|poke|p1|Ferrothorn, M|
+|poke|p2|Jirachi|
+|poke|p2|Regieleki|
+|poke|p2|Garchomp, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Zapdos-Galar|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by test team 2)
+|
+|t:|1641830239
+|start
+|switch|p1a: Pierre-Matthéo|Dragapult, M|100/100
+|switch|p2a: Jirachi|Jirachi|100/100
+|turn|1
+|
+|t:|1641830252
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|move|p1a: Pierre-Matthéo|Flamethrower|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641830260
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|2
+|
+|t:|1641830268
+|move|p1a: Pierre-Matthéo|Flamethrower|p2a: Zapdos
+|-damage|p2a: Zapdos|54/100
+|move|p2a: Zapdos|Brave Bird|p1a: Pierre-Matthéo
+|-damage|p1a: Pierre-Matthéo|0 fnt
+|faint|p1a: Pierre-Matthéo
+|-damage|p2a: Zapdos|21/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641830278
+|switch|p1a: Moïse|Zeraora|100/100
+|turn|3
+|
+|t:|1641830286
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|move|p1a: Moïse|Knock Off|p2a: Volcarona
+|-damage|p2a: Volcarona|41/100
+|-status|p1a: Moïse|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|-enditem|p2a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Moïse
+|-damage|p1a: Moïse|91/100 brn|[from] item: Life Orb
+|
+|-damage|p1a: Moïse|85/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641830297
+|switch|p2a: Zapdos|Zapdos-Galar|21/100
+|move|p1a: Moïse|Volt Switch|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|-damage|p1a: Moïse|75/100 brn|[from] item: Life Orb
+|
+|t:|1641830313
+|switch|p1a: Mathéa|Heatran, F|100/100|[from]move: Volt Switch
+|
+|upkeep
+|
+|t:|1641830318
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|5
+|
+|t:|1641830323
+|move|p2a: Garchomp|Earthquake|p1a: Mathéa
+|-supereffective|p1a: Mathéa
+|-damage|p1a: Mathéa|0 fnt
+|faint|p1a: Mathéa
+|-damage|p2a: Garchomp|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641830325
+|switch|p1a: Bertrand|Ferrothorn, M|100/100
+|turn|6
+|
+|t:|1641830329
+|switch|p2a: Volcarona|Volcarona, M|41/100
+|move|p1a: Bertrand|Substitute|p1a: Bertrand
+|-start|p1a: Bertrand|Substitute
+|-damage|p1a: Bertrand|76/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641830337
+|move|p2a: Volcarona|Flamethrower|p1a: Bertrand
+|-supereffective|p1a: Bertrand
+|-end|p1a: Bertrand|Substitute
+|move|p1a: Bertrand|Gyro Ball|p2a: Volcarona
+|-resisted|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|-status|p1a: Bertrand|brn|[from] ability: Flame Body|[of] p2a: Volcarona
+|faint|p2a: Volcarona
+|
+|-damage|p1a: Bertrand|70/100 brn|[from] brn
+|upkeep
+|
+|t:|1641830348
+|switch|p2a: Garchomp|Garchomp, M|91/100
+|turn|8
+|
+|t:|1641830351
+|move|p2a: Garchomp|Earthquake|p1a: Bertrand
+|-damage|p1a: Bertrand|29/100 brn
+|-damage|p2a: Garchomp|81/100|[from] item: Life Orb
+|move|p1a: Bertrand|Leech Seed|p2a: Garchomp|[miss]
+|-miss|p1a: Bertrand|p2a: Garchomp
+|
+|-damage|p1a: Bertrand|23/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641830358
+|move|p2a: Garchomp|Earthquake|p1a: Bertrand
+|-damage|p1a: Bertrand|0 fnt
+|faint|p1a: Bertrand
+|-damage|p2a: Garchomp|71/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641830365
+|switch|p1a: Emma|Terrakion|100/100
+|turn|10
+|
+|t:|1641830369
+|switch|p2a: Jirachi|Jirachi|100/100
+|move|p1a: Emma|Close Combat|p2a: Jirachi
+|-damage|p2a: Jirachi|42/100
+|-unboost|p1a: Emma|def|1
+|-unboost|p1a: Emma|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641830376
+|move|p1a: Emma|Close Combat|p2a: Jirachi
+|-crit|p2a: Jirachi
+|-damage|p2a: Jirachi|0 fnt
+|-unboost|p1a: Emma|def|1
+|-unboost|p1a: Emma|spd|1
+|faint|p2a: Jirachi
+|
+|upkeep
+|
+|t:|1641830380
+|switch|p2a: Regieleki|Regieleki|100/100
+|turn|12
+|
+|t:|1641830391
+|switch|p2a: Garchomp|Garchomp, M|71/100
+|move|p1a: Emma|Close Combat|p2a: Garchomp
+|-damage|p2a: Garchomp|11/100
+|-unboost|p1a: Emma|def|1
+|-unboost|p1a: Emma|spd|1
+|-damage|p1a: Emma|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|upkeep
+|turn|13
+|-message|test team 2 forfeited.
+|
+|win|Zorostrat
+|raw|Zorostrat's rating: 1501 &rarr; <strong>1520</strong><br />(+19 for winning)
+|raw|test team 2's rating: 1481 &rarr; <strong>1462</strong><br />(-19 for losing)
+|l|☆test team 2

@@ -1,0 +1,418 @@
+|j|☆Mufasa_vii
+|j|☆Baraka city
+|t:|1641760323
+|gametype|singles
+|player|p1|Mufasa_vii|juggler|1180
+|player|p2|Baraka city|harlequin|1164
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gengar, F|
+|poke|p1|Stakataka|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Golisopod, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Salamence, F|
+|poke|p2|Bisharp, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Garchomp, F|
+|poke|p2|Mew|
+|poke|p2|Zapdos-Galar|
+|teampreview
+|
+|t:|1641760330
+|start
+|switch|p1a: Gengar|Gengar, F|100/100
+|switch|p2a: Mew|Mew|100/100
+|turn|1
+|
+|t:|1641760347
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|move|p1a: Gengar|Shadow Ball|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|44/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641760359
+|move|p2a: Bisharp|Sucker Punch|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-crit|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|upkeep
+|
+|t:|1641760378
+|switch|p1a: Stakataka|Stakataka|100/100
+|turn|3
+|
+|t:|1641760430
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|
+|upkeep
+|turn|4
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mufasa_vii)
+|inactive|Mufasa_vii has 120 seconds left.
+|
+|t:|1641760484
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|-ability|p2a: Zapdos|Defiant
+|-boost|p2a: Zapdos|atk|2
+|move|p2a: Zapdos|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|75/100
+|
+|t:|1641760501
+|switch|p2a: Mew|Mew|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|5
+|
+|t:|1641760510
+|move|p2a: Mew|Stealth Rock|p1a: Landorus
+|-sidestart|p1: Mufasa_vii|move: Stealth Rock
+|move|p1a: Landorus|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-crit|p2a: Mew
+|-damage|p2a: Mew|19/100
+|-enditem|p2a: Mew|Focus Sash|[from] move: Knock Off|[of] p1a: Landorus
+|
+|upkeep
+|turn|6
+|
+|t:|1641760523
+|move|p2a: Mew|Close Combat|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|61/100
+|-unboost|p2a: Mew|def|1
+|-unboost|p2a: Mew|spd|1
+|move|p1a: Landorus|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|upkeep
+|inactive|Baraka city has 120 seconds left.
+|
+|t:|1641760551
+|switch|p2a: Zapdos|Zapdos-Galar|100/100
+|turn|7
+|inactive|Baraka city has 120 seconds left.
+|
+|t:|1641760578
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p2a: Zapdos|Brave Bird|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|46/100
+|-damage|p2a: Zapdos|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Zapdos|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|-damage|p2a: Zapdos|54/100|[from] Recoil
+|
+|upkeep
+|turn|8
+|
+|t:|1641760595
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|move|p1a: Ferrothorn|Leech Seed|p2a: Garchomp
+|-start|p2a: Garchomp|move: Leech Seed
+|
+|-damage|p2a: Garchomp|88/100|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|59/100|[silent]
+|upkeep
+|turn|9
+|
+|t:|1641760606
+|switch|p1a: Salamence|Salamence, F|100/100
+|-damage|p1a: Salamence|76/100|[from] Stealth Rock
+|-ability|p1a: Salamence|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|-damage|p2a: Garchomp|76/100|[from] Leech Seed|[of] p1a: Salamence
+|-heal|p1a: Salamence|89/100|[silent]
+|upkeep
+|turn|10
+|
+|t:|1641760633
+|move|p2a: Garchomp|Scale Shot|p1a: Salamence
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|25/100
+|-supereffective|p1a: Salamence
+|-damage|p1a: Salamence|0 fnt
+|faint|p1a: Salamence
+|-hitcount|p1: Salamence|2
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|-damage|p2a: Garchomp|66/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641760650
+|switch|p1a: Landorus|Landorus-Therian, M|61/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|turn|11
+|
+|t:|1641760660
+|move|p2a: Garchomp|Scale Shot|p1a: Landorus
+|-damage|p1a: Landorus|44/100
+|-damage|p1a: Landorus|26/100
+|-damage|p1a: Landorus|9/100
+|-hitcount|p1a: Landorus|3
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|-damage|p2a: Garchomp|56/100|[from] item: Life Orb
+|move|p1a: Landorus|Toxic|p2a: Garchomp
+|-status|p2a: Garchomp|tox
+|
+|-damage|p2a: Garchomp|44/100 tox|[from] Leech Seed|[of] p1a: Landorus
+|-heal|p1a: Landorus|20/100|[silent]
+|-damage|p2a: Garchomp|38/100 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|Baraka city has 90 seconds left.
+|
+|t:|1641760687
+|switch|p1a: Ferrothorn|Ferrothorn, M|59/100
+|-damage|p1a: Ferrothorn|52/100|[from] Stealth Rock
+|move|p2a: Garchomp|Scale Shot|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|48/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|43/100
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|37/100
+|-hitcount|p1a: Ferrothorn|3
+|-unboost|p2a: Garchomp|def|1
+|-boost|p2a: Garchomp|spe|1
+|-damage|p2a: Garchomp|28/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Garchomp|16/100 tox|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|50/100|[silent]
+|-damage|p2a: Garchomp|3/100 tox|[from] psn
+|upkeep
+|turn|13
+|inactive|Baraka city has 90 seconds left.
+|
+|t:|1641760706
+|switch|p1a: Landorus|Landorus-Therian, M|20/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|move|p2a: Garchomp|Fire Fang|p1a: Landorus
+|-damage|p1a: Landorus|2/100
+|-damage|p2a: Garchomp|0 fnt|[from] item: Life Orb
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641760732
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|14
+|
+|t:|1641760741
+|switch|p1a: Ferrothorn|Ferrothorn, M|50/100
+|-damage|p1a: Ferrothorn|44/100|[from] Stealth Rock
+|move|p2a: Rillaboom|Grassy Glide|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|32/100
+|-damage|p2a: Rillaboom|88/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Rillaboom|72/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|-heal|p2a: Rillaboom|78/100|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|39/100|[from] Grassy Terrain
+|upkeep
+|turn|15
+|
+|t:|1641760758
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Dragapult
+|-status|p2a: Dragapult|par
+|
+|-heal|p1a: Ferrothorn|45/100|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641760768
+|cant|p2a: Dragapult|par
+|move|p1a: Ferrothorn|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|41/100 par
+|-enditem|p2a: Dragapult|Leftovers|[from] move: Knock Off|[of] p1a: Ferrothorn
+|
+|-heal|p2a: Dragapult|47/100 par|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|51/100|[from] Grassy Terrain
+|upkeep
+|turn|17
+|
+|t:|1641760786
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|move|p1a: Ferrothorn|Leech Seed|p2a: Dragapult|[miss]
+|-miss|p1a: Ferrothorn|p2a: Dragapult
+|
+|-heal|p1a: Ferrothorn|57/100|[from] Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1641760793
+|move|p2a: Dragapult|Phantom Force|p1a: Ferrothorn|[from]lockedmove
+|-damage|p1a: Ferrothorn|29/100
+|-damage|p2a: Dragapult|34/100 par|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Dragapult|18/100 par|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Dragapult
+|-start|p2a: Dragapult|move: Leech Seed
+|
+|-heal|p2a: Dragapult|24/100 par|[from] Grassy Terrain
+|-heal|p1a: Ferrothorn|35/100|[from] Grassy Terrain
+|-damage|p2a: Dragapult|12/100 par|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|46/100|[silent]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|19
+|
+|t:|1641760807
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|-damage|p2a: Dragapult|0 fnt|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|56/100|[silent]
+|faint|p2a: Dragapult
+|upkeep
+|inactive|Baraka city has 60 seconds left.
+|
+|t:|1641760830
+|switch|p2a: Rillaboom|Rillaboom, M|78/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|20
+|
+|t:|1641760836
+|switch|p1a: Landorus|Landorus-Therian, M|2/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Rillaboom|atk|1
+|move|p2a: Rillaboom|Drain Punch|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-heal|p2a: Rillaboom|79/100|[from] drain|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|-heal|p2a: Rillaboom|85/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641760848
+|switch|p1a: Golisopod|Golisopod, F|100/100
+|-damage|p1a: Golisopod|76/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641760857
+|switch|p2a: Zapdos|Zapdos-Galar|54/100
+|move|p1a: Golisopod|First Impression|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|36/100
+|-damage|p1a: Golisopod|66/100|[from] item: Life Orb
+|
+|-heal|p1a: Golisopod|72/100|[from] Grassy Terrain
+|upkeep
+|turn|22
+|
+|t:|1641760873
+|switch|p1a: Ferrothorn|Ferrothorn, M|56/100
+|-damage|p1a: Ferrothorn|50/100|[from] Stealth Rock
+|move|p2a: Zapdos|Drill Peck|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|17/100
+|-damage|p2a: Zapdos|23/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Zapdos|7/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|23/100|[from] Grassy Terrain
+|upkeep
+|turn|23
+|
+|t:|1641760885
+|move|p2a: Zapdos|Drill Peck|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Zapdos|0 fnt|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641760907
+|switch|p2a: Bisharp|Bisharp, M|44/100
+|switch|p1a: Stakataka|Stakataka|100/100
+|-damage|p1a: Stakataka|94/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641760929
+|move|p2a: Bisharp|Knock Off|p1a: Stakataka
+|-damage|p1a: Stakataka|57/100
+|-enditem|p1a: Stakataka|Leftovers|[from] move: Knock Off|[of] p2a: Bisharp
+|move|p1a: Stakataka|Trick Room|p1a: Stakataka
+|-fieldstart|move: Trick Room|[of] p1a: Stakataka
+|
+|-heal|p1a: Stakataka|63/100|[from] Grassy Terrain
+|-heal|p2a: Bisharp|50/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|25
+|
+|t:|1641760941
+|switch|p2a: Rillaboom|Rillaboom, M|85/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Stakataka|Body Press|p2a: Rillaboom
+|-crit|p2a: Rillaboom
+|-damage|p2a: Rillaboom|28/100
+|
+|-heal|p1a: Stakataka|69/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|34/100|[from] Grassy Terrain
+|upkeep
+|turn|26
+|inactive|Baraka city has 60 seconds left.
+|
+|t:|1641760970
+|move|p2a: Rillaboom|Grassy Glide|p1a: Stakataka
+|-damage|p1a: Stakataka|27/100
+|move|p1a: Stakataka|Body Press|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|-ability|p1a: Stakataka|Beast Boost|boost
+|-boost|p1a: Stakataka|def|1
+|
+|-heal|p1a: Stakataka|33/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641760981
+|switch|p2a: Bisharp|Bisharp, M|50/100
+|turn|27
+|
+|t:|1641760985
+|move|p2a: Bisharp|Sucker Punch|p1a: Stakataka
+|-damage|p1a: Stakataka|15/100
+|move|p1a: Stakataka|Body Press|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|win|Mufasa_vii
+|raw|Mufasa_vii's rating: 1180 &rarr; <strong>1204</strong><br />(+24 for winning)
+|raw|Baraka city's rating: 1164 &rarr; <strong>1140</strong><br />(-24 for losing)
+|l|☆Baraka city
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

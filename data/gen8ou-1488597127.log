@@ -1,0 +1,225 @@
+|j|☆FODASETODOSTOPUTO
+|j|☆brxyx
+|t:|1641787075
+|gametype|singles
+|player|p1|FODASETODOSTOPUTO|shauntal|
+|player|p2|brxyx|flannery|
+|teamsize|p1|6
+|teamsize|p2|3
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zeraora|
+|poke|p1|Absol, M|
+|poke|p1|Haxorus, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Celebi|
+|poke|p1|Incineroar, F|
+|poke|p2|Zoroark, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Decidueye, F|
+|teampreview
+|c|☆brxyx|jao?
+|c|☆FODASETODOSTOPUTO|BURRO
+|c|☆brxyx|mds
+|c|☆FODASETODOSTOPUTO|vamo brayan
+|c|☆FODASETODOSTOPUTO|ta com medo?
+|c|☆brxyx|vai me fude
+|
+|t:|1641787126
+|start
+|switch|p1a: Celebi|Celebi, shiny|100/100
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|1
+|
+|t:|1641787135
+|move|p2a: Garchomp|Fire Blast|p1a: Celebi
+|-supereffective|p1a: Celebi
+|-damage|p1a: Celebi|63/100
+|move|p1a: Celebi|Psychic|p2a: Garchomp
+|-damage|p2a: Garchomp|74/100
+|
+|-heal|p2a: Garchomp|80/100|[from] item: Leftovers
+|-heal|p1a: Celebi|70/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641787148
+|switch|p1a: Incineroar|Incineroar, F, shiny|100/100
+|move|p2a: Garchomp|Fire Blast|p1a: Incineroar
+|-resisted|p1a: Incineroar
+|-damage|p1a: Incineroar|90/100
+|
+|-heal|p2a: Garchomp|86/100|[from] item: Leftovers
+|-heal|p1a: Incineroar|96/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641787160
+|-singleturn|p1a: Incineroar|move: Focus Punch
+|move|p2a: Garchomp|Earthquake|p1a: Incineroar
+|-supereffective|p1a: Incineroar
+|-damage|p1a: Incineroar|0 fnt
+|faint|p1a: Incineroar
+|
+|-heal|p2a: Garchomp|93/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641787169
+|switch|p1a: Haxorus|Haxorus, M, shiny|100/100
+|turn|4
+|
+|t:|1641787181
+|move|p2a: Garchomp|Dragon Pulse|p1a: Haxorus
+|-supereffective|p1a: Haxorus
+|-damage|p1a: Haxorus|38/100
+|move|p1a: Haxorus|Draco Meteor|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-crit|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-unboost|p1a: Haxorus|spa|2
+|faint|p2a: Garchomp
+|
+|-heal|p1a: Haxorus|44/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641787191
+|switch|p2a: Decidueye|Decidueye, F|100/100
+|turn|5
+|
+|t:|1641787206
+|switch|p1a: Landorus|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Decidueye|atk|1
+|move|p2a: Decidueye|Focus Blast|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|84/100
+|
+|-heal|p1a: Landorus|90/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641787222
+|move|p2a: Decidueye|Focus Blast|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|73/100
+|move|p1a: Landorus|Sludge Bomb|p2a: Decidueye
+|-damage|p2a: Decidueye|68/100
+|replace|p2a: Zoroark|Zoroark, F
+|-end|p2a: Zoroark|Illusion
+|
+|-heal|p2a: Zoroark|75/100|[from] item: Leftovers
+|-heal|p1a: Landorus|79/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641787234
+|move|p2a: Zoroark|Flamethrower|p1a: Landorus
+|-damage|p1a: Landorus|51/100
+|move|p1a: Landorus|Sludge Bomb|p2a: Zoroark
+|-damage|p2a: Zoroark|41/100
+|
+|-heal|p2a: Zoroark|47/100|[from] item: Leftovers
+|-heal|p1a: Landorus|57/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641787247
+|move|p2a: Zoroark|Flamethrower|p1a: Landorus
+|-damage|p1a: Landorus|33/100
+|move|p1a: Landorus|Psychic|p2a: Zoroark
+|-immune|p2a: Zoroark
+|
+|-heal|p2a: Zoroark|53/100|[from] item: Leftovers
+|-heal|p1a: Landorus|39/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641787261
+|move|p2a: Zoroark|Flamethrower|p1a: Landorus
+|-damage|p1a: Landorus|14/100
+|move|p1a: Landorus|Sludge Wave|p2a: Zoroark
+|-damage|p2a: Zoroark|17/100
+|
+|-heal|p2a: Zoroark|24/100|[from] item: Leftovers
+|-heal|p1a: Landorus|20/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641787271
+|move|p2a: Zoroark|Flamethrower|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-heal|p2a: Zoroark|30/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641787278
+|switch|p1a: Zeraora|Zeraora, shiny|100/100
+|turn|11
+|
+|t:|1641787307
+|move|p1a: Zeraora|Blaze Kick|p2a: Zoroark
+|-damage|p2a: Zoroark|0 fnt
+|faint|p2a: Zoroark
+|
+|upkeep
+|
+|t:|1641787314
+|switch|p2a: Decidueye|Decidueye, F|100/100
+|turn|12
+|
+|t:|1641787320
+|move|p1a: Zeraora|Blaze Kick|p2a: Decidueye
+|-supereffective|p2a: Decidueye
+|-damage|p2a: Decidueye|34/100
+|move|p2a: Decidueye|Shadow Ball|p1a: Zeraora
+|-damage|p1a: Zeraora|72/100
+|
+|-heal|p1a: Zeraora|78/100|[from] item: Leftovers
+|-heal|p2a: Decidueye|40/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641787332
+|move|p1a: Zeraora|Aura Sphere|p2a: Decidueye
+|-immune|p2a: Decidueye
+|move|p2a: Decidueye|Leaf Storm|p1a: Zeraora|[miss]
+|-miss|p2a: Decidueye|p1a: Zeraora
+|
+|-heal|p1a: Zeraora|84/100|[from] item: Leftovers
+|-heal|p2a: Decidueye|46/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641787342
+|move|p1a: Zeraora|Thunder Punch|p2a: Decidueye
+|-resisted|p2a: Decidueye
+|-damage|p2a: Decidueye|24/100
+|move|p2a: Decidueye|Hurricane|p1a: Zeraora
+|-resisted|p1a: Zeraora
+|-damage|p1a: Zeraora|72/100
+|
+|-heal|p1a: Zeraora|78/100|[from] item: Leftovers
+|-heal|p2a: Decidueye|30/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641787352
+|move|p1a: Zeraora|Blaze Kick|p2a: Decidueye
+|-supereffective|p2a: Decidueye
+|-crit|p2a: Decidueye
+|-damage|p2a: Decidueye|0 fnt
+|faint|p2a: Decidueye
+|
+|win|FODASETODOSTOPUTO
+|c|☆FODASETODOSTOPUTO|I Z I
+|l|☆brxyx

@@ -1,0 +1,514 @@
+|j|☆sl21cc jialing
+|j|☆SL21CC Pichiu
+|t:|1641740340
+|gametype|singles
+|player|p1|sl21cc jialing|bellelba|1255
+|player|p2|SL21CC Pichiu|elesa|1238
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Arctozolt|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowking, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Zapdos|
+|poke|p2|Toxapex, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Weavile, F|
+|poke|p2|Melmetal|
+|teampreview
+|j| jingtianlangtaosha
+|j| water GH0ST
+|j|♚aro nova
+|j| adreamew
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Pichiu)
+|
+|t:|1641740397
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|
+|t:|1641740415
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|move|p2a: Slowking|Sludge Bomb|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|87/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Landorus|81/100|[from] Hail
+|-damage|p2a: Slowking|94/100|[from] Hail
+|-heal|p1a: Landorus|87/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641740428
+|move|p1a: Landorus|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|71/100
+|
+|t:|1641740432
+|switch|p1a: Slowking|Slowking, F|100/100|[from]move: U-turn
+|move|p2a: Slowking|Future Sight|p1a: Slowking
+|-start|p2a: Slowking|move: Future Sight
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowking|65/100|[from] Hail
+|-damage|p1a: Slowking|94/100|[from] Hail
+|upkeep
+|turn|3
+|
+|t:|1641740438
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Slowking|atk|1
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641740447
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from]move: Teleport
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tornadus|94/100|[from] Hail
+|-damage|p2a: Landorus|94/100|[from] Hail
+|-heal|p2a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|j| 9skythunderouskick
+|
+|t:|1641740451
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: Tornadus|Knock Off|p2a: Melmetal
+|-damage|p2a: Melmetal|89/100
+|-enditem|p2a: Melmetal|Protective Pads|[from] move: Knock Off|[of] p1a: Tornadus
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tornadus|88/100|[from] Hail
+|-damage|p2a: Melmetal|82/100|[from] Hail
+|-end|p1a: Tornadus|move: Future Sight
+|-damage|p1a: Tornadus|50/100
+|upkeep
+|turn|5
+|l| 9skythunderouskick
+|
+|t:|1641740462
+|move|p1a: Tornadus|U-turn|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-crit|p2a: Melmetal
+|-damage|p2a: Melmetal|76/100
+|
+|t:|1641740465
+|switch|p1a: Slowking|Slowking, F|100/100|[from]move: U-turn
+|move|p2a: Melmetal|Double Iron Bash|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|85/100
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|-hitcount|p1a: Slowking|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Melmetal|70/100|[from] Hail
+|-damage|p1a: Slowking|62/100|[from] Hail
+|upkeep
+|turn|6
+|
+|t:|1641740468
+|move|p2a: Melmetal|Double Iron Bash|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|46/100
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|28/100
+|-hitcount|p1a: Slowking|2
+|cant|p1a: Slowking|flinch
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Melmetal|63/100|[from] Hail
+|-damage|p1a: Slowking|22/100|[from] Hail
+|upkeep
+|turn|7
+|
+|t:|1641740486
+|move|p2a: Melmetal|Double Iron Bash|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|6/100
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|faint|p1a: Slowking
+|-hitcount|p1: Slowking|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Melmetal|57/100|[from] Hail
+|upkeep
+|
+|t:|1641740489
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|8
+|
+|t:|1641740494
+|switch|p2a: Slowking|Slowking-Galar, F|98/100
+|move|p1a: Urshifu|Close Combat|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|74/100
+|-unboost|p1a: Urshifu|def|1
+|-unboost|p1a: Urshifu|spd|1
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641740502
+|switch|p1a: Landorus|Landorus-Therian, M|87/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|
+|-heal|p1a: Landorus|93/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641740507
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Weavile|Triple Axel|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|96/100
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|85/100
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|71/100
+|-hitcount|p1a: Urshifu|3
+|
+|upkeep
+|turn|11
+|inactive|sl21cc jialing has 120 seconds left.
+|
+|t:|1641740541
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Urshifu|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|89/100
+|-damage|p1a: Urshifu|54/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|
+|t:|1641740544
+|switch|p1a: Arctozolt|Arctozolt|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|12
+|
+|t:|1641740554
+|switch|p2a: Melmetal|Melmetal|57/100
+|move|p1a: Arctozolt|Blizzard|p2a: Melmetal|[miss]
+|-miss|p1a: Arctozolt|p2a: Melmetal
+|
+|upkeep
+|turn|13
+|
+|t:|1641740568
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|54/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|32/100
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|8/100
+|-hitcount|p1a: Urshifu|2
+|
+|upkeep
+|turn|14
+|
+|t:|1641740580
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|move|p1a: Urshifu|U-turn|p2a: Slowking
+|-damage|p2a: Slowking|61/100
+|
+|t:|1641740584
+|switch|p1a: Arctozolt|Arctozolt|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|15
+|
+|t:|1641740590
+|move|p1a: Arctozolt|Bolt Beak|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|upkeep
+|
+|t:|1641740595
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|16
+|
+|t:|1641740599
+|move|p2a: Weavile|Knock Off|p1a: Arctozolt
+|-damage|p1a: Arctozolt|44/100
+|-enditem|p1a: Arctozolt|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Weavile
+|move|p1a: Arctozolt|Low Kick|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|upkeep
+|j| 9skythunderouskick
+|
+|t:|1641740605
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Arctozolt|atk|1
+|turn|17
+|
+|t:|1641740616
+|switch|p1a: Tornadus|Tornadus-Therian, M|83/100
+|move|p2a: Landorus|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: sl21cc jialing|move: Stealth Rock
+|
+|upkeep
+|turn|18
+|
+|t:|1641740621
+|move|p1a: Tornadus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|94/100
+|
+|t:|1641740622
+|switch|p1a: Landorus|Landorus-Therian, M|93/100|[from]move: U-turn
+|-damage|p1a: Landorus|81/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-heal|p2a: Landorus|99/100|[from] item: Leftovers
+|-heal|p1a: Landorus|87/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|81/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641740625
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|74/100 tox
+|j| tianyutulongwu
+|
+|t:|1641740627
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|move|p1a: Landorus|Defog|p2a: Zapdos
+|-unboost|p2a: Zapdos|evasion|1
+|-sideend|p1: sl21cc jialing|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|-heal|p1a: Landorus|80/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|68/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641740631
+|move|p2a: Zapdos|Hurricane|p1a: Landorus|[miss]
+|-miss|p2a: Zapdos|p1a: Landorus
+|move|p1a: Landorus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|88/100
+|
+|t:|1641740634
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Zapdos|82/100|[from] Hail
+|upkeep
+|turn|21
+|
+|t:|1641740638
+|move|p1a: Ninetales|Blizzard|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641740641
+|switch|p2a: Melmetal|Melmetal|57/100
+|turn|22
+|
+|t:|1641740649
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Tornadus
+|-damage|p1a: Tornadus|55/100
+|-damage|p1a: Tornadus|6/100
+|-hitcount|p1a: Tornadus|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tornadus|0 fnt|[from] Hail
+|-damage|p2a: Melmetal|51/100|[from] Hail
+|faint|p1a: Tornadus
+|upkeep
+|
+|t:|1641740654
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|8/100
+|turn|23
+|
+|t:|1641740665
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Urshifu|U-turn|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|89/100
+|-damage|p1a: Urshifu|0 fnt|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|faint|p1a: Urshifu
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|83/100|[from] Hail
+|upkeep
+|
+|t:|1641740669
+|switch|p1a: Arctozolt|Arctozolt|44/100
+|turn|24
+|
+|t:|1641740674
+|switch|p2a: Landorus|Landorus-Therian, M|99/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Arctozolt|atk|1
+|move|p1a: Arctozolt|Substitute|p1a: Arctozolt
+|-start|p1a: Arctozolt|Substitute
+|-damage|p1a: Arctozolt|19/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Landorus|94/100|[from] Hail
+|-heal|p2a: Landorus|99/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641740684
+|switch|p2a: Melmetal|Melmetal|51/100
+|move|p1a: Arctozolt|Bolt Beak|p2a: Melmetal
+|-damage|p2a: Melmetal|22/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Melmetal|16/100|[from] Hail
+|upkeep
+|turn|26
+|
+|t:|1641740693
+|move|p1a: Arctozolt|Bolt Beak|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641740701
+|switch|p2a: Landorus|Landorus-Therian, M|99/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-immune|p1a: Arctozolt
+|turn|27
+|
+|t:|1641740705
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|move|p1a: Arctozolt|Blizzard|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|86/100
+|
+|-weather|none
+|upkeep
+|turn|28
+|
+|t:|1641740717
+|switch|p1a: Landorus|Landorus-Therian, M|68/100 tox
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|move|p2a: Toxapex|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|41/100 tox
+|
+|-heal|p1a: Landorus|47/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|41/100 tox|[from] psn
+|upkeep
+|turn|29
+|
+|t:|1641740726
+|switch|p2a: Landorus|Landorus-Therian, M|99/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Landorus|atk|1
+|move|p1a: Landorus|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-heal|p2a: Landorus|100/100|[from] item: Leftovers
+|-heal|p1a: Landorus|47/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|35/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641740741
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: sl21cc jialing|move: Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|93/100
+|
+|t:|1641740743
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100|[from]move: U-turn
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Landorus|87/100|[from] Hail
+|-heal|p2a: Landorus|93/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641740755
+|move|p1a: Ninetales|Nasty Plot|p1a: Ninetales
+|-boost|p1a: Ninetales|spa|2
+|move|p2a: Landorus|U-turn|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|58/100
+|
+|t:|1641740757
+|switch|p2a: Toxapex|Toxapex, F|100/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|94/100|[from] Hail
+|upkeep
+|turn|32
+|
+|t:|1641740764
+|move|p1a: Ninetales|Freeze-Dry|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641740767
+|switch|p2a: Landorus|Landorus-Therian, M|93/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Ninetales|atk|1
+|turn|33
+|
+|t:|1641740771
+|move|p1a: Ninetales|Freeze-Dry|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|win|sl21cc jialing
+|raw|sl21cc jialing's rating: 1255 &rarr; <strong>1270</strong><br />(+15 for winning)
+|raw|SL21CC Pichiu's rating: 1238 &rarr; <strong>1222</strong><br />(-16 for losing)
+|l| water GH0ST
+|l|☆SL21CC Pichiu
+|j| water GH0ST
+|l| water GH0ST
+|l| jingtianlangtaosha

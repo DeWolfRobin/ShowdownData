@@ -1,0 +1,408 @@
+|j|☆MobiMolle
+|j|☆churrolite92
+|t:|1641842926
+|gametype|singles
+|player|p1|MobiMolle|170|1318
+|player|p2|churrolite92|schoolkid-gen4|1341
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Regieleki|
+|poke|p1|Zapdos-Galar|
+|poke|p1|Garchomp, M|
+|poke|p1|Melmetal|
+|poke|p1|Tapu Koko|
+|poke|p1|Blissey, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Mew|
+|poke|p2|Kartana|
+|poke|p2|Volcarona, F|
+|poke|p2|Blissey, F|
+|poke|p2|Corsola-Galar, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MobiMolle)
+|c|☆MobiMolle|Gl
+|l|☆MobiMolle
+|inactive|MobiMolle disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆MobiMolle
+|inactive|MobiMolle reconnected.
+|player|p1|MobiMolle|170
+|
+|t:|1641842946
+|start
+|switch|p1a: Cocoa|Tapu Koko, shiny|100/100
+|switch|p2a: Builder|Grimmsnarl, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Cocoa
+|turn|1
+|c|☆churrolite92|u2
+|
+|t:|1641842955
+|move|p2a: Builder|Taunt|p1a: Cocoa
+|-start|p1a: Cocoa|move: Taunt
+|move|p1a: Cocoa|U-turn|p2a: Builder
+|-damage|p2a: Builder|82/100
+|
+|t:|1641842961
+|switch|p1a: King Kittan|Regieleki, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641842967
+|move|p2a: Builder|Light Screen|p2a: Builder
+|-sidestart|p2: churrolite92|move: Light Screen
+|move|p1a: King Kittan|Rising Voltage|p2a: Builder
+|-damage|p2a: Builder|30/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641842974
+|move|p2a: Builder|Reflect|p2a: Builder
+|-sidestart|p2: churrolite92|Reflect
+|move|p1a: King Kittan|Rising Voltage|p2a: Builder
+|-damage|p2a: Builder|0 fnt
+|faint|p2a: Builder
+|
+|upkeep
+|
+|t:|1641842977
+|switch|p2a: Exterminator|Volcarona, F|100/100
+|turn|4
+|
+|t:|1641842983
+|move|p1a: King Kittan|Rising Voltage|p2a: Exterminator
+|-damage|p2a: Exterminator|34/100
+|move|p2a: Exterminator|Fiery Dance|p1a: King Kittan
+|-damage|p1a: King Kittan|16/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641842990
+|switch|p2a: Nurse|Blissey, F, shiny|100/100
+|move|p1a: King Kittan|Rising Voltage|p2a: Nurse
+|-damage|p2a: Nurse|77/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641842997
+|move|p1a: King Kittan|Volt Switch|p2a: Nurse
+|-damage|p2a: Nurse|65/100
+|
+|t:|1641843022
+|switch|p1a: Death Race|Zapdos-Galar|100/100|[from]move: Volt Switch
+|move|p2a: Nurse|Wish|p2a: Nurse
+|
+|upkeep
+|turn|7
+|
+|t:|1641843045
+|move|p1a: Death Race|U-turn|p2a: Nurse
+|-damage|p2a: Nurse|50/100
+|
+|t:|1641843048
+|switch|p1a: Opposite of joy|Blissey, F|100/100|[from]move: U-turn
+|move|p2a: Nurse|Counter|p1a: Opposite of joy
+|-damage|p1a: Opposite of joy|69/100
+|
+|-heal|p2a: Nurse|99/100|[from] move: Wish|[wisher] Nurse
+|-heal|p1a: Opposite of joy|76/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641843071
+|switch|p2a: Entrepreneur|Mew, shiny|100/100
+|move|p1a: Opposite of joy|Toxic|p2a: Entrepreneur
+|-status|p2a: Entrepreneur|tox
+|-activate|p2a: Entrepreneur|ability: Synchronize
+|-status|p1a: Opposite of joy|tox
+|-enditem|p2a: Entrepreneur|Lum Berry|[eat]
+|-curestatus|p2a: Entrepreneur|tox|[msg]
+|
+|-heal|p1a: Opposite of joy|82/100 tox|[from] item: Leftovers
+|-damage|p1a: Opposite of joy|76/100 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|9
+|
+|t:|1641843086
+|move|p2a: Entrepreneur|Imprison|p2a: Entrepreneur
+|-start|p2a: Entrepreneur|move: Imprison
+|move|p1a: Opposite of joy|Teleport|p1a: Opposite of joy
+|
+|t:|1641843094
+|-curestatus|p1a: Opposite of joy|tox|[from] ability: Natural Cure
+|switch|p1a: Cocoa|Tapu Koko, shiny|100/100|[from]move: Teleport
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Cocoa
+|
+|-sideend|p2: churrolite92|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641843106
+|move|p1a: Cocoa|U-turn|p2a: Entrepreneur
+|-supereffective|p2a: Entrepreneur
+|-damage|p2a: Entrepreneur|86/100
+|
+|t:|1641843114
+|switch|p1a: Armstron|Melmetal|100/100|[from]move: U-turn
+|move|p2a: Entrepreneur|Transform|p1a: Armstron
+|-transform|p2a: Entrepreneur|p1a: Armstron
+|
+|-sideend|p2: churrolite92|Reflect
+|upkeep
+|turn|11
+|inactive|MobiMolle has 120 seconds left.
+|c|☆MobiMolle|Oooh that's smart
+|
+|t:|1641843138
+|switch|p1a: Kisame|Garchomp, M|100/100
+|move|p2a: Entrepreneur|Ice Punch|p1a: Kisame
+|-supereffective|p1a: Kisame
+|-damage|p1a: Kisame|0 fnt
+|-damage|p2a: Entrepreneur|73/100|[from] ability: Rough Skin|[of] p1a: Kisame
+|-damage|p2a: Entrepreneur|57/100|[from] item: Rocky Helmet|[of] p1a: Kisame
+|faint|p1a: Kisame
+|
+|upkeep
+|
+|t:|1641843148
+|switch|p1a: King Kittan|Regieleki, shiny|16/100
+|turn|12
+|
+|t:|1641843153
+|move|p1a: King Kittan|Rising Voltage|p2a: Entrepreneur
+|-damage|p2a: Entrepreneur|0 fnt
+|faint|p2a: Entrepreneur
+|
+|upkeep
+|
+|t:|1641843161
+|switch|p2a: Nurse|Blissey, F, shiny|99/100
+|turn|13
+|
+|t:|1641843164
+|move|p1a: King Kittan|Volt Switch|p2a: Nurse
+|-damage|p2a: Nurse|76/100
+|
+|t:|1641843170
+|switch|p1a: Death Race|Zapdos-Galar|100/100|[from]move: Volt Switch
+|move|p2a: Nurse|Toxic|p1a: Death Race
+|-status|p1a: Death Race|tox
+|
+|-damage|p1a: Death Race|94/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641843181
+|switch|p2a: Mortician|Corsola-Galar, F, shiny|100/100
+|move|p1a: Death Race|Brave Bird|p2a: Mortician
+|-damage|p2a: Mortician|43/100
+|-start|p1a: Death Race|Disable|Brave Bird|[from] ability: Cursed Body|[of] p2a: Mortician
+|-damage|p1a: Death Race|75/100 tox|[from] Recoil
+|
+|-damage|p1a: Death Race|63/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641843195
+|switch|p1a: King Kittan|Regieleki, shiny|16/100
+|move|p2a: Mortician|Strength Sap|p1a: King Kittan
+|-unboost|p1a: King Kittan|atk|1
+|-heal|p2a: Mortician|100/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641843203
+|move|p1a: King Kittan|Thunderbolt|p2a: Mortician
+|-damage|p2a: Mortician|56/100
+|-status|p2a: Mortician|par
+|move|p2a: Mortician|Mirror Coat|p1a: King Kittan
+|-damage|p1a: King Kittan|0 fnt
+|faint|p1a: King Kittan
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641843215
+|switch|p1a: Death Race|Zapdos-Galar|63/100 tox
+|turn|17
+|
+|t:|1641843219
+|switch|p2a: Exterminator|Volcarona, F|34/100
+|move|p1a: Death Race|Brave Bird|p2a: Exterminator
+|-supereffective|p2a: Exterminator
+|-damage|p2a: Exterminator|0 fnt
+|faint|p2a: Exterminator
+|-damage|p1a: Death Race|52/100 tox|[from] Recoil
+|
+|-damage|p1a: Death Race|46/100 tox|[from] psn
+|upkeep
+|
+|t:|1641843226
+|switch|p2a: Lumberjack|Kartana, shiny|100/100
+|turn|18
+|
+|t:|1641843242
+|switch|p1a: Cocoa|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Cocoa
+|move|p2a: Lumberjack|Psycho Cut|p1a: Cocoa
+|-damage|p1a: Cocoa|58/100
+|
+|upkeep
+|turn|19
+|inactive|churrolite92 has 120 seconds left.
+|
+|t:|1641843274
+|move|p1a: Cocoa|U-turn|p2a: Lumberjack
+|-damage|p2a: Lumberjack|82/100
+|
+|t:|1641843278
+|switch|p1a: Armstron|Melmetal|100/100|[from]move: U-turn
+|move|p2a: Lumberjack|Knock Off|p1a: Armstron
+|-damage|p1a: Armstron|79/100
+|-enditem|p1a: Armstron|Assault Vest|[from] move: Knock Off|[of] p2a: Lumberjack
+|
+|upkeep
+|turn|20
+|
+|t:|1641843288
+|switch|p2a: Mortician|Corsola-Galar, F, shiny|56/100 par
+|move|p1a: Armstron|Ice Punch|p2a: Mortician
+|-damage|p2a: Mortician|33/100 par
+|-start|p1a: Armstron|Disable|Ice Punch|[from] ability: Cursed Body|[of] p2a: Mortician
+|
+|upkeep
+|turn|21
+|
+|t:|1641843295
+|move|p1a: Armstron|Double Iron Bash|p2a: Mortician
+|-damage|p2a: Mortician|6/100 par
+|-damage|p2a: Mortician|0 fnt
+|faint|p2a: Mortician
+|-hitcount|p2: Mortician|2
+|
+|upkeep
+|
+|t:|1641843299
+|switch|p2a: Lumberjack|Kartana, shiny|82/100
+|turn|22
+|
+|t:|1641843305
+|move|p2a: Lumberjack|Sacred Sword|p1a: Armstron
+|-supereffective|p1a: Armstron
+|-damage|p1a: Armstron|37/100
+|move|p1a: Armstron|Earthquake|p2a: Lumberjack
+|-damage|p2a: Lumberjack|38/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641843312
+|switch|p1a: Cocoa|Tapu Koko, shiny|58/100
+|move|p2a: Lumberjack|Sacred Sword|p1a: Cocoa
+|-resisted|p1a: Cocoa
+|-damage|p1a: Cocoa|30/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641843320
+|switch|p2a: Nurse|Blissey, F, shiny|76/100
+|move|p1a: Cocoa|U-turn|p2a: Nurse
+|-crit|p2a: Nurse
+|-damage|p2a: Nurse|55/100
+|
+|t:|1641843330
+|switch|p1a: Death Race|Zapdos-Galar|46/100 tox|[from]move: U-turn
+|
+|-damage|p1a: Death Race|40/100 tox|[from] psn
+|upkeep
+|turn|25
+|c|☆MobiMolle|Gg
+|c|☆churrolite92|gg
+|
+|t:|1641843350
+|move|p1a: Death Race|Close Combat|p2a: Nurse
+|-supereffective|p2a: Nurse
+|-damage|p2a: Nurse|0 fnt
+|-unboost|p1a: Death Race|def|1
+|-unboost|p1a: Death Race|spd|1
+|faint|p2a: Nurse
+|
+|-damage|p1a: Death Race|27/100 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641843353
+|switch|p2a: Lumberjack|Kartana, shiny|38/100
+|turn|26
+|
+|t:|1641843362
+|move|p2a: Lumberjack|Smart Strike|p1a: Death Race
+|-damage|p1a: Death Race|0 fnt
+|faint|p1a: Death Race
+|-ability|p2a: Lumberjack|Beast Boost|boost
+|-boost|p2a: Lumberjack|atk|1
+|
+|upkeep
+|
+|t:|1641843369
+|switch|p1a: Cocoa|Tapu Koko, shiny|30/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Cocoa
+|turn|27
+|
+|t:|1641843373
+|move|p1a: Cocoa|U-turn|p2a: Lumberjack
+|-damage|p2a: Lumberjack|20/100
+|
+|t:|1641843376
+|switch|p1a: Armstron|Melmetal|37/100|[from]move: U-turn
+|move|p2a: Lumberjack|Smart Strike|p1a: Armstron
+|-resisted|p1a: Armstron
+|-crit|p1a: Armstron
+|-damage|p1a: Armstron|7/100
+|
+|upkeep
+|turn|28
+|
+|t:|1641843384
+|move|p2a: Lumberjack|Sacred Sword|p1a: Armstron
+|-supereffective|p1a: Armstron
+|-damage|p1a: Armstron|0 fnt
+|faint|p1a: Armstron
+|-ability|p2a: Lumberjack|Beast Boost|boost
+|-boost|p2a: Lumberjack|atk|1
+|
+|upkeep
+|
+|t:|1641843391
+|switch|p1a: Cocoa|Tapu Koko, shiny|30/100
+|turn|29
+|
+|t:|1641843394
+|move|p1a: Cocoa|Thunderbolt|p2a: Lumberjack
+|-resisted|p2a: Lumberjack
+|-damage|p2a: Lumberjack|0 fnt
+|faint|p2a: Lumberjack
+|
+|win|MobiMolle
+|raw|MobiMolle's rating: 1318 &rarr; <strong>1339</strong><br />(+21 for winning)
+|raw|churrolite92's rating: 1341 &rarr; <strong>1320</strong><br />(-21 for losing)
+|c|☆churrolite92|gg
+|l|☆churrolite92
+|c|☆MobiMolle|Gg

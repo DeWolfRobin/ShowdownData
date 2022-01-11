@@ -1,0 +1,312 @@
+|j|☆Dragalover
+|j|☆DumbLick1337
+|t:|1641832281
+|gametype|singles
+|player|p1|Dragalover|steven|1394
+|player|p2|DumbLick1337|102|1326
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Shuckle, F|
+|poke|p1|Kartana|
+|poke|p1|Latios, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Blacephalon|
+|poke|p2|Seismitoad, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, F|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Hippowdon, M|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641832292
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|1
+|
+|t:|1641832303
+|switch|p1a: Shuckle|Shuckle, F|100/100
+|move|p2a: rotomheat|Overheat|p1a: Shuckle
+|-damage|p1a: Shuckle|62/100
+|-unboost|p2a: rotomheat|spa|2
+|-enditem|p1a: Shuckle|Red Card|[of] p2a: rotomheat
+|drag|p2a: Hatterene|Hatterene, F|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641832306
+|move|p2a: Hatterene|Psychic|p1a: Shuckle
+|-damage|p1a: Shuckle|31/100
+|move|p1a: Shuckle|Infestation|p2a: Hatterene
+|-damage|p2a: Hatterene|99/100
+|-activate|p2a: Hatterene|move: Infestation|[of] p1a: Shuckle
+|
+|-damage|p2a: Hatterene|87/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1641832323
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: Hatterene|Psychic|p1a: Latios
+|-resisted|p1a: Latios
+|-damage|p1a: Latios|75/100
+|
+|-end|p2a: Hatterene|Infestation|[partiallytrapped]|[silent]
+|upkeep
+|turn|4
+|
+|t:|1641832337
+|move|p1a: Latios|Mystical Fire|p2a: Hatterene
+|-damage|p2a: Hatterene|71/100
+|-unboost|p2a: Hatterene|spa|1
+|move|p2a: Hatterene|Draining Kiss|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|37/100
+|-heal|p2a: Hatterene|99/100|[from] drain|[of] p1a: Latios
+|
+|upkeep
+|turn|5
+|
+|t:|1641832342
+|move|p1a: Latios|Mystical Fire|p2a: Hatterene
+|-damage|p2a: Hatterene|82/100
+|-unboost|p2a: Hatterene|spa|1
+|move|p2a: Hatterene|Psychic|p1a: Latios
+|-resisted|p1a: Latios
+|-crit|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1641832352
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|6
+|
+|t:|1641832355
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Blacephalon|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|55/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|94/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641832359
+|move|p1a: Blacephalon|Taunt|p2a: Hippowdon
+|-start|p2a: Hippowdon|move: Taunt
+|cant|p2a: Hippowdon|move: Taunt|Slack Off
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|88/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641832363
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Blacephalon|Will-O-Wisp|p2a: Corviknight
+|-status|p2a: Corviknight|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|82/100|[from] Sandstorm
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641832367
+|move|p1a: Blacephalon|Flamethrower|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|76/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641832367
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|turn|10
+|
+|t:|1641832371
+|move|p1a: Blacephalon|Shadow Ball|p2a: Seismitoad
+|-damage|p2a: Seismitoad|13/100
+|move|p2a: Seismitoad|Liquidation|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|-weather|none
+|upkeep
+|
+|t:|1641832382
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Seismitoad|atk|1
+|turn|11
+|
+|t:|1641832383
+|switch|p2a: Hippowdon|Hippowdon, M|55/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Landorus|U-turn|p2a: Hippowdon
+|-damage|p2a: Hippowdon|40/100
+|-damage|p1a: Landorus|84/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|
+|t:|1641832386
+|switch|p1a: Kartana|Kartana|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641832388
+|switch|p2a: Seismitoad|Seismitoad, F|13/100
+|move|p1a: Kartana|Leaf Blade|p2a: Seismitoad
+|-supereffective|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641832388
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|13
+|
+|t:|1641832394
+|move|p2a: Dragapult|Shadow Ball|p1a: Kartana
+|-enditem|p1a: Kartana|Focus Sash
+|-damage|p1a: Kartana|1/100
+|move|p1a: Kartana|Knock Off|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-enditem|p2a: Dragapult|Choice Specs|[from] move: Knock Off|[of] p1a: Kartana
+|faint|p2a: Dragapult
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641832394
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|14
+|
+|t:|1641832397
+|move|p2a: rotomheat|Overheat|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|-unboost|p2a: rotomheat|spa|2
+|faint|p1a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: rotomheat|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641832400
+|switch|p1a: Landorus|Landorus-Therian, M|84/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: rotomheat|atk|1
+|turn|15
+|
+|t:|1641832401
+|move|p2a: rotomheat|Overheat|p1a: Landorus
+|-damage|p1a: Landorus|46/100
+|-unboost|p2a: rotomheat|spa|2
+|move|p1a: Landorus|Stone Edge|p2a: rotomheat
+|-supereffective|p2a: rotomheat
+|-crit|p2a: rotomheat
+|-damage|p2a: rotomheat|0 fnt
+|faint|p2a: rotomheat
+|
+|-weather|none
+|upkeep
+|
+|t:|1641832401
+|switch|p2a: Hatterene|Hatterene, F|82/100
+|turn|16
+|
+|t:|1641832406
+|switch|p1a: Shuckle|Shuckle, F|31/100
+|move|p2a: Hatterene|Psychic|p1a: Shuckle
+|-damage|p1a: Shuckle|3/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641832411
+|move|p2a: Hatterene|Draining Kiss|p1a: Shuckle
+|-damage|p1a: Shuckle|0 fnt
+|-heal|p2a: Hatterene|83/100|[from] drain|[of] p1a: Shuckle
+|faint|p1a: Shuckle
+|
+|upkeep
+|
+|t:|1641832413
+|switch|p1a: Landorus|Landorus-Therian, M|46/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Hatterene|atk|1
+|turn|18
+|
+|t:|1641832414
+|move|p1a: Landorus|Earthquake|p2a: Hatterene
+|-damage|p2a: Hatterene|7/100
+|move|p2a: Hatterene|Psychic|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641832416
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|19
+|
+|t:|1641832418
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|-damage|p1a: Tapu Koko|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641832418
+|switch|p2a: Hippowdon|Hippowdon, M|40/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|20
+|
+|t:|1641832420
+|move|p1a: Tapu Koko|Grass Knot|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|-damage|p1a: Tapu Koko|74/100|[from] item: Rocky Helmet|[of] p2a: Hippowdon
+|faint|p2a: Hippowdon
+|-damage|p1a: Tapu Koko|64/100|[from] item: Life Orb
+|
+|win|Dragalover
+|raw|Dragalover's rating: 1394 &rarr; <strong>1410</strong><br />(+16 for winning)
+|raw|DumbLick1337's rating: 1326 &rarr; <strong>1310</strong><br />(-16 for losing)
+|c|☆DumbLick1337|gg

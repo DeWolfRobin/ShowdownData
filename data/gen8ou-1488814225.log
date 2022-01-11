@@ -1,0 +1,503 @@
+|j|☆DumbLick1337
+|j|☆Zetious
+|t:|1641824986
+|gametype|singles
+|player|p1|DumbLick1337|102|1257
+|player|p2|Zetious|170|1322
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Rotom-Heat|
+|poke|p1|Corviknight, F|
+|poke|p1|Clefable, M|
+|poke|p1|Seismitoad, F|
+|poke|p1|Hydreigon, F|
+|poke|p1|Gyarados, M|
+|poke|p2|Mimikyu, M|
+|poke|p2|Rotom-Wash|
+|poke|p2|Cloyster, M|
+|poke|p2|Victini|
+|poke|p2|Celesteela|
+|poke|p2|Gastrodon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Zetious)
+|c|☆DumbLick1337|hf
+|inactive|DumbLick1337 also wants the timer to be on.
+|
+|t:|1641824995
+|start
+|switch|p1a: rotomheat|Rotom-Heat|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1641824998
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|move|p2a: Rotom|Hydro Pump|p1a: Hydreigon|[miss]
+|-miss|p2a: Rotom|p1a: Hydreigon
+|
+|upkeep
+|turn|2
+|
+|t:|1641825019
+|switch|p2a: Celesteela|Celesteela|100/100
+|move|p1a: Hydreigon|Dark Pulse|p2a: Celesteela
+|-damage|p2a: Celesteela|75/100
+|
+|-heal|p2a: Celesteela|81/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641825025
+|move|p1a: Hydreigon|Dark Pulse|p2a: Celesteela
+|-damage|p2a: Celesteela|58/100
+|move|p2a: Celesteela|Leech Seed|p1a: Hydreigon
+|-start|p1a: Hydreigon|move: Leech Seed
+|
+|-heal|p2a: Celesteela|64/100|[from] item: Leftovers
+|-damage|p1a: Hydreigon|88/100|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|74/100|[silent]
+|upkeep
+|turn|4
+|
+|t:|1641825031
+|switch|p1a: Seismitoad|Seismitoad, F|100/100
+|move|p2a: Celesteela|Protect||[still]
+|-fail|p2a: Celesteela
+|
+|-heal|p2a: Celesteela|80/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641825033
+|move|p1a: Seismitoad|Stealth Rock|p2a: Celesteela
+|-sidestart|p2: Zetious|move: Stealth Rock
+|move|p2a: Celesteela|Leech Seed|p1a: Seismitoad
+|-start|p1a: Seismitoad|move: Leech Seed
+|
+|-heal|p2a: Celesteela|86/100|[from] item: Leftovers
+|-damage|p1a: Seismitoad|88/100|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|99/100|[silent]
+|upkeep
+|turn|6
+|
+|t:|1641825042
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|move|p2a: Celesteela|Heavy Slam|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|78/100
+|
+|-heal|p1a: Gyarados|84/100|[from] item: Leftovers
+|-heal|p2a: Celesteela|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641825053
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Celesteela|Leech Seed|p1a: Gyarados
+|-start|p1a: Gyarados|move: Leech Seed
+|
+|-heal|p1a: Gyarados|90/100|[from] item: Leftovers
+|-damage|p1a: Gyarados|78/100|[from] Leech Seed|[of] p2a: Celesteela
+|upkeep
+|turn|8
+|
+|t:|1641825074
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Celesteela|Heavy Slam|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|55/100
+|
+|-heal|p1a: Gyarados|61/100|[from] item: Leftovers
+|-damage|p1a: Gyarados|49/100|[from] Leech Seed|[of] p2a: Celesteela
+|upkeep
+|turn|9
+|
+|t:|1641825084
+|move|p1a: Gyarados|Waterfall|p2a: Celesteela
+|-damage|p2a: Celesteela|32/100
+|move|p2a: Celesteela|Flamethrower|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|38/100
+|-status|p1a: Gyarados|brn
+|
+|-heal|p1a: Gyarados|44/100 brn|[from] item: Leftovers
+|-heal|p2a: Celesteela|38/100|[from] item: Leftovers
+|-damage|p1a: Gyarados|32/100 brn|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|49/100|[silent]
+|-damage|p1a: Gyarados|26/100 brn|[from] brn
+|upkeep
+|turn|10
+|
+|t:|1641825093
+|move|p2a: Celesteela|Protect|p2a: Celesteela
+|-singleturn|p2a: Celesteela|Protect
+|move|p1a: Gyarados|Waterfall|p2a: Celesteela
+|-activate|p2a: Celesteela|move: Protect
+|
+|-heal|p1a: Gyarados|32/100 brn|[from] item: Leftovers
+|-heal|p2a: Celesteela|55/100|[from] item: Leftovers
+|-damage|p1a: Gyarados|20/100 brn|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|65/100|[silent]
+|-damage|p1a: Gyarados|13/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641825104
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|move|p1a: Gyarados|Waterfall|p2a: Gastrodon
+|-ability|p2a: Gastrodon|Storm Drain|boost
+|-boost|p2a: Gastrodon|spa|1
+|
+|-heal|p1a: Gyarados|20/100 brn|[from] item: Leftovers
+|-damage|p1a: Gyarados|7/100 brn|[from] Leech Seed|[of] p2a: Gastrodon
+|-heal|p2a: Gastrodon|100/100|[silent]
+|-damage|p1a: Gyarados|1/100 brn|[from] brn
+|upkeep
+|turn|12
+|
+|t:|1641825120
+|switch|p2a: Celesteela|Celesteela|65/100
+|-damage|p2a: Celesteela|53/100|[from] Stealth Rock
+|move|p1a: Gyarados|Power Whip|p2a: Celesteela
+|-resisted|p2a: Celesteela
+|-damage|p2a: Celesteela|44/100
+|
+|-heal|p1a: Gyarados|7/100 brn|[from] item: Leftovers
+|-heal|p2a: Celesteela|50/100|[from] item: Leftovers
+|-damage|p1a: Gyarados|0 fnt|[from] Leech Seed|[of] p2a: Celesteela
+|-heal|p2a: Celesteela|56/100|[silent]
+|faint|p1a: Gyarados
+|upkeep
+|
+|t:|1641825120
+|switch|p1a: rotomheat|Rotom-Heat|100/100
+|turn|13
+|
+|t:|1641825138
+|move|p2a: Celesteela|Protect|p2a: Celesteela
+|-singleturn|p2a: Celesteela|Protect
+|move|p1a: rotomheat|Overheat|p2a: Celesteela
+|-activate|p2a: Celesteela|move: Protect
+|
+|-heal|p2a: Celesteela|62/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641825144
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|-damage|p2a: Rotom|88/100|[from] Stealth Rock
+|move|p1a: rotomheat|Overheat|p2a: Rotom
+|-resisted|p2a: Rotom
+|-damage|p2a: Rotom|55/100
+|-unboost|p1a: rotomheat|spa|2
+|
+|upkeep
+|turn|15
+|
+|t:|1641825152
+|move|p1a: rotomheat|Volt Switch|p2a: Rotom
+|-damage|p2a: Rotom|37/100
+|
+|t:|1641825152
+|switch|p1a: Hydreigon|Hydreigon, F|88/100|[from]move: Volt Switch
+|move|p2a: Rotom|Volt Switch|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|65/100
+|
+|t:|1641825163
+|switch|p2a: Mimikyu|Mimikyu, M|100/100|[from]move: Volt Switch
+|-damage|p2a: Mimikyu|88/100|[from] Stealth Rock
+|
+|upkeep
+|turn|16
+|
+|t:|1641825165
+|switch|p1a: Seismitoad|Seismitoad, F|88/100
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|
+|-heal|p1a: Seismitoad|94/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641825168
+|move|p2a: Mimikyu|Play Rough|p1a: Seismitoad
+|-damage|p1a: Seismitoad|32/100
+|-damage|p2a: Mimikyu|78/100|[from] item: Life Orb
+|move|p1a: Seismitoad|Scald|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|78/100
+|-status|p2a: Mimikyu|brn
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, M
+|-damage|p2a: Mimikyu|66/100 brn|[from] pokemon: Mimikyu-Busted
+|
+|-heal|p1a: Seismitoad|38/100|[from] item: Leftovers
+|-damage|p2a: Mimikyu|60/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641825175
+|move|p2a: Mimikyu|Play Rough|p1a: Seismitoad|[miss]
+|-miss|p2a: Mimikyu|p1a: Seismitoad
+|move|p1a: Seismitoad|Earthquake|p2a: Mimikyu
+|-damage|p2a: Mimikyu|3/100 brn
+|
+|-heal|p1a: Seismitoad|44/100|[from] item: Leftovers
+|-damage|p2a: Mimikyu|0 fnt|[from] brn
+|faint|p2a: Mimikyu
+|upkeep
+|
+|t:|1641825183
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|-damage|p2a: Cloyster|76/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641825185
+|move|p2a: Cloyster|Rapid Spin|p1a: Seismitoad
+|-damage|p1a: Seismitoad|33/100
+|-boost|p2a: Cloyster|spe|1
+|-sideend|p2: Zetious|Stealth Rock|[from] move: Rapid Spin|[of] p2a: Cloyster
+|move|p1a: Seismitoad|Scald|p2a: Cloyster
+|-resisted|p2a: Cloyster
+|-damage|p2a: Cloyster|44/100
+|-status|p2a: Cloyster|brn
+|
+|-heal|p1a: Seismitoad|39/100|[from] item: Leftovers
+|-damage|p2a: Cloyster|37/100 brn|[from] brn
+|upkeep
+|turn|20
+|
+|t:|1641825193
+|move|p2a: Cloyster|Icicle Spear|p1a: Seismitoad
+|-damage|p1a: Seismitoad|36/100
+|-damage|p1a: Seismitoad|32/100
+|-damage|p1a: Seismitoad|28/100
+|-damage|p1a: Seismitoad|24/100
+|-damage|p1a: Seismitoad|20/100
+|-hitcount|p1a: Seismitoad|5
+|move|p1a: Seismitoad|Stealth Rock|p2a: Cloyster
+|-sidestart|p2: Zetious|move: Stealth Rock
+|
+|-heal|p1a: Seismitoad|26/100|[from] item: Leftovers
+|-damage|p2a: Cloyster|31/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641825202
+|move|p2a: Cloyster|Icicle Spear|p1a: Seismitoad
+|-damage|p1a: Seismitoad|22/100
+|-damage|p1a: Seismitoad|19/100
+|-crit|p1a: Seismitoad
+|-damage|p1a: Seismitoad|13/100
+|-damage|p1a: Seismitoad|9/100
+|-damage|p1a: Seismitoad|5/100
+|-hitcount|p1a: Seismitoad|5
+|move|p1a: Seismitoad|Earthquake|p2a: Cloyster
+|-damage|p2a: Cloyster|1/100 brn
+|
+|-heal|p1a: Seismitoad|11/100|[from] item: Leftovers
+|-damage|p2a: Cloyster|0 fnt|[from] brn
+|faint|p2a: Cloyster
+|upkeep
+|
+|t:|1641825215
+|switch|p2a: Victini|Victini|100/100
+|-damage|p2a: Victini|76/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641825217
+|switch|p1a: rotomheat|Rotom-Heat|100/100
+|move|p2a: Victini|U-turn|p1a: rotomheat
+|-resisted|p1a: rotomheat
+|-damage|p1a: rotomheat|85/100
+|
+|t:|1641825222
+|switch|p2a: Gastrodon|Gastrodon, M|100/100|[from]move: U-turn
+|-damage|p2a: Gastrodon|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|23
+|
+|t:|1641825225
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Gastrodon|Ice Beam|p1a: Clefable
+|-damage|p1a: Clefable|72/100
+|
+|-heal|p1a: Clefable|78/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641825232
+|switch|p2a: Celesteela|Celesteela|62/100
+|-damage|p2a: Celesteela|49/100|[from] Stealth Rock
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-heal|p1a: Clefable|84/100|[from] item: Leftovers
+|-heal|p2a: Celesteela|56/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641825237
+|move|p1a: Clefable|Thunder Wave|p2a: Celesteela
+|-status|p2a: Celesteela|par
+|move|p2a: Celesteela|Heavy Slam|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|6/100
+|
+|-heal|p1a: Clefable|56/100|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Clefable|62/100|[from] item: Leftovers
+|-heal|p2a: Celesteela|62/100 par|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641825245
+|move|p1a: Clefable|Protect|p1a: Clefable
+|-singleturn|p1a: Clefable|Protect
+|move|p2a: Celesteela|Heavy Slam|p1a: Clefable
+|-activate|p1a: Clefable|move: Protect
+|
+|-heal|p1a: Clefable|68/100|[from] item: Leftovers
+|-heal|p2a: Celesteela|68/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641825247
+|switch|p1a: rotomheat|Rotom-Heat|85/100
+|move|p2a: Celesteela|Heavy Slam|p1a: rotomheat
+|-resisted|p1a: rotomheat
+|-crit|p1a: rotomheat
+|-damage|p1a: rotomheat|65/100
+|
+|-heal|p2a: Celesteela|74/100 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641825253
+|cant|p2a: Celesteela|par
+|move|p1a: rotomheat|Volt Switch|p2a: Celesteela
+|-supereffective|p2a: Celesteela
+|-damage|p2a: Celesteela|34/100 par
+|
+|t:|1641825253
+|switch|p1a: Hydreigon|Hydreigon, F|65/100|[from]move: Volt Switch
+|
+|-heal|p2a: Celesteela|40/100 par|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641825261
+|move|p1a: Hydreigon|Dark Pulse|p2a: Celesteela
+|-damage|p2a: Celesteela|14/100 par
+|cant|p2a: Celesteela|par
+|
+|-heal|p2a: Celesteela|20/100 par|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641825267
+|move|p2a: Celesteela|Protect|p2a: Celesteela
+|-singleturn|p2a: Celesteela|Protect
+|move|p1a: Hydreigon|Dark Pulse|p2a: Celesteela
+|-activate|p2a: Celesteela|move: Protect
+|
+|-heal|p2a: Celesteela|26/100 par|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641825274
+|switch|p2a: Gastrodon|Gastrodon, M|94/100
+|-damage|p2a: Gastrodon|88/100|[from] Stealth Rock
+|move|p1a: Hydreigon|Dark Pulse|p2a: Gastrodon
+|-damage|p2a: Gastrodon|47/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641825281
+|switch|p1a: Clefable|Clefable, M|68/100
+|move|p2a: Gastrodon|Ice Beam|p1a: Clefable
+|-damage|p1a: Clefable|37/100
+|
+|-heal|p1a: Clefable|43/100|[from] item: Leftovers
+|upkeep
+|turn|33
+|
+|t:|1641825289
+|switch|p2a: Victini|Victini|76/100
+|-damage|p2a: Victini|51/100|[from] Stealth Rock
+|move|p1a: Clefable|Wish|p1a: Clefable
+|
+|-heal|p1a: Clefable|49/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641825295
+|move|p1a: Clefable|Protect|p1a: Clefable
+|-singleturn|p1a: Clefable|Protect
+|move|p2a: Victini|V-create|p1a: Clefable
+|-activate|p1a: Clefable|move: Protect
+|
+|-heal|p1a: Clefable|99/100|[from] move: Wish|[wisher] Clefable
+|-heal|p1a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|35
+|
+|t:|1641825297
+|switch|p1a: Seismitoad|Seismitoad, F|11/100
+|move|p2a: Victini|V-create|p1a: Seismitoad
+|-resisted|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|faint|p1a: Seismitoad
+|
+|upkeep
+|
+|t:|1641825297
+|switch|p1a: Hydreigon|Hydreigon, F|65/100
+|turn|36
+|
+|t:|1641825305
+|switch|p2a: Celesteela|Celesteela|26/100 par
+|-damage|p2a: Celesteela|14/100 par|[from] Stealth Rock
+|move|p1a: Hydreigon|Dark Pulse|p2a: Celesteela
+|-damage|p2a: Celesteela|0 fnt
+|faint|p2a: Celesteela
+|
+|upkeep
+|
+|t:|1641825313
+|switch|p2a: Victini|Victini|51/100
+|-damage|p2a: Victini|26/100|[from] Stealth Rock
+|turn|37
+|
+|t:|1641825315
+|move|p1a: Hydreigon|Dark Pulse|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|faint|p2a: Victini
+|
+|upkeep
+|-message|Zetious forfeited.
+|
+|win|DumbLick1337
+|raw|DumbLick1337's rating: 1257 &rarr; <strong>1287</strong><br />(+30 for winning)
+|raw|Zetious's rating: 1322 &rarr; <strong>1298</strong><br />(-24 for losing)
+|c|☆DumbLick1337|gg
+|l|☆Zetious

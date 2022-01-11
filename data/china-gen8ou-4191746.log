@@ -1,0 +1,243 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC sadfrog
+|j|☆SL21CC KFC嫩牛五方
+|t:|1641825012
+|gametype|singles
+|player|p1|SL21CC sadfrog|170|1233
+|player|p2|SL21CC KFC嫩牛五方|baker|1313
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Weavile, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Victini|
+|poke|p1|Tapu Fini|
+|poke|p2|Melmetal|
+|poke|p2|Cresselia, F|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Porygon2|
+|poke|p2|Marowak-Alola, F|
+|teampreview
+|
+|t:|1641825026
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC sadfrog)
+|j| adreamew
+|
+|t:|1641825060
+|move|p1a: Tapu Lele|Moonblast|p2a: Hatterene
+|-damage|p2a: Hatterene|21/100
+|move|p2a: Hatterene|Trick Room|p2a: Hatterene
+|-fieldstart|move: Trick Room|[of] p2a: Hatterene
+|
+|upkeep
+|turn|2
+|
+|t:|1641825074
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Hatterene|Healing Wish|p2a: Hatterene
+|faint|p2a: Hatterene
+|
+|upkeep
+|j| eastnovel
+|j| sl21cckhl
+|inactive|SL21CC KFC嫩牛五方 has 120 seconds left.
+|
+|t:|1641825110
+|switch|p2a: Marowak|Marowak-Alola, F|100/100
+|turn|3
+|
+|t:|1641825121
+|move|p2a: Marowak|Swords Dance|p2a: Marowak
+|-boost|p2a: Marowak|atk|2
+|move|p1a: Tapu Fini|Surf|p2a: Marowak
+|-supereffective|p2a: Marowak
+|-damage|p2a: Marowak|27/100
+|
+|upkeep
+|turn|4
+|inactive|SL21CC KFC嫩牛五方 has 120 seconds left.
+|
+|t:|1641825158
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Marowak|Poltergeist|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Poltergeist|Leftovers
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641825161
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Marowak|atk|1
+|turn|5
+|
+|t:|1641825166
+|move|p2a: Marowak|Flare Blitz|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Marowak|11/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1641825173
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|6
+|j| jiokopg_fkok43
+|
+|t:|1641825180
+|switch|p2a: Porygon2|Porygon2|100/100
+|-ability|p2a: Porygon2|Download|boost
+|-boost|p2a: Porygon2|atk|1
+|move|p1a: Weavile|Knock Off|p2a: Porygon2
+|-damage|p2a: Porygon2|67/100
+|-enditem|p2a: Porygon2|Eviolite|[from] move: Knock Off|[of] p1a: Weavile
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|7
+|
+|t:|1641825184
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|move|p2a: Porygon2|Trick Room|p2a: Porygon2
+|-fieldstart|move: Trick Room|[of] p2a: Porygon2
+|
+|upkeep
+|turn|8
+|
+|t:|1641825190
+|move|p1a: Weavile|Triple Axel|p2a: Porygon2
+|-damage|p2a: Porygon2|48/100
+|-damage|p2a: Porygon2|10/100
+|-damage|p2a: Porygon2|0 fnt
+|faint|p2a: Porygon2
+|-hitcount|p2: Porygon2|3
+|
+|upkeep
+|
+|t:|1641825194
+|switch|p2a: Marowak|Marowak-Alola, F|11/100
+|-heal|p2a: Marowak|100/100|[from] move: Healing Wish
+|turn|9
+|
+|t:|1641825210
+|switch|p1a: Victini|Victini|100/100
+|move|p2a: Marowak|Flare Blitz|p1a: Victini
+|-resisted|p1a: Victini
+|-damage|p1a: Victini|44/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641825221
+|move|p2a: Marowak|Flare Blitz|p1a: Victini
+|-resisted|p1a: Victini
+|-damage|p1a: Victini|0 fnt
+|faint|p1a: Victini
+|
+|upkeep
+|
+|t:|1641825223
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|11
+|
+|t:|1641825230
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Tapu Fini|Surf|p2a: Cresselia
+|-damage|p2a: Cresselia|82/100
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|12
+|
+|t:|1641825243
+|move|p1a: Tapu Fini|Taunt|p2a: Cresselia
+|-start|p2a: Cresselia|move: Taunt
+|-enditem|p2a: Cresselia|Mental Herb
+|-end|p2a: Cresselia|move: Taunt
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|13
+|
+|t:|1641825249
+|move|p2a: Cresselia|Lunar Dance|p2a: Cresselia
+|faint|p2a: Cresselia
+|move|p1a: Tapu Fini|Taunt|p2: Cresselia|[notarget]
+|-fail|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641825251
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|14
+|
+|t:|1641825269
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Melmetal|Double Iron Bash|p1a: Tapu Lele
+|-supereffective|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|-hitcount|p1: Tapu Lele|1
+|
+|upkeep
+|
+|t:|1641825271
+|switch|p1a: Weavile|Weavile, F|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|15
+|
+|t:|1641825284
+|move|p2a: Melmetal|Double Iron Bash|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|-hitcount|p1: Weavile|1
+|
+|upkeep
+|
+|t:|1641825286
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|16
+|inactive|SL21CC KFC嫩牛五方 has 120 seconds left.
+|
+|t:|1641825323
+|move|p2a: Melmetal|Double Iron Bash|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|45/100
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|-hitcount|p1: Tapu Fini|2
+|
+|win|SL21CC KFC嫩牛五方
+|raw|SL21CC sadfrog's rating: 1233 &rarr; <strong>1220</strong><br />(-13 for losing)
+|raw|SL21CC KFC嫩牛五方's rating: 1302 &rarr; <strong>1315</strong><br />(+13 for winning)
+|l|☆SL21CC KFC嫩牛五方
+|l|☆SL21CC sadfrog
+|l| eastnovel
+|l| sl21cckhl

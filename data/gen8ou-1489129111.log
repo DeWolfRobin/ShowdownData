@@ -1,0 +1,323 @@
+|j|☆Neardnear
+|j|☆Aldeeran
+|t:|1641860468
+|gametype|singles
+|player|p1|Neardnear|cynthia|1071
+|player|p2|Aldeeran|acetrainersnow|1130
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Lycanroc-Dusk, M|
+|poke|p1|Moltres-Galar|
+|poke|p1|Tapu Bulu|
+|poke|p1|Scizor, M|
+|poke|p1|Garchomp, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Blaziken, M|
+|poke|p2|Togekiss, F|
+|poke|p2|Inteleon, M|
+|poke|p2|Nidoking, M|
+|poke|p2|Mew|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Aldeeran)
+|
+|t:|1641860475
+|start
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|turn|1
+|
+|t:|1641860482
+|move|p1a: Garchomp|Aqua Tail|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|9/100
+|move|p2a: Nidoking|Ice Beam|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641860491
+|switch|p1a: Tapu Bulu|Tapu Bulu|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tapu Bulu
+|turn|2
+|
+|t:|1641860497
+|move|p2a: Nidoking|Sludge Wave|p1a: Tapu Bulu
+|-supereffective|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|0 fnt
+|faint|p1a: Tapu Bulu
+|
+|-heal|p2a: Nidoking|15/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641860504
+|switch|p1a: Scizor|Scizor, M, shiny|100/100
+|turn|3
+|
+|t:|1641860508
+|move|p1a: Scizor|Bullet Punch|p2a: Nidoking
+|-damage|p2a: Nidoking|0 fnt
+|faint|p2a: Nidoking
+|
+|upkeep
+|
+|t:|1641860510
+|switch|p2a: Blaziken|Blaziken, M|100/100
+|turn|4
+|
+|t:|1641860518
+|switch|p1a: Lycanroc|Lycanroc-Dusk, M, shiny|100/100
+|move|p2a: Blaziken|Swords Dance|p2a: Blaziken
+|-boost|p2a: Blaziken|atk|2
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|5
+|
+|t:|1641860535
+|move|p2a: Blaziken|Detect|p2a: Blaziken
+|-singleturn|p2a: Blaziken|Protect
+|move|p1a: Lycanroc|Endeavor|p2a: Blaziken
+|-activate|p2a: Blaziken|move: Protect
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|6
+|
+|t:|1641860544
+|move|p2a: Blaziken|Blaze Kick|p1a: Lycanroc
+|-resisted|p1a: Lycanroc
+|-damage|p1a: Lycanroc|23/100
+|move|p1a: Lycanroc|Endeavor|p2a: Blaziken
+|-damage|p2a: Blaziken|22/100
+|
+|-heal|p2a: Blaziken|28/100|[from] Grassy Terrain
+|-heal|p1a: Lycanroc|29/100|[from] Grassy Terrain
+|-heal|p1a: Lycanroc|35/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|7
+|
+|t:|1641860557
+|move|p2a: Blaziken|Detect|p2a: Blaziken
+|-singleturn|p2a: Blaziken|Protect
+|move|p1a: Lycanroc|Accelerock|p2a: Blaziken
+|-activate|p2a: Blaziken|move: Protect
+|
+|-heal|p1a: Lycanroc|41/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|8
+|
+|t:|1641860566
+|move|p1a: Lycanroc|Accelerock|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|-heal|p1a: Lycanroc|48/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641860569
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|9
+|
+|t:|1641860575
+|move|p1a: Lycanroc|Endeavor|p2a: Dragonite
+|-damage|p2a: Dragonite|43/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|-heal|p1a: Lycanroc|54/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641860585
+|move|p2a: Dragonite|Brick Break|p1a: Lycanroc
+|-supereffective|p1a: Lycanroc
+|-damage|p1a: Lycanroc|0 fnt
+|faint|p1a: Lycanroc
+|
+|upkeep
+|
+|t:|1641860593
+|switch|p1a: Clefable|Clefable, F|100/100
+|turn|11
+|
+|t:|1641860597
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|12
+|
+|t:|1641860603
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Mew|Trick|p1a: Clefable
+|-activate|p2a: Mew|move: Trick|[of] p1a: Clefable
+|-item|p1a: Clefable|Lagging Tail|[from] move: Trick
+|-item|p2a: Mew|Leftovers|[from] move: Trick
+|
+|upkeep
+|turn|13
+|inactive|Neardnear has 120 seconds left.
+|
+|t:|1641860634
+|move|p2a: Mew|Stealth Rock|p1a: Clefable
+|-sidestart|p1: Neardnear|move: Stealth Rock
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641860642
+|move|p2a: Mew|Transform|p1a: Clefable
+|-transform|p2a: Mew|p1a: Clefable
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641860652
+|move|p2a: Mew|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|72/100
+|-unboost|p1a: Clefable|spa|1
+|move|p1a: Clefable|Stored Power|p2a: Mew
+|-damage|p2a: Mew|70/100
+|
+|-heal|p2a: Mew|77/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641860662
+|move|p2a: Mew|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|41/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p2a: Mew|83/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641860670
+|move|p2a: Mew|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|13/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|63/100
+|
+|-heal|p2a: Mew|89/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641860679
+|move|p2a: Mew|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|31/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|81/100
+|
+|-heal|p2a: Mew|95/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641860688
+|move|p2a: Mew|Moonblast|p1a: Clefable
+|-damage|p1a: Clefable|53/100
+|-unboost|p1a: Clefable|spa|1
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|-heal|p2a: Mew|100/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641860697
+|move|p2a: Mew|Calm Mind|p2a: Mew
+|-boost|p2a: Mew|spa|1
+|-boost|p2a: Mew|spd|1
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|21
+|
+|t:|1641860704
+|move|p2a: Mew|Calm Mind|p2a: Mew
+|-boost|p2a: Mew|spa|1
+|-boost|p2a: Mew|spd|1
+|move|p1a: Clefable|Moonblast|p2a: Mew
+|-damage|p2a: Mew|71/100
+|
+|-heal|p2a: Mew|77/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641860713
+|move|p2a: Mew|Stored Power|p1a: Clefable
+|-crit|p1a: Clefable
+|-damage|p1a: Clefable|35/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|0
+|
+|-heal|p2a: Mew|84/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641860722
+|move|p2a: Mew|Stored Power|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-heal|p2a: Mew|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641860729
+|switch|p1a: Scizor|Scizor, M, shiny|100/100
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641860734
+|move|p1a: Scizor|Iron Head|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|21/100
+|move|p2a: Mew|Stored Power|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-heal|p2a: Mew|28/100|[from] item: Leftovers
+|upkeep
+|-message|Neardnear forfeited.
+|
+|win|Aldeeran
+|raw|Neardnear's rating: 1071 &rarr; <strong>1054</strong><br />(-17 for losing)
+|raw|Aldeeran's rating: 1130 &rarr; <strong>1151</strong><br />(+21 for winning)
+|l|☆Neardnear

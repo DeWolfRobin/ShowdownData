@@ -1,0 +1,470 @@
+|j|☆OGSafariZone
+|j|☆duzoe
+|t:|1641729813
+|gametype|singles
+|player|p1|OGSafariZone|roughneck-gen4|1147
+|player|p2|duzoe|palmer|1215
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, F|
+|poke|p1|Espeon, F|
+|poke|p1|Dusclops, F|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Tyranitar, F|
+|poke|p1|Kartana|
+|poke|p2|Slowking, M|
+|poke|p2|Miltank, F|
+|poke|p2|Weezing-Galar, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Zeraora|
+|poke|p2|Krookodile, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by OGSafariZone)
+|
+|t:|1641729825
+|start
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|switch|p2a: Skkkrstein|Weezing-Galar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|inactive|duzoe has 120 seconds left.
+|
+|t:|1641729865
+|switch|p1a: Espeon|Espeon, F|100/100
+|move|p2a: Skkkrstein|Flamethrower|p1a: Espeon
+|-damage|p1a: Espeon|78/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Espeon|72/100|[from] Sandstorm
+|-damage|p2a: Skkkrstein|95/100|[from] Sandstorm
+|-heal|p2a: Skkkrstein|100/100|[from] item: Black Sludge
+|upkeep
+|turn|2
+|inactive|duzoe has 120 seconds left.
+|
+|t:|1641729877
+|switch|p2a: Lizzy Brain|Slowking, M|100/100
+|move|p1a: Espeon|Wish|p1a: Espeon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Espeon|66/100|[from] Sandstorm
+|-damage|p2a: Lizzy Brain|94/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641729886
+|move|p1a: Espeon|Protect|p1a: Espeon
+|-singleturn|p1a: Espeon|Protect
+|move|p2a: Lizzy Brain|Scald|p1a: Espeon
+|-activate|p1a: Espeon|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Espeon|60/100|[from] Sandstorm
+|-damage|p2a: Lizzy Brain|88/100|[from] Sandstorm
+|-heal|p1a: Espeon|100/100|[from] move: Wish|[wisher] Espeon
+|upkeep
+|turn|4
+|
+|t:|1641729896
+|move|p1a: Espeon|Shadow Ball|p2a: Lizzy Brain
+|-supereffective|p2a: Lizzy Brain
+|-damage|p2a: Lizzy Brain|42/100
+|-damage|p1a: Espeon|91/100|[from] item: Life Orb
+|move|p2a: Lizzy Brain|Scald|p1a: Espeon
+|-damage|p1a: Espeon|56/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Espeon|50/100|[from] Sandstorm
+|-damage|p2a: Lizzy Brain|36/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641729907
+|switch|p2a: Almaaaaa|Miltank, F|100/100
+|move|p1a: Espeon|Shadow Ball|p2a: Almaaaaa
+|-immune|p2a: Almaaaaa
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641729917
+|switch|p2a: Lizzy Brain|Slowking, M|69/100
+|move|p1a: Espeon|Wish|p1a: Espeon
+|
+|upkeep
+|turn|7
+|
+|t:|1641729931
+|move|p1a: Espeon|Protect|p1a: Espeon
+|-singleturn|p1a: Espeon|Protect
+|move|p2a: Lizzy Brain|Teleport|p2a: Lizzy Brain
+|
+|t:|1641729934
+|switch|p2a: Bodengangster|Krookodile, F|100/100|[from]move: Teleport
+|-ability|p2a: Bodengangster|Intimidate|boost
+|-unboost|p1a: Espeon|atk|1
+|
+|-heal|p1a: Espeon|99/100|[from] move: Wish|[wisher] Espeon
+|upkeep
+|turn|8
+|
+|t:|1641729945
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|100/100
+|move|p2a: Bodengangster|Knock Off|p1a: Grimmsnarl
+|-resisted|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|83/100
+|-enditem|p1a: Grimmsnarl|Light Clay|[from] move: Knock Off|[of] p2a: Bodengangster
+|-damage|p2a: Bodengangster|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|9
+|
+|t:|1641729953
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: OGSafariZone|Reflect
+|move|p2a: Bodengangster|Taunt|p1a: Grimmsnarl
+|-start|p1a: Grimmsnarl|move: Taunt
+|
+|upkeep
+|turn|10
+|
+|t:|1641729961
+|switch|p2a: Skkkrstein|Weezing-Galar, F|100/100
+|move|p1a: Grimmsnarl|Darkest Lariat|p2a: Skkkrstein
+|-resisted|p2a: Skkkrstein
+|-damage|p2a: Skkkrstein|89/100
+|
+|-heal|p2a: Skkkrstein|95/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1641729981
+|switch|p1a: Dusclops|Dusclops, F, shiny|100/100
+|-ability|p1a: Dusclops|Pressure
+|move|p2a: Skkkrstein|Toxic Spikes|p1a: Dusclops
+|-sidestart|p1: OGSafariZone|move: Toxic Spikes
+|
+|-heal|p2a: Skkkrstein|100/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1641729993
+|move|p2a: Skkkrstein|Flamethrower|p1a: Dusclops
+|-damage|p1a: Dusclops|91/100
+|move|p1a: Dusclops|Night Shade|p2a: Skkkrstein
+|-damage|p2a: Skkkrstein|71/100
+|
+|-heal|p2a: Skkkrstein|77/100|[from] item: Black Sludge
+|upkeep
+|turn|13
+|
+|t:|1641730000
+|move|p2a: Skkkrstein|Toxic Spikes|p1a: Dusclops
+|-sidestart|p1: OGSafariZone|move: Toxic Spikes
+|move|p1a: Dusclops|Night Shade|p2a: Skkkrstein
+|-damage|p2a: Skkkrstein|47/100
+|
+|-heal|p2a: Skkkrstein|53/100|[from] item: Black Sludge
+|-sideend|p1: OGSafariZone|Reflect
+|upkeep
+|turn|14
+|
+|t:|1641730007
+|move|p2a: Skkkrstein|Flamethrower|p1a: Dusclops
+|-damage|p1a: Dusclops|81/100
+|move|p1a: Dusclops|Night Shade|p2a: Skkkrstein
+|-damage|p2a: Skkkrstein|23/100
+|
+|-heal|p2a: Skkkrstein|29/100|[from] item: Black Sludge
+|upkeep
+|turn|15
+|
+|t:|1641730014
+|move|p2a: Skkkrstein|Pain Split|p1a: Dusclops
+|-sethp|p1a: Dusclops|57/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Skkkrstein|49/100|[from] move: Pain Split
+|move|p1a: Dusclops|Night Shade|p2a: Skkkrstein
+|-damage|p2a: Skkkrstein|19/100
+|
+|-heal|p2a: Skkkrstein|25/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|t:|1641730023
+|switch|p2a: Almaaaaa|Miltank, F|100/100
+|move|p1a: Dusclops|Night Shade|p2a: Almaaaaa
+|-immune|p2a: Almaaaaa
+|
+|upkeep
+|turn|17
+|
+|t:|1641730038
+|move|p2a: Almaaaaa|Stealth Rock|p1a: Dusclops
+|-sidestart|p1: OGSafariZone|move: Stealth Rock
+|move|p1a: Dusclops|Counter||[still]
+|-fail|p1a: Dusclops
+|
+|upkeep
+|turn|18
+|
+|t:|1641730049
+|move|p2a: Almaaaaa|Body Slam|p1a: Dusclops
+|-immune|p1a: Dusclops
+|move|p1a: Dusclops|Toxic|p2a: Almaaaaa|[miss]
+|-miss|p1a: Dusclops|p2a: Almaaaaa
+|
+|upkeep
+|turn|19
+|
+|t:|1641730055
+|switch|p2a: Skkkrstein|Weezing-Galar, F|25/100
+|move|p1a: Dusclops|Toxic|p2a: Skkkrstein|[miss]
+|-miss|p1a: Dusclops|p2a: Skkkrstein
+|
+|-heal|p2a: Skkkrstein|31/100|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|t:|1641730064
+|move|p2a: Skkkrstein|Pain Split|p1a: Dusclops
+|-sethp|p1a: Dusclops|47/100|[from] move: Pain Split|[silent]
+|-sethp|p2a: Skkkrstein|40/100|[from] move: Pain Split
+|move|p1a: Dusclops|Night Shade|p2a: Skkkrstein
+|-damage|p2a: Skkkrstein|10/100
+|
+|-heal|p2a: Skkkrstein|16/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1641730082
+|switch|p2a: Almaaaaa|Miltank, F|100/100
+|move|p1a: Dusclops|Pain Split|p2a: Almaaaaa
+|-sethp|p2a: Almaaaaa|67/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Dusclops|92/100|[from] move: Pain Split
+|
+|-heal|p2a: Almaaaaa|73/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641730089
+|move|p2a: Almaaaaa|Milk Drink|p2a: Almaaaaa
+|-heal|p2a: Almaaaaa|100/100
+|move|p1a: Dusclops|Toxic|p2a: Almaaaaa
+|-status|p2a: Almaaaaa|tox
+|
+|-damage|p2a: Almaaaaa|94/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641730108
+|switch|p2a: Lizzy Brain|Slowking, M|100/100
+|move|p1a: Dusclops|Night Shade|p2a: Lizzy Brain
+|-damage|p2a: Lizzy Brain|75/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641730116
+|move|p1a: Dusclops|Toxic|p2a: Lizzy Brain
+|-status|p2a: Lizzy Brain|tox
+|move|p2a: Lizzy Brain|Teleport|p2a: Lizzy Brain
+|
+|t:|1641730118
+|switch|p2a: Bodengangster|Krookodile, F|91/100|[from]move: Teleport
+|-ability|p2a: Bodengangster|Intimidate|boost
+|-unboost|p1a: Dusclops|atk|1
+|
+|upkeep
+|turn|25
+|
+|t:|1641730129
+|move|p2a: Bodengangster|Taunt|p1a: Dusclops
+|-start|p1a: Dusclops|move: Taunt
+|move|p1a: Dusclops|Counter||[still]
+|-fail|p1a: Dusclops
+|
+|upkeep
+|turn|26
+|
+|t:|1641730137
+|move|p2a: Bodengangster|Knock Off|p1a: Dusclops
+|-supereffective|p1a: Dusclops
+|-damage|p1a: Dusclops|18/100
+|-enditem|p1a: Dusclops|Eviolite|[from] move: Knock Off|[of] p2a: Bodengangster
+|-damage|p2a: Bodengangster|81/100|[from] item: Life Orb
+|move|p1a: Dusclops|Counter|p2a: Bodengangster
+|-damage|p2a: Bodengangster|0 fnt
+|faint|p2a: Bodengangster
+|
+|upkeep
+|
+|t:|1641730156
+|switch|p2a: Schmetterling|Volcarona, M|100/100
+|turn|27
+|
+|t:|1641730159
+|move|p2a: Schmetterling|Quiver Dance|p2a: Schmetterling
+|-boost|p2a: Schmetterling|spa|1
+|-boost|p2a: Schmetterling|spd|1
+|-boost|p2a: Schmetterling|spe|1
+|move|p1a: Dusclops|Night Shade|p2a: Schmetterling
+|-damage|p2a: Schmetterling|68/100
+|
+|-end|p1a: Dusclops|move: Taunt
+|upkeep
+|turn|28
+|
+|t:|1641730168
+|move|p2a: Schmetterling|Quiver Dance|p2a: Schmetterling
+|-boost|p2a: Schmetterling|spa|1
+|-boost|p2a: Schmetterling|spd|1
+|-boost|p2a: Schmetterling|spe|1
+|move|p1a: Dusclops|Pain Split|p2a: Schmetterling
+|-sethp|p2a: Schmetterling|42/100|[from] move: Pain Split|[silent]
+|-sethp|p1a: Dusclops|46/100|[from] move: Pain Split
+|
+|upkeep
+|turn|29
+|
+|t:|1641730178
+|move|p2a: Schmetterling|Giga Drain|p1a: Dusclops
+|-damage|p1a: Dusclops|0 fnt
+|-heal|p2a: Schmetterling|63/100|[from] drain|[of] p1a: Dusclops
+|faint|p1a: Dusclops
+|
+|upkeep
+|inactive|OGSafariZone has 120 seconds left.
+|
+|t:|1641730214
+|switch|p1a: Kartana|Kartana, shiny|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|turn|30
+|inactive|OGSafariZone has 120 seconds left.
+|
+|t:|1641730221
+|move|p2a: Schmetterling|Fiery Dance|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|inactive|OGSafariZone has 120 seconds left.
+|
+|t:|1641730231
+|switch|p1a: Grimmsnarl|Grimmsnarl, M|83/100
+|-damage|p1a: Grimmsnarl|70/100|[from] Stealth Rock
+|-status|p1a: Grimmsnarl|tox
+|turn|31
+|
+|t:|1641730239
+|move|p1a: Grimmsnarl|Light Screen|p1a: Grimmsnarl
+|-sidestart|p1: OGSafariZone|move: Light Screen
+|move|p2a: Schmetterling|Fiery Dance|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|32/100 tox
+|-boost|p2a: Schmetterling|spa|1
+|
+|-damage|p1a: Grimmsnarl|26/100 tox|[from] psn
+|upkeep
+|turn|32
+|
+|t:|1641730251
+|move|p1a: Grimmsnarl|Reflect|p1a: Grimmsnarl
+|-sidestart|p1: OGSafariZone|Reflect
+|move|p2a: Schmetterling|Fiery Dance|p1a: Grimmsnarl
+|-damage|p1a: Grimmsnarl|0 fnt
+|faint|p1a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1641730257
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-damage|p1a: Tyranitar|88/100|[from] Stealth Rock
+|-status|p1a: Tyranitar|tox
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|33
+|
+|t:|1641730275
+|move|p2a: Schmetterling|Bug Buzz|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|6/100 tox
+|-enditem|p1a: Tyranitar|Weakness Policy
+|-boost|p1a: Tyranitar|atk|2|[from] item: Weakness Policy
+|-boost|p1a: Tyranitar|spa|2|[from] item: Weakness Policy
+|move|p1a: Tyranitar|Crunch|p2a: Schmetterling
+|-damage|p2a: Schmetterling|0 fnt
+|faint|p2a: Schmetterling
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tyranitar|0 fnt|[from] psn
+|faint|p1a: Tyranitar
+|upkeep
+|
+|t:|1641730294
+|switch|p2a: RockiElekiHelmi|Zeraora|100/100
+|switch|p1a: Weavile|Weavile, F|100/100
+|-status|p1a: Weavile|tox
+|-damage|p1a: Weavile|76/100 tox|[from] Stealth Rock
+|-ability|p1a: Weavile|Pressure
+|turn|34
+|inactive|OGSafariZone has 120 seconds left.
+|
+|t:|1641730315
+|move|p2a: RockiElekiHelmi|Bulk Up|p2a: RockiElekiHelmi
+|-boost|p2a: RockiElekiHelmi|atk|1
+|-boost|p2a: RockiElekiHelmi|def|1
+|move|p1a: Weavile|Triple Axel|p2a: RockiElekiHelmi
+|-damage|p2a: RockiElekiHelmi|92/100
+|-damage|p2a: RockiElekiHelmi|74/100
+|-damage|p2a: RockiElekiHelmi|46/100
+|-hitcount|p2a: RockiElekiHelmi|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: RockiElekiHelmi|40/100|[from] Sandstorm
+|-damage|p1a: Weavile|70/100 tox|[from] Sandstorm
+|-damage|p1a: Weavile|63/100 tox|[from] psn
+|upkeep
+|turn|35
+|inactive|OGSafariZone has 120 seconds left.
+|
+|t:|1641730327
+|move|p2a: RockiElekiHelmi|Close Combat|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|-unboost|p2a: RockiElekiHelmi|def|1
+|-unboost|p2a: RockiElekiHelmi|spd|1
+|faint|p1a: Weavile
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: RockiElekiHelmi|34/100|[from] Sandstorm
+|-sideend|p1: OGSafariZone|move: Light Screen
+|upkeep
+|
+|t:|1641730335
+|switch|p1a: Espeon|Espeon, F|99/100
+|-status|p1a: Espeon|tox
+|-damage|p1a: Espeon|88/100 tox|[from] Stealth Rock
+|turn|36
+|inactive|OGSafariZone has 120 seconds left.
+|
+|t:|1641730341
+|move|p2a: RockiElekiHelmi|Knock Off|p1a: Espeon
+|-supereffective|p1a: Espeon
+|-damage|p1a: Espeon|0 fnt
+|-enditem|p1a: Espeon|Life Orb|[from] move: Knock Off|[of] p2a: RockiElekiHelmi
+|faint|p1a: Espeon
+|
+|win|duzoe
+|raw|OGSafariZone's rating: 1147 &rarr; <strong>1127</strong><br />(-20 for losing)
+|raw|duzoe's rating: 1215 &rarr; <strong>1235</strong><br />(+20 for winning)

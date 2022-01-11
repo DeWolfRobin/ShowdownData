@@ -1,0 +1,400 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641857740
+|gametype|singles
+|player|p1|cursedstar|argenta|
+|player|p2|GasaiiYunoSan|flannery|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Magnezone|
+|poke|p1|Tapu Lele|
+|poke|p1|Dragonite, F|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Blissey, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Lele|
+|poke|p2|Kartana|
+|poke|p2|Hawlucha, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|cursedstar has 270 seconds left.
+|inactive|GasaiiYunoSan has 270 seconds left.
+|
+|t:|1641857795
+|start
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Kartana|Kartana|100/100
+|turn|1
+|
+|t:|1641857809
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blissey|atk|1
+|move|p1a: Blissey|Thunder Wave|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1641857814
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Landorus|Stealth Rock|p1a: Urshifu
+|-sidestart|p1: cursedstar|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641857820
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Urshifu|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|89/100
+|
+|t:|1641857825
+|switch|p1a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-damage|p1a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|4
+|inactive|GasaiiYunoSan has 270 seconds left.
+|
+|t:|1641857856
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Tapu Lele|Psychic|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|inactive|GasaiiYunoSan has 270 seconds left.
+|c|☆GasaiiYunoSan|Bueh
+|c|☆GasaiiYunoSan|Np aguanta naranjas
+|c|☆cursedstar|31 spd..
+|inactive|GasaiiYunoSan has 240 seconds left.
+|
+|t:|1641857899
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|turn|5
+|inactive|GasaiiYunoSan has 240 seconds left.
+|
+|t:|1641857912
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tapu Lele|Psyshock|p1a: Blissey
+|-damage|p1a: Blissey|25/100
+|
+|upkeep
+|turn|6
+|inactive|GasaiiYunoSan has 240 seconds left.
+|
+|t:|1641857928
+|switch|p2a: Magnezone|Magnezone|100/100
+|switch|p1a: Magnezone|Magnezone|100/100
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|7
+|
+|t:|1641857935
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|8
+|
+|t:|1641857937
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641857940
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|upkeep
+|turn|10
+|
+|t:|1641857942
+|move|p1a: Magnezone|Body Press|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-crit|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|-damage|p1a: Magnezone|78/100|[from] item: Rocky Helmet|[of] p2a: Magnezone
+|faint|p2a: Magnezone
+|
+|upkeep
+|c|☆GasaiiYunoSan|Y esa raja
+|
+|t:|1641857951
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|11
+|inactive|GasaiiYunoSan has 270 seconds left.
+|c|☆GasaiiYunoSan|El kartana te re violaba
+|c|☆GasaiiYunoSan|Pero volo
+|inactive|cursedstar has 270 seconds left.
+|
+|t:|1641857984
+|switch|p1a: Blissey|Blissey, F|25/100
+|move|p2a: Tapu Lele|Focus Blast|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|upkeep
+|inactive|cursedstar has 270 seconds left.
+|
+|t:|1641857989
+|switch|p1a: Kartana|Kartana|100/100
+|-damage|p1a: Kartana|94/100|[from] Stealth Rock
+|turn|12
+|inactive|GasaiiYunoSan has 270 seconds left.
+|
+|t:|1641858005
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Kartana|atk|1
+|move|p1a: Kartana|Leaf Blade|p2a: Landorus
+|-damage|p2a: Landorus|59/100
+|
+|-heal|p2a: Landorus|65/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|inactive|GasaiiYunoSan has 270 seconds left.
+|
+|t:|1641858020
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|move|p2a: Landorus|Earthquake|p1a: Urshifu
+|-damage|p1a: Urshifu|42/100
+|
+|-heal|p2a: Landorus|71/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641858025
+|switch|p2a: Tapu Fini|Tapu Fini|89/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Urshifu|Surging Strikes|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|78/100
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|68/100
+|-resisted|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|57/100
+|-hitcount|p2a: Tapu Fini|3
+|
+|upkeep
+|turn|15
+|inactive|GasaiiYunoSan has 270 seconds left.
+|
+|t:|1641858049
+|switch|p1a: Magnezone|Magnezone|78/100
+|-damage|p1a: Magnezone|72/100|[from] Stealth Rock
+|move|p2a: Tapu Fini|Surf|p1a: Magnezone
+|-damage|p1a: Magnezone|20/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641858054
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|move|p2a: Tapu Fini|Surf|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|91/100
+|
+|upkeep
+|turn|17
+|inactive|GasaiiYunoSan has 270 seconds left.
+|
+|t:|1641858070
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|18
+|inactive|GasaiiYunoSan has 270 seconds left.
+|
+|t:|1641858090
+|switch|p1a: Magnezone|Magnezone|20/100
+|-damage|p1a: Magnezone|14/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Moonblast|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|upkeep
+|
+|t:|1641858103
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|42/100
+|-damage|p1a: Urshifu|36/100|[from] Stealth Rock
+|turn|19
+|inactive|GasaiiYunoSan has 270 seconds left.
+|inactive|GasaiiYunoSan has 240 seconds left.
+|
+|t:|1641858139
+|switch|p2a: Landorus|Landorus-Therian, M|71/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|move|p1a: Urshifu|Surging Strikes|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|29/100
+|-supereffective|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|2
+|
+|upkeep
+|inactive|GasaiiYunoSan has 240 seconds left.
+|c|☆GasaiiYunoSan|Ahora recorde
+|c|☆GasaiiYunoSan|Que siempre mete crit
+|c|☆GasaiiYunoSan|Y la intimidate fue re inutil
+|c|☆cursedstar|unlucky
+|
+|t:|1641858169
+|switch|p2a: Tapu Fini|Tapu Fini|57/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|20
+|inactive|cursedstar has 270 seconds left.
+|
+|t:|1641858198
+|switch|p1a: Tapu Lele|Tapu Lele|88/100
+|-damage|p1a: Tapu Lele|76/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Tapu Fini|Moonblast|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|36/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641858207
+|move|p2a: Tapu Fini|Moonblast|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641858214
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|22
+|inactive|GasaiiYunoSan has 240 seconds left.
+|
+|t:|1641858225
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|move|p1a: Dragonite|Earthquake|p2a: Tapu Lele
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|10/100
+|
+|upkeep
+|turn|23
+|inactive|GasaiiYunoSan has 240 seconds left.
+|inactive|cursedstar has 270 seconds left.
+|
+|t:|1641858261
+|move|p2a: Tapu Lele|Psychic|p1a: Dragonite
+|-damage|p1a: Dragonite|53/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|24
+|
+|t:|1641858272
+|move|p2a: Tapu Lele|Psychic|p1a: Dragonite
+|-damage|p1a: Dragonite|51/100
+|move|p1a: Dragonite|Ice Punch|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641858281
+|switch|p2a: Tapu Fini|Tapu Fini|57/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|25
+|inactive|cursedstar has 270 seconds left.
+|
+|t:|1641858298
+|move|p2a: Tapu Fini|Moonblast|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|upkeep
+|inactive|cursedstar has 270 seconds left.
+|
+|t:|1641858307
+|switch|p1a: Kartana|Kartana|94/100
+|-damage|p1a: Kartana|88/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641858310
+|move|p1a: Kartana|Leaf Blade|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641858313
+|switch|p2a: Hawlucha|Hawlucha, M|100/100
+|-enditem|p2a: Hawlucha|Misty Seed
+|-boost|p2a: Hawlucha|spd|1|[from] item: Misty Seed
+|turn|27
+|
+|t:|1641858321
+|move|p2a: Hawlucha|Close Combat|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641858323
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|36/100
+|-damage|p1a: Urshifu|30/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641858327
+|move|p2a: Hawlucha|Acrobatics|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|win|GasaiiYunoSan

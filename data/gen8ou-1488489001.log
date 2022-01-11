@@ -1,0 +1,217 @@
+|j|☆0poke
+|j|☆doctor susW
+|t:|1641771942
+|gametype|singles
+|player|p1|0poke|101|1066
+|player|p2|doctor susW|lucas|1110
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Salazzle, F|
+|poke|p1|Polteageist|
+|poke|p1|Tornadus, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Buzzwole|
+|poke|p1|Dracozolt|
+|poke|p2|Garchomp, M|
+|poke|p2|Mimikyu, F|
+|poke|p2|Dragapult, F|
+|poke|p2|Miltank, F|
+|poke|p2|Zeraora|
+|poke|p2|Blastoise, F|
+|teampreview
+|
+|t:|1641771973
+|start
+|switch|p1a: Dracozolt|Dracozolt|100/100
+|switch|p2a: Blastoise|Blastoise, F|100/100
+|turn|1
+|
+|t:|1641771984
+|move|p1a: Dracozolt|Bolt Beak|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|upkeep
+|
+|t:|1641771990
+|switch|p2a: Mimikyu|Mimikyu, F|100/100
+|turn|2
+|
+|t:|1641772016
+|move|p2a: Mimikyu|Play Rough|p1a: Dracozolt
+|-supereffective|p1a: Dracozolt
+|-crit|p1a: Dracozolt
+|-damage|p1a: Dracozolt|0 fnt
+|faint|p1a: Dracozolt
+|-damage|p2a: Mimikyu|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641772049
+|switch|p1a: Polteageist|Polteageist|100/100
+|turn|3
+|
+|t:|1641772054
+|move|p2a: Mimikyu|Swords Dance|p2a: Mimikyu
+|-boost|p2a: Mimikyu|atk|2
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|-enditem|p1a: Polteageist|White Herb
+|-clearnegativeboost|p1a: Polteageist|[silent]
+|
+|upkeep
+|turn|4
+|
+|t:|1641772066
+|move|p1a: Polteageist|Dark Pulse|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|91/100
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, F
+|-damage|p2a: Mimikyu|78/100|[from] pokemon: Mimikyu-Busted
+|move|p2a: Mimikyu|Shadow Claw|p1a: Polteageist
+|-supereffective|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|-damage|p2a: Mimikyu|68/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641772085
+|switch|p1a: Salazzle|Salazzle, F, shiny|100/100
+|turn|5
+|
+|t:|1641772092
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Salazzle
+|-damage|p1a: Salazzle|26/100
+|-damage|p2a: Mimikyu|58/100|[from] item: Life Orb
+|move|p1a: Salazzle|Substitute|p1a: Salazzle
+|-start|p1a: Salazzle|Substitute
+|-damage|p1a: Salazzle|1/100
+|
+|-heal|p1a: Salazzle|8/100|[from] item: Black Sludge
+|upkeep
+|turn|6
+|
+|t:|1641772101
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|move|p2a: Mimikyu|Shadow Claw|p1a: Salazzle
+|-activate|p1a: Salazzle|move: Protect
+|
+|-heal|p1a: Salazzle|13/100|[from] item: Black Sludge
+|upkeep
+|turn|7
+|
+|t:|1641772113
+|move|p1a: Salazzle|Toxic|p2a: Mimikyu
+|-status|p2a: Mimikyu|tox
+|move|p2a: Mimikyu|Shadow Claw|p1a: Salazzle
+|-end|p1a: Salazzle|Substitute
+|-damage|p2a: Mimikyu|48/100 tox|[from] item: Life Orb
+|
+|-heal|p1a: Salazzle|19/100|[from] item: Black Sludge
+|-damage|p2a: Mimikyu|42/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641772136
+|move|p1a: Salazzle|Protect|p1a: Salazzle
+|-singleturn|p1a: Salazzle|Protect
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Salazzle
+|-activate|p1a: Salazzle|move: Protect
+|
+|-heal|p1a: Salazzle|25/100|[from] item: Black Sludge
+|-damage|p2a: Mimikyu|30/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641772163
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Salazzle
+|-damage|p1a: Salazzle|0 fnt
+|faint|p1a: Salazzle
+|-damage|p2a: Mimikyu|20/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Mimikyu|2/100 tox|[from] psn
+|upkeep
+|
+|t:|1641772196
+|switch|p1a: Tornadus|Tornadus, M|100/100
+|turn|10
+|
+|t:|1641772207
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Dragonite
+|-damage|p1a: Dragonite|85/100
+|-damage|p2a: Mimikyu|0 fnt|[from] item: Life Orb
+|faint|p2a: Mimikyu
+|
+|-heal|p1a: Dragonite|92/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641772222
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|11
+|
+|t:|1641772244
+|move|p2a: Dragapult|Dragon Darts|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|47/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|4/100
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|-heal|p1a: Dragonite|10/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641772269
+|move|p2a: Dragapult|Dragon Darts|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-damage|p2a: Dragapult|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641772277
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|turn|13
+|
+|t:|1641772285
+|move|p2a: Dragapult|Fire Blast|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|23/100
+|-enditem|p1a: Buzzwole|Maranga Berry|[eat]
+|-boost|p1a: Buzzwole|spd|1|[from] item: Maranga Berry
+|-damage|p2a: Dragapult|71/100|[from] item: Life Orb
+|move|p1a: Buzzwole|Hammer Arm|p2a: Dragapult
+|-immune|p2a: Dragapult
+|
+|upkeep
+|turn|14
+|-message|0poke forfeited.
+|
+|win|doctor susW
+|raw|0poke's rating: 1066 &rarr; <strong>1049</strong><br />(-17 for losing)
+|raw|doctor susW's rating: 1110 &rarr; <strong>1132</strong><br />(+22 for winning)
+|l|☆0poke

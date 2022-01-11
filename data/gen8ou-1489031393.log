@@ -1,0 +1,300 @@
+|j|☆N
+|j|☆kidspecial
+|t:|1641848377
+|gametype|singles
+|player|p1|N|n|
+|player|p2|kidspecial|riley|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Bisharp, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Weavile, M|
+|poke|p1|Obstagoon, F|
+|poke|p1|Hydreigon, F|
+|poke|p1|Zarude|
+|poke|p2|Bisharp, M|
+|poke|p2|Kartana|
+|poke|p2|Toxapex, M|
+|poke|p2|Melmetal|
+|poke|p2|Regieleki|
+|poke|p2|Zeraora|
+|teampreview
+|
+|t:|1641848394
+|start
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|turn|1
+|
+|t:|1641848402
+|move|p1a: Tyranitar|Stealth Rock|p2a: Melmetal
+|-sidestart|p2: kidspecial|move: Stealth Rock
+|move|p2a: Melmetal|Double Iron Bash|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|35/100
+|-supereffective|p1a: Tyranitar
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-hitcount|p1: Tyranitar|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641848427
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|turn|2
+|
+|t:|1641848435
+|move|p1a: Hydreigon|Earth Power|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|36/100
+|move|p2a: Melmetal|Ice Punch|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|10/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydreigon|4/100|[from] Sandstorm
+|-heal|p1a: Hydreigon|10/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641848443
+|move|p2a: Melmetal|Protect|p2a: Melmetal
+|-singleturn|p2a: Melmetal|Protect
+|move|p1a: Hydreigon|Earth Power|p2a: Melmetal
+|-activate|p2a: Melmetal|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydreigon|4/100|[from] Sandstorm
+|-heal|p1a: Hydreigon|10/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641848447
+|move|p1a: Hydreigon|Earth Power|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Hydreigon|4/100|[from] Sandstorm
+|-heal|p1a: Hydreigon|10/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641848451
+|switch|p2a: Zeraora|Zeraora|100/100
+|-damage|p2a: Zeraora|88/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641848484
+|move|p2a: Zeraora|Blaze Kick|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|-damage|p2a: Zeraora|78/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641848502
+|switch|p1a: Obstagoon|Obstagoon, F|100/100
+|turn|6
+|
+|t:|1641848511
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: Obstagoon|Knock Off|p2a: Toxapex
+|-damage|p2a: Toxapex|64/100
+|-damage|p1a: Obstagoon|84/100|[from] item: Rocky Helmet|[of] p2a: Toxapex
+|-enditem|p2a: Toxapex|Rocky Helmet|[from] move: Knock Off|[of] p1a: Obstagoon
+|
+|-status|p1a: Obstagoon|brn|[from] item: Flame Orb
+|upkeep
+|turn|7
+|
+|t:|1641848523
+|move|p1a: Obstagoon|Facade|p2a: Toxapex
+|-damage|p2a: Toxapex|13/100
+|move|p2a: Toxapex|Scald|p1a: Obstagoon
+|-damage|p1a: Obstagoon|64/100 brn
+|
+|-damage|p1a: Obstagoon|58/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641848530
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Obstagoon|Facade|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-damage|p1a: Obstagoon|52/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641848536
+|move|p1a: Obstagoon|Facade|p2a: Toxapex
+|-crit|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|-damage|p1a: Obstagoon|46/100 brn|[from] brn
+|upkeep
+|
+|t:|1641848549
+|switch|p2a: Regieleki|Regieleki|100/100
+|-damage|p2a: Regieleki|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641848553
+|move|p2a: Regieleki|Protect|p2a: Regieleki
+|-singleturn|p2a: Regieleki|Protect
+|move|p1a: Obstagoon|Rest|p1a: Obstagoon
+|-status|p1a: Obstagoon|slp|[from] move: Rest
+|-heal|p1a: Obstagoon|100/100 slp|[silent]
+|
+|upkeep
+|turn|11
+|
+|t:|1641848560
+|move|p2a: Regieleki|Thunder Cage|p1a: Obstagoon
+|-damage|p1a: Obstagoon|30/100 slp
+|-activate|p1a: Obstagoon|move: Thunder Cage|[of] p2a: Regieleki
+|-damage|p2a: Regieleki|78/100|[from] item: Life Orb
+|cant|p1a: Obstagoon|slp
+|move|p1a: Obstagoon|Sleep Talk|p1a: Obstagoon
+|move|p1a: Obstagoon|Facade|p2a: Regieleki|[from]move: Sleep Talk
+|-damage|p2a: Regieleki|3/100
+|
+|-damage|p1a: Obstagoon|18/100 slp|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1641848572
+|move|p2a: Regieleki|Protect|p2a: Regieleki
+|-singleturn|p2a: Regieleki|Protect
+|cant|p1a: Obstagoon|slp
+|move|p1a: Obstagoon|Sleep Talk|p1a: Obstagoon
+|move|p1a: Obstagoon|Facade|p2a: Regieleki|[from]move: Sleep Talk
+|-activate|p2a: Regieleki|move: Protect
+|
+|-damage|p1a: Obstagoon|6/100 slp|[from] move: Thunder Cage|[partiallytrapped]
+|upkeep
+|turn|13
+|
+|t:|1641848584
+|move|p2a: Regieleki|Thunder Cage|p1a: Obstagoon
+|-damage|p1a: Obstagoon|0 fnt
+|faint|p1a: Obstagoon
+|-damage|p2a: Regieleki|0 fnt|[from] item: Life Orb
+|faint|p2a: Regieleki
+|
+|upkeep
+|
+|t:|1641848599
+|switch|p2a: Kartana|Kartana|100/100
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|14
+|
+|t:|1641848608
+|move|p2a: Kartana|Knock Off|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|65/100
+|-enditem|p1a: Bisharp|Life Orb|[from] move: Knock Off|[of] p2a: Kartana
+|-damage|p2a: Kartana|85/100|[from] item: Life Orb
+|move|p1a: Bisharp|Knock Off|p2a: Kartana
+|-damage|p2a: Kartana|31/100
+|-enditem|p2a: Kartana|Life Orb|[from] move: Knock Off|[of] p1a: Bisharp
+|
+|upkeep
+|turn|15
+|
+|t:|1641848616
+|move|p1a: Bisharp|Sucker Punch|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641848620
+|switch|p2a: Bisharp|Bisharp, M|100/100
+|-damage|p2a: Bisharp|95/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641848652
+|move|p2a: Bisharp|Sucker Punch|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|48/100
+|move|p1a: Bisharp|Knock Off|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|76/100
+|-enditem|p2a: Bisharp|Focus Sash|[from] move: Knock Off|[of] p1a: Bisharp
+|
+|upkeep
+|turn|17
+|
+|t:|1641848663
+|move|p2a: Bisharp|Sucker Punch||[still]
+|-fail|p2a: Bisharp
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1641848672
+|move|p1a: Bisharp|Swords Dance|p1a: Bisharp
+|-boost|p1a: Bisharp|atk|2
+|move|p2a: Bisharp|Psycho Cut|p1a: Bisharp
+|-immune|p1a: Bisharp
+|
+|upkeep
+|turn|19
+|
+|t:|1641848680
+|switch|p2a: Zeraora|Zeraora|78/100
+|-damage|p2a: Zeraora|66/100|[from] Stealth Rock
+|move|p1a: Bisharp|Iron Head|p2a: Zeraora
+|-resisted|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|upkeep
+|
+|t:|1641848682
+|switch|p2a: Bisharp|Bisharp, M|76/100
+|-damage|p2a: Bisharp|70/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641848690
+|move|p1a: Bisharp|Iron Head|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|24/100
+|move|p2a: Bisharp|Toxic|p1a: Bisharp
+|-immune|p1a: Bisharp
+|
+|upkeep
+|turn|21
+|
+|t:|1641848701
+|move|p2a: Bisharp|Sucker Punch|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|30/100
+|move|p1a: Bisharp|Iron Head|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|win|N

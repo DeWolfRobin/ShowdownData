@@ -1,0 +1,427 @@
+|j|☆WitheredPoet
+|j|☆YasTheTurk
+|t:|1641747386
+|gametype|singles
+|player|p1|WitheredPoet|guitarist|1039
+|player|p2|YasTheTurk|102|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Zapdos|
+|poke|p1|Tapu Lele|
+|poke|p1|Toxapex, M|
+|poke|p1|Umbreon, F|
+|poke|p2|Whimsicott, L1, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Heatran, M|
+|poke|p2|Clefable, F|
+|poke|p2|Linoone, F|
+|poke|p2|Barraskewda, M|
+|teampreview
+|
+|t:|1641747390
+|start
+|switch|p1a: Titan|Ferrothorn, F|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by WitheredPoet)
+|
+|t:|1641747400
+|move|p2a: Ferrothorn|Knock Off|p1a: Titan
+|-damage|p1a: Titan|88/100
+|-damage|p2a: Ferrothorn|88/100|[from] ability: Iron Barbs|[of] p1a: Titan
+|-damage|p2a: Ferrothorn|72/100|[from] item: Rocky Helmet|[of] p1a: Titan
+|-enditem|p1a: Titan|Rocky Helmet|[from] move: Knock Off|[of] p2a: Ferrothorn
+|move|p1a: Titan|Spikes|p2a: Ferrothorn
+|-sidestart|p2: YasTheTurk|Spikes
+|
+|-heal|p2a: Ferrothorn|78/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641747411
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Titan
+|-sidestart|p1: WitheredPoet|move: Stealth Rock
+|move|p1a: Titan|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: YasTheTurk|move: Stealth Rock
+|
+|-heal|p2a: Ferrothorn|84/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747444
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|-damage|p2a: Heatran|76/100|[from] Spikes
+|move|p1a: Titan|Spikes|p2a: Heatran
+|-sidestart|p2: YasTheTurk|Spikes
+|
+|-heal|p2a: Heatran|82/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747455
+|switch|p1a: Bunker|Toxapex, M|100/100
+|-damage|p1a: Bunker|88/100|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Bunker
+|-resisted|p1a: Bunker
+|-damage|p1a: Bunker|62/100
+|-activate|p1a: Bunker|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p2a: Heatran|88/100|[from] item: Leftovers
+|-heal|p1a: Bunker|69/100|[from] item: Black Sludge
+|-damage|p1a: Bunker|56/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|5
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747472
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Bunker|Baneful Bunker||[still]
+|-fail|p1a: Bunker
+|
+|-heal|p2a: Heatran|94/100|[from] item: Leftovers
+|-heal|p1a: Bunker|62/100|[from] item: Black Sludge
+|-damage|p1a: Bunker|50/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|6
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747499
+|move|p1a: Bunker|Baneful Bunker|p1a: Bunker
+|-singleturn|p1a: Bunker|move: Protect
+|move|p2a: Heatran|Eruption|p1a: Bunker
+|-activate|p1a: Bunker|move: Protect
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-heal|p1a: Bunker|56/100|[from] item: Black Sludge
+|-damage|p1a: Bunker|44/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|7
+|
+|t:|1641747509
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Bunker|Knock Off|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p1a: Bunker|50/100|[from] item: Black Sludge
+|-damage|p1a: Bunker|37/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|8
+|
+|t:|1641747519
+|move|p1a: Bunker|Baneful Bunker|p1a: Bunker
+|-singleturn|p1a: Bunker|move: Protect
+|move|p2a: Heatran|Eruption|p1a: Bunker
+|-activate|p1a: Bunker|move: Protect
+|
+|-heal|p1a: Bunker|44/100|[from] item: Black Sludge
+|-damage|p1a: Bunker|31/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|9
+|
+|t:|1641747530
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Bunker|Knock Off|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p1a: Bunker|37/100|[from] item: Black Sludge
+|-end|p1a: Bunker|Magma Storm|[partiallytrapped]
+|upkeep
+|turn|10
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747538
+|move|p1a: Bunker|Baneful Bunker|p1a: Bunker
+|-singleturn|p1a: Bunker|move: Protect
+|move|p2a: Heatran|Magma Storm|p1a: Bunker
+|-activate|p1a: Bunker|move: Protect
+|
+|-heal|p1a: Bunker|44/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1641747546
+|switch|p1a: Luna|Umbreon, F, shiny|100/100
+|-damage|p1a: Luna|88/100|[from] Stealth Rock
+|move|p2a: Heatran|Magma Storm|p1a: Luna
+|-damage|p1a: Luna|57/100
+|-activate|p1a: Luna|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Luna|63/100|[from] item: Leftovers
+|-damage|p1a: Luna|51/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|12
+|
+|t:|1641747560
+|move|p2a: Heatran|Eruption|p1a: Luna
+|-damage|p1a: Luna|3/100
+|move|p1a: Luna|Wish|p1a: Luna
+|
+|-heal|p1a: Luna|9/100|[from] item: Leftovers
+|-damage|p1a: Luna|0 fnt|[from] move: Magma Storm|[partiallytrapped]
+|faint|p1a: Luna
+|upkeep
+|
+|t:|1641747572
+|switch|p1a: Jupiter|Zapdos|100/100
+|turn|13
+|
+|t:|1641747576
+|move|p1a: Jupiter|Discharge|p2a: Heatran
+|-damage|p2a: Heatran|69/100
+|-status|p2a: Heatran|par
+|move|p2a: Heatran|Magma Storm|p1a: Jupiter
+|-damage|p1a: Jupiter|30/100
+|-activate|p1a: Jupiter|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Jupiter|92/100|[from] move: Wish|[wisher] Luna
+|-heal|p2a: Heatran|75/100 par|[from] item: Leftovers
+|-damage|p1a: Jupiter|79/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|14
+|
+|t:|1641747591
+|move|p1a: Jupiter|Discharge|p2a: Heatran
+|-damage|p2a: Heatran|44/100 par
+|cant|p2a: Heatran|par
+|
+|-heal|p2a: Heatran|50/100 par|[from] item: Leftovers
+|-damage|p1a: Jupiter|67/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|15
+|
+|t:|1641747600
+|move|p1a: Jupiter|Discharge|p2a: Heatran
+|-damage|p2a: Heatran|18/100 par
+|move|p2a: Heatran|Eruption|p1a: Jupiter
+|-damage|p1a: Jupiter|49/100
+|
+|-heal|p2a: Heatran|25/100 par|[from] item: Leftovers
+|-damage|p1a: Jupiter|36/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|16
+|
+|t:|1641747621
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Jupiter|Discharge|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|-heal|p2a: Heatran|31/100 par|[from] item: Leftovers
+|-damage|p1a: Jupiter|24/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|17
+|
+|t:|1641747630
+|move|p1a: Jupiter|Discharge|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-end|p1a: Jupiter|Magma Storm|[partiallytrapped]
+|upkeep
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747650
+|switch|p2a: Ferrothorn|Ferrothorn, M|84/100
+|-damage|p2a: Ferrothorn|78/100|[from] Stealth Rock
+|-damage|p2a: Ferrothorn|61/100|[from] Spikes
+|turn|18
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747662
+|move|p1a: Jupiter|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|47/100
+|
+|t:|1641747670
+|switch|p1a: Bunker|Toxapex, M|77/100|[from]move: Volt Switch
+|-damage|p1a: Bunker|64/100|[from] Stealth Rock
+|move|p2a: Ferrothorn|Knock Off|p1a: Bunker
+|-damage|p1a: Bunker|50/100
+|-enditem|p1a: Bunker|Black Sludge|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|53/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641747682
+|move|p2a: Ferrothorn|Protect|p2a: Ferrothorn
+|-singleturn|p2a: Ferrothorn|Protect
+|move|p1a: Bunker|Knock Off|p2a: Ferrothorn
+|-activate|p2a: Ferrothorn|move: Protect
+|
+|-heal|p2a: Ferrothorn|59/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747709
+|switch|p2a: Barraskewda|Barraskewda, M|100/100
+|-damage|p2a: Barraskewda|88/100|[from] Stealth Rock
+|-damage|p2a: Barraskewda|71/100|[from] Spikes
+|move|p1a: Bunker|Knock Off|p2a: Barraskewda
+|-damage|p2a: Barraskewda|42/100
+|-enditem|p2a: Barraskewda|Life Orb|[from] move: Knock Off|[of] p1a: Bunker
+|
+|upkeep
+|turn|21
+|
+|t:|1641747719
+|move|p2a: Barraskewda|Close Combat|p1a: Bunker
+|-resisted|p1a: Bunker
+|-damage|p1a: Bunker|39/100
+|-unboost|p2a: Barraskewda|def|1
+|-unboost|p2a: Barraskewda|spd|1
+|move|p1a: Bunker|Toxic Spikes|p2a: Barraskewda
+|-sidestart|p2: YasTheTurk|move: Toxic Spikes
+|
+|upkeep
+|turn|22
+|
+|t:|1641747730
+|move|p2a: Barraskewda|Throat Chop|p1a: Bunker
+|-damage|p1a: Bunker|23/100
+|-start|p1a: Bunker|Throat Chop|[silent]
+|move|p1a: Bunker|Toxic Spikes|p2a: Barraskewda
+|-sidestart|p2: YasTheTurk|move: Toxic Spikes
+|
+|upkeep
+|turn|23
+|
+|t:|1641747736
+|move|p1a: Bunker|Baneful Bunker|p1a: Bunker
+|-singleturn|p1a: Bunker|move: Protect
+|move|p2a: Barraskewda|Throat Chop|p1a: Bunker
+|-activate|p1a: Bunker|move: Protect
+|-status|p2a: Barraskewda|psn
+|
+|-damage|p2a: Barraskewda|29/100 psn|[from] psn
+|-end|p1a: Bunker|Throat Chop|[silent]
+|upkeep
+|turn|24
+|inactive|YasTheTurk has 120 seconds left.
+|
+|t:|1641747748
+|switch|p1a: Titan|Ferrothorn, F|88/100
+|-damage|p1a: Titan|82/100|[from] Stealth Rock
+|move|p2a: Barraskewda|Throat Chop|p1a: Titan
+|-damage|p1a: Titan|68/100
+|-start|p1a: Titan|Throat Chop|[silent]
+|-damage|p2a: Barraskewda|17/100 psn|[from] ability: Iron Barbs|[of] p1a: Titan
+|
+|-damage|p2a: Barraskewda|4/100 psn|[from] psn
+|upkeep
+|turn|25
+|inactive|YasTheTurk has 120 seconds left.
+|c|☆YasTheTurk|Spike rat why don’t u play like a man
+|
+|t:|1641747778
+|move|p2a: Barraskewda|Throat Chop|p1a: Titan
+|-damage|p1a: Titan|53/100
+|-damage|p2a: Barraskewda|0 fnt|[from] ability: Iron Barbs|[of] p1a: Titan
+|faint|p2a: Barraskewda
+|move|p1a: Titan|Spikes|p2: Barraskewda
+|-sidestart|p2: YasTheTurk|Spikes
+|
+|-end|p1a: Titan|Throat Chop|[silent]
+|upkeep
+|inactive|YasTheTurk has 90 seconds left.
+|c|☆WitheredPoet|Why don’t you have a hazard clearer on your team Lmao don’t blame me for you making bad teambuilding choices
+|inactive|YasTheTurk has 60 seconds left.
+|
+|t:|1641747842
+|switch|p2a: Clefable|Clefable, F|100/100
+|-damage|p2a: Clefable|76/100|[from] Spikes
+|-status|p2a: Clefable|tox
+|-damage|p2a: Clefable|63/100 tox|[from] Stealth Rock
+|turn|26
+|
+|t:|1641747862
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100 tox
+|move|p1a: Titan|Gyro Ball|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|25/100 tox
+|
+|-heal|p2a: Clefable|31/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|25/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641747875
+|move|p2a: Clefable|Moonblast|p1a: Titan
+|-resisted|p1a: Titan
+|-damage|p1a: Titan|38/100
+|move|p1a: Titan|Leech Seed|p2a: Clefable
+|-start|p2a: Clefable|move: Leech Seed
+|
+|-heal|p2a: Clefable|31/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|19/100 tox|[from] Leech Seed|[of] p1a: Titan
+|-heal|p1a: Titan|52/100|[silent]
+|-damage|p2a: Clefable|7/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641747898
+|move|p2a: Clefable|Moonblast|p1a: Titan
+|-resisted|p1a: Titan
+|-damage|p1a: Titan|38/100
+|move|p1a: Titan|Gyro Ball|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|inactive|YasTheTurk has 30 seconds left.
+|
+|t:|1641747914
+|switch|p2a: Ferrothorn|Ferrothorn, M|59/100
+|-damage|p2a: Ferrothorn|53/100|[from] Stealth Rock
+|-damage|p2a: Ferrothorn|28/100|[from] Spikes
+|turn|29
+|inactive|YasTheTurk has 30 seconds left.
+|
+|t:|1641747925
+|move|p2a: Ferrothorn|Knock Off|p1a: Titan
+|-damage|p1a: Titan|30/100
+|-damage|p2a: Ferrothorn|16/100|[from] ability: Iron Barbs|[of] p1a: Titan
+|move|p1a: Titan|Gyro Ball|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|11/100
+|-damage|p1a: Titan|18/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|18/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|inactive|YasTheTurk has 30 seconds left.
+|c|☆YasTheTurk|Imagine playing like that loool
+|inactive|YasTheTurk has 20 seconds left.
+|n|!YasTheTurk|yastheturk
+|inactive|YasTheTurk has 15 seconds left.
+|inactive|YasTheTurk has 10 seconds left.
+|inactive|YasTheTurk has 5 seconds left.
+|-message|YasTheTurk lost due to inactivity.
+|
+|win|WitheredPoet
+|raw|WitheredPoet's rating: 1039 &rarr; <strong>1069</strong><br />(+30 for winning)
+|raw|YasTheTurk's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|l|!YasTheTurk
+|c|☆WitheredPoet|You literally have no one to clear hazards my guy don’t blame me for not knowing how to teambuild

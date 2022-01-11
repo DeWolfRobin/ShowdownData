@@ -1,0 +1,311 @@
+|j|☆perfecto123
+|j|☆DumbLick1337
+|t:|1641834811
+|gametype|singles
+|player|p1|perfecto123|cyrus|1405
+|player|p2|DumbLick1337|102|1364
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Galvantula, M|
+|poke|p1|Gengar, M|
+|poke|p1|Grimmsnarl, M|
+|poke|p1|Gyarados, M|
+|poke|p1|Hydreigon, M|
+|poke|p1|Blaziken, M|
+|poke|p2|Seismitoad, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Corviknight, M|
+|poke|p2|Hatterene, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Hippowdon, M|
+|teampreview
+|
+|t:|1641834815
+|start
+|switch|p1a: Galvantula|Galvantula, M|100/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|
+|t:|1641834821
+|move|p1a: Galvantula|Bug Buzz|p2a: Hippowdon
+|-damage|p2a: Hippowdon|57/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Galvantula
+|-sidestart|p1: perfecto123|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Galvantula|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641834827
+|move|p1a: Galvantula|Sticky Web|p2a: Hippowdon
+|-sidestart|p2: DumbLick1337|move: Sticky Web
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Galvantula|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641834833
+|move|p1a: Galvantula|Bug Buzz|p2a: Hippowdon
+|-damage|p2a: Hippowdon|62/100
+|move|p2a: Hippowdon|Earthquake|p1a: Galvantula
+|-damage|p1a: Galvantula|22/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Galvantula|16/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641834840
+|move|p1a: Galvantula|Bug Buzz|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Galvantula|10/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641834840
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|5
+|
+|t:|1641834849
+|move|p2a: rotomheat|Volt Switch|p1a: Galvantula
+|-resisted|p1a: Galvantula
+|-damage|p1a: Galvantula|0 fnt
+|faint|p1a: Galvantula
+|
+|t:|1641834849
+|switch|p2a: Seismitoad|Seismitoad, F|100/100|[from]move: Volt Switch
+|-activate|p2a: Seismitoad|move: Sticky Web
+|-unboost|p2a: Seismitoad|spe|1
+|
+|-weather|none
+|upkeep
+|
+|t:|1641834857
+|switch|p1a: Hydreigon|Hydreigon, M|100/100
+|-damage|p1a: Hydreigon|88/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641834861
+|switch|p2a: Hatterene|Hatterene, F|100/100
+|-activate|p2a: Hatterene|move: Sticky Web
+|-unboost|p2a: Hatterene|spe|1
+|move|p1a: Hydreigon|Nasty Plot|p1a: Hydreigon
+|-boost|p1a: Hydreigon|spa|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641834867
+|move|p1a: Hydreigon|Flash Cannon|p2a: Hatterene
+|-supereffective|p2a: Hatterene
+|-damage|p2a: Hatterene|13/100
+|-unboost|p2a: Hatterene|spd|1
+|-damage|p1a: Hydreigon|78/100|[from] item: Life Orb
+|move|p2a: Hatterene|Nuzzle|p1a: Hydreigon
+|-resisted|p1a: Hydreigon
+|-damage|p1a: Hydreigon|76/100
+|-status|p1a: Hydreigon|par
+|
+|upkeep
+|turn|8
+|
+|t:|1641834877
+|move|p1a: Hydreigon|Dark Pulse|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|faint|p2a: Hatterene
+|-damage|p1a: Hydreigon|66/100 par|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641834877
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|-activate|p2a: Seismitoad|move: Sticky Web
+|-unboost|p2a: Seismitoad|spe|1
+|turn|9
+|
+|t:|1641834885
+|move|p2a: Seismitoad|Low Kick|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|faint|p1a: Hydreigon
+|
+|upkeep
+|
+|t:|1641834892
+|switch|p1a: Gyarados|Gyarados, M|100/100
+|-damage|p1a: Gyarados|76/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641834895
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641834902
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Corviknight|Iron Head|p1a: Gyarados
+|-resisted|p1a: Gyarados
+|-damage|p1a: Gyarados|59/100
+|
+|upkeep
+|turn|12
+|
+|t:|1641834908
+|move|p1a: Gyarados|Waterfall|p2a: Corviknight
+|-damage|p2a: Corviknight|39/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|89/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|96/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641834916
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|14
+|
+|t:|1641834922
+|move|p1a: Gyarados|Waterfall|p2a: Corviknight
+|-damage|p2a: Corviknight|30/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|80/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641834930
+|move|p1a: Gyarados|Dragon Dance|p1a: Gyarados
+|-boost|p1a: Gyarados|atk|1
+|-boost|p1a: Gyarados|spe|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|16
+|
+|t:|1641834937
+|move|p1a: Gyarados|Waterfall|p2a: Corviknight
+|-damage|p2a: Corviknight|19/100
+|cant|p2a: Corviknight|flinch
+|
+|-heal|p2a: Corviknight|25/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641834944
+|move|p1a: Gyarados|Waterfall|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|upkeep
+|
+|t:|1641834944
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|18
+|
+|t:|1641834950
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|-activate|p2a: Seismitoad|move: Sticky Web
+|-unboost|p2a: Seismitoad|spe|1
+|move|p1a: Gyarados|Waterfall|p2a: Seismitoad
+|-immune|p2a: Seismitoad|[from] ability: Water Absorb
+|
+|upkeep
+|turn|19
+|
+|t:|1641834957
+|move|p1a: Gyarados|Earthquake|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|faint|p2a: Seismitoad
+|-ability|p1a: Gyarados|Moxie|boost
+|-boost|p1a: Gyarados|atk|1
+|
+|upkeep
+|
+|t:|1641834957
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|20
+|
+|t:|1641834964
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-activate|p2a: Dragapult|move: Sticky Web
+|-unboost|p2a: Dragapult|spe|1
+|move|p1a: Gyarados|Waterfall|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641834964
+|switch|p2a: rotomheat|Rotom-Heat|100/100
+|turn|21
+|
+|t:|1641834973
+|move|p1a: Gyarados|Ice Fang|p2a: rotomheat
+|-resisted|p2a: rotomheat
+|-damage|p2a: rotomheat|38/100
+|move|p2a: rotomheat|Volt Switch|p1a: Gyarados
+|-supereffective|p1a: Gyarados
+|-damage|p1a: Gyarados|0 fnt
+|faint|p1a: Gyarados
+|
+|upkeep
+|
+|t:|1641834981
+|switch|p1a: Gengar|Gengar, M|100/100
+|-damage|p1a: Gengar|88/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641834985
+|move|p2a: rotomheat|Volt Switch|p1a: Gengar
+|-damage|p1a: Gengar|40/100
+|move|p1a: Gengar|Sludge Wave|p2a: rotomheat
+|-damage|p2a: rotomheat|0 fnt
+|faint|p2a: rotomheat
+|-damage|p1a: Gengar|30/100|[from] item: Life Orb
+|
+|win|perfecto123
+|raw|perfecto123's rating: 1405 &rarr; <strong>1423</strong><br />(+18 for winning)
+|raw|DumbLick1337's rating: 1364 &rarr; <strong>1346</strong><br />(-18 for losing)
+|c|☆DumbLick1337|gg

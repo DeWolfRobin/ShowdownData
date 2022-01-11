@@ -1,0 +1,381 @@
+|j|☆1Cyand1
+|j|☆Pdsu
+|t:|1641781327
+|gametype|singles
+|player|p1|1Cyand1|pokemaniac|
+|player|p2|Pdsu|cheryl|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Keldeo-Resolute|
+|poke|p1|Xurkitree|
+|poke|p1|Krookodile, F|
+|poke|p1|Whimsicott, F|
+|poke|p1|Scizor, M|
+|poke|p1|Reuniclus, F|
+|poke|p2|Arctozolt|
+|poke|p2|Moltres-Galar|
+|poke|p2|Mimikyu, F|
+|poke|p2|Cobalion|
+|poke|p2|Flygon, F|
+|poke|p2|Umbreon, M|
+|teampreview
+|c|☆Pdsu|good luck good luck
+|
+|t:|1641781353
+|start
+|switch|p1a: Highsinger|Scizor, M|100/100
+|switch|p2a: Guayas|Cobalion, shiny|100/100
+|turn|1
+|
+|t:|1641781398
+|switch|p1a: Korkie|Keldeo-Resolute|100/100
+|move|p2a: Guayas|Sacred Sword|p1a: Korkie
+|-damage|p1a: Korkie|60/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641781442
+|move|p2a: Guayas|Volt Switch|p1a: Korkie
+|-supereffective|p1a: Korkie
+|-damage|p1a: Korkie|28/100
+|
+|t:|1641781445
+|switch|p2a: Kyu|Mimikyu, F, shiny|100/100|[from]move: Volt Switch
+|move|p1a: Korkie|Secret Sword|p2a: Kyu
+|-immune|p2a: Kyu
+|
+|upkeep
+|turn|3
+|
+|t:|1641781471
+|switch|p1a: Highsinger|Scizor, M|100/100
+|move|p2a: Kyu|Shadow Sneak|p1a: Highsinger
+|-damage|p1a: Highsinger|85/100
+|-damage|p2a: Kyu|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Highsinger|91/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641781501
+|switch|p2a: Guayas|Cobalion, shiny|100/100
+|move|p1a: Highsinger|Bullet Punch|p2a: Guayas
+|-resisted|p2a: Guayas
+|-damage|p2a: Guayas|93/100
+|
+|-heal|p1a: Highsinger|98/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|c|☆Pdsu|im just gonna let you know this scizor suuuucks for me
+|
+|t:|1641781538
+|switch|p1a: Ghavial|Krookodile, F|100/100
+|-ability|p1a: Ghavial|Intimidate|boost
+|-unboost|p2a: Guayas|atk|1
+|move|p2a: Guayas|Sacred Sword|p1a: Ghavial
+|-supereffective|p1a: Ghavial
+|-damage|p1a: Ghavial|45/100
+|
+|-heal|p1a: Ghavial|51/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641781558
+|move|p2a: Guayas|Sacred Sword|p1a: Ghavial
+|-supereffective|p1a: Ghavial
+|-damage|p1a: Ghavial|4/100
+|move|p1a: Ghavial|Earthquake|p2a: Guayas
+|-supereffective|p2a: Guayas
+|-enditem|p2a: Guayas|Shuca Berry|[eat]
+|-enditem|p2a: Guayas|Shuca Berry|[weaken]
+|-damage|p2a: Guayas|57/100
+|
+|-heal|p1a: Ghavial|10/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641781594
+|move|p2a: Guayas|Sacred Sword|p1a: Ghavial
+|-supereffective|p1a: Ghavial
+|-damage|p1a: Ghavial|0 fnt
+|faint|p1a: Ghavial
+|
+|upkeep
+|
+|t:|1641781600
+|switch|p1a: Korkie|Keldeo-Resolute|28/100
+|turn|8
+|
+|t:|1641781625
+|move|p2a: Guayas|Sacred Sword|p1a: Korkie
+|-damage|p1a: Korkie|1/100
+|move|p1a: Korkie|Secret Sword|p2a: Guayas
+|-supereffective|p2a: Guayas
+|-damage|p2a: Guayas|0 fnt
+|faint|p2a: Guayas
+|
+|upkeep
+|c|☆1Cyand1|haHA
+|c|☆Pdsu|damnit dude3
+|
+|t:|1641781635
+|switch|p2a: Kyu|Mimikyu, F, shiny|91/100
+|turn|9
+|
+|t:|1641781699
+|switch|p1a: Highsinger|Scizor, M|98/100
+|move|p2a: Kyu|Swords Dance|p2a: Kyu
+|-boost|p2a: Kyu|atk|2
+|
+|-heal|p1a: Highsinger|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641781720
+|move|p1a: Highsinger|Bullet Punch|p2a: Kyu
+|-activate|p2a: Kyu|ability: Disguise
+|-damage|p2a: Kyu|91/100
+|detailschange|p2a: Kyu|Mimikyu-Busted, F, shiny
+|-damage|p2a: Kyu|78/100|[from] pokemon: Mimikyu-Busted
+|move|p2a: Kyu|Shadow Claw|p1a: Highsinger
+|-damage|p1a: Highsinger|47/100
+|-damage|p2a: Kyu|68/100|[from] item: Life Orb
+|
+|-heal|p1a: Highsinger|53/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|c|☆Pdsu|i hope that bullet punch doesnt kill
+|
+|t:|1641781739
+|move|p1a: Highsinger|Bullet Punch|p2a: Kyu
+|-supereffective|p2a: Kyu
+|-damage|p2a: Kyu|10/100
+|move|p2a: Kyu|Shadow Claw|p1a: Highsinger
+|-damage|p1a: Highsinger|0 fnt
+|faint|p1a: Highsinger
+|-damage|p2a: Kyu|0 fnt|[from] item: Life Orb
+|faint|p2a: Kyu
+|
+|upkeep
+|c|☆Pdsu|thank god
+|c|☆1Cyand1|dand
+|c|☆1Cyand1|dang
+|
+|t:|1641781771
+|switch|p2a: A.C.Z.|Arctozolt|100/100
+|switch|p1a: Malvin|Whimsicott, F, shiny|100/100
+|turn|12
+|c|☆Pdsu|frick
+|
+|t:|1641781826
+|switch|p1a: Korkie|Keldeo-Resolute|1/100
+|move|p2a: A.C.Z.|Blizzard|p1a: Korkie|[miss]
+|-miss|p2a: A.C.Z.|p1a: Korkie
+|
+|upkeep
+|turn|13
+|c|☆Pdsu|yeah why did i keep blizzard :(
+|
+|t:|1641781845
+|move|p1a: Korkie|Secret Sword|p2a: A.C.Z.
+|-supereffective|p2a: A.C.Z.
+|-damage|p2a: A.C.Z.|0 fnt
+|faint|p2a: A.C.Z.
+|
+|upkeep
+|c|☆1Cyand1|brrrrr
+|c|☆Pdsu|that sucks
+|
+|t:|1641781891
+|switch|p2a: Garchomp♪|Flygon, F, shiny|100/100
+|turn|14
+|
+|t:|1641781930
+|move|p1a: Korkie|Secret Sword|p2a: Garchomp♪
+|-damage|p2a: Garchomp♪|7/100
+|-enditem|p2a: Garchomp♪|Figy Berry|[eat]
+|-heal|p2a: Garchomp♪|40/100|[from] item: Figy Berry
+|move|p2a: Garchomp♪|Steel Wing|p1a: Korkie
+|-resisted|p1a: Korkie
+|-damage|p1a: Korkie|0 fnt
+|faint|p1a: Korkie
+|
+|upkeep
+|c|☆Pdsu|ouch
+|
+|t:|1641781984
+|switch|p1a: Cyto|Reuniclus, F, shiny|100/100
+|turn|15
+|c|☆Pdsu|i feel like you have ice beam
+|
+|t:|1641782021
+|move|p2a: Garchomp♪|Earthquake|p1a: Cyto
+|-damage|p1a: Cyto|52/100
+|move|p1a: Cyto|Future Sight|p2a: Garchomp♪
+|-start|p1a: Cyto|move: Future Sight
+|
+|upkeep
+|turn|16
+|c|☆Pdsu|that is not ice beam
+|
+|t:|1641782031
+|move|p2a: Garchomp♪|Earthquake|p1a: Cyto
+|-damage|p1a: Cyto|11/100
+|move|p1a: Cyto|Psyshock|p2a: Garchomp♪
+|-damage|p2a: Garchomp♪|0 fnt
+|faint|p2a: Garchomp♪
+|
+|upkeep
+|c|☆1Cyand1|brrrr
+|
+|t:|1641782042
+|switch|p2a: dog|Umbreon, M|100/100
+|turn|17
+|
+|t:|1641782070
+|move|p2a: dog|Iron Tail|p1a: Cyto|[miss]
+|-miss|p2a: dog|p1a: Cyto
+|move|p1a: Cyto|Knock Off|p2a: dog
+|-resisted|p2a: dog
+|-damage|p2a: dog|94/100
+|-enditem|p2a: dog|Leftovers|[from] move: Knock Off|[of] p1a: Cyto
+|
+|-end|p2a: dog|move: Future Sight
+|-immune|p2a: dog
+|upkeep
+|turn|18
+|c|☆Pdsu|im so stupdi
+|c|☆1Cyand1|cool dog
+|c|☆Pdsu|you are weak to dark and i didnt even try using dark
+|
+|t:|1641782113
+|switch|p1a: Malvin|Whimsicott, F, shiny|100/100
+|move|p2a: dog|Foul Play|p1a: Malvin
+|-resisted|p1a: Malvin
+|-damage|p1a: Malvin|87/100
+|
+|upkeep
+|turn|19
+|c|☆Pdsu|i did it backwards epic
+|
+|t:|1641782141
+|move|p2a: dog|Protect|p2a: dog
+|-singleturn|p2a: dog|Protect
+|move|p1a: Malvin|Moonblast|p2a: dog
+|-activate|p2a: dog|move: Protect
+|
+|upkeep
+|turn|20
+|c|☆Pdsu|dude i played so shittly
+|
+|t:|1641782161
+|move|p1a: Malvin|Moonblast|p2a: dog
+|-supereffective|p2a: dog
+|-damage|p2a: dog|65/100
+|move|p2a: dog|Iron Tail|p1a: Malvin|[miss]
+|-miss|p2a: dog|p1a: Malvin
+|
+|upkeep
+|turn|21
+|c|☆1Cyand1|that's okay
+|
+|t:|1641782178
+|move|p1a: Malvin|U-turn|p2a: dog
+|-supereffective|p2a: dog
+|-damage|p2a: dog|48/100
+|
+|t:|1641782185
+|switch|p1a: Cyto|Reuniclus, F, shiny|44/100|[from]move: U-turn
+|move|p2a: dog|Iron Tail|p1a: Cyto
+|-damage|p1a: Cyto|27/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641782200
+|move|p2a: dog|Foul Play|p1a: Cyto
+|-supereffective|p1a: Cyto
+|-damage|p1a: Cyto|0 fnt
+|faint|p1a: Cyto
+|
+|upkeep
+|
+|t:|1641782204
+|switch|p1a: Malvin|Whimsicott, F, shiny|87/100
+|turn|23
+|
+|t:|1641782212
+|move|p1a: Malvin|Leech Seed|p2a: dog
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: dog
+|move|p2a: dog|Iron Tail|p1a: Malvin
+|-supereffective|p1a: Malvin
+|-damage|p1a: Malvin|48/100
+|
+|upkeep
+|turn|24
+|c|☆Pdsu|what
+|c|☆1Cyand1|i'm throwing
+|c|☆Pdsu|what the fuck was that lmoa
+|c|☆Pdsu|i did not know that was a thing
+|
+|t:|1641782251
+|move|p1a: Malvin|Moonblast|p2a: dog
+|-supereffective|p2a: dog
+|-damage|p2a: dog|20/100
+|-unboost|p2a: dog|spa|1
+|move|p2a: dog|Iron Tail|p1a: Malvin
+|-supereffective|p1a: Malvin
+|-damage|p1a: Malvin|6/100
+|-unboost|p1a: Malvin|def|1
+|
+|upkeep
+|turn|25
+|
+|t:|1641782267
+|move|p2a: dog|Protect|p2a: dog
+|-singleturn|p2a: dog|Protect
+|move|p1a: Malvin|U-turn|p2a: dog
+|-activate|p2a: dog|move: Protect
+|
+|upkeep
+|turn|26
+|
+|t:|1641782277
+|move|p1a: Malvin|U-turn|p2a: dog
+|-supereffective|p2a: dog
+|-crit|p2a: dog
+|-damage|p2a: dog|0 fnt
+|faint|p2a: dog
+|c|☆Pdsu|man
+|
+|t:|1641782282
+|switch|p1a: Ampermort|Xurkitree|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641782291
+|switch|p2a: Fenicchi|Moltres-Galar|100/100
+|turn|27
+|
+|t:|1641782316
+|move|p1a: Ampermort|Thunderbolt|p2a: Fenicchi
+|-supereffective|p2a: Fenicchi
+|-damage|p2a: Fenicchi|0 fnt
+|faint|p2a: Fenicchi
+|
+|win|1Cyand1
+|c|☆Pdsu|boo
+|c|☆Pdsu|gg
+|c|☆1Cyand1|gg

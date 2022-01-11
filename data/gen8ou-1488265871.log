@@ -1,0 +1,90 @@
+|j|☆dwazed69
+|j|☆P0KESHOW
+|t:|1641743475
+|gametype|singles
+|player|p1|dwazed69|gambler|1031
+|player|p2|P0KESHOW|battlegirl-gen4|1004
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Regieleki|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Uxie|
+|poke|p1|Blacephalon|
+|poke|p2|Aggron, F|
+|poke|p2|Victini|
+|poke|p2|Mew|
+|poke|p2|Druddigon, F|
+|poke|p2|Shuckle, M|
+|poke|p2|Mamoswine, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by P0KESHOW)
+|
+|t:|1641743493
+|start
+|switch|p1a: Rip Bozo|Uxie|100/100
+|switch|p2a: Mamoswine|Mamoswine, F|100/100
+|turn|1
+|
+|t:|1641743500
+|move|p1a: Rip Bozo|Trick|p2a: Mamoswine
+|-activate|p1a: Rip Bozo|move: Trick|[of] p2a: Mamoswine
+|-item|p2a: Mamoswine|Choice Scarf|[from] move: Trick
+|-item|p1a: Rip Bozo|Focus Sash|[from] move: Trick
+|move|p2a: Mamoswine|Icicle Crash|p1a: Rip Bozo
+|-damage|p1a: Rip Bozo|65/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641743506
+|move|p2a: Mamoswine|Icicle Crash|p1a: Rip Bozo
+|-damage|p1a: Rip Bozo|32/100
+|move|p1a: Rip Bozo|Thunder Wave|p2a: Mamoswine
+|-immune|p2a: Mamoswine
+|
+|upkeep
+|turn|3
+|
+|t:|1641743514
+|move|p2a: Mamoswine|Icicle Crash|p1a: Rip Bozo
+|-damage|p1a: Rip Bozo|0 fnt
+|faint|p1a: Rip Bozo
+|
+|upkeep
+|
+|t:|1641743522
+|switch|p1a: UwU anime bait|Landorus-Therian, M|100/100
+|-ability|p1a: UwU anime bait|Intimidate|boost
+|-fail|p2a: Mamoswine|unboost|Attack|[from] ability: Oblivious|[of] p2a: Mamoswine
+|turn|4
+|
+|t:|1641743524
+|move|p2a: Mamoswine|Icicle Crash|p1a: UwU anime bait
+|-supereffective|p1a: UwU anime bait
+|-damage|p1a: UwU anime bait|0 fnt
+|faint|p1a: UwU anime bait
+|
+|upkeep
+|
+|t:|1641743529
+|switch|p1a: ima head out|Blacephalon|100/100
+|turn|5
+|-message|dwazed69 forfeited.
+|
+|win|P0KESHOW
+|raw|dwazed69's rating: 1031 &rarr; <strong>1015</strong><br />(-16 for losing)
+|raw|P0KESHOW's rating: 1004 &rarr; <strong>1046</strong><br />(+42 for winning)
+|l|☆dwazed69

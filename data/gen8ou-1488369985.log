@@ -1,0 +1,100 @@
+|j|☆totoros neighbor
+|j|☆Jester Cheetah
+|t:|1641756885
+|gametype|singles
+|player|p1|totoros neighbor|palmer|1112
+|player|p2|Jester Cheetah|101|1122
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Victini|
+|poke|p1|Dragonite, F|
+|poke|p1|Scizor, F|
+|poke|p1|Tangrowth, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Latios, M|
+|poke|p2|Mew|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Scizor, M|
+|poke|p2|Toxapex, F|
+|poke|p2|Entei|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Jester Cheetah)
+|
+|t:|1641756945
+|start
+|switch|p1a: Latios|Latios, M|100/100
+|switch|p2a: Scizor|Scizor, M|100/100
+|turn|1
+|
+|t:|1641756952
+|move|p1a: Latios|Mystical Fire|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|
+|t:|1641756964
+|switch|p2a: Face Stealer|Mew|100/100
+|turn|2
+|
+|t:|1641756969
+|move|p1a: Latios|Mystical Fire|p2a: Face Stealer
+|-damage|p2a: Face Stealer|84/100
+|-unboost|p2a: Face Stealer|spa|1
+|move|p2a: Face Stealer|Block|p1a: Latios
+|-activate|p1a: Latios|trapped
+|
+|upkeep
+|turn|3
+|
+|t:|1641756976
+|move|p1a: Latios|Mystical Fire|p2a: Face Stealer
+|-damage|p2a: Face Stealer|69/100
+|-unboost|p2a: Face Stealer|spa|1
+|move|p2a: Face Stealer|Imprison|p2a: Face Stealer
+|-start|p2a: Face Stealer|move: Imprison
+|
+|upkeep
+|turn|4
+|
+|t:|1641756986
+|move|p1a: Latios|Calm Mind|p1a: Latios
+|-boost|p1a: Latios|spa|1
+|-boost|p1a: Latios|spd|1
+|move|p2a: Face Stealer|Transform|p1a: Latios
+|-transform|p2a: Face Stealer|p1a: Latios
+|
+|upkeep
+|turn|5
+|
+|t:|1641756994
+|-activate|p1a: Latios|move: Struggle
+|move|p1a: Latios|Struggle|p2a: Face Stealer
+|-damage|p2a: Face Stealer|61/100
+|-damage|p1a: Latios|76/100|[from] recoil
+|move|p2a: Face Stealer|Calm Mind|p2a: Face Stealer
+|-boost|p2a: Face Stealer|spa|1
+|-boost|p2a: Face Stealer|spd|1
+|
+|upkeep
+|turn|6
+|-message|totoros neighbor forfeited.
+|
+|win|Jester Cheetah
+|raw|totoros neighbor's rating: 1112 &rarr; <strong>1088</strong><br />(-24 for losing)
+|raw|Jester Cheetah's rating: 1122 &rarr; <strong>1146</strong><br />(+24 for winning)
+|l|☆totoros neighbor
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

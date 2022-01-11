@@ -1,0 +1,150 @@
+|j|☆7u7_Emma_UwU
+|j|☆Bo Jiden
+|t:|1641747686
+|gametype|singles
+|player|p1|7u7_Emma_UwU|102|1320
+|player|p2|Bo Jiden|unknown|1362
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Urshifu-*, F|
+|poke|p1|Bisharp, F|
+|poke|p1|Kartana|
+|poke|p1|Tapu Koko|
+|poke|p1|Slurpuff, F|
+|poke|p2|Nihilego|
+|poke|p2|Dragonite, M|
+|poke|p2|Buzzwole|
+|poke|p2|Kartana|
+|poke|p2|Necrozma|
+|poke|p2|Zeraora|
+|teampreview
+|
+|t:|1641747691
+|start
+|switch|p1a: Slurpuff|Slurpuff, F|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|1
+|
+|t:|1641747701
+|move|p2a: Zeraora|Taunt|p1a: Slurpuff
+|-start|p1a: Slurpuff|move: Taunt
+|cant|p1a: Slurpuff|move: Taunt|String Shot
+|
+|upkeep
+|turn|2
+|
+|t:|1641747707
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Zeraora|Knock Off|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|79/100
+|-enditem|p1a: Tapu Koko|Life Orb|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|3
+|
+|t:|1641747717
+|move|p2a: Zeraora|Plasma Fists|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|38/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Zeraora
+|-damage|p2a: Zeraora|58/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641747737
+|move|p2a: Zeraora|Plasma Fists|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641747745
+|switch|p1a: Slurpuff|Slurpuff, F|100/100
+|turn|5
+|
+|t:|1641747751
+|move|p1a: Slurpuff|Magic Coat|p1a: Slurpuff
+|-singleturn|p1a: Slurpuff|move: Magic Coat
+|move|p2a: Zeraora|Taunt|p1a: Slurpuff
+|move|p1a: Slurpuff|Taunt|p2a: Zeraora|[from]Magic Coat
+|-start|p2a: Zeraora|move: Taunt
+|
+|upkeep
+|turn|6
+|
+|t:|1641747759
+|move|p2a: Zeraora|Plasma Fists|p1a: Slurpuff
+|-enditem|p1a: Slurpuff|Focus Sash
+|-damage|p1a: Slurpuff|1/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p1a: Slurpuff|String Shot|p2a: Zeraora
+|-unboost|p2a: Zeraora|spe|2
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|7
+|
+|t:|1641747785
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Slurpuff|Sticky Web|p2a: Dragonite
+|-sidestart|p2: Bo Jiden|move: Sticky Web
+|
+|upkeep
+|turn|8
+|
+|t:|1641747796
+|move|p1a: Slurpuff|Endeavor|p2a: Dragonite
+|-damage|p2a: Dragonite|1/100
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|
+|upkeep
+|turn|9
+|
+|t:|1641747809
+|switch|p1a: Kartana|Kartana|100/100
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|51/100
+|-singleturn|p2a: Dragonite|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1641747817
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Kartana|Knock Off|p2a: Dragonite
+|-damage|p2a: Dragonite|81/100
+|-enditem|p2a: Dragonite|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Kartana
+|
+|upkeep
+|turn|11
+|-message|7u7_Emma_UwU forfeited.
+|
+|win|Bo Jiden
+|raw|7u7_Emma_UwU's rating: 1320 &rarr; <strong>1302</strong><br />(-18 for losing)
+|raw|Bo Jiden's rating: 1362 &rarr; <strong>1380</strong><br />(+18 for winning)
+|l|☆7u7_Emma_UwU

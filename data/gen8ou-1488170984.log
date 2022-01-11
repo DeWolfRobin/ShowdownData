@@ -1,0 +1,73 @@
+|j|☆kerazs
+|j|☆yogo896
+|t:|1641726891
+|gametype|singles
+|player|p1|kerazs|170|1252
+|player|p2|yogo896|caitlin|1208
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Shedinja|
+|poke|p1|Mew|
+|poke|p1|Zoroark, M|
+|poke|p1|Ditto|
+|poke|p1|Blaziken, M|
+|poke|p1|Urshifu-*, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Scizor, F|
+|poke|p2|Clefable, F|
+|poke|p2|Slowbro, F|
+|poke|p2|Regieleki|
+|poke|p2|Dragonite, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yogo896)
+|inactive|kerazs also wants the timer to be on.
+|
+|t:|1641726899
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|1
+|
+|t:|1641726915
+|move|p1a: Mew|Block|p2a: Clefable
+|-activate|p2a: Clefable|trapped
+|move|p2a: Clefable|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|79/100
+|-enditem|p1a: Mew|Lum Berry|[from] move: Knock Off|[of] p2a: Clefable
+|
+|upkeep
+|turn|2
+|
+|t:|1641726923
+|move|p1a: Mew|Imprison|p1a: Mew
+|-start|p1a: Mew|move: Imprison
+|move|p2a: Clefable|Stealth Rock|p1a: Mew
+|-sidestart|p1: kerazs|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641726932
+|move|p1a: Mew|Transform|p2a: Clefable
+|-transform|p1a: Mew|p2a: Clefable
+|cant|p2a: Clefable|move: Imprison|Moonblast
+|
+|upkeep
+|turn|4
+|-message|yogo896 forfeited.
+|
+|win|kerazs
+|raw|kerazs's rating: 1252 &rarr; <strong>1274</strong><br />(+22 for winning)
+|raw|yogo896's rating: 1208 &rarr; <strong>1186</strong><br />(-22 for losing)

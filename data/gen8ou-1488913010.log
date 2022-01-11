@@ -1,0 +1,1278 @@
+|j|☆esquizofelix
+|j|☆DumbLick1337
+|t:|1641835939
+|gametype|singles
+|player|p1|esquizofelix|brawly|1326
+|player|p2|DumbLick1337|102|1365
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Barraskewda, F|
+|poke|p1|Slowbro, M|
+|poke|p1|Scizor, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tyranitar, F|
+|poke|p2|Clefable, F|
+|poke|p2|Corviknight, M|
+|poke|p2|Hydreigon, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Hippowdon, M|
+|poke|p2|Excadrill, F|
+|teampreview
+|c|☆DumbLick1337|hf
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by DumbLick1337)
+|c|☆esquizofelix|u2
+|
+|t:|1641835951
+|start
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1641835955
+|move|p1a: Barraskewda|Flip Turn|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|57/100
+|
+|t:|1641835962
+|switch|p1a: Slowbro|Slowbro, M|100/100|[from]move: Flip Turn
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641835967
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Slowbro|Scald|p2a: Clefable
+|-damage|p2a: Clefable|70/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641835971
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|94/100
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|82/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641835976
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|25/100
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641835985
+|switch|p1a: Scizor|Scizor, F|100/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641835991
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Scizor|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|94/100
+|
+|t:|1641836000
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|94/100|[from] Sandstorm
+|-end|p2a: Corviknight|move: Future Sight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|-heal|p2a: Corviknight|79/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641836007
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|54/100
+|-start|p2a: Hippowdon|confusion
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|88/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641836013
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|68/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|82/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641836018
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641836024
+|switch|p2a: Corviknight|Corviknight, M|79/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|Earthquake|p2a: Corviknight
+|-immune|p2a: Corviknight
+|
+|-heal|p2a: Corviknight|85/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641836028
+|switch|p1a: Zapdos|Zapdos|82/100
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|60/100
+|
+|-heal|p2a: Corviknight|66/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641836036
+|move|p1a: Zapdos|Hurricane|p2a: Corviknight|[miss]
+|-miss|p1a: Zapdos|p2a: Corviknight
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|upkeep
+|turn|12
+|
+|t:|1641836039
+|move|p1a: Zapdos|Hurricane|p2a: Corviknight|[miss]
+|-miss|p1a: Zapdos|p2a: Corviknight
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-fail|p2a: Corviknight|move: Substitute
+|
+|upkeep
+|turn|13
+|
+|t:|1641836043
+|switch|p2a: Excadrill|Excadrill, F|68/100
+|move|p1a: Zapdos|Volt Switch|p2a: Excadrill
+|-immune|p2a: Excadrill
+|
+|upkeep
+|turn|14
+|
+|t:|1641836048
+|switch|p2a: rotomwash|Rotom-Wash|100/100
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: rotomwash|atk|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641836053
+|switch|p2a: Corviknight|Corviknight, M|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|95/100
+|
+|t:|1641836058
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: U-turn
+|
+|-heal|p2a: Corviknight|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641836061
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|47/100
+|
+|t:|1641836065
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Corviknight|atk|1
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|
+|-heal|p2a: Corviknight|54/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641836071
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|50/100
+|
+|t:|1641836074
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: U-turn
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|25/100
+|
+|-heal|p2a: Corviknight|31/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641836077
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|t:|1641836083
+|switch|p1a: Slowbro|Slowbro, M|58/100|[from]move: Volt Switch
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|
+|-heal|p2a: Corviknight|38/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641836087
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|88/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|100/100
+|
+|-heal|p2a: Corviknight|94/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641836089
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|67/100
+|
+|-heal|p2a: Corviknight|73/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641836092
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|46/100
+|
+|-heal|p2a: Corviknight|52/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641836095
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|72/100
+|
+|-heal|p2a: Corviknight|78/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641836099
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|52/100
+|
+|-heal|p2a: Corviknight|58/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641836102
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|76/100
+|-status|p2a: Corviknight|brn
+|
+|-heal|p2a: Corviknight|82/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|76/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641836105
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|51/100 brn
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836108
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-heal|p2a: Corviknight|57/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|51/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641836111
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|t:|1641836115
+|switch|p1a: Slowbro|Slowbro, M|100/100|[from]move: Volt Switch
+|move|p2a: Corviknight|Brave Bird|p1a: Slowbro
+|-damage|p1a: Slowbro|68/100
+|-damage|p2a: Corviknight|40/100 brn|[from] Recoil
+|
+|-heal|p2a: Corviknight|46/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|40/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641836118
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|90/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836123
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-heal|p2a: Corviknight|96/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|90/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641836127
+|move|p1a: Zapdos|Hurricane|p2a: Corviknight|[miss]
+|-miss|p1a: Zapdos|p2a: Corviknight
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|29
+|
+|t:|1641836130
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-damage|p2a: Corviknight|38/100 brn
+|
+|t:|1641836134
+|switch|p1a: Slowbro|Slowbro, M|100/100|[from]move: Volt Switch
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|88/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|94/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|88/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641836137
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|63/100 brn
+|move|p1a: Slowbro|Future Sight|p2a: Corviknight
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Corviknight|69/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|63/100 brn|[from] brn
+|upkeep
+|turn|31
+|
+|t:|1641836139
+|move|p2a: Corviknight|Brave Bird|p1a: Slowbro
+|-crit|p1a: Slowbro
+|-damage|p1a: Slowbro|52/100
+|-damage|p2a: Corviknight|48/100 brn|[from] Recoil
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836142
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-heal|p2a: Corviknight|54/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|48/100 brn|[from] brn
+|upkeep
+|turn|32
+|
+|t:|1641836145
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|t:|1641836148
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Corviknight|atk|1
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|98/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-end|p2a: Corviknight|move: Future Sight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|79/100 brn
+|-heal|p2a: Corviknight|85/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|79/100 brn|[from] brn
+|upkeep
+|turn|33
+|
+|t:|1641836155
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|77/100 brn
+|
+|t:|1641836159
+|switch|p1a: Slowbro|Slowbro, M|85/100|[from]move: U-turn
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|52/100 brn
+|
+|-heal|p2a: Corviknight|59/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|52/100 brn|[from] brn
+|upkeep
+|turn|34
+|
+|t:|1641836164
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|35
+|
+|t:|1641836166
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|69/100 brn
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836169
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-heal|p2a: Corviknight|75/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|69/100 brn|[from] brn
+|upkeep
+|turn|36
+|
+|t:|1641836172
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|t:|1641836179
+|switch|p1a: Slowbro|Slowbro, M|100/100|[from]move: Volt Switch
+|move|p2a: Corviknight|Brave Bird|p1a: Slowbro
+|-damage|p1a: Slowbro|72/100
+|-damage|p2a: Corviknight|60/100 brn|[from] Recoil
+|
+|-heal|p2a: Corviknight|66/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|60/100 brn|[from] brn
+|upkeep
+|turn|37
+|
+|t:|1641836182
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|35/100 brn
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836186
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-heal|p2a: Corviknight|41/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|35/100 brn|[from] brn
+|upkeep
+|turn|38
+|
+|t:|1641836188
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|t:|1641836190
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Corviknight|atk|1
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|10/100 brn
+|
+|-heal|p2a: Corviknight|16/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|10/100 brn|[from] brn
+|upkeep
+|turn|39
+|
+|t:|1641836196
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|t:|1641836198
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: U-turn
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|60/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|66/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|60/100 brn|[from] brn
+|upkeep
+|turn|40
+|
+|t:|1641836205
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|t:|1641836209
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: Volt Switch
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Corviknight|atk|1
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|35/100 brn
+|
+|-heal|p2a: Corviknight|41/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|35/100 brn|[from] brn
+|upkeep
+|turn|41
+|
+|t:|1641836212
+|move|p1a: Landorus|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|t:|1641836217
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: U-turn
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|1
+|
+|-heal|p2a: Corviknight|41/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|35/100 brn|[from] brn
+|upkeep
+|turn|42
+|
+|t:|1641836220
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|t:|1641836224
+|switch|p1a: Scizor|Scizor, F|100/100|[from]move: Volt Switch
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|10/100 brn
+|
+|-heal|p2a: Corviknight|16/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|10/100 brn|[from] brn
+|upkeep
+|turn|43
+|
+|t:|1641836227
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|60/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Scizor|U-turn|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|t:|1641836229
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: U-turn
+|
+|-heal|p2a: Corviknight|66/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|60/100 brn|[from] brn
+|upkeep
+|turn|44
+|
+|t:|1641836236
+|move|p1a: Zapdos|Defog||[still]
+|-fail|p1a: Zapdos
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-fail|p2a: Corviknight|move: Substitute
+|
+|-heal|p2a: Corviknight|66/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|60/100 brn|[from] brn
+|upkeep
+|turn|45
+|
+|t:|1641836239
+|move|p1a: Zapdos|Hurricane|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|46
+|
+|t:|1641836242
+|move|p1a: Zapdos|Defog|p2a: Corviknight
+|-unboost|p2a: Corviknight|evasion|1
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|69/100 brn
+|
+|-heal|p2a: Corviknight|75/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|69/100 brn|[from] brn
+|upkeep
+|turn|47
+|
+|t:|1641836247
+|move|p1a: Zapdos|Volt Switch|p2a: Corviknight
+|-supereffective|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|t:|1641836254
+|switch|p1a: Slowbro|Slowbro, M|100/100|[from]move: Volt Switch
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|44/100 brn
+|
+|-heal|p2a: Corviknight|50/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|44/100 brn|[from] brn
+|upkeep
+|turn|48
+|
+|t:|1641836256
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|0
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|-heal|p2a: Corviknight|50/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|44/100 brn|[from] brn
+|upkeep
+|turn|49
+|
+|t:|1641836259
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|19/100 brn
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|-heal|p2a: Corviknight|25/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|19/100 brn|[from] brn
+|upkeep
+|turn|50
+|
+|t:|1641836267
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|69/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836270
+|switch|p1a: Scizor|Scizor, F|100/100|[from]move: Teleport
+|
+|-heal|p2a: Corviknight|75/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|69/100 brn|[from] brn
+|upkeep
+|turn|51
+|
+|t:|1641836276
+|move|p2a: Corviknight|Substitute|p2a: Corviknight
+|-start|p2a: Corviknight|Substitute
+|-damage|p2a: Corviknight|44/100 brn
+|move|p1a: Scizor|Knock Off|p2a: Corviknight
+|-activate|p2a: Corviknight|move: Substitute|[damage]
+|
+|-heal|p2a: Corviknight|50/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|44/100 brn|[from] brn
+|upkeep
+|turn|52
+|
+|t:|1641836282
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|94/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-heal|p2a: Corviknight|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|53
+|
+|t:|1641836288
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|0
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-end|p2a: Corviknight|Substitute
+|
+|-heal|p2a: Corviknight|100/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|54
+|
+|t:|1641836291
+|move|p2a: Corviknight|Brave Bird|p1a: Slowbro
+|-damage|p1a: Slowbro|65/100
+|-damage|p2a: Corviknight|83/100 brn|[from] Recoil
+|move|p1a: Slowbro|Scald|p2a: Corviknight
+|-damage|p2a: Corviknight|55/100 brn
+|
+|-heal|p2a: Corviknight|61/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|55/100 brn|[from] brn
+|upkeep
+|turn|55
+|
+|t:|1641836298
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836301
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|56
+|
+|t:|1641836307
+|move|p1a: Zapdos|Hurricane|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|70/100 brn
+|move|p2a: Corviknight|Roost|p2a: Corviknight
+|-heal|p2a: Corviknight|100/100 brn
+|-singleturn|p2a: Corviknight|move: Roost
+|
+|-damage|p2a: Corviknight|94/100 brn|[from] brn
+|upkeep
+|turn|57
+|
+|t:|1641836311
+|move|p1a: Zapdos|Hurricane|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|71/100 brn
+|move|p2a: Corviknight|Bulk Up|p2a: Corviknight
+|-boost|p2a: Corviknight|atk|1
+|-boost|p2a: Corviknight|def|0
+|
+|-heal|p2a: Corviknight|77/100 brn|[from] item: Leftovers
+|-damage|p2a: Corviknight|71/100 brn|[from] brn
+|upkeep
+|turn|58
+|
+|t:|1641836316
+|switch|p2a: rotomwash|Rotom-Wash|100/100
+|move|p1a: Zapdos|Volt Switch|p2a: rotomwash
+|-damage|p2a: rotomwash|59/100
+|
+|t:|1641836330
+|switch|p1a: Slowbro|Slowbro, M|98/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|59
+|
+|t:|1641836332
+|move|p2a: rotomwash|Volt Switch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|35/100
+|
+|t:|1641836332
+|switch|p2a: Hydreigon|Hydreigon, F|100/100|[from]move: Volt Switch
+|move|p1a: Slowbro|Future Sight|p2a: Hydreigon
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|60
+|
+|t:|1641836335
+|switch|p1a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|76/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|69/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|76/100|[from] item: Leftovers
+|upkeep
+|turn|61
+|
+|t:|1641836339
+|move|p2a: Hydreigon|Nasty Plot|p2a: Hydreigon
+|-boost|p2a: Hydreigon|spa|2
+|move|p1a: Tyranitar|Stone Edge|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|69/100|[from] Sandstorm
+|-end|p2a: Hydreigon|move: Future Sight
+|-immune|p2a: Hydreigon
+|-heal|p2a: Hydreigon|76/100|[from] item: Leftovers
+|upkeep
+|turn|62
+|
+|t:|1641836341
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|51/100
+|move|p1a: Tyranitar|Superpower|p2a: Hydreigon
+|-supereffective|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|-unboost|p1a: Tyranitar|atk|1
+|-unboost|p1a: Tyranitar|def|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|44/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|51/100|[from] item: Leftovers
+|upkeep
+|turn|63
+|
+|t:|1641836344
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|26/100
+|move|p1a: Tyranitar|Stone Edge|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Hydreigon|20/100|[from] Sandstorm
+|-heal|p2a: Hydreigon|26/100|[from] item: Leftovers
+|upkeep
+|turn|64
+|
+|t:|1641836351
+|move|p2a: Hydreigon|Substitute|p2a: Hydreigon
+|-start|p2a: Hydreigon|Substitute
+|-damage|p2a: Hydreigon|1/100
+|move|p1a: Tyranitar|Stone Edge|p2a: Hydreigon
+|-end|p2a: Hydreigon|Substitute
+|
+|-weather|none
+|-heal|p2a: Hydreigon|7/100|[from] item: Leftovers
+|upkeep
+|turn|65
+|
+|t:|1641836356
+|move|p2a: Hydreigon|Dark Pulse|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|81/100
+|move|p1a: Tyranitar|Heavy Slam|p2a: Hydreigon
+|-damage|p2a: Hydreigon|0 fnt
+|faint|p2a: Hydreigon
+|
+|upkeep
+|
+|t:|1641836356
+|switch|p2a: Hippowdon|Hippowdon, M|54/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|66
+|
+|t:|1641836362
+|switch|p1a: Slowbro|Slowbro, M|68/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|62/100|[from] Sandstorm
+|upkeep
+|turn|67
+|
+|t:|1641836368
+|move|p2a: Hippowdon|Stealth Rock|p1a: Slowbro
+|-sidestart|p1: esquizofelix|move: Stealth Rock
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836370
+|switch|p1a: Zapdos|Zapdos|82/100|[from]move: Teleport
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|76/100|[from] Sandstorm
+|upkeep
+|turn|68
+|
+|t:|1641836374
+|move|p1a: Zapdos|Defog|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|evasion|1
+|-sideend|p1: esquizofelix|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Hippowdon|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|70/100|[from] Sandstorm
+|upkeep
+|turn|69
+|
+|t:|1641836379
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|50/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Zapdos
+|-sidestart|p1: esquizofelix|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|64/100|[from] Sandstorm
+|upkeep
+|turn|70
+|
+|t:|1641836384
+|move|p1a: Zapdos|Hurricane|p2a: Hippowdon
+|-damage|p2a: Hippowdon|5/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|55/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|58/100|[from] Sandstorm
+|upkeep
+|turn|71
+|
+|t:|1641836388
+|move|p1a: Zapdos|Defog|p2a: Hippowdon
+|-unboost|p2a: Hippowdon|evasion|1
+|-sideend|p1: esquizofelix|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|51/100|[from] Sandstorm
+|upkeep
+|turn|72
+|
+|t:|1641836392
+|switch|p1a: Barraskewda|Barraskewda, F|100/100
+|move|p2a: Hippowdon|Stealth Rock|p1a: Barraskewda
+|-sidestart|p1: esquizofelix|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda|94/100|[from] Sandstorm
+|upkeep
+|turn|73
+|
+|t:|1641836394
+|move|p1a: Barraskewda|Flip Turn|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|53/100
+|
+|t:|1641836402
+|switch|p1a: Scizor|Scizor, F|100/100|[from]move: Flip Turn
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|100/100
+|
+|-weather|none
+|-heal|p1a: Scizor|94/100|[from] item: Leftovers
+|upkeep
+|turn|74
+|
+|t:|1641836405
+|switch|p2a: Corviknight|Corviknight, M|71/100 brn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Scizor|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|47/100 brn
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|
+|-heal|p1a: Scizor|100/100|[from] item: Leftovers
+|-damage|p2a: Corviknight|41/100 brn|[from] brn
+|upkeep
+|turn|75
+|
+|t:|1641836411
+|switch|p2a: rotomwash|Rotom-Wash|59/100
+|move|p1a: Scizor|U-turn|p2a: rotomwash
+|-damage|p2a: rotomwash|24/100
+|
+|t:|1641836421
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: rotomwash|atk|1
+|
+|upkeep
+|turn|76
+|
+|t:|1641836424
+|move|p1a: Landorus|U-turn|p2a: rotomwash
+|-damage|p2a: rotomwash|0 fnt
+|faint|p2a: rotomwash
+|
+|t:|1641836430
+|switch|p1a: Barraskewda|Barraskewda, F|94/100|[from]move: U-turn
+|-damage|p1a: Barraskewda|82/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641836430
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|77
+|
+|t:|1641836435
+|move|p1a: Barraskewda|Liquidation|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|1/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|51/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda|76/100|[from] Sandstorm
+|upkeep
+|turn|78
+|
+|t:|1641836441
+|switch|p2a: Corviknight|Corviknight, M|41/100 brn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Barraskewda|Liquidation|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda|70/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641836441
+|switch|p2a: Excadrill|Excadrill, F|68/100
+|turn|79
+|
+|t:|1641836448
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-damage|p1a: Landorus|76/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|move|p2a: Excadrill|Rock Slide|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|15/100
+|-damage|p2a: Excadrill|58/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|80
+|
+|t:|1641836454
+|move|p2a: Excadrill|Rock Slide|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|-damage|p2a: Excadrill|48/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641836457
+|switch|p1a: Slowbro|Slowbro, M|96/100
+|turn|81
+|
+|t:|1641836460
+|switch|p2a: Clefable|Clefable, F|94/100
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|94/100|[from] Sandstorm
+|upkeep
+|turn|82
+|
+|t:|1641836465
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|34/100
+|-unboost|p1a: Slowbro|spa|1
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641836468
+|switch|p1a: Scizor|Scizor, F|100/100|[from]move: Teleport
+|-damage|p1a: Scizor|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Scizor|94/100|[from] item: Leftovers
+|upkeep
+|turn|83
+|
+|t:|1641836471
+|move|p2a: Clefable|Flamethrower|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641836479
+|switch|p1a: Tyranitar|Tyranitar, F|81/100
+|-damage|p1a: Tyranitar|68/100|[from] Stealth Rock
+|turn|84
+|
+|t:|1641836484
+|switch|p2a: Hippowdon|Hippowdon, M|51/100
+|move|p1a: Tyranitar|Heavy Slam|p2a: Hippowdon
+|-damage|p2a: Hippowdon|44/100
+|
+|-weather|none
+|upkeep
+|turn|85
+|
+|t:|1641836498
+|switch|p1a: Zapdos|Zapdos|51/100
+|move|p2a: Hippowdon|Slack Off|p2a: Hippowdon
+|-heal|p2a: Hippowdon|94/100
+|
+|upkeep
+|turn|86
+|
+|t:|1641836501
+|switch|p2a: Excadrill|Excadrill, F|48/100
+|move|p1a: Zapdos|Defog|p2a: Excadrill
+|-unboost|p2a: Excadrill|evasion|1
+|-sideend|p1: esquizofelix|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|upkeep
+|turn|87
+|
+|t:|1641836506
+|switch|p1a: Slowbro|Slowbro, M|67/100
+|move|p2a: Excadrill|Rock Slide|p1a: Slowbro
+|-damage|p1a: Slowbro|47/100
+|-damage|p2a: Excadrill|38/100|[from] item: Life Orb
+|
+|upkeep
+|turn|88
+|
+|t:|1641836509
+|switch|p2a: Clefable|Clefable, F|94/100
+|move|p1a: Slowbro|Slack Off|p1a: Slowbro
+|-heal|p1a: Slowbro|97/100
+|
+|upkeep
+|turn|89
+|
+|t:|1641836514
+|move|p2a: Clefable|Thunderbolt|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|17/100
+|move|p1a: Slowbro|Future Sight|p2a: Clefable
+|-start|p1a: Slowbro|move: Future Sight
+|
+|upkeep
+|turn|90
+|
+|t:|1641836519
+|switch|p1a: Tyranitar|Tyranitar, F|68/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Clefable|Moonblast|p1a: Tyranitar
+|-supereffective|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|10/100
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|91
+|
+|t:|1641836530
+|switch|p1a: Slowbro|Slowbro, M|50/100
+|move|p2a: Clefable|Moonblast|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|-weather|Sandstorm|[upkeep]
+|-end|p2a: Clefable|move: Future Sight
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|25/100
+|upkeep
+|
+|t:|1641836534
+|switch|p1a: Barraskewda|Barraskewda, F|70/100
+|turn|92
+|
+|t:|1641836548
+|move|p1a: Barraskewda|Liquidation|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Barraskewda|64/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641836548
+|switch|p2a: Excadrill|Excadrill, F|38/100
+|turn|93
+|
+|t:|1641836552
+|switch|p1a: Zapdos|Zapdos|51/100
+|move|p2a: Excadrill|Earthquake|p1a: Zapdos
+|-immune|p1a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|45/100|[from] Sandstorm
+|upkeep
+|turn|94
+|
+|t:|1641836559
+|move|p2a: Excadrill|Rock Slide|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|-damage|p2a: Excadrill|28/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641836568
+|switch|p1a: Barraskewda|Barraskewda, F|64/100
+|turn|95
+|c|☆esquizofelix|gg
+|
+|t:|1641836576
+|move|p1a: Barraskewda|Liquidation|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|upkeep
+|
+|t:|1641836576
+|switch|p2a: Hippowdon|Hippowdon, M|94/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|96
+|c|☆esquizofelix|?????
+|c|☆esquizofelix|why didnt you switched
+|c|☆esquizofelix|you could set sand and then win with excadrill
+|
+|t:|1641836599
+|move|p1a: Barraskewda|Liquidation|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-crit|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|win|esquizofelix
+|raw|esquizofelix's rating: 1326 &rarr; <strong>1348</strong><br />(+22 for winning)
+|raw|DumbLick1337's rating: 1365 &rarr; <strong>1343</strong><br />(-22 for losing)
+|c|☆DumbLick1337|gg
+|l|☆DumbLick1337
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

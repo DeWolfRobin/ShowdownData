@@ -1,0 +1,293 @@
+|j|☆have fun or else
+|j|☆pakiavatar
+|t:|1641756480
+|gametype|singles
+|player|p1|have fun or else|266|1433
+|player|p2|pakiavatar|chuck|1403
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Golurk|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Slowbro, M|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Arctozolt|
+|poke|p1|Alakazam, F|
+|poke|p2|Blissey, F|
+|poke|p2|Latios, M|
+|poke|p2|Sharpedo, M|
+|poke|p2|Jellicent, F|
+|poke|p2|Rotom-Heat|
+|poke|p2|Melmetal|
+|teampreview
+|
+|t:|1641756501
+|start
+|switch|p1a: Golurk|Golurk|100/100
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|1
+|
+|t:|1641756516
+|switch|p1a: Slowbro|Slowbro, M|100/100
+|switch|p2a: Should be OU|Jellicent, F|100/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641756529
+|move|p1a: Slowbro|Magic Coat|p1a: Slowbro
+|-singleturn|p1a: Slowbro|move: Magic Coat
+|move|p2a: Should be OU|Substitute|p2a: Should be OU
+|-start|p2a: Should be OU|Substitute
+|-damage|p2a: Should be OU|75/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641756534
+|move|p2a: Should be OU|Energy Ball|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|64/100
+|move|p1a: Slowbro|Foul Play|p2a: Should be OU
+|-supereffective|p2a: Should be OU
+|-activate|p2a: Should be OU|move: Substitute|[damage]
+|
+|upkeep
+|turn|4
+|
+|t:|1641756552
+|switch|p1a: Ninetales|Ninetales-Alola, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Should be OU|Scald|p1a: Ninetales
+|-damage|p1a: Ninetales|73/100
+|-status|p1a: Ninetales|brn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Should be OU|69/100|[from] Hail
+|-damage|p1a: Ninetales|67/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641756563
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: have fun or else|move: Aurora Veil
+|move|p2a: Should be OU|Strength Sap|p1a: Ninetales
+|-unboost|p1a: Ninetales|atk|1
+|-heal|p2a: Should be OU|99/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Should be OU|94/100|[from] Hail
+|-damage|p1a: Ninetales|61/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641756571
+|move|p1a: Ninetales|Encore|p2a: Should be OU
+|-start|p2a: Should be OU|Encore
+|move|p2a: Should be OU|Strength Sap|p1a: Ninetales
+|-unboost|p1a: Ninetales|atk|1
+|-heal|p2a: Should be OU|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Should be OU|94/100|[from] Hail
+|-damage|p1a: Ninetales|56/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641756581
+|switch|p1a: Alakazam|Alakazam, F|100/100
+|move|p2a: Should be OU|Strength Sap|p1a: Alakazam
+|-unboost|p1a: Alakazam|atk|1
+|-heal|p2a: Should be OU|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Should be OU|94/100|[from] Hail
+|upkeep
+|turn|8
+|
+|t:|1641756594
+|switch|p2a: Fat Wall|Blissey, F|100/100
+|move|p1a: Alakazam|Nasty Plot|p1a: Alakazam
+|-boost|p1a: Alakazam|spa|2
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641756600
+|move|p1a: Alakazam|Nasty Plot|p1a: Alakazam
+|-boost|p1a: Alakazam|spa|2
+|move|p2a: Fat Wall|Thunder Wave|p1a: Alakazam
+|-status|p1a: Alakazam|par
+|
+|upkeep
+|turn|10
+|
+|t:|1641756611
+|switch|p2a: Should be OU|Jellicent, F|94/100
+|move|p1a: Alakazam|Focus Blast|p2a: Should be OU
+|-immune|p2a: Should be OU
+|
+|upkeep
+|turn|11
+|
+|t:|1641756619
+|switch|p2a: Fat Wall|Blissey, F|100/100
+|move|p1a: Alakazam|Psychic|p2a: Fat Wall
+|-damage|p2a: Fat Wall|43/100
+|
+|-heal|p2a: Fat Wall|49/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641756626
+|switch|p2a: Wow...|Sharpedo, M|100/100
+|cant|p1a: Alakazam|par
+|
+|-sideend|p1: have fun or else|move: Aurora Veil
+|upkeep
+|turn|13
+|
+|t:|1641756631
+|move|p2a: Wow...|Crunch|p1a: Alakazam
+|-supereffective|p1a: Alakazam
+|-crit|p1a: Alakazam
+|-enditem|p1a: Alakazam|Focus Sash
+|-damage|p1a: Alakazam|1/100 par
+|-unboost|p1a: Alakazam|def|1
+|move|p1a: Alakazam|Focus Blast|p2a: Wow...
+|-supereffective|p2a: Wow...
+|-enditem|p2a: Wow...|Focus Sash
+|-damage|p2a: Wow...|1/100
+|
+|-ability|p2a: Wow...|Speed Boost|boost
+|-boost|p2a: Wow...|spe|1
+|upkeep
+|turn|14
+|
+|t:|1641756642
+|switch|p1a: Ninetales|Ninetales-Alola, F|56/100 brn
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Wow...|Protect||[still]
+|-fail|p2a: Wow...
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Wow...|0 fnt|[from] Hail
+|faint|p2a: Wow...
+|-damage|p1a: Ninetales|50/100 brn|[from] brn
+|upkeep
+|
+|t:|1641756652
+|switch|p2a: Game Changer|Rotom-Heat|100/100
+|turn|15
+|
+|t:|1641756656
+|switch|p1a: Alakazam|Alakazam, F|1/100 par
+|move|p2a: Game Changer|Volt Switch|p1a: Alakazam
+|-damage|p1a: Alakazam|0 fnt
+|faint|p1a: Alakazam
+|
+|t:|1641756669
+|switch|p2a: Melmetal|Melmetal|100/100|[from]move: Volt Switch
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Melmetal|94/100|[from] Hail
+|upkeep
+|
+|t:|1641756679
+|switch|p1a: Slowbro|Slowbro, M|97/100
+|turn|16
+|
+|t:|1641756682
+|move|p2a: Melmetal|Thunder Wave|p1a: Slowbro
+|-status|p1a: Slowbro|par
+|move|p1a: Slowbro|Teleport|p1a: Slowbro
+|
+|t:|1641756697
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: Teleport
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Melmetal|88/100|[from] Hail
+|-damage|p1a: Ferrothorn|95/100|[from] Hail
+|upkeep
+|turn|17
+|
+|t:|1641756703
+|move|p2a: Melmetal|Thunder Wave|p1a: Ferrothorn
+|-status|p1a: Ferrothorn|par
+|cant|p1a: Ferrothorn|par
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Melmetal|82/100|[from] Hail
+|-damage|p1a: Ferrothorn|89/100 par|[from] Hail
+|upkeep
+|turn|18
+|
+|t:|1641756710
+|switch|p2a: Game Changer|Rotom-Heat|100/100
+|cant|p1a: Ferrothorn|par
+|
+|-weather|none
+|upkeep
+|turn|19
+|
+|t:|1641756717
+|switch|p1a: Slowbro|Slowbro, M|100/100 par
+|move|p2a: Game Changer|Volt Switch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|33/100 par
+|
+|t:|1641756722
+|switch|p2a: Wait what?|Latios, M|100/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|20
+|
+|t:|1641756730
+|switch|p1a: Ferrothorn|Ferrothorn, M|89/100 par
+|move|p2a: Wait what?|Mystical Fire|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|1/100 par
+|-unboost|p1a: Ferrothorn|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1641756737
+|move|p2a: Wait what?|Mystical Fire|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641756740
+|switch|p1a: Golurk|Golurk|100/100
+|turn|22
+|
+|t:|1641756744
+|switch|p2a: Fat Wall|Blissey, F|49/100
+|move|p1a: Golurk|Poltergeist|p2a: Fat Wall
+|-immune|p2a: Fat Wall
+|
+|-heal|p2a: Fat Wall|55/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|-message|have fun or else forfeited.
+|
+|win|pakiavatar
+|raw|have fun or else's rating: 1433 &rarr; <strong>1411</strong><br />(-22 for losing)
+|raw|pakiavatar's rating: 1403 &rarr; <strong>1425</strong><br />(+22 for winning)
+|l|☆have fun or else
+|c|☆pakiavatar|did you have fun
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

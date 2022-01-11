@@ -1,0 +1,156 @@
+|j|☆kyysg
+|j|☆Makatuk
+|t:|1641887659
+|gametype|singles
+|player|p1|kyysg|169|1704
+|player|p2|Makatuk|red|1779
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Kartana|
+|poke|p1|Tapu Koko|
+|poke|p1|Garchomp, M|
+|poke|p1|Hawlucha, F|
+|poke|p1|Kommo-o, M|
+|poke|p2|Mamoswine, F|
+|poke|p2|Heatran, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Espeon, F|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Regieleki|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Makatuk)
+|
+|t:|1641887674
+|start
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: MANBEARSWINE|Mamoswine, F|100/100
+|turn|1
+|
+|t:|1641887690
+|switch|p1a: Tapu Koko|Tapu Koko, shiny|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: MANBEARSWINE|Icicle Crash|p1a: Tapu Koko|[miss]
+|-miss|p2a: MANBEARSWINE|p1a: Tapu Koko
+|
+|upkeep
+|turn|2
+|c|☆Makatuk|Lol
+|c|☆Makatuk|gg then
+|j| AshStackem
+|
+|t:|1641887705
+|move|p1a: Tapu Koko|Reflect|p1a: Tapu Koko
+|-sidestart|p1: kyysg|Reflect
+|move|p2a: MANBEARSWINE|Icicle Crash|p1a: Tapu Koko|[miss]
+|-miss|p2a: MANBEARSWINE|p1a: Tapu Koko
+|
+|upkeep
+|turn|3
+|
+|t:|1641887712
+|switch|p1a: Kartana|Kartana|100/100
+|move|p2a: MANBEARSWINE|High Horsepower|p1a: Kartana
+|-damage|p1a: Kartana|78/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641887715
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|move|p2a: MANBEARSWINE|Knock Off|p1a: Kartana
+|-damage|p1a: Kartana|64/100
+|-enditem|p1a: Kartana|Metronome|[from] move: Knock Off|[of] p2a: MANBEARSWINE
+|
+|upkeep
+|turn|5
+|j| 33ee
+|
+|t:|1641887719
+|move|p1a: Kartana|Knock Off|p2a: MANBEARSWINE
+|-damage|p2a: MANBEARSWINE|33/100
+|-enditem|p2a: MANBEARSWINE|Focus Sash|[from] move: Knock Off|[of] p1a: Kartana
+|move|p2a: MANBEARSWINE|High Horsepower|p1a: Kartana
+|-damage|p1a: Kartana|40/100
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641887721
+|move|p1a: Kartana|Knock Off|p2a: MANBEARSWINE
+|-damage|p2a: MANBEARSWINE|0 fnt
+|faint|p2a: MANBEARSWINE
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|spe|1
+|
+|upkeep
+|
+|t:|1641887728
+|switch|p2a: HULK|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: HULK
+|turn|7
+|
+|t:|1641887730
+|move|p1a: Kartana|Knock Off|p2a: HULK
+|-damage|p2a: HULK|27/100
+|-enditem|p2a: HULK|Life Orb|[from] move: Knock Off|[of] p1a: Kartana
+|move|p2a: HULK|Hammer Arm|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|7/100
+|-unboost|p2a: HULK|spe|1
+|
+|-heal|p1a: Kartana|13/100|[from] Grassy Terrain
+|-heal|p2a: HULK|34/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641887736
+|move|p2a: HULK|Grassy Glide|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|8/100
+|move|p1a: Kartana|Sacred Sword|p2a: HULK
+|-damage|p2a: HULK|0 fnt
+|faint|p2a: HULK
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|spe|1
+|
+|-heal|p1a: Kartana|14/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641887742
+|switch|p2a: SNOOP|Urshifu-Rapid-Strike, M|100/100
+|turn|9
+|
+|t:|1641887745
+|move|p2a: SNOOP|Aqua Jet|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|10/100
+|move|p1a: Kartana|Leaf Blade|p2a: SNOOP
+|-supereffective|p2a: SNOOP
+|-damage|p2a: SNOOP|0 fnt
+|faint|p2a: SNOOP
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|spe|1
+|
+|-heal|p1a: Kartana|16/100|[from] Grassy Terrain
+|-sideend|p1: kyysg|Reflect
+|upkeep
+|-message|Makatuk forfeited.
+|
+|win|kyysg
+|raw|kyysg's rating: 1704 &rarr; <strong>1728</strong><br />(+24 for winning)
+|raw|Makatuk's rating: 1779 &rarr; <strong>1755</strong><br />(-24 for losing)
+|l|☆Makatuk

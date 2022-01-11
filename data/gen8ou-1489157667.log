@@ -1,0 +1,517 @@
+|j|☆mistborn1371
+|j|☆amusical
+|t:|1641864321
+|gametype|singles
+|player|p1|mistborn1371|265|1291
+|player|p2|amusical|265|1309
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Buzzwole|
+|poke|p1|Dragonite, F|
+|poke|p1|Bisharp, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Blacephalon|
+|poke|p2|Araquanid, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Hawlucha, F|
+|poke|p2|Bisharp, M|
+|poke|p2|Gyarados, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by mistborn1371)
+|
+|t:|1641864342
+|start
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|turn|1
+|
+|t:|1641864347
+|move|p1a: Buzzwole|Substitute|p1a: Buzzwole
+|-start|p1a: Buzzwole|Substitute
+|-damage|p1a: Buzzwole|76/100
+|move|p2a: Araquanid|Sticky Web|p1a: Buzzwole
+|-sidestart|p1: mistborn1371|move: Sticky Web
+|
+|-heal|p1a: Buzzwole|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641864353
+|move|p1a: Buzzwole|Bulk Up|p1a: Buzzwole
+|-boost|p1a: Buzzwole|atk|1
+|-boost|p1a: Buzzwole|def|1
+|move|p2a: Araquanid|Liquidation|p1a: Buzzwole
+|-end|p1a: Buzzwole|Substitute
+|
+|-heal|p1a: Buzzwole|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641864361
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Buzzwole|Bulk Up|p1a: Buzzwole
+|-boost|p1a: Buzzwole|atk|1
+|-boost|p1a: Buzzwole|def|1
+|
+|-heal|p1a: Buzzwole|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|j| Redxair
+|
+|t:|1641864370
+|move|p2a: Tapu Koko|Reflect|p2a: Tapu Koko
+|-sidestart|p2: amusical|Reflect
+|move|p1a: Buzzwole|Substitute|p1a: Buzzwole
+|-start|p1a: Buzzwole|Substitute
+|-damage|p1a: Buzzwole|69/100
+|
+|-heal|p1a: Buzzwole|76/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641864378
+|move|p2a: Tapu Koko|U-turn|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-activate|p1a: Buzzwole|move: Substitute|[damage]
+|
+|t:|1641864381
+|switch|p2a: Hawlucha|Hawlucha, F|100/100|[from]move: U-turn
+|-enditem|p2a: Hawlucha|Electric Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Electric Seed
+|move|p1a: Buzzwole|Ice Punch|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|44/100
+|
+|-heal|p1a: Buzzwole|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641864392
+|move|p2a: Hawlucha|Roost|p2a: Hawlucha
+|-heal|p2a: Hawlucha|94/100
+|-singleturn|p2a: Hawlucha|move: Roost
+|move|p1a: Buzzwole|Ice Punch|p2a: Hawlucha
+|-damage|p2a: Hawlucha|69/100
+|
+|-heal|p1a: Buzzwole|88/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641864402
+|move|p2a: Hawlucha|Acrobatics|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-end|p1a: Buzzwole|Substitute
+|move|p1a: Buzzwole|Ice Punch|p2a: Hawlucha
+|-supereffective|p2a: Hawlucha
+|-damage|p2a: Hawlucha|13/100
+|
+|-heal|p1a: Buzzwole|94/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|8
+|
+|t:|1641864413
+|move|p2a: Hawlucha|Acrobatics|p1a: Buzzwole
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|36/100
+|move|p1a: Buzzwole|Drain Punch|p2a: Hawlucha
+|-resisted|p2a: Hawlucha
+|-damage|p2a: Hawlucha|0 fnt
+|-heal|p1a: Buzzwole|41/100|[from] drain|[of] p2a: Hawlucha
+|faint|p2a: Hawlucha
+|-ability|p1a: Buzzwole|Beast Boost|boost
+|-boost|p1a: Buzzwole|atk|1
+|
+|-heal|p1a: Buzzwole|47/100|[from] item: Leftovers
+|upkeep
+|c|☆amusical|wow
+|c|☆amusical|that thing is tank
+|c|☆amusical|tanky
+|
+|t:|1641864432
+|switch|p2a: Gyarados|Gyarados, M|100/100
+|turn|9
+|
+|t:|1641864440
+|move|p2a: Gyarados|Bounce||[still]
+|-prepare|p2a: Gyarados|Bounce
+|move|p1a: Buzzwole|Ice Punch|p2a: Gyarados|[miss]
+|-miss|p1a: Buzzwole|p2a: Gyarados
+|
+|-heal|p1a: Buzzwole|53/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641864447
+|move|p2a: Gyarados|Bounce|p1a: Buzzwole|[from]lockedmove
+|-supereffective|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|-ability|p2a: Gyarados|Moxie|boost
+|-boost|p2a: Gyarados|atk|1
+|
+|upkeep
+|
+|t:|1641864465
+|switch|p1a: Dragonite|Dragonite, F|100/100
+|turn|11
+|
+|t:|1641864470
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|move|p1a: Dragonite|Defog|p2a: Gyarados
+|-unboost|p2a: Gyarados|evasion|1
+|-sideend|p2: amusical|Reflect
+|-sideend|p1: mistborn1371|Sticky Web|[from] move: Defog|[of] p1a: Dragonite
+|
+|upkeep
+|turn|12
+|
+|t:|1641864477
+|move|p2a: Gyarados|Bounce||[still]
+|-prepare|p2a: Gyarados|Bounce
+|move|p1a: Dragonite|Ice Beam|p2a: Gyarados|[miss]
+|-miss|p1a: Dragonite|p2a: Gyarados
+|
+|upkeep
+|turn|13
+|
+|t:|1641864484
+|move|p2a: Gyarados|Bounce|p1a: Dragonite|[from]lockedmove
+|-damage|p1a: Dragonite|63/100
+|move|p1a: Dragonite|Ice Beam|p2a: Gyarados
+|-damage|p2a: Gyarados|77/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641864491
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|25/100
+|move|p1a: Dragonite|Ice Beam|p2a: Gyarados
+|-damage|p2a: Gyarados|56/100
+|-status|p2a: Gyarados|frz
+|
+|upkeep
+|turn|15
+|
+|t:|1641864499
+|cant|p2a: Gyarados|frz
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|75/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|16
+|
+|t:|1641864505
+|-curestatus|p2a: Gyarados|frz|[msg]
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|15/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|65/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|17
+|
+|t:|1641864521
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|27/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|77/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|18
+|
+|t:|1641864529
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|37/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|87/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|19
+|
+|t:|1641864537
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|28/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|78/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|20
+|
+|t:|1641864545
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|38/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|88/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|21
+|
+|t:|1641864552
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|48/100
+|move|p1a: Dragonite|Ice Beam|p2a: Gyarados
+|-damage|p2a: Gyarados|33/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641864559
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|10/100
+|move|p1a: Dragonite|Ice Beam|p2a: Gyarados
+|-damage|p2a: Gyarados|12/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641864566
+|move|p2a: Gyarados|Waterfall|p1a: Dragonite
+|-resisted|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|-ability|p2a: Gyarados|Moxie|boost
+|-boost|p2a: Gyarados|atk|1
+|
+|upkeep
+|
+|t:|1641864576
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|turn|24
+|
+|t:|1641864582
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|
+|upkeep
+|turn|25
+|
+|t:|1641864588
+|move|p1a: Bisharp|Sucker Punch||[still]
+|-fail|p1a: Bisharp
+|move|p2a: Gyarados|Dragon Dance|p2a: Gyarados
+|-boost|p2a: Gyarados|atk|1
+|-boost|p2a: Gyarados|spe|1
+|
+|upkeep
+|turn|26
+|
+|t:|1641864593
+|move|p1a: Bisharp|Sucker Punch|p2a: Gyarados
+|-damage|p2a: Gyarados|0 fnt
+|faint|p2a: Gyarados
+|
+|upkeep
+|
+|t:|1641864598
+|switch|p2a: Kommo-o|Kommo-o, M|100/100
+|turn|27
+|
+|t:|1641864603
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kommo-o|atk|1
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|75/100
+|
+|upkeep
+|turn|28
+|
+|t:|1641864611
+|move|p2a: Kommo-o|Belly Drum|p2a: Kommo-o
+|-damage|p2a: Kommo-o|25/100
+|-setboost|p2a: Kommo-o|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Kommo-o|Salac Berry|[eat]
+|-boost|p2a: Kommo-o|spe|1|[from] item: Salac Berry
+|move|p1a: Landorus|Earthquake|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|upkeep
+|turn|29
+|
+|t:|1641864623
+|move|p2a: Kommo-o|Drain Punch|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|51/100
+|-heal|p2a: Kommo-o|56/100|[from] drain|[of] p1a: Landorus
+|-damage|p2a: Kommo-o|40/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|move|p1a: Landorus|Earthquake|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|
+|t:|1641864633
+|switch|p2a: Araquanid|Araquanid, M|100/100
+|turn|30
+|
+|t:|1641864637
+|move|p1a: Landorus|Toxic|p2a: Araquanid|[miss]
+|-miss|p1a: Landorus|p2a: Araquanid
+|move|p2a: Araquanid|Liquidation|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Araquanid|84/100|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641864660
+|switch|p1a: Tapu Lele|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|31
+|
+|t:|1641864670
+|move|p1a: Tapu Lele|Psyshock|p2a: Araquanid
+|-damage|p2a: Araquanid|0 fnt
+|faint|p2a: Araquanid
+|
+|upkeep
+|
+|t:|1641864674
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|32
+|
+|t:|1641864680
+|move|p2a: Tapu Koko|Light Screen|p2a: Tapu Koko
+|-sidestart|p2: amusical|move: Light Screen
+|move|p1a: Tapu Lele|Psyshock|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|68/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641864688
+|move|p2a: Tapu Koko|Reflect|p2a: Tapu Koko
+|-sidestart|p2: amusical|Reflect
+|move|p1a: Tapu Lele|Psyshock|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|34/100
+|
+|upkeep
+|turn|34
+|
+|t:|1641864699
+|move|p2a: Tapu Koko|U-turn|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|73/100
+|
+|t:|1641864701
+|switch|p2a: Bisharp|Bisharp, M|100/100|[from]move: U-turn
+|move|p1a: Tapu Lele|Psyshock|p2a: Bisharp
+|-immune|p2a: Bisharp
+|
+|upkeep
+|turn|35
+|
+|t:|1641864707
+|switch|p1a: Bisharp|Bisharp, M|100/100
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|upkeep
+|turn|36
+|
+|t:|1641864716
+|move|p2a: Bisharp|Knock Off|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|36/100
+|-enditem|p1a: Bisharp|Black Glasses|[from] move: Knock Off|[of] p2a: Bisharp
+|move|p1a: Bisharp|Knock Off|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|84/100
+|-enditem|p2a: Bisharp|Black Glasses|[from] move: Knock Off|[of] p1a: Bisharp
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|37
+|
+|t:|1641864726
+|move|p1a: Bisharp|Sucker Punch|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|71/100
+|move|p2a: Bisharp|Knock Off|p1a: Bisharp
+|-resisted|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|upkeep
+|
+|t:|1641864736
+|switch|p1a: Tapu Lele|Tapu Lele, shiny|73/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|38
+|
+|t:|1641864742
+|move|p1a: Tapu Lele|Focus Blast|p2a: Bisharp
+|-supereffective|p2a: Bisharp
+|-damage|p2a: Bisharp|0 fnt
+|faint|p2a: Bisharp
+|
+|upkeep
+|
+|t:|1641864746
+|switch|p2a: Tapu Koko|Tapu Koko|34/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|39
+|
+|t:|1641864750
+|move|p2a: Tapu Koko|U-turn|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|47/100
+|move|p1a: Tapu Lele|Focus Blast|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|14/100
+|
+|-sideend|p2: amusical|move: Light Screen
+|upkeep
+|turn|40
+|
+|t:|1641864757
+|move|p2a: Tapu Koko|U-turn|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|16/100
+|move|p1a: Tapu Lele|Focus Blast|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|win|mistborn1371
+|raw|mistborn1371's rating: 1291 &rarr; <strong>1317</strong><br />(+26 for winning)
+|raw|amusical's rating: 1309 &rarr; <strong>1288</strong><br />(-21 for losing)
+|l|☆amusical
+|l| Redxair

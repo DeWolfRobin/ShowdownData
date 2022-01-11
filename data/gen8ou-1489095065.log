@@ -1,0 +1,415 @@
+|j|☆favourable
+|j|☆Smart Falcon
+|t:|1641855956
+|gametype|singles
+|player|p1|favourable|101|1277
+|player|p2|Smart Falcon|shauntal|1270
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Scizor, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Tyranitar, M|
+|poke|p1|Slowbro, F|
+|poke|p2|Tyranitar, M|
+|poke|p2|Clefable, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Kartana|
+|poke|p2|Zapdos|
+|poke|p2|Cloyster, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by favourable)
+|
+|t:|1641855962
+|start
+|switch|p1a: Scizor|Scizor, F|100/100
+|switch|p2a: Cloyster|Cloyster, F|100/100
+|turn|1
+|
+|t:|1641855974
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Scizor|Superpower|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|78/100
+|-unboost|p1a: Scizor|atk|1
+|-unboost|p1a: Scizor|def|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641855982
+|switch|p1a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Zapdos|Heat Wave|p1a: Tyranitar
+|-resisted|p1a: Tyranitar
+|-damage|p1a: Tyranitar|95/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|71/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641855996
+|move|p2a: Zapdos|Volt Switch|p1a: Tyranitar
+|-damage|p1a: Tyranitar|85/100
+|
+|t:|1641856004
+|switch|p2a: Excadrill|Excadrill, M|100/100|[from]move: Volt Switch
+|move|p1a: Tyranitar|Earthquake|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641856011
+|switch|p2a: Kartana|Kartana|100/100
+|turn|4
+|
+|t:|1641856016
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|move|p2a: Kartana|Swords Dance|p2a: Kartana
+|-boost|p2a: Kartana|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641856022
+|move|p2a: Kartana|Leaf Blade|p1a: Landorus
+|-damage|p1a: Landorus|20/100
+|-damage|p2a: Kartana|91/100|[from] item: Life Orb
+|move|p1a: Landorus|Earthquake|p2a: Kartana
+|-damage|p2a: Kartana|39/100
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Landorus|26/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641856035
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Kartana|Knock Off|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|53/100
+|-damage|p2a: Kartana|26/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-enditem|p1a: Ferrothorn|Leftovers|[from] move: Knock Off|[of] p2a: Kartana
+|-damage|p2a: Kartana|17/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|turn|7
+|
+|t:|1641856040
+|move|p1a: Ferrothorn|Protect|p1a: Ferrothorn
+|-singleturn|p1a: Ferrothorn|Protect
+|move|p2a: Kartana|Sacred Sword|p1a: Ferrothorn
+|-activate|p1a: Ferrothorn|move: Protect
+|
+|upkeep
+|turn|8
+|
+|t:|1641856045
+|switch|p1a: Landorus|Landorus-Therian, M|26/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Kartana|atk|1
+|move|p2a: Kartana|Swords Dance|p2a: Kartana
+|-boost|p2a: Kartana|atk|2
+|
+|-heal|p1a: Landorus|32/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641856047
+|move|p2a: Kartana|Knock Off|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-enditem|p1a: Landorus|Leftovers|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Landorus
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|-damage|p2a: Kartana|7/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641856056
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|10
+|
+|t:|1641856059
+|switch|p2a: Zapdos|Zapdos|71/100
+|move|p1a: Scizor|Bullet Punch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|53/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641856066
+|switch|p1a: Tyranitar|Tyranitar, M|85/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Tyranitar
+|move|p2a: Zapdos|Volt Switch|p1a: Tyranitar
+|-crit|p1a: Tyranitar
+|-damage|p1a: Tyranitar|69/100
+|
+|t:|1641856068
+|switch|p2a: Kartana|Kartana|7/100|[from]move: Volt Switch
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641856079
+|switch|p1a: Scizor|Scizor, F|100/100
+|move|p2a: Kartana|Sacred Sword|p1a: Scizor
+|-damage|p1a: Scizor|44/100
+|-damage|p2a: Kartana|0 fnt|[from] item: Life Orb
+|faint|p2a: Kartana
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641856083
+|switch|p2a: Zapdos|Zapdos|53/100
+|turn|13
+|
+|t:|1641856093
+|switch|p1a: Tyranitar|Tyranitar, M|69/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|94/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1641856097
+|move|p2a: Zapdos|Volt Switch|p1a: Tyranitar
+|-damage|p1a: Tyranitar|57/100
+|
+|t:|1641856099
+|switch|p2a: Clefable|Clefable, F, shiny|100/100|[from]move: Volt Switch
+|move|p1a: Tyranitar|Stone Edge|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|31/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Clefable|25/100|[from] Sandstorm
+|-heal|p2a: Clefable|31/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641856121
+|move|p1a: Tyranitar|Stone Edge|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|none
+|upkeep
+|
+|t:|1641856124
+|switch|p2a: Cloyster|Cloyster, F|100/100
+|turn|16
+|
+|t:|1641856130
+|move|p2a: Cloyster|Shell Smash|p2a: Cloyster
+|-unboost|p2a: Cloyster|def|1
+|-unboost|p2a: Cloyster|spd|1
+|-boost|p2a: Cloyster|atk|2
+|-boost|p2a: Cloyster|spa|2
+|-boost|p2a: Cloyster|spe|2
+|move|p1a: Tyranitar|Superpower|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-enditem|p2a: Cloyster|Focus Sash
+|-damage|p2a: Cloyster|1/100
+|-unboost|p1a: Tyranitar|atk|1
+|-unboost|p1a: Tyranitar|def|1
+|
+|upkeep
+|turn|17
+|
+|t:|1641856136
+|move|p2a: Cloyster|Rock Blast|p1a: Tyranitar
+|-damage|p1a: Tyranitar|41/100
+|-damage|p1a: Tyranitar|24/100
+|-damage|p1a: Tyranitar|8/100
+|-damage|p1a: Tyranitar|0 fnt
+|faint|p1a: Tyranitar
+|-hitcount|p1: Tyranitar|4
+|
+|upkeep
+|
+|t:|1641856141
+|switch|p1a: Scizor|Scizor, F|44/100
+|turn|18
+|
+|t:|1641856144
+|switch|p2a: Zapdos|Zapdos|94/100
+|move|p1a: Scizor|Bullet Punch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|75/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641856153
+|switch|p1a: Ferrothorn|Ferrothorn, M|53/100
+|move|p2a: Zapdos|Volt Switch|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|41/100
+|
+|t:|1641856156
+|switch|p2a: Cloyster|Cloyster, F|1/100|[from]move: Volt Switch
+|
+|upkeep
+|turn|20
+|
+|t:|1641856158
+|move|p2a: Cloyster|Icicle Spear|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|35/100
+|-damage|p1a: Ferrothorn|28/100
+|-damage|p1a: Ferrothorn|22/100
+|-damage|p1a: Ferrothorn|16/100
+|-damage|p1a: Ferrothorn|10/100
+|-hitcount|p1a: Ferrothorn|5
+|move|p1a: Ferrothorn|Leech Seed|p2a: Cloyster
+|-start|p2a: Cloyster|move: Leech Seed
+|
+|-damage|p2a: Cloyster|0 fnt|[from] Leech Seed|[of] p1a: Ferrothorn
+|-heal|p1a: Ferrothorn|10/100|[silent]
+|faint|p2a: Cloyster
+|upkeep
+|
+|t:|1641856162
+|switch|p2a: Zapdos|Zapdos|75/100
+|turn|21
+|
+|t:|1641856169
+|move|p2a: Zapdos|Volt Switch|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|t:|1641856172
+|switch|p2a: Tyranitar|Tyranitar, M|100/100|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641856179
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|turn|22
+|
+|t:|1641856181
+|move|p2a: Tyranitar|Crunch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|57/100
+|-unboost|p1a: Slowbro|def|1
+|move|p1a: Slowbro|Toxic|p2a: Tyranitar
+|-status|p2a: Tyranitar|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Slowbro|51/100|[from] Sandstorm
+|-heal|p1a: Slowbro|57/100|[from] item: Leftovers
+|-damage|p2a: Tyranitar|94/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641856188
+|move|p2a: Tyranitar|Crunch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1641856197
+|switch|p1a: Scizor|Scizor, F|44/100
+|turn|24
+|
+|t:|1641856203
+|switch|p2a: Zapdos|Zapdos|75/100
+|move|p1a: Scizor|Bullet Punch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|58/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Zapdos|52/100|[from] Sandstorm
+|upkeep
+|turn|25
+|
+|t:|1641856207
+|switch|p1a: Zapdos|Zapdos|100/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-weather|none
+|upkeep
+|turn|26
+|
+|t:|1641856211
+|move|p1a: Zapdos|Thunderbolt|p2a: Zapdos
+|-damage|p2a: Zapdos|42/100
+|-damage|p1a: Zapdos|91/100|[from] item: Life Orb
+|move|p2a: Zapdos|Volt Switch|p1a: Zapdos
+|-damage|p1a: Zapdos|55/100
+|
+|t:|1641856213
+|switch|p2a: Tyranitar|Tyranitar, M|82/100 tox|[from]move: Volt Switch
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Zapdos|48/100|[from] Sandstorm
+|-damage|p2a: Tyranitar|76/100 tox|[from] psn
+|upkeep
+|turn|27
+|
+|t:|1641856233
+|switch|p1a: Scizor|Scizor, F|44/100
+|move|p2a: Tyranitar|Stone Edge|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tyranitar|63/100 tox|[from] psn
+|upkeep
+|
+|t:|1641856235
+|switch|p1a: Zapdos|Zapdos|48/100
+|-ability|p1a: Zapdos|Pressure
+|turn|28
+|
+|t:|1641856238
+|move|p1a: Zapdos|Hurricane|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|54/100 tox
+|-damage|p1a: Zapdos|39/100|[from] item: Life Orb
+|move|p2a: Tyranitar|Stone Edge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|Smart Falcon
+|raw|favourable's rating: 1277 &rarr; <strong>1251</strong><br />(-26 for losing)
+|raw|Smart Falcon's rating: 1270 &rarr; <strong>1296</strong><br />(+26 for winning)
+|l|☆favourable

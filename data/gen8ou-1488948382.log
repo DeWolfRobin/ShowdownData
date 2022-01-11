@@ -1,0 +1,422 @@
+|j|☆It'sSpookyTime
+|j|☆ButterySpirit
+|t:|1641839599
+|gametype|singles
+|player|p1|It'sSpookyTime|acerola|1262
+|player|p2|ButterySpirit|dawn-gen4pt|1290
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gengar, M|
+|poke|p1|Sableye, M|
+|poke|p1|Froslass, F|
+|poke|p1|Mimikyu, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Golurk|
+|poke|p2|Pelipper, M|
+|poke|p2|Seismitoad, M|
+|poke|p2|Barraskewda, F|
+|poke|p2|Tapu Bulu|
+|poke|p2|Weavile, M|
+|poke|p2|Zeraora|
+|teampreview
+|
+|t:|1641839606
+|start
+|switch|p1a: Froslass|Froslass, F|100/100
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|1
+|
+|t:|1641839611
+|move|p2a: Zeraora|Knock Off|p1a: Froslass
+|-supereffective|p1a: Froslass
+|-enditem|p1a: Froslass|Focus Sash
+|-damage|p1a: Froslass|1/100
+|-damage|p2a: Zeraora|91/100|[from] item: Life Orb
+|move|p1a: Froslass|Spikes|p2a: Zeraora
+|-sidestart|p2: ButterySpirit|Spikes
+|
+|upkeep
+|turn|2
+|
+|t:|1641839618
+|move|p2a: Zeraora|Knock Off|p1a: Froslass
+|-supereffective|p1a: Froslass
+|-damage|p1a: Froslass|0 fnt
+|-start|p2a: Zeraora|Disable|Knock Off|[from] ability: Cursed Body|[of] p1a: Froslass
+|faint|p1a: Froslass
+|-damage|p2a: Zeraora|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641839622
+|switch|p1a: Sableye|Sableye, M|100/100
+|turn|3
+|
+|t:|1641839630
+|switch|p2a: Pelipper|Pelipper, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Sableye|Will-O-Wisp|p2a: Pelipper
+|-status|p2a: Pelipper|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641839636
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Pelipper|Defog|p1a: Dragapult
+|-fail|p1a: Dragapult|unboost|[from] ability: Clear Body|[of] p1a: Dragapult
+|-sideend|p2: ButterySpirit|Spikes|[from] move: Defog|[of] p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|88/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641839654
+|switch|p2a: Jiraya|Seismitoad, M, shiny|100/100
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641839660
+|move|p1a: Dragapult|Dragon Darts|p2a: Jiraya
+|-damage|p2a: Jiraya|35/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Jiraya
+|-damage|p2a: Jiraya|0 fnt
+|faint|p2a: Jiraya
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by It'sSpookyTime)
+|
+|t:|1641839710
+|switch|p2a: Tapu Bulu|Tapu Bulu|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|turn|7
+|
+|t:|1641839716
+|switch|p1a: Gengar|Gengar, M|100/100
+|move|p2a: Tapu Bulu|Wood Hammer|p1a: Gengar
+|-resisted|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|-damage|p2a: Tapu Bulu|72/100|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tapu Bulu|78/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641839721
+|switch|p1a: Sableye|Sableye, M|100/100
+|turn|8
+|
+|t:|1641839727
+|switch|p2a: Pelipper|Pelipper, M|88/100 brn
+|move|p1a: Sableye|Will-O-Wisp|p2a: Pelipper|[miss]
+|-miss|p1a: Sableye|p2a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|82/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641839731
+|move|p2a: Pelipper|U-turn|p1a: Sableye
+|-damage|p1a: Sableye|96/100
+|
+|t:|1641839741
+|switch|p2a: Zeraora|Zeraora|81/100|[from]move: U-turn
+|move|p1a: Sableye|Foul Play|p2a: Zeraora
+|-damage|p2a: Zeraora|19/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Zeraora|25/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|100/100|[from] Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641839747
+|move|p1a: Sableye|Will-O-Wisp|p2a: Zeraora
+|-status|p2a: Zeraora|brn
+|move|p2a: Zeraora|Plasma Fists|p1a: Sableye
+|-damage|p1a: Sableye|73/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p2a: Zeraora|15/100 brn|[from] item: Life Orb
+|
+|-weather|none
+|-heal|p2a: Zeraora|21/100 brn|[from] Grassy Terrain
+|-heal|p1a: Sableye|79/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|86/100|[from] item: Leftovers
+|-damage|p2a: Zeraora|15/100 brn|[from] brn
+|upkeep
+|turn|11
+|
+|t:|1641839752
+|move|p1a: Sableye|Encore|p2a: Zeraora
+|-start|p2a: Zeraora|Encore
+|move|p2a: Zeraora|Plasma Fists|p1a: Sableye
+|-damage|p1a: Sableye|55/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p2a: Zeraora|6/100 brn|[from] item: Life Orb
+|
+|-heal|p2a: Zeraora|12/100 brn|[from] Grassy Terrain
+|-heal|p1a: Sableye|61/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|67/100|[from] item: Leftovers
+|-damage|p2a: Zeraora|6/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641839756
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|100/100
+|move|p2a: Zeraora|Plasma Fists|p1a: Sableye
+|-damage|p1a: Sableye|71/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|-damage|p2a: Zeraora|0 fnt|[from] item: Life Orb
+|faint|p2a: Zeraora
+|
+|-heal|p1a: Sableye|77/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641839783
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|13
+|
+|t:|1641839786
+|move|p2a: Weavile|Swords Dance|p2a: Weavile
+|-boost|p2a: Weavile|atk|2
+|move|p1a: Sableye|Foul Play|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|19/100
+|
+|-heal|p1a: Sableye|83/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641839793
+|move|p2a: Weavile|Triple Axel|p1a: Sableye
+|-damage|p1a: Sableye|64/100
+|-hitcount|p1a: Sableye|1
+|move|p1a: Sableye|Foul Play|p2a: Weavile
+|-resisted|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|-heal|p1a: Sableye|71/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641839801
+|switch|p2a: Tapu Bulu|Tapu Bulu|78/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|turn|15
+|
+|t:|1641839804
+|move|p1a: Sableye|Will-O-Wisp|p2a: Tapu Bulu
+|-status|p2a: Tapu Bulu|brn
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Sableye
+|-damage|p1a: Sableye|27/100
+|-heal|p2a: Tapu Bulu|99/100 brn|[from] drain|[of] p1a: Sableye
+|
+|-heal|p2a: Tapu Bulu|100/100 brn|[from] Grassy Terrain
+|-heal|p1a: Sableye|33/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|40/100|[from] item: Leftovers
+|-damage|p2a: Tapu Bulu|95/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641839806
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|90/100
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Sableye
+|-damage|p1a: Sableye|48/100
+|-heal|p2a: Tapu Bulu|100/100 brn|[from] drain|[of] p1a: Sableye
+|
+|-heal|p1a: Sableye|54/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|60/100|[from] item: Leftovers
+|-damage|p2a: Tapu Bulu|95/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641839809
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|100/100
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Sableye
+|-damage|p1a: Sableye|57/100
+|-heal|p2a: Tapu Bulu|100/100 brn|[from] drain|[of] p1a: Sableye
+|
+|-heal|p1a: Sableye|63/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|70/100|[from] item: Leftovers
+|-damage|p2a: Tapu Bulu|95/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641839811
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Sableye
+|-damage|p1a: Sableye|30/100
+|-heal|p2a: Tapu Bulu|100/100 brn|[from] drain|[of] p1a: Sableye
+|move|p1a: Sableye|Foul Play|p2a: Tapu Bulu
+|-resisted|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|73/100 brn
+|
+|-heal|p2a: Tapu Bulu|79/100 brn|[from] Grassy Terrain
+|-heal|p1a: Sableye|37/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|43/100|[from] item: Leftovers
+|-damage|p2a: Tapu Bulu|73/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641839815
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|93/100
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Sableye
+|-damage|p1a: Sableye|55/100
+|-heal|p2a: Tapu Bulu|92/100 brn|[from] drain|[of] p1a: Sableye
+|
+|-heal|p2a: Tapu Bulu|98/100 brn|[from] Grassy Terrain
+|-heal|p1a: Sableye|62/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|68/100|[from] item: Leftovers
+|-damage|p2a: Tapu Bulu|92/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|20
+|
+|t:|1641839819
+|move|p2a: Tapu Bulu|Horn Leech|p1a: Sableye
+|-damage|p1a: Sableye|35/100
+|-heal|p2a: Tapu Bulu|100/100 brn|[from] drain|[of] p1a: Sableye
+|move|p1a: Sableye|Foul Play|p2a: Tapu Bulu
+|-resisted|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|75/100 brn
+|
+|-heal|p1a: Sableye|42/100|[from] item: Leftovers
+|-damage|p2a: Tapu Bulu|69/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641839822
+|switch|p2a: Pelipper|Pelipper, M|82/100 brn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Sableye|Recover|p1a: Sableye
+|-heal|p1a: Sableye|92/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Sableye|98/100|[from] item: Leftovers
+|-damage|p2a: Pelipper|76/100 brn|[from] brn
+|upkeep
+|turn|22
+|
+|t:|1641839826
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Pelipper|U-turn|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|98/100
+|
+|t:|1641839831
+|switch|p2a: Barraskewda|Barraskewda, F, shiny|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641839834
+|move|p2a: Barraskewda|Liquidation|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|26/100
+|move|p1a: Dragapult|Dragon Darts|p2a: Barraskewda
+|-damage|p2a: Barraskewda|33/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641839838
+|switch|p2a: Tapu Bulu|Tapu Bulu|69/100 brn
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|turn|24
+|
+|t:|1641839844
+|switch|p1a: Sableye|Sableye, M|98/100
+|move|p2a: Tapu Bulu|Wood Hammer|p1a: Sableye
+|-damage|p1a: Sableye|35/100
+|-damage|p2a: Tapu Bulu|49/100 brn|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tapu Bulu|54/100 brn|[from] Grassy Terrain
+|-heal|p1a: Sableye|41/100|[from] Grassy Terrain
+|-heal|p1a: Sableye|48/100|[from] item: Leftovers
+|-damage|p2a: Tapu Bulu|49/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641839848
+|move|p1a: Sableye|Encore|p2a: Tapu Bulu
+|-start|p2a: Tapu Bulu|Encore
+|move|p2a: Tapu Bulu|Wood Hammer|p1a: Sableye
+|-damage|p1a: Sableye|0 fnt
+|faint|p1a: Sableye
+|-damage|p2a: Tapu Bulu|33/100 brn|[from] Recoil
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tapu Bulu|39/100 brn|[from] Grassy Terrain
+|-damage|p2a: Tapu Bulu|33/100 brn|[from] brn
+|upkeep
+|
+|t:|1641839853
+|switch|p1a: Mimikyu|Mimikyu, F|100/100
+|turn|26
+|
+|t:|1641839856
+|switch|p2a: Pelipper|Pelipper, M|76/100 brn
+|move|p1a: Mimikyu|Swords Dance|p1a: Mimikyu
+|-boost|p1a: Mimikyu|atk|2
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Pelipper|70/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641839860
+|move|p1a: Mimikyu|Play Rough|p2a: Pelipper
+|-damage|p2a: Pelipper|0 fnt
+|faint|p2a: Pelipper
+|-damage|p1a: Mimikyu|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Mimikyu|97/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641839863
+|switch|p2a: Tapu Bulu|Tapu Bulu|33/100 brn
+|turn|28
+|-message|ButterySpirit forfeited.
+|
+|win|It'sSpookyTime
+|raw|It&apos;sSpookyTime's rating: 1262 &rarr; <strong>1289</strong><br />(+27 for winning)
+|raw|ButterySpirit's rating: 1290 &rarr; <strong>1263</strong><br />(-27 for losing)
+|l|☆ButterySpirit
+|c|☆It'sSpookyTime|gg
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

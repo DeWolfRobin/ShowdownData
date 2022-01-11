@@ -1,0 +1,373 @@
+|j|☆Npek16
+|j|☆Moth.o
+|t:|1641813010
+|gametype|singles
+|player|p1|Npek16|101|
+|player|p2|Moth.o|roxie|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Zapdos|
+|poke|p1|Barraskewda, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Toxicroak, F|
+|poke|p1|Seismitoad, F|
+|poke|p2|Sylveon, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Scolipede, F|
+|poke|p2|Moltres|
+|poke|p2|Krookodile, F|
+|poke|p2|Lurantis, M|
+|teampreview
+|
+|t:|1641813017
+|start
+|switch|p1a: Que llueva|Pelipper, F, shiny|100/100
+|switch|p2a: Lagartera|Krookodile, F, shiny|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Que llueva
+|turn|1
+|c|☆Npek16|todo mal
+|
+|t:|1641813025
+|move|p2a: Lagartera|Knock Off|p1a: Que llueva
+|-damage|p1a: Que llueva|48/100
+|-enditem|p1a: Que llueva|Damp Rock|[from] move: Knock Off|[of] p2a: Lagartera
+|-damage|p2a: Lagartera|91/100|[from] item: Life Orb
+|move|p1a: Que llueva|Scald|p2a: Lagartera
+|-supereffective|p2a: Lagartera
+|-damage|p2a: Lagartera|0 fnt
+|faint|p2a: Lagartera
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641813039
+|switch|p2a: TransLivesMatter|Sylveon, M|100/100
+|turn|2
+|
+|t:|1641813043
+|switch|p1a: que te pinsho|Ferrothorn, F, shiny|100/100
+|move|p2a: TransLivesMatter|Calm Mind|p2a: TransLivesMatter
+|-boost|p2a: TransLivesMatter|spa|1
+|-boost|p2a: TransLivesMatter|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641813051
+|switch|p2a: Perséfone|Moltres|100/100
+|move|p1a: que te pinsho|Toxic|p2a: Perséfone
+|-status|p2a: Perséfone|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Perséfone|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641813066
+|switch|p1a: primoZumosol|Seismitoad, F, shiny|100/100
+|move|p2a: Perséfone|Flamethrower|p1a: primoZumosol
+|-resisted|p1a: primoZumosol
+|-damage|p1a: primoZumosol|92/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: primoZumosol|98/100|[from] item: Leftovers
+|-damage|p2a: Perséfone|82/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641813081
+|switch|p2a: Aerodynamo|Dragapult, M|100/100
+|move|p1a: primoZumosol|Stealth Rock|p2a: Aerodynamo
+|-sidestart|p2: Moth.o|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: primoZumosol|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641813095
+|move|p2a: Aerodynamo|Shadow Ball|p1a: primoZumosol
+|-damage|p1a: primoZumosol|69/100
+|-unboost|p1a: primoZumosol|spd|1
+|move|p1a: primoZumosol|Toxic|p2a: Aerodynamo
+|-status|p2a: Aerodynamo|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: primoZumosol|75/100|[from] item: Leftovers
+|-damage|p2a: Aerodynamo|95/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641813107
+|move|p2a: Aerodynamo|Shadow Ball|p1a: primoZumosol
+|-damage|p1a: primoZumosol|28/100
+|move|p1a: primoZumosol|Ice Punch|p2a: Aerodynamo
+|-supereffective|p2a: Aerodynamo
+|-damage|p2a: Aerodynamo|35/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: primoZumosol|34/100|[from] item: Leftovers
+|-damage|p2a: Aerodynamo|23/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641813118
+|move|p2a: Aerodynamo|Shadow Ball|p1a: primoZumosol
+|-damage|p1a: primoZumosol|0 fnt
+|faint|p1a: primoZumosol
+|
+|-weather|none
+|-damage|p2a: Aerodynamo|5/100 tox|[from] psn
+|upkeep
+|
+|t:|1641813125
+|switch|p1a: Que llueva|Pelipper, F, shiny|48/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Que llueva
+|turn|9
+|
+|t:|1641813141
+|switch|p1a: rana drogas|Toxicroak, F|100/100
+|move|p2a: Aerodynamo|Shadow Ball|p1a: rana drogas
+|-damage|p1a: rana drogas|37/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: rana drogas|49/100|[from] ability: Dry Skin
+|-damage|p2a: Aerodynamo|0 fnt|[from] psn
+|faint|p2a: Aerodynamo
+|upkeep
+|
+|t:|1641813153
+|switch|p2a: Ophelia|Scolipede, F, shiny|100/100
+|-damage|p2a: Ophelia|76/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641813164
+|move|p2a: Ophelia|Swords Dance|p2a: Ophelia
+|-boost|p2a: Ophelia|atk|2
+|move|p1a: rana drogas|Drain Punch|p2a: Ophelia
+|-resisted|p2a: Ophelia
+|-damage|p2a: Ophelia|59/100
+|-heal|p1a: rana drogas|57/100|[from] drain|[of] p2a: Ophelia
+|-damage|p1a: rana drogas|47/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: rana drogas|59/100|[from] ability: Dry Skin
+|-ability|p2a: Ophelia|Speed Boost|boost
+|-boost|p2a: Ophelia|spe|1
+|upkeep
+|turn|11
+|
+|t:|1641813177
+|move|p1a: rana drogas|Sucker Punch|p2a: Ophelia
+|-damage|p2a: Ophelia|23/100
+|-damage|p1a: rana drogas|49/100|[from] item: Life Orb
+|move|p2a: Ophelia|Poison Jab|p1a: rana drogas
+|-resisted|p1a: rana drogas
+|-damage|p1a: rana drogas|0 fnt
+|faint|p1a: rana drogas
+|
+|-weather|RainDance|[upkeep]
+|-ability|p2a: Ophelia|Speed Boost|boost
+|-boost|p2a: Ophelia|spe|1
+|upkeep
+|
+|t:|1641813191
+|switch|p1a: ZapDios|Zapdos, shiny|100/100
+|turn|12
+|
+|t:|1641813195
+|move|p2a: Ophelia|Poison Jab|p1a: ZapDios
+|-damage|p1a: ZapDios|11/100
+|move|p1a: ZapDios|Hurricane|p2a: Ophelia
+|-supereffective|p2a: Ophelia
+|-damage|p2a: Ophelia|0 fnt
+|faint|p2a: Ophelia
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641813209
+|switch|p2a: TransLivesMatter|Sylveon, M|100/100
+|-damage|p2a: TransLivesMatter|88/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641813215
+|move|p1a: ZapDios|Hurricane|p2a: TransLivesMatter
+|-damage|p2a: TransLivesMatter|13/100
+|move|p2a: TransLivesMatter|Hyper Voice|p1a: ZapDios
+|-damage|p1a: ZapDios|0 fnt
+|faint|p1a: ZapDios
+|-enditem|p2a: TransLivesMatter|Throat Spray
+|-boost|p2a: TransLivesMatter|spa|1|[from] item: Throat Spray
+|
+|-weather|none
+|upkeep
+|
+|t:|1641813226
+|switch|p1a: Que llueva|Pelipper, F, shiny|48/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Que llueva
+|turn|14
+|
+|t:|1641813231
+|switch|p1a: que te pinsho|Ferrothorn, F, shiny|100/100
+|move|p2a: TransLivesMatter|Hyper Voice|p1a: que te pinsho
+|-resisted|p1a: que te pinsho
+|-damage|p1a: que te pinsho|73/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: que te pinsho|79/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641813241
+|switch|p1a: A tu casa|Barraskewda, F, shiny|100/100
+|move|p2a: TransLivesMatter|Mystical Fire|p1a: A tu casa
+|-resisted|p1a: A tu casa
+|-damage|p1a: A tu casa|80/100
+|-unboost|p1a: A tu casa|spa|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|16
+|
+|t:|1641813254
+|move|p1a: A tu casa|Flip Turn|p2a: TransLivesMatter
+|-damage|p2a: TransLivesMatter|0 fnt
+|faint|p2a: TransLivesMatter
+|
+|t:|1641813269
+|switch|p1a: que te pinsho|Ferrothorn, F, shiny|79/100|[from]move: Flip Turn
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: que te pinsho|86/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641813275
+|switch|p2a: Guillot|Lurantis, M|100/100
+|-damage|p2a: Guillot|88/100|[from] Stealth Rock
+|turn|17
+|
+|t:|1641813282
+|move|p2a: Guillot|Substitute|p2a: Guillot
+|-start|p2a: Guillot|Substitute
+|-damage|p2a: Guillot|63/100
+|move|p1a: que te pinsho|Toxic||[still]
+|-fail|p1a: que te pinsho
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Guillot|69/100|[from] item: Leftovers
+|-heal|p1a: que te pinsho|92/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641813292
+|move|p2a: Guillot|Superpower|p1a: que te pinsho
+|-supereffective|p1a: que te pinsho
+|-damage|p1a: que te pinsho|42/100
+|-boost|p2a: Guillot|atk|1
+|-boost|p2a: Guillot|def|1
+|-damage|p2a: Guillot|57/100|[from] ability: Iron Barbs|[of] p1a: que te pinsho
+|move|p1a: que te pinsho|Gyro Ball|p2a: Guillot
+|-activate|p2a: Guillot|move: Substitute|[damage]
+|
+|-weather|none
+|-heal|p2a: Guillot|63/100|[from] item: Leftovers
+|-heal|p1a: que te pinsho|48/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641813321
+|move|p2a: Guillot|Superpower|p1a: que te pinsho
+|-supereffective|p1a: que te pinsho
+|-damage|p1a: que te pinsho|0 fnt
+|-boost|p2a: Guillot|atk|1
+|-boost|p2a: Guillot|def|1
+|-damage|p2a: Guillot|51/100|[from] ability: Iron Barbs|[of] p1a: que te pinsho
+|faint|p1a: que te pinsho
+|
+|-heal|p2a: Guillot|57/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641813330
+|switch|p1a: Que llueva|Pelipper, F, shiny|48/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Que llueva
+|turn|20
+|
+|t:|1641813342
+|move|p1a: Que llueva|U-turn|p2a: Guillot
+|-supereffective|p2a: Guillot
+|-end|p2a: Guillot|Substitute
+|
+|t:|1641813346
+|switch|p1a: A tu casa|Barraskewda, F, shiny|80/100|[from]move: U-turn
+|move|p2a: Guillot|Leaf Storm|p1a: A tu casa
+|-supereffective|p1a: A tu casa
+|-damage|p1a: A tu casa|0 fnt
+|-boost|p2a: Guillot|spa|2
+|faint|p1a: A tu casa
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Guillot|63/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641813355
+|switch|p1a: Que llueva|Pelipper, F, shiny|48/100
+|turn|21
+|
+|t:|1641813364
+|move|p1a: Que llueva|Roost|p1a: Que llueva
+|-heal|p1a: Que llueva|99/100
+|-singleturn|p1a: Que llueva|move: Roost
+|move|p2a: Guillot|Leaf Storm|p1a: Que llueva
+|-supereffective|p1a: Que llueva
+|-damage|p1a: Que llueva|0 fnt
+|-boost|p2a: Guillot|spa|2
+|faint|p1a: Que llueva
+|
+|win|Moth.o
+|c|☆Npek16|ahora si gg
+|c|☆Npek16|dale grasias pibe
+|c|☆Moth.o|Gg uwu
+|c|☆Moth.o|Naadaaa
+|c|☆Npek16|ese pochimon
+|c|☆Npek16|esta broken
+|c|☆Moth.o|Nah, si es NU
+|c|☆Moth.o|JAJAJA
+|c|☆Npek16|ya pero el sustituto que asco xd
+|c|☆Npek16|buen team
+|c|☆Moth.o|Es k sino no ae xheta bien uwu
+|c|☆Npek16|no yayay
+|c|☆Moth.o|Pero gran combate
+|c|☆Npek16|si
+|c|☆Moth.o|Tu equipo tambien mola mutxo
+|c|☆Npek16|dije awa
+|c|☆Npek16|y awa
+|c|☆Moth.o|Dijiste: voy a mojar a to Dios
+|c|☆Npek16|pero creo que le falta algo
+|c|☆Npek16|pero nose el que
+|c|☆Moth.o|Quizás le pondría rocas a Ferro
+|c|☆Moth.o|Y a Seismi lo haría full ofensivo
+|c|☆Moth.o|Con Chaleco o así 🤔
+|c|☆Npek16|vale mirare
+|c|☆Npek16|grasias pibe
+|c|☆Moth.o|A Toxicrosk un Sustituto con el Dry Skin munca le viene mal
+|c|☆Npek16|es verdad es buena
+|c|☆Moth.o|Pero claro, pierdes dos slots si quieres el SD
+|c|☆Npek16|sierto
+|c|☆Npek16|nose lo del seismi
+|c|☆Npek16|me lo mirare
+|c|☆Npek16|pq es el quie menos me gusta
+|c|☆Moth.o|El Toxi k usaba en USUM para parar Greninja era Sus, SD, Drain y Puya/Gunk
+|c|☆Moth.o|A mi Seismi me parece buen Rain Dancer tbh

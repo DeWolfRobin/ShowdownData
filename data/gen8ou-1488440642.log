@@ -1,0 +1,453 @@
+|j|☆eduluffy
+|j|☆UnusualFighter
+|t:|1641765573
+|gametype|singles
+|player|p1|eduluffy|riley|1360
+|player|p2|UnusualFighter|giovanni|1291
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Barraskewda, M|
+|poke|p1|Pelipper, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Thundurus, M|
+|poke|p1|Jirachi|
+|poke|p1|Conkeldurr, M|
+|poke|p2|Clefable, F|
+|poke|p2|Volcarona, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Tyranitar, F|
+|poke|p2|Gengar, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UnusualFighter)
+|inactive|eduluffy has 120 seconds left.
+|inactive|eduluffy has 90 seconds left.
+|inactive|eduluffy has 60 seconds left.
+|
+|t:|1641765665
+|start
+|switch|p1a: Jirachi|Jirachi|100/100
+|switch|p2a: Gojira|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gojira
+|turn|1
+|
+|t:|1641765672
+|move|p1a: Jirachi|U-turn|p2a: Gojira
+|-supereffective|p2a: Gojira
+|-damage|p2a: Gojira|78/100
+|
+|t:|1641765680
+|switch|p1a: Think twice|Pelipper, F, shiny|100/100|[from]move: U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Think twice
+|move|p2a: Gojira|Crunch|p1a: Think twice
+|-crit|p1a: Think twice
+|-damage|p1a: Think twice|21/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Gojira|84/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|inactive|eduluffy has 120 seconds left.
+|inactive|eduluffy has 90 seconds left.
+|
+|t:|1641765747
+|switch|p2a: Needles|Ferrothorn, F|100/100
+|move|p1a: Think twice|Weather Ball|p2a: Needles
+|-resisted|p2a: Needles
+|-damage|p2a: Needles|70/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641765758
+|switch|p1a: Jirachi|Jirachi|100/100
+|move|p2a: Needles|Leech Seed|p1a: Jirachi
+|-start|p1a: Jirachi|move: Leech Seed
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Jirachi|88/100|[from] Leech Seed|[of] p2a: Needles
+|-heal|p2a: Needles|87/100|[silent]
+|upkeep
+|turn|4
+|
+|t:|1641765766
+|move|p1a: Jirachi|Stealth Rock|p2a: Needles
+|-sidestart|p2: UnusualFighter|move: Stealth Rock
+|move|p2a: Needles|Spikes|p1a: Jirachi
+|-sidestart|p1: eduluffy|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Jirachi|76/100|[from] Leech Seed|[of] p2a: Needles
+|-heal|p2a: Needles|100/100|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641765773
+|move|p1a: Jirachi|U-turn|p2a: Needles
+|-damage|p2a: Needles|88/100
+|-damage|p1a: Jirachi|63/100|[from] ability: Iron Barbs|[of] p2a: Needles
+|-damage|p1a: Jirachi|47/100|[from] item: Rocky Helmet|[of] p2a: Needles
+|inactive|eduluffy has 90 seconds left.
+|
+|t:|1641765795
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100|[from]move: U-turn
+|-damage|p1a: Conkeldurr|88/100|[from] Spikes
+|move|p2a: Needles|Spikes|p1a: Conkeldurr
+|-sidestart|p1: eduluffy|Spikes
+|
+|-weather|RainDance|[upkeep]
+|-status|p1a: Conkeldurr|brn|[from] item: Flame Orb
+|upkeep
+|turn|6
+|
+|t:|1641765809
+|move|p1a: Conkeldurr|Knock Off|p2a: Needles
+|-damage|p2a: Needles|39/100
+|-damage|p1a: Conkeldurr|76/100 brn|[from] ability: Iron Barbs|[of] p2a: Needles
+|-damage|p1a: Conkeldurr|59/100 brn|[from] item: Rocky Helmet|[of] p2a: Needles
+|-enditem|p2a: Needles|Rocky Helmet|[from] move: Knock Off|[of] p1a: Conkeldurr
+|move|p2a: Needles|Gyro Ball|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|30/100 brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Conkeldurr|24/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641765824
+|switch|p2a: Tomfoolery|Gengar, M|100/100
+|-damage|p2a: Tomfoolery|88/100|[from] Stealth Rock
+|move|p1a: Conkeldurr|Close Combat|p2a: Tomfoolery
+|-immune|p2a: Tomfoolery
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Tomfoolery|94/100|[from] item: Black Sludge
+|-damage|p1a: Conkeldurr|18/100 brn|[from] brn
+|upkeep
+|turn|8
+|inactive|eduluffy has 90 seconds left.
+|
+|t:|1641765833
+|switch|p1a: Dream|Dragonite, M|100/100
+|move|p2a: Tomfoolery|Substitute|p2a: Tomfoolery
+|-start|p2a: Tomfoolery|Substitute
+|-damage|p2a: Tomfoolery|69/100
+|
+|-weather|none
+|-heal|p2a: Tomfoolery|76/100|[from] item: Black Sludge
+|upkeep
+|turn|9
+|
+|t:|1641765841
+|move|p2a: Tomfoolery|Nasty Plot|p2a: Tomfoolery
+|-boost|p2a: Tomfoolery|spa|2
+|move|p1a: Dream|Dragon Dance|p1a: Dream
+|-boost|p1a: Dream|atk|1
+|-boost|p1a: Dream|spe|1
+|
+|-heal|p2a: Tomfoolery|82/100|[from] item: Black Sludge
+|upkeep
+|turn|10
+|
+|t:|1641765848
+|move|p2a: Tomfoolery|Shadow Ball|p1a: Dream
+|-damage|p1a: Dream|67/100
+|move|p1a: Dream|Dragon Tail|p2a: Tomfoolery
+|-end|p2a: Tomfoolery|Substitute
+|
+|-heal|p2a: Tomfoolery|88/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1641765855
+|move|p2a: Tomfoolery|Substitute|p2a: Tomfoolery
+|-start|p2a: Tomfoolery|Substitute
+|-damage|p2a: Tomfoolery|63/100
+|move|p1a: Dream|Dragon Tail|p2a: Tomfoolery
+|-end|p2a: Tomfoolery|Substitute
+|
+|-heal|p2a: Tomfoolery|69/100|[from] item: Black Sludge
+|upkeep
+|turn|12
+|
+|t:|1641765859
+|move|p2a: Tomfoolery|Shadow Ball|p1a: Dream
+|-damage|p1a: Dream|0 fnt
+|faint|p1a: Dream
+|
+|-heal|p2a: Tomfoolery|75/100|[from] item: Black Sludge
+|upkeep
+|inactive|eduluffy has 120 seconds left.
+|
+|t:|1641765869
+|switch|p1a: Danger line|Barraskewda, M|100/100
+|-damage|p1a: Danger line|84/100|[from] Spikes
+|turn|13
+|
+|t:|1641765878
+|switch|p2a: Mr. Miyagi|Urshifu-Rapid-Strike, M|100/100
+|-damage|p2a: Mr. Miyagi|94/100|[from] Stealth Rock
+|move|p1a: Danger line|Liquidation|p2a: Mr. Miyagi
+|-resisted|p2a: Mr. Miyagi
+|-damage|p2a: Mr. Miyagi|64/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641765885
+|switch|p1a: UU?|Thundurus, M, shiny|100/100
+|move|p2a: Mr. Miyagi|Close Combat|p1a: UU?
+|-resisted|p1a: UU?
+|-damage|p1a: UU?|56/100
+|-unboost|p2a: Mr. Miyagi|def|1
+|-unboost|p2a: Mr. Miyagi|spd|1
+|
+|upkeep
+|turn|15
+|
+|t:|1641765895
+|switch|p2a: Gojira|Tyranitar, F|84/100
+|-damage|p2a: Gojira|72/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gojira
+|move|p1a: UU?|Thunder Wave|p2a: Gojira
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: Gojira
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: UU?|50/100|[from] Sandstorm
+|-heal|p2a: Gojira|78/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641765906
+|move|p1a: UU?|Defog|p2a: Gojira
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p2a: Gojira
+|move|p2a: Gojira|Stone Edge|p1a: UU?
+|-supereffective|p1a: UU?
+|-damage|p1a: UU?|0 fnt
+|faint|p1a: UU?
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Gojira|84/100|[from] item: Leftovers
+|upkeep
+|c|☆UnusualFighter|oof
+|
+|t:|1641765913
+|switch|p1a: Think twice|Pelipper, F, shiny|21/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Think twice
+|turn|17
+|
+|t:|1641765921
+|switch|p2a: (OwO)|Clefable, F|100/100
+|move|p1a: Think twice|Weather Ball|p2a: (OwO)
+|-damage|p2a: (OwO)|32/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|18
+|
+|t:|1641765927
+|switch|p2a: Gojira|Tyranitar, F|84/100
+|-damage|p2a: Gojira|72/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gojira
+|move|p1a: Think twice|Weather Ball|p2a: Gojira
+|-damage|p2a: Gojira|53/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Think twice|15/100|[from] Sandstorm
+|-heal|p2a: Gojira|59/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641765937
+|switch|p1a: Jirachi|Jirachi|47/100
+|-damage|p1a: Jirachi|30/100|[from] Spikes
+|move|p2a: Gojira|Stone Edge|p1a: Jirachi
+|-resisted|p1a: Jirachi
+|-damage|p1a: Jirachi|5/100
+|-enditem|p1a: Jirachi|Red Card|[of] p2a: Gojira
+|drag|p2a: Tomfoolery|Gengar, M|75/100
+|-damage|p2a: Tomfoolery|63/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tomfoolery|57/100|[from] Sandstorm
+|-heal|p2a: Tomfoolery|63/100|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|t:|1641765950
+|move|p2a: Tomfoolery|Substitute|p2a: Tomfoolery
+|-start|p2a: Tomfoolery|Substitute
+|-damage|p2a: Tomfoolery|38/100
+|move|p1a: Jirachi|Psychic|p2a: Tomfoolery
+|-supereffective|p2a: Tomfoolery
+|-end|p2a: Tomfoolery|Substitute
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tomfoolery|32/100|[from] Sandstorm
+|-heal|p2a: Tomfoolery|38/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1641765970
+|move|p2a: Tomfoolery|Shadow Ball|p1a: Jirachi
+|-supereffective|p1a: Jirachi
+|-damage|p1a: Jirachi|0 fnt
+|faint|p1a: Jirachi
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tomfoolery|32/100|[from] Sandstorm
+|-heal|p2a: Tomfoolery|38/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1641765982
+|switch|p1a: Danger line|Barraskewda, M|84/100
+|-damage|p1a: Danger line|67/100|[from] Spikes
+|turn|22
+|
+|t:|1641765987
+|switch|p2a: Needles|Ferrothorn, F|39/100
+|-damage|p2a: Needles|32/100|[from] Stealth Rock
+|move|p1a: Danger line|Flip Turn|p2a: Needles
+|-resisted|p2a: Needles
+|-damage|p2a: Needles|12/100
+|-damage|p1a: Danger line|55/100|[from] ability: Iron Barbs|[of] p2a: Needles
+|
+|t:|1641765997
+|switch|p1a: Conkeldurr|Conkeldurr, M|18/100 brn|[from]move: Flip Turn
+|-damage|p1a: Conkeldurr|1/100 brn|[from] Spikes
+|
+|-weather|none
+|-damage|p1a: Conkeldurr|0 fnt|[from] brn
+|faint|p1a: Conkeldurr
+|upkeep
+|
+|t:|1641766007
+|switch|p1a: Think twice|Pelipper, F, shiny|15/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Think twice
+|turn|23
+|
+|t:|1641766011
+|switch|p2a: Gojira|Tyranitar, F|59/100
+|-damage|p2a: Gojira|46/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gojira
+|move|p1a: Think twice|U-turn|p2a: Gojira
+|-supereffective|p2a: Gojira
+|-damage|p2a: Gojira|32/100
+|
+|t:|1641766017
+|switch|p1a: Danger line|Barraskewda, M|55/100|[from]move: U-turn
+|-damage|p1a: Danger line|39/100|[from] Spikes
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Danger line|33/100|[from] Sandstorm
+|-heal|p2a: Gojira|39/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641766026
+|switch|p2a: Needles|Ferrothorn, F|12/100
+|-damage|p2a: Needles|5/100|[from] Stealth Rock
+|move|p1a: Danger line|Flip Turn|p2a: Needles
+|-resisted|p2a: Needles
+|-damage|p2a: Needles|0 fnt
+|-damage|p1a: Danger line|20/100|[from] ability: Iron Barbs|[of] p2a: Needles
+|faint|p2a: Needles
+|
+|t:|1641766030
+|switch|p1a: Think twice|Pelipper, F, shiny|15/100|[from]move: Flip Turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Think twice
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641766039
+|switch|p2a: Gojira|Tyranitar, F|39/100
+|-damage|p2a: Gojira|26/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gojira
+|turn|25
+|
+|t:|1641766046
+|move|p1a: Think twice|U-turn|p2a: Gojira
+|-supereffective|p2a: Gojira
+|-damage|p2a: Gojira|13/100
+|
+|t:|1641766048
+|switch|p1a: Danger line|Barraskewda, M|20/100|[from]move: U-turn
+|-damage|p1a: Danger line|4/100|[from] Spikes
+|move|p2a: Gojira|Stone Edge|p1a: Danger line|[miss]
+|-miss|p2a: Gojira|p1a: Danger line
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Danger line|0 fnt|[from] Sandstorm
+|faint|p1a: Danger line
+|-heal|p2a: Gojira|20/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641766050
+|switch|p1a: Think twice|Pelipper, F, shiny|15/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Think twice
+|turn|26
+|
+|t:|1641766062
+|switch|p2a: (OwO)|Clefable, F|32/100
+|move|p1a: Think twice|Weather Ball|p2a: (OwO)
+|-damage|p2a: (OwO)|0 fnt
+|faint|p2a: (OwO)
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641766065
+|switch|p2a: Gojira|Tyranitar, F|20/100
+|-damage|p2a: Gojira|7/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Gojira
+|turn|27
+|
+|t:|1641766077
+|switch|p2a: Huitzilopochtli|Volcarona, M|100/100
+|move|p1a: Think twice|Weather Ball|p2a: Huitzilopochtli
+|-supereffective|p2a: Huitzilopochtli
+|-damage|p2a: Huitzilopochtli|0 fnt
+|faint|p2a: Huitzilopochtli
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Think twice|9/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641766082
+|switch|p2a: Mr. Miyagi|Urshifu-Rapid-Strike, M|64/100
+|-damage|p2a: Mr. Miyagi|57/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641766089
+|move|p2a: Mr. Miyagi|Close Combat|p1a: Think twice
+|-resisted|p1a: Think twice
+|-damage|p1a: Think twice|0 fnt
+|-unboost|p2a: Mr. Miyagi|def|1
+|-unboost|p2a: Mr. Miyagi|spd|1
+|faint|p1a: Think twice
+|
+|win|UnusualFighter
+|raw|eduluffy's rating: 1360 &rarr; <strong>1336</strong><br />(-24 for losing)
+|raw|UnusualFighter's rating: 1291 &rarr; <strong>1321</strong><br />(+30 for winning)
+|c|☆UnusualFighter|gg
+|l|☆eduluffy
+|l|☆UnusualFighter
+||Ladder isn't responding, score probably updated but might not have (Request timeout).
+|j|☆UnusualFighter
+|player|p2|UnusualFighter|giovanni
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by UnusualFighter)

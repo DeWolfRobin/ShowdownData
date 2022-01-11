@@ -1,0 +1,104 @@
+|j|☆Bearclaw11d7
+|j|☆ambientfive
+|t:|1641864991
+|gametype|singles
+|player|p1|Bearclaw11d7|blaine|1040
+|player|p2|ambientfive|plasmagrunt|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Escavalier, F|
+|poke|p1|Silvally-*|
+|poke|p1|Cofagrigus, F|
+|poke|p1|Mudsdale, M|
+|poke|p1|Basculin, M|
+|poke|p1|Whimsicott, M|
+|poke|p2|Bewear, F|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Frosmoth, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Incineroar, M|
+|poke|p2|Gyarados, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ambientfive)
+|inactive|ambientfive has 120 seconds left.
+|
+|t:|1641865033
+|start
+|switch|p1a: Horse Manuel|Mudsdale, M|100/100
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|1
+|
+|t:|1641865040
+|move|p2a: Dragapult|Shadow Ball|p1a: Horse Manuel
+|-damage|p1a: Horse Manuel|67/100
+|-ability|p1a: Horse Manuel|Stamina|boost
+|-boost|p1a: Horse Manuel|def|1
+|move|p1a: Horse Manuel|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-heal|p1a: Horse Manuel|74/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641865046
+|move|p1a: Horse Manuel|Protect|p1a: Horse Manuel
+|-singleturn|p1a: Horse Manuel|Protect
+|move|p2a: Dragapult|Dragon Pulse|p1a: Horse Manuel
+|-activate|p1a: Horse Manuel|move: Protect
+|
+|-heal|p2a: Dragapult|100/100 tox|[from] item: Leftovers
+|-heal|p1a: Horse Manuel|80/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|89/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641865069
+|move|p2a: Dragapult|Dragon Pulse|p1a: Horse Manuel
+|-damage|p1a: Horse Manuel|45/100
+|-ability|p1a: Horse Manuel|Stamina|boost
+|-boost|p1a: Horse Manuel|def|1
+|move|p1a: Horse Manuel|Stealth Rock|p2a: Dragapult
+|-sidestart|p2: ambientfive|move: Stealth Rock
+|
+|-heal|p2a: Dragapult|95/100 tox|[from] item: Leftovers
+|-heal|p1a: Horse Manuel|51/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|77/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641865075
+|move|p1a: Horse Manuel|Protect|p1a: Horse Manuel
+|-singleturn|p1a: Horse Manuel|Protect
+|move|p2a: Dragapult|Dragon Pulse|p1a: Horse Manuel
+|-activate|p1a: Horse Manuel|move: Protect
+|
+|-heal|p2a: Dragapult|83/100 tox|[from] item: Leftovers
+|-heal|p1a: Horse Manuel|57/100|[from] item: Leftovers
+|-damage|p2a: Dragapult|59/100 tox|[from] psn
+|upkeep
+|turn|5
+|l|☆ambientfive
+|inactive|ambientfive disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|ambientfive has 30 seconds to reconnect!
+|inactive|ambientfive has 20 seconds to reconnect!
+|inactive|ambientfive has 15 seconds to reconnect!
+|inactive|ambientfive has 10 seconds to reconnect!
+|inactive|ambientfive has 5 seconds to reconnect!
+|-message|ambientfive lost due to inactivity.
+|
+|win|Bearclaw11d7
+|raw|Bearclaw11d7's rating: 1040 &rarr; <strong>1070</strong><br />(+30 for winning)
+|raw|ambientfive's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)

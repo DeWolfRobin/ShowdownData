@@ -1,0 +1,383 @@
+|j|☆e5djkiut78
+|j|☆matsuda shingen
+|t:|1641746897
+|gametype|singles
+|player|p1|e5djkiut78|ltsurge|1049
+|player|p2|matsuda shingen|veteran|1017
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Torkoal, M|
+|poke|p1|Volcarona, F|
+|poke|p1|Maractus, M|
+|poke|p1|Krookodile, F|
+|poke|p1|Crustle, M|
+|poke|p1|Conkeldurr, M|
+|poke|p2|Blaziken, F|
+|poke|p2|Venusaur, F|
+|poke|p2|Swampert, M|
+|poke|p2|Zapdos|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Heatran, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by e5djkiut78)
+|
+|t:|1641746907
+|start
+|switch|p1a: Volcarona|Volcarona, F, shiny|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|1
+|
+|t:|1641746914
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Ferrothorn|Leech Seed|p1a: Volcarona
+|-start|p1a: Volcarona|move: Leech Seed
+|
+|-damage|p1a: Volcarona|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|2
+|
+|t:|1641746925
+|move|p1a: Volcarona|Fiery Dance|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-enditem|p2a: Ferrothorn|Focus Sash
+|-damage|p2a: Ferrothorn|1/100
+|-boost|p1a: Volcarona|spa|1
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Volcarona
+|-sidestart|p1: e5djkiut78|move: Stealth Rock
+|
+|-damage|p1a: Volcarona|75/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|13/100|[silent]
+|upkeep
+|turn|3
+|
+|t:|1641746936
+|move|p1a: Volcarona|Bug Buzz|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641746947
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|turn|4
+|
+|t:|1641746951
+|move|p1a: Volcarona|Bug Buzz|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|75/100
+|-enditem|p2a: Heatran|Air Balloon
+|move|p2a: Heatran|Eruption|p1a: Volcarona
+|-damage|p1a: Volcarona|37/100
+|
+|-damage|p1a: Volcarona|24/100|[from] Leech Seed|[of] p2a: Heatran
+|-heal|p2a: Heatran|87/100|[silent]
+|upkeep
+|turn|5
+|
+|t:|1641746961
+|move|p1a: Volcarona|Bug Buzz|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|64/100
+|move|p2a: Heatran|Eruption|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|upkeep
+|
+|t:|1641746973
+|switch|p1a: Conkeldurr|Conkeldurr, M, shiny|100/100
+|-damage|p1a: Conkeldurr|94/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641746984
+|move|p2a: Heatran|Toxic|p1a: Conkeldurr
+|-status|p1a: Conkeldurr|tox
+|move|p1a: Conkeldurr|Ice Punch|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|55/100
+|
+|-damage|p1a: Conkeldurr|88/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641746996
+|move|p2a: Heatran|Iron Head|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|63/100 tox
+|move|p1a: Conkeldurr|Drain Punch|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-heal|p1a: Conkeldurr|86/100 tox|[from] drain|[of] p2a: Heatran
+|faint|p2a: Heatran
+|
+|-damage|p1a: Conkeldurr|74/100 tox|[from] psn
+|upkeep
+|
+|t:|1641747006
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|8
+|
+|t:|1641747009
+|move|p2a: Zapdos|Brave Bird|p1a: Conkeldurr
+|-supereffective|p1a: Conkeldurr
+|-crit|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|-damage|p2a: Zapdos|71/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641747017
+|switch|p1a: Torkoal|Torkoal, M, shiny|100/100
+|-damage|p1a: Torkoal|75/100|[from] Stealth Rock
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|9
+|
+|t:|1641747025
+|move|p2a: Zapdos|Thunder|p1a: Torkoal
+|-damage|p1a: Torkoal|26/100
+|move|p1a: Torkoal|Weather Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|24/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641747033
+|move|p2a: Zapdos|Brave Bird|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|faint|p1a: Torkoal
+|-damage|p2a: Zapdos|16/100|[from] Recoil
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641747038
+|switch|p1a: Maractus|Maractus, M, shiny|100/100
+|-damage|p1a: Maractus|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641747044
+|move|p1a: Maractus|Weather Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641747052
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|turn|12
+|
+|t:|1641747058
+|move|p1a: Maractus|Hyper Voice|p2a: Blaziken
+|-damage|p2a: Blaziken|64/100
+|move|p2a: Blaziken|Flamethrower|p1a: Maractus
+|-supereffective|p1a: Maractus
+|-damage|p1a: Maractus|0 fnt
+|faint|p1a: Maractus
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blaziken|70/100|[from] item: Leftovers
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641747069
+|switch|p1a: Krookodile|Krookodile, F|100/100
+|-damage|p1a: Krookodile|94/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641747080
+|switch|p2a: Swampert|Swampert, M|100/100
+|move|p1a: Krookodile|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|49/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Swampert|55/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641747092
+|move|p1a: Krookodile|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|3/100
+|move|p2a: Swampert|Toxic|p1a: Krookodile
+|-status|p1a: Krookodile|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Swampert|9/100|[from] item: Leftovers
+|-damage|p1a: Krookodile|88/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641747102
+|move|p1a: Krookodile|Earthquake|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|faint|p2a: Swampert
+|-ability|p1a: Krookodile|Moxie|boost
+|-boost|p1a: Krookodile|atk|1
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Krookodile|76/100 tox|[from] psn
+|upkeep
+|
+|t:|1641747110
+|switch|p2a: Venusaur|Venusaur, F|100/100
+|turn|16
+|
+|t:|1641747117
+|move|p2a: Venusaur|Leaf Storm|p1a: Krookodile
+|-supereffective|p1a: Krookodile
+|-damage|p1a: Krookodile|0 fnt
+|-unboost|p2a: Venusaur|spa|2
+|faint|p1a: Krookodile
+|
+|-weather|none
+|upkeep
+|
+|t:|1641747123
+|switch|p1a: Big Crus|Crustle, M, shiny|100/100
+|turn|17
+|
+|t:|1641747127
+|move|p2a: Venusaur|Sleep Powder|p1a: Big Crus
+|-status|p1a: Big Crus|slp|[from] move: Sleep Powder
+|cant|p1a: Big Crus|slp
+|
+|upkeep
+|turn|18
+|
+|t:|1641747133
+|move|p2a: Venusaur|Sunny Day|p2a: Venusaur
+|-weather|SunnyDay
+|-curestatus|p1a: Big Crus|slp|[msg]
+|move|p1a: Big Crus|Shell Smash|p1a: Big Crus
+|-unboost|p1a: Big Crus|def|1
+|-unboost|p1a: Big Crus|spd|1
+|-boost|p1a: Big Crus|atk|2
+|-boost|p1a: Big Crus|spa|2
+|-boost|p1a: Big Crus|spe|2
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|19
+|
+|t:|1641747145
+|move|p2a: Venusaur|Sleep Powder|p1a: Big Crus
+|-status|p1a: Big Crus|slp|[from] move: Sleep Powder
+|cant|p1a: Big Crus|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641747151
+|switch|p2a: Blaziken|Blaziken, F|70/100
+|cant|p1a: Big Crus|slp
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Blaziken|76/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641747159
+|-curestatus|p1a: Big Crus|slp|[msg]
+|move|p1a: Big Crus|Earthquake|p2a: Blaziken
+|-supereffective|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|faint|p2a: Blaziken
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641747166
+|switch|p2a: Venusaur|Venusaur, F|100/100
+|turn|22
+|
+|t:|1641747170
+|move|p2a: Venusaur|Sleep Powder|p1a: Big Crus
+|-status|p1a: Big Crus|slp|[from] move: Sleep Powder
+|cant|p1a: Big Crus|slp
+|
+|-weather|none
+|upkeep
+|turn|23
+|
+|t:|1641747177
+|-curestatus|p1a: Big Crus|slp|[msg]
+|move|p1a: Big Crus|Earthquake|p2a: Venusaur
+|-damage|p2a: Venusaur|21/100
+|move|p2a: Venusaur|Sunny Day|p2a: Venusaur
+|-weather|SunnyDay
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|24
+|
+|t:|1641747184
+|move|p2a: Venusaur|Sleep Powder|p1a: Big Crus
+|-status|p1a: Big Crus|slp|[from] move: Sleep Powder
+|cant|p1a: Big Crus|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|25
+|
+|t:|1641747191
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-heal|p2a: Venusaur|87/100
+|cant|p1a: Big Crus|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|26
+|
+|t:|1641747198
+|move|p2a: Venusaur|Synthesis|p2a: Venusaur
+|-heal|p2a: Venusaur|100/100
+|cant|p1a: Big Crus|slp
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|27
+|
+|t:|1641747205
+|move|p2a: Venusaur|Leaf Storm|p1a: Big Crus
+|-ability|p1a: Big Crus|Sturdy
+|-damage|p1a: Big Crus|1/100 slp
+|-unboost|p2a: Venusaur|spa|2
+|-curestatus|p1a: Big Crus|slp|[msg]
+|move|p1a: Big Crus|Shell Smash|p1a: Big Crus
+|-unboost|p1a: Big Crus|def|1
+|-unboost|p1a: Big Crus|spd|1
+|-boost|p1a: Big Crus|atk|2
+|-boost|p1a: Big Crus|spa|2
+|-boost|p1a: Big Crus|spe|2
+|
+|-weather|none
+|upkeep
+|turn|28
+|
+|t:|1641747218
+|move|p1a: Big Crus|Earthquake|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|win|e5djkiut78
+|raw|e5djkiut78's rating: 1049 &rarr; <strong>1079</strong><br />(+30 for winning)
+|raw|matsuda shingen's rating: 1017 &rarr; <strong>1006</strong><br />(-11 for losing)
+|l|☆e5djkiut78

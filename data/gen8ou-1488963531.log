@@ -1,0 +1,403 @@
+|j|☆mattcap
+|j|☆Haxxhatred
+|t:|1641841151
+|gametype|singles
+|player|p1|mattcap|steven|1403
+|player|p2|Haxxhatred|170|1339
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragapult, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Zeraora|
+|poke|p1|Corviknight, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Volcarona, F|
+|poke|p2|Aerodactyl, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Weavile, F|
+|poke|p2|Latias, F|
+|poke|p2|Gengar, M|
+|poke|p2|Tyranitar, M|
+|teampreview
+|
+|t:|1641841177
+|start
+|switch|p1a: Tapu Finished|Tapu Fini|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Finished
+|turn|1
+|
+|t:|1641841192
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|move|p1a: Tapu Finished|Calm Mind|p1a: Tapu Finished
+|-boost|p1a: Tapu Finished|spa|1
+|-boost|p1a: Tapu Finished|spd|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641841199
+|move|p2a: Tapu Lele|Psyshock|p1a: Tapu Finished
+|-damage|p1a: Tapu Finished|31/100
+|-damage|p2a: Tapu Lele|91/100|[from] item: Life Orb
+|move|p1a: Tapu Finished|Taunt|p2a: Tapu Lele
+|-start|p2a: Tapu Lele|move: Taunt
+|
+|-heal|p1a: Tapu Finished|37/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641841210
+|switch|p1a: The Wall|Corviknight, F|100/100
+|-ability|p1a: The Wall|Pressure
+|move|p2a: Tapu Lele|Psyshock|p1a: The Wall
+|-resisted|p1a: The Wall
+|-damage|p1a: The Wall|74/100
+|-damage|p2a: Tapu Lele|81/100|[from] item: Life Orb
+|
+|-heal|p1a: The Wall|80/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641841222
+|move|p2a: Tapu Lele|Moonblast|p1a: The Wall
+|-resisted|p1a: The Wall
+|-damage|p1a: The Wall|36/100
+|-damage|p2a: Tapu Lele|71/100|[from] item: Life Orb
+|move|p1a: The Wall|Substitute|p1a: The Wall
+|-start|p1a: The Wall|Substitute
+|-damage|p1a: The Wall|12/100
+|
+|-heal|p1a: The Wall|18/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641841232
+|move|p2a: Tapu Lele|Moonblast|p1a: The Wall
+|-resisted|p1a: The Wall
+|-end|p1a: The Wall|Substitute
+|-damage|p2a: Tapu Lele|62/100|[from] item: Life Orb
+|move|p1a: The Wall|Roost|p1a: The Wall
+|-heal|p1a: The Wall|68/100
+|-singleturn|p1a: The Wall|move: Roost
+|
+|-heal|p1a: The Wall|74/100|[from] item: Leftovers
+|-end|p2a: Tapu Lele|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641841246
+|move|p2a: Tapu Lele|Focus Blast|p1a: The Wall|[miss]
+|-miss|p2a: Tapu Lele|p1a: The Wall
+|move|p1a: The Wall|Roost|p1a: The Wall
+|-heal|p1a: The Wall|100/100
+|-singleturn|p1a: The Wall|move: Roost
+|
+|upkeep
+|turn|7
+|
+|t:|1641841255
+|move|p2a: Tapu Lele|Moonblast|p1a: The Wall
+|-resisted|p1a: The Wall
+|-damage|p1a: The Wall|55/100
+|-unboost|p1a: The Wall|spa|1
+|-damage|p2a: Tapu Lele|52/100|[from] item: Life Orb
+|move|p1a: The Wall|Substitute|p1a: The Wall
+|-start|p1a: The Wall|Substitute
+|-damage|p1a: The Wall|30/100
+|
+|-heal|p1a: The Wall|36/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641841266
+|move|p2a: Tapu Lele|Moonblast|p1a: The Wall
+|-resisted|p1a: The Wall
+|-end|p1a: The Wall|Substitute
+|-damage|p2a: Tapu Lele|42/100|[from] item: Life Orb
+|move|p1a: The Wall|Roost|p1a: The Wall
+|-heal|p1a: The Wall|86/100
+|-singleturn|p1a: The Wall|move: Roost
+|
+|-heal|p1a: The Wall|92/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641841279
+|move|p2a: Tapu Lele|Focus Blast|p1a: The Wall
+|-damage|p1a: The Wall|22/100
+|-damage|p2a: Tapu Lele|33/100|[from] item: Life Orb
+|move|p1a: The Wall|Substitute|p1a: The Wall
+|-fail|p1a: The Wall|move: Substitute|[weak]
+|
+|-heal|p1a: The Wall|28/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641841299
+|move|p2a: Tapu Lele|Moonblast|p1a: The Wall
+|-resisted|p1a: The Wall
+|-damage|p1a: The Wall|0 fnt
+|faint|p1a: The Wall
+|-damage|p2a: Tapu Lele|23/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641841302
+|switch|p1a: super sainyan|Zeraora|100/100
+|turn|11
+|
+|t:|1641841316
+|move|p1a: super sainyan|Plasma Fists|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p2a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641841339
+|switch|p2a: Latias|Latias, F|100/100
+|turn|12
+|
+|t:|1641841348
+|move|p1a: super sainyan|Knock Off|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|32/100
+|-enditem|p2a: Latias|Life Orb|[from] move: Knock Off|[of] p1a: super sainyan
+|move|p2a: Latias|Psyshock|p1a: super sainyan
+|-damage|p1a: super sainyan|48/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641841359
+|switch|p2a: Tyranitar|Tyranitar, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: super sainyan|Knock Off|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|86/100
+|-enditem|p2a: Tyranitar|Rawst Berry|[from] move: Knock Off|[of] p1a: super sainyan
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: super sainyan|42/100|[from] Sandstorm
+|upkeep
+|turn|14
+|
+|t:|1641841370
+|switch|p2a: Gengar|Gengar, M|100/100
+|move|p1a: super sainyan|Close Combat|p2a: Gengar
+|-immune|p2a: Gengar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gengar|95/100|[from] Sandstorm
+|-damage|p1a: super sainyan|36/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641841386
+|move|p2a: Gengar|Shadow Ball|p1a: super sainyan
+|-damage|p1a: super sainyan|0 fnt
+|faint|p1a: super sainyan
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Gengar|89/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641841398
+|switch|p1a: Lando Calrissian|Landorus-Therian, M|100/100
+|-ability|p1a: Lando Calrissian|Intimidate|boost
+|-unboost|p2a: Gengar|atk|1
+|turn|16
+|
+|t:|1641841406
+|switch|p2a: Aerodactyl|Aerodactyl, M|100/100
+|-ability|p2a: Aerodactyl|Pressure
+|move|p1a: Lando Calrissian|Rock Polish|p1a: Lando Calrissian
+|-boost|p1a: Lando Calrissian|spe|2
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|17
+|
+|t:|1641841426
+|switch|p2a: Latias|Latias, F|32/100
+|move|p1a: Lando Calrissian|Swords Dance|p1a: Lando Calrissian
+|-boost|p1a: Lando Calrissian|atk|2
+|
+|-weather|none
+|upkeep
+|turn|18
+|
+|t:|1641841434
+|move|p1a: Lando Calrissian|Smack Down|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|-damage|p1a: Lando Calrissian|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641841440
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|19
+|
+|t:|1641841449
+|switch|p1a: Tapu Finished|Tapu Fini|37/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Finished
+|move|p2a: Weavile|Ice Shard|p1a: Tapu Finished
+|-resisted|p1a: Tapu Finished
+|-damage|p1a: Tapu Finished|26/100
+|-damage|p2a: Weavile|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Tapu Finished|32/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641841462
+|switch|p2a: Gengar|Gengar, M|89/100
+|move|p1a: Tapu Finished|Draining Kiss|p2a: Gengar
+|-resisted|p2a: Gengar
+|-damage|p2a: Gengar|73/100
+|-heal|p1a: Tapu Finished|42/100|[from] drain|[of] p2a: Gengar
+|
+|-heal|p1a: Tapu Finished|48/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641841472
+|switch|p1a: Orbital Strike|Dragapult, F|100/100
+|move|p2a: Gengar|Sludge Wave|p1a: Orbital Strike
+|-resisted|p1a: Orbital Strike
+|-damage|p1a: Orbital Strike|68/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641841481
+|switch|p2a: Tyranitar|Tyranitar, M|86/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Orbital Strike|U-turn|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|54/100
+|
+|t:|1641841490
+|switch|p1a: Lando Calrissian|Landorus-Therian, M|91/100|[from]move: U-turn
+|-ability|p1a: Lando Calrissian|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641841497
+|move|p1a: Lando Calrissian|Earthquake|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|-damage|p1a: Lando Calrissian|81/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641841506
+|switch|p2a: Weavile|Weavile, F|91/100
+|-ability|p2a: Weavile|Pressure
+|turn|24
+|
+|t:|1641841517
+|switch|p1a: Tapu Finished|Tapu Fini|48/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Finished
+|move|p2a: Weavile|Triple Axel|p1a: Tapu Finished
+|-resisted|p1a: Tapu Finished
+|-damage|p1a: Tapu Finished|42/100
+|-resisted|p1a: Tapu Finished
+|-damage|p1a: Tapu Finished|28/100
+|-resisted|p1a: Tapu Finished
+|-damage|p1a: Tapu Finished|8/100
+|-hitcount|p1a: Tapu Finished|3
+|-damage|p2a: Weavile|81/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|75/100|[from] Sandstorm
+|-damage|p1a: Tapu Finished|2/100|[from] Sandstorm
+|-heal|p1a: Tapu Finished|8/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641841534
+|move|p2a: Weavile|Knock Off|p1a: Tapu Finished
+|-resisted|p1a: Tapu Finished
+|-damage|p1a: Tapu Finished|0 fnt
+|-enditem|p1a: Tapu Finished|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Tapu Finished
+|-damage|p2a: Weavile|65/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Weavile|59/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641841537
+|switch|p1a: Juniper|Volcarona, F|100/100
+|turn|26
+|
+|t:|1641841549
+|move|p2a: Weavile|Knock Off|p1a: Juniper
+|-damage|p1a: Juniper|0 fnt
+|-enditem|p1a: Juniper|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Weavile
+|faint|p1a: Juniper
+|-damage|p2a: Weavile|49/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641841556
+|switch|p1a: Orbital Strike|Dragapult, F|68/100
+|turn|27
+|
+|t:|1641841560
+|move|p2a: Weavile|Ice Shard|p1a: Orbital Strike
+|-supereffective|p1a: Orbital Strike
+|-damage|p1a: Orbital Strike|0 fnt
+|faint|p1a: Orbital Strike
+|-damage|p2a: Weavile|39/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641841563
+|switch|p1a: Lando Calrissian|Landorus-Therian, M|81/100
+|-ability|p1a: Lando Calrissian|Intimidate|boost
+|-unboost|p2a: Weavile|atk|1
+|turn|28
+|
+|t:|1641841571
+|move|p2a: Weavile|Triple Axel|p1a: Lando Calrissian
+|-supereffective|p1a: Lando Calrissian
+|-damage|p1a: Lando Calrissian|32/100
+|-supereffective|p1a: Lando Calrissian
+|-damage|p1a: Lando Calrissian|0 fnt
+|faint|p1a: Lando Calrissian
+|-hitcount|p1: Lando Calrissian|2
+|-damage|p2a: Weavile|29/100|[from] item: Life Orb
+|
+|win|Haxxhatred
+|raw|mattcap's rating: 1403 &rarr; <strong>1379</strong><br />(-24 for losing)
+|raw|Haxxhatred's rating: 1339 &rarr; <strong>1363</strong><br />(+24 for winning)
+|l|☆mattcap
+|c|☆Haxxhatred|You tried relying on hax eh

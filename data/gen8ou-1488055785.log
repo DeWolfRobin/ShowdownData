@@ -1,0 +1,127 @@
+|j|☆Ryu_NLF
+|j|☆Caguayylmao
+|t:|1641703734
+|gametype|singles
+|player|p1|Ryu_NLF|blue|
+|player|p2|Caguayylmao|cress|
+|teamsize|p1|1
+|teamsize|p2|1
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Togepi, M|
+|poke|p2|Togepi, M|
+|teampreview
+|
+|t:|1641703744
+|start
+|switch|p1a: killer idiots|Togepi, M, shiny|100/100
+|switch|p2a: TheBoy|Togepi, M|100/100
+|turn|1
+|
+|t:|1641703799
+|move|p1a: killer idiots|Metronome|p1a: killer idiots
+|move|p1a: killer idiots|Shift Gear|p1a: killer idiots|[from]move: Metronome
+|-boost|p1a: killer idiots|spe|2
+|-boost|p1a: killer idiots|atk|1
+|move|p2a: TheBoy|Metronome|p2a: TheBoy
+|move|p2a: TheBoy|Submission|p1a: killer idiots|[from]move: Metronome
+|-resisted|p1a: killer idiots
+|-damage|p1a: killer idiots|95/100
+|-damage|p2a: TheBoy|99/100|[from] Recoil
+|
+|upkeep
+|turn|2
+|
+|t:|1641703818
+|move|p1a: killer idiots|Metronome|p1a: killer idiots
+|move|p1a: killer idiots|Bug Bite|p2a: TheBoy|[from]move: Metronome
+|-resisted|p2a: TheBoy
+|-damage|p2a: TheBoy|93/100
+|-enditem|p2a: TheBoy|Sitrus Berry|[from] stealeat|[move] Bug Bite|[of] p1a: killer idiots
+|-heal|p1a: killer idiots|100/100|[from] item: Sitrus Berry
+|move|p2a: TheBoy|Metronome|p2a: TheBoy
+|move|p2a: TheBoy|Vital Throw|p1a: killer idiots|[from]move: Metronome
+|-resisted|p1a: killer idiots
+|-damage|p1a: killer idiots|96/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641703834
+|move|p1a: killer idiots|Metronome|p1a: killer idiots
+|move|p1a: killer idiots|Super Fang|p2a: TheBoy|[from]move: Metronome|[miss]
+|-miss|p1a: killer idiots|p2a: TheBoy
+|move|p2a: TheBoy|Metronome|p2a: TheBoy
+|move|p2a: TheBoy|Steel Wing|p1a: killer idiots|[from]move: Metronome
+|-supereffective|p1a: killer idiots
+|-damage|p1a: killer idiots|79/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641703869
+|move|p1a: killer idiots|Metronome|p1a: killer idiots
+|move|p1a: killer idiots|Assurance|p2a: TheBoy|[from]move: Metronome
+|-resisted|p2a: TheBoy
+|-damage|p2a: TheBoy|87/100
+|move|p2a: TheBoy|Metronome|p2a: TheBoy
+|move|p2a: TheBoy|Rain Dance|p2a: TheBoy|[from]move: Metronome
+|-weather|RainDance
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641703878
+|move|p1a: killer idiots|Metronome|p1a: killer idiots
+|move|p1a: killer idiots|Wood Hammer|p2a: TheBoy|[from]move: Metronome
+|-damage|p2a: TheBoy|65/100
+|-damage|p1a: killer idiots|71/100|[from] Recoil
+|move|p2a: TheBoy|Metronome|p2a: TheBoy
+|move|p2a: TheBoy|Fling||[from]move: Metronome|[still]
+|-fail|p2a: TheBoy
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641703890
+|move|p1a: killer idiots|Metronome|p1a: killer idiots
+|move|p1a: killer idiots|Disable|p2a: TheBoy|[from]move: Metronome
+|-start|p2a: TheBoy|Disable|Metronome
+|cant|p2a: TheBoy|Disable|Metronome
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|c|☆Ryu_NLF|gg
+|
+|t:|1641703903
+|move|p1a: killer idiots|Metronome|p1a: killer idiots
+|move|p1a: killer idiots|Draco Meteor|p2a: TheBoy|[from]move: Metronome
+|-immune|p2a: TheBoy
+|-activate|p2a: TheBoy|move: Struggle
+|move|p2a: TheBoy|Struggle|p1a: killer idiots
+|-damage|p1a: killer idiots|64/100
+|-damage|p2a: TheBoy|40/100|[from] recoil
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641703951
+|move|p1a: killer idiots|Metronome|p1a: killer idiots
+|move|p1a: killer idiots|Iron Tail|p2a: TheBoy|[from]move: Metronome
+|-supereffective|p2a: TheBoy
+|-damage|p2a: TheBoy|0 fnt
+|faint|p2a: TheBoy
+|
+|win|Ryu_NLF

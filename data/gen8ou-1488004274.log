@@ -1,0 +1,418 @@
+|j|☆MrDarkNebulah
+|j|☆r6uj6
+|t:|1641696122
+|gametype|singles
+|player|p1|MrDarkNebulah|170|1175
+|player|p2|r6uj6|rocketgruntf|1111
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Stunfisk, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Mamoswine, M|
+|poke|p1|Tentacruel, F|
+|poke|p1|Skarmory, M|
+|poke|p1|Mew|
+|poke|p2|Tapu Bulu|
+|poke|p2|Rillaboom, M|
+|poke|p2|Volcanion|
+|poke|p2|Dragapult, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Magnezone|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by MrDarkNebulah)
+|
+|t:|1641696136
+|start
+|switch|p1a: Stunfisk|Stunfisk, F, shiny|100/100
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|1
+|
+|t:|1641696144
+|move|p2a: Rillaboom|Knock Off|p1a: Stunfisk
+|-damage|p1a: Stunfisk|57/100
+|-status|p2a: Rillaboom|par|[from] ability: Static|[of] p1a: Stunfisk
+|-enditem|p1a: Stunfisk|Leftovers|[from] move: Knock Off|[of] p2a: Rillaboom
+|move|p1a: Stunfisk|Stealth Rock|p2a: Rillaboom
+|-sidestart|p2: r6uj6|move: Stealth Rock
+|
+|-heal|p1a: Stunfisk|63/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1641696167
+|move|p2a: Rillaboom|Knock Off|p1a: Stunfisk
+|-damage|p1a: Stunfisk|36/100
+|move|p1a: Stunfisk|Discharge|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|84/100 par
+|
+|-heal|p2a: Rillaboom|90/100 par|[from] Grassy Terrain
+|-heal|p1a: Stunfisk|42/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|inactive|MrDarkNebulah has 120 seconds left.
+|
+|t:|1641696194
+|switch|p2a: Tapu Bulu|Tapu Bulu, shiny|100/100
+|-damage|p2a: Tapu Bulu|88/100|[from] Stealth Rock
+|move|p1a: Stunfisk|Rest|p1a: Stunfisk
+|-status|p1a: Stunfisk|slp|[from] move: Rest
+|-heal|p1a: Stunfisk|100/100 slp|[silent]
+|
+|-heal|p2a: Tapu Bulu|94/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|inactive|MrDarkNebulah has 120 seconds left.
+|
+|t:|1641696214
+|switch|p1a: Skarmory|Skarmory, M|100/100
+|move|p2a: Tapu Bulu|Stone Edge|p1a: Skarmory
+|-damage|p1a: Skarmory|75/100
+|
+|-heal|p2a: Tapu Bulu|99/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641696222
+|switch|p2a: Magnezone|Magnezone|100/100
+|-damage|p2a: Magnezone|94/100|[from] Stealth Rock
+|move|p1a: Skarmory|Spikes|p2a: Magnezone
+|-sidestart|p2: r6uj6|Spikes
+|
+|-heal|p2a: Magnezone|100/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|6
+|inactive|MrDarkNebulah has 120 seconds left.
+|
+|t:|1641696248
+|switch|p1a: Stunfisk|Stunfisk, F, shiny|100/100 slp
+|switch|p2a: Volcanion|Volcanion|100/100
+|
+|upkeep
+|turn|7
+|inactive|MrDarkNebulah has 90 seconds left.
+|
+|t:|1641696285
+|switch|p1a: Tentacruel|Tentacruel, F|100/100
+|move|p2a: Volcanion|Steam Eruption|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|78/100
+|
+|-heal|p1a: Tentacruel|84/100|[from] item: Black Sludge
+|upkeep
+|turn|8
+|inactive|MrDarkNebulah has 90 seconds left.
+|
+|t:|1641696299
+|move|p1a: Tentacruel|Toxic|p2a: Volcanion
+|-status|p2a: Volcanion|tox
+|move|p2a: Volcanion|Earth Power|p1a: Tentacruel
+|-supereffective|p1a: Tentacruel
+|-damage|p1a: Tentacruel|29/100
+|
+|-heal|p1a: Tentacruel|35/100|[from] item: Black Sludge
+|-damage|p2a: Volcanion|95/100 tox|[from] psn
+|upkeep
+|turn|9
+|inactive|MrDarkNebulah has 90 seconds left.
+|
+|t:|1641696320
+|switch|p1a: Skarmory|Skarmory, M|75/100
+|move|p2a: Volcanion|Earth Power|p1a: Skarmory
+|-immune|p1a: Skarmory
+|
+|-damage|p2a: Volcanion|83/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641696328
+|switch|p1a: Tentacruel|Tentacruel, F|35/100
+|move|p2a: Volcanion|Flamethrower|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|15/100
+|
+|-heal|p1a: Tentacruel|21/100|[from] item: Black Sludge
+|-damage|p2a: Volcanion|65/100 tox|[from] psn
+|upkeep
+|turn|11
+|inactive|MrDarkNebulah has 90 seconds left.
+|
+|t:|1641696339
+|move|p1a: Tentacruel|Knock Off|p2a: Volcanion
+|-damage|p2a: Volcanion|50/100 tox
+|-enditem|p2a: Volcanion|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tentacruel
+|move|p2a: Volcanion|Flamethrower|p1a: Tentacruel
+|-resisted|p1a: Tentacruel
+|-damage|p1a: Tentacruel|2/100
+|
+|-heal|p1a: Tentacruel|8/100|[from] item: Black Sludge
+|-damage|p2a: Volcanion|26/100 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|MrDarkNebulah has 90 seconds left.
+|
+|t:|1641696356
+|switch|p2a: Magnezone|Magnezone|100/100
+|-damage|p2a: Magnezone|88/100|[from] Spikes
+|-damage|p2a: Magnezone|82/100|[from] Stealth Rock
+|move|p1a: Tentacruel|Scald|p2a: Magnezone
+|-damage|p2a: Magnezone|59/100
+|
+|-heal|p1a: Tentacruel|14/100|[from] item: Black Sludge
+|upkeep
+|turn|13
+|inactive|r6uj6 has 120 seconds left.
+|
+|t:|1641696383
+|switch|p2a: Rillaboom|Rillaboom, M, shiny|90/100 par
+|-damage|p2a: Rillaboom|78/100 par|[from] Spikes
+|-damage|p2a: Rillaboom|65/100 par|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Tentacruel|Knock Off|p2a: Rillaboom
+|-damage|p2a: Rillaboom|50/100 par
+|-enditem|p2a: Rillaboom|Choice Band|[from] move: Knock Off|[of] p1a: Tentacruel
+|
+|-heal|p1a: Tentacruel|20/100|[from] Grassy Terrain
+|-heal|p1a: Tentacruel|26/100|[from] item: Black Sludge
+|-heal|p2a: Rillaboom|56/100 par|[from] Grassy Terrain
+|upkeep
+|turn|14
+|inactive|r6uj6 has 120 seconds left.
+|
+|t:|1641696407
+|switch|p1a: Stunfisk|Stunfisk, F, shiny|100/100 slp
+|move|p2a: Rillaboom|Grassy Glide|p1a: Stunfisk
+|-supereffective|p1a: Stunfisk
+|-damage|p1a: Stunfisk|17/100 slp
+|
+|-heal|p2a: Rillaboom|62/100 par|[from] Grassy Terrain
+|-heal|p1a: Stunfisk|23/100 slp|[from] Grassy Terrain
+|upkeep
+|turn|15
+|inactive|r6uj6 has 120 seconds left.
+|
+|t:|1641696428
+|move|p2a: Rillaboom|Knock Off|p1a: Stunfisk
+|-damage|p1a: Stunfisk|3/100 slp
+|cant|p1a: Stunfisk|slp
+|
+|-heal|p2a: Rillaboom|68/100 par|[from] Grassy Terrain
+|-heal|p1a: Stunfisk|9/100 slp|[from] Grassy Terrain
+|upkeep
+|turn|16
+|
+|t:|1641696436
+|move|p2a: Rillaboom|U-turn|p1a: Stunfisk
+|-damage|p1a: Stunfisk|0 fnt
+|faint|p1a: Stunfisk
+|
+|t:|1641696454
+|switch|p2a: Dragapult|Dragapult, M, shiny|100/100|[from]move: U-turn
+|-damage|p2a: Dragapult|88/100|[from] Spikes
+|-damage|p2a: Dragapult|76/100|[from] Stealth Rock
+|
+|-heal|p2a: Dragapult|82/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641696465
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|turn|17
+|
+|t:|1641696475
+|switch|p2a: Bisharp|Bisharp, F|100/100
+|-damage|p2a: Bisharp|88/100|[from] Spikes
+|-damage|p2a: Bisharp|82/100|[from] Stealth Rock
+|move|p1a: Mamoswine|Icicle Crash|p2a: Bisharp
+|-resisted|p2a: Bisharp
+|-damage|p2a: Bisharp|58/100
+|
+|-heal|p2a: Bisharp|64/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|18
+|
+|t:|1641696494
+|switch|p1a: Skarmory|Skarmory, M|75/100
+|move|p2a: Bisharp|Iron Head|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|62/100
+|-damage|p2a: Bisharp|47/100|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|upkeep
+|turn|19
+|
+|t:|1641696506
+|move|p1a: Skarmory|Spikes|p2a: Bisharp
+|-sidestart|p2: r6uj6|Spikes
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|
+|upkeep
+|turn|20
+|
+|t:|1641696514
+|move|p2a: Bisharp|Swords Dance|p2a: Bisharp
+|-boost|p2a: Bisharp|atk|2
+|move|p1a: Skarmory|Whirlwind|p2a: Bisharp
+|drag|p2a: Dragapult|Dragapult, M, shiny|82/100
+|-damage|p2a: Dragapult|70/100|[from] Stealth Rock
+|-damage|p2a: Dragapult|53/100|[from] Spikes
+|
+|upkeep
+|turn|21
+|inactive|r6uj6 has 120 seconds left.
+|
+|t:|1641696525
+|move|p2a: Dragapult|Flamethrower|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1641696532
+|switch|p1a: Mamoswine|Mamoswine, M|100/100
+|turn|22
+|
+|t:|1641696540
+|switch|p2a: Volcanion|Volcanion|26/100 tox
+|-damage|p2a: Volcanion|10/100 tox|[from] Spikes
+|-damage|p2a: Volcanion|0 fnt|[from] Stealth Rock
+|faint|p2a: Volcanion
+|move|p1a: Mamoswine|Icicle Crash|p2: Volcanion|[notarget]
+|-fail|p1a: Mamoswine
+|
+|upkeep
+|
+|t:|1641696547
+|switch|p2a: Dragapult|Dragapult, M, shiny|53/100
+|-damage|p2a: Dragapult|37/100|[from] Spikes
+|-damage|p2a: Dragapult|24/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641696553
+|move|p2a: Dragapult|Flamethrower|p1a: Mamoswine
+|-supereffective|p1a: Mamoswine
+|-damage|p1a: Mamoswine|45/100
+|-status|p1a: Mamoswine|brn
+|move|p1a: Mamoswine|Icicle Crash|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-damage|p1a: Mamoswine|39/100 brn|[from] brn
+|upkeep
+|
+|t:|1641696564
+|switch|p2a: Tapu Bulu|Tapu Bulu, shiny|99/100
+|-damage|p2a: Tapu Bulu|88/100|[from] Stealth Rock
+|-damage|p2a: Tapu Bulu|71/100|[from] Spikes
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|turn|24
+|
+|t:|1641696577
+|move|p1a: Mamoswine|Icicle Crash|p2a: Tapu Bulu
+|-supereffective|p2a: Tapu Bulu
+|-crit|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|0 fnt
+|faint|p2a: Tapu Bulu
+|
+|-heal|p1a: Mamoswine|45/100 brn|[from] Grassy Terrain
+|-damage|p1a: Mamoswine|39/100 brn|[from] brn
+|upkeep
+|
+|t:|1641696585
+|switch|p2a: Bisharp|Bisharp, F|47/100
+|-damage|p2a: Bisharp|41/100|[from] Stealth Rock
+|-damage|p2a: Bisharp|25/100|[from] Spikes
+|turn|25
+|
+|t:|1641696591
+|move|p2a: Bisharp|Sucker Punch|p1a: Mamoswine
+|-damage|p1a: Mamoswine|0 fnt
+|faint|p1a: Mamoswine
+|
+|-heal|p2a: Bisharp|31/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641696597
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|turn|26
+|
+|t:|1641696605
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|move|p2a: Bisharp|Knock Off|p1a: Volcarona
+|-damage|p1a: Volcarona|6/100
+|-enditem|p1a: Volcarona|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Bisharp
+|
+|-heal|p1a: Volcarona|12/100|[from] Grassy Terrain
+|-heal|p2a: Bisharp|37/100|[from] Grassy Terrain
+|upkeep
+|turn|27
+|
+|t:|1641696615
+|move|p2a: Bisharp|Sucker Punch|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|-heal|p2a: Bisharp|43/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641696622
+|switch|p1a: Mew|Mew|100/100
+|turn|28
+|
+|t:|1641696626
+|move|p2a: Bisharp|Sucker Punch|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|22/100
+|move|p1a: Mew|Seismic Toss|p2a: Bisharp
+|-damage|p2a: Bisharp|13/100
+|
+|-heal|p1a: Mew|28/100|[from] Grassy Terrain
+|-heal|p1a: Mew|34/100|[from] item: Leftovers
+|-heal|p2a: Bisharp|19/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|29
+|
+|t:|1641696636
+|move|p1a: Mew|Soft-Boiled|p1a: Mew
+|-heal|p1a: Mew|84/100
+|move|p2a: Bisharp|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|-enditem|p1a: Mew|Leftovers|[from] move: Knock Off|[of] p2a: Bisharp
+|faint|p1a: Mew
+|
+|upkeep
+|c|☆r6uj6|gg
+|
+|t:|1641696644
+|switch|p1a: Tentacruel|Tentacruel, F|26/100
+|turn|30
+|
+|t:|1641696647
+|move|p2a: Bisharp|Sucker Punch|p1a: Tentacruel
+|-damage|p1a: Tentacruel|0 fnt
+|faint|p1a: Tentacruel
+|
+|win|r6uj6
+|raw|MrDarkNebulah's rating: 1175 &rarr; <strong>1145</strong><br />(-30 for losing)
+|raw|r6uj6's rating: 1111 &rarr; <strong>1141</strong><br />(+30 for winning)

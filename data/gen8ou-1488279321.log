@@ -1,0 +1,371 @@
+|j|☆SoleSurvivorVGC
+|j|☆T mauvais
+|t:|1641745347
+|gametype|singles
+|player|p1|SoleSurvivorVGC|hilbert|1283
+|player|p2|T mauvais|lucas|1238
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Magnezone|
+|poke|p1|Kartana|
+|poke|p1|Weavile, M|
+|poke|p1|Tapu Fini|
+|poke|p2|Pelipper, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Scizor, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Mamoswine, M|
+|teampreview
+|c|☆SoleSurvivorVGC|glhf
+|
+|t:|1641745366
+|start
+|switch|p1a: Not Choice Scarf|Magnezone|100/100
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|1
+|
+|t:|1641745373
+|switch|p2a: Mamoswine|Mamoswine, M|100/100
+|move|p1a: Not Choice Scarf|Volt Switch|p2a: Mamoswine
+|-immune|p2a: Mamoswine
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641745382
+|switch|p1a: Pangea|Landorus-Therian, M|100/100
+|-ability|p1a: Pangea|Intimidate|boost
+|-unboost|p2a: Mamoswine|atk|1
+|move|p2a: Mamoswine|Icicle Crash|p1a: Pangea
+|-supereffective|p1a: Pangea
+|-damage|p1a: Pangea|1/100
+|-damage|p2a: Mamoswine|91/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641745392
+|move|p2a: Mamoswine|Ice Shard|p1a: Pangea
+|-supereffective|p1a: Pangea
+|-damage|p1a: Pangea|0 fnt
+|faint|p1a: Pangea
+|-damage|p2a: Mamoswine|81/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641745424
+|switch|p1a: Mothra|Volcarona, M, shiny|100/100
+|turn|4
+|
+|t:|1641745433
+|move|p2a: Mamoswine|Earthquake|p1a: Mothra
+|-damage|p1a: Mothra|61/100
+|-damage|p2a: Mamoswine|71/100|[from] item: Life Orb
+|move|p1a: Mothra|Quiver Dance|p1a: Mothra
+|-boost|p1a: Mothra|spa|1
+|-boost|p1a: Mothra|spd|1
+|-boost|p1a: Mothra|spe|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641745442
+|move|p1a: Mothra|Quiver Dance|p1a: Mothra
+|-boost|p1a: Mothra|spa|1
+|-boost|p1a: Mothra|spd|1
+|-boost|p1a: Mothra|spe|1
+|move|p2a: Mamoswine|Earthquake|p1a: Mothra
+|-damage|p1a: Mothra|16/100
+|-damage|p2a: Mamoswine|61/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|6
+|
+|t:|1641745450
+|move|p2a: Mamoswine|Ice Shard|p1a: Mothra
+|-resisted|p1a: Mothra
+|-damage|p1a: Mothra|8/100
+|-damage|p2a: Mamoswine|51/100|[from] item: Life Orb
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|58/100
+|-singleturn|p1a: Mothra|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641745461
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|100/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Mamoswine|Earthquake|p1a: Mothra
+|-damage|p1a: Mothra|56/100
+|-damage|p2a: Mamoswine|41/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641745471
+|move|p1a: Mothra|Flamethrower|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|faint|p2a: Mamoswine
+|
+|-weather|none
+|upkeep
+|
+|t:|1641745477
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|turn|9
+|
+|t:|1641745485
+|move|p1a: Mothra|Quiver Dance|p1a: Mothra
+|-boost|p1a: Mothra|spa|1
+|-boost|p1a: Mothra|spd|1
+|-boost|p1a: Mothra|spe|1
+|move|p2a: Pelipper|Scald|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|27/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641745502
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|77/100
+|-singleturn|p1a: Mothra|move: Roost
+|move|p2a: Pelipper|Scald|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|50/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641745509
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|move|p1a: Mothra|Roost|p1a: Mothra
+|-heal|p1a: Mothra|100/100
+|-singleturn|p1a: Mothra|move: Roost
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641745519
+|move|p2a: Barraskewda|Liquidation|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|0 fnt
+|-status|p2a: Barraskewda|brn|[from] ability: Flame Body|[of] p1a: Mothra
+|faint|p1a: Mothra
+|-damage|p2a: Barraskewda|91/100 brn|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Barraskewda|85/100 brn|[from] brn
+|upkeep
+|
+|t:|1641745537
+|switch|p1a: Papercut|Kartana, shiny|100/100
+|turn|13
+|
+|t:|1641745543
+|move|p2a: Barraskewda|Flip Turn|p1a: Papercut
+|-resisted|p1a: Papercut
+|-damage|p1a: Papercut|88/100
+|-damage|p2a: Barraskewda|75/100 brn|[from] item: Life Orb
+|
+|t:|1641745552
+|switch|p2a: Scizor|Scizor, M|100/100|[from]move: Flip Turn
+|move|p1a: Papercut|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|52/100
+|-enditem|p2a: Scizor|Choice Band|[from] move: Knock Off|[of] p1a: Papercut
+|-damage|p1a: Papercut|78/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|14
+|
+|t:|1641745573
+|switch|p1a: Not Choice Scarf|Magnezone|100/100
+|move|p2a: Scizor|Superpower|p1a: Not Choice Scarf
+|-supereffective|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|17/100
+|-unboost|p2a: Scizor|atk|1
+|-unboost|p2a: Scizor|def|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641745591
+|move|p2a: Scizor|Superpower|p1a: Not Choice Scarf
+|-supereffective|p1a: Not Choice Scarf
+|-damage|p1a: Not Choice Scarf|0 fnt
+|-unboost|p2a: Scizor|atk|1
+|-unboost|p2a: Scizor|def|1
+|faint|p1a: Not Choice Scarf
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641745620
+|switch|p1a: Ariel|Tapu Fini, shiny|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Ariel
+|turn|16
+|
+|t:|1641745625
+|move|p2a: Scizor|Bullet Punch|p1a: Ariel
+|-damage|p1a: Ariel|84/100
+|move|p1a: Ariel|Scald|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|-weather|none
+|-heal|p1a: Ariel|90/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641745634
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|turn|17
+|
+|t:|1641745653
+|move|p1a: Ariel|Taunt|p2a: Ferrothorn
+|-start|p2a: Ferrothorn|move: Taunt
+|cant|p2a: Ferrothorn|move: Taunt|Stealth Rock
+|
+|-heal|p1a: Ariel|96/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641745664
+|switch|p1a: Papercut|Kartana, shiny|78/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Papercut
+|-resisted|p1a: Papercut
+|-damage|p1a: Papercut|57/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641745672
+|switch|p2a: Pelipper|Pelipper, F|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Pelipper
+|move|p1a: Papercut|Knock Off|p2a: Pelipper
+|-damage|p2a: Pelipper|66/100
+|-enditem|p2a: Pelipper|Damp Rock|[from] move: Knock Off|[of] p1a: Papercut
+|-damage|p1a: Papercut|47/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641745692
+|move|p1a: Papercut|Synthesis|p1a: Papercut
+|-heal|p1a: Papercut|72/100
+|move|p2a: Pelipper|Hurricane|p1a: Papercut
+|-damage|p1a: Papercut|0 fnt
+|faint|p1a: Papercut
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641745697
+|switch|p1a: Ariel|Tapu Fini, shiny|96/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Ariel
+|turn|21
+|
+|t:|1641745702
+|move|p1a: Ariel|Calm Mind|p1a: Ariel
+|-boost|p1a: Ariel|spa|1
+|-boost|p1a: Ariel|spd|1
+|move|p2a: Pelipper|Hurricane|p1a: Ariel
+|-crit|p1a: Ariel
+|-damage|p1a: Ariel|61/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ariel|67/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641745714
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Ariel|Calm Mind|p1a: Ariel
+|-boost|p1a: Ariel|spa|1
+|-boost|p1a: Ariel|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ariel|73/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641745726
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Ariel|Scald|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|43/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ariel|79/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641745734
+|move|p2a: Dragapult|Thunder|p1a: Ariel
+|-supereffective|p1a: Ariel
+|-damage|p1a: Ariel|49/100
+|move|p1a: Ariel|Draining Kiss|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|-heal|p1a: Ariel|79/100|[from] drain|[of] p2a: Dragapult
+|faint|p2a: Dragapult
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Ariel|85/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641745747
+|switch|p2a: Barraskewda|Barraskewda, F|75/100 brn
+|turn|25
+|
+|t:|1641745766
+|move|p2a: Barraskewda|Liquidation|p1a: Ariel
+|-resisted|p1a: Ariel
+|-damage|p1a: Ariel|65/100
+|-damage|p2a: Barraskewda|65/100 brn|[from] item: Life Orb
+|move|p1a: Ariel|Draining Kiss|p2a: Barraskewda
+|-damage|p2a: Barraskewda|0 fnt
+|-heal|p1a: Ariel|100/100|[from] drain|[of] p2a: Barraskewda
+|faint|p2a: Barraskewda
+|
+|-weather|RainDance|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|-message|T mauvais forfeited.
+|
+|win|SoleSurvivorVGC
+|raw|SoleSurvivorVGC's rating: 1283 &rarr; <strong>1305</strong><br />(+22 for winning)
+|raw|T mauvais's rating: 1238 &rarr; <strong>1216</strong><br />(-22 for losing)
+|l|☆T mauvais

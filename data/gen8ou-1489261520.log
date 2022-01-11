@@ -1,0 +1,317 @@
+|j|☆Lethal Ash
+|j|☆Captncrunchy21
+|t:|1641879417
+|gametype|singles
+|player|p1|Lethal Ash|lady-gen4|1110
+|player|p2|Captncrunchy21|unknown|1086
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Tapu Fini|
+|poke|p1|Volcarona, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Whimsicott, M|
+|poke|p1|Tyranitar, M|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Volcanion|
+|poke|p2|Melmetal|
+|poke|p2|Mamoswine, M|
+|poke|p2|Blaziken, F|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Captncrunchy21)
+|
+|t:|1641879523
+|start
+|switch|p1a: Classical|Tyranitar, M|100/100
+|switch|p2a: Grimmsnarl|Grimmsnarl, M, shiny|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Classical
+|turn|1
+|
+|t:|1641879540
+|move|p2a: Grimmsnarl|Taunt|p1a: Classical
+|-hint|Since gen 7, Dark is immune to Prankster moves.
+|-immune|p1a: Classical
+|move|p1a: Classical|Dragon Dance|p1a: Classical
+|-boost|p1a: Classical|atk|1
+|-boost|p1a: Classical|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Grimmsnarl|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|inactive|Captncrunchy21 has 120 seconds left.
+|
+|t:|1641879571
+|move|p2a: Grimmsnarl|Reflect|p2a: Grimmsnarl
+|-sidestart|p2: Captncrunchy21|Reflect
+|move|p1a: Classical|Rock Blast|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|83/100
+|-damage|p2a: Grimmsnarl|72/100
+|-damage|p2a: Grimmsnarl|61/100
+|-hitcount|p2a: Grimmsnarl|3
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Grimmsnarl|55/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641879586
+|move|p2a: Grimmsnarl|Light Screen|p2a: Grimmsnarl
+|-sidestart|p2: Captncrunchy21|move: Light Screen
+|move|p1a: Classical|Dragon Dance|p1a: Classical
+|-boost|p1a: Classical|atk|1
+|-boost|p1a: Classical|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Grimmsnarl|49/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641879596
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Classical|Fire Fang|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|96/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Volcanion|90/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641879612
+|move|p1a: Classical|Crunch|p2a: Volcanion
+|-damage|p2a: Volcanion|52/100
+|move|p2a: Volcanion|Haze|p2a: Volcanion
+|-clearallboost
+|
+|-weather|none
+|upkeep
+|turn|6
+|inactive|Lethal Ash has 120 seconds left.
+|
+|t:|1641879640
+|switch|p1a: Freeze-dry|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Freeze-dry
+|move|p2a: Volcanion|Earth Power|p1a: Freeze-dry
+|-damage|p1a: Freeze-dry|78/100
+|-unboost|p1a: Freeze-dry|spd|1
+|
+|upkeep
+|turn|7
+|
+|t:|1641879655
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|move|p1a: Freeze-dry|Grass Knot|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|96/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641879683
+|switch|p1a: Psychic|Landorus-Therian, M|100/100
+|-ability|p1a: Psychic|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|move|p2a: Zapdos|Discharge|p1a: Psychic
+|-immune|p1a: Psychic
+|
+|upkeep
+|turn|9
+|inactive|Lethal Ash has 90 seconds left.
+|
+|t:|1641879703
+|switch|p2a: Volcanion|Volcanion|52/100
+|move|p1a: Psychic|Swords Dance|p1a: Psychic
+|-boost|p1a: Psychic|atk|2
+|
+|-sideend|p2: Captncrunchy21|Reflect
+|upkeep
+|turn|10
+|inactive|Lethal Ash has 90 seconds left.
+|
+|t:|1641879732
+|move|p1a: Psychic|U-turn|p2a: Volcanion
+|-resisted|p2a: Volcanion
+|-damage|p2a: Volcanion|29/100
+|
+|t:|1641879738
+|switch|p1a: Magnet Rise|Magnezone|100/100|[from]move: U-turn
+|move|p2a: Volcanion|Haze|p2a: Volcanion
+|-clearallboost
+|
+|-sideend|p2: Captncrunchy21|move: Light Screen
+|-fieldend|Misty Terrain
+|upkeep
+|turn|11
+|inactive|Lethal Ash has 90 seconds left.
+|
+|t:|1641879750
+|move|p2a: Volcanion|Earth Power|p1a: Magnet Rise
+|-supereffective|p1a: Magnet Rise
+|-ability|p1a: Magnet Rise|Sturdy
+|-damage|p1a: Magnet Rise|1/100
+|move|p1a: Magnet Rise|Mirror Coat|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|faint|p2a: Volcanion
+|
+|upkeep
+|
+|t:|1641879764
+|switch|p2a: Mamoswine|Mamoswine, M|100/100
+|turn|12
+|-enditem|p1a: Magnet Rise|Custap Berry|[eat]
+|-activate|p1a: Magnet Rise|item: Custap Berry|[consumed]
+|
+|t:|1641879768
+|move|p1a: Magnet Rise|Steel Beam|p2a: Mamoswine
+|-supereffective|p2a: Mamoswine
+|-damage|p2a: Mamoswine|0 fnt
+|-damage|p1a: Magnet Rise|0 fnt|[from] mindblown
+|faint|p1a: Magnet Rise
+|faint|p2a: Mamoswine
+|
+|upkeep
+|
+|t:|1641879779
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|switch|p1a: Stop it|Whimsicott, M, shiny|100/100
+|turn|13
+|
+|t:|1641879788
+|move|p1a: Stop it|Tailwind|p1a: Stop it
+|-sidestart|p1: Lethal Ash|move: Tailwind
+|move|p2a: Melmetal|Ice Punch|p1a: Stop it
+|-supereffective|p1a: Stop it
+|-enditem|p1a: Stop it|Focus Sash
+|-damage|p1a: Stop it|1/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641879796
+|move|p1a: Stop it|Memento|p2a: Melmetal
+|-unboost|p2a: Melmetal|atk|2
+|-unboost|p2a: Melmetal|spa|2
+|faint|p1a: Stop it
+|move|p2a: Melmetal|Ice Punch|p1: Stop it|[notarget]
+|-fail|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641879805
+|switch|p1a: Stealth Rock|Volcarona, M|100/100
+|turn|15
+|
+|t:|1641879812
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|move|p1a: Stealth Rock|Quiver Dance|p1a: Stealth Rock
+|-boost|p1a: Stealth Rock|spa|1
+|-boost|p1a: Stealth Rock|spd|1
+|-boost|p1a: Stealth Rock|spe|1
+|
+|upkeep
+|turn|16
+|inactive|Lethal Ash has 120 seconds left.
+|
+|t:|1641879822
+|move|p2a: Blaziken|Protect|p2a: Blaziken
+|-singleturn|p2a: Blaziken|Protect
+|move|p1a: Stealth Rock|Quiver Dance|p1a: Stealth Rock
+|-boost|p1a: Stealth Rock|spa|1
+|-boost|p1a: Stealth Rock|spd|1
+|-boost|p1a: Stealth Rock|spe|1
+|
+|-sideend|p1: Lethal Ash|move: Tailwind
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|17
+|inactive|Lethal Ash has 120 seconds left.
+|
+|t:|1641879835
+|move|p1a: Stealth Rock|Fiery Dance|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|25/100
+|move|p2a: Blaziken|Close Combat|p1a: Stealth Rock
+|-resisted|p1a: Stealth Rock
+|-damage|p1a: Stealth Rock|53/100
+|-unboost|p2a: Blaziken|def|1
+|-unboost|p2a: Blaziken|spd|1
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|turn|18
+|inactive|Lethal Ash has 120 seconds left.
+|
+|t:|1641879849
+|move|p1a: Stealth Rock|Giga Drain|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-crit|p2a: Blaziken
+|-damage|p2a: Blaziken|0 fnt
+|-heal|p1a: Stealth Rock|65/100|[from] drain|[of] p2a: Blaziken
+|faint|p2a: Blaziken
+|
+|upkeep
+|
+|t:|1641879856
+|switch|p2a: Zapdos|Zapdos, shiny|96/100
+|turn|19
+|
+|t:|1641879866
+|move|p1a: Stealth Rock|Fiery Dance|p2a: Zapdos
+|-damage|p2a: Zapdos|1/100
+|-boost|p1a: Stealth Rock|spa|1
+|move|p2a: Zapdos|Hurricane|p1a: Stealth Rock
+|-supereffective|p1a: Stealth Rock
+|-damage|p1a: Stealth Rock|15/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641879880
+|move|p1a: Stealth Rock|Bug Buzz|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641879889
+|switch|p2a: Grimmsnarl|Grimmsnarl, M, shiny|49/100
+|turn|21
+|
+|t:|1641879896
+|move|p1a: Stealth Rock|Bug Buzz|p2a: Grimmsnarl
+|-damage|p2a: Grimmsnarl|0 fnt
+|faint|p2a: Grimmsnarl
+|
+|upkeep
+|
+|t:|1641879901
+|switch|p2a: Melmetal|Melmetal, shiny|100/100
+|turn|22
+|
+|t:|1641879905
+|move|p1a: Stealth Rock|Fiery Dance|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|-boost|p1a: Stealth Rock|spa|1
+|faint|p2a: Melmetal
+|
+|win|Lethal Ash
+|raw|Lethal Ash's rating: 1110 &rarr; <strong>1133</strong><br />(+23 for winning)
+|raw|Captncrunchy21's rating: 1086 &rarr; <strong>1065</strong><br />(-21 for losing)
+|c|☆Captncrunchy21|gg

@@ -1,0 +1,229 @@
+|j|☆ZaidSolrock
+|j|☆peda2005
+|t:|1641751311
+|gametype|singles
+|player|p1|ZaidSolrock|silver|1082
+|player|p2|peda2005|265|1032
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Politoed, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Ludicolo, M|
+|poke|p1|Pelipper, M|
+|poke|p1|Zapdos|
+|poke|p1|Scizor, M|
+|poke|p2|Avalugg, M|
+|poke|p2|Volcanion|
+|poke|p2|Scizor, F|
+|poke|p2|Diancie|
+|poke|p2|Tapu Bulu|
+|poke|p2|Chandelure, F|
+|teampreview
+|
+|t:|1641751332
+|start
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|turn|1
+|
+|t:|1641751348
+|switch|p1a: Zapdos|Zapdos, shiny|100/100
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Scizor|U-turn|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|69/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ZaidSolrock)
+|
+|t:|1641751380
+|switch|p2a: Diancie|Diancie, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641751394
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Diancie|Toxic|p1a: Scizor
+|-immune|p1a: Scizor
+|
+|upkeep
+|turn|3
+|
+|t:|1641751418
+|move|p2a: Diancie|Protect|p2a: Diancie
+|-singleturn|p2a: Diancie|Protect
+|move|p1a: Scizor|Bullet Punch|p2a: Diancie
+|-activate|p2a: Diancie|move: Protect
+|
+|upkeep
+|turn|4
+|
+|t:|1641751424
+|move|p1a: Scizor|Bullet Punch|p2a: Diancie
+|-supereffective|p2a: Diancie
+|-damage|p2a: Diancie|0 fnt
+|faint|p2a: Diancie
+|
+|upkeep
+|
+|t:|1641751428
+|switch|p2a: Chandelure|Chandelure, F|100/100
+|turn|5
+|
+|t:|1641751452
+|switch|p1a: Politoed|Politoed, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p2a: Chandelure|Flamethrower|p1a: Politoed
+|-resisted|p1a: Politoed
+|-damage|p1a: Politoed|93/100
+|-status|p1a: Politoed|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Politoed|87/100 brn|[from] brn
+|upkeep
+|turn|6
+|
+|t:|1641751466
+|move|p2a: Chandelure|Energy Ball|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|44/100 brn
+|move|p1a: Politoed|Toxic|p2a: Chandelure
+|-status|p2a: Chandelure|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Chandelure|94/100 tox|[from] psn
+|-damage|p1a: Politoed|38/100 brn|[from] brn
+|upkeep
+|turn|7
+|inactive|ZaidSolrock has 120 seconds left.
+|
+|t:|1641751487
+|switch|p1a: Pelipper|Pelipper, M|100/100
+|move|p2a: Chandelure|Energy Ball|p1a: Pelipper
+|-damage|p1a: Pelipper|67/100
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Chandelure|82/100 tox|[from] psn
+|upkeep
+|turn|8
+|inactive|ZaidSolrock has 120 seconds left.
+|
+|t:|1641751500
+|switch|p2a: Scizor|Scizor, F, shiny|100/100
+|move|p1a: Pelipper|Tailwind|p1a: Pelipper
+|-sidestart|p1: ZaidSolrock|move: Tailwind
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|9
+|
+|t:|1641751508
+|move|p2a: Scizor|Bullet Punch|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|41/100
+|move|p1a: Pelipper|U-turn|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|95/100
+|inactive|ZaidSolrock has 120 seconds left.
+|
+|t:|1641751544
+|switch|p1a: Barraskewda|Barraskewda, M|100/100|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641751553
+|switch|p2a: Volcanion|Volcanion|100/100
+|move|p1a: Barraskewda|Close Combat|p2a: Volcanion
+|-damage|p2a: Volcanion|49/100
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641751568
+|move|p1a: Barraskewda|Close Combat|p2a: Volcanion
+|-damage|p2a: Volcanion|0 fnt
+|-unboost|p1a: Barraskewda|def|1
+|-unboost|p1a: Barraskewda|spd|1
+|faint|p2a: Volcanion
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p1: ZaidSolrock|move: Tailwind
+|upkeep
+|
+|t:|1641751575
+|switch|p2a: Avalugg|Avalugg, M|100/100
+|turn|12
+|inactive|ZaidSolrock has 120 seconds left.
+|
+|t:|1641751601
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Avalugg|Avalanche|p1a: Scizor
+|-resisted|p1a: Scizor
+|-damage|p1a: Scizor|88/100
+|
+|-weather|none
+|upkeep
+|turn|13
+|
+|t:|1641751620
+|move|p1a: Scizor|Bullet Punch|p2a: Avalugg
+|-supereffective|p2a: Avalugg
+|-damage|p2a: Avalugg|72/100
+|move|p2a: Avalugg|Body Press|p1a: Scizor
+|-damage|p1a: Scizor|47/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641751626
+|move|p1a: Scizor|U-turn|p2a: Avalugg
+|-damage|p2a: Avalugg|54/100
+|
+|t:|1641751631
+|switch|p1a: Zapdos|Zapdos, shiny|69/100|[from]move: U-turn
+|-ability|p1a: Zapdos|Pressure
+|move|p2a: Avalugg|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|50/100
+|
+|upkeep
+|turn|15
+|inactive|ZaidSolrock has 120 seconds left.
+|
+|t:|1641751653
+|switch|p2a: Scizor|Scizor, F, shiny|95/100
+|move|p1a: Zapdos|Heat Wave|p2a: Scizor|[miss]
+|-miss|p1a: Zapdos|p2a: Scizor
+|
+|upkeep
+|turn|16
+|inactive|ZaidSolrock has 120 seconds left.
+|
+|t:|1641751663
+|move|p1a: Zapdos|Heat Wave|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|upkeep
+|-message|peda2005 forfeited.
+|
+|win|ZaidSolrock
+|raw|ZaidSolrock's rating: 1082 &rarr; <strong>1106</strong><br />(+24 for winning)
+|raw|peda2005's rating: 1032 &rarr; <strong>1019</strong><br />(-13 for losing)
+|l|☆peda2005

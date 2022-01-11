@@ -1,0 +1,351 @@
+|j|☆Nevidebla
+|j|☆Riv4l red
+|t:|1641875383
+|gametype|singles
+|player|p1|Nevidebla|psychicf-gen4|1124
+|player|p2|Riv4l red|red|1143
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Latias, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Corviknight, F|
+|poke|p1|Charizard, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Toxapex, F|
+|poke|p2|Dhelmise|
+|poke|p2|Quagsire, M|
+|poke|p2|Clefable, M|
+|poke|p2|Glastrier|
+|poke|p2|Cresselia, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1641875398
+|start
+|switch|p1a: Sol|Latias, F|100/100
+|switch|p2a: Glastrier|Glastrier|100/100
+|turn|1
+|
+|t:|1641875407
+|switch|p1a: Silencio|Toxapex, F|100/100
+|move|p2a: Glastrier|Icicle Crash|p1a: Silencio
+|-resisted|p1a: Silencio
+|-damage|p1a: Silencio|78/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641875416
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: Silencio|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|81/100
+|-enditem|p2a: Cresselia|Light Clay|[from] move: Knock Off|[of] p1a: Silencio
+|
+|upkeep
+|turn|3
+|
+|t:|1641875425
+|move|p1a: Silencio|Toxic Spikes|p2a: Cresselia
+|-sidestart|p2: Riv4l red|move: Toxic Spikes
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|4
+|
+|t:|1641875432
+|move|p1a: Silencio|Toxic Spikes|p2a: Cresselia
+|-sidestart|p2: Riv4l red|move: Toxic Spikes
+|move|p2a: Cresselia|Future Sight|p1a: Silencio
+|-start|p2a: Cresselia|move: Future Sight
+|
+|upkeep
+|turn|5
+|
+|t:|1641875439
+|move|p1a: Silencio|Knock Off|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|66/100
+|move|p2a: Cresselia|Light Screen|p2a: Cresselia
+|-sidestart|p2: Riv4l red|move: Light Screen
+|
+|upkeep
+|turn|6
+|
+|t:|1641875449
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Corviknight|atk|1
+|
+|-end|p1a: Corviknight|move: Future Sight
+|-resisted|p1a: Corviknight
+|-damage|p1a: Corviknight|89/100
+|-heal|p1a: Corviknight|95/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641875463
+|switch|p2a: Cresselia|Cresselia, F|66/100
+|move|p1a: Corviknight|U-turn|p2a: Cresselia
+|-supereffective|p2a: Cresselia
+|-damage|p2a: Cresselia|52/100
+|
+|t:|1641875472
+|switch|p1a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|8
+|
+|t:|1641875481
+|move|p1a: Tapu Lele|Moonblast|p2a: Cresselia
+|-damage|p2a: Cresselia|35/100
+|-unboost|p2a: Cresselia|spa|1
+|move|p2a: Cresselia|Trick Room|p2a: Cresselia
+|-fieldstart|move: Trick Room|[of] p2a: Cresselia
+|
+|upkeep
+|turn|9
+|
+|t:|1641875491
+|move|p2a: Cresselia|Future Sight|p1a: Tapu Lele
+|-start|p2a: Cresselia|move: Future Sight
+|move|p1a: Tapu Lele|Moonblast|p2a: Cresselia
+|-damage|p2a: Cresselia|17/100
+|
+|-sideend|p2: Riv4l red|move: Light Screen
+|upkeep
+|turn|10
+|
+|t:|1641875499
+|move|p2a: Cresselia|Light Screen|p2a: Cresselia
+|-sidestart|p2: Riv4l red|move: Light Screen
+|move|p1a: Tapu Lele|Moonblast|p2a: Cresselia
+|-damage|p2a: Cresselia|0 fnt
+|faint|p2a: Cresselia
+|
+|upkeep
+|
+|t:|1641875507
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Lele|atk|1
+|turn|11
+|
+|t:|1641875513
+|switch|p1a: Corviknight|Corviknight, F|95/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|
+|-end|p1a: Corviknight|move: Future Sight
+|-resisted|p1a: Corviknight
+|-crit|p1a: Corviknight
+|-damage|p1a: Corviknight|73/100
+|-heal|p1a: Corviknight|80/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|12
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Riv4l red)
+|
+|t:|1641875541
+|move|p1a: Corviknight|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|92/100
+|c|☆Riv4l red|.l;..
+|
+|t:|1641875544
+|switch|p1a: Silencio|Toxapex, F|100/100|[from]move: U-turn
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|
+|-fieldend|move: Trick Room
+|upkeep
+|turn|13
+|
+|t:|1641875558
+|switch|p1a: Corviknight|Corviknight, F|80/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Landorus|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|-heal|p1a: Corviknight|86/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|c|☆Riv4l red|ok...
+|c|☆Riv4l red|just die man
+|
+|t:|1641875571
+|move|p2a: Landorus|Stone Edge|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|-sideend|p2: Riv4l red|move: Light Screen
+|upkeep
+|c|☆Riv4l red|its ok
+|
+|t:|1641875578
+|switch|p1a: Sol|Latias, F|100/100
+|turn|15
+|
+|t:|1641875584
+|move|p1a: Sol|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641875609
+|switch|p2a: Glastrier|Glastrier|100/100
+|-status|p2a: Glastrier|tox
+|turn|16
+|
+|t:|1641875615
+|switch|p1a: Silencio|Toxapex, F|100/100
+|move|p2a: Glastrier|High Horsepower|p1a: Silencio
+|-supereffective|p1a: Silencio
+|-damage|p1a: Silencio|31/100
+|-damage|p2a: Glastrier|84/100 tox|[from] item: Rocky Helmet|[of] p1a: Silencio
+|
+|-damage|p2a: Glastrier|78/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641875645
+|switch|p2a: Quagsire|Quagsire, M|100/100
+|-status|p2a: Quagsire|tox
+|move|p1a: Silencio|Recover|p1a: Silencio
+|-heal|p1a: Silencio|81/100
+|
+|-damage|p2a: Quagsire|94/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641875655
+|move|p2a: Quagsire|Yawn|p1a: Silencio
+|-start|p1a: Silencio|move: Yawn|[of] p2a: Quagsire
+|move|p1a: Silencio|Knock Off|p2a: Quagsire
+|-damage|p2a: Quagsire|84/100 tox
+|-damage|p1a: Silencio|65/100|[from] item: Rocky Helmet|[of] p2a: Quagsire
+|-enditem|p2a: Quagsire|Rocky Helmet|[from] move: Knock Off|[of] p1a: Silencio
+|
+|-damage|p2a: Quagsire|72/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641875669
+|move|p2a: Quagsire|Scald|p1a: Silencio
+|-resisted|p1a: Silencio
+|-damage|p1a: Silencio|58/100
+|move|p1a: Silencio|Knock Off|p2a: Quagsire
+|-damage|p2a: Quagsire|64/100 tox
+|
+|-damage|p2a: Quagsire|46/100 tox|[from] psn
+|-end|p1a: Silencio|move: Yawn|[silent]
+|-status|p1a: Silencio|slp
+|upkeep
+|turn|20
+|inactive|Nevidebla has 120 seconds left.
+|
+|t:|1641875685
+|switch|p2a: Clefable|Clefable, M|100/100
+|-status|p2a: Clefable|tox
+|cant|p1a: Silencio|slp
+|
+|-damage|p2a: Clefable|94/100 tox|[from] psn
+|upkeep
+|turn|21
+|inactive|Nevidebla has 120 seconds left.
+|
+|t:|1641875697
+|move|p2a: Clefable|Thunderbolt|p1a: Silencio
+|-supereffective|p1a: Silencio
+|-damage|p1a: Silencio|23/100 slp
+|cant|p1a: Silencio|slp
+|
+|-heal|p2a: Clefable|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|88/100 tox|[from] psn
+|upkeep
+|turn|22
+|inactive|Nevidebla has 120 seconds left.
+|
+|t:|1641875708
+|switch|p1a: Distancia|Landorus-Therian, M|100/100
+|-ability|p1a: Distancia|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Thunderbolt|p1a: Distancia
+|-immune|p1a: Distancia
+|
+|-heal|p2a: Clefable|94/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|76/100 tox|[from] psn
+|upkeep
+|turn|23
+|inactive|Nevidebla has 120 seconds left.
+|
+|t:|1641875720
+|switch|p2a: Quagsire|Quagsire, M|46/100 tox
+|move|p1a: Distancia|Protect||[still]
+|-fail|p1a: Distancia
+|
+|-damage|p2a: Quagsire|40/100 tox|[from] psn
+|upkeep
+|turn|24
+|inactive|Nevidebla has 120 seconds left.
+|
+|t:|1641875730
+|move|p1a: Distancia|Earthquake|p2a: Quagsire
+|-damage|p2a: Quagsire|9/100 tox
+|move|p2a: Quagsire|Recover|p2a: Quagsire
+|-heal|p2a: Quagsire|59/100 tox
+|
+|-damage|p2a: Quagsire|47/100 tox|[from] psn
+|upkeep
+|turn|25
+|c|☆Riv4l red|you play so gay
+|inactive|Nevidebla has 120 seconds left.
+|c|☆Riv4l red|protect lando
+|c|☆Riv4l red|whyy
+|c|☆Riv4l red|like tf is wrong with yall
+|
+|t:|1641875769
+|move|p1a: Distancia|U-turn|p2a: Quagsire
+|-damage|p2a: Quagsire|30/100 tox
+|
+|t:|1641875774
+|switch|p1a: Silencio|Toxapex, F|56/100 slp|[from]move: U-turn
+|move|p2a: Quagsire|Scald|p1a: Silencio
+|-resisted|p1a: Silencio
+|-damage|p1a: Silencio|48/100 slp
+|
+|-damage|p2a: Quagsire|12/100 tox|[from] psn
+|upkeep
+|turn|26
+|c|☆Riv4l red|bet you got toxic too
+|inactive|Nevidebla has 90 seconds left.
+|inactive|Nevidebla has 60 seconds left.
+|inactive|Nevidebla has 30 seconds left.
+|inactive|Nevidebla has 20 seconds left.
+|inactive|Nevidebla has 15 seconds left.
+|inactive|Nevidebla has 10 seconds left.
+|inactive|Nevidebla has 5 seconds left.
+|-message|Nevidebla lost due to inactivity.
+|
+|win|Riv4l red
+|raw|Nevidebla's rating: 1124 &rarr; <strong>1100</strong><br />(-24 for losing)
+|raw|Riv4l red's rating: 1143 &rarr; <strong>1167</strong><br />(+24 for winning)

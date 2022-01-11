@@ -1,0 +1,328 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Mcdonald's
+|j|☆sl21cc ap
+|t:|1641822803
+|gametype|singles
+|player|p1|SL21CC Mcdonald's|101|1229
+|player|p2|sl21cc ap|acetrainerf|1230
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro-Galar, M|
+|poke|p1|Seismitoad, F|
+|poke|p1|Mew|
+|poke|p1|Melmetal|
+|poke|p1|Clefable, M|
+|poke|p1|Zapdos|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Heatran, F|
+|poke|p2|Garchomp, M|
+|poke|p2|Cloyster, F|
+|poke|p2|Scizor, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Mcdonald's)
+|j| jiokopg_fkok43
+|j| sl21cckhl
+|c|☆sl21cc ap|一次速击一个咖喱人
+|j| rffydsdhh
+|
+|t:|1641822816
+|start
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|turn|1
+|l| rffydsdhh
+|
+|t:|1641822820
+|switch|p2a: Heatran|Heatran, F|100/100
+|-item|p2a: Heatran|Air Balloon
+|move|p1a: Melmetal|Double Iron Bash|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|91/100
+|-enditem|p2a: Heatran|Air Balloon
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|82/100
+|-status|p1a: Melmetal|brn|[from] ability: Flame Body|[of] p2a: Heatran
+|-hitcount|p2a: Heatran|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heatran|76/100|[from] Hail
+|-damage|p1a: Melmetal|94/100 brn|[from] Hail
+|-damage|p1a: Melmetal|88/100 brn|[from] brn
+|upkeep
+|turn|2
+|j| SL21CC姐ISthequeen
+|l| SL21CC姐ISthequeen
+|-activate|p1a: Melmetal|item: Quick Claw
+|
+|t:|1641822833
+|move|p1a: Melmetal|Earthquake|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|3/100
+|move|p2a: Heatran|Stealth Rock|p1a: Melmetal
+|-sidestart|p1: SL21CC Mcdonald's|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Heatran|0 fnt|[from] Hail
+|-damage|p1a: Melmetal|82/100 brn|[from] Hail
+|faint|p2a: Heatran
+|-damage|p1a: Melmetal|76/100 brn|[from] brn
+|upkeep
+|
+|t:|1641822845
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|3
+|
+|t:|1641822851
+|switch|p2a: Scizor|Scizor, F|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|89/100
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|79/100
+|-hitcount|p2a: Scizor|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Scizor|73/100|[from] Hail
+|-damage|p1a: Melmetal|70/100 brn|[from] Hail
+|-heal|p2a: Scizor|79/100|[from] item: Leftovers
+|-damage|p1a: Melmetal|64/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641822863
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Scizor|Knock Off|p1a: Zapdos
+|-damage|p1a: Zapdos|63/100
+|-status|p2a: Scizor|par|[from] ability: Static|[of] p1a: Zapdos
+|-enditem|p1a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Scizor
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Zapdos|57/100|[from] Hail
+|-damage|p2a: Scizor|73/100 par|[from] Hail
+|-heal|p2a: Scizor|79/100 par|[from] item: Leftovers
+|upkeep
+|turn|5
+|j| adreamew
+|
+|t:|1641822872
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Ninetales
+|-crit|p2a: Ninetales
+|-damage|p2a: Ninetales|7/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|j| SL21CC tangkeke
+|j| wandebucuo玩得不错
+|
+|t:|1641822885
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Zapdos|Defog|p2a: Dragapult
+|-fail|p2a: Dragapult|unboost|[from] ability: Clear Body|[of] p2a: Dragapult
+|-sideend|p1: SL21CC Mcdonald's|Stealth Rock|[from] move: Defog|[of] p1a: Zapdos
+|
+|upkeep
+|turn|7
+|
+|t:|1641822892
+|switch|p2a: Ninetales|Ninetales-Alola, M|7/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Zapdos|Hurricane|p2a: Ninetales|[miss]
+|-miss|p1a: Zapdos|p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Zapdos|51/100|[from] Hail
+|upkeep
+|turn|8
+|
+|t:|1641822902
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: sl21cc ap|move: Aurora Veil
+|move|p1a: Zapdos|Defog|p2a: Ninetales
+|-unboost|p2a: Ninetales|evasion|1
+|-sideend|p2: sl21cc ap|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Zapdos|45/100|[from] Hail
+|upkeep
+|turn|9
+|
+|t:|1641822906
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: sl21cc ap|move: Aurora Veil
+|move|p1a: Zapdos|Defog|p2a: Ninetales
+|-unboost|p2a: Ninetales|evasion|1
+|-sideend|p2: sl21cc ap|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Zapdos|39/100|[from] Hail
+|upkeep
+|turn|10
+|
+|t:|1641822909
+|move|p2a: Ninetales|Freeze-Dry|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641822911
+|switch|p1a: Mew|Mew|100/100
+|turn|11
+|
+|t:|1641822914
+|move|p2a: Ninetales|Aurora Veil|p2a: Ninetales
+|-sidestart|p2: sl21cc ap|move: Aurora Veil
+|move|p1a: Mew|Dragon Dance|p1a: Mew
+|-boost|p1a: Mew|atk|1
+|-boost|p1a: Mew|spe|1
+|
+|-weather|none
+|upkeep
+|turn|12
+|
+|t:|1641822917
+|move|p1a: Mew|Psychic Fangs|p2a: Ninetales
+|-sideend|p2: sl21cc ap|move: Aurora Veil
+|-damage|p2a: Ninetales|0 fnt
+|faint|p2a: Ninetales
+|
+|upkeep
+|
+|t:|1641822930
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|13
+|
+|t:|1641822932
+|move|p1a: Mew|Triple Axel|p2a: Dragapult|[miss]
+|-miss|p1a: Mew|p2a: Dragapult
+|move|p2a: Dragapult|Dragon Dance|p2a: Dragapult
+|-boost|p2a: Dragapult|atk|1
+|-boost|p2a: Dragapult|spe|1
+|
+|upkeep
+|turn|14
+|
+|t:|1641822936
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Dragapult|Phantom Force||[still]
+|-prepare|p2a: Dragapult|Phantom Force
+|
+|upkeep
+|turn|15
+|
+|t:|1641822941
+|move|p2a: Dragapult|Phantom Force|p1a: Clefable|[from]lockedmove
+|-damage|p1a: Clefable|3/100
+|move|p1a: Clefable|Ice Beam|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|2/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641822947
+|move|p2a: Dragapult|Flamethrower|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641822948
+|switch|p1a: Seismitoad|Seismitoad, F|100/100
+|turn|17
+|
+|t:|1641822956
+|move|p2a: Dragapult|Dragon Darts|p1a: Seismitoad
+|-damage|p1a: Seismitoad|54/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Seismitoad
+|-damage|p1a: Seismitoad|3/100
+|move|p1a: Seismitoad|Scald|p2a: Dragapult
+|-resisted|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|-heal|p1a: Seismitoad|9/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641822971
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|18
+|
+|t:|1641822973
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|move|p1a: Seismitoad|Scald|p2a: Garchomp
+|-damage|p2a: Garchomp|74/100
+|
+|-heal|p2a: Garchomp|81/100|[from] item: Leftovers
+|-heal|p1a: Seismitoad|15/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641822977
+|move|p2a: Garchomp|Earthquake|p1a: Seismitoad
+|-damage|p1a: Seismitoad|0 fnt
+|faint|p1a: Seismitoad
+|
+|-heal|p2a: Garchomp|87/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641822978
+|switch|p1a: Slowbro|Slowbro-Galar, M|100/100
+|turn|20
+|
+|t:|1641822980
+|move|p2a: Garchomp|Earthquake|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|0 fnt
+|faint|p1a: Slowbro
+|
+|-heal|p2a: Garchomp|93/100|[from] item: Leftovers
+|upkeep
+|j| SL21CCC徐坤
+|
+|t:|1641822983
+|switch|p1a: Melmetal|Melmetal|64/100 brn
+|turn|21
+|
+|t:|1641822986
+|move|p2a: Garchomp|Earthquake|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|-heal|p2a: Garchomp|99/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641822987
+|switch|p1a: Mew|Mew|100/100
+|turn|22
+|
+|t:|1641822990
+|move|p2a: Garchomp|Earthquake|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|faint|p1a: Mew
+|
+|win|sl21cc ap
+|raw|SL21CC Mcdonald&apos;s's rating: 1229 &rarr; <strong>1213</strong><br />(-16 for losing)
+|raw|sl21cc ap's rating: 1230 &rarr; <strong>1246</strong><br />(+16 for winning)
+|l|☆SL21CC Mcdonald's
+|l| sl21cckhl
+|l|☆sl21cc ap

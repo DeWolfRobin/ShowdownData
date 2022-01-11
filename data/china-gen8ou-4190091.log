@@ -1,0 +1,419 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Pu xinnv
+|j|☆Residual red soul
+|t:|1641786587
+|gametype|singles
+|player|p1|SL21CC Pu xinnv|bellelba|
+|player|p2|Residual red soul|cyclist|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tapu Lele|
+|poke|p1|Melmetal|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Toxapex, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Blacephalon|
+|poke|p2|Tyranitar, F|
+|poke|p2|Excadrill, F|
+|poke|p2|Clefable, M|
+|poke|p2|Buzzwole|
+|poke|p2|Zapdos|
+|poke|p2|Amoonguss, F|
+|teampreview
+|
+|t:|1641786601
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|turn|1
+|
+|t:|1641786620
+|move|p2a: Clefable|Trick|p1a: Landorus
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Landorus
+|-item|p1a: Landorus|Choice Scarf|[from] move: Trick
+|-item|p2a: Clefable|Leftovers|[from] move: Trick
+|move|p1a: Landorus|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|91/100
+|
+|t:|1641786630
+|switch|p1a: Melmetal|Melmetal|100/100|[from]move: U-turn
+|
+|-heal|p2a: Clefable|97/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|j| Water ghosts
+|
+|t:|1641786643
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|3
+|
+|t:|1641786660
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Tapu Lele|Psyshock|p2a: Tyranitar
+|-immune|p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|94/100|[from] Sandstorm
+|upkeep
+|turn|4
+|j|+dragonitenb
+|
+|t:|1641786665
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|move|p2a: Tyranitar|Stealth Rock|p1a: Toxapex
+|-sidestart|p1: SL21CC Pu xinnv|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|94/100|[from] Sandstorm
+|upkeep
+|turn|5
+|l|+dragonitenb
+|
+|t:|1641786672
+|move|p2a: Tyranitar|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|55/100
+|-enditem|p1a: Toxapex|Eject Button
+|
+|t:|1641786683
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|-damage|p1a: Dragapult|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|82/100|[from] Sandstorm
+|upkeep
+|turn|6
+|c|☆Residual red soul|逃脱按钮 好家伙
+|
+|t:|1641786699
+|switch|p2a: Clefable|Clefable, M|97/100
+|move|p1a: Dragapult|U-turn|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|82/100
+|
+|t:|1641786714
+|switch|p1a: Melmetal|Melmetal|100/100|[from]move: U-turn
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Clefable|88/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|7
+|
+|t:|1641786718
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|switch|p1a: Tapu Lele|Tapu Lele|94/100
+|-damage|p1a: Tapu Lele|82/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|-weather|none
+|upkeep
+|turn|8
+|
+|t:|1641786728
+|switch|p2a: Excadrill|Excadrill, F|100/100
+|move|p1a: Tapu Lele|Psyshock|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|43/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641786734
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-damage|p1a: Landorus|88/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|10
+|
+|t:|1641786737
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Landorus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|93/100
+|
+|t:|1641786744
+|switch|p1a: Tapu Lele|Tapu Lele|82/100|[from]move: U-turn
+|-damage|p1a: Tapu Lele|70/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|63/100|[from] Sandstorm
+|-damage|p2a: Zapdos|87/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1641786748
+|move|p1a: Tapu Lele|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|17/100
+|-unboost|p2a: Zapdos|spa|1
+|move|p2a: Zapdos|Discharge|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|41/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|35/100|[from] Sandstorm
+|-damage|p2a: Zapdos|11/100|[from] Sandstorm
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|12
+|
+|t:|1641786762
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|-damage|p1a: Blacephalon|76/100|[from] Stealth Rock
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|70/100|[from] Sandstorm
+|upkeep
+|turn|13
+|
+|t:|1641786792
+|switch|p1a: Landorus|Landorus-Therian, M|88/100
+|-damage|p1a: Landorus|76/100|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tyranitar|atk|1
+|move|p2a: Tyranitar|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|
+|-weather|none
+|-damage|p1a: Landorus|70/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641786797
+|switch|p2a: Zapdos|Zapdos|11/100
+|move|p1a: Landorus|U-turn|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|3/100
+|
+|t:|1641786811
+|switch|p1a: Tapu Lele|Tapu Lele|35/100|[from]move: U-turn
+|-damage|p1a: Tapu Lele|23/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|15
+|
+|t:|1641786814
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Tapu Lele|Moonblast|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|44/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|17/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|50/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641786818
+|switch|p2a: Zapdos|Zapdos|3/100
+|move|p1a: Tapu Lele|Moonblast|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Tapu Lele|10/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641786821
+|switch|p2a: Excadrill|Excadrill, F|43/100
+|turn|17
+|
+|t:|1641786834
+|switch|p1a: Landorus|Landorus-Therian, M|70/100 tox
+|-damage|p1a: Landorus|58/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Excadrill|atk|1
+|move|p2a: Excadrill|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|29/100 tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Landorus|23/100 tox|[from] psn
+|upkeep
+|turn|18
+|
+|t:|1641786838
+|move|p2a: Excadrill|Iron Head|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641786876
+|switch|p1a: Toxapex|Toxapex, F|88/100
+|-damage|p1a: Toxapex|75/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641786880
+|switch|p2a: Amoonguss|Amoonguss, F|100/100
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|100/100
+|
+|-weather|none
+|upkeep
+|turn|20
+|
+|t:|1641786884
+|move|p1a: Toxapex|Knock Off|p2a: Amoonguss
+|-crit|p2a: Amoonguss
+|-damage|p2a: Amoonguss|85/100
+|-enditem|p2a: Amoonguss|Occa Berry|[from] move: Knock Off|[of] p1a: Toxapex
+|move|p2a: Amoonguss|Spore|p1a: Toxapex
+|-status|p1a: Toxapex|slp|[from] move: Spore
+|
+|upkeep
+|turn|21
+|
+|t:|1641786890
+|switch|p1a: Melmetal|Melmetal|94/100
+|-damage|p1a: Melmetal|88/100|[from] Stealth Rock
+|switch|p2a: Tyranitar|Tyranitar, F|50/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|56/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641786899
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Buzzwole
+|-damage|p2a: Buzzwole|80/100
+|-damage|p1a: Melmetal|72/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-crit|p2a: Buzzwole
+|-damage|p2a: Buzzwole|50/100
+|-damage|p1a: Melmetal|55/100|[from] item: Rocky Helmet|[of] p2a: Buzzwole
+|-hitcount|p2a: Buzzwole|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|44/100|[from] Sandstorm
+|upkeep
+|turn|23
+|
+|t:|1641786907
+|switch|p1a: Tapu Lele|Tapu Lele|10/100
+|-damage|p1a: Tapu Lele|0 fnt|[from] Stealth Rock
+|faint|p1a: Tapu Lele
+|move|p2a: Buzzwole|Roost|p2a: Buzzwole
+|-heal|p2a: Buzzwole|94/100
+|-singleturn|p2a: Buzzwole|move: Roost
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641786914
+|switch|p1a: Dragapult|Dragapult, M|82/100
+|-damage|p1a: Dragapult|70/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641786926
+|switch|p2a: Clefable|Clefable, M|88/100
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|64/100|[from] Sandstorm
+|-heal|p2a: Clefable|94/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641786929
+|move|p1a: Dragapult|Phantom Force|p2a: Clefable|[from]lockedmove
+|-damage|p2a: Clefable|32/100
+|move|p2a: Clefable|Moonblast|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|none
+|-heal|p2a: Clefable|38/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641786936
+|switch|p1a: Blacephalon|Blacephalon|70/100
+|-damage|p1a: Blacephalon|45/100|[from] Stealth Rock
+|turn|26
+|
+|t:|1641786943
+|switch|p2a: Tyranitar|Tyranitar, F|56/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|move|p1a: Blacephalon|Shadow Ball|p2a: Tyranitar
+|-resisted|p2a: Tyranitar
+|-damage|p2a: Tyranitar|48/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blacephalon|39/100|[from] Sandstorm
+|-heal|p2a: Tyranitar|54/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641786948
+|switch|p1a: Toxapex|Toxapex, F|100/100 slp
+|-damage|p1a: Toxapex|88/100 slp|[from] Stealth Rock
+|move|p2a: Tyranitar|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|52/100 slp
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|46/100 slp|[from] Sandstorm
+|-heal|p2a: Tyranitar|60/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641786950
+|move|p2a: Tyranitar|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|8/100 slp
+|cant|p1a: Toxapex|slp
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|2/100 slp|[from] Sandstorm
+|-heal|p2a: Tyranitar|66/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641786953
+|move|p2a: Tyranitar|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Tyranitar|72/100|[from] item: Leftovers
+|upkeep
+|-message|SL21CC Pu xinnv forfeited.
+|
+|win|Residual red soul
+|l|☆SL21CC Pu xinnv
+|j| Suzuno Miihi
+|l| Suzuno Miihi
+|j|%kitoothe
+|l|%kitoothe

@@ -1,0 +1,347 @@
+|j|☆westcubes0
+|j|☆Pokefellas
+|t:|1641839465
+|gametype|singles
+|player|p1|westcubes0|266|1464
+|player|p2|Pokefellas|dawn|1457
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Tapu Bulu|
+|poke|p1|Slowbro, F|
+|poke|p1|Zapdos-Galar|
+|poke|p1|Heatran, F|
+|poke|p1|Hawlucha, F|
+|poke|p2|Nihilego|
+|poke|p2|Tapu Lele|
+|poke|p2|Magnezone|
+|poke|p2|Weavile, M|
+|poke|p2|Slowbro, M|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1641839482
+|start
+|switch|p1a: Tapu Bulu|Tapu Bulu|100/100
+|switch|p2a: Weavile|Weavile, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tapu Bulu
+|turn|1
+|
+|t:|1641839496
+|move|p2a: Weavile|Knock Off|p1a: Tapu Bulu
+|-resisted|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|74/100
+|-enditem|p1a: Tapu Bulu|Choice Band|[from] move: Knock Off|[of] p2a: Weavile
+|move|p1a: Tapu Bulu|Close Combat|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|-unboost|p1a: Tapu Bulu|def|1
+|-unboost|p1a: Tapu Bulu|spd|1
+|faint|p2a: Weavile
+|
+|-heal|p1a: Tapu Bulu|80/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641839502
+|switch|p2a: Nihilego|Nihilego|100/100
+|turn|2
+|
+|t:|1641839509
+|switch|p2a: Magnezone|Magnezone|100/100
+|switch|p1a: Heatran|Heatran, F|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641839515
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|move|p1a: Heatran|Stealth Rock|p2a: Magnezone
+|-sidestart|p2: Pokefellas|move: Stealth Rock
+|
+|upkeep
+|turn|4
+|
+|t:|1641839518
+|move|p2a: Magnezone|Body Press|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|12/100
+|move|p1a: Heatran|Magma Storm|p2a: Magnezone|[miss]
+|-miss|p1a: Heatran|p2a: Magnezone
+|
+|-heal|p1a: Heatran|18/100|[from] Grassy Terrain
+|-heal|p1a: Heatran|24/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641839521
+|move|p2a: Magnezone|Body Press|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641839531
+|switch|p1a: Zapdos|Zapdos-Galar|100/100
+|turn|6
+|
+|t:|1641839533
+|move|p1a: Zapdos|Stomping Tantrum|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|56/100
+|-damage|p1a: Zapdos|84/100|[from] item: Rocky Helmet|[of] p2a: Magnezone
+|move|p2a: Magnezone|Discharge|p1a: Zapdos
+|-supereffective|p1a: Zapdos
+|-damage|p1a: Zapdos|3/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641839544
+|move|p1a: Zapdos|Stomping Tantrum|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|8/100
+|-damage|p1a: Zapdos|0 fnt|[from] item: Rocky Helmet|[of] p2a: Magnezone
+|faint|p1a: Zapdos
+|move|p2a: Magnezone|Body Press|p1: Zapdos|[notarget]
+|-fail|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1641839551
+|switch|p1a: Magnezone|Magnezone|100/100
+|turn|8
+|
+|t:|1641839555
+|move|p2a: Magnezone|Body Press|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|upkeep
+|
+|t:|1641839559
+|switch|p1a: Tapu Bulu|Tapu Bulu|80/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Tapu Bulu
+|turn|9
+|
+|t:|1641839561
+|move|p1a: Tapu Bulu|Horn Leech|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|-heal|p1a: Tapu Bulu|84/100|[from] drain|[of] p2a: Magnezone
+|-damage|p1a: Tapu Bulu|67/100|[from] item: Rocky Helmet|[of] p2a: Magnezone
+|faint|p2a: Magnezone
+|
+|-heal|p1a: Tapu Bulu|73/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641839566
+|switch|p2a: Nihilego|Nihilego|100/100
+|-damage|p2a: Nihilego|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641839572
+|move|p2a: Nihilego|Sludge Bomb|p1a: Tapu Bulu
+|-supereffective|p1a: Tapu Bulu
+|-damage|p1a: Tapu Bulu|0 fnt
+|faint|p1a: Tapu Bulu
+|-ability|p2a: Nihilego|Beast Boost|boost
+|-boost|p2a: Nihilego|spa|1
+|
+|-heal|p2a: Nihilego|94/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641839574
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Grassy Seed
+|-boost|p1a: Hawlucha|def|1|[from] item: Grassy Seed
+|turn|11
+|
+|t:|1641839585
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-damage|p2a: Landorus|88/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hawlucha|atk|1
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|-heal|p2a: Landorus|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641839591
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Landorus|U-turn|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|95/100
+|
+|t:|1641839593
+|switch|p2a: Slowbro|Slowbro, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|13
+|
+|t:|1641839596
+|move|p1a: Hawlucha|Acrobatics|p2a: Slowbro
+|-damage|p2a: Slowbro|4/100
+|move|p2a: Slowbro|Scald|p1a: Hawlucha
+|-damage|p1a: Hawlucha|58/100
+|-status|p1a: Hawlucha|brn
+|
+|-heal|p2a: Slowbro|10/100|[from] Grassy Terrain
+|-damage|p1a: Hawlucha|52/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641839601
+|switch|p2a: Landorus|Landorus-Therian, M|94/100
+|-damage|p2a: Landorus|82/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hawlucha|atk|1
+|move|p1a: Hawlucha|Acrobatics|p2a: Landorus
+|-damage|p2a: Landorus|39/100
+|
+|-heal|p2a: Landorus|45/100|[from] item: Leftovers
+|-damage|p1a: Hawlucha|46/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641839611
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Landorus|U-turn|p1a: Hawlucha
+|-resisted|p1a: Hawlucha
+|-damage|p1a: Hawlucha|41/100 brn
+|
+|t:|1641839613
+|switch|p2a: Slowbro|Slowbro, M|44/100|[from]move: U-turn
+|
+|-damage|p1a: Hawlucha|35/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641839618
+|switch|p2a: Landorus|Landorus-Therian, M|45/100
+|-damage|p2a: Landorus|33/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Hawlucha|atk|1
+|move|p1a: Hawlucha|Acrobatics|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-damage|p1a: Hawlucha|28/100 brn|[from] brn
+|upkeep
+|
+|t:|1641839623
+|switch|p2a: Slowbro|Slowbro, M|77/100
+|turn|17
+|
+|t:|1641839628
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-damage|p2a: Tapu Lele|88/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|
+|-damage|p1a: Hawlucha|22/100 brn|[from] brn
+|upkeep
+|turn|18
+|
+|t:|1641839634
+|move|p1a: Hawlucha|Acrobatics|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-damage|p1a: Hawlucha|16/100 brn|[from] brn
+|upkeep
+|
+|t:|1641839637
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|turn|19
+|
+|t:|1641839645
+|move|p1a: Hawlucha|Acrobatics|p2a: Slowbro
+|-damage|p2a: Slowbro|36/100
+|move|p2a: Slowbro|Scald|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1641839648
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|turn|20
+|
+|t:|1641839653
+|move|p1a: Slowbro|Future Sight|p2a: Slowbro
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|87/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641839656
+|move|p1a: Slowbro|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|77/100
+|move|p2a: Slowbro|Future Sight|p1a: Slowbro
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|22
+|
+|t:|1641839661
+|move|p1a: Slowbro|Scald|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|67/100
+|-status|p2a: Slowbro|brn
+|move|p2a: Slowbro|Scald|p1a: Slowbro
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|86/100
+|-status|p1a: Slowbro|brn
+|
+|-end|p2a: Slowbro|move: Future Sight
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|52/100 brn
+|-damage|p1a: Slowbro|80/100 brn|[from] brn
+|-damage|p2a: Slowbro|46/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641839664
+|move|p1a: Slowbro|Future Sight|p2a: Slowbro
+|-start|p1a: Slowbro|move: Future Sight
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|96/100 brn
+|
+|-end|p1a: Slowbro|move: Future Sight
+|-resisted|p1a: Slowbro
+|-damage|p1a: Slowbro|59/100 brn
+|-damage|p1a: Slowbro|53/100 brn|[from] brn
+|-damage|p2a: Slowbro|90/100 brn|[from] brn
+|upkeep
+|turn|24
+|-message|westcubes0 forfeited.
+|
+|win|Pokefellas
+|raw|westcubes0's rating: 1464 &rarr; <strong>1444</strong><br />(-20 for losing)
+|raw|Pokefellas's rating: 1457 &rarr; <strong>1477</strong><br />(+20 for winning)
+|l|☆westcubes0

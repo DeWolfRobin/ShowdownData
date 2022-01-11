@@ -1,0 +1,413 @@
+|j|☆Ryuzaky205
+|j|☆ShoeMaster69
+|t:|1641874051
+|gametype|singles
+|player|p1|Ryuzaky205|dawn|1135
+|player|p2|ShoeMaster69|lucian|1161
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zeraora|
+|poke|p1|Clefable, M|
+|poke|p1|Rillaboom, F|
+|poke|p1|Aegislash, M|
+|poke|p1|Rotom-Wash|
+|poke|p1|Hydreigon, F|
+|poke|p2|Zeraora|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Victini|
+|poke|p2|Slowking-Galar, F|
+|poke|p2|Buzzwole|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|
+|t:|1641874064
+|start
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|switch|p2a: Slowking|Slowking-Galar, F|100/100
+|turn|1
+|
+|t:|1641874076
+|move|p1a: Rotom|Hydro Pump|p2a: Slowking
+|-damage|p2a: Slowking|83/100
+|move|p2a: Slowking|Future Sight|p1a: Rotom
+|-start|p2a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1641874097
+|move|p1a: Rotom|Will-O-Wisp|p2a: Slowking
+|-status|p2a: Slowking|brn
+|move|p2a: Slowking|Sludge Bomb|p1a: Rotom
+|-damage|p1a: Rotom|70/100
+|
+|-heal|p1a: Rotom|76/100|[from] item: Leftovers
+|-damage|p2a: Slowking|77/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641874115
+|move|p1a: Rotom|Volt Switch|p2a: Slowking
+|-damage|p2a: Slowking|65/100 brn
+|
+|t:|1641874118
+|switch|p1a: Aegislash|Aegislash, M|100/100|[from]move: Volt Switch
+|-item|p1a: Aegislash|Air Balloon
+|move|p2a: Slowking|Sludge Bomb|p1a: Aegislash
+|-immune|p1a: Aegislash
+|
+|-end|p1a: Aegislash|move: Future Sight
+|-resisted|p1a: Aegislash
+|-damage|p1a: Aegislash|76/100
+|-enditem|p1a: Aegislash|Air Balloon
+|-damage|p2a: Slowking|59/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641874132
+|move|p1a: Aegislash|Swords Dance|p1a: Aegislash
+|-boost|p1a: Aegislash|atk|2
+|move|p2a: Slowking|Flamethrower|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-crit|p1a: Aegislash
+|-damage|p1a: Aegislash|1/100
+|
+|-damage|p2a: Slowking|53/100 brn|[from] brn
+|upkeep
+|turn|5
+|
+|t:|1641874141
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Aegislash|atk|1
+|-formechange|p1a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p1a: Aegislash|Shadow Claw|p2a: Landorus
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|30/100
+|
+|-heal|p2a: Landorus|36/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641874154
+|move|p1a: Aegislash|Shadow Sneak|p2a: Landorus
+|-damage|p2a: Landorus|10/100
+|move|p2a: Landorus|Earthquake|p1a: Aegislash
+|-supereffective|p1a: Aegislash
+|-damage|p1a: Aegislash|0 fnt
+|faint|p1a: Aegislash
+|
+|-heal|p2a: Landorus|16/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641874157
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|7
+|
+|t:|1641874164
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|move|p1a: Rillaboom|Grassy Glide|p2a: Tornadus
+|-resisted|p2a: Tornadus
+|-damage|p2a: Tornadus|51/100
+|-damage|p1a: Rillaboom|91/100|[from] item: Life Orb
+|
+|-heal|p1a: Rillaboom|97/100|[from] Grassy Terrain
+|upkeep
+|turn|8
+|
+|t:|1641874176
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Tornadus|Tailwind|p2a: Tornadus
+|-sidestart|p2: ShoeMaster69|move: Tailwind
+|
+|upkeep
+|turn|9
+|
+|t:|1641874193
+|move|p2a: Tornadus|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|57/100
+|move|p1a: Clefable|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|32/100
+|-enditem|p2a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Clefable
+|
+|-heal|p1a: Clefable|63/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|69/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641874207
+|switch|p2a: Zeraora|Zeraora|100/100
+|move|p1a: Clefable|Moonblast|p2a: Zeraora
+|-damage|p2a: Zeraora|61/100
+|
+|-heal|p2a: Zeraora|67/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|75/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641874219
+|move|p2a: Zeraora|Plasma Fists|p1a: Clefable
+|-damage|p1a: Clefable|43/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|move|p1a: Clefable|Knock Off|p2a: Zeraora
+|-damage|p2a: Zeraora|48/100
+|-enditem|p2a: Zeraora|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Clefable
+|
+|-heal|p2a: Zeraora|53/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|49/100|[from] Grassy Terrain
+|-heal|p1a: Clefable|55/100|[from] item: Leftovers
+|-sideend|p2: ShoeMaster69|move: Tailwind
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|12
+|
+|t:|1641874233
+|switch|p1a: Zeraora|Zeraora|100/100
+|move|p2a: Zeraora|Knock Off|p1a: Zeraora
+|-damage|p1a: Zeraora|56/100
+|-enditem|p1a: Zeraora|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|13
+|
+|t:|1641874243
+|switch|p2a: Landorus|Landorus-Therian, M|16/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Zeraora|atk|1
+|move|p1a: Zeraora|Knock Off|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-enditem|p2a: Landorus|Leftovers|[from] move: Knock Off|[of] p1a: Zeraora
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641874254
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|14
+|
+|t:|1641874259
+|switch|p1a: Rotom|Rotom-Wash|76/100
+|move|p2a: Buzzwole|Leech Life|p1a: Rotom
+|-damage|p1a: Rotom|29/100
+|
+|-heal|p1a: Rotom|35/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641874270
+|switch|p2a: Slowking|Slowking-Galar, F|86/100 brn
+|move|p1a: Rotom|Pain Split|p2a: Slowking
+|-sethp|p2a: Slowking|57/100 brn|[from] move: Pain Split|[silent]
+|-sethp|p1a: Rotom|74/100|[from] move: Pain Split
+|
+|-heal|p1a: Rotom|80/100|[from] item: Leftovers
+|-damage|p2a: Slowking|51/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641874284
+|move|p1a: Rotom|Hydro Pump|p2a: Slowking
+|-damage|p2a: Slowking|34/100 brn
+|move|p2a: Slowking|Future Sight|p1a: Rotom
+|-start|p2a: Slowking|move: Future Sight
+|
+|-heal|p1a: Rotom|86/100|[from] item: Leftovers
+|-damage|p2a: Slowking|28/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641874301
+|switch|p2a: Tornadus|Tornadus-Therian, M|65/100
+|move|p1a: Rotom|Hydro Pump|p2a: Tornadus|[miss]
+|-miss|p1a: Rotom|p2a: Tornadus
+|
+|-heal|p1a: Rotom|92/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641874313
+|move|p2a: Tornadus|Tailwind|p2a: Tornadus
+|-sidestart|p2: ShoeMaster69|move: Tailwind
+|move|p1a: Rotom|Will-O-Wisp|p2a: Tornadus
+|-status|p2a: Tornadus|brn
+|
+|-end|p1a: Rotom|move: Future Sight
+|-damage|p1a: Rotom|48/100
+|-heal|p1a: Rotom|54/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|59/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641874326
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Rotom|Volt Switch|p2a: Buzzwole
+|-damage|p2a: Buzzwole|78/100
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by ShoeMaster69)
+|
+|t:|1641874333
+|switch|p1a: Clefable|Clefable, M|55/100|[from]move: Volt Switch
+|
+|-heal|p1a: Clefable|61/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641874346
+|switch|p2a: Tornadus|Tornadus-Therian, M|93/100 brn
+|move|p1a: Clefable|Moonblast|p2a: Tornadus
+|-damage|p2a: Tornadus|57/100 brn
+|
+|-heal|p1a: Clefable|68/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|51/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641874358
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|move|p1a: Clefable|Stealth Rock|p2a: Tornadus
+|-sidestart|p2: ShoeMaster69|move: Stealth Rock
+|
+|-heal|p1a: Clefable|74/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|45/100 brn|[from] brn
+|-sideend|p2: ShoeMaster69|move: Tailwind
+|upkeep
+|turn|22
+|
+|t:|1641874368
+|move|p2a: Tornadus|Hurricane|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|
+|-damage|p2a: Tornadus|39/100 brn|[from] brn
+|upkeep
+|
+|t:|1641874372
+|switch|p1a: Zeraora|Zeraora|56/100
+|turn|23
+|
+|t:|1641874378
+|switch|p2a: Zeraora|Zeraora|53/100
+|-damage|p2a: Zeraora|41/100|[from] Stealth Rock
+|move|p1a: Zeraora|Plasma Fists|p2a: Zeraora
+|-heal|p2a: Zeraora|66/100|[from] ability: Volt Absorb|[of] p1a: Zeraora
+|
+|upkeep
+|turn|24
+|
+|t:|1641874393
+|switch|p2a: Tornadus|Tornadus-Therian, M|72/100 brn
+|-damage|p2a: Tornadus|47/100 brn|[from] Stealth Rock
+|switch|p1a: Rillaboom|Rillaboom, F|97/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|
+|-heal|p1a: Rillaboom|100/100|[from] Grassy Terrain
+|-damage|p2a: Tornadus|41/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641874406
+|switch|p1a: Rotom|Rotom-Wash|54/100
+|move|p2a: Tornadus|Hurricane|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|33/100
+|
+|-heal|p1a: Rotom|40/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|35/100 brn|[from] brn
+|upkeep
+|turn|26
+|
+|t:|1641874417
+|move|p2a: Tornadus|Tailwind|p2a: Tornadus
+|-sidestart|p2: ShoeMaster69|move: Tailwind
+|move|p1a: Rotom|Hydro Pump|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|
+|-heal|p1a: Rotom|46/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641874423
+|switch|p2a: Buzzwole|Buzzwole|78/100
+|-damage|p2a: Buzzwole|66/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1641874432
+|move|p2a: Buzzwole|Leech Life|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|-heal|p2a: Buzzwole|83/100|[from] drain|[of] p1a: Rotom
+|faint|p1a: Rotom
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-heal|p2a: Buzzwole|89/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641874440
+|switch|p1a: Zeraora|Zeraora|56/100
+|turn|28
+|
+|t:|1641874446
+|move|p2a: Buzzwole|Leech Life|p1a: Zeraora
+|-damage|p1a: Zeraora|0 fnt
+|-heal|p2a: Buzzwole|100/100|[from] drain|[of] p1a: Zeraora
+|faint|p1a: Zeraora
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|
+|t:|1641874455
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|29
+|
+|t:|1641874459
+|move|p1a: Rillaboom|Grassy Glide|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|80/100
+|-damage|p1a: Rillaboom|91/100|[from] item: Life Orb
+|move|p2a: Buzzwole|Leech Life|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|-heal|p2a: Buzzwole|100/100|[from] drain|[of] p1a: Rillaboom
+|faint|p1a: Rillaboom
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|-sideend|p2: ShoeMaster69|move: Tailwind
+|upkeep
+|
+|t:|1641874462
+|switch|p1a: Hydreigon|Hydreigon, F|100/100
+|turn|30
+|
+|t:|1641874472
+|move|p1a: Hydreigon|Earth Power|p2a: Buzzwole
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|85/100
+|move|p2a: Buzzwole|Close Combat|p1a: Hydreigon
+|-supereffective|p1a: Hydreigon
+|-damage|p1a: Hydreigon|0 fnt
+|-unboost|p2a: Buzzwole|def|1
+|-unboost|p2a: Buzzwole|spd|1
+|faint|p1a: Hydreigon
+|
+|win|ShoeMaster69
+|raw|Ryuzaky205's rating: 1135 &rarr; <strong>1112</strong><br />(-23 for losing)
+|raw|ShoeMaster69's rating: 1161 &rarr; <strong>1184</strong><br />(+23 for winning)
+|l|☆Ryuzaky205

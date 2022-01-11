@@ -1,0 +1,172 @@
+|j|☆Inaan
+|j|☆lpt2468
+|t:|1641837070
+|gametype|singles
+|player|p1|Inaan|swimmerf|1149
+|player|p2|lpt2468|2|1124
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Scyther, M|
+|poke|p1|Scizor, F|
+|poke|p1|Charizard, F|
+|poke|p1|Cobalion|
+|poke|p1|Sirfetch’d, M|
+|poke|p1|Sharpedo, M|
+|poke|p2|Kartana|
+|poke|p2|Scizor, F|
+|poke|p2|Heatran, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Magnezone|
+|poke|p2|Jirachi|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Inaan)
+|
+|t:|1641837088
+|start
+|switch|p1a: Cobalion|Cobalion|100/100
+|switch|p2a: Magnezone|Magnezone|100/100
+|turn|1
+|
+|t:|1641837097
+|move|p2a: Magnezone|Volt Switch|p1a: Cobalion
+|-damage|p1a: Cobalion|50/100
+|
+|t:|1641837107
+|switch|p2a: Jirachi|Jirachi|100/100|[from]move: Volt Switch
+|move|p1a: Cobalion|Stealth Rock|p2a: Jirachi
+|-sidestart|p2: lpt2468|move: Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641837114
+|move|p2a: Jirachi|Zen Headbutt|p1a: Cobalion
+|-damage|p1a: Cobalion|22/100
+|-damage|p2a: Jirachi|84/100|[from] item: Rocky Helmet|[of] p1a: Cobalion
+|cant|p1a: Cobalion|flinch
+|
+|upkeep
+|turn|3
+|
+|t:|1641837123
+|move|p2a: Jirachi|Zen Headbutt|p1a: Cobalion
+|-damage|p1a: Cobalion|0 fnt
+|-damage|p2a: Jirachi|68/100|[from] item: Rocky Helmet|[of] p1a: Cobalion
+|faint|p1a: Cobalion
+|
+|upkeep
+|
+|t:|1641837134
+|switch|p1a: Sharpedo|Sharpedo, M|100/100
+|turn|4
+|
+|t:|1641837140
+|switch|p2a: Scizor|Scizor, F|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|move|p1a: Sharpedo|Protect||[still]
+|-fail|p1a: Sharpedo
+|
+|-ability|p1a: Sharpedo|Speed Boost|boost
+|-boost|p1a: Sharpedo|spe|1
+|upkeep
+|turn|5
+|
+|t:|1641837159
+|move|p1a: Sharpedo|Flip Turn|p2a: Scizor
+|-damage|p2a: Scizor|44/100
+|-damage|p1a: Sharpedo|91/100|[from] item: Life Orb
+|
+|t:|1641837163
+|switch|p1a: Charizard|Charizard, F|100/100|[from]move: Flip Turn
+|move|p2a: Scizor|U-turn|p1a: Charizard
+|-resisted|p1a: Charizard
+|-damage|p1a: Charizard|79/100
+|
+|t:|1641837172
+|switch|p2a: Magnezone|Magnezone|100/100|[from]move: U-turn
+|-damage|p2a: Magnezone|94/100|[from] Stealth Rock
+|
+|upkeep
+|turn|6
+|
+|t:|1641837179
+|move|p2a: Magnezone|Thunderbolt|p1a: Charizard
+|-supereffective|p1a: Charizard
+|-crit|p1a: Charizard
+|-damage|p1a: Charizard|0 fnt
+|faint|p1a: Charizard
+|
+|upkeep
+|
+|t:|1641837185
+|switch|p1a: Sirfetch’d|Sirfetch’d, M|100/100
+|turn|7
+|
+|t:|1641837190
+|move|p2a: Magnezone|Thunderbolt|p1a: Sirfetch’d
+|-damage|p1a: Sirfetch’d|33/100
+|move|p1a: Sirfetch’d|Close Combat|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|-unboost|p1a: Sirfetch’d|def|1
+|-unboost|p1a: Sirfetch’d|spd|1
+|faint|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1641837198
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641837205
+|move|p2a: Kartana|Leaf Blade|p1a: Sirfetch’d
+|-damage|p1a: Sirfetch’d|0 fnt
+|faint|p1a: Sirfetch’d
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641837223
+|switch|p1a: Sharpedo|Sharpedo, M|91/100
+|turn|9
+|
+|t:|1641837226
+|move|p1a: Sharpedo|Protect|p1a: Sharpedo
+|-singleturn|p1a: Sharpedo|Protect
+|move|p2a: Kartana|Tailwind|p2a: Kartana
+|-sidestart|p2: lpt2468|move: Tailwind
+|
+|-ability|p1a: Sharpedo|Speed Boost|boost
+|-boost|p1a: Sharpedo|spe|1
+|upkeep
+|turn|10
+|
+|t:|1641837234
+|move|p2a: Kartana|Leaf Blade|p1a: Sharpedo
+|-supereffective|p1a: Sharpedo
+|-damage|p1a: Sharpedo|0 fnt
+|faint|p1a: Sharpedo
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|-message|Inaan forfeited.
+|
+|win|lpt2468
+|raw|Inaan's rating: 1149 &rarr; <strong>1122</strong><br />(-27 for losing)
+|raw|lpt2468's rating: 1124 &rarr; <strong>1151</strong><br />(+27 for winning)
+|l|☆Inaan
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

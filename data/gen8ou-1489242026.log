@@ -1,0 +1,666 @@
+|j|☆insania test v2
+|j|☆Riv4l red
+|t:|1641876207
+|gametype|singles
+|player|p1|insania test v2|pokekid|1109
+|player|p2|Riv4l red|red|1139
+|teamsize|p1|4
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Mew|
+|poke|p1|Ditto|
+|poke|p1|Clefable, F|
+|poke|p2|Dhelmise|
+|poke|p2|Quagsire, F|
+|poke|p2|Clefable, M|
+|poke|p2|Glastrier|
+|poke|p2|Cresselia, F|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|
+|t:|1641876221
+|start
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Glastrier|Glastrier|100/100
+|turn|1
+|
+|t:|1641876227
+|move|p1a: Clefable|Trick|p2a: Glastrier
+|-activate|p1a: Clefable|move: Trick|[of] p2a: Glastrier
+|-item|p2a: Glastrier|Choice Scarf|[from] move: Trick
+|-item|p1a: Clefable|Choice Band|[from] move: Trick
+|move|p2a: Glastrier|Icicle Crash|p1a: Clefable
+|-damage|p1a: Clefable|63/100
+|
+|upkeep
+|turn|2
+|c|☆Riv4l red|ummmm
+|c|☆Riv4l red|?
+|c|☆insania test v2|:O
+|c|☆Riv4l red|give that back?
+|c|☆insania test v2|no
+|c|☆Riv4l red|pls
+|c|☆insania test v2|its mine now
+|c|☆Riv4l red|and
+|c|☆insania test v2|XD
+|c|☆Riv4l red|ty
+|
+|t:|1641876250
+|move|p1a: Clefable|Moonblast|p2a: Glastrier
+|-damage|p2a: Glastrier|78/100
+|move|p2a: Glastrier|Icicle Crash|p1a: Clefable
+|-damage|p1a: Clefable|23/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641876256
+|move|p1a: Clefable|Moonblast|p2a: Glastrier
+|-damage|p2a: Glastrier|55/100
+|move|p2a: Glastrier|Icicle Crash|p1a: Clefable
+|-damage|p1a: Clefable|0 fnt
+|faint|p1a: Clefable
+|-ability|p2a: Glastrier|Chilling Neigh|boost
+|-boost|p2a: Glastrier|atk|1
+|
+|upkeep
+|
+|t:|1641876260
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|4
+|c|☆Riv4l red|youre not even using it
+|
+|t:|1641876269
+|move|p1a: Blacephalon|Flamethrower|p2a: Glastrier
+|-supereffective|p2a: Glastrier
+|-damage|p2a: Glastrier|0 fnt
+|faint|p2a: Glastrier
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641876285
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blacephalon|atk|1
+|turn|5
+|
+|t:|1641876305
+|switch|p1a: no u|Ditto|100/100
+|-transform|p1a: no u|p2a: Landorus|[from] ability: Imposter
+|-ability|p1a: no u|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: no u
+|-immune|p1a: no u
+|
+|upkeep
+|turn|6
+|
+|t:|1641876315
+|switch|p2a: Quagsire|Quagsire, F|100/100
+|move|p1a: no u|Stone Edge|p2a: Quagsire|[miss]
+|-miss|p1a: no u|p2a: Quagsire
+|
+|upkeep
+|turn|7
+|c|☆Riv4l red|like yo moves?
+|
+|t:|1641876324
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|move|p2a: Quagsire|Scald|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|40/100
+|
+|upkeep
+|turn|8
+|c|☆insania test v2|yes
+|
+|t:|1641876332
+|move|p1a: Blacephalon|Shadow Ball|p2a: Quagsire
+|-damage|p2a: Quagsire|45/100
+|move|p2a: Quagsire|Earthquake|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|upkeep
+|
+|t:|1641876337
+|switch|p1a: :)|Mew|100/100
+|turn|9
+|
+|t:|1641876341
+|move|p1a: :)|Taunt|p2a: Quagsire
+|-start|p2a: Quagsire|move: Taunt
+|cant|p2a: Quagsire|move: Taunt|Recover
+|
+|upkeep
+|turn|10
+|c|☆Riv4l red|ok
+|
+|t:|1641876355
+|move|p1a: :)|Cosmic Power|p1a: :)
+|-boost|p1a: :)|def|1
+|-boost|p1a: :)|spd|1
+|move|p2a: Quagsire|Scald|p1a: :)
+|-damage|p1a: :)|90/100
+|
+|upkeep
+|turn|11
+|c|☆insania test v2|watch this
+|
+|t:|1641876363
+|move|p1a: :)|Cosmic Power|p1a: :)
+|-boost|p1a: :)|def|1
+|-boost|p1a: :)|spd|1
+|move|p2a: Quagsire|Earthquake|p1a: :)
+|-damage|p1a: :)|77/100
+|
+|-end|p2a: Quagsire|move: Taunt
+|upkeep
+|turn|12
+|
+|t:|1641876374
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: :)|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|
+|upkeep
+|turn|13
+|c|☆insania test v2|pls
+|c|☆insania test v2|dont be unaware
+|c|☆Riv4l red|lmao what
+|
+|t:|1641876386
+|move|p1a: :)|Cosmic Power|p1a: :)
+|-boost|p1a: :)|def|1
+|-boost|p1a: :)|spd|1
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|50/100
+|
+|upkeep
+|turn|14
+|c|☆Riv4l red|:)
+|c|☆Riv4l red|secret
+|
+|t:|1641876393
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|99/100
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|70/100
+|
+|-end|p2a: Clefable|move: Taunt
+|upkeep
+|turn|15
+|c|☆insania test v2|if its unaware i willr agequit
+|
+|t:|1641876401
+|move|p1a: :)|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|43/100
+|-unboost|p1a: :)|spa|1
+|
+|upkeep
+|turn|16
+|c|☆Riv4l red|hit me and find out
+|
+|t:|1641876415
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|93/100
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|65/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641876423
+|move|p1a: :)|Cosmic Power|p1a: :)
+|-boost|p1a: :)|def|1
+|-boost|p1a: :)|spd|1
+|move|p2a: Clefable|Thunderbolt|p1a: :)
+|-damage|p1a: :)|48/100
+|-status|p1a: :)|par
+|-activate|p1a: :)|ability: Synchronize
+|-status|p2a: Clefable|par
+|
+|-end|p2a: Clefable|move: Taunt
+|upkeep
+|turn|18
+|c|☆insania test v2|ye ur unaware
+|c|☆insania test v2|WHAT
+|c|☆insania test v2|WHAEFKLFDHADFS
+|c|☆Riv4l red|omg
+|c|☆Riv4l red|this some bs
+|
+|t:|1641876442
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|98/100 par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|70/100 par
+|-unboost|p1a: :)|spa|1
+|
+|upkeep
+|turn|19
+|
+|t:|1641876449
+|switch|p2a: Dhelmise|Dhelmise|100/100
+|cant|p1a: :)|par
+|
+|upkeep
+|turn|20
+|c|☆Riv4l red|f this
+|
+|t:|1641876459
+|move|p1a: :)|Stored Power|p2a: Dhelmise
+|-damage|p2a: Dhelmise|68/100
+|move|p2a: Dhelmise|Substitute|p2a: Dhelmise
+|-start|p2a: Dhelmise|Substitute
+|-damage|p2a: Dhelmise|43/100
+|
+|-heal|p2a: Dhelmise|49/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641876467
+|move|p1a: :)|Stored Power|p2a: Dhelmise
+|-end|p2a: Dhelmise|Substitute
+|move|p2a: Dhelmise|Poltergeist|p1a: :)|[miss]
+|-miss|p2a: Dhelmise|p1a: :)
+|
+|-heal|p2a: Dhelmise|56/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|c|☆Riv4l red|ok.
+|
+|t:|1641876477
+|move|p1a: :)|Stored Power|p2a: Dhelmise
+|-damage|p2a: Dhelmise|21/100
+|move|p2a: Dhelmise|Poltergeist|p1a: :)
+|-activate|p1a: :)|move: Poltergeist|Weakness Policy
+|-supereffective|p1a: :)
+|-damage|p1a: :)|35/100 par
+|-enditem|p1a: :)|Weakness Policy
+|-boost|p1a: :)|atk|2|[from] item: Weakness Policy
+|-boost|p1a: :)|spa|2|[from] item: Weakness Policy
+|
+|-heal|p2a: Dhelmise|27/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|c|☆Riv4l red|bro
+|c|☆Riv4l red|can
+|c|☆Riv4l red|you
+|c|☆Riv4l red|just
+|c|☆Riv4l red|die
+|c|☆Riv4l red|?
+|
+|t:|1641876499
+|cant|p1a: :)|par
+|move|p2a: Dhelmise|Swords Dance|p2a: Dhelmise
+|-boost|p2a: Dhelmise|atk|2
+|
+|-heal|p2a: Dhelmise|33/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆Riv4l red|!dt steelworker
+|raw|<ul class="utilichart"><li class="result"><span class="col namecol"><a href="https://dex.pokemonshowdown.com/abilities/steelworker">Steelworker</a></span> <span class="col abilitydesccol">This Pokemon's attacking stat is multiplied by 1.5 while using a Steel-type attack.</span> </li><li style="clear:both"></li></ul>
+|raw|<font size="1"><font color="#686868">Gen:</font> 7</font>
+
+|
+|t:|1641876524
+|move|p1a: :)|Stored Power|p2a: Dhelmise
+|-damage|p2a: Dhelmise|0 fnt
+|faint|p2a: Dhelmise
+|
+|upkeep
+|c|☆Riv4l red|....
+|
+|t:|1641876552
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: :)|atk|1
+|turn|25
+|
+|t:|1641876558
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|85/100 par
+|
+|upkeep
+|turn|26
+|
+|t:|1641876567
+|move|p2a: Landorus|Earthquake|p1a: :)
+|-damage|p1a: :)|52/100 par
+|move|p1a: :)|Stored Power|p2a: Landorus
+|-damage|p2a: Landorus|16/100
+|-enditem|p2a: Landorus|Salac Berry|[eat]
+|-boost|p2a: Landorus|spe|1|[from] item: Salac Berry
+|
+|upkeep
+|turn|27
+|
+|t:|1641876575
+|move|p2a: Landorus|Earthquake|p1a: :)
+|-damage|p1a: :)|15/100 par
+|move|p1a: :)|Cosmic Power|p1a: :)
+|-boost|p1a: :)|def|1
+|-boost|p1a: :)|spd|1
+|
+|upkeep
+|turn|28
+|
+|t:|1641876598
+|move|p2a: Landorus|Swords Dance|p2a: Landorus
+|-boost|p2a: Landorus|atk|2
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|65/100 par
+|
+|upkeep
+|turn|29
+|
+|t:|1641876604
+|move|p2a: Landorus|Earthquake|p1a: :)
+|-damage|p1a: :)|21/100 par
+|move|p1a: :)|Stored Power|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|c|☆insania test v2|I CLICKED STORED POWER NOOOOOOOOOOOOOOOOOOOOOO
+|
+|t:|1641876612
+|switch|p2a: Clefable|Clefable, M|100/100 par
+|turn|30
+|
+|t:|1641876617
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|71/100 par
+|cant|p2a: Clefable|par
+|
+|upkeep
+|turn|31
+|c|☆Riv4l red|bro
+|c|☆Riv4l red|let it go
+|c|☆Riv4l red|its ok
+|
+|t:|1641876630
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|100/100 par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|71/100 par
+|
+|upkeep
+|turn|32
+|
+|t:|1641876636
+|switch|p2a: Cresselia|Cresselia, F|100/100
+|move|p1a: :)|Stored Power|p2a: Cresselia
+|-resisted|p2a: Cresselia
+|-damage|p2a: Cresselia|79/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641876643
+|move|p2a: Cresselia|Light Screen|p2a: Cresselia
+|-sidestart|p2: Riv4l red|move: Light Screen
+|cant|p1a: :)|par
+|
+|upkeep
+|turn|34
+|
+|t:|1641876664
+|move|p2a: Cresselia|Lunar Dance|p2a: Cresselia
+|faint|p2a: Cresselia
+|move|p1a: :)|Cosmic Power|p1a: :)
+|-boost|p1a: :)|def|1
+|-boost|p1a: :)|spd|1
+|
+|upkeep
+|
+|t:|1641876669
+|switch|p2a: Clefable|Clefable, M|100/100 par
+|-heal|p2a: Clefable|100/100|[from] move: Lunar Dance
+|turn|35
+|c|☆Riv4l red|man stoppppp
+|
+|t:|1641876675
+|cant|p1a: :)|par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|45/100 par
+|
+|upkeep
+|turn|36
+|
+|t:|1641876683
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|95/100 par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|66/100 par
+|
+|upkeep
+|turn|37
+|
+|t:|1641876692
+|cant|p1a: :)|par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|37/100 par
+|-unboost|p1a: :)|spa|1
+|
+|upkeep
+|turn|38
+|
+|t:|1641876709
+|cant|p1a: :)|par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|8/100 par
+|
+|upkeep
+|turn|39
+|
+|t:|1641876717
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|58/100 par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|31/100 par
+|-unboost|p1a: :)|spa|1
+|
+|upkeep
+|turn|40
+|c|☆Riv4l red|why are you still faster than me tf
+|
+|t:|1641876732
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|81/100 par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|53/100 par
+|
+|-sideend|p2: Riv4l red|move: Light Screen
+|upkeep
+|turn|41
+|
+|t:|1641876746
+|move|p1a: :)|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|move|p2a: Clefable|Fire Blast|p1a: :)
+|-damage|p1a: :)|30/100 par
+|
+|upkeep
+|turn|42
+|
+|t:|1641876753
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|80/100 par
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-crit|p1a: :)
+|-damage|p1a: :)|35/100 par
+|-unboost|p1a: :)|spa|1
+|
+|upkeep
+|turn|43
+|
+|t:|1641876760
+|move|p1a: :)|Stored Power|p2a: Clefable
+|-damage|p2a: Clefable|37/100
+|move|p2a: Clefable|Moonblast|p1a: :)
+|-damage|p1a: :)|6/100 par
+|
+|-heal|p2a: Clefable|43/100|[from] item: Leftovers
+|-end|p2a: Clefable|move: Taunt
+|upkeep
+|turn|44
+|c|☆insania test v2|yes
+|c|☆insania test v2|YES
+|c|☆Riv4l red|thats not ok
+|c|☆insania test v2|BREAK THROUGH
+|c|☆insania test v2|GO
+|c|☆insania test v2|BREAK THROUGH
+|c|☆Riv4l red|na
+|c|☆Riv4l red|hold up
+|c|☆Riv4l red|how tf does make sense
+|
+|t:|1641876790
+|move|p1a: :)|Stored Power|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|c|☆insania test v2|im 164 speed
+|c|☆Riv4l red|theres no way that does more than 50%
+|c|☆Riv4l red|f this game fr
+|
+|t:|1641876812
+|switch|p2a: Quagsire|Quagsire, F|45/100
+|turn|45
+|c|☆insania test v2|cosmic power doesnt count on spA
+|c|☆Riv4l red|tf does it count then
+|c|☆Riv4l red|oxygen?
+|
+|t:|1641876838
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|56/100 par
+|move|p2a: Quagsire|Recover|p2a: Quagsire
+|-heal|p2a: Quagsire|95/100
+|
+|upkeep
+|turn|46
+|c|☆insania test v2|err
+|c|☆insania test v2|i mean stored power
+|
+|t:|1641876846
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|100/100 par
+|move|p2a: Quagsire|Yawn||[still]
+|-fail|p2a: Quagsire
+|
+|upkeep
+|turn|47
+|c|☆insania test v2|its based off your stat changes
+|
+|t:|1641876860
+|move|p1a: :)|Stored Power|p2a: Quagsire
+|-damage|p2a: Quagsire|51/100
+|move|p2a: Quagsire|Scald|p1a: :)
+|-damage|p1a: :)|97/100 par
+|
+|upkeep
+|turn|48
+|c|☆insania test v2|so its base power 280
+|c|☆Riv4l red|idc
+|c|☆Riv4l red|idc
+|c|☆Riv4l red|thats illegal
+|
+|t:|1641876878
+|move|p1a: :)|Taunt|p2a: Quagsire
+|-start|p2a: Quagsire|move: Taunt
+|move|p2a: Quagsire|Earthquake|p1a: :)
+|-crit|p1a: :)
+|-damage|p1a: :)|61/100 par
+|
+|upkeep
+|turn|49
+|c|☆Riv4l red|like who designed these monsters tf
+|
+|t:|1641876893
+|cant|p1a: :)|par
+|move|p2a: Quagsire|Scald|p1a: :)
+|-damage|p1a: :)|57/100 par
+|
+|upkeep
+|turn|50
+|c|☆Riv4l red|IM UNAWARE IDC BOUT YO STATS
+|
+|t:|1641876905
+|move|p1a: :)|Soft-Boiled|p1a: :)
+|-heal|p1a: :)|100/100 par
+|move|p2a: Quagsire|Earthquake|p1a: :)
+|-damage|p1a: :)|94/100 par
+|
+|-end|p2a: Quagsire|move: Taunt
+|upkeep
+|turn|51
+|
+|t:|1641876912
+|move|p1a: :)|Taunt|p2a: Quagsire
+|-start|p2a: Quagsire|move: Taunt
+|cant|p2a: Quagsire|move: Taunt|Recover
+|
+|upkeep
+|turn|52
+|
+|t:|1641876916
+|cant|p1a: :)|par
+|move|p2a: Quagsire|Scald|p1a: :)
+|-damage|p1a: :)|90/100 par
+|
+|upkeep
+|turn|53
+|
+|t:|1641876925
+|move|p1a: :)|Stored Power|p2a: Quagsire
+|-damage|p2a: Quagsire|3/100
+|move|p2a: Quagsire|Earthquake|p1a: :)
+|-damage|p1a: :)|84/100 par
+|
+|-end|p2a: Quagsire|move: Taunt
+|upkeep
+|turn|54
+|
+|t:|1641876942
+|cant|p1a: :)|par
+|move|p2a: Quagsire|Earthquake|p1a: :)
+|-damage|p1a: :)|77/100 par
+|
+|upkeep
+|turn|55
+|c|☆Riv4l red|and does 48 to quag ok.
+|c|☆Riv4l red|makes sense
+|
+|t:|1641876959
+|move|p1a: :)|Stored Power|p2a: Quagsire
+|-damage|p2a: Quagsire|0 fnt
+|faint|p2a: Quagsire
+|
+|win|insania test v2
+|raw|insania test v2's rating: 1109 &rarr; <strong>1136</strong><br />(+27 for winning)
+|raw|Riv4l red's rating: 1139 &rarr; <strong>1112</strong><br />(-27 for losing)
+|c|☆Riv4l red|gg
+|c|☆Riv4l red|with yo stupid asss team
+|c|☆Riv4l red|f mew
+|c|☆Riv4l red|hate that mon now
+|c|☆Riv4l red|bye now\
+|l|☆Riv4l red

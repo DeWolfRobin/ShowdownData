@@ -1,0 +1,330 @@
+|j|☆NDRcatch
+|j|☆Dolla Mane
+|t:|1641787237
+|gametype|singles
+|player|p1|NDRcatch|shadowtriad|
+|player|p2|Dolla Mane|swimmerf|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zeraora|
+|poke|p1|Incineroar, M|
+|poke|p1|Cloyster, F|
+|poke|p1|Gardevoir, M|
+|poke|p1|Orbeetle, M|
+|poke|p1|Vileplume, F|
+|poke|p2|Dragonite, M|
+|poke|p2|Rillaboom, F|
+|poke|p2|Mr. Rime, M|
+|poke|p2|Porygon2|
+|poke|p2|Steelix, M|
+|poke|p2|Alakazam, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by NDRcatch)
+|c|☆NDRcatch|good luck
+|c|☆NDRcatch|have fun
+|c|☆NDRcatch|glhf for short
+|c|☆NDRcatch|you're short
+|c|☆NDRcatch|get fucked
+|c|☆NDRcatch|*dab*
+|inactive|Dolla Mane has 270 seconds left.
+|
+|t:|1641787275
+|start
+|switch|p1a: Bug Modok|Orbeetle, M|100/100
+|switch|p2a: Rocky|Steelix, M, shiny|100/100
+|-item|p2a: Rocky|Ganlon Berry|[from] ability: Frisk|[of] p1a: Bug Modok|[identify]
+|turn|1
+|
+|t:|1641787295
+|move|p1a: Bug Modok|Sticky Web|p2a: Rocky
+|-sidestart|p2: Dolla Mane|move: Sticky Web
+|move|p2a: Rocky|Gyro Ball|p1a: Bug Modok
+|-damage|p1a: Bug Modok|32/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641787310
+|move|p1a: Bug Modok|Energy Ball|p2a: Rocky
+|-damage|p2a: Rocky|69/100
+|move|p2a: Rocky|Stealth Rock|p1a: Bug Modok
+|-sidestart|p1: NDRcatch|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641787317
+|move|p1a: Bug Modok|Energy Ball|p2a: Rocky
+|-damage|p2a: Rocky|37/100
+|move|p2a: Rocky|Gyro Ball|p1a: Bug Modok
+|-damage|p1a: Bug Modok|0 fnt
+|faint|p1a: Bug Modok
+|
+|upkeep
+|
+|t:|1641787335
+|switch|p1a: Lotus|Zeraora|100/100
+|-damage|p1a: Lotus|88/100|[from] Stealth Rock
+|turn|4
+|inactive|Dolla Mane has 270 seconds left.
+|
+|t:|1641787392
+|move|p1a: Lotus|Close Combat|p2a: Rocky
+|-supereffective|p2a: Rocky
+|-damage|p2a: Rocky|0 fnt
+|-unboost|p1a: Lotus|def|1
+|-unboost|p1a: Lotus|spd|1
+|faint|p2a: Rocky
+|-damage|p1a: Lotus|78/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|Dolla Mane has 240 seconds left.
+|
+|t:|1641787406
+|switch|p2a: Spooons|Alakazam, M, shiny|100/100
+|-activate|p2a: Spooons|move: Sticky Web
+|-unboost|p2a: Spooons|spe|1
+|turn|5
+|inactive|Dolla Mane has 240 seconds left.
+|
+|t:|1641787420
+|move|p1a: Lotus|Knock Off|p2a: Spooons
+|-supereffective|p2a: Spooons
+|-enditem|p2a: Spooons|Focus Sash
+|-damage|p2a: Spooons|1/100
+|-damage|p1a: Lotus|69/100|[from] item: Life Orb
+|move|p2a: Spooons|Nasty Plot|p2a: Spooons
+|-boost|p2a: Spooons|spa|2
+|
+|upkeep
+|turn|6
+|inactive|Dolla Mane has 240 seconds left.
+|
+|t:|1641787432
+|move|p1a: Lotus|Knock Off|p2a: Spooons
+|-supereffective|p2a: Spooons
+|-damage|p2a: Spooons|0 fnt
+|faint|p2a: Spooons
+|-damage|p1a: Lotus|59/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|Dolla Mane has 240 seconds left.
+|
+|t:|1641787438
+|switch|p2a: Dragon|Dragonite, M, shiny|100/100
+|turn|7
+|
+|t:|1641787446
+|move|p2a: Dragon|Fly||[still]
+|-prepare|p2a: Dragon|Fly
+|move|p1a: Lotus|Outrage|p2a: Dragon|[miss]
+|-miss|p1a: Lotus|p2a: Dragon
+|
+|upkeep
+|turn|8
+|
+|t:|1641787466
+|switch|p1a: My Vag|Cloyster, F|100/100
+|-damage|p1a: My Vag|76/100|[from] Stealth Rock
+|move|p2a: Dragon|Fly|p1a: My Vag|[from]lockedmove
+|-damage|p1a: My Vag|43/100
+|
+|-heal|p1a: My Vag|49/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641787479
+|switch|p2a: Mr. Moves|Mr. Rime, M|100/100
+|-activate|p2a: Mr. Moves|move: Sticky Web
+|-unboost|p2a: Mr. Moves|spe|1
+|move|p1a: My Vag|Ice Shard|p2a: Mr. Moves
+|-resisted|p2a: Mr. Moves
+|-damage|p2a: Mr. Moves|87/100
+|
+|-heal|p1a: My Vag|55/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|inactive|Dolla Mane has 240 seconds left.
+|
+|t:|1641787531
+|switch|p2a: Ducky|Porygon2, shiny|100/100
+|-activate|p2a: Ducky|move: Sticky Web
+|-unboost|p2a: Ducky|spe|1
+|-ability|p2a: Ducky|Skill Link|[from] ability: Trace|[of] p1a: My Vag
+|move|p1a: My Vag|Rock Blast|p2a: Ducky|[miss]
+|-miss|p1a: My Vag|p2a: Ducky
+|
+|-heal|p1a: My Vag|61/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787547
+|switch|p1a: Akuno|Incineroar, M|100/100
+|-damage|p1a: Akuno|76/100|[from] Stealth Rock
+|-ability|p1a: Akuno|Intimidate|boost
+|-unboost|p2a: Ducky|atk|1
+|move|p2a: Ducky|Toxic|p1a: Akuno
+|-status|p1a: Akuno|tox
+|
+|-damage|p1a: Akuno|70/100 tox|[from] psn
+|upkeep
+|turn|12
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787558
+|move|p2a: Ducky|Protect|p2a: Ducky
+|-singleturn|p2a: Ducky|Protect
+|move|p1a: Akuno|Close Combat|p2a: Ducky
+|-activate|p2a: Ducky|move: Protect
+|
+|-damage|p1a: Akuno|57/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641787566
+|move|p2a: Ducky|Protect||[still]
+|-fail|p2a: Ducky
+|move|p1a: Akuno|Close Combat|p2a: Ducky
+|-supereffective|p2a: Ducky
+|-damage|p2a: Ducky|36/100
+|-unboost|p1a: Akuno|def|1
+|-unboost|p1a: Akuno|spd|1
+|
+|-damage|p1a: Akuno|39/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641787575
+|move|p2a: Ducky|Protect|p2a: Ducky
+|-singleturn|p2a: Ducky|Protect
+|move|p1a: Akuno|Close Combat|p2a: Ducky
+|-activate|p2a: Ducky|move: Protect
+|
+|-damage|p1a: Akuno|15/100 tox|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641787583
+|move|p2a: Ducky|Protect||[still]
+|-fail|p2a: Ducky
+|move|p1a: Akuno|Close Combat|p2a: Ducky
+|-supereffective|p2a: Ducky
+|-damage|p2a: Ducky|0 fnt
+|-unboost|p1a: Akuno|def|1
+|-unboost|p1a: Akuno|spd|1
+|faint|p2a: Ducky
+|
+|-damage|p1a: Akuno|0 fnt|[from] psn
+|faint|p1a: Akuno
+|upkeep
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787608
+|switch|p2a: Monkey|Rillaboom, F|100/100
+|switch|p1a: Lotus|Zeraora|59/100
+|-damage|p1a: Lotus|47/100|[from] Stealth Rock
+|-activate|p2a: Monkey|move: Sticky Web
+|-unboost|p2a: Monkey|spe|1
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Monkey
+|turn|16
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787626
+|move|p1a: Lotus|Knock Off|p2a: Monkey
+|-damage|p2a: Monkey|50/100
+|-enditem|p2a: Monkey|Life Orb|[from] move: Knock Off|[of] p1a: Lotus
+|-damage|p1a: Lotus|37/100|[from] item: Life Orb
+|move|p2a: Monkey|Knock Off|p1a: Lotus
+|-damage|p1a: Lotus|0 fnt
+|-enditem|p1a: Lotus|Life Orb|[from] move: Knock Off|[of] p2a: Monkey
+|faint|p1a: Lotus
+|
+|-heal|p2a: Monkey|56/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641787639
+|switch|p1a: Lucky|Gardevoir, M|100/100
+|-damage|p1a: Lucky|88/100|[from] Stealth Rock
+|turn|17
+|j| Lukalanto
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787666
+|move|p1a: Lucky|Moonblast|p2a: Monkey
+|-damage|p2a: Monkey|0 fnt
+|faint|p2a: Monkey
+|
+|-heal|p1a: Lucky|94/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641787679
+|switch|p2a: Mr. Moves|Mr. Rime, M|87/100
+|-activate|p2a: Mr. Moves|move: Sticky Web
+|-unboost|p2a: Mr. Moves|spe|1
+|turn|18
+|
+|t:|1641787684
+|move|p1a: Lucky|Shadow Ball|p2a: Mr. Moves
+|-supereffective|p2a: Mr. Moves
+|-damage|p2a: Mr. Moves|13/100
+|move|p2a: Mr. Moves|Psychic|p1a: Lucky
+|-resisted|p1a: Lucky
+|-damage|p1a: Lucky|59/100
+|
+|-heal|p1a: Lucky|65/100|[from] Grassy Terrain
+|-heal|p2a: Mr. Moves|19/100|[from] Grassy Terrain
+|upkeep
+|turn|19
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787694
+|switch|p2a: Dragon|Dragonite, M, shiny|100/100
+|move|p1a: Lucky|Shadow Ball|p2a: Dragon
+|-damage|p2a: Dragon|86/100
+|
+|-heal|p1a: Lucky|71/100|[from] Grassy Terrain
+|upkeep
+|turn|20
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787709
+|move|p2a: Dragon|Aqua Tail|p1a: Lucky
+|-damage|p1a: Lucky|15/100
+|move|p1a: Lucky|Moonblast|p2a: Dragon
+|-supereffective|p2a: Dragon
+|-damage|p2a: Dragon|0 fnt
+|faint|p2a: Dragon
+|
+|-heal|p1a: Lucky|21/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787718
+|switch|p2a: Mr. Moves|Mr. Rime, M|19/100
+|-activate|p2a: Mr. Moves|move: Sticky Web
+|-unboost|p2a: Mr. Moves|spe|1
+|turn|21
+|inactive|Dolla Mane has 210 seconds left.
+|
+|t:|1641787729
+|move|p1a: Lucky|Shadow Ball|p2a: Mr. Moves
+|-supereffective|p2a: Mr. Moves
+|-damage|p2a: Mr. Moves|0 fnt
+|faint|p2a: Mr. Moves
+|
+|win|NDRcatch
+|c|☆NDRcatch|GGs man
+|l| Lukalanto
+|c|☆NDRcatch|you had me scared there for a little bit, you played well

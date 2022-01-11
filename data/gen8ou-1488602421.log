@@ -1,0 +1,374 @@
+|j|☆HaxzyG
+|j|☆Hd70
+|t:|1641787868
+|gametype|singles
+|player|p1|HaxzyG|guitarist|1401
+|player|p2|Hd70|265|1387
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Gardevoir, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Lurantis, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Toxapex, F|
+|poke|p2|Dusclops, M|
+|poke|p2|Umbreon, M|
+|poke|p2|Skarmory, M|
+|poke|p2|Slowbro, M|
+|teampreview
+|
+|t:|1641787881
+|start
+|switch|p1a: Feed Me Clothes!|Rotom-Wash|100/100
+|switch|p2a: Toxapex|Toxapex, F|100/100
+|turn|1
+|
+|t:|1641787897
+|move|p1a: Feed Me Clothes!|Discharge|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|43/100
+|move|p2a: Toxapex|Toxic|p1a: Feed Me Clothes!
+|-status|p1a: Feed Me Clothes!|tox
+|
+|-heal|p2a: Toxapex|49/100|[from] item: Black Sludge
+|-damage|p1a: Feed Me Clothes!|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641787910
+|switch|p2a: Umbreon|Umbreon, M|100/100
+|move|p1a: Feed Me Clothes!|Discharge|p2a: Umbreon
+|-damage|p2a: Umbreon|82/100
+|
+|-heal|p2a: Umbreon|88/100|[from] item: Leftovers
+|-damage|p1a: Feed Me Clothes!|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641787922
+|switch|p1a: Orlandorus|Landorus-Therian, M|100/100
+|-ability|p1a: Orlandorus|Intimidate|boost
+|-unboost|p2a: Umbreon|atk|1
+|move|p2a: Umbreon|Fake Tears|p1a: Orlandorus
+|-unboost|p1a: Orlandorus|spd|2
+|
+|-heal|p2a: Umbreon|94/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641787936
+|move|p1a: Orlandorus|Knock Off|p2a: Umbreon
+|-resisted|p2a: Umbreon
+|-damage|p2a: Umbreon|81/100
+|-enditem|p2a: Umbreon|Leftovers|[from] move: Knock Off|[of] p1a: Orlandorus
+|move|p2a: Umbreon|Snarl|p1a: Orlandorus
+|-damage|p1a: Orlandorus|75/100
+|-unboost|p1a: Orlandorus|spa|1
+|-enditem|p1a: Orlandorus|Red Card|[of] p2a: Umbreon
+|drag|p2a: Skarmory|Skarmory, M|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641787949
+|move|p1a: Orlandorus|Stealth Rock|p2a: Skarmory
+|-sidestart|p2: Hd70|move: Stealth Rock
+|move|p2a: Skarmory|Spikes|p1a: Orlandorus
+|-sidestart|p1: HaxzyG|Spikes
+|
+|upkeep
+|turn|6
+|
+|t:|1641787955
+|move|p1a: Orlandorus|Knock Off|p2a: Skarmory
+|-damage|p2a: Skarmory|80/100
+|-enditem|p2a: Skarmory|Red Card|[from] move: Knock Off|[of] p1a: Orlandorus
+|move|p2a: Skarmory|Spikes|p1a: Orlandorus
+|-sidestart|p1: HaxzyG|Spikes
+|
+|upkeep
+|turn|7
+|
+|t:|1641787962
+|move|p1a: Orlandorus|Smack Down|p2a: Skarmory
+|-damage|p2a: Skarmory|69/100
+|-start|p2a: Skarmory|Smack Down
+|move|p2a: Skarmory|Drill Peck|p1a: Orlandorus
+|-damage|p1a: Orlandorus|55/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641787978
+|switch|p2a: Dusclops|Dusclops, M|100/100
+|-damage|p2a: Dusclops|88/100|[from] Stealth Rock
+|-ability|p2a: Dusclops|Pressure
+|move|p1a: Orlandorus|Earthquake|p2a: Dusclops
+|-damage|p2a: Dusclops|53/100
+|
+|upkeep
+|turn|9
+|
+|t:|1641787987
+|move|p1a: Orlandorus|Knock Off|p2a: Dusclops
+|-supereffective|p2a: Dusclops
+|-damage|p2a: Dusclops|9/100
+|-enditem|p2a: Dusclops|Eviolite|[from] move: Knock Off|[of] p1a: Orlandorus
+|move|p2a: Dusclops|Trick Room|p2a: Dusclops
+|-fieldstart|move: Trick Room|[of] p2a: Dusclops
+|
+|upkeep
+|turn|10
+|
+|t:|1641787995
+|move|p2a: Dusclops|Destiny Bond|p2a: Dusclops
+|-singlemove|p2a: Dusclops|Destiny Bond
+|move|p1a: Orlandorus|Knock Off|p2a: Dusclops
+|-supereffective|p2a: Dusclops
+|-damage|p2a: Dusclops|0 fnt
+|faint|p2a: Dusclops
+|-activate|p2a: Dusclops|move: Destiny Bond
+|faint|p1a: Orlandorus
+|
+|upkeep
+|
+|t:|1641788019
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|switch|p1a: Feed Me Clothes!|Rotom-Wash|82/100 tox
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641788033
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|-damage|p2a: Ferrothorn|94/100|[from] Stealth Rock
+|move|p1a: Feed Me Clothes!|Discharge|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|80/100
+|
+|-heal|p2a: Ferrothorn|86/100|[from] item: Leftovers
+|-damage|p1a: Feed Me Clothes!|76/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641788051
+|move|p2a: Ferrothorn|Leech Seed|p1a: Feed Me Clothes!|[miss]
+|-miss|p2a: Ferrothorn|p1a: Feed Me Clothes!
+|move|p1a: Feed Me Clothes!|Discharge|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|70/100
+|-status|p2a: Ferrothorn|par
+|
+|-heal|p2a: Ferrothorn|76/100 par|[from] item: Leftovers
+|-damage|p1a: Feed Me Clothes!|63/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641788065
+|switch|p1a: Start Praying|Lurantis, F|100/100
+|-damage|p1a: Start Praying|84/100|[from] Spikes
+|cant|p2a: Ferrothorn|par
+|
+|-heal|p2a: Ferrothorn|82/100 par|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|14
+|
+|t:|1641788076
+|move|p1a: Start Praying|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|39/100 par
+|-boost|p1a: Start Praying|atk|1
+|-boost|p1a: Start Praying|def|1
+|-damage|p1a: Start Praying|72/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|cant|p2a: Ferrothorn|par
+|
+|-heal|p2a: Ferrothorn|46/100 par|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641788090
+|switch|p2a: Toxapex|Toxapex, F|82/100
+|-damage|p2a: Toxapex|70/100|[from] Stealth Rock
+|move|p1a: Start Praying|Superpower|p2a: Toxapex
+|-resisted|p2a: Toxapex
+|-damage|p2a: Toxapex|53/100
+|-boost|p1a: Start Praying|atk|1
+|-boost|p1a: Start Praying|def|1
+|
+|-heal|p2a: Toxapex|60/100|[from] item: Black Sludge
+|upkeep
+|turn|16
+|
+|t:|1641788102
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Start Praying|Psycho Cut|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Protect
+|
+|-heal|p2a: Toxapex|66/100|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|t:|1641788126
+|switch|p2a: Umbreon|Umbreon, M|81/100
+|-damage|p2a: Umbreon|69/100|[from] Stealth Rock
+|move|p1a: Start Praying|Psycho Cut|p2a: Umbreon
+|-immune|p2a: Umbreon
+|
+|upkeep
+|turn|18
+|
+|t:|1641788134
+|move|p2a: Umbreon|Protect|p2a: Umbreon
+|-singleturn|p2a: Umbreon|Protect
+|move|p1a: Start Praying|Superpower|p2a: Umbreon
+|-activate|p2a: Umbreon|move: Protect
+|
+|upkeep
+|turn|19
+|-activate|p1a: Start Praying|item: Quick Claw
+|
+|t:|1641788144
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|-damage|p2a: Slowbro|88/100|[from] Stealth Rock
+|move|p1a: Start Praying|Superpower|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|69/100
+|-boost|p1a: Start Praying|atk|1
+|-boost|p1a: Start Praying|def|1
+|
+|upkeep
+|turn|20
+|-activate|p1a: Start Praying|item: Quick Claw
+|
+|t:|1641788156
+|move|p1a: Start Praying|Leaf Blade|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1641788166
+|switch|p2a: Skarmory|Skarmory, M|69/100
+|-damage|p2a: Skarmory|56/100|[from] Stealth Rock
+|turn|21
+|
+|t:|1641788172
+|move|p1a: Start Praying|Superpower|p2a: Skarmory
+|-damage|p2a: Skarmory|4/100
+|-boost|p1a: Start Praying|atk|1
+|-boost|p1a: Start Praying|def|1
+|move|p2a: Skarmory|Whirlwind|p1a: Start Praying
+|drag|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|upkeep
+|turn|22
+|
+|t:|1641788188
+|move|p1a: Tapu Koko|Wild Charge|p2a: Skarmory
+|-supereffective|p2a: Skarmory
+|-damage|p2a: Skarmory|0 fnt
+|faint|p2a: Skarmory
+|-damage|p1a: Tapu Koko|99/100|[from] Recoil
+|
+|upkeep
+|
+|t:|1641788197
+|switch|p2a: Umbreon|Umbreon, M|69/100
+|-damage|p2a: Umbreon|57/100|[from] Stealth Rock
+|turn|23
+|
+|t:|1641788203
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Umbreon
+|-supereffective|p2a: Umbreon
+|-crit|p2a: Umbreon
+|-damage|p2a: Umbreon|15/100
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|upkeep
+|turn|24
+|
+|t:|1641788216
+|switch|p1a: Feed Me Clothes!|Rotom-Wash|63/100 tox
+|move|p2a: Umbreon|Protect||[still]
+|-fail|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|65/100|[from] move: Wish|[wisher] Umbreon
+|-damage|p1a: Feed Me Clothes!|57/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641788225
+|move|p1a: Feed Me Clothes!|Trick|p2a: Umbreon
+|-activate|p1a: Feed Me Clothes!|move: Trick|[of] p2a: Umbreon
+|-item|p2a: Umbreon|Choice Scarf|[from] move: Trick
+|-enditem|p1a: Feed Me Clothes!|Choice Scarf|[silent]|[from] move: Trick
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-damage|p1a: Feed Me Clothes!|44/100 tox|[from] psn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|26
+|
+|t:|1641788233
+|switch|p2a: Ferrothorn|Ferrothorn, F|46/100 par
+|-damage|p2a: Ferrothorn|39/100 par|[from] Stealth Rock
+|move|p1a: Feed Me Clothes!|Volt Switch|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|26/100 par
+|
+|t:|1641788241
+|switch|p1a: Start Praying|Lurantis, F|72/100|[from]move: Volt Switch
+|-damage|p1a: Start Praying|55/100|[from] Spikes
+|
+|-heal|p2a: Ferrothorn|82/100 par|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Ferrothorn|89/100 par|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641788256
+|move|p1a: Start Praying|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|46/100 par
+|-boost|p1a: Start Praying|atk|1
+|-boost|p1a: Start Praying|def|1
+|-damage|p1a: Start Praying|43/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|cant|p2a: Ferrothorn|par
+|
+|-heal|p2a: Ferrothorn|52/100 par|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641788267
+|move|p1a: Start Praying|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-boost|p1a: Start Praying|atk|1
+|-boost|p1a: Start Praying|def|1
+|-damage|p1a: Start Praying|30/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|-message|Hd70 forfeited.
+|
+|win|HaxzyG
+|raw|HaxzyG's rating: 1401 &rarr; <strong>1420</strong><br />(+19 for winning)
+|raw|Hd70's rating: 1387 &rarr; <strong>1368</strong><br />(-19 for losing)
+|l|☆Hd70

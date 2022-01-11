@@ -1,0 +1,355 @@
+|j|☆Megadeep
+|j|☆buyeth
+|t:|1641880840
+|gametype|singles
+|player|p1|Megadeep|brock|1411
+|player|p2|buyeth|265|1605
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Swampert, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Gardevoir, M|
+|poke|p1|Metagross|
+|poke|p1|Pelipper, M|
+|poke|p1|Ludicolo, M|
+|poke|p2|Melmetal|
+|poke|p2|Pelipper, M|
+|poke|p2|Volcanion|
+|poke|p2|Seismitoad, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Barraskewda, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by buyeth)
+|
+|t:|1641880859
+|start
+|switch|p1a: Swampert|Swampert, M|100/100
+|switch|p2a: Globox|Seismitoad, M, shiny|100/100
+|turn|1
+|
+|t:|1641880871
+|move|p2a: Globox|Grass Knot|p1a: Swampert
+|-supereffective|p1a: Swampert
+|-damage|p1a: Swampert|16/100
+|-damage|p2a: Globox|91/100|[from] item: Life Orb
+|move|p1a: Swampert|Stealth Rock|p2a: Globox
+|-sidestart|p2: buyeth|move: Stealth Rock
+|
+|-heal|p1a: Swampert|22/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641880884
+|switch|p1a: Metagross|Metagross|100/100
+|move|p2a: Globox|Stealth Rock|p1a: Metagross
+|-sidestart|p1: Megadeep|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641880894
+|move|p2a: Globox|Earth Power|p1a: Metagross
+|-supereffective|p1a: Metagross
+|-damage|p1a: Metagross|0 fnt
+|faint|p1a: Metagross
+|-damage|p2a: Globox|81/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|Megadeep has 120 seconds left.
+|c|☆buyeth|i like rse too
+|l|☆Megadeep
+|inactive|Megadeep disconnected and has a minute to reconnect!
+|player|p1|
+|j|☆Megadeep
+|inactive|Megadeep reconnected and has 70 seconds left.
+|player|p1|Megadeep|brock
+|
+|t:|1641880978
+|switch|p1a: Gardevoir|Gardevoir, M, shiny|100/100
+|-damage|p1a: Gardevoir|88/100|[from] Stealth Rock
+|-ability|p1a: Gardevoir|Swift Swim|[from] ability: Trace|[of] p2a: Globox
+|turn|4
+|inactive|buyeth has 120 seconds left.
+|
+|t:|1641881008
+|switch|p2a: Messenger|Pelipper, M, shiny|100/100
+|-damage|p2a: Messenger|76/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Messenger
+|move|p1a: Gardevoir|Psyshock|p2a: Messenger
+|-damage|p2a: Messenger|45/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Gardevoir|94/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641881021
+|move|p1a: Gardevoir|Psyshock|p2a: Messenger
+|-damage|p2a: Messenger|13/100
+|move|p2a: Messenger|U-turn|p1a: Gardevoir
+|-damage|p1a: Gardevoir|79/100
+|inactive|buyeth has 120 seconds left.
+|
+|t:|1641881034
+|switch|p2a: King VIG|Volcanion|100/100|[from]move: U-turn
+|-damage|p2a: King VIG|76/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Gardevoir|85/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641881042
+|move|p1a: Gardevoir|Mystical Fire|p2a: King VIG
+|-resisted|p2a: King VIG
+|-damage|p2a: King VIG|72/100
+|-unboost|p2a: King VIG|spa|1
+|move|p2a: King VIG|Steam Eruption|p1a: Gardevoir
+|-crit|p1a: Gardevoir
+|-damage|p1a: Gardevoir|0 fnt
+|faint|p1a: Gardevoir
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641881055
+|switch|p1a: Ludicolo|Ludicolo, M|100/100
+|-damage|p1a: Ludicolo|88/100|[from] Stealth Rock
+|turn|7
+|
+|t:|1641881064
+|move|p1a: Ludicolo|Giga Drain|p2a: King VIG
+|-damage|p2a: King VIG|13/100
+|-heal|p1a: Ludicolo|100/100|[from] drain|[of] p2a: King VIG
+|-damage|p1a: Ludicolo|91/100|[from] item: Life Orb
+|move|p2a: King VIG|Steam Eruption|p1a: Ludicolo
+|-resisted|p1a: Ludicolo
+|-damage|p1a: Ludicolo|65/100
+|-status|p1a: Ludicolo|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ludicolo|59/100 brn|[from] brn
+|upkeep
+|turn|8
+|inactive|Megadeep has 90 seconds left.
+|
+|t:|1641881077
+|switch|p2a: Leviathan|Dragonite, M, shiny|100/100
+|move|p1a: Ludicolo|Giga Drain|p2a: Leviathan
+|-resisted|p2a: Leviathan
+|-damage|p2a: Leviathan|95/100
+|-heal|p1a: Ludicolo|63/100 brn|[from] drain|[of] p2a: Leviathan
+|-damage|p1a: Ludicolo|53/100 brn|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ludicolo|47/100 brn|[from] brn
+|upkeep
+|turn|9
+|inactive|Megadeep has 90 seconds left.
+|
+|t:|1641881088
+|move|p1a: Ludicolo|Ice Beam|p2a: Leviathan
+|-supereffective|p2a: Leviathan
+|-damage|p2a: Leviathan|0 fnt
+|faint|p2a: Leviathan
+|-damage|p1a: Ludicolo|37/100 brn|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Ludicolo|31/100 brn|[from] brn
+|upkeep
+|
+|t:|1641881096
+|switch|p2a: Predator|Barraskewda, M, shiny|100/100
+|-damage|p2a: Predator|88/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641881105
+|move|p2a: Predator|Close Combat|p1a: Ludicolo
+|-damage|p1a: Ludicolo|0 fnt
+|-unboost|p2a: Predator|def|1
+|-unboost|p2a: Predator|spd|1
+|faint|p1a: Ludicolo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641881116
+|switch|p1a: Pelipper|Pelipper, M, shiny|100/100
+|-damage|p1a: Pelipper|76/100|[from] Stealth Rock
+|turn|11
+|
+|t:|1641881124
+|switch|p2a: King VIG|Volcanion|13/100
+|-damage|p2a: King VIG|0 fnt|[from] Stealth Rock
+|faint|p2a: King VIG
+|move|p1a: Pelipper|Defog|p2: King VIG|[notarget]
+|-fail|p1a: Pelipper
+|
+|-weather|none
+|upkeep
+|
+|t:|1641881151
+|switch|p2a: Fate|Melmetal, shiny|100/100
+|-damage|p2a: Fate|94/100|[from] Stealth Rock
+|turn|12
+|
+|t:|1641881155
+|move|p1a: Pelipper|Defog|p2a: Fate
+|-unboost|p2a: Fate|evasion|1
+|-sideend|p2: buyeth|Stealth Rock|[from] move: Defog|[of] p1a: Pelipper
+|-sideend|p1: Megadeep|Stealth Rock|[from] move: Defog|[of] p1a: Pelipper
+|move|p2a: Fate|Ice Punch|p1a: Pelipper
+|-damage|p1a: Pelipper|24/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641881163
+|switch|p1a: Swampert|Swampert, M|22/100
+|move|p2a: Fate|Double Iron Bash|p1a: Swampert
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|3/100
+|-resisted|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|-hitcount|p1: Swampert|2
+|
+|upkeep
+|
+|t:|1641881173
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|turn|14
+|
+|t:|1641881176
+|switch|p2a: Messenger|Pelipper, M, shiny|13/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Messenger
+|move|p1a: Blaziken|Protect||[still]
+|-fail|p1a: Blaziken
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|15
+|
+|t:|1641881187
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Messenger|Scald|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|16
+|inactive|Megadeep has 120 seconds left.
+|
+|t:|1641881225
+|switch|p1a: Pelipper|Pelipper, M, shiny|24/100
+|move|p2a: Messenger|Scald|p1a: Pelipper
+|-resisted|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641881235
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|turn|17
+|
+|t:|1641881238
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Messenger|Scald|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|18
+|
+|t:|1641881248
+|move|p1a: Blaziken|Swords Dance|p1a: Blaziken
+|-boost|p1a: Blaziken|atk|2
+|move|p2a: Messenger|Scald|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-enditem|p1a: Blaziken|Focus Sash
+|-damage|p1a: Blaziken|1/100
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|19
+|inactive|Megadeep has 120 seconds left.
+|
+|t:|1641881267
+|move|p1a: Blaziken|Reversal|p2a: Messenger
+|-resisted|p2a: Messenger
+|-damage|p2a: Messenger|0 fnt
+|faint|p2a: Messenger
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641881276
+|switch|p2a: Predator|Barraskewda, M, shiny|88/100
+|turn|20
+|
+|t:|1641881279
+|move|p1a: Blaziken|Protect|p1a: Blaziken
+|-singleturn|p1a: Blaziken|Protect
+|move|p2a: Predator|Liquidation|p1a: Blaziken
+|-activate|p1a: Blaziken|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|turn|21
+|
+|t:|1641881290
+|move|p1a: Blaziken|Reversal|p2a: Predator
+|-damage|p2a: Predator|0 fnt
+|faint|p2a: Predator
+|
+|-weather|none
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641881299
+|switch|p2a: Globox|Seismitoad, M, shiny|81/100
+|turn|22
+|c|☆Megadeep|Gg
+|
+|t:|1641881306
+|move|p1a: Blaziken|Reversal|p2a: Globox
+|-damage|p2a: Globox|0 fnt
+|faint|p2a: Globox
+|
+|-ability|p1a: Blaziken|Speed Boost|boost
+|-boost|p1a: Blaziken|spe|1
+|upkeep
+|-message|buyeth forfeited.
+|
+|win|Megadeep
+|raw|Megadeep's rating: 1411 &rarr; <strong>1441</strong><br />(+30 for winning)
+|raw|buyeth's rating: 1605 &rarr; <strong>1575</strong><br />(-30 for losing)
+|l|☆buyeth

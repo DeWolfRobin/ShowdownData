@@ -1,0 +1,410 @@
+|j|☆Yokaisummoner
+|j|☆Mewwin
+|t:|1641796528
+|gametype|singles
+|player|p1|Yokaisummoner|galacticgruntf|1177
+|player|p2|Mewwin|1|1211
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Ninetales-Alola, F|
+|poke|p1|Toxapex, F|
+|poke|p1|Dragapult, F|
+|poke|p1|Mienshao, M|
+|poke|p1|Volcarona, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Excadrill, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Metagross|
+|poke|p2|Salamence, M|
+|poke|p2|Rotom-Wash|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Mewwin)
+|
+|t:|1641796534
+|start
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|inactive|Mewwin has 120 seconds left.
+|
+|t:|1641796570
+|switch|p2a: Metagross|Metagross, shiny|100/100
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Volcarona|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|inactive|Mewwin has 120 seconds left.
+|
+|t:|1641796595
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Volcarona|88/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641796603
+|move|p1a: Volcarona|Bug Buzz|p2a: Garchomp
+|-damage|p2a: Garchomp|12/100
+|-unboost|p2a: Garchomp|spd|1
+|move|p2a: Garchomp|Earthquake|p1a: Volcarona
+|-damage|p1a: Volcarona|5/100
+|-enditem|p1a: Volcarona|Sitrus Berry|[eat]
+|-heal|p1a: Volcarona|30/100|[from] item: Sitrus Berry
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Volcarona|24/100|[from] Sandstorm
+|upkeep
+|turn|4
+|
+|t:|1641796615
+|move|p1a: Volcarona|Fiery Dance|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Garchomp
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Volcarona|18/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641796640
+|switch|p2a: Metagross|Metagross, shiny|100/100
+|turn|5
+|
+|t:|1641796642
+|move|p2a: Metagross|Bullet Punch|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-crit|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641796649
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|6
+|
+|t:|1641796656
+|move|p2a: Metagross|Bullet Punch|p1a: Dragapult
+|-damage|p1a: Dragapult|71/100
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|65/100|[from] Sandstorm
+|upkeep
+|turn|7
+|inactive|Mewwin has 120 seconds left.
+|
+|t:|1641796666
+|move|p2a: Metagross|Bullet Punch|p1a: Dragapult|[miss]
+|-miss|p2a: Metagross|p1a: Dragapult
+|move|p1a: Dragapult|Phantom Force|p2a: Metagross|[from]lockedmove
+|-supereffective|p2a: Metagross
+|-damage|p2a: Metagross|22/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|59/100|[from] Sandstorm
+|-heal|p2a: Metagross|28/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|inactive|Mewwin has 120 seconds left.
+|
+|t:|1641796677
+|move|p2a: Metagross|Bullet Punch|p1a: Dragapult
+|-damage|p1a: Dragapult|29/100
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|
+|-weather|none
+|-heal|p2a: Metagross|34/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641796683
+|move|p1a: Dragapult|Phantom Force|p2a: Metagross|[from]lockedmove
+|-supereffective|p2a: Metagross
+|-damage|p2a: Metagross|0 fnt
+|faint|p2a: Metagross
+|
+|upkeep
+|
+|t:|1641796687
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|10
+|
+|t:|1641796696
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Hippowdon|Stealth Rock|p1a: Dragapult
+|-sidestart|p1: Yokaisummoner|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Dragapult|23/100|[from] Sandstorm
+|upkeep
+|turn|11
+|
+|t:|1641796707
+|move|p1a: Dragapult|Phantom Force|p2a: Hippowdon|[from]lockedmove
+|-damage|p2a: Hippowdon|70/100
+|move|p2a: Hippowdon|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641796716
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|100/100
+|-damage|p1a: Ninetales|76/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|12
+|
+|t:|1641796729
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|move|p1a: Ninetales|Hypnosis|p2a: Rotom|[miss]
+|-miss|p1a: Ninetales|p2a: Rotom
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Rotom|94/100|[from] Hail
+|upkeep
+|turn|13
+|
+|t:|1641796740
+|move|p1a: Ninetales|Freeze-Dry|p2a: Rotom
+|-supereffective|p2a: Rotom
+|-crit|p2a: Rotom
+|-damage|p2a: Rotom|0 fnt
+|faint|p2a: Rotom
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641796746
+|switch|p2a: Hippowdon|Hippowdon, M|70/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|14
+|
+|t:|1641796752
+|switch|p1a: Blissey|Blissey, F|100/100
+|-damage|p1a: Blissey|88/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Yawn|p1a: Blissey
+|-start|p1a: Blissey|move: Yawn|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|82/100|[from] Sandstorm
+|-heal|p1a: Blissey|88/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641796761
+|move|p1a: Blissey|Aromatherapy||[still]
+|-activate|p1a: Blissey|move: Aromatherapy
+|-fail|p1a: Blissey
+|move|p2a: Hippowdon|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|42/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Blissey|36/100|[from] Sandstorm
+|-heal|p1a: Blissey|42/100|[from] item: Leftovers
+|-end|p1a: Blissey|move: Yawn|[silent]
+|-status|p1a: Blissey|slp
+|upkeep
+|turn|16
+|
+|t:|1641796776
+|-curestatus|p1a: Blissey|slp|[from] ability: Natural Cure
+|switch|p1a: Toxapex|Toxapex, F|100/100
+|-damage|p1a: Toxapex|88/100|[from] Stealth Rock
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|82/100|[from] Sandstorm
+|-heal|p1a: Toxapex|88/100|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|t:|1641796789
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Excadrill|Iron Head|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|82/100|[from] Sandstorm
+|-heal|p1a: Toxapex|88/100|[from] item: Black Sludge
+|upkeep
+|turn|18
+|
+|t:|1641796798
+|move|p2a: Excadrill|Iron Head|p1a: Toxapex
+|-resisted|p1a: Toxapex
+|-damage|p1a: Toxapex|71/100
+|-damage|p2a: Excadrill|91/100|[from] item: Life Orb
+|move|p1a: Toxapex|Scald|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|57/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|64/100|[from] Sandstorm
+|-heal|p1a: Toxapex|71/100|[from] item: Black Sludge
+|upkeep
+|turn|19
+|
+|t:|1641796813
+|move|p2a: Excadrill|Swords Dance|p2a: Excadrill
+|-boost|p2a: Excadrill|atk|2
+|move|p1a: Toxapex|Scald|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|21/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|64/100|[from] Sandstorm
+|-heal|p1a: Toxapex|71/100|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|t:|1641796822
+|move|p1a: Toxapex|Baneful Bunker|p1a: Toxapex
+|-singleturn|p1a: Toxapex|move: Protect
+|move|p2a: Excadrill|Iron Head|p1a: Toxapex
+|-activate|p1a: Toxapex|move: Protect
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Toxapex|64/100|[from] Sandstorm
+|-heal|p1a: Toxapex|71/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1641796833
+|move|p2a: Excadrill|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-crit|p1a: Toxapex
+|-damage|p1a: Toxapex|0 fnt
+|faint|p1a: Toxapex
+|-damage|p2a: Excadrill|11/100|[from] item: Life Orb
+|
+|-weather|none
+|upkeep
+|
+|t:|1641796839
+|switch|p1a: Mienshao|Mienshao, M|100/100
+|-damage|p1a: Mienshao|95/100|[from] Stealth Rock
+|turn|22
+|
+|t:|1641796845
+|switch|p2a: Hippowdon|Hippowdon, M|70/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Mienshao|Fake Out|p2a: Hippowdon
+|-damage|p2a: Hippowdon|60/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mienshao|89/100|[from] Sandstorm
+|upkeep
+|turn|23
+|
+|t:|1641796854
+|move|p1a: Mienshao|Drain Punch|p2a: Hippowdon
+|-damage|p2a: Hippowdon|31/100
+|-heal|p1a: Mienshao|100/100|[from] drain|[of] p2a: Hippowdon
+|move|p2a: Hippowdon|Yawn|p1a: Mienshao
+|-start|p1a: Mienshao|move: Yawn|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Mienshao|95/100|[from] Sandstorm
+|upkeep
+|turn|24
+|
+|t:|1641796874
+|switch|p1a: Blissey|Blissey, F|42/100
+|-damage|p1a: Blissey|29/100|[from] Stealth Rock
+|move|p2a: Hippowdon|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641796884
+|switch|p1a: Ninetales|Ninetales-Alola, F, shiny|76/100
+|-damage|p1a: Ninetales|51/100|[from] Stealth Rock
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|25
+|
+|t:|1641796897
+|switch|p2a: Salamence|Salamence, M|100/100
+|-ability|p2a: Salamence|Intimidate|boost
+|-unboost|p1a: Ninetales|atk|1
+|move|p1a: Ninetales|Freeze-Dry|p2a: Salamence
+|-supereffective|p2a: Salamence
+|-damage|p2a: Salamence|0 fnt
+|faint|p2a: Salamence
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641796900
+|switch|p2a: Hippowdon|Hippowdon, M|31/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|26
+|
+|t:|1641796909
+|move|p1a: Ninetales|Freeze-Dry|p2a: Hippowdon
+|-supereffective|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ninetales|45/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641796912
+|switch|p2a: Excadrill|Excadrill, M|11/100
+|turn|27
+|
+|t:|1641796918
+|move|p2a: Excadrill|Brick Break|p1a: Ninetales
+|-damage|p1a: Ninetales|0 fnt
+|faint|p1a: Ninetales
+|-damage|p2a: Excadrill|1/100|[from] item: Life Orb
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641796924
+|switch|p1a: Mienshao|Mienshao, M|100/100
+|-damage|p1a: Mienshao|95/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641796928
+|move|p1a: Mienshao|Fake Out|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|win|Yokaisummoner
+|raw|Yokaisummoner's rating: 1177 &rarr; <strong>1204</strong><br />(+27 for winning)
+|raw|Mewwin's rating: 1211 &rarr; <strong>1184</strong><br />(-27 for losing)
+|l|☆Mewwin

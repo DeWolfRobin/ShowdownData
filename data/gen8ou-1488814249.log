@@ -1,0 +1,180 @@
+|j|☆NullYT
+|j|☆SojoBoy
+|t:|1641824990
+|gametype|singles
+|player|p1|NullYT|red|
+|player|p2|SojoBoy|102|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blacephalon|
+|poke|p1|Melmetal|
+|poke|p1|Dragapult, F|
+|poke|p1|Clefable, M|
+|poke|p1|Zapdos|
+|poke|p1|Heatran, M|
+|poke|p2|Salazzle, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Moltres-Galar|
+|poke|p2|Gardevoir, F|
+|poke|p2|Arctozolt|
+|poke|p2|Decidueye, F|
+|teampreview
+|c|☆SojoBoy|hehehe
+|c|☆SojoBoy|imma lose
+|c|☆NullYT|Me too
+|
+|t:|1641825007
+|start
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|switch|p2a: Gardevoir|Gardevoir, F|100/100
+|turn|1
+|c|☆NullYT|Hello?
+|
+|t:|1641825046
+|switch|p2a: Decidueye|Decidueye, F|100/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: Decidueye
+|-supereffective|p2a: Decidueye
+|-damage|p2a: Decidueye|0 fnt
+|faint|p2a: Decidueye
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|c|☆SojoBoy|mb
+|c|☆SojoBoy|ummm
+|
+|t:|1641825075
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|turn|2
+|
+|t:|1641825085
+|move|p1a: Blacephalon|Shadow Ball|p2a: Arctozolt
+|-damage|p2a: Arctozolt|0 fnt
+|faint|p2a: Arctozolt
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|c|☆SojoBoy|ok
+|
+|t:|1641825097
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|3
+|
+|t:|1641825126
+|move|p1a: Blacephalon|Shadow Ball|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641825142
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|4
+|
+|t:|1641825146
+|move|p2a: Moltres|Sucker Punch|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|11/100
+|move|p1a: Blacephalon|Shadow Ball|p2a: Moltres
+|-resisted|p2a: Moltres
+|-damage|p2a: Moltres|22/100
+|-unboost|p2a: Moltres|spd|1
+|-ability|p2a: Moltres|Berserk|boost
+|-boost|p2a: Moltres|spa|1
+|-enditem|p2a: Moltres|Aguav Berry|[eat]
+|-heal|p2a: Moltres|54/100|[from] item: Aguav Berry
+|
+|upkeep
+|turn|5
+|
+|t:|1641825156
+|move|p2a: Moltres|Sucker Punch|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|upkeep
+|
+|t:|1641825159
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|6
+|c|☆SojoBoy|finally
+|c|☆SojoBoy|im taking the blace setup
+|
+|t:|1641825182
+|move|p2a: Moltres|Sucker Punch|p1a: Zapdos
+|-damage|p1a: Zapdos|78/100
+|move|p1a: Zapdos|Thunderbolt|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|-heal|p1a: Zapdos|84/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641825191
+|switch|p2a: Salazzle|Salazzle, F|100/100
+|turn|7
+|
+|t:|1641825195
+|move|p1a: Zapdos|Thunderbolt|p2a: Salazzle
+|-damage|p2a: Salazzle|11/100
+|-enditem|p2a: Salazzle|Aguav Berry|[eat]
+|-heal|p2a: Salazzle|43/100|[from] item: Aguav Berry
+|move|p2a: Salazzle|Dragon Tail|p1a: Zapdos
+|-damage|p1a: Zapdos|68/100
+|-status|p2a: Salazzle|par|[from] ability: Static|[of] p1a: Zapdos
+|drag|p1a: Melmetal|Melmetal|100/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641825232
+|move|p2a: Salazzle|Fire Lash|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|72/100
+|-unboost|p1a: Melmetal|def|1
+|move|p1a: Melmetal|Earthquake|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-damage|p2a: Salazzle|0 fnt
+|faint|p2a: Salazzle
+|
+|upkeep
+|
+|t:|1641825241
+|switch|p2a: Gardevoir|Gardevoir, F|100/100
+|turn|9
+|c|☆NullYT|Are you gonna copy my entire team?
+|c|☆SojoBoy|nope just blace
+|
+|t:|1641825258
+|move|p2a: Gardevoir|Thunder Wave|p1a: Melmetal
+|-status|p1a: Melmetal|par
+|move|p1a: Melmetal|Double Iron Bash|p2a: Gardevoir
+|-supereffective|p2a: Gardevoir
+|-damage|p2a: Gardevoir|0 fnt
+|faint|p2a: Gardevoir
+|-hitcount|p2: Gardevoir|1
+|
+|win|NullYT
+|c|☆NullYT|gg
+|l|☆NullYT
+|c|☆SojoBoy|rematch?
+|l|☆SojoBoy
+|j|☆NullYT
+|player|p1|NullYT|red
+|j|☆SojoBoy
+|player|p2|SojoBoy|102

@@ -1,0 +1,123 @@
+|j|☆doctor susW
+|j|☆randomscheese
+|t:|1641771282
+|gametype|singles
+|player|p1|doctor susW|lucas|1106
+|player|p2|randomscheese|unknown|1102
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Mimikyu, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Miltank, F|
+|poke|p1|Zeraora|
+|poke|p1|Blastoise, M|
+|poke|p2|Latios, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Lairon, M|
+|poke|p2|Melmetal|
+|poke|p2|Spiritomb, F|
+|teampreview
+|
+|t:|1641771288
+|start
+|switch|p1a: Blastoise|Blastoise, M|100/100
+|switch|p2a: Spiritomb|Spiritomb, F|100/100
+|turn|1
+|
+|t:|1641771295
+|move|p1a: Blastoise|Hydro Pump|p2a: Spiritomb
+|-damage|p2a: Spiritomb|52/100
+|move|p2a: Spiritomb|Taunt|p1a: Blastoise
+|-start|p1a: Blastoise|move: Taunt
+|
+|upkeep
+|turn|2
+|
+|t:|1641771303
+|move|p1a: Blastoise|Hydro Pump|p2a: Spiritomb
+|-damage|p2a: Spiritomb|0 fnt
+|faint|p2a: Spiritomb
+|
+|upkeep
+|
+|t:|1641771312
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Blastoise|atk|1
+|turn|3
+|
+|t:|1641771317
+|move|p2a: Landorus|Substitute|p2a: Landorus
+|-start|p2a: Landorus|Substitute
+|-damage|p2a: Landorus|76/100
+|move|p1a: Blastoise|Hydro Pump|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-end|p2a: Landorus|Substitute
+|
+|upkeep
+|turn|4
+|
+|t:|1641771323
+|move|p2a: Landorus|Substitute|p2a: Landorus
+|-start|p2a: Landorus|Substitute
+|-damage|p2a: Landorus|51/100
+|move|p1a: Blastoise|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-end|p2a: Landorus|Substitute
+|
+|-end|p1a: Blastoise|move: Taunt
+|upkeep
+|turn|5
+|
+|t:|1641771333
+|move|p2a: Landorus|Substitute|p2a: Landorus
+|-start|p2a: Landorus|Substitute
+|-damage|p2a: Landorus|26/100
+|move|p1a: Blastoise|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-end|p2a: Landorus|Substitute
+|
+|upkeep
+|turn|6
+|
+|t:|1641771340
+|move|p2a: Landorus|Substitute|p2a: Landorus
+|-start|p2a: Landorus|Substitute
+|-damage|p2a: Landorus|1/100
+|-enditem|p2a: Landorus|Petaya Berry|[eat]
+|-boost|p2a: Landorus|spa|1|[from] item: Petaya Berry
+|move|p1a: Blastoise|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-end|p2a: Landorus|Substitute
+|
+|upkeep
+|turn|7
+|
+|t:|1641771349
+|move|p2a: Landorus|Sludge Bomb|p1a: Blastoise
+|-damage|p1a: Blastoise|61/100
+|move|p1a: Blastoise|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|-message|randomscheese forfeited.
+|
+|win|doctor susW
+|raw|doctor susW's rating: 1106 &rarr; <strong>1131</strong><br />(+25 for winning)
+|raw|randomscheese's rating: 1102 &rarr; <strong>1077</strong><br />(-25 for losing)
+|l|☆randomscheese

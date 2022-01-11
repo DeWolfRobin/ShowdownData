@@ -1,0 +1,460 @@
+|j|☆Xtrainer22
+|j|☆Dionys09
+|t:|1641730154
+|gametype|singles
+|player|p1|Xtrainer22|lass-gen4dp|1334
+|player|p2|Dionys09|az|1394
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Tapu Fini|
+|poke|p1|Celesteela|
+|poke|p1|Garchomp, F|
+|poke|p1|Hawlucha, F|
+|poke|p1|Kartana|
+|poke|p2|Tapu Lele|
+|poke|p2|Dragapult, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Weavile, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Heatran, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Dionys09)
+|inactive|Dionys09 has 120 seconds left.
+|
+|t:|1641730186
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|1
+|
+|t:|1641730193
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Weavile|Knock Off|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|80/100
+|-enditem|p1a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p2a: Weavile
+|
+|upkeep
+|turn|2
+|
+|t:|1641730211
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Tapu Fini|Scald|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|72/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641730227
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Tapu Fini|Moonblast|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|95/100
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641730243
+|move|p1a: Tapu Fini|Taunt|p2a: Heatran
+|-start|p2a: Heatran|move: Taunt
+|cant|p2a: Heatran|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|5
+|
+|t:|1641730252
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Tapu Fini|Scald|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|90/100
+|
+|-heal|p2a: Tapu Fini|96/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641730258
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|72/100
+|move|p2a: Tapu Fini|Taunt|p1a: Tapu Fini
+|-start|p1a: Tapu Fini|move: Taunt
+|
+|-heal|p2a: Tapu Fini|78/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641730263
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|55/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-heal|p2a: Tapu Fini|61/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641730273
+|switch|p1a: Kartana|Kartana|100/100
+|move|p2a: Tapu Fini|Scald|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|40/100
+|
+|-heal|p2a: Tapu Fini|67/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641730290
+|switch|p2a: Heatran|Heatran, M|100/100
+|move|p1a: Kartana|Sacred Sword|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|30/100
+|
+|-heal|p2a: Heatran|36/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|10
+|
+|t:|1641730299
+|switch|p1a: Tapu Fini|Tapu Fini|80/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Fini|atk|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641730306
+|move|p1a: Tapu Fini|Scald|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|60/100
+|move|p2a: Landorus|U-turn|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|70/100
+|
+|t:|1641730316
+|switch|p2a: Tapu Lele|Tapu Lele|72/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|upkeep
+|turn|12
+|
+|t:|1641730323
+|switch|p1a: Celesteela|Celesteela|100/100
+|move|p2a: Tapu Lele|Psychic|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|68/100
+|
+|-heal|p1a: Celesteela|74/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641730344
+|switch|p2a: Heatran|Heatran, M|36/100
+|move|p1a: Celesteela|Leech Seed|p2a: Heatran
+|-start|p2a: Heatran|move: Leech Seed
+|
+|-heal|p2a: Heatran|42/100|[from] item: Leftovers
+|-heal|p1a: Celesteela|80/100|[from] item: Leftovers
+|-damage|p2a: Heatran|30/100|[from] Leech Seed|[of] p1a: Celesteela
+|-heal|p1a: Celesteela|92/100|[silent]
+|upkeep
+|turn|14
+|
+|t:|1641730354
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Heatran|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: Xtrainer22|move: Stealth Rock
+|
+|-heal|p2a: Heatran|36/100|[from] item: Leftovers
+|-damage|p2a: Heatran|24/100|[from] Leech Seed|[of] p1a: Garchomp
+|upkeep
+|turn|15
+|
+|t:|1641730371
+|switch|p2a: Landorus|Landorus-Therian, M|60/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Dionys09|move: Stealth Rock
+|
+|-heal|p2a: Landorus|66/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|16
+|
+|t:|1641730382
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Landorus|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|55/100
+|
+|-heal|p2a: Landorus|72/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641730399
+|move|p1a: Garchomp|Stone Edge|p2a: Landorus|[miss]
+|-miss|p1a: Garchomp|p2a: Landorus
+|move|p2a: Landorus|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|10/100
+|
+|-heal|p2a: Landorus|78/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641730407
+|move|p1a: Garchomp|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|11/100
+|-damage|p1a: Garchomp|0 fnt|[from] item: Life Orb
+|faint|p1a: Garchomp
+|move|p2a: Landorus|Earthquake|p1: Garchomp|[notarget]
+|-fail|p2a: Landorus
+|
+|-heal|p2a: Landorus|18/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641730416
+|switch|p1a: Mew|Mew|100/100
+|-damage|p1a: Mew|88/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641730422
+|move|p1a: Mew|Spikes|p2a: Landorus
+|-sidestart|p2: Dionys09|Spikes
+|move|p2a: Landorus|Knock Off|p1a: Mew
+|-supereffective|p1a: Mew
+|-crit|p1a: Mew
+|-damage|p1a: Mew|0 fnt
+|-enditem|p1a: Mew|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|faint|p1a: Mew
+|
+|-heal|p2a: Landorus|24/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641730433
+|switch|p1a: Tapu Fini|Tapu Fini|70/100
+|-damage|p1a: Tapu Fini|58/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|20
+|inactive|Dionys09 has 120 seconds left.
+|inactive|Dionys09 has 90 seconds left.
+|
+|t:|1641730494
+|switch|p2a: Tapu Lele|Tapu Lele|72/100
+|-damage|p2a: Tapu Lele|60/100|[from] Spikes
+|-damage|p2a: Tapu Lele|47/100|[from] Stealth Rock
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Tapu Fini|Scald|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|17/100
+|-status|p2a: Tapu Lele|brn
+|
+|-damage|p2a: Tapu Lele|10/100 brn|[from] brn
+|upkeep
+|turn|21
+|inactive|Dionys09 has 90 seconds left.
+|
+|t:|1641730509
+|switch|p1a: Celesteela|Celesteela|92/100
+|-damage|p1a: Celesteela|80/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Psyshock|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|44/100
+|
+|-heal|p1a: Celesteela|50/100|[from] item: Leftovers
+|-damage|p2a: Tapu Lele|4/100 brn|[from] brn
+|upkeep
+|turn|22
+|inactive|Dionys09 has 90 seconds left.
+|
+|t:|1641730527
+|move|p2a: Tapu Lele|Psyshock|p1a: Celesteela
+|-resisted|p1a: Celesteela
+|-damage|p1a: Celesteela|11/100
+|move|p1a: Celesteela|Heavy Slam|p2a: Tapu Lele
+|-supereffective|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|-ability|p1a: Celesteela|Beast Boost|boost
+|-boost|p1a: Celesteela|spd|1
+|
+|-heal|p1a: Celesteela|17/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641730544
+|switch|p2a: Heatran|Heatran, M|24/100
+|-damage|p2a: Heatran|11/100|[from] Stealth Rock
+|-damage|p2a: Heatran|0 fnt|[from] Spikes
+|faint|p2a: Heatran
+|
+|t:|1641730553
+|switch|p2a: Landorus|Landorus-Therian, M|24/100
+|-damage|p2a: Landorus|11/100|[from] Stealth Rock
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Celesteela|atk|1
+|turn|23
+|
+|t:|1641730557
+|move|p1a: Celesteela|Protect|p1a: Celesteela
+|-singleturn|p1a: Celesteela|Protect
+|move|p2a: Landorus|Defog|p1a: Celesteela
+|-activate|p1a: Celesteela|move: Protect
+|
+|-heal|p2a: Landorus|17/100|[from] item: Leftovers
+|-heal|p1a: Celesteela|23/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|inactive|Dionys09 has 90 seconds left.
+|
+|t:|1641730569
+|move|p2a: Landorus|Defog|p1a: Celesteela
+|-unboost|p1a: Celesteela|evasion|1
+|-sideend|p1: Xtrainer22|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|-sideend|p2: Dionys09|Spikes|[from] move: Defog|[of] p2a: Landorus
+|-sideend|p2: Dionys09|Stealth Rock|[from] move: Defog|[of] p2a: Landorus
+|-fieldend|move: Psychic Terrain
+|move|p1a: Celesteela|Flamethrower|p2a: Landorus
+|-damage|p2a: Landorus|1/100
+|-status|p2a: Landorus|brn
+|
+|-heal|p2a: Landorus|7/100 brn|[from] item: Leftovers
+|-heal|p1a: Celesteela|29/100|[from] item: Leftovers
+|-damage|p2a: Landorus|1/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641730579
+|move|p2a: Landorus|Knock Off|p1a: Celesteela
+|-damage|p1a: Celesteela|17/100
+|-enditem|p1a: Celesteela|Leftovers|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Celesteela|Heavy Slam|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|-ability|p1a: Celesteela|Beast Boost|boost
+|-boost|p1a: Celesteela|spd|1
+|
+|upkeep
+|
+|t:|1641730586
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|26
+|
+|t:|1641730592
+|move|p2a: Weavile|Triple Axel|p1a: Celesteela
+|-damage|p1a: Celesteela|9/100
+|-damage|p1a: Celesteela|0 fnt
+|faint|p1a: Celesteela
+|-hitcount|p1: Celesteela|2
+|
+|upkeep
+|
+|t:|1641730596
+|switch|p1a: Tapu Fini|Tapu Fini|58/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|turn|27
+|
+|t:|1641730613
+|switch|p2a: Tapu Fini|Tapu Fini|67/100
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|42/100
+|
+|-heal|p2a: Tapu Fini|48/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641730633
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|23/100
+|-unboost|p2a: Tapu Fini|spa|1
+|move|p2a: Tapu Fini|Taunt|p1a: Tapu Fini
+|-start|p1a: Tapu Fini|move: Taunt
+|
+|-heal|p2a: Tapu Fini|29/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641730639
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|5/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-heal|p2a: Tapu Fini|11/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641730645
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641730650
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|31
+|
+|t:|1641730653
+|move|p2a: Dragapult|Shadow Ball|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|15/100
+|move|p1a: Tapu Fini|Moonblast|p2a: Dragapult
+|-supereffective|p2a: Dragapult
+|-damage|p2a: Dragapult|11/100
+|-unboost|p2a: Dragapult|spa|1
+|
+|-end|p1a: Tapu Fini|move: Taunt
+|-fieldend|Misty Terrain
+|upkeep
+|turn|32
+|
+|t:|1641730667
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|switch|p1a: Kartana|Kartana|40/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641730677
+|move|p1a: Kartana|Smart Strike|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|-ability|p1a: Kartana|Beast Boost|boost
+|-boost|p1a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641730681
+|switch|p2a: Dragapult|Dragapult, F|11/100
+|turn|34
+|c|☆Xtrainer22|GG
+|
+|t:|1641730690
+|move|p1a: Kartana|Smart Strike|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|win|Xtrainer22
+|raw|Xtrainer22's rating: 1334 &rarr; <strong>1357</strong><br />(+23 for winning)
+|raw|Dionys09's rating: 1394 &rarr; <strong>1371</strong><br />(-23 for losing)
+|l|☆Dionys09

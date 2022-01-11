@@ -1,0 +1,206 @@
+|j|☆3xpired
+|j|☆yepc
+|t:|1641780545
+|gametype|singles
+|player|p1|3xpired|dahlia|1767
+|player|p2|yepc|2|1590
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Pelipper, F|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Zapdos|
+|poke|p1|Seismitoad, F|
+|poke|p1|Tapu Koko|
+|poke|p1|Kingdra, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Tapu Koko|
+|poke|p2|Kartana|
+|poke|p2|Mew|
+|poke|p2|Volcarona, M|
+|poke|p2|Moltres-Galar|
+|teampreview
+|j| 4seulgi
+|j| Poliboiz
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yepc)
+|
+|t:|1641780555
+|start
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|switch|p2a: Mew|Mew|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|turn|1
+|c| Poliboiz|yo a rain team
+|
+|t:|1641780563
+|move|p2a: Mew|Stealth Rock|p1a: Pelipper
+|-sidestart|p1: 3xpired|move: Stealth Rock
+|move|p1a: Pelipper|U-turn|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|87/100
+|-enditem|p2a: Mew|Red Card|[of] p1a: Pelipper
+|drag|p1a: Kingdra|Kingdra, M|100/100
+|-damage|p1a: Kingdra|88/100|[from] Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641780571
+|move|p1a: Kingdra|Hydro Pump|p2a: Mew|[miss]
+|-miss|p1a: Kingdra|p2a: Mew
+|move|p2a: Mew|Spikes|p1a: Kingdra
+|-sidestart|p1: 3xpired|Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|3
+|
+|t:|1641780575
+|move|p1a: Kingdra|Hydro Pump|p2a: Mew|[miss]
+|-miss|p1a: Kingdra|p2a: Mew
+|move|p2a: Mew|Spikes|p1a: Kingdra
+|-sidestart|p1: 3xpired|Spikes
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|4
+|
+|t:|1641780577
+|move|p1a: Kingdra|Hydro Pump|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|c| Poliboiz|surf is better dude
+|
+|t:|1641780586
+|switch|p2a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|turn|5
+|j| Asb04
+|
+|t:|1641780609
+|move|p1a: Kingdra|Hydro Pump|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|0 fnt
+|faint|p2a: Tapu Koko
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641780617
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|turn|6
+|
+|t:|1641780623
+|move|p1a: Kingdra|Hydro Pump|p2a: Garchomp
+|-crit|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|l| 4seulgi
+|
+|t:|1641780630
+|switch|p2a: Kartana|Kartana|100/100
+|turn|7
+|
+|t:|1641780637
+|move|p1a: Kingdra|Hydro Pump|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641780641
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|turn|8
+|
+|t:|1641780646
+|move|p1a: Kingdra|Hydro Pump|p2a: Volcarona
+|-supereffective|p2a: Volcarona
+|-damage|p2a: Volcarona|0 fnt
+|faint|p2a: Volcarona
+|
+|-weather|none
+|upkeep
+|
+|t:|1641780649
+|switch|p2a: Moltres|Moltres-Galar|100/100
+|turn|9
+|
+|t:|1641780653
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-damage|p1a: Tapu Koko|84/100|[from] Spikes
+|-damage|p1a: Tapu Koko|71/100|[from] Stealth Rock
+|move|p2a: Moltres|Agility|p2a: Moltres
+|-boost|p2a: Moltres|spe|2
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|10
+|
+|t:|1641780659
+|move|p2a: Moltres|Nasty Plot|p2a: Moltres
+|-boost|p2a: Moltres|spa|2
+|move|p1a: Tapu Koko|Calm Mind|p1a: Tapu Koko
+|-boost|p1a: Tapu Koko|spa|1
+|-boost|p1a: Tapu Koko|spd|1
+|
+|upkeep
+|turn|11
+|
+|t:|1641780669
+|move|p2a: Moltres|Fiery Wrath|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|27/100
+|cant|p1a: Tapu Koko|flinch
+|
+|upkeep
+|turn|12
+|c| Poliboiz|oof
+|
+|t:|1641780678
+|switch|p1a: Pelipper|Pelipper, F|100/100
+|-damage|p1a: Pelipper|75/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Pelipper
+|move|p2a: Moltres|Fiery Wrath|p1a: Pelipper
+|-damage|p1a: Pelipper|0 fnt
+|faint|p1a: Pelipper
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641780682
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|13
+|
+|t:|1641780686
+|move|p2a: Moltres|Fiery Wrath|p1a: Zapdos
+|-damage|p1a: Zapdos|18/100
+|move|p1a: Zapdos|Thunder|p2a: Moltres
+|-supereffective|p2a: Moltres
+|-damage|p2a: Moltres|0 fnt
+|faint|p2a: Moltres
+|
+|win|3xpired
+|raw|3xpired's rating: 1767 &rarr; <strong>1778</strong><br />(+11 for winning)
+|raw|yepc's rating: 1590 &rarr; <strong>1579</strong><br />(-11 for losing)
+|l|☆yepc
+|c|☆3xpired|rain everyone
+|l| Asb04
+|c| Poliboiz|rain the op

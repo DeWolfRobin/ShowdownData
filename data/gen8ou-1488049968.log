@@ -1,0 +1,517 @@
+|j|☆Mikirae
+|j|☆PokemonFanboys
+|t:|1641702815
+|gametype|singles
+|player|p1|Mikirae|2|1572
+|player|p2|PokemonFanboys|nate|1524
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Corviknight, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Tapu Fini|
+|poke|p1|Dragapult, F|
+|poke|p2|Heatran, M|
+|poke|p2|Tangrowth, F|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Tapu Bulu|
+|poke|p2|Garchomp, M|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by PokemonFanboys)
+|
+|t:|1641702830
+|start
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|-ability|p2a: Zapdos|Pressure
+|turn|1
+|
+|t:|1641702836
+|move|p1a: Dragapult|Shadow Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|48/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|98/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|upkeep
+|turn|2
+|
+|t:|1641702839
+|move|p1a: Dragapult|Shadow Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|48/100
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|23/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641702841
+|move|p1a: Dragapult|Shadow Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|c|☆PokemonFanboys|oh wait
+|c|☆PokemonFanboys|im dumb
+|
+|t:|1641702848
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|4
+|c|☆Mikirae|Lmfao
+|c|☆Mikirae|It's okay I forgot about it the other day
+|
+|t:|1641702859
+|switch|p1a: TPPomp|Garchomp, F|100/100
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641702865
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Tangrowth|Swords Dance|p2a: Tangrowth
+|-boost|p2a: Tangrowth|atk|2
+|
+|upkeep
+|turn|6
+|c|☆Mikirae|Excuse me
+|
+|t:|1641702871
+|move|p2a: Tangrowth|Swords Dance|p2a: Tangrowth
+|-boost|p2a: Tangrowth|atk|2
+|move|p1a: Corviknight|U-turn|p2a: Tangrowth
+|-supereffective|p2a: Tangrowth
+|-damage|p2a: Tangrowth|78/100
+|c|☆PokemonFanboys|:)
+|
+|t:|1641702881
+|switch|p1a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|
+|upkeep
+|turn|7
+|
+|t:|1641702887
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Tapu Lele|Psychic|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|58/100
+|
+|-heal|p2a: Ferrothorn|64/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641702892
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Ferrothorn|Power Whip|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|89/100
+|
+|-heal|p1a: Heatran|95/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|71/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641702897
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: Heatran|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: PokemonFanboys|move: Stealth Rock
+|
+|-heal|p1a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641702902
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Garchomp|Flamethrower|p1a: Tapu Fini
+|-resisted|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|86/100
+|
+|-heal|p1a: Tapu Fini|92/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641702904
+|switch|p2a: Tangrowth|Tangrowth, F|100/100
+|-damage|p2a: Tangrowth|88/100|[from] Stealth Rock
+|move|p1a: Tapu Fini|Moonblast|p2a: Tangrowth
+|-damage|p2a: Tangrowth|39/100
+|
+|-heal|p1a: Tapu Fini|98/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641702908
+|move|p1a: Tapu Fini|Moonblast|p2a: Tangrowth
+|-damage|p2a: Tangrowth|0 fnt
+|faint|p2a: Tangrowth
+|
+|-heal|p1a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641702910
+|switch|p2a: Tapu Bulu|Tapu Bulu|100/100
+|-damage|p2a: Tapu Bulu|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|turn|13
+|
+|t:|1641702915
+|switch|p2a: Heatran|Heatran, M|100/100
+|-damage|p2a: Heatran|88/100|[from] Stealth Rock
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|
+|-heal|p2a: Heatran|94/100|[from] Grassy Terrain
+|upkeep
+|turn|14
+|
+|t:|1641702918
+|switch|p2a: Ferrothorn|Ferrothorn, F|71/100
+|-damage|p2a: Ferrothorn|64/100|[from] Stealth Rock
+|switch|p1a: TPPomp|Garchomp, F|100/100
+|
+|-heal|p2a: Ferrothorn|71/100|[from] Grassy Terrain
+|-heal|p2a: Ferrothorn|77/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641702923
+|move|p1a: TPPomp|Swords Dance|p1a: TPPomp
+|-boost|p1a: TPPomp|atk|2
+|move|p2a: Ferrothorn|Swords Dance|p2a: Ferrothorn
+|-boost|p2a: Ferrothorn|atk|2
+|
+|-heal|p2a: Ferrothorn|83/100|[from] Grassy Terrain
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641702926
+|move|p1a: TPPomp|Fire Fang|p2a: Ferrothorn|[miss]
+|-miss|p1a: TPPomp|p2a: Ferrothorn
+|move|p2a: Ferrothorn|Power Whip|p1a: TPPomp
+|-damage|p1a: TPPomp|0 fnt
+|-damage|p2a: Ferrothorn|77/100|[from] ability: Rough Skin|[of] p1a: TPPomp
+|faint|p1a: TPPomp
+|
+|-heal|p2a: Ferrothorn|83/100|[from] Grassy Terrain
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|upkeep
+|c|☆PokemonFanboys|mb
+|c|☆Mikirae|:(
+|c|☆PokemonFanboys|but i think i lose anyway
+|c|☆PokemonFanboys|cuz all my sets are this bad LOL
+|c|☆Mikirae|LMFAO
+|c|☆Mikirae|I respect it tbh
+|c|☆PokemonFanboys|im just meming on the ladder for fun
+|
+|t:|1641702948
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|17
+|
+|t:|1641702953
+|switch|p2a: Heatran|Heatran, M|94/100
+|-damage|p2a: Heatran|82/100|[from] Stealth Rock
+|move|p1a: Heatran|Earth Power|p2a: Heatran
+|-supereffective|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|
+|-fieldend|move: Grassy Terrain
+|upkeep
+|c|☆Mikirae|I can tell dw
+|
+|t:|1641702959
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|turn|18
+|c|☆Mikirae|SD ferro lol
+|c|☆PokemonFanboys|:)
+|
+|t:|1641702965
+|switch|p2a: Ferrothorn|Ferrothorn, F|89/100
+|-damage|p2a: Ferrothorn|83/100|[from] Stealth Rock
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|
+|-heal|p2a: Ferrothorn|89/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641702973
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Ferrothorn|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|75/100
+|-enditem|p1a: Heatran|Leftovers|[from] move: Knock Off|[of] p2a: Ferrothorn
+|
+|-heal|p2a: Ferrothorn|96/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641702977
+|switch|p2a: Garchomp|Garchomp, M|94/100
+|-damage|p2a: Garchomp|88/100|[from] Stealth Rock
+|move|p1a: Heatran|Magma Storm|p2a: Garchomp
+|-resisted|p2a: Garchomp
+|-damage|p2a: Garchomp|65/100
+|-activate|p2a: Garchomp|move: Magma Storm|[of] p1a: Heatran
+|
+|-damage|p2a: Garchomp|53/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|21
+|c|☆Mikirae|Is this like Specs Garchomp
+|
+|t:|1641702990
+|switch|p1a: Corviknight|Corviknight, M|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Garchomp|Flamethrower|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|47/100
+|
+|-heal|p1a: Corviknight|53/100|[from] item: Leftovers
+|-end|p2a: Garchomp|Magma Storm|[partiallytrapped]|[silent]
+|upkeep
+|turn|22
+|
+|t:|1641702997
+|switch|p2a: Ferrothorn|Ferrothorn, F|96/100
+|-damage|p2a: Ferrothorn|89/100|[from] Stealth Rock
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|
+|-heal|p2a: Ferrothorn|96/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641703001
+|switch|p1a: Heatran|Heatran, F|75/100
+|move|p2a: Ferrothorn|Bulldoze|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|9/100
+|-unboost|p1a: Heatran|spe|1
+|
+|-heal|p2a: Ferrothorn|100/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|c|☆PokemonFanboys|NOOO U DIDNT DIE
+|c|☆PokemonFanboys|sad LOL
+|
+|t:|1641703014
+|move|p1a: Heatran|Magma Storm|p2a: Ferrothorn|[miss]
+|-miss|p1a: Heatran|p2a: Ferrothorn
+|move|p2a: Ferrothorn|Knock Off|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|c|☆Mikirae|Man Ferro needs to work out
+|c|☆Mikirae|Nvm he's got the moves
+|
+|t:|1641703021
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|25
+|c|☆PokemonFanboys|dang ur unlucky
+|
+|t:|1641703024
+|move|p1a: Dragapult|Flamethrower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|faint|p2a: Ferrothorn
+|
+|upkeep
+|c|☆PokemonFanboys|gg tho
+|c|☆PokemonFanboys|was fun
+|c|☆Mikirae|Hey I can't complain about luck in this lol
+|c|☆Mikirae|gg :)
+|
+|t:|1641703035
+|switch|p2a: Garchomp|Garchomp, M|53/100
+|-damage|p2a: Garchomp|47/100|[from] Stealth Rock
+|turn|26
+|c|☆Mikirae|You should get webs I think
+|
+|t:|1641703041
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|move|p2a: Garchomp|Draco Meteor|p1a: Tapu Fini
+|-immune|p1a: Tapu Fini
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|27
+|
+|t:|1641703044
+|move|p2a: Garchomp|Draco Meteor|p1a: Tapu Fini
+|-immune|p1a: Tapu Fini
+|move|p1a: Tapu Fini|Moonblast|p2a: Garchomp
+|-supereffective|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641703046
+|switch|p2a: Tapu Bulu|Tapu Bulu|88/100
+|-damage|p2a: Tapu Bulu|76/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Tapu Bulu
+|turn|28
+|c|☆PokemonFanboys|wait
+|c|☆PokemonFanboys|is that specs
+|c|☆Mikirae|No I'm leftovers lol
+|c|☆PokemonFanboys|also maybe its just a team where i put a bunch of stupid sets together
+|c|☆PokemonFanboys|wasnt even meant ot be a team
+|c|☆PokemonFanboys|origionally it was specs melm
+|c|☆Mikirae|!showset tapufini
+|c| Mikirae|/raw <div class="infobox">Tapu Fini @ Leftovers  <br />Ability: Misty Surge  <br />EVs: 248 HP &#x2f; 204 Def &#x2f; 56 Spe  <br />Bold Nature  <br />- Moonblast  <br />- Nature&apos;s Madness  <br />- Knock Off  <br />- Taunt  <br /><br /></div>
+|c|☆PokemonFanboys|i should put him back
+|c|☆PokemonFanboys|!showteam
+|c| PokemonFanboys|/raw <div class="infobox"><details><summary>View team</summary>Heatran @ Choice Scarf  <br />Ability: Flash Fire  <br />EVs: 252 Atk &#x2f; 4 SpD &#x2f; 252 Spe  <br />Jolly Nature  <br />- Heat Crash  <br />- Earthquake  <br />- Iron Head  <br />- Crunch  <br /><br />Tangrowth @ Coba Berry  <br />Ability: Regenerator  <br />EVs: 232 HP &#x2f; 252 Atk &#x2f; 4 SpD &#x2f; 20 Spe  <br />Adamant Nature  <br />- Swords Dance  <br />- Brick Break  <br />- Power Whip  <br />- Rock Slide  <br /><br />Ferrothorn @ Leftovers  <br />Ability: Iron Barbs  <br />EVs: 252 HP &#x2f; 252 Atk &#x2f; 4 SpD  <br />Adamant Nature  <br />- Swords Dance  <br />- Knock Off  <br />- Bulldoze  <br />- Power Whip  <br /><br />Tapu Bulu @ Leftovers  <br />Ability: Grassy Surge  <br />EVs: 248 HP &#x2f; 112 SpD &#x2f; 148 Spe  <br />Calm Nature  <br />IVs: 0 Atk  <br />- Calm Mind  <br />- Iron Defense  <br />- Stored Power  <br />- Taunt  <br /><br />Garchomp @ Choice Specs  <br />Ability: Rough Skin  <br />EVs: 252 SpA &#x2f; 4 SpD &#x2f; 252 Spe  <br />Timid Nature  <br />IVs: 0 Atk  <br />- Earth Power  <br />- Draco Meteor  <br />- Flamethrower  <br />- Surf  <br /><br />Zapdos @ Heavy-Duty Boots  <br />Ability: Pressure  <br />EVs: 248 HP &#x2f; 240 Def &#x2f; 20 Spe  <br />Bold Nature  <br />IVs: 0 Atk  <br />- Toxic  <br />- Roost  <br />- Substitute  <br />- Thunderbolt  <br /><br /></details></div>
+|inactive|Mikirae has 120 seconds left.
+|inactive|PokemonFanboys has 120 seconds left.
+|c|☆Mikirae|Man this is the best team I've ever seen
+|c|☆PokemonFanboys|i should remove zapdos cuz its an actual set
+|
+|t:|1641703097
+|move|p2a: Tapu Bulu|Calm Mind|p2a: Tapu Bulu
+|-boost|p2a: Tapu Bulu|spa|1
+|-boost|p2a: Tapu Bulu|spd|1
+|move|p1a: Tapu Fini|Nature's Madness|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|38/100
+|
+|-heal|p2a: Tapu Bulu|45/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|51/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|c|☆Mikirae|Sub isn't a set lmao
+|c|☆PokemonFanboys|true
+|c|☆PokemonFanboys|but it can work
+|
+|t:|1641703109
+|move|p2a: Tapu Bulu|Taunt|p1a: Tapu Fini
+|-start|p1a: Tapu Fini|move: Taunt
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|32/100
+|
+|-heal|p2a: Tapu Bulu|38/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|44/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|c|☆PokemonFanboys|these sets arent spposed to work xd
+|
+|t:|1641703117
+|move|p2a: Tapu Bulu|Iron Defense|p2a: Tapu Bulu
+|-boost|p2a: Tapu Bulu|def|2
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|25/100
+|
+|-heal|p2a: Tapu Bulu|31/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|37/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|c|☆Mikirae|Yeah but they're funny and that's what matters lol
+|
+|t:|1641703125
+|move|p2a: Tapu Bulu|Calm Mind|p2a: Tapu Bulu
+|-boost|p2a: Tapu Bulu|spa|1
+|-boost|p2a: Tapu Bulu|spd|1
+|move|p1a: Tapu Fini|Moonblast|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|23/100
+|
+|-heal|p2a: Tapu Bulu|29/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|35/100|[from] item: Leftovers
+|-end|p1a: Tapu Fini|move: Taunt
+|upkeep
+|turn|32
+|c|☆PokemonFanboys|wait u could lose here
+|
+|t:|1641703130
+|move|p2a: Tapu Bulu|Calm Mind|p2a: Tapu Bulu
+|-boost|p2a: Tapu Bulu|spa|1
+|-boost|p2a: Tapu Bulu|spd|1
+|move|p1a: Tapu Fini|Taunt|p2a: Tapu Bulu
+|-start|p2a: Tapu Bulu|move: Taunt
+|
+|-heal|p2a: Tapu Bulu|41/100|[from] Grassy Terrain
+|-heal|p2a: Tapu Bulu|47/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|33
+|c|☆Mikirae|Nah you can't heal
+|c|☆PokemonFanboys|oh nvm lol
+|
+|t:|1641703139
+|move|p2a: Tapu Bulu|Stored Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|30/100
+|move|p1a: Tapu Fini|Knock Off|p2a: Tapu Bulu
+|-resisted|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|44/100
+|-enditem|p2a: Tapu Bulu|Leftovers|[from] move: Knock Off|[of] p1a: Tapu Fini
+|
+|-heal|p1a: Tapu Fini|36/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641703143
+|move|p2a: Tapu Bulu|Stored Power|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|c|☆PokemonFanboys|nooo my leftiesssssss
+|c|☆Mikirae|Honestly I hope I lose lmao
+|
+|t:|1641703154
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|35
+|c|☆PokemonFanboys|lmao
+|c|☆PokemonFanboys|misses flamethrower
+|
+|t:|1641703161
+|move|p1a: Dragapult|Flamethrower|p2a: Tapu Bulu
+|-supereffective|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|19/100
+|move|p2a: Tapu Bulu|Stored Power|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|-end|p2a: Tapu Bulu|move: Taunt
+|upkeep
+|c|☆Mikirae|I would manage ngl
+|
+|t:|1641703167
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|36
+|
+|t:|1641703174
+|move|p1a: Tapu Lele|Psyshock|p2a: Tapu Bulu
+|-damage|p2a: Tapu Bulu|0 fnt
+|faint|p2a: Tapu Bulu
+|
+|win|Mikirae
+|raw|Mikirae's rating: 1572 &rarr; <strong>1589</strong><br />(+17 for winning)
+|raw|PokemonFanboys's rating: 1524 &rarr; <strong>1507</strong><br />(-17 for losing)
+|c|☆PokemonFanboys|ggs
+|c|☆Mikirae|gg
+|c|☆PokemonFanboys|nice to find ppl like u
+|c|☆Mikirae|Likewise :)
+|c|☆PokemonFanboys|ive dropped 150 points using this LOL
+|c|☆PokemonFanboys|cya
+|c|☆Mikirae|Take care :D
+|c|☆Mikirae|LMFAO
+|c|☆PokemonFanboys|u2

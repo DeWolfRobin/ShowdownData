@@ -1,0 +1,450 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC sadfrog
+|j|☆SL21CC Mcdonald's
+|t:|1641733123
+|gametype|singles
+|player|p1|SL21CC sadfrog|cynthia|1223
+|player|p2|SL21CC Mcdonald's|aromalady|1312
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Zapdos|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Weavile, M|
+|poke|p1|Slowking, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Slowbro-Galar, F|
+|poke|p2|Seismitoad, F|
+|poke|p2|Mew|
+|poke|p2|Melmetal|
+|poke|p2|Clefable, F|
+|poke|p2|Zapdos|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Mcdonald's)
+|
+|t:|1641733135
+|start
+|switch|p1a: ELIMINATOR|Zapdos|100/100
+|switch|p2a: Clefable|Clefable, F|100/100
+|turn|1
+|j| sl21cc ryekie
+|j| Luoyv
+|
+|t:|1641733146
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|move|p1a: ELIMINATOR|Hurricane|p2a: Seismitoad|[miss]
+|-miss|p1a: ELIMINATOR|p2a: Seismitoad
+|
+|upkeep
+|turn|2
+|j| adreamew
+|
+|t:|1641733151
+|switch|p1a: Pleisure|Ferrothorn, M|100/100
+|move|p2a: Seismitoad|Toxic|p1a: Pleisure
+|-immune|p1a: Pleisure
+|
+|upkeep
+|turn|3
+|
+|t:|1641733155
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Pleisure|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|88/100
+|-enditem|p2a: Clefable|Life Orb|[from] move: Knock Off|[of] p1a: Pleisure
+|
+|upkeep
+|turn|4
+|
+|t:|1641733158
+|switch|p1a: enchantment|Slowking, M|100/100
+|move|p2a: Clefable|Fire Blast|p1a: enchantment|[miss]
+|-miss|p2a: Clefable|p1a: enchantment
+|
+|upkeep
+|turn|5
+|
+|t:|1641733161
+|move|p2a: Clefable|Thunder|p1a: enchantment
+|-supereffective|p1a: enchantment
+|-damage|p1a: enchantment|54/100
+|-status|p1a: enchantment|par
+|move|p1a: enchantment|Future Sight|p2a: Clefable
+|-start|p1a: enchantment|move: Future Sight
+|
+|upkeep
+|turn|6
+|
+|t:|1641733167
+|move|p2a: Clefable|Thunder|p1a: enchantment
+|-supereffective|p1a: enchantment
+|-damage|p1a: enchantment|7/100 par
+|move|p1a: enchantment|Teleport|p1a: enchantment
+|
+|t:|1641733170
+|switch|p1a: ELIMINATOR|Zapdos|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|7
+|
+|t:|1641733179
+|switch|p2a: Melmetal|Melmetal|100/100
+|move|p1a: ELIMINATOR|Volt Switch|p2a: Melmetal
+|-damage|p2a: Melmetal|67/100
+|
+|t:|1641733183
+|switch|p1a: FAKE LIFE|Urshifu-Rapid-Strike, M|100/100|[from]move: Volt Switch
+|
+|-end|p2a: Melmetal|move: Future Sight
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|47/100
+|upkeep
+|turn|8
+|
+|t:|1641733188
+|switch|p2a: Slowbro|Slowbro-Galar, F|100/100
+|move|p1a: FAKE LIFE|U-turn|p2a: Slowbro
+|-damage|p2a: Slowbro|68/100
+|
+|t:|1641733194
+|switch|p1a: glacier’s poetry|Weavile, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|9
+|
+|t:|1641733199
+|move|p1a: glacier’s poetry|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|-enditem|p2a: Slowbro|Quick Claw|[from] move: Knock Off|[of] p1a: glacier’s poetry
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1641733201
+|switch|p2a: Clefable|Clefable, F|88/100
+|turn|10
+|
+|t:|1641733206
+|switch|p1a: Mandragora|Landorus-Therian, M|100/100
+|-ability|p1a: Mandragora|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Ice Beam|p1a: Mandragora
+|-supereffective|p1a: Mandragora
+|-damage|p1a: Mandragora|20/100
+|
+|-heal|p1a: Mandragora|26/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641733215
+|move|p2a: Clefable|Ice Beam|p1a: Mandragora
+|-supereffective|p1a: Mandragora
+|-crit|p1a: Mandragora
+|-damage|p1a: Mandragora|0 fnt
+|faint|p1a: Mandragora
+|
+|upkeep
+|
+|t:|1641733226
+|switch|p1a: ELIMINATOR|Zapdos|100/100
+|turn|12
+|
+|t:|1641733231
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: ELIMINATOR|Hurricane|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|75/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641733234
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|move|p1a: ELIMINATOR|Volt Switch|p2a: Seismitoad
+|-immune|p2a: Seismitoad
+|
+|upkeep
+|turn|14
+|
+|t:|1641733239
+|switch|p1a: enchantment|Slowking, M|40/100 par
+|move|p2a: Seismitoad|Toxic||[still]
+|-fail|p2a: Seismitoad
+|
+|upkeep
+|turn|15
+|
+|t:|1641733245
+|switch|p1a: Pleisure|Ferrothorn, M|100/100
+|move|p2a: Seismitoad|Earthquake|p1a: Pleisure
+|-damage|p1a: Pleisure|77/100
+|
+|-heal|p1a: Pleisure|83/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|j|&starmind
+|
+|t:|1641733252
+|switch|p2a: Clefable|Clefable, F|88/100
+|move|p1a: Pleisure|Stealth Rock|p2a: Clefable
+|-sidestart|p2: SL21CC Mcdonald's|move: Stealth Rock
+|
+|-heal|p1a: Pleisure|90/100|[from] item: Leftovers
+|upkeep
+|turn|17
+|
+|t:|1641733256
+|move|p2a: Clefable|Thunder|p1a: Pleisure
+|-resisted|p1a: Pleisure
+|-damage|p1a: Pleisure|78/100
+|move|p1a: Pleisure|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|19/100
+|
+|-heal|p1a: Pleisure|85/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641733270
+|switch|p1a: FAKE LIFE|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Clefable|Thunder|p1a: FAKE LIFE|[miss]
+|-miss|p2a: Clefable|p1a: FAKE LIFE
+|
+|upkeep
+|turn|19
+|
+|t:|1641733276
+|switch|p2a: Zapdos|Zapdos|75/100
+|move|p1a: FAKE LIFE|Close Combat|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-damage|p2a: Zapdos|26/100
+|-unboost|p1a: FAKE LIFE|def|1
+|-unboost|p1a: FAKE LIFE|spd|1
+|
+|upkeep
+|turn|20
+|j| water GH0ST
+|
+|t:|1641733283
+|switch|p1a: Pleisure|Ferrothorn, M|85/100
+|switch|p2a: Clefable|Clefable, F|19/100
+|
+|-heal|p1a: Pleisure|91/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641733286
+|move|p2a: Clefable|Fire Blast|p1a: Pleisure
+|-supereffective|p1a: Pleisure
+|-damage|p1a: Pleisure|7/100
+|move|p1a: Pleisure|Iron Head|p2a: Clefable
+|-supereffective|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-heal|p1a: Pleisure|13/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641733293
+|switch|p2a: Zapdos|Zapdos|26/100
+|turn|22
+|
+|t:|1641733302
+|move|p2a: Zapdos|Thunderbolt|p1a: Pleisure
+|-resisted|p1a: Pleisure
+|-damage|p1a: Pleisure|0 fnt
+|faint|p1a: Pleisure
+|
+|upkeep
+|
+|t:|1641733310
+|switch|p1a: glacier’s poetry|Weavile, M|100/100
+|turn|23
+|
+|t:|1641733315
+|move|p1a: glacier’s poetry|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|-status|p1a: glacier’s poetry|par|[from] ability: Static|[of] p2a: Zapdos
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: glacier’s poetry
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641733321
+|switch|p2a: Mew|Mew|100/100
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|turn|24
+|
+|t:|1641733324
+|move|p2a: Mew|Close Combat|p1a: glacier’s poetry
+|-supereffective|p1a: glacier’s poetry
+|-damage|p1a: glacier’s poetry|0 fnt
+|-unboost|p2a: Mew|def|1
+|-unboost|p2a: Mew|spd|1
+|faint|p1a: glacier’s poetry
+|
+|upkeep
+|
+|t:|1641733330
+|switch|p1a: ELIMINATOR|Zapdos|100/100
+|turn|25
+|
+|t:|1641733334
+|switch|p2a: Melmetal|Melmetal|47/100
+|-damage|p2a: Melmetal|41/100|[from] Stealth Rock
+|move|p1a: ELIMINATOR|Hurricane|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|13/100
+|
+|upkeep
+|turn|26
+|j| sl21cckhl
+|-activate|p2a: Melmetal|item: Quick Claw
+|
+|t:|1641733340
+|move|p2a: Melmetal|Double Iron Bash|p1a: ELIMINATOR
+|-resisted|p1a: ELIMINATOR
+|-damage|p1a: ELIMINATOR|75/100
+|-resisted|p1a: ELIMINATOR
+|-damage|p1a: ELIMINATOR|50/100
+|-hitcount|p1a: ELIMINATOR|2
+|move|p1a: ELIMINATOR|Hurricane|p2a: Melmetal|[miss]
+|-miss|p1a: ELIMINATOR|p2a: Melmetal
+|
+|upkeep
+|turn|27
+|c|☆SL21CC sadfrog|牛
+|
+|t:|1641733353
+|move|p1a: ELIMINATOR|Heat Wave|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|upkeep
+|
+|t:|1641733355
+|switch|p2a: Mew|Mew|88/100
+|-damage|p2a: Mew|76/100|[from] Stealth Rock
+|turn|28
+|
+|t:|1641733359
+|move|p1a: ELIMINATOR|Hurricane|p2a: Mew
+|-damage|p2a: Mew|20/100
+|-start|p2a: Mew|confusion
+|-activate|p2a: Mew|confusion
+|move|p2a: Mew|Triple Axel|p1a: ELIMINATOR
+|-supereffective|p1a: ELIMINATOR
+|-damage|p1a: ELIMINATOR|34/100
+|-supereffective|p1a: ELIMINATOR
+|-damage|p1a: ELIMINATOR|7/100
+|-supereffective|p1a: ELIMINATOR
+|-damage|p1a: ELIMINATOR|0 fnt
+|faint|p1a: ELIMINATOR
+|-hitcount|p1: ELIMINATOR|3
+|
+|upkeep
+|
+|t:|1641733366
+|switch|p1a: FAKE LIFE|Urshifu-Rapid-Strike, M|100/100
+|turn|29
+|
+|t:|1641733372
+|-activate|p2a: Mew|confusion
+|move|p2a: Mew|Psychic Fangs|p1a: FAKE LIFE
+|-supereffective|p1a: FAKE LIFE
+|-damage|p1a: FAKE LIFE|24/100
+|move|p1a: FAKE LIFE|Close Combat|p2a: Mew
+|-resisted|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|-unboost|p1a: FAKE LIFE|def|1
+|-unboost|p1a: FAKE LIFE|spd|1
+|faint|p2a: Mew
+|
+|upkeep
+|
+|t:|1641733375
+|switch|p2a: Seismitoad|Seismitoad, F|100/100
+|-damage|p2a: Seismitoad|94/100|[from] Stealth Rock
+|turn|30
+|
+|t:|1641733377
+|switch|p1a: enchantment|Slowking, M|74/100 par
+|move|p2a: Seismitoad|Earthquake|p1a: enchantment
+|-damage|p1a: enchantment|49/100 par
+|
+|-heal|p2a: Seismitoad|100/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641733380
+|move|p2a: Seismitoad|Earthquake|p1a: enchantment
+|-damage|p1a: enchantment|23/100 par
+|move|p1a: enchantment|Slack Off|p1a: enchantment
+|-heal|p1a: enchantment|74/100 par
+|
+|upkeep
+|turn|32
+|
+|t:|1641733383
+|move|p2a: Seismitoad|Earthquake|p1a: enchantment
+|-damage|p1a: enchantment|48/100 par
+|move|p1a: enchantment|Future Sight|p2a: Seismitoad
+|-start|p1a: enchantment|move: Future Sight
+|
+|upkeep
+|turn|33
+|
+|t:|1641733385
+|move|p2a: Seismitoad|Earthquake|p1a: enchantment
+|-damage|p1a: enchantment|22/100 par
+|cant|p1a: enchantment|par
+|
+|upkeep
+|turn|34
+|
+|t:|1641733391
+|move|p2a: Seismitoad|Earthquake|p1a: enchantment
+|-damage|p1a: enchantment|0 fnt
+|faint|p1a: enchantment
+|
+|-end|p2a: Seismitoad|move: Future Sight
+|-damage|p2a: Seismitoad|70/100
+|-heal|p2a: Seismitoad|76/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641733393
+|switch|p1a: FAKE LIFE|Urshifu-Rapid-Strike, M|24/100
+|turn|35
+|
+|t:|1641733394
+|move|p1a: FAKE LIFE|Close Combat|p2a: Seismitoad
+|-damage|p2a: Seismitoad|0 fnt
+|-unboost|p1a: FAKE LIFE|def|1
+|-unboost|p1a: FAKE LIFE|spd|1
+|faint|p2a: Seismitoad
+|
+|win|SL21CC sadfrog
+|raw|SL21CC sadfrog's rating: 1223 &rarr; <strong>1243</strong><br />(+20 for winning)
+|raw|SL21CC Mcdonald&apos;s's rating: 1312 &rarr; <strong>1292</strong><br />(-20 for losing)
+|l|☆SL21CC Mcdonald's
+|l| water GH0ST
+|l| sl21cckhl
+|c|☆SL21CC sadfrog|gg
+|l|&starmind
+|c| Luoyv|好家伙
+|l| Luoyv
+|l|☆SL21CC sadfrog

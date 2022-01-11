@@ -1,0 +1,320 @@
+|j|☆Andrew The Fish
+|j|☆P0KESHOW
+|t:|1641743901
+|gametype|singles
+|player|p1|Andrew The Fish|riley|1000
+|player|p2|P0KESHOW|battlegirl-gen4|1013
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Corviknight, F|
+|poke|p1|Hippowdon, M|
+|poke|p1|Conkeldurr, M|
+|poke|p1|Bisharp, F|
+|poke|p1|Heatran, F|
+|poke|p1|Rotom-Wash|
+|poke|p2|Regieleki|
+|poke|p2|Scizor, F|
+|poke|p2|Barraskewda, F|
+|poke|p2|Tapu Koko|
+|poke|p2|Mew|
+|poke|p2|Swampert, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by P0KESHOW)
+|
+|t:|1641743915
+|start
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|switch|p2a: Barraskewda|Barraskewda, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|1
+|
+|t:|1641743934
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Barraskewda|Flip Turn|p1a: Rotom
+|-resisted|p1a: Rotom
+|-damage|p1a: Rotom|66/100
+|
+|t:|1641743945
+|switch|p2a: Tapu Koko|Tapu Koko|100/100|[from]move: Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Tapu Koko|94/100|[from] Sandstorm
+|-damage|p1a: Rotom|60/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641743962
+|move|p2a: Tapu Koko|Volt Switch|p1a: Rotom
+|-damage|p1a: Rotom|13/100
+|-damage|p2a: Tapu Koko|84/100|[from] item: Life Orb
+|
+|t:|1641743968
+|switch|p2a: Mew|Mew|100/100|[from]move: Volt Switch
+|move|p1a: Rotom|Hydro Pump|p2a: Mew
+|-damage|p2a: Mew|49/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mew|42/100|[from] Sandstorm
+|-damage|p1a: Rotom|6/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641743979
+|move|p2a: Mew|U-turn|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|-damage|p2a: Mew|32/100|[from] item: Life Orb
+|
+|t:|1641743987
+|switch|p2a: Barraskewda|Barraskewda, F|100/100|[from]move: U-turn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Barraskewda|94/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641743995
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|turn|4
+|
+|t:|1641744004
+|move|p2a: Barraskewda|Flip Turn|p1a: Corviknight
+|-damage|p1a: Corviknight|59/100
+|
+|t:|1641744008
+|switch|p2a: Mew|Mew|32/100|[from]move: Flip Turn
+|move|p1a: Corviknight|Iron Defense|p1a: Corviknight
+|-boost|p1a: Corviknight|def|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Mew|26/100|[from] Sandstorm
+|upkeep
+|turn|5
+|
+|t:|1641744019
+|move|p2a: Mew|Volt Switch|p1a: Corviknight
+|-supereffective|p1a: Corviknight
+|-damage|p1a: Corviknight|10/100
+|-damage|p2a: Mew|16/100|[from] item: Life Orb
+|
+|t:|1641744026
+|switch|p2a: Swampert|Swampert, M|100/100|[from]move: Volt Switch
+|move|p1a: Corviknight|Drill Peck|p2a: Swampert
+|-damage|p2a: Swampert|71/100
+|
+|-weather|none
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641744043
+|move|p1a: Corviknight|Drill Peck|p2a: Swampert
+|-damage|p2a: Swampert|38/100
+|move|p2a: Swampert|Flip Turn|p1a: Corviknight
+|-damage|p1a: Corviknight|0 fnt
+|faint|p1a: Corviknight
+|
+|t:|1641744050
+|switch|p2a: Barraskewda|Barraskewda, F|94/100|[from]move: Flip Turn
+|
+|upkeep
+|
+|t:|1641744066
+|switch|p1a: Conkeldurr|Conkeldurr, M|100/100
+|turn|7
+|
+|t:|1641744069
+|move|p2a: Barraskewda|Flip Turn|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|61/100
+|
+|t:|1641744072
+|switch|p2a: Tapu Koko|Tapu Koko|84/100|[from]move: Flip Turn
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|move|p1a: Conkeldurr|Knock Off|p2a: Tapu Koko
+|-resisted|p2a: Tapu Koko
+|-damage|p2a: Tapu Koko|57/100
+|-enditem|p2a: Tapu Koko|Life Orb|[from] move: Knock Off|[of] p1a: Conkeldurr
+|
+|-heal|p1a: Conkeldurr|67/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641744100
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Tapu Koko|Volt Switch|p1a: Heatran
+|-damage|p1a: Heatran|69/100
+|
+|t:|1641744106
+|switch|p2a: Barraskewda|Barraskewda, F|94/100|[from]move: Volt Switch
+|
+|-heal|p1a: Heatran|75/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641744116
+|move|p1a: Heatran|Protect|p1a: Heatran
+|-singleturn|p1a: Heatran|Protect
+|move|p2a: Barraskewda|Flip Turn|p1a: Heatran
+|-activate|p1a: Heatran|move: Protect
+|
+|-heal|p1a: Heatran|81/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641744140
+|move|p2a: Barraskewda|Flip Turn|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|t:|1641744156
+|switch|p2a: Tapu Koko|Tapu Koko|57/100|[from]move: Flip Turn
+|
+|upkeep
+|
+|t:|1641744162
+|switch|p1a: Hippowdon|Hippowdon, M|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: Hippowdon
+|turn|11
+|
+|t:|1641744169
+|move|p2a: Tapu Koko|U-turn|p1a: Hippowdon
+|-damage|p1a: Hippowdon|92/100
+|
+|t:|1641744172
+|switch|p2a: Swampert|Swampert, M|38/100|[from]move: U-turn
+|move|p1a: Hippowdon|Stealth Rock|p2a: Swampert
+|-sidestart|p2: P0KESHOW|move: Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|12
+|
+|t:|1641744181
+|move|p2a: Swampert|Flip Turn|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|40/100
+|
+|t:|1641744186
+|switch|p2a: Mew|Mew|16/100|[from]move: Flip Turn
+|-damage|p2a: Mew|4/100|[from] Stealth Rock
+|move|p1a: Hippowdon|Body Press|p2a: Mew
+|-resisted|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641744193
+|switch|p2a: Barraskewda|Barraskewda, F|94/100
+|-damage|p2a: Barraskewda|82/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641744205
+|move|p2a: Barraskewda|Flip Turn|p1a: Hippowdon
+|-supereffective|p1a: Hippowdon
+|-damage|p1a: Hippowdon|0 fnt
+|faint|p1a: Hippowdon
+|
+|t:|1641744217
+|switch|p2a: Regieleki|Regieleki|100/100|[from]move: Flip Turn
+|-damage|p2a: Regieleki|88/100|[from] Stealth Rock
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Regieleki|82/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641744224
+|switch|p1a: Bisharp|Bisharp, F|100/100
+|turn|14
+|
+|t:|1641744229
+|move|p2a: Regieleki|Volt Switch|p1a: Bisharp
+|-damage|p1a: Bisharp|14/100
+|
+|t:|1641744236
+|switch|p2a: Swampert|Swampert, M|38/100|[from]move: Volt Switch
+|-damage|p2a: Swampert|32/100|[from] Stealth Rock
+|move|p1a: Bisharp|Power-Up Punch|p2a: Swampert
+|-damage|p2a: Swampert|18/100
+|-boost|p1a: Bisharp|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|15
+|
+|t:|1641744248
+|move|p1a: Bisharp|Knock Off|p2a: Swampert
+|-damage|p2a: Swampert|0 fnt
+|-enditem|p2a: Swampert|Choice Band|[from] move: Knock Off|[of] p1a: Bisharp
+|faint|p2a: Swampert
+|
+|-weather|none
+|upkeep
+|
+|t:|1641744254
+|switch|p2a: Scizor|Scizor, F|100/100
+|-damage|p2a: Scizor|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641744260
+|move|p1a: Bisharp|Knock Off|p2a: Scizor
+|-damage|p2a: Scizor|1/100
+|-enditem|p2a: Scizor|Choice Band|[from] move: Knock Off|[of] p1a: Bisharp
+|move|p2a: Scizor|U-turn|p1a: Bisharp
+|-damage|p1a: Bisharp|0 fnt
+|faint|p1a: Bisharp
+|
+|t:|1641744269
+|switch|p2a: Tapu Koko|Tapu Koko|57/100|[from]move: U-turn
+|-damage|p2a: Tapu Koko|44/100|[from] Stealth Rock
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641744281
+|switch|p1a: Conkeldurr|Conkeldurr, M|67/100
+|turn|17
+|
+|t:|1641744286
+|move|p2a: Tapu Koko|Volt Switch|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|20/100
+|
+|t:|1641744290
+|switch|p2a: Scizor|Scizor, F|1/100|[from]move: Volt Switch
+|-damage|p2a: Scizor|0 fnt|[from] Stealth Rock
+|faint|p2a: Scizor
+|move|p1a: Conkeldurr|Drain Punch|p2: Scizor|[notarget]
+|-fail|p1a: Conkeldurr
+|
+|-heal|p1a: Conkeldurr|26/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641744296
+|switch|p2a: Regieleki|Regieleki|82/100
+|-damage|p2a: Regieleki|70/100|[from] Stealth Rock
+|turn|18
+|c|☆Andrew The Fish|gg
+|
+|t:|1641744304
+|move|p2a: Regieleki|Volt Switch|p1a: Conkeldurr
+|-damage|p1a: Conkeldurr|0 fnt
+|faint|p1a: Conkeldurr
+|
+|win|P0KESHOW
+|raw|Andrew The Fish's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|P0KESHOW's rating: 1013 &rarr; <strong>1050</strong><br />(+37 for winning)

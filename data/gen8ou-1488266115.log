@@ -1,0 +1,464 @@
+|j|☆kpizzle35
+|j|☆Birbirb
+|t:|1641743506
+|gametype|singles
+|player|p1|kpizzle35|266|1218
+|player|p2|Birbirb|pokemaniac|1199
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Chansey, F|
+|poke|p1|Jirachi|
+|poke|p1|Zygarde-10%|
+|poke|p1|Togekiss, F|
+|poke|p1|Drapion, F|
+|poke|p1|Heatran, F|
+|poke|p2|Zeraora|
+|poke|p2|Heatran, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Tapu Fini|
+|poke|p2|Rillaboom, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by kpizzle35)
+|
+|t:|1641743514
+|start
+|switch|p1a: Zygarde|Zygarde-10%|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-ability|p1a: Zygarde|Aura Break
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1641743529
+|move|p1a: Zygarde|Substitute|p1a: Zygarde
+|-start|p1a: Zygarde|Substitute
+|-damage|p1a: Zygarde|76/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-heal|p1a: Zygarde|82/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641743534
+|move|p1a: Zygarde|Glare|p2a: Tapu Fini
+|-activate|p2a: Tapu Fini|move: Misty Terrain
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-end|p1a: Zygarde|Substitute
+|
+|-heal|p1a: Zygarde|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641743545
+|move|p1a: Zygarde|Thousand Arrows|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|68/100
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|5/100
+|-heal|p2a: Tapu Fini|100/100|[from] drain|[of] p1a: Zygarde
+|
+|-heal|p1a: Zygarde|11/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641743557
+|move|p1a: Zygarde|Thousand Arrows|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|68/100
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Zygarde
+|-supereffective|p1a: Zygarde
+|-damage|p1a: Zygarde|0 fnt
+|-heal|p2a: Tapu Fini|74/100|[from] drain|[of] p1a: Zygarde
+|faint|p1a: Zygarde
+|
+|-heal|p2a: Tapu Fini|80/100|[from] item: Leftovers
+|upkeep
+|inactive|kpizzle35 has 120 seconds left.
+|
+|t:|1641743584
+|switch|p1a: Drapion|Drapion, F|100/100
+|turn|5
+|
+|t:|1641743591
+|move|p2a: Tapu Fini|Scald|p1a: Drapion
+|-damage|p1a: Drapion|58/100
+|move|p1a: Drapion|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|70/100
+|-enditem|p2a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p1a: Drapion
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641743598
+|move|p2a: Tapu Fini|Scald|p1a: Drapion
+|-damage|p1a: Drapion|19/100
+|move|p1a: Drapion|Rest|p1a: Drapion
+|-status|p1a: Drapion|slp|[from] move: Rest
+|-heal|p1a: Drapion|100/100 slp|[silent]
+|-enditem|p1a: Drapion|Chesto Berry|[eat]
+|-curestatus|p1a: Drapion|slp|[msg]
+|
+|upkeep
+|turn|7
+|
+|t:|1641743606
+|move|p2a: Tapu Fini|Scald|p1a: Drapion
+|-damage|p1a: Drapion|59/100
+|move|p1a: Drapion|Acupressure|p1a: Drapion
+|-boost|p1a: Drapion|spa|2
+|
+|upkeep
+|turn|8
+|
+|t:|1641743619
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|move|p1a: Drapion|Acupressure|p1a: Drapion
+|-boost|p1a: Drapion|spe|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641743626
+|move|p1a: Drapion|Acupressure|p1a: Drapion
+|-boost|p1a: Drapion|evasion|2
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Drapion
+|-damage|p1a: Drapion|29/100
+|-heal|p2a: Tapu Fini|93/100|[from] drain|[of] p1a: Drapion
+|
+|upkeep
+|turn|10
+|
+|t:|1641743634
+|move|p1a: Drapion|Rest|p1a: Drapion
+|-status|p1a: Drapion|slp|[from] move: Rest
+|-heal|p1a: Drapion|100/100 slp|[silent]
+|move|p2a: Tapu Fini|Scald|p1a: Drapion|[miss]
+|-miss|p2a: Tapu Fini|p1a: Drapion
+|
+|upkeep
+|turn|11
+|
+|t:|1641743643
+|cant|p1a: Drapion|slp
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Drapion
+|-damage|p1a: Drapion|69/100 slp
+|-heal|p2a: Tapu Fini|100/100|[from] drain|[of] p1a: Drapion
+|
+|upkeep
+|turn|12
+|
+|t:|1641743648
+|cant|p1a: Drapion|slp
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|upkeep
+|turn|13
+|
+|t:|1641743650
+|-curestatus|p1a: Drapion|slp|[msg]
+|move|p1a: Drapion|Acupressure|p1a: Drapion
+|-boost|p1a: Drapion|spd|2
+|move|p2a: Tapu Fini|Scald|p1a: Drapion
+|-damage|p1a: Drapion|37/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641743657
+|move|p1a: Drapion|Taunt|p2a: Tapu Fini
+|-start|p2a: Tapu Fini|move: Taunt
+|move|p2a: Tapu Fini|Scald|p1a: Drapion|[miss]
+|-miss|p2a: Tapu Fini|p1a: Drapion
+|
+|upkeep
+|turn|15
+|
+|t:|1641743662
+|move|p1a: Drapion|Acupressure|p1a: Drapion
+|-boost|p1a: Drapion|def|2
+|move|p2a: Tapu Fini|Scald|p1a: Drapion
+|-damage|p1a: Drapion|5/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641743673
+|move|p1a: Drapion|Rest|p1a: Drapion
+|-status|p1a: Drapion|slp|[from] move: Rest
+|-heal|p1a: Drapion|100/100 slp|[silent]
+|move|p2a: Tapu Fini|Scald|p1a: Drapion|[miss]
+|-miss|p2a: Tapu Fini|p1a: Drapion
+|
+|-end|p2a: Tapu Fini|move: Taunt
+|upkeep
+|turn|17
+|
+|t:|1641743680
+|cant|p1a: Drapion|slp
+|move|p2a: Tapu Fini|Taunt|p1a: Drapion|[miss]
+|-miss|p2a: Tapu Fini|p1a: Drapion
+|
+|upkeep
+|turn|18
+|
+|t:|1641743687
+|cant|p1a: Drapion|slp
+|move|p2a: Tapu Fini|Taunt|p1a: Drapion|[miss]
+|-miss|p2a: Tapu Fini|p1a: Drapion
+|
+|upkeep
+|turn|19
+|
+|t:|1641743693
+|-curestatus|p1a: Drapion|slp|[msg]
+|move|p1a: Drapion|Taunt|p2a: Tapu Fini
+|-start|p2a: Tapu Fini|move: Taunt
+|cant|p2a: Tapu Fini|move: Taunt|Taunt
+|
+|upkeep
+|turn|20
+|
+|t:|1641743700
+|move|p1a: Drapion|Acupressure|p1a: Drapion
+|-boost|p1a: Drapion|atk|2
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Drapion
+|-damage|p1a: Drapion|79/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641743706
+|move|p1a: Drapion|Acupressure|p1a: Drapion
+|-boost|p1a: Drapion|def|2
+|move|p2a: Tapu Fini|Scald|p1a: Drapion
+|-damage|p1a: Drapion|45/100
+|
+|-end|p2a: Tapu Fini|move: Taunt
+|upkeep
+|turn|22
+|
+|t:|1641743714
+|move|p1a: Drapion|Acupressure|p1a: Drapion
+|-boost|p1a: Drapion|atk|2
+|move|p2a: Tapu Fini|Taunt|p1a: Drapion
+|-start|p1a: Drapion|move: Taunt
+|
+|upkeep
+|turn|23
+|
+|t:|1641743720
+|move|p1a: Drapion|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|79/100
+|move|p2a: Tapu Fini|Scald|p1a: Drapion
+|-damage|p1a: Drapion|13/100
+|-status|p1a: Drapion|brn
+|
+|-damage|p1a: Drapion|7/100 brn|[from] brn
+|upkeep
+|turn|24
+|
+|t:|1641743731
+|move|p1a: Drapion|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|67/100
+|move|p2a: Tapu Fini|Scald|p1a: Drapion|[miss]
+|-miss|p2a: Tapu Fini|p1a: Drapion
+|
+|-damage|p1a: Drapion|1/100 brn|[from] brn
+|upkeep
+|turn|25
+|
+|t:|1641743744
+|move|p1a: Drapion|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|56/100
+|move|p2a: Tapu Fini|Calm Mind|p2a: Tapu Fini
+|-boost|p2a: Tapu Fini|spa|1
+|-boost|p2a: Tapu Fini|spd|1
+|
+|-damage|p1a: Drapion|0 fnt|[from] brn
+|faint|p1a: Drapion
+|upkeep
+|
+|t:|1641743754
+|switch|p1a: Jirachi|Jirachi|100/100
+|turn|26
+|
+|t:|1641743778
+|move|p1a: Jirachi|Iron Head|p2a: Tapu Fini
+|-crit|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|15/100
+|move|p2a: Tapu Fini|Scald|p1a: Jirachi
+|-damage|p1a: Jirachi|27/100
+|-status|p1a: Jirachi|brn
+|
+|-damage|p1a: Jirachi|21/100 brn|[from] brn
+|upkeep
+|turn|27
+|
+|t:|1641743785
+|move|p1a: Jirachi|Iron Head|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|2/100
+|cant|p2a: Tapu Fini|flinch
+|
+|-damage|p1a: Jirachi|15/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641743790
+|move|p1a: Jirachi|Iron Head|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-damage|p1a: Jirachi|9/100 brn|[from] brn
+|upkeep
+|
+|t:|1641743792
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|29
+|
+|t:|1641743799
+|move|p1a: Jirachi|Iron Head|p2a: Zeraora
+|-resisted|p2a: Zeraora
+|-damage|p2a: Zeraora|88/100
+|cant|p2a: Zeraora|flinch
+|
+|-damage|p1a: Jirachi|3/100 brn|[from] brn
+|upkeep
+|turn|30
+|
+|t:|1641743804
+|move|p1a: Jirachi|Iron Head|p2a: Zeraora
+|-resisted|p2a: Zeraora
+|-crit|p2a: Zeraora
+|-damage|p2a: Zeraora|70/100
+|cant|p2a: Zeraora|flinch
+|
+|-damage|p1a: Jirachi|0 fnt|[from] brn
+|faint|p1a: Jirachi
+|upkeep
+|
+|t:|1641743808
+|switch|p1a: Heatran|Heatran, F|100/100
+|turn|31
+|
+|t:|1641743812
+|move|p2a: Zeraora|Close Combat|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|39/100
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|move|p1a: Heatran|Earth Power|p2a: Zeraora
+|-supereffective|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|upkeep
+|
+|t:|1641743817
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|32
+|
+|t:|1641743820
+|move|p2a: Rillaboom|Superpower|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-unboost|p2a: Rillaboom|atk|1
+|-unboost|p2a: Rillaboom|def|1
+|faint|p1a: Heatran
+|-damage|p2a: Rillaboom|91/100|[from] item: Life Orb
+|
+|-heal|p2a: Rillaboom|97/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641743825
+|switch|p1a: Togekiss|Togekiss, F|100/100
+|turn|33
+|
+|t:|1641743829
+|switch|p2a: Heatran|Heatran, F|100/100
+|move|p1a: Togekiss|Air Slash|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|88/100
+|
+|-heal|p2a: Heatran|94/100|[from] Grassy Terrain
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|upkeep
+|turn|34
+|
+|t:|1641743834
+|switch|p1a: Chansey|Chansey, F|100/100
+|move|p2a: Heatran|Magma Storm|p1a: Chansey
+|-damage|p1a: Chansey|88/100
+|-activate|p1a: Chansey|move: Magma Storm|[of] p2a: Heatran
+|
+|-heal|p1a: Chansey|94/100|[from] Grassy Terrain
+|-damage|p1a: Chansey|82/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|35
+|
+|t:|1641743841
+|move|p2a: Heatran|Taunt|p1a: Chansey
+|-start|p1a: Chansey|move: Taunt
+|cant|p1a: Chansey|move: Taunt|Thunder Wave
+|
+|-heal|p1a: Chansey|88/100|[from] Grassy Terrain
+|-damage|p1a: Chansey|76/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|36
+|
+|t:|1641743845
+|move|p2a: Heatran|Magma Storm|p1a: Chansey|[miss]
+|-miss|p2a: Heatran|p1a: Chansey
+|move|p1a: Chansey|Ice Beam|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|99/100
+|
+|-heal|p2a: Heatran|100/100|[from] Grassy Terrain
+|-heal|p1a: Chansey|82/100|[from] Grassy Terrain
+|-damage|p1a: Chansey|69/100|[from] move: Magma Storm|[partiallytrapped]
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|37
+|
+|t:|1641743856
+|move|p2a: Heatran|Magma Storm|p1a: Chansey
+|-damage|p1a: Chansey|56/100
+|move|p1a: Chansey|Ice Beam|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|99/100
+|
+|-heal|p2a: Heatran|100/100|[from] item: Leftovers
+|-damage|p1a: Chansey|43/100|[from] move: Magma Storm|[partiallytrapped]
+|-end|p1a: Chansey|move: Taunt
+|upkeep
+|turn|38
+|-message|kpizzle35 forfeited.
+|
+|win|Birbirb
+|raw|kpizzle35's rating: 1218 &rarr; <strong>1192</strong><br />(-26 for losing)
+|raw|Birbirb's rating: 1199 &rarr; <strong>1225</strong><br />(+26 for winning)
+|l|☆kpizzle35
+|l|☆Birbirb
+|j| raposa black

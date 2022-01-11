@@ -1,0 +1,304 @@
+|j|☆maxads
+|j|☆BOX MUNCHER
+|t:|1641858295
+|gametype|singles
+|player|p1|maxads|265|1502
+|player|p2|BOX MUNCHER|scientist|1503
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Weavile, M|
+|poke|p1|Blaziken, M|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Dragonite, M|
+|poke|p1|Gengar, F|
+|poke|p1|Swampert, F|
+|poke|p2|Kartana|
+|poke|p2|Heatran, M|
+|poke|p2|Weezing-Galar, M|
+|poke|p2|Tapu Bulu|
+|poke|p2|Bisharp, M|
+|poke|p2|Hippowdon, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by BOX MUNCHER)
+|
+|t:|1641858306
+|start
+|switch|p1a: Swampert|Swampert, F|100/100
+|switch|p2a: Weezing|Weezing-Galar, M|100/100
+|turn|1
+|
+|t:|1641858315
+|move|p2a: Weezing|Toxic Spikes|p1a: Swampert
+|-sidestart|p1: maxads|move: Toxic Spikes
+|move|p1a: Swampert|Earthquake|p2a: Weezing
+|-immune|p2a: Weezing|[from] ability: Levitate
+|
+|upkeep
+|turn|2
+|
+|t:|1641858323
+|move|p2a: Weezing|Strange Steam|p1a: Swampert
+|-damage|p1a: Swampert|82/100
+|move|p1a: Swampert|Toxic|p2a: Weezing
+|-immune|p2a: Weezing
+|
+|-heal|p1a: Swampert|88/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641858339
+|move|p2a: Weezing|Strange Steam|p1a: Swampert
+|-damage|p1a: Swampert|69/100
+|-start|p1a: Swampert|confusion
+|-activate|p1a: Swampert|confusion
+|-damage|p1a: Swampert|61/100|[from] confusion
+|
+|-heal|p1a: Swampert|67/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641858348
+|move|p2a: Weezing|Strange Steam|p1a: Swampert
+|-damage|p1a: Swampert|46/100
+|-activate|p1a: Swampert|confusion
+|-damage|p1a: Swampert|37/100|[from] confusion
+|
+|-heal|p1a: Swampert|44/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641858356
+|move|p2a: Weezing|Strange Steam|p1a: Swampert
+|-damage|p1a: Swampert|23/100
+|-end|p1a: Swampert|confusion
+|move|p1a: Swampert|Stealth Rock|p2a: Weezing
+|-sidestart|p2: BOX MUNCHER|move: Stealth Rock
+|
+|-heal|p1a: Swampert|29/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641858364
+|move|p2a: Weezing|Strange Steam|p1a: Swampert
+|-damage|p1a: Swampert|8/100
+|-start|p1a: Swampert|confusion
+|-activate|p1a: Swampert|confusion
+|move|p1a: Swampert|Scald|p2a: Weezing
+|-damage|p2a: Weezing|48/100
+|
+|-heal|p2a: Weezing|54/100|[from] item: Black Sludge
+|-heal|p1a: Swampert|14/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641858375
+|move|p2a: Weezing|Strange Steam|p1a: Swampert
+|-damage|p1a: Swampert|0 fnt
+|faint|p1a: Swampert
+|
+|-heal|p2a: Weezing|60/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1641858382
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|turn|8
+|
+|t:|1641858385
+|move|p2a: Weezing|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|30/100
+|-status|p1a: Ferrothorn|brn
+|move|p1a: Ferrothorn|Leech Seed|p2a: Weezing|[miss]
+|-miss|p1a: Ferrothorn|p2a: Weezing
+|
+|-heal|p2a: Weezing|66/100|[from] item: Black Sludge
+|-damage|p1a: Ferrothorn|24/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1641858397
+|move|p2a: Weezing|Flamethrower|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p1a: Ferrothorn
+|
+|-heal|p2a: Weezing|72/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1641858404
+|switch|p1a: Gengar|Gengar, F|100/100
+|-sideend|p1: maxads|move: Toxic Spikes|[of] p1a: Gengar
+|turn|10
+|
+|t:|1641858407
+|move|p2a: Weezing|Protect|p2a: Weezing
+|-singleturn|p2a: Weezing|Protect
+|move|p1a: Gengar|Nasty Plot|p1a: Gengar
+|-boost|p1a: Gengar|spa|2
+|
+|-heal|p2a: Weezing|78/100|[from] item: Black Sludge
+|upkeep
+|turn|11
+|
+|t:|1641858424
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Gengar|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|31/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gengar|94/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|37/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641858436
+|move|p1a: Gengar|Shadow Ball|p2a: Hippowdon
+|-damage|p2a: Hippowdon|0 fnt
+|faint|p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Gengar|88/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641858452
+|switch|p2a: Heatran|Heatran, M|100/100
+|turn|13
+|
+|t:|1641858455
+|move|p1a: Gengar|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|20/100
+|move|p2a: Heatran|Earth Power|p1a: Gengar
+|-supereffective|p1a: Gengar
+|-damage|p1a: Gengar|0 fnt
+|faint|p1a: Gengar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641858474
+|switch|p1a: Blaziken|Blaziken, M|100/100
+|turn|14
+|
+|t:|1641858486
+|move|p1a: Blaziken|High Jump Kick|p2a: Heatran|[miss]
+|-miss|p1a: Blaziken|p2a: Heatran
+|-damage|p1a: Blaziken|51/100|[from] highjumpkick
+|move|p2a: Heatran|Earth Power|p1a: Blaziken
+|-supereffective|p1a: Blaziken
+|-damage|p1a: Blaziken|0 fnt
+|faint|p1a: Blaziken
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641858502
+|switch|p1a: Weavile|Weavile, M|100/100
+|-ability|p1a: Weavile|Pressure
+|turn|15
+|
+|t:|1641858509
+|move|p1a: Weavile|Knock Off|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|-enditem|p2a: Heatran|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Weavile
+|faint|p2a: Heatran
+|
+|-weather|none
+|upkeep
+|
+|t:|1641858526
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641858530
+|move|p1a: Weavile|Knock Off|p2a: Kartana
+|-damage|p2a: Kartana|45/100
+|-enditem|p2a: Kartana|Choice Band|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Kartana|Sacred Sword|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-enditem|p1a: Weavile|Focus Sash
+|-damage|p1a: Weavile|1/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641858539
+|move|p1a: Weavile|Ice Punch|p2a: Kartana
+|-damage|p2a: Kartana|9/100
+|move|p2a: Kartana|Knock Off|p1a: Weavile
+|-resisted|p1a: Weavile
+|-damage|p1a: Weavile|0 fnt
+|faint|p1a: Weavile
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641858548
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|18
+|
+|t:|1641858551
+|move|p1a: Dragonite|Extreme Speed|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641858559
+|switch|p2a: Weezing|Weezing-Galar, M|78/100
+|-damage|p2a: Weezing|66/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641858566
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Weezing|Strange Steam|p1a: Dragonite|[miss]
+|-miss|p2a: Weezing|p1a: Dragonite
+|
+|-heal|p2a: Weezing|72/100|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|t:|1641858575
+|move|p1a: Dragonite|Extreme Speed|p2a: Weezing
+|-damage|p2a: Weezing|41/100
+|move|p2a: Weezing|Strange Steam|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|74/100
+|-start|p1a: Dragonite|confusion
+|-enditem|p1a: Dragonite|Lum Berry|[eat]
+|-end|p1a: Dragonite|confusion
+|
+|-heal|p2a: Weezing|47/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1641858587
+|move|p1a: Dragonite|Extreme Speed|p2a: Weezing
+|-damage|p2a: Weezing|15/100
+|move|p2a: Weezing|Strange Steam|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-crit|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|faint|p1a: Dragonite
+|
+|win|BOX MUNCHER
+|raw|maxads's rating: 1502 &rarr; <strong>1482</strong><br />(-20 for losing)
+|raw|BOX MUNCHER's rating: 1503 &rarr; <strong>1523</strong><br />(+20 for winning)
+|l|☆maxads

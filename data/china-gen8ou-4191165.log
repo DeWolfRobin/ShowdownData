@@ -1,0 +1,493 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC XIAOBAO
+|j|☆SL21CC Pu xinnv
+|t:|1641812273
+|gametype|singles
+|player|p1|SL21CC XIAOBAO|marley|1256
+|player|p2|SL21CC Pu xinnv|bellelba|1193
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Urshifu-*, M|
+|poke|p1|Melmetal|
+|poke|p1|Heatran, M|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Weavile, M|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Victini|
+|poke|p2|Tapu Fini|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC XIAOBAO)
+|c|☆SL21CC Pu xinnv|hf
+|
+|t:|1641812290
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Urshifu|atk|1
+|turn|1
+|j| burstbean
+|j| jiokopg_fkok43
+|j| rffydsdhh
+|
+|t:|1641812301
+|move|p1a: Urshifu|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|95/100
+|
+|t:|1641812305
+|switch|p1a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|Earthquake|p1a: Landorus
+|-immune|p1a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1641812309
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: SL21CC XIAOBAO|move: Stealth Rock
+|move|p1a: Landorus|Toxic|p2a: Landorus
+|-status|p2a: Landorus|tox
+|
+|-damage|p2a: Landorus|89/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641812313
+|move|p2a: Landorus|Toxic|p1a: Landorus
+|-status|p1a: Landorus|tox
+|move|p1a: Landorus|Defog|p2a: Landorus
+|-unboost|p2a: Landorus|evasion|1
+|-sideend|p1: SL21CC XIAOBAO|Stealth Rock|[from] move: Defog|[of] p1a: Landorus
+|
+|-damage|p2a: Landorus|77/100 tox|[from] psn
+|-damage|p1a: Landorus|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641812316
+|move|p2a: Landorus|Stealth Rock|p1a: Landorus
+|-sidestart|p1: SL21CC XIAOBAO|move: Stealth Rock
+|move|p1a: Landorus|U-turn|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|68/100 tox
+|-damage|p1a: Landorus|78/100 tox|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|t:|1641812320
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|-damage|p1a: Urshifu|94/100|[from] Stealth Rock
+|
+|-damage|p2a: Landorus|50/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641812323
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Urshifu|U-turn|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|90/100
+|
+|t:|1641812327
+|switch|p1a: Melmetal|Melmetal|100/100|[from]move: U-turn
+|-damage|p1a: Melmetal|94/100|[from] Stealth Rock
+|
+|-heal|p2a: Tapu Fini|96/100|[from] item: Leftovers
+|-heal|p1a: Melmetal|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641812334
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Melmetal|Double Iron Bash|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|84/100
+|-damage|p1a: Melmetal|88/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|69/100
+|-damage|p1a: Melmetal|76/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|-hitcount|p2a: Ferrothorn|2
+|
+|-heal|p1a: Melmetal|82/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|75/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641812341
+|switch|p2a: Landorus|Landorus-Therian, M|50/100 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melmetal|atk|1
+|move|p1a: Melmetal|Superpower|p2a: Landorus
+|-resisted|p2a: Landorus
+|-damage|p2a: Landorus|38/100 tox
+|-unboost|p1a: Melmetal|atk|1
+|-unboost|p1a: Melmetal|def|1
+|-damage|p1a: Melmetal|65/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|
+|-heal|p1a: Melmetal|71/100|[from] item: Leftovers
+|-damage|p2a: Landorus|32/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641812351
+|move|p1a: Melmetal|Protect|p1a: Melmetal
+|-singleturn|p1a: Melmetal|Protect
+|move|p2a: Landorus|U-turn|p1a: Melmetal
+|-activate|p1a: Melmetal|move: Protect
+|
+|-heal|p1a: Melmetal|77/100|[from] item: Leftovers
+|-damage|p2a: Landorus|20/100 tox|[from] psn
+|upkeep
+|turn|9
+|l| burstbean
+|j| SL21CC jiuaibailan
+|
+|t:|1641812355
+|switch|p1a: Landorus|Landorus-Therian, M|78/100 tox
+|-damage|p1a: Landorus|66/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Landorus|atk|1
+|move|p2a: Landorus|U-turn|p1a: Landorus
+|-resisted|p1a: Landorus
+|-damage|p1a: Landorus|59/100 tox
+|j| Water gh0st
+|l| Water gh0st
+|
+|t:|1641812362
+|switch|p2a: Tapu Lele|Tapu Lele|100/100|[from]move: U-turn
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|
+|-heal|p1a: Landorus|65/100 tox|[from] item: Leftovers
+|-damage|p1a: Landorus|59/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641812376
+|switch|p1a: Melmetal|Melmetal|77/100
+|-damage|p1a: Melmetal|71/100|[from] Stealth Rock
+|move|p2a: Tapu Lele|Psyshock|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|46/100
+|
+|-heal|p1a: Melmetal|52/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641812386
+|switch|p2a: Landorus|Landorus-Therian, M|20/100 tox
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Melmetal|atk|1
+|move|p1a: Melmetal|Double Iron Bash|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|-damage|p1a: Melmetal|36/100|[from] item: Rocky Helmet|[of] p2a: Landorus
+|faint|p2a: Landorus
+|-hitcount|p2: Landorus|1
+|
+|-heal|p1a: Melmetal|42/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641812395
+|switch|p2a: Victini|Victini|100/100
+|turn|12
+|
+|t:|1641812399
+|move|p1a: Melmetal|Protect|p1a: Melmetal
+|-singleturn|p1a: Melmetal|Protect
+|move|p2a: Victini|U-turn|p1a: Melmetal
+|-activate|p1a: Melmetal|move: Protect
+|
+|-heal|p1a: Melmetal|48/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641812410
+|move|p2a: Victini|U-turn|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|42/100
+|
+|t:|1641812415
+|switch|p2a: Ferrothorn|Ferrothorn, F|75/100|[from]move: U-turn
+|move|p1a: Melmetal|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|29/100
+|-unboost|p1a: Melmetal|atk|1
+|-unboost|p1a: Melmetal|def|1
+|-damage|p1a: Melmetal|30/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|
+|-heal|p1a: Melmetal|36/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|36/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|14
+|
+|t:|1641812421
+|move|p1a: Melmetal|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|1/100
+|-unboost|p1a: Melmetal|atk|1
+|-unboost|p1a: Melmetal|def|1
+|-damage|p1a: Melmetal|24/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|move|p2a: Ferrothorn|Leech Seed|p1a: Melmetal
+|-start|p1a: Melmetal|move: Leech Seed
+|
+|-heal|p1a: Melmetal|30/100|[from] item: Leftovers
+|-heal|p2a: Ferrothorn|7/100|[from] item: Leftovers
+|-damage|p1a: Melmetal|17/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|22/100|[silent]
+|upkeep
+|turn|15
+|
+|t:|1641812436
+|move|p1a: Melmetal|Superpower|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|0 fnt
+|-unboost|p1a: Melmetal|atk|1
+|-unboost|p1a: Melmetal|def|1
+|-damage|p1a: Melmetal|5/100|[from] ability: Iron Barbs|[of] p2a: Ferrothorn
+|faint|p2a: Ferrothorn
+|
+|-heal|p1a: Melmetal|11/100|[from] item: Leftovers
+|upkeep
+|j| Shou Dui盗盗
+|
+|t:|1641812447
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|16
+|
+|t:|1641812452
+|move|p2a: Tapu Lele|Moonblast|p1a: Melmetal
+|-resisted|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|upkeep
+|
+|t:|1641812458
+|switch|p1a: Heatran|Heatran, M|100/100
+|-damage|p1a: Heatran|88/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|turn|17
+|
+|t:|1641812463
+|switch|p2a: Tapu Fini|Tapu Fini|96/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Heatran|Magma Storm|p2a: Tapu Fini|[miss]
+|-miss|p1a: Heatran|p2a: Tapu Fini
+|
+|-heal|p2a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|j| SL21CC tangkeke
+|
+|t:|1641812471
+|switch|p1a: Landorus|Landorus-Therian, M|59/100 tox
+|-damage|p1a: Landorus|46/100 tox|[from] Stealth Rock
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Tapu Fini|atk|1
+|move|p2a: Tapu Fini|Surf|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641812474
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|19
+|
+|t:|1641812492
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Weavile
+|-damage|p2a: Weavile|26/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641812499
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|94/100
+|-damage|p1a: Urshifu|88/100|[from] Stealth Rock
+|move|p2a: Weavile|Ice Shard|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|79/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641812512
+|move|p2a: Weavile|Ice Shard|p1a: Urshifu
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|69/100
+|move|p1a: Urshifu|U-turn|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|t:|1641812518
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100|[from]move: U-turn
+|-damage|p1a: Tornadus|76/100|[from] Stealth Rock
+|
+|upkeep
+|
+|t:|1641812523
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|22
+|
+|t:|1641812527
+|move|p1a: Tornadus|Knock Off|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|69/100
+|-enditem|p2a: Tapu Lele|Choice Specs|[from] move: Knock Off|[of] p1a: Tornadus
+|move|p2a: Tapu Lele|Thunder|p1a: Tornadus
+|-supereffective|p1a: Tornadus
+|-damage|p1a: Tornadus|21/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641812534
+|move|p1a: Tornadus|U-turn|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|47/100
+|
+|t:|1641812536
+|switch|p1a: Heatran|Heatran, M|88/100|[from]move: U-turn
+|-damage|p1a: Heatran|76/100|[from] Stealth Rock
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Tapu Lele|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|-enditem|p1a: Heatran|Air Balloon
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641812545
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|24
+|
+|t:|1641812554
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|50/100
+|
+|-heal|p2a: Tapu Fini|56/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641812561
+|move|p1a: Tapu Koko|Calm Mind|p1a: Tapu Koko
+|-boost|p1a: Tapu Koko|spa|1
+|-boost|p1a: Tapu Koko|spd|1
+|move|p2a: Tapu Fini|Moonblast|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|68/100
+|-unboost|p1a: Tapu Koko|spa|1
+|
+|-heal|p2a: Tapu Fini|62/100|[from] item: Leftovers
+|upkeep
+|turn|26
+|
+|t:|1641812566
+|move|p1a: Tapu Koko|Calm Mind|p1a: Tapu Koko
+|-boost|p1a: Tapu Koko|spa|1
+|-boost|p1a: Tapu Koko|spd|1
+|move|p2a: Tapu Fini|Taunt|p1a: Tapu Koko
+|-start|p1a: Tapu Koko|move: Taunt
+|
+|-heal|p2a: Tapu Fini|68/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641812569
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Tapu Fini
+|-supereffective|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641812571
+|switch|p2a: Victini|Victini|100/100
+|turn|28
+|
+|t:|1641812575
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Victini
+|-damage|p2a: Victini|41/100
+|move|p2a: Victini|V-create|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|-unboost|p2a: Victini|spe|1
+|-unboost|p2a: Victini|def|1
+|-unboost|p2a: Victini|spd|1
+|faint|p1a: Tapu Koko
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641812585
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|69/100
+|-damage|p1a: Urshifu|63/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641812590
+|switch|p2a: Tapu Lele|Tapu Lele|47/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Urshifu|Surging Strikes|p2a: Tapu Lele
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|16/100
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|-hitcount|p2: Tapu Lele|2
+|
+|upkeep
+|l| SL21CC jiuaibailan
+|
+|t:|1641812592
+|switch|p2a: Victini|Victini|41/100
+|turn|30
+|
+|t:|1641812595
+|move|p2a: Victini|Expanding Force|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|faint|p1a: Urshifu
+|
+|upkeep
+|
+|t:|1641812596
+|switch|p1a: Tornadus|Tornadus-Therian, M|55/100
+|-damage|p1a: Tornadus|30/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1641812600
+|move|p1a: Tornadus|Knock Off|p2a: Victini
+|-supereffective|p2a: Victini
+|-damage|p2a: Victini|0 fnt
+|-enditem|p2a: Victini|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Tornadus
+|faint|p2a: Victini
+|
+|win|SL21CC XIAOBAO
+|raw|SL21CC XIAOBAO's rating: 1246 &rarr; <strong>1259</strong><br />(+13 for winning)
+|raw|SL21CC Pu xinnv's rating: 1193 &rarr; <strong>1172</strong><br />(-21 for losing)
+|l|☆SL21CC XIAOBAO

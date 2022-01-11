@@ -1,0 +1,438 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆sl21cc ryekie
+|j|☆sl21cc jialing
+|t:|1641723242
+|gametype|singles
+|player|p1|sl21cc ryekie|erika|1271
+|player|p2|sl21cc jialing|bellelba|1323
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Volcanion|
+|poke|p1|Buzzwole|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Blissey, F|
+|poke|p2|Ninetales-Alola, M|
+|poke|p2|Arctozolt|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowking, F|
+|poke|p2|Tornadus-Therian, M|
+|teampreview
+|
+|t:|1641723268
+|start
+|switch|p1a: Volcanion|Volcanion|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|j| SL21CC 999诸葛
+|j| sl21cckhl
+|
+|t:|1641723277
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|84/100
+|-enditem|p1a: Blissey|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|2
+|j| water GH0ST
+|
+|t:|1641723285
+|move|p2a: Tornadus|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|70/100
+|
+|t:|1641723293
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100|[from]move: U-turn
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|j| SL21CCxiaomiaomiao
+|
+|t:|1641723306
+|switch|p1a: Tapu Koko|Tapu Koko|100/100|[from]move: Teleport
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|upkeep
+|turn|3
+|
+|t:|1641723317
+|switch|p1a: Buzzwole|Buzzwole|100/100
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Buzzwole|atk|1
+|
+|upkeep
+|turn|4
+|j|&starmind
+|
+|t:|1641723325
+|move|p1a: Buzzwole|Ice Punch|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|1/100
+|move|p2a: Landorus|U-turn|p1a: Buzzwole
+|-resisted|p1a: Buzzwole
+|-damage|p1a: Buzzwole|93/100
+|
+|t:|1641723329
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Buzzwole|86/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641723343
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Urshifu|94/100|[from] Hail
+|-damage|p1a: Ferrothorn|95/100|[from] Hail
+|upkeep
+|turn|6
+|j| SL21CC interest
+|l| SL21CC interest
+|
+|t:|1641723357
+|move|p2a: Urshifu|Close Combat|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-unboost|p2a: Urshifu|def|1
+|-unboost|p2a: Urshifu|spd|1
+|-damage|p2a: Urshifu|82/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-damage|p2a: Urshifu|66/100|[from] item: Rocky Helmet|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Urshifu|59/100|[from] Hail
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1641723364
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|7
+|j| SL21CC tangkeke
+|
+|t:|1641723377
+|switch|p2a: Landorus|Landorus-Therian, M|1/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Koko|atk|1
+|move|p1a: Tapu Koko|Calm Mind|p1a: Tapu Koko
+|-boost|p1a: Tapu Koko|spa|1
+|-boost|p1a: Tapu Koko|spd|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|94/100|[from] Hail
+|-damage|p2a: Landorus|0 fnt|[from] Hail
+|faint|p2a: Landorus
+|upkeep
+|
+|t:|1641723383
+|switch|p2a: Arctozolt|Arctozolt|100/100
+|turn|8
+|
+|t:|1641723399
+|move|p2a: Arctozolt|Bolt Beak|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|26/100
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Arctozolt
+|-damage|p2a: Arctozolt|31/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|20/100|[from] Hail
+|upkeep
+|turn|9
+|
+|t:|1641723408
+|switch|p1a: Blissey|Blissey, F|70/100
+|move|p2a: Arctozolt|Bolt Beak|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|j| SL21CC Mcdonald's
+|
+|t:|1641723410
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Arctozolt|atk|1
+|turn|10
+|
+|t:|1641723433
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|switch|p1a: Volcanion|Volcanion|100/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Tornadus|94/100|[from] Hail
+|-damage|p1a: Volcanion|95/100|[from] Hail
+|upkeep
+|turn|11
+|
+|t:|1641723444
+|move|p2a: Tornadus|Knock Off|p1a: Volcanion
+|-damage|p1a: Volcanion|74/100
+|-enditem|p1a: Volcanion|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Volcanion|Steam Eruption|p2a: Tornadus
+|-damage|p2a: Tornadus|49/100
+|-status|p2a: Tornadus|brn
+|
+|-weather|none
+|-damage|p2a: Tornadus|43/100 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|12
+|j| SL21CCJqlove
+|
+|t:|1641723455
+|move|p2a: Tornadus|U-turn|p1a: Volcanion
+|-resisted|p1a: Volcanion
+|-damage|p1a: Volcanion|71/100
+|
+|t:|1641723488
+|switch|p2a: Ninetales|Ninetales-Alola, M|100/100|[from]move: U-turn
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Volcanion|Steam Eruption|p2a: Ninetales
+|-damage|p2a: Ninetales|22/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcanion|65/100|[from] Hail
+|upkeep
+|turn|13
+|
+|t:|1641723492
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Volcanion|Flamethrower|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|82/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcanion|59/100|[from] Hail
+|-damage|p2a: Slowking|76/100|[from] Hail
+|upkeep
+|turn|14
+|
+|t:|1641723498
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Slowking|atk|1
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641723508
+|switch|p2a: Ninetales|Ninetales-Alola, M|22/100|[from]move: Teleport
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Landorus|94/100|[from] Hail
+|-heal|p1a: Landorus|100/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641723513
+|switch|p1a: Volcanion|Volcanion|59/100
+|move|p2a: Ninetales|Freeze-Dry|p1a: Volcanion
+|-damage|p1a: Volcanion|24/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Volcanion|18/100|[from] Hail
+|upkeep
+|turn|16
+|
+|t:|1641723518
+|move|p2a: Ninetales|Freeze-Dry|p1a: Volcanion
+|-damage|p1a: Volcanion|0 fnt
+|faint|p1a: Volcanion
+|
+|-weather|Hail|[upkeep]
+|upkeep
+|
+|t:|1641723520
+|switch|p1a: Tapu Koko|Tapu Koko|20/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|17
+|l| SL21CC tangkeke
+|
+|t:|1641723535
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|59/100
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|14/100|[from] Hail
+|upkeep
+|
+|t:|1641723537
+|switch|p2a: Arctozolt|Arctozolt|31/100
+|turn|18
+|
+|t:|1641723542
+|switch|p1a: Buzzwole|Buzzwole|86/100
+|move|p2a: Arctozolt|Blizzard|p1a: Buzzwole
+|-damage|p1a: Buzzwole|33/100
+|-status|p1a: Buzzwole|frz
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Buzzwole|27/100 frz|[from] Hail
+|upkeep
+|turn|19
+|
+|t:|1641723548
+|move|p2a: Arctozolt|Blizzard|p1a: Buzzwole
+|-damage|p1a: Buzzwole|0 fnt
+|faint|p1a: Buzzwole
+|
+|-weather|none
+|upkeep
+|
+|t:|1641723550
+|switch|p1a: Tapu Koko|Tapu Koko|14/100
+|turn|20
+|
+|t:|1641723552
+|switch|p2a: Ninetales|Ninetales-Alola, M|22/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p2a: Ninetales
+|move|p1a: Tapu Koko|Roost|p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|64/100
+|-singleturn|p1a: Tapu Koko|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|58/100|[from] Hail
+|upkeep
+|turn|21
+|
+|t:|1641723565
+|switch|p2a: Tornadus|Tornadus-Therian, M|76/100 brn
+|move|p1a: Tapu Koko|Roost|p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|100/100
+|-singleturn|p1a: Tapu Koko|move: Roost
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|94/100|[from] Hail
+|-damage|p2a: Tornadus|70/100 brn|[from] Hail
+|-damage|p2a: Tornadus|64/100 brn|[from] brn
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|22
+|
+|t:|1641723577
+|move|p1a: Tapu Koko|Calm Mind|p1a: Tapu Koko
+|-boost|p1a: Tapu Koko|spa|1
+|-boost|p1a: Tapu Koko|spd|1
+|move|p2a: Tornadus|Heat Wave|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|71/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|65/100|[from] Hail
+|-damage|p2a: Tornadus|58/100 brn|[from] Hail
+|-damage|p2a: Tornadus|52/100 brn|[from] brn
+|upkeep
+|turn|23
+|
+|t:|1641723582
+|move|p1a: Tapu Koko|Roost|p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|100/100
+|-singleturn|p1a: Tapu Koko|move: Roost
+|move|p2a: Tornadus|U-turn|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|96/100
+|
+|t:|1641723594
+|switch|p2a: Arctozolt|Arctozolt|31/100|[from]move: U-turn
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|90/100|[from] Hail
+|upkeep
+|turn|24
+|j| 9skythunderouskick
+|l| SL21CC 999诸葛
+|j| SL21CC 999诸葛
+|
+|t:|1641723651
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|15/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|84/100|[from] Hail
+|-damage|p2a: Slowking|9/100|[from] Hail
+|upkeep
+|turn|25
+|
+|t:|1641723669
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|0 fnt
+|faint|p2a: Slowking
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|77/100|[from] Hail
+|upkeep
+|l| SL21CC 999诸葛
+|j| SL21CC 999诸葛
+|l| SL21CCJqlove
+|
+|t:|1641723698
+|switch|p2a: Arctozolt|Arctozolt|31/100
+|turn|26
+|
+|t:|1641723706
+|move|p2a: Arctozolt|Bolt Beak|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|29/100
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Arctozolt
+|-resisted|p2a: Arctozolt
+|-damage|p2a: Arctozolt|0 fnt
+|faint|p2a: Arctozolt
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tapu Koko|22/100|[from] Hail
+|upkeep
+|
+|t:|1641723718
+|switch|p2a: Tornadus|Tornadus-Therian, M|85/100 brn
+|turn|27
+|
+|t:|1641723722
+|move|p1a: Tapu Koko|Roost|p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|73/100
+|-singleturn|p1a: Tapu Koko|move: Roost
+|move|p2a: Tornadus|Hurricane|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|53/100
+|
+|-weather|none
+|-damage|p2a: Tornadus|79/100 brn|[from] brn
+|upkeep
+|turn|28
+|
+|t:|1641723729
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Tornadus
+|-supereffective|p2a: Tornadus
+|-damage|p2a: Tornadus|6/100 brn
+|move|p2a: Tornadus|Hurricane|p1a: Tapu Koko|[miss]
+|-miss|p2a: Tornadus|p1a: Tapu Koko
+|
+|-damage|p2a: Tornadus|0 fnt|[from] brn
+|faint|p2a: Tornadus
+|upkeep
+|-message|sl21cc jialing forfeited.
+|
+|win|sl21cc ryekie
+|raw|sl21cc ryekie's rating: 1271 &rarr; <strong>1289</strong><br />(+18 for winning)
+|raw|sl21cc jialing's rating: 1323 &rarr; <strong>1305</strong><br />(-18 for losing)
+|l|☆sl21cc jialing

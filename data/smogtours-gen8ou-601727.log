@@ -1,0 +1,398 @@
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641753489
+|gametype|singles
+|player|p1|UnzipsCrogre|unknown|
+|player|p2|Nalorium|102|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Polteageist|
+|poke|p1|Dragapult, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Mandibuzz, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Magnezone|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Dragapult, F|
+|poke|p2|Magnezone|
+|poke|p2|Tapu Fini|
+|poke|p2|Kartana|
+|poke|p2|Weavile, F|
+|teampreview
+|inactive|UnzipsCrogre has 270 seconds left.
+|inactive|Nalorium has 270 seconds left.
+|c|☆Nalorium|hf
+|
+|t:|1641753524
+|start
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|1
+|
+|t:|1641753534
+|move|p1a: Tapu Lele|Psyshock|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|59/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|66/100
+|-unboost|p1a: Tapu Lele|spa|1
+|
+|-heal|p2a: Tapu Fini|65/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1641753541
+|switch|p1a: Magnezone|Magnezone|100/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Magnezone
+|-resisted|p1a: Magnezone
+|-damage|p1a: Magnezone|81/100
+|
+|-heal|p2a: Tapu Fini|71/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641753548
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|move|p1a: Magnezone|Thunderbolt|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|4
+|
+|t:|1641753553
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|move|p2a: Landorus|Knock Off|p1a: Garchomp
+|-damage|p1a: Garchomp|39/100
+|-damage|p2a: Landorus|88/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|-enditem|p1a: Garchomp|Soft Sand|[from] move: Knock Off|[of] p2a: Landorus
+|
+|upkeep
+|turn|5
+|
+|t:|1641753559
+|switch|p2a: Tapu Fini|Tapu Fini|71/100
+|move|p1a: Garchomp|Scale Shot|p2a: Tapu Fini
+|-immune|p2a: Tapu Fini
+|
+|-heal|p2a: Tapu Fini|77/100|[from] item: Leftovers
+|-fieldend|Misty Terrain
+|upkeep
+|turn|6
+|
+|t:|1641753565
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Tapu Fini|Moonblast|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Tapu Fini|83/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641753570
+|switch|p1a: Tapu Lele|Tapu Lele|66/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|7
+|
+|t:|1641753580
+|switch|p2a: Magnezone|Magnezone|100/100
+|move|p1a: Tapu Lele|Moonblast|p2a: Magnezone
+|-resisted|p2a: Magnezone
+|-damage|p2a: Magnezone|52/100
+|
+|upkeep
+|turn|8
+|
+|t:|1641753588
+|switch|p1a: Magnezone|Magnezone|81/100
+|move|p2a: Magnezone|Iron Defense|p2a: Magnezone
+|-boost|p2a: Magnezone|def|2
+|
+|upkeep
+|turn|9
+|
+|t:|1641753591
+|move|p1a: Magnezone|Iron Defense|p1a: Magnezone
+|-boost|p1a: Magnezone|def|2
+|move|p2a: Magnezone|Body Press|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|40/100
+|-damage|p2a: Magnezone|35/100|[from] item: Rocky Helmet|[of] p1a: Magnezone
+|
+|upkeep
+|turn|10
+|
+|t:|1641753598
+|move|p1a: Magnezone|Body Press|p2a: Magnezone
+|-supereffective|p2a: Magnezone
+|-damage|p2a: Magnezone|0 fnt
+|-damage|p1a: Magnezone|24/100|[from] item: Rocky Helmet|[of] p2a: Magnezone
+|faint|p2a: Magnezone
+|
+|upkeep
+|
+|t:|1641753602
+|switch|p2a: Landorus|Landorus-Therian, M|88/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Magnezone|atk|1
+|turn|11
+|
+|t:|1641753605
+|move|p2a: Landorus|Earthquake|p1a: Magnezone
+|-supereffective|p1a: Magnezone
+|-damage|p1a: Magnezone|0 fnt
+|faint|p1a: Magnezone
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641753612
+|switch|p1a: Tapu Lele|Tapu Lele|66/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|12
+|
+|t:|1641753621
+|move|p1a: Tapu Lele|Moonblast|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|
+|t:|1641753630
+|switch|p2a: Kartana|Kartana|100/100
+|turn|13
+|
+|t:|1641753634
+|switch|p2a: Tapu Fini|Tapu Fini|83/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|
+|-heal|p2a: Tapu Fini|89/100|[from] item: Leftovers
+|upkeep
+|turn|14
+|
+|t:|1641753638
+|switch|p1a: Tapu Lele|Tapu Lele|66/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Tapu Fini|Moonblast|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|32/100
+|
+|-heal|p2a: Tapu Fini|95/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641753644
+|switch|p2a: Kartana|Kartana|100/100
+|move|p1a: Tapu Lele|Thunderbolt|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|41/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641753651
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|move|p2a: Kartana|Leaf Blade|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|82/100
+|-damage|p2a: Kartana|31/100|[from] item: Life Orb
+|
+|upkeep
+|turn|17
+|
+|t:|1641753656
+|move|p2a: Kartana|Knock Off|p1a: Mandibuzz
+|-resisted|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|68/100
+|-enditem|p1a: Mandibuzz|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Kartana
+|-damage|p2a: Kartana|21/100|[from] item: Life Orb
+|move|p1a: Mandibuzz|Knock Off|p2a: Kartana
+|-damage|p2a: Kartana|3/100
+|-enditem|p2a: Kartana|Life Orb|[from] move: Knock Off|[of] p1a: Mandibuzz
+|
+|upkeep
+|turn|18
+|
+|t:|1641753659
+|switch|p2a: Tapu Fini|Tapu Fini|95/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|100/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-heal|p2a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641753678
+|switch|p1a: Tapu Lele|Tapu Lele|32/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|move|p2a: Tapu Fini|Moonblast|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|0 fnt
+|faint|p1a: Tapu Lele
+|
+|upkeep
+|
+|t:|1641753680
+|switch|p1a: Polteageist|Polteageist|100/100
+|turn|20
+|
+|t:|1641753692
+|move|p1a: Polteageist|Shell Smash|p1a: Polteageist
+|-unboost|p1a: Polteageist|def|1
+|-unboost|p1a: Polteageist|spd|1
+|-boost|p1a: Polteageist|atk|2
+|-boost|p1a: Polteageist|spa|2
+|-boost|p1a: Polteageist|spe|2
+|move|p2a: Tapu Fini|Moonblast|p1a: Polteageist
+|-damage|p1a: Polteageist|47/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641753698
+|switch|p2a: Kartana|Kartana|3/100
+|move|p1a: Polteageist|Stored Power|p2a: Kartana
+|-resisted|p2a: Kartana
+|-damage|p2a: Kartana|0 fnt
+|faint|p2a: Kartana
+|
+|upkeep
+|
+|t:|1641753700
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|22
+|
+|t:|1641753709
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|move|p1a: Polteageist|Stored Power|p2a: Dragapult
+|-damage|p2a: Dragapult|0 fnt
+|faint|p2a: Dragapult
+|
+|upkeep
+|
+|t:|1641753711
+|switch|p2a: Weavile|Weavile, F|100/100
+|-ability|p2a: Weavile|Pressure
+|turn|23
+|
+|t:|1641753714
+|move|p2a: Weavile|Ice Shard|p1a: Polteageist
+|-damage|p1a: Polteageist|0 fnt
+|faint|p1a: Polteageist
+|
+|upkeep
+|inactive|UnzipsCrogre has 270 seconds left.
+|
+|t:|1641753760
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|24
+|
+|t:|1641753767
+|move|p2a: Weavile|Ice Shard|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|43/100
+|move|p1a: Dragapult|U-turn|p2a: Weavile
+|-supereffective|p2a: Weavile
+|-damage|p2a: Weavile|0 fnt
+|faint|p2a: Weavile
+|
+|t:|1641753772
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641753774
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|turn|25
+|
+|t:|1641753777
+|move|p2a: Tapu Fini|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|54/100
+|move|p1a: Mandibuzz|Knock Off|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|92/100
+|-enditem|p2a: Tapu Fini|Leftovers|[from] move: Knock Off|[of] p1a: Mandibuzz
+|
+|upkeep
+|turn|26
+|
+|t:|1641753785
+|move|p2a: Tapu Fini|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|12/100
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|62/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|27
+|
+|t:|1641753789
+|move|p2a: Tapu Fini|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|18/100
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|68/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|upkeep
+|turn|28
+|
+|t:|1641753796
+|move|p2a: Tapu Fini|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|20/100
+|move|p1a: Mandibuzz|Foul Play|p2a: Tapu Fini
+|-resisted|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|84/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641753799
+|move|p2a: Tapu Fini|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|upkeep
+|
+|t:|1641753800
+|switch|p1a: Dragapult|Dragapult, F|43/100
+|turn|30
+|
+|t:|1641753803
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Tapu Fini|Moonblast|p1a: Dragapult|[miss]
+|-miss|p2a: Tapu Fini|p1a: Dragapult
+|
+|upkeep
+|turn|31
+|
+|t:|1641753805
+|move|p1a: Dragapult|Phantom Force|p2a: Tapu Fini|[from]lockedmove
+|-damage|p2a: Tapu Fini|32/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|Nalorium

@@ -1,0 +1,285 @@
+|j|☆Pkmnallrounder
+|j|☆Immagamer
+|t:|1641773745
+|gametype|singles
+|player|p1|Pkmnallrounder|265|1292
+|player|p2|Immagamer|169|1317
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Charizard, M|
+|poke|p1|Torkoal, M|
+|poke|p1|Venusaur, M|
+|poke|p1|Garchomp, M|
+|poke|p1|Scizor, M|
+|poke|p1|Alakazam, M|
+|poke|p2|Crawdaunt, M|
+|poke|p2|Nidoking, M|
+|poke|p2|Zeraora|
+|poke|p2|Tangrowth, M|
+|poke|p2|Chansey, F|
+|poke|p2|Tapu Fini|
+|teampreview
+|
+|t:|1641773758
+|start
+|switch|p1a: Torkoal|Torkoal, M|100/100
+|switch|p2a: Nidoking|Nidoking, M|100/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|1
+|
+|t:|1641773774
+|move|p2a: Nidoking|Sludge Wave|p1a: Torkoal
+|-damage|p1a: Torkoal|19/100
+|move|p1a: Torkoal|Stealth Rock|p2a: Nidoking
+|-sidestart|p2: Immagamer|move: Stealth Rock
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641773785
+|switch|p1a: Charizard|Charizard, M|100/100
+|move|p2a: Nidoking|Earth Power|p1a: Charizard
+|-immune|p1a: Charizard
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard|88/100|[from] ability: Solar Power|[of] p1a: Charizard
+|upkeep
+|turn|3
+|
+|t:|1641773802
+|switch|p2a: Chansey|Chansey, F|100/100
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|move|p1a: Charizard|Scorching Sands|p2a: Chansey
+|-damage|p2a: Chansey|78/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard|76/100|[from] ability: Solar Power|[of] p1a: Charizard
+|upkeep
+|turn|4
+|
+|t:|1641773822
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|100/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|5
+|
+|t:|1641773836
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Tapu Fini|94/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641773849
+|move|p1a: Garchomp|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|25/100
+|move|p2a: Tapu Fini|Moonblast|p1a: Garchomp
+|-supereffective|p1a: Garchomp
+|-damage|p1a: Garchomp|31/100
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Tapu Fini|31/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641773895
+|move|p1a: Garchomp|Earthquake|p2a: Tapu Fini
+|-damage|p2a: Tapu Fini|0 fnt
+|faint|p2a: Tapu Fini
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|
+|t:|1641773915
+|switch|p2a: Zeraora|Zeraora|100/100
+|-damage|p2a: Zeraora|88/100|[from] Stealth Rock
+|turn|8
+|
+|t:|1641773926
+|move|p2a: Zeraora|Close Combat|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|-damage|p2a: Zeraora|76/100|[from] ability: Rough Skin|[of] p1a: Garchomp
+|faint|p1a: Garchomp
+|
+|-weather|none
+|upkeep
+|
+|t:|1641773939
+|switch|p1a: Torkoal|Torkoal, M|19/100
+|-weather|SunnyDay|[from] ability: Drought|[of] p1a: Torkoal
+|turn|9
+|
+|t:|1641773951
+|move|p2a: Zeraora|Close Combat|p1a: Torkoal
+|-damage|p1a: Torkoal|0 fnt
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|faint|p1a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641773961
+|switch|p1a: Venusaur|Venusaur, M|100/100
+|turn|10
+|
+|t:|1641773968
+|switch|p2a: Chansey|Chansey, F|100/100
+|-damage|p2a: Chansey|88/100|[from] Stealth Rock
+|move|p1a: Venusaur|Earth Power|p2a: Chansey
+|-damage|p2a: Chansey|76/100
+|-damage|p1a: Venusaur|91/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1641773979
+|move|p1a: Venusaur|Sludge Bomb|p2a: Chansey
+|-damage|p2a: Chansey|57/100
+|-status|p2a: Chansey|psn
+|-damage|p1a: Venusaur|81/100|[from] item: Life Orb
+|move|p2a: Chansey|Seismic Toss|p1a: Venusaur
+|-damage|p1a: Venusaur|48/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Chansey|45/100 psn|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641774004
+|move|p1a: Venusaur|Giga Drain|p2a: Chansey
+|-damage|p2a: Chansey|31/100 psn
+|-heal|p1a: Venusaur|64/100|[from] drain|[of] p2a: Chansey
+|-damage|p1a: Venusaur|54/100|[from] item: Life Orb
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|81/100 psn
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Chansey|68/100 psn|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641774015
+|switch|p1a: Charizard|Charizard, M|76/100
+|move|p2a: Chansey|Aromatherapy|p2a: Chansey
+|-activate|p2a: Chansey|move: Aromatherapy
+|-curestatus|p2a: Chansey|psn|[msg]
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard|63/100|[from] ability: Solar Power|[of] p1a: Charizard
+|upkeep
+|turn|14
+|
+|t:|1641774070
+|move|p1a: Charizard|Flamethrower|p2a: Chansey
+|-crit|p2a: Chansey
+|-damage|p2a: Chansey|23/100
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|73/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard|51/100|[from] ability: Solar Power|[of] p1a: Charizard
+|upkeep
+|turn|15
+|
+|t:|1641774087
+|move|p1a: Charizard|Flamethrower|p2a: Chansey
+|-damage|p2a: Chansey|46/100
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|96/100
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Charizard|38/100|[from] ability: Solar Power|[of] p1a: Charizard
+|upkeep
+|turn|16
+|
+|t:|1641774103
+|switch|p1a: Scizor|Scizor, M|100/100
+|move|p2a: Chansey|Seismic Toss|p1a: Scizor
+|-damage|p1a: Scizor|71/100
+|
+|-weather|none
+|upkeep
+|turn|17
+|
+|t:|1641774120
+|switch|p2a: Zeraora|Zeraora|76/100
+|-damage|p2a: Zeraora|64/100|[from] Stealth Rock
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|
+|upkeep
+|turn|18
+|
+|t:|1641774131
+|move|p1a: Scizor|Bullet Punch|p2a: Zeraora
+|-resisted|p2a: Zeraora
+|-damage|p2a: Zeraora|18/100
+|move|p2a: Zeraora|Blaze Kick|p1a: Scizor
+|-supereffective|p1a: Scizor
+|-crit|p1a: Scizor
+|-damage|p1a: Scizor|0 fnt
+|faint|p1a: Scizor
+|
+|upkeep
+|
+|t:|1641774142
+|switch|p1a: Alakazam|Alakazam, M|100/100
+|turn|19
+|
+|t:|1641774196
+|switch|p2a: Chansey|Chansey, F|96/100
+|-damage|p2a: Chansey|84/100|[from] Stealth Rock
+|move|p1a: Alakazam|Psyshock|p2a: Chansey
+|-damage|p2a: Chansey|45/100
+|
+|upkeep
+|turn|20
+|
+|t:|1641774204
+|move|p1a: Alakazam|Psyshock|p2a: Chansey
+|-damage|p2a: Chansey|6/100
+|move|p2a: Chansey|Soft-Boiled|p2a: Chansey
+|-heal|p2a: Chansey|56/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641774210
+|switch|p2a: Crawdaunt|Crawdaunt, M|100/100
+|-damage|p2a: Crawdaunt|88/100|[from] Stealth Rock
+|move|p1a: Alakazam|Psyshock|p2a: Crawdaunt
+|-immune|p2a: Crawdaunt
+|
+|upkeep
+|turn|22
+|-message|Pkmnallrounder forfeited.
+|
+|win|Immagamer
+|raw|Pkmnallrounder's rating: 1292 &rarr; <strong>1269</strong><br />(-23 for losing)
+|raw|Immagamer's rating: 1317 &rarr; <strong>1336</strong><br />(+19 for winning)
+|l|☆Pkmnallrounder

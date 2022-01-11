@@ -1,0 +1,86 @@
+|j|☆noobmaster1309
+|j|☆yogo896
+|t:|1641875139
+|gametype|singles
+|player|p1|noobmaster1309|whitney|1326
+|player|p2|yogo896|caitlin|1286
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Torracat, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Zapdos|
+|poke|p1|Weavile, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Dragonite, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Slowbro, F|
+|poke|p2|Hippowdon, M|
+|poke|p2|Corviknight, F|
+|poke|p2|Weavile, F|
+|poke|p2|Tapu Koko|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by yogo896)
+|
+|t:|1641875150
+|start
+|switch|p1a: Weavile|Weavile, F|100/100
+|switch|p2a: Hippowdon|Hippowdon, M|100/100
+|-ability|p1a: Weavile|Pressure
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|turn|1
+|
+|t:|1641875160
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Weavile|Swords Dance|p1a: Weavile
+|-boost|p1a: Weavile|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|94/100|[from] Sandstorm
+|upkeep
+|turn|2
+|
+|t:|1641875172
+|move|p1a: Weavile|Knock Off|p2a: Corviknight
+|-damage|p2a: Corviknight|34/100
+|-enditem|p2a: Corviknight|Leftovers|[from] move: Knock Off|[of] p1a: Weavile
+|move|p2a: Corviknight|U-turn|p1a: Weavile
+|-supereffective|p1a: Weavile
+|-damage|p1a: Weavile|43/100
+|
+|t:|1641875179
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Weavile|atk|1
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|37/100|[from] Sandstorm
+|upkeep
+|turn|3
+|
+|t:|1641875189
+|move|p1a: Weavile|Ice Shard|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Weavile|31/100|[from] Sandstorm
+|upkeep
+|-message|yogo896 forfeited.
+|
+|win|noobmaster1309
+|raw|noobmaster1309's rating: 1326 &rarr; <strong>1344</strong><br />(+18 for winning)
+|raw|yogo896's rating: 1286 &rarr; <strong>1264</strong><br />(-22 for losing)
+|l|☆yogo896

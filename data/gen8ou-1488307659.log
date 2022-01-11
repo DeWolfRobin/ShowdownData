@@ -1,0 +1,173 @@
+|j|☆Levi41
+|j|☆Hyperoffense2022
+|t:|1641749137
+|gametype|singles
+|player|p1|Levi41|mars|1338
+|player|p2|Hyperoffense2022|2|1392
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Magnezone|
+|poke|p1|Kartana|
+|poke|p1|Tapu Lele|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Dragonite, M|
+|poke|p2|Kommo-o, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Bisharp, F|
+|poke|p2|Zeraora|
+|poke|p2|Tapu Koko|
+|poke|p2|Hawlucha, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Hyperoffense2022)
+|
+|t:|1641749144
+|start
+|switch|p1a: Timekeeper|Landorus-Therian, M, shiny|100/100
+|switch|p2a: Mr Miyagi|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Mr Miyagi
+|-ability|p1a: Timekeeper|Intimidate|boost
+|-unboost|p2a: Mr Miyagi|atk|1
+|turn|1
+|
+|t:|1641749162
+|switch|p2a: Daniel La Russo|Hawlucha, F|100/100
+|-enditem|p2a: Daniel La Russo|Electric Seed
+|-boost|p2a: Daniel La Russo|def|1|[from] item: Electric Seed
+|move|p1a: Timekeeper|U-turn|p2a: Daniel La Russo
+|-resisted|p2a: Daniel La Russo
+|-damage|p2a: Daniel La Russo|95/100
+|
+|t:|1641749167
+|switch|p1a: Old Times Dragon|Dragonite, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|2
+|
+|t:|1641749169
+|move|p2a: Daniel La Russo|Swords Dance|p2a: Daniel La Russo
+|-boost|p2a: Daniel La Russo|atk|2
+|move|p1a: Old Times Dragon|Dual Wingbeat|p2a: Daniel La Russo
+|-supereffective|p2a: Daniel La Russo
+|-damage|p2a: Daniel La Russo|54/100
+|-supereffective|p2a: Daniel La Russo
+|-damage|p2a: Daniel La Russo|18/100
+|-hitcount|p2a: Daniel La Russo|2
+|
+|upkeep
+|turn|3
+|
+|t:|1641749177
+|move|p2a: Daniel La Russo|Stone Edge|p1a: Old Times Dragon|[miss]
+|-miss|p2a: Daniel La Russo|p1a: Old Times Dragon
+|move|p1a: Old Times Dragon|Dual Wingbeat|p2a: Daniel La Russo
+|-supereffective|p2a: Daniel La Russo
+|-damage|p2a: Daniel La Russo|0 fnt
+|faint|p2a: Daniel La Russo
+|-hitcount|p2: Daniel La Russo|1
+|
+|upkeep
+|
+|t:|1641749192
+|switch|p2a: Mr Miyagi|Tapu Koko|100/100
+|turn|4
+|
+|t:|1641749203
+|switch|p1a: Timekeeper|Landorus-Therian, M, shiny|100/100
+|-ability|p1a: Timekeeper|Intimidate|boost
+|-unboost|p2a: Mr Miyagi|atk|1
+|move|p2a: Mr Miyagi|Dazzling Gleam|p1a: Timekeeper
+|-damage|p1a: Timekeeper|75/100
+|
+|-heal|p1a: Timekeeper|81/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641749212
+|switch|p2a: Robby keane|Volcarona, M|100/100
+|move|p1a: Timekeeper|Earthquake|p2a: Robby keane
+|-damage|p2a: Robby keane|32/100
+|
+|-heal|p1a: Timekeeper|87/100|[from] item: Leftovers
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|6
+|
+|t:|1641749219
+|move|p2a: Robby keane|Fiery Dance|p1a: Timekeeper
+|-damage|p1a: Timekeeper|55/100
+|move|p1a: Timekeeper|Earthquake|p2a: Robby keane
+|-damage|p2a: Robby keane|0 fnt
+|faint|p2a: Robby keane
+|
+|-heal|p1a: Timekeeper|61/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641749227
+|switch|p2a: Johnny Lawrence|Kommo-o, M|100/100
+|turn|7
+|
+|t:|1641749232
+|move|p2a: Johnny Lawrence|Substitute|p2a: Johnny Lawrence
+|-start|p2a: Johnny Lawrence|Substitute
+|-damage|p2a: Johnny Lawrence|75/100
+|move|p1a: Timekeeper|Earthquake|p2a: Johnny Lawrence
+|-end|p2a: Johnny Lawrence|Substitute
+|
+|-heal|p1a: Timekeeper|67/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641749239
+|move|p2a: Johnny Lawrence|Belly Drum|p2a: Johnny Lawrence
+|-damage|p2a: Johnny Lawrence|25/100
+|-setboost|p2a: Johnny Lawrence|atk|6|[from] move: Belly Drum
+|-enditem|p2a: Johnny Lawrence|Salac Berry|[eat]
+|-boost|p2a: Johnny Lawrence|spe|1|[from] item: Salac Berry
+|move|p1a: Timekeeper|Earthquake|p2a: Johnny Lawrence
+|-damage|p2a: Johnny Lawrence|0 fnt
+|faint|p2a: Johnny Lawrence
+|
+|-heal|p1a: Timekeeper|73/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641749249
+|switch|p2a: Mr Miyagi|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p2a: Mr Miyagi
+|turn|9
+|
+|t:|1641749253
+|move|p2a: Mr Miyagi|Grass Knot|p1a: Timekeeper
+|-damage|p1a: Timekeeper|55/100
+|move|p1a: Timekeeper|Earthquake|p2a: Mr Miyagi
+|-supereffective|p2a: Mr Miyagi
+|-damage|p2a: Mr Miyagi|0 fnt
+|faint|p2a: Mr Miyagi
+|
+|-heal|p1a: Timekeeper|61/100|[from] item: Leftovers
+|upkeep
+|l|☆Hyperoffense2022
+|inactive|Hyperoffense2022 disconnected and has a minute to reconnect!
+|player|p2|
+|inactive|Hyperoffense2022 has 30 seconds to reconnect!
+|inactive|Hyperoffense2022 has 20 seconds to reconnect!
+|inactive|Hyperoffense2022 has 15 seconds to reconnect!
+|inactive|Hyperoffense2022 has 10 seconds to reconnect!
+|c|☆Levi41|Going 5-0 to spd lando
+|inactive|Hyperoffense2022 has 5 seconds to reconnect!
+|-message|Hyperoffense2022 lost due to inactivity.
+|
+|win|Levi41
+|raw|Levi41's rating: 1338 &rarr; <strong>1361</strong><br />(+23 for winning)
+|raw|Hyperoffense2022's rating: 1392 &rarr; <strong>1369</strong><br />(-23 for losing)

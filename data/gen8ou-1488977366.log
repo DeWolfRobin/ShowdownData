@@ -1,0 +1,397 @@
+|j|☆Storm879
+|j|‽TheLakeHouse
+|t:|1641842584
+|gametype|singles
+|player|p1|Storm879|steven|1378
+|player|p2|TheLakeHouse|crasherwake|1331
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Terrakion|
+|poke|p1|Volcarona, F|
+|poke|p1|Rotom-Wash|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Azumarill, F|
+|poke|p1|Dragapult, F|
+|poke|p2|Garchomp, F|
+|poke|p2|Melmetal|
+|poke|p2|Corviknight, F|
+|poke|p2|Latias, F|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Weezing-Galar, F|
+|teampreview
+|
+|t:|1641842599
+|start
+|switch|p1a: Azumarill|Azumarill, F|100/100
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|1
+|
+|t:|1641842606
+|move|p2a: Urshifu|U-turn|p1a: Azumarill
+|-resisted|p1a: Azumarill
+|-damage|p1a: Azumarill|86/100
+|
+|t:|1641842608
+|switch|p2a: Corviknight|Corviknight, F|100/100|[from]move: U-turn
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Azumarill|Play Rough|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|-damage|p1a: Azumarill|69/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|
+|upkeep
+|turn|2
+|
+|t:|1641842618
+|switch|p1a: Rotom|Rotom-Wash|100/100
+|move|p2a: Corviknight|Body Press|p1a: Rotom
+|-damage|p1a: Rotom|74/100
+|
+|-heal|p1a: Rotom|80/100|[from] item: Leftovers
+|upkeep
+|turn|3
+|
+|t:|1641842630
+|switch|p1a: Azumarill|Azumarill, F|69/100
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|
+|upkeep
+|turn|4
+|
+|t:|1641842637
+|move|p2a: Garchomp|Stealth Rock|p1a: Azumarill
+|-sidestart|p1: Storm879|move: Stealth Rock
+|move|p1a: Azumarill|Belly Drum|p1a: Azumarill
+|-damage|p1a: Azumarill|19/100
+|-setboost|p1a: Azumarill|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Azumarill|Sitrus Berry|[eat]
+|-heal|p1a: Azumarill|44/100|[from] item: Sitrus Berry
+|
+|upkeep
+|turn|5
+|
+|t:|1641842644
+|move|p1a: Azumarill|Aqua Jet|p2a: Garchomp
+|-damage|p2a: Garchomp|41/100
+|-damage|p1a: Azumarill|31/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Azumarill|15/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|move|p2a: Garchomp|Earthquake|p1a: Azumarill
+|-damage|p1a: Azumarill|0 fnt
+|faint|p1a: Azumarill
+|
+|upkeep
+|
+|t:|1641842660
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|-damage|p1a: Ferrothorn|94/100|[from] Stealth Rock
+|turn|6
+|
+|t:|1641842667
+|move|p2a: Garchomp|Fire Blast|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|19/100
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Garchomp
+|-sidestart|p2: TheLakeHouse|move: Stealth Rock
+|
+|-heal|p1a: Ferrothorn|25/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641842674
+|switch|p1a: Rotom|Rotom-Wash|80/100
+|-damage|p1a: Rotom|68/100|[from] Stealth Rock
+|move|p2a: Garchomp|Toxic|p1a: Rotom
+|-status|p1a: Rotom|tox
+|
+|-heal|p1a: Rotom|74/100 tox|[from] item: Leftovers
+|-damage|p1a: Rotom|68/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641842683
+|switch|p2a: Weezing|Weezing-Galar, F|100/100
+|-damage|p2a: Weezing|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Weezing
+|move|p1a: Rotom|Hydro Pump|p2a: Weezing
+|-damage|p2a: Weezing|50/100
+|
+|-heal|p1a: Rotom|74/100 tox|[from] item: Leftovers
+|-heal|p2a: Weezing|56/100|[from] item: Black Sludge
+|-damage|p1a: Rotom|61/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641842694
+|move|p1a: Rotom|Defog|p2a: Weezing
+|-unboost|p2a: Weezing|evasion|1
+|-sideend|p2: TheLakeHouse|Stealth Rock|[from] move: Defog|[of] p1a: Rotom
+|-sideend|p1: Storm879|Stealth Rock|[from] move: Defog|[of] p1a: Rotom
+|-fieldend|Misty Terrain
+|move|p2a: Weezing|Will-O-Wisp||[still]
+|-fail|p2a: Weezing
+|
+|-heal|p1a: Rotom|68/100 tox|[from] item: Leftovers
+|-heal|p2a: Weezing|62/100|[from] item: Black Sludge
+|-damage|p1a: Rotom|49/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641842704
+|move|p1a: Rotom|Thunder Wave|p2a: Weezing
+|-status|p2a: Weezing|par
+|move|p2a: Weezing|Strange Steam|p1a: Rotom
+|-damage|p1a: Rotom|25/100 tox
+|
+|-heal|p1a: Rotom|31/100 tox|[from] item: Leftovers
+|-heal|p2a: Weezing|68/100 par|[from] item: Black Sludge
+|-damage|p1a: Rotom|6/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641842718
+|move|p1a: Rotom|Hydro Pump|p2a: Weezing
+|-damage|p2a: Weezing|34/100 par
+|move|p2a: Weezing|Sludge Wave|p1a: Rotom
+|-damage|p1a: Rotom|0 fnt
+|faint|p1a: Rotom
+|
+|-heal|p2a: Weezing|40/100 par|[from] item: Black Sludge
+|upkeep
+|
+|t:|1641842727
+|switch|p1a: Terrakion|Terrakion|100/100
+|turn|12
+|
+|t:|1641842733
+|switch|p2a: Garchomp|Garchomp, F|41/100
+|move|p1a: Terrakion|Iron Head|p2a: Garchomp
+|-damage|p2a: Garchomp|17/100
+|-damage|p1a: Terrakion|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Terrakion|72/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|
+|upkeep
+|turn|13
+|
+|t:|1641842747
+|move|p1a: Terrakion|Iron Head|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Terrakion|59/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|-damage|p1a: Terrakion|43/100|[from] item: Rocky Helmet|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641842749
+|switch|p2a: Corviknight|Corviknight, F|82/100
+|-ability|p2a: Corviknight|Pressure
+|turn|14
+|
+|t:|1641842756
+|switch|p1a: Ferrothorn|Ferrothorn, M|25/100
+|move|p2a: Corviknight|Drill Peck|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|12/100
+|-damage|p2a: Corviknight|70/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|
+|-heal|p1a: Ferrothorn|18/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641842763
+|move|p2a: Corviknight|Body Press|p1a: Ferrothorn
+|-supereffective|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|-damage|p2a: Corviknight|58/100|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641842769
+|switch|p1a: Volcarona|Volcarona, F|100/100
+|turn|16
+|
+|t:|1641842774
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|move|p1a: Volcarona|Flamethrower|p2a: Urshifu
+|-resisted|p2a: Urshifu
+|-damage|p2a: Urshifu|72/100
+|
+|upkeep
+|turn|17
+|
+|t:|1641842782
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|move|p2a: Urshifu|Surging Strikes|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|88/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|75/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|62/100
+|-hitcount|p1a: Dragapult|3
+|
+|upkeep
+|turn|18
+|
+|t:|1641842792
+|switch|p2a: Weezing|Weezing-Galar, F|40/100 par
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Weezing
+|move|p1a: Dragapult|Thunder Wave|p2a: Weezing
+|-fail|p2a: Weezing|par
+|
+|-heal|p2a: Weezing|46/100 par|[from] item: Black Sludge
+|upkeep
+|turn|19
+|
+|t:|1641842801
+|move|p1a: Dragapult|Hex|p2a: Weezing
+|-damage|p2a: Weezing|0 fnt
+|faint|p2a: Weezing
+|
+|upkeep
+|
+|t:|1641842809
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|20
+|
+|t:|1641842815
+|move|p1a: Dragapult|U-turn|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|96/100
+|
+|t:|1641842818
+|switch|p1a: Volcarona|Volcarona, F|100/100|[from]move: U-turn
+|move|p2a: Melmetal|Double Iron Bash|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|77/100
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|56/100
+|-hitcount|p1a: Volcarona|2
+|
+|upkeep
+|turn|21
+|
+|t:|1641842826
+|move|p1a: Volcarona|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|39/100
+|move|p2a: Melmetal|Earthquake|p1a: Volcarona
+|-damage|p1a: Volcarona|14/100
+|
+|upkeep
+|turn|22
+|
+|t:|1641842836
+|move|p1a: Volcarona|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|0 fnt
+|faint|p2a: Melmetal
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641842840
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|72/100
+|turn|23
+|
+|t:|1641842851
+|move|p2a: Urshifu|Surging Strikes|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-crit|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-hitcount|p1: Volcarona|1
+|
+|upkeep
+|
+|t:|1641842857
+|switch|p1a: Dragapult|Dragapult, F|62/100
+|turn|24
+|
+|t:|1641842865
+|move|p2a: Urshifu|Surging Strikes|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|48/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|36/100
+|-resisted|p1a: Dragapult
+|-crit|p1a: Dragapult
+|-damage|p1a: Dragapult|23/100
+|-hitcount|p1a: Dragapult|3
+|move|p1a: Dragapult|Thunder Wave|p2a: Urshifu
+|-status|p2a: Urshifu|par
+|
+|upkeep
+|turn|25
+|
+|t:|1641842876
+|move|p1a: Dragapult|Hex|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1641842882
+|switch|p2a: Latias|Latias, F|100/100
+|turn|26
+|
+|t:|1641842885
+|move|p1a: Dragapult|Draco Meteor|p2a: Latias
+|-supereffective|p2a: Latias
+|-damage|p2a: Latias|26/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Latias|Dragon Pulse|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|
+|t:|1641842893
+|switch|p1a: Terrakion|Terrakion|43/100
+|turn|27
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by TheLakeHouse)
+|
+|t:|1641842896
+|move|p1a: Terrakion|Close Combat|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|faint|p2a: Latias
+|
+|upkeep
+|
+|t:|1641842898
+|switch|p2a: Corviknight|Corviknight, F|58/100
+|-ability|p2a: Corviknight|Pressure
+|turn|28
+|
+|t:|1641842905
+|move|p1a: Terrakion|Close Combat|p2a: Corviknight
+|-damage|p2a: Corviknight|0 fnt
+|-unboost|p1a: Terrakion|def|1
+|-unboost|p1a: Terrakion|spd|1
+|-damage|p1a: Terrakion|27/100|[from] item: Rocky Helmet|[of] p2a: Corviknight
+|faint|p2a: Corviknight
+|
+|win|Storm879
+|raw|Storm879's rating: 1378 &rarr; <strong>1395</strong><br />(+17 for winning)
+|raw|TheLakeHouse's rating: 1331 &rarr; <strong>1314</strong><br />(-17 for losing)
+|c|☆Storm879|gg wp
+|l|‽TheLakeHouse

@@ -1,0 +1,412 @@
+|j|☆Nighty666
+|j|☆Ferroseedz
+|t:|1641755592
+|gametype|singles
+|player|p1|Nighty666|shadowtriad|1048
+|player|p2|Ferroseedz|2|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Rhyperior, F|
+|poke|p1|Dusknoir, M|
+|poke|p1|Metagross|
+|poke|p1|Magmortar, F|
+|poke|p1|Walrein, F|
+|poke|p2|Salazzle, F|
+|poke|p2|Umbreon, F|
+|poke|p2|Clefable, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Slowbro, F|
+|poke|p2|Ferroseed, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ferroseedz)
+|
+|t:|1641755607
+|start
+|switch|p1a: Rokhvark|Garchomp, M, shiny|100/100
+|switch|p2a: Slowbro|Slowbro, F|100/100
+|turn|1
+|
+|t:|1641755622
+|move|p1a: Rokhvark|Stone Edge|p2a: Slowbro
+|-damage|p2a: Slowbro|73/100
+|-damage|p1a: Rokhvark|91/100|[from] item: Life Orb
+|move|p2a: Slowbro|Scald|p1a: Rokhvark
+|-damage|p1a: Rokhvark|60/100
+|-status|p1a: Rokhvark|brn
+|
+|-damage|p1a: Rokhvark|53/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641755638
+|move|p1a: Rokhvark|Stealth Rock|p2a: Slowbro
+|-sidestart|p2: Ferroseedz|move: Stealth Rock
+|move|p2a: Slowbro|Future Sight|p1a: Rokhvark
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-damage|p1a: Rokhvark|47/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641755644
+|move|p1a: Rokhvark|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|53/100
+|-damage|p1a: Rokhvark|37/100 brn|[from] item: Life Orb
+|move|p2a: Slowbro|Scald|p1a: Rokhvark
+|-damage|p1a: Rokhvark|5/100 brn
+|
+|-damage|p1a: Rokhvark|0 fnt|[from] brn
+|faint|p1a: Rokhvark
+|upkeep
+|
+|t:|1641755663
+|switch|p1a: SpiderSteelMan|Metagross, shiny|100/100
+|turn|4
+|
+|t:|1641755669
+|move|p1a: SpiderSteelMan|Meteor Mash|p2a: Slowbro
+|-resisted|p2a: Slowbro
+|-damage|p2a: Slowbro|38/100
+|move|p2a: Slowbro|Thunder Wave|p1a: SpiderSteelMan
+|-status|p1a: SpiderSteelMan|par
+|
+|-end|p1a: SpiderSteelMan|move: Future Sight
+|-resisted|p1a: SpiderSteelMan
+|-damage|p1a: SpiderSteelMan|88/100 par
+|upkeep
+|turn|5
+|
+|t:|1641755677
+|move|p1a: SpiderSteelMan|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|16/100
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|66/100
+|
+|upkeep
+|turn|6
+|
+|t:|1641755683
+|move|p1a: SpiderSteelMan|Toxic|p2a: Slowbro
+|-status|p2a: Slowbro|tox
+|move|p2a: Slowbro|Future Sight|p1a: SpiderSteelMan
+|-start|p2a: Slowbro|move: Future Sight
+|
+|-damage|p2a: Slowbro|60/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641755689
+|cant|p1a: SpiderSteelMan|par
+|move|p2a: Slowbro|Scald|p1a: SpiderSteelMan
+|-damage|p1a: SpiderSteelMan|58/100 par
+|
+|-damage|p2a: Slowbro|47/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641755695
+|move|p1a: SpiderSteelMan|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|25/100 tox
+|move|p2a: Slowbro|Scald|p1a: SpiderSteelMan
+|-damage|p1a: SpiderSteelMan|26/100 par
+|
+|-end|p1a: SpiderSteelMan|move: Future Sight
+|-resisted|p1a: SpiderSteelMan
+|-damage|p1a: SpiderSteelMan|14/100 par
+|-damage|p2a: Slowbro|7/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641755708
+|move|p1a: SpiderSteelMan|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|faint|p2a: Slowbro
+|
+|upkeep
+|
+|t:|1641755710
+|switch|p2a: Ferroseed|Ferroseed, M, shiny|100/100
+|-damage|p2a: Ferroseed|94/100|[from] Stealth Rock
+|turn|10
+|
+|t:|1641755716
+|move|p1a: SpiderSteelMan|Earthquake|p2a: Ferroseed
+|-crit|p2a: Ferroseed
+|-damage|p2a: Ferroseed|57/100
+|move|p2a: Ferroseed|Spikes|p1a: SpiderSteelMan
+|-sidestart|p1: Nighty666|Spikes
+|
+|upkeep
+|turn|11
+|
+|t:|1641755721
+|cant|p1a: SpiderSteelMan|par
+|move|p2a: Ferroseed|Leech Seed|p1a: SpiderSteelMan
+|-start|p1a: SpiderSteelMan|move: Leech Seed
+|
+|-damage|p1a: SpiderSteelMan|2/100 par|[from] Leech Seed|[of] p2a: Ferroseed
+|-heal|p2a: Ferroseed|70/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641755729
+|cant|p1a: SpiderSteelMan|par
+|move|p2a: Ferroseed|Stealth Rock|p1a: SpiderSteelMan
+|-sidestart|p1: Nighty666|move: Stealth Rock
+|
+|-damage|p1a: SpiderSteelMan|0 fnt|[from] Leech Seed|[of] p2a: Ferroseed
+|-heal|p2a: Ferroseed|72/100|[silent]
+|faint|p1a: SpiderSteelMan
+|upkeep
+|
+|t:|1641755738
+|switch|p1a: HotClown|Magmortar, F, shiny|100/100
+|-damage|p1a: HotClown|88/100|[from] Spikes
+|-damage|p1a: HotClown|63/100|[from] Stealth Rock
+|turn|13
+|
+|t:|1641755744
+|move|p1a: HotClown|Fire Blast|p2a: Ferroseed
+|-supereffective|p2a: Ferroseed
+|-damage|p2a: Ferroseed|0 fnt
+|faint|p2a: Ferroseed
+|
+|upkeep
+|
+|t:|1641755750
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|14
+|
+|t:|1641755755
+|move|p1a: HotClown|Taunt|p2a: Clefable
+|-start|p2a: Clefable|move: Taunt
+|cant|p2a: Clefable|move: Taunt|Trick
+|
+|upkeep
+|turn|15
+|
+|t:|1641755760
+|move|p1a: HotClown|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|73/100
+|move|p2a: Clefable|Moonblast|p1a: HotClown
+|-resisted|p1a: HotClown
+|-damage|p1a: HotClown|42/100
+|-unboost|p1a: HotClown|spa|1
+|
+|upkeep
+|turn|16
+|
+|t:|1641755768
+|move|p1a: HotClown|Thunderbolt|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|33/100
+|move|p2a: Clefable|Moonblast|p1a: HotClown
+|-resisted|p1a: HotClown
+|-damage|p1a: HotClown|25/100
+|-unboost|p1a: HotClown|spa|1
+|
+|-end|p2a: Clefable|move: Taunt
+|upkeep
+|turn|17
+|
+|t:|1641755776
+|move|p1a: HotClown|Thunderbolt|p2a: Clefable
+|-damage|p2a: Clefable|21/100
+|-status|p2a: Clefable|par
+|move|p2a: Clefable|Moonblast|p1a: HotClown
+|-resisted|p1a: HotClown
+|-damage|p1a: HotClown|7/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641755785
+|move|p1a: HotClown|Fire Blast|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641755790
+|switch|p2a: Salazzle|Salazzle, F|100/100
+|-damage|p2a: Salazzle|76/100|[from] Stealth Rock
+|turn|19
+|
+|t:|1641755801
+|move|p2a: Salazzle|Flamethrower|p1a: HotClown
+|-resisted|p1a: HotClown
+|-damage|p1a: HotClown|0 fnt
+|faint|p1a: HotClown
+|
+|-heal|p2a: Salazzle|82/100|[from] item: Black Sludge
+|upkeep
+|
+|t:|1641755808
+|switch|p1a: Pinky|Walrein, F, shiny|100/100
+|-damage|p1a: Pinky|88/100|[from] Spikes
+|-damage|p1a: Pinky|63/100|[from] Stealth Rock
+|turn|20
+|
+|t:|1641755814
+|move|p2a: Salazzle|Substitute|p2a: Salazzle
+|-start|p2a: Salazzle|Substitute
+|-damage|p2a: Salazzle|57/100
+|move|p1a: Pinky|Surf|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-end|p2a: Salazzle|Substitute
+|
+|-heal|p2a: Salazzle|63/100|[from] item: Black Sludge
+|upkeep
+|turn|21
+|
+|t:|1641755821
+|move|p2a: Salazzle|Toxic|p1a: Pinky
+|-status|p1a: Pinky|tox
+|move|p1a: Pinky|Surf|p2a: Salazzle
+|-supereffective|p2a: Salazzle
+|-damage|p2a: Salazzle|0 fnt
+|faint|p2a: Salazzle
+|
+|-damage|p1a: Pinky|57/100 tox|[from] psn
+|upkeep
+|
+|t:|1641755824
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|turn|22
+|
+|t:|1641755831
+|move|p2a: Dragonite|Dragon Dance|p2a: Dragonite
+|-boost|p2a: Dragonite|atk|1
+|-boost|p2a: Dragonite|spe|1
+|move|p1a: Pinky|Super Fang|p2a: Dragonite
+|-damage|p2a: Dragonite|51/100
+|
+|-damage|p1a: Pinky|45/100 tox|[from] psn
+|upkeep
+|-enditem|p1a: Pinky|Berry Juice
+|-heal|p1a: Pinky|50/100 tox|[from] item: Berry Juice
+|turn|23
+|
+|t:|1641755842
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Pinky|Toxic|p2a: Dragonite|[miss]
+|-miss|p1a: Pinky|p2a: Dragonite
+|
+|-damage|p1a: Pinky|31/100 tox|[from] psn
+|upkeep
+|turn|24
+|
+|t:|1641755850
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Pinky
+|-damage|p1a: Pinky|2/100 tox
+|-damage|p1a: Pinky|0 fnt
+|faint|p1a: Pinky
+|-hitcount|p1: Pinky|2
+|
+|upkeep
+|
+|t:|1641755858
+|switch|p1a: Scp1560|Dusknoir, M, shiny|100/100
+|-damage|p1a: Scp1560|88/100|[from] Spikes
+|-damage|p1a: Scp1560|76/100|[from] Stealth Rock
+|-item|p2a: Dragonite|Heavy-Duty Boots|[from] ability: Frisk|[of] p1a: Scp1560|[identify]
+|turn|25
+|
+|t:|1641755864
+|move|p2a: Dragonite|Dual Wingbeat|p1a: Scp1560
+|-damage|p1a: Scp1560|43/100
+|-enditem|p1a: Scp1560|Sitrus Berry|[eat]
+|-heal|p1a: Scp1560|68/100|[from] item: Sitrus Berry
+|-damage|p1a: Scp1560|34/100
+|-hitcount|p1a: Scp1560|2
+|move|p1a: Scp1560|Ice Punch|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|47/100
+|-status|p2a: Dragonite|frz
+|
+|upkeep
+|turn|26
+|
+|t:|1641755874
+|cant|p2a: Dragonite|frz
+|move|p1a: Scp1560|Ice Punch|p2a: Dragonite
+|-supereffective|p2a: Dragonite
+|-damage|p2a: Dragonite|0 fnt
+|faint|p2a: Dragonite
+|
+|upkeep
+|
+|t:|1641755875
+|switch|p2a: Umbreon|Umbreon, F, shiny|100/100
+|-damage|p2a: Umbreon|88/100|[from] Stealth Rock
+|turn|27
+|
+|t:|1641755883
+|move|p1a: Scp1560|Shadow Sneak|p2a: Umbreon
+|-resisted|p2a: Umbreon
+|-damage|p2a: Umbreon|81/100
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|
+|-heal|p2a: Umbreon|87/100|[from] item: Leftovers
+|upkeep
+|turn|28
+|
+|t:|1641755891
+|move|p2a: Umbreon|Foul Play|p1a: Scp1560
+|-supereffective|p1a: Scp1560
+|-damage|p1a: Scp1560|0 fnt
+|faint|p1a: Scp1560
+|
+|-heal|p2a: Umbreon|100/100|[from] move: Wish|[wisher] Umbreon
+|upkeep
+|
+|t:|1641755897
+|switch|p1a: Rhynoferus|Rhyperior, F, shiny|100/100
+|-damage|p1a: Rhynoferus|88/100|[from] Spikes
+|-damage|p1a: Rhynoferus|82/100|[from] Stealth Rock
+|turn|29
+|
+|t:|1641755904
+|move|p2a: Umbreon|Wish|p2a: Umbreon
+|move|p1a: Rhynoferus|Swords Dance|p1a: Rhynoferus
+|-boost|p1a: Rhynoferus|atk|2
+|
+|-heal|p1a: Rhynoferus|88/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641755910
+|move|p2a: Umbreon|Foul Play|p1a: Rhynoferus
+|-crit|p1a: Rhynoferus
+|-damage|p1a: Rhynoferus|3/100
+|move|p1a: Rhynoferus|Earthquake|p2a: Umbreon
+|-damage|p2a: Umbreon|14/100
+|
+|-heal|p2a: Umbreon|64/100|[from] move: Wish|[wisher] Umbreon
+|-heal|p2a: Umbreon|70/100|[from] item: Leftovers
+|-heal|p1a: Rhynoferus|10/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641755920
+|move|p2a: Umbreon|Foul Play|p1a: Rhynoferus
+|-damage|p1a: Rhynoferus|0 fnt
+|faint|p1a: Rhynoferus
+|
+|win|Ferroseedz
+|raw|Nighty666's rating: 1048 &rarr; <strong>1028</strong><br />(-20 for losing)
+|raw|Ferroseedz's rating: 1000 &rarr; <strong>1045</strong><br />(+45 for winning)

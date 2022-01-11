@@ -1,0 +1,133 @@
+|j|☆Ausserirdischer
+|j|☆greystaple
+|t:|1641844180
+|gametype|singles
+|player|p1|Ausserirdischer|2|1486
+|player|p2|greystaple|hilbert-wonderlauncher|1698
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ferrothorn, F|
+|poke|p1|Clefable, F|
+|poke|p1|Zapdos|
+|poke|p1|Melmetal|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Urshifu-*, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Melmetal|
+|poke|p2|Tapu Lele|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Rotom-Wash|
+|teampreview
+|j| Nesnot
+|
+|t:|1641844195
+|start
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|turn|1
+|
+|t:|1641844202
+|move|p1a: Urshifu|Surging Strikes|p2a: Tapu Lele
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|71/100
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|41/100
+|-crit|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|9/100
+|-hitcount|p2a: Tapu Lele|3
+|move|p2a: Tapu Lele|Future Sight|p1a: Urshifu
+|-start|p2a: Tapu Lele|move: Future Sight
+|
+|upkeep
+|turn|2
+|
+|t:|1641844213
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Ferrothorn|Ferrothorn, M|100/100
+|
+|upkeep
+|turn|3
+|
+|t:|1641844218
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Ferrothorn
+|-sidestart|p1: Ausserirdischer|move: Stealth Rock
+|move|p1a: Ferrothorn|Stealth Rock|p2a: Ferrothorn
+|-sidestart|p2: greystaple|move: Stealth Rock
+|
+|-end|p1a: Ferrothorn|move: Future Sight
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|77/100
+|-heal|p1a: Ferrothorn|83/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641844228
+|switch|p1a: Zapdos|Zapdos|100/100
+|move|p2a: Ferrothorn|Body Press|p1a: Zapdos
+|-resisted|p1a: Zapdos
+|-damage|p1a: Zapdos|89/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641844234
+|move|p1a: Zapdos|Heat Wave|p2a: Ferrothorn
+|-supereffective|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|15/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Zapdos
+|-start|p1a: Zapdos|move: Leech Seed
+|
+|-damage|p1a: Zapdos|76/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|28/100|[silent]
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641844241
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|move|p1a: Zapdos|Roost|p1a: Zapdos
+|-heal|p1a: Zapdos|100/100
+|-singleturn|p1a: Zapdos|move: Roost
+|
+|-heal|p2a: Garchomp|100/100|[from] item: Leftovers
+|-damage|p1a: Zapdos|88/100|[from] Leech Seed|[of] p2a: Garchomp
+|upkeep
+|turn|7
+|
+|t:|1641844255
+|switch|p1a: Clefable|Clefable, F|100/100
+|move|p2a: Garchomp|Scale Shot|p1a: Clefable
+|-immune|p1a: Clefable
+|
+|upkeep
+|turn|8
+|
+|t:|1641844265
+|switch|p2a: Melmetal|Melmetal|100/100
+|-damage|p2a: Melmetal|94/100|[from] Stealth Rock
+|move|p1a: Clefable|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|40/100
+|
+|upkeep
+|turn|9
+|-message|greystaple forfeited.
+|
+|win|Ausserirdischer
+|raw|Ausserirdischer's rating: 1486 &rarr; <strong>1517</strong><br />(+31 for winning)
+|raw|greystaple's rating: 1698 &rarr; <strong>1667</strong><br />(-31 for losing)
+|c|☆greystaple|gg

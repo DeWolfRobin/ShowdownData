@@ -1,0 +1,371 @@
+|j|☆Ackesh
+|j|☆colombo00
+|t:|1641774843
+|gametype|singles
+|player|p1|Ackesh|169|1443
+|player|p2|colombo00|170|1362
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Tyrantrum, F|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Regieleki|
+|poke|p1|Zapdos|
+|poke|p1|Clefable, M|
+|poke|p2|Heatran, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Latias, F|
+|poke|p2|Zeraora|
+|poke|p2|Ferrothorn, F|
+|poke|p2|Tapu Lele|
+|teampreview
+|
+|t:|1641774853
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|-item|p2a: Heatran|Air Balloon
+|turn|1
+|
+|t:|1641774859
+|move|p1a: Landorus|U-turn|p2a: Heatran
+|-resisted|p2a: Heatran
+|-damage|p2a: Heatran|91/100
+|-enditem|p2a: Heatran|Air Balloon
+|
+|t:|1641774863
+|switch|p1a: Tyrantrum|Tyrantrum, F|100/100|[from]move: U-turn
+|move|p2a: Heatran|Toxic|p1a: Tyrantrum
+|-status|p1a: Tyrantrum|tox
+|
+|-damage|p1a: Tyrantrum|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641774870
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Heatran|atk|1
+|move|p2a: Heatran|Protect||[still]
+|-fail|p2a: Heatran
+|
+|upkeep
+|turn|3
+|
+|t:|1641774877
+|move|p2a: Heatran|Protect|p2a: Heatran
+|-singleturn|p2a: Heatran|Protect
+|move|p1a: Landorus|Earthquake|p2a: Heatran
+|-activate|p2a: Heatran|move: Protect
+|
+|upkeep
+|turn|4
+|
+|t:|1641774883
+|switch|p1a: Clefable|Clefable, M|100/100
+|switch|p2a: Latias|Latias, F|100/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641774888
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|6
+|
+|t:|1641774894
+|move|p2a: Latias|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|87/100
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|93/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641774901
+|switch|p2a: Ferrothorn|Ferrothorn, F|100/100
+|move|p1a: Clefable|Charge Beam|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|96/100
+|-boost|p1a: Clefable|spa|1
+|
+|-heal|p1a: Clefable|99/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641774909
+|move|p1a: Clefable|Charge Beam|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|89/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|72/100
+|
+|-heal|p1a: Clefable|78/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641774916
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|60/100
+|
+|-heal|p1a: Clefable|66/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641774924
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|79/100
+|
+|-heal|p1a: Clefable|85/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641774931
+|move|p1a: Clefable|Charge Beam|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|82/100
+|move|p2a: Ferrothorn|Leech Seed|p1a: Clefable
+|-start|p1a: Clefable|move: Leech Seed
+|
+|-heal|p1a: Clefable|91/100|[from] item: Leftovers
+|-damage|p1a: Clefable|79/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|96/100|[silent]
+|upkeep
+|turn|12
+|
+|t:|1641774942
+|move|p1a: Clefable|Charge Beam|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|89/100
+|-boost|p1a: Clefable|spa|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|58/100
+|
+|-heal|p1a: Clefable|64/100|[from] item: Leftovers
+|-damage|p1a: Clefable|51/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|13
+|
+|t:|1641774952
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Ferrothorn|Stealth Rock|p1a: Clefable
+|-sidestart|p1: Ackesh|move: Stealth Rock
+|
+|-damage|p1a: Clefable|88/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|14
+|
+|t:|1641774960
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Ferrothorn|Body Press|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|84/100
+|
+|-heal|p1a: Clefable|90/100|[from] item: Leftovers
+|-damage|p1a: Clefable|78/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|upkeep
+|turn|15
+|
+|t:|1641774969
+|move|p1a: Clefable|Charge Beam|p2a: Ferrothorn
+|-resisted|p2a: Ferrothorn
+|-damage|p2a: Ferrothorn|91/100
+|-boost|p1a: Clefable|spa|1
+|move|p2a: Ferrothorn|Gyro Ball|p1a: Clefable
+|-supereffective|p1a: Clefable
+|-damage|p1a: Clefable|60/100
+|
+|-heal|p1a: Clefable|66/100|[from] item: Leftovers
+|-damage|p1a: Clefable|54/100|[from] Leech Seed|[of] p2a: Ferrothorn
+|-heal|p2a: Ferrothorn|100/100|[silent]
+|upkeep
+|turn|16
+|
+|t:|1641774980
+|switch|p2a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Tapu Lele
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|-damage|p1a: Clefable|88/100|[from] Leech Seed|[of] p2a: Tapu Lele
+|upkeep
+|turn|17
+|
+|t:|1641774988
+|move|p2a: Tapu Lele|Calm Mind|p2a: Tapu Lele
+|-boost|p2a: Tapu Lele|spa|1
+|-boost|p2a: Tapu Lele|spd|1
+|move|p1a: Clefable|Stored Power|p2a: Tapu Lele
+|-resisted|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|10/100
+|
+|-heal|p2a: Tapu Lele|16/100|[from] item: Leftovers
+|-heal|p1a: Clefable|94/100|[from] item: Leftovers
+|-damage|p1a: Clefable|82/100|[from] Leech Seed|[of] p2a: Tapu Lele
+|-heal|p2a: Tapu Lele|33/100|[silent]
+|upkeep
+|turn|18
+|
+|t:|1641774999
+|move|p2a: Tapu Lele|Psychic|p1a: Clefable
+|-damage|p1a: Clefable|62/100
+|move|p1a: Clefable|Charge Beam|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|4/100
+|
+|-heal|p2a: Tapu Lele|10/100|[from] item: Leftovers
+|-heal|p1a: Clefable|68/100|[from] item: Leftovers
+|-damage|p1a: Clefable|55/100|[from] Leech Seed|[of] p2a: Tapu Lele
+|-heal|p2a: Tapu Lele|28/100|[silent]
+|upkeep
+|turn|19
+|
+|t:|1641775008
+|move|p2a: Tapu Lele|Psychic|p1a: Clefable
+|-damage|p1a: Clefable|36/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|86/100
+|
+|-heal|p2a: Tapu Lele|34/100|[from] item: Leftovers
+|-heal|p1a: Clefable|92/100|[from] item: Leftovers
+|-damage|p1a: Clefable|80/100|[from] Leech Seed|[of] p2a: Tapu Lele
+|-heal|p2a: Tapu Lele|51/100|[silent]
+|upkeep
+|turn|20
+|
+|t:|1641775018
+|move|p2a: Tapu Lele|Psychic|p1a: Clefable
+|-damage|p1a: Clefable|59/100
+|move|p1a: Clefable|Stored Power|p2a: Tapu Lele
+|-resisted|p2a: Tapu Lele
+|-damage|p2a: Tapu Lele|0 fnt
+|faint|p2a: Tapu Lele
+|
+|-heal|p1a: Clefable|65/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641775028
+|switch|p2a: Latias|Latias, F|100/100
+|turn|21
+|
+|t:|1641775033
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|71/100|[from] item: Leftovers
+|-damage|p1a: Clefable|59/100|[from] Leech Seed|[of] p2a: Latias
+|upkeep
+|turn|22
+|c|☆Ackesh|You realise I'm unaware
+|
+|t:|1641775046
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Clefable|Charge Beam|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|88/100
+|-boost|p1a: Clefable|spa|1
+|
+|-heal|p2a: Latias|94/100|[from] item: Leftovers
+|-heal|p1a: Clefable|65/100|[from] item: Leftovers
+|-damage|p1a: Clefable|52/100|[from] Leech Seed|[of] p2a: Latias
+|-heal|p2a: Latias|100/100|[silent]
+|upkeep
+|turn|23
+|
+|t:|1641775057
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|
+|-damage|p1a: Clefable|88/100|[from] Leech Seed|[of] p2a: Latias
+|upkeep
+|turn|24
+|
+|t:|1641775068
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Clefable|Cosmic Power|p1a: Clefable
+|-boost|p1a: Clefable|def|1
+|-boost|p1a: Clefable|spd|1
+|
+|-heal|p1a: Clefable|94/100|[from] item: Leftovers
+|-damage|p1a: Clefable|82/100|[from] Leech Seed|[of] p2a: Latias
+|upkeep
+|turn|25
+|
+|t:|1641775077
+|move|p2a: Latias|Calm Mind|p2a: Latias
+|-boost|p2a: Latias|spa|1
+|-boost|p2a: Latias|spd|1
+|move|p1a: Clefable|Charge Beam|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|85/100
+|-boost|p1a: Clefable|spa|1
+|
+|-heal|p2a: Latias|91/100|[from] item: Leftovers
+|-heal|p1a: Clefable|88/100|[from] item: Leftovers
+|-damage|p1a: Clefable|75/100|[from] Leech Seed|[of] p2a: Latias
+|-heal|p2a: Latias|100/100|[silent]
+|upkeep
+|turn|26
+|
+|t:|1641775088
+|move|p2a: Latias|Psyshock|p1a: Clefable
+|-damage|p1a: Clefable|69/100
+|move|p1a: Clefable|Stored Power|p2a: Latias
+|-resisted|p2a: Latias
+|-damage|p2a: Latias|0 fnt
+|faint|p2a: Latias
+|
+|-heal|p1a: Clefable|75/100|[from] item: Leftovers
+|upkeep
+|-message|colombo00 forfeited.
+|
+|win|Ackesh
+|raw|Ackesh's rating: 1443 &rarr; <strong>1458</strong><br />(+15 for winning)
+|raw|colombo00's rating: 1362 &rarr; <strong>1347</strong><br />(-15 for losing)
+|l|☆colombo00
+|c|☆Ackesh|Unaware doesn't care about your boosts

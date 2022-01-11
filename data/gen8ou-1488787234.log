@@ -1,0 +1,140 @@
+|j|‽ILoveGarchom
+|j|☆hchw90
+|t:|1641821468
+|gametype|singles
+|player|p1|ILoveGarchom|ghetsis|1362
+|player|p2|hchw90|102|1367
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Garchomp, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Latios, M|
+|poke|p1|Kommo-o, F|
+|poke|p1|Hydreigon, F|
+|poke|p2|Chansey, F|
+|poke|p2|Heatran, F|
+|poke|p2|Rotom-Wash|
+|poke|p2|Obstagoon, M|
+|poke|p2|Zapdos|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by hchw90)
+|
+|t:|1641821495
+|start
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|switch|p2a: Rotom|Rotom-Wash|100/100
+|turn|1
+|
+|t:|1641821501
+|move|p2a: Rotom|Trick|p1a: Dragonite
+|-activate|p2a: Rotom|move: Trick|[of] p1a: Dragonite
+|-item|p1a: Dragonite|Choice Scarf|[from] move: Trick
+|-item|p2a: Rotom|Weakness Policy|[from] move: Trick
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|
+|upkeep
+|turn|2
+|
+|t:|1641821512
+|switch|p1a: Kommo-o|Kommo-o, F|100/100
+|move|p2a: Rotom|Volt Switch|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-damage|p1a: Kommo-o|84/100
+|inactive|hchw90 has 120 seconds left.
+|
+|t:|1641821565
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: Volt Switch
+|-ability|p2a: Zapdos|Pressure
+|
+|upkeep
+|turn|3
+|
+|t:|1641821575
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Zapdos|Toxic|p1a: Dragapult
+|-status|p1a: Dragapult|tox
+|
+|-damage|p1a: Dragapult|95/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641821584
+|move|p1a: Dragapult|Shadow Ball|p2a: Zapdos
+|-damage|p2a: Zapdos|55/100
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|100/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-damage|p1a: Dragapult|83/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641821593
+|move|p1a: Dragapult|Draco Meteor|p2a: Zapdos
+|-damage|p2a: Zapdos|30/100
+|-unboost|p1a: Dragapult|spa|2
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|81/100
+|-singleturn|p2a: Zapdos|move: Roost
+|
+|-heal|p2a: Zapdos|87/100|[from] item: Leftovers
+|-damage|p1a: Dragapult|65/100 tox|[from] psn
+|upkeep
+|turn|6
+|
+|t:|1641821605
+|switch|p1a: Kommo-o|Kommo-o, F|84/100
+|move|p2a: Zapdos|Substitute|p2a: Zapdos
+|-start|p2a: Zapdos|Substitute
+|-damage|p2a: Zapdos|62/100
+|
+|-heal|p2a: Zapdos|68/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641821612
+|move|p2a: Zapdos|Toxic|p1a: Kommo-o
+|-status|p1a: Kommo-o|tox
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|59/100 tox
+|
+|-heal|p2a: Zapdos|74/100|[from] item: Leftovers
+|-damage|p1a: Kommo-o|53/100 tox|[from] psn
+|upkeep
+|turn|8
+|
+|t:|1641821624
+|move|p2a: Zapdos|Thunderbolt|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|move|p1a: Kommo-o|Drain Punch|p2a: Zapdos
+|-resisted|p2a: Zapdos
+|-activate|p2a: Zapdos|move: Substitute|[damage]
+|-heal|p1a: Kommo-o|66/100 tox|[from] drain|[of] p2a: Zapdos
+|
+|-heal|p2a: Zapdos|81/100|[from] item: Leftovers
+|-damage|p1a: Kommo-o|53/100 tox|[from] psn
+|upkeep
+|turn|9
+|-message|ILoveGarchom forfeited.
+|
+|win|hchw90
+|raw|ILoveGarchom's rating: 1362 &rarr; <strong>1342</strong><br />(-20 for losing)
+|raw|hchw90's rating: 1367 &rarr; <strong>1387</strong><br />(+20 for winning)
+|l|‽ILoveGarchom

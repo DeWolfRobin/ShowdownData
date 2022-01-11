@@ -1,0 +1,186 @@
+|j|☆Pindustry
+|j|☆Phillip the red
+|t:|1641788422
+|gametype|singles
+|player|p1|Pindustry|candice|1166
+|player|p2|Phillip the red|will|1120
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Indeedee, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Tapu Fini|
+|poke|p1|Hawlucha, F|
+|poke|p1|Heatran, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Decidueye, M|
+|poke|p2|Lucario, F|
+|poke|p2|Sylveon, F|
+|poke|p2|Porygon-Z|
+|poke|p2|Talonflame, M|
+|poke|p2|Drifblim, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Phillip the red)
+|
+|t:|1641788427
+|start
+|switch|p1a: Indeedee|Indeedee, M|100/100
+|switch|p2a: Flamin flamers|Talonflame, M|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Indeedee
+|turn|1
+|
+|t:|1641788432
+|move|p2a: Flamin flamers|U-turn|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|28/100
+|
+|t:|1641788448
+|switch|p2a: BALLONEY??|Drifblim, M|100/100|[from]move: U-turn
+|move|p1a: Indeedee|Dazzling Gleam|p2a: BALLONEY??
+|-damage|p2a: BALLONEY??|69/100
+|-damage|p1a: Indeedee|18/100|[from] item: Life Orb
+|
+|-status|p2a: BALLONEY??|brn|[from] item: Flame Orb
+|upkeep
+|turn|2
+|
+|t:|1641788469
+|move|p1a: Indeedee|Psychic|p2a: BALLONEY??
+|-damage|p2a: BALLONEY??|0 fnt
+|faint|p2a: BALLONEY??
+|-damage|p1a: Indeedee|8/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641788485
+|switch|p2a: Flamin flamers|Talonflame, M|100/100
+|turn|3
+|
+|t:|1641788492
+|move|p2a: Flamin flamers|U-turn|p1a: Indeedee
+|-supereffective|p1a: Indeedee
+|-damage|p1a: Indeedee|0 fnt
+|faint|p1a: Indeedee
+|
+|t:|1641788496
+|switch|p2a: Furry con|Lucario, F|100/100|[from]move: U-turn
+|
+|upkeep
+|c|☆Pindustry|!weak lucario
+|c| Pindustry|/raw <div class="infobox">Lucario (ignoring abilities):<br /><span class="message-effect-weak">Weaknesses</span>: Fighting, Fire, Ground<br /><span class="message-effect-resist">Resistances</span>: <b>Bug</b>, Dark, Dragon, Grass, Ice, Normal, <b>Rock</b>, Steel<br /><span class="message-effect-immune">Immunities</span>: Poison, Sandstorm damage, Toxic</div>
+|inactive|Pindustry has 120 seconds left.
+|
+|t:|1641788528
+|switch|p1a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p1a: Hawlucha|Psychic Seed
+|-boost|p1a: Hawlucha|spd|1|[from] item: Psychic Seed
+|turn|4
+|
+|t:|1641788537
+|switch|p2a: Pixie cut|Sylveon, F|100/100
+|move|p1a: Hawlucha|Close Combat|p2a: Pixie cut
+|-resisted|p2a: Pixie cut
+|-damage|p2a: Pixie cut|68/100
+|-unboost|p1a: Hawlucha|def|1
+|-unboost|p1a: Hawlucha|spd|1
+|
+|upkeep
+|turn|5
+|
+|t:|1641788547
+|move|p1a: Hawlucha|Swords Dance|p1a: Hawlucha
+|-boost|p1a: Hawlucha|atk|2
+|move|p2a: Pixie cut|Retaliate|p1a: Hawlucha
+|-supereffective|p1a: Hawlucha
+|-damage|p1a: Hawlucha|0 fnt
+|faint|p1a: Hawlucha
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641788555
+|switch|p1a: Tapu Lele|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p1a: Tapu Lele
+|turn|6
+|
+|t:|1641788567
+|move|p1a: Tapu Lele|Psychic|p2a: Pixie cut
+|-damage|p2a: Pixie cut|0 fnt
+|faint|p2a: Pixie cut
+|
+|upkeep
+|
+|t:|1641788571
+|switch|p2a: Flamin flamers|Talonflame, M|100/100
+|turn|7
+|
+|t:|1641788574
+|move|p2a: Flamin flamers|U-turn|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|73/100
+|
+|t:|1641788577
+|switch|p2a: Furry con|Lucario, F|100/100|[from]move: U-turn
+|move|p1a: Tapu Lele|Psychic|p2a: Furry con
+|-damage|p2a: Furry con|0 fnt
+|faint|p2a: Furry con
+|
+|upkeep
+|
+|t:|1641788583
+|switch|p2a: Flamin flamers|Talonflame, M|100/100
+|turn|8
+|
+|t:|1641788585
+|move|p2a: Flamin flamers|Flare Blitz|p1a: Tapu Lele
+|-damage|p1a: Tapu Lele|5/100
+|-damage|p2a: Flamin flamers|79/100|[from] Recoil
+|move|p1a: Tapu Lele|Psychic|p2a: Flamin flamers
+|-damage|p2a: Flamin flamers|0 fnt
+|faint|p2a: Flamin flamers
+|
+|upkeep
+|
+|t:|1641788588
+|switch|p2a: Pants pisser|Decidueye, M|100/100
+|turn|9
+|
+|t:|1641788591
+|move|p2a: Pants pisser|Sucker Punch|p1a: Tapu Lele
+|-activate|p1a: Tapu Lele|move: Psychic Terrain
+|move|p1a: Tapu Lele|Psychic|p2a: Pants pisser
+|-damage|p2a: Pants pisser|19/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641788597
+|move|p1a: Tapu Lele|Psychic|p2a: Pants pisser
+|-damage|p2a: Pants pisser|0 fnt
+|faint|p2a: Pants pisser
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|
+|t:|1641788599
+|switch|p2a: Porygon-Z|Porygon-Z|100/100
+|turn|11
+|
+|t:|1641788605
+|move|p1a: Tapu Lele|Psychic|p2a: Porygon-Z
+|-damage|p2a: Porygon-Z|0 fnt
+|faint|p2a: Porygon-Z
+|
+|win|Pindustry
+|raw|Pindustry's rating: 1166 &rarr; <strong>1188</strong><br />(+22 for winning)
+|raw|Phillip the red's rating: 1120 &rarr; <strong>1098</strong><br />(-22 for losing)
+|l|☆Phillip the red

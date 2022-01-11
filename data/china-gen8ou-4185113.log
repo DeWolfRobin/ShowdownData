@@ -1,0 +1,356 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆Land·Woo
+|j|☆sl21cc buhuiying
+|t:|1641714645
+|gametype|singles
+|player|p1|Land·Woo|richboy-gen4|1194
+|player|p2|sl21cc buhuiying|madame|1219
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Toxapex, M|
+|poke|p1|Skarmory, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Zarude|
+|poke|p1|Blissey, F|
+|poke|p1|Garchomp, M|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Magnezone|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Ferrothorn, M|
+|poke|p2|Urshifu-*, F|
+|poke|p2|Tapu Lele|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Land·Woo)
+|
+|t:|1641714656
+|start
+|switch|p1a: Toxapex|Toxapex, M, shiny|100/100
+|switch|p2a: Raven|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Raven
+|turn|1
+|
+|t:|1641714662
+|switch|p1a: Zarude|Zarude|100/100
+|move|p2a: Raven|Future Sight|p1a: Zarude
+|-start|p2a: Raven|move: Future Sight
+|
+|upkeep
+|turn|2
+|j| sl21cc vogut
+|l| sl21cc vogut
+|
+|t:|1641714671
+|switch|p2a: Mandragora|Landorus-Therian, M|100/100
+|-ability|p2a: Mandragora|Intimidate|boost
+|-unboost|p1a: Zarude|atk|1
+|move|p1a: Zarude|Bulk Up|p1a: Zarude
+|-boost|p1a: Zarude|atk|1
+|-boost|p1a: Zarude|def|1
+|
+|upkeep
+|turn|3
+|
+|t:|1641714678
+|move|p1a: Zarude|Power Whip|p2a: Mandragora
+|-damage|p2a: Mandragora|52/100
+|move|p2a: Mandragora|U-turn|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|54/100
+|
+|t:|1641714684
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100|[from]move: U-turn
+|
+|-end|p1a: Zarude|move: Future Sight
+|-immune|p1a: Zarude
+|-heal|p1a: Zarude|60/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1641714694
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|move|p1a: Zarude|Crunch|p2a: Tornadus
+|-damage|p2a: Tornadus|52/100
+|
+|-heal|p1a: Zarude|66/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641714701
+|switch|p1a: Blissey|Blissey, F, shiny|100/100
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|6
+|
+|t:|1641714708
+|move|p2a: Tornadus|Focus Blast|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|20/100
+|move|p1a: Blissey|Toxic|p2a: Tornadus
+|-status|p2a: Tornadus|tox
+|
+|-heal|p1a: Blissey|26/100|[from] item: Leftovers
+|-damage|p2a: Tornadus|46/100 tox|[from] psn
+|upkeep
+|turn|7
+|
+|t:|1641714717
+|move|p2a: Tornadus|Hurricane|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|-damage|p2a: Tornadus|34/100 tox|[from] psn
+|upkeep
+|
+|t:|1641714729
+|switch|p1a: Skarmory|Skarmory, M, shiny|100/100
+|turn|8
+|
+|t:|1641714735
+|move|p2a: Tornadus|U-turn|p1a: Skarmory
+|-resisted|p1a: Skarmory
+|-damage|p1a: Skarmory|98/100
+|-damage|p2a: Tornadus|18/100 tox|[from] item: Rocky Helmet|[of] p1a: Skarmory
+|
+|t:|1641714737
+|switch|p2a: Grimlock|Magnezone|100/100|[from]move: U-turn
+|move|p1a: Skarmory|Body Press|p2a: Grimlock
+|-supereffective|p2a: Grimlock
+|-damage|p2a: Grimlock|45/100
+|-damage|p1a: Skarmory|82/100|[from] item: Rocky Helmet|[of] p2a: Grimlock
+|
+|upkeep
+|turn|9
+|
+|t:|1641714745
+|move|p2a: Grimlock|Discharge|p1a: Skarmory
+|-supereffective|p1a: Skarmory
+|-damage|p1a: Skarmory|0 fnt
+|faint|p1a: Skarmory
+|
+|upkeep
+|
+|t:|1641714749
+|switch|p1a: Volcarona|Volcarona, M, shiny|100/100
+|turn|10
+|
+|t:|1641714752
+|move|p2a: Grimlock|Toxic|p1a: Volcarona|[miss]
+|-miss|p2a: Grimlock|p1a: Volcarona
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|upkeep
+|turn|11
+|j| SL21CC interest
+|
+|t:|1641714758
+|move|p1a: Volcarona|Fiery Dance|p2a: Grimlock
+|-supereffective|p2a: Grimlock
+|-damage|p2a: Grimlock|0 fnt
+|-boost|p1a: Volcarona|spa|1
+|faint|p2a: Grimlock
+|
+|upkeep
+|
+|t:|1641714762
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, F|100/100
+|turn|12
+|
+|t:|1641714766
+|move|p2a: Urshifu|Aqua Jet|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|46/100
+|move|p1a: Volcarona|Psychic|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|-heal|p1a: Volcarona|52/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641714769
+|switch|p2a: Raven|Tapu Lele|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Raven
+|turn|13
+|
+|t:|1641714777
+|move|p2a: Raven|Psyshock|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|upkeep
+|
+|t:|1641714781
+|switch|p1a: Zarude|Zarude|66/100
+|turn|14
+|
+|t:|1641714787
+|switch|p2a: Pleisure|Ferrothorn, M|100/100
+|move|p1a: Zarude|Power Whip|p2a: Pleisure
+|-resisted|p2a: Pleisure
+|-damage|p2a: Pleisure|93/100
+|-damage|p1a: Zarude|54/100|[from] ability: Iron Barbs|[of] p2a: Pleisure
+|
+|-heal|p1a: Zarude|60/100|[from] item: Leftovers
+|-heal|p2a: Pleisure|99/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641714796
+|move|p1a: Zarude|Bulk Up|p1a: Zarude
+|-boost|p1a: Zarude|atk|1
+|-boost|p1a: Zarude|def|1
+|move|p2a: Pleisure|Iron Head|p1a: Zarude
+|-damage|p1a: Zarude|47/100
+|
+|-heal|p1a: Zarude|53/100|[from] item: Leftovers
+|-heal|p2a: Pleisure|100/100|[from] item: Leftovers
+|upkeep
+|turn|16
+|
+|t:|1641714804
+|move|p1a: Zarude|Bulk Up|p1a: Zarude
+|-boost|p1a: Zarude|atk|1
+|-boost|p1a: Zarude|def|1
+|move|p2a: Pleisure|Knock Off|p1a: Zarude
+|-resisted|p1a: Zarude
+|-crit|p1a: Zarude
+|-damage|p1a: Zarude|42/100
+|-enditem|p1a: Zarude|Leftovers|[from] move: Knock Off|[of] p2a: Pleisure
+|
+|upkeep
+|turn|17
+|
+|t:|1641714811
+|switch|p2a: Mandragora|Landorus-Therian, M|52/100
+|-ability|p2a: Mandragora|Intimidate|boost
+|-unboost|p1a: Zarude|atk|1
+|move|p1a: Zarude|Jungle Healing|p1a: Zarude
+|-heal|p1a: Zarude|67/100
+|
+|-heal|p2a: Mandragora|58/100|[from] item: Leftovers
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|18
+|
+|t:|1641714820
+|switch|p2a: Pleisure|Ferrothorn, M|100/100
+|move|p1a: Zarude|Power Whip|p2a: Pleisure
+|-resisted|p2a: Pleisure
+|-damage|p2a: Pleisure|88/100
+|-damage|p1a: Zarude|54/100|[from] ability: Iron Barbs|[of] p2a: Pleisure
+|
+|-heal|p2a: Pleisure|95/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641714831
+|switch|p2a: Mandragora|Landorus-Therian, M|58/100
+|-ability|p2a: Mandragora|Intimidate|boost
+|-unboost|p1a: Zarude|atk|1
+|move|p1a: Zarude|Bulk Up|p1a: Zarude
+|-boost|p1a: Zarude|atk|1
+|-boost|p1a: Zarude|def|1
+|
+|-heal|p2a: Mandragora|64/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641714839
+|move|p1a: Zarude|Jungle Healing|p1a: Zarude
+|-heal|p1a: Zarude|79/100
+|move|p2a: Mandragora|U-turn|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|55/100
+|
+|t:|1641714847
+|switch|p2a: Tornadus|Tornadus-Therian, M|51/100 tox|[from]move: U-turn
+|
+|-damage|p2a: Tornadus|45/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641714852
+|move|p2a: Tornadus|Hurricane|p1a: Zarude
+|-supereffective|p1a: Zarude
+|-damage|p1a: Zarude|0 fnt
+|faint|p1a: Zarude
+|
+|-damage|p2a: Tornadus|33/100 tox|[from] psn
+|upkeep
+|
+|t:|1641714867
+|switch|p1a: Garchomp|Garchomp, M, shiny|100/100
+|turn|22
+|
+|t:|1641714873
+|move|p2a: Tornadus|Hurricane|p1a: Garchomp
+|-damage|p1a: Garchomp|45/100
+|-start|p1a: Garchomp|confusion
+|-enditem|p1a: Garchomp|Lum Berry|[eat]
+|-end|p1a: Garchomp|confusion
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-damage|p2a: Tornadus|15/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641714884
+|move|p2a: Tornadus|Hurricane|p1a: Garchomp|[miss]
+|-miss|p2a: Tornadus|p1a: Garchomp
+|move|p1a: Garchomp|Scale Shot|p2a: Tornadus
+|-damage|p2a: Tornadus|0 fnt
+|faint|p2a: Tornadus
+|-hitcount|p2: Tornadus|1
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|upkeep
+|
+|t:|1641714888
+|switch|p2a: Mandragora|Landorus-Therian, M|64/100
+|-ability|p2a: Mandragora|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|24
+|
+|t:|1641714897
+|move|p1a: Garchomp|Scale Shot|p2a: Mandragora
+|-damage|p2a: Mandragora|43/100
+|-damage|p2a: Mandragora|23/100
+|-damage|p2a: Mandragora|3/100
+|-hitcount|p2a: Mandragora|3
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|move|p2a: Mandragora|Earthquake|p1a: Garchomp
+|-crit|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Mandragora|9/100|[from] item: Leftovers
+|upkeep
+|c|☆Land·Woo|你运气也太好了
+|-message|Land·Woo forfeited.
+|
+|win|sl21cc buhuiying
+|raw|Land·Woo's rating: 1194 &rarr; <strong>1171</strong><br />(-23 for losing)
+|raw|sl21cc buhuiying's rating: 1219 &rarr; <strong>1234</strong><br />(+15 for winning)
+|l|☆Land·Woo
+|c|☆sl21cc buhuiying|？

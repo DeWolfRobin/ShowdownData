@@ -1,0 +1,365 @@
+|j|☆Spirit15
+|j|☆doctor susW
+|t:|1641769341
+|gametype|singles
+|player|p1|Spirit15|red|1117
+|player|p2|doctor susW|lucas|1081
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Blissey, F|
+|poke|p1|Slowbro, M|
+|poke|p1|Slowking-Galar, F|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, M|
+|poke|p1|Zapdos|
+|poke|p2|Garchomp, F|
+|poke|p2|Mimikyu, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Miltank, F|
+|poke|p2|Zeraora|
+|poke|p2|Alakazam, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Spirit15)
+|
+|t:|1641769349
+|start
+|switch|p1a: Goomba|Heatran, M|100/100
+|switch|p2a: Garchomp|Garchomp, F|100/100
+|turn|1
+|c|☆Spirit15|oof
+|
+|t:|1641769364
+|switch|p1a: AngrySun|Zapdos, shiny|100/100
+|move|p2a: Garchomp|Swords Dance|p2a: Garchomp
+|-boost|p2a: Garchomp|atk|2
+|
+|upkeep
+|turn|2
+|
+|t:|1641769372
+|move|p2a: Garchomp|Fire Fang|p1a: AngrySun
+|-damage|p1a: AngrySun|61/100
+|move|p1a: AngrySun|Hurricane|p2a: Garchomp|[miss]
+|-miss|p1a: AngrySun|p2a: Garchomp
+|
+|upkeep
+|turn|3
+|c|☆Spirit15|nooooooooooooooo
+|
+|t:|1641769382
+|move|p2a: Garchomp|Fire Fang|p1a: AngrySun
+|-damage|p1a: AngrySun|25/100
+|-status|p2a: Garchomp|par|[from] ability: Static|[of] p1a: AngrySun
+|move|p1a: AngrySun|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|50/100 par
+|-start|p2a: Garchomp|confusion
+|
+|-heal|p2a: Garchomp|56/100 par|[from] item: Leftovers
+|upkeep
+|turn|4
+|c|☆Spirit15|oof
+|
+|t:|1641769392
+|move|p1a: AngrySun|Hurricane|p2a: Garchomp
+|-damage|p2a: Garchomp|6/100 par
+|-activate|p2a: Garchomp|confusion
+|-damage|p2a: Garchomp|0 fnt|[from] confusion
+|faint|p2a: Garchomp
+|
+|upkeep
+|
+|t:|1641769400
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|5
+|
+|t:|1641769410
+|switch|p1a: Goomba|Heatran, M|100/100
+|move|p2a: Zeraora|Knock Off|p1a: Goomba
+|-damage|p1a: Goomba|74/100
+|-enditem|p1a: Goomba|Leftovers|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|6
+|
+|t:|1641769425
+|move|p2a: Zeraora|Volt Switch|p1a: Goomba
+|-damage|p1a: Goomba|61/100
+|
+|t:|1641769430
+|switch|p2a: Miltank|Miltank, F|100/100|[from]move: Volt Switch
+|move|p1a: Goomba|Earth Power|p2a: Miltank
+|-damage|p2a: Miltank|75/100
+|
+|-heal|p2a: Miltank|81/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641769439
+|switch|p1a: Koopa troopa (red)|Slowbro, M|100/100
+|move|p2a: Miltank|Counter||[still]
+|-fail|p2a: Miltank
+|
+|-heal|p2a: Miltank|87/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641769446
+|move|p2a: Miltank|Toxic|p1a: Koopa troopa (red)
+|-status|p1a: Koopa troopa (red)|tox
+|move|p1a: Koopa troopa (red)|Future Sight|p2a: Miltank
+|-start|p1a: Koopa troopa (red)|move: Future Sight
+|
+|-heal|p2a: Miltank|93/100|[from] item: Leftovers
+|-damage|p1a: Koopa troopa (red)|94/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641769454
+|switch|p1a: Peach|Blissey, F, shiny|100/100
+|move|p2a: Miltank|Counter||[still]
+|-fail|p2a: Miltank
+|
+|-heal|p2a: Miltank|99/100|[from] item: Leftovers
+|upkeep
+|turn|10
+|
+|t:|1641769460
+|move|p2a: Miltank|Toxic|p1a: Peach
+|-status|p1a: Peach|tox
+|move|p1a: Peach|Toxic|p2a: Miltank
+|-status|p2a: Miltank|tox
+|
+|-end|p2a: Miltank|move: Future Sight
+|-damage|p2a: Miltank|60/100 tox
+|-heal|p2a: Miltank|66/100 tox|[from] item: Leftovers
+|-damage|p2a: Miltank|60/100 tox|[from] psn
+|-damage|p1a: Peach|94/100 tox|[from] psn
+|upkeep
+|turn|11
+|
+|t:|1641769471
+|-curestatus|p1a: Peach|tox|[from] ability: Natural Cure
+|switch|p1a: Koopa troopa (red)|Slowbro, M|100/100 tox
+|move|p2a: Miltank|Milk Drink|p2a: Miltank
+|-heal|p2a: Miltank|100/100 tox
+|
+|-damage|p2a: Miltank|88/100 tox|[from] psn
+|-damage|p1a: Koopa troopa (red)|94/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641769483
+|switch|p2a: Zeraora|Zeraora|100/100
+|switch|p1a: Peach|Blissey, F, shiny|94/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641769492
+|move|p2a: Zeraora|Knock Off|p1a: Peach
+|-damage|p1a: Peach|68/100
+|-enditem|p1a: Peach|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Zeraora
+|move|p1a: Peach|Toxic|p2a: Zeraora
+|-status|p2a: Zeraora|tox
+|
+|-damage|p2a: Zeraora|95/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641769506
+|switch|p1a: AngrySun|Zapdos, shiny|25/100
+|move|p2a: Zeraora|Plasma Fists|p1a: AngrySun
+|-damage|p1a: AngrySun|0 fnt
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|faint|p1a: AngrySun
+|
+|-damage|p2a: Zeraora|83/100 tox|[from] psn
+|upkeep
+|
+|t:|1641769515
+|switch|p1a: King Boo|Dragapult, M|100/100
+|turn|15
+|
+|t:|1641769524
+|move|p2a: Zeraora|Knock Off|p1a: King Boo
+|-supereffective|p1a: King Boo
+|-damage|p1a: King Boo|22/100
+|-enditem|p1a: King Boo|Choice Specs|[from] move: Knock Off|[of] p2a: Zeraora
+|move|p1a: King Boo|U-turn|p2a: Zeraora
+|-damage|p2a: Zeraora|58/100 tox
+|-enditem|p2a: Zeraora|Red Card|[of] p1a: King Boo
+|drag|p1a: Koopa troopa (red)|Slowbro, M|100/100 tox
+|
+|-damage|p2a: Zeraora|40/100 tox|[from] psn
+|-damage|p1a: Koopa troopa (red)|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641769541
+|switch|p1a: KoopaTroopa Green|Slowking-Galar, F, shiny|100/100
+|move|p2a: Zeraora|Plasma Fists|p1a: KoopaTroopa Green
+|-damage|p1a: KoopaTroopa Green|52/100
+|-fieldactivate|move: Ion Deluge
+|-hint|Normal-type moves become Electric-type after using Plasma Fists.
+|
+|-damage|p2a: Zeraora|16/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641769554
+|switch|p1a: Goomba|Heatran, M|61/100
+|move|p2a: Zeraora|Knock Off|p1a: Goomba
+|-damage|p1a: Goomba|43/100
+|
+|-damage|p2a: Zeraora|0 fnt|[from] psn
+|faint|p2a: Zeraora
+|upkeep
+|
+|t:|1641769563
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|turn|18
+|
+|t:|1641769571
+|move|p2a: Dragapult|Thunderbolt|p1a: Goomba
+|-damage|p1a: Goomba|24/100
+|-damage|p2a: Dragapult|91/100|[from] item: Life Orb
+|move|p1a: Goomba|Toxic|p2a: Dragapult
+|-status|p2a: Dragapult|tox
+|
+|-damage|p2a: Dragapult|85/100 tox|[from] psn
+|upkeep
+|turn|19
+|
+|t:|1641769586
+|switch|p1a: Peach|Blissey, F, shiny|68/100
+|move|p2a: Dragapult|Dragon Darts|p1a: Peach
+|-damage|p1a: Peach|46/100
+|-anim|p2a: Dragapult|Dragon Darts|p1a: Peach
+|-damage|p1a: Peach|23/100
+|-damage|p2a: Dragapult|75/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Dragapult|63/100 tox|[from] psn
+|upkeep
+|turn|20
+|
+|t:|1641769600
+|switch|p1a: Koopa troopa (red)|Slowbro, M|100/100 tox
+|move|p2a: Dragapult|Thunderbolt|p1a: Koopa troopa (red)
+|-supereffective|p1a: Koopa troopa (red)
+|-damage|p1a: Koopa troopa (red)|34/100 tox
+|-damage|p2a: Dragapult|53/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Dragapult|35/100 tox|[from] psn
+|-damage|p1a: Koopa troopa (red)|27/100 tox|[from] psn
+|upkeep
+|turn|21
+|c|☆Spirit15|oof
+|
+|t:|1641769612
+|switch|p1a: Goomba|Heatran, M|24/100
+|move|p2a: Dragapult|Thunderbolt|p1a: Goomba
+|-damage|p1a: Goomba|3/100
+|-damage|p2a: Dragapult|25/100 tox|[from] item: Life Orb
+|
+|-damage|p2a: Dragapult|1/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641769630
+|move|p2a: Dragapult|Thunderbolt|p1a: Goomba
+|-damage|p1a: Goomba|0 fnt
+|faint|p1a: Goomba
+|-damage|p2a: Dragapult|0 fnt|[from] item: Life Orb
+|faint|p2a: Dragapult
+|
+|upkeep
+|c|☆doctor susW|might as well
+|
+|t:|1641769643
+|switch|p2a: Mimikyu|Mimikyu, F|100/100
+|switch|p1a: KoopaTroopa Green|Slowking-Galar, F, shiny|85/100
+|turn|23
+|
+|t:|1641769652
+|move|p2a: Mimikyu|Shadow Claw|p1a: KoopaTroopa Green
+|-supereffective|p1a: KoopaTroopa Green
+|-crit|p1a: KoopaTroopa Green
+|-damage|p1a: KoopaTroopa Green|0 fnt
+|faint|p1a: KoopaTroopa Green
+|-damage|p2a: Mimikyu|91/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆Spirit15|bruh
+|c|☆doctor susW|i think i won here
+|
+|t:|1641769660
+|switch|p1a: King Boo|Dragapult, M|22/100
+|turn|24
+|
+|t:|1641769663
+|move|p2a: Mimikyu|Shadow Sneak|p1a: King Boo
+|-supereffective|p1a: King Boo
+|-damage|p1a: King Boo|0 fnt
+|faint|p1a: King Boo
+|-damage|p2a: Mimikyu|81/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641769668
+|switch|p1a: Peach|Blissey, F, shiny|23/100
+|turn|25
+|
+|t:|1641769672
+|move|p2a: Mimikyu|Play Rough|p1a: Peach
+|-damage|p1a: Peach|0 fnt
+|faint|p1a: Peach
+|-damage|p2a: Mimikyu|71/100|[from] item: Life Orb
+|
+|upkeep
+|c|☆Spirit15|na
+|
+|t:|1641769678
+|switch|p1a: Koopa troopa (red)|Slowbro, M|61/100 tox
+|turn|26
+|c|☆doctor susW|switchin all those pokemon really messed you up
+|
+|t:|1641769687
+|move|p2a: Mimikyu|Shadow Claw|p1a: Koopa troopa (red)
+|-supereffective|p1a: Koopa troopa (red)
+|-damage|p1a: Koopa troopa (red)|14/100 tox
+|-damage|p2a: Mimikyu|61/100|[from] item: Life Orb
+|move|p1a: Koopa troopa (red)|Scald|p2a: Mimikyu
+|-activate|p2a: Mimikyu|ability: Disguise
+|-damage|p2a: Mimikyu|61/100
+|detailschange|p2a: Mimikyu|Mimikyu-Busted, F
+|-damage|p2a: Mimikyu|48/100|[from] pokemon: Mimikyu-Busted
+|
+|-damage|p1a: Koopa troopa (red)|8/100 tox|[from] psn
+|upkeep
+|turn|27
+|c|☆Spirit15|gg
+|c|☆doctor susW|gg
+|
+|t:|1641769701
+|move|p2a: Mimikyu|Shadow Sneak|p1a: Koopa troopa (red)
+|-supereffective|p1a: Koopa troopa (red)
+|-damage|p1a: Koopa troopa (red)|0 fnt
+|faint|p1a: Koopa troopa (red)
+|-damage|p2a: Mimikyu|38/100|[from] item: Life Orb
+|
+|win|doctor susW
+|raw|Spirit15's rating: 1117 &rarr; <strong>1089</strong><br />(-28 for losing)
+|raw|doctor susW's rating: 1081 &rarr; <strong>1112</strong><br />(+31 for winning)
+|l|☆Spirit15

@@ -1,0 +1,482 @@
+|j|☆SL21CC姐ISthequeen
+|j|☆adreamew
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up.
+|t:|1641733760
+|gametype|singles
+|player|p1|SL21CC姐ISthequeen|cynthia|
+|player|p2|adreamew|2|
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|Tournament battle
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Slowbro-Galar, F|
+|poke|p1|Clefable, F|
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Magnezone|
+|poke|p1|Seismitoad, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p2|Mew|
+|poke|p2|Zeraora|
+|poke|p2|Clefable, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Dragonite, F|
+|poke|p2|Corviknight, M|
+|teampreview
+|j| SL21CC XIAOBAO
+|c|☆adreamew|真来速击吧呀0.0
+|l| SL21CC XIAOBAO
+|
+|t:|1641733777
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|c|☆SL21CC姐ISthequeen|真的呀
+|j| SL22CC 蜜雪冰城
+|c|☆SL21CC姐ISthequeen|骗你干嘛
+|
+|t:|1641733784
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: SL21CC姐ISthequeen|move: Aurora Veil
+|move|p2a: Toxapex|Toxic|p1a: Ninetales
+|-status|p1a: Ninetales|tox
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|95/100|[from] Hail
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|-damage|p1a: Ninetales|95/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1641733789
+|switch|p1a: 用心创造爱|Slowbro-Galar, F|100/100
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|95/100|[from] Hail
+|-damage|p1a: 用心创造爱|94/100|[from] Hail
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1641733797
+|move|p2a: Toxapex|Knock Off|p1a: 用心创造爱
+|-supereffective|p1a: 用心创造爱
+|-damage|p1a: 用心创造爱|79/100
+|-enditem|p1a: 用心创造爱|Quick Claw|[from] move: Knock Off|[of] p2a: Toxapex
+|move|p1a: 用心创造爱|Nasty Plot|p1a: 用心创造爱
+|-boost|p1a: 用心创造爱|spa|2
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|95/100|[from] Hail
+|-damage|p1a: 用心创造爱|73/100|[from] Hail
+|-heal|p2a: Toxapex|100/100|[from] item: Black Sludge
+|upkeep
+|turn|4
+|-activate|p1a: 用心创造爱|ability: Quick Draw
+|
+|t:|1641733799
+|move|p1a: 用心创造爱|Psyshock|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|9/100
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|3/100|[from] Hail
+|-damage|p1a: 用心创造爱|67/100|[from] Hail
+|-heal|p2a: Toxapex|9/100|[from] item: Black Sludge
+|upkeep
+|turn|5
+|
+|t:|1641733804
+|switch|p2a: Mew|Mew|100/100
+|move|p1a: 用心创造爱|Nasty Plot|p1a: 用心创造爱
+|-boost|p1a: 用心创造爱|spa|2
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641733808
+|move|p2a: Mew|Will-O-Wisp|p1a: 用心创造爱
+|-status|p1a: 用心创造爱|brn
+|move|p1a: 用心创造爱|Nasty Plot|p1a: 用心创造爱
+|-boost|p1a: 用心创造爱|spa|2
+|
+|-damage|p1a: 用心创造爱|61/100 brn|[from] brn
+|upkeep
+|turn|7
+|
+|t:|1641733810
+|move|p2a: Mew|Taunt|p1a: 用心创造爱
+|-start|p1a: 用心创造爱|move: Taunt
+|move|p1a: 用心创造爱|Ice Beam|p2a: Mew
+|-crit|p2a: Mew
+|-damage|p2a: Mew|23/100
+|
+|-heal|p2a: Mew|29/100|[from] item: Leftovers
+|-damage|p1a: 用心创造爱|55/100 brn|[from] brn
+|upkeep
+|turn|8
+|
+|t:|1641733813
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|79/100
+|-singleturn|p2a: Mew|move: Roost
+|move|p1a: 用心创造爱|Ice Beam|p2a: Mew
+|-damage|p2a: Mew|25/100
+|
+|-heal|p2a: Mew|31/100|[from] item: Leftovers
+|-damage|p1a: 用心创造爱|49/100 brn|[from] brn
+|-sideend|p1: SL21CC姐ISthequeen|move: Aurora Veil
+|upkeep
+|turn|9
+|-activate|p1a: 用心创造爱|ability: Quick Draw
+|
+|t:|1641733815
+|move|p1a: 用心创造爱|Ice Beam|p2a: Mew
+|-damage|p2a: Mew|0 fnt
+|faint|p2a: Mew
+|
+|-damage|p1a: 用心创造爱|43/100 brn|[from] brn
+|-end|p1a: 用心创造爱|move: Taunt
+|upkeep
+|
+|t:|1641733823
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|turn|10
+|
+|t:|1641733825
+|move|p2a: Dragonite|Earthquake|p1a: 用心创造爱
+|-supereffective|p1a: 用心创造爱
+|-damage|p1a: 用心创造爱|0 fnt
+|faint|p1a: 用心创造爱
+|
+|upkeep
+|
+|t:|1641733827
+|switch|p1a: Ninetales|Ninetales-Alola, M|95/100 tox
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|11
+|
+|t:|1641733833
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: SL21CC姐ISthequeen|move: Aurora Veil
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Ninetales|89/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1641733838
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Clefable|Trick|p1a: Tornadus
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Tornadus
+|-item|p1a: Tornadus|Sticky Barb|[from] move: Trick
+|-item|p2a: Clefable|Heavy-Duty Boots|[from] move: Trick
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tornadus|94/100|[from] Hail
+|-damage|p1a: Tornadus|82/100|[from] item: Sticky Barb
+|upkeep
+|turn|13
+|
+|t:|1641733846
+|move|p1a: Tornadus|Nasty Plot|p1a: Tornadus
+|-boost|p1a: Tornadus|spa|2
+|move|p2a: Clefable|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|61/100
+|-unboost|p1a: Tornadus|spa|1
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tornadus|55/100|[from] Hail
+|-damage|p1a: Tornadus|43/100|[from] item: Sticky Barb
+|upkeep
+|turn|14
+|
+|t:|1641733851
+|move|p1a: Tornadus|Hurricane|p2a: Clefable|[miss]
+|-miss|p1a: Tornadus|p2a: Clefable
+|move|p2a: Clefable|Moonblast|p1a: Tornadus
+|-damage|p1a: Tornadus|23/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Tornadus|17/100|[from] Hail
+|-damage|p1a: Tornadus|5/100|[from] item: Sticky Barb
+|upkeep
+|turn|15
+|
+|t:|1641733860
+|switch|p1a: 要温柔对待世界|Clefable, F|100/100
+|move|p2a: Clefable|Soft-Boiled||[still]
+|-fail|p2a: Clefable|heal
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1641733872
+|switch|p2a: Toxapex|Toxapex, M|42/100
+|move|p1a: 要温柔对待世界|Charge Beam|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|24/100
+|-boost|p1a: 要温柔对待世界|spa|1
+|
+|-heal|p2a: Toxapex|30/100|[from] item: Black Sludge
+|upkeep
+|turn|17
+|
+|t:|1641733877
+|move|p1a: 要温柔对待世界|Charge Beam|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|6/100
+|-boost|p1a: 要温柔对待世界|spa|1
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|57/100
+|
+|-heal|p2a: Toxapex|63/100|[from] item: Black Sludge
+|upkeep
+|turn|18
+|
+|t:|1641733880
+|move|p1a: 要温柔对待世界|Charge Beam|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|32/100
+|-boost|p1a: 要温柔对待世界|spa|1
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|37/100|[from] item: Black Sludge
+|-sideend|p1: SL21CC姐ISthequeen|move: Aurora Veil
+|upkeep
+|turn|19
+|
+|t:|1641733884
+|switch|p1a: Magnezone|Magnezone|100/100
+|-item|p1a: Magnezone|Air Balloon
+|move|p2a: Toxapex|Recover|p2a: Toxapex
+|-heal|p2a: Toxapex|88/100
+|
+|-heal|p2a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|20
+|
+|t:|1641733891
+|switch|p1a: Ninetales|Ninetales-Alola, M|89/100 tox
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Toxapex|Knock Off|p1a: Ninetales
+|-resisted|p1a: Ninetales
+|-damage|p1a: Ninetales|77/100 tox
+|-enditem|p1a: Ninetales|Light Clay|[from] move: Knock Off|[of] p2a: Toxapex
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Toxapex|88/100|[from] Hail
+|-heal|p2a: Toxapex|94/100|[from] item: Black Sludge
+|-damage|p1a: Ninetales|71/100 tox|[from] psn
+|upkeep
+|turn|21
+|
+|t:|1641733897
+|switch|p2a: Clefable|Clefable, F|100/100
+|move|p1a: Ninetales|Freeze-Dry|p2a: Clefable
+|-damage|p2a: Clefable|79/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Ninetales|59/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641733899
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: SL21CC姐ISthequeen|move: Aurora Veil
+|move|p2a: Clefable|Stealth Rock|p1a: Ninetales
+|-sidestart|p1: SL21CC姐ISthequeen|move: Stealth Rock
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Ninetales|42/100 tox|[from] psn
+|upkeep
+|turn|23
+|
+|t:|1641733909
+|switch|p1a: Seismitoad|Seismitoad, F|100/100
+|-damage|p1a: Seismitoad|94/100|[from] Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Seismitoad
+|-crit|p1a: Seismitoad
+|-damage|p1a: Seismitoad|59/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Seismitoad|53/100|[from] Hail
+|-heal|p1a: Seismitoad|59/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641733915
+|move|p1a: Seismitoad|Stealth Rock|p2a: Clefable
+|-sidestart|p2: adreamew|move: Stealth Rock
+|move|p2a: Clefable|Trick|p1a: Seismitoad
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Seismitoad
+|-item|p1a: Seismitoad|Heavy-Duty Boots|[from] move: Trick
+|-item|p2a: Clefable|Leftovers|[from] move: Trick
+|
+|-weather|none
+|-heal|p2a: Clefable|85/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641733919
+|move|p1a: Seismitoad|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|76/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Seismitoad
+|move|p2a: Clefable|Moonblast|p1a: Seismitoad
+|-damage|p1a: Seismitoad|48/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641733925
+|switch|p1a: 要温柔对待世界|Clefable, F|100/100
+|move|p2a: Clefable|Trick|p1a: 要温柔对待世界
+|-activate|p2a: Clefable|move: Trick|[of] p1a: 要温柔对待世界
+|-enditem|p1a: 要温柔对待世界|Leftovers|[silent]|[from] move: Trick
+|-item|p2a: Clefable|Leftovers|[from] move: Trick
+|
+|-heal|p2a: Clefable|82/100|[from] item: Leftovers
+|-sideend|p1: SL21CC姐ISthequeen|move: Aurora Veil
+|upkeep
+|turn|27
+|
+|t:|1641733932
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: 要温柔对待世界|Cosmic Power|p1a: 要温柔对待世界
+|-boost|p1a: 要温柔对待世界|def|1
+|-boost|p1a: 要温柔对待世界|spd|1
+|
+|-heal|p2a: Toxapex|94/100|[from] item: Black Sludge
+|upkeep
+|turn|28
+|
+|t:|1641733939
+|switch|p1a: Magnezone|Magnezone|100/100
+|-damage|p1a: Magnezone|94/100|[from] Stealth Rock
+|-item|p1a: Magnezone|Air Balloon
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|99/100|[from] item: Black Sludge
+|upkeep
+|turn|29
+|
+|t:|1641733946
+|switch|p2a: Dragonite|Dragonite, F|100/100
+|move|p1a: Magnezone|Thunderbolt|p2a: Dragonite
+|-damage|p2a: Dragonite|83/100
+|
+|upkeep
+|turn|30
+|
+|t:|1641733951
+|move|p2a: Dragonite|Earthquake|p1a: Magnezone
+|-immune|p1a: Magnezone
+|move|p1a: Magnezone|Flash Cannon|p2a: Dragonite
+|-damage|p2a: Dragonite|56/100
+|-unboost|p2a: Dragonite|spd|1
+|
+|upkeep
+|turn|31
+|
+|t:|1641733958
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|100/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Magnezone|Flash Cannon|p2a: Dragonite
+|-damage|p2a: Dragonite|78/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641733962
+|switch|p1a: 要温柔对待世界|Clefable, F|100/100
+|move|p2a: Dragonite|Ice Beam|p1a: 要温柔对待世界
+|-damage|p1a: 要温柔对待世界|82/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641733970
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|-damage|p2a: Toxapex|88/100|[from] Stealth Rock
+|move|p1a: 要温柔对待世界|Charge Beam|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|70/100
+|-boost|p1a: 要温柔对待世界|spa|1
+|
+|-heal|p2a: Toxapex|76/100|[from] item: Black Sludge
+|upkeep
+|turn|34
+|
+|t:|1641733976
+|move|p1a: 要温柔对待世界|Charge Beam|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|52/100
+|-boost|p1a: 要温柔对待世界|spa|1
+|move|p2a: Toxapex|Toxic|p1a: 要温柔对待世界
+|-status|p1a: 要温柔对待世界|tox
+|
+|-heal|p2a: Toxapex|58/100|[from] item: Black Sludge
+|upkeep
+|turn|35
+|
+|t:|1641733981
+|switch|p1a: Magnezone|Magnezone|94/100
+|-damage|p1a: Magnezone|88/100|[from] Stealth Rock
+|-item|p1a: Magnezone|Air Balloon
+|move|p2a: Toxapex|Haze|p2a: Toxapex
+|-clearallboost
+|
+|-heal|p2a: Toxapex|64/100|[from] item: Black Sludge
+|upkeep
+|turn|36
+|
+|t:|1641733986
+|switch|p2a: Dragonite|Dragonite, F|78/100
+|move|p1a: Magnezone|Flash Cannon|p2a: Dragonite
+|-damage|p2a: Dragonite|49/100
+|
+|upkeep
+|turn|37
+|
+|t:|1641733989
+|move|p2a: Dragonite|Roost|p2a: Dragonite
+|-heal|p2a: Dragonite|99/100
+|-singleturn|p2a: Dragonite|move: Roost
+|move|p1a: Magnezone|Flash Cannon|p2a: Dragonite
+|-damage|p2a: Dragonite|70/100
+|
+|upkeep
+|turn|38
+|-message|SL21CC姐ISthequeen forfeited.
+|
+|win|adreamew
+|n|☆SL21CC姐ISthequeen|sl21ccisthequeen
+|n|☆adreamew|adreamew
+|n| SL22CC 蜜雪冰城|sl22cc
+|l|☆SL21CC姐ISthequeen
+|l|☆adreamew
+|l| SL22CC 蜜雪冰城
+|j|☆adreamew
+|player|p2|adreamew|2

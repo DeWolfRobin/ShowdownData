@@ -1,0 +1,122 @@
+|j|☆MooMooMilk48
+|j|☆Beedrill<3Davis
+|t:|1641719325
+|gametype|singles
+|player|p1|MooMooMilk48|waitress|1057
+|player|p2|Beedrill<3Davis|169|1095
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, F|
+|poke|p1|Ferrothorn, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Rillaboom, F|
+|poke|p1|Blacephalon|
+|poke|p2|Victini|
+|poke|p2|Mesprit|
+|poke|p2|Accelgor, M|
+|poke|p2|Vaporeon, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Blacephalon|
+|teampreview
+|
+|t:|1641719330
+|start
+|switch|p1a: Clefable|Clefable, F|100/100
+|switch|p2a: Victini|Victini|100/100
+|turn|1
+|
+|t:|1641719341
+|switch|p1a: Tapu Fini|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: Tapu Fini
+|move|p2a: Victini|Final Gambit|p1a: Tapu Fini
+|-damage|p1a: Tapu Fini|0 fnt
+|faint|p2a: Victini
+|faint|p1a: Tapu Fini
+|
+|upkeep
+|
+|t:|1641719362
+|switch|p2a: Mesprit|Mesprit|100/100
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|2
+|
+|t:|1641719369
+|move|p2a: Mesprit|Copycat|p2a: Mesprit
+|move|p2a: Mesprit|Final Gambit|p1a: Rillaboom|[from]move: Copycat
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p2a: Mesprit
+|faint|p1a: Rillaboom
+|
+|upkeep
+|c|☆MooMooMilk48|Based lol
+|
+|t:|1641719389
+|switch|p1a: Ferrothorn|Ferrothorn, F|100/100
+|switch|p2a: Accelgor|Accelgor, M|100/100
+|turn|3
+|
+|t:|1641719393
+|move|p2a: Accelgor|Final Gambit|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|0 fnt
+|faint|p2a: Accelgor
+|faint|p1a: Ferrothorn
+|
+|upkeep
+|
+|t:|1641719397
+|switch|p2a: Vaporeon|Vaporeon, F|100/100
+|switch|p1a: Clefable|Clefable, F|100/100
+|turn|4
+|
+|t:|1641719402
+|move|p2a: Vaporeon|Copycat|p2a: Vaporeon
+|move|p2a: Vaporeon|Final Gambit|p1a: Clefable|[from]move: Copycat
+|-damage|p1a: Clefable|0 fnt
+|faint|p2a: Vaporeon
+|faint|p1a: Clefable
+|
+|upkeep
+|
+|t:|1641719408
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|turn|5
+|
+|t:|1641719415
+|move|p2a: Landorus|Explosion|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p2a: Landorus
+|faint|p1a: Garchomp
+|
+|upkeep
+|
+|t:|1641719419
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|6
+|
+|t:|1641719424
+|move|p2a: Blacephalon|Shadow Ball|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|faint|p1a: Blacephalon
+|
+|win|Beedrill<3Davis
+|raw|MooMooMilk48's rating: 1057 &rarr; <strong>1040</strong><br />(-17 for losing)
+|raw|Beedrill&lt;3Davis's rating: 1095 &rarr; <strong>1118</strong><br />(+23 for winning)
+|c|☆Beedrill<3Davis|gg

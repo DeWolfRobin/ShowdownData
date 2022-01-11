@@ -1,0 +1,270 @@
+|j|☆rujjtrainer
+|j|☆donchorizo
+|t:|1641723742
+|gametype|singles
+|player|p1|rujjtrainer|lady-gen4|1381
+|player|p2|donchorizo|170|1311
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Hawlucha, M|
+|poke|p1|Tyrantrum, M|
+|poke|p1|Aurorus, M|
+|poke|p1|Gourgeist-*, F|
+|poke|p1|Goodra, F|
+|poke|p1|Gardevoir, F|
+|poke|p2|Landorus-Therian, M|
+|poke|p2|Urshifu-*, M|
+|poke|p2|Scizor, F|
+|poke|p2|Latios, M|
+|poke|p2|Nidoking, M|
+|poke|p2|Weavile, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by rujjtrainer)
+|
+|t:|1641723813
+|start
+|switch|p1a: Aurorus|Aurorus, M|100/100
+|switch|p2a: Scizor|Scizor, F|100/100
+|turn|1
+|inactive|rujjtrainer has 120 seconds left.
+|inactive|rujjtrainer has 90 seconds left.
+|
+|t:|1641723887
+|switch|p1a: Gourgeist|Gourgeist-Large, F|100/100
+|-item|p2a: Scizor|Choice Band|[from] ability: Frisk|[of] p1a: Gourgeist|[identify]
+|move|p2a: Scizor|Bullet Punch|p1a: Gourgeist
+|-damage|p1a: Gourgeist|62/100
+|-damage|p2a: Scizor|84/100|[from] item: Rocky Helmet|[of] p1a: Gourgeist
+|
+|upkeep
+|turn|2
+|
+|t:|1641723905
+|switch|p2a: Weavile|Weavile, M|100/100
+|-ability|p2a: Weavile|Pressure
+|move|p1a: Gourgeist|Will-O-Wisp|p2a: Weavile
+|-status|p2a: Weavile|brn
+|
+|-damage|p2a: Weavile|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|rujjtrainer has 90 seconds left.
+|
+|t:|1641723918
+|move|p2a: Weavile|Triple Axel|p1a: Gourgeist
+|-supereffective|p1a: Gourgeist
+|-damage|p1a: Gourgeist|53/100
+|-damage|p2a: Weavile|78/100 brn|[from] item: Rocky Helmet|[of] p1a: Gourgeist
+|-hitcount|p1a: Gourgeist|1
+|-damage|p2a: Weavile|68/100 brn|[from] item: Life Orb
+|move|p1a: Gourgeist|Seed Bomb|p2a: Weavile
+|-damage|p2a: Weavile|24/100 brn
+|
+|-damage|p2a: Weavile|18/100 brn|[from] brn
+|upkeep
+|turn|4
+|inactive|rujjtrainer has 90 seconds left.
+|
+|t:|1641723930
+|switch|p1a: Aurorus|Aurorus, M|100/100
+|move|p2a: Weavile|Triple Axel|p1a: Aurorus
+|-resisted|p1a: Aurorus
+|-damage|p1a: Aurorus|97/100
+|-resisted|p1a: Aurorus
+|-damage|p1a: Aurorus|90/100
+|-resisted|p1a: Aurorus
+|-crit|p1a: Aurorus
+|-damage|p1a: Aurorus|72/100
+|-hitcount|p1a: Aurorus|3
+|-damage|p2a: Weavile|8/100 brn|[from] item: Life Orb
+|
+|-damage|p2a: Weavile|2/100 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|rujjtrainer has 90 seconds left.
+|
+|t:|1641723946
+|move|p2a: Weavile|Knock Off|p1a: Aurorus
+|-damage|p1a: Aurorus|40/100
+|-enditem|p1a: Aurorus|Wise Glasses|[from] move: Knock Off|[of] p2a: Weavile
+|-damage|p2a: Weavile|0 fnt|[from] item: Life Orb
+|faint|p2a: Weavile
+|move|p1a: Aurorus|Freeze-Dry|p2: Weavile|[notarget]
+|-fail|p1a: Aurorus
+|
+|upkeep
+|inactive|donchorizo has 120 seconds left.
+|
+|t:|1641723980
+|switch|p2a: Scizor|Scizor, F|84/100
+|turn|6
+|inactive|rujjtrainer has 90 seconds left.
+|
+|t:|1641724014
+|move|p1a: Aurorus|Thunder Wave|p2a: Scizor
+|-status|p2a: Scizor|par
+|move|p2a: Scizor|U-turn|p1a: Aurorus
+|-damage|p1a: Aurorus|0 fnt
+|faint|p1a: Aurorus
+|
+|t:|1641724021
+|switch|p2a: Landorus|Landorus-Therian, M|100/100|[from]move: U-turn
+|
+|upkeep
+|
+|t:|1641724027
+|switch|p1a: Goodra|Goodra, F|100/100
+|turn|7
+|
+|t:|1641724033
+|move|p2a: Landorus|Knock Off|p1a: Goodra
+|-crit|p1a: Goodra
+|-damage|p1a: Goodra|34/100
+|-enditem|p1a: Goodra|Assault Vest|[from] move: Knock Off|[of] p2a: Landorus
+|move|p1a: Goodra|Ice Beam|p2a: Landorus
+|-supereffective|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|
+|upkeep
+|inactive|donchorizo has 120 seconds left.
+|
+|t:|1641724069
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|turn|8
+|inactive|rujjtrainer has 90 seconds left.
+|
+|t:|1641724089
+|move|p2a: Urshifu|Surging Strikes|p1a: Goodra
+|-resisted|p1a: Goodra
+|-crit|p1a: Goodra
+|-damage|p1a: Goodra|18/100
+|-resisted|p1a: Goodra
+|-crit|p1a: Goodra
+|-damage|p1a: Goodra|2/100
+|-resisted|p1a: Goodra
+|-crit|p1a: Goodra
+|-damage|p1a: Goodra|0 fnt
+|faint|p1a: Goodra
+|-hitcount|p1: Goodra|3
+|
+|upkeep
+|
+|t:|1641724098
+|switch|p1a: Hawlucha|Hawlucha, M|100/100
+|turn|9
+|inactive|donchorizo has 120 seconds left.
+|
+|t:|1641724112
+|move|p1a: Hawlucha|Brave Bird|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|-damage|p1a: Hawlucha|62/100|[from] Recoil
+|
+|upkeep
+|inactive|donchorizo has 120 seconds left.
+|
+|t:|1641724122
+|switch|p2a: Latios|Latios, M|100/100
+|turn|10
+|inactive|donchorizo has 120 seconds left.
+|
+|t:|1641724132
+|move|p2a: Latios|Shadow Ball|p1a: Hawlucha
+|-damage|p1a: Hawlucha|12/100
+|move|p1a: Hawlucha|Brave Bird|p2a: Latios
+|-damage|p2a: Latios|31/100
+|-damage|p1a: Hawlucha|0 fnt|[from] Recoil
+|faint|p1a: Hawlucha
+|
+|upkeep
+|
+|t:|1641724140
+|switch|p1a: Gourgeist|Gourgeist-Large, F|53/100
+|-item|p2a: Latios|Choice Scarf|[from] ability: Frisk|[of] p1a: Gourgeist|[identify]
+|turn|11
+|
+|t:|1641724145
+|move|p1a: Gourgeist|Shadow Sneak|p2a: Latios
+|-supereffective|p2a: Latios
+|-damage|p2a: Latios|0 fnt
+|faint|p2a: Latios
+|
+|upkeep
+|
+|t:|1641724155
+|switch|p2a: Scizor|Scizor, F|84/100 par
+|turn|12
+|
+|t:|1641724160
+|move|p1a: Gourgeist|Shadow Sneak|p2a: Scizor
+|-damage|p2a: Scizor|71/100 par
+|cant|p2a: Scizor|par
+|
+|upkeep
+|turn|13
+|
+|t:|1641724165
+|move|p1a: Gourgeist|Shadow Sneak|p2a: Scizor
+|-damage|p2a: Scizor|57/100 par
+|move|p2a: Scizor|U-turn|p1a: Gourgeist
+|-damage|p1a: Gourgeist|6/100
+|-damage|p2a: Scizor|41/100 par|[from] item: Rocky Helmet|[of] p1a: Gourgeist
+|
+|t:|1641724170
+|switch|p2a: Nidoking|Nidoking, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1641724179
+|move|p1a: Gourgeist|Shadow Sneak|p2a: Nidoking
+|-damage|p2a: Nidoking|83/100
+|move|p2a: Nidoking|Ice Beam|p1a: Gourgeist
+|-supereffective|p1a: Gourgeist
+|-damage|p1a: Gourgeist|0 fnt
+|faint|p1a: Gourgeist
+|
+|upkeep
+|
+|t:|1641724186
+|switch|p1a: Gardevoir|Gardevoir, F|100/100
+|-ability|p1a: Gardevoir|Sheer Force|[from] ability: Trace|[of] p2a: Nidoking
+|turn|15
+|
+|t:|1641724192
+|move|p1a: Gardevoir|Psyshock|p2a: Nidoking
+|-supereffective|p2a: Nidoking
+|-damage|p2a: Nidoking|0 fnt
+|faint|p2a: Nidoking
+|
+|upkeep
+|
+|t:|1641724195
+|switch|p2a: Scizor|Scizor, F|41/100 par
+|turn|16
+|
+|t:|1641724198
+|cant|p2a: Scizor|par
+|move|p1a: Gardevoir|Mystical Fire|p2a: Scizor
+|-supereffective|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|
+|win|rujjtrainer
+|raw|rujjtrainer's rating: 1399 &rarr; <strong>1414</strong><br />(+15 for winning)
+|raw|donchorizo's rating: 1311 &rarr; <strong>1296</strong><br />(-15 for losing)
+|l|☆donchorizo
+|c|☆rujjtrainer|sorry gg

@@ -1,0 +1,231 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Leviathan
+|j|☆9skythunderouskick
+|t:|1641738506
+|gametype|singles
+|player|p1|SL21CC Leviathan|guitarist|1205
+|player|p2|9skythunderouskick|101|1292
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Gengar, M|
+|poke|p1|Blissey, F|
+|poke|p1|Dragapult, M|
+|poke|p1|Swampert, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Corviknight, F|
+|poke|p2|Heatran, F|
+|poke|p2|Mew|
+|poke|p2|Tornadus-Therian, M|
+|poke|p2|Clefable, F|
+|poke|p2|Skarmory, M|
+|poke|p2|Gastrodon, M|
+|teampreview
+|j| tianyutulongwu
+|j| adreamew
+|
+|t:|1641738540
+|start
+|switch|p1a: Gengar|Gengar, M|100/100
+|switch|p2a: Tornadus|Tornadus-Therian, M|100/100
+|turn|1
+|
+|t:|1641738546
+|switch|p1a: Toxapex|Toxapex, M|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Toxapex
+|-damage|p1a: Toxapex|86/100
+|-enditem|p1a: Toxapex|Shed Shell|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|2
+|
+|t:|1641738548
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|move|p1a: Toxapex|Knock Off|p2a: Tornadus
+|-damage|p2a: Tornadus|80/100
+|-enditem|p2a: Tornadus|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Toxapex
+|
+|upkeep
+|turn|3
+|
+|t:|1641738552
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|26/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|4
+|
+|t:|1641738558
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|move|p1a: Toxapex|Recover|p1a: Toxapex
+|-heal|p1a: Toxapex|76/100
+|
+|upkeep
+|turn|5
+|
+|t:|1641738562
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|16/100
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|6
+|
+|t:|1641738573
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Tornadus|Nasty Plot|p2a: Tornadus
+|-boost|p2a: Tornadus|spa|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641738576
+|move|p2a: Tornadus|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|83/100
+|-enditem|p1a: Blissey|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|move|p1a: Blissey|Thunder Wave|p2a: Tornadus
+|-status|p2a: Tornadus|par
+|
+|upkeep
+|turn|8
+|
+|t:|1641738579
+|move|p2a: Tornadus|Focus Blast|p1a: Blissey
+|-supereffective|p1a: Blissey
+|-damage|p1a: Blissey|25/100
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641738581
+|switch|p1a: Toxapex|Toxapex, M|50/100|[from]move: Teleport
+|
+|upkeep
+|turn|9
+|
+|t:|1641738588
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|cant|p2a: Tornadus|par
+|
+|upkeep
+|turn|10
+|
+|t:|1641738593
+|switch|p1a: Toxapex|Toxapex, M|83/100
+|cant|p2a: Tornadus|par
+|
+|upkeep
+|turn|11
+|
+|t:|1641738596
+|move|p2a: Tornadus|Hurricane|p1a: Toxapex
+|-damage|p1a: Toxapex|17/100
+|-start|p1a: Toxapex|confusion
+|-activate|p1a: Toxapex|confusion
+|move|p1a: Toxapex|Haze|p1a: Toxapex
+|-clearallboost
+|
+|upkeep
+|turn|12
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Leviathan)
+|
+|t:|1641738614
+|switch|p1a: Dragapult|Dragapult, M|100/100
+|move|p2a: Tornadus|Knock Off|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|41/100
+|-enditem|p1a: Dragapult|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Tornadus
+|
+|upkeep
+|turn|13
+|
+|t:|1641738624
+|switch|p2a: Gastrodon|Gastrodon, M|100/100
+|move|p1a: Dragapult|Hex|p2a: Gastrodon
+|-damage|p2a: Gastrodon|80/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641738627
+|move|p1a: Dragapult|U-turn|p2a: Gastrodon
+|-damage|p2a: Gastrodon|58/100
+|
+|t:|1641738631
+|switch|p1a: Blissey|Blissey, F|25/100|[from]move: U-turn
+|move|p2a: Gastrodon|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|upkeep
+|
+|t:|1641738632
+|switch|p1a: Toxapex|Toxapex, M|50/100
+|turn|15
+|
+|t:|1641738635
+|move|p1a: Toxapex|Toxic Spikes|p2a: Gastrodon
+|-sidestart|p2: 9skythunderouskick|move: Toxic Spikes
+|move|p2a: Gastrodon|Earthquake|p1a: Toxapex
+|-supereffective|p1a: Toxapex
+|-damage|p1a: Toxapex|2/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641738644
+|switch|p1a: Corviknight|Corviknight, F|100/100
+|-ability|p1a: Corviknight|Pressure
+|move|p2a: Gastrodon|Earthquake|p1a: Corviknight
+|-immune|p1a: Corviknight
+|
+|upkeep
+|turn|17
+|
+|t:|1641738647
+|switch|p1a: Swampert|Swampert, M|100/100
+|move|p2a: Gastrodon|Substitute|p2a: Gastrodon
+|-start|p2a: Gastrodon|Substitute
+|-damage|p2a: Gastrodon|33/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641738654
+|switch|p1a: Dragapult|Dragapult, M|41/100
+|move|p2a: Gastrodon|Recover|p2a: Gastrodon
+|-heal|p2a: Gastrodon|83/100
+|
+|upkeep
+|turn|19
+|
+|t:|1641738656
+|move|p1a: Dragapult|Dragon Darts|p2a: Gastrodon
+|-damage|p2a: Gastrodon|61/100
+|-anim|p1a: Dragapult|Dragon Darts|p2a: Gastrodon
+|-damage|p2a: Gastrodon|38/100
+|move|p2a: Gastrodon|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|upkeep
+|-message|SL21CC Leviathan forfeited.
+|
+|win|9skythunderouskick
+|raw|SL21CC Leviathan's rating: 1205 &rarr; <strong>1193</strong><br />(-12 for losing)
+|raw|9skythunderouskick's rating: 1292 &rarr; <strong>1304</strong><br />(+12 for winning)
+|l|☆SL21CC Leviathan

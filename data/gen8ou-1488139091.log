@@ -1,0 +1,372 @@
+|j|☆TheStuffedOne
+|j|☆Ramlou420
+|t:|1641719968
+|gametype|singles
+|player|p1|TheStuffedOne|whitney|1343
+|player|p2|Ramlou420|benga|1386
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Clefable, M|
+|poke|p1|Ferrothorn, M|
+|poke|p1|Garchomp, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Tyranitar, M|
+|poke|p1|Tapu Koko|
+|poke|p2|Kommo-o, M|
+|poke|p2|Volcarona, M|
+|poke|p2|Dragapult, M|
+|poke|p2|Zapdos|
+|poke|p2|Melmetal|
+|poke|p2|Landorus-Therian, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Ramlou420)
+|
+|t:|1641719993
+|start
+|switch|p1a: Garchomp|Garchomp, F|100/100
+|switch|p2a: Kommo-o|Kommo-o, M, shiny|100/100
+|turn|1
+|
+|t:|1641720007
+|switch|p2a: Landorus|Landorus-Therian, M|100/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Garchomp|atk|1
+|move|p1a: Garchomp|Earthquake|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|upkeep
+|turn|2
+|
+|t:|1641720019
+|move|p1a: Garchomp|Stealth Rock|p2a: Landorus
+|-sidestart|p2: Ramlou420|move: Stealth Rock
+|move|p2a: Landorus|Stealth Rock|p1a: Garchomp
+|-sidestart|p1: TheStuffedOne|move: Stealth Rock
+|
+|upkeep
+|turn|3
+|
+|t:|1641720026
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|move|p2a: Landorus|Toxic|p1a: Garchomp
+|-status|p1a: Garchomp|tox
+|
+|-damage|p1a: Garchomp|94/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641720036
+|move|p1a: Garchomp|Stone Edge|p2a: Landorus|[miss]
+|-miss|p1a: Garchomp|p2a: Landorus
+|move|p2a: Landorus|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|48/100 tox
+|
+|-heal|p1a: Garchomp|54/100 tox|[from] item: Leftovers
+|-damage|p1a: Garchomp|42/100 tox|[from] psn
+|upkeep
+|turn|5
+|
+|t:|1641720046
+|move|p1a: Garchomp|Stone Edge|p2a: Landorus
+|-damage|p2a: Landorus|54/100
+|move|p2a: Landorus|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-heal|p2a: Landorus|60/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641720052
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|turn|6
+|
+|t:|1641720060
+|move|p2a: Landorus|U-turn|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|75/100
+|
+|t:|1641720068
+|switch|p2a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|-damage|p2a: Zapdos|76/100|[from] Stealth Rock
+|move|p1a: Slowbro|Future Sight|p2a: Zapdos
+|-start|p1a: Slowbro|move: Future Sight
+|
+|-heal|p2a: Zapdos|82/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641720080
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Zapdos|Defog|p1a: Tapu Koko
+|-unboost|p1a: Tapu Koko|evasion|1
+|-sideend|p1: TheStuffedOne|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|-sideend|p2: Ramlou420|Stealth Rock|[from] move: Defog|[of] p2a: Zapdos
+|-fieldend|move: Electric Terrain
+|
+|-heal|p2a: Zapdos|88/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641720101
+|switch|p2a: Landorus|Landorus-Therian, M|60/100
+|-ability|p2a: Landorus|Intimidate|boost
+|-unboost|p1a: Tapu Koko|atk|1
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Landorus
+|-immune|p2a: Landorus
+|
+|-end|p2a: Landorus|move: Future Sight
+|-crit|p2a: Landorus
+|-damage|p2a: Landorus|0 fnt
+|faint|p2a: Landorus
+|upkeep
+|inactive|Ramlou420 has 120 seconds left.
+|
+|t:|1641720118
+|switch|p2a: Melmetal|Melmetal|100/100
+|turn|9
+|inactive|Ramlou420 has 120 seconds left.
+|
+|t:|1641720129
+|move|p1a: Tapu Koko|U-turn|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|97/100
+|
+|t:|1641720133
+|switch|p1a: Slowbro|Slowbro, F|100/100|[from]move: U-turn
+|move|p2a: Melmetal|Earthquake|p1a: Slowbro
+|-damage|p1a: Slowbro|81/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641720142
+|move|p2a: Melmetal|Thunder Punch|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-damage|p1a: Slowbro|44/100
+|-status|p1a: Slowbro|par
+|move|p1a: Slowbro|Scald|p2a: Melmetal
+|-damage|p2a: Melmetal|84/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641720158
+|switch|p2a: Zapdos|Zapdos|88/100
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|
+|-heal|p2a: Zapdos|94/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641720172
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Zapdos|Hurricane|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|68/100
+|-start|p1a: Tapu Koko|confusion
+|
+|-heal|p2a: Zapdos|99/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641720185
+|switch|p2a: Melmetal|Melmetal|84/100
+|-activate|p1a: Tapu Koko|confusion
+|move|p1a: Tapu Koko|U-turn|p2a: Melmetal
+|-resisted|p2a: Melmetal
+|-damage|p2a: Melmetal|79/100
+|
+|t:|1641720196
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|14
+|
+|t:|1641720204
+|switch|p2a: Volcarona|Volcarona, M|100/100
+|move|p1a: Ferrothorn|Thunder Wave|p2a: Volcarona
+|-status|p2a: Volcarona|par
+|
+|upkeep
+|turn|15
+|
+|t:|1641720215
+|switch|p1a: Clefable|Clefable, M|100/100
+|move|p2a: Volcarona|Fiery Dance|p1a: Clefable
+|-damage|p1a: Clefable|65/100
+|
+|upkeep
+|turn|16
+|
+|t:|1641720224
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|100/100
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|17
+|
+|t:|1641720238
+|cant|p2a: Volcarona|par
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|18
+|
+|t:|1641720248
+|move|p2a: Volcarona|Quiver Dance|p2a: Volcarona
+|-boost|p2a: Volcarona|spa|1
+|-boost|p2a: Volcarona|spd|1
+|-boost|p2a: Volcarona|spe|1
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|19
+|
+|t:|1641720255
+|move|p2a: Volcarona|Fiery Dance|p1a: Clefable
+|-damage|p1a: Clefable|84/100
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|
+|upkeep
+|turn|20
+|
+|t:|1641720263
+|switch|p2a: Melmetal|Melmetal|79/100
+|move|p1a: Clefable|Flamethrower|p2a: Melmetal
+|-supereffective|p2a: Melmetal
+|-damage|p2a: Melmetal|27/100
+|-status|p2a: Melmetal|brn
+|
+|-damage|p2a: Melmetal|21/100 brn|[from] brn
+|upkeep
+|turn|21
+|
+|t:|1641720273
+|switch|p1a: Ferrothorn|Ferrothorn, M|100/100
+|move|p2a: Melmetal|Double Iron Bash|p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|93/100
+|-damage|p2a: Melmetal|8/100 brn|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|-resisted|p1a: Ferrothorn
+|-damage|p1a: Ferrothorn|87/100
+|-damage|p2a: Melmetal|0 fnt|[from] ability: Iron Barbs|[of] p1a: Ferrothorn
+|faint|p2a: Melmetal
+|-hitcount|p1a: Ferrothorn|2
+|
+|-heal|p1a: Ferrothorn|94/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641720287
+|switch|p2a: Volcarona|Volcarona, M|100/100 par
+|turn|22
+|
+|t:|1641720302
+|switch|p1a: Clefable|Clefable, M|84/100
+|move|p2a: Volcarona|Fiery Dance|p1a: Clefable
+|-damage|p1a: Clefable|49/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641720311
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|99/100
+|move|p2a: Volcarona|Fiery Dance|p1a: Clefable
+|-damage|p1a: Clefable|63/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641720320
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Volcarona|Fiery Dance|p1a: Clefable
+|-damage|p1a: Clefable|42/100
+|
+|upkeep
+|turn|25
+|
+|t:|1641720329
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|92/100
+|move|p2a: Volcarona|Fiery Dance|p1a: Clefable
+|-damage|p1a: Clefable|68/100
+|
+|upkeep
+|turn|26
+|
+|t:|1641720336
+|move|p1a: Clefable|Calm Mind|p1a: Clefable
+|-boost|p1a: Clefable|spa|1
+|-boost|p1a: Clefable|spd|1
+|move|p2a: Volcarona|Fiery Dance|p1a: Clefable
+|-damage|p1a: Clefable|49/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641720344
+|switch|p2a: Kommo-o|Kommo-o, M, shiny|100/100
+|move|p1a: Clefable|Soft-Boiled|p1a: Clefable
+|-heal|p1a: Clefable|99/100
+|
+|upkeep
+|turn|28
+|
+|t:|1641720355
+|move|p2a: Kommo-o|Substitute|p2a: Kommo-o
+|-start|p2a: Kommo-o|Substitute
+|-damage|p2a: Kommo-o|75/100
+|move|p1a: Clefable|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-end|p2a: Kommo-o|Substitute
+|
+|upkeep
+|turn|29
+|
+|t:|1641720362
+|move|p2a: Kommo-o|Drain Punch|p1a: Clefable
+|-resisted|p1a: Clefable
+|-damage|p1a: Clefable|87/100
+|-heal|p2a: Kommo-o|83/100|[from] drain|[of] p1a: Clefable
+|move|p1a: Clefable|Moonblast|p2a: Kommo-o
+|-supereffective|p2a: Kommo-o
+|-damage|p2a: Kommo-o|0 fnt
+|faint|p2a: Kommo-o
+|
+|upkeep
+|-message|Ramlou420 forfeited.
+|
+|win|TheStuffedOne
+|raw|TheStuffedOne's rating: 1343 &rarr; <strong>1365</strong><br />(+22 for winning)
+|raw|Ramlou420's rating: 1386 &rarr; <strong>1364</strong><br />(-22 for losing)
+|l|☆Ramlou420
+|l|☆TheStuffedOne
+|j|☆TheStuffedOne
+|player|p1|TheStuffedOne|whitney

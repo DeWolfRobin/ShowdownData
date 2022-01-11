@@ -1,0 +1,852 @@
+|j|☆Nihar321
+|j|☆8jaggery
+|t:|1641806943
+|gametype|singles
+|player|p1|Nihar321|101|1169
+|player|p2|8jaggery|265|1193
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Raichu-Alola, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Kartana|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Slowking, M|
+|poke|p1|Mandibuzz, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Heatran, F|
+|poke|p2|Dragapult, M|
+|poke|p2|Clefable, F|
+|poke|p2|Blastoise, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Nihar321)
+|
+|t:|1641806966
+|start
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|1
+|
+|t:|1641806973
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Tapu Koko|Volt Switch|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|83/100
+|
+|t:|1641806996
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100|[from]move: Volt Switch
+|
+|-heal|p2a: Rillaboom|89/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1641807023
+|switch|p2a: Blastoise|Blastoise, M|100/100
+|move|p1a: Mandibuzz|Toxic|p2a: Blastoise
+|-status|p2a: Blastoise|tox
+|
+|-damage|p2a: Blastoise|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641807032
+|switch|p2a: Clefable|Clefable, F|100/100
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|
+|upkeep
+|turn|4
+|
+|t:|1641807039
+|move|p1a: Tapu Koko|Volt Switch|p2a: Clefable
+|-damage|p2a: Clefable|73/100
+|
+|t:|1641807043
+|switch|p1a: Kartana|Kartana|100/100|[from]move: Volt Switch
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2: Blastoise|tox|[msg]
+|
+|-heal|p2a: Clefable|79/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1641807060
+|switch|p2a: Rillaboom|Rillaboom, M|89/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Kartana|Smart Strike|p2a: Rillaboom
+|-damage|p2a: Rillaboom|36/100
+|
+|-heal|p2a: Rillaboom|42/100|[from] Grassy Terrain
+|upkeep
+|turn|6
+|
+|t:|1641807069
+|switch|p2a: Hawlucha|Hawlucha, F|100/100
+|-enditem|p2a: Hawlucha|Grassy Seed
+|-boost|p2a: Hawlucha|def|1|[from] item: Grassy Seed
+|move|p1a: Kartana|Smart Strike|p2a: Hawlucha
+|-damage|p2a: Hawlucha|35/100
+|
+|upkeep
+|turn|7
+|
+|t:|1641807084
+|move|p2a: Hawlucha|Close Combat|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641807089
+|switch|p1a: Mandibuzz|Mandibuzz, F|100/100
+|turn|8
+|
+|t:|1641807103
+|switch|p2a: Clefable|Clefable, F|79/100
+|move|p1a: Mandibuzz|Foul Play|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|69/100
+|
+|-heal|p2a: Clefable|75/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641807119
+|move|p1a: Mandibuzz|Toxic|p2a: Clefable|[miss]
+|-miss|p1a: Mandibuzz|p2a: Clefable
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|52/100
+|
+|-heal|p2a: Clefable|87/100|[from] Grassy Terrain
+|-heal|p2a: Clefable|93/100|[from] item: Leftovers
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|10
+|
+|t:|1641807128
+|move|p1a: Mandibuzz|Toxic|p2a: Clefable|[miss]
+|-miss|p1a: Mandibuzz|p2a: Clefable
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|8/100
+|-unboost|p1a: Mandibuzz|spa|1
+|
+|-heal|p2a: Clefable|99/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641807136
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|58/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Clefable|Psychic|p1a: Mandibuzz
+|-immune|p1a: Mandibuzz
+|
+|-heal|p2a: Clefable|100/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641807144
+|move|p1a: Mandibuzz|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|10/100
+|
+|-damage|p2a: Clefable|94/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641807151
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|60/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|13/100
+|-unboost|p1a: Mandibuzz|spa|1
+|
+|-heal|p2a: Clefable|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|88/100 tox|[from] psn
+|upkeep
+|turn|14
+|
+|t:|1641807162
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|63/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|tox|[msg]
+|
+|-heal|p2a: Clefable|94/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|
+|t:|1641807171
+|move|p1a: Mandibuzz|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|18/100
+|
+|-heal|p2a: Clefable|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|94/100 tox|[from] psn
+|upkeep
+|turn|16
+|
+|t:|1641807179
+|switch|p1a: Slowking|Slowking, M|100/100
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|81/100
+|
+|-heal|p2a: Clefable|100/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|88/100 tox|[from] psn
+|upkeep
+|turn|17
+|
+|t:|1641807187
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|tox|[msg]
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Clefable|94/100|[from] item: Leftovers
+|upkeep
+|turn|18
+|
+|t:|1641807197
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|63/100
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|74/100
+|-status|p2a: Clefable|brn
+|
+|-heal|p2a: Clefable|80/100 brn|[from] item: Leftovers
+|-damage|p2a: Clefable|74/100 brn|[from] brn
+|upkeep
+|turn|19
+|
+|t:|1641807207
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|brn|[msg]
+|move|p1a: Slowking|Teleport|p1a: Slowking
+|
+|t:|1641807211
+|switch|p1a: Mandibuzz|Mandibuzz, F|18/100|[from]move: Teleport
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|47/100
+|-heal|p2a: Clefable|54/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641807219
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|68/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|22/100
+|
+|-heal|p2a: Clefable|60/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641807227
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|72/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|25/100
+|
+|-heal|p2a: Clefable|66/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641807236
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|75/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|32/100
+|
+|-heal|p2a: Clefable|72/100|[from] item: Leftovers
+|upkeep
+|turn|23
+|
+|t:|1641807245
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|82/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|38/100
+|
+|-heal|p2a: Clefable|78/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|
+|t:|1641807261
+|switch|p2a: Hawlucha|Hawlucha, F|35/100
+|move|p1a: Mandibuzz|Toxic|p2a: Hawlucha
+|-status|p2a: Hawlucha|tox
+|
+|-damage|p2a: Hawlucha|29/100 tox|[from] psn
+|upkeep
+|turn|25
+|
+|t:|1641807268
+|move|p2a: Hawlucha|Close Combat|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|6/100
+|-unboost|p2a: Hawlucha|def|1
+|-unboost|p2a: Hawlucha|spd|1
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|56/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-damage|p2a: Hawlucha|17/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641807282
+|switch|p2a: Clefable|Clefable, F|78/100
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|100/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|-heal|p2a: Clefable|84/100|[from] item: Leftovers
+|upkeep
+|turn|27
+|
+|t:|1641807292
+|move|p1a: Mandibuzz|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|55/100
+|
+|-heal|p2a: Clefable|90/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|84/100 tox|[from] psn
+|upkeep
+|turn|28
+|
+|t:|1641807301
+|move|p1a: Mandibuzz|Foul Play|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|75/100 tox
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|tox|[msg]
+|-curestatus|p2: Hawlucha|tox|[msg]
+|
+|-heal|p2a: Clefable|81/100|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641807319
+|move|p1a: Mandibuzz|Toxic|p2a: Clefable
+|-status|p2a: Clefable|tox
+|move|p2a: Clefable|Moonblast|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|10/100
+|
+|-heal|p2a: Clefable|87/100 tox|[from] item: Leftovers
+|-damage|p2a: Clefable|81/100 tox|[from] psn
+|upkeep
+|turn|30
+|
+|t:|1641807332
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Clefable|atk|1
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|tox|[msg]
+|
+|-heal|p2a: Clefable|87/100|[from] item: Leftovers
+|upkeep
+|turn|31
+|
+|t:|1641807342
+|move|p1a: Landorus|Knock Off|p2a: Clefable
+|-resisted|p2a: Clefable
+|-damage|p2a: Clefable|68/100
+|-enditem|p2a: Clefable|Leftovers|[from] move: Knock Off|[of] p1a: Landorus
+|move|p2a: Clefable|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|67/100
+|-unboost|p1a: Landorus|spa|1
+|
+|upkeep
+|turn|32
+|
+|t:|1641807350
+|move|p1a: Landorus|Stealth Rock|p2a: Clefable
+|-sidestart|p2: 8jaggery|move: Stealth Rock
+|move|p2a: Clefable|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|36/100
+|
+|upkeep
+|turn|33
+|
+|t:|1641807355
+|move|p1a: Landorus|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|16/100
+|move|p2a: Clefable|Moonblast|p1a: Landorus
+|-damage|p1a: Landorus|1/100
+|
+|upkeep
+|turn|34
+|
+|t:|1641807366
+|switch|p2a: Hawlucha|Hawlucha, F|17/100
+|-damage|p2a: Hawlucha|4/100|[from] Stealth Rock
+|move|p1a: Landorus|Earthquake|p2a: Hawlucha
+|-immune|p2a: Hawlucha
+|
+|upkeep
+|turn|35
+|
+|t:|1641807374
+|move|p2a: Hawlucha|Throat Chop|p1a: Landorus
+|-crit|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|-damage|p2a: Hawlucha|0 fnt|[from] item: Rocky Helmet|[of] p1a: Landorus
+|faint|p1a: Landorus
+|faint|p2a: Hawlucha
+|
+|upkeep
+|
+|t:|1641807381
+|switch|p2a: Blastoise|Blastoise, M|94/100
+|switch|p1a: Mandibuzz|Mandibuzz, F|10/100
+|-damage|p2a: Blastoise|82/100|[from] Stealth Rock
+|turn|36
+|
+|t:|1641807387
+|move|p2a: Blastoise|Shell Smash|p2a: Blastoise
+|-unboost|p2a: Blastoise|def|1
+|-unboost|p2a: Blastoise|spd|1
+|-boost|p2a: Blastoise|atk|2
+|-boost|p2a: Blastoise|spa|2
+|-boost|p2a: Blastoise|spe|2
+|-enditem|p2a: Blastoise|White Herb
+|-clearnegativeboost|p2a: Blastoise|[silent]
+|move|p1a: Mandibuzz|Roost|p1a: Mandibuzz
+|-heal|p1a: Mandibuzz|60/100
+|-singleturn|p1a: Mandibuzz|move: Roost
+|
+|upkeep
+|turn|37
+|
+|t:|1641807397
+|move|p2a: Blastoise|Ice Beam|p1a: Mandibuzz
+|-supereffective|p1a: Mandibuzz
+|-damage|p1a: Mandibuzz|0 fnt
+|faint|p1a: Mandibuzz
+|
+|upkeep
+|
+|t:|1641807401
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|38
+|
+|t:|1641807425
+|move|p2a: Blastoise|Surf|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|0 fnt
+|faint|p1a: Tapu Koko
+|
+|upkeep
+|
+|t:|1641807435
+|switch|p1a: Raichu|Raichu-Alola, M|100/100
+|turn|39
+|c|☆Nihar321|whats its speed?
+|
+|t:|1641807450
+|move|p1a: Raichu|Rising Voltage|p2a: Blastoise
+|-supereffective|p2a: Blastoise
+|-damage|p2a: Blastoise|0 fnt
+|faint|p2a: Blastoise
+|
+|upkeep
+|inactive|8jaggery has 120 seconds left.
+|c|☆8jaggery|strange it was 2x280
+|c|☆8jaggery|how did you outspeed me lol
+|c|☆Nihar321|mine is 638
+|
+|t:|1641807492
+|switch|p2a: Rillaboom|Rillaboom, M|42/100
+|-damage|p2a: Rillaboom|29/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|40
+|c|☆Nihar321|due to surge sufer
+|c|☆8jaggery|ohh
+|c|☆8jaggery|nice
+|
+|t:|1641807508
+|move|p1a: Raichu|Rising Voltage|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|faint|p2a: Rillaboom
+|
+|upkeep
+|inactive|8jaggery has 90 seconds left.
+|
+|t:|1641807527
+|switch|p2a: Dragapult|Dragapult, M|100/100
+|-damage|p2a: Dragapult|88/100|[from] Stealth Rock
+|turn|41
+|c|☆Nihar321|you shoudlve saved rilaboom
+|inactive|8jaggery has 90 seconds left.
+|c|☆8jaggery|yeah ig i messed up a bit
+|c|☆8jaggery|oh well
+|
+|t:|1641807543
+|move|p2a: Dragapult|Draco Meteor|p1a: Raichu
+|-damage|p1a: Raichu|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Raichu
+|-damage|p2a: Dragapult|78/100|[from] item: Life Orb
+|
+|-heal|p2a: Dragapult|84/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641807548
+|switch|p1a: Slowking|Slowking, M|96/100
+|turn|42
+|inactive|8jaggery has 90 seconds left.
+|c|☆Nihar321|specs dragapult i see
+|
+|t:|1641807572
+|switch|p2a: Clefable|Clefable, F|16/100
+|-damage|p2a: Clefable|4/100|[from] Stealth Rock
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|-heal|p2a: Clefable|10/100|[from] Grassy Terrain
+|-heal|p1a: Slowking|100/100|[from] Grassy Terrain
+|upkeep
+|turn|43
+|c|☆Nihar321|oh nvm
+|c|☆Nihar321|its life orb
+|
+|t:|1641807584
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|60/100
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|41/100
+|-status|p2a: Clefable|brn
+|
+|-heal|p2a: Clefable|47/100 brn|[from] Grassy Terrain
+|-damage|p2a: Clefable|41/100 brn|[from] brn
+|upkeep
+|turn|44
+|c|☆8jaggery|yeah lol
+|
+|t:|1641807601
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|91/100 brn
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|71/100 brn
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|43/100 brn
+|-heal|p2a: Clefable|49/100 brn|[from] Grassy Terrain
+|-damage|p2a: Clefable|43/100 brn|[from] brn
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|45
+|c|☆Nihar321|what ability is it?
+|
+|t:|1641807615
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|brn|[msg]
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|46
+|c|☆8jaggery|unaware
+|c|☆Nihar321|!data moonlight
+|raw|<ul class="utilichart"><li class="result"><span class="col movenamecol"><a href="https://dex.pokemonshowdown.com/moves/moonlight">Moonlight</a></span> <span class="col typecol"><img src="//play.pokemonshowdown.com/sprites/types/Fairy.png" alt="Fairy" width="32" height="14"><img src="//play.pokemonshowdown.com/sprites/categories/Status.png" alt="Status" width="32" height="14"></span> <span class="col widelabelcol"><em>Accuracy</em><br>—</span> <span class="col pplabelcol"><em>PP</em><br>8</span> <span class="col movedesccol">Heals the user by a weather-dependent amount.</span> </li><li style="clear:both"></li></ul>
+
+|c|☆8jaggery|on clefable
+|inactive|8jaggery has 60 seconds left.
+|c|☆Nihar321|8 pp
+|
+|t:|1641807640
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|93/100
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|75/100
+|
+|upkeep
+|turn|47
+|inactive|8jaggery has 60 seconds left.
+|c|☆Nihar321|why psychic
+|c|☆Nihar321|teach it calm mind
+|c|☆8jaggery|i did but i also felt i was lacking a fairy type move
+|inactive|Nihar321 has 120 seconds left.
+|c|☆Nihar321|and soft boiled instead moonlight
+|
+|t:|1641807679
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|81/100
+|-unboost|p1a: Slowking|spa|1
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|57/100
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|27/100
+|upkeep
+|turn|48
+|inactive|Nihar321 has 120 seconds left.
+|inactive|8jaggery has 60 seconds left.
+|c|☆Nihar321|and teach it soft boiled instead of moonlight
+|
+|t:|1641807719
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|77/100
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|49
+|c|☆8jaggery|why is softboiled better
+|inactive|8jaggery has 30 seconds left.
+|c|☆8jaggery|ig because it doesnt depend on weather?
+|
+|t:|1641807737
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|62/100
+|-unboost|p1a: Slowking|spa|1
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|60/100
+|-status|p2a: Clefable|brn
+|
+|-damage|p2a: Clefable|54/100 brn|[from] brn
+|upkeep
+|turn|50
+|inactive|Nihar321 has 120 seconds left.
+|c|☆Nihar321|it has more pp and restores as much hp as moonlight does
+|c|☆Nihar321|!data soft boiled
+|raw|<ul class="utilichart"><li class="result"><span class="col movenamecol"><a href="https://dex.pokemonshowdown.com/moves/softboiled">Soft-Boiled</a></span> <span class="col typecol"><img src="//play.pokemonshowdown.com/sprites/types/Normal.png" alt="Normal" width="32" height="14"><img src="//play.pokemonshowdown.com/sprites/categories/Status.png" alt="Status" width="32" height="14"></span> <span class="col widelabelcol"><em>Accuracy</em><br>—</span> <span class="col pplabelcol"><em>PP</em><br>16</span> <span class="col movedesccol">Heals the user by 50% of its max HP.</span> </li><li style="clear:both"></li></ul>
+
+|c|☆8jaggery|ohh
+|c|☆8jaggery|ty ty
+|c|☆Nihar321|see 16
+|
+|t:|1641807770
+|move|p2a: Clefable|Aromatherapy|p2a: Clefable
+|-activate|p2a: Clefable|move: Aromatherapy
+|-curestatus|p2a: Clefable|brn|[msg]
+|move|p1a: Slowking|Future Sight||[still]
+|-fail|p1a: Slowking
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|26/100
+|upkeep
+|turn|51
+|c|☆Nihar321|np
+|
+|t:|1641807778
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|76/100
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|59/100
+|
+|upkeep
+|turn|52
+|
+|t:|1641807787
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|43/100
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|53
+|inactive|Nihar321 has 120 seconds left.
+|
+|t:|1641807795
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|24/100
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|40/100
+|
+|upkeep
+|turn|54
+|
+|t:|1641807804
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|7/100
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|57/100
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|14/100
+|upkeep
+|turn|55
+|inactive|8jaggery has 60 seconds left.
+|
+|t:|1641807812
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|64/100
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|47/100
+|
+|upkeep
+|turn|56
+|
+|t:|1641807819
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|38/100
+|-unboost|p1a: Slowking|spa|1
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|57
+|c|☆Nihar321|2 more moonlight pp
+|
+|t:|1641807833
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-damage|p1a: Slowking|19/100
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|69/100
+|
+|upkeep
+|turn|58
+|
+|t:|1641807842
+|move|p2a: Clefable|Moonblast|p1a: Slowking
+|-crit|p1a: Slowking
+|-damage|p1a: Slowking|42/100
+|-unboost|p1a: Slowking|spa|1
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|28/100
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|3/100
+|upkeep
+|turn|59
+|c|☆8jaggery|chipping down special attack helps though
+|
+|t:|1641807864
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|53/100
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|60
+|c|☆Nihar321|yeah
+|
+|t:|1641807872
+|move|p2a: Clefable|Psychic|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|36/100
+|-unboost|p1a: Slowking|spd|1
+|move|p1a: Slowking|Slack Off|p1a: Slowking
+|-heal|p1a: Slowking|86/100
+|
+|upkeep
+|turn|61
+|c|☆8jaggery|out of moonblast lol
+|
+|t:|1641807880
+|move|p2a: Clefable|Psychic|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|80/100
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|33/100
+|
+|-end|p2a: Clefable|move: Future Sight
+|-damage|p2a: Clefable|5/100
+|upkeep
+|turn|62
+|c|☆Nihar321|yeah saw that
+|c|☆Nihar321|and out of moonlight
+|
+|t:|1641807897
+|move|p2a: Clefable|Moonlight|p2a: Clefable
+|-heal|p2a: Clefable|55/100
+|move|p1a: Slowking|Future Sight|p2a: Clefable
+|-start|p1a: Slowking|move: Future Sight
+|
+|upkeep
+|turn|63
+|c|☆8jaggery|final one
+|
+|t:|1641807903
+|move|p2a: Clefable|Psychic|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|74/100
+|-unboost|p1a: Slowking|spd|1
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-damage|p2a: Clefable|35/100
+|-status|p2a: Clefable|brn
+|
+|-damage|p2a: Clefable|28/100 brn|[from] brn
+|upkeep
+|turn|64
+|c|☆8jaggery|might as well chip down sp defense too
+|
+|t:|1641807916
+|move|p2a: Clefable|Psychic|p1a: Slowking
+|-resisted|p1a: Slowking
+|-damage|p1a: Slowking|68/100
+|move|p1a: Slowking|Scald|p2a: Clefable
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-hint|Future Sight did not hit because the target is fainted.
+|upkeep
+|c|☆Nihar321|yeah
+|c|☆Nihar321|ggg
+|c|☆Nihar321|gg*
+|
+|t:|1641807931
+|switch|p2a: Dragapult|Dragapult, M|84/100
+|-damage|p2a: Dragapult|72/100|[from] Stealth Rock
+|turn|65
+|c|☆8jaggery|gg
+|
+|t:|1641807935
+|move|p2a: Dragapult|Draco Meteor|p1a: Slowking
+|-damage|p1a: Slowking|0 fnt
+|-unboost|p2a: Dragapult|spa|2
+|faint|p1a: Slowking
+|-damage|p2a: Dragapult|62/100|[from] item: Life Orb
+|
+|win|8jaggery
+|raw|Nihar321's rating: 1169 &rarr; <strong>1146</strong><br />(-23 for losing)
+|raw|8jaggery's rating: 1193 &rarr; <strong>1216</strong><br />(+23 for winning)
+|l|☆Nihar321

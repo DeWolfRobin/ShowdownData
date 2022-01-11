@@ -1,0 +1,387 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆SL21CC Mcdonald's
+|j|☆SL21CC Leviathan
+|t:|1641821870
+|gametype|singles
+|player|p1|SL21CC Mcdonald's|101|1236
+|player|p2|SL21CC Leviathan|guitarist|1174
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Mew|
+|poke|p1|Latios, M|
+|poke|p1|Melmetal|
+|poke|p1|Zapdos|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Kartana|
+|poke|p2|Slowbro, M|
+|poke|p2|Clefable, M|
+|poke|p2|Tyranitar, F|
+|poke|p2|Zapdos|
+|poke|p2|Dragapult, F|
+|poke|p2|Excadrill, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by SL21CC Mcdonald's)
+|
+|t:|1641821902
+|start
+|switch|p1a: Mew|Mew|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641821905
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|move|p2a: Clefable|Trick|p1a: Mew
+|-activate|p2a: Clefable|move: Trick|[of] p1a: Mew
+|-item|p1a: Mew|Sticky Barb|[from] move: Trick
+|-item|p2a: Clefable|Kasib Berry|[from] move: Trick
+|
+|-damage|p1a: Mew|88/100|[from] item: Sticky Barb
+|upkeep
+|turn|2
+|
+|t:|1641821920
+|move|p1a: Mew|Ice Beam|p2a: Clefable
+|-damage|p2a: Clefable|64/100
+|move|p2a: Clefable|Soft-Boiled|p2a: Clefable
+|-heal|p2a: Clefable|100/100
+|
+|-damage|p1a: Mew|76/100|[from] item: Sticky Barb
+|upkeep
+|turn|3
+|
+|t:|1641821926
+|move|p1a: Mew|Nasty Plot|p1a: Mew
+|-boost|p1a: Mew|spa|2
+|move|p2a: Clefable|Moonblast|p1a: Mew
+|-damage|p1a: Mew|48/100
+|
+|-damage|p1a: Mew|36/100|[from] item: Sticky Barb
+|upkeep
+|turn|4
+|
+|t:|1641821929
+|move|p1a: Mew|Ice Beam|p2a: Clefable
+|-damage|p2a: Clefable|43/100
+|move|p2a: Clefable|Moonblast|p1a: Mew
+|-damage|p1a: Mew|7/100
+|
+|-damage|p1a: Mew|0 fnt|[from] item: Sticky Barb
+|faint|p1a: Mew
+|upkeep
+|
+|t:|1641821932
+|switch|p1a: Kartana|Kartana|100/100
+|turn|5
+|
+|t:|1641821947
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|upkeep
+|turn|6
+|
+|t:|1641821953
+|switch|p2a: Zapdos|Zapdos|100/100
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|
+|upkeep
+|turn|7
+|
+|t:|1641821954
+|move|p1a: Kartana|Knock Off|p2a: Zapdos
+|-damage|p2a: Zapdos|16/100
+|-enditem|p2a: Zapdos|Heavy-Duty Boots|[from] move: Knock Off|[of] p1a: Kartana
+|-damage|p1a: Kartana|91/100|[from] item: Life Orb
+|move|p2a: Zapdos|Heat Wave|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|
+|upkeep
+|c|☆SL21CC Mcdonald's|。
+|j| adreamew
+|c|☆SL21CC Leviathan|你这个...
+|
+|t:|1641821966
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|8
+|
+|t:|1641821970
+|move|p2a: Zapdos|Roost|p2a: Zapdos
+|-heal|p2a: Zapdos|67/100
+|-singleturn|p2a: Zapdos|move: Roost
+|move|p1a: Landorus|Earthquake|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|upkeep
+|c|☆SL21CC Mcdonald's|打这么点啊
+|
+|t:|1641821979
+|switch|p2a: Slowbro|Slowbro, M|100/100
+|turn|9
+|
+|t:|1641821981
+|move|p1a: Landorus|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-crit|p2a: Slowbro
+|-damage|p2a: Slowbro|40/100
+|-damage|p1a: Landorus|84/100|[from] item: Rocky Helmet|[of] p2a: Slowbro
+|-enditem|p2a: Slowbro|Rocky Helmet|[from] move: Knock Off|[of] p1a: Landorus
+|move|p2a: Slowbro|Scald|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|55/100
+|
+|upkeep
+|turn|10
+|
+|t:|1641821984
+|move|p1a: Landorus|U-turn|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|9/100
+|
+|t:|1641821988
+|switch|p1a: Zapdos|Zapdos|100/100|[from]move: U-turn
+|move|p2a: Slowbro|Slack Off|p2a: Slowbro
+|-heal|p2a: Slowbro|60/100
+|
+|upkeep
+|turn|11
+|
+|t:|1641821993
+|switch|p1a: Melmetal|Melmetal|100/100
+|switch|p2a: Tyranitar|Tyranitar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Tyranitar
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|12
+|
+|t:|1641822002
+|move|p2a: Tyranitar|Superpower|p1a: Melmetal
+|-supereffective|p1a: Melmetal
+|-damage|p1a: Melmetal|27/100
+|-unboost|p2a: Tyranitar|atk|1
+|-unboost|p2a: Tyranitar|def|1
+|move|p1a: Melmetal|Double Iron Bash|p2a: Tyranitar
+|-supereffective|p2a: Tyranitar
+|-damage|p2a: Tyranitar|0 fnt
+|faint|p2a: Tyranitar
+|-hitcount|p2: Tyranitar|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641822008
+|switch|p2a: Dragapult|Dragapult, F|100/100
+|turn|13
+|
+|t:|1641822011
+|move|p2a: Dragapult|Shadow Ball|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Dragapult|95/100|[from] Sandstorm
+|upkeep
+|
+|t:|1641822013
+|switch|p1a: Landorus|Landorus-Therian, M|55/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Dragapult|atk|1
+|turn|14
+|
+|t:|1641822021
+|switch|p2a: Slowbro|Slowbro, M|93/100
+|move|p1a: Landorus|Knock Off|p2a: Slowbro
+|-supereffective|p2a: Slowbro
+|-damage|p2a: Slowbro|66/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Slowbro|60/100|[from] Sandstorm
+|upkeep
+|turn|15
+|
+|t:|1641822030
+|move|p1a: Landorus|Earthquake|p2a: Slowbro
+|-damage|p2a: Slowbro|27/100
+|move|p2a: Slowbro|Ice Beam|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|7/100
+|
+|-weather|none
+|upkeep
+|turn|16
+|
+|t:|1641822035
+|switch|p2a: Clefable|Clefable, M|43/100
+|move|p1a: Landorus|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641822036
+|switch|p2a: Dragapult|Dragapult, F|95/100
+|turn|17
+|
+|t:|1641822037
+|move|p2a: Dragapult|Shadow Ball|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|upkeep
+|
+|t:|1641822040
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|18
+|
+|t:|1641822043
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|move|p1a: Zapdos|Hurricane|p2a: Excadrill|[miss]
+|-miss|p1a: Zapdos|p2a: Excadrill
+|
+|upkeep
+|turn|19
+|
+|t:|1641822045
+|move|p2a: Excadrill|Substitute|p2a: Excadrill
+|-start|p2a: Excadrill|Substitute
+|-damage|p2a: Excadrill|76/100
+|move|p1a: Zapdos|Hurricane|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-end|p2a: Excadrill|Substitute
+|
+|-heal|p2a: Excadrill|82/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641822048
+|switch|p1a: Latios|Latios, M|100/100
+|move|p2a: Excadrill|Substitute|p2a: Excadrill
+|-start|p2a: Excadrill|Substitute
+|-damage|p2a: Excadrill|57/100
+|
+|-heal|p2a: Excadrill|63/100|[from] item: Leftovers
+|upkeep
+|turn|21
+|
+|t:|1641822050
+|move|p1a: Latios|Surf|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-end|p2a: Excadrill|Substitute
+|move|p2a: Excadrill|Toxic|p1a: Latios
+|-status|p1a: Latios|tox
+|
+|-heal|p2a: Excadrill|69/100|[from] item: Leftovers
+|-damage|p1a: Latios|95/100 tox|[from] psn
+|upkeep
+|turn|22
+|
+|t:|1641822054
+|switch|p1a: Zapdos|Zapdos|100/100
+|switch|p2a: Slowbro|Slowbro, M|60/100
+|
+|upkeep
+|turn|23
+|
+|t:|1641822058
+|move|p1a: Zapdos|Hurricane|p2a: Slowbro|[miss]
+|-miss|p1a: Zapdos|p2a: Slowbro
+|move|p2a: Slowbro|Teleport|p2a: Slowbro
+|
+|t:|1641822061
+|switch|p2a: Excadrill|Excadrill, M|69/100|[from]move: Teleport
+|
+|-heal|p2a: Excadrill|75/100|[from] item: Leftovers
+|upkeep
+|turn|24
+|j| burstbean
+|
+|t:|1641822064
+|move|p2a: Excadrill|Toxic|p1a: Zapdos|[miss]
+|-miss|p2a: Excadrill|p1a: Zapdos
+|move|p1a: Zapdos|Hurricane|p2a: Excadrill
+|-resisted|p2a: Excadrill
+|-damage|p2a: Excadrill|32/100
+|
+|-heal|p2a: Excadrill|38/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641822071
+|switch|p1a: Latios|Latios, M|95/100 tox
+|move|p2a: Excadrill|Toxic|p1a: Latios
+|-fail|p1a: Latios|tox
+|
+|-heal|p2a: Excadrill|44/100|[from] item: Leftovers
+|-damage|p1a: Latios|89/100 tox|[from] psn
+|upkeep
+|turn|26
+|
+|t:|1641822074
+|switch|p2a: Slowbro|Slowbro, M|94/100
+|move|p1a: Latios|Draco Meteor|p2a: Slowbro
+|-damage|p2a: Slowbro|0 fnt
+|-unboost|p1a: Latios|spa|2
+|faint|p2a: Slowbro
+|
+|-damage|p1a: Latios|77/100 tox|[from] psn
+|upkeep
+|
+|t:|1641822075
+|switch|p2a: Dragapult|Dragapult, F|95/100
+|turn|27
+|j| weilainevercome
+|
+|t:|1641822079
+|move|p2a: Dragapult|Shadow Ball|p1a: Latios
+|-supereffective|p1a: Latios
+|-damage|p1a: Latios|0 fnt
+|faint|p1a: Latios
+|
+|upkeep
+|
+|t:|1641822080
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|28
+|
+|t:|1641822082
+|move|p2a: Dragapult|Shadow Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|54/100
+|move|p1a: Zapdos|Hurricane|p2a: Dragapult
+|-damage|p2a: Dragapult|9/100
+|
+|upkeep
+|turn|29
+|
+|t:|1641822088
+|move|p2a: Dragapult|Shadow Ball|p1a: Zapdos
+|-damage|p1a: Zapdos|0 fnt
+|faint|p1a: Zapdos
+|
+|win|SL21CC Leviathan
+|raw|SL21CC Mcdonald&apos;s's rating: 1236 &rarr; <strong>1217</strong><br />(-19 for losing)
+|raw|SL21CC Leviathan's rating: 1174 &rarr; <strong>1206</strong><br />(+32 for winning)
+|l| burstbean
+|l|☆SL21CC Leviathan
+|l|☆SL21CC Mcdonald's
+|l| weilainevercome
+|j| sl21cc ryekie

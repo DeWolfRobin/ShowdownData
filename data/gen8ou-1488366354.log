@@ -1,0 +1,125 @@
+|j|☆Tamazi
+|j|☆jptoroglass
+|t:|1641756455
+|gametype|singles
+|player|p1|Tamazi|169|1689
+|player|p2|jptoroglass|marley|1604
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Heatran, F|
+|poke|p1|Slowbro, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Rillaboom, F|
+|poke|p1|Tapu Lele|
+|poke|p1|Garchomp, F|
+|poke|p2|Mew|
+|poke|p2|Cloyster, M|
+|poke|p2|Gengar, F|
+|poke|p2|Bisharp, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Hawlucha, M|
+|teampreview
+|
+|t:|1641756467
+|start
+|switch|p1a: Rillaboom|Rillaboom, F|100/100
+|switch|p2a: Mew|Mew, shiny|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|1
+|
+|t:|1641756479
+|move|p1a: Rillaboom|Grassy Glide|p2a: Mew
+|-damage|p2a: Mew|38/100
+|-enditem|p2a: Mew|Red Card|[of] p1a: Rillaboom
+|drag|p1a: Tornadus|Tornadus-Therian, M|100/100
+|move|p2a: Mew|Stealth Rock|p1a: Tornadus
+|-sidestart|p1: Tamazi|move: Stealth Rock
+|
+|-heal|p2a: Mew|44/100|[from] Grassy Terrain
+|upkeep
+|turn|2
+|
+|t:|1641756488
+|switch|p2a: Zero|Bisharp, F|100/100
+|move|p1a: Tornadus|Defog|p2a: Zero
+|-unboost|p2a: Zero|evasion|1
+|-ability|p2a: Zero|Defiant
+|-boost|p2a: Zero|atk|2
+|-sideend|p1: Tamazi|Stealth Rock|[from] move: Defog|[of] p1a: Tornadus
+|-fieldend|move: Grassy Terrain
+|
+|upkeep
+|turn|3
+|
+|t:|1641756492
+|move|p2a: Zero|Sucker Punch|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|upkeep
+|
+|t:|1641756496
+|switch|p1a: Slowbro|Slowbro, F|100/100
+|turn|4
+|
+|t:|1641756499
+|move|p2a: Zero|Knock Off|p1a: Slowbro
+|-supereffective|p1a: Slowbro
+|-enditem|p1a: Slowbro|Colbur Berry|[eat]
+|-enditem|p1a: Slowbro|Colbur Berry|[weaken]
+|-damage|p1a: Slowbro|25/100
+|move|p1a: Slowbro|Body Press|p2a: Zero
+|-supereffective|p2a: Zero
+|-damage|p2a: Zero|0 fnt
+|faint|p2a: Zero
+|
+|upkeep
+|
+|t:|1641756512
+|switch|p2a: Okage|Gengar, F|100/100
+|turn|5
+|
+|t:|1641756515
+|switch|p1a: Heatran|Heatran, F|100/100
+|move|p2a: Okage|Shadow Ball|p1a: Heatran
+|-damage|p1a: Heatran|76/100
+|
+|-heal|p1a: Heatran|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641756539
+|move|p2a: Okage|Nasty Plot|p2a: Okage
+|-boost|p2a: Okage|spa|2
+|move|p1a: Heatran|Taunt|p2a: Okage
+|-start|p2a: Okage|move: Taunt
+|
+|-heal|p1a: Heatran|88/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641756542
+|move|p2a: Okage|Focus Blast|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|-message|Tamazi forfeited.
+|
+|win|jptoroglass
+|raw|Tamazi's rating: 1689 &rarr; <strong>1664</strong><br />(-25 for losing)
+|raw|jptoroglass's rating: 1604 &rarr; <strong>1629</strong><br />(+25 for winning)
+|l|☆Tamazi
+||Ladder isn't responding, score probably updated but might not have (Request timeout).

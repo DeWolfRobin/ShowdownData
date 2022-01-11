@@ -1,0 +1,112 @@
+|j|☆86thesweetpotato
+|j|☆Shinkuu8
+|t:|1641801034
+|gametype|singles
+|player|p1|86thesweetpotato|169|1214
+|player|p2|Shinkuu8|dawn|1157
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Reuniclus, M|
+|poke|p1|Bronzong|
+|poke|p1|Comfey, F|
+|poke|p1|Volcarona, M|
+|poke|p1|Toxapex, M|
+|poke|p1|Runerigus, M|
+|poke|p2|Conkeldurr, M|
+|poke|p2|Aegislash, F|
+|poke|p2|Toxapex, M|
+|poke|p2|Darmanitan, F|
+|poke|p2|Magnezone|
+|poke|p2|Flygon, F|
+|teampreview
+|
+|t:|1641801047
+|start
+|switch|p1a: the GOOD China|Runerigus, M|100/100
+|switch|p2a: Toxapex|Toxapex, M|100/100
+|turn|1
+|
+|t:|1641801053
+|move|p2a: Toxapex|Scald|p1a: the GOOD China
+|-supereffective|p1a: the GOOD China
+|-damage|p1a: the GOOD China|65/100
+|-enditem|p1a: the GOOD China|Weakness Policy
+|-boost|p1a: the GOOD China|atk|2|[from] item: Weakness Policy
+|-boost|p1a: the GOOD China|spa|2|[from] item: Weakness Policy
+|move|p1a: the GOOD China|Trick Room|p1a: the GOOD China
+|-fieldstart|move: Trick Room|[of] p1a: the GOOD China
+|
+|upkeep
+|turn|2
+|
+|t:|1641801062
+|move|p1a: the GOOD China|Earthquake|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|15/100
+|move|p2a: Toxapex|Scald|p1a: the GOOD China
+|-supereffective|p1a: the GOOD China
+|-damage|p1a: the GOOD China|32/100
+|
+|-heal|p2a: Toxapex|21/100|[from] item: Black Sludge
+|upkeep
+|turn|3
+|
+|t:|1641801065
+|move|p1a: the GOOD China|Poltergeist|p2a: Toxapex
+|-activate|p2a: Toxapex|move: Poltergeist|Black Sludge
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|
+|upkeep
+|
+|t:|1641801069
+|switch|p2a: Aegislash|Aegislash, F|100/100
+|turn|4
+|
+|t:|1641801073
+|-formechange|p2a: Aegislash|Aegislash-Blade||[from] ability: Stance Change
+|move|p2a: Aegislash|Shadow Sneak|p1a: the GOOD China
+|-supereffective|p1a: the GOOD China
+|-damage|p1a: the GOOD China|5/100
+|move|p1a: the GOOD China|Destiny Bond|p1a: the GOOD China
+|-singlemove|p1a: the GOOD China|Destiny Bond
+|
+|upkeep
+|turn|5
+|
+|t:|1641801084
+|switch|p2a: Flygon|Flygon, F|100/100
+|move|p1a: the GOOD China|Poltergeist|p2a: Flygon
+|-activate|p2a: Flygon|move: Poltergeist|Leftovers
+|-damage|p2a: Flygon|38/100
+|
+|-heal|p2a: Flygon|44/100|[from] item: Leftovers
+|-fieldend|move: Trick Room
+|upkeep
+|turn|6
+|
+|t:|1641801093
+|move|p1a: the GOOD China|Poltergeist|p2a: Flygon
+|-activate|p2a: Flygon|move: Poltergeist|Leftovers
+|-damage|p2a: Flygon|0 fnt
+|faint|p2a: Flygon
+|
+|upkeep
+|-message|Shinkuu8 forfeited.
+|
+|win|86thesweetpotato
+|raw|86thesweetpotato's rating: 1214 &rarr; <strong>1235</strong><br />(+21 for winning)
+|raw|Shinkuu8's rating: 1157 &rarr; <strong>1136</strong><br />(-21 for losing)
+|l|☆Shinkuu8
+|c|☆86thesweetpotato|um

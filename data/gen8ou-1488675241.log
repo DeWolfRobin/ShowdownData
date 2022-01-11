@@ -1,0 +1,171 @@
+|j|☆ldkflkjdfg
+|j|☆Yourfathergone
+|t:|1641800694
+|gametype|singles
+|player|p1|ldkflkjdfg|170|1145
+|player|p2|Yourfathergone|1|1213
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Victini|
+|poke|p1|Vaporeon, F|
+|poke|p1|Accelgor, F|
+|poke|p1|Umbreon, F|
+|poke|p1|Blacephalon|
+|poke|p1|Rillaboom, M|
+|poke|p2|Clefable, M|
+|poke|p2|Buzzwole|
+|poke|p2|Kartana|
+|poke|p2|Cloyster, M|
+|poke|p2|Zapdos|
+|poke|p2|Excadrill, M|
+|teampreview
+|
+|t:|1641800701
+|start
+|switch|p1a: Victini|Victini|100/100
+|switch|p2a: Clefable|Clefable, M|100/100
+|turn|1
+|
+|t:|1641800725
+|move|p1a: Victini|Final Gambit|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p1a: Victini
+|faint|p2a: Clefable
+|
+|upkeep
+|
+|t:|1641800746
+|switch|p1a: Vaporeon|Vaporeon, F|100/100
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|turn|2
+|
+|t:|1641800753
+|move|p2a: Buzzwole|Leech Life|p1a: Vaporeon
+|-damage|p1a: Vaporeon|52/100
+|move|p1a: Vaporeon|Copycat|p1a: Vaporeon
+|move|p1a: Vaporeon|Leech Life|p2a: Buzzwole|[from]move: Copycat
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|96/100
+|-heal|p1a: Vaporeon|54/100|[from] drain|[of] p2a: Buzzwole
+|
+|upkeep
+|turn|3
+|
+|t:|1641800766
+|move|p2a: Buzzwole|Leech Life|p1a: Vaporeon
+|-damage|p1a: Vaporeon|5/100
+|-heal|p2a: Buzzwole|100/100|[from] drain|[of] p1a: Vaporeon
+|move|p1a: Vaporeon|Copycat|p1a: Vaporeon
+|move|p1a: Vaporeon|Leech Life|p2a: Buzzwole|[from]move: Copycat
+|-resisted|p2a: Buzzwole
+|-damage|p2a: Buzzwole|96/100
+|-heal|p1a: Vaporeon|7/100|[from] drain|[of] p2a: Buzzwole
+|
+|upkeep
+|turn|4
+|
+|t:|1641800779
+|move|p2a: Buzzwole|Leech Life|p1a: Vaporeon
+|-damage|p1a: Vaporeon|0 fnt
+|-heal|p2a: Buzzwole|100/100|[from] drain|[of] p1a: Vaporeon
+|faint|p1a: Vaporeon
+|-ability|p2a: Buzzwole|Beast Boost|boost
+|-boost|p2a: Buzzwole|atk|1
+|
+|upkeep
+|
+|t:|1641800785
+|switch|p1a: Accelgor|Accelgor, F|100/100
+|turn|5
+|
+|t:|1641800792
+|move|p1a: Accelgor|Final Gambit|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|faint|p1a: Accelgor
+|faint|p2a: Buzzwole
+|
+|upkeep
+|
+|t:|1641800806
+|switch|p1a: Umbreon|Umbreon, F|100/100
+|switch|p2a: Zapdos|Zapdos|100/100
+|turn|6
+|c|☆Yourfathergone|What
+|
+|t:|1641800814
+|move|p1a: Umbreon|Copycat|p1a: Umbreon
+|move|p1a: Umbreon|Final Gambit|p2a: Zapdos|[from]move: Copycat
+|-damage|p2a: Zapdos|0 fnt
+|faint|p1a: Umbreon
+|faint|p2a: Zapdos
+|
+|upkeep
+|
+|t:|1641800829
+|switch|p2a: Cloyster|Cloyster, M|100/100
+|switch|p1a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p1a: Rillaboom
+|turn|7
+|
+|t:|1641800842
+|move|p1a: Rillaboom|Grassy Glide|p2a: Cloyster
+|-supereffective|p2a: Cloyster
+|-enditem|p2a: Cloyster|Focus Sash
+|-damage|p2a: Cloyster|1/100
+|move|p2a: Cloyster|Icicle Spear|p1a: Rillaboom
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|74/100
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|49/100
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|22/100
+|-supereffective|p1a: Rillaboom
+|-damage|p1a: Rillaboom|0 fnt
+|faint|p1a: Rillaboom
+|-hitcount|p1: Rillaboom|4
+|
+|-heal|p2a: Cloyster|7/100|[from] Grassy Terrain
+|upkeep
+|
+|t:|1641800856
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|8
+|
+|t:|1641800878
+|move|p1a: Blacephalon|Flamethrower|p2a: Cloyster
+|-damage|p2a: Cloyster|0 fnt
+|faint|p2a: Cloyster
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641800885
+|switch|p2a: Kartana|Kartana|100/100
+|turn|9
+|
+|t:|1641800892
+|move|p1a: Blacephalon|Flamethrower|p2a: Kartana
+|-supereffective|p2a: Kartana
+|-enditem|p2a: Kartana|Focus Sash
+|-damage|p2a: Kartana|1/100
+|move|p2a: Kartana|Knock Off|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|-enditem|p1a: Blacephalon|Choice Scarf|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Blacephalon
+|
+|win|Yourfathergone
+|raw|ldkflkjdfg's rating: 1145 &rarr; <strong>1125</strong><br />(-20 for losing)
+|raw|Yourfathergone's rating: 1213 &rarr; <strong>1233</strong><br />(+20 for winning)

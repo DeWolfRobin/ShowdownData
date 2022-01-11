@@ -1,0 +1,311 @@
+|j|☆yesusermane
+|j|☆caniggia1089
+|t:|1641719766
+|gametype|singles
+|player|p1|yesusermane|169|1298
+|player|p2|caniggia1089|170|1250
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kommo-o, M|
+|poke|p1|Volcarona, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Zapdos|
+|poke|p1|Melmetal|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Politoed, M|
+|poke|p2|Zapdos|
+|poke|p2|Kingdra, F|
+|poke|p2|Ludicolo, M|
+|poke|p2|Kabutops, F|
+|poke|p2|Rillaboom, M|
+|teampreview
+|
+|t:|1641719799
+|start
+|switch|p1a: Landorus|Landorus-Therian, M|100/100
+|switch|p2a: Zapdos|Zapdos, shiny|100/100
+|-ability|p1a: Landorus|Intimidate|boost
+|-unboost|p2a: Zapdos|atk|1
+|turn|1
+|
+|t:|1641719808
+|move|p2a: Zapdos|Rain Dance|p2a: Zapdos
+|-weather|RainDance
+|move|p1a: Landorus|Stealth Rock|p2a: Zapdos
+|-sidestart|p2: caniggia1089|move: Stealth Rock
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|2
+|
+|t:|1641719812
+|move|p2a: Zapdos|Weather Ball|p1a: Landorus
+|-supereffective|p1a: Landorus
+|-damage|p1a: Landorus|25/100
+|move|p1a: Landorus|Toxic|p2a: Zapdos
+|-status|p2a: Zapdos|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Landorus|31/100|[from] item: Leftovers
+|-damage|p2a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641719823
+|move|p2a: Zapdos|Hurricane|p1a: Landorus
+|-damage|p1a: Landorus|0 fnt
+|faint|p1a: Landorus
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Zapdos|82/100 tox|[from] psn
+|upkeep
+|
+|t:|1641719829
+|switch|p1a: Melmetal|Melmetal|100/100
+|turn|4
+|
+|t:|1641719833
+|move|p2a: Zapdos|Thunder|p1a: Melmetal
+|-damage|p1a: Melmetal|60/100
+|move|p1a: Melmetal|Ice Punch|p2a: Zapdos
+|-supereffective|p2a: Zapdos
+|-crit|p2a: Zapdos
+|-damage|p2a: Zapdos|0 fnt
+|faint|p2a: Zapdos
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641719848
+|switch|p2a: Kingdra|Kingdra, F, shiny|100/100
+|turn|5
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by caniggia1089)
+|inactive|yesusermane has 120 seconds left.
+|
+|t:|1641719911
+|move|p2a: Kingdra|Hydro Pump|p1a: Melmetal
+|-damage|p1a: Melmetal|7/100
+|move|p1a: Melmetal|Ice Punch|p2a: Kingdra
+|-damage|p2a: Kingdra|63/100
+|
+|-weather|none
+|upkeep
+|turn|6
+|
+|t:|1641719922
+|switch|p2a: Politoed|Politoed, M, shiny|100/100
+|-damage|p2a: Politoed|88/100|[from] Stealth Rock
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|move|p1a: Melmetal|Ice Punch|p2a: Politoed
+|-resisted|p2a: Politoed
+|-damage|p2a: Politoed|72/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641719932
+|move|p2a: Politoed|Seismic Toss|p1a: Melmetal
+|-damage|p1a: Melmetal|0 fnt
+|faint|p1a: Melmetal
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641719940
+|switch|p1a: Zapdos|Zapdos|100/100
+|turn|8
+|inactive|yesusermane has 120 seconds left.
+|
+|t:|1641719983
+|move|p1a: Zapdos|Hurricane|p2a: Politoed
+|-damage|p2a: Politoed|39/100
+|-start|p2a: Politoed|confusion
+|-activate|p2a: Politoed|confusion
+|move|p2a: Politoed|Toxic|p1a: Zapdos
+|-status|p1a: Zapdos|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|94/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1641719996
+|-activate|p2a: Politoed|confusion
+|move|p2a: Politoed|Protect|p2a: Politoed
+|-singleturn|p2a: Politoed|Protect
+|move|p1a: Zapdos|Volt Switch|p2a: Politoed
+|-activate|p2a: Politoed|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|82/100 tox|[from] psn
+|upkeep
+|turn|10
+|
+|t:|1641720004
+|move|p1a: Zapdos|Volt Switch|p2a: Politoed
+|-supereffective|p2a: Politoed
+|-damage|p2a: Politoed|0 fnt
+|faint|p2a: Politoed
+|
+|t:|1641720016
+|switch|p1a: Volcarona|Volcarona, M|100/100|[from]move: Volt Switch
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641720023
+|switch|p2a: Ludicolo|Ludicolo, M|100/100
+|-damage|p2a: Ludicolo|88/100|[from] Stealth Rock
+|turn|11
+|inactive|yesusermane has 120 seconds left.
+|inactive|yesusermane has 90 seconds left.
+|
+|t:|1641720088
+|move|p2a: Ludicolo|Surf|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|-damage|p2a: Ludicolo|78/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1641720092
+|switch|p1a: Dragapult|Dragapult, F|100/100
+|turn|12
+|inactive|yesusermane has 90 seconds left.
+|
+|t:|1641720103
+|move|p2a: Ludicolo|Ice Beam|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|5/100
+|-damage|p2a: Ludicolo|68/100|[from] item: Life Orb
+|move|p1a: Dragapult|U-turn|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|16/100
+|
+|t:|1641720108
+|switch|p1a: Zapdos|Zapdos|82/100 tox|[from]move: U-turn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Zapdos|76/100 tox|[from] psn
+|upkeep
+|turn|13
+|
+|t:|1641720117
+|move|p2a: Ludicolo|Surf|p1a: Zapdos
+|-damage|p1a: Zapdos|6/100 tox
+|-damage|p2a: Ludicolo|6/100|[from] item: Life Orb
+|move|p1a: Zapdos|Hurricane|p2a: Ludicolo
+|-supereffective|p2a: Ludicolo
+|-damage|p2a: Ludicolo|0 fnt
+|faint|p2a: Ludicolo
+|
+|-weather|none
+|-damage|p1a: Zapdos|0 fnt|[from] psn
+|faint|p1a: Zapdos
+|upkeep
+|inactive|yesusermane has 90 seconds left.
+|
+|t:|1641720140
+|switch|p2a: Kabutops|Kabutops, F|100/100
+|switch|p1a: Dragapult|Dragapult, F|5/100
+|-damage|p2a: Kabutops|88/100|[from] Stealth Rock
+|turn|14
+|inactive|yesusermane has 90 seconds left.
+|
+|t:|1641720180
+|move|p2a: Kabutops|Aqua Jet|p1a: Dragapult
+|-resisted|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|-damage|p2a: Kabutops|78/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1641720182
+|switch|p1a: Kommo-o|Kommo-o, M|100/100
+|turn|15
+|inactive|yesusermane has 60 seconds left.
+|
+|t:|1641720209
+|move|p2a: Kabutops|Aqua Jet|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-damage|p1a: Kommo-o|88/100
+|-damage|p2a: Kabutops|68/100|[from] item: Life Orb
+|move|p1a: Kommo-o|Drain Punch|p2a: Kabutops
+|-supereffective|p2a: Kabutops
+|-damage|p2a: Kabutops|0 fnt
+|-heal|p1a: Kommo-o|100/100|[from] drain|[of] p2a: Kabutops
+|faint|p2a: Kabutops
+|
+|upkeep
+|
+|t:|1641720221
+|switch|p2a: Kingdra|Kingdra, F, shiny|63/100
+|turn|16
+|inactive|yesusermane has 60 seconds left.
+|
+|t:|1641720245
+|move|p1a: Kommo-o|Substitute|p1a: Kommo-o
+|-start|p1a: Kommo-o|Substitute
+|-damage|p1a: Kommo-o|75/100
+|move|p2a: Kingdra|Yawn||[still]
+|-fail|p2a: Kingdra
+|
+|upkeep
+|turn|17
+|
+|t:|1641720251
+|move|p1a: Kommo-o|Belly Drum|p1a: Kommo-o
+|-damage|p1a: Kommo-o|25/100
+|-setboost|p1a: Kommo-o|atk|6|[from] move: Belly Drum
+|-enditem|p1a: Kommo-o|Salac Berry|[eat]
+|-boost|p1a: Kommo-o|spe|1|[from] item: Salac Berry
+|move|p2a: Kingdra|Dragon Pulse|p1a: Kommo-o
+|-supereffective|p1a: Kommo-o
+|-end|p1a: Kommo-o|Substitute
+|
+|upkeep
+|turn|18
+|
+|t:|1641720262
+|move|p1a: Kommo-o|Drain Punch|p2a: Kingdra
+|-damage|p2a: Kingdra|0 fnt
+|-heal|p1a: Kommo-o|54/100|[from] drain|[of] p2a: Kingdra
+|faint|p2a: Kingdra
+|
+|upkeep
+|
+|t:|1641720267
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-damage|p2a: Rillaboom|88/100|[from] Stealth Rock
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|turn|19
+|
+|t:|1641720287
+|move|p2a: Rillaboom|Grassy Glide|p1a: Kommo-o
+|-resisted|p1a: Kommo-o
+|-damage|p1a: Kommo-o|25/100
+|-damage|p2a: Rillaboom|78/100|[from] item: Life Orb
+|move|p1a: Kommo-o|Drain Punch|p2a: Rillaboom
+|-damage|p2a: Rillaboom|0 fnt
+|-heal|p1a: Kommo-o|66/100|[from] drain|[of] p2a: Rillaboom
+|faint|p2a: Rillaboom
+|
+|win|yesusermane
+|raw|yesusermane's rating: 1298 &rarr; <strong>1320</strong><br />(+22 for winning)
+|raw|caniggia1089's rating: 1250 &rarr; <strong>1228</strong><br />(-22 for losing)
+|l|☆caniggia1089

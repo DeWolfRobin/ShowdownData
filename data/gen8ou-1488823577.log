@@ -1,0 +1,157 @@
+|j|☆Karpov 356
+|j|☆IamMewtuber
+|t:|1641826105
+|gametype|singles
+|player|p1|Karpov 356|lance|1067
+|player|p2|IamMewtuber|mars|1083
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Mew|
+|poke|p1|Volcarona, M|
+|poke|p1|Barraskewda, M|
+|poke|p1|Tapu Lele|
+|poke|p1|Aerodactyl, F|
+|poke|p2|Blacephalon|
+|poke|p2|Mimikyu, F|
+|poke|p2|Blissey, F|
+|poke|p2|Blaziken, F|
+|poke|p2|Rillaboom, M|
+|poke|p2|Urshifu-*, M|
+|teampreview
+|
+|t:|1641826128
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Blacephalon|Blacephalon|100/100
+|turn|1
+|
+|t:|1641826140
+|switch|p1a: Barraskewda|Barraskewda, M|100/100
+|move|p2a: Blacephalon|Flamethrower|p1a: Barraskewda
+|-resisted|p1a: Barraskewda
+|-damage|p1a: Barraskewda|57/100
+|
+|upkeep
+|turn|2
+|
+|t:|1641826157
+|switch|p2a: Rillaboom|Rillaboom, M|100/100
+|-fieldstart|move: Grassy Terrain|[from] ability: Grassy Surge|[of] p2a: Rillaboom
+|move|p1a: Barraskewda|Liquidation|p2a: Rillaboom
+|-resisted|p2a: Rillaboom
+|-damage|p2a: Rillaboom|87/100
+|
+|-heal|p1a: Barraskewda|63/100|[from] Grassy Terrain
+|-heal|p2a: Rillaboom|93/100|[from] Grassy Terrain
+|upkeep
+|turn|3
+|
+|t:|1641826169
+|switch|p1a: Volcarona|Volcarona, M|100/100
+|move|p2a: Rillaboom|Grassy Glide|p1a: Volcarona
+|-resisted|p1a: Volcarona
+|-damage|p1a: Volcarona|87/100
+|
+|-heal|p1a: Volcarona|93/100|[from] Grassy Terrain
+|-heal|p1a: Volcarona|99/100|[from] item: Leftovers
+|-heal|p2a: Rillaboom|99/100|[from] Grassy Terrain
+|upkeep
+|turn|4
+|
+|t:|1641826180
+|switch|p2a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p1a: Volcarona|Quiver Dance|p1a: Volcarona
+|-boost|p1a: Volcarona|spa|1
+|-boost|p1a: Volcarona|spd|1
+|-boost|p1a: Volcarona|spe|1
+|
+|-heal|p1a: Volcarona|100/100|[from] Grassy Terrain
+|upkeep
+|turn|5
+|
+|t:|1641826192
+|move|p1a: Volcarona|Giga Drain|p2a: Urshifu
+|-supereffective|p2a: Urshifu
+|-damage|p2a: Urshifu|0 fnt
+|faint|p2a: Urshifu
+|
+|upkeep
+|
+|t:|1641826207
+|switch|p2a: Rillaboom|Rillaboom, M|99/100
+|turn|6
+|
+|t:|1641826212
+|switch|p2a: Blaziken|Blaziken, F|100/100
+|move|p1a: Volcarona|Fiery Dance|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|54/100
+|-boost|p1a: Volcarona|spa|1
+|
+|-heal|p2a: Blaziken|60/100|[from] Grassy Terrain
+|-fieldend|move: Grassy Terrain
+|upkeep
+|turn|7
+|
+|t:|1641826227
+|move|p1a: Volcarona|Bug Buzz|p2a: Blaziken
+|-resisted|p2a: Blaziken
+|-damage|p2a: Blaziken|25/100
+|-unboost|p2a: Blaziken|spd|1
+|-enditem|p2a: Blaziken|Sitrus Berry|[eat]
+|-heal|p2a: Blaziken|50/100|[from] item: Sitrus Berry
+|move|p2a: Blaziken|Acrobatics|p1a: Volcarona
+|-supereffective|p1a: Volcarona
+|-crit|p1a: Volcarona
+|-damage|p1a: Volcarona|0 fnt
+|faint|p1a: Volcarona
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641826231
+|switch|p1a: Barraskewda|Barraskewda, M|63/100
+|turn|8
+|
+|t:|1641826246
+|move|p2a: Blaziken|Acrobatics|p1a: Barraskewda
+|-damage|p1a: Barraskewda|0 fnt
+|faint|p1a: Barraskewda
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|
+|t:|1641826252
+|switch|p1a: Kartana|Kartana|100/100
+|turn|9
+|
+|t:|1641826257
+|move|p2a: Blaziken|Flare Blitz|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|faint|p1a: Kartana
+|-damage|p2a: Blaziken|22/100|[from] Recoil
+|
+|-ability|p2a: Blaziken|Speed Boost|boost
+|-boost|p2a: Blaziken|spe|1
+|upkeep
+|-message|Karpov 356 forfeited.
+|
+|win|IamMewtuber
+|raw|Karpov 356's rating: 1067 &rarr; <strong>1048</strong><br />(-19 for losing)
+|raw|IamMewtuber's rating: 1083 &rarr; <strong>1109</strong><br />(+26 for winning)
+|l|☆Karpov 356

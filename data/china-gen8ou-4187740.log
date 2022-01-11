@@ -1,0 +1,504 @@
+|raw|<div class="broadcast-blue"><strong>This battle is required to be public due to a player having a name starting with 'sl21cc'.</div>
+|j|☆water GH0ST
+|j|☆SL21CC Leviathan
+|t:|1641732237
+|gametype|singles
+|player|p1|water GH0ST|picnicker|1244
+|player|p2|SL21CC Leviathan|guitarist|1232
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Ninetales-Alola, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Heatran, F|
+|poke|p1|Garchomp, M|
+|poke|p1|Cloyster, M|
+|poke|p1|Scizor, F|
+|poke|p2|Hippowdon, F|
+|poke|p2|Clefable, M|
+|poke|p2|Slowking, F|
+|poke|p2|Corviknight, F|
+|poke|p2|Excadrill, M|
+|poke|p2|Buzzwole|
+|teampreview
+|j|&starmind
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by water GH0ST)
+|
+|t:|1641732266
+|start
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|switch|p2a: Slowking|Slowking, F|100/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|1
+|j| SL21CC Mcdonald's
+|
+|t:|1641732281
+|move|p1a: Ninetales|Hypnosis|p2a: Slowking
+|-status|p2a: Slowking|slp|[from] move: Hypnosis
+|cant|p2a: Slowking|slp
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowking|94/100 slp|[from] Hail
+|upkeep
+|turn|2
+|
+|t:|1641732288
+|switch|p1a: Heatran|Heatran, F|100/100
+|-item|p1a: Heatran|Air Balloon
+|cant|p2a: Slowking|slp
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|94/100|[from] Hail
+|-damage|p2a: Slowking|88/100 slp|[from] Hail
+|upkeep
+|turn|3
+|j| Suta Pulachina
+|
+|t:|1641732293
+|move|p1a: Heatran|Stealth Rock|p2a: Slowking
+|-sidestart|p2: SL21CC Leviathan|move: Stealth Rock
+|cant|p2a: Slowking|slp
+|
+|-weather|Hail|[upkeep]
+|-damage|p1a: Heatran|88/100|[from] Hail
+|-damage|p2a: Slowking|82/100 slp|[from] Hail
+|upkeep
+|turn|4
+|
+|t:|1641732296
+|switch|p1a: Ninetales|Ninetales-Alola, M|100/100
+|-curestatus|p2a: Slowking|slp|[msg]
+|move|p2a: Slowking|Scald|p1a: Ninetales
+|-damage|p1a: Ninetales|74/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowking|76/100|[from] Hail
+|upkeep
+|turn|5
+|
+|t:|1641732301
+|switch|p2a: Hippowdon|Hippowdon, F|100/100
+|-damage|p2a: Hippowdon|94/100|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Ninetales|Aurora Veil||[still]
+|-fail|p1a: Ninetales
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ninetales|68/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|
+|t:|1641732318
+|move|p1a: Ninetales|Hypnosis|p2a: Hippowdon
+|-status|p2a: Hippowdon|slp|[from] move: Hypnosis
+|cant|p2a: Hippowdon|slp
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ninetales|62/100|[from] Sandstorm
+|upkeep
+|turn|7
+|
+|t:|1641732326
+|switch|p1a: Cloyster|Cloyster, M|100/100
+|switch|p2a: Slowking|Slowking, F|100/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cloyster|94/100|[from] Sandstorm
+|-damage|p2a: Slowking|94/100|[from] Sandstorm
+|upkeep
+|turn|8
+|
+|t:|1641732332
+|switch|p1a: Ninetales|Ninetales-Alola, M|62/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|move|p2a: Slowking|Scald|p1a: Ninetales
+|-damage|p1a: Ninetales|37/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowking|88/100|[from] Hail
+|upkeep
+|turn|9
+|
+|t:|1641732340
+|move|p1a: Ninetales|Aurora Veil|p1a: Ninetales
+|-sidestart|p1: water GH0ST|move: Aurora Veil
+|move|p2a: Slowking|Scald|p1a: Ninetales
+|-damage|p1a: Ninetales|22/100
+|
+|-weather|Hail|[upkeep]
+|-damage|p2a: Slowking|82/100|[from] Hail
+|upkeep
+|turn|10
+|j| burstbean
+|
+|t:|1641732349
+|move|p1a: Ninetales|Freeze-Dry|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|57/100
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|
+|t:|1641732353
+|switch|p2a: Hippowdon|Hippowdon, F|100/100 slp|[from]move: Teleport
+|-damage|p2a: Hippowdon|94/100 slp|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Ninetales|16/100|[from] Sandstorm
+|-heal|p2a: Hippowdon|100/100 slp|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641732360
+|switch|p1a: Cloyster|Cloyster, M|94/100
+|switch|p2a: Slowking|Slowking, F|91/100
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cloyster|88/100|[from] Sandstorm
+|-damage|p2a: Slowking|85/100|[from] Sandstorm
+|upkeep
+|turn|12
+|
+|t:|1641732363
+|move|p1a: Cloyster|Shell Smash|p1a: Cloyster
+|-unboost|p1a: Cloyster|def|1
+|-unboost|p1a: Cloyster|spd|1
+|-boost|p1a: Cloyster|atk|2
+|-boost|p1a: Cloyster|spa|2
+|-boost|p1a: Cloyster|spe|2
+|move|p2a: Slowking|Scald|p1a: Cloyster
+|-resisted|p1a: Cloyster
+|-damage|p1a: Cloyster|56/100
+|-status|p1a: Cloyster|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cloyster|49/100 brn|[from] Sandstorm
+|-damage|p2a: Slowking|78/100|[from] Sandstorm
+|-damage|p1a: Cloyster|43/100 brn|[from] brn
+|upkeep
+|turn|13
+|
+|t:|1641732375
+|switch|p2a: Corviknight|Corviknight, F|100/100
+|-damage|p2a: Corviknight|88/100|[from] Stealth Rock
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Cloyster|Pin Missile|p2a: Corviknight
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|87/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|86/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|85/100
+|-resisted|p2a: Corviknight
+|-crit|p2a: Corviknight
+|-damage|p2a: Corviknight|83/100
+|-resisted|p2a: Corviknight
+|-damage|p2a: Corviknight|82/100
+|-hitcount|p2a: Corviknight|5
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1a: Cloyster|37/100 brn|[from] Sandstorm
+|-damage|p1a: Cloyster|31/100 brn|[from] brn
+|upkeep
+|turn|14
+|
+|t:|1641732383
+|move|p1a: Cloyster|Hydro Pump|p2a: Corviknight
+|-damage|p2a: Corviknight|15/100
+|move|p2a: Corviknight|Defog|p1a: Cloyster
+|-unboost|p1a: Cloyster|evasion|1
+|-sideend|p1: water GH0ST|move: Aurora Veil
+|-sideend|p2: SL21CC Leviathan|Stealth Rock|[from] move: Defog|[of] p2a: Corviknight
+|
+|-weather|none
+|-damage|p1a: Cloyster|25/100 brn|[from] brn
+|upkeep
+|turn|15
+|
+|t:|1641732391
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Cloyster|Pin Missile|p2a: Slowking
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|86/100
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|70/100
+|-supereffective|p2a: Slowking
+|-crit|p2a: Slowking
+|-damage|p2a: Slowking|46/100
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|31/100
+|-supereffective|p2a: Slowking
+|-damage|p2a: Slowking|16/100
+|-hitcount|p2a: Slowking|5
+|
+|-damage|p1a: Cloyster|18/100 brn|[from] brn
+|upkeep
+|turn|16
+|
+|t:|1641732397
+|switch|p2a: Clefable|Clefable, M|100/100
+|move|p1a: Cloyster|Icicle Spear|p2a: Clefable
+|-damage|p2a: Clefable|87/100
+|-crit|p2a: Clefable
+|-damage|p2a: Clefable|69/100
+|-damage|p2a: Clefable|55/100
+|-damage|p2a: Clefable|42/100
+|-damage|p2a: Clefable|29/100
+|-hitcount|p2a: Clefable|5
+|
+|-heal|p2a: Clefable|35/100|[from] item: Leftovers
+|-damage|p1a: Cloyster|12/100 brn|[from] brn
+|upkeep
+|turn|17
+|
+|t:|1641732406
+|switch|p2a: Slowking|Slowking, F|49/100
+|move|p1a: Cloyster|Icicle Spear|p2a: Slowking
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|44/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|38/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|33/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|28/100
+|-resisted|p2a: Slowking
+|-damage|p2a: Slowking|22/100
+|-hitcount|p2a: Slowking|5
+|
+|-damage|p1a: Cloyster|6/100 brn|[from] brn
+|upkeep
+|turn|18
+|l| burstbean
+|
+|t:|1641732415
+|switch|p2a: Corviknight|Corviknight, F|15/100
+|-ability|p2a: Corviknight|Pressure
+|move|p1a: Cloyster|Icicle Spear|p2a: Corviknight
+|-damage|p2a: Corviknight|9/100
+|-damage|p2a: Corviknight|1/100
+|-damage|p2a: Corviknight|0 fnt
+|faint|p2a: Corviknight
+|-hitcount|p2: Corviknight|3
+|
+|-damage|p1a: Cloyster|0 fnt|[from] brn
+|faint|p1a: Cloyster
+|upkeep
+|
+|t:|1641732427
+|switch|p1a: Ninetales|Ninetales-Alola, M|16/100
+|switch|p2a: Slowking|Slowking, F|55/100
+|-weather|Hail|[from] ability: Snow Warning|[of] p1a: Ninetales
+|turn|19
+|
+|t:|1641732437
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|switch|p2a: Hippowdon|Hippowdon, F|100/100 slp
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|20
+|
+|t:|1641732444
+|switch|p2a: Buzzwole|Buzzwole|100/100
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p2a: Buzzwole|94/100|[from] Sandstorm
+|upkeep
+|turn|21
+|
+|t:|1641732448
+|move|p1a: Garchomp|Scale Shot|p2a: Buzzwole
+|-damage|p2a: Buzzwole|74/100
+|-crit|p2a: Buzzwole
+|-damage|p2a: Buzzwole|45/100
+|-damage|p2a: Buzzwole|24/100
+|-crit|p2a: Buzzwole
+|-damage|p2a: Buzzwole|0 fnt
+|faint|p2a: Buzzwole
+|-hitcount|p2: Buzzwole|4
+|-unboost|p1a: Garchomp|def|1
+|-boost|p1a: Garchomp|spe|1
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641732454
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|turn|22
+|
+|t:|1641732458
+|switch|p1a: Heatran|Heatran, F|88/100
+|-item|p1a: Heatran|Air Balloon
+|move|p2a: Excadrill|Iron Head|p1a: Heatran
+|-resisted|p1a: Heatran
+|-damage|p1a: Heatran|72/100
+|-enditem|p1a: Heatran|Air Balloon
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|23
+|
+|t:|1641732470
+|switch|p2a: Slowking|Slowking, F|88/100
+|move|p1a: Heatran|Magma Storm|p2a: Slowking|[miss]
+|-miss|p1a: Heatran|p2a: Slowking
+|
+|-weather|none
+|upkeep
+|turn|24
+|j| sl21cckhl
+|
+|t:|1641732476
+|move|p1a: Heatran|Stealth Rock|p2a: Slowking
+|-sidestart|p2: SL21CC Leviathan|move: Stealth Rock
+|move|p2a: Slowking|Teleport|p2a: Slowking
+|j| adreamew
+|
+|t:|1641732487
+|switch|p2a: Clefable|Clefable, M|35/100|[from]move: Teleport
+|
+|-heal|p2a: Clefable|41/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641732492
+|switch|p2a: Slowking|Slowking, F|100/100
+|move|p1a: Heatran|Magma Storm|p2a: Slowking|[miss]
+|-miss|p1a: Heatran|p2a: Slowking
+|
+|upkeep
+|turn|26
+|
+|t:|1641732498
+|move|p1a: Heatran|Taunt|p2a: Slowking
+|-start|p2a: Slowking|move: Taunt
+|move|p2a: Slowking|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|25/100
+|
+|upkeep
+|turn|27
+|
+|t:|1641732502
+|move|p1a: Heatran|Magma Storm|p2a: Slowking|[miss]
+|-miss|p1a: Heatran|p2a: Slowking
+|move|p2a: Slowking|Scald|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|upkeep
+|
+|t:|1641732513
+|switch|p1a: Garchomp|Garchomp, M|100/100
+|turn|28
+|
+|t:|1641732518
+|switch|p2a: Hippowdon|Hippowdon, F|100/100 slp
+|-damage|p2a: Hippowdon|94/100 slp|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Garchomp|Swords Dance|p1a: Garchomp
+|-boost|p1a: Garchomp|atk|2
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Hippowdon|100/100 slp|[from] item: Leftovers
+|upkeep
+|turn|29
+|
+|t:|1641732521
+|switch|p2a: Clefable|Clefable, M|41/100
+|move|p1a: Garchomp|Scale Shot|p2a: Clefable
+|-immune|p2a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p2a: Clefable|47/100|[from] item: Leftovers
+|upkeep
+|turn|30
+|
+|t:|1641732534
+|move|p1a: Garchomp|Earthquake|p2a: Clefable
+|-damage|p2a: Clefable|0 fnt
+|faint|p2a: Clefable
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|
+|t:|1641732539
+|switch|p2a: Excadrill|Excadrill, M|100/100
+|-damage|p2a: Excadrill|97/100|[from] Stealth Rock
+|turn|31
+|
+|t:|1641732541
+|move|p2a: Excadrill|Earthquake|p1a: Garchomp
+|-damage|p1a: Garchomp|6/100
+|move|p1a: Garchomp|Earthquake|p2a: Excadrill
+|-supereffective|p2a: Excadrill
+|-damage|p2a: Excadrill|0 fnt
+|faint|p2a: Excadrill
+|
+|-weather|Sandstorm|[upkeep]
+|-heal|p1a: Garchomp|13/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641732543
+|switch|p2a: Slowking|Slowking, F|100/100
+|turn|32
+|
+|t:|1641732544
+|move|p1a: Garchomp|Earthquake|p2a: Slowking
+|-damage|p2a: Slowking|3/100
+|move|p2a: Slowking|Scald|p1a: Garchomp
+|-damage|p1a: Garchomp|0 fnt
+|faint|p1a: Garchomp
+|
+|-weather|none
+|upkeep
+|
+|t:|1641732547
+|switch|p1a: Scizor|Scizor, F|100/100
+|turn|33
+|
+|t:|1641732549
+|switch|p2a: Hippowdon|Hippowdon, F|100/100 slp
+|-damage|p2a: Hippowdon|94/100 slp|[from] Stealth Rock
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p2a: Hippowdon
+|move|p1a: Scizor|Knock Off|p2a: Hippowdon
+|-damage|p2a: Hippowdon|70/100 slp
+|-enditem|p2a: Hippowdon|Leftovers|[from] move: Knock Off|[of] p1a: Scizor
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|34
+|
+|t:|1641732551
+|move|p1a: Scizor|Swords Dance|p1a: Scizor
+|-boost|p1a: Scizor|atk|2
+|cant|p2a: Hippowdon|slp
+|
+|-weather|Sandstorm|[upkeep]
+|upkeep
+|turn|35
+|-message|SL21CC Leviathan forfeited.
+|
+|win|water GH0ST
+|raw|water GH0ST's rating: 1244 &rarr; <strong>1260</strong><br />(+16 for winning)
+|raw|SL21CC Leviathan's rating: 1232 &rarr; <strong>1217</strong><br />(-15 for losing)
+|l|☆SL21CC Leviathan
+|l|☆water GH0ST
+|l|&starmind
+|l| SL21CC Mcdonald's
+|l| Suta Pulachina

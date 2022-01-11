@@ -1,0 +1,347 @@
+|j|☆funtasia
+|j|☆Freezerman 2.22
+|t:|1641889731
+|gametype|singles
+|player|p1|funtasia|2|1625
+|player|p2|Freezerman 2.22|colress|1583
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Blissey, F|
+|poke|p1|Heatran, M|
+|poke|p1|Dragapult, F|
+|poke|p1|Tornadus-Therian, M|
+|poke|p1|Blacephalon|
+|poke|p2|Mew|
+|poke|p2|Heatran, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Tapu Fini|
+|poke|p2|Kartana|
+|poke|p2|Garchomp, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by funtasia)
+|
+|t:|1641889748
+|start
+|switch|p1a: Heatran|Heatran, M|100/100
+|switch|p2a: Heatran|Heatran, M|100/100
+|-item|p2a: Heatran|Air Balloon
+|-item|p1a: Heatran|Air Balloon
+|turn|1
+|c|☆funtasia|:D
+|
+|t:|1641889760
+|move|p1a: Heatran|Taunt|p2a: Heatran
+|-start|p2a: Heatran|move: Taunt
+|cant|p2a: Heatran|move: Taunt|Stealth Rock
+|
+|upkeep
+|turn|2
+|
+|t:|1641889769
+|move|p2a: Heatran|Magma Storm|p1a: Heatran
+|-damage|p1a: Heatran|45/100
+|-activate|p1a: Heatran|move: Magma Storm|[of] p2a: Heatran
+|-enditem|p1a: Heatran|Air Balloon
+|move|p1a: Heatran|Magma Storm|p2a: Heatran
+|-damage|p2a: Heatran|45/100
+|-activate|p2a: Heatran|move: Magma Storm|[of] p1a: Heatran
+|-enditem|p2a: Heatran|Air Balloon
+|
+|-damage|p1a: Heatran|33/100|[from] move: Magma Storm|[partiallytrapped]
+|-damage|p2a: Heatran|32/100|[from] move: Magma Storm|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1641889778
+|move|p1a: Heatran|Stealth Rock|p2a: Heatran
+|-sidestart|p2: Freezerman 2.22|move: Stealth Rock
+|move|p2a: Heatran|Earth Power|p1a: Heatran
+|-supereffective|p1a: Heatran
+|-damage|p1a: Heatran|0 fnt
+|faint|p1a: Heatran
+|
+|-end|p2a: Heatran|Magma Storm|[partiallytrapped]|[silent]
+|-end|p2a: Heatran|move: Taunt
+|upkeep
+|c|☆Freezerman 2.22|lol
+|c|☆funtasia|;DDD
+|
+|t:|1641889805
+|switch|p1a: Blacephalon|Blacephalon|100/100
+|turn|4
+|
+|t:|1641889808
+|move|p1a: Blacephalon|Shadow Ball|p2a: Heatran
+|-damage|p2a: Heatran|0 fnt
+|faint|p2a: Heatran
+|-ability|p1a: Blacephalon|Beast Boost|boost
+|-boost|p1a: Blacephalon|spa|1
+|
+|upkeep
+|
+|t:|1641889811
+|switch|p2a: Kartana|Kartana|100/100
+|-damage|p2a: Kartana|94/100|[from] Stealth Rock
+|turn|5
+|
+|t:|1641889817
+|move|p2a: Kartana|Knock Off|p1a: Blacephalon
+|-supereffective|p1a: Blacephalon
+|-damage|p1a: Blacephalon|0 fnt
+|-enditem|p1a: Blacephalon|Choice Scarf|[from] move: Knock Off|[of] p2a: Kartana
+|faint|p1a: Blacephalon
+|-ability|p2a: Kartana|Beast Boost|boost
+|-boost|p2a: Kartana|atk|1
+|
+|upkeep
+|
+|t:|1641889825
+|switch|p1a: Tornadus|Tornadus-Therian, M|100/100
+|turn|6
+|
+|t:|1641889829
+|switch|p2a: Mew|Mew|100/100
+|-damage|p2a: Mew|88/100|[from] Stealth Rock
+|move|p1a: Tornadus|Hurricane|p2a: Mew|[miss]
+|-miss|p1a: Tornadus|p2a: Mew
+|
+|-heal|p2a: Mew|94/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1641889838
+|move|p1a: Tornadus|Sludge Bomb|p2a: Mew
+|-damage|p2a: Mew|70/100
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|
+|-heal|p2a: Mew|76/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1641889849
+|move|p1a: Tornadus|Sludge Bomb|p2a: Mew
+|-damage|p2a: Mew|60/100
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|
+|-heal|p2a: Mew|66/100|[from] item: Leftovers
+|upkeep
+|turn|9
+|
+|t:|1641889852
+|move|p1a: Tornadus|Sludge Bomb|p2a: Mew
+|-damage|p2a: Mew|55/100
+|move|p2a: Mew|Roost|p2a: Mew
+|-heal|p2a: Mew|100/100
+|-singleturn|p2a: Mew|move: Roost
+|
+|upkeep
+|turn|10
+|
+|t:|1641889855
+|move|p1a: Tornadus|Sludge Bomb|p2a: Mew
+|-damage|p2a: Mew|88/100
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|
+|-heal|p2a: Mew|94/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1641889859
+|move|p1a: Tornadus|Sludge Bomb|p2a: Mew
+|-damage|p2a: Mew|85/100
+|move|p2a: Mew|Cosmic Power|p2a: Mew
+|-boost|p2a: Mew|def|1
+|-boost|p2a: Mew|spd|1
+|
+|-heal|p2a: Mew|91/100|[from] item: Leftovers
+|upkeep
+|turn|12
+|
+|t:|1641889862
+|move|p1a: Tornadus|Sludge Bomb|p2a: Mew
+|-damage|p2a: Mew|83/100
+|move|p2a: Mew|Stored Power|p1a: Tornadus
+|-damage|p1a: Tornadus|17/100
+|
+|-heal|p2a: Mew|90/100|[from] item: Leftovers
+|upkeep
+|turn|13
+|
+|t:|1641889865
+|move|p1a: Tornadus|Sludge Bomb|p2a: Mew
+|-damage|p2a: Mew|82/100
+|-status|p2a: Mew|psn
+|-activate|p2a: Mew|ability: Synchronize
+|-status|p1a: Tornadus|psn
+|move|p2a: Mew|Stored Power|p1a: Tornadus
+|-damage|p1a: Tornadus|0 fnt
+|faint|p1a: Tornadus
+|
+|-heal|p2a: Mew|88/100 psn|[from] item: Leftovers
+|-damage|p2a: Mew|76/100 psn|[from] psn
+|upkeep
+|
+|t:|1641889869
+|switch|p1a: Kartana|Kartana|100/100
+|turn|14
+|
+|t:|1641889872
+|move|p1a: Kartana|Swords Dance|p1a: Kartana
+|-boost|p1a: Kartana|atk|2
+|move|p2a: Mew|Stored Power|p1a: Kartana
+|-resisted|p1a: Kartana
+|-damage|p1a: Kartana|3/100
+|
+|-heal|p2a: Mew|82/100 psn|[from] item: Leftovers
+|-damage|p2a: Mew|70/100 psn|[from] psn
+|upkeep
+|turn|15
+|
+|t:|1641889875
+|move|p1a: Kartana|Knock Off|p2a: Mew
+|-supereffective|p2a: Mew
+|-damage|p2a: Mew|8/100 psn
+|-enditem|p2a: Mew|Leftovers|[from] move: Knock Off|[of] p1a: Kartana
+|-damage|p1a: Kartana|0 fnt|[from] item: Life Orb
+|faint|p1a: Kartana
+|move|p2a: Mew|Stored Power|p1: Kartana|[notarget]
+|-fail|p2a: Mew
+|
+|-damage|p2a: Mew|0 fnt|[from] psn
+|faint|p2a: Mew
+|upkeep
+|
+|t:|1641889881
+|switch|p1a: Blissey|Blissey, F|100/100
+|switch|p2a: Kartana|Kartana|94/100
+|-damage|p2a: Kartana|88/100|[from] Stealth Rock
+|turn|16
+|
+|t:|1641889886
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|-damage|p2a: Garchomp|94/100|[from] Stealth Rock
+|move|p1a: Blissey|Seismic Toss|p2a: Garchomp
+|-damage|p2a: Garchomp|66/100
+|-damage|p1a: Blissey|88/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|
+|upkeep
+|turn|17
+|
+|t:|1641889889
+|move|p2a: Garchomp|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|30/100
+|-damage|p2a: Garchomp|57/100|[from] item: Life Orb
+|move|p1a: Blissey|Teleport|p1a: Blissey
+|
+|t:|1641889891
+|switch|p1a: Dragapult|Dragapult, F|100/100|[from]move: Teleport
+|
+|upkeep
+|turn|18
+|
+|t:|1641889894
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Garchomp|Earthquake|p1a: Dragapult
+|-damage|p1a: Dragapult|10/100
+|-damage|p2a: Garchomp|47/100|[from] item: Life Orb
+|
+|-heal|p1a: Dragapult|16/100|[from] item: Leftovers
+|upkeep
+|turn|19
+|
+|t:|1641889900
+|move|p1a: Dragapult|Phantom Force||[still]
+|-prepare|p1a: Dragapult|Phantom Force
+|move|p2a: Garchomp|Earthquake|p1a: Dragapult|[miss]
+|-miss|p2a: Garchomp|p1a: Dragapult
+|
+|-heal|p1a: Dragapult|22/100|[from] item: Leftovers
+|upkeep
+|turn|20
+|
+|t:|1641889902
+|move|p1a: Dragapult|Phantom Force|p2a: Garchomp|[from]lockedmove
+|-damage|p2a: Garchomp|0 fnt
+|-damage|p1a: Dragapult|10/100|[from] ability: Rough Skin|[of] p2a: Garchomp
+|faint|p2a: Garchomp
+|
+|-heal|p1a: Dragapult|16/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1641889905
+|switch|p2a: Tapu Fini|Tapu Fini|100/100
+|-damage|p2a: Tapu Fini|88/100|[from] Stealth Rock
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p2a: Tapu Fini
+|turn|21
+|
+|t:|1641889907
+|switch|p1a: Blissey|Blissey, F|30/100
+|move|p2a: Tapu Fini|Draining Kiss|p1a: Blissey
+|-damage|p1a: Blissey|24/100
+|-heal|p2a: Tapu Fini|97/100|[from] drain|[of] p1a: Blissey
+|
+|-heal|p2a: Tapu Fini|100/100|[from] item: Leftovers
+|upkeep
+|turn|22
+|
+|t:|1641889910
+|move|p2a: Tapu Fini|Taunt|p1a: Blissey
+|-start|p1a: Blissey|move: Taunt
+|cant|p1a: Blissey|move: Taunt|Healing Wish
+|
+|upkeep
+|turn|23
+|
+|t:|1641889914
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Dragonite
+|-damage|p2a: Dragonite|70/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641889917
+|move|p2a: Dragonite|Earthquake|p1a: Blissey
+|-damage|p1a: Blissey|0 fnt
+|faint|p1a: Blissey
+|
+|upkeep
+|c|☆funtasia|gg
+|
+|t:|1641889920
+|switch|p1a: Dragapult|Dragapult, F|16/100
+|turn|25
+|c|☆Freezerman 2.22|gg yea
+|
+|t:|1641889925
+|move|p1a: Dragapult|Dragon Dance|p1a: Dragapult
+|-boost|p1a: Dragapult|atk|1
+|-boost|p1a: Dragapult|spe|1
+|move|p2a: Dragonite|Ice Punch|p1a: Dragapult
+|-supereffective|p1a: Dragapult
+|-damage|p1a: Dragapult|0 fnt
+|faint|p1a: Dragapult
+|
+|win|Freezerman 2.22
+|raw|funtasia's rating: 1625 &rarr; <strong>1603</strong><br />(-22 for losing)
+|raw|Freezerman 2.22's rating: 1583 &rarr; <strong>1605</strong><br />(+22 for winning)

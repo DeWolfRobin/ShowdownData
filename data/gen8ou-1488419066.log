@@ -1,0 +1,434 @@
+|j|☆be like cat
+|j|☆Pkmnallrounder
+|t:|1641762924
+|gametype|singles
+|player|p1|be like cat|brendan-gen3|1178
+|player|p2|Pkmnallrounder|265|1216
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Kartana|
+|poke|p1|Volcarona, M|
+|poke|p1|Dragonite, M|
+|poke|p1|Tapu Fini|
+|poke|p1|Landorus-Therian, M|
+|poke|p1|Zeraora|
+|poke|p2|Charizard, M|
+|poke|p2|Torkoal, M|
+|poke|p2|Garchomp, M|
+|poke|p2|Venusaur, M|
+|poke|p2|Scizor, M|
+|poke|p2|Zeraora|
+|teampreview
+|
+|t:|1641762932
+|start
+|switch|p1a: Tu Papá|Landorus-Therian, M|100/100
+|switch|p2a: Scizor|Scizor, M|100/100
+|-ability|p1a: Tu Papá|Intimidate|boost
+|-unboost|p2a: Scizor|atk|1
+|turn|1
+|
+|t:|1641762944
+|move|p1a: Tu Papá|U-turn|p2a: Scizor
+|-resisted|p2a: Scizor
+|-damage|p2a: Scizor|87/100
+|
+|t:|1641762950
+|switch|p1a: Barney Volador|Dragonite, M|100/100|[from]move: U-turn
+|move|p2a: Scizor|U-turn|p1a: Barney Volador
+|-resisted|p1a: Barney Volador
+|-damage|p1a: Barney Volador|92/100
+|
+|t:|1641762976
+|switch|p2a: Torkoal|Torkoal, M|100/100|[from]move: U-turn
+|-weather|SunnyDay|[from] ability: Drought|[of] p2a: Torkoal
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|2
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by be like cat)
+|
+|t:|1641762983
+|move|p1a: Barney Volador|Earthquake|p2a: Torkoal
+|-supereffective|p2a: Torkoal
+|-damage|p2a: Torkoal|59/100
+|move|p2a: Torkoal|Toxic|p1a: Barney Volador
+|-status|p1a: Barney Volador|tox
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Barney Volador|86/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1641762992
+|move|p2a: Torkoal|Protect|p2a: Torkoal
+|-singleturn|p2a: Torkoal|Protect
+|move|p1a: Barney Volador|Earthquake|p2a: Torkoal
+|-activate|p2a: Torkoal|move: Protect
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p1a: Barney Volador|74/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1641763005
+|switch|p2a: Charizard|Charizard, M|100/100
+|move|p1a: Barney Volador|Earthquake|p2a: Charizard
+|-immune|p2a: Charizard
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Charizard|88/100|[from] ability: Solar Power|[of] p2a: Charizard
+|-damage|p1a: Barney Volador|55/100 tox|[from] psn
+|upkeep
+|turn|5
+|inactive|be like cat has 120 seconds left.
+|
+|t:|1641763039
+|move|p2a: Charizard|Dragon Pulse|p1a: Barney Volador
+|-supereffective|p1a: Barney Volador
+|-damage|p1a: Barney Volador|0 fnt
+|faint|p1a: Barney Volador
+|
+|-weather|SunnyDay|[upkeep]
+|-damage|p2a: Charizard|76/100|[from] ability: Solar Power|[of] p2a: Charizard
+|upkeep
+|
+|t:|1641763043
+|switch|p1a: La Cerda|Tapu Fini|100/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: La Cerda
+|turn|6
+|
+|t:|1641763053
+|switch|p2a: Venusaur|Venusaur, M|100/100
+|move|p1a: La Cerda|Surf|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|90/100
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|7
+|
+|t:|1641763063
+|switch|p1a: Mothra|Volcarona, M|100/100
+|move|p2a: Venusaur|Giga Drain|p1a: Mothra
+|-resisted|p1a: Mothra
+|-damage|p1a: Mothra|89/100
+|-heal|p2a: Venusaur|96/100|[from] drain|[of] p1a: Mothra
+|-damage|p2a: Venusaur|86/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|upkeep
+|turn|8
+|
+|t:|1641763081
+|switch|p2a: Torkoal|Torkoal, M|59/100
+|move|p1a: Mothra|Flamethrower|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|12/100
+|
+|-weather|none
+|upkeep
+|turn|9
+|
+|t:|1641763092
+|move|p1a: Mothra|Flamethrower|p2a: Torkoal
+|-resisted|p2a: Torkoal
+|-damage|p2a: Torkoal|0 fnt
+|faint|p2a: Torkoal
+|
+|upkeep
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641763117
+|switch|p2a: Charizard|Charizard, M|76/100
+|turn|10
+|
+|t:|1641763128
+|switch|p1a: La Cerda|Tapu Fini|100/100
+|move|p2a: Charizard|Flamethrower|p1a: La Cerda
+|-resisted|p1a: La Cerda
+|-damage|p1a: La Cerda|80/100
+|
+|-fieldend|Misty Terrain
+|upkeep
+|turn|11
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641763143
+|switch|p2a: Venusaur|Venusaur, M|86/100
+|move|p1a: La Cerda|Surf|p2a: Venusaur
+|-resisted|p2a: Venusaur
+|-damage|p2a: Venusaur|63/100
+|
+|upkeep
+|turn|12
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641763155
+|switch|p1a: Gato de Tula|Zeraora|100/100
+|move|p2a: Venusaur|Sludge Bomb|p1a: Gato de Tula
+|-damage|p1a: Gato de Tula|35/100
+|-damage|p2a: Venusaur|53/100|[from] item: Life Orb
+|
+|upkeep
+|turn|13
+|
+|t:|1641763163
+|move|p1a: Gato de Tula|Knock Off|p2a: Venusaur
+|-damage|p2a: Venusaur|11/100
+|-enditem|p2a: Venusaur|Life Orb|[from] move: Knock Off|[of] p1a: Gato de Tula
+|move|p2a: Venusaur|Giga Drain|p1a: Gato de Tula
+|-damage|p1a: Gato de Tula|0 fnt
+|-heal|p2a: Venusaur|30/100|[from] drain|[of] p1a: Gato de Tula
+|faint|p1a: Gato de Tula
+|
+|upkeep
+|
+|t:|1641763167
+|switch|p1a: Mothra|Volcarona, M|89/100
+|turn|14
+|
+|t:|1641763176
+|move|p1a: Mothra|Flamethrower|p2a: Venusaur
+|-supereffective|p2a: Venusaur
+|-damage|p2a: Venusaur|0 fnt
+|faint|p2a: Venusaur
+|
+|upkeep
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641763197
+|switch|p2a: Charizard|Charizard, M|76/100
+|turn|15
+|inactive|be like cat has 120 seconds left.
+|inactive|be like cat has 90 seconds left.
+|inactive|be like cat has 60 seconds left.
+|inactive|be like cat has 30 seconds left.
+|
+|t:|1641763319
+|switch|p1a: La Cerda|Tapu Fini|80/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: La Cerda
+|move|p2a: Charizard|Flamethrower|p1a: La Cerda
+|-resisted|p1a: La Cerda
+|-damage|p1a: La Cerda|59/100
+|
+|upkeep
+|turn|16
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641763341
+|switch|p2a: Scizor|Scizor, M|87/100
+|move|p1a: La Cerda|Surf|p2a: Scizor
+|-damage|p2a: Scizor|42/100
+|
+|upkeep
+|turn|17
+|inactive|Pkmnallrounder has 120 seconds left.
+|
+|t:|1641763351
+|switch|p1a: Mothra|Volcarona, M|89/100
+|move|p2a: Scizor|Dual Wingbeat|p1a: Mothra
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|11/100
+|-supereffective|p1a: Mothra
+|-damage|p1a: Mothra|0 fnt
+|faint|p1a: Mothra
+|-hitcount|p1: Mothra|2
+|
+|upkeep
+|
+|t:|1641763359
+|switch|p1a: Samurai Guay|Kartana|100/100
+|turn|18
+|
+|t:|1641763366
+|move|p2a: Scizor|Bullet Punch|p1a: Samurai Guay
+|-resisted|p1a: Samurai Guay
+|-damage|p1a: Samurai Guay|84/100
+|move|p1a: Samurai Guay|Sacred Sword|p2a: Scizor
+|-damage|p2a: Scizor|0 fnt
+|faint|p2a: Scizor
+|-ability|p1a: Samurai Guay|Beast Boost|boost
+|-boost|p1a: Samurai Guay|atk|1
+|
+|upkeep
+|
+|t:|1641763376
+|switch|p2a: Charizard|Charizard, M|76/100
+|turn|19
+|inactive|be like cat has 60 seconds left.
+|
+|t:|1641763383
+|move|p2a: Charizard|Flamethrower|p1a: Samurai Guay
+|-supereffective|p1a: Samurai Guay
+|-damage|p1a: Samurai Guay|0 fnt
+|faint|p1a: Samurai Guay
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641763385
+|switch|p1a: La Cerda|Tapu Fini|59/100
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: La Cerda
+|turn|20
+|
+|t:|1641763401
+|switch|p2a: Garchomp|Garchomp, M|100/100
+|move|p1a: La Cerda|Surf|p2a: Garchomp
+|-damage|p2a: Garchomp|59/100
+|
+|upkeep
+|turn|21
+|
+|t:|1641763410
+|switch|p1a: Tu Papá|Landorus-Therian, M|100/100
+|-ability|p1a: Tu Papá|Intimidate|boost
+|-unboost|p2a: Garchomp|atk|1
+|move|p2a: Garchomp|Earthquake|p1a: Tu Papá
+|-immune|p1a: Tu Papá
+|
+|upkeep
+|turn|22
+|
+|t:|1641763428
+|switch|p2a: Charizard|Charizard, M|76/100
+|move|p1a: Tu Papá|U-turn|p2a: Charizard
+|-resisted|p2a: Charizard
+|-damage|p2a: Charizard|66/100
+|
+|t:|1641763431
+|switch|p1a: La Cerda|Tapu Fini|59/100|[from]move: U-turn
+|
+|upkeep
+|turn|23
+|
+|t:|1641763441
+|switch|p2a: Garchomp|Garchomp, M|59/100
+|move|p1a: La Cerda|Surf|p2a: Garchomp
+|-damage|p2a: Garchomp|15/100
+|
+|upkeep
+|turn|24
+|
+|t:|1641763449
+|move|p1a: La Cerda|Surf|p2a: Garchomp
+|-damage|p2a: Garchomp|0 fnt
+|faint|p2a: Garchomp
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641763461
+|switch|p2a: Zeraora|Zeraora|100/100
+|turn|25
+|
+|t:|1641763468
+|switch|p1a: Tu Papá|Landorus-Therian, M|100/100
+|-ability|p1a: Tu Papá|Intimidate|boost
+|-unboost|p2a: Zeraora|atk|1
+|move|p2a: Zeraora|Knock Off|p1a: Tu Papá
+|-damage|p1a: Tu Papá|75/100
+|-enditem|p1a: Tu Papá|Leftovers|[from] move: Knock Off|[of] p2a: Zeraora
+|
+|upkeep
+|turn|26
+|
+|t:|1641763479
+|switch|p2a: Charizard|Charizard, M|66/100
+|move|p1a: Tu Papá|Toxic|p2a: Charizard|[miss]
+|-miss|p1a: Tu Papá|p2a: Charizard
+|
+|upkeep
+|turn|27
+|
+|t:|1641763488
+|move|p2a: Charizard|Solar Beam||[still]
+|-prepare|p2a: Charizard|Solar Beam
+|move|p1a: Tu Papá|U-turn|p2a: Charizard
+|-resisted|p2a: Charizard
+|-damage|p2a: Charizard|58/100
+|
+|t:|1641763490
+|switch|p1a: La Cerda|Tapu Fini|59/100|[from]move: U-turn
+|-fieldstart|move: Misty Terrain|[from] ability: Misty Surge|[of] p1a: La Cerda
+|
+|upkeep
+|turn|28
+|
+|t:|1641763498
+|move|p2a: Charizard|Solar Beam|p1a: La Cerda|[from]lockedmove
+|-supereffective|p1a: La Cerda
+|-damage|p1a: La Cerda|0 fnt
+|faint|p1a: La Cerda
+|
+|upkeep
+|
+|t:|1641763500
+|switch|p1a: Tu Papá|Landorus-Therian, M|75/100
+|-ability|p1a: Tu Papá|Intimidate|boost
+|-unboost|p2a: Charizard|atk|1
+|turn|29
+|
+|t:|1641763512
+|switch|p2a: Zeraora|Zeraora|100/100
+|move|p1a: Tu Papá|Toxic|p2a: Zeraora
+|-activate|p2a: Zeraora|move: Misty Terrain
+|
+|upkeep
+|turn|30
+|
+|t:|1641763527
+|move|p2a: Zeraora|Close Combat|p1a: Tu Papá
+|-resisted|p1a: Tu Papá
+|-damage|p1a: Tu Papá|51/100
+|-unboost|p2a: Zeraora|def|1
+|-unboost|p2a: Zeraora|spd|1
+|move|p1a: Tu Papá|Stealth Rock|p2a: Zeraora
+|-sidestart|p2: Pkmnallrounder|move: Stealth Rock
+|
+|upkeep
+|turn|31
+|
+|t:|1641763548
+|move|p2a: Zeraora|Bulk Up|p2a: Zeraora
+|-boost|p2a: Zeraora|atk|1
+|-boost|p2a: Zeraora|def|1
+|move|p1a: Tu Papá|Earthquake|p2a: Zeraora
+|-supereffective|p2a: Zeraora
+|-damage|p2a: Zeraora|0 fnt
+|faint|p2a: Zeraora
+|
+|-fieldend|Misty Terrain
+|upkeep
+|
+|t:|1641763557
+|switch|p2a: Charizard|Charizard, M|58/100
+|-damage|p2a: Charizard|8/100|[from] Stealth Rock
+|turn|32
+|
+|t:|1641763564
+|move|p2a: Charizard|Flamethrower|p1a: Tu Papá
+|-damage|p1a: Tu Papá|0 fnt
+|faint|p1a: Tu Papá
+|
+|win|Pkmnallrounder
+|raw|be like cat's rating: 1178 &rarr; <strong>1156</strong><br />(-22 for losing)
+|raw|Pkmnallrounder's rating: 1216 &rarr; <strong>1238</strong><br />(+22 for winning)
+|c|☆Pkmnallrounder|Gg
+|l|☆Pkmnallrounder
+|c|☆be like cat|merecia ganar
+|l|☆be like cat
+||Ladder isn't responding, score probably updated but might not have (Request timeout).
+|j|☆be like cat
+|player|p1|be like cat|brendan-gen3

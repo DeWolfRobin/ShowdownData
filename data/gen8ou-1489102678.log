@@ -1,0 +1,696 @@
+|j|☆darthputin
+|j|☆Huile2c0uill3s
+|t:|1641856934
+|gametype|singles
+|player|p1|darthputin|266|1380
+|player|p2|Huile2c0uill3s|burglar|1320
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|8
+|tier|[Gen 8] OU
+|rated|
+|rule|Sleep Clause Mod: Limit one foe put to sleep
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Dynamax Clause: You cannot dynamax
+|clearpoke
+|poke|p1|Dragonite, M|
+|poke|p1|Tapu Koko|
+|poke|p1|Blissey, F|
+|poke|p1|Ditto|
+|poke|p1|Kartana|
+|poke|p1|Hawlucha, M|
+|poke|p2|Toxapex, M|
+|poke|p2|Tapu Lele|
+|poke|p2|Melmetal|
+|poke|p2|Tangrowth, F|
+|poke|p2|Hawlucha, F|
+|poke|p2|Dragapult, M|
+|teampreview
+|
+|t:|1641856938
+|start
+|switch|p1a: Kartana|Kartana|100/100
+|switch|p2a: Charles de Gaulle|Dragapult, M, shiny|100/100
+|turn|1
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by darthputin)
+|inactive|Huile2c0uill3s also wants the timer to be on.
+|
+|t:|1641856944
+|switch|p1a: Blissey|Blissey, F|100/100
+|move|p2a: Charles de Gaulle|Flamethrower|p1a: Blissey
+|-damage|p1a: Blissey|86/100
+|-status|p1a: Blissey|brn
+|
+|-heal|p1a: Blissey|92/100 brn|[from] item: Leftovers
+|-damage|p1a: Blissey|86/100 brn|[from] brn
+|upkeep
+|turn|2
+|
+|t:|1641856957
+|switch|p2a: Ma grosse B|Melmetal|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Ma grosse B
+|-damage|p2a: Ma grosse B|78/100
+|
+|-heal|p1a: Blissey|92/100 brn|[from] item: Leftovers
+|-damage|p1a: Blissey|86/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1641856981
+|move|p1a: Blissey|Protect|p1a: Blissey
+|-singleturn|p1a: Blissey|Protect
+|move|p2a: Ma grosse B|Double Iron Bash|p1a: Blissey
+|-activate|p1a: Blissey|move: Protect
+|
+|-heal|p1a: Blissey|92/100 brn|[from] item: Leftovers
+|-damage|p1a: Blissey|86/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1641856989
+|-curestatus|p1a: Blissey|brn|[from] ability: Natural Cure
+|switch|p1a: Kartana|Kartana|100/100
+|move|p2a: Ma grosse B|Superpower|p1a: Kartana
+|-supereffective|p1a: Kartana
+|-damage|p1a: Kartana|0 fnt
+|-unboost|p2a: Ma grosse B|atk|1
+|-unboost|p2a: Ma grosse B|def|1
+|faint|p1a: Kartana
+|
+|upkeep
+|
+|t:|1641856994
+|switch|p1a: Dragonite|Dragonite, M|100/100
+|turn|5
+|
+|t:|1641857001
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Ma grosse B|Ice Punch|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|44/100
+|-status|p1a: Dragonite|frz
+|-enditem|p1a: Dragonite|Lum Berry|[eat]
+|-curestatus|p1a: Dragonite|frz|[msg]
+|
+|upkeep
+|turn|6
+|
+|t:|1641857010
+|move|p1a: Dragonite|Earthquake|p2a: Ma grosse B
+|-supereffective|p2a: Ma grosse B
+|-damage|p2a: Ma grosse B|0 fnt
+|faint|p2a: Ma grosse B
+|
+|upkeep
+|
+|t:|1641857022
+|switch|p2a: Ketamine|Toxapex, M, shiny|100/100
+|turn|7
+|
+|t:|1641857026
+|move|p2a: Ketamine|Baneful Bunker|p2a: Ketamine
+|-singleturn|p2a: Ketamine|move: Protect
+|move|p1a: Dragonite|Earthquake|p2a: Ketamine
+|-activate|p2a: Ketamine|move: Protect
+|
+|upkeep
+|turn|8
+|
+|t:|1641857034
+|switch|p2a: Weed|Tangrowth, F, shiny|100/100
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|94/100
+|-singleturn|p1a: Dragonite|move: Roost
+|
+|upkeep
+|turn|9
+|
+|t:|1641857046
+|move|p1a: Dragonite|Dragon Dance|p1a: Dragonite
+|-boost|p1a: Dragonite|atk|1
+|-boost|p1a: Dragonite|spe|1
+|move|p2a: Weed|Sleep Powder|p1a: Dragonite|[miss]
+|-miss|p2a: Weed|p1a: Dragonite
+|
+|upkeep
+|turn|10
+|
+|t:|1641857053
+|move|p1a: Dragonite|Outrage|p2a: Weed
+|-damage|p2a: Weed|21/100
+|move|p2a: Weed|Sleep Powder|p1a: Dragonite|[miss]
+|-miss|p2a: Weed|p1a: Dragonite
+|
+|upkeep
+|turn|11
+|
+|t:|1641857060
+|switch|p2a: Ketamine|Toxapex, M, shiny|100/100
+|move|p1a: Dragonite|Outrage|p2a: Ketamine|[from]lockedmove
+|-damage|p2a: Ketamine|18/100
+|-damage|p1a: Dragonite|77/100|[from] item: Rocky Helmet|[of] p2a: Ketamine
+|-start|p1a: Dragonite|confusion|[fatigue]
+|
+|upkeep
+|turn|12
+|
+|t:|1641857072
+|-activate|p1a: Dragonite|confusion
+|move|p1a: Dragonite|Roost|p1a: Dragonite
+|-heal|p1a: Dragonite|100/100
+|-singleturn|p1a: Dragonite|move: Roost
+|move|p2a: Ketamine|Recover|p2a: Ketamine
+|-heal|p2a: Ketamine|68/100
+|
+|upkeep
+|turn|13
+|
+|t:|1641857079
+|switch|p2a: Weed|Tangrowth, F, shiny|54/100
+|-activate|p1a: Dragonite|confusion
+|move|p1a: Dragonite|Earthquake|p2a: Weed
+|-resisted|p2a: Weed
+|-damage|p2a: Weed|34/100
+|
+|upkeep
+|turn|14
+|
+|t:|1641857086
+|-activate|p1a: Dragonite|confusion
+|-damage|p1a: Dragonite|68/100|[from] confusion
+|move|p2a: Weed|Sleep Powder|p1a: Dragonite
+|-status|p1a: Dragonite|slp|[from] move: Sleep Powder
+|
+|upkeep
+|turn|15
+|
+|t:|1641857096
+|switch|p2a: Charles de Gaulle|Dragapult, M, shiny|100/100
+|cant|p1a: Dragonite|slp
+|
+|upkeep
+|turn|16
+|
+|t:|1641857104
+|cant|p1a: Dragonite|slp
+|move|p2a: Charles de Gaulle|Draco Meteor|p1a: Dragonite
+|-supereffective|p1a: Dragonite
+|-damage|p1a: Dragonite|0 fnt
+|-unboost|p2a: Charles de Gaulle|spa|2
+|faint|p1a: Dragonite
+|
+|upkeep
+|
+|t:|1641857106
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|17
+|
+|t:|1641857114
+|switch|p2a: NoirCommeTonPère|Tapu Lele, shiny|100/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: NoirCommeTonPère
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: NoirCommeTonPère
+|-damage|p2a: NoirCommeTonPère|71/100
+|
+|upkeep
+|turn|18
+|
+|t:|1641857122
+|switch|p1a: Ditto|Ditto|100/100
+|-transform|p1a: Ditto|p2a: NoirCommeTonPère|[from] ability: Imposter
+|move|p2a: NoirCommeTonPère|Light Screen|p2a: NoirCommeTonPère
+|-sidestart|p2: Huile2c0uill3s|move: Light Screen
+|
+|upkeep
+|turn|19
+|c|☆Huile2c0uill3s|hahahaa
+|
+|t:|1641857136
+|move|p1a: Ditto|Moonblast|p2a: NoirCommeTonPère
+|-damage|p2a: NoirCommeTonPère|54/100
+|-unboost|p2a: NoirCommeTonPère|spa|1
+|move|p2a: NoirCommeTonPère|Reflect|p2a: NoirCommeTonPère
+|-sidestart|p2: Huile2c0uill3s|Reflect
+|
+|upkeep
+|turn|20
+|
+|t:|1641857147
+|switch|p2a: Salvia Divinorum|Hawlucha, F, shiny|100/100
+|-enditem|p2a: Salvia Divinorum|Psychic Seed
+|-boost|p2a: Salvia Divinorum|spd|1|[from] item: Psychic Seed
+|move|p1a: Ditto|Moonblast|p2a: Salvia Divinorum
+|-supereffective|p2a: Salvia Divinorum
+|-damage|p2a: Salvia Divinorum|51/100
+|-unboost|p2a: Salvia Divinorum|spa|1
+|
+|upkeep
+|turn|21
+|
+|t:|1641857161
+|move|p2a: Salvia Divinorum|Swords Dance|p2a: Salvia Divinorum
+|-boost|p2a: Salvia Divinorum|atk|2
+|move|p1a: Ditto|Moonblast|p2a: Salvia Divinorum
+|-supereffective|p2a: Salvia Divinorum
+|-damage|p2a: Salvia Divinorum|8/100
+|-unboost|p2a: Salvia Divinorum|spa|1
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|22
+|
+|t:|1641857169
+|move|p2a: Salvia Divinorum|Acrobatics|p1a: Ditto
+|-damage|p1a: Ditto|0 fnt
+|faint|p1a: Ditto
+|
+|upkeep
+|
+|t:|1641857172
+|switch|p1a: Tapu Koko|Tapu Koko|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|turn|23
+|
+|t:|1641857195
+|move|p2a: Salvia Divinorum|Close Combat|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|20/100
+|-unboost|p2a: Salvia Divinorum|def|1
+|-unboost|p2a: Salvia Divinorum|spd|1
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Salvia Divinorum
+|-supereffective|p2a: Salvia Divinorum
+|-damage|p2a: Salvia Divinorum|0 fnt
+|faint|p2a: Salvia Divinorum
+|
+|upkeep
+|c|☆darthputin|hahaaa
+|inactive|Huile2c0uill3s has 120 seconds left.
+|
+|t:|1641857211
+|switch|p2a: Charles de Gaulle|Dragapult, M, shiny|100/100
+|turn|24
+|inactive|Huile2c0uill3s has 120 seconds left.
+|
+|t:|1641857222
+|switch|p2a: NoirCommeTonPère|Tapu Lele, shiny|54/100
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: NoirCommeTonPère
+|switch|p1a: Blissey|Blissey, F|86/100
+|
+|-heal|p1a: Blissey|92/100|[from] item: Leftovers
+|upkeep
+|turn|25
+|
+|t:|1641857230
+|move|p2a: NoirCommeTonPère|Taunt|p1a: Blissey
+|-start|p1a: Blissey|move: Taunt
+|cant|p1a: Blissey|move: Taunt|Toxic
+|
+|-heal|p1a: Blissey|98/100|[from] item: Leftovers
+|-sideend|p2: Huile2c0uill3s|move: Light Screen
+|upkeep
+|turn|26
+|
+|t:|1641857237
+|move|p2a: NoirCommeTonPère|Light Screen|p2a: NoirCommeTonPère
+|-sidestart|p2: Huile2c0uill3s|move: Light Screen
+|move|p1a: Blissey|Seismic Toss|p2a: NoirCommeTonPère
+|-damage|p2a: NoirCommeTonPère|25/100
+|
+|-heal|p1a: Blissey|100/100|[from] item: Leftovers
+|-sideend|p2: Huile2c0uill3s|Reflect
+|upkeep
+|turn|27
+|
+|t:|1641857243
+|move|p2a: NoirCommeTonPère|Reflect|p2a: NoirCommeTonPère
+|-sidestart|p2: Huile2c0uill3s|Reflect
+|move|p1a: Blissey|Seismic Toss|p2a: NoirCommeTonPère
+|-damage|p2a: NoirCommeTonPère|0 fnt
+|faint|p2a: NoirCommeTonPère
+|
+|-end|p1a: Blissey|move: Taunt
+|upkeep
+|
+|t:|1641857261
+|switch|p2a: Weed|Tangrowth, F, shiny|68/100
+|turn|28
+|
+|t:|1641857266
+|move|p1a: Blissey|Toxic|p2a: Weed|[miss]
+|-miss|p1a: Blissey|p2a: Weed
+|move|p2a: Weed|Knock Off|p1a: Blissey
+|-damage|p1a: Blissey|80/100
+|-enditem|p1a: Blissey|Leftovers|[from] move: Knock Off|[of] p2a: Weed
+|
+|-fieldend|move: Psychic Terrain
+|upkeep
+|turn|29
+|
+|t:|1641857273
+|move|p1a: Blissey|Seismic Toss|p2a: Weed
+|-damage|p2a: Weed|43/100
+|move|p2a: Weed|Focus Blast|p1a: Blissey|[miss]
+|-miss|p2a: Weed|p1a: Blissey
+|
+|upkeep
+|turn|30
+|
+|t:|1641857280
+|switch|p2a: Ketamine|Toxapex, M, shiny|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Ketamine
+|-damage|p2a: Ketamine|68/100
+|-damage|p1a: Blissey|64/100|[from] item: Rocky Helmet|[of] p2a: Ketamine
+|
+|upkeep
+|turn|31
+|
+|t:|1641857287
+|switch|p2a: Weed|Tangrowth, F, shiny|76/100
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|
+|upkeep
+|turn|32
+|
+|t:|1641857293
+|switch|p2a: Ketamine|Toxapex, M, shiny|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Ketamine
+|-damage|p2a: Ketamine|68/100
+|-damage|p1a: Blissey|84/100|[from] item: Rocky Helmet|[of] p2a: Ketamine
+|
+|upkeep
+|turn|33
+|
+|t:|1641857301
+|move|p2a: Ketamine|Baneful Bunker|p2a: Ketamine
+|-singleturn|p2a: Ketamine|move: Protect
+|move|p1a: Blissey|Seismic Toss|p2a: Ketamine
+|-activate|p2a: Ketamine|move: Protect
+|-status|p1a: Blissey|psn
+|
+|-damage|p1a: Blissey|71/100 psn|[from] psn
+|-sideend|p2: Huile2c0uill3s|move: Light Screen
+|upkeep
+|turn|34
+|
+|t:|1641857319
+|move|p2a: Ketamine|Magic Coat|p2a: Ketamine
+|-singleturn|p2a: Ketamine|move: Magic Coat
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100 psn
+|
+|-damage|p1a: Blissey|88/100 psn|[from] psn
+|-sideend|p2: Huile2c0uill3s|Reflect
+|upkeep
+|turn|35
+|
+|t:|1641857326
+|switch|p2a: Weed|Tangrowth, F, shiny|100/100
+|move|p1a: Blissey|Seismic Toss|p2a: Weed
+|-damage|p2a: Weed|76/100
+|
+|-damage|p1a: Blissey|76/100 psn|[from] psn
+|upkeep
+|turn|36
+|
+|t:|1641857342
+|move|p1a: Blissey|Toxic|p2a: Weed
+|-status|p2a: Weed|tox
+|move|p2a: Weed|Focus Blast|p1a: Blissey|[miss]
+|-miss|p2a: Weed|p1a: Blissey
+|
+|-damage|p1a: Blissey|63/100 psn|[from] psn
+|-damage|p2a: Weed|70/100 tox|[from] psn
+|upkeep
+|turn|37
+|
+|t:|1641857353
+|-curestatus|p1a: Blissey|psn|[from] ability: Natural Cure
+|switch|p1a: Tapu Koko|Tapu Koko|20/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|switch|p2a: Ketamine|Toxapex, M, shiny|100/100
+|
+|upkeep
+|turn|38
+|
+|t:|1641857368
+|move|p1a: Tapu Koko|Roost|p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|70/100
+|-singleturn|p1a: Tapu Koko|move: Roost
+|move|p2a: Ketamine|Scald|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|45/100
+|
+|upkeep
+|turn|39
+|
+|t:|1641857376
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Ketamine
+|-supereffective|p2a: Ketamine
+|-damage|p2a: Ketamine|21/100
+|move|p2a: Ketamine|Scald|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|18/100
+|
+|upkeep
+|turn|40
+|
+|t:|1641857383
+|switch|p2a: Charles de Gaulle|Dragapult, M, shiny|100/100
+|move|p1a: Tapu Koko|U-turn|p2a: Charles de Gaulle
+|-resisted|p2a: Charles de Gaulle
+|-damage|p2a: Charles de Gaulle|89/100
+|
+|t:|1641857386
+|switch|p1a: Blissey|Blissey, F|63/100|[from]move: U-turn
+|
+|upkeep
+|turn|41
+|
+|t:|1641857395
+|move|p2a: Charles de Gaulle|Draco Meteor|p1a: Blissey
+|-damage|p1a: Blissey|32/100
+|-unboost|p2a: Charles de Gaulle|spa|2
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|82/100
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|42
+|
+|t:|1641857402
+|switch|p2a: Ketamine|Toxapex, M, shiny|54/100
+|move|p1a: Blissey|Seismic Toss|p2a: Ketamine
+|-damage|p2a: Ketamine|21/100
+|-damage|p1a: Blissey|65/100|[from] item: Rocky Helmet|[of] p2a: Ketamine
+|
+|upkeep
+|turn|43
+|
+|t:|1641857410
+|move|p2a: Ketamine|Baneful Bunker|p2a: Ketamine
+|-singleturn|p2a: Ketamine|move: Protect
+|move|p1a: Blissey|Toxic|p2a: Ketamine
+|-activate|p2a: Ketamine|move: Protect
+|
+|upkeep
+|turn|44
+|
+|t:|1641857417
+|switch|p2a: Weed|Tangrowth, F, shiny|100/100 tox
+|move|p1a: Blissey|Seismic Toss|p2a: Weed
+|-damage|p2a: Weed|76/100 tox
+|
+|-damage|p2a: Weed|70/100 tox|[from] psn
+|upkeep
+|turn|45
+|
+|t:|1641857424
+|switch|p2a: Ketamine|Toxapex, M, shiny|54/100
+|move|p1a: Blissey|Seismic Toss|p2a: Ketamine
+|-damage|p2a: Ketamine|22/100
+|-damage|p1a: Blissey|49/100|[from] item: Rocky Helmet|[of] p2a: Ketamine
+|
+|upkeep
+|turn|46
+|
+|t:|1641857430
+|switch|p2a: Weed|Tangrowth, F, shiny|100/100 tox
+|move|p1a: Blissey|Seismic Toss|p2a: Weed
+|-damage|p2a: Weed|76/100 tox
+|
+|-damage|p2a: Weed|70/100 tox|[from] psn
+|upkeep
+|turn|47
+|
+|t:|1641857439
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|99/100
+|move|p2a: Weed|Focus Blast|p1a: Blissey|[miss]
+|-miss|p2a: Weed|p1a: Blissey
+|
+|-damage|p2a: Weed|57/100 tox|[from] psn
+|upkeep
+|turn|48
+|
+|t:|1641857447
+|switch|p2a: Ketamine|Toxapex, M, shiny|55/100
+|move|p1a: Blissey|Seismic Toss|p2a: Ketamine
+|-damage|p2a: Ketamine|22/100
+|-damage|p1a: Blissey|82/100|[from] item: Rocky Helmet|[of] p2a: Ketamine
+|
+|upkeep
+|turn|49
+|
+|t:|1641857455
+|move|p2a: Ketamine|Baneful Bunker|p2a: Ketamine
+|-singleturn|p2a: Ketamine|move: Protect
+|move|p1a: Blissey|Seismic Toss|p2a: Ketamine
+|-activate|p2a: Ketamine|move: Protect
+|-status|p1a: Blissey|psn
+|
+|-damage|p1a: Blissey|70/100 psn|[from] psn
+|upkeep
+|turn|50
+|
+|t:|1641857468
+|-curestatus|p1a: Blissey|psn|[from] ability: Natural Cure
+|switch|p1a: Tapu Koko|Tapu Koko|18/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|switch|p2a: Weed|Tangrowth, F, shiny|90/100 tox
+|
+|-damage|p2a: Weed|84/100 tox|[from] psn
+|upkeep
+|turn|51
+|
+|t:|1641857481
+|move|p1a: Tapu Koko|Roost|p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|68/100
+|-singleturn|p1a: Tapu Koko|move: Roost
+|move|p2a: Weed|Giga Drain|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|23/100
+|-heal|p2a: Weed|99/100 tox|[from] drain|[of] p1a: Tapu Koko
+|
+|-damage|p2a: Weed|88/100 tox|[from] psn
+|upkeep
+|turn|52
+|
+|t:|1641857491
+|move|p1a: Tapu Koko|Roost|p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|73/100
+|-singleturn|p1a: Tapu Koko|move: Roost
+|move|p2a: Weed|Knock Off|p1a: Tapu Koko
+|-resisted|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|57/100
+|-enditem|p1a: Tapu Koko|Heavy-Duty Boots|[from] move: Knock Off|[of] p2a: Weed
+|
+|-damage|p2a: Weed|69/100 tox|[from] psn
+|upkeep
+|turn|53
+|
+|t:|1641857498
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Weed
+|-damage|p2a: Weed|17/100 tox
+|move|p2a: Weed|Giga Drain|p1a: Tapu Koko
+|-damage|p1a: Tapu Koko|12/100
+|-heal|p2a: Weed|32/100 tox|[from] drain|[of] p1a: Tapu Koko
+|
+|-damage|p2a: Weed|8/100 tox|[from] psn
+|upkeep
+|turn|54
+|
+|t:|1641857506
+|switch|p2a: Ketamine|Toxapex, M, shiny|55/100
+|move|p1a: Tapu Koko|Roost|p1a: Tapu Koko
+|-heal|p1a: Tapu Koko|62/100
+|-singleturn|p1a: Tapu Koko|move: Roost
+|
+|-fieldend|move: Electric Terrain
+|upkeep
+|turn|55
+|
+|t:|1641857513
+|switch|p2a: Weed|Tangrowth, F, shiny|41/100 tox
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Weed
+|-resisted|p2a: Weed
+|-damage|p2a: Weed|13/100 tox
+|
+|-damage|p2a: Weed|7/100 tox|[from] psn
+|upkeep
+|turn|56
+|
+|t:|1641857520
+|switch|p2a: Ketamine|Toxapex, M, shiny|88/100
+|move|p1a: Tapu Koko|Dazzling Gleam|p2a: Ketamine
+|-resisted|p2a: Ketamine
+|-damage|p2a: Ketamine|75/100
+|
+|upkeep
+|turn|57
+|
+|t:|1641857526
+|switch|p2a: Weed|Tangrowth, F, shiny|40/100 tox
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Weed
+|-resisted|p2a: Weed
+|-damage|p2a: Weed|14/100 tox
+|
+|-damage|p2a: Weed|8/100 tox|[from] psn
+|upkeep
+|turn|58
+|
+|t:|1641857534
+|move|p1a: Tapu Koko|Thunderbolt|p2a: Weed
+|-resisted|p2a: Weed
+|-damage|p2a: Weed|0 fnt
+|faint|p2a: Weed
+|
+|upkeep
+|
+|t:|1641857539
+|switch|p2a: Charles de Gaulle|Dragapult, M, shiny|89/100
+|turn|59
+|
+|t:|1641857554
+|switch|p1a: Blissey|Blissey, F|70/100
+|move|p2a: Charles de Gaulle|U-turn|p1a: Blissey
+|-damage|p1a: Blissey|55/100
+|
+|t:|1641857558
+|switch|p2a: Ketamine|Toxapex, M, shiny|100/100|[from]move: U-turn
+|
+|upkeep
+|turn|60
+|
+|t:|1641857567
+|move|p1a: Blissey|Soft-Boiled|p1a: Blissey
+|-heal|p1a: Blissey|100/100
+|move|p2a: Ketamine|Scald|p1a: Blissey
+|-damage|p1a: Blissey|94/100
+|
+|upkeep
+|turn|61
+|
+|t:|1641857573
+|switch|p1a: Tapu Koko|Tapu Koko|62/100
+|-fieldstart|move: Electric Terrain|[from] ability: Electric Surge|[of] p1a: Tapu Koko
+|move|p2a: Ketamine|Baneful Bunker||[still]
+|-fail|p2a: Ketamine
+|
+|upkeep
+|turn|62
+|-message|Huile2c0uill3s forfeited.
+|
+|win|darthputin
+|raw|darthputin's rating: 1380 &rarr; <strong>1397</strong><br />(+17 for winning)
+|raw|Huile2c0uill3s's rating: 1320 &rarr; <strong>1303</strong><br />(-17 for losing)
+|l|☆Huile2c0uill3s
+|c|☆darthputin|gg loser
+|c|☆darthputin|u suck
+|c|☆darthputin|hahaha
+|c|☆darthputin|ur so bad
+|c|☆darthputin|u literally rely on regenerator
+|c|☆darthputin|lmao
