@@ -51,10 +51,8 @@ def detectPokemonAndPlayers(l, b):
     elif (len(l) > 1 and l[1].strip() == "switch"):
         s = l[2].split(":")
         p = l[3].split(",")
-        if "Urshifu-" in p[0]:
-            p[0] = "Urshifu-*"
-        if "Silvally-" in p[0]:
-            p[0] = "Silvally-*"
+        if "-" in p[0]:
+            p[0] = p[0].split("-")[0]+"-*"
         if "p1" in s[0]:
             b.p1.team[p[0]].nickname = s[1]
         if "p2" in s[0]:
@@ -100,10 +98,8 @@ def turnParser(l, b):
                     if (len(l) >= 3 and l[1].strip() == "switch"):
                         s = l[2].split(":")
                         p = l[3].split(",")
-                        if "Urshifu-" in p[0]:
-                            p[0] = "Urshifu-*"
-                        if "Silvally-" in p[0]:
-                            p[0] = "Silvally-*"
+                        if "-" in p[0]:
+                            p[0] = p[0].split("-")[0]+"-*"
                         if "p1" in s[0]:
                             b.p1.turnactions[turn].append(line)
                         elif "p2" in s[0]:
@@ -111,10 +107,8 @@ def turnParser(l, b):
                     elif (len(l) >= 3 and l[1].strip() == "move"):
                         s = l[2].split(":")
                         p = l[3].split(",")
-                        if "Urshifu-" in p[0]:
-                            p[0] = "Urshifu-*"
-                        if "Silvally-" in p[0]:
-                            p[0] = "Silvally-*"
+                        if "-" in p[0]:
+                            p[0] = p[0].split("-")[0]+"-*"
                         if "p1" in s[0]:
                             b.p1.turnactions[turn].append(line)
                         elif "p2" in s[0]:
@@ -137,10 +131,8 @@ def turnParser(l, b):
                 if (len(l) > 1 and l[1].strip() == "switch"):
                     s = l[2].split(":")
                     p = l[3].split(",")
-                    if "Urshifu-" in p[0]:
-                        p[0] = "Urshifu-*"
-                    if "Silvally-" in p[0]:
-                        p[0] = "Silvally-*"
+                    if "-" in p[0]:
+                        p[0] = p[0].split("-")[0]+"-*"
                     if "p1" in s[0]:
                         b.p1.turnactions.append(line)
                     elif "p2" in s[0]:
